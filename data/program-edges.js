@@ -4128,7 +4128,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2025',
     dateEnd: '2025',
-    note: 'Sixteen-year Air Force veteran; described large objects behaving anomalously and the dismissal witnesses face without transparency.',
+    note: 'Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.',
     sources: [
       {
         name: 'House Oversight - hearing page, 9 Sept 2025',
@@ -22790,7 +22790,7 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'p-aaron-lukas',
+    a: 'aaron-lukas',
     b: 'odni-memo-es-2026-00818',
     type: 'custody',
     label: 'signatory',
@@ -23095,73 +23095,7 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'p-alexandro-wiggins',
-    b: 'hearing-2025-09-09',
-    type: 'witness-chain',
-    label: 'testified',
-    claimTier: 1,
-    dateStart: '2025-09-09',
-    dateEnd: '2025-09-09',
-    note: 'An active-duty Navy Senior Chief with 23 years\' service filed a written statement naming ship, hull number, date, time, warning area and sensor system.',
-    sources: [
-      {
-        name: 'Wiggins Written Statement',
-        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf',
-        date: '2025-09-09'
-      },
-      {
-        name: 'House Oversight, 9 September 2025 hearing page',
-        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
-        date: '2025-09-09'
-      }
-    ]
-  },
-  {
-    a: 'p-jeffrey-nuccetelli',
-    b: 'hearing-2025-09-09',
-    type: 'witness-chain',
-    label: 'testified',
-    claimTier: 1,
-    dateStart: '2025-09-09',
-    dateEnd: '2025-09-09',
-    note: 'Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.',
-    sources: [
-      {
-        name: 'House Oversight, 9 September 2025 hearing page',
-        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
-        date: '2025-09-09'
-      },
-      {
-        name: 'DefenseScoop, 9 September 2025 hearing',
-        url: 'https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/',
-        date: '2025-09-09'
-      }
-    ]
-  },
-  {
-    a: 'p-dylan-borland',
-    b: 'hearing-2025-09-09',
-    type: 'witness-chain',
-    label: 'testified for the first time',
-    claimTier: 1,
-    dateStart: '2025-09-09',
-    dateEnd: '2025-09-09',
-    note: 'Borland described a 2012 Langley AFB encounter and sustained reprisal: \'My professional career was deliberately obstructed.\'',
-    sources: [
-      {
-        name: 'House Oversight, 9 September 2025 hearing page',
-        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
-        date: '2025-09-09'
-      },
-      {
-        name: 'DefenseScoop, 9 September 2025 hearing',
-        url: 'https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/',
-        date: '2025-09-09'
-      }
-    ]
-  },
-  {
-    a: 'p-joe-spielberger',
+    a: 'joe-spielberger',
     b: 'hearing-2025-09-09',
     type: 'institutional',
     label: 'minority witness',
@@ -23178,7 +23112,7 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'p-alexandro-wiggins',
+    a: 'alexandro-wiggins',
     b: 'virginia-coast-uap-2026',
     type: 'temporal',
     label: 'two maritime cases, three years apart, both unresolved',
@@ -32527,7 +32461,7 @@ export const PROGRAM_EDGES = [
   },
   {
     a: 'd-oversight',
-    b: 'l-washington-dc',
+    b: 'l-dc',
     type: 'geographic',
     label: 'Where the hearings happen',
     claimTier: 1,

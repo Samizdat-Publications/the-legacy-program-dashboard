@@ -1,5 +1,20 @@
 [
  {
+  "id": "sean-kirkpatrick",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "He left AARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that "
+ },
+ {
+  "id": "sean-kirkpatrick",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Kirkpatrick directed AARO from 20 July 2022 to 1 December 2023 and joined Oak Ridge National Laboratory in Dec"
+ },
+ {
+  "id": "jon-kosloski",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Appointed 26 August 2024, succeeding acting director Timothy A. Phillips (December 2023 - 26 August 2024)."
+ },
+ {
   "id": "michael-shellenberger",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Shellenberger is co-founder of Public and, as of 2026, on the faculty of the University of Austin."
@@ -20,16 +35,6 @@
   "claim": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell."
  },
  {
-  "id": "sean-kirkpatrick",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "He left AARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that "
- },
- {
-  "id": "sean-kirkpatrick",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Kirkpatrick directed AARO from 20 July 2022 to 1 December 2023 and joined Oak Ridge National Laboratory in Dec"
- },
- {
   "id": "william-lynn",
   "why": "node carries no primary-record URL",
   "claim": "Reid's Restricted SAP request for the program was addressed to Deputy Secretary of Defense William Lynn III on"
@@ -38,11 +43,6 @@
   "id": "william-lynn",
   "why": "node carries no primary-record URL",
   "claim": "A DIA talking paper for a 19 November 2009 4:45pm meeting in SVC-217 records that the Deputy Secretary of Defe"
- },
- {
-  "id": "jon-kosloski",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Appointed 26 August 2024, succeeding acting director Timothy A. Phillips (December 2023 - 26 August 2024)."
  },
  {
   "id": "daniel-sheehan",
@@ -265,54 +265,9 @@
   "claim": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to "
  },
  {
-  "id": "nids",
-  "why": "node carries no primary-record URL",
-  "claim": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute in"
- },
- {
-  "id": "nids",
-  "why": "node carries no primary-record URL",
-  "claim": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal"
- },
- {
-  "id": "nids",
-  "why": "node carries no primary-record URL",
-  "claim": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies "
- },
- {
   "id": "l-skinwalker",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sol"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semiv"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per shar"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Scien"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the "
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements "
  },
  {
   "id": "adam-research-project",
@@ -353,6 +308,111 @@
   "id": "ttsa-army-crada",
   "why": "node carries no primary-record URL",
   "claim": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019"
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "On 22 June 2026 ODNI, with the support of the FBI, announced a UAP Science Advisory Council to undertake furth"
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "The council is led by Dr Avi Loeb and reports to a higher-level UAP Governance Board, an interagency body coor"
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "Named members from the Sol Foundation are Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross"
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "All data shared with the council will be unclassified."
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the "
+ },
+ {
+  "id": "uap-science-advisory-council",
+  "why": "node carries no primary-record URL",
+  "claim": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an intera"
+ },
+ {
+  "id": "aoimsg",
+  "why": "node carries no primary-record URL",
+  "claim": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-c"
+ },
+ {
+  "id": "aoimsg",
+  "why": "node carries no primary-record URL",
+  "claim": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022."
+ },
+ {
+  "id": "l-colorado-springs",
+  "why": "node carries no primary-record URL",
+  "claim": "NORAD and US Northern Command are headquartered at Peterson Space Force Base, Colorado Springs; Cheyenne Mount"
+ },
+ {
+  "id": "l-colorado-springs",
+  "why": "node carries no primary-record URL",
+  "claim": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs."
+ },
+ {
+  "id": "l-ft-meade",
+  "why": "node carries no primary-record URL",
+  "claim": "NSA is headquartered at Fort George G. Meade, Maryland."
+ },
+ {
+  "id": "l-ft-meade",
+  "why": "node carries no primary-record URL",
+  "claim": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024."
+ },
+ {
+  "id": "nids",
+  "why": "node carries no primary-record URL",
+  "claim": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute in"
+ },
+ {
+  "id": "nids",
+  "why": "node carries no primary-record URL",
+  "claim": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal"
+ },
+ {
+  "id": "nids",
+  "why": "node carries no primary-record URL",
+  "claim": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies "
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semiv"
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,"
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per shar"
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Scien"
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the "
+ },
+ {
+  "id": "ttsa",
+  "why": "node carries no primary-record URL",
+  "claim": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements "
  },
  {
   "id": "nyt-2017-12-16",
@@ -418,36 +478,6 @@
   "id": "the-debrief",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023."
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "On 22 June 2026 ODNI, with the support of the FBI, announced a UAP Science Advisory Council to undertake furth"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "The council is led by Dr Avi Loeb and reports to a higher-level UAP Governance Board, an interagency body coor"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "Named members from the Sol Foundation are Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "All data shared with the council will be unclassified."
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the "
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an intera"
  },
  {
   "id": "new-paradigm-institute",
@@ -523,16 +553,6 @@
   "id": "age-of-disclosure-2025",
   "why": "node carries no primary-record URL",
   "claim": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video"
- },
- {
-  "id": "aoimsg",
-  "why": "node carries no primary-record URL",
-  "claim": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-c"
- },
- {
-  "id": "aoimsg",
-  "why": "node carries no primary-record URL",
-  "claim": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022."
  },
  {
   "id": "hr-8197",
@@ -800,16 +820,6 @@
   "claim": "Skinwalker Ranch lies in Uintah County, Utah, southeast of Ballard, bordering the Uintah and Ouray Indian Rese"
  },
  {
-  "id": "l-colorado-springs",
-  "why": "node carries no primary-record URL",
-  "claim": "NORAD and US Northern Command are headquartered at Peterson Space Force Base, Colorado Springs; Cheyenne Mount"
- },
- {
-  "id": "l-colorado-springs",
-  "why": "node carries no primary-record URL",
-  "claim": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs."
- },
- {
   "id": "l-boulder-co",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The Air Force contract with the University of Colorado was announced in October 1966 with initial funding of $"
@@ -988,16 +998,6 @@
   "id": "d-psyop",
   "why": "node carries no primary-record URL",
   "claim": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request"
- },
- {
-  "id": "l-ft-meade",
-  "why": "node carries no primary-record URL",
-  "claim": "NSA is headquartered at Fort George G. Meade, Maryland."
- },
- {
-  "id": "l-ft-meade",
-  "why": "node carries no primary-record URL",
-  "claim": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024."
  },
  {
   "id": "l-uk-mod-whitehall",

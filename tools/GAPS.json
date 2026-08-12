@@ -80,6 +80,34 @@
   "gap": "DIRD 170036 cover title reads 'Laser Lightcraft' with the reading-room filename 'Laser_Lightcraft_Nanosatellites'; full subtitle not captured from the OCR. Minor."
  },
  {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "DoD IG report DODIG-2023-109 ('Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena') could not be located at a primary URL: dodig.mil's audits/evaluations listing now shows only 2026 reports, and Wayback CDX for dodig.mil returns no URL containing 'DODIG-2023-109'. Wave 4."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "NO WAYBACK SNAPSHOT EXISTS: https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/ -- cited by node(s): aawsap-dird-series, colm-kelleher, d-custody, d-exotic, d-program, dird-traversable-wormholes, dird-vacuum-engineering, earthtech-international, eric-davis, harold-puthoff. Checked https and http, with and without trailing slash, anchored at 2024 and 2026; Wayback returns a save-page redirect, meaning zero captures. This citation is live-URL-only and genuinely at risk; needs a substitute primary record."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "NO WAYBACK SNAPSHOT EXISTS: https://www.dodig.mil/About/Leadership/ -- cited by node(s): dodig, platte-moring. Checked https and http, with and without trailing slash, anchored at 2024 and 2026; Wayback returns a save-page redirect, meaning zero captures. This citation is live-URL-only and genuinely at risk; needs a substitute primary record."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "NO WAYBACK SNAPSHOT EXISTS: https://media.defense.gov/2010/Oct/27/2001330256/-1/-1/0/AFD-101027-030.pdf -- cited by node(s): d-roswell, l-roswell, roswell-1947. Checked https and http, with and without trailing slash, anchored at 2024 and 2026; Wayback returns a save-page redirect, meaning zero captures. This citation is live-URL-only and genuinely at risk; needs a substitute primary record."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "No Army-side primary URL exists for the TTSA / U.S. Army CCDC CRADA. Wayback CDX domain sweeps of army.mil, devcom.army.mil, ccdc.army.mil and arl.army.mil (filtered on stars/CRADA) returned no TTSA-related page - the Army never published its own release. The custody chain currently rests entirely on TTSA-published records (now mirrored) plus press statements from a CCDC spokesperson. WAVE 4: try DTIC, an Army CCDC/DEVCOM FOIA reading room, or the Federal Laboratory Consortium CRADA registry for the executed agreement text."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "https://www.arl.army.mil/business/technology-transfer/cradas/49/ (Wayback 2019-12-15) was fetched and inspected as a candidate ARL per-agreement CRADA registry entry; it is a generic paginated CRADA explainer page with no partner list. Not usable as a TTSA citation."
+ },
+ {
+  "domain": "_rs-archive-mirror",
+  "gap": "14 of 121 resolved snapshots initially pointed at captures where the Wayback crawler recorded the origin server 403 (DoD bot-blocking), i.e. a ~2KB error page rather than the document. These were re-resolved via the CDX API filtered to statuscode:200 and replaced. Any future mirroring pass on .mil hosts must verify capture status, not merely capture existence."
+ },
+ {
   "domain": "_rs-legislation",
   "gap": "S.Amdt. 797 cosponsor detail: congress.gov's cosponsor tab is Cloudflare-blocked to non-browser clients and robots-disallowed to WebFetch; the five cosponsors were recovered from the Congressional Record entry (CREC-2023-07-13-pt1-PgS2953) instead. The congress.gov 'Actions (0)' field confirms the amendment was never proposed on the floor, so no roll-call record exists for it - wave 4 should confirm via the conference report whether Division G was dropped by the conferees or by a manager's package."
  },
@@ -158,6 +186,50 @@
  {
   "domain": "_rs-sap-docs",
   "gap": "eCFR section-level URLs (ecfr.gov/current/title-32/.../section-117.6) are the canonical citation but bot-block direct programmatic retrieval; the verbatim text quoted here was pulled from the eCFR renderer API at ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117 on 12 Aug 2026. Both URLs are recorded in sources[]."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "soyuzufotsentr — left as a stub. Not in this pass's assignable set and no official site or primary Russian record for the USSR inter-industry ufology centre was reachable without web search. Wave 4: Russian State Archive / Academy of Sciences holdings, and Azhazha's published affiliations."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "saf-aaz — the dossier rests on AFI 16-701 (18 Feb 2014) retrieved via Internet Archive; the current DAF edition (DAFI 16-701) is not retrievable, static.e-publishing.af.mil returns 403 to automated requests and safaa.hq.af.mil no longer resolves. Wave 4: current DAFI 16-701, and the AF SAPCO's congressional notification records."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "saf-aaz — no primary record was found linking SAF/AAZ to any UAP-specific programme. AARO's Historical Record Report Volume 1 was searched in full text and does not mention SAF/AAZ. The node's relevance is structural (it holds SAP access approval and SAP declassification authority), not evidenced."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "509th-bomb-group — the AFHRA/DAF History lineage fact sheet (article 434118) could not be retrieved; the af.mil fact-sheet endpoints return a search interface rather than the record. Wave 4: AFHRA lineage-and-honors sheet for the 509th Composite/Bomb Group, and the July 1947 unit history itself at NARA."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "izmiran — no primary Russian archival citation for SETKA-AN or for IZMIRAN's role in it was obtained; the SETKA attribution is carried by the Stonehill & Mantle secondary article only. Wave 4: RAS archive, Platov's own published programme history."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "senado-brasil — no primary Senate legislative instrument (projeto, requerimento or hearing record) on UAP was located. The Senate's palavraChave search on the legislative-matters API is deprecated (data desativação 2026-02-01) and the replacement /dadosabertos/processo endpoint ignores keyword filters, returning the full tramitando dump (10,781 records, zero UAP-related ementas). Wave 4: Senate committee requerimento records and the Arquivo Nacional UFO transfer instrument."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "hospital-regional-varginha — the CNES registry confirms the facility but no 1996 hospital, military or police document was obtained. The custody sequence remains testimony-based."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "enigma-labs — the company publishes no founder names, no team page (enigmalabs.io/team returns 404) and no verification methodology; corpus size figures are self-reported."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "wayne-state-university — med.wayne.edu is unreachable to automated fetch (robots endpoint times out); the institutional source used is the main wayne.edu About page. No Wayne State institutional record of Green's appointment was retrieved."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "us-navy — the 2019 Navy UAP reporting-guidance message and the OPNAV/Fleet Forces implementing instruction were not retrieved as primary documents in this pass; only the 27 April 2020 DoD video-release statement."
+ },
+ {
+  "domain": "_rs-stubs-known",
+  "gap": "the-intercept and pogo — both dossiers rest on the organisations' own About pages. Neither has a documented UAP-specific publication or intake recorded here; their board role is infrastructural and is graded Tier 3 as such."
  },
  {
   "domain": "aawsap-aatip",
@@ -1614,5 +1686,9 @@
  {
   "domain": "_remediation",
   "gap": "76 locations have coordinates; the remainder still need geocoding"
+ },
+ {
+  "domain": "_corrections",
+  "gap": "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme."
  }
 ]

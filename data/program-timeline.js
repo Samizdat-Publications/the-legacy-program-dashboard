@@ -2257,7 +2257,7 @@ export const TIMELINE = [
     label: 'Vandenberg incursions during NRO launches (2003-2005)',
     text: 'Jeffrey Nuccetelli\'s testimony describes objects \'like flying buildings\' over a space launch range during National Reconnaissance Office missions, each incident witnessed by multiple personnel, documented, investigated and reported up the chain. No Air Force series exists in RG 615 to hold those reports.',
     tier: '2',
-    node: 'p-jeffrey-nuccetelli'
+    node: 'jeffrey-nuccetelli'
   },
   {
     id: 'tl-2003-0131-foia',
@@ -4812,7 +4812,7 @@ export const TIMELINE = [
     label: 'USS Jackson: a light rising from the waterline',
     text: 'At about 1915 PST in W-291 off Southern California, Senior Chief Alexandro Wiggins observes a self-luminous object emerge from the ocean, join three others, and depart with near-instantaneous acceleration. CIC records it on the ship\'s Star SAFIRE and reports to the Tactical Action Officer.',
     tier: '2',
-    node: 'p-alexandro-wiggins'
+    node: 'alexandro-wiggins'
   },
   {
     id: 'cl-2023-02-16',
@@ -8124,7 +8124,7 @@ export const TIMELINE = [
     label: 'Grusch speaks on the Capitol steps at a Luna press conference',
     text: 'David Grusch tells reporters the government is aware of \'several\' kinds of alien life, describing \'a continuum from corporeal bipedal type life to what I would consider as sentient plasmoid life,\' and references four different species. It is his most specific public claim about biology.',
     tier: '2',
-    node: 'p-david-grusch'
+    node: 'david-grusch'
   },
   {
     id: 'tl-ffrdc-2026-sr14-repub',

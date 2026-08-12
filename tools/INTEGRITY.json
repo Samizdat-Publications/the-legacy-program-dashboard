@@ -54,6 +54,7 @@
   "dird-series->dird-ultracapacitors-as-energy-and-power-storage (programmatic)",
   "dird-series->dird-warp-drive-dark-energy-and-the (programmatic)",
   "dird-series->dird-technological-approaches-to-controlling-external-devices (programmatic)",
+  "aatip->aaro-historical-record-vol1 (programmatic)",
   "usc-10-119e->waived-usap-mechanism (programmatic)",
   "usc-10-119->defense-committees (programmatic)",
   "eo-13526->usc-10-119 (programmatic)",
@@ -129,6 +130,7 @@
   "dird-series->dird-ultracapacitors-as-energy-and-power-storage (programmatic)",
   "dird-series->dird-warp-drive-dark-energy-and-the (programmatic)",
   "dird-series->dird-technological-approaches-to-controlling-external-devices (programmatic)",
+  "aatip->aaro-historical-record-vol1 (programmatic)",
   "usc-10-119e->waived-usap-mechanism (programmatic)",
   "usc-10-119->defense-committees (programmatic)",
   "eo-13526->usc-10-119 (programmatic)",
@@ -148,6 +150,9 @@
   "dod-sapco-arch->sap-annual-report (programmatic)",
   "eo-12829->cfr-32-117 (programmatic)",
   "accm->four-regime-map (programmatic)"
+ ],
+ "person_without_date": [
+  "michael-powers-comptroller"
  ],
  "person_thin_sourcing": [
   {
@@ -196,10 +201,6 @@
   },
   {
    "id": "jonathan-grey",
-   "sources": 1
-  },
-  {
-   "id": "david-abba",
    "sources": 1
   },
   {
@@ -289,114 +290,18 @@
   {
    "id": "william-l-moore",
    "sources": 1
-  },
-  {
-   "id": "aaron-lukas",
-   "sources": 0
   }
- ],
- "person_without_date": [
-  "p-alexandro-wiggins",
-  "p-jeffrey-nuccetelli",
-  "p-dylan-borland",
-  "p-joe-spielberger",
-  "p-aaron-lukas",
-  "steve-feinberg",
-  "william-b-adkins",
-  "mark-skidmore",
-  "catherine-austin-fitts",
-  "laurence-kotlikoff",
-  "steven-aftergood",
-  "brett-mansfield",
-  "platte-moring",
-  "michael-powers-comptroller",
-  "terry-patton",
-  "david-clarke-uk",
-  "gary-anthony-uk",
-  "denis-letty",
-  "bernard-norlain",
-  "andre-lebeau",
-  "jj-velasco",
-  "claude-poher",
-  "pessoa-cavalcanti",
-  "ricardo-bermudez",
-  "sergio-bravo-flores",
-  "mona-nemer",
-  "vladimir-azhazha",
-  "yury-platov",
-  "eduardo-girao",
-  "italo-venturelli",
-  "don-schmitt",
-  "robert-m-wood",
-  "ryan-wood",
-  "richard-dolan",
-  "grant-cameron",
-  "robert-hastings",
-  "robert-salas",
-  "richard-weaver-usaf",
-  "william-l-moore",
-  "john-schuessler",
-  "stan-gordon"
- ],
- "person_without_narrative": [
-  "aaron-lukas"
  ],
  "entity_without_desc": [
-  "pogo",
-  "the-intercept",
-  "saf-aaz",
-  "wayne-state-university",
-  "enigma-labs",
-  "vanderbilt-university",
-  "blue-marble-space-institute",
-  "us-navy",
-  "sheffield-hallam",
-  "canada-dot",
-  "dgac-chile",
-  "ocsa-canada",
-  "soyuzufotsentr",
-  "izmiran",
-  "senado-brasil",
-  "hospital-regional-varginha",
-  "509th-bomb-group"
+  "soyuzufotsentr"
  ],
  "entity_without_source": [
-  "pogo",
-  "the-intercept",
-  "saf-aaz",
-  "wayne-state-university",
-  "enigma-labs",
-  "vanderbilt-university",
-  "blue-marble-space-institute",
-  "us-navy",
-  "sheffield-hallam",
-  "canada-dot",
-  "dgac-chile",
-  "ocsa-canada",
-  "soyuzufotsentr",
-  "izmiran",
-  "senado-brasil",
-  "hospital-regional-varginha",
-  "509th-bomb-group"
- ],
- "timeline_bad_node_ref": [
-  {
-   "id": "tl-grusch-presser",
-   "node": "p-david-grusch"
-  }
+  "soyuzufotsentr"
  ],
  "tierA_underconnected": [
   {
-   "id": "p-alexandro-wiggins",
+   "id": "dodm-5205-07-series",
    "degree": 2
-  },
-  {
-   "id": "p-jeffrey-nuccetelli",
-   "degree": 1
-  },
-  {
-   "id": "p-aaron-lukas",
-   "degree": 1
   },
   {
    "id": "iaa-fy2024-7343",
@@ -405,10 +310,6 @@
   {
    "id": "ndaa26-uap-provisions",
    "degree": 1
-  },
-  {
-   "id": "dodm-5205-07-series",
-   "degree": 2
   }
  ]
 }

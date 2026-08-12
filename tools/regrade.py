@@ -24,11 +24,87 @@ The overlay approach matters: the research files stay untouched, so a later wave
 re-run this with different weights without anything having been destructively edited.
 """
 
-import json, os, re
+import json, os, re, sys, subprocess
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BOARD = os.path.join(ROOT, "data", "the-program.json")
+PRISTINE = os.path.join(ROOT, "tools", "_pristine-board.json")
+OVERLAY = os.path.join(ROOT, "research", "_remediation.json")
+
+
+def pristine_board():
+    """Score the research corpus, NOT the board this script previously remediated.
+
+    This script writes research/_remediation.json, which merge.py folds into
+    data/the-program.json as an authoritative overlay. If we then read that merged
+    board back, every fix we already made looks like it was always there:
+    `if p.get("date"): continue` skips the 40 dates recovered last run, we emit an
+    overlay carrying only the 5 we can still derive, and the next merge silently
+    drops the other 35. The documented rebuild sequence therefore destroyed data
+    on every run — 35 dates and a tier-rank shuffle, confirmed by diffing a
+    rebuild against the shipped board on 2026-08-12.
+
+    Re-merging without the overlay makes this script a pure function of research/
+    and idempotent by construction, which is what the module docstring always
+    claimed it was.
+    """
+    env = dict(os.environ, MERGE_SKIP="_remediation", MERGE_JSON_OUT=PRISTINE)
+    r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "merge.py")],
+                       env=env, stdout=subprocess.DEVNULL)
+    if r.returncode != 0 or not os.path.exists(PRISTINE):
+        sys.exit("regrade: pristine merge failed — refusing to score a remediated board")
+    return json.load(open(PRISTINE, encoding="utf-8"))
+
+
+def guard_no_data_loss(new, board):
+    """Refuse to write an overlay that would drop a field from the FINAL board.
+
+    The failure this exists to catch was silent: the build printed success, every
+    patch applied, and 35 dates went to null. Loud and early beats correct-looking.
+
+    Compare effective values (pristine value, else overlay value) rather than raw
+    overlay entries. An overlay legitimately shrinks when the underlying research
+    starts carrying a field itself — that is the fix working, not data loss, and a
+    guard that cannot tell the two apart would just get switched off.
+    """
+    if not os.path.exists(OVERLAY):
+        return
+    try:
+        old = json.load(open(OVERLAY, encoding="utf-8"))
+    except Exception:
+        return
+    base = {n["id"]: n for n in board["people"] + board["entities"]}
+
+    def effective(overlay, key, field):
+        out = {}
+        for rid, rec in base.items():
+            if rec.get(field):
+                out[rid] = rec[field]
+        for r in overlay.get(key, []):
+            if r.get(field):
+                out[r["id"]] = r[field]
+        return out
+
+    lost = []
+    for key in ("people", "entities"):
+        for field in ("date", "coords", "tier"):
+            eff_old = effective(old, key, field)
+            eff_new = effective(new, key, field)
+            for rid, val in eff_old.items():
+                if rid in base and not eff_new.get(rid):
+                    lost.append(f"{key}/{rid}.{field} = {val!r}")
+    if lost:
+        print(f"\n!! REGRADE ABORTED — the new overlay drops {len(lost)} field(s) the "
+              f"previous one supplied:", file=sys.stderr)
+        for l in lost[:20]:
+            print("     " + l, file=sys.stderr)
+        if len(lost) > 20:
+            print(f"     ... and {len(lost) - 20} more", file=sys.stderr)
+        print("   research/_remediation.json was NOT written. This is the "
+              "non-idempotency guard;\n   see pristine_board() for what it is "
+              "protecting against.\n", file=sys.stderr)
+        sys.exit(1)
 
 # Target distribution. Tier A is meant to be "named in sworn testimony or primary
 # documents as directly inside the program" — that is a minority position by definition.
@@ -143,20 +219,15 @@ GAZETTEER = {
     "l-stockholm": (59.3293, 18.0686, "Stockholm, Sweden"),
 }
 
-ID_MERGES = {"l-washington-dc": "l-dc"}
-
-
-def normalise_id(i):
-    if i in ID_MERGES:
-        return ID_MERGES[i]
-    # strip a stray p- prefix on person ids, but never on p-named real entities
-    if re.match(r"^p-[a-z]+-[a-z]", i):
-        return i[2:]
-    return i
+# Single source of truth. These two scripts each having their own copy of the id
+# rules is exactly how the five duplicate people got onto the board: regrade
+# normalised, merge did not, and merge created the normalised id as a new node.
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from merge import canonical_id as normalise_id, ID_MERGES  # noqa: E402
 
 
 def main():
-    board = json.load(open(BOARD, encoding="utf-8"))
+    board = pristine_board()
     people, entities, edges = board["people"], board["entities"], board["edges"]
     nodes = people + entities
     by_id = {n["id"]: n for n in nodes}
@@ -255,8 +326,8 @@ def main():
         "edges": [], "timeline": [], "entityInfo": {},
         "gaps": [f"{len(GAZETTEER)} locations have coordinates; the remainder still need geocoding"],
     }
-    json.dump(out, open(os.path.join(ROOT, "research", "_remediation.json"), "w",
-                        encoding="utf-8"), indent=1, ensure_ascii=False)
+    guard_no_data_loss(out, board)
+    json.dump(out, open(OVERLAY, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
 
     dist = Counter(r["tier"] for r in overlay_people + overlay_entities)
     json.dump({"moved": report,

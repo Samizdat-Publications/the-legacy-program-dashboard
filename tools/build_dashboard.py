@@ -1399,6 +1399,57 @@ def main():
         "timeline header copy", 1)
     ok_all &= ok
 
+    # ---- 4r. person plate name formatter ----------------------------------
+    # The parent board took the last whitespace token as the surname and the first
+    # token's initial. Its 14 people were all plain `First Last`. This board has 246,
+    # 16 of whom carry a generational suffix, an honorific, or a quoted alias — and
+    # the naive split renders them meaninglessly:
+    #
+    #   'Dr. Jesse A. Marcel Jr.'     -> JR., D.
+    #   'James R. Clapper Jr.'        -> JR., J.
+    #   'John Greenewald Jr.'         -> JR., J.
+    #   'William J. Lynn III'         -> III, W.
+    #   'Matthew Louis Gaetz II'      -> II, M.
+    #   "'UAP Gerb' (Sam)"            -> (SAM), '.
+    #   '"Jonathan Grey" (pseudonym)' -> (PSEUDONYM), ".
+    #
+    # Five separate people rendered as some variant of "JR., J." — indistinguishable
+    # on the map and in the dock. Verified on the shipped board 2026-08-12.
+    s, ok = must_replace(s,
+        "      const parts = n.label.split(' ');\n"
+        "      n.short = (parts[parts.length - 1] + ', ' + parts[0][0] + '.').toUpperCase();",
+        "      /* Surname + initial, tolerant of suffixes, honorifics and aliases.\n"
+        "         Drops trailing generational suffixes, leading titles, and any\n"
+        "         parenthesised or quoted alias before choosing the surname. A name\n"
+        "         that survives none of that falls back to the whole label rather\n"
+        "         than to a fragment — a wrong name is worse than a long one. */\n"
+        "      const SUFFIX = /^(jr|sr|ii|iii|iv|v|phd|md|esq|ret)\\.?$/i;\n"
+        "      const TITLE  = /^(dr|mr|mrs|ms|prof|maj|gen|col|lt|capt|cmdr|cdr|adm|sgt|rep|sen|hon|brig|gral|general|de|brigada|a\\u00e9rea)\\.?$/i;\n"
+        "      let parts = n.label.replace(/[\\u201c\\u201d\\u2018\\u2019\"']/g, '')\n"
+        "                         .replace(/\\([^)]*\\)/g, ' ')\n"
+        "                         .split(/\\s+/).filter(Boolean);\n"
+        "      while (parts.length > 1 && SUFFIX.test(parts[parts.length - 1])) parts.pop();\n"
+        "      while (parts.length > 1 && TITLE.test(parts[0])) parts.shift();\n"
+        "      if (!parts.length) parts = [n.label];\n"
+        "      const last  = parts[parts.length - 1];\n"
+        "      const first = parts.length > 1 ? parts[0][0] + '.' : '';\n"
+        "      n.short = (first ? last + ', ' + first : last).toUpperCase();",
+        "person plate name formatter", 1)
+    ok_all &= ok
+
+    # ---- 4s. DETAIL empty-state names five classes; this board has eight ---
+    # Inherited copy. `document` and `event` are frequently the most connected nodes
+    # here (aaro-historical-record-vol1 carries 18 denials), so telling the reader
+    # they are not clickable is both wrong and points them away from the evidence.
+    s, ok = must_replace(s,
+        "Five entity classes are clickable: people, institutions, programmes, "
+        "locations and research domains.",
+        "Eight entity classes are clickable: people, institutions, programmes, "
+        "locations, research domains, legislation, documents and events. On this "
+        "board the document is often the load-bearing object.",
+        "detail empty-state class count", 1)
+    ok_all &= ok
+
     # ---- branding ---------------------------------------------------------
     for old, new, label, cnt in [
         ("The Vanishing", "The Program", "title", s.count("The Vanishing")),

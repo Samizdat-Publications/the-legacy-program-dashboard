@@ -12,7 +12,7 @@ export const INSTITUTIONS = [
   {
     id: 'aaro',
     cls: 'institution',
-    label: 'aaro',
+    label: 'All-domain Anomaly Resolution Office (AARO)',
     cluster: 'other',
     sub: 'DoD office established 2022; author of the official AAWSAP history',
     desc: 'AARO is the Department of Defense\'s authoritative office for UAP, established by memorandum of Deputy Secretary of Defense Kathleen Hicks on 15 July 2022 and announced 20 July 2022. The memorandum disestablished the Airborne Object Identification and Management Synchronization Group, directed the Secretary of the Navy to disestablish the UAP Task Force and transfer its data and materials to AARO, and placed AARO under the Under Secretary of Defense for Intelligence and Security. Congress then codified it in the James M. Inhofe National Defense Authorization Act for FY2023, signed 23 December 2022, with statutory authority and reporting obligations now at 50 U.S.C. 3373 and 3373a. In summer 2023, weeks after David Grusch testified, Hicks pulled the office out of the USD(I&S) chain and made its director report directly to her. Read as containment, AARO\'s design is the point: a single office with department-wide UAP cognizance, staffed at \'several dozen\' personnel, without subpoena authority, without an independent press function, reporting to the deputy head of the department whose special access programmes it would have to penetrate to answer the question it exists to answer. Its outputs are consistent across three directors: annual reports whose resolved cases are always prosaic, whose unresolved cases are always attributed to insufficient sensor data, and whose central sentence never varies - no verifiable evidence of extraterrestrial beings, activity, or technology. Its holdings reached 1,870 total UAP reports as of 30 May 2025. Its one genuine investigative product on the historical question, the Historical Record Report, stopped after Volume I; Volume II - the volume the Department told the Wall Street Journal would contain the Yankee Blue findings - remains unpublished as of August 2026. By 2026 the office had been overtaken by its own department: the PURSUE releases at war.gov/UFO put more primary UAP material into the public record in three months than AARO had in four years.',
@@ -24,7 +24,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 3 of 976, score 164). 62 connections, 6 of them custody/witness/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 3 of 970, score 164). 62 connections, 6 of them custody/witness/funding/programmatic, 11 official denials recorded against it. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -252,7 +252,7 @@ export const INSTITUTIONS = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 20 of 976, score 97). 14 connections, 8 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 20 of 970, score 97). 14 connections, 8 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -428,7 +428,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 96 of 976, score 56). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 96 of 970, score 56). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -537,7 +537,7 @@ export const INSTITUTIONS = [
   {
     id: 'dcsa-nisp',
     cls: 'institution',
-    label: 'dcsa-nisp',
+    label: 'DCSA as DoD Cognizant Security Office under the NISP',
     cluster: 'other',
     sub: 'agency',
     desc: 'DCSA, the successor to the Defense Security Service, is designated by 32 CFR 117.6(b)(1) as the DoD Cognizant Security Office. It administers the National Industrial Security Program \'as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services\' and \'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD\'. It issues facility clearances for defense contractors \'to include contractors performing on DoD SAPs\'. It is the only recurring, external, adversarial security inspection that a cleared contractor facility receives - and it is the entity that the carve-out provision at 32 CFR 117.6(b)(3) switches off by a signature of the Secretary or Deputy Secretary of Defense. DCSA\'s own performance without any carve-out was found wanting by GAO in 2004: GAO-04-332 concluded that DoD \'cannot provide adequate assurances that its oversight ensures the protection of classified information\' at contractor facilities. The report is doubly relevant because GAO expressly excluded SAPs from the review at the request of committee staff - so the only public audit of the industrial security inspection system deliberately did not look at the programs the board cares about.',
@@ -549,7 +549,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 152 of 976, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 152 of 970, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -633,7 +633,7 @@ export const INSTITUTIONS = [
   {
     id: 'dod-sapco-arch',
     cls: 'institution',
-    label: 'dod-sapco-arch',
+    label: 'DoD Special Access Program Central Office (DoD SAPCO)',
     cluster: 'other',
     sub: 'oversight-body',
     desc: 'DoD SAPCO is established by directive \'under the authority, direction, and control of the Deputy Secretary of Defense\' and is \'the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs\'; its Director \'shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense\'. The 2013 instruction adds that the Director \'Functions as the DoD single point of Congressional liaison concerning SAPs\', chairs the SSWG, vice-chairs the SRG, serves as Executive Secretary of the SAPOC, establishes the criteria for the annual review of waived SAPs, establishes \'policies and applicable procedures to satisfy reporting requirements for DSS carve-outs\', and provides \'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions\'. The 2024 reissue keeps the reporting line to the Deputy Secretary and makes the Director the \'primary point of contact for SAP matters with ... the Legislative Branch\'. The structural consequence is that a single office, whose director is appointed by and reports to the official who signs waivers and carve-outs, sits between every DoD special access program and every member of Congress, and is the office that must be notified whenever anyone accessed to a DoD SAP briefs a member. No DoD SAPCO director has ever testified in open session, and the identity of the incumbent director is not published.',
@@ -645,7 +645,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 59 of 976, score 68). 6 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 59 of 970, score 68). 6 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -744,7 +744,7 @@ export const INSTITUTIONS = [
   {
     id: 'sapoc',
     cls: 'institution',
-    label: 'sapoc',
+    label: 'Special Access Program Oversight Committee (SAPOC)',
     cluster: 'other',
     sub: 'oversight-body',
     desc: 'The SAPOC was established by DoD Directive 5205.07 on 1 July 2010 to \'advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs\', and it survives in the 12 September 2024 reissue as \'the senior governing body of the DoD SAP Enterprise\'. Under the 2013 instruction its chair is the Deputy Secretary of Defense, its vice-chair the Under Secretary of Defense for Acquisition, Technology and Logistics, and its executive secretary the Director of DoD SAPCO; its general membership is the Under Secretaries for Policy, Comptroller/CFO, Intelligence, and Personnel and Readiness, the Vice Chairman of the Joint Chiefs of Staff, the DoD Chief Information Officer, the General Counsel of the Department, the Director of Cost Assessment and Program Evaluation, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps. Its three primary functions are to review issues on which the Senior Review Group could not reach unanimity, to ensure combatant command warfighting needs are reflected in SAP programmatics and budgets, and - the function that matters here - to \'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees\'. In other words, the document Congress receives about special access programs is written and validated by a committee of roughly eighteen senior officials of the Department the report is about, chaired by the same official who signs the carve-outs. This is the body whose membership a witness alleging concealment would have to say was either complicit or itself deceived; DoD\'s own directive makes that a binary with no third option.',
@@ -756,7 +756,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 179 of 976, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 179 of 970, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -835,7 +835,7 @@ export const INSTITUTIONS = [
   {
     id: 'srg-dod',
     cls: 'institution',
-    label: 'srg-dod',
+    label: 'Senior Review Group (DoD SAP governance)',
     cluster: 'other',
     sub: 'oversight-body',
     desc: 'The Senior Review Group is described in DoDI 5205.11 as \'the principal working-level body executing the governance process and performing oversight and management of DoD SAPs\', and its unanimous recommendations \'may be forwarded directly to the DepSecDef for decision\' - bypassing the SAPOC entirely. It is chaired by the Principal Deputy Under Secretary of Defense for Acquisition, Technology and Logistics, vice-chaired by the Director of DoD SAPCO and with the Deputy Director of DoD SAPCO as executive secretary; its members are the primary or alternate representatives designated in writing by each SAPOC member, with the Army, Navy and Air Force each casting a single vote. It convenes at the direction of the Deputy Secretary to review proposals to establish or disestablish SAPs, designate cognizant and oversight authorities, remove DoD programs from special access controls, apportion SAPs into and out of integrated joint special technical operations, alter the scope, category or type of a SAP, approve the use of DoD resources to support DoD and non-DoD SAPs, and review foreign access and participation. Two of its enumerated functions are decisive for this board: it \'Reviews all waived DoD SAPs annually\' and provides recommendations on continued waived status, and it \'Ensures the accuracy of the SAP list submitted to Congress prior to submission of the SAP annual report\'. If a waived program existed that was not on the list submitted to Congress, the SRG is the body that would have had to certify a list it knew to be incomplete - or the body from which the program was itself concealed.',
@@ -847,7 +847,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 191 of 976, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 191 of 970, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -911,7 +911,7 @@ export const INSTITUTIONS = [
   {
     id: 'sswg',
     cls: 'institution',
-    label: 'sswg',
+    label: 'SAP Senior Working Group (SSWG)',
     cluster: 'other',
     sub: 'oversight-body',
     desc: 'The SSWG is the lowest of the three governance tiers and the one that sees a prospective program first: under the PSAP timeline, the SSWG reviews a prospective SAP no later than fourteen days after its establishment, performing programmatic deconfliction and validation and producing a written recommendation. It \'serves as the senior program protection forum to coordinate, deconflict, and integrate special programs; address SAP policy, oversight, and management; and provide recommendations to the SRG\'. It is chaired by the Director of DoD SAPCO, with members the SAPCO Directors of USD(I), USD(P), USD(AT&L), the Army, Air Force, Navy, Marine Corps, the Joint Staff, DARPA and the Missile Defense Agency, plus representatives of DCAPE, the DoD CIO, the Comptroller and the General Counsel. The presence of DARPA and MDA SAPCO directors on the deconfliction forum is worth noting for the board: those are two of the organisations most frequently named in retrieval and exploitation allegations, and their SAP control offices sit at the table where every new program is deconflicted against every existing one.',
@@ -923,7 +923,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 254 of 976, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 251 of 970, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -982,7 +982,7 @@ export const INSTITUTIONS = [
   {
     id: 'dia',
     cls: 'institution',
-    label: 'dia',
+    label: 'Defense Intelligence Agency',
     cluster: 'other',
     sub: 'Combat support agency; AAWSAP/AATIP executive agent',
     desc: 'DIA is the agency that took the Reid appropriation, wrote the requirement, awarded the contract, ran the program office, reviewed the deliverables, refused the Special Access Program request, terminated the effort, and then spent fifteen years releasing the paperwork a few dozen pages at a time under FOIA. Its Defense Warning Office housed James Lacatski, its Virginia Contracting Activity (ZD50) issued solicitation HHM402-08-R-0211, and its Records Management and Information Services chief signed the January 2018 letter that gave the Senate Armed Services Committee its first inventory of the program. DIA\'s institutional posture across the record is consistently minimising: its 13 November 2009 memorandum found \'insufficient grounds to classify this open program\'; its late-2010 memorandum to USD(AT&L) said the reports were \'of limited value to DIA\'; it withheld the BAASS contract entirely in a 2011 FOIA response before releasing it in 2022; it reported no records located for the June 2007 Lacatski-to-Bigelow letter; and it redacted the program manager\'s name under 10 USC 424 from every release even though DIA itself had published that name in the public bid notice. Against that posture stands DIA\'s own 30 October 2009 quality review, which found the reports so good that \'all of the reviews were positive, some exceptionally so\' — including reviews by three Sandia National Laboratories staff. DIA is the custodian of the AAWSAP record and the principal author of the gaps in it.',
@@ -994,7 +994,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 28 of 976, score 87). 13 connections, 5 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 28 of 970, score 87). 13 connections, 5 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -1058,7 +1058,7 @@ export const INSTITUTIONS = [
   {
     id: 'norad-northcom',
     cls: 'institution',
-    label: 'norad-northcom',
+    label: 'NORAD and US Northern Command',
     cluster: 'other',
     sub: 'Homeland air defence combatant command',
     desc: 'The command responsible for detecting and defeating air threats to North America, and the institution whose public statements since 2023 constitute the government\'s most damaging admissions on the observational record. NORAD counted more than 600 drone reports above US military installations since 2022. Its commander since February 2024, Gen. Gregory Guillot, made counter-UAS the centrepiece of a 90-day assessment driven by the Langley incursions, established the Falcon Peak counter-drone demonstration series, and stated on the record that he knew of no \'organized or unorganized foreign nexus\' to Langley. In February 2023 NORAD-controlled fighters destroyed three unidentified objects over Alaska, the Yukon and Lake Huron in four days, none of which were recovered intact and two of which an allied government\'s own Secret memorandum described as unverified as to function and propulsion. By March 2026 Guillot confirmed detections over installations had increased year on year with roughly a quarter defeated. A homeland air defence command that cannot attribute persistent intrusions over its own bomber and fighter bases is the strongest available argument that the observational record is a live national-security problem rather than a historical curiosity.',
@@ -1070,7 +1070,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 517 of 976, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 515 of 970, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -1109,7 +1109,7 @@ export const INSTITUTIONS = [
   {
     id: 'dopsr',
     cls: 'institution',
-    label: 'dopsr',
+    label: 'Defense Office of Prepublication and Security Review',
     cluster: 'other',
     sub: 'DoD office reviewing official information proposed for public release',
     desc: 'DOPSR reviews material that current and former DoD-affiliated personnel propose to publish, and clears or withholds it strictly on security grounds. It is the office that cleared Grusch\'s statements for open publication on 4 and 6 April 2023 under the records released in FOIA case 23-F-0946. The significance is structural: DOPSR\'s clearance is not an endorsement of truth, and Grusch said so under oath, reminding the public that DOPSR looks only at security. But it establishes that the Department reviewed the specific words in advance and did not find that they disclosed classified information - which is a difficult position to hold simultaneously with the claim that the words describe programs that do not exist. Either the statements touched nothing real, in which case there was nothing to protect, or they touched something real and were released anyway. DOPSR still holds the full text of Grusch\'s submitted answers, withheld from FOIA release under exemption (b)(6).',
@@ -1121,7 +1121,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 271 of 976, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 268 of 970, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -1185,7 +1185,7 @@ export const INSTITUTIONS = [
   {
     id: 'battelle',
     cls: 'institution',
-    label: 'battelle',
+    label: 'Battelle Memorial Institute',
     cluster: 'other',
     sub: 'Private nonprofit applied science institute, Columbus, Ohio, est. 1929; operator or co-operator of PNNL, ORNL, INL, NREL, Brookhaven and NBACC',
     desc: 'Battelle is the oldest and most persistent institution on this board, and the only one that appears at both ends of the eighty-year arc. In 1952 the Air Force contracted Battelle to run the statistical analysis of Project Blue Book\'s UFO data under the codename Project Stork; the result, Project Blue Book Special Report No. 14, dated 5 May 1955, was the largest quantitative study of UFO reports ever performed and found that the best-documented cases were the ones least likely to be explained. On 9 January 1953, five days before the Robertson Panel convened, Battelle\'s Air Force liaison H. C. Cross wrote the memorandum Jacques Vallee later codenamed \'Pentacle\', proposing that different types of aerial activity be secretly and purposefully scheduled in areas of high UFO reporting. Battelle also performed Wright-Patterson-sponsored metallurgical work on nickel-titanium alloys in 1948-49, the research lineage from which nitinol shape-memory alloy emerged, and researchers including Anthony Bragalia have argued since 2009 that the corresponding Battelle reports are missing from both Air Force and Battelle archives. Battelle today is the largest contractor-operator of DOE national laboratories in the country: sole operator of Pacific Northwest National Laboratory under contract DEAC0576RL01830, a management-and-operating relationship recorded on USAspending at more than 30 billion dollars since 1978; co-operator of Oak Ridge through UT-Battelle LLC; operator of Idaho National Laboratory through Battelle Energy Alliance; and a partner in NREL and Brookhaven. In 2022 AARO contracted Oak Ridge - a UT-Battelle laboratory - to test the magnesium alloy specimen alleged to originate from a 1947 crash. In 2024 MITRE hired Battelle\'s executive vice president for laboratory management, Mark Peters, as its chief executive. In December 2023 AARO\'s first director, Sean Kirkpatrick, left government for Oak Ridge. The institution that analysed the Air Force\'s UFO data in 1952 is the institution that analysed the Pentagon\'s UFO material in 2022, and it supplied the chief executive of the corporation Congress is now interrogating. That is not a coincidence that needs explaining away; it is a structure that needs mapping.',
@@ -1197,7 +1197,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 37 of 976, score 81). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 36 of 970, score 81). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -1306,7 +1306,7 @@ export const INSTITUTIONS = [
   {
     id: 'oak-ridge-national-laboratory',
     cls: 'institution',
-    label: 'oak-ridge-national-laboratory',
+    label: 'Oak Ridge National Laboratory (UT-Battelle, LLC)',
     cluster: 'other',
     sub: 'DOE FFRDC administered by UT-Battelle, LLC since 1 April 2000; Oak Ridge, TN; contract DEAC0500OR22725',
     desc: 'Oak Ridge is where the modern government sent the material. In 2022 the All-domain Anomaly Resolution Office contracted ORNL to conduct materials testing on a magnesium alloy specimen publicly alleged to have come from a crashed extraterrestrial vehicle in 1947 and to exhibit extraordinary properties. ORNL\'s findings were published as \'ORNL Synopsis: Analysis of a Metallic Specimen\' in April 2024 and released publicly in July 2024: the specimen was a terrestrial magnesium alloy, though neither AARO nor ORNL could verify the specimen\'s historical origin, and records of failed magnesium alloy designs from the relevant era were described as scant. ORNL is administered by UT-Battelle, LLC - a partnership of the University of Tennessee and Battelle Memorial Institute - under DOE contract DEAC0500OR22725, recorded on USAspending at approximately 42.3 billion dollars across the life of the contract, and was funded at roughly 2.09 billion dollars in FY2024. In December 2023, AARO\'s founding director Sean Kirkpatrick left government and immediately became Chief Technology Officer for Defense and Intelligence Programs at ORNL - the laboratory that had performed AARO\'s materials analysis on his watch. That the government\'s only publicly acknowledged analysis of alleged recovered material was performed by a Battelle-operated laboratory, and that the official who commissioned it then went to work there, is the single most concrete instance on this board of the FFRDC layer absorbing both the evidence and the officials.',
@@ -1318,7 +1318,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 112 of 976, score 50). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 112 of 970, score 50). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -1377,7 +1377,7 @@ export const INSTITUTIONS = [
   {
     id: 'icig',
     cls: 'institution',
-    label: 'icig',
+    label: 'Inspector General of the Intelligence Community',
     cluster: 'other',
     sub: 'Statutory IC watchdog, ODNI',
     desc: 'Created by the FY2010 Intelligence Authorization Act and first led by Charles McCullough III, the ICIG administers the urgent-concern channel by which an IC employee may transmit an allegation to the congressional intelligence committees over the head of their agency. It is the office that received Grusch\'s 25 May 2022 complaint, filed by McCullough himself, and it is the office that determined in July 2022 that the complaint was credible and urgent. Thomas A. Monheim has led it since 2021. In the Grusch matter the ICIG is simultaneously the validating authority and, per the reprisal complaint, the point at which the complainant\'s identity allegedly escaped the protected channel into DoD and IC hands. Grusch also testified to a structural gap in the office\'s reach: it had no smooth way to route his disclosure to the House and Senate Armed Services Committees despite Title 10 equities, which means the committees with jurisdiction over DoD special access programs may never have received the substance.',
@@ -1389,7 +1389,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 312 of 976, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 310 of 970, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -1423,7 +1423,7 @@ export const INSTITUTIONS = [
   {
     id: 'atic',
     cls: 'institution',
-    label: 'atic',
+    label: 'Air Technical Intelligence Center',
     cluster: 'other',
     sub: 'USAF technical intelligence centre, Wright-Patterson AFB',
     desc: 'The Air Technical Intelligence Center, established in 1951 out of the Air Materiel Command intelligence organisation (T-2) at Wright Field, was the United States\' centre for the exploitation of foreign aerospace technology. It was the organisation that processed the Operation Paperclip haul, that dismantled and reverse-engineered captured Soviet and German airframes, and that was institutionally designed to answer exactly one question: what is this thing and how does it work. Every official UFO project of the legacy era — SIGN, GRUDGE and Blue Book — was hosted here, which is a fact usually reported as an administrative detail and is in fact the central structural point of this domain. The United States did not assign unidentified flying objects to a science agency, an academic body or an air-defence command; it assigned them to the shop that takes recovered hardware apart. ATIC became the Foreign Technology Division in 1961 and later the National Air and Space Intelligence Center, which remains at Wright-Patterson today. It also issued Blue Book Special Report No. 14 in 1955 and was the terminal analytical node under AFR 200-2. If a legacy recovery and exploitation effort existed, ATIC and its successors are the institutional address, and its 1947-1951 T-2 intelligence files have never been subject to a comprehensive declassification review.',
@@ -1435,7 +1435,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 192 of 976, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 192 of 970, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -1484,7 +1484,7 @@ export const INSTITUTIONS = [
   {
     id: 'thunder-scientific',
     cls: 'institution',
-    label: 'thunder-scientific',
+    label: 'Thunder Scientific Corporation',
     cluster: 'other',
     sub: 'Albuquerque instrumentation firm founded by Paul Bennewitz; USAF customer base',
     desc: 'The humidity and temperature calibration instrumentation company Paul Bennewitz founded and ran in Albuquerque, located on property with sightlines to the eastern boundary of Kirtland Air Force Base, including the Manzano Weapons Storage Area. Thunder Scientific was a legitimate technical firm whose customers included the US Air Force - which is exactly what makes the Bennewitz case unusual and unusually damning. The man AFOSI ran a multi-year disinformation operation against was not a hobbyist. He was a credentialed physicist running an instrumentation business that sold to the Air Force, with the technical capability to record and characterise electromagnetic emissions, positioned with a clear line of sight to a nuclear weapons storage complex. That combination - technical competence, physical proximity to the sensitive site, and a documented USAF vendor relationship - is what he was equipped to bring to the problem, and it is what the operation against him neutralised.',
@@ -1496,7 +1496,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 880 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 875 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -1530,7 +1530,7 @@ export const INSTITUTIONS = [
   {
     id: 'uap-science-advisory-council',
     cls: 'institution',
-    label: 'uap-science-advisory-council',
+    label: 'UAP Science Advisory Council',
     cluster: 'other',
     sub: 'ODNI/FBI advisory body, est. 2026',
     desc: 'Announced on 15 June 2026, the UAP Science Advisory Council is the first standing outside scientific advisory body the US government has assembled on this subject. It was, per the Skeptics Society announcement, \'formed at the request of the White House and in coordination with the All-domain Anomaly Resolution Office (AARO), the Office of the Director of National Intelligence (ODNI), the FBI, and other agencies\'. Avi Loeb chairs it. Loeb\'s own Medium account of 29 June 2026 says \'over the past week, I was tasked by the above organizations to create a research team\', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identifies a core team of Richard Cloete (data analysis and AI), Regina Sarmiento (data management with AI), Matthew Szydagis (instrumentation and data collection), Devesh Nandal (numerical analysis and astrophysics) and Omer Eldadi (data management, AI and human psychology). The Skeptics Society listed eleven members including Tim Gallaudet, Garry Nolan, Peter Skafish, Michael Shermer and Jennice Vilhauer; The Sol Foundation described a fourteen-member council reporting to a higher-level UAP Governance Board coordinating across military, law enforcement and intelligence agencies, with all shared data unclassified; the statistician Liberty Vittert was also appointed. The Associated Press reported on 30 June 2026 that the council has no budget and no access to classified material, and The Guardian reported that scientific observers regarded the membership as \'apparently similar minds\'. Two things about it matter for this board. First, its personnel came almost entirely from the private technical layer this domain catalogues - Sol, Galileo, UAPx - rather than from federal laboratories or FFRDCs. Second, a body with no money and no clearances cannot examine recovered material, cannot audit a special access programme, and cannot compel anything: it is an advisory council constituted to advise on the unclassified record, which is the part of the record nobody disputes.',
@@ -1542,7 +1542,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 67 of 976, score 65). 14 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 67 of 970, score 65). 14 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -1707,7 +1707,7 @@ export const INSTITUTIONS = [
   {
     id: 'mcdonnell-douglas',
     cls: 'institution',
-    label: 'mcdonnell-douglas',
+    label: 'McDonnell Douglas Corporation',
     cluster: 'other',
     sub: 'Prime contractor 1967-1997; Astronautics Company, Huntington Beach',
     desc: 'McDonnell Douglas is the earliest documented case of a prime contractor studying the phenomenon on its own money. Robert M. Wood, a Cornell physics PhD who spent his career at the company\'s Astronautics division in Southern California, ran a company-funded study of unidentified craft and their propulsion out of the Huntington Beach facility in the late 1960s. The rationale he has described is the commercial one and it is the rationale that makes this domain coherent: if the propulsion were real, an aerospace prime could not afford to be the last to know. Nothing about that study was reported to Congress, because nothing required it to be - it was internal corporate research, the same category that DoD Instruction 3204.01 would later formalise as independent research and development, recoverable as an indirect expense on government contracts, and that David Grusch would name under oath in 2023 as the mechanism by which UAP work is funded outside oversight. The company merged into Boeing in 1997. No McDonnell Douglas internal record of the study has been released, and the corporate archive of the Huntington Beach organisation has never been searched by any congressional committee.',
@@ -1719,7 +1719,7 @@ export const INSTITUTIONS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 547 of 976, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 544 of 970, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -1753,7 +1753,7 @@ export const INSTITUTIONS = [
   {
     id: 'aaro-2026-posture',
     cls: 'institution',
-    label: 'aaro-2026-posture',
+    label: 'AARO in 2025-2026 - Kosloski\'s office as PURSUE\'s silent partner',
     cluster: 'other',
     sub: 'Director Dr. Jon T. Kosloski; homepage points to war.gov/UFO',
     desc: 'AARO\'s public posture in the current cycle is defined by what its own homepage does. The office is led by Dr. Jon T. Kosloski, previously of the National Security Agency\'s Research Directorate, with bachelor\'s degrees in mathematics and physics from California State University San Bernardino and a Johns Hopkins PhD in electrical engineering on quantum optics devices for receiving weak phase-encoded signals - a signals-intelligence physicist running the government\'s UAP office. AARO\'s Leaders page names him alone; no deputy, chief scientist or historian is publicly identified. The homepage carries a promotional banner for \'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)\' that links out to war.gov/UFO, and a second banner for \'UAP Records from NARA\' that links out to archives.gov. The statutory UAP office therefore signposts users to two release channels it does not control and away from its own EFOIA Reading Room. Its own UAP Records page lists NARA, the 2023 NASA independent study, and the DHS KONA BLUE material, and makes no mention of Historical Record Report Volume II. AARO\'s stated mission remains unchanged: \'Minimize technical and intelligence surprise by synchronizing scientific, intelligence, and operational detection identification, attribution, and mitigation of unidentified anomalous phenomena in the vicinity of national security areas.\' The office\'s substantive 2025-2026 activity has been analytic and convening rather than disclosive: an invite-only workshop of roughly forty government, academic and independent researchers in the Washington DC area in early August 2025, hosted by Associated Universities, Inc. and sponsored by AARO, on standardising the capture and study of UAP data, which the Department neither announced beforehand nor published an attendee list for.',
@@ -1765,7 +1765,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 334 of 976, score 31). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 332 of 970, score 31). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -1817,7 +1817,7 @@ export const INSTITUTIONS = [
   {
     id: 'blackvault-pursue-archive',
     cls: 'institution',
-    label: 'blackvault-pursue-archive',
+    label: 'The Black Vault searchable PURSUE files archive',
     cluster: 'other',
     sub: 'Launched 11 May 2026, three days after Release 01; the de facto public index',
     desc: 'John Greenewald\'s Black Vault published a searchable archive of the Department of War\'s UAP release three days after the first tranche appeared, on 11 May 2026, with a 2.0GB bulk download option. It exists because the government\'s own release is not usable. Greenewald\'s account of the defects is specific and damning: many of the released PDFs were password-protected, which prevented optical character recognition and made them poorly searchable or entirely unsearchable; the Black Vault removed the password restrictions, ran OCR, generated text files, transcripts and video subtitles, and added agency categorisation and related-record linking that the releasing authority did not provide. That is a private researcher supplying, at his own expense and within seventy-two hours, the index, the metadata and the searchability of a federal release programme. Two consequences follow. First, the practical public record of PURSUE is a third-party mirror, not war.gov. Second, the password protection is an affirmative act: a released PDF does not become password-protected by accident, and the effect - though not necessarily the intent - was to publish documents in a form that resists machine reading, bulk analysis and cross-referencing, which are precisely the operations that would reveal patterns across seventy years of files.',
@@ -1829,7 +1829,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 839 of 976, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 834 of 970, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -1864,7 +1864,7 @@ export const INSTITUTIONS = [
   {
     id: 'dod',
     cls: 'institution',
-    label: 'dod',
+    label: 'United States Department of Defense (secondary designation: Department of War)',
     cluster: 'other',
     sub: 'Executive department; owner of the SAP enterprise and of every alleged recovery compartment',
     desc: 'The Department of Defense is the institution inside which every alleged element of a legacy recovery and reverse-engineering effort must, by law, sit: the Special Access Program enterprise, the service laboratories, the combat support agencies, and the contracting vehicles that move money to industry. It is also the institution that has produced the entire official denial record. As of 2026 the Department describes itself on its own site as having a budget of $841.4 billion, roughly 3.4 million personnel, and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary. On 5 September 2025 President Trump signed Executive Order 14347, \'Restoring the United States Department of War\', authorising \'Department of War\' and \'Secretary of War\' as secondary designations for use in official correspondence and non-statutory documents while expressly providing that \'Statutory references to the Department of Defense ... shall remain controlling until changed subsequently by the law\'; the order directed the Secretary to recommend within 60 days the legislative actions needed to make the rename permanent. The Department\'s UAP posture runs through three successive offices - the Unidentified Aerial Phenomena Task Force, AOIMSG, and since July 2022 the All-domain Anomaly Resolution Office - and through a press-guidance function that has issued the operative denials of Luis Elizondo\'s AATIP role and of David Grusch\'s retrieval allegations. The single most important structural fact about DoD for this board is that the Department\'s own SAP reporting statute, 10 U.S.C. 119, permits the Secretary to waive the reporting of any special access program to the defense committees and instead notify only the chairman and ranking member of each committee - a lawful mechanism by which a program can be run with four members of Congress notified and no one else, which is precisely the mechanism Grusch alleges was abused.',
@@ -1876,7 +1876,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 16 of 976, score 106). 27 connections, 2 of them custody/witness/funding/programmatic, 16 official denials recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 16 of 970, score 106). 27 connections, 2 of them custody/witness/funding/programmatic, 16 official denials recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -1940,7 +1940,7 @@ export const INSTITUTIONS = [
   {
     id: 'dod-sapco',
     cls: 'institution',
-    label: 'dod-sapco',
+    label: 'DoD Special Access Program Central Office (DoD SAPCO)',
     cluster: 'other',
     sub: 'Central management office for all DoD special access programs; reports to the Deputy Secretary of Defense',
     desc: 'DoD SAPCO is the exact mechanism at issue on this board. Under DoD Directive 5205.07, reissued 12 September 2024 (cancelling the 1 July 2010 version and incorporating the Deputy Secretary of Defense \'SAP Enterprise Reform\' memorandum of 11 July 2023), the Special Access Program Central Office operates \'under the authority, direction, and control of the Deputy Secretary of Defense\', with a Director who must be a general officer, flag officer, or member of the Senior Executive Service and who reports directly to DEPSECDEF. The Director is the proponent for SAP policy, executive secretary of the Department\'s SAP governance committees - the Special Access Program Oversight Committee and the Senior Review Group - the primary interagency point of contact for SAP matters, and the office that \'coordinates congressional engagement\' on SAPs. Every Office of the Secretary of Defense component, military department and defense agency runs its own subordinate OA SAPCO. Directive 5205.07 also imposes the rule that matters most to this record: personnel must \'notify the Director, DoD SAPCO and OA SAPCO directors\' before briefing Congress or congressional staff with SAP material, and no contractor may provide SAP material to Congress without specific approval. That is a legally mandated chokepoint sitting between a program manager and an oversight committee. If a legacy recovery and exploitation effort is carried in the SAP architecture, DoD SAPCO holds the list, the accreditation records, the personnel access rosters and the classification guides for it, and DoD SAPCO is the office that would have to be bypassed for a whistleblower to reach a member of Congress lawfully. AARO\'s March 2024 historical report states that AARO \'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description\' and that \'AARO investigators have been granted full access to all pertinent sensitive USG programs\' - a claim of completeness that rests entirely on the SAPCO enterprise having handed over a complete list. No independent verification of that list has been produced to Congress or the public.',
@@ -1952,7 +1952,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 113 of 976, score 50). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 113 of 970, score 50). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2011,7 +2011,7 @@ export const INSTITUTIONS = [
   {
     id: 'odni',
     cls: 'institution',
-    label: 'odni',
+    label: 'Office of the Director of National Intelligence',
     cluster: 'other',
     sub: 'Head of the 18-element Intelligence Community; co-signatory of the UAP reporting regime',
     desc: 'ODNI was created by the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108-458) and stood up on 22 April 2005, placing a Director of National Intelligence above the Intelligence Community elements that had previously answered to the Director of Central Intelligence. For the UAP record ODNI is the co-author of the modern disclosure regime: the Senate Select Committee on Intelligence\'s report accompanying the Intelligence Authorization Act for FY2021 directed the DNI, in consultation with the Secretary of Defense, to deliver a report on unidentified aerial phenomena, and on 25 June 2021 ODNI published \'Preliminary Assessment: Unidentified Aerial Phenomena\'. That nine-page document analysed 144 reports from USG sources, of which 80 involved multiple sensors, and sorted them into five explanatory categories - airborne clutter, natural atmospheric phenomena, USG or U.S. industry developmental programs, foreign adversary systems, and a catch-all \'other\'. Its contributor list is itself an intelligence product: USD(I&S), DIA, FBI, NRO, NGA, NSA, the Air Force, the Army, the Navy and ONI, DARPA, FAA, NOAA, ODNI\'s National Intelligence Manager for Emerging and Disruptive Technology, the National Counterintelligence and Security Center and the National Intelligence Council. ODNI thereafter became a statutory annual reporter on UAP under successive intelligence authorisation acts and NDAAs, and it is one of the four agencies whose records NARA identified in its 24 April 2025 release into the statutory UAP Collection. ODNI is also the parent of the Intelligence Community Inspector General, whose finding that David Grusch\'s complaint was \'credible and urgent\' is the single most consequential procedural act in the modern record.',
@@ -2023,7 +2023,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 114 of 976, score 50). 13 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 114 of 970, score 50). 13 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2077,7 +2077,7 @@ export const INSTITUTIONS = [
   {
     id: 'nro',
     cls: 'institution',
-    label: 'nro',
+    label: 'National Reconnaissance Office',
     cluster: 'other',
     sub: 'Overhead reconnaissance agency whose existence was itself classified for 31 years',
     desc: 'The NRO is the proof-of-concept for the central claim of this board: that the United States can build, fund and operate a multi-billion-dollar agency for three decades while denying that it exists. Established in 1961 as a joint DoD-CIA activity under a classified DoD directive, the very fact of the NRO\'s existence was a classified fact until the Deputy Secretary of Defense authorised its disclosure in September 1992; before that, the agency\'s name could not lawfully be spoken in an unclassified setting, its budget was hidden inside the National Reconnaissance Program, and its headquarters construction at Westfields, Virginia became a congressional scandal in 1994 precisely because the appropriators had not understood what they were funding. The NRO develops, acquires, launches and operates the nation\'s overhead reconnaissance systems; as of 2026 its published leadership is Acting Director William B. Adkins, and it describes its workforce as 31 percent NRO cadre, 34 percent government personnel detailed from other agencies and 35 percent military. For this board the NRO matters three times over. First, as precedent: an agency concealed for 31 years is the working template for concealment at scale. Second, as a collector: ODNI\'s 2021 Preliminary Assessment lists the NRO among the contributing elements, meaning NRO overhead systems have produced UAP-relevant data. Third, as the employer of the principal witness: David Grusch appeared before the House Oversight Committee on 26 July 2023 under the title \'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense\' - Grusch\'s access to the UAP Task Force was as the NRO\'s representative to it, which places the NRO inside the chain of custody of the modern allegation rather than outside it.',
@@ -2089,7 +2089,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 107 of 976, score 52). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 108 of 970, score 52). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2143,7 +2143,7 @@ export const INSTITUTIONS = [
   {
     id: 'nsa',
     cls: 'institution',
-    label: 'nsa',
+    label: 'National Security Agency',
     cluster: 'other',
     sub: 'Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum',
     desc: 'NSA was established on 4 November 1952 by a classified memorandum from President Truman, and like the NRO it spent its early decades as an agency whose name the government preferred not to confirm. Its place in the UAP record is defined by a single piece of litigation that is still the most instructive FOIA case in the field. In Citizens Against UFO Secrecy v. National Security Agency, Civil Action No. 80-1562 in the District Court for the District of Columbia, CAUS sought NSA\'s UFO holdings; NSA responded by locating a body of responsive material and withholding it in its entirety, supporting the withholding with a classified in camera affidavit executed by Eugene F. Yeates, Chief of NSA\'s Office of Policy. The public version of the Yeates affidavit was released only in heavily redacted form - the district court reviewed the full text ex parte, the D.C. Circuit affirmed in 1981, and the Supreme Court denied certiorari in 1982. The operative fact is not that NSA won; it is what NSA\'s own filings conceded in order to win: that the Agency held UFO-related documents, that they were classified, and that the number and nature of them could not be disclosed even to a federal judge in open session. NSA has since released a set of these documents in redacted form, and it appears among the contributing elements listed in ODNI\'s June 2021 Preliminary Assessment on UAP - confirming that NSA signals collection continues to produce UAP-relevant reporting four decades after it told a court it could not describe what it held.',
@@ -2155,7 +2155,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 256 of 976, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 253 of 970, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2204,7 +2204,7 @@ export const INSTITUTIONS = [
   {
     id: 'nga',
     cls: 'institution',
-    label: 'nga',
+    label: 'National Geospatial-Intelligence Agency',
     cluster: 'other',
     sub: 'Combat support agency and IC element for geospatial intelligence; successor to NIMA and the Defense Mapping Agency',
     desc: 'NGA is the Intelligence Community\'s geospatial intelligence element and a Department of Defense combat support agency, created as the National Imagery and Mapping Agency in 1996 out of the Defense Mapping Agency, the Central Imagery Office and CIA\'s National Photographic Interpretation Center, and renamed the National Geospatial-Intelligence Agency in the FY2004 National Defense Authorization Act. Its relevance to this board is exploitation rather than collection: NGA is the agency that turns NRO overhead product and commercial imagery into analysed geospatial intelligence, which makes it the natural custodian of any imagery-derived record of anomalous objects and of any imagery-derived record of a recovery operation. NGA is named among the contributing elements to ODNI\'s 25 June 2021 Preliminary Assessment on UAP, and AARO\'s March 2024 historical report lists NGA among the agencies at which it conducted research. NGA has not published a UAP-specific FOIA collection, has not appeared as a witness at any UAP hearing, and has not been the subject of any published FOIA litigation on the subject - a silence that is itself a research gap rather than an answer, because the agency\'s product line is precisely the kind that would resolve a claim about objects and installations on the ground.',
@@ -2216,7 +2216,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 439 of 976, score 27). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 437 of 970, score 27). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2260,7 +2260,7 @@ export const INSTITUTIONS = [
   {
     id: 'oni',
     cls: 'institution',
-    label: 'oni',
+    label: 'Office of Naval Intelligence',
     cluster: 'other',
     sub: 'Established 1882; the nation\'s longest-serving intelligence agency; parent of the UAP Task Force',
     desc: 'ONI describes itself as \'America\'s premier maritime intelligence service and a core element of the U.S. Navy\'s Information Warfare Community\', established in 1882 and \'the nation\'s longest-serving intelligence agency\', headquartered at 4251 Suitland Road, Washington DC. Its centrality to the modern UAP record is structural: the encounters that reopened the subject were Navy encounters - the 2004 Nimitz events off Southern California and the 2014-2015 Roosevelt events off the Atlantic coast - and when the Deputy Secretary of Defense formalised the government\'s response on 4 August 2020, the Unidentified Aerial Phenomena Task Force was established under the cognisance of the Under Secretary of Defense for Intelligence and Security with the Department of the Navy designated to lead it, which placed the Task Force in ONI\'s institutional orbit. ONI is named in ODNI\'s 2021 Preliminary Assessment among the contributing elements, listed there as \'Navy/ONI\'. ONI is also the agency that has given the most explicit public confirmation that classified UAP holdings exist: in responses to FOIA requests concerning the Nimitz encounter, ONI stated that the responsive material included briefing documents and video classified at the TOP SECRET/SCI level and withheld them in full. That is a formal agency assertion, in writing, that a body of TOP SECRET/SCI UAP material exists - the same category of admission the NSA made in 1980, made forty years later by a different service.',
@@ -2272,7 +2272,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 274 of 976, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 271 of 970, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2317,7 +2317,7 @@ export const INSTITUTIONS = [
   {
     id: 'doe',
     cls: 'institution',
-    label: 'doe',
+    label: 'United States Department of Energy',
     cluster: 'other',
     sub: 'Successor to the Atomic Energy Commission; holder of Restricted Data authority independent of the executive classification system',
     desc: 'DOE is the single most important agency on this board that has never testified about UAP, because DOE holds a classification authority that no executive order can reach. Created by the Department of Energy Organization Act of 1977 as successor to the Atomic Energy Commission and the Energy Research and Development Administration, DOE administers the Restricted Data and Formerly Restricted Data categories created by the Atomic Energy Act of 1954 - information that is \'born classified\' by statute, outside the Executive Order 13526 framework, and therefore outside any presidential declassification directive that operates only on national security information. A president can order the release of UAP files under EO 13526; he cannot, by executive order alone, release Restricted Data. DOE\'s semi-autonomous National Nuclear Security Administration, established by Congress in 2000, runs the weapons complex: Los Alamos, Sandia and Lawrence Livermore national laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago of guarded, instrumented, contractor-operated facilities with independent security regimes, its own police force, its own clearance system (the Q clearance) and a demonstrated capability to store and analyse anomalous material under a cover story. DOE\'s documented UAP footprint is old and specific: the 1948-1951 green fireball flap centred on Los Alamos and Sandia, prompting the February 1949 Los Alamos conference attended by Edward Teller, Lincoln LaPaz and AEC and Air Force personnel and the subsequent Project TWINKLE instrumented observation effort; the 1980 Kirtland AFB/Manzano Weapons Storage Area intrusions adjacent to the nuclear stockpile; and the modern materials-analysis work performed for AARO at Oak Ridge National Laboratory. AARO\'s Historical Record Report records only that \'AARO sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP\' - a records request, not an inspection. No DOE official has ever testified at a UAP hearing.',
@@ -2329,7 +2329,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 56 of 976, score 70). 17 connections, 4 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 56 of 970, score 70). 17 connections, 4 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2398,7 +2398,7 @@ export const INSTITUTIONS = [
   {
     id: 'dhs',
     cls: 'institution',
-    label: 'dhs',
+    label: 'United States Department of Homeland Security',
     cluster: 'other',
     sub: 'Cabinet department created 2002; the department that stood up and then killed KONA BLUE',
     desc: 'DHS was established in 2002, \'combining 22 different federal departments and agencies into a unified, integrated Cabinet agency\' with more than 260,000 employees, and its Office of Intelligence and Analysis is a full element of the Intelligence Community. For most of its existence DHS had no visible role in the UAP question. That changed with the declassification of KONA BLUE. According to the joint AARO/DHS paper \'History and Origin of KONA BLUE\', KONA BLUE was \'a Prospective Special Access Program (PSAP) that had been proposed to DHS leadership but was never approved or formally established\'; in 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a PSAP, and approximately six months later the DHS Deputy Secretary disapproved and terminated it. AARO\'s Historical Record Report Volume I states that after DIA cancelled AAWSAP/AATIP in 2012 \'its supporters proposed to DHS that they create and fund a new version\' to \'restart UAP investigations, paranormal research (including alleged human consciousness anomalies) and reverse-engineer any recovered off-world spacecraft\', that interviewees claimed KONA BLUE \'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics\', and that \'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding\'. AARO\'s reading is that KONA BLUE proves the recovery narrative was a proposal that got rejected; the opposite reading, which the same document supports, is that a compartment to hold recovered non-human material was requested at Under Secretary level, formally stood up as a prospective program, and killed only when it reached the Deputy Secretary. DHS is also, per AARO, one of the three special access program control office enterprises - DoD, IC and DHS - with which AARO says it partnered to review named programs.',
@@ -2410,7 +2410,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 101 of 976, score 54). 6 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 103 of 970, score 54). 6 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2469,7 +2469,7 @@ export const INSTITUTIONS = [
   {
     id: 'afosi',
     cls: 'institution',
-    label: 'afosi',
+    label: 'Air Force Office of Special Investigations',
     cluster: 'other',
     sub: 'Air Force felony investigative and counterintelligence field agency; the documented author of a UFO disinformation operation',
     desc: 'AFOSI is the Air Force\'s independent criminal investigative and counterintelligence field agency, established in 1948 on the FBI model, whose remit it states covers \'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud, drug use and distribution, financial misdeeds, military desertion, corruption of the contracting process, and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense\', with units \'located at most Air Force bases worldwide\'. AFOSI matters to this board because it is the one component of the US government whose participation in a UFO disinformation campaign is documented from the government\'s own files and admitted by the officer who ran it. Between 1980 and 1983 AFOSI Special Agent Richard C. Doty, working out of the Kirtland Air Force Base detachment during the Manzano Weapons Storage Area intrusion investigations, fed fabricated documents about crash retrievals, alien liaison and a programme called AQUARIUS to the Albuquerque physicist Paul Bennewitz, who was conducting his own surveillance of the base perimeter; Bennewitz\'s mental collapse is the documented outcome. The AFOSI Kirtland file, released under FOIA and archived by NICAP, is the primary record; Doty\'s later personnel file, released in 321 pages by the New Mexico State Police under the state\'s Inspection of Public Records Act, is the corroborating one; and Doty has repeatedly acknowledged on the record that he passed disinformation under orders. The Bennewitz operation is the reason no claim in this field can be evaluated without asking who benefits from the claimant being believed. It also cuts the other way, and this is the part usually omitted: a counterintelligence agency does not build a bespoke disinformation apparatus around a private citizen with a telescope unless something at the perimeter of that installation was worth protecting. In September 2025 the Wall Street Journal reported an alleged Air Force practice codenamed YANKEE BLUE, in which personnel were said to have been shown fabricated material about recovered craft as a loyalty or security test; the Pentagon first denied that any such memo existed and then, in December 2025, reopened the search for it.',
@@ -2481,7 +2481,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 143 of 976, score 45). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 143 of 970, score 45). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2560,7 +2560,7 @@ export const INSTITUTIONS = [
   {
     id: 'afrl',
     cls: 'institution',
-    label: 'afrl',
+    label: 'Air Force Research Laboratory',
     cluster: 'other',
     sub: 'Single Air Force science and technology laboratory, headquartered at Wright-Patterson AFB, Ohio',
     desc: 'AFRL was created on 31 October 1997 by consolidating the four Air Force laboratories - Wright, Phillips, Rome and Armstrong - and the Air Force Office of Scientific Research into a single organisation headquartered at Wright-Patterson Air Force Base, Ohio. Its geography is its significance. Wright-Patterson is the installation named in every crash-retrieval account since July 1947; it housed the Air Materiel Command that generated Lieutenant General Nathan Twining\'s 23 September 1947 memorandum finding that \'the phenomenon reported is something real and not visionary or fictitious\'; it housed the Air Technical Intelligence Center and its successor the Foreign Technology Division, the organisations that ran Projects SIGN, GRUDGE and BLUE BOOK and that exploited recovered foreign aerospace hardware; and it houses AFRL today, together with the National Air and Space Intelligence Center. AFRL is therefore the modern incumbent of the exact institutional function - foreign materiel exploitation and advanced propulsion research at Wright-Patterson - that the legacy program allegation describes. AFRL\'s directorates include the Aerospace Systems Directorate and the Munitions Directorate; it manages a large classified portfolio and a large university and contractor research base. No AFRL official has testified at a UAP hearing, and no AFRL UAP-specific FOIA release has been published.',
@@ -2572,7 +2572,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 382 of 976, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 379 of 970, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 2,
@@ -2611,7 +2611,7 @@ export const INSTITUTIONS = [
   {
     id: 'darpa',
     cls: 'institution',
-    label: 'darpa',
+    label: 'Defense Advanced Research Projects Agency',
     cluster: 'other',
     sub: 'Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment',
     desc: 'DARPA describes itself as \'an independent research and development agency within the U.S. Department of War\' and states it was \'Created in response to the launch of Sputnik in 1957\' as \'our nation\'s commitment to never again face a strategic technical surprise\'. It runs six technical offices, and its published budget figures as of 2026 are a President\'s FY2027 request of $5.039 billion against an FY2026 enacted level of $4.322 billion. DARPA\'s relevance to this board is twofold and mostly negative-space. First, it is named among the contributing elements to ODNI\'s June 2021 Preliminary Assessment on UAP - the only pure R&D organisation on that list, which implies it was consulted on the \'USG or U.S. industry developmental programs\' explanatory category, the category that exists to reconcile UAP reports against black aerospace projects. Second, DARPA is the institutional counterfactual against which the legacy program allegation is measured: DARPA is what an American breakthrough-technology effort looks like when it is run in the open, with named program managers on fixed terms, published solicitations and a public budget. Any organisation performing eighty years of exotic materials exploitation without producing a single DARPA-style transition to a fielded system is either failing or is structured to avoid exactly that visibility.',
@@ -2623,7 +2623,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 639 of 976, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 634 of 970, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -2663,7 +2663,7 @@ export const INSTITUTIONS = [
   {
     id: 'oversight-congress',
     cls: 'institution',
-    label: 'oversight-congress',
+    label: 'Congressional oversight of special access programs',
     cluster: 'other',
     sub: 'The statutory oversight mechanism, and the hole in it',
     desc: 'Congressional oversight of the Department\'s most sensitive activities is not a general power; it is a specific statutory scheme with a specific, legally sanctioned exception, and the exception is the whole story. Under 10 U.S.C. 119 the Secretary of Defense must report annually by 1 March to the four defense committees on every special access program, giving for each a brief description, major milestones, actual historical costs and estimated costs through the succeeding four fiscal years, and must notify the committees by 1 February of any newly designated SAP, and must notify them thirty days before initiating a new SAP. But subsection (e) permits the Secretary to waive that reporting where he determines disclosure would harm national security; in that case \'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.\' Eight members of Congress, and no one else. Layered on top of that is DoD Directive 5205.07, which requires any person briefing Congress with SAP material to notify the Director, DoD SAPCO first, and bars contractors from providing SAP material to Congress at all without approval. Layered on top of that is the practical gate described by Chairwoman Luna in September 2025, under which a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to see specific material. The result is a structure in which the number of people who can lawfully learn of a waived unacknowledged program is small, fixed, and selected by the department being overseen - and in which a member who suspects a program exists cannot ask for it by name because, as Representative Mace put it, \'if you do not know it, you cannot get the information.\' This is the mechanism David Grusch alleges was used, and it is a mechanism that does not require anyone to break the law.',
@@ -2675,7 +2675,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 237 of 976, score 36). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 237 of 970, score 36). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2729,7 +2729,7 @@ export const INSTITUTIONS = [
   {
     id: 'eop',
     cls: 'institution',
-    label: 'eop',
+    label: 'Executive Office of the President',
     cluster: 'other',
     sub: 'The White House staff apparatus; source of classification authority and of the 2026 disclosure directives',
     desc: 'The Executive Office of the President was created by Reorganization Act authority in 1939 and is the apparatus through which presidential classification authority is exercised: the National Security Council, established by the National Security Act of 1947, the Office of Management and Budget, which builds and conceals the black budget inside the President\'s request, and the Office of Science and Technology Policy. The classification system that governs almost all UAP material is a creature of executive order - currently Executive Order 13526 - which means the President can unilaterally declassify it, and the fact that no President did so for seventy-eight years is a datum about the presidency, not about the material. Successive administrations have touched the file: the Truman administration through the 1947-1952 Air Force projects, the Eisenhower administration through the Robertson Panel, the Carter administration through a 1977 White House inquiry, and the Clinton administration through John Podesta\'s push for declassification. In 2026 the EOP became the principal engine of the record: on 19-20 February 2026 the President directed the Pentagon and federal agencies to identify and release UAP and extraterrestrial files, a separate directive addressed the waiver of UAP-related nondisclosure agreements, and the Department of War stood up the PURSUE release portal at war.gov/UFO, publishing its first tranche on 8 May 2026. Executive Order 14347 of 5 September 2025 - the Department of War renaming order - is a reminder of the same power in a different register: the President can rename the department that holds the files by signature, but he cannot by signature reach Restricted Data held under the Atomic Energy Act.',
@@ -2741,7 +2741,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 315 of 976, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 313 of 970, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2800,7 +2800,7 @@ export const INSTITUTIONS = [
   {
     id: 'nara-uap-collection',
     cls: 'institution',
-    label: 'nara-uap-collection',
+    label: 'National Archives Unidentified Anomalous Phenomena Records Collection (Record Group 615)',
     cluster: 'other',
     sub: 'Statutory records collection under sections 1841-1843 of Public Law 118-31',
     desc: 'The UAP Records Collection is what survived the Unidentified Anomalous Phenomena Disclosure Act. Sections 1841 to 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the creation at the National Archives of a collection of United States Government records relating to unidentified anomalous phenomena, modelled on the JFK Assassination Records Collection - but stripped in conference of the independent review board with subpoena power and of the eminent domain provision that would have compelled private holders of recovered material to surrender it. NARA established the collection as Record Group 615 and announced on 24 April 2025 that it had released records transferred from four agencies - the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission - and that it \'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis\'. The composition of that first transfer is itself evidence: two of the four contributing agencies are civilian regulators. Absent from the transfer are CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments - that is, every agency with custody proximity. The collection is nonetheless the correct measurable for this board, because it is the one place where a statutory obligation to produce records collides with the agencies alleged to be holding them, and because any presidential declassification directive must eventually deposit here.',
@@ -2812,7 +2812,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 66 of 976, score 66). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 66 of 970, score 66). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -2866,7 +2866,7 @@ export const INSTITUTIONS = [
   {
     id: 'dhs-st',
     cls: 'institution',
-    label: 'dhs-st',
+    label: 'DHS Science and Technology Directorate',
     cluster: 'other',
     sub: 'DHS research and development component; the office that established KONA BLUE as a prospective SAP',
     desc: 'The Science and Technology Directorate is the Department of Homeland Security\'s research and development arm, and it is the specific office inside DHS at which the post-AAWSAP recovery program proposal landed. According to the joint AARO/DHS paper \'History and Origin of KONA BLUE\', in 2011 \'the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP\' - a Prospective Special Access Program - and approximately six months later the DHS Deputy Secretary disapproved it and terminated it, so that KONA BLUE was \'never approved or formally established\'. AARO\'s Historical Record Report adds that the proposal was to \'restart UAP investigations, paranormal research (including alleged human consciousness anomalies) and reverse-engineer any recovered off-world spacecraft\', that interviewees described it as \'a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics\', and that \'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding\'. S&T is therefore the only office in the United States government for which there is a released government document stating that it created, however briefly and however provisionally, a compartment intended to hold recovered non-human material. The identity of the Under Secretary who signed is not stated in the released paper; the identity of the Deputy Secretary who killed it is not stated either. Those two names are the highest-value outstanding FOIA targets in this domain.',
@@ -2878,7 +2878,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 290 of 976, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 287 of 970, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2923,7 +2923,7 @@ export const INSTITUTIONS = [
   {
     id: 'nnsa',
     cls: 'institution',
-    label: 'nnsa',
+    label: 'National Nuclear Security Administration',
     cluster: 'other',
     sub: 'Semi-autonomous DOE agency established by Congress in 2000; operator of the nuclear weapons complex',
     desc: 'NNSA is \'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science\', established by Congress in 2000 in the wake of the Wen Ho Lee security failures at Los Alamos. It operates the weapons complex through management and operating contracts: Los Alamos National Laboratory, Sandia National Laboratories, Lawrence Livermore National Laboratory, the Nevada National Security Site, the Pantex Plant, the Y-12 National Security Complex, the Kansas City National Security Campus and the Savannah River Site. Every one of those facilities is contractor-operated on government-owned land, carries an armed protective force, operates under DOE\'s own clearance regime rather than the DoD\'s, and holds material under Restricted Data authority. NNSA is thus the single most capable custodial architecture in the United States government for material that must be stored, guarded, machined and analysed without appearing in any Department of Defense special access program list. The historical UAP record intersects it repeatedly: the 1948-1951 green fireball events centred on LosAlamos, Sandia and the Kirtland complex; the 1980 Manzano Weapons Storage Area intrusions; the persistent identification of the Nevada Test Site and its S-4 area in retrieval testimony; and the modern use of DOE laboratory analytical capability for AARO\'s materials work.',
@@ -2935,7 +2935,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 440 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 438 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2965,7 +2965,7 @@ export const INSTITUTIONS = [
   {
     id: 'dod-oig',
     cls: 'institution',
-    label: 'dod-oig',
+    label: 'Department of Defense Office of Inspector General',
     cluster: 'other',
     sub: 'Statutory independent oversight body within DoD; author of DODIG-2023-109',
     desc: 'The DoD Office of Inspector General is the Department\'s statutory internal watchdog, created by the Inspector General Act, and it is the body that produced the only formal audit of the Department\'s UAP conduct. On 15 August 2023 - three weeks after David Grusch\'s testimony - the DoD OIG issued DODIG-2023-109, \'Evaluation of the DoD\'s Actions Regarding Unidentified Anomalous Phenomena\', whose stated objective was to determine \'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP\'. The report itself is classified; only an unclassified summary was released, and the OIG issued a press release on 25 January 2024. The OIG is also the office to which Luis Elizondo submitted a complaint in May 2021 alleging reprisal and mishandling. The structural point for this board is that DoD OIG is subject to the same access architecture as everyone else: an inspector general who is not read into a waived unacknowledged special access program cannot audit it, and DODIG-2023-109\'s classified status means the public cannot determine whether the audit reached the SAP enterprise at all.',
@@ -2977,7 +2977,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 363 of 976, score 30). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 360 of 970, score 30). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3021,7 +3021,7 @@ export const INSTITUTIONS = [
   {
     id: 'ic-sapco',
     cls: 'institution',
-    label: 'ic-sapco',
+    label: 'Intelligence Community special access program control office enterprise',
     cluster: 'other',
     sub: 'The IC-side counterpart to DoD SAPCO, named by AARO as one of three SAP control enterprises',
     desc: 'The Intelligence Community maintains its own special access and controlled access program control architecture, parallel to and separate from the Department of Defense SAP enterprise administered by DoD SAPCO, and administered under the Director of National Intelligence\'s authority over intelligence community classification and compartmentation. Its existence is confirmed in the government\'s own UAP record: AARO\'s Historical Record Report Volume I states that AARO \'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description\', naming three distinct control-office enterprises. This matters because the DoD and IC enterprises are not a single list. A program carried on the IC side is not reported under 10 U.S.C. 119 to the defense committees; it is reported, if at all, to the intelligence committees under separate authority, and a member of the House Armed Services Committee reading the DoD SAP list would not see it. The IC enterprise is also where the National Reconnaissance Program and other overhead compartments live. No IC SAP control office has ever published anything, testified anywhere, or been named by any official in connection with UAP beyond that single AARO sentence.',
@@ -3033,7 +3033,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 489 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 487 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -3067,7 +3067,7 @@ export const INSTITUTIONS = [
   {
     id: 'dodig',
     cls: 'institution',
-    label: 'dodig',
+    label: 'Office of Inspector General, Department of Defense / Department of War',
     cluster: 'other',
     sub: 'Statutory independent auditor of the Department; author of the annual disclaimer',
     desc: 'The Department of Defense Office of Inspector General is the Department\'s statutory independent auditor and the author of every disclaimer of opinion since FY2018. Its leadership page currently identifies Platte B. Moring III as Inspector General and Brett A. Mansfield as Deputy Inspector General. It publishes DODIG- and now DOWIG-numbered reports, of which two are load-bearing here: DODIG-2016-113 of 26 July 2016, which established that the Army General Fund\'s FY2015 compilation involved $2.8 trillion of unsupported third-quarter and $6.5 trillion of unsupported year-end journal voucher adjustments, and DOWIG-2026-081 of 12 May 2026, which recorded the eighth consecutive disclaimer, twenty-six material weaknesses and more than $859 billion of unsupported adjustments in the last two quarters of FY2025. It is also the office that received Luis Elizondo\'s May 2021 complaint and that produced DODIG-2023-109 on the Department\'s UAP actions. What it has never done is publish a finding on whether any special access programme relates to unidentified anomalous phenomena, or on compliance with the section 1687(b) prohibition on UAP-related independent research and development cost allowability.',
@@ -3079,7 +3079,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 519 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 517 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3126,7 +3126,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 99 of 976, score 55). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 100 of 970, score 55). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -3192,7 +3192,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 275 of 976, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 272 of 970, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3253,7 +3253,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 184 of 976, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 184 of 970, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -3339,7 +3339,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 922 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 917 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3385,7 +3385,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 923 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 918 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3427,7 +3427,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 924 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 919 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3474,7 +3474,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 954 of 976, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 949 of 970, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 2,
@@ -3521,7 +3521,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 925 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 920 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3567,7 +3567,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 785 of 976, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 780 of 970, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3628,7 +3628,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 852 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 847 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3684,7 +3684,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 853 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 848 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3740,7 +3740,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 854 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 849 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3796,7 +3796,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 695 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 690 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3857,7 +3857,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 926 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 921 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3904,7 +3904,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 927 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 922 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3955,7 +3955,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 855 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 850 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4011,7 +4011,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 955 of 976, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 950 of 970, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4062,7 +4062,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 882 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 877 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4123,7 +4123,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 904 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 899 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4179,7 +4179,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 77 of 976, score 61). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 77 of 970, score 61). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -4300,7 +4300,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 117 of 976, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 117 of 970, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -4381,7 +4381,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 156 of 976, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 156 of 970, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -4447,7 +4447,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 276 of 976, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 273 of 970, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -4493,7 +4493,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 616 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 612 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4534,7 +4534,7 @@ export const INSTITUTIONS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 741 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 736 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4575,7 +4575,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 335 of 976, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 333 of 970, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -4626,7 +4626,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 578 of 976, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 574 of 970, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -4672,7 +4672,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 787 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 782 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -4700,7 +4700,7 @@ export const INSTITUTIONS = [
     cluster: 'oversight',
     sub: 'Standing committee; government-wide subpoena jurisdiction',
     desc: 'The House\'s general-purpose investigative committee, styled Committee on Oversight and Accountability in the 118th Congress and Committee on Oversight and Government Reform in the 119th, chaired by James Comer since 2023 with Jamie Raskin and then Robert Garcia as ranking member. It is the only House committee with government-wide investigative jurisdiction and unilateral subpoena authority in the chair\'s hands, which is why the UAP question landed here rather than in Armed Services or Intelligence. It has held every House UAP hearing of the modern era: 26 July 2023 through its National Security, the Border, and Foreign Affairs subcommittee; 13 November 2024 as a joint hearing of that subcommittee and the Cybersecurity, Information Technology and Government Innovation subcommittee; and 9 September 2025 through the Task Force on the Declassification of Federal Secrets. Its structural problem is stated in its own record. On 9 September 2025 Chairwoman Luna disclosed that DoD had told committee staff that under special access program rules only House Armed Services and Defense Appropriations members could be read in on the relevant programs, and that any other member required approval from the chairman and ranking member of both. The committee that can subpoena cannot be cleared; the committees that are cleared have not subpoenaed. That is the load-bearing structural fact of the entire House disclosure effort.',
-    tier: 'A',
+    tier: 'B',
     C: 0,
     A: 1,
     D: 3,
@@ -4708,7 +4708,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 146 of 976, score 45). 15 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 146 of 970, score 45). 15 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4774,7 +4774,7 @@ export const INSTITUTIONS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 744 of 976, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 739 of 970, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4815,7 +4815,7 @@ export const INSTITUTIONS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 826 of 976, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 821 of 970, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -4851,7 +4851,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 522 of 976, score 24). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 520 of 970, score 24). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -4907,7 +4907,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 123 of 976, score 49). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 123 of 970, score 49). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -4998,7 +4998,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 386 of 976, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 383 of 970, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -5045,7 +5045,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 369 of 976, score 30). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 366 of 970, score 30). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5091,7 +5091,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 277 of 976, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 274 of 970, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5142,7 +5142,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 415 of 976, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 413 of 970, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5193,7 +5193,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 581 of 976, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 577 of 970, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5234,7 +5234,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 465 of 976, score 26). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 463 of 970, score 26). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -5276,7 +5276,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 54 of 976, score 71). 17 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 54 of 970, score 71). 17 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -5377,7 +5377,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 416 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 414 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -5418,7 +5418,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 857 of 976, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 852 of 970, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -5449,7 +5449,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 27 of 976, score 89). 26 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 27 of 970, score 89). 26 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5547,7 +5547,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 207 of 976, score 39). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 207 of 970, score 39). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5618,7 +5618,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 164 of 976, score 43). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 164 of 970, score 43). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5714,7 +5714,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 218 of 976, score 38). 7 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 218 of 970, score 38). 7 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5780,7 +5780,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 337 of 976, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 335 of 970, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5842,7 +5842,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 208 of 976, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 208 of 970, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5908,7 +5908,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 371 of 976, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 368 of 970, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5954,7 +5954,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 671 of 976, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 666 of 970, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5995,7 +5995,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 524 of 976, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 522 of 970, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -6046,7 +6046,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 525 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 523 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -6077,7 +6077,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 887 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 882 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -6108,7 +6108,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 956 of 976, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 951 of 970, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -6139,7 +6139,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 266 of 976, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 263 of 970, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -6200,7 +6200,7 @@ export const INSTITUTIONS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 697 of 976, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 692 of 970, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6261,7 +6261,7 @@ export const INSTITUTIONS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 888 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 883 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -6307,7 +6307,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 340 of 976, score 31). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 338 of 970, score 31). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -6353,7 +6353,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 673 of 976, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 668 of 970, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6400,7 +6400,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 46 of 976, score 74). 19 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 46 of 970, score 74). 19 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -6541,7 +6541,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 829 of 976, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 824 of 970, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6573,7 +6573,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 930 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 925 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -6604,7 +6604,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 931 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 926 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -6635,7 +6635,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 965 of 976, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 960 of 970, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -6666,7 +6666,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 957 of 976, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 952 of 970, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -6697,7 +6697,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 966 of 976, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 961 of 970, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -6728,7 +6728,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 891 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 886 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -6759,7 +6759,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 24 of 976, score 94). 19 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 24 of 970, score 94). 19 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6830,7 +6830,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 210 of 976, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 210 of 970, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6876,7 +6876,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 342 of 976, score 31). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 340 of 970, score 31). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6927,7 +6927,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 698 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 693 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6968,7 +6968,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 296 of 976, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 293 of 970, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7019,7 +7019,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 648 of 976, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 643 of 970, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 2,
@@ -7050,7 +7050,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 148 of 976, score 45). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 148 of 970, score 45). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7121,7 +7121,7 @@ export const INSTITUTIONS = [
     dateEnd: '2006',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 554 of 976, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 551 of 970, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7162,7 +7162,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 447 of 976, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 445 of 970, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7208,7 +7208,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 555 of 976, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 552 of 970, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7249,7 +7249,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 649 of 976, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 644 of 970, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7295,7 +7295,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 620 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 616 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7341,7 +7341,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 674 of 976, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 669 of 970, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7382,7 +7382,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 699 of 976, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 694 of 970, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -7413,7 +7413,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 529 of 976, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 527 of 970, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -7459,7 +7459,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 600 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 596 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7506,7 +7506,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 582 of 976, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 578 of 970, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -7564,7 +7564,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 675 of 976, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 670 of 970, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7602,7 +7602,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 967 of 976, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 962 of 970, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -7639,7 +7639,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 789 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 784 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7676,7 +7676,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 932 of 976, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 927 of 970, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -7717,7 +7717,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 557 of 976, score 23). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 554 of 970, score 23). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -7758,7 +7758,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 747 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 742 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -7794,7 +7794,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 603 of 976, score 21). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 599 of 970, score 21). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -7845,7 +7845,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 321 of 976, score 32). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 319 of 970, score 32). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -7911,7 +7911,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 268 of 976, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 265 of 970, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -7967,7 +7967,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 221 of 976, score 38). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 221 of 970, score 38). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8013,7 +8013,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 111 of 976, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 111 of 970, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -8059,7 +8059,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 48 of 976, score 73). 15 connections, 3 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 48 of 970, score 73). 15 connections, 3 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -8120,7 +8120,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 532 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 530 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -8171,7 +8171,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 269 of 976, score 35). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 266 of 970, score 35). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -8227,7 +8227,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 448 of 976, score 27). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 446 of 970, score 27). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -8268,7 +8268,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 750 of 976, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 745 of 970, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8314,7 +8314,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 842 of 976, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 837 of 970, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -8342,7 +8342,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 676 of 976, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 671 of 970, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -8379,7 +8379,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 970 of 976, score 5). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 965 of 970, score 5). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -8406,7 +8406,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 906 of 976, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 901 of 970, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -8447,7 +8447,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 971 of 976, score 5). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 966 of 970, score 5). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -8478,7 +8478,7 @@ export const INSTITUTIONS = [
     dateEnd: '2009-12-01',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 622 of 976, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 618 of 970, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8529,7 +8529,7 @@ export const INSTITUTIONS = [
     dateEnd: '2000',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 424 of 976, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 422 of 970, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -8575,7 +8575,7 @@ export const INSTITUTIONS = [
     dateEnd: '2006',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 473 of 976, score 26). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 471 of 970, score 26). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -8617,7 +8617,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 324 of 976, score 32). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 322 of 970, score 32). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -8681,7 +8681,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 791 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 786 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -8717,7 +8717,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 346 of 976, score 31). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 344 of 970, score 31). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -8765,7 +8765,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 561 of 976, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 558 of 970, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -8821,7 +8821,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 302 of 976, score 33). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 299 of 970, score 33). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8874,7 +8874,7 @@ export const INSTITUTIONS = [
     dateEnd: '1991',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 844 of 976, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 839 of 970, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -8911,7 +8911,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 907 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 902 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -8942,7 +8942,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 393 of 976, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 390 of 970, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -8983,7 +8983,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 347 of 976, score 31). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 345 of 970, score 31). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -9025,7 +9025,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 623 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 619 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -9067,7 +9067,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 706 of 976, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 701 of 970, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9113,7 +9113,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 832 of 976, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 827 of 970, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9164,7 +9164,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 797 of 976, score 14). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 792 of 970, score 14). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9210,7 +9210,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 976 of 976, score 0). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 970 of 970, score 0). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 3,
@@ -9238,7 +9238,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 33 of 976, score 84). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 39 of 970, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9380,7 +9380,7 @@ export const PROGRAMS = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 7 of 976, score 135). 19 connections, 14 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 6 of 970, score 135). 19 connections, 14 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9576,7 +9576,7 @@ export const PROGRAMS = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 15 of 976, score 106). 14 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 15 of 970, score 106). 14 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9765,7 +9765,7 @@ export const PROGRAMS = [
   {
     id: 'carve-out',
     cls: 'program',
-    label: 'carve-out',
+    label: 'Carve-Out Provision (DCSA relief from NISP oversight)',
     cluster: 'other',
     sub: 'mechanism',
     desc: 'The carve-out is the most important single mechanism on this board, because it is the point at which a special access program held at a private company stops being visible to any government security official who is not inside the program. It is defined identically in DoD Directive 5205.07 (2010) and DoD Manual 5205.07 Volume 1: \'A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.\' It is codified in the National Industrial Security Program rule at 32 CFR 117.6(b)(3), which provides that \'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07\'. What is removed is specified in DoDM 5205.07 Volume 1: the SAP security inspections at cleared defense contractor locations, the authorisation of classified contractor SAP information systems and guest systems in contractor SAP facilities, and the coordination with the counterintelligence component for threat and incident cross-sharing. What replaces it is oversight by the cognizant authority\'s own Program Security Officer - an official appointed by and reporting to the SAP structure itself. The carve-out is requested as line 11.d of the SAP Approval Package Checklist (\'Contract strategy (carve-out justification if applicable)\'), recommended in the action memo to the Deputy Secretary, and, once approved, must be recorded in the program record file together with \'the identification of SAP facilities ... that have been carved-out based upon this authority\'. Neither the number of carve-outs in force, nor the list of carved-out facilities, nor the identity of the approving official for any individual carve-out has ever been published. This is the precise mechanism that would permit a contractor to hold material under a DoD program with no external government inspector ever entering the vault.',
@@ -9777,7 +9777,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 38 of 976, score 80). 10 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 37 of 970, score 80). 10 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9881,7 +9881,7 @@ export const PROGRAMS = [
   {
     id: 'kona-blue',
     cls: 'program',
-    label: 'kona-blue',
+    label: 'KONA BLUE',
     cluster: 'other',
     sub: 'Proposed DHS special access program, circa 2011',
     desc: 'Kona Blue was a Department of Homeland Security prospective special access programme, terminated on 10 February 2012, intended to house UAP recovery and reverse-engineering work after the DIA\'s AAWSAP/AATIP funding lapsed. AARO surfaced it in the Historical Record Report Volume I and DHS declassified the associated records; on 5 February 2024 DHS Acting Deputy Secretary Kristie Canegallo transmitted them to the Deputy Secretary of Defense, with strike-through formatting preserving the former classification marks and a records search finding no further material. The documents were made public in June 2024. AARO\'s framing is that Kona Blue was rejected by DHS leadership as lacking merit and that it is the proximate origin of the modern belief in a crash-retrieval programme - people who saw the Kona Blue proposal, on this account, mistook a proposal for an existing capability. The record is more interesting than the framing. A prospective special access programme is a real, chartered vehicle, and the surviving text discusses protection rationales for sensitive personnel and exotic technologies. The federal government did not draft a SAP charter to house nothing; it drafted one because named officials with clearances believed there was something to house, and the charter reached the Acting Deputy Secretary level of DHS before it was killed. AARO uses Kona Blue as a debunking device; on its face it is documentary evidence that in 2011-2012 senior officials at two departments treated recovered exotic material as a programme-management problem.',
@@ -9893,7 +9893,7 @@ export const PROGRAMS = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 10 of 976, score 122). 16 connections, 9 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 10 of 970, score 122). 16 connections, 9 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -10047,7 +10047,7 @@ export const PROGRAMS = [
   {
     id: 'pursue-releases',
     cls: 'program',
-    label: 'pursue-releases',
+    label: 'PURSUE - Presidential Unsealing and Reporting System for UAP Encounters',
     cluster: 'other',
     sub: 'Executive disclosure channel announced Feb 2026; first drop 8 May 2026',
     desc: 'PURSUE is the Department of War\'s UAP declassification release programme, published at war.gov/UFO and coordinated with ODNI. Its name is confirmed on AARO\'s own homepage, which links to the war.gov portal - the statutory UAP office pointing away from itself to a release channel it does not run. PURSUE stands on President Trump\'s 19-20 February 2026 Truth Social direction to Secretary of War Pete Hegseth and other relevant departments and agencies to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs. Five tranches were published between 8 May and 7 August 2026: R01 on 8 May (160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, documents bundle 1.2GB, video bundle 1.3GB); R02 on 22 May (64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series, 7 NASA crew audio files, 6 documents; video bundle 5.6GB); R03 on 12 June (72 files - 53 documents, 10 images, 6 videos, 3 audio - with FBI records dominating at 29 files); R04 on 10 July (documents 227MB, videos 1.4GB, spanning the 1940s to 2026); and R05 on 7 August (41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 Montana case). Files carry structured identifiers - DOW-UAP-PRxxx for imagery, DOW-UAP-Dxxx for documents, ODNI-UAP-Dxxx and FBI-UAP-Dxxx for agency-originated material - which is the first time the US Government has issued UAP material under a single public numbering scheme. The Department\'s declared posture is total non-assessment: \'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.\' That posture is the programme\'s defining feature and its defining defect. It released the imagery and withheld the physics: no coordinates, no sensor parameters, no altitude, no chain of custody. At least 100 of the 160 files in R01 carried redactions. PURSUE is nonetheless the strategic fact of 2026. The declassification AARO spent four years explaining was impossible was executed over the office\'s head, by the Secretary of War, at the President\'s direction, five weeks after a subcommittee chair wrote demanding AARO\'s video holdings.',
@@ -10059,7 +10059,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 6 of 976, score 144). 37 connections, 9 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 5 of 970, score 144). 37 connections, 9 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -10219,7 +10219,7 @@ export const PROGRAMS = [
   {
     id: 'adam-research-project',
     cls: 'program',
-    label: 'adam-research-project',
+    label: 'ADAM Research Project (Acquisition and Data Analysis of Materials)',
     cluster: 'other',
     sub: 'TTSA materials program run with EarthTech International',
     desc: 'The ADAM Research Project is the only publicly documented attempt to move alleged UAP material from private hands into a formal government research relationship, and it is a case study in what a broken chain of custody looks like. To The Stars Academy announced in July 2019 that it had acquired and was studying \'potentially exotic materials\'. Its COO Steve Justice - former director of Advanced Systems at Lockheed Martin\'s Skunk Works - said \'the structure and composition of these materials are not from any known existing military or commercial application\' and, with unusual candour, that the materials \'have been collected from sources with varying levels of chain-of-custody documentation, so we are focusing on verifiable facts and working to develop independent scientific proof of the materials\' properties and attributes.\' SEC filings record TTSA paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium. Those samples had previously been retained and studied by ufologist Linda Moulton Howe, who says she had them tested by the Carnegie Institution\'s Department of Terrestrial Magnetism in 1996 and subsequently by Harold Puthoff on several occasions. A 2012 letter from Puthoff reported that the tests had not proved alien origin nor produced any \'interesting/anomalous outcome\', with one further test outstanding for want of specialised equipment. TTSA then partnered with laboratories founded by Puthoff to continue the work, and on 17 October 2019 entered a five-year cooperative research and development agreement with the US Army Combat Capabilities Development Command covering inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion. No analytical results have been published. Chemists including Richard Sachleben and May Nyman have said any unknown alloy would be identified within hours at any competent laboratory; Chris Cogswell suggested the bismuth/magnesium-zinc pieces are Betterton-Kroll process slag.',
@@ -10231,7 +10231,7 @@ export const PROGRAMS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 64 of 976, score 66). 8 connections, 7 of them custody/witness/funding/programmatic. Axes C3/A1/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 64 of 970, score 66). 8 connections, 7 of them custody/witness/funding/programmatic. Axes C3/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -10350,7 +10350,7 @@ export const PROGRAMS = [
   {
     id: 'project-blue-book',
     cls: 'program',
-    label: 'project-blue-book',
+    label: 'Project Blue Book',
     cluster: 'other',
     sub: 'Public-facing USAF UFO program (1952-1969)',
     desc: 'Project Blue Book ran from March 1952 to 17 December 1969 at Wright-Patterson Air Force Base and is the public face of the legacy era. Its own final accounting is 12,618 sightings recorded, of which 701 were never identified — a residue of 5.6 per cent that the Air Force has never explained and that no subsequent official study has revisited. Blue Book had five directors: Edward Ruppelt, Charles Hardin, George Gregory, Robert Friend and Hector Quintanilla. Its analytical output was governed from 1953-1954 onward by AFR 200-2 and JANAP 146, which between them restricted what could be said publicly about unexplained cases and routed operationally significant reports away from Blue Book entirely. That last point is not inference: the Bolender memorandum of 20 October 1969, recommending termination, states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system. Blue Book was therefore, by the admission of the general who closed it, the disposal channel rather than the collection channel. The records — roughly 37 cubic feet of case files plus administrative files and Office of Special Investigations material — are at the National Archives on 94 rolls of microfilm (T-1206), and NARA states it has been unable to locate any documentation among them discussing the 1947 Roswell incident.',
@@ -10362,7 +10362,7 @@ export const PROGRAMS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 18 of 976, score 102). 24 connections, 11 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 18 of 970, score 102). 24 connections, 11 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -10416,7 +10416,7 @@ export const PROGRAMS = [
   {
     id: 'condon-committee',
     cls: 'program',
-    label: 'condon-committee',
+    label: 'University of Colorado UFO Project (Condon Committee)',
     cluster: 'other',
     sub: 'USAF contract 44620-67-C-0035 (1966-1969)',
     desc: 'The Condon Committee was the Air Force\'s exit vehicle. Formed on 6 October 1966 under contract 44620-67-C-0035 with the University of Colorado at a cost of around half a million dollars, and directed by physicist Edward Condon, it produced \'Scientific Study of Unidentified Flying Objects\', delivered in November 1968 and released publicly in January 1969. Condon\'s personally written conclusions declared that further study of UFOs could not be justified. The Air Force used those conclusions, blessed by a National Academy of Sciences panel chaired by Gerald Clemence, to terminate Project Blue Book on 17 December 1969. The project\'s integrity had been compromised before it began: project coordinator Robert Low wrote on 9 August 1966, two months before the contract was let, that \'the trick would be\' to describe the project so that to the public it would appear a totally objective study while presenting to the scientific community the image of a group of nonbelievers. When staff investigators David Saunders and Norman Levine surfaced the memo and it reached Look magazine in May 1968, Condon fired them. The report is nonetheless a load-bearing primary source for this board, because buried in Section V Chapter 2 it documents the 1948 Estimate of the Situation and its destruction by Gen. Vandenberg — the Air Force paying to have its own suppression put on the record while the front matter told the public there was nothing to study.',
@@ -10428,7 +10428,7 @@ export const PROGRAMS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 128 of 976, score 47). 12 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 128 of 970, score 47). 12 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -10482,7 +10482,7 @@ export const PROGRAMS = [
   {
     id: 'project-mogul',
     cls: 'program',
-    label: 'project-mogul',
+    label: 'Project MOGUL',
     cluster: 'other',
     sub: 'Classified acoustic balloon surveillance programme (1947-1949)',
     desc: 'Project MOGUL was a genuinely classified New York University and Army Air Forces programme flying long trains of neoprene balloons carrying acoustic sensors, intended to detect Soviet nuclear tests by listening for their sound in the upper atmosphere. It was real, it was Top Secret, and NYU Flight 4 launched from Alamogordo in early June 1947 is the specific object the Air Force says was recovered at the Foster ranch. MOGUL is recorded on this board not as a debunking but as the load-bearing element of the official explanation, and it has three documented problems. First, it was produced as an explanation in 1994, forty-seven years after the event and only after Rep. Steven Schiff forced the matter — the Air Force\'s own prior position for decades had been the weather balloon story it now concedes was false. Second, the flight-log identification of Flight 4 is contested because no launch record for that flight survives. Third, and decisively, the records that could settle it were destroyed: GAO reported in 1995 that RAAF outgoing message traffic from October 1946 through December 1949 was gone with no disposition authority. MOGUL explains the debris field; it does not explain why an atomic bomb group\'s intelligence officer, its commanding general and its public information office behaved as they did on 8 July 1947, and it cannot be tested against the primary record because the primary record is not there.',
@@ -10494,7 +10494,7 @@ export const PROGRAMS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 172 of 976, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 172 of 970, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -10543,7 +10543,7 @@ export const PROGRAMS = [
   {
     id: 'aaro-official-uap-imagery',
     cls: 'program',
-    label: 'aaro-official-uap-imagery',
+    label: 'AARO Official UAP Imagery releases (PR series)',
     cluster: 'other',
     sub: 'AARO\'s own video releases, Dec 2025 - Jan 2026',
     desc: 'AARO\'s parallel and much smaller video release channel, published on its Official UAP Imagery page. Between 4 December 2025 and 6 January 2026 it put out seven numbered items: PR-016, PR-017 and PR-018 on 4 December 2025; PR-012, PR-014 and PR-015 on 9 December 2025; PR-011 and PR-013 on 6 January 2026. All are infrared or cellular-camera footage of incidents in Europe between 2021 and 2024, ranging from thirteen to fifty-five seconds. Their dispositions are the AARO idiom in miniature: PR-016 resolved as \'almost certainly (>95% likelihood) birds\' on morphological and behavioural grounds; PR-017 declared insufficient for a determination; the rest assessed as physical objects with unremarkable characteristics, unresolved, with analysis ongoing. The page also carries the older canon - GIMBAL, FLIR, Go Fast, the 2013 Puerto Rico Customs and Border Protection object resolved as two objects moving at wind speed. Two facts about this channel matter. It began five weeks after the September 2025 hearing at which witnesses testified AARO holds unreleased video. And it produced seven short European clips in five weeks, then stopped - four months before the Department of War published 96 sensor videos across three tranches.',
@@ -10555,7 +10555,7 @@ export const PROGRAMS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 361 of 976, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 358 of 970, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -10604,7 +10604,7 @@ export const PROGRAMS = [
   {
     id: 'nara-uap-records-collection',
     cls: 'program',
-    label: 'nara-uap-records-collection',
+    label: 'National Archives UAP Records Collection (Record Group 615)',
     cluster: 'other',
     sub: 'Created under FY2024 NDAA sections 1841-1843, P.L. 118-31',
     desc: 'The statutory records collection, and the quietest failure in this domain. Sections 1841 through 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the establishment of an Unidentified Anomalous Phenomena Records Collection at the National Archives. NARA created Record Group 615 to receive it and issued guidance to federal agencies on identifying, preparing and transferring UAP records into that record group. What NARA does not publish is the thing that would make the collection meaningful: which agencies have actually transferred anything, how much, or when. Its public position, verbatim, is that \'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.\' There is no published compliance list, no page or item counts by agency, no transfer dates, and no statement identifying any agency as delinquent. The Department of War asserts progress - AARO \'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law\' - but the assertion is unverifiable against NARA\'s own pages. The Burlison FY2027 NDAA amendment exists precisely to fix this: statutory transfer timelines, a Senate-confirmed review board with subpoena power, and contractor reach. A records collection with no compliance reporting is a collection whose emptiness is indistinguishable from its completeness.',
@@ -10616,7 +10616,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 225 of 976, score 37). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 225 of 970, score 37). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -10681,7 +10681,7 @@ export const PROGRAMS = [
   {
     id: 'uap-task-force',
     cls: 'program',
-    label: 'uap-task-force',
+    label: 'Unidentified Aerial Phenomena Task Force (UAPTF)',
     cluster: 'other',
     sub: 'Navy/ONI task force 2020-2022',
     desc: 'The UAP Task Force was approved by Deputy Secretary of Defense David L. Norquist on 4 August 2020 and announced by the Navy on 14 August 2020, sited in the Department of the Navy with Office of Naval Intelligence involvement and cognizance by the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was to detect, analyse and catalog UAP that could potentially pose a threat to US national security. It is the most consequential body in this domain because it did two things no successor has done: it produced the classified substrate of the ODNI Preliminary Assessment delivered to Congress on 25 June 2021, and - per David Grusch\'s sworn testimony - its director tasked a cleared intelligence officer to identify every special access programme relevant to the Task Force\'s congressionally mandated mission, a tasking that ran directly into refused read-ons. Jay Stratton is publicly identified as its director in the operative 2020-2021 period. The Task Force was disestablished by direction of the 15 July 2022 AARO establishment memorandum, which ordered the Secretary of the Navy to shut it down and transfer its data and materials to AARO. That transfer is a custody event: everything the UAPTF held about crash retrieval allegations, if it held anything, passed into an office reporting to the Deputy Secretary of Defense.',
@@ -10693,7 +10693,7 @@ export const PROGRAMS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 65 of 976, score 66). 16 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 65 of 970, score 66). 16 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -10752,7 +10752,7 @@ export const PROGRAMS = [
   {
     id: 'aoimsg',
     cls: 'program',
-    label: 'aoimsg',
+    label: 'Airborne Object Identification and Management Synchronization Group (AOIMSG)',
     cluster: 'other',
     sub: 'OSD synchronization group, Nov 2021 - Jul 2022',
     desc: 'AOIMSG was directed into existence by Deputy Secretary of Defense Kathleen Hicks on 23 November 2021 as the Department\'s answer to Section 1683 of the FY2022 NDAA, which required a permanent office. It was overseen by an executive council, AOIMEXEC, co-chaired by the Under Secretary of Defense for Intelligence and Security and the Director for Operations of the Joint Staff. Its name is its function: a synchronization group, not an investigative office - a coordinating layer with no independent authority to compel access to anything. It existed for eight months and produced no public product. Congress and the press treated it as inadequate almost immediately, and Hicks superseded it with AARO on 15 July 2022. AOIMSG is the clearest single illustration of the pattern this board tracks: when Congress mandates a body with real authority, the Department first stands up something with the name and none of the powers, and only escalates when that fails politically.',
@@ -10764,7 +10764,7 @@ export const PROGRAMS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 638 of 976, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 633 of 970, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -10803,7 +10803,7 @@ export const PROGRAMS = [
   {
     id: 'gremlin-program',
     cls: 'program',
-    label: 'gremlin-program',
+    label: 'GREMLIN',
     cluster: 'other',
     sub: 'AARO prototype UAP sensor platform, disclosed March 2024',
     desc: 'GREMLIN is AARO\'s prototype sensor platform for detecting and tracking UAP in real time, disclosed at the Volume I rollout in March 2024 and described further by Kosloski in November 2024, when the office reported it was conducting a 90-day collection period at a classified national security location to establish a baseline of what normal activity looks like. It is the office\'s answer to its own permanent excuse: every annual report from FY2023 through FY2025 attributes unresolved cases to a lack of timely and actionable sensor data, and GREMLIN is the only programme AARO has publicly named that would address that. The programme\'s disclosure is thin - no site, no cost, no published results in the FY2024 or FY2025 annual reports - and the FY2025 report, more than two years after GREMLIN was announced, still states that a lack of timely and actionable sensor data continues to constrain AARO\'s ability to resolve cases.',
@@ -10815,7 +10815,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 488 of 976, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 486 of 970, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -10859,7 +10859,7 @@ export const PROGRAMS = [
   {
     id: 'pursue-programme-2026',
     cls: 'program',
-    label: 'pursue-programme-2026',
+    label: 'PURSUE - Presidential Unsealing and Reporting System for UAP Encounters',
     cluster: 'other',
     sub: 'Executive UAP file-release programme, Department of War, May-August 2026',
     desc: 'PURSUE is the acronym DefenseScoop reported on 14 May 2026 for the Trump administration\'s UAP file-release programme: Presidential Unsealing and Reporting System for UAP Encounters. It is not a statutory declassification process, not a FOIA channel and not an AARO product. It is a Department of War publication programme run off the Secretary\'s own web estate at war.gov/UFO, standing on a presidential direction issued on Truth Social on 19-20 February 2026 rather than on a published executive order. Five tranches were posted between 8 May 2026 and 7 August 2026. Each tranche is published as a paired ZIP: a document bundle served from www.war.gov/medialink/ufo/ and a video bundle served from a CloudFront distribution at d34w7g4gy10iej.cloudfront.net. No tranche carries a manifest, an index, a metadata schema, a FOIA case number, an exemption citation or a provenance statement. The document-numbering convention that emerges across the five drops is originator-prefixed - DOW-UAP-PR### for sensor imagery, DOW-UAP-D### for documents, ODNI-UAP-D### for Office of the Director of National Intelligence items, FBI-UAP-D### for Bureau items - which is the strongest single piece of evidence that PURSUE is a genuinely interagency pull rather than a Pentagon-only dump. The recurring criticism from the research community, voiced on the day of the first drop by Christopher Mellon, Ryan Graves, Tim Gallaudet and Alejandro Rojas, is that the programme publishes evidence without the metadata - coordinates, sensor parameters, altitude, time - that would let anyone outside the government analyse it. Mellon\'s formulation on 14 May 2026 is the epigraph of the whole programme: \'Data alone is not disclosure.\'',
@@ -10871,7 +10871,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 106 of 976, score 52). 14 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 107 of 970, score 52). 14 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -10920,7 +10920,7 @@ export const PROGRAMS = [
   {
     id: 'waived-usap',
     cls: 'program',
-    label: 'waived-usap',
+    label: 'Waived unacknowledged special access program (waived USAP)',
     cluster: 'other',
     sub: 'The specific legal category at the centre of every allegation on this board',
     desc: 'A waived unacknowledged special access program is the most protected category of activity the United States government operates. Special access programs are activities requiring protection beyond that ordinarily required for information at the same classification level, imposing need-to-know controls, access rosters and separate security architecture; DoD Directive 5205.07 governs them. An unacknowledged SAP is one whose existence is not acknowledged - the response to an inquiry is neither confirmation nor denial. A waived SAP is one for which the Secretary of Defense has exercised the waiver at 10 U.S.C. 119(e), under which the annual report and the justification for the waiver go \'jointly to the chairman and ranking minority member of each of the defense committees\' instead of to the committees as a whole. Combine the two and the result is an activity whose existence is denied to the public, denied to most of Congress, and known in the legislative branch to eight people. Every serious allegation on this board reduces to a claim about this category: David Grusch\'s testimony that a multi-decade materials recovery and exploitation effort exists and is unreported; the 2009 Reid request that AAWSAP be granted restricted SAP status, which USD(I) James Clapper opposed; the 2011 DHS attempt to stand up KONA BLUE as a prospective SAP; and the FY2024 NDAA section 1687 limitation on the use of funds for UAP-related programs not reported to the congressional defense committees, which is Congress legislating directly against the possibility that this category has been abused.',
@@ -10932,7 +10932,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 155 of 976, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 155 of 970, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -10991,7 +10991,7 @@ export const PROGRAMS = [
   {
     id: 'dod-agencywide-audit',
     cls: 'program',
-    label: 'dod-agencywide-audit',
+    label: 'DoD Agency-Wide Financial Statement Audit (FY2018-present)',
     cluster: 'other',
     sub: 'Annual full-scope audit required by the CFO Act; disclaimer of opinion every year since inception',
     desc: 'The Department of Defense was made subject to the Chief Financial Officers Act of 1990 like every other major agency, and for twenty-seven years did not attempt a full-scope audit of its financial statements. The first one covered fiscal year 2018. Every full-scope audit from FY2018 through FY2025 - eight consecutive years - has ended in a disclaimer of opinion: the Inspector General has been unable to obtain sufficient appropriate audit evidence to express any opinion at all on whether the Department\'s financial statements are fairly presented. This is not a qualified opinion or an adverse opinion; it is a statement that the books cannot be audited. The FY2025 audit, reported in DOWIG-2026-081 \'The FY 2025 DoW Financial Statement Audit Explained\' published 12 May 2026, identified twenty-six material weaknesses across three categories - ten in management responsibility and asset accountability, six in information technology, and ten in accounting. Among the accounting weaknesses is one named \'Unsupported Accounting Adjustments\', under which the report states that in the last two quarters of FY2025 the Department\'s adjustments totalled more than $859 billion, with contributions from the Army, Air Force, Navy and the Defense Logistics Agency across both general and working capital funds. Twenty-two reporting entities received stand-alone audits: eleven clean opinions, one qualified, nine disclaimers, and one (the Navy Working Capital Fund) no opinion under a two-year cycle. Two of the twenty-six weaknesses go directly to the question this board asks - \'Universe of Transactions\', meaning the Department cannot establish the complete set of transactions falling within audit scope, and \'Fund Balance with Treasury\', an account holding roughly $1 trillion that the Department cannot reconcile. An entity that cannot enumerate its own transactions cannot demonstrate the absence of any particular transaction, and that is the precise structural reason a documented audit failure is evidence in a concealment investigation rather than merely a management scandal.',
@@ -11003,7 +11003,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 175 of 976, score 42). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 175 of 970, score 42). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -11089,7 +11089,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 40 of 976, score 77). 11 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 40 of 970, score 77). 11 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -11180,7 +11180,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 163 of 976, score 43). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 163 of 970, score 43). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -11251,7 +11251,7 @@ export const PROGRAMS = [
     dateEnd: '2004',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 102 of 976, score 54). 13 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 104 of 970, score 54). 13 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -11332,7 +11332,7 @@ export const PROGRAMS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 644 of 976, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 639 of 970, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -11378,7 +11378,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 261 of 976, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 258 of 970, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -11430,7 +11430,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 549 of 976, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 546 of 970, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -11491,7 +11491,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 580 of 976, score 22). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 576 of 970, score 22). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -11532,7 +11532,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 90 of 976, score 58). 5 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 90 of 970, score 58). 5 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -11583,7 +11583,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 262 of 976, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 259 of 970, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -11639,7 +11639,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 496 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 494 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11685,7 +11685,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 768 of 976, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 763 of 970, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -11722,7 +11722,7 @@ export const PROGRAMS = [
     dateEnd: '1952',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 598 of 976, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 594 of 970, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11758,7 +11758,7 @@ export const PROGRAMS = [
     dateEnd: '1955',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 278 of 976, score 34). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 275 of 970, score 34). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11799,7 +11799,7 @@ export const PROGRAMS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 126 of 976, score 48). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 126 of 970, score 48). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -11855,7 +11855,7 @@ export const PROGRAMS = [
     dateEnd: '1951',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 466 of 976, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 464 of 970, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11906,7 +11906,7 @@ export const PROGRAMS = [
     dateEnd: '1953',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 84 of 976, score 59). 13 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 84 of 970, score 59). 13 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -11963,7 +11963,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 138 of 976, score 46). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 138 of 970, score 46). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -12014,7 +12014,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 280 of 976, score 34). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 277 of 970, score 34). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -12055,7 +12055,7 @@ export const PROGRAMS = [
     dateEnd: '1989',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 526 of 976, score 24). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 524 of 970, score 24). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -12101,7 +12101,7 @@ export const PROGRAMS = [
     dateEnd: '1983',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 501 of 976, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 499 of 970, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12147,7 +12147,7 @@ export const PROGRAMS = [
     dateEnd: '1986',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 647 of 976, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 642 of 970, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -12183,7 +12183,7 @@ export const PROGRAMS = [
     dateEnd: '1991',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 553 of 976, score 23). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 550 of 970, score 23). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -12224,7 +12224,7 @@ export const PROGRAMS = [
     dateEnd: '1996',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 468 of 976, score 26). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 466 of 970, score 26). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -12280,7 +12280,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 769 of 976, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 764 of 970, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -12326,7 +12326,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 861 of 976, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 856 of 970, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -12367,7 +12367,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 91 of 976, score 58). 7 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 91 of 970, score 58). 7 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -12423,7 +12423,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 745 of 976, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 740 of 970, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -12474,7 +12474,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 889 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 884 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -12505,7 +12505,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 341 of 976, score 31). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 339 of 970, score 31). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -12541,7 +12541,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 421 of 976, score 28). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 419 of 970, score 28). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -12572,7 +12572,7 @@ export const PROGRAMS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 232 of 976, score 37). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 232 of 970, score 37). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12643,7 +12643,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 344 of 976, score 31). 7 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 342 of 970, score 31). 7 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -12709,7 +12709,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 556 of 976, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 553 of 970, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -12775,7 +12775,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 602 of 976, score 21). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 598 of 970, score 21). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -12821,7 +12821,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 472 of 976, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 470 of 970, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12867,7 +12867,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 165 of 976, score 43). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 165 of 970, score 43). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12918,7 +12918,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 297 of 976, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 294 of 970, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12964,7 +12964,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 201 of 976, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 201 of 970, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -13005,7 +13005,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 843 of 976, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 838 of 970, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -13041,7 +13041,7 @@ export const PROGRAMS = [
     dateEnd: '2000',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 298 of 976, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 295 of 970, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -13097,7 +13097,7 @@ export const PROGRAMS = [
     dateEnd: '2013-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 504 of 976, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 502 of 970, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -13168,7 +13168,7 @@ export const PROGRAMS = [
     dateEnd: '1951-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 831 of 976, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 826 of 970, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -13199,7 +13199,7 @@ export const PROGRAMS = [
     dateEnd: '1988',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 559 of 976, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 556 of 970, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -13251,7 +13251,7 @@ export const PROGRAMS = [
     dateEnd: '2004',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 677 of 976, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 672 of 970, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -13288,7 +13288,7 @@ export const PROGRAMS = [
     dateEnd: '1978',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 392 of 976, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 389 of 970, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -13330,7 +13330,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 325 of 976, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 323 of 970, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -13396,7 +13396,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 560 of 976, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 557 of 970, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -13452,7 +13452,7 @@ export const PROGRAMS = [
     dateEnd: '2025-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 452 of 976, score 27). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 450 of 970, score 27). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -13508,7 +13508,7 @@ export const PROGRAMS = [
     dateEnd: '1991',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 245 of 976, score 36). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 245 of 970, score 36). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -13579,7 +13579,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 796 of 976, score 14). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 791 of 970, score 14). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -13603,7 +13603,7 @@ export const LOCATIONS = [
   {
     id: 'l-skinwalker',
     cls: 'location',
-    label: 'l-skinwalker',
+    label: 'Skinwalker Ranch, Uintah Basin, Utah',
     cluster: 'other',
     sub: '512-acre property; NIDS 1996-2004 and AAWSAP field site 2008-2012',
     desc: 'Skinwalker Ranch is a property of approximately 512 acres in Uintah County, Utah, southeast of Ballard and bordering the Uintah and Ouray Indian Reservation, at roughly 40 degrees 15 minutes north, 109 degrees 53 minutes west. Kenneth and Edith Myers held it from 1934 to 1994; Terry and Gwen Sherman bought it in 1994 and sold it in 1996; Robert Bigelow bought it for $200,000 in 1996 and sold it for about $500,000 in 2016 to Brandon Fugal, who announced his ownership through the Delaware entity Adamantium Real Estate LLC in March 2020. Its importance to this board is entirely institutional. Under Bigelow the property became the field site of the National Institute for Discovery Science, whose investigators included retired Army Col. John B. Alexander and biochemist Colm A. Kelleher and who logged close to a hundred incidents while conceding they could not obtain evidence to a publishable standard. The line that runs from this ranch into the federal government is documented and is the reason the location matters: DIA official Dr. James Lacatski read Kelleher and George Knapp\'s 2005 book \'Hunt for the Skinwalker\', contacted Bigelow, visited the ranch, and reported an experience there; Bigelow relayed this to Sen. Harry Reid; Reid, with Sens. Ted Stevens and Daniel Inouye, arranged roughly $22 million in Defense Department appropriations for what became the Advanced Aerospace Weapon System Applications Program. Bigelow\'s company BAASS won the AAWSAP contract, stood up around fifty full-time investigators with top secret clearances in a matter of months, ran for 27 months, produced more than three dozen preliminary reports and over a hundred detailed papers, and built a data warehouse of more than 240,000 case files designed by Jacques Vallee that Knapp testified in September 2025 remains in use by US agencies. A private ranch in eastern Utah is therefore the physical origin point of the largest US government UAP investigation of the modern era, and the majority of what that investigation produced has never been released by DIA.',
@@ -13618,7 +13618,7 @@ export const LOCATIONS = [
       -109.889
     ],
     locLabel: 'Uintah County, Utah, USA',
-    tierRationale: 'Re-graded A on a global pass (rank 52 of 976, score 71). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 52 of 970, score 71). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -13727,7 +13727,7 @@ export const LOCATIONS = [
   {
     id: 'l-pentagon',
     cls: 'location',
-    label: 'l-pentagon',
+    label: 'The Pentagon, Arlington, Virginia',
     cluster: 'other',
     sub: 'Headquarters, U.S. Department of Defense / Department of War',
     desc: 'The building in which every institutional act in this domain occurred: OUSD(I)\'s fifth-floor offices where Elizondo worked and where the New York Times placed AATIP; the office that produced the Reid memoranda and the 2019 messaging coordination; the public affairs shop that issued the Sherwood and Gough statements; and the parking lot in which, on Christopher Mellon\'s own account, three video files changed hands. In 2025 the Department was renamed the Department of War, and its web properties now resolve to war.gov — including the April 2020 statement authorising release of the videos.',
@@ -13739,7 +13739,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 437 of 976, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 435 of 970, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -13773,7 +13773,7 @@ export const LOCATIONS = [
   {
     id: 'l-colorado-springs',
     cls: 'location',
-    label: 'l-colorado-springs',
+    label: 'Colorado Springs, Colorado',
     cluster: 'other',
     sub: 'El Paso County; Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command',
     desc: 'Colorado Springs is the command node of American aerospace warning. Peterson Space Force Base hosts the headquarters of the North American Aerospace Defense Command and United States Northern Command; Cheyenne Mountain Space Force Station, the hardened complex inside the granite of Cheyenne Mountain, remains the alternate command centre and the integration point for missile warning and space surveillance data; Schriever Space Force Base to the east operates satellite control. Any object that enters North American airspace and is detected by national sensors is, by design, a problem that resolves to this city. That makes Colorado Springs the correct address for the oversight question this board keeps returning to: NORAD\'s own commander, Gen. Gregory M. Guillot, has acknowledged domain awareness gaps at low altitude, and the institutional history of NORAD\'s UAP handling - what it detects, what it declines to correlate, what it passes to AARO - has never been the subject of a public accounting. Colorado Springs entered the release record directly on 7 August 2026, when the fifth PURSUE tranche included FBI-UAP-D031, an FBI file concerning Colorado Springs. The city is also where the 2018 Schriever Wargame was run, the exercise series later invoked by a self-identified whistleblower as the folder in which Immaculate Constellation material was found - a claim the board records because it is the only specific provenance allegation ever attached to that document, and because Schriever is here.',
@@ -13788,7 +13788,7 @@ export const LOCATIONS = [
       -104.8214
     ],
     locLabel: 'Colorado Springs, Colorado, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 641 of 976, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 636 of 970, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -13823,7 +13823,7 @@ export const LOCATIONS = [
   {
     id: 'l-cambridge',
     cls: 'location',
-    label: 'l-cambridge',
+    label: 'Cambridge, Massachusetts',
     cluster: 'other',
     sub: 'Harvard University and the Harvard-Smithsonian Center for Astrophysics; base of the Galileo Project',
     desc: 'Cambridge is where the subject acquired a systematic instrumented observing programme run by astronomers rather than by the state. The Galileo Project, founded by Avi Loeb, professor of science at Harvard and former chair of its astronomy department, and based at the Harvard-Smithsonian Center for Astrophysics, was established in 2021 to search for and characterise objects of possible non-human technological origin using purpose-built multi-modal ground observatories - infrared, optical, radio, audio and magnetometer - with automated analysis pipelines, plus expeditions to recover candidate interstellar meteor material. Loeb\'s associates on the board include Richard Cloete and Amir Siraj. The project\'s importance is methodological and adversarial at once. It is the only substantial effort to build an independent evidentiary base outside the classified sensor architecture, which addresses the structural problem the rest of this board documents: every high-quality UAP dataset in existence is held by agencies that will not release it, so the only way to obtain data nobody can classify is to collect it yourself. It is also the effort that has drawn the sharpest disciplinary criticism, which is itself a datum about the cost to an academic career of working in this area - the stigma structure that the ODNI\'s own June 2021 assessment described.',
@@ -13838,7 +13838,7 @@ export const LOCATIONS = [
       -71.1097
     ],
     locLabel: 'Cambridge, Massachusetts, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 903 of 976, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 898 of 970, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -13867,7 +13867,7 @@ export const LOCATIONS = [
   {
     id: 'l-ft-meade',
     cls: 'location',
-    label: 'l-ft-meade',
+    label: 'Fort George G. Meade, Maryland',
     cluster: 'other',
     sub: 'Army installation; headquarters of NSA and US Cyber Command',
     desc: 'Fort George G. Meade in Anne Arundel County, Maryland is the home of the National Security Agency, the Central Security Service and US Cyber Command, and is therefore the single most concentrated signals intelligence site in the United States. It is on this board because NSA\'s UAP-relevant holdings - the records at issue in Citizens Against UFO Secrecy v. NSA, in which the courts sustained withholding on the strength of the classified Yeates affidavit - are held here, and because the agency\'s Exemption 3 statutory shield makes Meade the hardest FOIA target in the federal government. In August 2024 a senior NSA researcher from this installation, Jon Kosloski, was appointed to lead AARO, moving the Pentagon\'s UAP analytic hub under a Meade-trained signals technologist.',
@@ -13882,7 +13882,7 @@ export const LOCATIONS = [
       -76.7713
     ],
     locLabel: 'Fort Meade, Maryland, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 596 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 592 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -13922,7 +13922,7 @@ export const LOCATIONS = [
   {
     id: 'l-langley-afb',
     cls: 'location',
-    label: 'l-langley-afb',
+    label: 'Langley Air Force Base / Joint Base Langley-Eustis, Virginia',
     cluster: 'other',
     sub: 'Air Force installation, Hampton, Virginia; F-22 base and site of the 2023 incursions',
     desc: 'Langley Air Force Base, now part of Joint Base Langley-Eustis at Hampton, Virginia, hosts F-22 Raptors and is one of the most sensitive air defence installations on the eastern seaboard. It appears on this board for the sustained series of unidentified aerial incursions over the base beginning in December 2023, which continued for weeks, prompted the movement of aircraft, and were publicly discussed by the NORAD commander in October 2024 - a rare instance of a four-star officer addressing unresolved incursions over a nuclear-capable air defence installation on the record. The episode is important because it collapses the distance between the historical UAP question and a current, acknowledged, unresolved air defence failure.',
@@ -13934,7 +13934,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 739 of 976, score 16). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 734 of 970, score 16). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -13964,7 +13964,7 @@ export const LOCATIONS = [
   {
     id: 'l-michigan-state',
     cls: 'location',
-    label: 'l-michigan-state',
+    label: 'Michigan State University, East Lansing, Michigan',
     cluster: 'other',
     sub: 'Public research university, East Lansing, Michigan',
     desc: 'Michigan State University at East Lansing is on this board as the academic base from which economist Mark Skidmore conducted the aggregation of unsupported adjustments reported in Department of Defense financial statements - the most-cited academic work underpinning the black-budget argument. The work matters here for a narrow and defensible reason: it established, from the Department\'s own published financial reports and its Inspector General\'s findings, that DoD cannot demonstrate the link between appropriation and expenditure at scale. That is an enabling condition for an unacknowledged programme rather than evidence of one, and the distinction is the whole discipline of the funding domain.',
@@ -13979,7 +13979,7 @@ export const LOCATIONS = [
       -84.4822
     ],
     locLabel: 'East Lansing, Michigan, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 969 of 976, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 964 of 970, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -14008,7 +14008,7 @@ export const LOCATIONS = [
   {
     id: 'l-boise-id',
     cls: 'location',
-    label: 'l-boise-id',
+    label: 'Boise, Idaho',
     cluster: 'other',
     sub: 'State capital of Idaho; home of Kenneth Arnold',
     desc: 'Boise was the home and business base of Kenneth Arnold, the fire-control equipment salesman and private pilot whose 24 June 1947 sighting of nine objects near Mount Rainier - and whose description of their motion as like a saucer skipping across water - produced the phrase \'flying saucer\' and opened the entire modern era. Arnold flew back to Boise and reported to the press here, and the Army Air Forces investigation that followed him began the official record that runs through Project Sign, Grudge and Blue Book. The city is scored for disclosure role rather than custody: nothing was recovered here, but the public record starts at this address.',
@@ -14023,7 +14023,7 @@ export const LOCATIONS = [
       -116.2023
     ],
     locLabel: 'Boise, Idaho, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 920 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 915 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -14053,7 +14053,7 @@ export const LOCATIONS = [
   {
     id: 'l-san-diego',
     cls: 'location',
-    label: 'l-san-diego',
+    label: 'San Diego, California',
     cluster: 'other',
     sub: 'City in southern California; largest US Navy fleet concentration on the west coast',
     desc: 'San Diego is the homeport of the Pacific Fleet\'s surface and carrier forces and the operational origin of the 2004 Nimitz Carrier Strike Group encounters off the southern California coast. It is on this board as the base city for serving and former Navy personnel who have given accounts of unidentified objects tracked by shipboard sensors, and as the shore end of the Southern California Operating Area where the most sensor-corroborated American cases occurred.',
@@ -14065,7 +14065,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 840 of 976, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 835 of 970, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [],
     sources: [
       {
@@ -14100,7 +14100,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 579 of 976, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 575 of 970, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -14151,7 +14151,7 @@ export const LOCATIONS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 786 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 781 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -14187,7 +14187,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 742 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 737 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14228,7 +14228,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 743 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 738 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14269,7 +14269,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 336 of 976, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 334 of 970, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14315,7 +14315,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 885 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 880 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     claims: [
       {
         tier: 1,
@@ -14346,7 +14346,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 828 of 976, score 13). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 823 of 970, score 13). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -14377,7 +14377,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 886 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 881 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.',
     claims: [
       {
         tier: 1,
@@ -14404,7 +14404,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 788 of 976, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 783 of 970, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D0.',
     claims: [
       {
         tier: 1,
@@ -14435,7 +14435,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 928 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 923 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -14469,7 +14469,7 @@ export const LOCATIONS = [
       -106.3031
     ],
     locLabel: 'Los Alamos, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 417 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 415 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -14515,7 +14515,7 @@ export const LOCATIONS = [
     dateEnd: '1993',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 418 of 976, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 416 of 970, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14561,7 +14561,7 @@ export const LOCATIONS = [
     dateEnd: '1975',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 619 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 615 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -14597,7 +14597,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 469 of 976, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 467 of 970, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -14638,7 +14638,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 242 of 976, score 36). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 242 of 970, score 36). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -14674,7 +14674,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 470 of 976, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 468 of 970, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -14720,7 +14720,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 701 of 976, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 696 of 970, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -14759,7 +14759,7 @@ export const LOCATIONS = [
       -84.0483
     ],
     locLabel: 'Wright-Patterson AFB, Ohio, USA',
-    tierRationale: 'Re-graded A on a global pass (rank 78 of 976, score 61). 12 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 78 of 970, score 61). 12 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -14813,7 +14813,7 @@ export const LOCATIONS = [
       -106.6092
     ],
     locLabel: 'Kirtland AFB, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 167 of 976, score 43). 9 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 167 of 970, score 43). 9 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -14872,7 +14872,7 @@ export const LOCATIONS = [
       -106.6504
     ],
     locLabel: 'Albuquerque, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 348 of 976, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 346 of 970, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -14922,7 +14922,7 @@ export const LOCATIONS = [
       -104.523
     ],
     locLabel: 'Roswell, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 211 of 976, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 211 of 970, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14982,7 +14982,7 @@ export const LOCATIONS = [
       -115.8111
     ],
     locLabel: 'Groom Lake, Nevada, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 149 of 976, score 45). 9 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 149 of 970, score 45). 9 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -15037,7 +15037,7 @@ export const LOCATIONS = [
       -115.8111
     ],
     locLabel: 'Groom Lake, Nevada, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 349 of 976, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 347 of 970, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -15082,7 +15082,7 @@ export const LOCATIONS = [
       -115.0343
     ],
     locLabel: 'Nellis AFB, Nevada, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 704 of 976, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 699 of 970, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -15117,7 +15117,7 @@ export const LOCATIONS = [
       -116.7817
     ],
     locLabel: 'Tonopah Test Range, Nevada, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 535 of 976, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 533 of 970, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -15157,7 +15157,7 @@ export const LOCATIONS = [
       -106.4757
     ],
     locLabel: 'White Sands, New Mexico, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 562 of 976, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 559 of 970, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -15201,7 +15201,7 @@ export const LOCATIONS = [
       -117.8837
     ],
     locLabel: 'Edwards AFB, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 753 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 748 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 2,
@@ -15243,7 +15243,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 894 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 889 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -15282,7 +15282,7 @@ export const LOCATIONS = [
       -120.5724
     ],
     locLabel: 'Vandenberg SFB, California, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 394 of 976, score 29). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 391 of 970, score 29). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -15336,7 +15336,7 @@ export const LOCATIONS = [
       -105.2705
     ],
     locLabel: 'Boulder, Colorado, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 705 of 976, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 700 of 970, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -15386,7 +15386,7 @@ export const LOCATIONS = [
       -83.0413
     ],
     locLabel: 'Detroit Arsenal, Michigan, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 326 of 976, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 324 of 970, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -15435,7 +15435,7 @@ export const LOCATIONS = [
       -83.0458
     ],
     locLabel: 'Detroit, Michigan, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 794 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 789 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 3,
@@ -15454,7 +15454,7 @@ export const LOCATIONS = [
     cluster: 'oversight',
     sub: 'Federal seat: the Pentagon (Arlington), Capitol Hill, ODNI, DIA, CIA (Langley), OSD, NARA',
     desc: 'Washington is the board\'s densest node - 115 of wave 1\'s people are placed here - because it is where every instrument that could open the record is held and every instrument that has kept it closed was signed. Within a few miles sit the Pentagon in Arlington, where AATIP, the UAP Task Force, AOIMSG and AARO have all been hosted and where Christopher Mellon has said on the record he received the Navy videos from a Defense Department official in the parking lot; the Capitol, where the Schumer-Rounds UAP Disclosure Act was written into the FY2024 NDAA and stripped of its eminent-domain and Review Board provisions in conference, where the House Oversight Committee held the hearings of 26 July 2023, 13 November 2024 and 9 September 2025, and where Rep. Eric Burlison\'s disclosure amendment was adopted into the FY2027 NDAA on 23 July 2026; the Office of the Director of National Intelligence, which published the preliminary assessment of 25 June 2021; the Intelligence Community Inspector General, which found David Grusch\'s complaint credible and urgent on 26 July 2022; DIA at Bolling, which contracted AAWSAP and still holds the unreleased BAASS papers; CIA at Langley just across the river; and the National Archives, which established the UAP Records Collection as Record Group 615. Washington is also where the denials are issued: Pentagon spokesperson Sue Gough\'s statements, the Department\'s \'no record\' response on Immaculate Constellation, and AARO\'s Historical Record Report Volume I of March 2024. The city is the correct venue for the board\'s central structural claim - that the concealment is not a technical secret held in a desert but an administrative arrangement maintained in these buildings by people whose names are known.',
-    tier: 'C',
+    tier: 'B',
     C: 1,
     A: 3,
     D: 3,
@@ -15465,7 +15465,7 @@ export const LOCATIONS = [
       -77.0364
     ],
     locLabel: 'Washington, DC, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 565 of 976, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 300 of 970, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -15486,6 +15486,16 @@ export const LOCATIONS = [
         tier: 3,
         text: 'The concealment is administrative rather than geographic: the instruments that maintain it - classification decisions, contract vehicles, FOIA exemptions, conference-committee edits - are all executed in this city by identifiable officeholders. Reasoning: every documented act of restriction in the modern record traces to a Washington signature, not to a field site.',
         source: 'Inference from the documented locus of the UAP Disclosure Act edits, the FOIA denials and the AARO reporting chain'
+      },
+      {
+        tier: 3,
+        text: 'l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.',
+        source: 'Inference from reference counts in the research corpus'
+      },
+      {
+        tier: 3,
+        text: 'Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.',
+        source: 'Board bookkeeping'
       }
     ],
     sources: [
@@ -15503,6 +15513,11 @@ export const LOCATIONS = [
         name: 'House Oversight - Restoring Public Trust Through UAP Transparency',
         url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
         date: '2025-09-09'
+      },
+      {
+        name: 'Wikipedia - Washington, D.C.',
+        url: 'https://en.wikipedia.org/wiki/Washington,_D.C.',
+        date: '2026-08-12'
       }
     ]
   },
@@ -15524,7 +15539,7 @@ export const LOCATIONS = [
       -74.006
     ],
     locLabel: 'New York, New York, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 795 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 790 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -15568,7 +15583,7 @@ export const LOCATIONS = [
       -118.2437
     ],
     locLabel: 'Los Angeles, California, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 395 of 976, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 392 of 970, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -15613,7 +15628,7 @@ export const LOCATIONS = [
       -115.1398
     ],
     locLabel: 'Las Vegas, Nevada, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 453 of 976, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 451 of 970, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -15662,7 +15677,7 @@ export const LOCATIONS = [
       -122.176
     ],
     locLabel: 'Menlo Park, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 563 of 976, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 560 of 970, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -15716,7 +15731,7 @@ export const LOCATIONS = [
       -122.1697
     ],
     locLabel: 'Stanford, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 933 of 976, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 928 of 970, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -15755,7 +15770,7 @@ export const LOCATIONS = [
       -73.7562
     ],
     locLabel: 'Albany, New York, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 974 of 976, score 4). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 969 of 970, score 4). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     claims: [
       {
         tier: 3,
@@ -15789,7 +15804,7 @@ export const LOCATIONS = [
       -86.5861
     ],
     locLabel: 'Huntsville, Alabama, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 605 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 601 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -15834,7 +15849,7 @@ export const LOCATIONS = [
       -83.9207
     ],
     locLabel: 'Knoxville, Tennessee, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 934 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 929 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -15873,7 +15888,7 @@ export const LOCATIONS = [
       -82.6403
     ],
     locLabel: 'St Petersburg, Florida, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 771 of 976, score 15). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 766 of 970, score 15). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -15922,7 +15937,7 @@ export const LOCATIONS = [
       -93.2923
     ],
     locLabel: 'Springfield, Missouri, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 865 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 860 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -15958,7 +15973,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 680 of 976, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 675 of 970, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -15997,7 +16012,7 @@ export const LOCATIONS = [
       -107.75
     ],
     locLabel: 'Plains of San Agustin, New Mexico, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 846 of 976, score 12). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 841 of 970, score 12). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     claims: [
       {
         tier: 3,
@@ -16046,7 +16061,7 @@ export const LOCATIONS = [
       -107.9928
     ],
     locLabel: 'Aztec, New Mexico, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 909 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 904 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -16086,7 +16101,7 @@ export const LOCATIONS = [
       -45.43
     ],
     locLabel: 'Varginha, Minas Gerais, Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 755 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 750 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -16131,7 +16146,7 @@ export const LOCATIONS = [
       -0.1265
     ],
     locLabel: 'Whitehall, London, United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 709 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 704 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -16175,7 +16190,7 @@ export const LOCATIONS = [
       -95.0966
     ],
     locLabel: 'Huffman, Texas, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 756 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 751 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -16224,7 +16239,7 @@ export const LOCATIONS = [
       1.4442
     ],
     locLabel: 'Toulouse, France',
-    tierRationale: 'Re-graded C on a global pass (rank 710 of 976, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 705 of 970, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -16261,7 +16276,7 @@ export const LOCATIONS = [
       -47.8828
     ],
     locLabel: 'Brasilia, Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 798 of 976, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 793 of 970, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -16302,7 +16317,7 @@ export const LOCATIONS = [
       -93.6319
     ],
     locLabel: 'Ames, Iowa, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 867 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 862 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -16347,7 +16362,7 @@ export const LOCATIONS = [
       -70.6731
     ],
     locLabel: 'Woods Hole, Massachusetts, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 910 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 905 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -16386,7 +16401,7 @@ export const LOCATIONS = [
       -1.4701
     ],
     locLabel: 'Sheffield, United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 958 of 976, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 953 of 970, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -16421,7 +16436,7 @@ export const LOCATIONS = [
       18.0686
     ],
     locLabel: 'Stockholm, Sweden',
-    tierRationale: 'Re-graded C on a global pass (rank 868 of 976, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 863 of 970, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -16461,7 +16476,7 @@ export const LOCATIONS = [
       -97.3308
     ],
     locLabel: 'Fort Worth, Texas, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 509 of 976, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 507 of 970, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -16505,7 +16520,7 @@ export const LOCATIONS = [
       -84.512
     ],
     locLabel: 'Cincinnati, Ohio, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 799 of 976, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 794 of 970, score 14). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -16545,7 +16560,7 @@ export const LOCATIONS = [
       -91.6656
     ],
     locLabel: 'Cedar Rapids, Iowa, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 911 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 906 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -16584,7 +16599,7 @@ export const LOCATIONS = [
       -66.6431
     ],
     locLabel: 'Fredericton, New Brunswick, Canada',
-    tierRationale: 'Re-graded C on a global pass (rank 869 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 864 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -16616,7 +16631,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 711 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 706 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -16648,7 +16663,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 912 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 907 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [],
     sources: [
       {
@@ -16678,7 +16693,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 870 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 865 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [],
     sources: [
       { name: 'Wikipedia - Virginia', url: 'https://en.wikipedia.org/wiki/Virginia', date: '2026-08-12' },
@@ -16707,7 +16722,7 @@ export const LOCATIONS = [
       -117.9992
     ],
     locLabel: 'Huntington Beach, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 897 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 892 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 3,
@@ -16742,7 +16757,7 @@ export const LOCATIONS = [
       -2.0
     ],
     locLabel: 'United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 653 of 976, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 648 of 970, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -16786,7 +16801,7 @@ export const LOCATIONS = [
       1.8883
     ],
     locLabel: 'France',
-    tierRationale: 'Re-graded C on a global pass (rank 712 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 707 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 3,
@@ -16818,7 +16833,7 @@ export const LOCATIONS = [
       -51.9253
     ],
     locLabel: 'Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 681 of 976, score 18). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 676 of 970, score 18). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 3,
@@ -16858,7 +16873,7 @@ export const LOCATIONS = [
       2.3522
     ],
     locLabel: 'Paris, France',
-    tierRationale: 'Re-graded C on a global pass (rank 871 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 866 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 3,
@@ -16889,7 +16904,7 @@ export const LOCATIONS = [
       -0.1278
     ],
     locLabel: 'London, United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 833 of 976, score 13). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 828 of 970, score 13). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 3,
@@ -16924,7 +16939,7 @@ export const LOCATIONS = [
       -75.6972
     ],
     locLabel: 'Ottawa, Ontario, Canada',
-    tierRationale: 'Re-graded C on a global pass (rank 757 of 976, score 16). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 752 of 970, score 16). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -16979,7 +16994,7 @@ export const LOCATIONS = [
       -70.6693
     ],
     locLabel: 'Santiago, Chile',
-    tierRationale: 'Re-graded C on a global pass (rank 898 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 893 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 3,
@@ -17014,7 +17029,7 @@ export const LOCATIONS = [
       37.6173
     ],
     locLabel: 'Moscow, Russia',
-    tierRationale: 'Re-graded C on a global pass (rank 899 of 976, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 894 of 970, score 10). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 3,
@@ -17028,47 +17043,6 @@ export const LOCATIONS = [
         name: 'NSA declassified UFO collection, French government UFO study (archived)',
         url: 'https://web.archive.org/web/20240224094347/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
         date: '2024-02-24'
-      }
-    ]
-  },
-  {
-    id: 'l-washington-dc',
-    cls: 'location',
-    label: 'Washington, D.C. (alias of l-dc)',
-    cluster: 'oversight',
-    sub: 'US federal capital; duplicate identifier for the primary node l-dc',
-    desc: 'This is an alias identifier for the District of Columbia, present because wave-1 records were written by several hands and both l-dc and l-washington-dc entered the corpus. It resolves to the same place: the seat of Congress, the Pentagon across the Potomac, ODNI, the Department of Energy, the National Archives holding the statutory UAP Records Collection, and the committee rooms in which the July 2023 and September 2025 Oversight hearings were held. The merge pass should collapse this node into l-dc rather than treat the two as distinct locations.',
-    tier: 'C',
-    C: 1,
-    A: 3,
-    D: 3,
-    dateStart: null,
-    dateEnd: null,
-    coords: null,
-    locLabel: null,
-    tierRationale: '',
-    claims: [
-      {
-        tier: 3,
-        text: 'l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.',
-        source: 'Inference from reference counts in the research corpus'
-      },
-      {
-        tier: 3,
-        text: 'Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.',
-        source: 'Board bookkeeping'
-      }
-    ],
-    sources: [
-      {
-        name: 'Wikipedia - Washington, D.C.',
-        url: 'https://en.wikipedia.org/wiki/Washington,_D.C.',
-        date: '2026-08-12'
-      },
-      {
-        name: 'House Oversight Committee hearing - Restoring Public Trust Through UAP Transparency and Whistleblower Protection',
-        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
-        date: '2025-09-09'
       }
     ]
   },
@@ -17087,7 +17061,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 654 of 976, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 649 of 970, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 3,
@@ -17119,7 +17093,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 872 of 976, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 867 of 970, score 11). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -17158,7 +17132,7 @@ export const LOCATIONS = [
       -71.2924
     ],
     locLabel: 'Wellesley, Massachusetts, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 972 of 976, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 967 of 970, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -17197,7 +17171,7 @@ export const LOCATIONS = [
       -71.0589
     ],
     locLabel: 'Boston, Massachusetts, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 913 of 976, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 908 of 970, score 9). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -17236,7 +17210,7 @@ export const LOCATIONS = [
       -86.7816
     ],
     locLabel: 'Nashville, Tennessee, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 959 of 976, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 954 of 970, score 7). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -17275,7 +17249,7 @@ export const LOCATIONS = [
       -122.3321
     ],
     locLabel: 'Seattle, Washington, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 973 of 976, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 968 of 970, score 5). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 3,
@@ -17310,7 +17284,7 @@ export const LOCATIONS = [
       -85.6913
     ],
     locLabel: 'Tompkinsville, Kentucky, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 935 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 930 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17349,7 +17323,7 @@ export const LOCATIONS = [
       -79.9311
     ],
     locLabel: 'Charleston, South Carolina, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 936 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 931 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17388,7 +17362,7 @@ export const LOCATIONS = [
       -88.0997
     ],
     locLabel: 'Glenbeulah, Wisconsin, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 937 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 932 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17427,7 +17401,7 @@ export const LOCATIONS = [
       -86.8689
     ],
     locLabel: 'Franklin, Tennessee, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 938 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 933 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17466,7 +17440,7 @@ export const LOCATIONS = [
       -96.797
     ],
     locLabel: 'Dallas, Texas, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 939 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 934 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17501,7 +17475,7 @@ export const LOCATIONS = [
       -110.9665
     ],
     locLabel: 'Oro Valley, Arizona, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 940 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 935 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17540,7 +17514,7 @@ export const LOCATIONS = [
       -104.9014
     ],
     locLabel: 'Windsor, Colorado, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 941 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 936 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17579,7 +17553,7 @@ export const LOCATIONS = [
       -92.0198
     ],
     locLabel: 'Lafayette, Louisiana, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 942 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 937 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17618,7 +17592,7 @@ export const LOCATIONS = [
       -111.789
     ],
     locLabel: 'Gilbert, Arizona, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 943 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 938 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17657,7 +17631,7 @@ export const LOCATIONS = [
       -81.3792
     ],
     locLabel: 'Orlando, Florida, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 944 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 939 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17696,7 +17670,7 @@ export const LOCATIONS = [
       -77.0075
     ],
     locLabel: 'Takoma Park, Maryland, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 945 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 940 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17735,7 +17709,7 @@ export const LOCATIONS = [
       -88.0834
     ],
     locLabel: 'Schaumburg, Illinois, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 946 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 941 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17774,7 +17748,7 @@ export const LOCATIONS = [
       -88.0133
     ],
     locLabel: 'Green Bay, Wisconsin, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 947 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 942 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17813,7 +17787,7 @@ export const LOCATIONS = [
       -80.2373
     ],
     locLabel: 'Parkland, Florida, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 948 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 943 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17852,7 +17826,7 @@ export const LOCATIONS = [
       -118.1937
     ],
     locLabel: 'Long Beach, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 949 of 976, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 944 of 970, score 8). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 3,
@@ -17879,7 +17853,7 @@ export const DOMAINS = [
   {
     id: 'sap-taxonomy',
     cls: 'domain',
-    label: 'sap-taxonomy',
+    label: 'Acknowledged, unacknowledged and waived — the three states of a DoD SAP',
     cluster: 'other',
     sub: 'taxonomy',
     desc: 'The three-state taxonomy is the vocabulary the whole board depends on, and it is defined word for word in DoD\'s own issuances. An ACKNOWLEDGED SAP is \'A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details (technologies, materials, techniques, etc.,) are classified as specified in the applicable SCG\'. Its name appears in the budget; you may know that it exists and nothing else. An UNACKNOWLEDGED SAP is \'A SAP having enhanced security measures ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information\'. The correct response to an inquiry is neither confirmation nor denial; the program\'s very existence is classified. A WAIVED SAP is \'A SAP for which the SecDef has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs\' - Reference (c) being 10 U.S.C. 119. Cross-cutting the three states are three categories defined by mission: an acquisition SAP protects \'sensitive research, development, testing and evaluation, modification, and procurement activities\'; an intelligence SAP protects intelligence activity; and an operations and support SAP is \'established primarily to protect the planning for, execution of, and support to especially sensitive military operations\' and \'may protect organizations, property, operational concepts, plans, or activities\'. A SAP with subordinate structure is called an \'umbrella\', with \'compartments, sub-compartments, or projects\' beneath it. The single most important observation for this board is that the alleged legacy recovery effort - if it exists - would sit precisely at the intersection of a waived unacknowledged operations and support SAP with an acquisition SAP for the exploitation work, held under an umbrella whose compartments are known only to the compartment holders. Every element of that description is an ordinary term of art in DoDI 5205.11.',
@@ -17891,7 +17865,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 47 of 976, score 73). 6 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 47 of 970, score 73). 6 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -17975,7 +17949,7 @@ export const DOMAINS = [
   {
     id: 'sap-cover-mechanisms',
     cls: 'domain',
-    label: 'sap-cover-mechanisms',
+    label: 'Cover mechanisms — HVSACO, nicknames, unacknowledged locations',
     cluster: 'other',
     sub: 'tradecraft',
     desc: 'DoD\'s own manuals describe, in unclassified text, the tradecraft that keeps an unacknowledged program from surfacing. Every DoD SAP is assigned an unclassified nickname generated through the Chairman of the Joint Chiefs of Staff NICKA system under CJCSM 3150.29D, and \'Unclassified nicknames will be used in the annual SAP report to Congress\'; whether a classified codeword is also used is decided by the cognizant authority SAPCO. So the artefact Congress receives is a list of two-word nicknames. The marking HANDLE VIA SPECIAL ACCESS CHANNELS ONLY - HVSACO - is applied, expressly, \'When using a SAP nickname for an unacknowledged SAP\', and also \'When necessary to protect sensitive relationships\' and \'To protect information that does not warrant classification under Executive Order 13526\'; the manual states plainly that \'HVSACO is not a classification\'. That is a control that restricts distribution of material which is not classified at all, and therefore is not reachable by a mandatory declassification review or by the classification-challenge machinery of E.O. 13526. Physical cover is addressed as well: \'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations\' - the manual assumes the existence of facilities at which showing a federal badge would itself be a disclosure. Where two programs share a facility, a Co-Utilization Agreement between cognizant security offices governs, and \'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP\', which is how a carved-out program can sit inside a building that other programs also use without the other programs\' security officers acquiring cognizance over it.',
@@ -17987,7 +17961,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 87 of 976, score 58). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 87 of 970, score 58). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -18061,7 +18035,7 @@ export const DOMAINS = [
   {
     id: 'd-materials',
     cls: 'domain',
-    label: 'd-materials',
+    label: 'Materials and custody analysis',
     cluster: 'other',
     sub: 'Cross-cutting domain: physical samples, their analysis and their chain of custody',
     desc: 'Materials analysis is the single place where the central claim could be settled by measurement rather than by testimony, which is why both sides of the argument have converged on it. The falsifiable signature is isotopic: terrestrial elements occur in well-characterised isotope ratios set by solar system formation and by known industrial enrichment processes, so a sample whose ratios lie outside that envelope, and outside the known list of processes that can shift them, would be very difficult to explain conventionally. Garry Nolan, Jacques Vallée and colleagues published the methodology for exactly this test in Progress in Aerospace Sciences in 2022, setting out the instrumental techniques - including secondary ion mass spectrometry - applicable to characterising unusual materials for aerospace forensics. The results so far do not support the claim: AARO\'s January 2026 supplement reports Oak Ridge National Laboratory found a specimen from Ohio to be a conventional aluminium-silicon casting alloy with large grain sizes, interconnected porosity and needle-like silicon precipitates - defects, not exotica. The dual-use route matters here too, because the national laboratories that would perform such analysis are the same ones that perform nuclear forensics under Restricted Data controls. Scoring high on this domain means an entity has held, analysed or controlled physical material.',
@@ -18073,7 +18047,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 142 of 976, score 45). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 142 of 970, score 45). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 3,
@@ -18142,7 +18116,7 @@ export const DOMAINS = [
   {
     id: 'd-coverup',
     cls: 'domain',
-    label: 'd-coverup',
+    label: 'The Cover-Up',
     cluster: 'other',
     sub: 'Operational domain - concealment run as a funded programme, not a passive silence',
     desc: 'This board treats concealment as a discipline with doctrine, staffing and a budget line, because that is how the surviving record describes it. The 17 January 1953 Robertson Panel, convened by CIA\'s Office of Scientific Intelligence, did not merely conclude that sightings were harmless - it recommended that the national security agencies \'take immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired\', through a programme of mass-media debunking and the monitoring of civilian UFO groups. That is a covert influence recommendation written by an intelligence agency about its own public. Forty-four years later CIA historian Gerald K. Haines, writing in the agency\'s own classified-then-declassified journal Studies in Intelligence, admitted that Air Force officers had knowingly issued false explanations - natural phenomena, ice crystals, temperature inversions - to Congress and the public for sightings the Air Force knew were U-2 and OXCART overflights, and called this \'not the full story\'. The documented route from ordinary secrecy into active concealment therefore runs through three mechanisms this board tracks separately: false official explanation, record destruction, and the redefinition of a programme so that the honest answer to a congressional question becomes technically \'no such programme exists\'. GAO\'s 1995 search for Roswell records found that outgoing messages from Roswell Army Air Field for 1946-1949 had been destroyed with no disposition authority and no destruction certificate on file - a documented gap where the destruction itself is the evidence. To be scored highly on this domain is to be a producer of concealment rather than merely a person kept in the dark by it: an author of cover stories, a signatory on a destruction order, a briefer who gave a denial he knew to be false.',
@@ -18154,7 +18128,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 109 of 976, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 109 of 970, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -18208,7 +18182,7 @@ export const DOMAINS = [
   {
     id: 'd-denial',
     cls: 'domain',
-    label: 'd-denial',
+    label: 'Official Denial',
     cluster: 'other',
     sub: 'Evidentiary domain - the denial as a dated, attributable artifact',
     desc: 'A denial is not the end of an inquiry on this board; it is an entry in it. The editorial rule is that every official denial gets recorded in full, with its author, its date, its precise wording and its scope - because the wording and the scope are the data. AARO\'s Volume I historical record report of February 2024 states flatly that the office found \'no empirical evidence\' that the US government or private companies have reverse-engineered extraterrestrial technology; what the same report also states is the scope of its search, the access it was granted, and which named programmes it did and did not resolve, and those are the parts a hostile audit turns on. The documented pattern that makes this a domain rather than a footnote is the historical one: the National Reconnaissance Office\'s very existence was an official secret from 1961 until 1992, meaning that for thirty-one years an accurate answer to \'does that organisation exist\' was legally required to be no. Denials therefore have a known failure mode - a categorical denial by an official without the relevant read-in is not a statement about the world but a statement about that official\'s access. Scoring on this domain measures how central official denial has been to an entity\'s public conduct: an agency spokesman who issues denials, a director who signs them, or a witness whose testimony a denial was written to rebut.',
@@ -18220,7 +18194,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 409 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 407 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18264,7 +18238,7 @@ export const DOMAINS = [
   {
     id: 'd-secrecy',
     cls: 'domain',
-    label: 'd-secrecy',
+    label: 'Secrecy Law & Classification',
     cluster: 'other',
     sub: 'Legal domain - the statutory and executive machinery that makes concealment lawful',
     desc: 'Everything this board describes is, on its face, legal - and that is the point. Classification authority flows from executive order rather than statute for most national security information, which means the same executive branch that runs a programme also decides whether Congress and the courts may learn of it. Layered on top are the Atomic Energy Act\'s \'born classified\' Restricted Data regime, the Invention Secrecy Act\'s power to impose secrecy orders on patent applications, and 50 U.S.C. 3510\'s authority for unvouchered and confidential expenditure certified by agency heads rather than audited. The dual-use route into a concealment programme is simple and requires no conspiracy: an activity placed inside a special access programme, then waived from ordinary congressional notification under the exception in 10 U.S.C. 119, is protected by exactly the same machinery whether it holds a stealth aircraft or a recovered craft, and the machinery cannot tell the difference. Scoring high on this domain means an entity is a wielder of classification authority - an original classification authority, a security officer, a programme security manager - rather than a person subject to it.',
@@ -18276,7 +18250,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 462 of 976, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 460 of 970, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -18320,7 +18294,7 @@ export const DOMAINS = [
   {
     id: 'd-secrecy-architecture',
     cls: 'domain',
-    label: 'd-secrecy-architecture',
+    label: 'Secrecy Architecture',
     cluster: 'other',
     sub: 'Structural domain - how compartments are stacked so that no single person sees the whole',
     desc: 'Compartmentation is not a synonym for secrecy; it is a specific engineering choice about who may hold which fragment, and it is the single most important structural fact on this board. The Manhattan Project is the documented ancestor: tens of thousands of workers at Oak Ridge and Hanford who could describe their own task precisely and had no authorised knowledge of the weapon, with compartmentation enforced by physical separation, need-to-know and a security apparatus reporting outside the technical chain. Applied to a recovery and reverse-engineering effort, the same architecture produces the effect witnesses repeatedly describe: a metallurgist who can characterise a sample without being told where it came from, a security officer who moves the container without being told what is in it, a programme manager who signs the contract without the read-in that would let him understand it. The consequence for evidence is severe and must be stated plainly - a compartmented programme generates almost no witness who can testify to the whole, only many witnesses who can each testify to a fragment, which is precisely the evidentiary signature critics cite as weakness. Scoring high here means an entity sits at a junction where fragments were assembled: a control officer, a security review authority, or a person read into more than one compartment at once.',
@@ -18332,7 +18306,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 441 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 439 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -18376,7 +18350,7 @@ export const DOMAINS = [
   {
     id: 'd-sap',
     cls: 'domain',
-    label: 'd-sap',
+    label: 'Special Access Programs',
     cluster: 'other',
     sub: 'Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs',
     desc: 'A special access programme is the mechanism by which the executive branch creates an information space with tighter controls than Top Secret and a smaller list of people who may enter it. The tier structure is documented policy, not speculation: acknowledged SAPs whose existence is public though their content is not; unacknowledged SAPs whose very existence is classified; and waived unacknowledged SAPs for which the Secretary of Defense has exercised the 10 U.S.C. 119 waiver so that notification runs only to the chairs and ranking members of the armed services and defence appropriations committees - eight members, typically without staff, typically orally. That last category is the load-bearing one for this board, because it is a lawful configuration in which a programme can run for decades while the overwhelming majority of Congress has no lawful means of learning it exists. In 2009 the Office of the Under Secretary of Defense for Intelligence prepared an information memorandum reviewing a request to convert DIA\'s advanced aerospace work into a special access programme - a documented instance of the transition being considered for exactly this subject matter. Scoring high on this domain means an entity held, granted, or was formally denied SAP-level access, and the denial is scored as heavily as the grant.',
@@ -18388,7 +18362,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 226 of 976, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 226 of 970, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -18432,7 +18406,7 @@ export const DOMAINS = [
   {
     id: 'd-counterintel',
     cls: 'domain',
-    label: 'd-counterintel',
+    label: 'Counterintelligence',
     cluster: 'other',
     sub: 'Operational domain - the security service pointed inward at the programme\'s own people',
     desc: 'Counterintelligence is the function that protects a programme from penetration, and in a compartmented programme it is also the function that protects the programme from its own personnel. The tools are ordinary and documented: polygraph, continuous evaluation, security clearance adjudication, non-disclosure agreements with criminal penalties, and the authority to revoke access administratively without the due process that attaches to a criminal charge. That last power is the one that matters most here, because clearance revocation is effectively unreviewable and can end a career without any finding of wrongdoing ever being made or defended. AFOSI is the service that recurs across this board\'s cases - Kirtland in 1980, Bennewitz in the early 1980s - and its charter combines criminal investigation with counterintelligence, which means the same organisation that protects a programme can open a criminal file on the person who talks about it. The dual-use route into concealment is therefore built into the job description rather than smuggled in. Scoring high on this domain means an entity exercised counterintelligence authority over others, or was the target of it in a way that is documented.',
@@ -18444,7 +18418,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 490 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 488 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -18484,7 +18458,7 @@ export const DOMAINS = [
   {
     id: 'd-oversight',
     cls: 'domain',
-    label: 'd-oversight',
+    label: 'Congressional Oversight',
     cluster: 'other',
     sub: 'Institutional domain - the committees, clearances and gaps through which Congress does or does not see',
     desc: 'Congressional oversight of the deepest access tiers is not a matter of will but of architecture, and the architecture is written down. Under 10 U.S.C. 119 the Secretary of Defense may waive notification of a special access programme so that only the chairs and ranking members of four defence committees are told - eight members, ordinarily without cleared staff, ordinarily orally, with no ability to take notes away or consult a colleague. A member outside that eight who suspects a programme exists has no lawful route to confirm it, and a member inside it has no lawful route to tell anyone. That is the structural fact the disclosure fight has been trying to break since 2017. The instruments Congress has reached for are traceable: mandatory reporting requirements in successive NDAAs, the creation of AARO with a statutory mandate to review the historical record, the Department of Defense Inspector General\'s evaluation DODIG-2023-109, and - on 9 September 2025 - a House Oversight hearing titled \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection\' that put the access problem itself on the record. Scoring high on this domain means an entity sits at the point where the executive\'s information meets Congress\'s right to it: a committee chair, a cleared staff director, an IG, or a member who forced a vote.',
@@ -18496,7 +18470,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 364 of 976, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 361 of 970, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -18550,7 +18524,7 @@ export const DOMAINS = [
   {
     id: 'd-legal',
     cls: 'domain',
-    label: 'd-legal',
+    label: 'Legal Doctrine & Liability',
     cluster: 'other',
     sub: 'Legal domain - non-disclosure agreements, state secrets, amnesty, and the whistleblower\'s exposure',
     desc: 'The law is the terrain on which a witness decides whether to speak, and the terrain is tilted. A person read into a special access programme signs a non-disclosure agreement with criminal exposure attached; the Intelligence Community Whistleblower Protection Act gives a lawful channel to the Inspector General but no protection at all for a disclosure made outside it; and the state secrets privilege can end a civil case before discovery without the court ever seeing the material. Against that stack, the disclosure movement\'s legislative answer has been amnesty and channel-building: the Senate\'s 2023 UAP Disclosure Act proposed immunity structures for contractors and personnel holding recovered material, and the UAP Whistleblower Protection Act - introduced as H.R. 10111 in the 118th Congress and reintroduced as H.R. 5060 on 29 August 2025 in the 119th - is an attempt to build a channel that does not run through the agencies being investigated. The documented cost of the current arrangement is visible in the DoD Inspector General\'s own product: DODIG-2023-109 exists because personnel used the IG channel, and its unclassified summary is nearly the whole of what the public received. Scoring high on this domain means an entity is a lawyer, litigant, adjudicator or drafter shaping what a witness may lawfully say.',
@@ -18562,7 +18536,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 577 of 976, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 573 of 970, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -18626,7 +18600,7 @@ export const DOMAINS = [
   {
     id: 'd-policy',
     cls: 'domain',
-    label: 'd-policy',
+    label: 'Executive Policy & Directives',
     cluster: 'other',
     sub: 'Institutional domain - executive orders, DoD directives and agency instructions that set the rules',
     desc: 'Below statute and above practice sits the directive layer, and it is where most of the concealment rules actually live. DoD Directive 5205.07 defines what a special access programme is, who may approve one, and what the acknowledged, unacknowledged and waived categories mean in practice. Classification authority itself flows from executive order rather than from Congress, meaning the rules governing what may be hidden are written by the branch doing the hiding and can be rewritten without a vote. Reporting requirements imposed by NDAA are implemented through this layer, which gives the executive substantial control over what a statutory mandate actually produces - the difference between a report that answers a question and a report that satisfies a requirement. The 2025-2026 period added a further wrinkle with executive-branch initiative on the science side: the creation of a UAP Science Advisory Council, announced in mid-2026 and to be led by Harvard astronomer Avi Loeb, is a directive-layer act rather than a legislative one and can be unmade the same way. Scoring high on this domain means an entity signs, drafts or implements directives.',
@@ -18638,7 +18612,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 667 of 976, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 662 of 970, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18682,7 +18656,7 @@ export const DOMAINS = [
   {
     id: 'd-disclosure',
     cls: 'domain',
-    label: 'd-disclosure',
+    label: 'Disclosure Movement',
     cluster: 'other',
     sub: 'Political domain - the organised effort to force the record open, 1969 to the present',
     desc: 'Disclosure is not a wish on this board; it is a campaign with identifiable phases, organisations and instruments. The modern phase begins with the December 2017 New York Times report on the Advanced Aerospace Threat Identification Program, runs through the Department of Defense\'s own release of three Navy videos on 27 April 2020, the June 2021 ODNI preliminary assessment, the July 2023 House Oversight hearing at which David Grusch, David Fravor and Ryan Graves testified under oath, and into a 2025-2026 phase characterised by whistleblower-protection legislation and records-release amendments rather than by revelation. The movement\'s distinctive feature is that it is coalitional and cross-partisan by necessity - its instruments are procedural (records law, IG complaints, hearing subpoenas, appropriations riders) because the substantive question is precisely the one it cannot get answered. Its documented achievements are the AARO statutory mandate, the NARA records collection, and a permanent shift in what an active-duty officer may say publicly without ending a career. Scoring high on this domain - the D axis - measures centrality to forcing the record open, and it is the one axis on which a person with no access at all can score three.',
@@ -18694,7 +18668,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 642 of 976, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 637 of 970, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -18753,7 +18727,7 @@ export const DOMAINS = [
   {
     id: 'd-legacy',
     cls: 'domain',
-    label: 'd-legacy',
+    label: 'Legacy Program',
     cluster: 'other',
     sub: 'Core domain - the alleged continuous recovery and reverse-engineering effort, 1940s to present',
     desc: 'This is the board\'s central claim expressed as a research domain: that a recovery, exploitation and reverse-engineering effort was stood up in the late 1940s, was subsequently moved outside ordinary acquisition and oversight channels, and has run continuously since - the word \'legacy\' being the term used by the witnesses themselves for a programme that predates every currently serving official. The claim\'s highest-grade attestation is sworn: on 26 July 2023 David Grusch told the House Oversight Committee, under oath and after having filed a protected disclosure with the Intelligence Community Inspector General, that he was informed by named individuals of a multi-decade crash retrieval and reverse-engineering programme, and that he provided that information with witnesses to the ICIG and to Congress. The government\'s own answer is on the record too: AARO\'s February 2024 Volume I report found \'no empirical evidence\' for the reverse-engineering claim, having interviewed approximately thirty individuals and investigated named programmes. Both documents belong on this board, and the disagreement between them is the research problem rather than its resolution. Scoring high on this domain means an entity is placed inside that continuity by testimony or by document - and the C axis, custody proximity, is the axis that most directly tests it.',
@@ -18765,7 +18739,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 180 of 976, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 180 of 970, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -18814,7 +18788,7 @@ export const DOMAINS = [
   {
     id: 'd-recovery',
     cls: 'domain',
-    label: 'd-recovery',
+    label: 'Retrieval & Recovery Operations',
     cluster: 'other',
     sub: 'Operational domain - the field work of locating, securing and removing downed material',
     desc: 'A retrieval is a logistics operation before it is anything else, and logistics leave paper. Cordon and site security, transport aircraft and tail numbers, crane and flatbed movements, chain-of-custody receipts, per diem and travel vouchers, medical screening of the recovery crew - each of these generates records in systems that have nothing to do with the classification of the object itself, which is why this domain is the most productive place for documentary research even when the programme records are sealed. The documented starting point is the 8 July 1947 Roswell Army Air Field press release announcing the recovery of a \'flying disc\', retracted the same day - and the GAO\'s 1995 finding that the base\'s outgoing messages for that period were destroyed without a certificate. The dual-use route into the classified world is straightforward: an ordinary aircraft-mishap recovery unit, a nuclear weapons accident response capability, or a foreign materiel exploitation team already possesses exactly the training and the legal authorities a retrieval would require, which means no new organisation need ever be created. Scoring high on this domain means an entity is placed at a site, in a convoy, or on a manifest.',
@@ -18826,7 +18800,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 193 of 976, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 193 of 970, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18875,7 +18849,7 @@ export const DOMAINS = [
   {
     id: 'd-reverse-engineering',
     cls: 'domain',
-    label: 'd-reverse-engineering',
+    label: 'Reverse Engineering',
     cluster: 'other',
     sub: 'Technical domain - exploitation of a recovered artifact into reproducible engineering',
     desc: 'Reverse engineering is a mature, unremarkable defence discipline - the United States has run foreign materiel exploitation on captured Soviet aircraft, missiles and radars for eight decades, with dedicated organisations, facilities and a documented workflow: teardown, materials characterisation, functional analysis, then reproduction attempts. The claim this board tracks is not that the discipline is exotic but that it was applied to an artifact of unknown origin, which changes only the input. The workflow\'s signature is what makes it researchable: exploitation requires metallurgists, spectroscopists, structural engineers and test facilities, and those people leave publication gaps, clearance records, and unexplained capability jumps in adjacent unclassified fields. AARO\'s Volume I report addresses the claim directly and rejects it; David Grusch\'s sworn July 2023 testimony asserts it directly. The honest statement of the evidentiary position is that no artifact has been produced for independent examination, and every materials analysis released to date - including AARO\'s own January 2026 supplement on an aluminium specimen analysed by Oak Ridge National Laboratory - has returned a conventional result. Scoring high on this domain means an entity is alleged or documented to have performed exploitation work.',
@@ -18887,7 +18861,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 215 of 976, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 215 of 970, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -18936,7 +18910,7 @@ export const DOMAINS = [
   {
     id: 'd-chem',
     cls: 'domain',
-    label: 'd-chem',
+    label: 'Chemistry & Isotopics',
     cluster: 'other',
     sub: 'Technical domain - elemental composition, isotope ratios and the chain of custody around a sample',
     desc: 'Chemistry is the discipline that would deliver the verdict, and it is also the discipline most easily destroyed by a broken chain of custody. Isotope ratio measurement by secondary ion mass spectrometry or thermal ionisation mass spectrometry can distinguish terrestrial from non-terrestrial origin at high confidence for many elements - the technique is routine in cosmochemistry, where meteoritic material is identified by exactly this signature. The Ubatuba magnesium fragments, examined since the 1950s, are the field\'s oldest test case and remain unresolved because provenance was never established. The strongest modern work runs through Avi Loeb\'s group, which published elemental and isotopic classification of spherules recovered from the Pacific site of the CNEOS 2014-01-08 bolide in Chemical Geology in December 2024, followed in March 2025 by a study relating the morphology and chemistry of D-type spherules - a demonstration that the analytical approach works and that its conclusions are contestable in the open literature. The dual-use route into classified work runs through the national laboratories: the same mass spectrometry capability underpins nuclear forensics, where results are Restricted Data from the moment they are produced. Scoring high on this domain means an entity performed, commissioned or controlled compositional analysis.',
@@ -18948,7 +18922,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 410 of 976, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 408 of 970, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18997,7 +18971,7 @@ export const DOMAINS = [
   {
     id: 'd-history',
     cls: 'domain',
-    label: 'd-history',
+    label: 'Historiography',
     cluster: 'other',
     sub: 'Methodological domain - how the record of this subject was assembled, and by whom',
     desc: 'The history of this subject is unusual in that its primary sources were almost entirely recovered by private citizens rather than by institutions, and that fact shapes everything downstream. The official corpus - Project Sign, Project Grudge, Project Blue Book, the 1953 Robertson Panel, the 1968 Condon Report, the 1997 Haines article, the 2024 AARO historical record report - is thin, internally inconsistent and repeatedly revised. The unofficial corpus, built by FOIA requesters and archivists over five decades, is far larger, and the whole discipline therefore depends on distinguishing between a document a government chose to release and a document a citizen forced it to release. AARO\'s own Volume I is a historiographical act as much as an investigative one: it reconstructs the record of USG UAP investigatory programmes since 1945 and assesses interviewee claims against it, which makes its scope choices - which programmes it examined, which it did not - the most consequential thing in it. Scoring high on this domain means an entity built, curated or reshaped the documentary record itself.',
@@ -19009,7 +18983,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 784 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 779 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -19058,7 +19032,7 @@ export const DOMAINS = [
   {
     id: 'd-research',
     cls: 'domain',
-    label: 'd-research',
+    label: 'Scientific Research',
     cluster: 'other',
     sub: 'Methodological domain - peer review, instrumentation and the professional cost of working on this',
     desc: 'The scientific study of this subject has an unusual structure: the instrumentation is straightforward, the data are held by parties that will not release them, and the career penalty for asking has historically been severe. That penalty is documented rather than anecdotal - the NASA Unidentified Anomalous Phenomena Independent Study Team, chaired by David Spergel and reporting in September 2023, identified stigma as a first-order obstacle and recommended that NASA use its public standing explicitly to destigmatise reporting, alongside findings that existing UAP analysis suffers from poor sensor calibration and missing metadata. The productive research programmes of the last decade have therefore been instrumentation-first rather than case-first: the Galileo Project\'s integrated detection platform, published in the Journal of Astronomical Instrumentation in 2023, and the materials-forensics methodology published by Nolan and Vallée in Progress in Aerospace Sciences in 2022. The dual-use route into classified work is the ordinary one for any physical science - a clearance, a national laboratory appointment, or a contract - and the researchable signature it leaves is a publication gap. Scoring high on this domain means an entity produced peer-reviewed work on the phenomenon or built the instruments that could.',
@@ -19070,7 +19044,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 643 of 976, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 638 of 970, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -19125,7 +19099,7 @@ export const DOMAINS = [
   {
     id: 'd-bio',
     cls: 'domain',
-    label: 'd-bio',
+    label: 'Biology & Non-Human Biologics',
     cluster: 'other',
     sub: 'Scientific domain - the claim of recovered biological material and what would be required to test it',
     desc: 'This is the highest-stakes and lowest-evidence domain on the board, and the asymmetry has to be stated plainly. The claim entered the sworn record on 26 July 2023, when David Grusch told the House Oversight Committee that non-human biologics had been recovered with craft, attributing the information to individuals he had interviewed and had referred to the Intelligence Community Inspector General. No such material has been produced for independent examination, and AARO\'s February 2024 report states it found no empirical evidence supporting the associated retrieval claims. What makes the domain researchable rather than merely contested is that biological exploitation would leave an unmistakable infrastructure footprint - containment facilities, a genomics capability, veterinary or forensic pathology staffing, tissue banking, and biosafety documentation - and that footprint is auditable in a way that a single artifact is not. The dual-use route runs through the biodefence enterprise, where high-containment work is routine and where compartmentation for reasons unrelated to this subject is normal. Scoring high on this domain means an entity is alleged or documented to have handled, analysed or controlled biological material.',
@@ -19137,7 +19111,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 316 of 976, score 32). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 314 of 970, score 32). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -19187,7 +19161,7 @@ export const DOMAINS = [
   {
     id: 'd-nuclear',
     cls: 'domain',
-    label: 'd-nuclear',
+    label: 'Nuclear Security & Restricted Data',
     cluster: 'other',
     sub: 'Legal-technical domain - the \'born classified\' regime and its use as an alternative concealment channel',
     desc: 'The Atomic Energy Act creates the only category of information in American law that is classified from the instant it comes into existence, without any official act: Restricted Data, covering the design, manufacture and use of nuclear weapons and the production of special nuclear material. That regime is administered by the Department of Energy and the National Nuclear Security Administration rather than by the Department of Defense, runs on its own clearance system - Q and L access authorisations - and reports to different congressional committees. For a concealment architecture this is an alternative channel of considerable value: material characterised at a national laboratory under Restricted Data controls is protected by a statute rather than an executive order, is outside the SAP notification framework of 10 U.S.C. 119, and is audited by a different set of overseers. The documented convergence is that the laboratories that would perform the analysis - Los Alamos, Sandia, Oak Ridge, Livermore - are precisely the DOE complex, and AARO\'s own January 2026 materials analysis was in fact performed by Oak Ridge National Laboratory. Scoring high on this domain means an entity held Q clearance, worked the DOE complex, or exercised Restricted Data authority.',
@@ -19199,7 +19173,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 442 of 976, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 440 of 970, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -19245,7 +19219,7 @@ export const DOMAINS = [
   {
     id: 'd-witness',
     cls: 'domain',
-    label: 'd-witness',
+    label: 'Witness Chain',
     cluster: 'other',
     sub: 'Evidentiary domain - who told whom, under what oath, and with what corroboration',
     desc: 'A compartmented programme cannot produce a witness who saw the whole of it, so the evidence available is necessarily a chain rather than a testimony, and the chain\'s links have to be graded individually. This board distinguishes four grades in descending order: sworn testimony before a congressional committee under penalty of perjury; a signed complaint to an Inspector General, which carries criminal exposure for false statements; an on-the-record statement to a named journalist; and an anonymous account, which is recorded but cannot be scored above tier 3. The 26 July 2023 House Oversight hearing is the field\'s highest-grade single event, putting David Grusch, David Fravor and Ryan Graves under oath on the same afternoon - two of them describing what they personally observed, the third describing what he was told by others he named to the Intelligence Community Inspector General. The structural weakness the board must state honestly is that most links are second-hand by design, because the people with first-hand knowledge are the ones whose non-disclosure agreements carry criminal penalties. Scoring high on this domain means an entity is a link in a documented chain - either as a source, a recipient, or the person who put it under oath.',
@@ -19257,7 +19231,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 257 of 976, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 254 of 970, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -19317,7 +19291,7 @@ export const DOMAINS = [
   {
     id: 'd-aviators',
     cls: 'domain',
-    label: 'd-aviators',
+    label: 'Military Aviators & Operators',
     cluster: 'other',
     sub: 'Witness domain - the trained observers whose accounts came with sensor corroboration',
     desc: 'Aviators are the highest-value witness class in this field for one reason: their observations arrive with instrumentation attached. A fighter pilot\'s account of an object is accompanied by radar tracks, targeting-pod video, wingman corroboration and, in the Navy\'s case, an entire carrier strike group\'s sensor picture - which converts a subjective report into a multi-sensor event that can be argued about technically. That is why the 2004 Nimitz encounter and the 2014-2015 Roosevelt encounters became the fulcrum of the modern disclosure period, and why the Department of Defense\'s formal release of the FLIR1, GIMBAL and GOFAST videos on 27 April 2020 mattered so much: the government authenticated the imagery while declining to explain it. Ryan Graves\'s testimony added the operational dimension that outlasts any single case - that objects were being encountered routinely off the eastern seaboard, that there was no functioning reporting mechanism, and that the stigma attached to reporting was itself a flight safety hazard. Knuth, Powell and Reali\'s peer-reviewed analysis of the Nimitz kinematics turned the accounts into numbers. Scoring high on this domain means an entity flew, controlled or commanded during such an event.',
@@ -19329,7 +19303,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 443 of 976, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 441 of 970, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -19394,7 +19368,7 @@ export const DOMAINS = [
   {
     id: 'd-ic',
     cls: 'domain',
-    label: 'd-ic',
+    label: 'Intelligence Community',
     cluster: 'other',
     sub: 'Institutional domain - the eighteen elements, their separate authorities, and where UAP work sat',
     desc: 'The intelligence community is not one organisation but a federation of elements with distinct legal authorities, distinct appropriations and distinct oversight committees, and that federated structure is itself a concealment resource - an activity can be positioned in the seam between two elements\' jurisdictions and be nobody\'s to report. The documented UAP-relevant history runs through several of them: CIA\'s Office of Scientific Intelligence convened the Robertson Panel in 1953 and CIA\'s own in-house historian later admitted the agency\'s role in shaping public explanations; NSA fought and won FOIA litigation to withhold the substance of its holdings; DIA solicited, awarded and administered AAWSAP from 2008 and considered converting its successor into a special access programme in 2009; and ODNI produced the June 2021 preliminary assessment and now houses the annual reporting requirement. The Intelligence Community Inspector General is the structural pressure point, because it is the only channel through which an IC employee can lawfully raise an urgent concern that reaches Congress. Scoring high on this domain means an entity held an IC billet, ran an IC element, or exercised IC authority over the subject.',
@@ -19406,7 +19380,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 216 of 976, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 216 of 970, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -19466,7 +19440,7 @@ export const DOMAINS = [
   {
     id: 'd-intel',
     cls: 'domain',
-    label: 'd-intel',
+    label: 'Intelligence Tradecraft & Analysis',
     cluster: 'other',
     sub: 'Methodological domain - collection management, source validation and the analytic habits this subject breaks',
     desc: 'Intelligence analysis has a well-developed methodology for exactly this problem - a low-volume, high-consequence phenomenon with contaminated reporting - and applying it honestly is the discipline this board tries to import. The core tools are indications and warning analysis, source validation and the separation of collection gaps from analytic conclusions; the characteristic failure mode is treating an absence of collection as evidence of absence. ODNI\'s June 2021 preliminary assessment is an unusually candid document on precisely this point, stating that the limited and inconsistent quality of available reporting - not the phenomena themselves - was the principal obstacle to characterisation. The domain\'s most productive application in open literature is the indications analysis of UAP reporting against the United States atomic warfare complex published by Hancock, Porritt and Grosvenor, which uses a standard intelligence method on an unclassified corpus. The dual-use route is that the tradecraft used to validate a source is the same tradecraft used to discredit one, and a counterintelligence organisation possesses both. Scoring high on this domain means an entity did analytic work on the subject or managed collection against it.',
@@ -19478,7 +19452,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 491 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 489 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -19527,7 +19501,7 @@ export const DOMAINS = [
   {
     id: 'd-funding',
     cls: 'domain',
-    label: 'd-funding',
+    label: 'Funding Channels',
     cluster: 'other',
     sub: 'Financial domain - how money reaches an unacknowledged programme and why it cannot be traced',
     desc: 'Money is the most auditable thing a concealed programme touches, and this is where the board\'s hardest evidence should eventually come from. The documented channels are all ordinary: classified programme elements carried in the defence budget as a single line with no descriptive text; general transfer authority, exercised annually under provisions such as Sections 8005 and 8006 of the Department of Defense Appropriations Acts, which lets the Department move substantial sums between accounts after enactment; Military Interdepartmental Purchase Requests, which move money between agencies without a new appropriation; contractor Independent Research and Development, which is company money reimbursed as an allowable overhead cost and is therefore government-funded work with no government line item; and the unvouchered expenditure authority of 50 U.S.C. 3510, under which the head of an agency may account for spending by certificate alone. The reason this is more than theory is that the Department of Defense has never passed a clean financial audit; the DoD Inspector General reported in 2016 that Army General Fund adjustments were not adequately documented or supported, and the audit findings have continued through the FY2025 cycle. Scoring high on this domain means an entity moves, certifies or conceals money.',
@@ -19539,7 +19513,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 227 of 976, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 227 of 970, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -19609,7 +19583,7 @@ export const DOMAINS = [
   {
     id: 'd-money',
     cls: 'domain',
-    label: 'd-money',
+    label: 'Black Budget & Unaccounted Funds',
     cluster: 'other',
     sub: 'Financial domain - the audit failure as an enabling condition rather than a scandal',
     desc: 'This domain narrows d-funding to a single question: how much money moves through the Department of Defense without a traceable link between appropriation and expenditure, and could a programme live inside that gap. The auditable facts are that the Department of Defense has never passed a full financial statement audit, that its own Inspector General has repeatedly documented unsupported journal voucher adjustments, and that the accounting standard for such adjustments is set out in the DoD Financial Management Regulation rather than in any statute Congress votes on annually. The academic work in this space is Mark Skidmore\'s, conducted at Michigan State University, which aggregated unsupported adjustments across multiple years of departmental financial reports and produced totals in the tens of trillions of dollars of gross adjustment volume - a figure that must be stated carefully, because gross adjustments are not missing money and conflating the two is the fastest way to lose an argument. The correct claim is narrower and stronger: the Department cannot demonstrate where its money went, and an entity that cannot demonstrate where its money went cannot demonstrate that none of it funded an unacknowledged programme. Scoring high here means an entity is positioned inside that opacity.',
@@ -19621,7 +19595,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 365 of 976, score 30). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 362 of 970, score 30). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -19708,7 +19682,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 145 of 976, score 45). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 145 of 970, score 45). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -19814,7 +19788,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 238 of 976, score 36). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 238 of 970, score 36). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -19865,7 +19839,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 137 of 976, score 46). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 137 of 970, score 46). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -19931,7 +19905,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 198 of 976, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 198 of 970, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -19983,7 +19957,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 929 of 976, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 924 of 970, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -20014,7 +19988,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 890 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 885 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -20050,7 +20024,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 85 of 976, score 59). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 85 of 970, score 59). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20096,7 +20070,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 770 of 976, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 765 of 970, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -20132,7 +20106,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 455 of 976, score 27). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 453 of 970, score 27). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -20188,7 +20162,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 625 of 976, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 621 of 970, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -20240,7 +20214,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 327 of 976, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 325 of 970, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -20306,7 +20280,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 425 of 976, score 28). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 423 of 970, score 28). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -20368,7 +20342,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 772 of 976, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 767 of 970, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -20419,7 +20393,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 609 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 605 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -20485,7 +20459,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 651 of 976, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 646 of 970, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -20536,7 +20510,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 178 of 976, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 178 of 970, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -20592,7 +20566,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 352 of 976, score 31). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 349 of 970, score 31). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20653,7 +20627,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 506 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 504 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20709,7 +20683,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 303 of 976, score 33). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 301 of 970, score 33). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20760,7 +20734,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 188 of 976, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 188 of 970, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20811,7 +20785,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 426 of 976, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 424 of 970, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20867,7 +20841,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 456 of 976, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 454 of 970, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20918,7 +20892,7 @@ export const DOMAINS = [
     dateEnd: '1997-06-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 234 of 976, score 37). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 234 of 970, score 37). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -20984,7 +20958,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 708 of 976, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 703 of 970, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -21036,7 +21010,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 536 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 534 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -21103,7 +21077,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 375 of 976, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 372 of 970, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -21160,7 +21134,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 328 of 976, score 32). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 326 of 970, score 32). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -21226,7 +21200,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 626 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 622 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -21277,7 +21251,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 329 of 976, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 327 of 970, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -21333,7 +21307,7 @@ export const DOMAINS = [
     dateEnd: '1995-11-28',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 507 of 976, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 505 of 970, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -21390,7 +21364,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 652 of 976, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 647 of 970, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -21441,7 +21415,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 457 of 976, score 27). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 455 of 970, score 27). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -21503,7 +21477,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 508 of 976, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 506 of 970, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -21560,7 +21534,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 104 of 976, score 53). 6 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 105 of 970, score 53). 6 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -21634,7 +21608,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2024-sec1687',
     cls: 'legislation',
-    label: 'ndaa-fy2024-sec1687',
+    label: 'NDAA FY2024 Sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs',
     cluster: 'other',
     sub: 'Enacted funding cutoff for undisclosed UAP activity and UAP-related IR&D',
     desc: 'Section 1687 of Public Law 118-31 is the enacted law that treats the contractor-custody allegation as a live risk. Subsection (a) bars obligation or expenditure of any funds authorised by the Act \'in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations\' unless the Secretary of Defense has provided the details to the congressional defense committees, the two intelligence committees and the four congressional leaders. Subsection (b) then reaches into private accounts: consistent with DoDI 3204.01, \'independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available\' to those same committees and leaders. Section 7343 of the same public law imposes the parallel limitation on intelligence appropriations through the Director of National Intelligence. Congress in December 2023 legislated a funding cutoff for a category of program the executive branch says does not exist, and closed the specific accounting channel a whistleblower had named under oath five months earlier. No public accounting has ever been made of a disclosure under either subsection.',
@@ -21646,7 +21620,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 223 of 976, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 223 of 970, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -21700,7 +21674,7 @@ export const LEGISLATION = [
   {
     id: 'defense-appropriations-aawsap',
     cls: 'legislation',
-    label: 'defense-appropriations-aawsap',
+    label: 'Defense Appropriations Acts FY2008 and FY2010 — the $22M AAWSAP appropriation',
     cluster: 'other',
     sub: 'Classified annex appropriation directed by Senate leadership',
     desc: 'The funding instrument, and the reason the whole thing stayed invisible. AARO\'s own history states that \'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.\' The money was placed in the classified annex with the agreement of Appropriations chairman Daniel Inouye and senior Republican Ted Stevens, which meant it never appeared in a public budget justification, was never authorised by the Armed Services Committees, and was never subject to floor debate. The structural consequence runs through the entire modern disclosure fight: a program can be created, staffed, contracted and terminated over ten years using appropriated funds without the authorizing committees ever seeing it, and the only reason this one surfaced is that a newspaper published a story in December 2017 and DIA then had to write the Senate Armed Services Committee a letter explaining what it had been doing. The specific bill language and account line have never been released.',
@@ -21712,7 +21686,7 @@ export const LEGISLATION = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 205 of 976, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 205 of 970, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -21763,7 +21737,7 @@ export const LEGISLATION = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 8 of 976, score 135). 24 connections, 9 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 7 of 970, score 135). 24 connections, 9 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -21914,7 +21888,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 921 of 976, score 8). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 916 of 970, score 8). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -21955,7 +21929,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 597 of 976, score 21). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 593 of 970, score 21). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22012,7 +21986,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 740 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 735 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22064,7 +22038,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 125 of 976, score 48). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 125 of 970, score 48). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22176,7 +22150,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 34 of 976, score 84). 9 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 33 of 970, score 84). 9 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22343,7 +22317,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 881 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 876 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22380,7 +22354,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 68 of 976, score 65). 8 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 68 of 970, score 65). 8 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -22482,7 +22456,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 953 of 976, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 948 of 970, score 7). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22523,7 +22497,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 963 of 976, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 958 of 970, score 6). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -22547,7 +22521,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2022-sec-1683',
     cls: 'legislation',
-    label: 'ndaa-fy2022-sec-1683',
+    label: 'FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)',
     cluster: 'other',
     sub: 'Gillibrand\'s founding authority for AARO',
     desc: 'Section 1683 of the FY2022 NDAA, signed 27 December 2021, is the statutory root of the entire modern apparatus. It directed the Secretary of Defense, in coordination with the DNI, to establish within 180 days an office inside the Office of the Secretary of Defense or a joint DoD/ODNI organisation to carry out the duties of the Unidentified Aerial Phenomena Task Force. Its enumerated duties reach beyond analysis into governance: synchronising and standardising collection and reporting \'including adverse physiological effects\' across DoD and the intelligence community, forcing incident reports into a centralised repository, evaluating links to adversary and non-state actors, and coordinating with the FAA, NASA, DHS, NOAA and the Department of Energy. It is codified at 50 U.S.C. 3373, and every subsequent UAP provision — Sec. 1673 of the FY2023 NDAA, Sec. 1687 and Sec. 7343 of the FY2024 NDAA, Sec. 6801 of the IAA FY2025, and Secs. 1671-1673 of the FY2026 NDAA — cross-references it. It was restated in full by Sec. 6802 of the IAA FY2023, which named the office the All-domain Anomaly Resolution Office, set the Director reporting to the Deputy Secretary of Defense and the Principal Deputy DNI, entitled ten named intelligence elements to place detailees inside it, and added subsection (j), the Historical Record Report on the United States Government\'s dealings with UAP built from intelligence community records, oral histories and interviews of current and former officials.',
@@ -22559,7 +22533,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 181 of 976, score 41). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 181 of 970, score 41). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -22608,7 +22582,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2023-sec-1673',
     cls: 'legislation',
-    label: 'ndaa-fy2023-sec-1673',
+    label: 'FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)',
     cluster: 'other',
     sub: 'Authorized reporting mechanism and whistleblower protection',
     desc: 'Section 1673 is the provision that makes the legacy programme a matter of enacted federal law rather than allegation, and it is routinely underrated. It orders the Secretary of Defense, through the head of AARO, to establish a secure mechanism for authorized reporting of \'any activity or program by a department or agency of the Federal Government or a contractor of such a department or agency relating to unidentified anomalous phenomena, including with respect to material retrieval, material analysis, reverse engineering, research and development, detection and tracking, developmental or operational testing, and security protections and enforcement.\' Congress does not legislate reporting channels for categories of programme it believes do not exist. The protections are unusually strong: an authorized disclosure \'shall not be subject to a nondisclosure agreement entered into by the individual who makes the disclosure,\' is deemed to comply with Executive Order 13526 and with chapter 18 of the Atomic Energy Act, and \'is not a violation of section 798 of title 18\' or any other disclosure statute. Reprisal — including \'the revocation or suspension of security clearances, or termination of employment\' — is prohibited. Subsection (b)(3) then orders DoD, ODNI, DHS, other supporting agencies and Federal contractors that \'have supported or are supporting such activities and programs\' to conduct comprehensive searches of all records relating to nondisclosure orders on these subjects and deliver copies to AARO, which must make them accessible to the defence and intelligence committees and congressional leadership. This is a statutory census of the gag orders. It has never been reported as completed.',
@@ -22620,7 +22594,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 94 of 976, score 57). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 94 of 970, score 57). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22674,7 +22648,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2024-subtitle-c',
     cls: 'legislation',
-    label: 'ndaa-fy2024-subtitle-c',
+    label: 'P.L. 118-31 Subtitle C — Secs. 1841-1843 (what survived)',
     cluster: 'other',
     sub: 'Enacted UAP records regime, 22 December 2023',
     desc: 'What Congress actually enacted is a records-transfer statute with the enforcement removed. Sec. 1841 orders the Archivist to establish the Unidentified Anomalous Phenomena Records Collection, requires physical integrity and original provenance to be preserved, requires public availability within 30 days of transmission and online within 180 days thereafter, and assigns continuing oversight to six committees. Sec. 1842 bars destruction, alteration or mutilation of any UAP record, bars withholding or reclassification of anything already public, bars withholding of records created outside the Federal Government, and gives agency heads 300 days to review and organise. Sec. 1843 is where it fails. Postponement may be ordered where \'the original classification authority makes a determination that there is clear and convincing evidence\' of harm — the clear and convincing standard survives, but the person applying it is the classifier rather than an independent board, which converts a check into a self-certification. Senior Agency Officials may unilaterally withdraw records from the Collection on a determination that they are both unrelated to UAP and properly classified, needing only to notify Congress 60 days beforehand. Where disclosure is postponed the agency head must notify congressional leadership within 15 days with a reason. There is no appeal, no de novo review, no subpoena and no mechanism reaching material rather than paper.',
@@ -22686,7 +22660,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 121 of 976, score 49). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 121 of 970, score 49). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -22745,7 +22719,7 @@ export const LEGISLATION = [
   {
     id: 'iaa-fy2024-sec-1102',
     cls: 'legislation',
-    label: 'iaa-fy2024-sec-1102',
+    label: 'IAA FY2024 Sec. 1102 — contractor turn-in of \'non-earth origin\' material',
     cluster: 'other',
     sub: 'Division M, S. 2226 as passed by the Senate; gutted into Sec. 7343',
     desc: 'Warner\'s Section 1102 is the most direct legislative assault on contractor-held material ever passed by a chamber of Congress, and it is far less well known than the eminent domain clause. It opens with a sense of Congress that the Federal Government \'must expand awareness about any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes\' — a statement that the Government has previously handed exotic technology to industry. It then cuts off all funds for UAP activity under special or restricted access not \'formally, officially, explicitly, and specifically described, explained, and justified\' to Congress and the AARO Director, enumerating six categories including personnel whose mission is \'capturing, recovering, and securing unidentified anomalous phenomena craft or pieces and components of such craft,\' analysis to determine \'material composition, method of manufacture, origin,\' \'reverse engineering or replicating unidentified anomalous phenomena technology,\' and \'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.\' Subsection (d) then requires any current or former Federal contractor holding such material to notify the AARO Director within 60 days and, within 180 days, to make available all of it plus \'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.\' Subsection (e) grants full civil and criminal immunity to those who comply. Subsection (f) disallows independent research and development funding on such material as an indirect expense unless it is surrendered, effective 60 days after enactment and applicable to money appropriated before as well as after. The Senate passed all of this on 27 July 2023.',
@@ -22757,7 +22731,7 @@ export const LEGISLATION = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 57 of 976, score 70). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 57 of 970, score 70). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22821,7 +22795,7 @@ export const LEGISLATION = [
   {
     id: 'pl118-31-sec-7343',
     cls: 'legislation',
-    label: 'pl118-31-sec-7343',
+    label: 'P.L. 118-31 Sec. 7343 — the truncated funding limitation',
     cluster: 'other',
     sub: 'Enacted remnant of IAA FY2024 Sec. 1102',
     desc: 'Section 7343 is the scar tissue left by the excision, and it can be read as evidence of haste. The enacted section keeps a bare prohibition on obligating intelligence funds for UAP activity under special or restricted access limitations unless the DNI has described it to the intelligence, armed services and appropriations committees and congressional leadership. It then keeps subsection (c): \'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available to the appropriate congressional committees and leadership.\' There is no antecedent for \'such instruction\' anywhere in Section 7343. In the Senate original the phrase referred to Department of Defense Instruction 3204.01, cited in full in Section 1102(f)(1); when the drafters cut Section 1102 down they deleted the citation and left the pronoun stranded. The enacted United States Statutes at Large therefore contains a UAP provision that refers to an instruction it never identifies. The same subsection also loses its point: in the Senate text the disallowance was lifted only if the material was surrendered to the AARO Director under the turn-in subsection; in the enacted text it is lifted if the material is \'made available to the appropriate congressional committees and leadership,\' with no turn-in subsection left to make it available under.',
@@ -22833,7 +22807,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 228 of 976, score 37). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 228 of 970, score 37). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -22882,7 +22856,7 @@ export const LEGISLATION = [
   {
     id: 'iaa24-sec7343',
     cls: 'legislation',
-    label: 'iaa24-sec7343',
+    label: 'IAA FY2024 Section 7343 - Funding Limitations Relating to Unidentified Anomalous Phenomena',
     cluster: 'other',
     sub: 'The intelligence-side twin of Section 1687, running through the DNI',
     desc: 'Division F of Public Law 118-31, the Intelligence Authorization Act for Fiscal Year 2024, contains at section 7343 the mirror image of section 1687. Subsection (b) bars obligation or expenditure of funds authorised by that division \'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.\' The \'appropriate committees\' are defined more broadly than in section 1687: the Select and Permanent Select Committees on Intelligence, the Armed Services Committees and, notably, the Appropriations Committees of both chambers. Subsection (c) repeats the IR&D prohibition, but in the enrolled text the reference to DoD Instruction 3204.01 has been dropped, leaving the clause reading \'for purposes of contracts covered by such instruction\' with no antecedent - a dangling cross-reference in enacted law. The pairing matters: Congress wrote the same funding bar twice, once for the Secretary of Defense and once for the Director of National Intelligence, which indicates the drafters did not know, or would not assume, on which side of the NIP/MIP line the activity they were legislating against sat.',
@@ -22894,7 +22868,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 182 of 976, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 182 of 970, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22943,7 +22917,7 @@ export const LEGISLATION = [
   {
     id: 'iaa-fy2024-7343',
     cls: 'legislation',
-    label: 'iaa-fy2024-7343',
+    label: 'FY2024 Intelligence Authorization Act sec. 7343 — Funding Limitations Relating to UAP',
     cluster: 'other',
     sub: 'statute',
     desc: 'Division G of Public Law 118-31 is the Intelligence Authorization Act for Fiscal Year 2024, and its section 7343 mirrors section 1687 on the intelligence side with a different addressee and a wider committee list. Subsection (b): \'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.\' Its \'appropriate committees of Congress\' are the Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the Senate, and the Permanent Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the House - six committees, plus the four congressional leaders. Subsection (c) carries the same independent research and development prohibition. Read together, sections 1687 and 7343 mean that as of 22 December 2023 both the Secretary of Defense and the Director of National Intelligence are under a statutory funding prohibition for unreported UAP special access activity, and both prohibitions run to a combined audience far wider than the 10 U.S.C. 119(e) waiver group. Congress did not repeal the waiver; it built a subject-matter carve-out around it.',
@@ -22955,7 +22929,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 129 of 976, score 47). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 129 of 970, score 47). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23024,7 +22998,7 @@ export const LEGISLATION = [
   {
     id: 'pl118-31-sec-1687',
     cls: 'legislation',
-    label: 'pl118-31-sec-1687',
+    label: 'P.L. 118-31 Sec. 1687 — limitation on funds for unreported programs',
     cluster: 'other',
     sub: 'The surviving teeth, lapsed after FY2024',
     desc: 'Section 1687 is the one enacted provision that reaches at the concealment itself rather than at the paperwork. It bars any funds authorised by the FY2024 NDAA from being obligated or expended \'in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.\' Subsection (b), noted as 50 U.S.C. 3373 note, then bars UAP-related independent research and development from being allowable as an indirect expense on covered contracts unless the material and information is made available to those same committees — a direct strike at the mechanism by which contractor-held work can be paid for out of overhead without appearing as a Government programme. Its limitation is structural: it restricts funds \'authorized to be appropriated or otherwise made available by this Act,\' meaning the FY2024 Act only. It was not re-enacted in the FY2025 NDAA or the FY2026 NDAA, neither of which contains the phrase \'special access or restricted access\'. The statutory bar therefore covered one fiscal year and has now been absent for two.',
@@ -23036,7 +23010,7 @@ export const LEGISLATION = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 115 of 976, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 115 of 970, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -23095,7 +23069,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa24-sec1687',
     cls: 'legislation',
-    label: 'ndaa24-sec1687',
+    label: 'NDAA FY2024 Section 1687 - Limitation on Use of Funds for Certain Unreported Programs',
     cluster: 'other',
     sub: 'The statute that names the mechanism: special access funding and contractor IR&D',
     desc: 'This is the most important single provision on this board, because it is Congress, in enacted law, naming the two mechanisms by which it believed UAP work was being funded outside its sight. Section 1687 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118-31, enacted 22 December 2023) is headed \'Limitation on Use of Funds for Certain Unreported Programs\'. Subsection (a) bars obligation or expenditure of any funds authorised by the Act \'in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.\' Subsection (b), carrying the codification note \'50 USC 3373 note\', is headed \'Limitation Regarding Independent Research and Development\' and provides that \'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.\' The syntax of the last clause is defective in the enrolled text - \'made available the appropriate congressional committees\' - which is itself worth noting as evidence of late drafting. The substance is not defective at all. Congress legislated a bar on the reimbursement, as an allowable indirect cost, of contractor-directed research relating to UAP. You do not write that sentence unless you believe such reimbursement has been happening. Subsection (a) was limited to funds authorised by that Act and therefore lapsed with fiscal year 2024; subsection (b), by its terms and by its codification as a permanent note, carries no fiscal-year limitation and remains law.',
@@ -23107,7 +23081,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 144 of 976, score 45). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 144 of 970, score 45). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23156,7 +23130,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2024-1687',
     cls: 'legislation',
-    label: 'ndaa-fy2024-1687',
+    label: 'FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs',
     cluster: 'other',
     sub: 'statute',
     desc: 'Section 1687 of the National Defense Authorization Act for Fiscal Year 2024 is the moment the SAP architecture and the UAP question meet in enacted law. Subsection (a): \'None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.\' Subsection (b) closes the industry-funded route: consistent with DoD Instruction 3204.01, \'independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership\'. The definitions widen the audience well past 10 U.S.C. 119(g): \'appropriate congressional committees\' means the congressional defense committees plus both intelligence committees, and \'congressional leadership\' means the majority and minority leaders of the Senate and the Speaker and minority leader of the House. Three things follow. First, Congress enacted, on 22 December 2023, a funding prohibition premised on the possibility that UAP activity was being run under special access or restricted access limitations without being reported - a premise it would not have legislated against had it been satisfied no such activity existed. Second, subsection (b) targets precisely the mechanism by which a contractor can fund work internally and recover it as overhead, which is the route that does not appear in any appropriation line. Third, by naming the AARO fiscal year 2024 report, Congress tied the prohibition to a specific document rather than leaving it abstract.',
@@ -23168,7 +23142,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 89 of 976, score 58). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 89 of 970, score 58). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23237,7 +23211,7 @@ export const LEGISLATION = [
   {
     id: 'iaa-fy2025-title-lxviii',
     cls: 'legislation',
-    label: 'iaa-fy2025-title-lxviii',
+    label: 'IAA FY2025 Title LXVIII — Secs. 6801-6802 (P.L. 118-159)',
     cluster: 'other',
     sub: 'GAO review of AARO; sunset of Historical Record audit',
     desc: 'Title LXVIII of the Intelligence Authorization Act for FY2025, enacted inside P.L. 118-159 on 23 December 2024, is what UAP oversight looked like in the year the disclosure bill got no vote. Sec. 6801 directs the Comptroller General to review AARO\'s implementation of its duties under 50 U.S.C. 3373, including its operational reporting process and its coordination with DoD, the intelligence community, other agencies and non-Government entities, and to report to the intelligence and defence committees and congressional leadership \'in a timeframe mutually agreed upon\' — a deadline with no date in it. Sec. 6802 does the opposite of oversight: it amends Sec. 6803 of the IAA FY2023 to terminate the Comptroller General\'s quarterly information-sharing on Historical Record Report audits 90 days after the final volume is delivered, and the semiannual verbal briefings to Congress 180 days after. The FY2025 cycle therefore both commissions a new GAO look and puts an expiry on the existing one, while the disclosure regime the Senate had passed twice went unconsidered.',
@@ -23249,7 +23223,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 411 of 976, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 409 of 970, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -23293,7 +23267,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa-fy2026-uap-provisions',
     cls: 'legislation',
-    label: 'ndaa-fy2026-uap-provisions',
+    label: 'FY2026 NDAA UAP provisions',
     cluster: 'other',
     sub: 'Three UAP measures directed at AARO, December 2025',
     desc: 'Three UAP provisions were carried in the fiscal 2026 National Defense Authorization Act, each targeting a specific AARO failure mode. First, AARO must brief Congress on operations since 2004 involving UAP intercepts by NORAD and US Northern Command - the number, location and nature of intercepts, the procedures and protocols, and the data collected. That is Congress demanding the intercept record AARO\'s annual reports never surface. Second, AARO must account for the UAP-related security classification guides used in its reports and investigations, a provision written directly at overclassification and at improper restrictions on the release of imagery or data. Third, the Act eliminates duplicative reporting requirements and streamlines how federal agencies share data with the Pentagon for AARO investigations - answering the DoD IG\'s 2023 finding that components were not required to report to AARO at all. Taken together the provisions are a statutory statement that Congress believes the office has been withholding intercept data, hiding behind classification guides it wrote itself, and operating on an incomplete feed.',
@@ -23305,7 +23279,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 258 of 976, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 255 of 970, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -23359,7 +23333,7 @@ export const LEGISLATION = [
   {
     id: 'ndaa26-uap-provisions',
     cls: 'legislation',
-    label: 'ndaa26-uap-provisions',
+    label: 'NDAA FY2026 UAP provisions (Secs. 1671-1673)',
     cluster: 'other',
     sub: 'December 2025: reporting requirements repealed, classification guides to be inventoried',
     desc: 'The National Defense Authorization Act for Fiscal Year 2026 was approved on 18 December 2025. Its UAP provisions run in two opposite directions at once and both matter to the money question. Section 1672, \'Elimination of Duplicative Reporting Requirements Relating to Unidentified Anomalous Phenomena\', repeals section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373a) outright, and rewrites section 1683(f)(1)(A) of the FY2022 NDAA so that the DNI and the Secretary of Defense \'shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified anomalous phenomena makes such data available immediately to the Office in a manner that protects intelligence sources and methods.\' Section 1673, \'Accounting of Security Classification Guides Relating to Unidentified Anomalous Phenomena\', directs the Director of AARO within 180 days of enactment - by roughly 16 June 2026 - to make an accounting of the security classification guides that apply to information used for UAP reports and investigations, and permits issuance of a consolidated security classification matrix. Section 1671 requires briefings on intercepts of UAP by NORAD and USNORTHCOM. What is absent is as important as what is present: neither the FY2025 nor the FY2026 NDAA re-enacted the section 1687(a) bar on funds for unreported UAP special access activity, which by its terms applied only to funds authorised by the FY2024 Act. The permanent piece - the IR&D indirect-cost prohibition at section 1687(b), codified as a 50 U.S.C. 3373 note - survives; the annual funding bar did not.',
@@ -23371,7 +23345,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 130 of 976, score 47). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 130 of 970, score 47). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -23440,7 +23414,7 @@ export const LEGISLATION = [
   {
     id: 'fy2026-ndaa-uap-provisions',
     cls: 'legislation',
-    label: 'fy2026-ndaa-uap-provisions',
+    label: 'FY2026 NDAA UAP provisions',
     cluster: 'other',
     sub: 'Three AARO directives; conference version Dec 2025',
     desc: 'The conferenced Fiscal Year 2026 National Defense Authorization Act carries three UAP provisions, reported by DefenseScoop on 10 December 2025 and reflecting recommendations from Christopher Mellon and the Disclosure Foundation. The first and most consequential requires the AARO Director to brief Congress on operations since 2004 involving UAP intercepts by the integrated commands that share leadership and a focus on defending North America - that is, NORAD and US Northern Command - and to provide the number, location and nature of those intercepts together with the procedures and protocols followed during those operations, including any data collected or analysed during such intercepts. This is the first statutory demand that goes to intercept operations rather than to sightings: it presumes that US air-defence commands have repeatedly launched against unidentified objects over North America since 2004 and asks how many times and what was collected. The second requires AARO to account for UAP-related security classification guides affecting reports and investigations of the phenomena - the first legislative attempt to reach the classification guides themselves, which are the instruments that determine what can be said about a sighting before any declassification question arises. The third eliminates duplicative reporting requirements and streamlines federal agencies\' data-sharing with AARO. Together the three are a narrower instrument than the 2023 Schumer-Rounds UAP Disclosure Act, and a sharper one: they do not create a review board or reach contractors, but they demand a specific operational history and a specific inventory of classification authorities.',
@@ -23452,7 +23426,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 131 of 976, score 47). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 131 of 970, score 47). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -23533,7 +23507,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 29 of 976, score 87). 16 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 29 of 970, score 87). 16 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23654,7 +23628,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 135 of 976, score 46). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 135 of 970, score 46). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23730,7 +23704,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 95 of 976, score 57). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 95 of 970, score 57). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -23826,7 +23800,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 69 of 976, score 65). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 69 of 970, score 65). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23927,7 +23901,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 71 of 976, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 71 of 970, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -24033,7 +24007,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 63 of 976, score 67). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 63 of 970, score 67). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -24149,7 +24123,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 291 of 976, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 288 of 970, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -24220,7 +24194,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 136 of 976, score 46). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 136 of 970, score 46). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -24296,7 +24270,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 412 of 976, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 410 of 970, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -24347,7 +24321,7 @@ export const LEGISLATION = [
     dateEnd: '1987-12-04',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 548 of 976, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 545 of 970, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -24403,7 +24377,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 195 of 976, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 195 of 970, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -24479,7 +24453,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 463 of 976, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 461 of 970, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -24535,7 +24509,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 668 of 976, score 18). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 663 of 970, score 18). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -24581,7 +24555,7 @@ export const LEGISLATION = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 883 of 976, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 878 of 970, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -24617,7 +24591,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 645 of 976, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 640 of 970, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -24673,7 +24647,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 905 of 976, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 900 of 970, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -24709,7 +24683,7 @@ export const LEGISLATION = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 964 of 976, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 959 of 970, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     claims: [
       {
         tier: 1,
@@ -24740,7 +24714,7 @@ export const LEGISLATION = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 767 of 976, score 15). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 762 of 970, score 15). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -24786,7 +24760,7 @@ export const LEGISLATION = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 196 of 976, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 196 of 970, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -24842,7 +24816,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 670 of 976, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 665 of 970, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -24898,7 +24872,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 446 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 444 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -24939,7 +24913,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 696 of 976, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 691 of 970, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -24985,7 +24959,7 @@ export const LEGISLATION = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 528 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 526 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -25036,7 +25010,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 599 of 976, score 21). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 595 of 970, score 21). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -25087,7 +25061,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 746 of 976, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 741 of 970, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -25138,7 +25112,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 702 of 976, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 697 of 970, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -25184,7 +25158,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 583 of 976, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 579 of 970, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -25235,7 +25209,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 391 of 976, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 388 of 970, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -25291,7 +25265,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 449 of 976, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 447 of 970, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -25342,7 +25316,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 323 of 976, score 32). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 321 of 970, score 32). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -25378,7 +25352,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 558 of 976, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 555 of 970, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -25429,7 +25403,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 533 of 976, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 531 of 970, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -25465,7 +25439,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 450 of 976, score 27). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 448 of 970, score 27). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -25504,7 +25478,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 4 of 976, score 156). 37 connections, 5 of them custody/witness/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 4 of 970, score 156). 37 connections, 5 of them custody/witness/funding/programmatic, 18 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -25886,7 +25860,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 36 of 976, score 81). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 35 of 970, score 81). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -26042,7 +26016,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 73 of 976, score 62). 14 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 73 of 970, score 62). 14 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -26163,7 +26137,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 781 of 976, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 776 of 970, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -26217,7 +26191,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-fy2023-annual-report',
     cls: 'document',
-    label: 'aaro-fy2023-annual-report',
+    label: 'AARO FY2023 Consolidated Annual Report on UAP',
     cluster: 'other',
     sub: 'Published 25 October 2023; 291 new reports; 801 total holdings',
     desc: 'The first statutory annual report, published 25 October 2023 covering 31 August 2022 to 30 April 2023. It logged 291 new reports - 274 from the period and 17 from 2019-2022 not previously submitted - bringing AARO\'s total holdings to 801 as of 30 April 2023. Its analytic posture set the template every subsequent report has followed: only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, the majority demonstrate ordinary characteristics of readily explainable sources, and a large number of cases remain technically unresolved because of a lack of data. Note what the FY2023 report does not contain: any finding, positive or negative, on extraterrestrial technology. That sentence - the \'no evidence of extraterrestrial beings, activity, or technology\' formula - enters the annual reports only with FY2024, in the year after David Grusch testified. The negative finding is not a baseline of the reporting series; it is a response inserted into it.',
@@ -26229,7 +26203,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 190 of 976, score 40). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 190 of 970, score 40). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -26318,7 +26292,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-fy2024-annual-report',
     cls: 'document',
-    label: 'aaro-fy2024-annual-report',
+    label: 'AARO FY2024 Consolidated Annual Report on UAP',
     cluster: 'other',
     sub: 'Published 14 November 2024; 757 new reports; 1,652 total',
     desc: 'The FY2024 report covers 1 May 2023 through 1 June 2024 and was released on 14 November 2024, the day after the House Oversight hearing at which Luis Elizondo and Tim Gallaudet testified and five days before Kosloski appeared before the Senate. It records 757 reports - 485 in-period and 272 backfilled from 2021-2022 - with 118 resolved in-period and 174 more finalised by publication, all to prosaic objects: balloons, birds, unmanned aerial systems. Twenty-one cases were flagged as warranting continued investigation by intelligence and science and technology partners on the basis of reported anomalous characteristics or behaviours. It contains the explicit denial: to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology. It documents the secure reporting mechanism launched at aaro.mil in October 2023 for current or former USG employees, service members and contractors claiming direct knowledge of purported USG UAP programmes dating back to 1945, with confidentiality protections. It cites 50 U.S.C. 3373(k). The report\'s own numbers are the argument against its conclusion: 21 cases with anomalous characteristics and roughly 900 reports parked in an active archive for want of scientific data is not a null result, it is an unfunded one.',
@@ -26330,7 +26304,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 50 of 976, score 71). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 50 of 970, score 71). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -26459,7 +26433,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-fy2025-annual-report',
     cls: 'document',
-    label: 'aaro-fy2025-annual-report',
+    label: 'AARO FY2025 Consolidated Annual Report on UAP',
     cluster: 'other',
     sub: 'Released 21 July 2026, months after the statutory cycle',
     desc: 'The FY2025 report covers 2 June 2024 to 30 May 2025 and reached the public on 21 July 2026 - months past the annual cycle required by 50 U.S.C. 3373(k), a statutory compliance failure that drew no visible consequence. Document reference 26-P-0880. It records 319 new reports (284 current, 35 historical), 114 of them resolved, plus 256 previously reported cases resolved in-period for a total of 370 resolutions, all attributed to prosaic causes; nine reports were identified for further analysis and 191 transferred to the active archive. Total AARO holdings: 1,870. It reports 50 unmanned aerial system notifications near nuclear infrastructure, up from 18 in the prior period - a near-tripling of drone activity over nuclear sites that the report does not resolve. It reports 262 individuals contacting AARO through the secure mechanism, of whom 255 were deemed out of scope and 7 identified for follow-up interviews. It states that no evidence suggests a USG or private entity has ever captured or exploited UAP-derived materials. And it carries the single most striking unresolved case AARO has published: approximately 100 airborne UAP and two likely uncrewed surface systems observed by US Navy assets off the coast of Virginia - the report\'s only maritime-domain case - still under active investigation, with AARO stating that a lack of timely and actionable sensor data continues to constrain its ability to resolve cases. The report also touts an expanded capability to identify satellite flares: 42 of 44 space-domain reports came from FAA pilot reports and were modelled as reflected sunlight.',
@@ -26471,7 +26445,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 23 of 976, score 95). 13 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 23 of 970, score 95). 13 connections, 2 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -26670,7 +26644,7 @@ export const DOCUMENTS = [
   {
     id: 'dodig-2023-109',
     cls: 'document',
-    label: 'dodig-2023-109',
+    label: 'DoD OIG - Evaluation of the DoD\'s Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)',
     cluster: 'other',
     sub: 'Classified report 15 Aug 2023; unclassified summary released 25 Jan 2024',
     desc: 'The Inspector General\'s evaluation of how the Department handles UAP, completed 15 August 2023 and released in unclassified summary on 25 January 2024. The full report is classified; the public has the summary only. Its findings are structural and damning in an undramatic way: the Department has no overarching UAP policy; different DoD components each developed their own separate processes for collecting, analysing and identifying UAP incidents; and as a result the Department cannot ensure that national security and flight safety threats from UAP have been identified and addressed. It made eleven recommendations to the Under Secretary of Defense for Intelligence and Security, the service secretaries and the Chairman of the Joint Chiefs, including development of a department-wide policy to integrate UAP roles, responsibilities, requirements and coordination procedures into existing intelligence, counterintelligence and force protection policies. For this board the finding that matters is the fragmentation one. An office that formally reviews only what it can reach, inside a department the IG says has no unified UAP process and component-level stovepipes, cannot produce a negative finding of departmental scope - and every AARO negative finding since has been phrased as \'AARO has discovered no evidence\', which is a statement about AARO\'s reach, not the Department\'s contents. The classification of the full report means the IG\'s own account of where the stovepipes are remains unavailable, including through PURSUE.',
@@ -26682,7 +26656,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 51 of 976, score 71). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 51 of 970, score 71). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -26833,7 +26807,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 576 of 976, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 572 of 970, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -26899,7 +26873,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 13 of 976, score 112). 33 connections, 33 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 13 of 970, score 112). 33 connections, 33 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -26985,7 +26959,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 782 of 976, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 777 of 970, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27066,7 +27040,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 486 of 976, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 484 of 970, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27147,7 +27121,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 783 of 976, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 778 of 970, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27218,7 +27192,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 721 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 716 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27279,7 +27253,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 722 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 717 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27340,7 +27314,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 723 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 718 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27401,7 +27375,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 724 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 719 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27462,7 +27436,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 725 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 720 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27523,7 +27497,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 726 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 721 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27584,7 +27558,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 727 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 722 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27645,7 +27619,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 728 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 723 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27706,7 +27680,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 729 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 724 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27767,7 +27741,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 730 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 725 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27828,7 +27802,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 731 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 726 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27889,7 +27863,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 732 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 727 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27950,7 +27924,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 733 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 728 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28011,7 +27985,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 734 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 729 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28072,7 +28046,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 735 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 730 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28133,7 +28107,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 736 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 731 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28194,7 +28168,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 737 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 732 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28255,7 +28229,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 811 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 806 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28311,7 +28285,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 812 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 807 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28367,7 +28341,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 813 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 808 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28423,7 +28397,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 814 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 809 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28479,7 +28453,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 815 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 810 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28535,7 +28509,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 816 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 811 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28591,7 +28565,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 817 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 812 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28647,7 +28621,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 818 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 813 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28703,7 +28677,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 819 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 814 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28759,7 +28733,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 820 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 815 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28815,7 +28789,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 821 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 816 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28871,7 +28845,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 822 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 817 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28927,7 +28901,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 823 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 818 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28983,7 +28957,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 824 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 819 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29039,7 +29013,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 825 of 976, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 820 of 970, score 13). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29083,7 +29057,7 @@ export const DOCUMENTS = [
   {
     id: 'dodd-5205-07-2024',
     cls: 'document',
-    label: 'dodd-5205-07-2024',
+    label: 'DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)',
     cluster: 'other',
     sub: 'dod-issuance',
     desc: 'The current directive, effective 12 September 2024, cancels the 1 July 2010 version as amended and incorporates the Deputy Secretary of Defense memorandum \'Implementation Guidance for DoD Special Access Program Enterprise Reform\' of 11 July 2023. Two changes matter for this board. First, the governance structure is retained and strengthened: the SAPOC remains \'the senior governing body of the DoD SAP Enterprise for governance, management, and oversight of DoD SAPs\', chaired by the Deputy Secretary of Defense, with the Director of DoD SAPCO as Executive Secretary of the SAPOC and the SRG and Chair of the SSWG, reporting directly to the Deputy Secretary. Establishment of new SAP umbrellas and compartments is stated to be \'by exception\' and requires Secretary or Deputy Secretary approval. Second, and much more significant, the 2024 directive replaces the acknowledged / unacknowledged / waived taxonomy with two new categories - \'Joint Force Integration SAP\', defined as \'A SAP intended for greater integration and sharing across the Joint Force and the broader SAP community\', and \'Strategic Enabler SAP\', defined as \'A SAP protecting capabilities or information that enable strategic competition and warrant more limited and restrictive sharing\'. The words acknowledged, unacknowledged, waived and carve-out do not appear in its definitions section. This does not repeal 10 U.S.C. 119(e), which continues to authorise the reporting waiver, and it does not repeal 32 CFR 117.6(b)(3), which continues to authorise the carve-out and still cites this very directive by number. The effect is that the two mechanisms most relevant to a concealed program survive in statute and in the Code of Federal Regulations while ceasing to be defined in the Department\'s own public charter - the terminology has been removed from the shop window without being removed from the shop. The directive also carries forward the congressional-contact reporting rule: \'All personnel accessed to DoD SAPs will notify the Director, DoD SAPCO ... when briefing or providing DoD SAP material to any member of Congress.\'',
@@ -29095,7 +29069,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 62 of 976, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 62 of 970, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -29174,7 +29148,7 @@ export const DOCUMENTS = [
   {
     id: 'dodi-5205-11',
     cls: 'document',
-    label: 'dodi-5205-11',
+    label: 'DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)',
     cluster: 'other',
     sub: 'dod-issuance',
     desc: 'DoDI 5205.11 is the single most useful public document on this board, because it does not merely define the mechanism - it walks through it, with a worked example and a timeline. Enclosure 6 sets out the prospective SAP (PSAP) approval sequence in days from establishment: SSWG review by P+14, draft security classification guide by P+45, approval package to the Senior Review Group by P+90, SRG convenes at P+105, final package to the SAPOC at P+130, SAPOC convenes at P+150, Deputy Secretary of Defense decision and congressional notification or termination at P+180, and \'End of 30-day period without Congressional decision\' at P+210. The last line is the statutory clock of 10 U.S.C. 119(f) reduced to a checkbox: Congress is not asked to approve anything, it is notified, and after thirty days of silence the program starts. Appendix 2 to Enclosure 6 is the SAP Approval Package Checklist, whose item 2 requires that \'If unacknowledged and reporting requirements are to be waived, attach justification to waive the requirements of Volumes 2A and 2B of DoD 7000.14-R\' - the Financial Management Regulation - and whose item 11.d requires a \'Contract strategy (carve-out justification if applicable)\'. Appendix 3 is an unclassified sample Action Memo to the Deputy Secretary of Defense recommending establishment of a fictional unacknowledged operations and support SAP nicknamed GREEN TREE, in which the Director of DoD SAPCO writes: \'The Defense Security Service will be carved out from its normal industrial security oversight responsibilities\' and recommends \'that you approve GTE as an unacknowledged SAP and authorize carve-out status and the mandatory administration of CI polygraphs\'. Enclosure 7 then requires that each SAP record file contain \'Written approval by SecDef or DepSecDef of carve-out status when DSS is relieved of industrial security oversight responsibilities\' and \'The identification of SAP facilities ... that have been carved-out based upon this authority\'. Those two records are the FOIA target that would settle the question of how many carved-out facilities exist.',
@@ -29186,7 +29160,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 44 of 976, score 74). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 44 of 970, score 74). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -29320,7 +29294,7 @@ export const DOCUMENTS = [
   {
     id: 'dodm-5205-07-series',
     cls: 'document',
-    label: 'dodm-5205-07-series',
+    label: 'DoDM 5205.07 — DoD SAP Security Manual (Volumes 1-4)',
     cluster: 'other',
     sub: 'dod-issuance',
     desc: 'The DoD SAP Security Manual is issued in four volumes under number 5205.07: Volume 1, General Procedures (18 June 2015, Change 1 12 February 2018); Volume 2, Personnel Security; Volume 3, Physical Security; and Volume 4, Marking. Volume 1 is the volume that carries the carve-out definition and the DSS relief provision, and is the only volume this board has been able to obtain in full from an archived copy of the DoD Issuances site; the current live URLs at esd.whs.mil for volumes 1 through 4 return errors to unauthenticated retrieval as of 12 August 2026, which is itself a finding worth recording. Volume 1 states its own lineage: it \'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11 ... and describes the general procedures for the administration of DoD SAP security\' and \'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement\'. That last clause is the historical bridge: the security rules for contractor SAPs used to live as an overprint to the NISPOM Supplement, i.e. as a special-case annex to the industrial security system, and were pulled out into a standalone DoD manual - moving contractor SAP security further from the NISP baseline that DCSA inspects.',
@@ -29332,7 +29306,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 76 of 976, score 61). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 76 of 970, score 61). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -29441,7 +29415,7 @@ export const DOCUMENTS = [
   {
     id: 'dia-deliverables-review-2009',
     cls: 'document',
-    label: 'dia-deliverables-review-2009',
+    label: 'DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)',
     cluster: 'other',
     sub: 'DIA Defense Warning Office memorandum, 30 October 2009',
     desc: 'The quality verdict, and the single strongest rebuttal in the record to DoD\'s later position that AAWSAP produced nothing of value. Written by the Defense Warning Office in response to a request arising from the May 2009 Reid meeting, it covers the 26 technical reports delivered in FY09 under the BAASS contract. Eight reviews were performed by other report authors; five by outside reviewers, including three staff members from Sandia National Laboratories. The memo\'s conclusion is unambiguous: \'all of the reviews were positive, some exceptionally so\', and \'the quality hoped for in the reports was achieved\' despite the constraint of unclassified research. The program manager reviewed every paper and concurred with the assessments. Fifteen years later AARO would tell the public the program was \'terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.\' Both statements are DIA\'s. Only one was written while the work was being done.',
@@ -29453,7 +29427,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 436 of 976, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 434 of 970, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -29497,7 +29471,7 @@ export const DOCUMENTS = [
   {
     id: 'flir1-video',
     cls: 'document',
-    label: 'flir1-video',
+    label: 'FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)',
     cluster: 'other',
     sub: 'Officially released DoD UAP video',
     desc: 'The infrared targeting-pod footage captured by a VFA-41 F/A-18F on 14 November 2004 during a follow-on sortie after the Fravor/Dietrich intercept. It leaked without authorization in 2007, was published by the New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that \'The aerial phenomena observed in the videos remain characterized as unidentified.\' That release is the single most useful sentence in the government\'s public record on the aviator question: the Department authenticated the artefact and declined to explain it. FLIR1\'s provenance between November 2004 and 2007 has never been documented - there is no released chain of custody, no case file, and no Navy investigative record, consistent with Fravor\'s testimony that the incident \'was never investigated.\' Notably, AARO\'s public case work has produced parallax rebuttals for GO FAST, Aguadilla and Mt Etna, but no published assessment of FLIR1.',
@@ -29509,7 +29483,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 224 of 976, score 37). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 224 of 970, score 37). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29553,7 +29527,7 @@ export const DOCUMENTS = [
   {
     id: 'gimbal-video',
     cls: 'document',
-    label: 'gimbal-video',
+    label: 'GIMBAL (Navy ATFLIR video, January 2015)',
     cluster: 'other',
     sub: 'Officially released DoD UAP video',
     desc: 'One of two January 2015 ATFLIR recordings from the Atlantic operating areas that the Department of Defense formally released on 27 April 2020 as authentic and \'unidentified.\' GIMBAL is the video in which the object appears to rotate about its own axis while tracking against the wind, and in which aircrew audio records the crews\' own reaction. It comes out of the same operating environment and the same period as Ryan Graves\'s VFA-11 encounters off Virginia Beach, and the same month as the Fleet Forces Command \'URGENT SAFETY OF FLIGHT ISSUE\' message that Tim Gallaudet testified was recalled from all recipients\' accounts within a day. AARO\'s public case work at the 19 November 2024 SASC hearing addressed GO FAST, Aguadilla and Mt Etna; the released case slides do not include a GIMBAL assessment. The video\'s status is therefore unchanged since April 2020: authenticated by the Department, unexplained by it.',
@@ -29565,7 +29539,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 546 of 976, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 543 of 970, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29604,7 +29578,7 @@ export const DOCUMENTS = [
   {
     id: 'gofast-video',
     cls: 'document',
-    label: 'gofast-video',
+    label: 'GO FAST (Navy ATFLIR video, January 2015)',
     cluster: 'other',
     sub: 'Officially released DoD UAP video; subject of AARO parallax rebuttal',
     desc: 'The third of the officially released Navy videos, filmed in January 2015 off Florida\'s east coast and released by the Department of Defense on 27 April 2020 as authentic and unidentified. GO FAST is the most contested artefact on this board because two official positions attach to it. The first is operational: Tim Gallaudet testified to House Oversight on 13 November 2024 that in January 2015 the operations officer of US Fleet Forces Command sent an all-commanders email titled \'URGENT SAFETY OF FLIGHT ISSUE\' carrying this video and asking for identification because \'We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise\' - and that the email was deleted from every recipient\'s account the next day. The second is analytical: AARO\'s case slides for the 19 November 2024 Senate Armed Services hearing assessed the object at roughly 13,000 feet moving at about 45 mph in 60-knot winds, concluding it \'did not demonstrate any anomalous speeds or flight characteristics.\' Both can be true. The parallax finding resolves the apparent speed; it does not explain why a fleet-wide flight-safety warning built on the same footage was withdrawn within 24 hours, and no agency has ever acknowledged withdrawing it.',
@@ -29616,7 +29590,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 255 of 976, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 252 of 970, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29665,7 +29639,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-fy2025-report',
     cls: 'document',
-    label: 'aaro-fy2025-report',
+    label: 'AARO FY2025 Consolidated Annual Report on UAP',
     cluster: 'other',
     sub: 'Statutory annual report, released 20 July 2026',
     desc: 'The Department\'s statutory annual UAP report covering 2 June 2024 to 30 May 2025, released on 20 July 2026 - roughly nine months late, and only about three months before the FY2026 report was due. It records 319 new reports (284 during the period and 35 from prior years), total holdings of 1,870 cases as of 30 May 2025, 370 cases resolved during the period (114 new and 256 from previous periods), 191 cases moved to an \'active archive\' pending corroborating data, and 9 reports \'meriting further analysis\' by intelligence and science and technology partners. On the aviator question the report makes two claims worth pinning: \'AARO did not receive reports indicating flight safety concerns during this reporting period,\' and \'Two UAP reports described electronic or avionic interference as attributable to UAP in proximity to an operational aircraft.\' Those two sentences are in tension, and the report resolves it by definition rather than by analysis. It also states \'To date, no evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials.\' The report notes cases logged near sensitive military installations and critical infrastructure with \'performance characteristics exceed the known state-of-the-art\' while adding \'No technical data accompanied these reports\' - which is a statement about the reporting pipeline, not about the objects. The report is issued under the Department of War, reflecting the departmental renaming.',
@@ -29677,7 +29651,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 153 of 976, score 44). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 153 of 970, score 44). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -29741,7 +29715,7 @@ export const DOCUMENTS = [
   {
     id: 'ttsa-army-crada',
     cls: 'document',
-    label: 'ttsa-army-crada',
+    label: 'CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy',
     cluster: 'other',
     sub: 'Cooperative Research and Development Agreement, signed 10 October 2019',
     desc: 'This is the hardest artifact in the domain: an executed federal research instrument binding the United States Army to a company that publicly claimed custody of material from a vehicle of unknown origin. Signed on 10 October 2019 by Jeffery Langhout, Director of the Army Ground Vehicle Systems Center, and Kari DeLonge for TTSA, and announced on 17 October 2019, it named Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo, as TTSA\'s Director of Global Security & Special Programs, as the collaborator principal investigator. The stated research areas are \'inertial mass reduction, mechanical/structural meta materials, electromagnetic meta material wave guides, quantum physics, quantum communications, and beamed energy propulsion\', with \'Active Camouflage\' and \'Directed Photon Projection\' named as applications. The document runs to 30 September 2023 with annual intellectual property reviews and estimates the value of TTSA\'s participation at $1 million in in-kind contributions; the Army provided laboratories, expertise and resources reported at not less than $750,000 in value. The Army released the agreement itself on 18 October 2019 but on 21 February 2020 denied in full a FOIA request for the associated correspondence — twenty-nine emails, one hundred pages — under exemptions (b)(4) and (b)(5). No technical results have ever been published.',
@@ -29753,7 +29727,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 88 of 976, score 58). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 88 of 970, score 58). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -29838,7 +29812,7 @@ export const DOCUMENTS = [
   {
     id: 'garry-reid-memo-2017',
     cls: 'document',
-    label: 'garry-reid-memo-2017',
+    label: 'Garry Reid memoranda on AATIP and Elizondo, December 2017',
     cluster: 'other',
     sub: 'OUSD(I) memorandum for record and memorandum for the Secretary of Defense',
     desc: 'Two memoranda written by Garry Reid, Director for Defense Intelligence at OUSD(I), in the days after the New York Times story. The first is a memorandum for record titled as an update on media reporting related to AATIP and Luis Elizondo\'s actions; it states that Elizondo served as an action officer from 2008 to 2017 with no documented AATIP responsibilities, that the program terminated in 2012, and that he \'aggrandized his role\', recording his abrupt resignation, his media appearances and the initiation of an investigation. The second answers six questions put by the Secretary of Defense\'s office around 23 December 2017 covering why Elizondo resigned abruptly, the \'uncertain provenance\' of the second resignation letter, whether his claim of secretly working for the Secretary was credible, security concerns about the videos, the TTSA press conference, and the classification status of the footage. It notes that Elizondo gave three different rationales for resigning and that an AFOSI inquiry into possible mishandling of classified information was ongoing; AFOSI later determined the videos were unclassified and closed the matter. This is the founding document of the Department\'s counter-narrative, and it was written within a week of the story breaking.',
@@ -29850,7 +29824,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 378 of 976, score 29). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 375 of 970, score 29). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -29894,7 +29868,7 @@ export const DOCUMENTS = [
   {
     id: 'foia-18-f-0324',
     cls: 'document',
-    label: 'foia-18-f-0324',
+    label: 'OSD/JS FOIA Case 18-F-0324',
     cluster: 'other',
     sub: 'Requested 17 December 2017; final response 17 August 2022',
     desc: 'The FOIA case that produced the Elizondo resignation letters and the Garry Reid memoranda. Filed by John Greenewald of The Black Vault on 17 December 2017, the day after the New York Times story, it received its final response four years and eight months later, on 17 August 2022, from Stephanie L. Carr, Chief of the DoD Freedom of Information Division. Eight responsive pages were located, with portions withheld under 5 U.S.C. § 552(b)(6) for personal privacy. The delay is itself a data point: the Department took nearly five years to release eight pages describing an employee\'s resignation and its own internal characterisation of him, during which period it made repeated public statements about that employee whose factual basis those very pages contain.',
@@ -29906,7 +29880,7 @@ export const DOCUMENTS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 879 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 874 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -29935,11 +29909,11 @@ export const DOCUMENTS = [
   {
     id: 'foia-21-f-0938',
     cls: 'document',
-    label: 'foia-21-f-0938',
+    label: 'OSD FOIA Case 21-F-0938 — Elizondo/Gough correspondence',
     cluster: 'other',
     sub: 'DoD Public Affairs email release',
     desc: 'A DoD Public Affairs FOIA release, posted in the Department\'s own reading room, containing Luis Elizondo\'s correspondence with Pentagon spokesperson Susan Gough. It includes his letter of 3 June 2020 opening \'Ms. Gough, My name is Luis D. Elizondo, and I am a former...\' and stating that she had released a statement claiming he had \'no assigned duties in the AATIP program\' when \'the truth, as everyone involved in the program knows, is that I ran the program.\' He notes that she had initially claimed \'Neither AATIP nor AAWSAP were UAP related\', later corrected that, and never corrected the statement about him; that the Navy had publicly acknowledged his involvement; that a predecessor named Sherwood had indicated the Department would issue a statement exonerating him; and that a DoD Press Secretary had verified in 2017 that he was an OUSD(I) staff member. A further letter of 5 June 2019 emphasises his active role through his departure in October 2017 and references attached substantiating documentation, which the Department did not release. The Department\'s own reading room therefore hosts the most detailed public rebuttal of the Department\'s own position.',
-    tier: 'B',
+    tier: 'C',
     C: 1,
     A: 2,
     D: 3,
@@ -29947,7 +29921,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 487 of 976, score 25). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 485 of 970, score 25). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -29981,7 +29955,7 @@ export const DOCUMENTS = [
   {
     id: 'navy-flir-gimbal-gofast-videos',
     cls: 'document',
-    label: 'navy-flir-gimbal-gofast-videos',
+    label: 'FLIR1, Gimbal and GoFast Navy gun-camera videos',
     cluster: 'other',
     sub: 'Three ATFLIR clips: one from November 2004, two from January 2015',
     desc: 'Three unclassified U.S. Navy infrared targeting-pod recordings — one captured in November 2004 during the USS Nimitz encounters and two in January 2015 associated with the USS Theodore Roosevelt operating area. Elizondo cleared the three files internally on a DD Form 1910 on 9 August 2017, approved 24 August 2017. Christopher Mellon has said on the record that he received the videos from a Defense Department official in the Pentagon parking lot and gave them to the New York Times. Two appeared with the Times story of 16 December 2017 and the third, GoFast, was published in March 2018; TTSA hosted them. On 10 September 2019 the Navy\'s Joseph Gradisher stated that \'the Navy designates the objects contained in these videos as unidentified aerial phenomena\' while also saying the Navy had never released them publicly. On 27 April 2020 the Department of Defense authorised their release outright, stating that \'the aerial phenomena observed in the videos remain characterized as unidentified.\' That is the full arc: cleared internally, leaked, published by a private company, designated UAP by the Navy, and finally released by the Department itself.',
@@ -29993,7 +29967,7 @@ export const DOCUMENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 170 of 976, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 170 of 970, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30037,7 +30011,7 @@ export const DOCUMENTS = [
   {
     id: 'dod-video-release-2020',
     cls: 'document',
-    label: 'dod-video-release-2020',
+    label: 'DoD Statement on the Release of Historical Navy Videos, 27 April 2020',
     cluster: 'other',
     sub: 'Official DoD release; no individual spokesperson quoted',
     desc: 'The Department of Defense statement of 27 April 2020 authorising release of the three Navy videos. It reads in part: \'The Department of Defense has authorized the release of three unclassified Navy videos, one taken in November 2004 and the other two in January 2015, which have been circulating in the public domain after unauthorized releases in 2007 and 2017... DOD is releasing the videos in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos. The aerial phenomena observed in the videos remain characterized as unidentified.\' Two features are worth marking. First, the Department characterises the 2017 appearance of the footage as an \'unauthorized release\' — which is a formal statement that the material left the building improperly, and therefore that something left the building. Second, no individual is quoted: the statement is issued institutionally, without a name attached, which is the opposite of the practice the Department followed when making statements about Elizondo personally.',
@@ -30049,7 +30023,7 @@ export const DOCUMENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 615 of 976, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 611 of 970, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -30078,7 +30052,7 @@ export const DOCUMENTS = [
   {
     id: 'blue-book-special-report-14',
     cls: 'document',
-    label: 'blue-book-special-report-14',
+    label: 'Project Blue Book Special Report No. 14',
     cluster: 'other',
     sub: '\'Analysis of Reports of Unidentified Aerial Objects\', Project No. 10073, 5 May 1955; prepared by Battelle Memorial Institute',
     desc: 'The largest statistical study of UFO reports ever conducted by or for the United States government. Prepared by Battelle Memorial Institute under Project Stork and issued 5 May 1955 as Project No. 10073, it analysed roughly 3,200 reports, classified them by quality of evidence, and applied chi-square testing to determine whether the \'unknowns\' were statistically distinguishable from the \'knowns\'. They were. The report also found - and this is the part the Air Force\'s public summary buried - that the proportion of unknowns rose with the quality of the sighting: the better the observation, the less likely it was to be explained. The Air Force publicised the study as demonstrating that UFOs were of no consequence. The document itself does not support that reading. It is available today through CIA\'s CREST reading room as CIA-RDP81R00560R000100060001-5 and was re-released by the Department of War in PURSUE Release 03 in June 2026 as CIA-UAP-015 - meaning the government has now published the same 1955 Battelle report three separate times across seventy years while the underlying case data has never been reanalysed by an independent party. As an artifact this document is doubly useful: it is evidence about the phenomenon, and it is evidence about how a contractor\'s technical work is converted into an official denial.',
@@ -30090,7 +30064,7 @@ export const DOCUMENTS = [
     dateEnd: '1955',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 133 of 976, score 46). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 133 of 970, score 46). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -30174,7 +30148,7 @@ export const DOCUMENTS = [
   {
     id: 'ornl-metallic-specimen-report',
     cls: 'document',
-    label: 'ornl-metallic-specimen-report',
+    label: 'ORNL Synopsis: Analysis of a Metallic Specimen',
     cluster: 'other',
     sub: 'Oak Ridge National Laboratory report for AARO, April 2024; published July 2024',
     desc: 'The only publicly released analysis by a US national laboratory of a physical specimen alleged to originate from a crashed non-human craft. Commissioned by AARO in 2022 under contract to Oak Ridge National Laboratory, dated April 2024, and released to the public in July 2024. The specimen is a magnesium alloy long circulated in UFO research as the \'Council Bluffs\' or \'Art\'s Parts\' material and alleged to derive from a 1947 crash with extraordinary properties. ORNL\'s conclusion was that it is a terrestrial magnesium alloy consistent with mid-twentieth-century industrial metallurgy. The board records this as a denial artifact as well as a technical result, for three reasons stated in the report and its coverage: neither AARO nor ORNL could verify the specimen\'s historical origin, meaning the chain of custody linking the tested object to any 1947 event was never established; records of failed magnesium alloy designs of the period are scant, meaning the comparison baseline is incomplete; and the analysis was performed by a laboratory operated by UT-Battelle, a partnership including the same Battelle Memorial Institute that ran the Air Force\'s original UFO data analysis in the 1950s, and to which the commissioning official subsequently moved. None of that makes the metallurgy wrong. All of it bears on who gets to certify what the government has.',
@@ -30186,7 +30160,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 333 of 976, score 31). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 331 of 970, score 31). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -30230,7 +30204,7 @@ export const DOCUMENTS = [
   {
     id: 'grusch-icig-complaint',
     cls: 'document',
-    label: 'grusch-icig-complaint',
+    label: 'Grusch PPD-19 Urgent Concern Complaint to the ICIG',
     cluster: 'other',
     sub: 'Whistleblower complaint, 25 May 2022',
     desc: 'The founding document of the modern disclosure record. Filed 25 May 2022 with the Inspector General of the Intelligence Community by Irvin Charles McCullough III - the IC\'s first Inspector General - on behalf of David Grusch, under Presidential Policy Directive 19 and the urgent-concern statute. It followed an earlier July 2021 protected disclosure by Grusch to the DoD Inspector General. The preponderance of the complaint is classified; Grusch\'s unclassified characterization under oath is that it concerns \'both material acquisition and exploitation activity\' and the withholding of UAP baselining data from the intelligence professionals who brief aircrews. In July 2022 the ICIG determined the complaint credible and urgent, the statutory trigger for transmission to the congressional intelligence committees. A companion reprisal complaint alleges Grusch\'s identity and his UAP communications with the DoD IG were disclosed outside the IG channel; the unclassified version reported in June 2023 names Avril Haines, Sean Kirkpatrick, Susan Gough, Sen. Kirsten Gillibrand and Rep. Tim Burchett in its account of how the information moved. Grusch testified that the ICIG had no smooth mechanism to route the disclosure to the Armed Services Committees despite Title 10 equities - meaning the substantive Title 10 allegations may never have reached the committees with jurisdiction over the alleged programs.',
@@ -30242,7 +30216,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 171 of 976, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 171 of 970, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -30286,7 +30260,7 @@ export const DOCUMENTS = [
   {
     id: 'grusch-dopsr-clearance',
     cls: 'document',
-    label: 'grusch-dopsr-clearance',
+    label: 'Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)',
     cluster: 'other',
     sub: 'DoD security review approvals, 4 and 6 April 2023',
     desc: 'The Department of Defense\'s own Office of Prepublication and Security Review read David Grusch\'s proposed public statements and stamped them cleared for open publication on 4 April and 6 April 2023, weeks before The Debrief published. Records released under DoD FOIA case 23-F-0946 show a first submission on 7 March 2023 and a second on 5 April 2023, with security review specialist Michelle Whigham flagging that Grusch made reference to sensitive areas without divulging specifics and colleague Don Kluzik replying that vague references to sensitive areas like this are not a problem. The substantive answers Grusch submitted were withheld under FOIA exemption (b)(6). This document set is the strongest single rebuttal to the framing that Grusch went rogue: the security apparatus of the department that later called his claims unsubstantiated reviewed the words in advance and released them. It also means the government holds, in its own files, the full text of what Grusch proposed to say - a set of answers the public has never seen.',
@@ -30298,7 +30272,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 438 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 436 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30337,7 +30311,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-grusch-interview-memo',
     cls: 'document',
-    label: 'aaro-grusch-interview-memo',
+    label: 'AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)',
     cluster: 'other',
     sub: 'AARO record of nine contacts, June 2023 - January 2024',
     desc: 'AARO\'s own paper trail, released under DoD FOIA case 24-F-0266, documenting nine attempts to interview Grusch between 8 June 2023 and 8 January 2024. The sequence: June 2023 approaches through an intermediary and Senate Intelligence Committee staff; a 26 June request for contact information; a 28 June request to Senate staff for verification details; a 27 July relay of an invitation; a 6 October secure call with an associate; a 10 November direct contact in which Grusch agreed to meet on 14 November; a 14 November Arlington appointment at which he did not appear; a 19 November email invitation citing legal authority, declined on security grounds; and an 8 January 2024 transmission of an ODNI CAPCO memorandum reiterating a standing invitation. Sean Kirkpatrick appears in the email chain, David A. Kozik appears as an OSD official, and a March 2023 DoD memorandum signed by Maj. Gen. David W. Abba of the Special Access Program Central Office is referenced as the access authority. The document is the evidentiary basis for Kirkpatrick\'s public line that the central source has refused to speak with AARO. Read the other way, it is also a record of AARO routing invitations through third parties for five months before ever contacting the witness directly.',
@@ -30349,7 +30323,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 406 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 404 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30388,7 +30362,7 @@ export const DOCUMENTS = [
   {
     id: 'bolender-memo',
     cls: 'document',
-    label: 'bolender-memo',
+    label: 'Bolender Memorandum',
     cluster: 'other',
     sub: 'Brig. Gen. C. H. Bolender, 20 October 1969',
     desc: 'The memorandum by Brig. Gen. Carroll H. Bolender, USAF Deputy Director of Development, dated 20 October 1969, recommending termination of Project Blue Book. Its historical importance is not the recommendation but the justification. Bolender explains that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and are not part of the Blue Book system — and therefore that terminating Blue Book would not affect the Air Force\'s ability to handle national-security cases. That is an official written statement that the program the public believed was the government\'s UFO investigation had never handled the cases that mattered. The memo also observes that the retention of Blue Book records would not be a problem once the project ended, and Blue Book\'s holdings duly went to the National Archives while whatever accumulated on the JANAP side has never been identified as a records series, never been accessioned, and never been searched. Two months after Bolender wrote, Secretary of the Air Force Robert C. Seamans Jr. announced Blue Book\'s closure on 17 December 1969, citing the Condon Report.',
@@ -30400,7 +30374,7 @@ export const DOCUMENTS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 134 of 976, score 46). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 134 of 970, score 46). 5 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -30449,7 +30423,7 @@ export const DOCUMENTS = [
   {
     id: 'afosi-kirtland-file',
     cls: 'document',
-    label: 'afosi-kirtland-file',
+    label: 'AFOSI Kirtland AFB UFO File (1980-1983)',
     cluster: 'other',
     sub: 'Air Force Office of Special Investigations records, District 17',
     desc: 'The AFOSI file generated at Kirtland Air Force Base beginning in 1980 is the documentary spine of the Bennewitz affair. Its central record - a complaint-form entry dated 10 November 1980 - documents that Kirtland security police observed unexplained aerial objects over the Coyote Canyon and Manzano Weapons Storage Area, the nuclear-weapons storage complex on the base\'s eastern edge, and notes the reporting and photographic activity of the Albuquerque physicist Paul Bennewitz. The file matters for two independent reasons. First, it is an official Air Force counterintelligence concession that unidentified objects were seen over a nuclear weapons storage site in 1980, eleven years after the Air Force publicly stopped investigating such things. Second, it is the entry point of an operation: the agent associated with the file, Richard Doty, subsequently supplied Bennewitz with fabricated material, showed a purported classified briefing paper to the documentary producer Linda Moulton Howe, and was linked to the channel through which the MJ-12 material reached Bill Moore and Jaime Shandera. The file has never been the subject of any published official review. AARO\'s 2024 Historical Record Report Volume I does not mention Kirtland, AFOSI, Bennewitz or Doty.',
@@ -30461,7 +30435,7 @@ export const DOCUMENTS = [
     dateEnd: '1983',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 173 of 976, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 173 of 970, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30505,7 +30479,7 @@ export const DOCUMENTS = [
   {
     id: 'wilson-davis-memo',
     cls: 'document',
-    label: 'wilson-davis-memo',
+    label: 'The Wilson-Davis Notes (16 October 2002)',
     cluster: 'other',
     sub: 'Fifteen handwritten pages by Eric W. Davis of a conversation with VADM Thomas R. Wilson (ret.)',
     desc: 'Fifteen pages of handwritten notes made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme\'s gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO\'s 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.',
@@ -30517,7 +30491,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 60 of 976, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 60 of 970, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -30566,7 +30540,7 @@ export const DOCUMENTS = [
   {
     id: 'dodi-3204-01',
     cls: 'document',
-    label: 'dodi-3204-01',
+    label: 'DoD Instruction 3204.01 - Oversight of Independent Research and Development',
     cluster: 'other',
     sub: 'The IR&D cost-allowability policy named in statute',
     desc: 'DoDI 3204.01 is the policy that makes the funding allegation legally coherent. It establishes that contractor independent research and development costs \'will be allowable as indirect expenses on covered contracts to the extent they are allocable and reasonable\' - that is, a defense contractor\'s self-directed research is reimbursed by the taxpayer through contract overhead. Reporting obligations attach only to major contractors allocating more than $11 million in IR&D and bid-and-proposal costs, and consist of project summaries submitted to a Defense Innovation Marketplace portal for contracting officer and DCAA review of cost allowability, not of program disclosure to Congress. David Grusch named this exact mechanism under oath on 26 July 2023 - \'Correct, through something called IR&D... IR&D is literally internal to the contractors\' - and Congress named the instruction by number, date and change number in NDAA FY2024 Sec. 1687(b) five months later, making UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction by its change date unless someone has explained precisely how it is being used.',
@@ -30578,7 +30552,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 379 of 976, score 29). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 376 of 970, score 29). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -30617,7 +30591,7 @@ export const DOCUMENTS = [
   {
     id: 'war-gov-ufo-portal',
     cls: 'document',
-    label: 'war-gov-ufo-portal',
+    label: 'war.gov/UFO release portal',
     cluster: 'other',
     sub: 'The publication surface for PURSUE; not an AARO property',
     desc: 'The portal itself is a fact worth recording separately from what it contains. PURSUE material is published at war.gov/UFO, on the Secretary\'s own web estate, with video bundles served from a CloudFront distribution rather than from aaro.mil or from a FOIA reading room. AARO\'s homepage links out to it. The portal presents five dated releases, each as a paired document ZIP and video ZIP, carries Hegseth\'s signed transparency statement and a quotation of the President\'s direction, and offers no assessment, index, manifest, metadata schema or provenance statement for any file. The Department has reported the site receiving over 1.7 billion hits. The architectural choice is the substantive one: by publishing through the Secretary\'s site rather than through AARO\'s EFOIA reading room, the Department produced a release with no FOIA case numbers, no processing notes, no exemption citations against the redactions, and no appeal path - the release is a publication, not a disclosure under any statute, and can be curtailed or withdrawn without any legal consequence.',
@@ -30629,7 +30603,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 518 of 976, score 24). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 516 of 970, score 24). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30678,7 +30652,7 @@ export const DOCUMENTS = [
   {
     id: 'trump-uap-release-directive-2026',
     cls: 'document',
-    label: 'trump-uap-release-directive-2026',
+    label: 'Presidential direction to identify and release UAP files (19-20 February 2026)',
     cluster: 'other',
     sub: 'Truth Social post; no published executive order text',
     desc: 'The originating instrument of PURSUE, and a thin one. On 19-20 February 2026 Trump posted on Truth Social that he would direct Secretary of War Hegseth and other relevant departments and agencies to begin the process of identifying and releasing government files related to alien and extraterrestrial life, UAP and UFOs, \'and any and all other information connected to these highly complex, but extremely interesting and important, matters.\' Hegseth referred to it five days later as \'that executive order,\' but the contemporaneous reporting describes a social-media post and no signed order has surfaced in the public record as of 12 August 2026. Chief Pentagon Spokesman Sean Parnell said the department \'looks forward to working with the interagency to fulfill the president\'s directive.\' The consequence of the missing instrument is that PURSUE has no published scope, no defined universe of covered records, no declassification standard, no review authority named in writing, no compliance deadline and no reporting requirement - every one of which the Burlison FY2027 NDAA amendment would supply by statute. It is a release programme that exists at will.',
@@ -30690,7 +30664,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 313 of 976, score 32). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 311 of 970, score 32). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -30739,7 +30713,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-declassification-info-paper-2025',
     cls: 'document',
-    label: 'aaro-declassification-info-paper-2025',
+    label: 'AARO Declassification Information Paper (September 2025)',
     cluster: 'other',
     sub: 'The office\'s own account of why it cannot declassify',
     desc: 'An information paper published by AARO in September 2025 - one month before its first video releases and eight months before PURSUE - explaining why the office cannot release UAP material. Its argument: AARO cannot declassify anything independently because other government entities originated the classified data; it must request declassification review from originating offices such as the Military Departments; each review determines whether disclosure could cause damage, serious damage or exceptionally grave damage to national security, producing full release, partial release with redactions, or continued classification; and DOPSR reviews redactions before public release. It identifies the obstacles as protection of platform capabilities, locations and collection methods rather than the subject matter itself - noting that even footage of birds and balloons stays classified when derived from sensitive sources - and describes the process as \'deliberate and time-intensive.\' Every sentence of that is defensible as a description of the classification system. What it is not is a description of an immovable constraint, and the proof is the eight months that followed: given a cabinet-level direction, the same department cleared and published five tranches containing well over a hundred sensor videos. The paper is the best single artefact of institutional friction masquerading as legal necessity.',
@@ -30751,7 +30725,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 380 of 976, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 377 of 970, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30806,7 +30780,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-kona-blue-release',
     cls: 'document',
-    label: 'aaro-kona-blue-release',
+    label: 'AARO/DHS release: History and Origin of KONA BLUE',
     cluster: 'other',
     sub: 'AARO UAP Records research release on the never-approved DHS SAP',
     desc: 'A dedicated AARO release, hosted on its UAP Records page, on KONA BLUE - the prospective special access programme proposed to the Department of Homeland Security and never approved, whose lines of effort mirrored AAWSAP and AATIP and which contemplated the handling of \'non-human biologics.\' Volume I had already disclosed KONA BLUE in narrative form and concluded that no extraterrestrial craft or bodies were ever collected and that the material \'was only assumed to exist by KONA BLUE advocates.\' The dedicated release is worth recording as a release-behaviour datum rather than a revelation: it shows the office will assemble and publish a documentary package quickly when the package supports the conclusion that a programme was proposed and rejected. No comparable documentary package has been published for any programme AARO concedes did exist - including the intelligence community controlled access programme Volume I says was expanded in 2021 to include a UAP reverse-engineering mission and later disestablished.',
@@ -30818,7 +30792,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 381 of 976, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 378 of 970, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30868,7 +30842,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-ornl-materials-analyses',
     cls: 'document',
-    label: 'aaro-ornl-materials-analyses',
+    label: 'AARO / Oak Ridge National Laboratory materials analyses',
     cluster: 'other',
     sub: 'Magnesium specimen (Apr 2024); aluminium specimen and supplement (Jan 2026)',
     desc: 'AARO\'s materials programme in public: two Oak Ridge National Laboratory analyses of specimens alleged to be of non-terrestrial origin, with AARO supplements. The magnesium specimen synopsis appeared in April 2024, alongside Volume I\'s finding that a putative extraterrestrial sample was a manufactured terrestrial magnesium-zinc-bismuth alloy. The aluminium specimen analysis and its AARO supplement appeared in January 2026, in the same weeks as the PR-011 and PR-013 imagery releases and three months before PURSUE. This is the one line of AARO work that is genuinely primary-document disclosure: a national laboratory\'s characterisation of a physical specimen, published with a supplement. It is also the narrowest. Two specimens, both resolved as terrestrial manufactures, against an allegation set that concerns material alleged to be held by contractors AARO has never inspected and cannot compel. The FY2025 report\'s formulation is the giveaway - no evidence any entity has ever captured or exploited UAP-derived materials, and the office is simultaneously developing procedures for handling such material should it ever come into US Government possession.',
@@ -30880,7 +30854,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 272 of 976, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 269 of 970, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30950,7 +30924,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-information-papers',
     cls: 'document',
-    label: 'aaro-information-papers',
+    label: 'AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)',
     cluster: 'other',
     sub: 'Explanatory products, 2024-2026',
     desc: 'The other half of AARO\'s public output: explanatory papers that teach the reader how to resolve their own sightings. The satellite flaring paper of 22 April 2025, with an accompanying DVIDS animation, explains Starlink flaring - the mechanism AARO used in the FY2024 report to resolve a commercial pilot\'s white flashing lights against a launch an hour earlier. The 2024 paper on the effect of forced perspective and parallax view on UAP observations does the same for apparent motion. A 2025 UAP workshop white paper on narrative data, infrastructures and analysis records the office\'s engagement with academic researchers. In July 2026 AARO added the Naval Postgraduate School\'s CTX special issue on UAP science and analysis, and a call for papers for a second volume. These are not nothing - they are the only sustained attempt by the US Government to build an analytic vocabulary for the subject. They are also, taken as a body of work across 2024 to 2026, an office publishing methodology while declining to publish the two things Congress asked for: Volume II and its video holdings.',
@@ -30962,7 +30936,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 665 of 976, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 660 of 970, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -31007,7 +30981,7 @@ export const DOCUMENTS = [
   {
     id: 'navy-pic-1953-film-analysis',
     cls: 'document',
-    label: 'navy-pic-1953-film-analysis',
+    label: '1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films',
     cluster: 'other',
     sub: 'Released in PURSUE Release 05, 7 August 2026',
     desc: 'The most consequential historical document in the PURSUE corpus. Released on 7 August 2026 in Release 05, it is a 1953 US Navy Photographic Interpretation Center analysis of the 1950 Great Falls, Montana and 1952 Tremonton, Utah films. The Utah footage was analysed over more than a thousand hours, frame by frame, and the objects assessed as bright, silvery reflective disks that were self-luminous and intelligently controlled and inconsistent with natural phenomena or commonly known aerospace technologies. That is an affirmative technical finding by a US Navy analytic unit on physical film evidence, and it was made in 1953 - the same year the CIA\'s Robertson Panel reviewed the same films and reached the opposite disposition, recommending that the subject be stripped of its special status and the public debunked. The Navy\'s own analysts said the objects were intelligently controlled and not known technology; the panel that set policy said the subject was a distraction. The document sat unpublished for seventy-three years and was released by the Department of War with, per departmental policy, no comment or assessment attached.',
@@ -31019,7 +30993,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 273 of 976, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 270 of 970, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -31063,7 +31037,7 @@ export const DOCUMENTS = [
   {
     id: 'odni-uap-d001',
     cls: 'document',
-    label: 'odni-uap-d001',
+    label: 'ODNI-UAP-D001 - serving senior intelligence officer\'s UAP encounter narrative',
     cluster: 'other',
     sub: 'Released in PURSUE Release 02, 22 May 2026; incident late 2025',
     desc: 'An ODNI-numbered document published in PURSUE Release 02 on 22 May 2026: a first-person narrative written by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter observed from a military helicopter in late 2025. Four properties make it the most unusual item in the corpus. The witness is serving, not retired. The witness is a senior intelligence officer, not aircrew. The account is first-person narrative, not a case summary. And the encounter is an hour long with multiple witnesses, which removes the two disposals - brief duration and single observer - that AARO\'s annual reports use to close most cases. It is also the clearest structural evidence that PURSUE is genuinely interagency: ODNI put an operational account by one of its own serving officers into a Department of War release series, under an ODNI document number, five months after the encounter.',
@@ -31075,7 +31049,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 362 of 976, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 359 of 970, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -31119,7 +31093,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-establishment-memo-2022',
     cls: 'document',
-    label: 'aaro-establishment-memo-2022',
+    label: 'Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)',
     cluster: 'other',
     sub: 'Deputy Secretary of Defense memorandum; the founding charter',
     desc: 'The founding charter of the modern official apparatus, signed by Deputy Secretary of Defense Kathleen Hicks on 15 July 2022 and announced on 20 July. Four operative directions: establish AARO as the Department\'s authoritative office and focal point for all UAP activities; task it to synchronise efforts to detect, identify and attribute objects of interest in, on or near military installations, operating areas, training areas, special use airspace and other areas of interest, including anomalous space, airborne, submerged and transmedium objects; direct the Under Secretary of Defense for Intelligence and Security to stand the office up in coordination with the Director of Administration and Management; and direct the Secretary of the Navy to disestablish the UAP Task Force and transfer its data and materials to AARO. It supersedes the 23 November 2021 AOIMSG direction. The transmedium language is worth noting on its own terms: the Deputy Secretary of Defense signed a memorandum in 2022 whose plain text assigns an office responsibility for submerged and transmedium anomalous objects.',
@@ -31131,7 +31105,7 @@ export const DOCUMENTS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 314 of 976, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 312 of 970, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31170,7 +31144,7 @@ export const DOCUMENTS = [
   {
     id: 'aaro-grusch-interview-memo-2024',
     cls: 'document',
-    label: 'aaro-grusch-interview-memo-2024',
+    label: 'AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (8 Jan 2024)',
     cluster: 'other',
     sub: 'FOIA release 24-F-0266',
     desc: 'A primary document, released through the Washington Headquarters Services FOIA reading room as case 24-F-0266, in which AARO builds a contemporaneous paper trail of its attempts to interview David Grusch. Dated 8 January 2024, it logs: 8-13 June 2023, the Director engaging intermediaries; 26 June 2023, staff seeking Grusch\'s phone number through associates; 28 June 2023, the Director requesting congressional information after Grusch\'s testimony; 27 July 2023, staff asking acquaintances to relay an invitation; 6 October 2023, a secure call requesting cooperation; 10 November 2023, Grusch agreeing to an interview set for 14 November; 14 November 2023, non-appearance; 19 November 2023, an emailed invitation declined despite cited legal authorisation; and 8 January 2024, an ODNI memorandum affirming AARO\'s authority to receive the disclosures. It concludes that Grusch had no intention of providing AARO with information. The document is real and it is evidence. It is also an artifact of an institution constructing its own defence: the memorandum exists because AARO anticipated needing to demonstrate that the failure to interview the government\'s most consequential UAP witness was his fault and not the office\'s. What it does not record is any offer to conduct the interview through the Intelligence Community Inspector General, before congressional counsel, or under the PPD-19 protections Grusch had already invoked.',
@@ -31182,7 +31156,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 407 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 405 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31226,7 +31200,7 @@ export const DOCUMENTS = [
   {
     id: 'pursue-bundle-urls',
     cls: 'document',
-    label: 'pursue-bundle-urls',
+    label: 'PURSUE release bundle URLs (five tranches, documents and video)',
     cluster: 'other',
     sub: 'The actual download locations; documents on war.gov, video on CloudFront',
     desc: 'The physical addresses of the PURSUE corpus, recorded here because the release programme itself publishes no manifest and because the split hosting is substantive. Release 01, 8 May 2026: documents 1.2GB at https://www.war.gov/medialink/ufo/bundle/Release_1.zip, video 1.3GB at https://d34w7g4gy10iej.cloudfront.net/uapvideos.zip. Release 02, 22 May 2026: documents 70.1MB at https://www.war.gov/medialink/ufo/052226/release_02/release_02_document_bundle.zip, video 5.6GB at https://d34w7g4gy10iej.cloudfront.net/uap052226.zip. Release 03, 12 June 2026: documents 826MB at https://www.war.gov/medialink/ufo/061226/release_03/release_03_documents.zip, video 4.6GB at https://d34w7g4gy10iej.cloudfront.net/release_03/uap_videos_061226.zip. Release 04, 10 July 2026: documents 227MB at https://www.war.gov/medialink/ufo/071026/release_04/release_04_documents_071026.zip, video 1.4GB at https://d34w7g4gy10iej.cloudfront.net/release_04/uap_release04_videos_071026.zip. Release 05, 7 August 2026: documents 130MB at https://www.war.gov/medialink/ufo/release_05/Aug_07/release_05_Aug_07_documents.zip, video 513MB at https://d34w7g4gy10iej.cloudfront.net/release_05/uap_videos_080726.zip. Cumulative published volume as of 12 August 2026: approximately 2.45GB of documents and 13.4GB of video. The first release\'s URL path - /bundle/Release_1.zip - has no date directory, while every later release does; the naming was regularised after the first drop, which is what an unplanned first tranche looks like in a URL scheme. The war.gov page states no per-release file counts, so every count on this board comes from third-party inventories rather than from the releasing authority.',
@@ -31238,7 +31212,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-08-07',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 694 of 976, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 689 of 970, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -31272,7 +31246,7 @@ export const DOCUMENTS = [
   {
     id: 'dowig-2026-081',
     cls: 'document',
-    label: 'dowig-2026-081',
+    label: 'DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained',
     cluster: 'other',
     sub: 'DoD/DoW Office of Inspector General summary report, 12 May 2026',
     desc: 'The Inspector General\'s plain-language companion to the FY2025 agency-wide audit, published 12 May 2026 under the Department\'s new secondary designation as the Department of War. It is the current authoritative public statement of what the Department can and cannot account for. It records the eighth consecutive disclaimer of opinion, enumerates twenty-six material weaknesses by name, attributes each to the organisations that contributed most to it, and states that in the last two quarters of FY2025 alone the Department\'s accounting adjustments exceeded $859 billion. It expressly notes that FY2026 audits were still ongoing and are not addressed. For a board about money that does not appear as a budget line, this document is the load-bearing Tier 1 citation: it is the government\'s own admission, in an unclassified document, that the largest spending organisation on earth cannot produce an auditable record of where its money went.',
@@ -31284,7 +31258,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 738 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 733 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -31323,7 +31297,7 @@ export const DOCUMENTS = [
   {
     id: 'dodig-2016-113',
     cls: 'document',
-    label: 'dodig-2016-113',
+    label: 'DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported',
     cluster: 'other',
     sub: 'DoD OIG audit report, 26 July 2016; source of the $2.8 trillion and $6.5 trillion figures',
     desc: 'This is the report from which the entire \'$21 trillion\' literature descends, and it must be quoted precisely or it becomes useless. Published 26 July 2016, it found that the Office of the Assistant Secretary of the Army (Financial Management and Comptroller) and the Defense Finance and Accounting Service Indianapolis \'did not adequately support $2.8 trillion in third quarter journal voucher (JV) adjustments and $6.5 trillion in yearend JV adjustments made to AGF data during FY 2015 financial statement compilation.\' Footnote 2 of the report states that the amounts are not cumulative and should not be added together. What the figures measure is the gross dollar value of accounting entries made to force the Army General Fund\'s compiled data into balance, not a sum of money that went missing: the same underlying dollar can be adjusted many times in a compilation cycle, which is why the totals exceed the Army General Fund\'s annual appropriation by roughly two orders of magnitude. Read correctly, the report is not evidence that $6.5 trillion vanished. It is evidence of something arguably more useful to this board: that the Army\'s financial records for FY2015 were reconstructed at year end by trillions of dollars of entries for which no supporting documentation could be produced, and that therefore the ledger cannot be used to establish where any given appropriation actually went. Anyone citing this report for the proposition that trillions are missing will be correctly demolished; anyone citing it for the proposition that the audit trail does not exist is citing it exactly as written.',
@@ -31335,7 +31309,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 666 of 976, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 661 of 970, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -31379,7 +31353,7 @@ export const DOCUMENTS = [
   {
     id: 'reprogramming-dd1415',
     cls: 'document',
-    label: 'reprogramming-dd1415',
+    label: 'Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)',
     cluster: 'other',
     sub: 'The administrative machinery for moving money after appropriation, including below-threshold reprogramming',
     desc: 'Below the statutory transfer authorities sits an administrative layer that does most of the actual work. Volume 3, Chapter 6 of the Department of Defense Financial Management Regulation, \'Reprogramming of DoD Appropriated Funds\', dated September 2015, establishes four categories of action. Prior Approval Reprogramming, on DD Form 1415-1, requires written approval from the congressional committees before execution and covers major decisions and items of special congressional interest. Letter Notification, DD Form 1415-2, gives Congress thirty days advance notice with an opportunity to object. Internal Reprogramming, DD Form 1415-3, is an audit-trail action processed entirely within the Department for reclassifications between line items where the substance of the programme is unchanged. And Below-Threshold Reprogramming requires no approval and no notification at all: components may realign funds within prescribed cumulative annual limits at their own discretion. The thresholds at which congressional approval becomes necessary are: $10 million for Military Personnel, $15 million for Operation and Maintenance, $20 million or 20 percent of the programme base (whichever is less) for Procurement, and $10 million or 20 percent of the programme base (whichever is less) for Research, Development, Test and Evaluation. Against a Department managing more than $4.7 trillion in assets and executing hundreds of billions of dollars annually, a $10 million RDT&E threshold means that an enormous volume of money moves each year with no external record generated at all. This is the layer at which the audit trail is thinnest and at which the $859 billion of unsupported adjustments reported for the last two quarters of FY2025 lives.',
@@ -31391,7 +31365,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 408 of 976, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 406 of 970, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -31452,7 +31426,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 194 of 976, score 40). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 194 of 970, score 40). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31496,7 +31470,7 @@ export const DOCUMENTS = [
   {
     id: 'uapda-sec-9010-eminent-domain',
     cls: 'document',
-    label: 'uapda-sec-9010-eminent-domain',
+    label: 'Section 9010(a) — Exercise of Eminent Domain',
     cluster: 'other',
     sub: 'Statutory text passed by the Senate, 27 July 2023',
     desc: 'The single most important sentence in the modern disclosure record, and a Tier 1 documented fact whose existence does not depend on believing any witness. Section 9010 of Division G of S. 2226, headed \'Disclosure of Recovered Technologies of Unknown Origin and Biological Evidence of Non-Human Intelligence,\' opens: \'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.\' Subsection (b) requires that \'any and all such material, should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material.\' Subsection (c) directs the Board to decide \'whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt.\' The drafting is careful and revealing in both directions: the hedge \'should it exist\' preserves deniability, while \'shall exercise\' is mandatory and the taking is aimed exclusively at private holders, not at Government agencies — the Government does not need eminent domain against itself. A chamber of Congress passed this. It was then deleted, and the deletion is the fact that organises this entire domain.',
@@ -31508,7 +31482,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 70 of 976, score 64). 4 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 70 of 970, score 64). 4 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31584,7 +31558,7 @@ export const DOCUMENTS = [
     dateEnd: '2024-09-12',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 45 of 976, score 74). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 45 of 970, score 74). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31730,7 +31704,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 79 of 976, score 60). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 79 of 970, score 60). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31811,7 +31785,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 39 of 976, score 80). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 38 of 970, score 80). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -31947,7 +31921,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 183 of 976, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 183 of 970, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -32013,7 +31987,7 @@ export const DOCUMENTS = [
     dateEnd: '2004-03-03',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 367 of 976, score 30). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 364 of 970, score 30). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -32074,7 +32048,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 83 of 976, score 59). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 83 of 970, score 59). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32160,7 +32134,7 @@ export const DOCUMENTS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 116 of 976, score 50). 7 connections, 5 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 116 of 970, score 50). 7 connections, 5 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32231,7 +32205,7 @@ export const DOCUMENTS = [
     dateEnd: '2008',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 259 of 976, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 256 of 970, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32287,7 +32261,7 @@ export const DOCUMENTS = [
     dateEnd: '2013',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 110 of 976, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 110 of 970, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32353,7 +32327,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 122 of 976, score 49). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 122 of 970, score 49). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32409,7 +32383,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 383 of 976, score 29). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 380 of 970, score 29). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -32455,7 +32429,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 229 of 976, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 229 of 970, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -32501,7 +32475,7 @@ export const DOCUMENTS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 230 of 976, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 230 of 970, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32552,7 +32526,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 260 of 976, score 35). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 257 of 970, score 35). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -32608,7 +32582,7 @@ export const DOCUMENTS = [
     dateEnd: '2018',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 413 of 976, score 28). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 411 of 970, score 28). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32660,7 +32634,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 105 of 976, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 106 of 970, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32716,7 +32690,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 231 of 976, score 37). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 231 of 970, score 37). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32777,7 +32751,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 317 of 976, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 315 of 970, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32823,7 +32797,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 521 of 976, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 519 of 970, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -32864,7 +32838,7 @@ export const DOCUMENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 186 of 976, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 186 of 970, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32915,7 +32889,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 35 of 976, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 34 of 970, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -33011,7 +32985,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 61 of 976, score 68). 9 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 61 of 970, score 68). 9 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33102,7 +33076,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 464 of 976, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 462 of 970, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33143,7 +33117,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 445 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 443 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33189,7 +33163,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 618 of 976, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 614 of 970, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -33225,7 +33199,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 827 of 976, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 822 of 970, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -33261,7 +33235,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 239 of 976, score 36). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 239 of 970, score 36). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33307,7 +33281,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 494 of 976, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 492 of 970, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33343,7 +33317,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 318 of 976, score 32). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 316 of 970, score 32). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33389,7 +33363,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 147 of 976, score 45). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 147 of 970, score 45). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -33435,7 +33409,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 370 of 976, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 367 of 970, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33486,7 +33460,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 293 of 976, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 290 of 970, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -33528,7 +33502,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 523 of 976, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 521 of 970, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33569,7 +33543,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 263 of 976, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 260 of 970, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33615,7 +33589,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 217 of 976, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 217 of 970, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -33671,7 +33645,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 552 of 976, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 549 of 970, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -33723,7 +33697,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 338 of 976, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 336 of 970, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33764,7 +33738,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 672 of 976, score 18). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 667 of 970, score 18). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -33800,7 +33774,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 858 of 976, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 853 of 970, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -33846,7 +33820,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 497 of 976, score 25). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 495 of 970, score 25). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -33882,7 +33856,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 646 of 976, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 641 of 970, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33918,7 +33892,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 219 of 976, score 38). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 219 of 970, score 38). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33974,7 +33948,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 176 of 976, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 176 of 970, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34030,7 +34004,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 294 of 976, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 291 of 970, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -34086,7 +34060,7 @@ export const DOCUMENTS = [
     dateEnd: '1948',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 197 of 976, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 197 of 970, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34137,7 +34111,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 265 of 976, score 35). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 262 of 970, score 35). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -34188,7 +34162,7 @@ export const DOCUMENTS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 387 of 976, score 29). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 384 of 970, score 29). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -34239,7 +34213,7 @@ export const DOCUMENTS = [
     dateEnd: '1966',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 467 of 976, score 26). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 465 of 970, score 26). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34285,7 +34259,7 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 124 of 976, score 49). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 124 of 970, score 49). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34351,7 +34325,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 319 of 976, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 317 of 970, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -34407,7 +34381,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 279 of 976, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 276 of 970, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34459,7 +34433,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 240 of 976, score 36). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 240 of 970, score 36). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -34515,7 +34489,7 @@ export const DOCUMENTS = [
     dateEnd: '1981',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 388 of 976, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 385 of 970, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34556,7 +34530,7 @@ export const DOCUMENTS = [
     dateEnd: '1990',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 220 of 976, score 38). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 220 of 970, score 38). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -34617,7 +34591,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 339 of 976, score 31). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 337 of 970, score 31). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -34658,7 +34632,7 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 859 of 976, score 11). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 854 of 970, score 11). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -34694,7 +34668,7 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 502 of 976, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 500 of 970, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34740,7 +34714,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 241 of 976, score 36). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 241 of 970, score 36). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -34791,7 +34765,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 860 of 976, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 855 of 970, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -34822,7 +34796,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 527 of 976, score 24). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 525 of 970, score 24). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -34863,7 +34837,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 295 of 976, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 292 of 970, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -34915,7 +34889,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 281 of 976, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 278 of 970, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -34961,7 +34935,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 320 of 976, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 318 of 970, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -35002,7 +34976,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 187 of 976, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 187 of 970, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -35053,7 +35027,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 419 of 976, score 28). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 417 of 970, score 28). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35099,7 +35073,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 503 of 976, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 501 of 970, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -35145,7 +35119,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 420 of 976, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 418 of 970, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -35186,7 +35160,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 199 of 976, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 199 of 970, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -35232,7 +35206,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 343 of 976, score 31). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 341 of 970, score 31). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -35278,7 +35252,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 243 of 976, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 243 of 970, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -35329,7 +35303,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 372 of 976, score 30). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 369 of 970, score 30). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -35385,7 +35359,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 267 of 976, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 264 of 970, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -35436,7 +35410,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 650 of 976, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 645 of 970, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -35482,7 +35456,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 200 of 976, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 200 of 970, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -35543,7 +35517,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 621 of 976, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 617 of 970, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -35584,7 +35558,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 422 of 976, score 28). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 420 of 970, score 28). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35630,7 +35604,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 389 of 976, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 386 of 970, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35676,7 +35650,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 700 of 976, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 695 of 970, score 17). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35722,7 +35696,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 841 of 976, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 836 of 970, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -35763,7 +35737,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 830 of 976, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 825 of 970, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35804,7 +35778,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 862 of 976, score 11). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 857 of 970, score 11). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35835,7 +35809,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 892 of 976, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 887 of 970, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -35866,7 +35840,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 530 of 976, score 24). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 528 of 970, score 24). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35912,7 +35886,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 373 of 976, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 370 of 970, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -35958,7 +35932,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 55 of 976, score 71). 10 connections, 2 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 55 of 970, score 71). 10 connections, 2 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36019,7 +35993,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-07-21',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 283 of 976, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 280 of 970, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -36075,7 +36049,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 893 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 888 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -36116,7 +36090,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 749 of 976, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 744 of 970, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -36152,7 +36126,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-08-07',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 233 of 976, score 37). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 233 of 970, score 37). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36203,7 +36177,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 322 of 976, score 32). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 320 of 970, score 32). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36249,7 +36223,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 390 of 976, score 29). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 387 of 970, score 29). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -36310,7 +36284,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 863 of 976, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 858 of 970, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -36351,7 +36325,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 158 of 976, score 44). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 158 of 970, score 44). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36422,7 +36396,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 751 of 976, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 746 of 970, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -36478,7 +36452,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 132 of 976, score 47). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 132 of 970, score 47). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36534,7 +36508,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 166 of 976, score 43). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 166 of 970, score 43). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36585,7 +36559,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 92 of 976, score 58). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 92 of 970, score 58). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36656,7 +36630,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 451 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 449 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -36722,7 +36696,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 284 of 976, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 281 of 970, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36773,7 +36747,7 @@ export const DOCUMENTS = [
     dateEnd: '2006-05-15',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 119 of 976, score 50). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 119 of 970, score 50). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36844,7 +36818,7 @@ export const DOCUMENTS = [
     dateEnd: '2006-05-15',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 159 of 976, score 44). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 159 of 970, score 44). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36905,7 +36879,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 752 of 976, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 747 of 970, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -36946,7 +36920,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 299 of 976, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 296 of 970, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -37018,7 +36992,7 @@ export const DOCUMENTS = [
     dateEnd: '2009-09-25',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 244 of 976, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 244 of 970, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -37060,7 +37034,7 @@ export const DOCUMENTS = [
     dateEnd: '1999',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 864 of 976, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 859 of 970, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -37091,7 +37065,7 @@ export const DOCUMENTS = [
     dateEnd: '1994-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 584 of 976, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 580 of 970, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -37152,7 +37126,7 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 624 of 976, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 620 of 970, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -37203,7 +37177,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 177 of 976, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 177 of 970, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -37255,7 +37229,7 @@ export const DOCUMENTS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 908 of 976, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 903 of 970, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -37292,7 +37266,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 896 of 976, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 891 of 970, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -37328,7 +37302,7 @@ export const DOCUMENTS = [
     dateEnd: '1950',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 866 of 976, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 861 of 970, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -37370,7 +37344,7 @@ export const DOCUMENTS = [
     dateEnd: '1980',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 754 of 976, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 749 of 970, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -37412,7 +37386,7 @@ export const DOCUMENTS = [
     dateEnd: '1992',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 679 of 976, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 674 of 970, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -37458,7 +37432,7 @@ export const DOCUMENTS = [
     dateEnd: '1950-03-22',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 707 of 976, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 702 of 970, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -37507,7 +37481,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 838 of 976, score 12). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 833 of 970, score 12). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -37576,7 +37550,7 @@ export const EVENTS = [
   {
     id: 'hearing-2024-11-13',
     cls: 'event',
-    label: 'hearing-2024-11-13',
+    label: 'House Oversight joint hearing, 13 November 2024 - \'Unidentified Anomalous Phenomena: Exposing the Truth\'',
     cluster: 'other',
     sub: 'congressional-hearings',
     desc: 'On 13 November 2024 at 11:30 am in 2154 Rayburn, the House Oversight Committee\'s Subcommittee on Cybersecurity, Information Technology, and Government Innovation and its Subcommittee on National Security, the Border, and Foreign Affairs held a joint hearing chaired by Rep. Nancy Mace, published by GPO as Serial No. 118-135 (CHRG-118hhrg57440). The witnesses were retired Rear Adm. Tim Gallaudet, former Oceanographer of the Navy and former acting NOAA administrator; Luis Elizondo, former Defense Department official; Michael Gold, former NASA associate administrator for space policy and partnerships and a member of the NASA UAP Independent Study Team; and Michael Shellenberger, founder of Public. This is the hearing at which the Immaculate Constellation report entered the Congressional Record: Mace announced from the dais that committee staff had asked her to enter \'this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program\', and it appears in the Index of Documents as \'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.\' It is also the hearing at which Elizondo answered Mace\'s direct question - \'Has the government conducted secret UAP crash retrieval programs? Yes or no?\' - with a single word, \'Yes\', while declining to discuss whether he was read into such programmes except in closed session. Gallaudet testified about the January 2015 Fleet Forces Command \'urgent safety of flight issue\' email containing the GIMBAL video, which was recalled from Navy inboxes. Gold cited Alex Dietrich by name, saying she \'was mocked by her colleagues\' and that her incident \'went years without any investigation.\' Mace also stated on the record that \'there are certain individuals who did not want this hearing to happen because they feared what might be disclosed\', and never named them. The hearing\'s structural achievement was to move the crash-retrieval allegation from a single whistleblower\'s second-hand account in 2023 to an affirmative one-word answer from a second former official in 2024, and to place a named alleged special access programme into the permanent record of Congress - where, twenty-one months later, no executive branch office has answered for it.',
@@ -37588,7 +37562,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 11 of 976, score 120). 21 connections, 10 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 11 of 970, score 120). 21 connections, 10 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -37797,7 +37771,7 @@ export const EVENTS = [
   {
     id: 'dow-uap-file-release-2026',
     cls: 'event',
-    label: 'dow-uap-file-release-2026',
+    label: 'Department of War release of UAP files',
     cluster: 'other',
     sub: 'Announced 8 May 2026',
     desc: 'On 8 May 2026 the Department of War announced a release of files relating to unidentified anomalous phenomena, and Senator Gillibrand issued a statement the same day. Her framing is the important part, because she is the author of the surviving statute: she called it \'another important step\' while insisting there is \'much more work to do\' and committing to \'fight to ensure the administration finally meets its legal obligation to the American people.\' The word \'finally\' is doing considerable work — it is a sitting senator stating, on her own Senate press page, that the executive branch has not been meeting an existing legal obligation. That obligation is Sections 1841-1843 of P.L. 118-31, whose agency-review deadline expired on 17 October 2024, some nineteen months before this release. The release is therefore best read on this board not as compliance but as discretionary executive action taken in the space left by a statute with no enforcement mechanism — precisely the space created when the Review Board was removed in conference.',
@@ -37809,7 +37783,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 595 of 976, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 591 of 970, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -37848,7 +37822,7 @@ export const EVENTS = [
   {
     id: 'green-fireballs-conference-1949',
     cls: 'event',
-    label: 'green-fireballs-conference-1949',
+    label: 'Los Alamos Green Fireballs Conference',
     cluster: 'other',
     sub: '16 February 1949, Los Alamos Scientific Laboratory, New Mexico',
     desc: 'The first documented scientific conference convened by the United States government on unexplained aerial objects over its own nuclear installations. Held at Los Alamos Scientific Laboratory on 16 February 1949 and attended by Laboratory Director Norris Bradbury, Edward Teller, Frederick Reines and representatives of the FBI, the Atomic Energy Commission and the US military, it addressed the green fireballs that had been appearing over Los Alamos, Sandia, Kirtland and the surrounding weapons complex since December 1948. Lincoln LaPaz of the University of New Mexico\'s Institute of Meteoritics had been brought in by Kirtland intelligence officers because the objects superficially resembled meteors; his assessment was that they did not behave like them. Los Alamos National Laboratory confirms the conference took place and that its National Security Research Center holds the minutes. The conclusion recorded was that the fireballs were ultimately dismissed as a national security threat - which did not stop the Air Force establishing Project Twinkle ten months later to instrument them. Newly declassified records were publicised in July 2026. The jurisdictional fact is the durable one: this was handled inside the AEC\'s contractor-operated laboratory complex, not by the Air Force\'s public UFO project at Wright-Patterson, and the record ended up in a contractor archive rather than in federal custody.',
@@ -37860,7 +37834,7 @@ export const EVENTS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 206 of 976, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 206 of 970, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -37904,7 +37878,7 @@ export const EVENTS = [
   {
     id: 'pursue-release-01',
     cls: 'event',
-    label: 'pursue-release-01',
+    label: 'PURSUE Release 01',
     cluster: 'other',
     sub: '8 May 2026; 160 files; 1944-2026',
     desc: 'The first tranche, published 8 May 2026: 117 PDFs, 29 sensor videos and 14 photographs, 160 files in total, spanning 1944 to 2026, distributed as a 1.2GB document bundle and a 1.3GB video bundle. At least 100 of the files carried redactions. Its contents cut across seven decades and at least four agencies: the FBI\'s master flying-disc file 62-HQ-83894 covering 1947 to 1968 as a single 101MB PDF; Apollo 12 and Apollo 17 mission records including cockpit transcript describing \'very bright particles or fragments\'; DOW-UAP-PR038, an infrared \'eight-pointed star\' formation over a Middle Eastern theatre in 2013; DOW-UAP-PR028, a diamond-shaped object over Greece in January 2024 visible only on infrared; DOW-UAP-PR034, an object executing multiple 90-degree turns over the Aegean in October 2023; FBI infrared imagery of objects over the western United States in September and December 2025; a September 2023 western-US event in which seven federal employees reported orbs and a \'translucent kite\'; an FBI bronze-ellipsoid case from September 2023 with multiple credentialed witnesses at a US test site; and a 2026 US Army sensor report of a North American sighting. That last item is the one that most cleanly breaks the historical framing: the tranche is not an archive dump, it contains current-year military sensor material. DNI Tulsi Gabbard described the release as an ongoing joint effort across intelligence and defence agencies.',
@@ -37916,7 +37890,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 174 of 976, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 174 of 970, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -37975,7 +37949,7 @@ export const EVENTS = [
   {
     id: 'pursue-release-02',
     cls: 'event',
-    label: 'pursue-release-02',
+    label: 'PURSUE Release 02',
     cluster: 'other',
     sub: '22 May 2026; 64 files; 51 sensor videos',
     desc: 'Published 22 May 2026: 64 files, of which 51 are sensor videos issued in a new DOW-UAP-PR050 through PR099 series, plus seven NASA crew audio files and six documents. The video bundle is 5.6GB - by far the largest of the five tranches and more than four times the size of the document bundle series combined at that point. This is the tranche that answers Rep. Luna\'s April 2026 letter. Its single most significant item is ODNI-UAP-D001: a first-person narrative written by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter observed from a military helicopter in late 2025. An ODNI-numbered operational account of an unresolved encounter by a serving officer is a category of document the intelligence community had never previously published. The video set includes DOW-UAP-PR051, an MQ-9 Reaper weapons-quality lock on an object over the Jordan-Syria border in 2021 showing instantaneous acceleration; DOW-UAP-PR055, a spherical object moving in and out of cloud over Afghanistan on 23 November 2020; a March 2022 sequence of spheres moving in and out of the water near a surfaced US submarine; and the February 2023 Lake Huron F-16C engagement. The submarine and Reaper sequences are the two items in the entire PURSUE corpus that most directly implicate transmedium behaviour and weapons-system-grade tracking, and both were released without sensor parameters.',
@@ -37987,7 +37961,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 154 of 976, score 44). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 154 of 970, score 44). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -38036,7 +38010,7 @@ export const EVENTS = [
   {
     id: 'pursue-release-03',
     cls: 'event',
-    label: 'pursue-release-03',
+    label: 'PURSUE Release 03',
     cluster: 'other',
     sub: '12 June 2026; 72 files; FBI-dominated',
     desc: 'Published 12 June 2026: 72 files comprising 53 documents, 10 images, 6 videos and 3 audio files, with FBI records the single largest contributor at 29 files. This is the tranche that establishes the Bureau as an active modern UAP collector rather than a 1940s historical footnote. Its FBI orb corpus covers 2021 to 2025 and includes four authenticated eyewitness videos - catalogued as \'Triangle Orbs\', \'Red Orb Rotation\' and \'Orbs Over the Pond\' - and an FD-1057 recording two FBI special agents\' own first-hand observation. An FD-1057 is the Bureau\'s electronic communication form for documenting an investigative activity; an FD-1057 in which the observers are the agents themselves is a primary federal law-enforcement record of an unresolved sighting by credentialed federal officers. The tranche also contains a less-redacted version of the CIA\'s 1953 Robertson Panel report, NASA Gemini-era crew debriefings, the 1962 Cronkite-Cooper interview audio, a CIA file on a 2008 disc-like object over Harare International Airport in Zimbabwe, the October 2023 western-US federal-employee event, and the Colorado Springs translucent \'potato\' object from 2024, unresolved.',
@@ -38048,7 +38022,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 141 of 976, score 45). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 141 of 970, score 45). 4 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -38102,7 +38076,7 @@ export const EVENTS = [
   {
     id: 'pursue-release-04',
     cls: 'event',
-    label: 'pursue-release-04',
+    label: 'PURSUE Release 04',
     cluster: 'other',
     sub: '10 July 2026; documents 227MB, videos 1.4GB; 1940s-2026',
     desc: 'Published 10 July 2026 with a 227MB document bundle and a 1.4GB video bundle. The Department did not publish a file count on the portal and no independent inventory has established one, which is itself a datum: by the fourth tranche the release programme had stopped stating what it was releasing. Its announced content is previously unseen US military video and historical documents dating to as early as the 1940s. Identified items include NASA STS-80 Space Shuttle Columbia mission imagery from 1996, a 2019 eastern-US sighting reported by an observer with 28 years of combined Air Force and Navy experience, and multiple unresolved 2020 reports from the western United States and the Atlantic Ocean. Release 04 is also the tranche in which assessment language appears - several videos are described as consistent with balloons or sensor artefacts and none as clear evidence of unknown aircraft. That characterisation sits against the Department\'s own stated posture of providing no assessment on any file, and marks the point at which the release programme began doing to its own material what AARO\'s annual reports do: publishing the object and the debunk together.',
@@ -38114,7 +38088,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 360 of 976, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 357 of 970, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38158,7 +38132,7 @@ export const EVENTS = [
   {
     id: 'pursue-release-05',
     cls: 'event',
-    label: 'pursue-release-05',
+    label: 'PURSUE Release 05',
     cluster: 'other',
     sub: '7 August 2026; 41 files (16 videos, 22 documents, 3 images); 1950/1953-2026',
     desc: 'The fifth and most recent tranche, published 7 August 2026: 41 files comprising 16 videos, 22 documents and 3 images, with a 130MB document bundle and a 513MB video bundle. The portal states the span as 1953 to 2026; the underlying content reaches back to 1950. Its centrepiece is the Gulf of Oman incident of 8 September 2021 - six videos from an AC-130J gunship together with intelligence report DOW-UAP-D101 documenting approximately 25 instances of UAP, described as cold orbs roughly four feet in diameter flying at between 250 and 1,300 mph at low altitude, and reported as reacting to the aircraft\'s cannon fire. That is a US military gunship engaging unidentified objects and recording their response, released by the Department that engaged them. The tranche also contains DOW-UAP-PR134, a January 2025 video of a small orb over a residential area in the Middle East; FBI-UAP-D031, a black triangular craft with a red light at each corner near a military base at Colorado Springs in October 2023; digital renderings of triangular UAP sightings from 2002, 2011 and 2023; a CIA report on an alleged November 1963 Brazil recovery of a metal sphere containing a deceased occupant in a spacesuit, subsequently deemed unsubstantiated by the American Consulate; and a 1953 US Navy Photographic Interpretation Center analysis of the 1950 Great Falls, Montana and 1952 Tremonton, Utah films. The Navy PIC finding is the most consequential single document in the entire PURSUE corpus: after more than a thousand hours of frame analysis, the Navy\'s own photo interpreters assessed the Utah objects as bright, silvery reflective disks that were self-luminous and intelligently controlled and inconsistent with natural phenomena or commonly known aerospace technologies. That is an affirmative technical finding by a US Navy analytic unit, released by the Department of War in 2026, and it directly contradicts the disposition the same films received from the Robertson Panel in January 1953.',
@@ -38170,7 +38144,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 98 of 976, score 55). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 99 of 970, score 55). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -38224,7 +38198,7 @@ export const EVENTS = [
   {
     id: 'gulf-of-oman-ac130j-2021',
     cls: 'event',
-    label: 'gulf-of-oman-ac130j-2021',
+    label: 'Gulf of Oman AC-130J UAP engagement, 8 September 2021',
     cluster: 'other',
     sub: 'Six videos and DOW-UAP-D101; released in PURSUE Release 05',
     desc: 'The most operationally significant single incident in the PURSUE corpus. On 8 September 2021 an AC-130J gunship over the Gulf of Oman encountered unidentified objects; the Department released six videos of the encounter together with intelligence report DOW-UAP-D101 in Release 05 on 7 August 2026. The report documents approximately 25 instances of UAP, describes them as cold orbs about four feet in diameter flying at low altitude at speeds between 250 and 1,300 mph, and records that the objects reportedly reacted to the aircraft\'s cannon fire. Every element of that is a category the government had previously kept out of the public record: a fixed-wing gunship, a weapons employment, a multiple-object event, an object reaction to ordnance, and a speed envelope. It is also a September 2021 incident released in August 2026 - which places it inside the reporting periods of the FY2023 and FY2024 AARO annual reports, neither of which describes anything resembling it, and behind the FY2024 report\'s finding that AARO\'s analytic constraint is a lack of timely and actionable sensor data.',
@@ -38236,7 +38210,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 214 of 976, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 214 of 970, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -38295,7 +38269,7 @@ export const EVENTS = [
   {
     id: 'dow-financial-mgmt-hearing-2026',
     cls: 'event',
-    label: 'dow-financial-mgmt-hearing-2026',
+    label: 'House Oversight hearing: \'DoW Financial Management: Examining Progress and New Audit Approaches\' (13 May 2026)',
     cluster: 'other',
     sub: 'The most recent congressional examination of the Department\'s inability to account for its money',
     desc: 'On 13 May 2026 the House Committee on Oversight and Government Reform held a hearing titled \'DoW Financial Management: Examining Progress and New Audit Approaches\'. Brett A. Mansfield, Deputy Inspector General of the Department of War, testified. His oral statement, published by the Office of Inspector General ten days later, put on the congressional record that unsupported adjustments totalled \'over $859 billion in the last two quarters of FY 25\', that the Department manages more than $4.7 trillion in assets, that material weaknesses had fallen from twenty-eight to twenty-six, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years. He also disclosed two forward-looking structural changes: consolidation of the Department\'s stand-alone reporting entities from twenty-two to seven in fiscal year 2027, and transfer of the group auditor role to an independent public accounting firm with the Office of Inspector General retaining oversight. This is the same committee - House Oversight - before whose National Security subcommittee David Grusch testified on 26 July 2023. The committee that heard the allegation that money was moved outside congressional oversight is the committee that, thirty-four months later, was told the Department could not document $859 billion of adjustments in six months. Nothing in the public record connects the two proceedings.',
@@ -38307,7 +38281,7 @@ export const EVENTS = [
     dateEnd: '2026-05-13',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 520 of 976, score 24). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 518 of 970, score 24). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -38356,7 +38330,7 @@ export const EVENTS = [
   {
     id: 'ev-chile-navy-flir-2014',
     cls: 'event',
-    label: 'ev-chile-navy-flir-2014',
+    label: 'Chilean Navy helicopter FLIR case, November 2014 (released January 2017)',
     cluster: 'other',
     sub: 'CEFAA release of Chilean Navy infrared footage after two years of analysis',
     desc: 'In November 2014 a Chilean Navy helicopter on a routine coastal patrol filmed, in daylight and with its infrared camera, an object that the crew tracked from around forty miles away and attempted repeatedly to contact. There was no response. The crew reported it to two nearby radar stations, neither of which could see the object on their screens although both could see the Navy helicopters; air traffic control confirmed that no aircraft had been authorised in the area. The footage shows the object apparently discharging a plume or gas as it moves. CEFAA, then the Chilean civil aviation UAP office, examined the case for two years with a multidisciplinary panel and released the video publicly in January 2017 without an explanation - the first time a Latin American state released military infrared sensor footage of an unresolved object. The release came three years before the US Department of Defense authorised the release of the FLIR1, GIMBAL and GOFAST Navy videos in April 2020, and it establishes the pattern the Canadian government would later identify: the Chilean office publishes what it cannot explain.',
@@ -38368,7 +38342,7 @@ export const EVENTS = [
     dateEnd: '2017-01',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 640 of 976, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 635 of 970, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -38408,7 +38382,7 @@ export const EVENTS = [
   {
     id: 'nimitz-2004',
     cls: 'event',
-    label: 'nimitz-2004',
+    label: 'USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004',
     cluster: 'other',
     sub: 'Multi-platform radar/visual/infrared UAP encounters, Southern California Operating Area; the \'Tic Tac\'',
     desc: 'Between roughly 10 and 16 November 2004 the Nimitz Carrier Strike Group, working up off southern California in the W-291 warning area and the Baja approaches, generated the most completely corroborated UAP encounter in the American record: radar, multiple aircrew eyewitnesses, and an infrared recording, on separate platforms, inside a controlled military exercise area. The guided-missile cruiser USS Princeton (CG-59), running a freshly upgraded SPY-1B, had been holding anomalous tracks on its Aegis combat system for approximately two weeks; Senior Chief Operations Specialist Kevin Day ran the air picture. Fravor\'s sworn statement to House Oversight describes the objects descending from above 80,000 feet \'rapidly down to 20,000ft\', loitering for hours, then ascending. On 14 November 2004 Princeton vectored two VFA-41 Black Aces F/A-18Fs off a training event to a contact. Cdr. David Fravor, the squadron\'s commanding officer, and his weapons systems officer flew the lead; Lt. Cdr. Alex Dietrich and her WSO flew high cover from about 8,000 feet above. Fravor found a small white object, no rotors, no rotor wash, no visible control surfaces, moving erratically over an area of white water in an otherwise calm sea, its long axis initially north-south. Four aircrew watched it for roughly five minutes. As Fravor descended in a spiral to intercept, the object mirrored his turn, then accelerated out of sight; Princeton reacquired it at the CAP point roughly 60 miles away in under a minute. A follow-on sortie that day, flown with a functioning ATFLIR pod and credited to Lt. Cdr. Chad Underwood, produced the infrared footage now known as FLIR1 - the video that leaked in 2007, was published by The New York Times on 16 December 2017, and was formally released by the Department of Defense on 27 April 2020 with the statement that the phenomena \'remain characterized as unidentified.\' What happened afterwards is the part that matters institutionally. The Navy\'s own range fouler report on the incident, released to the Navy FOIA reading room on 12 January 2023, describes the object as \'solid white, smooth, with no edges ... uniformly colored with no nacelles, pylons, or wings ... approximately 46 feet in length\', names Fravor and Dietrich, and records the disposition in one sentence: \'Pilots reported the incident through Intelligence Personnel. Reporting terminated at 3rd Fleet, there was no process to share the reporting.\' Fravor testified under oath on 26 July 2023 that \'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.\' Against that, three USS Princeton crewmen in different divisions - Kevin Day, CEC/Aegis technician Gary Voorhis and Jason Turner - have described in public interviews since 2018 that within roughly 48 hours personnel who did not identify themselves came aboard and removed or ordered wiped the recording media covering the tracks, and that crew were told to stop discussing it. No FOIA release, visit log, deck-log entry or message traffic has ever been produced identifying those personnel or the authority under which they acted, and the Navy has never produced Princeton sensor data for 14 November 2004. The two accounts are not necessarily in conflict - Fravor speaks for the aircrew and the squadron\'s tapes, the Princeton crew speak for the ship\'s recorded data - but the confiscation account remains the single most consequential unanchored claim in the modern record, and it is graded here as an inference, not a fact.',
@@ -38420,7 +38394,7 @@ export const EVENTS = [
     dateEnd: '2004-11-16',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 53 of 976, score 71). 19 connections, 8 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 53 of 970, score 71). 19 connections, 8 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -38501,7 +38475,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 12 of 976, score 118). 22 connections, 9 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 12 of 970, score 118). 22 connections, 9 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38662,7 +38636,7 @@ export const EVENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 5 of 976, score 147). 33 connections, 16 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 8 of 970, score 135). 30 connections, 13 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -38908,7 +38882,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 366 of 976, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 363 of 970, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38974,7 +38948,7 @@ export const EVENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 292 of 976, score 33). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 289 of 970, score 33). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -39025,7 +38999,7 @@ export const EVENTS = [
     dateEnd: '2019',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 414 of 976, score 28). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 412 of 970, score 28). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39081,7 +39055,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 384 of 976, score 29). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 381 of 970, score 29). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39142,7 +39116,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 368 of 976, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 365 of 970, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39198,7 +39172,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 492 of 976, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 490 of 970, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39254,7 +39228,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 185 of 976, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 185 of 970, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39325,7 +39299,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 444 of 976, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 442 of 970, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39376,7 +39350,7 @@ export const EVENTS = [
     dateEnd: '2004',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 617 of 976, score 20). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 613 of 970, score 20). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -39417,7 +39391,7 @@ export const EVENTS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 493 of 976, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 491 of 970, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -39463,7 +39437,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 550 of 976, score 23). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 547 of 970, score 23). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -39509,7 +39483,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 551 of 976, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 548 of 970, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39550,7 +39524,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 669 of 976, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 664 of 970, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39586,7 +39560,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 385 of 976, score 29). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 382 of 970, score 29). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39632,7 +39606,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 856 of 976, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 851 of 970, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -39673,7 +39647,7 @@ export const EVENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 97 of 976, score 56). 14 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 97 of 970, score 56). 14 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39744,7 +39718,7 @@ export const EVENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 495 of 976, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 493 of 970, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39785,7 +39759,7 @@ export const EVENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 884 of 976, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 879 of 970, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -39826,7 +39800,7 @@ export const EVENTS = [
     dateEnd: '1980',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 264 of 976, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 261 of 970, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -39872,7 +39846,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 498 of 976, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 496 of 970, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39923,7 +39897,7 @@ export const EVENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 26 of 976, score 92). 13 connections, 4 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 26 of 970, score 92). 13 connections, 4 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40030,7 +40004,7 @@ export const EVENTS = [
     dateEnd: '1952',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 499 of 976, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 497 of 970, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -40082,7 +40056,7 @@ export const EVENTS = [
     dateEnd: '1966',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 500 of 976, score 25). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 498 of 970, score 25). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -40133,7 +40107,7 @@ export const EVENTS = [
     dateEnd: '1975',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 118 of 976, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 118 of 970, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40219,7 +40193,7 @@ export const EVENTS = [
     dateEnd: '1981',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 157 of 976, score 44). 6 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 157 of 970, score 44). 6 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -40270,7 +40244,7 @@ export const EVENTS = [
     dateEnd: '1982',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 209 of 976, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 209 of 970, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -40321,7 +40295,7 @@ export const EVENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 282 of 976, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 279 of 970, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -40372,7 +40346,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 601 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 597 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A0/D1.',
     claims: [
       {
         tier: 1,
@@ -40418,7 +40392,7 @@ export const EVENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 345 of 976, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 343 of 970, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -40494,7 +40468,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 471 of 976, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 469 of 970, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40545,7 +40519,7 @@ export const EVENTS = [
     dateEnd: '2025-08',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 790 of 976, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 785 of 970, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -40581,7 +40555,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 748 of 976, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 743 of 970, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -40622,7 +40596,7 @@ export const EVENTS = [
     dateEnd: '2026-02-23',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 531 of 976, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 529 of 970, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -40673,7 +40647,7 @@ export const EVENTS = [
     dateEnd: '2025-09-09',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 423 of 976, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 421 of 970, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -40714,7 +40688,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 968 of 976, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 963 of 970, score 6). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -40750,7 +40724,7 @@ export const EVENTS = [
     dateEnd: '2023-07-26',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 80 of 976, score 60). 6 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 80 of 970, score 60). 6 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -40826,7 +40800,7 @@ export const EVENTS = [
     dateEnd: '2009-12',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 604 of 976, score 21). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 600 of 970, score 21). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -40877,7 +40851,7 @@ export const EVENTS = [
     dateEnd: '1986-05-20',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 270 of 976, score 35). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 267 of 970, score 35). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -40934,7 +40908,7 @@ export const EVENTS = [
     dateEnd: '1996-01-20',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 300 of 976, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 297 of 970, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -40985,7 +40959,7 @@ export const EVENTS = [
     dateEnd: '2026-07-15',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 301 of 976, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 298 of 970, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -41046,7 +41020,7 @@ export const EVENTS = [
     dateEnd: '1978-12-30',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 703 of 976, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 698 of 970, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -41092,7 +41066,7 @@ export const EVENTS = [
     dateEnd: '2026-05-08',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 792 of 976, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 787 of 970, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -41138,7 +41112,7 @@ export const EVENTS = [
     dateEnd: '2026-05-13',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 793 of 976, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 788 of 970, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -41184,7 +41158,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 534 of 976, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 532 of 970, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -41230,7 +41204,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 21 of 976, score 97). 16 connections, 5 of them custody/witness/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 21 of 970, score 97). 16 connections, 5 of them custody/witness/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -41321,7 +41295,7 @@ export const EVENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 202 of 976, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 202 of 970, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -41378,7 +41352,7 @@ export const EVENTS = [
     dateEnd: '2026-06-30',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 895 of 976, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 890 of 970, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -41419,7 +41393,7 @@ export const EVENTS = [
     dateEnd: '2009-08-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 505 of 976, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 503 of 970, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -41475,7 +41449,7 @@ export const EVENTS = [
     dateEnd: '1986-08-21',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 585 of 976, score 22). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 581 of 970, score 22). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -41531,7 +41505,7 @@ export const EVENTS = [
     dateEnd: '1965-12-10',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 396 of 976, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 393 of 970, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -41587,7 +41561,7 @@ export const EVENTS = [
     dateEnd: '1967-10-09',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 606 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 602 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -41633,7 +41607,7 @@ export const EVENTS = [
     dateEnd: '1996-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 607 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 603 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -41674,7 +41648,7 @@ export const EVENTS = [
     dateEnd: '1953',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 564 of 976, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 561 of 970, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -41725,7 +41699,7 @@ export const EVENTS = [
     dateEnd: '1992',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 351 of 976, score 31). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 348 of 970, score 31). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -41781,7 +41755,7 @@ export const EVENTS = [
     dateEnd: '1980-09-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 608 of 976, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 604 of 970, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
     claims: [
       {
         tier: 2,
@@ -41827,7 +41801,7 @@ export const EVENTS = [
     dateEnd: '1950',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 845 of 976, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 840 of 970, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
     claims: [
       {
         tier: 2,
@@ -41863,7 +41837,7 @@ export const EVENTS = [
     dateEnd: '1967-03-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 374 of 976, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 371 of 970, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -41915,7 +41889,7 @@ export const EVENTS = [
     dateEnd: '1966-12-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 678 of 976, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 673 of 970, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -41951,7 +41925,7 @@ export const EVENTS = [
     dateEnd: '1968-10-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 454 of 976, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 452 of 970, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -42007,7 +41981,7 @@ export const EVENTS = [
     dateEnd: '2010-09-27',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 474 of 976, score 26). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 472 of 970, score 26). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,

@@ -18,6 +18,48 @@ RESEARCH = os.path.join(ROOT, "research")
 DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "tools")
 
+# --- pristine-merge mode -----------------------------------------------------
+# regrade.py must be a pure function of the research corpus. If it scores a board
+# that already contains its own previous overlay it reads its own output back in,
+# skips the work it already did, and emits a THINNER _remediation.json than last
+# time — silently destroying recovered dates on every rebuild. These two env vars
+# let regrade build the board WITHOUT the overlay, to a scratch path, without
+# touching data/*.js or the tools/*.json reports.
+#
+#   MERGE_SKIP=_remediation   comma-separated slugs to exclude from research/*.json
+#   MERGE_JSON_OUT=<path>     write ONLY the board JSON here; emit nothing else
+MERGE_SKIP = {s.strip() for s in os.environ.get("MERGE_SKIP", "").split(",") if s.strip()}
+MERGE_JSON_OUT = os.environ.get("MERGE_JSON_OUT") or None
+
+# --- id canonicalisation -----------------------------------------------------
+# Different research agents wrote the same person under two ids: `p-dylan-borland`
+# in one file and `dylan-borland` in another. regrade.py normalised these, but only
+# inside its own overlay — so merge saw the normalised id as a NEW node, created an
+# empty record for it, and fell back to the id for the display label. The board then
+# carried five people twice, each pair splitting its edges and sources, with the twin
+# rendering its own slug as its name ("alexandro-wiggins" instead of
+# "Alexandro C. Wiggins"). Confirmed on the shipped board 2026-08-12.
+#
+# Canonicalisation belongs HERE, at load, because merge already merges duplicate ids
+# conservatively — collapse the ids first and the existing rules union the records.
+# regrade.py imports this so the two cannot drift apart again.
+ID_MERGES = {"l-washington-dc": "l-dc"}
+_P_PREFIX = re.compile(r"^p-[a-z]+-[a-z]")
+
+
+def canonical_id(i):
+    """One spelling per entity. Strips a stray `p-` prefix from person ids without
+    touching genuinely p-named entities (`pogo`, `pursue-releases`, `project-sign`)."""
+    if not i:
+        return i
+    i = str(i).strip()
+    if i in ID_MERGES:
+        return ID_MERGES[i]
+    if _P_PREFIX.match(i):
+        return i[2:]
+    return i
+
+
 VALID_CLS = {"person", "institution", "program", "location", "domain",
              "legislation", "document", "event"}
 VALID_EDGE = {"institutional", "geographic", "research", "temporal", "behavioral",
@@ -145,8 +187,20 @@ def _merge_common(a, b):
             a["_domains"].append(d)
 
 
+def _better_label(a, b):
+    """`label` falls back to the id when a record has no name. That fallback must
+    never beat a real name just because it was loaded from an earlier file — which
+    is how `Dylan Borland` ended up displayed as `dylan-borland` once the duplicate
+    ids were collapsed. A label identical to the id is absence, not a value."""
+    av, bv = a.get("label"), b.get("label")
+    rid = a.get("id")
+    if ((not av) or av == rid) and bv and bv != rid:
+        a["label"] = bv
+
+
 def merge_person(a, b):
-    for f in ("label", "loc", "locId", "instId", "sub", "cluster", "status",
+    _better_label(a, b)
+    for f in ("loc", "locId", "instId", "sub", "cluster", "status",
               "date", "age", "photoCredit", "unexplainedResidual"):
         if not a.get(f) and b.get(f):
             a[f] = b[f]
@@ -166,7 +220,8 @@ def merge_person(a, b):
 
 
 def merge_entity(a, b):
-    for f in ("label", "cluster", "sub", "dateStart", "dateEnd"):
+    _better_label(a, b)
+    for f in ("cluster", "sub", "dateStart", "dateEnd"):
         if not a.get(f) and b.get(f):
             a[f] = b[f]
     if len(str(b.get("desc") or "")) > len(str(a.get("desc") or "")):
@@ -183,6 +238,10 @@ def load():
     # the merge rules (which otherwise take the strongest tier and would undo a
     # deliberate demotion). _stubs lands second-to-last so real dossiers win over stubs.
     allf = glob.glob(os.path.join(RESEARCH, "*.json"))
+    if MERGE_SKIP:
+        allf = [f for f in allf
+                if os.path.splitext(os.path.basename(f))[0] not in MERGE_SKIP]
+        print(f"[pristine] excluded {sorted(MERGE_SKIP)} from the merge", file=sys.stderr)
     rank = lambda f: (3 if "_corrections" in f else 2 if "_remediation" in f else 1 if "_stubs" in f else 0, f)
     files = sorted(allf, key=rank)
     if not files:
@@ -197,7 +256,7 @@ def load():
             continue
 
         for p in doc.get("people") or []:
-            pid = p.get("id")
+            pid = canonical_id(p.get("id"))
             if not pid:
                 reject("person", p, "no id")
                 continue
@@ -206,7 +265,8 @@ def load():
                 "label": p.get("label") or p.get("name") or pid,
                 "status": p.get("status") or "active",
                 "date": p.get("date"), "age": p.get("age"),
-                "loc": p.get("loc"), "locId": p.get("locId"), "instId": p.get("instId"),
+                "loc": p.get("loc"),
+                "locId": canonical_id(p.get("locId")), "instId": canonical_id(p.get("instId")),
                 "sub": p.get("sub"),
                 "cluster": p.get("cluster") if p.get("cluster") in VALID_CLUSTER else "other",
                 "tier": p.get("tier") if p.get("tier") in VALID_TIER else "C",
@@ -234,7 +294,7 @@ def load():
                 people[pid] = merge_person(people[pid], rec) if pid in people else rec
 
         for e in doc.get("entities") or []:
-            eid, cls = e.get("id"), e.get("cls")
+            eid, cls = canonical_id(e.get("id")), e.get("cls")
             if not eid:
                 reject("entity", e, "no id")
                 continue
@@ -274,7 +334,8 @@ def load():
                 entities[eid] = merge_entity(entities[eid], rec) if eid in entities else rec
 
         for x in doc.get("edges") or []:
-            a_, b_ = x.get("a") or x.get("from"), x.get("b") or x.get("to")
+            a_ = canonical_id(x.get("a") or x.get("from"))
+            b_ = canonical_id(x.get("b") or x.get("to"))
             t = x.get("type") or x.get("rel")
             if not a_ or not b_:
                 reject("edge", x, "missing endpoint")
@@ -315,6 +376,8 @@ def load():
             if key in seen_tl:
                 continue
             seen_tl.add(key)
+            if t.get("node"):
+                t["node"] = canonical_id(t["node"])
             tid = t.get("id") or f"{slug}-{len(timeline)}"
             while tid in timeline:
                 tid += "x"
@@ -322,6 +385,7 @@ def load():
             timeline[tid] = t
 
         for k, v in (doc.get("entityInfo") or {}).items():
+            k = canonical_id(k)
             # tolerate agents that wrote entityInfo as {id: "desc string"}
             if isinstance(v, str):
                 v = {"desc": v, "sources": []}
@@ -510,6 +574,20 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     os.makedirs(OUT, exist_ok=True)
     from datetime import date as _d
     today = _d.today().isoformat()
+
+    # Pristine mode: one scratch JSON, nothing else. Writing data/*.js here would
+    # clobber the real build outputs with an un-remediated board.
+    if MERGE_JSON_OUT:
+        tl = sorted(timeline.values(), key=lambda t: str(t.get("date") or ""))
+        os.makedirs(os.path.dirname(os.path.abspath(MERGE_JSON_OUT)), exist_ok=True)
+        with open(MERGE_JSON_OUT, "w", encoding="utf-8") as f:
+            json.dump({"generated": today, "people": list(people.values()),
+                       "entities": list(entities.values()), "edges": list(edges.values()),
+                       "timeline": tl, "entityInfo": entity_info}, f, indent=1,
+                      ensure_ascii=False)
+        print(f"[pristine] wrote {MERGE_JSON_OUT} only — no .js, no reports",
+              file=sys.stderr)
+        return today
 
     def write(fn, name, body):
         with open(os.path.join(DATA, fn), "w", encoding="utf-8") as f:
