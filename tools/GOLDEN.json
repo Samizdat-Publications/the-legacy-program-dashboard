@@ -1,0 +1,31 @@
+{
+ "note": "Deliberately accepted counts. Every change here should be explainable in the commit message.",
+ "counts": {
+  "people": 246,
+  "entities": 724,
+  "edges": 1786,
+  "timeline": 858,
+  "entity_classes": {
+   "document": 198,
+   "domain": 60,
+   "event": 75,
+   "institution": 162,
+   "legislation": 60,
+   "location": 101,
+   "program": 68
+  },
+  "entity_tiers": {
+   "A": 144,
+   "B": 340,
+   "C": 486
+  },
+  "claim_tiers": {
+   "1": 2436,
+   "2": 1151,
+   "3": 521
+  },
+  "unique_source_urls": 2664,
+  "people_with_date": 245,
+  "locations_with_coords": 75
+ }
+}
