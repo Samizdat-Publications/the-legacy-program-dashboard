@@ -1,0 +1,22 @@
+[
+ {
+  "kind": "entity",
+  "why": "bad cls 'entity'",
+  "id": "nara-uap-collection"
+ },
+ {
+  "kind": "entityInfo",
+  "why": "unexpected type list",
+  "id": "keyFindings"
+ },
+ {
+  "kind": "entityInfo",
+  "why": "unexpected type list",
+  "id": "coreDocuments"
+ },
+ {
+  "kind": "entityInfo",
+  "why": "unexpected type list",
+  "id": "archives"
+ }
+]

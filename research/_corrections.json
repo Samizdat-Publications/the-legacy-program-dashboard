@@ -1,0 +1,45 @@
+{
+ "domain": "_corrections",
+ "people": [],
+ "entities": [
+  {
+   "id": "yankee-blue",
+   "cls": "program",
+   "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "cluster": "ic",
+   "sub": "Alleged USAF/AFOSI program",
+   "tier": "B",
+   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel — briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports — which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment — but it is a finding about the absence of a record, not a record.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (March 2024)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "Archived capture of HRR Volume I",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2026-08-11"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "A full-text search of the released AARO Historical Record Report Volume I returns no occurrence of 'Yankee Blue'. The term is likewise absent from the FY2023, FY2024 and FY2025 consolidated annual reports.",
+     "source": "AARO HRR Vol I, March 2024, full text; AARO annual reports FY2023-FY2025"
+    },
+    {
+     "tier": 3,
+     "text": "The claim that AARO acknowledged Yankee Blue in Volume I is widely repeated in reporting and was asserted on this board until 12 Aug 2026. It does not survive a full-text check of the document.",
+     "source": "Correction logged 12 Aug 2026; see notes/WAVE3_QUEUE.md"
+    }
+   ]
+  }
+ ],
+ "edges": [],
+ "timeline": [],
+ "entityInfo": {},
+ "gaps": [
+  "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme."
+ ]
+}

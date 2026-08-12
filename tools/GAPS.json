@@ -1,0 +1,1618 @@
+[
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "AARO Historical Record Report VOLUME II: promised in Vol I pp. 6 and 45 against the Sec. 6802 FY23 NDAA deadline; still unpublished as of 12 Aug 2026. Not on the AARO Congressional/Press Products index, not announced in the FY2024 or FY2025 annual reports. Wave 4: check FY26 NDAA conference language and any AARO/OUSD(I&S) letter to SASC/HPSCI explaining the delay."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "YANKEE BLUE primary record: not in HRR Vol I, nor in the FY2023/FY2024/FY2025 annual reports (all four full-text searched). The alleged AFOSI/Kirtland memo has not been released. Wave 4: pursue the DoD FOIA case file - the Pentagon reportedly first denied the memo existed (Sept 2025) then reopened the search (Dec 2025); the FOIA response letters themselves would be Tier 1. Also pursue AFOSI (osi.af.mil) FOIA logs and any SASC/House Oversight correspondence naming the program."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "Sec. 6802 of the FY2023 NDAA - RESOLVED this pass. Text pulled from govinfo PLAW-117publ263: the Historical Record Report is due 'not later than 540 days after' enactment of the IAA FY2023, i.e. 15 June 2024 (enacted 23 Dec 2022). Wave 4 follow-on: determine whether Congress has since extended, amended or repealed the Sec. 6802(j) requirement (check FY2024/FY2025/FY2026 NDAA and IAA texts), and whether AARO has filed any statutory late-report notification."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "The CLASSIFIED versions of DODIG-2023-109 (15 Aug 2023) and of each Consolidated Annual Report remain unreleased; only the unclassified summaries are public. Wave 4: MDR/FOIA targets."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "AARO's classified annexes to the FY2023-FY2025 annual reports and the Recommendation 1 closure package (the DoD policy OUSD(I&S) was to issue integrating UAP into intelligence/CI/force-protection policy) - the IG left Recommendation 1 'resolved but open'. Wave 4: check whether that policy issuance ever appeared (esd.whs.mil DoDD/DoDI series) and whether DoD OIG has since closed the recommendation."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "dni.gov now redirects ODNI assessment PDFs to archive.dni.gov and odni.gov; the FY2025 report is under Department of War branding and dodig.mil brands as the Department of War OIG. Live .mil/.gov URLs for these documents are unstable - Wayback snapshots recorded alongside every live URL in this overlay."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "media.defense.gov and aaro.mil serve Akamai 'Access Denied' to non-browser clients; all PDFs in this overlay were retrieved through web.archive.org id_ snapshots. Note that the 2026 Wayback capture of the DODIG-2023-109 PDF itself archived an Access Denied page - the citable capture is the 20240125210400 snapshot."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "Sec. 6802(k)(1)(A) requires the joint DNI/SECDEF annual report '180 days after enactment, and annually thereafter for four years' - that four-year run arguably expires with the FY2025 report. Wave 4: establish whether the annual-report mandate has been reauthorised beyond FY2025, which determines whether FY2025 is the last statutorily required Consolidated Annual Report."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "FY2025 Consolidated Annual Report contains an unreconciled internal discrepancy on satellite-flaring resolutions (238 in the Executive Summary vs 44 in Section C) and does not publish an explicit overall resolution rate. Wave 4: seek AARO's case-resolution dataset or a congressional QFR that reconciles the two figures."
+ },
+ {
+  "domain": "_rs-aaro-reports",
+  "gap": "The 50 UAS incidents near nuclear infrastructure in FY2025 came from the NNSA Administrator and the NRC Chairman and were expressly 'not reported as UAP'. Wave 4: pursue the underlying NNSA/NRC incident reports (NRC event notification reports are public) - a 177.8 percent year-on-year rise near nuclear weapons sites is a primary-record thread independent of the UAP framing."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "5 of the 37 DIRDs listed in the DIA FOIA Reading Room were NOT retrieved and have no confirmed FileId URL: Biomaterials; Materials_For_Advanced_Aerospace_Platforms; Metallic_Glasses_For_Aerospace_Applications; Metallic_Spintronics; Metamaterials_For_Aerospace_Applications. They are absent from the archived FileId block 170014-170071 and from Wayback. Wave 4: get the live reading-room HTML (dia.mil blocks curl with 403; WebFetch strips hrefs) to recover their FileIds."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "The commonly cited figure is 38 DIRDs; the DIA Reading Room currently posts 37 files with the DIRD filename prefix. The canonical '38 titles' list — the DIA letter to Sens. McCain and Reed (Jan 2018) enclosing the DIRD title list — was NOT located at any primary URL in this pass. Wave 4."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "The 2018 DoD letter/statement on Luis Elizondo's role in AATIP was NOT located at a primary URL in this pass. Candidate primary substitutes to try in wave 4: DoD IG report DODIG-2023-109 (dodig.mil), AARO Historical Record Vol. I annexes, and the 26 July 2023 House Oversight hearing transcript on govinfo."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "Author attribution for every DIRD is redacted under (b)(6) in the DIA release. Puthoff / Davis / Green / Kelleher attributions are therefore Tier 3 against the primary record. Wave 4: locate unredacted copies, BAASS subcontract records, or sworn testimony naming authors."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "Only two author surnames survive redaction in the corpus: 'Hathaway' (Superconductors in Gravity Research) and 'Tsoi' (Metallic Spintronics), both inside review excerpts in DIA Info Memo U-429-09. Wave 4: confirm full names (George Hathaway; Maxim Tsoi, UT Austin) against a second primary record."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "Contract dollar values: FPDS-NG ATOM query for PIID HHM402-08-C-0072 returns an empty feed and USAspending.gov returns 404 for generated award IDs — DIA Virginia Contracting Activity awards are not in public contract data. Dollar line items on the released modification P00001 are illegible/redacted. Wave 4: try the AAWSAP Statement of Work file in the reading room, and DIA CJ-books / congressional budget justifications."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "The AAWSAP Statement of Work ('Advanced_Aerospace_Weapon_Sytem_Applications_Program_SOW_Aerospace.pdf') is listed in the DIA Reading Room but its FileId was not resolved. Wave 4."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "James Lacatski is not named in any primary document retrieved; the AAWSA Program Manager is redacted throughout. Wave 4: DIA org charts, prepublication-review correspondence, or his own DoD-cleared publications."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "170023 ('An Introduction to the Statistical Drake Equation') and 170026 ('Anomalous Acute and Subacute Field Effects on Human Biological Tissues') carry NO DIA document number on their released cover pages, unlike the other 30. Unexplained — wave 4."
+ },
+ {
+  "domain": "_rs-aawsap-dirds",
+  "gap": "DIRD 170036 cover title reads 'Laser Lightcraft' with the reading-room filename 'Laser_Lightcraft_Nanosatellites'; full subtitle not captured from the OCR. Minor."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "S.Amdt. 797 cosponsor detail: congress.gov's cosponsor tab is Cloudflare-blocked to non-browser clients and robots-disallowed to WebFetch; the five cosponsors were recovered from the Congressional Record entry (CREC-2023-07-13-pt1-PgS2953) instead. The congress.gov 'Actions (0)' field confirms the amendment was never proposed on the floor, so no roll-call record exists for it - wave 4 should confirm via the conference report whether Division G was dropped by the conferees or by a manager's package."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "Conference report for the FY2024 NDAA (H.Rept. 118-301, joint explanatory statement to H.R. 2670) not yet fetched. That document is the primary record of WHO removed the Review Board and eminent-domain sections and what reason was given. Wave 4: govinfo CRPT-118hrpt301."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "The UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638, FY2025 NDAA) and the Burlison UAP Disclosure Act amendment to the FY2027 NDAA are referenced by existing nodes (uapda-2024-samdt-2610, burlison-uapda-fy2027-ndaa-amendment, ndaa-fy2027-s4784, uapda-fy2027-house-adopted) but were out of scope here and are not yet nailed to primary text. Wave 4: CREC for the 2024 submission date, and BILLS-119s4784rs / the FY2027 House-passed engrossed text."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "H.R. 2670 (118th) - the House vehicle actually enacted as PL 118-31 - was not separately fetched; all enacted text was taken from PLAW-118publ31 directly. The House-passed and Senate-passed texts differ materially and a wave-4 diff of BILLS-118hr2670eh against BILLS-118s2226es would show which chamber's UAP text was the baseline in conference."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "AARO's compliance record under PL 118-31 secs. 1841-1843 is unverified: the sec. 1842(c)(1) 300-day agency review deadline fell around 16 October 2024 and the sec. 1841(b)(2) 30-day/180-day NARA public-availability deadlines follow transmission. No primary record was fetched here showing whether the Unidentified Anomalous Phenomena Records Collection was in fact established, what the subject guidebook and index contain, or which agencies transmitted records. Wave 4: archives.gov and the Federal Register notices required by sec. 1842(g)(2)(B) for each continued postponement."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "No Federal Register notices of continued postponement were retrieved. Sec. 1842(g)(2)(B) requires an unclassified written description of the reason for each continued postponement to be published in the Federal Register. The presence or absence of such notices is a direct, checkable measure of whether the surviving statute is being complied with. Wave 4: federalregister.gov search on 'unidentified anomalous phenomena'."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "The 12-page 'Immaculate Constellation' document is confirmed to have been entered into the record of the 13 November 2024 hearing by Chairwoman Mace, but the printed CHRG-118hhrg57440 index lists it under 'The documents listed above are available at: docs.house.gov' rather than reproducing it. The docs.house.gov event ID for the 13 November 2024 joint hearing was not resolved in this pass. Wave 4: locate the GO/GO12 or GO/GO06 event folder for 20241113."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "GAO products responsive to IAA FY2023 sec. 6803 and PL 118-159 sec. 6801 (Comptroller General review of AARO) were not fetched; no gao.gov product number was verified. Wave 4: gao.gov/products search on AARO."
+ },
+ {
+  "domain": "_rs-legislation",
+  "gap": "FY2026 NDAA sec. 1673 requires AARO to account for UAP security classification guides within 180 days of 18 December 2025 - i.e. by roughly 16 June 2026 - and to fold the result into the 2026 annual report under 50 U.S.C. 3373(k). As of 12 August 2026 no primary record of that accounting was located. Wave 4: aaro.mil and the FY2026 consolidated annual report."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "DoDM 5205.07 Volume 1 and Volume 3 are no longer served at their historic esd.whs.mil URLs (520507_vol1.pdf / 520507_vol01.pdf / 520507_vol3.pdf all return 404 live). Recovered only from Internet Archive captures. Whether a post-2024 replacement manual exists — and whether it is public — is unresolved. WAVE 4: search esd.whs.mil issuance index and the DoD Issuances Cancellation list for a 2024-2026 DoDM 5205.07 reissuance or cancellation notice."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "No copy of the signed, dated cover page of the reissued ICD 906 was legible: the signature block extracts as garbled characters and the PDF carries only a creation date of 19 December 2024. The exact signature date and signer (DNI or PDDNI) are unresolved. WAVE 4: try odni.gov/files/documents/ICD/ and the ODNI FOIA reading room."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "The 17 October 2015 ICD 906 recovered from Internet Archive is a scanned image PDF with no extractable text layer; its provisions could not be quoted verbatim for comparison against the reissued directive. WAVE 4: OCR the capture at web.archive.org/web/20160928160132/ or locate a text-layer copy."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "No primary record was located of any report actually submitted under FY2024 IAA sec. 7606(c) (agency review of SAP access populations, due 22 December 2024) or under sec. 7606(a) (agency clearance-necessity studies). WAVE 4: check the ODNI and DoD congressional report indexes and the GAO report-compliance trackers."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "No primary record was located showing whether the Department of Defense continued to produce the 10 U.S.C. 119(a) annual SAP report voluntarily after the sec. 1061 Pub. L. 114-328 sunset took effect on 31 December 2021. This is the single highest-value unresolved item on this layer. WAVE 4: search HASC/SASC committee prints, the DoD Comptroller's congressional reports list, and any FY2022-FY2026 NDAA provision reinstating the requirement."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "GAO-04-332 was reachable only through its gao.gov product landing page; the full-report PDF could not be retrieved (gao.gov/assets returned 403 to direct fetch and 429 through the fetch proxy). Its verbatim Results in Brief, and in particular any language about facilities excluded from DSS oversight, remains unquoted. WAVE 4: retry gao.gov/assets/240/241536.pdf or a Wayback capture."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "The number of DoD special access programs currently designated 'waived' is not stated in any public issuance located here, and the DoDI 5205.11 para 3.5.a.(3)(d) SAPOC annual review of waived status produces no public output. Unresolved and probably unresolvable from open primary records."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "E.O. 12829 was quoted only from the Cornell LII reproduction in the notes to 50 U.S.C. 3161; archives.gov/isoo/policy-documents/eo-12829.html returns 404 and the 1993 Federal Register text is outside govinfo's HTML range. Sections 102, 201 and 202 remain unquoted. WAVE 4: govinfo FR microfiche or archives.gov/federal-register/executive-orders/1993.html."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "DoDI 5205.11's Enclosure-level detail (SAPOC/SRG/SSWG membership tables, the prospective-SAP timeline, the carve-out justification template) was read only through a summarising fetch of the PDF; paragraph-numbered verbatim text for those enclosures was obtained for Section 7 and paras 1.2.f, 1.2.i, 3.5, 4.1, 4.2, 5.1 but not for the full governance enclosures. WAVE 4: re-fetch 520511p.pdf targeting the enclosures individually."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "Whether any carve-out approval memorandum signed by a Secretary or Deputy Secretary of Defense has ever been released — even in redacted form under FOIA — was not established. WAVE 4: DoD FOIA reading room, DCSA FOIA library, and the OSD/JS FOIA request log for 'carve-out'."
+ },
+ {
+  "domain": "_rs-sap-docs",
+  "gap": "eCFR section-level URLs (ecfr.gov/current/title-32/.../section-117.6) are the canonical citation but bot-block direct programmatic retrieval; the verbatim text quoted here was pulled from the eCFR renderer API at ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117 on 12 Aug 2026. Both URLs are recorded in sources[]."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The BAASS Ten Month Report (494 pp, July 2009) has never been officially released. Only a leaked copy circulates. FOIA it directly from DIA by title and date; if DIA claims no records, appeal and demand a search of the Defense Warning Office contract deliverable file, which the contract's monthly-reporting clause proves must exist."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The 'Utah Ranch Investigation: August 2009-February 2010' report described by Lacatski, Kelleher and Knapp: DIA reports no records located. This is the single most important negative FOIA result in the domain and has not been litigated. A FOIA suit forcing an adequacy-of-search declaration would be high value."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "Obligation-by-year funding data for contract HHM402-08-C-0072. The $10M base is documented; the remaining ~$12M of the $22M appropriation has no released obligation record, and DIA procurement is exempt from FPDS/USAspending reporting under 10 USC 424. Try DIA's contracting activity directly, and try the DoD Comptroller for the FY2008/FY2010 classified annex line."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The exact appropriations bill language and account line into which the $22M was placed has never been released. Senate Appropriations Committee classified annex records for FY2008 and FY2010 are the target."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The SECRET/NOFORN version of the high-energy laser weapons DIRD (transmittal item 37) remains withheld. It is the only one of the 38 not released and a mandatory declassification review request is the obvious next step."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "No AATIP charter, tasking order, delegation of authority or organisation chart covering the 2011-2017 period has ever been produced by OUSD(I). DoD's denial of Elizondo's role rests entirely on press guidance. This is the highest-value single document gap in the domain."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The AAWSAP/BAASS personnel roster. Neither DIA nor the contractor has released a staff list, so the number of people who held program access, and who they were, is unknown. Jay Stratton's exact AAWSAP role is unconfirmed."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The 19 June 2007 Lacatski letter to Robert Bigelow: DIA reports no records. Bigelow presumably holds the recipient copy. No one appears to have asked him for it on the record."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "Lacatski's claim of 'more than 100 thick, highly detailed reports' of UFO case data is unverified and unindexed. If it is accurate, there is a body of AAWSAP deliverables an order of magnitude larger than the 38 DIRDs whose custody is entirely unaccounted for."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The BAASS case database (the secure server infrastructure described in the Ten Month Report) — its disposition after 2012 is unknown. Whether it was transferred to the government, retained by BAASS, or destroyed is undocumented, and it would contain the MUFON Star Team Impact Project intake."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "The BAASS-MUFON Star Team Impact Project contract itself has never surfaced. MUFON is a private organisation and not FOIA-able, but the contract terms would establish what civilian case data flowed into a federally funded program."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "KONA BLUE's proposal package at DHS: AARO characterises it but the underlying documents have been released only in part. DHS FOIA for the O'Toole-era Science and Technology Directorate SAP proposal file is the route."
+ },
+ {
+  "domain": "aawsap-aatip",
+  "gap": "Whether James Clapper was briefed on any material beyond the DIRD deliverables before recommending against the SAP in November 2009. He has never been asked on the record about the memorandum bearing his recommendation."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "No primary record has been located for the alleged confiscation of USS Princeton recording media after 14 November 2004. Targets: Princeton quarterdeck and deck logs for 14-18 Nov 2004, any unscheduled embarkation record, CSG-11 message traffic, and the Aegis/CEC data retention schedule for that period. This is the single highest-value open item on the domain."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The identity of the US Fleet Forces Command operations officer who sent the January 2015 'URGENT SAFETY OF FLIGHT ISSUE' email, the message's date-time group or identifier, and the authority under which it was recalled from all recipients' accounts. A FOIA to Fleet Forces Command for message recall records in January 2015 has not been reported."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The VFA-11 squadron safety report filed after the Warning Area W-72 near-midair has never been released. Its Naval Safety Command hazard report control number is unknown, and no FOIA response confirming or denying its existence has been reported."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "No AARO case assessment has been published for FLIR1 or GIMBAL, despite published assessments for GO FAST, Aguadilla (2013) and Mt Etna (2018). Whether assessments exist in classified form is unknown."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The USS Jackson (LCS-6) Star SAFIRE recording of 15 February 2023 has not been officially released and cannot be identified in any AARO annual report. Whether it was ever submitted to AARO, and under what case number, is unknown."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "Jeffrey Nuccetelli testified that Vandenberg AFB records from 2003-2005 are 'now held by AARO and the FBI.' Neither agency has confirmed this. FOIA targets: 30th Space Wing security forces blotters for 14 Oct 2003, AFOSI files, and FBI records referencing Vandenberg overflights."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The chain of custody of the original FLIR1 tape between November 2004 and its unauthorized appearance in 2007 is entirely undocumented in public releases."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "Chad Underwood's role in capturing FLIR1 is consistently reported but was not anchored to a verified primary or archival source in this research pass; his own published interviews need a stable citation."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The full unredacted DODIG-2026-045 report, the identities of the ten installations it evaluated, and JIATF-401's establishing directive, funding line and reporting chain are all unavailable."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The classified annexes of Gen. Guillot's 90-day counter-UAS assessment, and NORAD's per-installation incursion counts for 2025 and 2026, have not been released."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "No official explanation exists for why NASA declined to name Mark McInerney as Director of UAP Research at the 14 September 2023 briefing, and no public output from that role has been identified in the three years since."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The USS Ronald Reagan deck logs for the 2003-2004 deployment should be checked against the witness accounts of pages being removed; if pages are missing or renumbered, that is a documentable destruction of federal records."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "PURSUE releases 01 through 05 (8 May to 7 August 2026) have not been systematically indexed for aviator cases; SCU has documented metadata stripping but a case-by-case audit against the Navy range fouler set and AARO's holdings has not been done."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "Jason Turner's rate, division and billet aboard USS Princeton in November 2004 are not established from any primary record, and his account has not been separately documented."
+ },
+ {
+  "domain": "aviators-incidents",
+  "gap": "The 2019 USS Kidd/Russell investigation reportedly reached the Chief of Naval Operations. The resulting staff package, any NCIS or FBI case file, and the final disposition have never been released."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "No published charter or full member roster for the Congressional UAP Caucus was located. Members are established only piecemeal from contemporaneous reporting (Burchett, Luna, Burlison, Moskowitz, Ogles). The caucus letter to the ICIG of 22 August 2023 has not been located in full text - obtaining it would fix both the roster and the specific asks."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "The 12-page Immaculate Constellation document entered into the Congressional Record on 13 November 2024 has not been located as a retrievable primary file at a stable URL. It is referenced in the hearing's Index of Documents as available at docs.house.gov; retrieving it is the single highest-value document task in this domain."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Rep. Crane's 24 July 2025 letter to the Secretary of Defense on the Grusch reprisal, entered into the record on 9 September 2025, has not been located in full text. It is the only congressional document enumerating the specific adverse actions taken against Grusch."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Rep. Burlison's 22 May 2026 ten-page MITRE letter and his May 2026 MIT Lincoln Laboratory letter have not been located in full text; only DefenseScoop's and The Hill's descriptions of them. The 40+ production categories in the MITRE letter would be a map of what a member of Congress believes an FFRDC holds."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Chairwoman Luna's 1 April 2026 letter to Secretary Hegseth is referenced by the committee's own release as linked but the letter file itself was not retrieved."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "No House UAP hearing appears to have been held between 9 September 2025 and 12 August 2026. Whether one is scheduled, and whether the Task Force's remit survives into the next Congress, is unresolved."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Rep. Mike Gallagher: no UAP-specific statement, letter, amendment or briefing attendance was located. He is retained as a node only because he held simultaneously the HASC and HPSCI seats that constitute the read-in tier from which Oversight was excluded. His actual UAP posture, if any, is unknown."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "The identity and disposition of the 'certain individuals who did not want this hearing to happen' referenced by Chairwoman Mace on 13 November 2024 is not on the record. Mace declined to name them."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Whether the House Oversight Committee has ever issued a UAP-related subpoena is not affirmatively established; the finding here is a negative inferred from the absence of any such subpoena in the three hearing records and in committee releases through August 2026. A direct check of the committee's subpoena log would settle it."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "The Eglin AFB radar sequence and flight-crew photograph Gaetz described in July 2023, and asked be subpoenaed, have never been produced to the committee so far as the record shows. The incident date, unit and aircraft type are not on the public record."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "The scope of the 'separate congressional investigation' for which Rep. Burlison's staff were trying to reach Gen. William Neil McCasland before his February 2026 disappearance has not been publicly specified. This is the sharpest open question linking this board to The Vanishing."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "Rep. Nick Begich, Rep. Dina Titus, Rep. Summer Lee, Rep. Dave Min, Rep. Brandon Gill and Rep. Nick Langworthy all participated in one or more of the three hearings or sit on the Task Force but were not given dossiers here for space. Each is a legitimate node."
+ },
+ {
+  "domain": "congress-house",
+  "gap": "The FY2026 NDAA UAP provisions were described from reporting on the conference version; the enacted statutory text and section numbers were not retrieved and should be pinned before any of the three provisions is cited as law."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "No conference document, joint explanatory statement annex, or committee record has been released identifying which members struck Secs. 9007-9011 and 9014 from the FY2024 NDAA, or which struck subsections (b), (d), (e) and (g) from IAA FY2024 Sec. 1102. The attribution to Turner and Rogers rests on named-participant testimony and journalism, not on a signed record. A targeted FOIA or committee-records request is the obvious next step."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "Rubio's widely quoted statement that people with 'very high clearances and high positions within our government' have made firsthand claims could not be sourced to a verifiable primary URL from this workstation. The NewsNation interview is real and repeatedly cited; the citation needs to be pinned before the quote is used."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "No compliance data exists on Sec. 1842. How many agencies met the 17 October 2024 deadline, how many records each transmitted, and how many postponements were certified under Sec. 1843(a) are all unknown. NARA's RG 615 accession record and the Sec. 1843(c) 15-day congressional postponement notifications would answer this."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "The Sec. 1673(b)(3) census of UAP nondisclosure orders — comprehensive searches by DoD, ODNI, DHS and contractors, with copies delivered to AARO and made accessible to Congress — has no public completion record. This is the single highest-value unretrieved document set in the domain."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "The GAO review of AARO commissioned by Sec. 6801 of the IAA FY2025 has a deadline set only 'in a timeframe mutually agreed upon.' Whether it has been delivered, and in what form, is unknown."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "The contents and scope of the Department of War's 8 May 2026 UAP file release are undetermined; war.gov blocks automated retrieval and Gillibrand's statement does not enumerate what was released."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "The Sec. 1673 accounting of UAP security classification guides required by the FY2026 NDAA within 180 days of 18 December 2025 fell due around 16 June 2026. No public evidence of delivery was found."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "Whether Rounds actually filed the announced 2026 UAPDA amendment to S. 4784, and under what amendment number, is not yet in the bill status record; as of the data available the FY2027 NDAA had only reached a motion to proceed on 14 July 2026."
+ },
+ {
+  "domain": "congress-senate-legislation",
+  "gap": "Speaker Mike Johnson's role is named in a single journalistic source and is not otherwise documented; he is referenced in claims here but not given a node."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The outcome of Elizondo's May 2021 DoD Inspector General complaint has never been published. FOIA releases have produced the IG's February 2023 interview transcript of Elizondo (103 pages), 126 pages of IG emails released February 2024, and 40 further pages in March 2025 — but no finding, no substantiation determination, and no corrective action. The DoD IG report released publicly on 7 January 2026 (case DODOIG-2025-000932, closed February 2025, not substantiated) concerns a different, heavily redacted complainant whose profile matches David Grusch, not Elizondo. Do not conflate them."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The attachments to Elizondo's 5 June 2019 letter to DoD Public Affairs — the documents he says substantiate his AATIP role — were withheld from the FOIA release. They are the single highest-value unreleased item in this domain."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The identity of the 'Defense Department official' who handed Christopher Mellon the three video files in the Pentagon parking lot is unknown. Mellon has never named the person and says he retains the original packaging."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "No technical output from the TTSA ADAM Research Project has ever been published — not by EarthTech International, not by TTSA, and not by the U.S. Army under the CRADA. The 29 emails / 100 pages of Army-TTSA correspondence remain withheld in full under FOIA exemptions (b)(4) and (b)(5) as of the last public accounting. No appeal outcome has been located."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The provenance of the ADAM specimens is undocumented. TTSA's SEC materials say some have been in 'documented possession since the mid-1990s' without naming the chain of custody, the acquiring party, or the recovery event."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The Department has never reconciled two facts in its own files: that Elizondo allegedly had no assigned AATIP responsibilities, and that in August 2017 he was the officer who submitted the DD Form 1910 clearing the AATIP-associated video files, while in September 2017 he drafted a memorandum helping Neill Tipton assume 'the new responsibilities for AATIP'. No official has ever been asked this on the record under oath."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The claim that Pentagon spokeswoman Dana White confirmed in December 2017 that Elizondo led AATIP is widely repeated but no primary transcript, press release or contemporaneous quotation has been located. The documented 2017 confirmation, sourced to Elizondo's own FOIA-released letter, is only that a DoD Press Secretary verified he was an OUSD(I) staff member."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The full AFOSI file on the 2017-2018 inquiry into Elizondo's handling of the video material has not been released. The Reid memoranda record that the inquiry occurred and closed with a finding that the videos were unclassified, but the underlying investigative record is unlocated."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "TTSA's total capital raised across both Regulation A offerings and its final disposition of the aerospace and science assets are not established. The 2018 Form 1-K and the 2018 semiannual filing are public; the wind-down of the Aerospace Division after the December 2020 departures is documented only in press reporting."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "Whether Reckoning (27 August 2026) was submitted to DOPSR, and whether anything was struck, is unknown as of 12 August 2026. Given that Imminent's year-long DOPSR review is Elizondo's strongest single credibility argument, the review status of the second book is a priority research item."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "Susan Gough's exact departure date from the DoD UAP spokesperson role, and the identity of her successor, are not established here. The Department was renamed the Department of War in 2025 and its public affairs structure for UAP matters after that point needs mapping."
+ },
+ {
+  "domain": "elizondo-ttsa",
+  "gap": "The 'previous spokesperson' Gough said was 'no longer with my organization' — the person whose 2017 information Sherwood was allegedly repeating — has never been named. Identifying that individual would establish whether the Department's original 2017 position was itself sourced to someone with direct knowledge."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "MITRE's response to the 22 May 2026 letter is unpublished. The 30-day records index deadline fell around 21 June 2026 and the 45-day unclassified production deadline around 6 July 2026; as of 12 August 2026 no index, production, privilege log or classified-briefing outcome has been made public, and Burlison's office has not announced non-compliance. Obtaining the index - or confirmation that none was produced - is the single highest-value next step in this domain."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "No letter has been made public to RAND, the Aerospace Corporation, IDA or Sandia despite Burlison naming RAND, Aerospace and MIT Lincoln Labs on the record. Confirm via the Oversight Committee whether letters were sent and not publicised, or not sent at all."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "The specific UAP Gerb allegations - a MITRE reverse-engineering charter dating to 1958, the Atlantic 'tic tac factory' USO tasking, and the 2011 briefing restriction on historical programme incumbents - rest on no produced document. Identify whether the claimed 2011 restriction corresponds to any real classification guide change, DD Form 254 revision or SAP annual report notation."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "The identity and standing of 'Kerberos', the researcher credited with the MITRE case in the 7 August 2026 investigation, is unestablished. Whether that person has first-hand access or is purely an open-source analyst materially changes the tier of every allegation in the piece."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "MITRE's DD Form 254 contract security classification specifications for NSEC task orders under W56KGU18D0004 have not been sought. These specify exactly which compartments a contractor is accredited for and are the most direct documentary route to establishing MITRE's SAP access profile without relying on testimony."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "The Battelle nickel-titanium reports of 1948-49 remain unlocated. Bragalia's allegation that they are missing from both Air Force and Battelle archives has never been tested by a formal congressional records demand to Battelle - which, unlike MITRE, has not received one."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "No signed original of the Pentacle Memorandum has ever been produced by the Air Force or by Battelle; only Vallee's copy and transcription circulate. A NARA search of Wright-Patterson ATIC correspondence for reference G-1579-4 and for Miles E. Goll's files has not been publicly attempted."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "University Affiliated Research Centers - JHU APL above all - are entirely outside the current inquiry despite carrying FFRDC-like access without the FAR 35.017 registration regime, and despite the Navy-centric character of the whole legacy-programme record. No congressional UAP letter has gone to a UARC."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "The relationship between AARO and the FFRDC layer is undocumented beyond the ORNL materials contract. Whether AARO tasked MITRE, Aerospace, RAND or IDA for analytic support, and under what vehicles, has not been established from contract data."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "Whether the FY2027 NDAA's contractor-records provision survives the Senate and conference is unresolved, and it is the only proposed mechanism that would reach inside an FFRDC without the sponsoring agency's consent. Track the conference report language specifically for the definition of 'covered records' and whether FFRDC operators are named."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "The 1949 Los Alamos conference minutes held by LANL's National Security Research Center have been acknowledged but not published in full. A targeted FOIA or NARA request for the minutes themselves, rather than for 'Project Twinkle', is the obvious unexecuted step."
+ },
+ {
+  "domain": "ffrdcs",
+  "gap": "Aerospace Corporation's role in space-based sensor characterisation of anomalous objects is entirely uninvestigated. Its DOE nonproliferation contract 89233120CNA000134 and its Space Force FFRDC contract FA880219C0001 are the vehicles under which any such work would sit."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The program name. Grusch was formally tasked to inventory all SAPs and CAPs bearing on a congressionally mandated mission and was refused a read-on. The refusing authority, the program nickname, and the refusal document have never been identified. The DoD Special Access Program Central Office under Maj. Gen. David W. Abba is the office that would hold that record; no committee has publicly compelled it."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The witness list. Under oath on 26 July 2023 Grusch offered Rep. Nancy Mace 'a specific cooperative and hostile witness list of specific individuals' and said he would provide it after the hearing. Three years later there is no public evidence the list was received, retained, or acted on. Locating it - via committee records request or a member's office - is the single highest-yield next step in this domain."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The roughly 40 witnesses. Grusch swore he had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General. Whether the ICIG adjudicated any of them, and whether AARO ever interviewed any of them, is unknown. AARO's assertion that none of its interviewees had firsthand knowledge is consistent with AARO simply never having reached that pool."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The DOPSR file. DoD holds the full text of the answers Grusch submitted for prepublication review in March and April 2023, withheld from the 23-F-0946 release under FOIA exemption (b)(6). The Black Vault has appealed. Those answers are the closest thing to a written deposition Grusch has ever given, and they sit in a government file."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The reprisal paper trail. Rep. Eli Crane's 24 July 2025 letter enumerates three specific administrative actions - clearance revocation, promotion denial, and loss of medical retirement. Each generates internal DoD documentation with dates, adjudicators and stated grounds. None has been produced, and DoD did not reply to the letter on the record."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The 'events in recent days.' George Knapp told the Task Force on 9 September 2025 that extra-legal reprisals against Grusch had occurred in the days before the hearing. No member asked what he meant; no reporting has identified the events."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The reprisal complaint's disposition. The unclassified version reported in June 2023 alleges Grusch's identity and his DoD IG communications leaked outside the protected channel. The ICIG's finding on that complaint - whether substantiated, unsubstantiated, or still open - has never been made public."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The identity of 'Jonathan Grey.' A serving NASIC officer at Wright-Patterson corroborated on the record under a pseudonym. Whether NASIC took action against him, and whether he was among the 40 witnesses, is unknown."
+ },
+ {
+  "domain": "grusch",
+  "gap": "AARO's underlying interviews. The Historical Record Report's central impeachment - that none of the interviewees had firsthand knowledge - rests on an interview set AARO has never published, listed, or characterized by count or seniority. The claim cannot be audited."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The April 2022 Kirkpatrick meeting. Grusch swore he briefed Kirkpatrick in a classified setting three months before Kirkpatrick led AARO. Kirkpatrick has never publicly denied it and never explained why it did not generate a line of inquiry. Any contemporaneous memorandum of that conversation would be dispositive on what AARO knew and when."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The Title 10 routing failure. Grusch testified the ICIG had no smooth mechanism to send his disclosure to the House and Senate Armed Services Committees despite Title 10 equities. Whether those committees ever received the substance is unresolved, and no subsequent statute has visibly closed the gap."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The IR&D trail. Grusch's sworn funding mechanism - misappropriation plus contractor internal research and development money outside the notification architecture - is testable against DCAA audit records, FPDS and USAspending contract data, and Periodic Program Review documentation. No public work has yet attempted that reconciliation."
+ },
+ {
+  "domain": "grusch",
+  "gap": "The 2026 releases. The February 2026 declassification announcement and the July 2026 NDA waiver directive are both process commitments without deadlines. What has actually been transferred to the National Archives UAP Collection since April 2025, and whether anything responsive to Grusch's allegations appears in it, is the measurable that will settle much of this domain."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "No copy of the 1948 Project SIGN 'Estimate of the Situation' has ever surfaced. The Condon Report states it was destroyed; no disposition record, draft, routing slip or referencing document has been released. This is the single highest-value missing document in the domain."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "No records series has ever been identified for the JANAP 146 / CIRVIS national-security UFO reports that Bolender's 1969 memo says existed outside Blue Book. Fifty-seven years on, nothing has been accessioned to NARA under that description, including into Record Group 615."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "Air Materiel Command T-2 intelligence files for 1947-1951 — the holdings of the organisation that would have received any recovered materiel — have never been subject to a comprehensive declassification review. The 1995 GAO search was scoped to Roswell Army Air Field and headquarters-level holdings and did not reach them."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "No disposition authority has ever been produced for the destruction of RAAF outgoing messages (Oct 1946 - Dec 1949) and administrative records (Mar 1945 - Dec 1949). No accountability review of that destruction has been opened in the thirty-one years since GAO reported it."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "The full Twining memorandum and the Bolender memorandum are available online only as untranscribed image scans; a machine-readable, authenticated text of each from a government repository is still needed for citation at tier 1 on exact wording."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "The 5 April 1966 House Armed Services Committee hearing (Hearing No. 55, 89th Congress) and Gerald Ford's March 1966 correspondence demanding it were not retrievable from a primary online archive; the transcript appears not to be digitised on govinfo or congress.gov."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "The identity of the Special Report No. 14 contractor is not stated in the report's own front matter. Battelle Memorial Institute is the standard attribution, but the contract instrument itself has not been located."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "No contract, correspondence or production record has surfaced showing whether the Robertson Panel's Disney and Navy Special Devices Center debunking-film recommendation was ever acted on."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "AARO's Historical Record Report Volume II, covering the post-1969 period, had not been published as of August 2026; Volume I's treatment of the legacy era does not engage the GAO destruction finding or the Bolender two-channel statement."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "The text of the memo visible in Gen. Ramey's hand in the 8 July 1947 J. Bond Johnson photographs remains unresolved. The original negatives' provenance and any higher-resolution scans held by institutional collections have not been catalogued here."
+ },
+ {
+  "domain": "history-1940s-1960s",
+  "gap": "Whether any 1947-era material was transferred from Fort Worth onward, and to which organisation, is undocumented in every released record; the message traffic that would show it is the traffic GAO found destroyed."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "AARO Historical Record Report Volume II was promised in Volume I (March 2024) and, as of 12 August 2026, has not been published. The board should track whether Volume II addresses Kirtland/Bennewitz/Doty, MOON DUST/BLUE FLY, Rendlesham, or the Wilson-Davis notes - all omitted from Volume I - and treat continued omission as a finding."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The full unredacted Yeates affidavit (NSA, 1980) remains classified. A fresh Mandatory Declassification Review or a FOIA suit citing the passage of 46 years and the intervening AARO/UAPDA disclosure regime is the single highest-value unfired shot in this domain."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The Wilson-Davis notes have never been the subject of any sworn testimony by either principal. Eric Davis and Thomas Wilson are both alive. A congressional deposition of either would resolve, in one session, the most specific custody allegation in the record. No committee has attempted it."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "No primary MOON DUST or BLUE FLY charter document has been located in a public archive. What exists publicly is State Department cable traffic and Air Force correspondence generated in response to congressional and FOIA inquiries. The founding Air Force Intelligence directive establishing the programmes has never surfaced."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The AFOSI Kirtland file is incomplete in the public record. The 10 November 1980 complaint-form entry conceding unexplained objects over Coyote Canyon has no released follow-up investigative file. Either no investigation was opened - which is itself remarkable at a nuclear weapons storage site - or the file has not been released."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "John Burroughs' USAF service medical records for December 1980-January 1981 have not been produced. The administrative basis on which the VA granted his claim in 2015 is not public. A Privacy Act/FOIA route through VA with the claimant's consent could establish whether the records were destroyed, misfiled, or withheld."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The NORAD and SAC command-post message traffic for the October-November 1975 Loring, Wurtsmith and Minot incidents is less completely released than the Malmstrom set. A targeted FOIA/MDR to the Air Force Historical Research Agency and NORAD for the command director's logs of 27 Oct - 15 Nov 1975 is a defined, achievable request."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "NIDS' raw data from 1996-2004 - Skinwalker Ranch instrument records, necropsy reports, hotline casework - has never been published or independently examined and its disposition after the 2004 shutdown is unknown. If it transferred to BAASS it may now be a federal record subject to FOIA."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The chain of custody by which the Wilson-Davis notes left Eric Davis's possession and entered public circulation in 2019 has never been established. Accounts connect them to material associated with the estate of Edgar Mitchell; that connection is unverified."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "No copy of the 'Project AQUARIUS' paper shown to Linda Moulton Howe in April 1983 has ever surfaced in any archive. NARA has confirmed it searched NSC indexes under 'Aquarius' and found nothing. AFOSI's own records of Doty's 1983 activities have not been released."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The 1995 distribution list for 'The Best Available Evidence' has never been published, so it is not possible to establish which officials and heads of state received the Rockefeller Initiative's brief or whether any responded."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "Clinton Library FOIA collections 2006-0474-F, 2006-0480-F and 2008-0359-F are described in published finding aids but the underlying documents have not been scanned or made available online. A request to the Clinton Library for digitisation of 2006-0480-F (Clinton-Laurance Rockefeller correspondence) is a concrete next step."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "Christopher 'Kit' Green's medical casework on claimed anomalous-injury cases - the human-effects data referenced across the NIDS/BAASS era - has never been released in any form. Its existence rests on his own statements and those of programme participants."
+ },
+ {
+  "domain": "history-1970s-2000s",
+  "gap": "The Yankee Blue FOIA remand of 15 December 2025 is live. The outcome of the Department of War's renewed search is the single most consequential pending records action in this domain and should be tracked to resolution."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "FUNDING OF THE SOL FOUNDATION. The single largest documentary gap in this domain. Sol publishes a complete personnel roster and an explicit account of its legislative access but names no donor, foundation or corporate supporter anywhere on its site. Next step: IRS Form 990 filings (Sol Foundation, EIN not yet identified) via ProPublica Nonprofit Explorer and the California or Delaware charity registries; these would disclose contributions, officer compensation and any related-party transactions."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "IDENTITY AND PRIOR EMPLOYMENT OF UAP GERB. The most consequential structural investigator in this domain is pseudonymous. His work is unusually document-anchored, but the question of whether he holds or held a clearance, and of who if anyone is feeding him office-symbol-level detail, is unresolved and materially affects how his unsourced claims should be weighted."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "THE AARO / DoD WRITTEN RESPONSE TO IMMACULATE CONSTELLATION. Shellenberger's twelve-page report entered the congressional record on 13 November 2024. A formal departmental response, if one exists, was not retrieved. Next step: AARO's historical record reporting, the House Oversight Committee's published hearing record for 13 November 2024, and FOIA to OUSD(I&S)."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "THE PRIMARY TEXT OF THE IMMACULATE CONSTELLATION REPORT. Multiple channels claim to have reproduced the full twelve pages; no authoritative copy was located at a primary or institutional URL in this pass. Next step: the House Oversight Committee document repository and Shellenberger's Public archive."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "MARIK VON RENNENKAMPFF BYLINE VERIFICATION. thehill.com returns HTTP 403 to automated retrieval. Four Hill opinion URLs on UAP were confirmed to exist via The Hill's own search index but the bylines could not be read. Next step: manual retrieval, or the Hill author page."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "THE 2011 BRIEFING RESTRICTION. Gerb alleges a legacy program briefing restriction initiated in 2011 to cease historical briefings on program incumbents. If real this is a documentable policy act - a memorandum, a security classification guide change, or a DoD instruction revision. Next step: DoD SAP Central Office policy issuances for 2011; the SAPCO annual report to Congress."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "IRAD AS A CONCEALMENT MECHANISM. The Northrop breakaway thesis rests on Independent Research and Development funds being used to self-fund unaccountable programmes. IRAD is governed by FAR 31.205-18 and DFARS 231.205-18 and reported through the Defense Technical Information Center's IR&D database. Next step: DTIC IR&D submissions for Northrop Grumman 2001-2010; DCAA audit reports on Northrop IRAD allocability."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "THE UAP GOVERNANCE BOARD. The interagency body to which the ODNI UAP Science Advisory Council reports is named in Sol's 22 June 2026 announcement but is otherwise undocumented - no charter, membership, authorising directive or reporting line was located. This is the most important undocumented institution created in 2026."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "SOL FOUNDATION MEMBERS' TERMS OF SERVICE ON THE ODNI COUNCIL. The announced condition that all shared data will be unclassified is decisive but its source document - a charter, terms of reference, or ODNI press release - was not located on an odni.gov URL. Next step: ODNI newsroom and the Federal Advisory Committee Act database, if the council is FACA-chartered."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "STEPHANIE O'SULLIVAN. Named by David Grusch, via Gerb, as having managed the crash retrieval issue at ODNI alongside James Clapper. Her documented career - TRW engineer, CIA Directorate of Science and Technology, Principal Deputy Director of National Intelligence, Aerospace Corporation board - is entirely checkable and she is the cleanest single test of the FFRDC-to-IC gatekeeper thesis. Next step: ODNI biographies, Aerospace Corporation board filings, and her public statements."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "THE ATLANTIC USO CLAIM. Gerb's MITRE investigation alleges MITRE processes all-source data on a large USO with permanent or semi-permanent Atlantic station. No cited document supports this. It is the weakest link in the otherwise document-anchored MITRE case and should be flagged as such wherever the MITRE material is used."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "GERB-ELIZONDO SCHISM. A public dispute between UAP Gerb and Luis Elizondo was covered by multiple third-party channels in early August 2026 and referenced by Coulthart as 'schism in the UAP community'. No primary statement from either principal was retrieved. Next step: the principals' own X accounts and any published statements."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "COMMERCIAL STRUCTURE OF THE INVESTIGATIVE CHANNELS. American Alchemy and UAP Gerb are monetised through sponsorships, memberships, Patreon, Substack, merchandise and a 2026 live tour. Revenue scale is undisclosed and constitutes an unquantified incentive alongside every structural claim on this board."
+ },
+ {
+  "domain": "media-structure",
+  "gap": "SKYWATCHER'S CORPORATE FORM AND FUNDING. The venture associated with Jake Barber has a public website and X presence but no located incorporation record, funding disclosure or personnel roster. Next step: Delaware or state corporate registries, and any SEC Form D filings."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "No contractor has ever been subpoenaed. Across three House hearings (2023, 2024, 2025) at which Lockheed Martin was named on the record, no company representative was called, no document production was compelled, and no committee has reported requesting one."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "George Knapp offered the House a list of the contractors holding material on 9 September 2025 ('There is a list I can give you, Congressman'). No list has been published and no committee has reported receiving it. This is the single highest-value outstanding item in the domain."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "Dr. James Ryder's position, dates and portfolio at Lockheed Martin are unverified. He was named once, under oath, and neither he nor the company has publicly responded. A corporate org-chart or press record would move this from tier 2 to tier 1 or kill it."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The 'facility in California' where the material was allegedly held has never been named by any witness. Candidate sites in Lockheed's California footprint are inference only."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "AARO does not name the companies whose executives denied the allegations, does not date the meetings, and does not describe any inspection, audit or document review beyond the meetings. A FOIA for the AARO memoranda for record of those corporate meetings has not been reported."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "No public accounting exists of any disclosure made under NDAA FY2024 Sec. 1687(a) or (b), or under Sec. 7343. If no disclosure was ever made, either no such activity exists or the statute is being ignored - and no committee has said which."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "Contractor IR&D project summaries are submitted to the Defense Innovation Marketplace and reviewed by contracting officers and DCAA for cost allowability. Those submissions are a records set that exists, is government-held, and has never been searched for UAP-related entries."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "No McDonnell Douglas or Boeing internal record of Robert Wood's late-1960s Huntington Beach study has been released or requested, despite Boeing having inherited the organisation and its files in 1997."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The alleged Alfred O'Donnell deathbed recording has never surfaced. Its existence rests entirely on Knapp's account and on a secondhand confirmation from O'Donnell's son."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The provenance chain of the Wilson-Davis memorandum between the alleged October 2002 meeting and its 2019 public circulation from Kit Green's holdings is undocumented. Davis has never authenticated it; Wilson has denied the meeting."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "Radiance Technologies recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located. This entry is deliberately thin rather than padded."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The Pax River storage claim rests on unnamed sources plus Elizondo's written congressional testimony. The written testimony itself should be pulled from the House document repository and quoted directly."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The Ben Rich quotations - the 1993 UCLA remark and the John Andrews letters - have no archival primary source. A recording, transcript, contemporaneous note or letter facsimile would be the single most valuable artifact recoverable in this domain, and thirty years of searching has not produced one."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "The charter of the 2026 interagency UAP Governance Board has been quoted only in its mission paragraph. Whether it contains any provision reaching contractor-held material or records is unknown."
+ },
+ {
+  "domain": "primes-custody",
+  "gap": "No UAP-labelled contract action appears anywhere in USAspending or FPDS. Either the work is entirely classified out of the public procurement record, is funded through IR&D and overhead as Grusch alleged, or does not exist."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "No published executive order or written directive establishing PURSUE has surfaced. Hegseth referred to 'that executive order' on 25 February 2026 but the contemporaneous reporting describes a Truth Social post. Search the Federal Register, whitehouse.gov presidential actions and DoW policy memoranda for a signed instrument, its scope, and any named review authority."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "No official file manifest or index exists for any PURSUE tranche. File counts for R01, R02, R03 and R05 come from independent inventories; R04 has no published count at all. The ZIP bundles themselves are the primary source - downloading and enumerating them would produce the only authoritative inventory."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The identity and composition of the 'presidential PURSUE task force' referenced in the July 2026 NDA-waiver reporting is undocumented. Who sits on it, under what charter, and what its relationship is to AARO are all unknown."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "NARA publishes no agency-by-agency compliance record for Record Group 615. Which agencies have transferred UAP records, how many pages or items, and on what dates are the single largest documentary gap in the statutory channel. A FOIA to NARA for the RG 615 accession register would close it."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "AARO Historical Record Report Volume II remains unpublished more than two years after commitment, including the Yankee Blue findings a DoD spokeswoman said in June 2025 would appear in it. Its draft status, DOPSR case number and current review posture are unknown."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The full DoD IG report DODIG-2023-109 is classified; only the unclassified summary is public. The IG's own account of which components run separate UAP processes has never been released, and was not released through PURSUE."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "No AARO product has ever addressed Immaculate Constellation despite the name being in the Congressional Record since 13 November 2024. Whether AARO was tasked to look, and what it found, is undocumented."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The 2025 attribution of the Immaculate Constellation name to a '2018 Schriever Wargame' folder concerns a later self-identified whistleblower's provenance story. Whether it bears on the separate 12-page document Shellenberger delivered in November 2024 is unresolved and needs the underlying Colavito analysis and the wargame documents themselves."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The Gulf of Oman AC-130J incident of 8 September 2021 falls inside the FY2023 and FY2024 AARO reporting periods and appears in neither report. Whether it was reported to AARO, held in a separate channel, or omitted is unknown."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The Navy Photographic Interpretation Center 1953 analysis released in R05 has no publicly established document number, originating office designation or distribution list. Locating the original in Navy records and identifying who received it in 1953 is the highest-value follow-up in the corpus."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The UAP Science Advisory Council announced 17 June 2026 is attested only in secondary indexing. No charter, membership roster, terms of reference or product has been located on aaro.mil or war.gov."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "Redactions across the PURSUE corpus carry no exemption citations because the material was published outside the FOIA system. There is no established mechanism to challenge any redaction in the release, and no appeal path exists."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "The Burlison FY2027 NDAA amendment's exact amendment number, roll-call vote and final statutory text have not been confirmed against congress.gov; only secondary reporting of its adoption on 23 July 2026 is in hand."
+ },
+ {
+  "domain": "releases-2023-2026",
+  "gap": "Rep. Luna's 1 April 2026 letter to Secretary Hegseth is referenced in House Oversight material but the letter text itself has not been located. Its specific demands and any deadline it set would establish the causal link to the PURSUE video tranches with tier-1 documentation."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "No released AAWSAP-era document records the receipt, transfer, storage or disposition of any physical sample, despite the release of the statement of work, four contract status briefs, the 38-title reference-product list, the 'Final Packet Presented to DepSecDef' and the Reid special-access-programme correspondence. Next step: FOIA DIA for property accountability, receipt and custody records associated with the AAWSA programme and contract HHM402-08-C-0072."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "The identity of the Defense Department agency Eric Davis briefed in March 2020 about retrievals from 'off-world vehicles not made on this earth' has never been established."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "No transcript, memorandum for record, read-ahead or attendance list has been released for Davis's 21 October 2019 Senate Armed Services Committee staff briefing or the 23 October 2019 Senate Intelligence Committee briefing. These are committee records and are not FOIA-able; they would have to be produced voluntarily or subpoenaed."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "The US Army Combat Capabilities Development Command CRADA with To The Stars Academy ran its nominal five-year term (17 October 2019 to 2024) and produced no public technical output, no sample characterisation and no Army statement of findings. Next step: FOIA Army DEVCOM Ground Vehicle Systems Center for the CRADA instrument, its annual reports and its close-out documentation."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Neither the government element nor the aerospace corporation that Garry Nolan says approached him about medical harm from anomalous craft has ever been named, by Nolan or by anyone else."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "The 'Sponsor and Affiliates' referenced in Christopher Green's AAWSAP DIRD are unidentified, as are the roughly 300 unpublished injury cases in its data base and the Green-Morris case files. Whether the proposed continuation effort covering 300-500 ICD-coded events was ever funded is unknown."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "EarthTech International and the Institute for Advanced Studies at Austin are private corporations outside FOIA. Every documented materials chain that reaches them stops there, and neither has published analytical results on any sample it has held."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Nolan's brain-imaging findings - reported asymmetries in the caudate and putamen among people with claimed UAP-proximity exposure - have been described publicly for several years but are not traceable to a peer-reviewed publication under his name as of August 2026."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "No charter document establishing the UAP Science Advisory Council has been published, nor has the office within the White House that requested it been identified. The 'UAP Governance Board' to which the Sol Foundation says the council reports is otherwise undocumented."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Membership counts for the 2026 council differ between sources - eleven per the Skeptics Society, fourteen per the Sol Foundation, with a five-member core research team per Loeb and additional appointees such as Liberty Vittert and Jacob Haqq-Misra named elsewhere. No official roster has been released."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "No government organisation chart or personnel document naming Travis S. Taylor as chief scientist of the UAP Task Force has been released; the claim rests on Science magazine's June 2022 reporting."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "The Wilson-Davis memo's provenance runs through a private estate (Edgar Mitchell's papers, surfaced 2019), not a government release. No authenticated original with a chain of custody has been produced, and Eric Davis has neither confirmed nor repudiated authorship in a documented setting."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "The full uncertainty budget on the CNEOS 2014-01-08 velocity determination is held by the US government and has never been released, which means the interstellar-origin premise of the entire IM1 expedition cannot be independently checked."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Jacques Vallee's lifetime research archive at Rice University's Archives of the Impossible carries embargoes running to 2028-2031; the contents of the embargoed portion are unknown."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Whether any US agency has independently examined the POSS-I plate set for the transients reported by Villarroel and Bruehl, and whether any government-held copy of that plate set exists, is unknown."
+ },
+ {
+  "domain": "scientists-technical",
+  "gap": "Whether The Aerospace Corporation had any institutional knowledge of or role in the retrievals Eric Davis described while employed there has never been addressed publicly by the corporation."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "Historical Record Report Volume II has never been published. It is the single largest documentary gap in the domain: it was promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 by a DoD spokeswoman in June 2025, and absent as of 12 August 2026. It is the volume the Department said would carry the official Yankee Blue findings."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The spring 2023 Office of the Secretary of Defense memorandum ordering the Yankee Blue practice halted has not been released. Its date, signatory, distribution and exact language are unknown; a FOIA request to OSD/WHS is the obvious next step."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "No AARO budget figure has ever been published. Its appropriation, its personnel count beyond 'several dozen', and its contractor support arrangements - including any UT-Battelle/Oak Ridge task orders - are not in the public record. USAspending/FPDS searches on AARO-supporting task orders have not been run."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The identity and dates of UAP Task Force leadership are not documented in any released DoD record. Jay Stratton's directorship rests on his own public statements and journalism; Wikipedia's AARO entry names Brennan McKernan. The Navy and OUSD(I&S) organisational records that would settle this have not been sought under FOIA."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "AARO has never publicly addressed Immaculate Constellation. The alleged programme was described in an ODNI unclassified press item of 22 October 2024 and entered into the congressional record in November 2024; it appears in no AARO annual report and in no director's statement for the record."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The chain of custody for the material sample analysed in Volume I - identified as a magnesium-zinc-bismuth alloy - and its subsequent transfer to Oak Ridge National Laboratory in 2024 is undocumented publicly, as is any recusal arrangement covering Sean Kirkpatrick, who joined ORNL in December 2023."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "AARO's UAP-related security classification guides have never been released. The FY2026 NDAA requires AARO to account for them; the resulting submission to Congress is the next primary document to pursue."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The NORAD/USNORTHCOM UAP intercept record since 2004, required by the FY2026 NDAA, has not been publicly briefed. Its contents would be directly testable against AARO's annual report case counts."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The 100-object Virginia coast Navy event in the FY2025 report has no released sensor data, unit identification, or date. It is AARO's own most significant unresolved case and nothing beyond a two-sentence summary exists publicly."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The 12-member roster of the UAP Science Advisory Council and the charter of the interagency UAP Governance Board have not been published in a government document; the council's access to classified holdings is undescribed."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "The seven individuals AARO flagged for follow-up interviews out of 262 secure-mechanism contacts in FY2025, and the 255 declared 'out of scope', are entirely undocumented. The scoping criteria have never been published."
+ },
+ {
+  "domain": "uaptf-aaro",
+  "gap": "No transcript, letter or memorandum records the apology Rep. Luna attributes to Director Kosloski in May 2026 regarding prior AARO leadership's conduct."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No published charter, executive order, membership roster, chair, staff, budget line or physical location for the PURSUE Task Force, a body ODNI ES 2026-00818 credits with declassification authority over the Intelligence Community's entire UAP holdings."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No signed executive order on UAP declassification exists in the public record, despite Secretary Hegseth referring on 23 February 2026 to 'that executive order'. Whether an unpublished order exists is the single most answerable open question in the domain."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "The signature date on ODNI ES 2026-00818 is not legible in the released copy, so the 30-day clocks it sets for IC PURSUE designees and for detailed reporting procedures cannot be timed."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No manifest, index, metadata schema or provenance statement has been published for any of the five PURSUE tranches; the file counts on this board come from Disclosure Archives, EarthSky and The Black Vault, not from the releasing authority."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Why many PURSUE PDFs were password-protected against optical character recognition is unexplained - a deliberate processing decision and an export artefact are both consistent with the evidence."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "NARA publishes no compliance list for Record Group 615 and no statement identifying agencies determined to hold covered UAP records that have not transferred them. Whether CIA, DIA, NRO, NGA, DOE, NASA, DHS and the military departments made negative determinations or simply did not respond is unknown."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "The bulk-download inventory for RG 615 was last updated 24 April 2025, before the 30 September 2025 transfer deadline and before the NSA, State and FBI catalog entries appeared; the current volumetric picture cannot be stated precisely."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "AARO Historical Record Report Volume II: no publication date, no draft, no explanation, and no statement from Kosloski since the November 2024 commitment."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Rep. Luna's April 2026 letter, which PURSUE Release 02 is reported to answer, has not been published."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Whether MITRE produced anything responsive to Burlison's 22 May 2026 demand by the 45-day deadline that fell in early July 2026, and whether the eleven named contractors were separately approached."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No public response from CIA or FBI to Burlison's 8 July 2026 Varginha letters."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "The UAP Governance Board has no published charter, roster or meeting record; its relationship to the PURSUE Task Force is undocumented."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Whether the UAP Science Advisory Council holds a Federal Advisory Committee Act charter and which agency sponsors it: DefenseScoop reports Avi Loeb formed and leads it, the Sol Foundation says ODNI announced it with FBI support."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No case number, incident date, hull or unit has been made public for the Navy report of approximately 100 airborne UAP and two uncrewed surface systems off the Virginia coast."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "The provenance, unit, chain of custody and declassification authority of the October 2024 MQ-9 Yemen Hellfire video Rep. Burlison played on 9 September 2025 are unstated, and the Department has never confirmed it."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Whether the NORAD/NORTHCOM UAP intercept briefing required by the FY2026 NDAA - number, location, nature and data collected since 2004 - has been delivered to Congress, and whether any part of it will be made public."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "AARO's accounting of UAP-related security classification guides, required by the FY2026 NDAA, has not surfaced. Those guides are the instruments that determine what may be said about a sighting before any declassification question arises."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "The identity of the multi-witness event whose material was analysed in Sol Foundation Briefing No. 3, the specimen's chain of custody, and the journal of peer-reviewed publication."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Whether Sean Kirkpatrick's portfolio as ORNL chief technology officer for defense and intelligence programs encompasses the laboratory's AARO specimen analyses."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "Whether the FY2027 NDAA conference will retain the House-adopted UAP Disclosure Act against a Senate base text (S. 4784) containing no UAP provisions - the direct test of whether 2026 produced law or only files."
+ },
+ {
+  "domain": "w2-2025-2026",
+  "gap": "No serving executive-branch official - not Kosloski, not the PURSUE Task Force chair, not the Principal Deputy DNI - has testified under oath on UAP in the 119th Congress."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The identity of the DHS Under Secretary for Science and Technology who established KONA BLUE as a Prospective Special Access Program in 2011, and of the DHS Deputy Secretary who disapproved and terminated it approximately six months later. Both made written determinations that are agency records; neither is named in the released AARO/DHS paper."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The current Director of DoD SAPCO and the office's organisational chart. DoDD 5205.07 requires the Director to be a GO/FO/SES reporting to DEPSECDEF, but the incumbent's name is not published and no DoD SAPCO director has ever appeared before Congress in open session."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "Whether any UAP-related activity has ever been the subject of a 10 U.S.C. 119(e) waiver. The existence of a waiver, without its content, is not itself classified information about the program; a committee could ask whether any waived SAP relates to UAP and receive a yes or no."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The complete list of programs AARO reviewed through its partnership with the DoD, IC and DHS SAP control offices, and the criteria by which a program was judged 'pertinent'. Without the list, the assurance of 'full access to all pertinent sensitive USG programs' is unfalsifiable."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "Whether DOE holds any UAP-related material under Restricted Data or Formerly Restricted Data authority. AARO's only documented approach to DOE was a request for nondisclosure agreements, not a records or programmatic inspection, and DOE was absent from the April 2025 NARA transfer."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The findings of DODIG-2023-109. The full evaluation is classified and the unclassified summary does not state which components were reviewed, whether the OIG obtained SAP access, or what it concluded."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "NGA's UAP holdings. ODNI named NGA as a contributor of UAP reporting in June 2021, but NGA has published no UAP FOIA collection, produced nothing for the statutory NARA collection, has never testified, and has never been the subject of published UAP FOIA litigation."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The unredacted Yeates affidavit and the number and nature of the NSA documents withheld in CAUS v. NSA. The in camera showing that persuaded the district court and the D.C. Circuit has never been released."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "Whether any AFOSI disinformation authority comparable to the 1980-1983 Bennewitz operation has been exercised since. The alleged YANKEE BLUE memo is the live test case: the Department denied its existence in September 2025 and reopened the search in December 2025 without publishing a result."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "AFRL's UAP-relevant holdings at Wright-Patterson. AFRL has never released a UAP-specific FOIA collection, never testified, and has never been named in a NARA transfer, despite being the continuity organisation for foreign materiel exploitation at the installation named in every retrieval account since 1947."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The NRO's own UAP records. NRO was named as a contributor to the 2021 ODNI assessment and supplied the UAP Task Force's most consequential witness, yet has transferred nothing to the statutory collection and published nothing."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "Whether ISOO has ever examined UAP-related classification decisions or conducted any National Industrial Security Program review touching alleged contractor-held material. No ISOO annual report addresses UAP as a category."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The text of the February 2026 presidential directive on UAP records and the accompanying nondisclosure-agreement waiver directive, and whether either instrument purports to reach Restricted Data or only Executive Order 13526 information."
+ },
+ {
+  "domain": "w2-agencies",
+  "gap": "The DoD SAPCO congressional-engagement log: how many times personnel have notified the Director, DoD SAPCO of an intent to brief Congress on UAP-adjacent SAP matters, and whether any such briefing was subsequently blocked."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The contents of the classified annex to the annual Defense Appropriations Act and of the classified Schedule of Authorizations to the Intelligence Authorization Act. These are the two documents that would answer the entire question, and both are given the force of law by public statute (Sec. 8006(a) of P.L. 119-75; Sec. 6102(a) of P.L. 119-60) while being unpublishable by statutory command."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Whether any Inspector General has ever conducted a compliance review of section 1687(b) of the FY2024 NDAA - the prohibition on UAP-related independent research and development being an allowable indirect cost. The provision is permanent law codified at 50 U.S.C. 3373 note; no published DoD OIG, IC IG or DCAA product examines compliance with it. This is the single most answerable open question on this board: a committee could simply ask."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The identity of the contractors, if any, that have charged UAP-related work to Independent Research and Development accounts. DCAA audits IR&D cost allowability and its working papers are agency records; the DoD Instruction 3204.01 technical interchange meeting record is also an agency record."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Whether any activity relating to unidentified anomalous phenomena has been the subject of a 10 U.S.C. 119(e) waiver removing it from the annual SAP report to the defense committees, and whether any such activity has ever been the subject of a Sec. 8009 thirty-day pre-initiation notice."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The recipient of the $26.92 billion Other Procurement, Air Force 'CLASSIFIED PROGRAMS' line (FY2026 line 077A) and the content of the adjacent $1.178 billion 'SPECIAL UPDATE PROGRAM' line. The pass-through attribution to national reconnaissance activity is inference from account history and magnitude, not documentation."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The reconciliation between the roughly $95.9 billion of classified line items in the FY2026 defense funding tables and the $115.5 billion combined NIP and MIP request for the same year. No public document maps one onto the other or explains the gap."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The names of the Department of Defense officials who approached FASAB in August 2016 to request what became SFFAS 56, and the seventeen comment letters received on the exposure draft between 14 December 2017 and 16 March 2018. FASAB's deliberative record - exposure draft, comment letters, board meeting minutes and transcripts - is public and has never been systematically read against this question."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Whether FASAB has issued any Interpretation of SFFAS 56 under paragraph 8(c), which authorises modifications beyond those listed in paragraph 9. Paragraph 13 forbids the government-wide report to identify which Interpretations were applied, so the existence and content of any such Interpretation cannot be inferred from the financial statements."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Which entities have actually applied SFFAS 56 and to what amounts. Paragraph 12 expressly forbids disclosure of application, so this is unknowable from the financial statements by design; only a cleared auditor or a congressional committee with access to the unmodified reports could establish it."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The underlying journal voucher detail behind DODIG-2016-113's $2.8 trillion and $6.5 trillion figures and behind the FY2025 audit's $859 billion. The OIG reports are summaries; the transaction-level records exist in DFAS systems and have never been sought by FOIA or subpoena in connection with this question."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Which independent public accounting firm will assume the group auditor role for the Department's financial statements in FY2027, under what contract vehicle, and what becomes of the working-paper custody chain when the group auditor is a contractor rather than the Office of Inspector General."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The classified portion of David Grusch's testimony and of the ICIG's July 2022 credible-and-urgent determination, which is where the financial specifics he declined to give in open session reside."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Whether the House Committee on Oversight and Government Reform has ever, in writing, connected its July 2023 UAP hearing to its May 2026 Department of War financial management hearing. Both are its own proceedings; no published question, letter or report joins them."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "The dates of Platte B. Moring III's assumption of office as Inspector General and of Michael Powers's acting service as Under Secretary (Comptroller), and whether either is Senate-confirmed. The Department's own biography pages do not state it."
+ },
+ {
+  "domain": "w2-black-budget",
+  "gap": "Any record of expenditure under 50 U.S.C. 3510(b) - the CIA's unvouchered account - relating to material recovery or exploitation. By statute the Director's certificate is the entire accounting record and 'shall be deemed a sufficient voucher'; if the programme was ever financed this way, no further record was ever required to exist."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The exact Library and Archives Canada file citation for Wilbert Smith's 21 November 1950 'Geo-Magnetics' memorandum was not confirmed. LAC's own exhibition quotes the memorandum and dates it but cites only the Defence Research Board file (RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt.1) for Project Magnet material. Researchers commonly place the Department of Transport memorandum in RG 97. Until the DOT file reference is confirmed at LAC, the famous four-point passage ('rating higher even than the H-bomb'; 'Flying saucers exist'; 'a small group headed by Doctor Vannevar Bush'; 'of tremendous significance') must remain tier 2. This is the single highest-value verification task on this board."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The four redacted lines following Condign Volume 3 paragraph 12's denial of any UK-US-Canada intelligence exchange 'of any sort' have never been contested by FOI review. A fresh request specifically for that paragraph, and for paragraph 7 'Related Military Applications' and paragraph 6 'Radar Detection of Plasmas', is the obvious next British action."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The English translation of the COMETA conclusion circulating since 1999 renders the key sentence as 'The extraterrestrial hypothesis is far from the best scientific hypothesis', which contradicts the paragraph immediately above it and the widely reported French sense. The original French text of 'Les OVNI et la Défense' must be obtained and the sentence collated. Press coverage in August 2026 rendered the same conclusion as 'by far the best'."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Nick Pope's precise MoD post title, grade and division designation were never confirmed from a primary MoD document, and he died on 6 April 2026. The paywalled obituaries in The Telegraph (10 April 2026), The Times (15 April 2026), The Economist (16 April 2026) and The New York Times (28 April 2026) should be read; any personal papers should be traced before they disperse."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The Operação Prato file at the Arquivo Nacional has not been worked page by page in this pass. The official negative finding and Captain Uyrangê Hollanda's 1997 interview cannot both be true; the file is the arbiter. The exact date of Hollanda's death and whether any inquest was held are also unestablished."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The 30-day dossier promised by Brazilian Minister of Aeronautics Octávio Moreira Lima on 23 May 1986 never appeared publicly. Whether one was written and withheld is a specific, answerable question for the Arquivo Nacional."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The photographic negatives taken by press photographer Adenir Britto on 19 May 1986 were collected a month later by two officers of the Brazilian Aerospace Technical Centre accompanied by the American researcher James J. Hurtak, on the stated basis that NASA would analyse them, and were never returned. Their present location is unknown and is a live custody question."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Spain's sixty-six released Ministry of Defence UFO files are recorded inside Project Condign but have not been located or worked here. The Ejército del Aire's own archival references and the release dates need to be established."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "No primary Russian-language archival citation for the SETKA founding documents, the 18 October 1978 Academy of Sciences meeting minutes, or the Military-Industrial Commission order was obtained. The best available source remains a secondary English-language account by Stonehill and Mantle. The relationship between 'Institute 22', SETKA-AN, SETKA-MO, Galaktika, Gorizont and secret military unit 67947 needs to be resolved from Russian sources."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The term 'Thirteenth Department', used in the literature for a Soviet General Staff unit handling anomalous phenomena, could not be tied to any documented body in this pass and has deliberately not been asserted. Military unit 67947, named in the SETKA account, is the concrete institutional lead to follow."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Japan's May 2026 statements were established from Kyodo News, Japan Times and other headlines indexed through Google News; the article bodies could not be retrieved (paywall and bot protection). The Japanese Ministry of Defense's own statements, and whether Japan has committed to a file release, need to be sourced directly from Japanese-language government material."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Peru's Air Force UAP office (variously OIFAA and DIFAA) is a placeholder. Its founding instrument, current name, reporting line, case output and whether it publishes findings are all unestablished."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Argentina has no entity on this board beyond the 1995 Bariloche case. The Comisión de Estudio de Fenómenos Aeroespaciales within the Fuerza Aérea Argentina, and any successor, need to be researched."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "No NATO institutional position on UAP was located. The alliance appears in this record only indirectly, through Condign's reference to 'other NATO nations' and through the bilateral behaviour of member states. Whether NATO has ever issued guidance, and whether the subject has appeared in a NAC or Military Committee document, is unanswered."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "The exact CEFAA case reference and the Chilean Navy's own report on the November 2014 helicopter FLIR case were not located; the account here rests on January 2017 press reporting. SEFAA's resolved-case archive should be searched for the file."
+ },
+ {
+  "domain": "w2-international",
+  "gap": "Whether the Government of Canada has designated a lead department in response to the Sky Canada Project's June 2025 recommendations, as at August 2026, is unestablished."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "THE TWELVE-PAGE DOCUMENT. The Immaculate Constellation report was entered into the Congressional Record on 13 November 2024 and appears in the hearing's Index of Documents, but no retrievable primary file at a stable public URL has been located. The GPO print of Serial No. 118-135 should contain it as a submitted document; obtaining the PDF of the submitted-materials section of CHRG-118hhrg57440 is the single highest-value next step for this domain."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "THE DEPARTMENT'S WRITTEN RESPONSE TO IMMACULATE CONSTELLATION. No written DoD, OUSD(I&S) or AARO response exists in the public record. The 'no record' formulation is known only through press statements attributed to spokesperson Sue Gough. A FOIA request for any records search declaration, tasking memorandum or classification review conducted in response to the 13 November 2024 entry would establish whether one was ever done."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "PRINCETON SENSOR DATA AND THE CONFISCATION. No FOIA release, visit log, deck-log entry, or message traffic has ever identified the personnel who allegedly boarded USS Princeton around 15-16 November 2004, or the authority under which they acted. The Navy has never produced Princeton SPY-1B or CEC data for 14 November 2004. Targets: Princeton deck logs for 14-18 November 2004, CSG-11 message traffic, and the Third Fleet reporting file referenced in the range fouler report."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "THE VANDENBERG RECORDS. Nuccetelli testified on 9 September 2025 that 'official Air Force records documenting it are now held by AARO and the FBI' for the 14 October 2003 and 2005 incidents. This is a named-custodian claim for specific dated incidents at a named installation. No FOIA production from either custodian has surfaced, and Congress has not compelled one."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "WRIGHT-PATTERSON T-2 FILES, 1947-1951. The Air Materiel Command T-2 intelligence series at Wright Field for 1947-1951 has never been the subject of an identified comprehensive declassification review or NARA accession. If a legacy exploitation effort existed, this is where its earliest paper would sit. No finding aid has been located."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "AAWSAP/BAASS RESEARCH PAPERS. Knapp testified that BAASS produced more than three dozen preliminary reports and over 100 detailed research papers, most of which DIA has never released, plus a 240,000-case data warehouse that reportedly remains in agency use. The DIRD series is partly public; the BAASS papers and the warehouse itself are not. Custody of the warehouse - which agency, under what contract - is unestablished."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "GVSC/TTSA CORRESPONDENCE. Twenty-nine emails totalling one hundred pages of Dr. Joseph Cannon's correspondence with To The Stars Academy were located and withheld in full under FOIA exemptions (b)(4) and (b)(5). No characterisation results from the CRADA have ever been published. An exemption challenge or a congressional document demand is the route."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "NO 2026 UAP HEARING. Between 9 September 2025 and 12 August 2026 no congressional hearing on UAP was held, despite the February 2026 presidential release directive, five PURSUE tranches, the late FY2025 AARO annual report, the July 2026 NDA waiver directive and the Burlison FY2027 NDAA amendment. Whether one is scheduled for the remainder of the 119th Congress, and whether the Task Force's remit survives, is unresolved."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "THE SCHRIEVER PROVENANCE CLAIM. The 2025 assertion that Immaculate Constellation material came from a folder labelled '2018 Schriever Wargame' is attributed to an unnamed self-identified whistleblower and assessed by Jason Colavito as a misidentification. The claimant's identity, the underlying folder, and whether this claimant is Shellenberger's source or a separate later party are all unestablished. The board notes the claim addresses a later provenance story, not Shellenberger's sourcing."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "PROJECT TWINKLE AND THE LAND-AIR OBSERVATIONS. The cinetheodolite tracking-camera observations from White Sands Proving Ground in 1948-1951 and the full Project Twinkle case file were not retrieved from a primary archive in this pass. The instrumented character of these observations makes them the most technically evaluable material in the legacy record."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "HANGAR 18. No primary record establishes storage of Roswell or any other recovered material at Wright-Patterson Area B. The claim is recorded as folklore; the structural point about NASIC's continuous custody of the ATIC/FTD filing system stands independently and does not depend on it."
+ },
+ {
+  "domain": "w2-places-events",
+  "gap": "JANET AND THE GROOM WORKFORCE. The contractor of record, headcount and contract vehicle for the Las Vegas-Groom Lake air shuttle are unpublished. Establishing the size of the commuting workforce would put a hard number on the scale of population that has demonstrably kept a compartmented programme quiet."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "The 341st Strategic Missile Wing unit history and launch-crew rosters for March 1967 have never been released. They would establish which flight Robert Salas was on, on which date, and what the wing recorded as the cause of the Echo Flight shutdown. Unit histories for the period are routinely declassified for other subjects."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "NASA's two missing boxes of Kecksburg-era records, testified to by public liaison officer Steve McConnell in the Kean litigation, have never been located. The court-supervised search under the 16 October 2007 stipulated settlement ran for twenty-two months and did not produce them; the joint status reports themselves (docket entries 58-68) have not been examined here and may specify what was and was not found."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "No document from the Defense Department's internal investigation into whether the Cash-Landrum object was a US military device has ever surfaced, although the investigation is referenced in the litigation record. The government's Motion to Dismiss and/or for Summary Judgment memorandum (docket entry filed with the motion) has not been read in the original here."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "The Air Force's July 1994 report states that the Secretary of the Air Force issued an express written direction releasing former airmen and civilian contract scientists from nondisclosure obligations. That written direction is itself a document, has never been published, and appears never to have been requested under FOIA. It would establish the scope of the release and therefore what was and was not covered."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "Neither Pennsylvania State Police nor US Army Corps of Engineers records of the December 1965 Kecksburg cordon have been produced by any party, despite the cordon being reported in the contemporaneous Greensburg Tribune-Review as ordered by Army and State Police officials."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "Rodeghier and Whiting's 'The Plains of San Agustin Controversy' (1992) is cited at note 123 of the 1997 Air Force report and is the document that discredited Gerald Anderson from inside the field. It has not been read in the original for this board; only its conclusion as reported by the Air Force."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "No AFOSI record of the relationship William L. Moore described in July 1989 - his cooperation with Air Force counterintelligence and the passing of disinformation to Paul Bennewitz - has ever been requested or released. This is the single highest-value outstanding FOIA target in the domain, because it would establish whether the MJ-12 corpus entered the record through an official channel."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "Stringfield's anonymised informants are identified in his working files by letter-number code. Whether his papers survive, and whether any key mapping codes to names exists, has not been established. Without it, six of the seven Status Reports remain permanently uncheckable."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "The Brazilian Army's 2010 Varginha inquiry explained the observed vehicle movements as routine maintenance and Escola de Sargentos das Armas transport but did not publish the underlying unit movement logs for 20-21 January 1996, which would either corroborate or refute the explanation."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "Robert Willingham's claims about a 1950 Del Rio crash have been repeatedly restated with materially different dates, locations and claimed service roles, and his stated military record has been contested. No stable version exists to test, which is why this board carries Del Rio only as Stringfield's index entry."
+ },
+ {
+  "domain": "w2-retrieval-literature",
+  "gap": "The full 108-document Blue Book file set on the 24 October 1968 Minot case, and NARCAP's 141-document set, have not been read in the original here. Given that Blue Book declined to send field investigators despite SAC general officer interest, the internal routing of that decision is a documented and reachable research target."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The number of DoD special access programs currently designated as waived under 10 U.S.C. 119(e). This is a retrievable agency record: DoDI 5205.11 Enclosure 3 assigns the Senior Review Group an annual review of all waived DoD SAPs and requires it to ensure the accuracy of the SAP list submitted to Congress before the annual report. The delta between the annual report count and the waived list is a single integer that has never been requested in public by any member of Congress."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The signed carve-out approvals. DoDI 5205.11 Enclosure 7 requires every SAP record file to contain 'Written approval by SecDef or DepSecDef of carve-out status when DSS is relieved of industrial security oversight responsibilities' and 'The identification of SAP facilities ... that have been carved-out based upon this authority'. Neither the number of carve-outs in force, nor the list of carved-out facilities, nor the identity of any approving official for any individual carve-out has ever been published or FOIA-released."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The identity of the current Director of DoD SAPCO and the office's organisational chart, staffing and budget. DoDD 5205.07 requires the Director to be a general officer, flag officer or SES appointed by and reporting to the Deputy Secretary of Defense. No DoD SAPCO director has ever appeared before a public congressional hearing and the incumbent's name is not published."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The DoD Manual 5205.07 Volumes 2, 3 and 4 (Personnel Security, Physical Security, Marking). As of 12 August 2026 the esd.whs.mil URLs for all four volumes do not return the documents to ordinary public retrieval; only Volume 1 was recoverable, from an Internet Archive capture dated 18 October 2019. Volume 4 (Marking) in particular would document the DoD counterpart to the CAPCO marking rules for SAP material."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The exact signature date and signer of the reissued ICD 906. The released PDF was generated on 19 December 2024 and states that it supersedes the ICD 906 signed 17 October 2015, but the signature block in the released scan is an image that does not resolve to text."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The classified addenda to the IC Authorized Classification and Control Markings Register. The public register states on its title page that 'Certain security markings were removed due to classified content. These markings have been compiled in separate classified addenda.' The existence of compartment markings that appear in no public authority is documented; their number and identity are not."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The 50 U.S.C. 3348 reports. Every federal agency other than DoD, NNSA and the IC that runs a special access program owes an annual February 1 report to congressional oversight committees expressly including the House Committee on Oversight and Government Reform. No such report from any agency has been publicly identified, and no public record shows House Oversight invoking this entitlement in the UAP context."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The section 7606(c) reports required by the FY2024 Intelligence Authorization Act. Each of the six officials authorised by E.O. 13526 to establish special access programs was required, by 22 December 2024, to report to nine congressional committees on the number of personnel eligible for SAP access and how it would be held to the minimum. No such report has surfaced publicly. Whether they were filed is answerable by a single letter from any of the nine committees."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "Whether any waiver under 10 U.S.C. 119(e) has ever been exercised in connection with a UAP-related program, and whether the funding prohibitions of FY2024 NDAA section 1687 and FY2024 IAA section 7343 have ever been triggered, complied with, or certified against. Neither the Secretary of Defense nor the Director of National Intelligence has publicly stated whether any disclosure was made under either section."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "GAO and DoD Inspector General coverage of the SAP enterprise. The only located GAO product touching contractor industrial security, GAO-04-332, expressly excluded special access programs from its scope by agreement with committee staff. No GAO product in the govinfo GAOREPORTS collection was located that audits DoD SAP congressional reporting, carve-out administration, or the waived-program list. Whether classified GAO or DoD IG products on these subjects exist, and under what report numbers, is unresolved."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The current DoD SAPCO-held count of SAP facilities (SAPFs) and of contractor SAPFs. DoDI 5205.11 requires the identification of carved-out facilities to be maintained; the total inventory of accredited SAP facilities has never been published even in aggregate."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "The Prospective SAP (PSAP) register. DoDI 5205.11 Enclosure 6 shows that a program can operate as a PSAP with enhanced security measures approved before it is ever approved as a SAP, on a 180-day path to a Deputy Secretary decision. Programs that were terminated as PSAPs before approval - as KONA BLUE was at DHS - never appear in any SAP report to Congress at all. No register of PSAPs initiated and terminated has ever been released."
+ },
+ {
+  "domain": "w2-sap-architecture",
+  "gap": "Names of individuals holding SAPOC and Senior Review Group seats at any given date. The seats are defined by position in DoDI 5205.11 Enclosure 3, so the membership on any past date is reconstructible from public appointment records, but no such reconstruction exists on this board and it would identify precisely who was in the room when any given program was approved."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "ALIAS PAIRS REQUIRING MERGE, NOT DELETION. Five domain ids in the wave-1 corpus are near-synonyms of others and were defined here so no edge dangles, but a merge pass should decide a canonical for each: d-legislative / d-legislation (process vs enacted text); d-funding / d-money (channel vs opacity); d-secrecy / d-secrecy-architecture (law vs compartment topology); d-contractor / d-contracting (custody vs acquisition mechanics); d-ffrdc / d-ffrdc-mechanism (institution vs FAR 35.017 clause). Each pair is written here with a deliberate division of labour so both can survive if the board prefers granularity."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "FOUR DOMAIN IDS WERE ALREADY DEFINED ELSEWHERE AND WERE NOT REDEFINED HERE: d-ffrdc and d-structure and d-media (in media-structure.json and ffrdcs.json) and d-custody (in scientists-technical.json). d-materials WAS redefined here because it appears in the required list; scientists-technical.json also carries a definition and the two must be reconciled rather than both loaded. Note also that media-structure.json defines a domain with the bare id 'ffrdc-mechanism' while one record references 'd-ffrdc-mechanism' - a prefix inconsistency the merge pass should normalise."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "NINE DOMAINS ARE DEFINED FORWARD, NOT BACKWARD. d-intel, d-nuc, d-plasma, d-chem, d-consciousness, d-remote-viewing, d-signals, d-aerospace and d-counterintel are not yet referenced by any wave-1 person record. They were in the required list and are defined here for wave-2 and wave-3 scoring. Until people are scored on them they carry no graph weight, and a later pass should backfill domains[] on existing person records - the aviators dossier in particular should almost certainly carry d-signals, and the scientists dossier d-chem and d-astro."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "THE C AXIS IS UNDER-EVIDENCED ON EXACTLY THE DOMAINS THAT MATTER MOST. d-legacy, d-recovery, d-reverse-engineering and d-bio are scored C3 on the strength of sworn testimony (tier 2) rather than primary documents (tier 1). That is honest grading, not a defect, but it means the board's central claim currently rests on one hearing. The research that would change this is contract and facility-clearance data, not more testimony."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "NO PRIMARY DOCUMENT HAS BEEN LOCATED FOR THE FUNDING DOMAIN'S CENTRAL CLAIM. d-funding and d-money describe channels that demonstrably exist - transfer authority, MIPRs, IRAD, 50 U.S.C. 3510 unvouchered expenditure - and an audit failure that demonstrably exists. What is missing is any document connecting a specific dollar to a specific concealed activity. Until that exists the funding argument establishes possibility, not fact, and the dossiers say so."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "SKIDMORE'S FIGURES ARE CITED AS GROSS ADJUSTMENTS, NOT MISSING MONEY, AND THE DISTINCTION IS LOAD-BEARING. The d-money dossier states this explicitly because conflating the two is the fastest way to lose the argument. A dedicated pass should locate Skidmore's published papers directly rather than relying on the DoD OIG findings that underpin them; no direct citation to his work was verified for this file."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "TWO ROSWELL AIR FORCE REPORTS ARE CITED BY TITLE WITH DATING UNCERTAINTY. 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' is variously dated 1994 and 1995 across sources in the corpus; the DTIC copy cited here is dated 1995. 'The Roswell Report: Case Closed' is firmly 24 June 1997. A records pass should pin the first date to a publication record."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "THE COMETA REPORT IS DESCRIBED IN THE l-paris AND l-france DOSSIERS WITHOUT A VERIFIED URL. The 1999 French report 'Les OVNI et la Defense' is real and well attested but no authoritative online copy was verified during this pass, so it appears in prose rather than in claims[] or sources[]. It should be sourced properly before any claim is built on it."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "FIFTY-FOUR LOCATION IDS WERE DANGLING ACROSS THE CORPUS AND ARE NOW DEFINED, BUT TWENTY OF THEM ARE THIN BY DESIGN. The congressional home-district anchors (l-tompkinsville, l-glenbeulah, l-oro-valley and the rest) carry accurate but minimal dossiers deliberately: committee assignments and hearing roles belong on the person records in congress-house.json, and duplicating them here would create two places to get them wrong. Where a member's specific committee role could not be verified in this pass, the dossier says 'in the period covered by this board's congressional dossier' rather than asserting a role."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "THREE LOCATION IDS ARE PURE ALIASES AND SHOULD BE COLLAPSED: l-washington-dc into l-dc (142 inbound references versus 2), l-lasvegas into l-las-vegas, and l-cambridge-ma into l-cambridge. They are defined here only so that no edge dangles before the merge pass runs."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "THE d-consciousness DOSSIER IS THE BOARD'S WEAKEST AND IS TIERED C DELIBERATELY. Its only tier-1 content is that the government funded Star Gate for twenty-three years and commissioned Kit Green's DIRD on neurological field effects. The substantive claim - that observation is coupled to the phenomenon - has no primary support and is recorded as a tier-3 personnel-continuity inference. If the board wants to argue it, that argument has to be built from somewhere other than this file."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "NO DOMAIN-LEVEL SCORING RUBRIC IS PUBLISHED. Each domain dossier explains what a high score means for that domain in prose, but there is no cross-domain calibration table, so a C3 on d-materials and a C3 on d-bio are not guaranteed to mean the same distance from custody. A calibration pass across all fifty domains would make the axis scores comparable; until then they are ordinal within a domain and only roughly comparable across domains."
+ },
+ {
+  "domain": "w2-taxonomy",
+  "gap": "AARO's VOLUME II HISTORICAL RECORD REPORT WAS NOT LOCATED IN THIS PASS. Volume I (February 2024) is cited throughout. NDAA FY2025 Section 6802 sunsets the audit requirements attached to the historical record report, which suggests the reporting obligation's status changed after 2024; the current state of Volume II and of the sunset's effect should be established directly from AARO and from P.L. 118-159's full text before any claim is made about it."
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-brasilia — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "ndaa-fy2023 — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "pogo — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "the-intercept — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-washington-dc — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-paris — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-toulouse — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-ottawa — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-santiago — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-moscow — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-san-agustin — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "saf-aaz — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "wayne-state-university — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-parkland-fl — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-charleston-sc — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-long-beach — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-glenbeulah — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-franklin-tn — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-tompkinsville — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-dallas — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-oro-valley — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-windsor-co — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-lafayette — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-gilbert-az — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-orlando — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-takoma-park — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-schaumburg — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-green-bay — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-boise-id — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-fort-worth-tx — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-ft-meade — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-huntington-beach — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-london — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "enigma-labs — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-stockholm — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-woodshole — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-wellesley — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-ames — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-boston — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-nashville — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "vanderbilt-university — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-seattle — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "blue-marble-space-institute — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "us-navy — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-michigan-state — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-uk-mod-whitehall — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-sheffield — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "sheffield-hallam — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-uk — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-france — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-brazil — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "canada-dot — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "dgac-chile — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "ocsa-canada — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "soyuzufotsentr — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "izmiran — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "senado-brasil — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-varginha — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "hospital-regional-varginha — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-cincinnati — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-fredericton — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-cedar-rapids — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "509th-bomb-group — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-aztec — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_stubs",
+  "gap": "l-huffman-tx — structural stub, needs a real dossier"
+ },
+ {
+  "domain": "_remediation",
+  "gap": "76 locations have coordinates; the remainder still need geocoding"
+ }
+]

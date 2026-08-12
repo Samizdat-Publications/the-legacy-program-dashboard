@@ -1,0 +1,1676 @@
+{
+ "domain": "_stubs",
+ "people": [],
+ "entities": [
+  {
+   "id": "d-witness",
+   "cls": "domain",
+   "label": "Witness testimony",
+   "cluster": "research",
+   "sub": "Evidence domain",
+   "desc": "The domain of firsthand and secondhand testimony about the program: what a named individual states they saw, handled, were briefed on, or were denied access to. It is the domain that carries the most weight in public argument and the least in documentary terms, which is exactly why it is scored separately here. A person scored on this domain is not being credited with proof; they are being placed in a chain of attestation whose links can be traced, dated, and checked against each other. The strongest form is sworn testimony before Congress or a signed Inspector General complaint, because those carry criminal exposure for falsification and are themselves primary records of the statement having been made.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-research",
+   "cls": "domain",
+   "label": "Research & academia",
+   "cluster": "research",
+   "sub": "Institutional domain",
+   "desc": "University and institute research, and the documented routes by which it connects to classified work: sponsored research agreements, DoD and IC grant funding, cleared faculty, university-affiliated research centers, and consulting arrangements that never appear on a CV. The relevance is structural rather than incriminating. An academic post is one of the few positions that provides deep technical capability alongside a plausible public identity, and the FFRDC and UARC system exists precisely to formalise that bridge.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-funding",
+   "cls": "domain",
+   "label": "Funding & contracts",
+   "cluster": "research",
+   "sub": "Money domain",
+   "desc": "The contracting and appropriations layer: who received money, from which line, under which vehicle, and with what reporting obligation. This is the most documentable domain on the board — award data, contract numbers and appropriations text are public records — and it is therefore where an argument about the program is strongest. Where the money trail goes dark, that darkness is itself a documented fact with a date and a mechanism attached to it.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-money",
+   "cls": "domain",
+   "label": "Black budget",
+   "cluster": "research",
+   "sub": "Money domain",
+   "desc": "The specific mechanics of concealed appropriation: classified annexes to the NDAA and appropriations acts, the National Intelligence Program and Military Intelligence Program toplines, pass-through and unallocated line items, reprogramming and transfer authority, and the accounting treatments that permit classified activity to be reported in modified form. Distinct from d-funding, which tracks identifiable awards; this domain tracks the instruments that make an award unidentifiable.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-international",
+   "cls": "domain",
+   "label": "International programs",
+   "cluster": "research",
+   "sub": "Geographic domain",
+   "desc": "Foreign government UAP programs, investigations and document releases: the UK Ministry of Defence desk and the Condign report, France's GEIPAN and the COMETA study, Brazil's air force investigations and archive transfers, Chile's CEFAA, Canada's Project Magnet and Second Storey, and the Soviet and Russian programs. Their value to this board is comparative: several of these states have released their files, which establishes both what a government record on this subject looks like when it is opened and, by contrast, the scale of what remains closed in the United States.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-aviators",
+   "cls": "domain",
+   "label": "Military aviation",
+   "cluster": "research",
+   "sub": "Observational domain",
+   "desc": "Naval and Air Force aircrew, radar operators, and the sensor and reporting systems that capture encounters: FLIR and ATFLIR pods, AN/SPY radar, range-fouler reporting, and the safety-reporting chain. Aviators occupy an unusual evidentiary position — they are trained observers, their instruments produce records, and their accounts are frequently the only part of the story that the government has been willing to confirm.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-ic",
+   "cls": "domain",
+   "label": "Intelligence community",
+   "cluster": "research",
+   "sub": "Institutional domain",
+   "desc": "Career intelligence work across the eighteen IC elements: collection, all-source analysis, counterintelligence, and the special access and controlled access program structures that govern what any given officer may know. A person scored here holds the specific kind of access the board is trying to measure — not technical capability, but knowledge of what is compartmented and from whom.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-astro",
+   "cls": "domain",
+   "label": "Astronomy & astrophysics",
+   "cluster": "research",
+   "sub": "Technical domain",
+   "desc": "Observational astronomy, astrophysics and the instrumentation behind them. The dual-use route is direct and well documented: faint-signal detection, adaptive optics, image processing and sensor characterisation transfer without modification to overhead reconnaissance, which is why the discipline has a long history of classified consulting and of recruitment into advisory bodies such as JASON.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-paranormal",
+   "cls": "domain",
+   "label": "Anomalous phenomena",
+   "cluster": "research",
+   "sub": "Research domain",
+   "desc": "Research into anomalous phenomena that the government has itself funded at various points: remote viewing under Grill Flame, Center Lane and Stargate; the National Institute for Discovery Science work; and the poltergeist and physiological-effects reporting that AAWSAP collected at Skinwalker Ranch. Its presence on this board is not an endorsement of the phenomena but a record of the documented fact that federal money was spent studying them.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-bio",
+   "cls": "domain",
+   "label": "Biology & biotechnology",
+   "cluster": "research",
+   "sub": "Technical domain",
+   "desc": "Biological and biomedical research, including the physiological-effects reporting attached to close-encounter cases, the anomalous health incident literature, and the tissue and materials analysis claims. The domain matters here chiefly because the program allegations include biological recoveries, which would place biologists in a custody chain that no public contract record reflects.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-nuclear",
+   "cls": "domain",
+   "label": "Nuclear",
+   "cluster": "research",
+   "sub": "Technical domain",
+   "desc": "Nuclear weapons design, stewardship, propulsion and the facilities that house them. The documented correlation between UAP incidents and nuclear installations — Malmstrom, Minot, the 1975 Strategic Air Command overflights, Kirtland and Manzano — makes this the single most persistent geographic and institutional pattern in the entire record.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "d-medical",
+   "cls": "domain",
+   "label": "Medicine & clinical",
+   "cluster": "research",
+   "sub": "Technical domain",
+   "desc": "Clinical medicine, radiology and the medical records that attach to encounter cases — the Cash-Landrum injuries, the Rendlesham exposure claims and John Burroughs' subsequent records battle with the Veterans Administration. Medical records are unusually valuable evidence because they are contemporaneous, independently generated, and hard to retroactively edit.",
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [],
+   "sources": [
+    {
+     "name": "NSF master government list of FFRDCs",
+     "url": "https://www.nsf.gov/statistics/ffrdclist/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Domain definition written for this board; see SCHEMA.md",
+     "url": "",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "id": "l-brasilia",
+   "cls": "location",
+   "label": "Brasília, Brazil",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "ndaa-fy2023",
+   "cls": "legislation",
+   "label": "National Defense Authorization Act for Fiscal Year 2023",
+   "cluster": "oversight",
+   "sub": "Statute",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "pogo",
+   "cls": "institution",
+   "label": "Project On Government Oversight",
+   "cluster": "media",
+   "sub": "Watchdog organisation",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "the-intercept",
+   "cls": "institution",
+   "label": "The Intercept",
+   "cluster": "media",
+   "sub": "News organisation",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-washington-dc",
+   "cls": "location",
+   "label": "Washington, DC",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-paris",
+   "cls": "location",
+   "label": "Paris",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-toulouse",
+   "cls": "location",
+   "label": "Toulouse",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-ottawa",
+   "cls": "location",
+   "label": "Ottawa",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-santiago",
+   "cls": "location",
+   "label": "Santiago",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-moscow",
+   "cls": "location",
+   "label": "Moscow",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-san-agustin",
+   "cls": "location",
+   "label": "Plains of San Agustin, NM",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "saf-aaz",
+   "cls": "institution",
+   "label": "SAF/AAZ — Air Force Declassification & Special Programs",
+   "cluster": "ic",
+   "sub": "USAF secretariat office",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "wayne-state-university",
+   "cls": "institution",
+   "label": "Wayne State University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-parkland-fl",
+   "cls": "location",
+   "label": "Parkland, FL",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-charleston-sc",
+   "cls": "location",
+   "label": "Charleston, SC",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-long-beach",
+   "cls": "location",
+   "label": "Long Beach",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-glenbeulah",
+   "cls": "location",
+   "label": "Glenbeulah, WI",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-franklin-tn",
+   "cls": "location",
+   "label": "Franklin, TN",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-tompkinsville",
+   "cls": "location",
+   "label": "Tompkinsville",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-dallas",
+   "cls": "location",
+   "label": "Dallas",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-oro-valley",
+   "cls": "location",
+   "label": "Oro Valley, AZ",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-windsor-co",
+   "cls": "location",
+   "label": "Windsor, CO",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-lafayette",
+   "cls": "location",
+   "label": "Lafayette",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-gilbert-az",
+   "cls": "location",
+   "label": "Gilbert, AZ",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-orlando",
+   "cls": "location",
+   "label": "Orlando",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-takoma-park",
+   "cls": "location",
+   "label": "Takoma Park, MD",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-schaumburg",
+   "cls": "location",
+   "label": "Schaumburg",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-green-bay",
+   "cls": "location",
+   "label": "Green Bay",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-boise-id",
+   "cls": "location",
+   "label": "Boise, ID",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-fort-worth-tx",
+   "cls": "location",
+   "label": "Fort Worth, TX",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-ft-meade",
+   "cls": "location",
+   "label": "Fort Meade, MD",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-huntington-beach",
+   "cls": "location",
+   "label": "Huntington Beach",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-london",
+   "cls": "location",
+   "label": "London",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "enigma-labs",
+   "cls": "institution",
+   "label": "Enigma Labs",
+   "cluster": "media",
+   "sub": "UAP reporting platform",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-stockholm",
+   "cls": "location",
+   "label": "Stockholm",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-woodshole",
+   "cls": "location",
+   "label": "Woods Hole, MA",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-wellesley",
+   "cls": "location",
+   "label": "Wellesley",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-ames",
+   "cls": "location",
+   "label": "Ames",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-boston",
+   "cls": "location",
+   "label": "Boston",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-nashville",
+   "cls": "location",
+   "label": "Nashville",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "vanderbilt-university",
+   "cls": "institution",
+   "label": "Vanderbilt University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-seattle",
+   "cls": "location",
+   "label": "Seattle",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "blue-marble-space-institute",
+   "cls": "institution",
+   "label": "Blue Marble Space Institute of Science",
+   "cluster": "research",
+   "sub": "Research institute",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "us-navy",
+   "cls": "institution",
+   "label": "United States Navy",
+   "cluster": "ic",
+   "sub": "Military service",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-michigan-state",
+   "cls": "location",
+   "label": "East Lansing, MI",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-uk-mod-whitehall",
+   "cls": "location",
+   "label": "Whitehall, London (UK MoD)",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-sheffield",
+   "cls": "location",
+   "label": "Sheffield",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "sheffield-hallam",
+   "cls": "institution",
+   "label": "Sheffield Hallam University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-uk",
+   "cls": "location",
+   "label": "United Kingdom",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-france",
+   "cls": "location",
+   "label": "France",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-brazil",
+   "cls": "location",
+   "label": "Brazil",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "canada-dot",
+   "cls": "institution",
+   "label": "Canada Department of Transport",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "dgac-chile",
+   "cls": "institution",
+   "label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "ocsa-canada",
+   "cls": "institution",
+   "label": "Office of the Chief Science Advisor of Canada",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "soyuzufotsentr",
+   "cls": "institution",
+   "label": "Soyuzufotsentr",
+   "cluster": "research",
+   "sub": "Russian UFO research body",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "izmiran",
+   "cls": "institution",
+   "label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+   "cluster": "research",
+   "sub": "Russian research institute",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "senado-brasil",
+   "cls": "institution",
+   "label": "Senado Federal do Brasil",
+   "cluster": "oversight",
+   "sub": "Foreign legislature",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-varginha",
+   "cls": "location",
+   "label": "Varginha, Minas Gerais, Brazil",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "hospital-regional-varginha",
+   "cls": "institution",
+   "label": "Hospital Regional de Varginha",
+   "cluster": "other",
+   "sub": "Medical facility",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-cincinnati",
+   "cls": "location",
+   "label": "Cincinnati",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-fredericton",
+   "cls": "location",
+   "label": "Fredericton",
+   "cluster": "other",
+   "sub": "Foreign location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-cedar-rapids",
+   "cls": "location",
+   "label": "Cedar Rapids",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "509th-bomb-group",
+   "cls": "institution",
+   "label": "509th Bomb Group",
+   "cluster": "legacy",
+   "sub": "USAAF unit",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-aztec",
+   "cls": "location",
+   "label": "Aztec, NM",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  },
+  {
+   "id": "l-huffman-tx",
+   "cls": "location",
+   "label": "Huffman, TX",
+   "cluster": "other",
+   "sub": "Location",
+   "desc": null,
+   "tier": "C",
+   "C": 0,
+   "A": 0,
+   "D": 0,
+   "claims": [
+    {
+     "tier": 3,
+     "text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+     "source": "Board bookkeeping"
+    }
+   ],
+   "sources": []
+  }
+ ],
+ "edges": [],
+ "timeline": [],
+ "entityInfo": {},
+ "gaps": [
+  "l-brasilia — structural stub, needs a real dossier",
+  "ndaa-fy2023 — structural stub, needs a real dossier",
+  "pogo — structural stub, needs a real dossier",
+  "the-intercept — structural stub, needs a real dossier",
+  "l-washington-dc — structural stub, needs a real dossier",
+  "l-paris — structural stub, needs a real dossier",
+  "l-toulouse — structural stub, needs a real dossier",
+  "l-ottawa — structural stub, needs a real dossier",
+  "l-santiago — structural stub, needs a real dossier",
+  "l-moscow — structural stub, needs a real dossier",
+  "l-san-agustin — structural stub, needs a real dossier",
+  "saf-aaz — structural stub, needs a real dossier",
+  "wayne-state-university — structural stub, needs a real dossier",
+  "l-parkland-fl — structural stub, needs a real dossier",
+  "l-charleston-sc — structural stub, needs a real dossier",
+  "l-long-beach — structural stub, needs a real dossier",
+  "l-glenbeulah — structural stub, needs a real dossier",
+  "l-franklin-tn — structural stub, needs a real dossier",
+  "l-tompkinsville — structural stub, needs a real dossier",
+  "l-dallas — structural stub, needs a real dossier",
+  "l-oro-valley — structural stub, needs a real dossier",
+  "l-windsor-co — structural stub, needs a real dossier",
+  "l-lafayette — structural stub, needs a real dossier",
+  "l-gilbert-az — structural stub, needs a real dossier",
+  "l-orlando — structural stub, needs a real dossier",
+  "l-takoma-park — structural stub, needs a real dossier",
+  "l-schaumburg — structural stub, needs a real dossier",
+  "l-green-bay — structural stub, needs a real dossier",
+  "l-boise-id — structural stub, needs a real dossier",
+  "l-fort-worth-tx — structural stub, needs a real dossier",
+  "l-ft-meade — structural stub, needs a real dossier",
+  "l-huntington-beach — structural stub, needs a real dossier",
+  "l-london — structural stub, needs a real dossier",
+  "enigma-labs — structural stub, needs a real dossier",
+  "l-stockholm — structural stub, needs a real dossier",
+  "l-woodshole — structural stub, needs a real dossier",
+  "l-wellesley — structural stub, needs a real dossier",
+  "l-ames — structural stub, needs a real dossier",
+  "l-boston — structural stub, needs a real dossier",
+  "l-nashville — structural stub, needs a real dossier",
+  "vanderbilt-university — structural stub, needs a real dossier",
+  "l-seattle — structural stub, needs a real dossier",
+  "blue-marble-space-institute — structural stub, needs a real dossier",
+  "us-navy — structural stub, needs a real dossier",
+  "l-michigan-state — structural stub, needs a real dossier",
+  "l-uk-mod-whitehall — structural stub, needs a real dossier",
+  "l-sheffield — structural stub, needs a real dossier",
+  "sheffield-hallam — structural stub, needs a real dossier",
+  "l-uk — structural stub, needs a real dossier",
+  "l-france — structural stub, needs a real dossier",
+  "l-brazil — structural stub, needs a real dossier",
+  "canada-dot — structural stub, needs a real dossier",
+  "dgac-chile — structural stub, needs a real dossier",
+  "ocsa-canada — structural stub, needs a real dossier",
+  "soyuzufotsentr — structural stub, needs a real dossier",
+  "izmiran — structural stub, needs a real dossier",
+  "senado-brasil — structural stub, needs a real dossier",
+  "l-varginha — structural stub, needs a real dossier",
+  "hospital-regional-varginha — structural stub, needs a real dossier",
+  "l-cincinnati — structural stub, needs a real dossier",
+  "l-fredericton — structural stub, needs a real dossier",
+  "l-cedar-rapids — structural stub, needs a real dossier",
+  "509th-bomb-group — structural stub, needs a real dossier",
+  "l-aztec — structural stub, needs a real dossier",
+  "l-huffman-tx — structural stub, needs a real dossier"
+ ]
+}

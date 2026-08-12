@@ -1,0 +1,2210 @@
+{
+ "domain": "_rs-sap-docs",
+ "people": [],
+ "entities": [
+  {
+   "id": "usc-10-119",
+   "cls": "legislation",
+   "label": "10 U.S.C. 119 \u2014 Special Access Programs: Congressional Oversight",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "desc": "The core DoD SAP oversight statute. Added by Pub. L. 100-180 sec. 1132(a)(1) (4 Dec 1987, 101 Stat. 1151); amended 1990, 1996, 1999, 2001. Sets annual reporting (1 Mar), new-program notice (1 Feb), 14-day declassification notice, 30-day pre-initiation waiting period, and the subsection (e) waiver that creates the 'waived' SAP.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 \u2014 Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "10 U.S. Code Sec. 119 (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/10/119",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(a)(1): 'Not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.' Subsection (a)(2) requires, for each SAP in the budget, a brief description, major milestones, actual cost for each prior fiscal year, and estimated total cost plus five out-years.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(b)(1): 'Not later than February 1 of each year, the Secretary of Defense shall submit to the defense committees a report that, with respect to each new special access program, provides--(A) notice of the designation of the program as a special access program; and (B) justification for such designation.' (b)(2) adds current total program cost estimate and 'an identification of existing programs or technologies that are similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(c)(2): a report on a planned classification change or public declassification of a DoD SAP 'shall be submitted not less than 14 days before the date on which the proposed change or public announcement is to occur' -- but (c)(3) lets the Secretary submit it 'at any time before' if 'because of exceptional circumstances' the 14 days cannot be met, with an explanation.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "WAIVER / 'WAIVED SAP' MECHANISM. 10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' (e)(2): 'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The statutory waiver in 119(e)(2) collapses the notified audience from the full defense committees to the chairman and ranking minority member of each of the six named defense committee/subcommittee units -- i.e. a maximum of eight members plus the committee chairs' cleared staff, and the delivery is a briefing 'jointly' rather than a written report to the committees. This is the legal definition of a 'waived' SAP.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(f): 'A special access program may not be initiated until--(1) the defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.' Note that (f) is NOT among the subsections waivable under (e)(1), which reaches only subsections (a), (b), and (c).",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(d): 'Whenever there is a modification or termination of the policy and criteria used for designating a program of the Department of Defense as a special access program, the Secretary of Defense shall promptly notify the defense committees of such modification or termination.' This is the hook that makes each reissuance of DoDD 5205.07 a reportable event.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(g) defines 'defense committees' as the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "REPORTING SUNSET. The GPO text of section 119 carries the note: 'Termination of Reporting Requirements -- For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.' The FY2017 NDAA's blanket report-sunset provision thus terminated the statutory annual SAP report and the annual new-SAP notice as of 31 December 2021.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 3,
+     "text": "If the sec. 1061 sunset is read as operative, the only surviving mandatory congressional touchpoints in section 119 after 31 Dec 2021 are (c) declassification notice, (d) criteria-change notice, and (f) the 30-day pre-initiation notice -- i.e. the annual census of SAPs that lets Congress detect an unacknowledged program is precisely the piece that lapsed. Reasoning: (e) waives only (a),(b),(c); the sunset note names only (a) and (b). Whether DoD continued the report voluntarily is not established by any record located here.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "usc-10-119e",
+   "cls": "legislation",
+   "label": "10 U.S.C. 119(e) \u2014 Waiver of SAP Reporting (the 'waived SAP' authority)",
+   "cluster": "legal-architecture",
+   "sub": "statute-subsection",
+   "desc": "The two-paragraph subsection that creates the waived (unacknowledged-to-committee) special access program.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 \u2014 Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Verbatim: '(e)(1) The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis. (2) If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The waiver authority is vested in the Secretary of Defense personally and is conditioned only on the Secretary's own determination of adverse national security effect; the statute prescribes no finding of fact, no time limit, no periodic re-justification, and no congressional ability to disapprove.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Subsection (e) was in the section as originally enacted by Pub. L. 100-180 sec. 1132(a)(1) (4 Dec 1987) and has never been amended: the 2001, 1999, 1996 and 1990 amendment notes in the GPO text touch only subsecs. (a)(1), (c), (f) and (g). The waiver language of 1987 is the language in force today.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Because (e)(1) reaches only 'any requirement ... that certain information be included in a report,' a plain reading is that the Secretary may strip content out of the reports but may not skip the (f) 30-day pre-initiation notification of the program's existence. A program whose existence was never notified to the defense committees at all would therefore not be a lawfully 'waived' SAP under section 119 but an unreported one. Reasoning stated from the text of (e)(1) and (f).",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "waived-usap-mechanism",
+   "cls": "program",
+   "label": "Waived Unacknowledged SAP (waived USAP) \u2014 the mechanism",
+   "cluster": "legal-architecture",
+   "sub": "mechanism",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 \u2014 Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 3348 \u2014 Reports relating to certain special access programs and similar programs (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "'Waived' is a statutory term of art traceable to a single sentence: 10 U.S.C. 119(e)(2) substitutes, for the ordinary committee report, delivery of the information and the waiver justification 'jointly to the chairman and ranking minority member of each of the defense committees.' Nothing in section 119 requires that this delivery be written, recorded, retained, or shared with other members.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The parallel non-DoD, non-IC statute 50 U.S.C. 3348(e) contains the same waiver test ('would adversely affect the national security', 'case-by-case basis') but a materially WEAKER carve-down: 3348(e)(2) still requires the information to go 'to the congressional oversight committees', not merely to chairs and ranking members. The eight-member floor is therefore unique to the DoD statute.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 3,
+     "text": "The combination that produces a genuinely invisible program is not one provision but three stacked: 119(e) removes the content from the written record; the sec. 1061 Pub. L. 114-328 sunset (eff. 31 Dec 2021) removed the annual census that would otherwise show a count; and the DoDD 5205.07 carve-out provision (see 32 CFR 117.6) removes DCSA from the contractor facility where the work is performed. Each layer is individually lawful and documented; the stack is what defeats discovery. Reasoning stated.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3348",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3348 \u2014 Reports Relating to Certain SAPs and Similar Programs",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "desc": "Enacted as sec. 1152 of the FY1994 NDAA (Pub. L. 103-160, 30 Nov 1993, 107 Stat. 1758); amended by Pub. L. 106-65 sec. 3294(e)(2) (1999) and Pub. L. 115-390 sec. 103 (21 Dec 2018). Covers SAPs at federal departments and agencies OTHER than DoD, NNSA, and the Intelligence Community.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348 \u2014 Reports relating to certain special access programs and similar programs (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S. Code Sec. 3348 (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/3348",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Section title and scope: '50 U.S.C. 3348. Reports relating to certain special access programs and similar programs.' Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "THE COVERAGE HOLE. 3348(g)(2)(B): the term 'covered department or agency' 'does not include-- (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10); (ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title); or (iii) an agency in the Intelligence Community (as defined in section 3003(4) of this title).' The government-wide SAP reporting statute therefore reaches none of the three communities where a legacy recovery program would plausibly sit.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "3348(e)(1): 'The head of a covered department or agency may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report ... if the head of the department or agency determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.' (e)(2) requires the withheld information and the waiver justification to be provided 'to the congressional oversight committees' -- with no reduction to chairs and ranking members.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "3348(f): 'A special access program may not be initiated by a covered department or agency until-- (1) the congressional oversight committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "3348(g)(1) defines 'congressional oversight committees' as congressional leadership and the authorizing and appropriations committees with jurisdiction or shared jurisdiction over the department or agency, plus the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform (now Oversight and Accountability). This definition was ADDED by Pub. L. 115-390 sec. 103(3) in December 2018; before that the statute said only 'Congress'.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "3348(g)(3) still defines 'special access program' by reference to 'Executive Order 12356 (or any successor Executive order)' \u2014 an order revoked in 1995 by E.O. 12958 sec. 6.1(d), as the GPO 'References in Text' note states. The operative definition today runs through the successor chain to E.O. 13526.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    }
+   ]
+  },
+  {
+   "id": "eo-13526",
+   "cls": "legislation",
+   "label": "Executive Order 13526 \u2014 Classified National Security Information",
+   "cluster": "legal-architecture",
+   "sub": "executive-order",
+   "desc": "Signed 29 December 2009, published 75 FR 707 (5 Jan 2010). Section 4.3 is the sole executive-branch authority for creating a special access program.",
+   "sources": [
+    {
+     "name": "Executive Order 13526, Classified National Security Information, 29 Dec 2009 \u2014 full text as published, 75 FR 707",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+     "date": "2010-01-05"
+    },
+    {
+     "name": "E.O. 13526 (ISOO / National Archives policy documents page)",
+     "url": "https://www.archives.gov/isoo/policy-documents/cnsi-eo.html",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(a) verbatim: 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program. For special access programs pertaining to intelligence sources, methods, and activities (but not including military operational, strategic, and tactical programs), this function shall be exercised by the Director of National Intelligence. These officials shall keep the number of these programs at an absolute minimum, and shall establish them only when the program is required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient to protect the information from unauthorized disclosure.'",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(b)(1)-(2) verbatim: 'Special access programs shall be limited to programs in which the number of persons who ordinarily will have access will be reasonably small and commensurate with the objective of providing enhanced protection for the information involved. ... Each agency head shall establish and maintain a system of accounting for special access programs consistent with directives issued pursuant to this order.'",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "THE ISOO ACCESS CAP. Sec. 4.3(b)(3) verbatim: 'Special access programs shall be subject to the oversight program established under section 5.4(d) of this order. In addition, the Director of the Information Security Oversight Office shall be afforded access to these programs, in accordance with the security requirements of each program, in order to perform the functions assigned to the Information Security Oversight Office under this order. An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The executive-branch oversight body for the entire classification system can lawfully be reduced to a single individual for the most sensitive SAPs.",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(b)(4)-(5) verbatim: 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order. ... Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.' Note the National Security Advisor briefing is on request only, not automatic.",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(b)(6) verbatim: \"For the purposes of this section, the term ``agency head'' refers only to the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each.\" SAP creation authority cannot be delegated below the deputy-secretary level.",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(c) verbatim, in its entirety: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.' The executive order expressly subordinates itself to the statutory SAP oversight scheme, including the section 119(e) waiver.",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 6.1(oo) verbatim: \"``Special access program'' means a program established for a specific class of classified information that imposes safeguarding and access requirements that exceed those normally required for information at the same classification level.\"",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 1.7(a) verbatim: 'In no case shall information be classified, continue to be maintained as classified, or fail to be declassified in order to: (1) conceal violations of law, inefficiency, or administrative error; (2) prevent embarrassment to a person, organization, or agency; (3) restrain competition; or (4) prevent or delay the release of information that does not require protection in the interest of the national security.' Sec. 1.7(b): 'Basic scientific research information not clearly related to the national security shall not be classified.'",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Sec. 1.7(a)(1) and 1.7(b) are the two provisions a whistleblower alleging an illegally concealed recovery program would invoke: (a)(1) makes classification to conceal a violation of law impermissible on its face, and (b) makes classification of basic scientific research not clearly related to national security impermissible. Neither carries an enforcement mechanism inside the order; the only remedy channel is the sec. 5.3 ISCAP / agency appeal process or the intelligence-community whistleblower statutes. Reasoning stated from the text.",
+     "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    }
+   ]
+  },
+  {
+   "id": "cfr-32-117",
+   "cls": "legislation",
+   "label": "32 CFR Part 117 \u2014 NISPOM Rule",
+   "cluster": "legal-architecture",
+   "sub": "regulation",
+   "desc": "The National Industrial Security Program Operating Manual converted from a DoD manual into a binding federal regulation, effective 24 February 2021. Governs classified work at contractor facilities and contains the DCSA carve-out.",
+   "sources": [
+    {
+     "name": "32 CFR Part 117 \u2014 NISPOM Rule, current text (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR 117.6 Responsibilities (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR 117.23 Supplement \u2014 ACCM, SAPs, SCI, RD, FRD, TFNI, NNPI (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR 117.3 Acronyms and Definitions (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) \u2014 canonical citation https://www.ecfr.gov/current/title-32/part-117",
+     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "THE CONTRACTOR CARVE-OUT, in regulation. 32 CFR 117.6(b) (responsibilities of the Director, DCSA) verbatim: 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \"DoD SAP Policy\".' The preceding sentence establishes what is being relieved: DCSA 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD.'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    },
+    {
+     "tier": 1,
+     "text": "The carve-out is therefore not a classification device but an INSPECTION device: it removes the one federal agency that would otherwise physically visit, inspect, and record a cleared contractor facility performing the classified work. Nothing else in Part 117 substitutes an alternative external inspector; oversight reverts inside the SAP's own chain.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117.3(b) defines ACCM verbatim: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.' ACCM is thus a SAP-like access control that by definition sits outside the SAP reporting statutes.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117.3(b) defines SAP verbatim: 'Special access program (SAP) means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117.23 is titled 'Supplement to this rule: Security Requirements for Alternative Compensatory Control Measures (ACCM), Special Access Programs (SAPs), Sensitive Compartmented Information (SCI), Restricted Data (RD), Formerly Restricted Data (FRD), Transclassified Foreign Nuclear Information (TFNI), and Naval Nuclear Propulsion Information (NNPI).' 117.23(a)(1) verbatim: 'The contractor will comply with the security measures reflected in this section and other documents specifically referenced, when applied by the GCA or designee as part of a contract. Acceptance of the contract security measures is a prerequisite to any negotiations leading to program participation and an area accreditation (e.g., an SCI facility or SAP facility accreditation).'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117.6(b) cites, as the controlling authority for the carve-out, the pre-2024 version of DoDD 5205.07 at the URL https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf?ver=2020-02-04-142942-827 \u2014 i.e. the 1 July 2010 directive as amended. The regulation has not been updated to cite the 12 September 2024 reissuance.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    }
+   ]
+  },
+  {
+   "id": "carve-out",
+   "cls": "program",
+   "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
+   "cluster": "legal-architecture",
+   "sub": "mechanism",
+   "sources": [
+    {
+     "name": "32 CFR 117.6 Responsibilities (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', effective 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) \u2014 canonical citation https://www.ecfr.gov/current/title-32/part-117",
+     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 (12 Sep 2024) glossary defines it: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The regulatory counterpart, 32 CFR 117.6(b): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    },
+    {
+     "tier": 1,
+     "text": "MAJOR CHANGE, 2024. DoDI 5205.11 para 1.2.i.: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' The 2024 policy therefore schedules a blanket, enterprise-wide withdrawal of DCSA from DoD SAP industrial security by July 2029, rather than a case-by-case carve-out.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "A programmed phase-out of DCSA oversight across the DoD SAP enterprise by July 2029 converts the carve-out from an exception requiring SecDef/DepSecDef signature into the default state. If accurate, after that date no independent DoD agency holds a routine inspection right at SAP contractor facilities, and the record of which facilities host which programs stops accumulating in DCSA's system. Reasoning stated from 1.2.i.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dodd-5205-07-2024",
+   "cls": "document",
+   "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
+   "cluster": "legal-architecture",
+   "sub": "dod-issuance",
+   "desc": "Reissuance signed by Deputy Secretary of Defense Kathleen H. Hicks; cleared for public release.",
+   "sources": [
+    {
+     "name": "DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Header block: DoD Directive 5205.07, 'Special Access Program Policy'; effective September 12, 2024; releasability 'Cleared for public release'; 'Reissues and Cancels: DoD Directive 5205.07, July 1, 2010, as amended'; approved by Kathleen H. Hicks, Deputy Secretary of Defense.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Policy para 1.2 verbatim in part: 'The DoD will establish and apply SAP security protection to classified national security information in accordance with E.O. 13526; Part 2001 of Title 32, Code of Federal Regulations; DoD Instruction (DoDI) 5200.01; and DoD Manual 5200.01.' Also: 'The DoD will have SAP oversight authorities (OAs) to oversee SAPs for which the OA has responsibility.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The directive places the Director, DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' and requires the position be filled by 'a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise.' The Deputy Secretary of Defense chairs the SAPOC.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "CONTRACTOR SPEECH RESTRICTION. The directive states that no DoD contractor entity 'will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval.' The Director, DoD SAPCO is designated the primary point of contact for congressional SAP matters and 'Maintains records of DoD SAP information provided to Congress.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "NEGATIVE FINDING WITH CONSEQUENCE. A full-text pass of the 12 September 2024 directive found no occurrence of the terms 'carve-out', 'waived', 'unacknowledged', 'notification', or '10 U.S.C. 119'. The 2024 reissuance moved every operative concealment mechanism out of the public-release Directive and into the companion Instruction, DoDI 5205.11 \u2014 which remains public but is the document one must know to ask for.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dodi-5205-11",
+   "cls": "document",
+   "label": "DoDI 5205.11 \u2014 Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "cluster": "legal-architecture",
+   "sub": "dod-issuance",
+   "desc": "Reissues DoDI 5205.11 of 6 February 2013 as amended, and incorporates and cancels the Deputy Secretary of Defense Memorandum on IJSTO Policy of 5 April 2021. Signed by Kathleen H. Hicks. This is the document that defines 'waived' and 'carve out'.",
+   "sources": [
+    {
+     "name": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs', effective 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Header: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs'; effective September 12, 2024; reissues and cancels DoDI 5205.11, February 6, 2013, as amended; also incorporates and cancels the Deputy Secretary of Defense Memorandum, 'Integrated Joint Special Technical Operations (IJSTO) Policy', April 5, 2021; approved by Kathleen H. Hicks, Deputy Secretary of Defense.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "WHAT MAKES A PROGRAM WAIVED, in DoD's own words. Para 1.2.f.: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' The waiver therefore attaches only to programs that are ALREADY unacknowledged; waived is a subset of unacknowledged, not a parallel category.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Glossary definitions verbatim: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "WHO GETS TOLD. Para 7.2.a.(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs.' Para 7.2.b.: 'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee's SAP oversight jurisdiction, except for waived programs.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 7.2.f. verbatim: 'The personal staff of a member of Congress will not be granted access to DoD SAPs.' Non-committee members and staff may be granted access only to NON-waived SAPs, and only 'by the Director, DoD SAPCO following consultation with the respective chamber' (7.2.d.). Senate and House leadership may each nominate one professional staff member for access to all DoD SAPs (7.2.e.).",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "BUDGET PAPER TRAIL. Para 7.2.h. (congressional budget justification materials): waived program justification material goes only to committee staff directors, not to the committees as bodies.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "GAO ACCESS IS GATED. Para 7.2.g.: authorized access approval authorities may grant SAP access to GAO staff for specific projects only after the Director, DoD SAPCO consults with the chairman and ranking defense committee members. Congress's own audit arm cannot reach a DoD SAP without the audited department's SAPCO first clearing it with four members.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 7.1.: 'All DoD employees accessed to DoD SAPs will coordinate with and notify the DoD and OA SAPCOs through the CA SAPCO when intending to brief or provide DoD SAP material to any appropriately accessed members of Congress or professional staff member.' A cleared DoD employee cannot lawfully brief even an accessed member of Congress without first routing notice through the SAP's own control office.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "PERIODIC REVIEW OF WAIVED STATUS EXISTS. Para 3.5.a.(3)(d) makes the SAPOC annual review cover 'All waived DoD SAPs to determine the need for continued waived status,' as part of the 3.5.a.(3) mandate to 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "TIER ARCHITECTURE. DoDI 5205.11 establishes a tiered SAP structure: umbrellas at tier 1, compartments at tier 2, sub-compartments at tier 3 and below; only the Secretary or Deputy Secretary of Defense may alter tier 1 structures. It distinguishes 'structural SAP: A SAP that provides organization to the architecture and does not protect discrete CPI' from 'content SAP: A SAP that protects discrete CPI.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "The structural/content distinction is load-bearing for any search of SAP nomenclature: a structural SAP is a container with a codeword and no content of its own, so a program name appearing in budget or security documentation may correspond to no discrete body of protected information at all. Conversely, discrete CPI can be moved between compartments under an unchanged tier-1 umbrella name without any tier-1 action reaching the Secretary. Reasoning stated from the 1.2 tier description.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 4.1.a.(2): 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required documentation \u2014 establishing an internal 45-day paper deadline for new SAP projects, distinct from the statutory 30-day congressional pre-initiation notice under 10 U.S.C. 119(f).",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 5.1.e.(1): 'The use of a polygraph examination as a mandatory access determination requirement must be approved by the Secretary of Defense.' Mandatory-polygraph SAP access is a Secretary-level decision, which makes the presence of a polygraph requirement a marker of a program that reached the top of the department.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dodd-5205-07-2010",
+   "cls": "document",
+   "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+   "cluster": "legal-architecture",
+   "sub": "dod-issuance",
+   "desc": "The directive in force from 2010 until 12 Sep 2024, and still the version cited by 32 CFR 117.6 as the authority for the carve-out. It cancelled DoDD 5205.07 of 5 January 2006. Contains the explicit waived-SAP, unacknowledged-SAP and carve-out language that the 2024 reissuance dropped.",
+   "sources": [
+    {
+     "name": "DoDD 5205.07, 'Special Access Program (SAP) Policy', 1 July 2010, Incorporating Change 2, 4 February 2020 (Internet Archive capture of esd.whs.mil, 22 Mar 2022)",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    },
+    {
+     "name": "32 CFR 117.6 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Header: 'Department of Defense DIRECTIVE NUMBER 5205.07, July 1, 2010, Incorporating Change 2, February 4, 2020, DoD SAPCO. SUBJECT: Special Access Program (SAP) Policy.' Enclosure 1 reference (a) records that it 'Reissues DoD Directive 5205.07, \"Special Access Program (SAP) Policy,\" January 5, 2006 (hereby cancelled).' Releasability: 'Cleared for public release.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "GLOSSARY, verbatim: 'acknowledged SAP. A SAP whose existence is acknowledged but its specific details (technologies, materials, techniques, etc.) are classified as specified in the applicable security classification guide.' -- 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.' -- 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' Reference (c) is 'Section 119 of title 10, United States Code.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "GLOSSARY, verbatim: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program obligation to perform industrial security oversight functions for a DoD SAP.' And 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "THE WAIVER, restated in policy. Enclosure 2, para 5: 'When the Secretary of Defense determines that national security would be adversely affected if SAP data is reported to Congress using standard processes, he or she may designate select unacknowledged SAPs as waived in accordance with Reference (c).'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "THE CARVE-OUT REQUEST PATH. Enclosure 2, para 7: 'A CA may seek DepSecDef approval to relieve the Defense Security Service (DSS) of its SAP security oversight role and use DoD Component procedures instead for oversight, security review, and SAP automated information system (IS) accreditation for designated SAPs. DoD Component-designated procedures shall, at a minimum, meet the standards and frequency authorized by DoD 5220.22-M.' The requesting party is the cognizant authority for the program itself -- i.e. the program asks to be relieved of its own external inspector, and the Deputy Secretary decides.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "CONGRESS KEEPS NOTHING. Para 4.h verbatim: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' A briefed chairman therefore retains no document, no notes in committee custody, and no institutional memory once he leaves the chair.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 4.f verbatim: 'Members of Congress assigned to designated defense and intelligence committees shall be authorized access to DoD SAPs within the respective committee's SAP oversight role, except for waived programs pursuant to Reference (c). Unless approved by the Secretary or Deputy Secretary of Defense, only the chair, the ranking minority member, and the staff directors of the defense and intelligence committees shall be authorized access to waived SAPs within their committee's respective SAP oversight role.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Para 4.e verbatim: 'All personnel accessed to DoD SAPs shall notify the Director, DoD SAPCO, in a timely fashion, when briefing or providing DoD SAP material to any members of Congress or congressional staff. No DoD contractor entity, contractor employee, contractor representative, or consultant shall provide SAP material to any members of Congress or congressional staff without Director, DoD SAPCO, approval.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Enclosure 4, para 8: GAO personnel are granted SAP access only if 'The Director, DoD SAPCO, concurs after consultation with the chair and ranking minority member of a defense or intelligence committee' and the nominee holds the appropriate clearance. Enclosure 4, para 6: 'Personal staff shall not be granted access to DoD SAPs.' Enclosure 4, para 7 sets the annual 1 March date for DoD SAPCO to refresh professional staff access status.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Enclosure 3 (Access Approval Authority table), Note 3: 'DoD SAPCO shall coordinate on DD Forms 2835, \"Program Access Request,\" (PARs) for judicial and other Federal agency personnel for waived programs.' Note 4: 'Director, DoD SAPCO, shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' The AAA for the Legislative Branch is the Deputy Secretary of Defense. Judges, White House staff, NSC staff and political appointees therefore reach a waived SAP only through a DoD office that reports to the Deputy Secretary.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Enclosure 2, para 10: 'Prior to gaining access and during a period of access to DoD SAPs, all personnel shall consent to, and be subject to, a random CI-scope polygraph examination. CI-scope polygraph examinations shall not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements shall be granted only by the Secretary or Deputy Secretary of Defense.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Enclosure 2, para 8: 'The Director, DoD SAPCO, shall annually request DepSecDef approval of the billet structure that assigns individual access by organization and duty position to the entire suite of DoD SAPs.' A single annual document approved by the Deputy Secretary enumerates every access billet across the whole DoD SAP enterprise.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "Comparing the 2010 directive with its 12 Sep 2024 successor: 'waived', 'unacknowledged', 'carve-out' and the Enclosure 4 congressional-access procedures all appear in the 2010 public text and none appear in the 2024 public Directive; they now live in DoDI 5205.11. The concealment architecture was not abolished, it was relocated one document down the issuance hierarchy. Reasoning stated from full-text comparison of both PDFs.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dodm-5205-07-series",
+   "cls": "document",
+   "label": "DoDM 5205.07 \u2014 DoD SAP Security Manual (Volumes 1-4)",
+   "cluster": "legal-architecture",
+   "sub": "dod-issuance",
+   "desc": "Four-volume manual implementing DoDD 5205.07 and DoDI 5205.11 under the authority of DoDD 5143.01. Vol 1 General Procedures (18 Jun 2015); Vol 2 Personnel Security (24 Nov 2015); Vol 3 Physical Security (23 Apr 2015); Vol 4 Marking (10 Oct 2013). All four are unclassified and cleared for public release.",
+   "sources": [
+    {
+     "name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 1, General Procedures, Incorporating Change 2, effective 30 September 2020 (Internet Archive capture, 18 Oct 2020)",
+     "url": "https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf",
+     "date": "2020-09-30"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 2, 'SAP Security Manual: Personnel Security', 24 Nov 2015, Incorporating Change 2, effective 30 Oct 2020 (Internet Archive capture, 5 Mar 2025)",
+     "url": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf",
+     "date": "2020-10-30"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 3, 'DoD SAP Security Manual: Physical Security', 23 April 2015, Incorporating Change 2, effective 12 Feb 2018 (Internet Archive capture, 21 Oct 2020)",
+     "url": "https://web.archive.org/web/20201021110139/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol3.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+     "date": "2020-09-08"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Volume 1: 'MANUAL NUMBER 5205.07, Volume 1, June 18, 2015, Incorporating Change 1, Effective February 12, 2018, USD(I). SUBJECT: DoD Special Access Program (SAP) Security Manual: General Procedures.' A later Change 2 is effective 30 September 2020 under USD(I&S). Vol 1 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Volume 2: 'MANUAL NUMBER 5205.07, Volume 2, November 24, 2015, Incorporating Change 2, Effective October 30, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Personnel Security.' Volume 3: 'MANUAL NUMBER 5205.07, Volume 3, April 23, 2015, Incorporating Change 2, Effective February 12, 2018. SUBJECT: DoD Special Access Program (SAP) Security Manual: Physical Security.' Volume 4: 'MANUAL NUMBER 5205.07, Volume 4, October 10, 2013, Incorporating Change 2, Effective September 8, 2020, USD(I&S). SUBJECT: Special Access Program (SAP) Security Manual: Marking.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+    },
+    {
+     "tier": 1,
+     "text": "THE CARVE-OUT'S OPERATIONAL CONTENT. DoDM 5205.07 Vol 1, Enclosure 2, para 2 (Director, DSS): 'Unless a carve-out provision is approved by the Secretary of Defense or the Deputy Secretary of Defense: (1) Performs SAP security inspections at cleared defense contractor locations in accordance with this volume, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs) and the introduction of guest systems in contractor SAP facilities (SAPFs). (3) Coordinates with the designated counterintelligence (CI) component to provide cross-sharing of threat and incident information affecting the security of the facility or its defense information or cleared personnel.' A carve-out removes all three functions at once: physical inspection, IT accreditation, and CI information sharing.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 1 glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight functions for a DoD SAP.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Vol 1 states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out and conducted jointly to the greatest extent possible' -- confirming that when a SAP IS carved out, the only remaining inspection is the program's own self-inspection plus SAPCO-internal compliance inspection.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "WHISTLEBLOWING IS ROUTED BACK INSIDE. Vol 1, Enclosure 4, para 3: 'Government and industry FWAC SAP reporting involving SAP information will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information. b. The PSO will provide the telephone number for the current FWAC hotline for reporting SAP information. FWAC reporting information will be conspicuously posted in the SAP workspace. c. Employees do not need management approval before making reports.' Fraud, waste, abuse and corruption inside a SAP may not be reported through the ordinary DoD IG hotline; it must go through a SAP-channel hotline whose number is issued by the program's own security officer.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Vol 1, Enclosure 4, para 4: 'The CUA documents areas of authorities and responsibilities between cognizant security offices (CSOs) when they share the same SAPF. ... The first CSO in an area, unless otherwise agreed upon, will be considered the host CSO responsible for all security oversight.' And, critically: 'For CUAs, the responsible organization will be identified for executing security cognizance with a carved-out SAP.' Multiple SAPs -- including carved-out ones -- can lawfully co-occupy one accredited facility under a written host/tenant agreement.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Vol 1, Enclosure 4, para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' There is an explicit, standing policy channel for patents arising inside special access programs, delegated to each cognizant-authority SAP central office.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Vol 1, Enclosure 4, para 8 (Arms Control and Treaties): 'DoD SAPs will be protected against unnecessary or inadvertent exposure during USG participation in authorized verification activities, confidence-building measures, and overflights.' Para 9 (Litigation and Public Proceedings): 'Threatened or actual litigation, administrative investigations or inquiries, or public proceedings at the international, federal, State, tribal, or local levels that may involve a SAP will be reported to CA SAPCO.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Vol 1 physical-security/visitor rules acknowledge the existence of undisclosed sites in operative text: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 2, para 5 (Polygraphs): 'The Deputy Secretary of Defense is the approval authority for the use of polygraph examination as a mandatory access determination requirement; the requirement must be consistently applied to all candidates in accordance with DoDI 5210.91. CI-Scope polygraph examination must not be used as the only basis for granting access to DoD SAPs. Exceptions to these requirements will only be granted by the Deputy Secretary of Defense. ... CI polygraph examinations are considered current when administered within the past 5 years.' Para 6 provides that 'CA SAPCOs may establish or authorize SAP billet structures or access quotas that assign individual access by organization and duty position to SAPs under their cognizance.'",
+     "source": "https://web.archive.org/web/20250305140253/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dodm-5205-07-v1",
+   "cls": "document",
+   "label": "DoDM 5205.07 Volume 1 \u2014 DoD SAP Security Manual: General Procedures",
+   "cluster": "legal-architecture",
+   "sub": "dod-issuance",
+   "desc": "18 June 2015, Change 1 effective 12 Feb 2018, Change 2 effective 30 Sep 2020. The volume that carries the carve-out's operational content, the FWAC reporting restriction, the co-utilization agreement, and the patents provision.",
+   "sources": [
+    {
+     "name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 1, General Procedures, Incorporating Change 2, effective 30 September 2020 (Internet Archive capture, 18 Oct 2020)",
+     "url": "https://web.archive.org/web/20201018165753/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol01.pdf",
+     "date": "2020-09-30"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Recovered in full from Internet Archive captures of esd.whs.mil: the 18 Jun 2015 / Change 1 (12 Feb 2018) text at web.archive.org/web/20191018064106/, and the Change 2 (effective 30 Sep 2020) text at web.archive.org/web/20201018165753/ under the filename 520507_vol01.pdf. Both are 49-page unclassified PDFs cleared for public release. The 520507_vol1.pdf and 520507_vol01.pdf paths now return 404 on the live esd.whs.mil site.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Purpose para 1.b.(1): the volume 'Assigns responsibilities, implements policy established in DoD Instruction (DoDI) 5205.11, and describes the general procedures for the administration of DoD SAP security,' and (2) 'Incorporates and cancels Revision 1 Department of Defense Overprint to the National Industrial Security Program (NISP) Operating Manual Supplement.' The 'NISPOM Supplement Overprint' -- the historic classified-annex mechanism for SAP industrial security -- was folded into this public manual in 2015.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Enclosure 2, para 3 assigns the Director, DoD SAPCO -- 'Under the authority, direction, and control of the Deputy Secretary of Defense' -- the roles of 'DoD designated proponent for developing and implementing policies and procedures for DoD SAP execution, management, and administration' and 'DoD single point of Congressional liaison concerning SAPs.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "icd-906",
+   "cls": "document",
+   "label": "ICD 906 \u2014 Controlled Access Programs (ODNI)",
+   "cluster": "legal-architecture",
+   "sub": "ic-directive",
+   "desc": "The Intelligence Community's counterpart to DoDD 5205.07. Current version (PDF created 19 Dec 2024, first archived 12 Jan 2025) supersedes ICD 906 signed 17 October 2015. Establishes CAPs, the CAPOC, the SRG, and the ODNI CAPCO.",
+   "sources": [
+    {
+     "name": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) \u2014 Internet Archive capture of dni.gov, 12 Jan 2025",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    },
+    {
+     "name": "ICD 906, 'Controlled Access Programs', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)",
+     "url": "https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf",
+     "date": "2015-10-17"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Purpose, verbatim: 'This Intelligence Community Directive (ICD) establishes the oversight and management of Intelligence Community (IC) special access programs pursuant to EO 13526, Section 4.3, or any successor document, referred to within the IC as Controlled Access Programs (CAPs). 2. This ICD supersedes ICD 906, Controlled Access Programs, signed 17 October 2015.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "JURISDICTIONAL FENCE. Applicability C.3, verbatim: 'This Directive does not apply to special access programs established pursuant to EO 13526, Section 4.3, or any successor document by the Secretaries of State, Defense, Energy, or Homeland Security or by the Attorney General, or their principal deputies. Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.' C.2 adds that the DNI 'may establish CAPs pertaining to intelligence sources, methods, and activities but does not have authority to establish military operational, strategic, or tactical programs.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "IC UNACKNOWLEDGED PROGRAMS. Policy D.3, verbatim: 'unacknowledged CAPs may be established only where knowledge of the existence of a program would reveal aspects of its protected information, and when there is no other means to protect information about programs at the collateral classification level, or when required by statute. Unacknowledged CAPs may be established only with the approval of the DNI or PDDNI.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Policy D.2: 'Only the DNI or the Principal Deputy Director of National Intelligence (PDDNI) have the authority to establish, validate, modify, or terminate CAPs. For the purpose of this Directive, CAPs are defined as a top-level control system (such as Special Intelligence, Talent Keyhole, Human Intelligence Control System), and any compartment or sub-compartment under a control system within the IC.' D.2.a: 'There shall not be any levels beyond the sub-compartment levels, unless the DNI or PDDNI determine or approve otherwise.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "THE DISCOVERABILITY EXEMPTION. Policy D.5: 'Intelligence and intelligence-related information within all CAPs shall be discoverable or exempted from discovery consistent with the processes outlined in ICD 501 ... Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.' E.1.b lets the DNI or PDDNI 'Establish unacknowledged CAPs and/or approve non-discoverability of CAPs if a compelling case can be made that any agreed upon approach to discoverability would reveal a capability, a decision, or a fragile source, and the information contained in the compartment is so narrowly tailored, it is unlikely to be of use to officers who do not already have access to the compartment.' A CAP can thus be made invisible to the IC's own internal information-discovery system.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "SCATTERED CASTLES IS THE REGISTRY -- AND HAS AN EXEMPTION. Policy D.6: 'All CAPs shall be recorded, and individual accesses to those CAPs shall be included, in the authoritative repository, Scattered Castles, or its successor system ... Any exemption from this requirement shall be approved only by the DNI or PDDNI, and reviewed and validated at least annually.' D.6.a permits access to be 'further limited by billets ... or by name or position (BYNOP).'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Policy D.7 establishes the CAP Oversight Committee (CAPOC), chaired by the PDDNI or designee, whose Chair 'shall be responsible for CAP oversight and the management of CAPs, to include all unacknowledged CAPs.' D.8 establishes a Senior Review Group (SRG) that reviews 'all CAPs, including unacknowledged CAPs' at least annually.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Policy D.9 makes the Director of the ODNI Controlled Access Program Central Office (CAPCO) 'the accountable official responsible for the implementation of this policy'; CAPCO shall 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments ... and manage all compartment and sub compartment names, codenames, and any other pertinent information' and 'Be responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.' ISOO's access to IC CAPs is routed through CAPCO.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "ANNUAL RE-JUSTIFICATION OF UNACKNOWLEDGED STATUS. Policy D.10.e.(1): 'For unacknowledged CAPs, IC elements shall include in their annual review submission, a justification for why each such CAP still meets the requirements to be unacknowledged.' D.10.b: 'Any new CAPs not submitted, and approved, will be terminated.' D.10.e: 'CAPs not re-validated shall be terminated and the protected information shall be de-compartmented or protected by a validated CAP.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "RECORDS OFFICER REQUIREMENT. D.9.d and D.10.g: IC elements and CAPCO must 'Ensure all records pertaining to CAPs are maintained, and ensure that at least one records official is cleared to all CAP information in accordance with EO 13526.' There must exist at least one cleared records official with visibility into every CAP.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "The ICD 906 architecture is materially tighter than the DoD SAP architecture on exactly the axis that matters for concealment: unacknowledged CAPs must be re-justified in writing every year, non-discoverability requires an annually re-validated DNI exemption, and unsubmitted programs are terminated by default. The DoD side has an annual SAPOC review of waived status (DoDI 5205.11 3.5.a.(3)(d)) but no default-termination rule and no equivalent single authoritative access registry. Reasoning stated by comparison of the two texts.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    }
+   ]
+  },
+  {
+   "id": "odni-capco",
+   "cls": "institution",
+   "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
+   "cluster": "legal-architecture",
+   "sub": "oversight-body",
+   "sources": [
+    {
+     "name": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) \u2014 Internet Archive capture of dni.gov, 12 Jan 2025",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "ICD 906 D.9 names 'The Director of the ODNI Controlled Access Program Central Office (CAPCO)' as 'the accountable official responsible for the implementation of this policy and for issuing IC Standards (ICS), consistent with ICPG 101.2.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "CAPCO duties per ICD 906 E.4: serve as central point of contact for all CAP requirements; 'Maintain the CAP Registry, a list of all control systems, including all compartments and sub-compartments'; 'Deconflict all IC CAPs or all other programs'; issue IC Standards; coordinate CAP-related engagements including congressional briefings, ISOO requests, and the NSC; and ensure at least one records official is cleared to all CAPs.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    }
+   ]
+  },
+  {
+   "id": "capco-register",
+   "cls": "document",
+   "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
+   "cluster": "legal-architecture",
+   "sub": "registry",
+   "sources": [
+    {
+     "name": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) \u2014 Internet Archive capture of dni.gov, 12 Jan 2025",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The registry is mandated by ICD 906 D.9.b: CAPCO shall 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments. ODNI CAPCO shall also ensure deconfliction or all other programs, and manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "A single ODNI office holds an authoritative, complete list of every IC compartment and sub-compartment codename, including unacknowledged ones, and is charged with deconflicting them against 'all other programs' -- which necessarily means CAPCO has visibility across the DoD/IC boundary. That register, not any congressional document, is the closest thing to a master index of the classified compartment space. Reasoning stated from D.9.b.",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3091a",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3091a \u2014 Congressional Oversight of Controlled Access Programs",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "desc": "Added as sec. 501A of the National Security Act of 1947 by Pub. L. 117-103, div. X (Intelligence Authorization Act for FY2022), title V, sec. 504, 15 March 2022, 136 Stat. 986. The single most significant post-2020 change to SAP-family oversight law \u2014 and it contains no waiver provision.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091a \u2014 Congressional oversight of controlled access programs (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Source credit, verbatim: '(July 26, 1947, ch. 343, title V, Sec. 501A, as added Pub. L. 117-103, div. X, title V, Sec. 504, Mar. 15, 2022, 136 Stat. 986.)' -- i.e. enacted in the Intelligence Authorization Act for FY2022 carried in the Consolidated Appropriations Act, 2022.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(a)(1) verbatim: 'Not less frequently than semiannually or upon request by one of the appropriate congressional committees or a member of congressional leadership, the Director of National Intelligence shall provide to such committees and congressional leadership a briefing on each controlled access program in effect.' There is no exception for unacknowledged CAPs.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(b) verbatim: 'A head of an element of the intelligence community may not establish a controlled access program, or a compartment or subcompartment therein, until the head notifies the appropriate congressional committees and congressional leadership of such controlled access program, compartment, or subcompartment, as the case may be.' The notification duty reaches down to the sub-compartment level.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(c)(2)(A)-(B): each annual report must include 'A list of all compartments and subcompartments of controlled access programs active as of the date of the report' and 'A list of all compartments and subcompartments of controlled access programs terminated during the period covered by the report.' (c)(2)(C) requires the DNI additionally to certify that the creation, validation or substantial modification of every existing and proposed CAP 'are substantiated and justified', with the rationale, an identified control officer, and a statement of protection requirements for each.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "NO WAIVER. 50 U.S.C. 3091a contains no subsection permitting the DNI or an IC element head to waive, defer, or narrow the briefing, notification, or reporting duties, and no reduction of the audience to chairs and ranking members. This is the structural opposite of 10 U.S.C. 119(e).",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(d)(1)-(2) define 'appropriate congressional committees' as the congressional intelligence committees plus both Appropriations Committees, and 'congressional leadership' as the Senate majority and minority leaders and the Speaker and minority leader of the House -- i.e. a statutory Gang-of-Eight-shaped audience that is a floor, not a ceiling.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(d)(3) verbatim: \"The term 'controlled access program' means a program created or managed pursuant to Intelligence Community Directive 906, or successor directive.\" The GPO 'References in Text' note states: 'Intelligence Community Directive 906, referred to in subsec. (d)(3), is located at https://www.dni.gov/files/documents/ICD/ICD906.pdf.' Congress incorporated an executive-branch directive by reference and pointed at a URL, so the statutory scope of 'controlled access program' moves whenever ODNI reissues ICD 906.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Because 3091a(d)(3) defines its own subject matter by reference to ICD 906, and ICD 906 section C.3 expressly excludes DoD, State, Energy, DHS, DOJ and NSC covert-action programs, the strongest CAP oversight statute on the books cannot reach a program held on the DoD side of the line. Moving a program from IC cognizance to DoD cognizance moves it from a no-waiver statute to a waiver statute. Reasoning stated from 3091a(d)(3) and ICD 906 C.3.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3091",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3091 \u2014 General Congressional Oversight Provisions (NSA 1947 sec. 501)",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "(a)(1) verbatim: 'The President shall ensure that the congressional intelligence committees are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activity as required by this subchapter.' (a)(2): 'Nothing in this subchapter shall be construed as requiring the approval of the congressional intelligence committees as a condition precedent to the initiation of any significant anticipated intelligence activity.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm"
+    },
+    {
+     "tier": 1,
+     "text": "(b) verbatim: 'The President shall ensure that any illegal intelligence activity is reported promptly to the congressional intelligence committees, as well as any corrective action that has been taken or is planned in connection with such illegal activity.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091.htm"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-2426",
+   "cls": "legislation",
+   "label": "50 U.S.C. 2426 \u2014 Congressional Oversight of DOE/NNSA Special Access Programs",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "desc": "The third leg of the SAP reporting scheme, covering atomic-energy defense activities. Added by Pub. L. 106-65, div. C, title XXXII, sec. 3236, 5 Oct 1999, 113 Stat. 962.",
+   "sources": [
+    {
+     "name": "50 U.S. Code 2426 \u2014 Congressional oversight of special access programs (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/2426",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Title: 'Congressional oversight of special access programs.' Source credit: Pub. L. 106-65, div. C, title XXXII, sec. 3236, Oct. 5, 1999, 113 Stat. 962. Reports run from the NNSA Administrator to the congressional defense committees, annual report due 'Not later than February 1 of each year.'",
+     "source": "https://www.law.cornell.edu/uscode/text/50/2426"
+    },
+    {
+     "tier": 1,
+     "text": "The waiver mirrors 10 U.S.C. 119(e) exactly: 'The Administrator may waive any requirement under subsection (a), (b), or (c)' on a case-by-case adverse-national-security determination, after which the information and justification go 'jointly to the chairman and ranking minority member of each of the congressional defense committees.' A program may not be initiated until the defense committees are notified and 30 days elapse.",
+     "source": "https://www.law.cornell.edu/uscode/text/50/2426"
+    },
+    {
+     "tier": 3,
+     "text": "Two of the three SAP reporting statutes (10 U.S.C. 119 for DoD, 50 U.S.C. 2426 for NNSA) contain the eight-member waiver; the third (50 U.S.C. 3348) does not reduce the audience, and the newest (50 U.S.C. 3091a, IC) has no waiver at all. The waiver-to-four-committee-pairs mechanism therefore exists precisely and only where physical hardware programs and nuclear-adjacent research live. Reasoning stated by comparison of the four statutes.",
+     "source": "https://www.law.cornell.edu/uscode/text/50/2426"
+    }
+   ]
+  },
+  {
+   "id": "eo-12829",
+   "cls": "legislation",
+   "label": "Executive Order 12829 \u2014 National Industrial Security Program (6 Jan 1993)",
+   "cluster": "legal-architecture",
+   "sub": "executive-order",
+   "desc": "58 FR 3479. Created the NISP; the Secretary of Defense is Executive Agent and issues the NISPOM, now codified as 32 CFR Part 117.",
+   "sources": [
+    {
+     "name": "Executive Order 12829, National Industrial Security Program, 6 Jan 1993, 58 FR 3479 \u2014 reproduced in the notes to 50 U.S.C. 3161 (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/3161",
+     "date": "1993-01-06"
+    },
+    {
+     "name": "32 CFR 117.3 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Citation and date, verbatim from the notes to 50 U.S.C. 3161: 'Ex. Ord. No. 12829, Jan. 6, 1993, 58 F.R. 3479.' Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.'",
+     "source": "https://www.law.cornell.edu/uscode/text/50/3161"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117 is the current operative implementation of E.O. 12829: the NISPOM was converted from DoD 5220.22-M into a binding federal rule at 32 CFR Part 117. 32 CFR 117.6(b) is where the DoD SAP carve-out from that program is written down.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    }
+   ]
+  },
+  {
+   "id": "gao-04-332",
+   "cls": "document",
+   "label": "GAO-04-332 \u2014 Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
+   "cluster": "legal-architecture",
+   "sub": "gao-report",
+   "desc": "Issued 3 March 2004 in response to a Senate report accompanying the FY2004 NDAA.",
+   "sources": [
+    {
+     "name": "GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', 3 March 2004",
+     "url": "https://www.gao.gov/products/gao-04-332",
+     "date": "2004-03-03"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Exact title and number: GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', dated March 3, 2004. GAO states the study was conducted 'In response to a Senate report accompanying the National Defense Authorization Act for Fiscal Year 2004.'",
+     "source": "https://www.gao.gov/products/gao-04-332"
+    },
+    {
+     "tier": 1,
+     "text": "Scope figure: DSS 'monitors whether 11,000-plus contractor facilities' security programs meet NISP requirements.' GAO found DSS could not demonstrate that its oversight reduced the risk of compromise and issued seven recommendations, including establishing results-oriented performance goals, identifying information needed to detect systemic vulnerabilities, regular trend analysis, time-based criteria for compromise determinations and notifications, and accountability mechanisms for identifying the government customer.",
+     "source": "https://www.gao.gov/products/gao-04-332"
+    },
+    {
+     "tier": 3,
+     "text": "GAO-04-332 audited the very oversight function that the carve-out provision switches off. Its finding that DSS could not assure adequate oversight of the 11,000+ facilities it DID inspect is a floor, not a ceiling, for facilities where a SecDef/DepSecDef carve-out had removed DSS entirely -- those sites are outside the population GAO could even sample. Reasoning stated. GAO's own SAP access is separately gated by DoDI 5205.11 para 7.2.g.",
+     "source": "https://www.gao.gov/products/gao-04-332"
+    }
+   ]
+  },
+  {
+   "id": "defense-committees",
+   "cls": "institution",
+   "label": "The defense committees (10 U.S.C. 119(g))",
+   "cluster": "legal-architecture",
+   "sub": "congressional",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119(g) verbatim: 'In this section, the term \"defense committees\" means-- (1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Amendment history from the GPO text: 2001 -- Pub. L. 107-107 substituted 'Subcommittee on Defense' for 'National Security Subcommittee' in (g)(2); 1999 -- Pub. L. 106-65 substituted 'Committee on Armed Services' for 'Committee on National Security'; 1996 -- Pub. L. 104-106 sec. 1502(a)(4) replaced the two original paragraphs, which had read 'the Committees on Armed Services and Appropriations of the Senate and House of Representatives' and 'the Defense Subcommittees of the Committees on Appropriations of the Senate and House of Representatives.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Six committee/subcommittee units, each with a chairman and a ranking minority member, is the arithmetic behind the informal 'eight people' figure for a waived SAP -- but because the Appropriations Committee chair and the Defense Subcommittee chair are different individuals, the true ceiling under 119(e)(2) is twelve members, plus the staff directors added by DoD's own directive. Reasoning stated from 119(g) and DoDD 5205.07 (2010) para 4.f.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "pl-100-180",
+   "cls": "legislation",
+   "label": "Public Law 100-180 sec. 1132 \u2014 creation of SAP congressional oversight (4 Dec 1987)",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "GPO source credit for 10 U.S.C. 119: 'Added Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), Dec. 4, 1987, 101 Stat. 1151.' The waiver in subsection (e) was present in that original enactment and has never been amended.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Statutory note, 'Initial Reports on Special Access Programs': 'Pub. L. 100-180, div. A, title XI, sec. 1132(b), (c), Dec. 4, 1987, 101 Stat. 1152, required that the first report under subsec. (a) of this section set forth the amount that had been requested in the President's budget for each of the five previous fiscal years for special access programs of the Department of Defense and the amount appropriated for each such year for such programs, and required that the first report under subsec. (b) of this section cover existing special access programs.' Congress in 1987 expressly required a one-time backward-looking census of all EXISTING SAPs -- so a program in being before December 1987 was supposed to be captured, subject only to the section 119(e) waiver.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Subsection (f)'s 30-day pre-initiation bar was NOT in the 1987 enactment: the GPO amendment notes record 'Subsec. (f). Pub. L. 101-510, sec. 1482(a)(2), added subsec. (f)', effective 1 October 1991 per Pub. L. 101-510 sec. 1482(d). Between 4 Dec 1987 and 1 Oct 1991 there was no statutory waiting period before a DoD SAP could begin.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "sap-annual-report",
+   "cls": "document",
+   "label": "The annual DoD special access program report to Congress",
+   "cluster": "legal-architecture",
+   "sub": "report",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Required by 10 U.S.C. 119(a)(1) 'Not later than March 1 of each year'; contents fixed by (a)(2). The new-program notice under (b)(1) is due separately 'Not later than February 1 of each year'.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Production chain, DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c) [10 U.S.C. 119].' Every component's submission passes through a single office answering to the Deputy Secretary of Defense.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "CUSTODY. DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' The waived annex of the annual report never leaves the department.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "SUNSET. The GPO text of section 119 carries a 'Termination of Reporting Requirements' note: the requirements in subsecs. (a) and (b) to submit an annual report to Congress terminated effective December 31, 2021 under section 1061 of Pub. L. 114-328.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "sap-taxonomy",
+   "cls": "domain",
+   "label": "Acknowledged, unacknowledged and waived \u2014 the three states of a DoD SAP",
+   "cluster": "legal-architecture",
+   "sub": "taxonomy",
+   "sources": [
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 (2024) glossary: 'acknowledged SAP: A SAP whose existence is acknowledged, affirmed, or made known to others, but its specific details are classified.' 'unacknowledged SAP: A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged.' 'waived SAP: A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2010) glossary is more explicit on the nesting: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' And: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 para 1.2.f makes the nesting operative: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' Waived is a strict subset of unacknowledged; there is no such thing as a waived acknowledged SAP.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sap-cover-mechanisms",
+   "cls": "domain",
+   "label": "Cover mechanisms \u2014 HVSACO, nicknames, unacknowledged locations",
+   "cluster": "legal-architecture",
+   "sub": "tradecraft",
+   "sources": [
+    {
+     "name": "DoDM 5205.07 Vol 1 (18 Jun 2015, Chg 1 12 Feb 2018) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 1, Enclosure 5, para 1.a: 'The purposes of HVSACO are: (1) To preclude the disclosure of general program-related information outside established acknowledged and unacknowledged SAP channels. (2) To minimize OPSEC indicators. (3) To facilitate communication of information within SAPs.' Para 1.b: 'Dissemination of information warranting HVSACO protection will be limited to persons briefed into a SAP and retained within SAP approved channels.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "THE UNCLASSIFIED WITHHOLDING. DoDM 5205.07 Vol 1, Enclosure 5, para 1 lists when HVSACO is applied, including '(4) To protect information that does not warrant classification under Executive Order 13526' and '(5) When using a SAP nickname for an unacknowledged SAP.' HVSACO is therefore a control expressly designed to hold inside SAP channels material that does NOT meet the standard for classification. Para 1.c requires that on a public release request the originator review the material and either remove the HVSACO marking or 'Inform the requestor of the decision not to release the information, citing an appropriate authority.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 1 visitor-control rules: 'Federal Government-affiliated identification cards will not be used for positive identification in unacknowledged locations.' The manual's operative text presumes the existence of physical sites whose government affiliation is not disclosed.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "accm",
+   "cls": "program",
+   "label": "Alternative Compensatory Control Measures (ACCM)",
+   "cluster": "legal-architecture",
+   "sub": "mechanism",
+   "sources": [
+    {
+     "name": "32 CFR 117.3 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR 117.23 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) \u2014 canonical citation https://www.ecfr.gov/current/title-32/part-117",
+     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "32 CFR 117.3(b), verbatim: 'ACCM are security measures used by USG agencies to safeguard classified intelligence or operations when normal measures are insufficient to achieve strict need-to-know controls and where SAP controls are not required.'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+    },
+    {
+     "tier": 1,
+     "text": "32 CFR 117.23 places ACCM in the same 'Supplement to this rule' as SAPs, SCI, RD, FRD, TFNI and NNPI, and its heading names ACCM first. 117.23(a): 'Given the sensitive nature of Alternative Compensatory Control Measures (ACCM), SAPs, SCI, RD, FRD, TFNI, and NNPI, the security requirements prescribed in this section exceed baseline standards for this rule and must be applied, as applicable, through specific contract requirements.'",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23"
+    },
+    {
+     "tier": 3,
+     "text": "ACCM is the only member of that regulated set with no reporting statute attached: 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on the term 'special access program' or 'controlled access program', and the NISPOM rule's own definition places ACCM expressly 'where SAP controls are not required.' A capability protected by ACCM rather than SAP controls therefore triggers no congressional notice under any of the four statutes. Reasoning stated from the definition and the four statutes.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+    }
+   ]
+  },
+  {
+   "id": "four-regime-map",
+   "cls": "domain",
+   "label": "The four SAP reporting regimes and the seams between them",
+   "cluster": "legal-architecture",
+   "sub": "analysis",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 2426 (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/2426",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "50 U.S.C. 3348 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 3091a (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 3093 \u2014 Presidential approval and reporting of covert actions (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "ICD 906, Controlled Access Programs (current) \u2014 Internet Archive capture of dni.gov",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Four statutes, each with a different addressee. DoD: 10 U.S.C. 119 (defense committees; annual 1 Mar; waiver in (e) collapsing to chairman + ranking member). NNSA: 50 U.S.C. 2426 (congressional defense committees; annual 1 Feb; identical waiver). All other non-IC agencies: 50 U.S.C. 3348 (congressional oversight committees; annual 1 Feb; waiver that does NOT reduce the audience). IC: 50 U.S.C. 3091a (intelligence committees + both Appropriations + the four congressional leaders; semiannual briefings; no waiver at all).",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The seams are written into the statutes. 50 U.S.C. 3348(g)(2)(B) removes DoD, NNSA and every IC element from its own coverage. 50 U.S.C. 3091a(d)(3) defines its subject by reference to ICD 906. ICD 906 section C.3 in turn removes from its own coverage every SAP created by the Secretaries of State, Defense, Energy or Homeland Security or the Attorney General, and 'special access programs under the purview of the National Security Council, such as covert action.'",
+     "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "Composed, the four regimes leave two seams with no annual census obligation running to a full committee: (i) a DoD program under a 119(e) waiver, whose content goes only to chairs and ranking members and whose annual report requirement additionally sunset on 31 Dec 2021 under Pub. L. 114-328 sec. 1061; and (ii) anything protected by ACCM rather than SAP controls, which no statute names. Covert action under 50 U.S.C. 3093 is a third, separately governed channel. Reasoning stated from the four statutes plus 32 CFR 117.3.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3093",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3093 \u2014 Presidential Approval and Reporting of Covert Actions",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3093 \u2014 Presidential approval and reporting of covert actions (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Section 503 of the National Security Act of 1947. Subsection (c)(2) permits the President, on a determination that 'it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States,' to report a covert action finding only to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House, and the majority and minority leaders of the Senate -- the actual statutory Gang of Eight.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Subsection (c)(3) permits a finding not to be reported in advance at all in extraordinary circumstances, requiring only that the President thereafter report 'in a timely fashion' with 'a statement of the reasons for not giving prior notice.'",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+    }
+   ]
+  },
+  {
+   "id": "gang-of-eight",
+   "cls": "institution",
+   "label": "The Gang of Eight and the limited-notification convention",
+   "cluster": "legal-architecture",
+   "sub": "congressional",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3093 \u2014 Presidential approval and reporting of covert actions (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 3091a (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to 'the chairman and ranking minority member of each of the defense committees' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+    },
+    {
+     "tier": 1,
+     "text": "By contrast 50 U.S.C. 3091a(d)(2) writes an eight-person leadership set INTO the mandatory audience for every controlled access program: 'the majority leader of the Senate; the minority leader of the Senate; the Speaker of the House of Representatives; and the minority leader of the House of Representatives,' alongside the intelligence and appropriations committees. Here the eight is a floor added to committee notice, not a substitute for it.",
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+    }
+   ]
+  },
+  {
+   "id": "dcsa-nisp",
+   "cls": "institution",
+   "label": "DCSA as DoD Cognizant Security Office under the NISP",
+   "cluster": "legal-architecture",
+   "sub": "agency",
+   "sources": [
+    {
+     "name": "32 CFR 117.6 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "DoDM 5205.07 Vol 1 (18 Jun 2015, Chg 1 12 Feb 2018) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "32 CFR Part 117 full rendered text (eCFR API, verified retrieval 12 Aug 2026) \u2014 canonical citation https://www.ecfr.gov/current/title-32/part-117",
+     "url": "https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "32 CFR 117.6(b): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO', 'Administers the NISP as a separate program element on behalf of DoD GCAs and those agencies with agreements with DoD for security services', and 'Provides security oversight of the NISP as the DoD CSO on behalf of DoD components and those non-DoD executive branch agencies who enter into agreements with DoD' -- followed immediately by the carve-out sentence relieving the Director of that function for DoD SAPs on SecDef/DepSecDef approval.",
+     "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+    },
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 1, Enclosure 2, para 2.b (then DSS, now DCSA): 'Issues facility security clearances (FCLs) for defense contractors performing on all DoD classified contracts, to include contractors performing on DoD SAPs.' Facility clearance issuance is NOT carved out -- only inspection, IS authorization and CI cross-sharing are. A carved-out SAP contractor site still has a DCSA-issued FCL and therefore still exists in DCSA's facility records.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "Because the FCL function survives a carve-out (DoDM V1 Encl 2 para 2.b) while inspection does not, DCSA's facility clearance database remains the one government-wide index that lists a carved-out SAP contractor location as a cleared facility, even when no inspector may enter it. That makes FCL records a discovery surface that the carve-out does not close. Reasoning stated.",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "dod-sapco-arch",
+   "cls": "institution",
+   "label": "DoD Special Access Program Central Office (DoD SAPCO)",
+   "cluster": "legal-architecture",
+   "sub": "oversight-body",
+   "sources": [
+    {
+     "name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    },
+    {
+     "name": "DoDD 5205.07 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoDM 5205.07 Vol 1 (18 Jun 2015, Chg 1 12 Feb 2018) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    },
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2010) para 4.c: 'The DoD SAP Central Office (SAPCO), under the authority, direction, and control of the Deputy Secretary of Defense, is established and is the primary DoD liaison with agencies of the Executive Branch and the Congress on all issues relating to DoD SAPs ... The Director, DoD SAPCO, shall be a flag officer or Senior Executive Service equivalent appointed by the Deputy Secretary of Defense.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2024) restates it: the Director, DoD SAPCO, 'under the authority, direction, and control of the Deputy Secretary of Defense, will be a general officer, flag officer, or Senior Executive Service member or equivalent appointed to oversee day-to-day management of the SAP Enterprise,' serves as proponent for SAP policy, as Executive Secretary of the SAPOC and SRG, as Chair of the SSWG, and as 'primary point of contact for congressional matters', and 'Maintains records of DoD SAP information provided to Congress.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDM 5205.07 Vol 1, Enclosure 2, para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
+     "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2010) Enclosure 3, Note 2: 'The Director, DoD SAPCO, has AAA [access approval authority] for all SAPs unless expressly withheld by the Secretary or Deputy Secretary of Defense.' Note 4: the Director 'shall coordinate on PARs for the White House, National Security Council, and political appointees of the Executive Branch.' Note 3: the Director coordinates PARs 'for judicial and other Federal agency personnel for waived programs.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 3,
+     "text": "One office holds: single-point congressional liaison, custody of the record of what was told to Congress, access-approval authority for all SAPs, and the coordination point for White House, NSC, judicial and political-appointee access to waived programs. Every external route into a waived DoD SAP -- legislative, executive and judicial -- transits the same desk, which reports to the Deputy Secretary of Defense and to no one outside the Department. Reasoning stated from DoDD 5205.07 (2010) paras 4.c, 4.e and Enclosure 3 Notes 2-4.",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sapoc",
+   "cls": "institution",
+   "label": "Special Access Program Oversight Committee (SAPOC)",
+   "cluster": "legal-architecture",
+   "sub": "oversight-body",
+   "sources": [
+    {
+     "name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    },
+    {
+     "name": "DoDD 5205.07 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2010) para 4.b: 'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs, as provided in Enclosure 2.'",
+     "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2024) retains the SAPOC as the 'senior governing body' ensuring SAPs 'meet warfighter needs while protecting CPI', chaired by the Deputy Secretary of Defense with the Director, DoD SAPCO as Executive Secretary.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 para 3.5.a.(3): the SAPOC shall 'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07', and para 3.5.a.(3)(d) extends that review to 'All waived DoD SAPs to determine the need for continued waived status.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "srg-dod",
+   "cls": "institution",
+   "label": "Senior Review Group (DoD SAP governance)",
+   "cluster": "legal-architecture",
+   "sub": "oversight-body",
+   "sources": [
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoDD 5205.07 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2024) names the Director, DoD SAPCO as Executive Secretary of both the SAPOC and the SRG, placing the working-level review body under the same office that runs congressional liaison.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 (2024) governs SRG procedure; para 3.6.b: 'CA SAPCOs will submit proposed SAP governance actions to the Director' -- proposals to establish, modify or disestablish reach the Deputy Secretary only through the DoD SAPCO-chaired governance chain. Para 4.2.b: 'Proposals to disestablish SAP umbrellas will be submitted to the Deputy Secretary.'",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sswg",
+   "cls": "institution",
+   "label": "SAP Senior Working Group (SSWG)",
+   "cluster": "legal-architecture",
+   "sub": "oversight-body",
+   "sources": [
+    {
+     "name": "DoDD 5205.07 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    },
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DoDD 5205.07 (2024) designates the Director, DoD SAPCO as Chair of the SSWG (while also serving as Executive Secretary of the SAPOC and SRG).",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DoDI 5205.11 para 4.1.a.(2) sets the front-end clock for a new program: 'Within 45 calendar days of creation of the SAP project, the CA will submit' the required governance documentation.",
+     "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    }
+   ]
+  },
+  {
+   "id": "ndaa-fy2024-1687",
+   "cls": "legislation",
+   "label": "FY2024 NDAA sec. 1687 \u2014 Limitation on Use of Funds for Certain Unreported Programs",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for Fiscal Year 2024 (incl. div. G, Intelligence Authorization Act for FY2024) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Pub. L. 118-31 sec. 1687(a), verbatim: 'None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.' Text at 137 Stat. 621-622.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 1687(b), verbatim, carrying the note '50 USC 3373 note': 'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.' This closes the IR&D indirect-cost route by which a contractor could fund UAP work without a named government program.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 1687(c)(1) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI; (c)(2) defines 'congressional leadership' as the Senate majority and minority leaders and the Speaker and House minority leader. The notification audience is therefore explicitly WIDER than the 10 U.S.C. 119(e)(2) waived-SAP audience -- section 1687 conditions money on telling a group that a section 119 waiver would otherwise let the Secretary bypass.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Section 1687 does not repeal or amend 10 U.S.C. 119(e). It operates on appropriations instead: the waiver remains lawful, but funds in the FY2024 Act cannot be spent on a UAP-related special- or restricted-access activity that has not been detailed to the wider list. The legal question it creates is therefore an Antideficiency/appropriations question about a specific fiscal year's money, not a classification question. Reasoning stated from the text of 1687(a) and 119(e).",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    }
+   ]
+  },
+  {
+   "id": "iaa-fy2024-7343",
+   "cls": "legislation",
+   "label": "FY2024 Intelligence Authorization Act sec. 7343 \u2014 Funding Limitations Relating to UAP",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for Fiscal Year 2024 (incl. div. G, Intelligence Authorization Act for FY2024) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Pub. L. 118-31, div. G, sec. 7343(b), verbatim: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.' Text at 137 Stat. 1063-1064.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, and HPSCI, HASC and House Appropriations; (a)(2) adds the four congressional leaders. Sec. 7343(c) applies the same IR&D indirect-cost bar on the intelligence side.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Sections 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3 -- one addressed to the Secretary of Defense and binding this Act's funds, the other to the DNI and binding this division's funds. Together they attempt to cover both sides of the jurisdictional gap that the SAP reporting statutes leave open. Neither reaches money appropriated in other Acts or in prior years. Reasoning stated.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    }
+   ]
+  },
+  {
+   "id": "ndaa-fy2024-7606",
+   "cls": "legislation",
+   "label": "FY2024 IAA sec. 7606(c) \u2014 Agency Review of Special Access Programs",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for Fiscal Year 2024 (incl. div. G, Intelligence Authorization Act for FY2024) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Pub. L. 118-31, div. G, sec. 7606(c), verbatim: 'Agency Review of Special Access Programs.--Not later than 1 year after the date of the enactment of this Act, each head of an agency who is authorized to establish a special access program by Executive Order 13526 (50 U.S.C. 3161 note; relating to classified national security information), or successor order, shall-- (1) review the number of personnel of the agency eligible for access to such special access programs; and (2) submit to Congress, including the congressional intelligence committees, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, the Committee on the Judiciary of the Senate, and the Committee on Armed Services, the Committee on Oversight and Accountability, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives, a report on how the agency head will ensure that the number of such personnel is limited to the minimum required.' Text at 137 Stat. 1099.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 7606(a)(3), verbatim: 'This subsection shall apply to the Secretary of Defense in the Secretary's capacity as the Executive Agent for the National Industrial Security Program, and the Secretary shall treat contractors, licensees, and grantees as personnel of the Department of Defense for purposes of the studies and reports required by this subsection.'",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Section 7606(c) is the only enacted provision located here that requires a SAP-related report to go to the Judiciary, Foreign Relations/Affairs and Homeland Security/Oversight committees of both chambers -- committees entirely outside the 10 U.S.C. 119(g) 'defense committees' definition and outside the 50 U.S.C. 3091a audience. It reaches only headcount, not program identity, and carries no waiver clause. Reasoning stated from the text.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3091a-2024amend",
+   "cls": "legislation",
+   "label": "Pub. L. 118-159 secs. 6602 & 6603 \u2014 CAP funding cutoff and the CAP-to-SAP transfer bar",
+   "cluster": "legal-architecture",
+   "sub": "statute",
+   "desc": "FY2025 Intelligence Authorization Act (div. F of Pub. L. 118-159, 23 Dec 2024) amendments to 50 U.S.C. 3091a.",
+   "sources": [
+    {
+     "name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (incl. div. F, Intelligence Authorization Act for FY2025) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Sec. 6602 inserts a new 50 U.S.C. 3091a(c), verbatim: 'Limitation on Spending.--Funds authorized to be appropriated for the National Intelligence Program may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element of the intelligence community responsible for the establishment of such program, compartment, or subcompartment, submits the notification required by subsection (b).' Applies only to CAPs 'established on or after the date of the enactment of this Act.'",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+    },
+    {
+     "tier": 1,
+     "text": "THE CAP-TO-SAP LAUNDERING BAR. Sec. 6603 adds 50 U.S.C. 3091a(b)(2)(A), verbatim: 'Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.' Text at 138 STAT. 2507-2508.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+    },
+    {
+     "tier": 1,
+     "text": "THE TWO EXITS. Sec. 6603 adds subparagraph (B), verbatim: 'Exception.--The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so-- (i) is required to mitigate an urgent counterintelligence issue; or (ii) is necessary to maintain access in the event of an organizational restructuring.' Neither exception carries a deadline for after-the-fact notice, a reporting requirement, or a time limit.",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Congress in December 2024 wrote an express statutory prohibition on moving a capability out of an IC controlled access program and into a DoD-style special access program without notice. That prohibition only makes sense as a response to a believed or feared practice; the statute is itself evidence that the CAP-to-SAP transfer route was live enough to legislate against. The two exceptions -- 'urgent counterintelligence issue' and 'organizational restructuring' -- are self-certified by the same official making the transfer and are exactly the two rationales a program seeking to move would assert. Reasoning stated from the text of 3091a(b)(2).",
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "from": "usc-10-119e",
+   "to": "waived-usap-mechanism",
+   "rel": "creates",
+   "label": "119(e) is the waiver that defines a waived SAP",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+  },
+  {
+   "from": "usc-10-119",
+   "to": "defense-committees",
+   "rel": "defines-audience",
+   "label": "119(g) defines who must be told",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
+  },
+  {
+   "from": "eo-13526",
+   "to": "usc-10-119",
+   "rel": "subordinate-to",
+   "label": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+  },
+  {
+   "from": "cfr-32-117",
+   "to": "carve-out",
+   "rel": "codifies",
+   "label": "32 CFR 117.6(b) writes the carve-out into regulation",
+   "tier": 1,
+   "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+  },
+  {
+   "from": "carve-out",
+   "to": "dcsa-nisp",
+   "rel": "removes-oversight-by",
+   "label": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
+   "tier": 1,
+   "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6"
+  },
+  {
+   "from": "dodi-5205-11",
+   "to": "carve-out",
+   "rel": "defines",
+   "label": "DoDI 5205.11 glossary definition of 'carve out'",
+   "tier": 1,
+   "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+  },
+  {
+   "from": "dodi-5205-11",
+   "to": "waived-usap-mechanism",
+   "rel": "implements",
+   "label": "para 1.2.f designates select unacknowledged SAPs as waived",
+   "tier": 1,
+   "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+  },
+  {
+   "from": "dodd-5205-07-2024",
+   "to": "dodd-5205-07-2010",
+   "rel": "reissues-and-cancels",
+   "label": "12 Sep 2024 reissuance cancels the 1 Jul 2010 directive",
+   "tier": 1,
+   "source": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+  },
+  {
+   "from": "dodm-5205-07-series",
+   "to": "dodd-5205-07-2010",
+   "rel": "implements",
+   "label": "manual implements policy established in DoDD 5205.07",
+   "tier": 1,
+   "source": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+  },
+  {
+   "from": "usc-50-3348",
+   "to": "usc-10-119",
+   "rel": "excludes",
+   "label": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+  },
+  {
+   "from": "usc-50-3348",
+   "to": "usc-50-2426",
+   "rel": "excludes",
+   "label": "3348(g)(2)(B)(ii) writes NNSA out and points to 50 U.S.C. 2426",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
+  },
+  {
+   "from": "usc-50-3091a",
+   "to": "icd-906",
+   "rel": "incorporates-by-reference",
+   "label": "3091a(d)(3) defines 'controlled access program' as a program created or managed pursuant to ICD 906",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm"
+  },
+  {
+   "from": "icd-906",
+   "to": "odni-capco",
+   "rel": "establishes-role-of",
+   "label": "D.9 makes the CAPCO Director the accountable official",
+   "tier": 1,
+   "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+  },
+  {
+   "from": "odni-capco",
+   "to": "capco-register",
+   "rel": "maintains",
+   "label": "CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments",
+   "tier": 1,
+   "source": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf"
+  },
+  {
+   "from": "usc-50-3091a-2024amend",
+   "to": "usc-50-3091a",
+   "rel": "amends",
+   "label": "Pub. L. 118-159 secs. 6602-6603",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+  },
+  {
+   "from": "usc-50-3091a-2024amend",
+   "to": "sap-taxonomy",
+   "rel": "regulates-transfer-into",
+   "label": "6603 bars CAP-to-SAP capability transfer without notice",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm"
+  },
+  {
+   "from": "ndaa-fy2024-1687",
+   "to": "waived-usap-mechanism",
+   "rel": "conditions-funding-on",
+   "label": "sec. 1687(a) bars FY2024 funds for UAP activity under special or restricted access absent disclosure",
+   "tier": 1,
+   "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+  },
+  {
+   "from": "dod-sapco-arch",
+   "to": "sap-annual-report",
+   "rel": "produces",
+   "label": "all component submissions route through DoD SAPCO",
+   "tier": 1,
+   "source": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+  },
+  {
+   "from": "eo-12829",
+   "to": "cfr-32-117",
+   "rel": "authorizes",
+   "label": "32 CFR 117 implements E.O. 12829",
+   "tier": 1,
+   "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117"
+  },
+  {
+   "from": "accm",
+   "to": "four-regime-map",
+   "rel": "falls-outside",
+   "label": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+   "tier": 3,
+   "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
+  }
+ ],
+ "timeline": [
+  {
+   "id": "sap-tl-1987-119",
+   "date": "1987-12-04",
+   "label": "10 U.S.C. 119 enacted \u2014 and the waiver with it",
+   "text": "Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151 adds section 119 to title 10. Subsection (e) -- the waiver that lets the Secretary of Defense strip content from the SAP reports and deliver it only to the chairman and ranking minority member of each defense committee -- is present in the original enactment and has never been amended. Sec. 1132(b)-(c) required the first reports to cover all EXISTING SAPs and five prior fiscal years of budget history.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-1991-119f",
+   "date": "1991-10-01",
+   "label": "The 30-day pre-initiation bar takes effect",
+   "text": "10 U.S.C. 119(f) -- 'A special access program may not be initiated until (1) the defense committees are notified of the program; and (2) a period of 30 days elapses' -- was added by Pub. L. 101-510 sec. 1482(a)(2) and took effect 1 October 1991 per sec. 1482(d). Before that date no statutory waiting period applied. Subsection (f) is not among the subsections that (e)(1) permits the Secretary to waive.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-1993-nisp",
+   "date": "1993-01-06",
+   "label": "E.O. 12829 creates the National Industrial Security Program",
+   "text": "58 FR 3479. Section 101: 'There is established a National Industrial Security Program. The purpose of this program is to safeguard classified information that may be released or has been released to current, prospective, or former contractors, licensees, or grantees.' The Secretary of Defense as Executive Agent issues the NISPOM; the DCSA carve-out is a carve-out from this program.",
+   "sources": [
+    {
+     "name": "E.O. 12829, 58 FR 3479 (reproduced in notes to 50 U.S.C. 3161, Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/3161",
+     "date": "1993-01-06"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-1993-1152",
+   "date": "1993-11-30",
+   "label": "The government-wide SAP statute -- with DoD, NNSA and the IC written out of it",
+   "text": "Sec. 1152 of the FY1994 NDAA, Pub. L. 103-160, 107 Stat. 1758, now 50 U.S.C. 3348. Subsection (g)(2)(B) excludes the Department of Defense, the National Nuclear Security Administration, and every element of the Intelligence Community from the definition of 'covered department or agency'. Its waiver at (e)(2) keeps the audience at the full oversight committees rather than reducing it to chairs and ranking members.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-1999-2426",
+   "date": "1999-10-05",
+   "label": "NNSA gets its own SAP statute with the DoD-style waiver",
+   "text": "Sec. 3236 of Pub. L. 106-65, 113 Stat. 962, creates 50 U.S.C. 2426. The waiver mirrors 10 U.S.C. 119(e): case-by-case adverse-national-security determination by the Administrator, after which the information goes jointly to the chairman and ranking minority member of each congressional defense committee.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 2426 (Cornell LII)",
+     "url": "https://www.law.cornell.edu/uscode/text/50/2426",
+     "date": "2026-08-12"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2004-gao",
+   "date": "2004-03-03",
+   "label": "GAO reports it cannot vouch for DoD contractor security oversight",
+   "text": "GAO-04-332, 'Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information', prepared in response to a Senate report accompanying the FY2004 NDAA. DSS monitored 11,000-plus contractor facilities; GAO issued seven recommendations. Facilities under an approved carve-out sit outside the population DSS inspected and therefore outside GAO's audit universe.",
+   "sources": [
+    {
+     "name": "GAO-04-332",
+     "url": "https://www.gao.gov/products/gao-04-332",
+     "date": "2004-03-03"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2009-eo13526",
+   "date": "2009-12-29",
+   "label": "E.O. 13526 fixes who may create a SAP and caps ISOO's access",
+   "text": "Sec. 4.3(a) limits SAP creation to the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the DNI, or the principal deputy of each. Sec. 4.3(b)(3) permits an agency head to limit access to a SAP to the Director of ISOO 'and no more than one other employee' or, 'for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' Sec. 4.3(c): 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.'",
+   "sources": [
+    {
+     "name": "E.O. 13526 (75 FR 707, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+     "date": "2010-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2010-dodd",
+   "date": "2010-07-01",
+   "label": "DoDD 5205.07 puts acknowledged / unacknowledged / waived into DoD policy",
+   "text": "The directive cancels DoDD 5205.07 of 5 January 2006, establishes the SAPOC and DoD SAPCO, defines the three-state taxonomy and the carve-out, restricts waived-SAP access to committee chairs, ranking minority members and staff directors, and provides at para 4.h that 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody.' Change 2 issued 4 February 2020.",
+   "sources": [
+    {
+     "name": "DoDD 5205.07 (1 Jul 2010, Chg 2 4 Feb 2020) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20220322050205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2020-02-04"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2013-dodi",
+   "date": "2013-02-06",
+   "label": "DoDI 5205.11 issued \u2014 SAP management, administration and oversight",
+   "text": "The instruction reissued on 12 September 2024 records that it 'Reissues and cancels DoD Instruction 5205.11, February 6, 2013, as amended', and also 'incorporates and cancels' the Deputy Secretary of Defense Memorandum, 'Integrated Joint Special Technical Operations (IJSTO) Policy', 5 April 2021.",
+   "sources": [
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2015-dodm",
+   "date": "2015-06-18",
+   "label": "DoDM 5205.07 Volume 1 states exactly what a carve-out removes",
+   "text": "Enclosure 2 para 2: unless a carve-out is approved by the Secretary or Deputy Secretary of Defense, DSS/DCSA performs SAP security inspections at cleared contractor locations, authorizes contractor SAP information systems, and coordinates CI threat and incident cross-sharing. A carve-out removes all three. Volume 1 also incorporates and cancels the DoD Overprint to the NISPOM Supplement, and confines fraud/waste/abuse reporting to SAP channels.",
+   "sources": [
+    {
+     "name": "DoDM 5205.07 Vol 1 (2015/2018) \u2014 Internet Archive capture",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2015-icd906",
+   "date": "2015-10-17",
+   "label": "ICD 906 signed, governing IC Controlled Access Programs",
+   "text": "The current ICD 906 states at B.2: 'This ICD supersedes ICD 906, Controlled Access Programs, signed 17 October 2015.' The 2015 text is preserved in an Internet Archive capture of dni.gov.",
+   "sources": [
+    {
+     "name": "ICD 906 (current) \u2014 Internet Archive capture of dni.gov",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2018-115390",
+   "date": "2018-12-21",
+   "label": "House Oversight and Senate HSGAC written into the SAP reporting statute",
+   "text": "Sec. 103 of Pub. L. 115-390 amends 50 U.S.C. 3348 to substitute 'the congressional oversight committees' for 'Congress' throughout subsections (a)-(e), replaces 'appropriate oversight committees' in (f)(1), and adds the (g)(1) definition naming the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform alongside leadership and jurisdictional committees.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2020-nispom-rule",
+   "date": "2020-12-21",
+   "label": "The NISPOM is published as a federal rule",
+   "text": "32 CFR Part 117 published at 85 FR 83312, 21 December 2020, with the carve-out written into 117.6(b): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.'",
+   "sources": [
+    {
+     "name": "32 CFR Part 117 (eCFR); Source: 85 FR 83312, Dec. 21, 2020",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117",
+     "date": "2020-12-21"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2021-nispom",
+   "date": "2021-02-24",
+   "label": "32 CFR Part 117 takes effect; the carve-out becomes regulation",
+   "text": "With the NISPOM's conversion from DoD 5220.22-M into a codified rule, the DCSA carve-out ceased to be an internal departmental arrangement and became a provision of the Code of Federal Regulations, citing DoDD 5205.07 by URL.",
+   "sources": [
+    {
+     "name": "32 CFR 117.6 (eCFR)",
+     "url": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6",
+     "date": "2026-08-12"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2021-119sunset",
+   "date": "2021-12-31",
+   "label": "The statutory annual DoD SAP report to Congress lapses",
+   "text": "Per the 'Termination of Reporting Requirements' note carried with 10 U.S.C. 119 in the U.S. Code: the provisions of subsecs. (a) and (b) requiring submittal of an annual report to Congress terminated effective 31 December 2021 under sec. 1061 of Pub. L. 114-328. The annual SAP census and the annual new-SAP notice are the two pieces that lapsed; the (c), (d) and (f) notices did not.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2022-3091a",
+   "date": "2022-03-15",
+   "label": "Congress creates a no-waiver oversight regime for IC controlled access programs",
+   "text": "Sec. 504 of the FY2022 Intelligence Authorization Act (Pub. L. 117-103, div. X, 136 Stat. 986) adds sec. 501A to the National Security Act, codified at 50 U.S.C. 3091a: semiannual DNI briefings on every CAP in effect, a bar on establishing any CAP, compartment or subcompartment before notifying the intelligence and appropriations committees and the four congressional leaders, and annual reports listing every active and terminated compartment and subcompartment. There is no waiver provision.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091a (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2023-1687",
+   "date": "2023-12-22",
+   "label": "Money is cut off for unreported UAP special-access activity",
+   "text": "Pub. L. 118-31 sec. 1687 (Secretary of Defense; this Act's funds) and div. G sec. 7343 (DNI; that division's funds) bar obligation or expenditure for any activity involving unidentified anomalous phenomena 'protected under any form of special access or restricted access limitation' unless details are provided to a committee list wider than the 10 U.S.C. 119(g) defense committees, plus the four congressional leaders. Both sections also disallow UAP-related independent research and development as an indirect contract expense unless disclosed.",
+   "sources": [
+    {
+     "name": "Public Law 118-31 (FY2024 NDAA incl. FY2024 IAA) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2024-dodd",
+   "date": "2024-09-12",
+   "label": "DoDD 5205.07 and DoDI 5205.11 reissued the same day",
+   "text": "Both signed by Deputy Secretary of Defense Kathleen H. Hicks. The reissued Directive cancels the 2010 version and no longer contains the words 'waived', 'unacknowledged', 'carve-out' or a reference to 10 U.S.C. 119; those provisions now sit in DoDI 5205.11, which retains the glossary definitions, the para 1.2.f waiver designation, the Section 7 congressional access rules, and at para 1.2.i a scheduled phase-out of DCSA NISP oversight in July 2029.",
+   "sources": [
+    {
+     "name": "DoDD 5205.07 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2024-7606",
+   "date": "2024-12-22",
+   "label": "Deadline passes for the SAP access-population reports",
+   "text": "FY2024 IAA sec. 7606(c) required each agency head authorized by E.O. 13526 to establish a SAP to review, within one year of enactment (22 December 2023), the number of agency personnel eligible for access to such programs and report to a nine-committee list including both Judiciary Committees. No public record of any such report was located.",
+   "sources": [
+    {
+     "name": "Public Law 118-31 (FY2024 NDAA incl. FY2024 IAA) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2024-icd906",
+   "date": "2024-12-19",
+   "label": "Reissued ICD 906 posted",
+   "text": "The reissued ICD 906, Controlled Access Programs, carries a PDF creation date of 19 December 2024 and states that it supersedes the ICD 906 signed 17 October 2015. It requires annual written re-justification of every unacknowledged CAP, terminates any CAP not submitted and approved, and vests non-discoverability approval in the DNI or PDDNI subject to annual re-validation.",
+   "sources": [
+    {
+     "name": "ICD 906 (current) \u2014 Internet Archive capture of dni.gov",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2024-6603",
+   "date": "2024-12-23",
+   "label": "Congress bars moving a capability from a CAP into a SAP without notice",
+   "text": "Pub. L. 118-159 sec. 6603 amends 50 U.S.C. 3091a(b) to prohibit an IC element head from transferring a capability from a controlled access program 'to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program' until notice of intent goes to the appropriate committees and congressional leadership -- with self-certified exceptions for an 'urgent counterintelligence issue' or 'organizational restructuring'. Sec. 6602 separately cuts off NIP funds for any new CAP until the subsection (b) notification is submitted.",
+   "sources": [
+    {
+     "name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (incl. div. F, Intelligence Authorization Act for FY2025) \u2014 full text, GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    }
+   ],
+   "tier": 1
+  },
+  {
+   "id": "sap-tl-2029-dcsa",
+   "date": "2029-07-01",
+   "label": "Scheduled: DCSA NISP oversight phase-out",
+   "text": "DoDI 5205.11 para 1.2.i: 'Defense Counterintelligence and Security Agency (DCSA) oversight for the administration of the National Industrial Security Program will be phased out in July 2029 in accordance with the carve-out provision.' Forward-dated commitment recorded in a 12 September 2024 issuance.",
+   "sources": [
+    {
+     "name": "DoDI 5205.11 (12 Sep 2024)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ],
+   "tier": 1
+  }
+ ],
+ "entityInfo": {
+  "_rs-sap-docs": {
+   "note": "Overlay from the SAP/USAP legal-architecture primary-document sweep of 12 August 2026. Every claim in this overlay is anchored to a retrievable primary record: GPO U.S. Code and Public Law texts, the Federal Register text of E.O. 13526, eCFR text of 32 CFR Part 117, live esd.whs.mil PDFs of DoDD 5205.07 and DoDI 5205.11 (both 12 Sep 2024), Internet Archive captures of the 2010 DoDD and of DoDM 5205.07 Volumes 1-3, the live DoDM 5205.07 Volume 4, and an Internet Archive capture of the reissued ICD 906.",
+   "operativeAnswers": {
+    "whatMakesAProgramWaived": "10 U.S.C. 119(e)(1) \u2014 the Secretary of Defense determines, case by case, that including certain information in the (a), (b) or (c) report 'would adversely affect the national security'. DoD's own restatement, DoDI 5205.11 para 1.2.f: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security.' Waived is a subset of unacknowledged.",
+    "whoMustBeNotifiedAndWhen": "Ordinary DoD SAP: annual report to the six defense committee units by 1 March (119(a)(1)); new-SAP notice by 1 February (119(b)(1)); 14 days before any declassification or public announcement (119(c)(2)); prompt notice of criteria changes (119(d)); and 30 days before a program may be initiated (119(f)). Waived DoD SAP: the withheld information and the waiver justification go 'jointly to the chairman and ranking minority member of each of the defense committees' (119(e)(2)), and by DoD policy only the chair, ranking member, staff directors and one designated security manager of the defense and intelligence committees may be accessed (DoDI 5205.11 para 7.2.a.(3)); all waived material stays in DoD custody (DoDD 5205.07 (2010) para 4.h). The 119(a) and (b) annual reports terminated effective 31 Dec 2021 under Pub. L. 114-328 sec. 1061.",
+    "contractorCarveOut": "32 CFR 117.6(b): 'The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07.' DoDI 5205.11 glossary: 'carve out: A provision approved by the Secretary of Defense or Deputy Secretary of Defense that relieves DCSA of its National Industrial Security Program obligation.' What it removes, per DoDM 5205.07 Vol 1 Encl 2 para 2: contractor SAP security inspections, contractor SAP information-system authorization, and CI threat/incident cross-sharing. What survives: facility security clearance issuance. DoDI 5205.11 para 1.2.i schedules a phase-out of DCSA NISP oversight altogether in July 2029."
+   }
+  }
+ },
+ "gaps": [
+  "DoDM 5205.07 Volume 1 and Volume 3 are no longer served at their historic esd.whs.mil URLs (520507_vol1.pdf / 520507_vol01.pdf / 520507_vol3.pdf all return 404 live). Recovered only from Internet Archive captures. Whether a post-2024 replacement manual exists \u2014 and whether it is public \u2014 is unresolved. WAVE 4: search esd.whs.mil issuance index and the DoD Issuances Cancellation list for a 2024-2026 DoDM 5205.07 reissuance or cancellation notice.",
+  "No copy of the signed, dated cover page of the reissued ICD 906 was legible: the signature block extracts as garbled characters and the PDF carries only a creation date of 19 December 2024. The exact signature date and signer (DNI or PDDNI) are unresolved. WAVE 4: try odni.gov/files/documents/ICD/ and the ODNI FOIA reading room.",
+  "The 17 October 2015 ICD 906 recovered from Internet Archive is a scanned image PDF with no extractable text layer; its provisions could not be quoted verbatim for comparison against the reissued directive. WAVE 4: OCR the capture at web.archive.org/web/20160928160132/ or locate a text-layer copy.",
+  "No primary record was located of any report actually submitted under FY2024 IAA sec. 7606(c) (agency review of SAP access populations, due 22 December 2024) or under sec. 7606(a) (agency clearance-necessity studies). WAVE 4: check the ODNI and DoD congressional report indexes and the GAO report-compliance trackers.",
+  "No primary record was located showing whether the Department of Defense continued to produce the 10 U.S.C. 119(a) annual SAP report voluntarily after the sec. 1061 Pub. L. 114-328 sunset took effect on 31 December 2021. This is the single highest-value unresolved item on this layer. WAVE 4: search HASC/SASC committee prints, the DoD Comptroller's congressional reports list, and any FY2022-FY2026 NDAA provision reinstating the requirement.",
+  "GAO-04-332 was reachable only through its gao.gov product landing page; the full-report PDF could not be retrieved (gao.gov/assets returned 403 to direct fetch and 429 through the fetch proxy). Its verbatim Results in Brief, and in particular any language about facilities excluded from DSS oversight, remains unquoted. WAVE 4: retry gao.gov/assets/240/241536.pdf or a Wayback capture.",
+  "The number of DoD special access programs currently designated 'waived' is not stated in any public issuance located here, and the DoDI 5205.11 para 3.5.a.(3)(d) SAPOC annual review of waived status produces no public output. Unresolved and probably unresolvable from open primary records.",
+  "E.O. 12829 was quoted only from the Cornell LII reproduction in the notes to 50 U.S.C. 3161; archives.gov/isoo/policy-documents/eo-12829.html returns 404 and the 1993 Federal Register text is outside govinfo's HTML range. Sections 102, 201 and 202 remain unquoted. WAVE 4: govinfo FR microfiche or archives.gov/federal-register/executive-orders/1993.html.",
+  "DoDI 5205.11's Enclosure-level detail (SAPOC/SRG/SSWG membership tables, the prospective-SAP timeline, the carve-out justification template) was read only through a summarising fetch of the PDF; paragraph-numbered verbatim text for those enclosures was obtained for Section 7 and paras 1.2.f, 1.2.i, 3.5, 4.1, 4.2, 5.1 but not for the full governance enclosures. WAVE 4: re-fetch 520511p.pdf targeting the enclosures individually.",
+  "Whether any carve-out approval memorandum signed by a Secretary or Deputy Secretary of Defense has ever been released \u2014 even in redacted form under FOIA \u2014 was not established. WAVE 4: DoD FOIA reading room, DCSA FOIA library, and the OSD/JS FOIA request log for 'carve-out'.",
+  "eCFR section-level URLs (ecfr.gov/current/title-32/.../section-117.6) are the canonical citation but bot-block direct programmatic retrieval; the verbatim text quoted here was pulled from the eCFR renderer API at ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117 on 12 Aug 2026. Both URLs are recorded in sources[]."
+ ]
+}

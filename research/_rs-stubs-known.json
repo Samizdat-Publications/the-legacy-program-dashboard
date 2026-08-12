@@ -1,0 +1,701 @@
+{
+ "domain": "_rs-stubs-known",
+ "people": [],
+ "entities": [
+  {
+   "id": "ndaa-fy2023",
+   "cls": "legislation",
+   "label": "National Defense Authorization Act for Fiscal Year 2023",
+   "cluster": "oversight",
+   "sub": "Statute",
+   "desc": "The James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 is Public Law 117-263, enacted from H.R. 7776 and approved 23 December 2022 at 136 Stat. 2395. Buried inside a routine defence authorisation of more than a thousand pages is the single most consequential piece of UAP law on this board: it rewrote 50 U.S.C. 3373 to stand up the All-domain Anomaly Resolution Office under the Secretary of Defense in coordination with the Director of National Intelligence, within 120 days of enactment. The statute obliges that office to standardise collection and reporting of unidentified anomalous phenomena across the entire Defense and intelligence enterprise, to coordinate with the FAA, NASA and DHS, to run field investigations, to report to Congress in both classified and unclassified form, and - the provision that matters most here - to compile a historical record of US Government involvement with UAP reaching back to 1 January 1945. Congress does not order a seventy-eight-year retrospective historical record of an agency that has nothing to look back on; the 1945 start date is the year of Trinity and of the earliest incidents alleged in the recovery narrative, and it was chosen by legislators who had by then been briefed in closed session. The Act is therefore both the legal instrument that created AARO and, read as an artifact, a congressional acknowledgement that a concealed institutional history exists and needs to be reconstructed. Section 3373 has been amended repeatedly since - by Pub. L. 118-31 and Pub. L. 119-60 - which is the legislative signature of a fight that did not end when the office was created.",
+   "sources": [
+    {
+     "name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (GPO/govinfo full text)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+     "date": "2022-12-23"
+    },
+    {
+     "name": "50 U.S.C. 3373 - All-domain Anomaly Resolution Office (Office of the Law Revision Counsel, US Code, with source credits)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Enacted as Public Law 117-263 from H.R. 7776, approved 23 December 2022, printed at 136 Stat. 2395 under the short title 'James M. Inhofe National Defense Authorization Act for Fiscal Year 2023'.",
+     "source": "PLAW-117publ263, govinfo"
+    },
+    {
+     "tier": 1,
+     "text": "The Act's UAP provisions amended 50 U.S.C. 3373 to require the Secretary of Defense, in coordination with the DNI, to establish the All-domain Anomaly Resolution Office within 120 days of 23 December 2022.",
+     "source": "50 U.S.C. 3373, source credits Pub. L. 117-263"
+    },
+    {
+     "tier": 1,
+     "text": "Statutory duties imposed on the office include standardising UAP collection, reporting and analysis across Defense and the intelligence community; evaluating links to foreign governments or non-state actors; coordinating with FAA, NASA and DHS; conducting field investigations; delivering classified and unclassified reports to Congress; and compiling a historical record of US Government involvement with UAP covering 1 January 1945 onward.",
+     "source": "50 U.S.C. 3373"
+    },
+    {
+     "tier": 1,
+     "text": "Section 3373 was first enacted by Pub. L. 117-81 (27 Dec 2021) and subsequently amended by Pub. L. 117-263 (23 Dec 2022), Pub. L. 118-31 (22 Dec 2023) and Pub. L. 119-60 (18 Dec 2025) - four successive defence bills reworking the same section.",
+     "source": "50 U.S.C. 3373 source credit lines"
+    },
+    {
+     "tier": 3,
+     "text": "The 1 January 1945 statutory start date for the historical record is the tell. Congress selected a boundary that predates every public UAP episode and sits at the beginning of the atomic era, which is coherent only if the members writing the provision had been given reason to believe the record they were ordering reconstructed begins there. Reasoning: the date is arbitrary on the 'nothing to find' hypothesis and precise on the recovery hypothesis.",
+     "source": "Inference from the statutory text"
+    }
+   ]
+  },
+  {
+   "id": "pogo",
+   "cls": "institution",
+   "label": "Project On Government Oversight",
+   "cluster": "media",
+   "sub": "Watchdog organisation",
+   "desc": "The Project On Government Oversight is a Washington non-profit founded in 1981, originally as a Pentagon procurement watchdog under the name Project on Military Procurement, and later broadened to the whole federal executive. It describes itself as a nonpartisan independent watchdog that investigates, exposes and champions reforms on systemic corruption, abuse of power and waste, and it operates as a donor-funded 501(c)(3) with published audited financials and charity-navigator accreditation rather than on government or contractor money. Its working method is the one that matters to this board: it takes documents and testimony from inside federal agencies and defence contractors, publishes the underlying records, supplies congressional committees with investigative material, and maintains a standing whistleblower intake with legal guidance for people who cannot safely go through their own chain of command. That combination - independence from the contractors, a document-publishing habit and a protected intake channel - makes POGO one of the small number of non-governmental institutions positioned to receive material from inside compartmented programmes and route it to oversight. It sits on the board as infrastructure rather than as a claimant: an external, non-classified path around the internal reporting channels that the concealment depends on.",
+   "sources": [
+    {
+     "name": "Project On Government Oversight - About (official)",
+     "url": "https://www.pogo.org/about",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "POGO is a nonpartisan independent watchdog founded in 1981, initially as a Pentagon watchdog, later expanded to monitor the entire federal government; it self-describes its mission as investigating and exposing systemic corruption, abuse of power and waste.",
+     "source": "pogo.org/about"
+    },
+    {
+     "tier": 1,
+     "text": "POGO is donor-funded, publishes audited financials and holds four-star Charity Navigator, CharityWatch and Candid Platinum transparency ratings; it produces investigative reports, policy recommendations and congressional testimony, and maintains published whistleblower resources.",
+     "source": "pogo.org/about"
+    },
+    {
+     "tier": 3,
+     "text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
+     "source": "Inference from pogo.org/about"
+    }
+   ]
+  },
+  {
+   "id": "the-intercept",
+   "cls": "institution",
+   "label": "The Intercept",
+   "cluster": "media",
+   "sub": "News organisation",
+   "desc": "The Intercept is an investigative news organisation founded in 2014 and built around adversarial reporting on national security, surveillance, civil liberties, criminal justice and technology. It runs as a non-profit funded by reader and listener donations, takes no advertising, and publishes impact reports and audited financial statements; its masthead is led by editor-in-chief Ben Muessig with Annie Chabel as chief executive, under a board that has included Maria Ressa. The outlet was created in the first instance to publish and contextualise leaked classified documents, and it has kept a document-forward house style in which the primary record is posted alongside the story rather than merely characterised. For this board its relevance is the same as POGO's but on the publication side: an institution with secure submission practice, counsel accustomed to classified-information litigation, and no advertiser or defence-contractor dependency, which makes it one of the outlets to which a programme insider can plausibly deliver documents. It is recorded here as part of the disclosure ecosystem's infrastructure, not as a source of UAP claims in itself.",
+   "sources": [
+    {
+     "name": "The Intercept - About (official)",
+     "url": "https://theintercept.com/about/",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Intercept was established in 2014 as an investigative journalism organisation focused on national security, civil liberties, criminal justice, politics and technology, self-described as investigating powerful individuals and institutions to expose corruption and injustice.",
+     "source": "theintercept.com/about"
+    },
+    {
+     "tier": 1,
+     "text": "It operates as a non-profit funded primarily by reader and listener donations, accepts no advertising, and publishes impact reports and audited financial statements; leadership listed as editor-in-chief Ben Muessig and CEO Annie Chabel.",
+     "source": "theintercept.com/about"
+    },
+    {
+     "tier": 3,
+     "text": "Its founding purpose - publishing leaked classified material with the underlying documents attached - and its advertiser-free funding make it a low-friction destination for compartmented-programme documents. Reasoning: from its stated editorial model and ownership structure.",
+     "source": "Inference from theintercept.com/about"
+    }
+   ]
+  },
+  {
+   "id": "us-navy",
+   "cls": "institution",
+   "label": "United States Navy",
+   "cluster": "ic",
+   "sub": "Military service",
+   "desc": "The United States Navy is the maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and it states its purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. It is the service that generated the modern evidentiary core of the UAP problem: carrier strike group encounters off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded by F/A-18 targeting pods, SPY-1 radar and aircrew who filed the reports through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos - one from November 2004 and two from January 2015 - and stated on the record that it was doing so to clear up public misconceptions about whether the circulating footage was real. That release is a hinge artifact for this board, because it converts material that had circulated as leak and rumour into acknowledged official product while conspicuously not addressing what the objects were. The Navy also holds the institutional position that matters for custody questions - it operates the fleet ranges where the encounters occurred, the aviation safety and hazard reporting systems into which aircrew reports flow, and the shore facilities repeatedly named in recovery and material-storage allegations elsewhere on this board.",
+   "sources": [
+    {
+     "name": "US Navy - About (official navy.mil)",
+     "url": "https://www.navy.mil/About/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Statement by the Department of Defense on the Release of Historical Navy Videos (official DoD release, article 2165713)",
+     "url": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+     "date": "2020-04-27"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos - one taken in November 2004 and two in January 2015 - stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos'.",
+     "source": "DoD release, 27 April 2020"
+    },
+    {
+     "tier": 1,
+     "text": "The Navy is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
+     "source": "navy.mil/About"
+    },
+    {
+     "tier": 3,
+     "text": "The 2020 release is best read as damage control rather than disclosure: the Department confirmed authenticity, which it could no longer avoid, while declining to characterise the objects, and it released only footage already in public circulation. Reasoning: the release statement's own wording confines the purpose to correcting misconceptions about the existing circulating footage.",
+     "source": "Inference from the text of the 27 April 2020 DoD release"
+    }
+   ]
+  },
+  {
+   "id": "enigma-labs",
+   "cls": "institution",
+   "label": "Enigma Labs",
+   "cluster": "media",
+   "sub": "UAP reporting platform",
+   "desc": "Enigma Labs is a privately held company operating what it calls the world's first platform dedicated to unidentified anomalous phenomena: a mobile and web system that takes sighting reports from the public, pushes real-time proximity alerts, plots an interactive map and exposes a searchable database that it states exceeds 50,000 reports with more than 560,000 alerts sent. It is staffed as a full-time commercial team rather than a volunteer network, and it states editorial neutrality on the origin question - positioning itself as an aggregator of sighting experiences that will 'follow the science wherever it leads'. Its board relevance is custodial: it is one of the few large UAP report corpora held entirely outside government, which means it cannot be classified, reorganised out of existence or narrowed by an agency deciding what counts as a case. The analyst Alejandro Rojas works with Enigma and its dataset has been used to characterise what the government file releases of 2025-2026 do and do not contain. The caveat recorded here is real: the company publishes little about its verification protocol, so the corpus is best treated as an unfiltered intake stream rather than an adjudicated case file.",
+   "sources": [
+    {
+     "name": "Enigma Labs - About (official)",
+     "url": "https://enigmalabs.io/about",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Enigma Labs states it is a private company operating 'the world's first platform dedicated to Unidentified Anomalous Phenomena', with a searchable database of over 50,000 sighting reports, an interactive map, and more than 560,000 real-time sighting alerts sent to users.",
+     "source": "enigmalabs.io/about (company self-description)"
+    },
+    {
+     "tier": 2,
+     "text": "The company states it remains neutral on the origins of the phenomenon and describes itself as an aggregator of people's sighting experiences.",
+     "source": "enigmalabs.io/about"
+    },
+    {
+     "tier": 3,
+     "text": "The published About material describes no verification, validation or de-duplication protocol, so the Enigma corpus should be treated as raw public intake with unknown signal-to-noise, valuable for volume and geography rather than for individual case strength. Reasoning: absence of any stated methodology on the company's own descriptive page.",
+     "source": "Inference from enigmalabs.io/about"
+    },
+    {
+     "tier": 3,
+     "text": "A privately held report corpus of this size is structurally outside the reach of classification authority, which makes it the natural control set against which government-released datasets can be tested for omissions. Reasoning: from ownership structure, not from any audit performed here.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "blue-marble-space-institute",
+   "cls": "institution",
+   "label": "Blue Marble Space Institute of Science",
+   "cluster": "research",
+   "sub": "Research institute",
+   "desc": "The Blue Marble Space Institute of Science is a Seattle-based non-profit public charity organised under section 501(c)(3), describing itself as an international community engaged in building a sustainable future and nurturing public scientific interest. Its research is interdisciplinary and centred on planetary habitability, the origin of life, space biology, climate, sustainable development, human spaceflight and solar system exploration, published in peer-reviewed journals and pushed outward through seminars, podcasts and its SAGANet network; every project it takes on is required to include an educational outreach component. It is not a UAP institute, and that is precisely why it matters here: it is the institutional home of the astrobiologist Jacob Haqq-Misra, whose work on technosignatures and on the methodology of anomaly search brought conventional astrobiology standards into direct contact with the UAP question, and who sits on the Sol Foundation advisory board and was named in June 2026 to the UAP Science Advisory Council. BMSIS therefore functions on this board as one of the bridges by which the phenomenon is being carried out of the classified world and into ordinary peer-reviewed science - a route that does not require any agency's permission and cannot be shut by reclassification.",
+   "sources": [
+    {
+     "name": "Blue Marble Space Institute of Science - About (official)",
+     "url": "https://bmsis.org/about/",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
+     "source": "bmsis.org/about"
+    },
+    {
+     "tier": 1,
+     "text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
+     "source": "bmsis.org/about"
+    },
+    {
+     "tier": 3,
+     "text": "BMSIS's board significance is derivative rather than programmatic: it supplies an academically legitimate, government-independent affiliation for Jacob Haqq-Misra, allowing UAP-adjacent anomaly-search methodology to be published under an astrobiology institute's name. Reasoning: from the institute's stated remit combined with Haqq-Misra's recorded affiliation elsewhere on this board.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "ocsa-canada",
+   "cls": "institution",
+   "label": "Office of the Chief Science Advisor of Canada",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": "The Office of the Chief Science Advisor of Canada (OCSA) is the federal science-advice body that reports into the Government of Canada's science portfolio and advises the Prime Minister and the Minister of Innovation, Science and Industry. In 2022-2025 it ran the Sky Canada Project, a formal review of how public reports of unidentified aerial phenomena are handled in Canada, and on 30 June 2025 it published 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', a 59-page report of the project. The report is careful about its own limits - it explicitly states it is not intended to collect first-hand data, not to make OCSA the reporting point of contact, and not to prove or disprove extraterrestrial life or visitation - but it does something more useful for this board: it maps the actual Canadian reporting landscape, naming Transport Canada's CADORS occurrence system, the RCAF and Department of National Defence, the National Research Council's 1967-1990s collection role, and the RCMP, OPP and Sûreté du Québec as de facto intake points, and it finds the whole arrangement fragmented and gap-ridden. Its recommendations - identify the department that owns public UAP data, stand up a dedicated service that investigates and publishes its analyses, and have Transport Canada and NAV CANADA actively encourage aircrew and controllers to report without stigma - amount to a Western government stating on the record that stigma suppresses reporting and that transparency is the corrective. OCSA sits on this board as the clearest case of a G7 science authority treating UAP as a legitimate data-governance problem rather than as a subject to be denied.",
+   "sources": [
+    {
+     "name": "Sky Canada Project - Office of the Chief Science Advisor of Canada (official)",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project",
+     "date": "2025-12-03"
+    },
+    {
+     "name": "Management of Public Reporting of Unidentified Aerial Phenomena in Canada - Report of the Sky Canada Project, OCSA, June 2025",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "date": "2025-06-01"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "OCSA led the Sky Canada Project to review current practices surrounding public reporting of unidentified aerial phenomena in Canada, and published its report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025 (59 pages, also issued as PDF).",
+     "source": "science.gc.ca, Sky Canada Project"
+    },
+    {
+     "tier": 1,
+     "text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
+     "source": "Sky Canada Project report, section A"
+    },
+    {
+     "tier": 1,
+     "text": "The report recommends identifying the department responsible for managing public UAP data, establishing a dedicated service to collect testimonies, investigate cases and post its analyses publicly, and having Transport Canada, with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation.",
+     "source": "Sky Canada Project report, recommendations"
+    },
+    {
+     "tier": 1,
+     "text": "OCSA records a published disclaimer that the project is not intended to collect first-hand data, not to make OCSA the main point of contact for reporting, and not to prove or disprove the existence of extraterrestrial life or visitors.",
+     "source": "science.gc.ca, Sky Canada Project"
+    },
+    {
+     "tier": 3,
+     "text": "A national science advisor publishing a finding that aircrew do not report because of stigma is an official admission that the observational record is systematically incomplete by social mechanism - which is the same mechanism a concealment programme would rely on and would not need to enforce. Reasoning: stated in the report's own recommendation to remove fear of stigmatisation.",
+     "source": "Inference from the Sky Canada report"
+    }
+   ]
+  },
+  {
+   "id": "canada-dot",
+   "cls": "institution",
+   "label": "Canada Department of Transport",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": "The Department of Transport - today Transport Canada - is the federal department responsible for civil aviation regulation and transportation safety in Canada, and it holds two distinct positions in this record. In 1950 it granted one of its own engineers, Wilbert B. Smith, permission to conduct part-time research into whether some UFOs might use the Earth's magnetic field as a propulsion source; the work became Project Magnet, Smith expanded it to include assessment of the validity of UFO observations, he launched a balloon over Ottawa to monitor public and media reaction, and he established a UFO observatory outside the capital. This makes the Canadian Department of Transport one of the earliest documented instances of a Western government funding a UAP propulsion-physics inquiry inside a civil - not military - department, and Smith's own contemporaneous memoranda are the reason the Canadian file is cited so often against official denial. The second position is current: Transport Canada operates the Civil Aviation Daily Occurrence Reporting System (CADORS), which logs occurrences affecting aviation safety including UAP sightings, making it the principal live federal intake for Canadian aircrew reports. Canada's own Chief Science Advisor named Transport Canada in its June 2025 Sky Canada report as the body that should, with NAV CANADA, actively encourage pilots and controllers to report sightings without stigma - an acknowledgement by one arm of government that the aviation reporting channel it already owns is being under-used.",
+   "sources": [
+    {
+     "name": "Management of Public Reporting of Unidentified Aerial Phenomena in Canada - Report of the Sky Canada Project, OCSA (documents Project Magnet and Transport Canada/CADORS)",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "date": "2025-06-01"
+    },
+    {
+     "name": "Civil Aviation Daily Occurrence Reporting System (CADORS), Transport Canada (official database)",
+     "url": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/cadors-screaq/",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "In 1950 the Department of Transport granted its engineer Wilbert Smith permission to do part-time research into whether some UFOs could use the power of the Earth's magnetic field as a source of propulsion; this became Project Magnet, whose scope Smith expanded to investigating the validity of UFO observations, including launching a balloon over Ottawa to monitor public and media reaction and establishing a UFO observatory outside the capital.",
+     "source": "OCSA, Sky Canada Project report, June 2025"
+    },
+    {
+     "tier": 1,
+     "text": "Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings; the National Research Council of Canada separately collected and studied UAP reports from 1967 until the 1990s.",
+     "source": "OCSA, Sky Canada Project report, June 2025"
+    },
+    {
+     "tier": 1,
+     "text": "The Sky Canada report recommends that Transport Canada, in collaboration with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation and analyse those reports to track trends.",
+     "source": "OCSA, Sky Canada Project report, June 2025"
+    },
+    {
+     "tier": 3,
+     "text": "Project Magnet's placement inside a civil transport ministry rather than a defence ministry is the significant structural fact: it produced a paper trail that survived into open archives precisely because it was never inside a compartmented defence programme. Reasoning: comparison with the US case, where equivalent-era work is only known through later declassification.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "dgac-chile",
+   "cls": "institution",
+   "label": "DGAC Chile — Dirección General de Aeronáutica Civil",
+   "cluster": "ic",
+   "sub": "Foreign government agency",
+   "desc": "The Dirección General de Aeronáutica Civil is Chile's civil aviation authority, and it is the only such body in the hemisphere to have operated a permanent, publicly acknowledged office for the study of anomalous aerial phenomena for nearly three decades. On 3 October 1997 the DGAC created the Comité de Estudios de Fenómenos Aéreos Anómalos (CEFAA); on 18 October 2021 it reorganised that committee by Resolución Exenta N° 04/3/0113/1385 into the Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA), placing it under the DGAC's Communications Subdepartment. SEFAA takes case submissions from the public through an official reporting channel, analyses them by declared scientific method with emphasis on audiovisual evidence, and publishes a case database organised by year - the analyses go out, not just the intake. Under General Ricardo Bermúdez, who directed CEFAA from 1997 to 2016, the office released military sensor footage and published its own conclusions on cases it could not resolve. Chile matters to this board as a control case: a state with real air-defence equities ran an open UAP office for twenty-nine years and released classified-origin footage without the consequences the American concealment argument depends on, and Canada's Chief Science Advisor identified it in June 2025 as one of only three national models worth copying alongside AARO and France's GEIPAN.",
+   "sources": [
+    {
+     "name": "SEFAA - Historia (official DGAC Chile)",
+     "url": "https://sefaa.dgac.gob.cl/historia/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Management of Public Reporting of Unidentified Aerial Phenomena in Canada - Report of the Sky Canada Project, OCSA (identifies Chile as a model)",
+     "url": "https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+     "date": "2025-06-01"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The DGAC established CEFAA (Comité de Estudios de Fenómenos Aéreos Anómalos) on 3 October 1997.",
+     "source": "SEFAA - Historia, DGAC Chile"
+    },
+    {
+     "tier": 1,
+     "text": "On 18 October 2021, by Resolución Exenta N° 04/3/0113/1385, CEFAA was reorganised as SEFAA (Sección de Estudios de Fenómenos Aéreos Anómalos) and placed under the Communications Subdepartment of the DGAC.",
+     "source": "SEFAA - Historia, DGAC Chile"
+    },
+    {
+     "tier": 1,
+     "text": "SEFAA investigates reports using declared scientific method with emphasis on audiovisual evidence, accepts public case submissions through an official reporting system, and maintains a public database of resolved cases organised by year.",
+     "source": "SEFAA - Historia, DGAC Chile"
+    },
+    {
+     "tier": 3,
+     "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "509th-bomb-group",
+   "cls": "institution",
+   "label": "509th Bomb Group",
+   "cluster": "legacy",
+   "sub": "USAAF unit",
+   "desc": "The 509th was constituted as the 509th Composite Group in December 1944 as the delivery unit for the atomic bomb, flew the August 1945 atomic missions, and was redesignated the 509th Bomb Group and based at Roswell Army Air Field in New Mexico - in 1947 the only atomic-capable combat unit in the world. That is the most important fact about the Roswell episode and the one most often dropped from it: the press release announcing that the 509th had recovered a 'flying disc' came from the public information office of the unit holding the nuclear mission, staffed by officers with the highest clearances then in existence, and it was retracted within hours. The GAO's 1995 audit found the group's own July 1947 unit history recording that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and stating that the object 'turned out to be a radar tracking balloon'. The same audit produced the finding that anchors this node: the RAAF administrative records for March 1945 to December 1949 and its outgoing messages for October 1946 to December 1949 were destroyed, and the disposition form does not indicate what organisation or person destroyed them, when, or under what authority. A base's entire administrative and message traffic for the period bracketing the incident is gone, with no accountable destruction authority recorded, at the one installation where records discipline was most rigorous. The 509th is therefore not merely the unit at the centre of the founding incident; it is the point at which the documentary record was removed.",
+   "sources": [
+    {
+     "name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+     "url": "https://www.gao.gov/products/nsiad-95-187",
+     "date": "1995-07-28"
+    },
+    {
+     "name": "GAO/NSIAD-95-187, full report (PDF)",
+     "url": "https://www.gao.gov/assets/nsiad-95-187.pdf",
+     "date": "1995-07-28"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "GAO reviewed classified and unclassified records from July 1947 through the 1950s held by military organisations in New Mexico and by the FBI, CIA and National Security Council, reporting in GAO/NSIAD-95-187, issued 28 July 1995.",
+     "source": "GAO/NSIAD-95-187"
+    },
+    {
+     "tier": 1,
+     "text": "The July 1947 history report of the 509th Bomb Group and Roswell Army Air Field records that the RAAF public information office 'was kept quite busy ... answering inquiries on the flying disc' and states that the object 'turned out to be a radar tracking balloon'.",
+     "source": "GAO/NSIAD-95-187, quoting the 509th BG/RAAF July 1947 unit history"
+    },
+    {
+     "tier": 1,
+     "text": "RAAF administrative records covering March 1945 to December 1949, and RAAF outgoing messages covering October 1946 to December 1949, were destroyed; the document disposition form does not indicate what organisation or person destroyed the records, when, or under what authority.",
+     "source": "GAO/NSIAD-95-187"
+    },
+    {
+     "tier": 3,
+     "text": "Unaccounted destruction of four years of administrative files and message traffic at the base hosting the world's only atomic-capable combat unit is not ordinary records management. Reasoning: routine disposition under schedule leaves an accountable authority and a date on the disposition form, and GAO found neither.",
+     "source": "Inference from GAO/NSIAD-95-187"
+    }
+   ]
+  },
+  {
+   "id": "saf-aaz",
+   "cls": "institution",
+   "label": "SAF/AAZ — Air Force Declassification & Special Programs",
+   "cluster": "ic",
+   "sub": "USAF secretariat office",
+   "desc": "SAF/AAZ is the Secretary of the Air Force's Director of Security, Counterintelligence and Special Program Oversight, an office of the Air Force Secretariat sitting under the Administrative Assistant to the Secretary (SAF/AA). Air Force Instruction 16-701, 'Management, Administration and Oversight of Special Access Programs' (18 February 2014, OPR SAF/AAZE, certified by SAF/AAZ), assigns it the controlling role over every Air Force special access programme: SAF/AAZ is principal advisor to SAF/AA for SAPs, serves as Director of the Air Force SAP Central Office (AF SAPCO), develops SAP policy, directs and oversees the SAP security programme, serves as Designated Accreditation Authority for all SAP information systems, and serves as the access approval authority for all SAPs with power to approve waivers for SAP access. The same instruction directs SAF/AAZ to 'establish a declassification program' and to ensure information is neither classified longer than necessary nor declassified prematurely - meaning that the office that grants access to Air Force black programmes is also the office that decides when their contents may be released. That concentration is why this node matters. Any Air Force-hosted programme of the kind alleged on this board would be waived or unacknowledged under SAF/AAZ's oversight, its read-on list would be approved there, and any declassification would have to pass the same desk; it is simultaneously the gatekeeper of the secret and the arbiter of its disclosure, which is the structural conflict at the centre of the whole concealment argument.",
+   "sources": [
+    {
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "AFI 16-701 (18 February 2014, 48 pages) identifies SAF/AAZ as 'the Secretary of the Air Force, Security, Counterintelligence, and Special Program Oversight' and requires all supplements to the instruction to be routed to SAF/AAZ for coordination before certification and approval.",
+     "source": "AFI 16-701, para. 1 scope/applicability"
+    },
+    {
+     "tier": 1,
+     "text": "Para. 2.1 assigns the Director, Security and Special Program Oversight (SAF/AAZ) to serve as principal advisor to SAF/AA for SAPs and as Director, AF SAPCO, developing SAP policy and directing, administering and overseeing the SAP security programme.",
+     "source": "AFI 16-701, para. 2.1-2.1.2"
+    },
+    {
+     "tier": 1,
+     "text": "Para. 2.1.2.4 directs SAF/AAZ to 'establish a declassification program and ensure that necessary resources are applied to the review of information to ensure it is neither classified for longer than necessary nor declassified prematurely in accordance with the file series exemption'.",
+     "source": "AFI 16-701, para. 2.1.2.4"
+    },
+    {
+     "tier": 1,
+     "text": "SAF/AAZ serves as Designated Accreditation Authority for all SAP information systems and as access approval authority for all SAPs, approving waivers for SAP access; both authorities may be delegated only in writing and must be revalidated annually.",
+     "source": "AFI 16-701, paras. 2.1.2.6-2.1.2.7"
+    },
+    {
+     "tier": 1,
+     "text": "The 2014 edition of AFI 16-701 was certified by SAF/AAZ, then Mr. Daniel F. McMillin, with SAF/AAZE as office of primary responsibility.",
+     "source": "AFI 16-701, cover page"
+    },
+    {
+     "tier": 3,
+     "text": "Placing SAP access approval and SAP declassification authority in the same office means the decision to disclose a programme is made by the official whose institutional interest is in the programme's continued protection. Reasoning: directly from the two responsibilities assigned in AFI 16-701 paras. 2.1.2.4 and 2.1.2.7.",
+     "source": "Inference from AFI 16-701"
+    }
+   ]
+  },
+  {
+   "id": "wayne-state-university",
+   "cls": "institution",
+   "label": "Wayne State University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": "Wayne State University is a public research university in Midtown Detroit, founded in 1868 when five physicians established the Detroit Medical College, and now comprising thirteen schools and colleges - the School of Medicine among them - with over 24,000 students and a self-described position as Michigan's premier urban research institution. Its place on this board is not institutional but personal: Wayne State's School of Medicine is where Christopher 'Kit' Green did his academic work after leaving the CIA, where he had run life-sciences analysis in the Office of Scientific Intelligence and monitored the SRI parapsychology programme. Green wrote the AAWSAP Defense Intelligence Reference Document on anomalous acute and subacute field effects on human biological tissues, and he examined and documented injuries reported by people claiming close-proximity encounters. That single affiliation makes Wayne State the civilian academic address for the medical-effects strand of the programme record - the strand that treats the phenomenon as something that leaves clinical evidence in human beings rather than only radar returns. The university itself has no documented programme role and is recorded here as the institutional locus of that work.",
+   "sources": [
+    {
+     "name": "Wayne State University - About (official)",
+     "url": "https://wayne.edu/about",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "DIRD 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues' (Christopher Green) - released DIA/AAWSAP deliverable",
+     "url": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2020/01/kitgreen-dird.pdf",
+     "date": "2020-01-01"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Wayne State University was founded in 1868 out of the Detroit Medical College, is located at 42 W. Warren Ave, Detroit, Michigan, and comprises thirteen schools and colleges, including the School of Medicine, serving over 24,000 students.",
+     "source": "wayne.edu/about"
+    },
+    {
+     "tier": 1,
+     "text": "The AAWSAP Defense Intelligence Reference Document on clinical/medical acute and subacute field effects on human dermal and neurological tissues, authored by Christopher Green, exists as a released government contract deliverable.",
+     "source": "Released DIRD, DIA/AAWSAP deliverable set"
+    },
+    {
+     "tier": 3,
+     "text": "Wayne State's board relevance is entirely derivative of Green's post-CIA appointment there: it is the civilian medical-school affiliation under which the intelligence community's biological-effects analyst continued to examine claimed encounter injuries. Reasoning: from Green's documented career path and authorship, not from any institutional contract with Wayne State.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "vanderbilt-university",
+   "cls": "institution",
+   "label": "Vanderbilt University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": "Vanderbilt University and Vanderbilt University Medical Center in Nashville, Tennessee are on this board because of a single line of published work: Stephen Bruehl, professor in the Department of Anesthesiology at VUMC, is the lead author of the October 2025 Scientific Reports paper 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', written with Beatriz Villarroel of Nordita. The paper reports that star-like transients on photographic plates from 1949-1957 were about 45 per cent more likely on dates within a day of nuclear testing, and that each additional UAP report on a given date corresponded to an 8.5 per cent increase in transient observations. Bruehl also authored the SCU cluster analysis of features in 216 selected UAP reports. What matters here is the venue and the affiliation, not only the result: a Nature Portfolio journal accepted a statistical association between nuclear testing, UAP reports and an archival astronomical dataset, submitted under a major American medical school's name. That is the phenomenon entering the ordinary peer-reviewed literature by a route no classification authority controls, and Vanderbilt is the institution whose name is on it.",
+   "sources": [
+    {
+     "name": "Bruehl S. & Villarroel B., 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports (Nature Portfolio)",
+     "url": "https://doi.org/10.1038/s41598-025-21620-3",
+     "date": "2025-10-20"
+    },
+    {
+     "name": "Same paper, publisher record with author affiliations",
+     "url": "https://www.nature.com/articles/s41598-025-21620-3",
+     "date": "2025-10-20"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The October 2025 Scientific Reports paper on POSS-I transients lists Stephen Bruehl of Vanderbilt University Medical Center as an author, with Beatriz Villarroel of Nordita/KTH/Stockholm University; DOI 10.1038/s41598-025-21620-3, published 20 October 2025.",
+     "source": "Nature Portfolio record for s41598-025-21620-3"
+    },
+    {
+     "tier": 1,
+     "text": "The paper reports transients were about 45% more likely on dates within +/- 1 day of nuclear testing, and an 8.5% increase in transient observations for each additional UAP report on a given date.",
+     "source": "Scientific Reports, abstract"
+    },
+    {
+     "tier": 3,
+     "text": "Publication of this analysis in a Nature Portfolio journal under a Vanderbilt medical affiliation marks a change in what the mainstream literature will accept, and it is the kind of result that cannot be retracted by an agency decision. Reasoning: from the venue and the institutional affiliation on the paper.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "sheffield-hallam",
+   "cls": "institution",
+   "label": "Sheffield Hallam University",
+   "cluster": "research",
+   "sub": "Academic",
+   "desc": "Sheffield Hallam University is a large applied university in Sheffield, England, with a City Campus on Howard Street, roughly 31,000 students and 4,000 staff, and a Gold rating in the Teaching Excellence Framework. It matters to this board as the academic base of Dr David Clarke, the journalism academic who did more than anyone to prise open the British official record: the Freedom of Information campaign that forced release of the Ministry of Defence's Project Condign study, and the consultancy to The National Archives on the MoD UFO files release programme of 2008-2013. Clarke's outputs are deposited in the university's own institutional repository, SHURA, which holds his National Archives UFO-files media and podcast records from that project, his books on the UFO files and on the history of the phenomenon as a modern myth, and his co-authored report on aerial phenomena observed near the Channel Islands in April 2007. The same repository also holds Andrew Robinson's 2025 photographic analysis of the Calvine photograph, the best-known unresolved British UAP image. Sheffield Hallam therefore functions as an archival and evidentiary node rather than a research programme: it is the university whose repository preserves the working record of the person who forced the British files open, which is exactly the sort of independently held documentation a concealment cannot quietly reabsorb.",
+   "sources": [
+    {
+     "name": "Sheffield Hallam University - About us (official)",
+     "url": "https://www.shu.ac.uk/about-us",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "SHURA - Sheffield Hallam University Research Archive, search results for 'UFO' (institutional repository; 56 records incl. Clarke's National Archives MoD UFO files outputs and Robinson's Calvine analysis)",
+     "url": "https://shura.shu.ac.uk/cgi/search/archive/simple?q=UFO&_action_search=Search",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Sheffield Hallam University is based in Sheffield with approximately 31,000 students, nearly 4,000 staff and 345,000 alumni, and holds Gold in the Teaching Excellence Framework.",
+     "source": "shu.ac.uk/about-us"
+    },
+    {
+     "tier": 1,
+     "text": "The university's institutional repository SHURA holds David Clarke's deposited outputs including 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' (2018), 'UFO Files at The National Archives' (2018), 'The UFO files: the inside story of real-life sightings' (National Archives, 2009; Bloomsbury, 2012), 'How UFOs conquered the World' (2015), and the Clarke/Fuller/Shough report on aerial phenomena observed near the Channel Islands, UK, 23 April 2007.",
+     "source": "SHURA search results for 'UFO'"
+    },
+    {
+     "tier": 1,
+     "text": "SHURA also holds Andrew Robinson (2025), 'The Calvine Mystery - The Photographic Analysis of a 35-Year-Old Enigma', presented at the Calvine UFO Mystery 35th Anniversary Research Symposium, Perth & Kinross, 2 August 2025.",
+     "source": "SHURA search results for 'UFO'"
+    },
+    {
+     "tier": 3,
+     "text": "A UK university repository openly indexing a body of MoD-file and Calvine-photograph research is a durable, non-governmental copy of the British record. Reasoning: repository deposits persist independently of the originating agency's retention decisions.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "izmiran",
+   "cls": "institution",
+   "label": "IZMIRAN — Pushkov Institute of Terrestrial Magnetism",
+   "cluster": "research",
+   "sub": "Russian research institute",
+   "desc": "IZMIRAN is the N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences, founded in 1939 and based at Troitsk outside Moscow, with a branch in St Petersburg. Its published work covers geomagnetism, the ionosphere, solar-terrestrial physics, space weather forecasting and radio propagation - the exact disciplines a state would draw on to explain, or to investigate, unexplained atmospheric optical and radar phenomena. That is why it appears on this board: IZMIRAN is the institutional home of the physicist Yury Platov, identified in the secondary literature as chief executive of SETKA-AN, the USSR Academy of Sciences half of the 1978-1990 Soviet state programme on anomalous phenomena that ran alongside the Ministry of Defence's SETKA-MO, and as co-author of the official history of that programme. The Soviet arrangement is instructive by contrast with the American one: the academy side of the programme sat in a named, publicly listed research institute that still exists and still publishes, rather than inside an unacknowledged compartment, which is why the Russian programme has an attributable institutional address at all. No primary Russian archival document establishing IZMIRAN's SETKA role was obtained in this pass, and that is recorded as a gap.",
+   "sources": [
+    {
+     "name": "IZMIRAN - official institute site (N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation, Russian Academy of Sciences)",
+     "url": "https://www.izmiran.ru/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Stonehill P. & Mantle P., 'Setka' (article on the Soviet SETKA-AN / SETKA-MO programme), via Internet Archive",
+     "url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf",
+     "date": "2010-11-19"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "IZMIRAN is the N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences, founded in 1939, with research programmes in ionospheric physics, magnetism, solar-terrestrial physics and space weather prediction, and a St Petersburg branch.",
+     "source": "izmiran.ru (official)"
+    },
+    {
+     "tier": 2,
+     "text": "Yury Viktorovich Platov, an IZMIRAN physicist, is identified in the published secondary literature on the Soviet programme as chief executive of SETKA-AN, the Academy of Sciences component of the 1978-1990 USSR anomalous-phenomena programme, and as co-author of its official history.",
+     "source": "Stonehill & Mantle, 'Setka'; recorded elsewhere on this board under yury-platov"
+    },
+    {
+     "tier": 3,
+     "text": "The Soviet decision to run the scientific half of its anomalous-phenomena programme inside a named academy institute rather than an unacknowledged compartment is why an institutional address survives at all on the Russian side. Reasoning: comparison with the US case, where the equivalent work is only traceable through litigation and leak.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "senado-brasil",
+   "cls": "institution",
+   "label": "Senado Federal do Brasil",
+   "cluster": "oversight",
+   "sub": "Foreign legislature",
+   "desc": "The Senado Federal is the upper chamber of Brazil's National Congress, composed of 81 senators - three for each of the 26 states and the Federal District - elected to eight-year terms, with the constitutional powers of legislative revision, treaty approval, confirmation of senior appointments and the summoning of ministers and officials to give evidence. Its relevance to this board is carried by Senator Eduardo Girão of Ceará (Senate member code 5976, elected for the 56th legislature and continuing into the 57th), who has pressed publicly for the Brazilian state's UAP record to be opened and who brought the January 1996 Varginha case to Capitol Hill on its thirtieth anniversary in 2026. Brazil is a comparative test case for the concealment thesis in a way few countries are: its military UFO files were transferred to the Arquivo Nacional and made citizen-accessible, and the 1986 air force incident is documented in that archive, so Brazil has already done what the American programme is alleged to be preventing. A national legislature that can summon officials, and that contains a member actively pursuing the Varginha file, is a live route by which the non-US half of the record can be forced open - and it is a route the United States cannot classify. No primary Senate legislative instrument on UAP was located in this pass; the Senate's keyword search service for legislative matters has been deprecated and its replacement returns unfiltered results.",
+   "sources": [
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Senado Federal - official profile page of Senador Eduardo Girão (member code 5976)",
+     "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5976",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Senado Federal - institutional portal",
+     "url": "https://www12.senado.leg.br/institucional",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Senado Federal's official open-data service lists 81 senators in exercise as of August 2026.",
+     "source": "legis.senado.leg.br/dadosabertos/senador/lista/atual"
+    },
+    {
+     "tier": 1,
+     "text": "Eduardo Girão (NOVO, Ceará) is recorded in the Senate's official parliamentarian register under member code 5976, listed in both the 56th and 57th legislatures, with an official Senate profile page.",
+     "source": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57"
+    },
+    {
+     "tier": 2,
+     "text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
+     "source": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)"
+    },
+    {
+     "tier": 3,
+     "text": "A foreign legislature with subpoena-equivalent summoning power and a member already pursuing a specific recovery case is the disclosure vector least reachable by US classification authority. Reasoning: US control instruments bind US persons and contractors, not the Brazilian Senate.",
+     "source": "Inference"
+    }
+   ]
+  },
+  {
+   "id": "hospital-regional-varginha",
+   "cls": "institution",
+   "label": "Hospital Regional de Varginha",
+   "cluster": "other",
+   "sub": "Medical facility",
+   "desc": "The facility referred to in the Varginha literature as the Hospital Regional de Varginha is registered in Brazil's national health-establishment register, CNES, as the Hospital Regional do Sul de Minas, CNES code 2761041, at Rua Rui Barbosa 158, Centro, Varginha, Minas Gerais (CEP 37002-140), under municipal administration, operating continuous 24-hour service and providing SUS outpatient care. Varginha's other registered hospitals in the same register include the Hospital Bom Pastor, run by the municipal hospital foundation, and the Hospital Unimed Varginha. The hospital is on this board because it is one of the medical facilities named in the January 1996 Varginha case as a place to which an injured creature was reportedly taken and held before being moved on, in the sequence involving military and fire-brigade personnel that is recorded elsewhere on this board as ev-varginha-1996. The case is not a historical curiosity: it was carried to Capitol Hill on its thirtieth anniversary, and on 8 July 2026 a congressional demand went to the CIA and FBI for records on the Varginha and Campinas incidents - meaning that a municipal hospital in Minas Gerais is now a named location in an American records fight. What exists here as verified fact is the facility and its registry entry; the 1996 hospital-custody sequence rests on witness testimony and journalism, not on any hospital record obtained in this pass.",
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "CNES - health establishments registered in the municipality of Varginha/MG (IBGE code 317070)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=317070",
+     "date": "2026-08-12"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
+     "source": "Ministério da Saúde CNES open data, establishment 2761041"
+    },
+    {
+     "tier": 1,
+     "text": "Other hospitals registered in Varginha in the same national register include Hospital Bom Pastor (CNES 2761092, Fundação Hospitalar do Município de Varginha) and Hospital Unimed Varginha (CNES 2761319).",
+     "source": "Ministério da Saúde CNES open data, município 317070"
+    },
+    {
+     "tier": 3,
+     "text": "The identification of the 'Hospital Regional de Varginha' of the 1996 case narrative with the registered Hospital Regional do Sul de Minas is a reasoned match on name, city and the fact that it is the only regional hospital in the municipal register. Reasoning: no contemporaneous 1996 hospital document was obtained to confirm the identification.",
+     "source": "Inference from the CNES register"
+    },
+    {
+     "tier": 3,
+     "text": "No hospital admission, transfer or incident record from January 1996 was located in this pass; the custody sequence at this facility remains testimony-based and is a wave-4 target for Brazilian archival and municipal records requests.",
+     "source": "Research status"
+    }
+   ]
+  }
+ ],
+ "edges": [],
+ "timeline": [],
+ "entityInfo": {},
+ "gaps": [
+  "soyuzufotsentr — left as a stub. Not in this pass's assignable set and no official site or primary Russian record for the USSR inter-industry ufology centre was reachable without web search. Wave 4: Russian State Archive / Academy of Sciences holdings, and Azhazha's published affiliations.",
+  "saf-aaz — the dossier rests on AFI 16-701 (18 Feb 2014) retrieved via Internet Archive; the current DAF edition (DAFI 16-701) is not retrievable, static.e-publishing.af.mil returns 403 to automated requests and safaa.hq.af.mil no longer resolves. Wave 4: current DAFI 16-701, and the AF SAPCO's congressional notification records.",
+  "saf-aaz — no primary record was found linking SAF/AAZ to any UAP-specific programme. AARO's Historical Record Report Volume 1 was searched in full text and does not mention SAF/AAZ. The node's relevance is structural (it holds SAP access approval and SAP declassification authority), not evidenced.",
+  "509th-bomb-group — the AFHRA/DAF History lineage fact sheet (article 434118) could not be retrieved; the af.mil fact-sheet endpoints return a search interface rather than the record. Wave 4: AFHRA lineage-and-honors sheet for the 509th Composite/Bomb Group, and the July 1947 unit history itself at NARA.",
+  "izmiran — no primary Russian archival citation for SETKA-AN or for IZMIRAN's role in it was obtained; the SETKA attribution is carried by the Stonehill & Mantle secondary article only. Wave 4: RAS archive, Platov's own published programme history.",
+  "senado-brasil — no primary Senate legislative instrument (projeto, requerimento or hearing record) on UAP was located. The Senate's palavraChave search on the legislative-matters API is deprecated (data desativação 2026-02-01) and the replacement /dadosabertos/processo endpoint ignores keyword filters, returning the full tramitando dump (10,781 records, zero UAP-related ementas). Wave 4: Senate committee requerimento records and the Arquivo Nacional UFO transfer instrument.",
+  "hospital-regional-varginha — the CNES registry confirms the facility but no 1996 hospital, military or police document was obtained. The custody sequence remains testimony-based.",
+  "enigma-labs — the company publishes no founder names, no team page (enigmalabs.io/team returns 404) and no verification methodology; corpus size figures are self-reported.",
+  "wayne-state-university — med.wayne.edu is unreachable to automated fetch (robots endpoint times out); the institutional source used is the main wayne.edu About page. No Wayne State institutional record of Green's appointment was retrieved.",
+  "us-navy — the 2019 Navy UAP reporting-guidance message and the OPNAV/Fleet Forces implementing instruction were not retrieved as primary documents in this pass; only the 27 April 2020 DoD video-release statement.",
+  "the-intercept and pogo — both dossiers rest on the organisations' own About pages. Neither has a documented UAP-specific publication or intake recorded here; their board role is infrastructural and is graded Tier 3 as such."
+ ]
+}

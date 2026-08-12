@@ -1,0 +1,144 @@
+{
+ "dod": {
+  "count": 18,
+  "files": [
+   "aviators-incidents",
+   "congress-house",
+   "grusch",
+   "media-structure",
+   "releases-2023-2026",
+   "uaptf-aaro"
+  ]
+ },
+ "nimitz-2004": {
+  "count": 13,
+  "files": [
+   "aviators-incidents",
+   "congress-senate-legislation",
+   "scientists-technical"
+  ]
+ },
+ "immaculate-constellation": {
+  "count": 10,
+  "files": [
+   "aviators-incidents",
+   "congress-house",
+   "media-structure",
+   "releases-2023-2026",
+   "uaptf-aaro"
+  ]
+ },
+ "cia": {
+  "count": 9,
+  "files": [
+   "congress-house",
+   "history-1940s-1960s",
+   "history-1970s-2000s",
+   "media-structure",
+   "primes-custody",
+   "scientists-technical"
+  ]
+ },
+ "l-wright-patterson": {
+  "count": 7,
+  "files": [
+   "aviators-incidents",
+   "congress-house",
+   "ffrdcs",
+   "grusch",
+   "history-1940s-1960s",
+   "history-1970s-2000s"
+  ]
+ },
+ "doe": {
+  "count": 5,
+  "files": [
+   "ffrdcs",
+   "media-structure",
+   "uaptf-aaro"
+  ]
+ },
+ "l-kirtland": {
+  "count": 4,
+  "files": [
+   "ffrdcs",
+   "history-1970s-2000s",
+   "uaptf-aaro"
+  ]
+ },
+ "nasa": {
+  "count": 3,
+  "files": [
+   "aviators-incidents",
+   "releases-2023-2026"
+  ]
+ },
+ "afosi": {
+  "count": 3,
+  "files": [
+   "elizondo-ttsa",
+   "history-1970s-2000s",
+   "media-structure"
+  ]
+ },
+ "nro": {
+  "count": 2,
+  "files": [
+   "grusch",
+   "media-structure"
+  ]
+ },
+ "ndaa-fy2023": {
+  "count": 2,
+  "files": [
+   "grusch",
+   "uaptf-aaro"
+  ]
+ },
+ "l-roswell": {
+  "count": 2,
+  "files": [
+   "history-1940s-1960s",
+   "history-1970s-2000s"
+  ]
+ },
+ "stargate-program": {
+  "count": 2,
+  "files": [
+   "history-1970s-2000s",
+   "scientists-technical"
+  ]
+ },
+ "oni": {
+  "count": 2,
+  "files": [
+   "media-structure",
+   "uaptf-aaro"
+  ]
+ },
+ "odni": {
+  "count": 2,
+  "files": [
+   "media-structure",
+   "releases-2023-2026"
+  ]
+ },
+ "l-groom-lake": {
+  "count": 2,
+  "files": [
+   "primes-custody"
+  ]
+ },
+ "nga": {
+  "count": 1,
+  "files": [
+   "grusch"
+  ]
+ },
+ "dhs": {
+  "count": 1,
+  "files": [
+   "uaptf-aaro"
+  ]
+ }
+}

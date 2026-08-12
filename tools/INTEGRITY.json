@@ -1,0 +1,414 @@
+{
+ "edge_without_source": [
+  "ndaa-fy2023-sec-6802->aaro (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-historical-record-vol1 (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-historical-record-vol2 (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2023-annual-report (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2024-annual-report (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2025-annual-report (programmatic)",
+  "aaro->aaro-historical-record-vol2 (institutional)",
+  "aaro-historical-record-vol1->aaro-historical-record-vol2 (temporal)",
+  "aaro-historical-record-vol1->yankee-blue (investigative)",
+  "aaro->odni-preliminary-assessment-2021 (institutional)",
+  "odni-preliminary-assessment-2021->odni-2022-annual-report (temporal)",
+  "odni-2022-annual-report->aaro-fy2023-annual-report (temporal)",
+  "aaro-fy2024-annual-report->aaro-fy2025-annual-report (temporal)",
+  "nasa-uapist-report->aaro-historical-record-vol1 (research)",
+  "uap-task-force->odni-preliminary-assessment-2021 (institutional)",
+  "harry-reid->aawsap (programmatic)",
+  "harry-reid->reid-letter-2009-06-24 (programmatic)",
+  "reid-letter-2009-06-24->dia-sap-denial-2009 (programmatic)",
+  "aawsap->baass (programmatic)",
+  "baass->bigelow-aerospace (programmatic)",
+  "aawsap->dird-series (programmatic)",
+  "aawsap->aawsap-contract-hhm402-08-c-0072 (programmatic)",
+  "dird-series->dird-advanced-nuclear-propulsion-for-manned-deep (programmatic)",
+  "dird-series->dird-advanced-space-propulsion-based-on-vacuum (programmatic)",
+  "dird-series->dird-aerospace-applications-of-programmable-matter (programmatic)",
+  "dird-series->dird-an-introduction-to-the-statistical-drake (programmatic)",
+  "dird-series->dird-aneutronic-fusion-propulsion (programmatic)",
+  "dird-series->dird-aneutronic-fusion-propulsion-2 (programmatic)",
+  "dird-series->dird-anomalous-acute-and-subacute-field-effects (programmatic)",
+  "dird-series->dird-antigravity-for-aerospace-applications (programmatic)",
+  "dird-series->dird-biosensors-and-biomems-a-survey-of (programmatic)",
+  "dird-series->dird-cockpits-in-the-era-of-breakthrough (programmatic)",
+  "dird-series->dird-cognitive-limits-on-simultaneous-control-of (programmatic)",
+  "dird-series->dird-concepts-for-extracting-energy-from-the (programmatic)",
+  "dird-series->dird-detection-and-high-resolution-tracking-of (programmatic)",
+  "dird-series->dird-high-frequency-gravitational-wave-communications (programmatic)",
+  "dird-series->dird-inertial-electrostatic-confinement-fusion (programmatic)",
+  "dird-series->dird-invisibility-cloaking-theory-and-experiments (programmatic)",
+  "dird-series->dird-laser-lightcraft-nanosatellites (programmatic)",
+  "dird-series->dird-maverick-inventor-versus-corporate-inventor-where (programmatic)",
+  "dird-series->dird-mhd-air-breathing-propulsion-and-power (programmatic)",
+  "dird-series->dird-negative-mass-propulsion (programmatic)",
+  "dird-series->dird-positron-aerospace-propulsion (programmatic)",
+  "dird-series->dird-pulsed-high-power-microwave-source-technology (programmatic)",
+  "dird-series->dird-quantum-computing-and-utilizing-organic-molecules (programmatic)",
+  "dird-series->dird-quantum-tomography-of-negative-energy-states (programmatic)",
+  "dird-series->dird-space-access-where-we-ve-been (programmatic)",
+  "dird-series->dird-state-of-the-art-and-evolution (programmatic)",
+  "dird-series->dird-the-role-of-superconductors-in-gravity (programmatic)",
+  "dird-series->dird-the-space-communication-implications-of-quantum (programmatic)",
+  "dird-series->dird-traversable-wormholes-stargates-and-negative-energy (programmatic)",
+  "dird-series->dird-ultracapacitors-as-energy-and-power-storage (programmatic)",
+  "dird-series->dird-warp-drive-dark-energy-and-the (programmatic)",
+  "dird-series->dird-technological-approaches-to-controlling-external-devices (programmatic)",
+  "usc-10-119e->waived-usap-mechanism (programmatic)",
+  "usc-10-119->defense-committees (programmatic)",
+  "eo-13526->usc-10-119 (programmatic)",
+  "cfr-32-117->carve-out (programmatic)",
+  "carve-out->dcsa-nisp (programmatic)",
+  "dodi-5205-11->waived-usap-mechanism (programmatic)",
+  "dodd-5205-07-2024->dodd-5205-07-2010 (programmatic)",
+  "dodm-5205-07-series->dodd-5205-07-2010 (programmatic)",
+  "usc-50-3348->usc-10-119 (programmatic)",
+  "usc-50-3348->usc-50-2426 (programmatic)",
+  "usc-50-3091a->icd-906 (programmatic)",
+  "icd-906->odni-capco (programmatic)",
+  "odni-capco->capco-register (programmatic)",
+  "usc-50-3091a-2024amend->usc-50-3091a (programmatic)",
+  "usc-50-3091a-2024amend->sap-taxonomy (programmatic)",
+  "ndaa-fy2024-1687->waived-usap-mechanism (programmatic)",
+  "dod-sapco-arch->sap-annual-report (programmatic)",
+  "eo-12829->cfr-32-117 (programmatic)",
+  "accm->four-regime-map (programmatic)"
+ ],
+ "edge_without_note": [
+  "ndaa-fy2023-sec-6802->aaro (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-historical-record-vol1 (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-historical-record-vol2 (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2023-annual-report (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2024-annual-report (programmatic)",
+  "ndaa-fy2023-sec-6802->aaro-fy2025-annual-report (programmatic)",
+  "aaro->aaro-historical-record-vol2 (institutional)",
+  "aaro-historical-record-vol1->aaro-historical-record-vol2 (temporal)",
+  "aaro-historical-record-vol1->yankee-blue (investigative)",
+  "aaro->odni-preliminary-assessment-2021 (institutional)",
+  "odni-preliminary-assessment-2021->odni-2022-annual-report (temporal)",
+  "odni-2022-annual-report->aaro-fy2023-annual-report (temporal)",
+  "aaro-fy2024-annual-report->aaro-fy2025-annual-report (temporal)",
+  "nasa-uapist-report->aaro-historical-record-vol1 (research)",
+  "uap-task-force->odni-preliminary-assessment-2021 (institutional)",
+  "harry-reid->aawsap (programmatic)",
+  "harry-reid->reid-letter-2009-06-24 (programmatic)",
+  "reid-letter-2009-06-24->dia-sap-denial-2009 (programmatic)",
+  "aawsap->baass (programmatic)",
+  "baass->bigelow-aerospace (programmatic)",
+  "aawsap->dird-series (programmatic)",
+  "aawsap->aawsap-contract-hhm402-08-c-0072 (programmatic)",
+  "dird-series->dird-advanced-nuclear-propulsion-for-manned-deep (programmatic)",
+  "dird-series->dird-advanced-space-propulsion-based-on-vacuum (programmatic)",
+  "dird-series->dird-aerospace-applications-of-programmable-matter (programmatic)",
+  "dird-series->dird-an-introduction-to-the-statistical-drake (programmatic)",
+  "dird-series->dird-aneutronic-fusion-propulsion (programmatic)",
+  "dird-series->dird-aneutronic-fusion-propulsion-2 (programmatic)",
+  "dird-series->dird-anomalous-acute-and-subacute-field-effects (programmatic)",
+  "dird-series->dird-antigravity-for-aerospace-applications (programmatic)",
+  "dird-series->dird-biosensors-and-biomems-a-survey-of (programmatic)",
+  "dird-series->dird-cockpits-in-the-era-of-breakthrough (programmatic)",
+  "dird-series->dird-cognitive-limits-on-simultaneous-control-of (programmatic)",
+  "dird-series->dird-concepts-for-extracting-energy-from-the (programmatic)",
+  "dird-series->dird-detection-and-high-resolution-tracking-of (programmatic)",
+  "dird-series->dird-high-frequency-gravitational-wave-communications (programmatic)",
+  "dird-series->dird-inertial-electrostatic-confinement-fusion (programmatic)",
+  "dird-series->dird-invisibility-cloaking-theory-and-experiments (programmatic)",
+  "dird-series->dird-laser-lightcraft-nanosatellites (programmatic)",
+  "dird-series->dird-maverick-inventor-versus-corporate-inventor-where (programmatic)",
+  "dird-series->dird-mhd-air-breathing-propulsion-and-power (programmatic)",
+  "dird-series->dird-negative-mass-propulsion (programmatic)",
+  "dird-series->dird-positron-aerospace-propulsion (programmatic)",
+  "dird-series->dird-pulsed-high-power-microwave-source-technology (programmatic)",
+  "dird-series->dird-quantum-computing-and-utilizing-organic-molecules (programmatic)",
+  "dird-series->dird-quantum-tomography-of-negative-energy-states (programmatic)",
+  "dird-series->dird-space-access-where-we-ve-been (programmatic)",
+  "dird-series->dird-state-of-the-art-and-evolution (programmatic)",
+  "dird-series->dird-the-role-of-superconductors-in-gravity (programmatic)",
+  "dird-series->dird-the-space-communication-implications-of-quantum (programmatic)",
+  "dird-series->dird-traversable-wormholes-stargates-and-negative-energy (programmatic)",
+  "dird-series->dird-ultracapacitors-as-energy-and-power-storage (programmatic)",
+  "dird-series->dird-warp-drive-dark-energy-and-the (programmatic)",
+  "dird-series->dird-technological-approaches-to-controlling-external-devices (programmatic)",
+  "usc-10-119e->waived-usap-mechanism (programmatic)",
+  "usc-10-119->defense-committees (programmatic)",
+  "eo-13526->usc-10-119 (programmatic)",
+  "cfr-32-117->carve-out (programmatic)",
+  "carve-out->dcsa-nisp (programmatic)",
+  "dodi-5205-11->waived-usap-mechanism (programmatic)",
+  "dodd-5205-07-2024->dodd-5205-07-2010 (programmatic)",
+  "dodm-5205-07-series->dodd-5205-07-2010 (programmatic)",
+  "usc-50-3348->usc-10-119 (programmatic)",
+  "usc-50-3348->usc-50-2426 (programmatic)",
+  "usc-50-3091a->icd-906 (programmatic)",
+  "icd-906->odni-capco (programmatic)",
+  "odni-capco->capco-register (programmatic)",
+  "usc-50-3091a-2024amend->usc-50-3091a (programmatic)",
+  "usc-50-3091a-2024amend->sap-taxonomy (programmatic)",
+  "ndaa-fy2024-1687->waived-usap-mechanism (programmatic)",
+  "dod-sapco-arch->sap-annual-report (programmatic)",
+  "eo-12829->cfr-32-117 (programmatic)",
+  "accm->four-regime-map (programmatic)"
+ ],
+ "person_thin_sourcing": [
+  {
+   "id": "jason-turner",
+   "sources": 1
+  },
+  {
+   "id": "clay-higgins",
+   "sources": 1
+  },
+  {
+   "id": "jamie-raskin",
+   "sources": 1
+  },
+  {
+   "id": "mike-gallagher",
+   "sources": 1
+  },
+  {
+   "id": "william-mccasland",
+   "sources": 1
+  },
+  {
+   "id": "thomas-crosson",
+   "sources": 1
+  },
+  {
+   "id": "joseph-gradisher",
+   "sources": 1
+  },
+  {
+   "id": "john-garrity",
+   "sources": 1
+  },
+  {
+   "id": "jeffery-langhout",
+   "sources": 1
+  },
+  {
+   "id": "donald-kerr",
+   "sources": 1
+  },
+  {
+   "id": "edward-teller",
+   "sources": 1
+  },
+  {
+   "id": "jonathan-grey",
+   "sources": 1
+  },
+  {
+   "id": "david-abba",
+   "sources": 1
+  },
+  {
+   "id": "mark-milley",
+   "sources": 1
+  },
+  {
+   "id": "robert-low",
+   "sources": 1
+  },
+  {
+   "id": "james-mcdonald",
+   "sources": 1
+  },
+  {
+   "id": "jeremy-corbell",
+   "sources": 1
+  },
+  {
+   "id": "tim-mcmillan",
+   "sources": 1
+  },
+  {
+   "id": "bryce-zabel",
+   "sources": 1
+  },
+  {
+   "id": "ben-rich",
+   "sources": 1
+  },
+  {
+   "id": "james-ryder",
+   "sources": 1
+  },
+  {
+   "id": "alejandro-rojas",
+   "sources": 1
+  },
+  {
+   "id": "sean-parnell",
+   "sources": 1
+  },
+  {
+   "id": "sizun-jiang",
+   "sources": 1
+  },
+  {
+   "id": "bernard-norlain",
+   "sources": 1
+  },
+  {
+   "id": "andre-lebeau",
+   "sources": 1
+  },
+  {
+   "id": "sergio-bravo-flores",
+   "sources": 1
+  },
+  {
+   "id": "yury-platov",
+   "sources": 1
+  },
+  {
+   "id": "eduardo-girao",
+   "sources": 1
+  },
+  {
+   "id": "italo-venturelli",
+   "sources": 1
+  },
+  {
+   "id": "stanton-friedman",
+   "sources": 1
+  },
+  {
+   "id": "jim-ragsdale",
+   "sources": 1
+  },
+  {
+   "id": "gerald-anderson",
+   "sources": 1
+  },
+  {
+   "id": "grant-cameron",
+   "sources": 1
+  },
+  {
+   "id": "william-l-moore",
+   "sources": 1
+  },
+  {
+   "id": "aaron-lukas",
+   "sources": 0
+  }
+ ],
+ "person_without_date": [
+  "p-alexandro-wiggins",
+  "p-jeffrey-nuccetelli",
+  "p-dylan-borland",
+  "p-joe-spielberger",
+  "p-aaron-lukas",
+  "steve-feinberg",
+  "william-b-adkins",
+  "mark-skidmore",
+  "catherine-austin-fitts",
+  "laurence-kotlikoff",
+  "steven-aftergood",
+  "brett-mansfield",
+  "platte-moring",
+  "michael-powers-comptroller",
+  "terry-patton",
+  "david-clarke-uk",
+  "gary-anthony-uk",
+  "denis-letty",
+  "bernard-norlain",
+  "andre-lebeau",
+  "jj-velasco",
+  "claude-poher",
+  "pessoa-cavalcanti",
+  "ricardo-bermudez",
+  "sergio-bravo-flores",
+  "mona-nemer",
+  "vladimir-azhazha",
+  "yury-platov",
+  "eduardo-girao",
+  "italo-venturelli",
+  "don-schmitt",
+  "robert-m-wood",
+  "ryan-wood",
+  "richard-dolan",
+  "grant-cameron",
+  "robert-hastings",
+  "robert-salas",
+  "richard-weaver-usaf",
+  "william-l-moore",
+  "john-schuessler",
+  "stan-gordon"
+ ],
+ "person_without_narrative": [
+  "aaron-lukas"
+ ],
+ "entity_without_desc": [
+  "pogo",
+  "the-intercept",
+  "saf-aaz",
+  "wayne-state-university",
+  "enigma-labs",
+  "vanderbilt-university",
+  "blue-marble-space-institute",
+  "us-navy",
+  "sheffield-hallam",
+  "canada-dot",
+  "dgac-chile",
+  "ocsa-canada",
+  "soyuzufotsentr",
+  "izmiran",
+  "senado-brasil",
+  "hospital-regional-varginha",
+  "509th-bomb-group"
+ ],
+ "entity_without_source": [
+  "pogo",
+  "the-intercept",
+  "saf-aaz",
+  "wayne-state-university",
+  "enigma-labs",
+  "vanderbilt-university",
+  "blue-marble-space-institute",
+  "us-navy",
+  "sheffield-hallam",
+  "canada-dot",
+  "dgac-chile",
+  "ocsa-canada",
+  "soyuzufotsentr",
+  "izmiran",
+  "senado-brasil",
+  "hospital-regional-varginha",
+  "509th-bomb-group"
+ ],
+ "timeline_bad_node_ref": [
+  {
+   "id": "tl-grusch-presser",
+   "node": "p-david-grusch"
+  }
+ ],
+ "tierA_underconnected": [
+  {
+   "id": "p-alexandro-wiggins",
+   "degree": 2
+  },
+  {
+   "id": "p-jeffrey-nuccetelli",
+   "degree": 1
+  },
+  {
+   "id": "p-aaron-lukas",
+   "degree": 1
+  },
+  {
+   "id": "iaa-fy2024-7343",
+   "degree": 2
+  },
+  {
+   "id": "ndaa26-uap-provisions",
+   "degree": 1
+  },
+  {
+   "id": "dodm-5205-07-series",
+   "degree": 2
+  }
+ ]
+}
