@@ -427,6 +427,33 @@ PRIMARY_URL_PAT = re.compile(
 
 demotions = []
 
+# --- interested parties ------------------------------------------------------
+# AARO, its predecessor offices and DoD public affairs are not neutral archives.
+# They are participants in the thing this board documents, and multiple witnesses
+# have testified that AARO under Kirkpatrick functioned to surface and neutralise
+# whistleblowers rather than to investigate. Publishing on aaro.mil therefore makes
+# a document a PRIMARY RECORD OF THE STATEMENT, not a primary record of the fact
+# asserted in it.
+#
+# This is the same distinction the board already makes about denials: "a denial is
+# a dated, signed, attributable statement, which makes it evidence about the
+# denier." That reasoning was applied to the `denial` edge type and never applied
+# to sourcing, so 123 claims were sitting at Tier 1 on the strength of an aaro.mil
+# or defense.gov URL alone — the board's highest evidentiary grade, awarded to the
+# interested party's own account of itself.
+INTERESTED_PARTY_PAT = re.compile(
+    r"aaro\.mil|(?:^|//|\.)defense\.gov|war\.gov|dvidshub|media\.defense\.gov|"
+    r"pentagon\.mil|\bdodcio\b", re.I)
+
+# A claim ABOUT what an interested party said is legitimately Tier 1 from that
+# party's own publication — there, the statement IS the fact. Only claims that use
+# the interested party as an authority for an external fact get capped.
+ATTRIBUTION_PAT = re.compile(
+    r"\b(denie[ds]|denial|declined|stated|states|said|asserts?|asserted|claims|"
+    r"claimed|announced|acknowledg|concluded|reported that|wrote|testified|"
+    r"responded|maintains?|characteri[sz]ed|according to (?:aaro|the )?(?:dod|"
+    r"department of defense|pentagon))\b", re.I)
+
 
 def remediate_tiers(people, entities):
     """Demote Tier 1 claims that no primary record actually backs.
@@ -451,6 +478,10 @@ def remediate_tiers(people, entities):
                 why = "no attributed source"
             elif not has_primary and SECONDARY_PAT.search(urls):
                 why = "node carries no primary-record URL"
+            elif (INTERESTED_PARTY_PAT.search(src)
+                  and not ATTRIBUTION_PAT.search(c.get("text") or "")):
+                why = ("sourced to an interested party (AARO/DoD) asserting an external "
+                       "fact; primary record of the statement, not of the fact")
             if why:
                 c["tier"] = 2
                 if "needs primary" not in c["source"].lower():

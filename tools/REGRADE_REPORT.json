@@ -17,7 +17,7 @@
    "from": "B",
    "to": "A",
    "score": 79.0,
-   "rank": 39,
+   "rank": 38,
    "degree": 13,
    "program_edges": 1,
    "denials": 4
@@ -61,7 +61,7 @@
    "from": "C",
    "to": "A",
    "score": 48.0,
-   "rank": 125,
+   "rank": 124,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -72,21 +72,10 @@
    "from": "B",
    "to": "A",
    "score": 47.0,
-   "rank": 131,
+   "rank": 130,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
-  },
-  {
-   "id": "house-oversight-committee",
-   "cls": "institution",
-   "from": "A",
-   "to": "B",
-   "score": 45.0,
-   "rank": 146,
-   "degree": 15,
-   "program_edges": 2,
-   "denials": 2
   },
   {
    "id": "dd-form-1910-2017",
@@ -94,7 +83,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 147,
+   "rank": 146,
    "degree": 4,
    "program_edges": 2,
    "denials": 1
@@ -105,7 +94,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 148,
+   "rank": 147,
    "degree": 6,
    "program_edges": 1,
    "denials": 1
@@ -116,7 +105,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 149,
+   "rank": 148,
    "degree": 9,
    "program_edges": 2,
    "denials": 0
@@ -127,7 +116,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 150,
+   "rank": 149,
    "degree": 6,
    "program_edges": 5,
    "denials": 0
@@ -138,7 +127,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 151,
+   "rank": 150,
    "degree": 6,
    "program_edges": 3,
    "denials": 0
@@ -149,7 +138,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 152,
+   "rank": 151,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -160,21 +149,21 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 153,
+   "rank": 152,
    "degree": 4,
    "program_edges": 0,
    "denials": 2
   },
   {
-   "id": "pursue-release-02",
+   "id": "pursue-release-03",
    "cls": "event",
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 154,
+   "rank": 153,
    "degree": 4,
-   "program_edges": 2,
-   "denials": 1
+   "program_edges": 4,
+   "denials": 0
   },
   {
    "id": "waived-usap",
@@ -182,7 +171,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 155,
+   "rank": 154,
    "degree": 6,
    "program_edges": 0,
    "denials": 1
@@ -193,7 +182,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 156,
+   "rank": 155,
    "degree": 6,
    "program_edges": 0,
    "denials": 1
@@ -204,7 +193,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 157,
+   "rank": 156,
    "degree": 6,
    "program_edges": 3,
    "denials": 1
@@ -215,7 +204,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 158,
+   "rank": 157,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -226,7 +215,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 159,
+   "rank": 158,
    "degree": 5,
    "program_edges": 1,
    "denials": 1
@@ -237,7 +226,7 @@
    "from": "A",
    "to": "B",
    "score": 43.0,
-   "rank": 160,
+   "rank": 159,
    "degree": 7,
    "program_edges": 1,
    "denials": 0
@@ -248,7 +237,7 @@
    "from": "A",
    "to": "B",
    "score": 43.0,
-   "rank": 161,
+   "rank": 160,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -259,10 +248,21 @@
    "from": "A",
    "to": "B",
    "score": 43.0,
-   "rank": 162,
+   "rank": 161,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
+  },
+  {
+   "id": "pursue-release-02",
+   "cls": "event",
+   "from": "A",
+   "to": "B",
+   "score": 43.0,
+   "rank": 162,
+   "degree": 4,
+   "program_edges": 2,
+   "denials": 1
   },
   {
    "id": "accm",
@@ -386,34 +386,12 @@
    "denials": 0
   },
   {
-   "id": "pursue-release-01",
-   "cls": "event",
-   "from": "A",
-   "to": "B",
-   "score": 42.0,
-   "rank": 174,
-   "degree": 3,
-   "program_edges": 3,
-   "denials": 0
-  },
-  {
-   "id": "dod-agencywide-audit",
-   "cls": "program",
-   "from": "A",
-   "to": "B",
-   "score": 42.0,
-   "rank": 175,
-   "degree": 8,
-   "program_edges": 2,
-   "denials": 0
-  },
-  {
    "id": "twining-memo",
    "cls": "document",
    "from": "A",
    "to": "B",
    "score": 42.0,
-   "rank": 176,
+   "rank": 174,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -424,7 +402,7 @@
    "from": "A",
    "to": "B",
    "score": 42.0,
-   "rank": 177,
+   "rank": 175,
    "degree": 6,
    "program_edges": 0,
    "denials": 4
@@ -435,7 +413,7 @@
    "from": "A",
    "to": "B",
    "score": 42.0,
-   "rank": 178,
+   "rank": 176,
    "degree": 3,
    "program_edges": 3,
    "denials": 0
@@ -446,9 +424,20 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 179,
+   "rank": 177,
    "degree": 3,
    "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "pursue-release-01",
+   "cls": "event",
+   "from": "A",
+   "to": "B",
+   "score": 41.0,
+   "rank": 178,
+   "degree": 3,
+   "program_edges": 3,
    "denials": 0
   },
   {
@@ -457,7 +446,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 180,
+   "rank": 179,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -468,7 +457,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 181,
+   "rank": 180,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -479,7 +468,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 182,
+   "rank": 181,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -490,7 +479,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 183,
+   "rank": 182,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -501,7 +490,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 184,
+   "rank": 183,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -512,7 +501,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 185,
+   "rank": 184,
    "degree": 4,
    "program_edges": 1,
    "denials": 1
@@ -523,7 +512,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 186,
+   "rank": 185,
    "degree": 5,
    "program_edges": 3,
    "denials": 0
@@ -534,7 +523,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 187,
+   "rank": 186,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -545,7 +534,7 @@
    "from": "A",
    "to": "B",
    "score": 41.0,
-   "rank": 188,
+   "rank": 187,
    "degree": 4,
    "program_edges": 1,
    "denials": 1
@@ -556,21 +545,10 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 189,
+   "rank": 188,
    "degree": 5,
    "program_edges": 1,
    "denials": 1
-  },
-  {
-   "id": "aaro-fy2023-annual-report",
-   "cls": "document",
-   "from": "A",
-   "to": "B",
-   "score": 40.0,
-   "rank": 190,
-   "degree": 4,
-   "program_edges": 1,
-   "denials": 0
   },
   {
    "id": "srg-dod",
@@ -578,7 +556,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 191,
+   "rank": 189,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -589,7 +567,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 192,
+   "rank": 190,
    "degree": 6,
    "program_edges": 1,
    "denials": 0
@@ -600,7 +578,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 193,
+   "rank": 191,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -611,7 +589,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 194,
+   "rank": 192,
    "degree": 8,
    "program_edges": 0,
    "denials": 0
@@ -622,7 +600,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 195,
+   "rank": 193,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -633,7 +611,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 196,
+   "rank": 194,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -644,7 +622,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 197,
+   "rank": 195,
    "degree": 5,
    "program_edges": 2,
    "denials": 1
@@ -655,7 +633,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 198,
+   "rank": 196,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -666,7 +644,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 199,
+   "rank": 197,
    "degree": 3,
    "program_edges": 2,
    "denials": 1
@@ -677,7 +655,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 200,
+   "rank": 198,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -688,7 +666,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 201,
+   "rank": 199,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -699,7 +677,7 @@
    "from": "A",
    "to": "B",
    "score": 40.0,
-   "rank": 202,
+   "rank": 200,
    "degree": 10,
    "program_edges": 2,
    "denials": 0
@@ -710,7 +688,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 203,
+   "rank": 201,
    "degree": 3,
    "program_edges": 0,
    "denials": 2
@@ -721,7 +699,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 204,
+   "rank": 202,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -732,7 +710,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 205,
+   "rank": 203,
    "degree": 5,
    "program_edges": 5,
    "denials": 0
@@ -743,7 +721,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 206,
+   "rank": 204,
    "degree": 5,
    "program_edges": 4,
    "denials": 0
@@ -754,7 +732,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 207,
+   "rank": 205,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -765,7 +743,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 208,
+   "rank": 206,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -776,7 +754,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 209,
+   "rank": 207,
    "degree": 3,
    "program_edges": 0,
    "denials": 2
@@ -787,7 +765,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 210,
+   "rank": 208,
    "degree": 5,
    "program_edges": 2,
    "denials": 0
@@ -798,7 +776,7 @@
    "from": "A",
    "to": "B",
    "score": 39.0,
-   "rank": 211,
+   "rank": 209,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -809,7 +787,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 212,
+   "rank": 210,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -820,8 +798,19 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 213,
+   "rank": 211,
    "degree": 7,
+   "program_edges": 1,
+   "denials": 0
+  },
+  {
+   "id": "aaro-fy2023-annual-report",
+   "cls": "document",
+   "from": "A",
+   "to": "B",
+   "score": 38.0,
+   "rank": 212,
+   "degree": 4,
    "program_edges": 1,
    "denials": 0
   },
@@ -831,7 +820,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 214,
+   "rank": 213,
    "degree": 4,
    "program_edges": 2,
    "denials": 1
@@ -842,7 +831,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 215,
+   "rank": 214,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -853,7 +842,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 216,
+   "rank": 215,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -864,7 +853,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 217,
+   "rank": 216,
    "degree": 4,
    "program_edges": 2,
    "denials": 1
@@ -875,7 +864,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 218,
+   "rank": 217,
    "degree": 7,
    "program_edges": 0,
    "denials": 0
@@ -886,7 +875,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 219,
+   "rank": 218,
    "degree": 6,
    "program_edges": 3,
    "denials": 0
@@ -897,7 +886,7 @@
    "from": "A",
    "to": "B",
    "score": 38.0,
-   "rank": 221,
+   "rank": 220,
    "degree": 8,
    "program_edges": 3,
    "denials": 0
@@ -908,7 +897,7 @@
    "from": "A",
    "to": "B",
    "score": 37.0,
-   "rank": 222,
+   "rank": 221,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -919,7 +908,7 @@
    "from": "A",
    "to": "B",
    "score": 37.0,
-   "rank": 223,
+   "rank": 222,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -930,7 +919,7 @@
    "from": "A",
    "to": "B",
    "score": 37.0,
-   "rank": 224,
+   "rank": 223,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -941,10 +930,21 @@
    "from": "A",
    "to": "B",
    "score": 37.0,
-   "rank": 225,
+   "rank": 224,
    "degree": 5,
    "program_edges": 0,
    "denials": 1
+  },
+  {
+   "id": "dod-agencywide-audit",
+   "cls": "program",
+   "from": "A",
+   "to": "B",
+   "score": 37.0,
+   "rank": 225,
+   "degree": 8,
+   "program_edges": 2,
+   "denials": 0
   },
   {
    "id": "d-sap",
@@ -1343,23 +1343,12 @@
    "denials": 0
   },
   {
-   "id": "navy-pic-1953-film-analysis",
-   "cls": "document",
-   "from": "A",
-   "to": "B",
-   "score": 34.0,
-   "rank": 270,
-   "degree": 3,
-   "program_edges": 2,
-   "denials": 0
-  },
-  {
    "id": "oni",
    "cls": "institution",
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 271,
+   "rank": 270,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1370,7 +1359,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 272,
+   "rank": 271,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1381,7 +1370,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 273,
+   "rank": 272,
    "degree": 6,
    "program_edges": 2,
    "denials": 0
@@ -1392,7 +1381,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 274,
+   "rank": 273,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1403,7 +1392,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 275,
+   "rank": 274,
    "degree": 3,
    "program_edges": 3,
    "denials": 0
@@ -1414,7 +1403,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 276,
+   "rank": 275,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -1425,7 +1414,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 278,
+   "rank": 277,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -1436,7 +1425,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 279,
+   "rank": 278,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -1447,7 +1436,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 280,
+   "rank": 279,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -1458,7 +1447,7 @@
    "from": "A",
    "to": "B",
    "score": 34.0,
-   "rank": 281,
+   "rank": 280,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -1469,7 +1458,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 282,
+   "rank": 281,
    "degree": 9,
    "program_edges": 1,
    "denials": 0
@@ -1480,7 +1469,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 283,
+   "rank": 282,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -1491,7 +1480,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 284,
+   "rank": 283,
    "degree": 4,
    "program_edges": 1,
    "denials": 2
@@ -1502,9 +1491,20 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 285,
+   "rank": 284,
    "degree": 3,
    "program_edges": 1,
+   "denials": 0
+  },
+  {
+   "id": "navy-pic-1953-film-analysis",
+   "cls": "document",
+   "from": "A",
+   "to": "B",
+   "score": 33.0,
+   "rank": 286,
+   "degree": 3,
+   "program_edges": 2,
    "denials": 0
   },
   {
@@ -1662,23 +1662,12 @@
    "denials": 1
   },
   {
-   "id": "donald-trump",
-   "cls": "person",
-   "from": "A",
-   "to": "B",
-   "score": 32.0,
-   "rank": 303,
-   "degree": 3,
-   "program_edges": 2,
-   "denials": 0
-  },
-  {
    "id": "mike-rounds",
    "cls": "person",
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 304,
+   "rank": 303,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1689,7 +1678,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 305,
+   "rank": 304,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -1700,7 +1689,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 308,
+   "rank": 307,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -1711,7 +1700,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 309,
+   "rank": 308,
    "degree": 5,
    "program_edges": 0,
    "denials": 3
@@ -1722,7 +1711,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 310,
+   "rank": 309,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -1733,7 +1722,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 311,
+   "rank": 310,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -1744,7 +1733,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 312,
+   "rank": 311,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1755,7 +1744,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 313,
+   "rank": 312,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1766,7 +1755,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 314,
+   "rank": 313,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -1777,7 +1766,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 315,
+   "rank": 314,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1788,7 +1777,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 316,
+   "rank": 315,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -1799,7 +1788,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 317,
+   "rank": 316,
    "degree": 4,
    "program_edges": 1,
    "denials": 1
@@ -1810,7 +1799,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 318,
+   "rank": 317,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1821,7 +1810,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 319,
+   "rank": 318,
    "degree": 7,
    "program_edges": 2,
    "denials": 0
@@ -1832,7 +1821,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 320,
+   "rank": 319,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -1843,7 +1832,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 321,
+   "rank": 320,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -1854,7 +1843,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 322,
+   "rank": 321,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -1865,7 +1854,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 323,
+   "rank": 322,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1876,7 +1865,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 324,
+   "rank": 323,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1887,7 +1876,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 325,
+   "rank": 324,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -1898,7 +1887,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 326,
+   "rank": 325,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -1909,10 +1898,21 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 327,
+   "rank": 326,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
+  },
+  {
+   "id": "donald-trump",
+   "cls": "person",
+   "from": "A",
+   "to": "B",
+   "score": 31.0,
+   "rank": 327,
+   "degree": 3,
+   "program_edges": 2,
+   "denials": 0
   },
   {
    "id": "james-clapper",
@@ -1948,23 +1948,12 @@
    "denials": 1
   },
   {
-   "id": "aaro-2026-posture",
-   "cls": "institution",
-   "from": "A",
-   "to": "B",
-   "score": 31.0,
-   "rank": 332,
-   "degree": 4,
-   "program_edges": 0,
-   "denials": 1
-  },
-  {
    "id": "americans-for-safe-aerospace",
    "cls": "institution",
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 333,
+   "rank": 332,
    "degree": 6,
    "program_edges": 2,
    "denials": 1
@@ -1975,7 +1964,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 334,
+   "rank": 333,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -1986,7 +1975,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 335,
+   "rank": 334,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -1997,7 +1986,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 336,
+   "rank": 335,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -2008,7 +1997,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 337,
+   "rank": 336,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -2019,7 +2008,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 338,
+   "rank": 337,
    "degree": 5,
    "program_edges": 1,
    "denials": 0
@@ -2030,7 +2019,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 341,
+   "rank": 340,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -2041,7 +2030,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 342,
+   "rank": 341,
    "degree": 7,
    "program_edges": 1,
    "denials": 0
@@ -2052,7 +2041,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 343,
+   "rank": 342,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2063,7 +2052,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 344,
+   "rank": 343,
    "degree": 3,
    "program_edges": 3,
    "denials": 0
@@ -2074,7 +2063,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 345,
+   "rank": 344,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -2085,7 +2074,7 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 347,
+   "rank": 346,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -2096,7 +2085,7 @@
    "from": "C",
    "to": "B",
    "score": 31.0,
-   "rank": 348,
+   "rank": 347,
    "degree": 3,
    "program_edges": 2,
    "denials": 1
@@ -2107,20 +2096,9 @@
    "from": "A",
    "to": "B",
    "score": 31.0,
-   "rank": 349,
+   "rank": 348,
    "degree": 2,
    "program_edges": 1,
-   "denials": 0
-  },
-  {
-   "id": "steve-feinberg",
-   "cls": "person",
-   "from": "A",
-   "to": "B",
-   "score": 30.0,
-   "rank": 350,
-   "degree": 0,
-   "program_edges": 0,
    "denials": 0
   },
   {
@@ -2129,7 +2107,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 352,
+   "rank": 350,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2140,7 +2118,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 353,
+   "rank": 351,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2151,7 +2129,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 354,
+   "rank": 352,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -2162,7 +2140,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 355,
+   "rank": 353,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2173,21 +2151,10 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 356,
+   "rank": 354,
    "degree": 3,
    "program_edges": 1,
    "denials": 1
-  },
-  {
-   "id": "pursue-release-04",
-   "cls": "event",
-   "from": "A",
-   "to": "B",
-   "score": 30.0,
-   "rank": 357,
-   "degree": 3,
-   "program_edges": 1,
-   "denials": 0
   },
   {
    "id": "aaro-official-uap-imagery",
@@ -2195,7 +2162,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 358,
+   "rank": 355,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2206,7 +2173,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 359,
+   "rank": 356,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2217,7 +2184,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 360,
+   "rank": 357,
    "degree": 4,
    "program_edges": 1,
    "denials": 1
@@ -2228,7 +2195,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 361,
+   "rank": 358,
    "degree": 6,
    "program_edges": 1,
    "denials": 0
@@ -2239,7 +2206,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 363,
+   "rank": 360,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2250,7 +2217,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 364,
+   "rank": 361,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -2261,7 +2228,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 365,
+   "rank": 362,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -2272,7 +2239,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 366,
+   "rank": 363,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -2283,7 +2250,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 367,
+   "rank": 364,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -2294,7 +2261,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 370,
+   "rank": 367,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2305,7 +2272,7 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 371,
+   "rank": 368,
    "degree": 5,
    "program_edges": 2,
    "denials": 0
@@ -2316,8 +2283,19 @@
    "from": "A",
    "to": "B",
    "score": 30.0,
-   "rank": 372,
+   "rank": 369,
    "degree": 3,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "steve-feinberg",
+   "cls": "person",
+   "from": "A",
+   "to": "B",
+   "score": 29.0,
+   "rank": 370,
+   "degree": 0,
    "program_edges": 0,
    "denials": 0
   },
@@ -2327,7 +2305,7 @@
    "from": "A",
    "to": "B",
    "score": 29.0,
-   "rank": 373,
+   "rank": 371,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -2338,7 +2316,7 @@
    "from": "A",
    "to": "B",
    "score": 29.0,
-   "rank": 374,
+   "rank": 372,
    "degree": 5,
    "program_edges": 3,
    "denials": 0
@@ -2349,7 +2327,7 @@
    "from": "A",
    "to": "B",
    "score": 29.0,
-   "rank": 375,
+   "rank": 373,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -2360,9 +2338,20 @@
    "from": "A",
    "to": "B",
    "score": 29.0,
-   "rank": 376,
+   "rank": 374,
    "degree": 4,
    "program_edges": 3,
+   "denials": 0
+  },
+  {
+   "id": "pursue-release-04",
+   "cls": "event",
+   "from": "A",
+   "to": "B",
+   "score": 29.0,
+   "rank": 375,
+   "degree": 3,
+   "program_edges": 1,
    "denials": 0
   },
   {
@@ -2371,8 +2360,19 @@
    "from": "A",
    "to": "B",
    "score": 29.0,
-   "rank": 377,
+   "rank": 376,
    "degree": 2,
+   "program_edges": 0,
+   "denials": 1
+  },
+  {
+   "id": "aaro-2026-posture",
+   "cls": "institution",
+   "from": "A",
+   "to": "B",
+   "score": 29.0,
+   "rank": 378,
+   "degree": 4,
    "program_edges": 0,
    "denials": 1
   },
@@ -2586,23 +2586,12 @@
    "denials": 1
   },
   {
-   "id": "reprogramming-dd1415",
-   "cls": "document",
-   "from": "A",
-   "to": "B",
-   "score": 28.0,
-   "rank": 406,
-   "degree": 2,
-   "program_edges": 0,
-   "denials": 0
-  },
-  {
    "id": "d-denial",
    "cls": "domain",
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 407,
+   "rank": 406,
    "degree": 2,
    "program_edges": 0,
    "denials": 2
@@ -2613,7 +2602,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 410,
+   "rank": 409,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -2624,7 +2613,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 411,
+   "rank": 410,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2635,7 +2624,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 412,
+   "rank": 411,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -2646,7 +2635,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 413,
+   "rank": 412,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -2657,7 +2646,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 416,
+   "rank": 415,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -2668,7 +2657,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 417,
+   "rank": 416,
    "degree": 5,
    "program_edges": 2,
    "denials": 0
@@ -2679,7 +2668,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 418,
+   "rank": 417,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -2690,7 +2679,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 419,
+   "rank": 418,
    "degree": 2,
    "program_edges": 1,
    "denials": 1
@@ -2701,7 +2690,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 420,
+   "rank": 419,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -2712,7 +2701,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 422,
+   "rank": 421,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -2723,7 +2712,7 @@
    "from": "A",
    "to": "B",
    "score": 28.0,
-   "rank": 423,
+   "rank": 422,
    "degree": 4,
    "program_edges": 0,
    "denials": 2
@@ -2734,7 +2723,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 425,
+   "rank": 424,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2745,7 +2734,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 426,
+   "rank": 425,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -2756,7 +2745,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 428,
+   "rank": 427,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2767,7 +2756,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 429,
+   "rank": 428,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2778,7 +2767,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 430,
+   "rank": 429,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -2789,7 +2778,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 431,
+   "rank": 430,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2800,7 +2789,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 432,
+   "rank": 431,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -2811,7 +2800,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 433,
+   "rank": 432,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -2822,7 +2811,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 434,
+   "rank": 433,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2833,7 +2822,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 435,
+   "rank": 434,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -2844,7 +2833,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 436,
+   "rank": 435,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2855,7 +2844,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 438,
+   "rank": 437,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2866,7 +2855,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 439,
+   "rank": 438,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2877,7 +2866,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 441,
+   "rank": 440,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2888,7 +2877,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 442,
+   "rank": 441,
    "degree": 5,
    "program_edges": 1,
    "denials": 0
@@ -2899,7 +2888,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 443,
+   "rank": 442,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2910,7 +2899,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 444,
+   "rank": 443,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2921,7 +2910,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 447,
+   "rank": 446,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -2932,7 +2921,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 448,
+   "rank": 447,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -2943,7 +2932,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 449,
+   "rank": 448,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -2954,7 +2943,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 450,
+   "rank": 449,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -2965,7 +2954,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 451,
+   "rank": 450,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -2976,7 +2965,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 452,
+   "rank": 451,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -2987,7 +2976,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 453,
+   "rank": 452,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -2998,7 +2987,7 @@
    "from": "A",
    "to": "B",
    "score": 27.0,
-   "rank": 454,
+   "rank": 453,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3009,7 +2998,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 456,
+   "rank": 455,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -3020,7 +3009,7 @@
    "from": "C",
    "to": "B",
    "score": 26.0,
-   "rank": 457,
+   "rank": 456,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -3031,7 +3020,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 458,
+   "rank": 457,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3042,7 +3031,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 460,
+   "rank": 459,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3053,7 +3042,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 462,
+   "rank": 461,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3064,7 +3053,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 463,
+   "rank": 462,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3075,7 +3064,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 464,
+   "rank": 463,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -3086,7 +3075,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 465,
+   "rank": 464,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -3097,7 +3086,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 466,
+   "rank": 465,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -3108,7 +3097,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 469,
+   "rank": 468,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -3119,7 +3108,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 470,
+   "rank": 469,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3130,7 +3119,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 471,
+   "rank": 470,
    "degree": 5,
    "program_edges": 2,
    "denials": 0
@@ -3141,7 +3130,7 @@
    "from": "A",
    "to": "B",
    "score": 26.0,
-   "rank": 472,
+   "rank": 471,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3152,7 +3141,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 477,
+   "rank": 475,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3163,7 +3152,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 478,
+   "rank": 476,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -3174,7 +3163,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 479,
+   "rank": 477,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -3185,7 +3174,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 480,
+   "rank": 478,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -3196,7 +3185,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 481,
+   "rank": 479,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3207,7 +3196,7 @@
    "from": "A",
    "to": "B",
    "score": 25.0,
-   "rank": 482,
+   "rank": 480,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3218,7 +3207,7 @@
    "from": "C",
    "to": "B",
    "score": 25.0,
-   "rank": 484,
+   "rank": 482,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3227,22 +3216,11 @@
    "id": "foia-21-f-0938",
    "cls": "document",
    "from": "A",
-   "to": "C",
+   "to": "B",
    "score": 25.0,
-   "rank": 485,
+   "rank": 483,
    "degree": 1,
    "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "gremlin-program",
-   "cls": "program",
-   "from": "B",
-   "to": "C",
-   "score": 25.0,
-   "rank": 486,
-   "degree": 2,
-   "program_edges": 1,
    "denials": 0
   },
   {
@@ -3251,7 +3229,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 487,
+   "rank": 485,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3262,7 +3240,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 488,
+   "rank": 486,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3273,7 +3251,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 489,
+   "rank": 487,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3284,7 +3262,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 490,
+   "rank": 488,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3295,7 +3273,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 491,
+   "rank": 489,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3306,7 +3284,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 492,
+   "rank": 490,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -3317,7 +3295,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 493,
+   "rank": 491,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3328,7 +3306,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 494,
+   "rank": 492,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3339,7 +3317,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 495,
+   "rank": 493,
    "degree": 3,
    "program_edges": 1,
    "denials": 1
@@ -3350,7 +3328,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 496,
+   "rank": 494,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -3361,7 +3339,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 497,
+   "rank": 495,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3372,7 +3350,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 498,
+   "rank": 496,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -3383,7 +3361,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 499,
+   "rank": 497,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3394,7 +3372,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 500,
+   "rank": 498,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3405,7 +3383,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 501,
+   "rank": 499,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -3416,7 +3394,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 502,
+   "rank": 500,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -3427,7 +3405,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 503,
+   "rank": 501,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -3438,7 +3416,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 504,
+   "rank": 502,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3449,7 +3427,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 505,
+   "rank": 503,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3460,7 +3438,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 506,
+   "rank": 504,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3471,7 +3449,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 507,
+   "rank": 505,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3482,7 +3460,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 508,
+   "rank": 506,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3493,8 +3471,19 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 509,
+   "rank": 507,
    "degree": 3,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "david-norquist",
+   "cls": "person",
+   "from": "B",
+   "to": "C",
+   "score": 24.0,
+   "rank": 508,
+   "degree": 2,
    "program_edges": 0,
    "denials": 0
   },
@@ -3504,7 +3493,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 510,
+   "rank": 509,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3515,7 +3504,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 511,
+   "rank": 510,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3526,7 +3515,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 512,
+   "rank": 511,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3537,7 +3526,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 513,
+   "rank": 512,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3548,42 +3537,20 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 515,
+   "rank": 514,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
   },
   {
-   "id": "war-gov-ufo-portal",
+   "id": "reprogramming-dd1415",
    "cls": "document",
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 516,
-   "degree": 5,
-   "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "dodig",
-   "cls": "institution",
-   "from": "A",
-   "to": "C",
-   "score": 24.0,
-   "rank": 517,
-   "degree": 3,
-   "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "dow-financial-mgmt-hearing-2026",
-   "cls": "event",
-   "from": "A",
-   "to": "C",
-   "score": 24.0,
-   "rank": 518,
+   "rank": 515,
    "degree": 2,
-   "program_edges": 1,
+   "program_edges": 0,
    "denials": 0
   },
   {
@@ -3592,7 +3559,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 519,
+   "rank": 516,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3603,7 +3570,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 520,
+   "rank": 517,
    "degree": 6,
    "program_edges": 1,
    "denials": 0
@@ -3614,7 +3581,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 521,
+   "rank": 518,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3625,7 +3592,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 522,
+   "rank": 519,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3636,7 +3603,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 523,
+   "rank": 520,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3647,7 +3614,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 525,
+   "rank": 522,
    "degree": 6,
    "program_edges": 2,
    "denials": 0
@@ -3658,7 +3625,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 526,
+   "rank": 523,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3669,7 +3636,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 527,
+   "rank": 524,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3680,7 +3647,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 528,
+   "rank": 525,
    "degree": 4,
    "program_edges": 0,
    "denials": 2
@@ -3691,7 +3658,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 529,
+   "rank": 526,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -3702,7 +3669,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 530,
+   "rank": 527,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3713,7 +3680,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 531,
+   "rank": 528,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3724,7 +3691,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 532,
+   "rank": 529,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3735,7 +3702,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 533,
+   "rank": 530,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3746,7 +3713,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 534,
+   "rank": 531,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3757,7 +3724,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 535,
+   "rank": 532,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3768,7 +3735,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 536,
+   "rank": 533,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3779,7 +3746,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 537,
+   "rank": 534,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -3790,7 +3757,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 538,
+   "rank": 535,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3801,7 +3768,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 539,
+   "rank": 536,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3812,7 +3779,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 540,
+   "rank": 537,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3823,7 +3790,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 541,
+   "rank": 538,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3834,7 +3801,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 542,
+   "rank": 539,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -3845,7 +3812,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 543,
+   "rank": 540,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3856,7 +3823,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 544,
+   "rank": 541,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -3867,7 +3834,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 545,
+   "rank": 542,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3878,7 +3845,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 546,
+   "rank": 543,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -3889,7 +3856,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 547,
+   "rank": 544,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -3900,7 +3867,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 548,
+   "rank": 545,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3911,7 +3878,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 549,
+   "rank": 546,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3922,7 +3889,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 550,
+   "rank": 547,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3933,7 +3900,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 551,
+   "rank": 548,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3944,7 +3911,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 553,
+   "rank": 550,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -3955,7 +3922,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 554,
+   "rank": 551,
    "degree": 8,
    "program_edges": 1,
    "denials": 0
@@ -3966,7 +3933,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 555,
+   "rank": 552,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3977,7 +3944,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 556,
+   "rank": 553,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3988,7 +3955,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 557,
+   "rank": 554,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3999,7 +3966,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 558,
+   "rank": 555,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4010,7 +3977,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 559,
+   "rank": 556,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4021,7 +3988,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 560,
+   "rank": 557,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4032,7 +3999,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 563,
+   "rank": 560,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4043,7 +4010,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 564,
+   "rank": 561,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -4054,7 +4021,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 565,
+   "rank": 562,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4065,7 +4032,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 566,
+   "rank": 563,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4076,7 +4043,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 567,
+   "rank": 564,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4087,7 +4054,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 568,
+   "rank": 565,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -4098,7 +4065,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 569,
+   "rank": 566,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4109,7 +4076,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 570,
+   "rank": 567,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4118,6 +4085,39 @@
    "id": "travis-taylor",
    "cls": "person",
    "from": "B",
+   "to": "C",
+   "score": 22.0,
+   "rank": 568,
+   "degree": 2,
+   "program_edges": 1,
+   "denials": 0
+  },
+  {
+   "id": "war-gov-ufo-portal",
+   "cls": "document",
+   "from": "A",
+   "to": "C",
+   "score": 22.0,
+   "rank": 569,
+   "degree": 5,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "dodig",
+   "cls": "institution",
+   "from": "A",
+   "to": "C",
+   "score": 22.0,
+   "rank": 570,
+   "degree": 3,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "dow-financial-mgmt-hearing-2026",
+   "cls": "event",
+   "from": "A",
    "to": "C",
    "score": 22.0,
    "rank": 571,
@@ -4131,7 +4131,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 573,
+   "rank": 572,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4142,7 +4142,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 574,
+   "rank": 573,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4153,7 +4153,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 575,
+   "rank": 574,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4164,7 +4164,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 576,
+   "rank": 575,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -4175,7 +4175,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 577,
+   "rank": 576,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4186,7 +4186,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 578,
+   "rank": 577,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4197,7 +4197,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 579,
+   "rank": 578,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -4208,7 +4208,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 580,
+   "rank": 579,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -4219,7 +4219,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 581,
+   "rank": 580,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -4230,7 +4230,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 582,
+   "rank": 581,
    "degree": 4,
    "program_edges": 0,
    "denials": 2
@@ -4241,7 +4241,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 583,
+   "rank": 582,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4252,7 +4252,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 584,
+   "rank": 583,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4263,7 +4263,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 585,
+   "rank": 584,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4274,20 +4274,9 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 587,
+   "rank": 586,
    "degree": 5,
    "program_edges": 1,
-   "denials": 0
-  },
-  {
-   "id": "dow-uap-file-release-2026",
-   "cls": "event",
-   "from": "B",
-   "to": "C",
-   "score": 21.0,
-   "rank": 591,
-   "degree": 2,
-   "program_edges": 0,
    "denials": 0
   },
   {
@@ -4296,7 +4285,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 592,
+   "rank": 591,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4307,7 +4296,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 594,
+   "rank": 593,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4318,7 +4307,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 595,
+   "rank": 594,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -4329,7 +4318,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 596,
+   "rank": 595,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4340,7 +4329,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 597,
+   "rank": 596,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4351,7 +4340,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 598,
+   "rank": 597,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -4362,7 +4351,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 599,
+   "rank": 598,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4373,7 +4362,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 600,
+   "rank": 599,
    "degree": 2,
    "program_edges": 1,
    "denials": 1
@@ -4384,7 +4373,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 601,
+   "rank": 600,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4395,7 +4384,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 602,
+   "rank": 601,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4406,7 +4395,7 @@
    "from": "B",
    "to": "C",
    "score": 21.0,
-   "rank": 603,
+   "rank": 602,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -4417,7 +4406,7 @@
    "from": "A",
    "to": "C",
    "score": 21.0,
-   "rank": 605,
+   "rank": 604,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4428,7 +4417,7 @@
    "from": "A",
    "to": "C",
    "score": 20.0,
-   "rank": 606,
+   "rank": 605,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4439,7 +4428,7 @@
    "from": "B",
    "to": "C",
    "score": 20.0,
-   "rank": 607,
+   "rank": 606,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4450,7 +4439,7 @@
    "from": "B",
    "to": "C",
    "score": 20.0,
-   "rank": 608,
+   "rank": 607,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4461,7 +4450,7 @@
    "from": "B",
    "to": "C",
    "score": 20.0,
-   "rank": 609,
+   "rank": 608,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4470,6 +4459,17 @@
    "id": "mona-nemer",
    "cls": "person",
    "from": "A",
+   "to": "C",
+   "score": 20.0,
+   "rank": 609,
+   "degree": 2,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "dow-uap-file-release-2026",
+   "cls": "event",
+   "from": "B",
    "to": "C",
    "score": 20.0,
    "rank": 610,
@@ -4615,7 +4615,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 626,
+   "rank": 625,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4626,7 +4626,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 628,
+   "rank": 627,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4637,7 +4637,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 629,
+   "rank": 628,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4648,7 +4648,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 630,
+   "rank": 629,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4659,7 +4659,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 632,
+   "rank": 631,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4670,7 +4670,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 633,
+   "rank": 632,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4681,7 +4681,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 634,
+   "rank": 633,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4692,7 +4692,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 635,
+   "rank": 634,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4703,7 +4703,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 636,
+   "rank": 635,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4714,7 +4714,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 637,
+   "rank": 636,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4725,7 +4725,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 638,
+   "rank": 637,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4736,7 +4736,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 639,
+   "rank": 638,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -4747,7 +4747,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 640,
+   "rank": 639,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -4758,7 +4758,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 641,
+   "rank": 640,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4769,7 +4769,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 642,
+   "rank": 641,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -4780,7 +4780,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 645,
+   "rank": 644,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -4791,7 +4791,7 @@
    "from": "A",
    "to": "C",
    "score": 19.0,
-   "rank": 646,
+   "rank": 645,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4802,7 +4802,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 648,
+   "rank": 647,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -4813,7 +4813,7 @@
    "from": "B",
    "to": "C",
    "score": 19.0,
-   "rank": 649,
+   "rank": 648,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -4824,7 +4824,7 @@
    "from": "B",
    "to": "C",
    "score": 18.0,
-   "rank": 650,
+   "rank": 649,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -4835,7 +4835,7 @@
    "from": "B",
    "to": "C",
    "score": 18.0,
-   "rank": 651,
+   "rank": 650,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4846,7 +4846,7 @@
    "from": "B",
    "to": "C",
    "score": 18.0,
-   "rank": 652,
+   "rank": 651,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5083,23 +5083,12 @@
    "denials": 0
   },
   {
-   "id": "platte-moring",
-   "cls": "person",
-   "from": "B",
-   "to": "C",
-   "score": 17.0,
-   "rank": 678,
-   "degree": 1,
-   "program_edges": 0,
-   "denials": 0
-  },
-  {
    "id": "roger-wicker",
    "cls": "person",
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 680,
+   "rank": 679,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5110,7 +5099,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 681,
+   "rank": 680,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -5121,7 +5110,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 682,
+   "rank": 681,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5132,7 +5121,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 683,
+   "rank": 682,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -5143,7 +5132,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 684,
+   "rank": 683,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -5154,7 +5143,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 685,
+   "rank": 684,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5165,7 +5154,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 686,
+   "rank": 685,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5176,7 +5165,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 687,
+   "rank": 686,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5187,20 +5176,9 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 688,
+   "rank": 687,
    "degree": 1,
    "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "pursue-bundle-urls",
-   "cls": "document",
-   "from": "A",
-   "to": "C",
-   "score": 17.0,
-   "rank": 689,
-   "degree": 1,
-   "program_edges": 1,
    "denials": 0
   },
   {
@@ -5209,7 +5187,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 691,
+   "rank": 689,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5220,7 +5198,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 692,
+   "rank": 690,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5231,7 +5209,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 695,
+   "rank": 693,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -5242,7 +5220,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 696,
+   "rank": 694,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5253,7 +5231,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 697,
+   "rank": 695,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5264,7 +5242,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 698,
+   "rank": 696,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -5275,7 +5253,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 699,
+   "rank": 697,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5286,7 +5264,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 700,
+   "rank": 698,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -5297,7 +5275,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 701,
+   "rank": 699,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -5308,7 +5286,7 @@
    "from": "A",
    "to": "C",
    "score": 17.0,
-   "rank": 702,
+   "rank": 700,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -5319,7 +5297,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 703,
+   "rank": 701,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5330,7 +5308,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 704,
+   "rank": 702,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -5341,7 +5319,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 705,
+   "rank": 703,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5352,7 +5330,7 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 706,
+   "rank": 704,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -5363,8 +5341,19 @@
    "from": "B",
    "to": "C",
    "score": 17.0,
-   "rank": 707,
+   "rank": 705,
    "degree": 0,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "platte-moring",
+   "cls": "person",
+   "from": "B",
+   "to": "C",
+   "score": 16.0,
+   "rank": 706,
+   "degree": 1,
    "program_edges": 0,
    "denials": 0
   },
@@ -5374,7 +5363,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 708,
+   "rank": 707,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5385,7 +5374,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 710,
+   "rank": 709,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5396,7 +5385,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 711,
+   "rank": 710,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5407,7 +5396,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 713,
+   "rank": 712,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5418,7 +5407,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 714,
+   "rank": 713,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5429,7 +5418,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 715,
+   "rank": 714,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -5440,7 +5429,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 733,
+   "rank": 732,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5451,7 +5440,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 734,
+   "rank": 733,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -5462,7 +5451,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 736,
+   "rank": 735,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5473,7 +5462,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 737,
+   "rank": 736,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5484,7 +5473,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 738,
+   "rank": 737,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5495,7 +5484,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 739,
+   "rank": 738,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -5506,7 +5495,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 740,
+   "rank": 739,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -5517,7 +5506,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 741,
+   "rank": 740,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5528,7 +5517,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 743,
+   "rank": 742,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5539,7 +5528,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 744,
+   "rank": 743,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5550,7 +5539,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 745,
+   "rank": 744,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5561,7 +5550,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 746,
+   "rank": 745,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5572,7 +5561,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 747,
+   "rank": 746,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -5583,7 +5572,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 748,
+   "rank": 747,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5594,7 +5583,7 @@
    "from": "A",
    "to": "C",
    "score": 16.0,
-   "rank": 749,
+   "rank": 748,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -5605,7 +5594,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 750,
+   "rank": 749,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5616,7 +5605,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 751,
+   "rank": 750,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -5627,7 +5616,7 @@
    "from": "B",
    "to": "C",
    "score": 16.0,
-   "rank": 752,
+   "rank": 751,
    "degree": 0,
    "program_edges": 0,
    "denials": 0
@@ -5638,7 +5627,7 @@
    "from": "B",
    "to": "C",
    "score": 15.0,
-   "rank": 753,
+   "rank": 752,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -5649,7 +5638,7 @@
    "from": "A",
    "to": "C",
    "score": 15.0,
-   "rank": 756,
+   "rank": 755,
    "degree": 2,
    "program_edges": 0,
    "denials": 1
@@ -5660,7 +5649,7 @@
    "from": "B",
    "to": "C",
    "score": 15.0,
-   "rank": 757,
+   "rank": 756,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -5671,7 +5660,7 @@
    "from": "B",
    "to": "C",
    "score": 15.0,
-   "rank": 758,
+   "rank": 757,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -5682,7 +5671,7 @@
    "from": "B",
    "to": "C",
    "score": 15.0,
-   "rank": 759,
+   "rank": 758,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -5693,9 +5682,20 @@
    "from": "B",
    "to": "C",
    "score": 15.0,
-   "rank": 760,
+   "rank": 759,
    "degree": 2,
    "program_edges": 0,
+   "denials": 0
+  },
+  {
+   "id": "pursue-bundle-urls",
+   "cls": "document",
+   "from": "A",
+   "to": "C",
+   "score": 15.0,
+   "rank": 761,
+   "degree": 1,
+   "program_edges": 1,
    "denials": 0
   },
   {
