@@ -5,7 +5,43 @@ preserved as `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Its counts are stale; 
 
 ---
 
-## Your first job
+## Job zero — get GitHub write access, and do not accept "I can't"
+
+**Stewart wants Claude to own all GitHub work permanently**: publishing, version control,
+branches, releases, and eventually a landing page. He has been blocked on this twice and is
+rightly annoyed. **Solving it is your first task, before the audit.**
+
+What is already known, so you do not repeat the dead ends:
+
+- He connected the **claude.ai GitHub Integration** on 13 Aug. That powers file attachment in
+  Chat, Projects sync, and Claude Code *remote* sessions. **It does not expose write tools to
+  a local Cowork session.** Confirmed by tool search — queries for repo/push/commit return
+  Notion, Zoom and Cloudflare, no GitHub.
+- `plugin:engineering:github` is a **different** thing: a plugin-provided MCP server, present
+  but unauthorised. It needs its own auth.
+- The sandbox has **no `gh` CLI, no `GH_TOKEN`, no credential helper**. `apt-get install`
+  fails (no root); `apt-get download` + `dpkg-deb -x` works.
+
+Things to try, roughly in order:
+
+1. `ToolSearch` for github tools first — the plugin MCP may be authorised by the time you
+   run. Do not assume from this document; **check**.
+2. If not, tell Stewart to run `/mcp` in an **interactive** Claude Code session to authorise
+   `plugin:engineering:github`. A non-interactive session cannot run OAuth.
+3. Failing that, a **fine-grained PAT** with `contents:write` on the one repo, exported as
+   `GH_TOKEN`, lets plain `git push` work over HTTPS. Least magic, most reliable. Do not ask
+   him to paste a token into chat — have him set it in the environment.
+
+**Whatever you find, write the answer into this file** so the next session does not
+rediscover it. If you get write access, take over completely: he should never run a git
+command again.
+
+**Terminal commands for Stewart must always include the `cd`**, quoted, so the block is
+copy-pasteable as one unit. He has asked for this explicitly.
+
+---
+
+## Your first job after that
 
 **Read the project files and audit for errors. Do not implement anything yet.**
 
