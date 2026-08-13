@@ -26,7 +26,7 @@ You have no frame budget problem. Do not optimise. **Design for legibility.**
 |---|---|
 | `PROJECT.md` | What the board is, and the editorial stance. Read the stance first. |
 | `notes/PERF-AND-DENSITY-PLAN.md` **Part 5** | The L0 proposal and the arithmetic. This brief assumes it. |
-| `design-package/DESIGN-SYSTEM.md` *(in the parent repo)* | The inheritance. |
+| `ref/the-vanishing-v2.html` | **The design system, as shipped.** This is the parent board and the build input. Its CSS, type scale, colour tokens and component grammar are the inheritance — read them out of this file. There is a prose `design-package/DESIGN-SYSTEM.md` in the separate *the-vanishing* repo, which you probably do not have; you do not need it, because everything it describes is embodied here. |
 | `SCHEMA.md` | The data model. |
 | `dist/the-program.html` | **Open it. Use it before designing for it.** |
 | `notes/QA-PASS-2026-08-12.md` | What was broken and why it was not caught. |
