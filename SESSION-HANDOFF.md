@@ -9,9 +9,13 @@ preserved as `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Its counts are stale; 
 
 **https://github.com/Samizdat-Publications/the-legacy-program-dashboard** (private)
 
-Pushed 13 Aug 2026 by Stewart from PowerShell, `master` tracking `origin/master`. Note the
-owner is the **Samizdat-Publications org**, not his personal account — any token or app
-authorisation needs org-level access, which is a common failure point.
+Pushed 13 Aug 2026 by Stewart from PowerShell, `master` tracking `origin/master`.
+
+The owner namespace is `Samizdat-Publications`. Stewart says this is simply his own account,
+so treat it as personal. **If** a token or app authorisation later fails to see the repo,
+check whether the namespace is actually an organisation — a fine-grained PAT scoped to a
+personal account cannot see an org repo and fails silently rather than usefully. Do not
+assume it is an org; just check that first if auth misbehaves.
 
 Claude still cannot push from a Cowork session (see job zero). Until that is fixed, commit
 locally and hand Stewart this to run:
