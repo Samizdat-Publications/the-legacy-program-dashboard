@@ -5,6 +5,24 @@ preserved as `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Its counts are stale; 
 
 ---
 
+## The repo is published
+
+**https://github.com/Samizdat-Publications/the-legacy-program-dashboard** (private)
+
+Pushed 13 Aug 2026 by Stewart from PowerShell, `master` tracking `origin/master`. Note the
+owner is the **Samizdat-Publications org**, not his personal account — any token or app
+authorisation needs org-level access, which is a common failure point.
+
+Claude still cannot push from a Cowork session (see job zero). Until that is fixed, commit
+locally and hand Stewart this to run:
+
+```powershell
+cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+git push
+```
+
+---
+
 ## Job zero — get GitHub write access, and do not accept "I can't"
 
 **Stewart wants Claude to own all GitHub work permanently**: publishing, version control,
