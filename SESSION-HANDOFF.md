@@ -1,209 +1,212 @@
-# Session Handoff: The Program
+# Session handoff — The Program
 
-**Handoff date:** August 12, 2026
-**From:** Cowork cloud session
-**To:** Cowork local session (running on Stewart's computer)
-
-**If you are a fresh Claude session picking this up, read this file first, then `PROJECT.md`,
-then `TESTING-CHECKLIST.md` — which is your first job.**
+**Updated 13 August 2026.** Supersedes the cloud-session handoff of 12 August, which is
+preserved as `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Its counts are stale; ignore them.
 
 ---
 
 ## Your first job
 
-**Do not write new research. Do not add features. Open the dashboard and use it.**
+**Read the project files and audit for errors. Do not implement anything yet.**
 
-`TESTING-CHECKLIST.md` is a written QA pass. Work through it in a real browser, clicking
-real things, and log what breaks. The board was built and screenshot-verified in a headless
-container at two resolutions — which is not the same as a person using it, and the gap
-between those two things has already produced four bugs that shipped.
+Stewart is running `notes/DESIGN-BRIEF-L0-MAP.md` through Claude Design and will attach the
+result when he has it. Before that lands, the board needs a clean bill of health, because
+the design work will be built on top of whatever is wrong now.
 
-Skip everything involving the **analyst** for now. Stewart does not have the API key in
-place yet, and the analyst's no-key state is a first-class scripted mode that is already
-working. Everything else is in scope.
+Start here:
 
-Report findings as a numbered list with severity, then fix in severity order. Rebuild and
-re-verify after each fix rather than batching them.
+```bash
+cd the-program
+python3 tools/verify.py --self-test     # every check must prove it can fail
+python3 tools/verify.py --idempotent    # full pipeline twice, identical output required
+```
+
+Both must pass. Then read, in order: `PROJECT.md`, `notes/QA-PASS-2026-08-12.md`,
+`notes/PERF-AND-DENSITY-PLAN.md`, `SCHEMA.md`, `notes/DESIGN-BRIEF-L0-MAP.md`.
+
+**Then audit.** The obvious place to look is §4 of `QA-PASS-2026-08-12.md`, which lists what
+was never tested — roughly 80% of `TESTING-CHECKLIST.md`. The highest-value item there is
+**§12 data spot-checks**, which has not been started: open real source URLs and confirm the
+claim says what the source says. A fabricated source outranks every other defect on this
+board, and nobody has checked yet.
+
+The second place is anything the four commits below touched. They were verified, but by me.
 
 ---
 
-## Where everything lives
+## What this board is
 
-This project is a **companion board to The Vanishing**, and it is designed to sit inside
-the same repository:
+A network board mapping the legacy UAP recovery and reverse-engineering program and the
+modern disclosure movement, 1944–2026. It reuses *The Vanishing*'s engine, schema and design
+system with a different subject. **It is a separate project and belongs in its own GitHub
+repo** — it currently sits inside the scientist-tracker folder only because that was the
+mounted directory.
 
-```
-<repo root>/                        the-vanishing (master branch)
-  the-vanishing-v2.html             THE PARENT BOARD — this is a BUILD INPUT, do not edit
-  the-program/                      <- everything in this package goes here
-    SESSION-HANDOFF.md              this file
-    PROJECT.md                      what the board is, the stance, the state
-    SCHEMA.md                       the data spec and how it extends the parent's
-    TESTING-CHECKLIST.md            your first job
-    CLAUDE-DESIGN-PROMPT.md         design brief, if Stewart wants a redesign pass
-    dist/the-program.html           THE DASHBOARD — 6.5 MB, self-contained, open by double-click
-    data/                           merged dataset: the-program.json + the JS modules
-    research/                       per-domain raw research (23 files) + overlays
-    tools/                          the build pipeline (see below)
-    notes/                          research log, wave queues, the build plan
-```
+**Current state: 970 nodes · 246 people · 724 entities · 1,786 hand-written sourced links ·
+4,108 tiered claims · 858 timeline events.** Load 1.6s, **104 fps on Stewart's machine.**
 
-**`the-vanishing-v2.html` is the build input.** `tools/build_dashboard.py` reads it, splices
-in this board's data, and applies ~30 named patches. It looks for the file in the repo root,
-one level up, or `ref/`, and honours `VANISHING_SRC` as an override. If the parent board is
-updated, re-run the build and every patch that no longer matches will fail loudly by name —
-that is deliberate, and it is the mechanism that keeps the two boards in sync.
+### Editorial stance — read before writing anything
+
+Built from the premise that a legacy recovery and reverse-engineering program exists and has
+been concealed. The question is not *whether* but **who, where, under what authority, and
+paid for how.** No balanced both-sides prose. No skeptical disclaimers.
+
+**AARO is not a neutral authority.** Witnesses have testified that under Kirkpatrick it
+functioned to surface and neutralise whistleblowers rather than investigate. It is a
+participant in the concealment. As of `0ae5e89`, claims sourced to aaro.mil or defense.gov
+cap at Tier 2 unless the claim is *about what they said* — publishing on aaro.mil makes a
+document a primary record **of the statement**, not of the fact asserted. AARO is still the
+most connected node on the board (degree 62) because it genuinely is central; it just no
+longer gets to be its own best evidence.
+
+**Never bends: no invented sources, URLs, document numbers or quotes.**
+
+---
+
+## What happened this session (4 commits)
+
+| commit | what |
+|---|---|
+| `5c0e7c5` | Fixed 4 BROKEN data bugs found in the first QA pass |
+| `9b2a12b` | `tools/verify.py` — a gate that asserts, and that tests itself |
+| `ac8fce7` | Baked the layout at build time + size-aware anchors: 19.8s → 1.6s |
+| `c55b67b` | Stopped the sim running every frame; wrote the L0 design |
+| `0ae5e89` | AARO/DoD interested-party sourcing rule |
+| `3ddc765` | The design brief |
+
+### The four original bugs, and why they matter to you
+
+All four were in a board that had been "verified". None of them threw an error.
+
+1. **The documented rebuild destroyed 35 dates on every run.** `regrade.py` scored a board
+   that already contained its own previous overlay, so it skipped work it had already done
+   and emitted a thinner overlay each time. Fixed by scoring a pristine re-merge.
+2. **Five people were on the board twice**, splitting their edges and sources, with the twin
+   rendering its own slug as its name. Two scripts had two copies of the id rules.
+3. **Thirteen person plates rendered meaningless names** — five different people all showed
+   as `JR., J.`
+4. **The DETAIL panel stated the wrong number of entity classes.**
+
+### The lesson, which is the important part
+
+The only verification was `shoot.js`, which collects console errors. That asks *did anything
+throw?* All four answered no. **Nothing asserted that anything was true.**
+
+Worse: `shoot.js`'s one substantive check — `canvasInk`, meant to catch a blank map —
+reported 0 ink on a canvas that was visibly drawing, and had never once fired. A check that
+always passes and a broken check are indistinguishable from outside.
+
+So `tools/verify.py` has two rules, and **please keep them**:
+
+1. Every check asserts a fact and exits non-zero when it is false.
+2. **Every check is itself tested.** `--self-test` feeds each one input it must reject.
+
+Rule 2 paid immediately — three of the first eight checks were born broken and silently
+passing. That is the expected rate. **If you add a check, self-test it.**
+
+`verify.py` passing is the definition of shippable. `tools/GOLDEN.json` is a drift tripwire
+requiring deliberate `--update-golden`. It has already caught one real change.
+
+---
 
 ## Rebuilding
 
 ```bash
-cd the-program
-python3 tools/merge.py             # research/*.json      -> data/*
-python3 tools/regrade.py           # tier re-grade, dates, coordinates -> research/_remediation.json
-python3 tools/merge.py             # re-merge so the overlay lands
-python3 tools/build_dashboard.py   # data + parent board  -> dist/the-program.html
-node   tools/shoot.js              # render, capture console errors, screenshot all 8 views
+python3 tools/merge.py            # research/*.json -> data/*
+python3 tools/regrade.py          # tiers, dates, coords -> research/_remediation.json
+python3 tools/merge.py            # re-merge so the overlay lands
+python3 tools/build_dashboard.py  # data + parent board -> dist/the-program.html
+python3 tools/verify.py --idempotent
 ```
 
-`shoot.js` needs Playwright. It captures every JS error and writes a PNG per view into
-`dist/shots/`. **Run it after every change.** It is the only thing standing between a patch
-that "applied cleanly" and a board that actually renders.
+`build_dashboard.py` prints `all patches applied` or names failures. **Never ship a build
+that printed a failure.** 39 patches currently.
 
-`build_dashboard.py` prints `all patches applied` or names the ones that failed. Never ship
-a build that printed a failure.
-
----
-
-## What this project is
-
-A network board mapping the legacy UAP recovery and reverse-engineering program and the
-modern disclosure movement, 1940s through August 2026. It reuses The Vanishing's engine,
-schema and design system with a different subject.
-
-**Current state: 976 nodes · 1,788 hand-written sourced links · 4,037 tiered claims ·
-857 timeline events · 954 unique source URLs.**
-
-Nodes: 251 people, 198 documents, 162 institutions, 102 locations, 75 events, 68 programs,
-60 legislation, 60 research domains.
-
-## Editorial stance — read before writing anything
-
-*The Vanishing* holds a case open and lets a prosaic explanation stand where it holds.
-**This board does not.** It is built from the premise that a legacy recovery and
-reverse-engineering program exists, has existed since the 1940s, and has been deliberately
-concealed from Congress and the public. The research question is not *whether* — it is
-**who, where, under what authority, and paid for how.**
-
-Do not write balanced both-sides prose. Do not append skeptical disclaimers.
-
-Official denials **are** recorded, in full and sourced — as **artifacts of the concealment
-effort**, not as counterweights. A denial is a dated, signed, attributable statement, which
-makes it evidence about the denier. That is what the `denial` edge type and THE COVER-UP
-view exist for.
-
-**The one thing that does not bend: no invented sources, no invented URLs, no invented
-document numbers, no invented quotes.** Unsourceable material goes in `unverified[]` or
-becomes a Tier 3 inference with the reasoning stated. `tools/merge.py` runs an automatic
-honesty pass on every build that demotes any Tier 1 claim not backed by a primary-record
-URL — 207 claims are currently demoted and logged in `tools/DEMOTIONS.json`. **A claim
-cannot be promoted back to Tier 1 without adding a real primary URL to the node; the
-demotion re-runs on every merge and will simply reverse you.**
-
-## The scoring model
-
-Three axes, 0–3, **never summed** — an entity can sit at the centre of the custody chain and
-be entirely absent from the disclosure fight, and collapsing that into one number destroys
-the information.
-
-| Axis | Question |
-|---|---|
-| **C** Custody proximity | How close is this entity to alleged possession of recovered material or craft? |
-| **A** Access level | What special access — SAP, USAP, waived unacknowledged — did it hold? |
-| **D** Disclosure role | How central is it to forcing the record into the open? |
-
-Entity tiers: **A** named in sworn testimony or primary documents as directly inside the
-program · **B** documented channel and capability, role indicated · **C** contextual.
-Currently 146 / 341 / 488, re-graded globally by `tools/regrade.py` against a composite of
-degree, program-type edges, denial count, claim weight and the axes. Any node with no
-sourced URL has its score cut by 65%, so nothing unsourced can hold Tier A.
-
-Claim tiers (carried over from the parent board unchanged): **1** documented ·
-**2** sourced claim · **3** inference.
+`ref/the-vanishing-v2.html` is a **build input and is never edited.** All divergence lives
+in `tools/build_dashboard.py` as named patches, which is what keeps the two boards in sync.
 
 ---
 
-## Known problems, in priority order
+## Things that have already cost a full build cycle
 
-These are mine, found and not yet fixed. Verify each against the real browser before
-trusting this list — some may be worse or better than I think.
+- **There are two map implementations in the file.** The legacy one is dead at runtime. A
+  patch raising the layout step count was applied to the *wrong* one, and reading the source
+  did not reveal it — **the profiler did.** If you change map behaviour, verify at runtime.
+- **The layout is baked at build time** by `tools/precompute_layout.py`, which slices the
+  simulation source out of the built HTML and runs it in Node. There is deliberately only
+  one implementation of the physics. If you change the physics or anchors, the bake picks it
+  up — but check the wall-clamp figure stays near **3.7%**. It was 46%, and that was the real
+  cause of the overlapping plates that had been logged as a density problem.
+- **Measure before optimising, and measure before believing a comment.** I guessed rendering
+  was the load bottleneck. It was under 1%. It was 60% force layout and 24% file parse.
 
-1. **Map density in the upper-left.** The witness, oversight and IC clusters carry most of
-   the Tier A nodes and they crowd. It is a legible network now rather than a mat, but it is
-   not good. The next lever is a **rail slider** exposing `PLATE_DEGREE`, `LABEL_DEGREE`,
-   `EDGE_MIN_DEG` and `NODE_MIN_DEG` so density is dialled by hand rather than guessed by me.
-   All four are `let` bindings and `window.__board.setPlateDegree(n)` already exists.
-2. **Frame rate.** Better since the budget landed, but not smooth at 976 nodes. The parent
-   board's own design doc says production should not be canvas 2D for this.
-3. **Analysis view** beyond the institutional-overlap chart is still partly the parent
-   board's furniture. The four INSIGHTS cards are rewritten and correct; what sits under
-   them needs a look.
-4. **CASES view** is 251 cards with no virtualisation.
-5. **Report view** has not been reviewed at all against the new data.
-6. **6.5 MB single file.** Opens fine locally, parses in ~300ms, awkward over a network.
-7. **27 location nodes still have no coordinates**; 76 do. Geography flags this inline.
-8. **65 structural stubs** carry `desc: null` deliberately — the dock prints them as a
-   stated gap. They are honest placeholders, not bugs, and they are queued in
-   `notes/WAVE3_QUEUE.md`.
+---
+
+## Environment gotchas (this cost real time)
+
+- **The workspace is OneDrive-synced and `rm` fails with "Operation not permitted".** git
+  cannot delete its own `index.lock`, so the second commit onward fails. Fix: call
+  `mcp__cowork__allow_cowork_file_delete` once, then `rm -f .git/index.lock .git/HEAD.lock`.
+  You will likely need this early.
+- **`/tmp` and `~/.cache` are wiped between bash calls.** Playwright and its browsers must be
+  installed and *used* in a single call, or reinstalled each time. Working recipe:
+
+```bash
+cd /tmp
+[ -d /tmp/node_modules/playwright ] || { npm init -y >/dev/null 2>&1; npm install playwright >/dev/null 2>&1; }
+export PLAYWRIGHT_BROWSERS_PATH=/tmp/pw-browsers
+[ -d /tmp/pw-browsers ] || npx playwright install chromium >/dev/null 2>&1
+[ -d /tmp/libs/root ] || { mkdir -p /tmp/libs && cd /tmp/libs && apt-get download libxdamage1 >/dev/null 2>&1 && dpkg-deb -x *.deb ./root; cd /tmp; }
+export LD_LIBRARY_PATH=/tmp/libs/root/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH
+CH=$(find /tmp/pw-browsers -name chrome -type f | head -1)
+```
+
+  `shoot.js` needs its `require('playwright')` and `executablePath` rewritten to those paths.
+- **No root.** `apt-get install` fails; `apt-get download` + `dpkg-deb -x` works.
+- **Headless fps is measured under SwiftShader software rendering and is NOT a proxy for real
+  fps.** Headless showed 2–10 fps for a board doing 104 fps on Stewart's machine. What *is*
+  machine-independent is JS-per-frame cost — that is what caught the `sim.alpha` regression.
+  **Never quote a headless fps number to Stewart as if it were his.**
+
+---
+
+## Outstanding, in priority order
+
+1. **Audit (your first job).** Especially `TESTING-CHECKLIST.md` §12 source spot-checks —
+   never started, outranks everything else.
+2. **The L0 map**, once Design's response lands. Design is now a *legibility* brief, not a
+   performance one. The hardest problem, which the brief names: **346 detail nodes (57% of
+   605) attach to no L0 node** at degree ≥ 6 and would be unreachable.
+3. **Defer the dossier payload** — ~6.6 MB of narrative/claims parsed as JS object literals
+   at load. Emit as one JSON string literal, `JSON.parse` on first dossier open. Lower value
+   now that load is 1.6s.
+4. **`unique_source_urls` is slightly wrong** — it counts the annotated source string, so
+   appending a DEMOTED note inflates it. Should measure the URL.
+5. **Delete `canvasInk` from `shoot.js`** rather than fix it. A check nobody can trust should
+   not be in the output.
+6. **`notes/WANTS.md`** — craft-morphology schematics. Parked. Do not start before the L0
+   work; the argument for drawing rather than generating them is in that file.
+7. Update `TESTING-CHECKLIST.md` §0, which still asserts the pre-dedup counts and will now
+   fail its own check.
+
+---
 
 ## Working rules
 
-- **The parent board is a build input, never edited.** All divergence lives in
-  `tools/build_dashboard.py` as named patches.
-- **Patches are scoped to the code region**, not the whole file. The data block is 6 MB of
-  research prose and URLs, and a literal `p.P` inside a citation once silently broke a patch
-  count. `build_dashboard.py` slices at `function explainEdge` before applying vocabulary
-  patches — keep that.
-- **There are two map implementations in the parent file.** The legacy one
-  (`drawEdgesCircuit`, the older `mountMap`) is dead code at runtime. The live one is the
-  three-layer host that funnels every edge through `edgeInstances()`. **Patching the wrong
-  one costs a full build cycle — it has already happened once.**
-- Run `node tools/shoot.js` after every change.
-- Research agents write to `research/` and will create subdirectories there. Build tooling
-  lives in `tools/` deliberately — an agent deleted the build directory mid-run once.
+- **Adversarial review is opt-in.** At the end of a deliverable that feels final, ask
+  Stewart: *"Do you want to run adversarial review audit?"* Do not run it unprompted — it
+  burns context. When he says yes, act as his managers, the management this gets turned in
+  to, and pick apart anything that looks wrong or is visually broken. Actually look at the
+  output.
+- **Research agents write to `research/`.** Build tooling lives in `tools/` deliberately — an
+  agent deleted the build directory mid-run once.
+- **Stewart's stated preferences:** concise and direct, no em dashes, tables over prose for
+  comparisons, complete code rather than fragments.
+- Raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` before any research wave; the default
+  budget was exhausted by wave 1.
 
-### Adversarial review protocol (Stewart's standing instruction)
+## Standing decision for Stewart
 
-At the end of each deliverable that feels final, ask: **"Do you want to run adversarial
-review audit?"** Do not run it unprompted; it burns context. When Stewart says yes, act as
-his managers — the management this gets turned in to — and pick apart anything that looks
-wrong, doesn't make sense at first glance, or is visually broken. Actually look at the
-output. If it is a slide, check that things line up and nothing overlaps.
-
----
-
-## Environment notes
-
-- **Web search budget is 200 calls per session.** Wave 1 consumed all of it and wave 2 ran
-  degraded on WebFetch alone. Raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` before
-  starting any research wave.
-- **The TinyFish skill is installed but its MCP server is not connected** — invoking it
-  prints docs for a tool that does not exist. Ignore it.
-- The cloud session's `GH_TOKEN` was scoped to pre-configured repos and returned 403 for
-  `the-vanishing`. Running locally against the real checkout removes that problem entirely.
-- Agent concurrency in the cloud container capped at 2, so a 14-agent wave took ~6 hours.
-  Local should be better.
-
-## Where the research goes next
-
-`notes/WAVE3_QUEUE.md` is the authoritative pickup list and ends with **115 verbatim gap
-reports** from the wave-2 researchers — named FOIA targets, specific archives, and yes/no
-questions a committee could demand an answer to. The highest-value single item:
-
-> **The Immaculate Constellation document.** Entered into the Congressional Record on
-> 13 Nov 2024 and listed in the hearing's Index of Documents, but no retrievable file at a
-> stable public URL. Pulling the submitted-materials section of GPO `CHRG-118hhrg57440`
-> is the highest-value next move on the board.
-
-Also standing: **`william-mccasland`, `david-grusch` and `pursue-releases` now exist on
-both boards.** If the two share an id space this becomes one graph with two views, which is
-considerably more powerful than two graphs. That is a decision for Stewart.
+`william-mccasland`, `david-grusch` and `pursue-releases` exist on **both** this board and
+The Vanishing. If the two share an id space it becomes one graph with two views, which is
+considerably more powerful than two graphs. Not actioned.
