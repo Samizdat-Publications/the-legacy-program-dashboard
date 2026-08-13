@@ -39,6 +39,12 @@ command again.
 **Terminal commands for Stewart must always include the `cd`**, quoted, so the block is
 copy-pasteable as one unit. He has asked for this explicitly.
 
+**He runs Windows PowerShell 5.1.** `&&` is a syntax error there — *"The token '&&' is not a
+valid statement separator in this version."* A bash-style one-liner was sent on 13 Aug and
+failed. Put each command on its own line rather than joining with `;`, because `;` runs the
+next command even when the `cd` failed and can execute in the wrong directory. Paths use
+backslashes and contain spaces, so always double-quote them.
+
 ---
 
 ## Your first job after that
