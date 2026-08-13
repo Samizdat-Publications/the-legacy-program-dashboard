@@ -1450,6 +1450,141 @@ def main():
         "detail empty-state class count", 1)
     ok_all &= ok
 
+    # ---- 4s2. size-aware cluster anchors -----------------------------------
+    # The nine anchor positions were chosen so the argument reads left to right, and
+    # they were chosen for 52 nodes. At 970 the big clusters do not fit between their
+    # anchor and the wall: `oversight` sits at y=0.10 with 173 nodes assigned to it and
+    # `research` at (0.06, 0.16) with 137. The cluster's natural radius exceeds the
+    # margin, so it overflows and the box clamp pins the overflow to the edge.
+    #
+    # Measured on the 2026-08-12 build: 376 nodes pinned at y=0 and 319 at x=0, against
+    # 19 at the bottom and 1 at the right. That asymmetry is the signature — symmetric
+    # repulsion overflow would hit all four walls evenly. It is also the cause of the
+    # overlapping plate row along the top edge (SCHUMER / GILLIBRAND / HEGSETH), which
+    # was logged as a density problem and is really a containment problem.
+    #
+    # Fix: keep the intended arrangement, but push each anchor far enough from the wall
+    # to hold the cluster actually assigned to it. Radii are derived from the real node
+    # counts at build time, so this re-tunes itself as the research grows.
+    _acount = {}
+    for _n in board["people"] + board["entities"]:
+        _cls = _n.get("cls")
+        _k = ({"domain": "domains", "document": "documents", "event": "events",
+               "legislation": "legislation", "location": "locations"}.get(_cls)
+              or _n.get("cluster") or "other")
+        _acount[_k] = _acount.get(_k, 0) + 1
+    # Area per node in normalised units, calibrated so the largest cluster occupies a
+    # sane share of the box rather than all of it.
+    _AREA_PER_NODE = 0.00042
+    _radius = {k: min(0.34, (v * _AREA_PER_NODE / 3.14159) ** 0.5)
+               for k, v in _acount.items()}
+    s, ok = must_replace(s,
+        "function anchorsFor(w, h, inset) {\n"
+        "  const i = inset || DEFAULT_INSET;\n"
+        "  const x = i.l, y = i.t, uw = w - i.l - i.r, uh = h - i.t - i.b;",
+        "/* Normalised radius each cluster needs, from its real node count at build\n"
+        "   time. Used to keep an anchor far enough inside the box to hold its\n"
+        "   cluster instead of spilling it against a wall. */\n"
+        "const ANCHOR_R = " + json.dumps({k: round(v, 4) for k, v in sorted(_radius.items())},
+                                         separators=(",", ":")) + ";\n"
+        "function anchorsFor(w, h, inset) {\n"
+        "  const i = inset || DEFAULT_INSET;\n"
+        "  const x = i.l, y = i.t, uw = w - i.l - i.r, uh = h - i.t - i.b;\n"
+        "  /* Clamp a designed fraction inward by the cluster's own radius. A small\n"
+        "     cluster keeps the position it was designed with; a large one is moved\n"
+        "     just far enough in to fit, which preserves the left-to-right reading. */\n"
+        "  const _fit = (k, fx, fy) => {\n"
+        "    const r = ANCHOR_R[k] || 0.05;\n"
+        "    const cx = Math.min(Math.max(fx, r), 1 - r);\n"
+        "    const cy = Math.min(Math.max(fy, r), 1 - r);\n"
+        "    return [x + uw * cx, y + uh * cy];\n"
+        "  };",
+        "size-aware anchor fitting", 1)
+    ok_all &= ok
+
+    _ANCHORS = [("legacy", 0.30, 0.90), ("witness", 0.34, 0.30), ("oversight", 0.70, 0.10),
+                ("ic", 0.08, 0.62), ("contractor", 0.94, 0.34), ("ffrdc", 0.86, 0.72),
+                ("research", 0.06, 0.16), ("media", 0.62, 0.62), ("other", 0.50, 0.44),
+                ("domains", 0.52, 0.94), ("documents", 0.88, 0.52), ("events", 0.74, 0.86),
+                ("legislation", 0.92, 0.14), ("locations", 0.18, 0.40)]
+    _old_block = "  return {\n" + "".join(
+        "    %s%s[x + uw * %.2f, y + uh * %.2f],\n" % (k + ":", " " * max(1, 12 - len(k)), fx, fy)
+        for k, fx, fy in _ANCHORS) + "  };"
+    if _old_block not in s:   # formatting is fiddly; locate it rather than guess
+        m = re.search(r"  return \{\n(?:    \w+: *\[x \+ uw \* [\d.]+, y \+ uh \* [\d.]+\],\n)+  \};", s)
+        _old_block = m.group(0) if m else _old_block
+    s, ok = must_replace(s, _old_block,
+        "  return {\n" + "".join("    %s: _fit('%s', %.2f, %.2f),\n" % (k, k, fx, fy)
+                                 for k, fx, fy in _ANCHORS) + "  };",
+        "size-aware anchor positions", 1)
+    ok_all &= ok
+
+    # ---- 4t. bake the force layout ----------------------------------------
+    # 60% of a 19.8s cold load was 900 integration steps running before the first
+    # paint. precompute_layout.py slices this file's OWN simulation source out and
+    # runs it in Node, so there is one implementation and it cannot drift. See
+    # notes/PERF-AND-DENSITY-PLAN.md for the profile this is based on.
+    import precompute_layout as _pl
+    if not _pl.node_available():
+        print("  !! node not found — layout NOT baked, the board will lay out on load",
+              file=sys.stderr)
+        ok_all = False
+    else:
+        xy = _pl.layout_for(board, s)
+        missing = [n["id"] for n in board["people"] + board["entities"] if n["id"] not in xy]
+        if missing:
+            print(f"  !! PATCH FAILED [baked layout]: {len(missing)} node(s) got no "
+                  f"position: {missing[:5]}", file=sys.stderr)
+            ok_all = False
+        else:
+            s, ok = must_replace(s,
+                "function initLayout(nodes, w, h, inset) {",
+                "/* Positions computed at build time by tools/precompute_layout.py, stored\n"
+                "   as a fraction of the content box so they survive any viewport size.\n"
+                "   Seeding from these means zero integration steps before first paint. */\n"
+                "const BAKED_LAYOUT = " + json.dumps(
+                    {k: [round(v[0], 5), round(v[1], 5)] for k, v in xy.items()},
+                    separators=(",", ":")) + ";\n\n"
+                "function initLayout(nodes, w, h, inset) {",
+                "baked layout const", 1)
+            ok_all &= ok
+
+            s, ok = must_replace(s,
+                "    const a = (i * 2.399963) % (Math.PI * 2);\n"
+                "    const r = 40 + ((i * 37) % 130);\n"
+                "    n.x = ax + Math.cos(a) * r;\n"
+                "    n.y = ay + Math.sin(a) * r * 0.7;\n"
+                "    n.vx = 0; n.vy = 0;",
+                "    /* Baked position if we have one, spiral seed if not. The fallback\n"
+                "       matters: a node added to the data without a rebuild still lands\n"
+                "       somewhere sensible rather than at the origin. */\n"
+                "    const _b = (typeof BAKED_LAYOUT !== 'undefined') && BAKED_LAYOUT[n.id];\n"
+                "    if (_b) {\n"
+                "      const _i = inset || DEFAULT_INSET;\n"
+                "      n.x = _i.l + _b[0] * (w - _i.l - _i.r);\n"
+                "      n.y = _i.t + _b[1] * (h - _i.t - _i.b);\n"
+                "    } else {\n"
+                "      const a = (i * 2.399963) % (Math.PI * 2);\n"
+                "      const r = 40 + ((i * 37) % 130);\n"
+                "      n.x = ax + Math.cos(a) * r;\n"
+                "      n.y = ay + Math.sin(a) * r * 0.7;\n"
+                "    }\n"
+                "    n.vx = 0; n.vy = 0;",
+                "baked layout seeding", 1)
+            ok_all &= ok
+
+            # The live map. 900 steps -> a short relax that only settles the
+            # difference between the reference box and the real one.
+            s, ok = must_replace(s,
+                "    for (let i=0;i<900;i++) sim.step();   // opens settled",
+                "    /* Was 900 steps and ~15s. The layout arrives baked, so this only\n"
+                "       needs to absorb the difference between the reference box it was\n"
+                "       computed in and the box we actually got. */\n"
+                "    const _settle = (typeof BAKED_LAYOUT !== 'undefined') ? 40 : 900;\n"
+                "    for (let i=0;i<_settle;i++) sim.step();",
+                "live map settle steps", 1)
+            ok_all &= ok
+
     # ---- branding ---------------------------------------------------------
     for old, new, label, cnt in [
         ("The Vanishing", "The Program", "title", s.count("The Vanishing")),
