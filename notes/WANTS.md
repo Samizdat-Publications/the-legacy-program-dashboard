@@ -5,6 +5,49 @@ lost in a chat log.
 
 ---
 
+## Public README and landing page — POST-1.0, do not start early
+
+**Asked 13 Aug 2026.** A full README and a visually impressive landing page: screenshots
+pulled from the running app, a display that shows what the board actually does.
+
+**Explicitly gated on reaching 1.0.** The reason to hold it is not effort, it is that a
+landing page is a *claim about a finished thing*. Screenshots taken now would show the
+970-node tangle, the plate overlap and the pre-L0 map, and every one of them would be stale
+the moment the design work lands. Shipping a polished front door onto a board mid-surgery
+also invites exactly the hostile read this project is built to survive.
+
+What it should include when it is time:
+
+- Screenshots per view, captured from the real board via `tools/shoot.js` so they cannot
+  drift from what ships
+- The numbers as the headline — claim-tier split, source count, span of years — because that
+  is the product, not the visuals
+- An honest "what this is not" section. A board that oversells itself loses the argument
+  before anyone reads a claim.
+
+**Definition of 1.0 is not yet agreed.** Proposed: L0 map landed, `TESTING-CHECKLIST.md`
+worked end to end including the §12 source spot-checks, and `verify.py --idempotent` green.
+
+---
+
+## GitHub ownership — blocked on connector authorisation
+
+**Asked 13 Aug 2026.** Stewart wants Claude to own all GitHub work: publishing, version
+control, branches, releases, the eventual landing page.
+
+**Blocked:** the `plugin:engineering:github` connector is present but unauthorised, and a
+non-interactive session cannot run the OAuth flow. There is no `gh` CLI, no `GH_TOKEN` and
+no credential helper in the sandbox. Verified by tool search on 13 Aug, not assumed.
+
+**Unblock:** authorise the GitHub connector in claude.ai connector settings, or `/mcp` in an
+interactive session. After that this is fully delegable.
+
+Repo is publish-ready as of `52a01c6`: 95 files, 9 commits, secret-scanned (only match is
+the literal string `sk-ant-` in the Set-API-key placeholder). Intended name:
+**the-legacy-program-dashboard**, "The Legacy Program Dashboard".
+
+---
+
 ## Craft catalogue with 3D or sprite representations
 
 **Asked 12 Aug 2026.** A visual representation of each craft that has been catalogued —
