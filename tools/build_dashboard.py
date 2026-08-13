@@ -1581,8 +1581,25 @@ def main():
                 "       needs to absorb the difference between the reference box it was\n"
                 "       computed in and the box we actually got. */\n"
                 "    const _settle = (typeof BAKED_LAYOUT !== 'undefined') ? 40 : 900;\n"
-                "    for (let i=0;i<_settle;i++) sim.step();",
+                "    for (let i=0;i<_settle;i++) sim.step();\n"
+                "    /* Park alpha on its floor. The render loop runs `if (sim.alpha >\n"
+                "       0.061) sim.step()` every frame, and alpha only decays 0.6% per\n"
+                "       step. 900 steps drove it to the 0.06 floor so the sim stopped on\n"
+                "       frame one; 40 steps leave it at 0.79, which keeps the simulation\n"
+                "       running for ~470 more frames and costs 10% of every frame for\n"
+                "       minutes after load. The baked layout is already settled — there is\n"
+                "       nothing left to relax — so end the settle explicitly rather than\n"
+                "       letting a decay constant tuned for a cold start decide. */\n"
+                "    if (typeof BAKED_LAYOUT !== 'undefined') sim.alpha = 0.06;",
                 "live map settle steps", 1)
+            ok_all &= ok
+
+            # alpha is exposed read-only; the freeze above needs a setter.
+            s, ok = must_replace(s,
+                "  return { step, links, byId, anchors, nodes, get alpha() { return alpha; } };",
+                "  return { step, links, byId, anchors, nodes,\n"
+                "           get alpha() { return alpha; }, set alpha(v) { alpha = v; } };",
+                "sim alpha setter", 1)
             ok_all &= ok
 
     # ---- branding ---------------------------------------------------------

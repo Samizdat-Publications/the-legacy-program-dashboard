@@ -202,6 +202,97 @@ Alternatives worth weighing, and I do not think this is obvious:
 
 ---
 
+---
+
+## Part 5 — the map is of the program, not of people (Stewart, 13 Aug)
+
+**This supersedes the custody-spine proposal in Part 4.** Stewart's framing is better and
+the reason is worth writing down.
+
+The custody spine was a **filter**: show 150 nodes, hide 820. On a board whose entire
+product is *we did not leave anything out*, the first question a hostile reader asks is
+what got cut, and a filter has no good answer. Aggregation has one. A node reading
+`CONGRESSIONAL TESTIMONY · 2023-07-26 · 12 people` conceals nothing — it states its own
+contents and expands on demand. Nothing is hidden; it is *summarised*, and the summary
+declares its own size.
+
+It is also truer to the argument. The thesis is institutional — who held material, under
+what authority, paid for how. Individuals are **evidence for** institutional claims, not
+the claims themselves. A map of people is a map of the evidence; a map of programs,
+institutions, events and legislation is a map of the argument.
+
+### The aggregation invents nothing
+
+The key structural fact: **the aggregate nodes already exist in the data.** `hearing-2023-07-26`
+is already a node. Grusch, Graves and Fravor already have edges to it. There are 365
+structural nodes (68 programs, 162 institutions, 75 events, 60 legislation) against 605
+detail nodes (246 people, 198 documents, 101 locations, 60 domains).
+
+So this is not a new dataset or a new research burden. It is a decision about **which
+existing nodes are structural and which are detail**, plus a rule for routing detail edges
+through the structural nodes they share.
+
+### Level 0 — the rest state
+
+Structural classes only, above a connectivity floor. Measured against the real data:
+
+| floor | L0 nodes | direct L0–L0 edges |
+|---|---|---|
+| degree ≥ 3 | 214 | 299 |
+| degree ≥ 4 | 148 | 220 |
+| degree ≥ 5 | 108 | 166 |
+| **degree ≥ 6** | **80** | **127** |
+| degree ≥ 8 | 47 | 69 |
+
+Plus aggregated edges: where two L0 nodes share detail nodes (Grusch links AARO to the
+2023 hearing), emit one summarising edge carrying the **count** of underlying links and the
+**strongest claim tier** among them. Tier is preserved through aggregation — a rolled-up
+edge that loses its sourcing would break credibility rule 1.
+
+### Why this is the fps answer, and the only one
+
+Frame rate is a function of objects drawn. Current rest state is **970 nodes + 3,749 edges
+= 4,719 primitives**, every frame. At degree ≥ 6 it is **80 + 127 ≈ 207** — a **23×**
+reduction. That is the difference between 2 fps and 60 fps, and no amount of culling,
+batching or LOD gets there while the scene is 4,719 objects. Draw less; there is no other
+lever that spans an order of magnitude.
+
+Targets, honestly stated: **60 fps is realistic at L0** (~200 primitives is trivial for
+canvas, let alone WebGL). **30 fps should hold with two or three nodes expanded.** Fully
+expanded to all 970 will not hit 30 and should not pretend to — it should be labelled as
+the full corpus with its cost stated, exactly as the current stats strip states everything
+else.
+
+### Interaction
+
+- Click an L0 node → it **expands in place**, revealing its member detail nodes; siblings
+  dim rather than disappear. The dossier dock opens as it does now.
+- Expanded nodes stay expanded until dismissed, so two can be compared.
+- A breadcrumb states what is currently expanded and its cost, e.g. `L0 · 80 objects
+  + AARO (62) + hearing-2023-07-26 (12)`.
+- `clear` returns to L0.
+
+### What still needs deciding
+
+1. The floor. 80 nodes reads well and is fast; 148 shows more of the argument. Worth
+   prototyping both against the real board rather than picking from the table.
+2. Whether **documents** are detail or structural. `aaro-historical-record-vol1` is rank 4
+   by centrality and carries 18 denials — the design brief calls the document the
+   load-bearing object on this board, which argues for promoting high-degree documents to
+   L0 rather than treating the whole class as detail.
+3. Whether locations get their own overlay rather than a level.
+
+### A measurement caveat I should flag
+
+The 2 fps figure comes from headless Chromium with **SwiftShader software rendering** —
+there is no GPU in the container. Frame profiles here show ~95% of time in non-JS VM work,
+which is the software rasteriser and will not reproduce on Stewart's machine. **Headless fps
+is not a reliable proxy for real fps.** What *is* machine-independent, and what the profile
+did legitimately catch, is JS work per frame — which is how the `sim.alpha` regression was
+found. Frame-rate targets must be validated on the real machine, not here.
+
+---
+
 ## Sequencing
 
 1. `verify.py` in the loop — **done**

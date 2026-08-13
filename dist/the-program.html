@@ -96483,7 +96483,8 @@ function makeSim(nodes, edges, w, h, inset) {
       n.y = Math.max(ins.t, Math.min(h - ins.b, n.y));
     }
   }
-  return { step, links, byId, anchors, nodes, get alpha() { return alpha; } };
+  return { step, links, byId, anchors, nodes,
+           get alpha() { return alpha; }, set alpha(v) { alpha = v; } };
 }
 
 // ---- drawing primitives -------------------------------------------------
@@ -106496,6 +106497,15 @@ function mountNetwork(host){
        computed in and the box we actually got. */
     const _settle = (typeof BAKED_LAYOUT !== 'undefined') ? 40 : 900;
     for (let i=0;i<_settle;i++) sim.step();
+    /* Park alpha on its floor. The render loop runs `if (sim.alpha >
+       0.061) sim.step()` every frame, and alpha only decays 0.6% per
+       step. 900 steps drove it to the 0.06 floor so the sim stopped on
+       frame one; 40 steps leave it at 0.79, which keeps the simulation
+       running for ~470 more frames and costs 10% of every frame for
+       minutes after load. The baked layout is already settled — there is
+       nothing left to relax — so end the settle explicitly rather than
+       letting a decay constant tuned for a cold start decide. */
+    if (typeof BAKED_LAYOUT !== 'undefined') sim.alpha = 0.06;
     pairs = aggregatePairs(sim.links);
   }
   function reflow(){
