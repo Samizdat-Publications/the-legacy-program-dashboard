@@ -1,0 +1,439 @@
+[
+  {
+    "id": "project-blue-book",
+    "entityDossier": {
+      "whatItIs": "Project Blue Book was the United States Air Force's public-facing unidentified flying object investigation, headquartered at Wright-Patterson Air Force Base and running from March 1952 until Secretary of the Air Force Robert C. Seamans, Jr. announced its termination on 17 December 1969. It succeeded Projects SIGN and GRUDGE and logged 12,618 sightings, of which 701 were closed as \"Unidentified.\" Its textual records were retired to the USAF Archives and subsequently to the National Archives, where they are open as 94 rolls of 35mm microfilm, publication T-1206, within Record Group 341.",
+      "whyImplicated": "The Air Force's own termination paperwork states in plain language that Blue Book was not the channel through which serious UAP reporting flowed. The 20 October 1969 staff document signed by Brig. Gen. C. H. Bolender records that \"reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system,\" and in the same paragraph that \"there is still, however, no evidence that Project Blue Book reports have served any intelligence function.\" That is a signed admission of a two-channel architecture: a public channel with a press office and a phone number, and a separate operational reporting channel whose corpus has never been inventoried, indexed or transferred to any archive. The same document shows the Air Force weighing where to store the Blue Book files specifically to manage researcher access, with the Secretary of the Air Force Office of Information agreeing to \"rigidly limit the right of access\" and to \"screen researcher's notes.\" Blue Book therefore sits on this board twice: as the mechanism that absorbed and normalised public interest for seventeen years, and as a custody object whose public copy was deliberately shaped before release.",
+      "roles": ["concealment", "custody", "oversight", "disclosure"],
+      "narrative": "Project Blue Book is the most examined document set in the history of the subject and the least useful, and both facts follow from the same cause: it was never the file where the answer would be.\n\nThe Air Force ran three named UFO efforts in sequence. Project SIGN began in 1948, Project GRUDGE followed in 1949, and Blue Book was stood up in March 1952 under Air Force Regulation 80-17, which required base commanders to provide a UFO investigative capability and Air Force Systems Command to continue the project. The Bolender document of 20 October 1969 describes the resulting establishment with some precision: \"Project Blue Book has two officers, one NCO and one civilian assigned on a full-time basis,\" plus Dr. J. Allen Hynek as a scientific consultant until 1 July 1969. Four people, one part-time academic, and a stated mission to determine whether UFOs threatened national security and whether they exhibited advanced technology. For seventeen years this was the entire visible federal apparatus.\n\nThe Bolender document is the load-bearing artifact. It was written as the staff package recommending termination, was released to researcher Robert Todd in January 1979, and reads as an internal cost-benefit memorandum rather than a scientific finding. Paragraph 4 contains the sentence that reorganises everything around it: after noting that the 1953 Robertson Panel had already concluded UFOs posed no direct physical threat, the document observes that \"in spite of this finding, the Air Force continued to maintain a special reporting system,\" then states that national-security-relevant reports move under JANAP 146 or Air Force Manual 55-11 \"and are not part of the Blue Book system.\" JANAP 146 is the joint communications instruction governing CIRVIS reporting of vital intelligence sightings; AFM 55-11 governs operational reporting. Neither corpus has ever been assembled, declassified or transferred as a body. Whatever came up those channels between 1952 and 1969 is not in T-1206 and never was.\n\nThe same document then explains, in operational terms, why Blue Book was kept alive after its own premise was disclaimed. Paragraph 8 recommends that if Blue Book is terminated the records \"should be transferred to an appropriate archive and preserved for historical value and to prevent charges that the Air Force is concealing facts.\" The reason given for preservation is reputational management, stated openly. Paragraph 9 goes further. Because witnesses had been promised confidentiality, \"access to these records and the publications must be carefully reviewed and controlled,\" and the Secretary of the Air Force Office of Information judged that \"an Air Force controlled archive away from the Washington, D.C. area is the most appropriate storage facility,\" because ready availability in Washington \"would result in an inordinate workload in clearing investigators, providing documentation, and reviewing and clearing manuscripts.\" Air University agreed to take the files on three conditions: that SAFOI answer all queries, that SAFOI \"rigidly limit the right of access to recognized, legitimate researchers,\" and that SAFOI \"screen researcher's notes to insure that 'confidentiality' is maintained.\" The Air Force decided, in writing, where to put the archive on the basis of how hard it would be for the public to reach.\n\nThe public announcement two months later, Department of Defense release No. 1077-69 of 17 December 1969, carries none of that. It quotes Seamans that continuation \"cannot be justified either on the ground of national security or in the interest of science,\" cites the Condon report and the National Academy of Sciences review, and closes with the three conclusions that have been repeated ever since: no reported UFO ever indicated a threat to national security, no \"unidentified\" case represented technology beyond present-day scientific knowledge, and no \"unidentified\" case indicated extraterrestrial vehicles. Read against Bolender, the first conclusion is a statement about a filing system rather than about the sky, because the reports that could affect national security were routed elsewhere by regulation.\n\nCustody is the second reason Blue Book is on this map. The National Archives holds approximately 2 cubic feet of project and administrative files, 37 cubic feet of case files arranged chronologically, and 3 cubic feet of records relating to the Air Force Office of Special Investigations, arranged by OSI district and overseas command. NARA states that the textual records are available \"excluding names of people involved in the sightings.\" The public Blue Book is therefore a redacted copy of the Air Force's own Blue Book, and the confidentiality rationale from Bolender paragraph 9 is the reason. NARA also states flatly that it \"has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.\" The General Accounting Office found the same when it reviewed Blue Book Special Report No. 14 at Archives II during its 1994-95 Roswell audit: the analysis of sightings from 1946 to 1953 \"did not mention the crash or the recovery of an airborne object near Roswell in July 1947.\" The single most famous American recovery event does not appear in the official American UFO file. That is either evidence the event did not happen or evidence the file was not where such events were recorded, and Bolender tells you which architecture the Air Force actually built.\n\nWhat the record does not show is equally specific. The Bolender document carries sixteen attachments listed on a separate page. Several are known and were released separately; several have never surfaced. There is no public inventory of JANAP 146 CIRVIS traffic. There is no public accounting of the OSI material beyond the three cubic feet NARA holds. And the January 1985 Wright-Patterson fact sheet that NARA reproduces contains the categorical sentence \"There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base\" - a dated, attributable, institutional denial about a specific installation, which is exactly the kind of statement this board catalogues rather than weighs.",
+      "claims": [
+        {
+          "text": "The 20 October 1969 staff document signed by Brig. Gen. C. H. Bolender states that \"reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11, and are not part of the Blue Book system.\"",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "The same document states: \"There is still, however, no evidence that Project Blue Book reports have served any intelligence function (Atch 8).\"",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "The same document notes that the 1953 Robertson Panel had already concluded UFOs were not a direct physical threat, and that \"in spite of this finding, the Air Force continued to maintain a special reporting system\" for a further sixteen years.",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "Paragraph 8 of the same document recommends that Blue Book records be transferred to an archive \"for historical value and to prevent charges that the Air Force is concealing facts.\"",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "Paragraph 9 records Air University's conditions for accepting the records: that SAFOI answer all Blue Book queries, that SAFOI \"rigidly limit the right of access to recognized, legitimate researchers,\" and that SAFOI \"screen researcher's notes to insure that 'confidentiality' is maintained.\"",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "The same paragraph states SAFOI's view that \"an Air Force controlled archive away from the Washington, D.C. area is the most appropriate storage facility,\" because Washington-area availability \"would result in an inordinate workload in clearing investigators, providing documentation, and reviewing and clearing manuscripts.\"",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "Blue Book was staffed full-time by two officers, one NCO and one civilian, with Dr. J. Allen Hynek as scientific consultant until 1 July 1969; reporting procedures were defined in Air Force Regulation 80-17.",
+          "tier": 1,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        },
+        {
+          "text": "Department of Defense release No. 1077-69, 17 December 1969, announced termination, quoting Secretary Seamans that continuation \"cannot be justified either on the ground of national security or in the interest of science,\" and stated that Blue Book records would be retired to the USAF Archives at Maxwell AFB with requests handled by SAFOI.",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/asdpa1.pdf?ver=2017-05-22-113454-807"
+        },
+        {
+          "text": "The National Archives states that Blue Book textual records are available for research \"excluding names of people involved in the sightings,\" and comprise approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of AFOSI-related records, accessed via 94 rolls of 35mm microfilm (T-1206).",
+          "tier": 1,
+          "source": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "text": "The National Archives states: \"The National Archives has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.\"",
+          "tier": 1,
+          "source": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "text": "GAO reviewed Project Blue Book Special Report No. 14 at National Archives II and reported it \"did not mention the crash or the recovery of an airborne object near Roswell in July 1947.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "The January 1985 USAF fact sheet distributed by Wright-Patterson AFB, reproduced by the National Archives, records 12,618 sightings from 1947 to 1969 of which 701 remain \"Unidentified,\" and states \"There are not now nor ever have been, any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\"",
+          "tier": 1,
+          "source": "https://www.archives.gov/research/military/air-force/ufos"
+        },
+        {
+          "text": "The Bolender document carried sixteen attachments listed on a separate page; NICAP's published notes state that researcher Robert Todd spent years seeking their release and that several remain unidentified or unreleased.",
+          "tier": 3,
+          "source": "https://www.nicap.org/Bolender_Memo.htm"
+        }
+      ],
+      "denialPosture": "The Air Force's position has been fixed since 17 December 1969 and restated verbatim for decades: no reported UFO ever indicated a threat to national security, none represented technology beyond present-day scientific knowledge, and none indicated extraterrestrial vehicles (DoD release No. 1077-69). The January 1985 Wright-Patterson fact sheet adds the installation-specific denial that there are not now and never have been \"any extraterrestrial visitors or equipment on Wright-Patterson Air Force Base.\" Both are dated, attributable and institutional, and both are silent on the JANAP 146 and AFM 55-11 channel the Air Force's own termination paperwork describes.",
+      "openQuestions": [
+        "No inventory, index or transfer of the JANAP 146 (CIRVIS) and AFM 55-11 UFO reporting corpus for 1952-1969 has ever been made public. Where does that traffic physically reside?",
+        "Several of the sixteen attachments to the 20 October 1969 Bolender staff package have never been released. What is in Atch 8, cited for the claim that Blue Book served no intelligence function, and Atch 10, cited for the JANAP 146 routing?",
+        "Does an unredacted Blue Book master copy containing witness names still exist in Air Force custody, and under what disposition authority?",
+        "The exact date, transfer authority and accession record for the movement of the files from Wright-Patterson to the USAF Archives at Maxwell and then to NARA is not stated on NARA's own page.",
+        "The text and successive amendments of AFR 200-2 (1953) and its provisions on public release of unidentified cases were not verified in primary form for this dossier and remain a research target.",
+        "Whether AFOSI retained a parallel UFO case series beyond the three cubic feet at NARA, and whether any of it was destroyed."
+      ]
+    }
+  },
+  {
+    "id": "roswell-1947",
+    "entityDossier": {
+      "whatItIs": "On 8 July 1947 the Roswell Army Air Field public information office announced that personnel of the 509th Bomb Group had recovered a crashed \"flying disc\" on a ranch in the Roswell region. The following day the Commanding General of Eighth Air Force at Fort Worth announced the object was a radar-tracking weather balloon. The Air Force issued two further explanations decades later: a 1994 report attributing the debris to a Project MOGUL balloon train, and a 1997 report attributing reports of \"alien bodies\" to anthropomorphic test dummies and to two later aircraft and balloon mishaps.",
+      "whyImplicated": "The argument here is not about what fell. It is about the file. When the General Accounting Office audited the record in 1994-95 at the request of Rep. Steven Schiff, it found that Roswell Army Air Field's administrative records for March 1945 through December 1949 and its outgoing messages for October 1946 through December 1949 had been destroyed, and that \"the document disposition form does not indicate what organization or person destroyed the records and when or under what authority.\" The unit records of the 1395th Military Police Company (Aviation), the unit that would have cordoned any site, could not be shown ever to have been retired to a records depository at all. Only two documents originating in 1947 survived the search. The FBI teletype that survives states the recovered object was being sent to Wright Field for examination, and GAO's review of Air Materiel Command records for 1947 to 1950 found nothing about the receipt or examination of any Roswell debris. A government that recovered a weather balloon does not lose four years of a bomb group's message traffic without a disposal authority, and does not fail to log the arrival of the item at the laboratory it says received it.",
+      "roles": ["retrieval", "concealment", "custody"],
+      "narrative": "Roswell is the origin node of the entire concealment argument, and the strongest evidence for it is not testimony. It is an audit report signed by a GAO director in 1995.\n\nThe sequence of public statements is short and well documented. On 8 July 1947 the RAAF public information office reported the recovery of a \"flying disc,\" credited to personnel of the 509th Bomb Group. Within a day the story was replaced: Eighth Air Force at Fort Worth announced a crashed radar-tracking balloon. The July 1947 combined history report of the 509th Bomb Group and RAAF, one of only two surviving 1947 documents, records that the public information office \"was kept quite busy . . . answering inquiries on the 'flying disc,' which was reported to be in [the] possession of the 509th Bomb Group. The object turned out to be a radar tracking balloon.\" The commanding officer certified by signature that the report was a complete and accurate account of RAAF activities for that month. The second surviving document is an FBI teletype from the Dallas field office dated 8 July 1947, whose authenticity an FBI spokesperson confirmed to GAO, reporting that an Eighth Air Force headquarters official had telephoned to describe the recovery near Roswell of \"a hexagonal-shaped disc suspended from a large balloon by cable,\" and that \"the disc and balloon were being sent to Wright Field . . . for examination.\"\n\nThat is the entire 1947 documentary record. Everything else was gone by the time anyone looked.\n\nGAO looked hard. Its team worked from March 1994 to June 1995 across the National Archives in Washington and at College Park, the records center at Suitland, the National Personnel Records Center in St. Louis, the Air Force Safety Agency at Kirtland, the Air Force History Support Office at Bolling, NSA at Fort Meade, the Army Central Security Facility, CIA at Langley, FBI headquarters and elsewhere, and queried the National Security Council, the Office of Science and Technology Policy, the Department of Energy, the FBI, DOD and CIA in writing. It reviewed classified material. What it reported was a hole shaped exactly like the event.\n\nThe Chief Archivist of the National Personnel Records Center documented for GAO that RAAF records covering finance and accounting, supplies, buildings and grounds and other general administrative matters from March 1945 through December 1949, together with RAAF outgoing messages from October 1946 through December 1949, had been destroyed, and that \"the document disposition form did not properly indicate the authority under which the disposal action was taken.\" GAO's flat summary sentence is the one that matters: \"although some of the records concerning Roswell activities had been destroyed, there was no information available regarding when or under what authority the records were destroyed.\" The Chief Archivist offered the mitigating view that many Air Force organizational records of that period were destroyed without a disposition citation, and GAO noted that its own review of the destruction forms for RAAF's 1950 outgoing messages supported that view. That is a fair caveat and it is in the record. It does not restore the messages.\n\nA separate gap sits underneath it. GAO specifically sought the records of the military units assigned to RAAF in 1947 - the 509th Bomb Group, the 1st Air Transport Unit, the 427th Army Air Force Base Unit, and the 1395th Military Police Company (Aviation). Disposition forms from St. Louis show a Walker Air Force Base records officer transferring the first three unit histories to the Army's Kansas City depository in 1953. Of the fourth, GAO wrote: \"We could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories.\" The military police company is the unit that secures a crash site. Its paper is the only unit paper that does not exist.\n\nThe third gap closes the loop. Because the surviving FBI teletype says the material went to Wright Field, GAO tried to find the regulation governing how such debris should be handled and reported: \"We were unable to locate any applicable regulation.\" It then reviewed Air Materiel Command records at Wright Field from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\" The item arrives nowhere. GAO also established that in 1947 Army regulations required air accident reports to be maintained permanently, that four air accidents were reported in New Mexico in July 1947 and all occurred after 8 July involving military aircraft, and that Air Force officials said no requirement existed to report a weather balloon crash - which is a clean explanation for the absence of an accident report and no explanation at all for the absence of the message traffic.\n\nCIA's answer is its own artifact. In March 1995 the Agency's Executive Director told GAO that earlier UFO record searches had produced nothing on Roswell but that \"it was unclear whether the CIA had ever conducted a search for records specifically relating to Roswell,\" and ordered one. On 30 May 1995 he reported that a search on the term \"Roswell, New Mexico\" across all CIA databases produced no documents. Forty-eight years after the event and one year into a congressional audit, the Agency was not sure it had ever looked.\n\nThe two Air Force reports arrived on either side of the GAO audit and moved the explanation twice. The 1994 report, announced by Secretary of the Air Force Sheila Widnall on 8 September 1994, concluded that the most likely source of the recovered wreckage was a Project MOGUL balloon train, a then-classified acoustic effort to detect Soviet nuclear tests; DOD told GAO that this report \"represents the extent of DOD records or information concerning the Roswell crash.\" The 1997 report, The Roswell Report: Case Closed, addressed the body reports and concluded that \"Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred in two or three days in July 1947,\" that the \"aliens\" were anthropomorphic test dummies carried aloft by high-altitude balloons, and that claims of bodies at the RAAF hospital most likely combine a 1956 KC-97 accident that killed eleven airmen and a 1959 manned balloon mishap that injured two pilots. The dummy drops and both mishaps postdate July 1947 by between seven and twelve years. The Air Force's answer to that is that witness memory compressed the decade. It is a testable claim and it is on the record under signature, which is what makes it useful here.",
+      "claims": [
+        {
+          "text": "GAO found that RAAF administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 were destroyed, and that \"the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO's search of federal holdings yielded only two records originating in 1947: the July 1947 combined history report of the 509th Bomb Group and RAAF, and an FBI teletype dated 8 July 1947.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO reported: \"We could not locate any documentation indicating that records of the 1395th Military Police Company (Aviation) were ever retired to the National Personnel Records Center or its predecessor depositories.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "The 8 July 1947 FBI teletype, whose authenticity an FBI spokesperson confirmed to GAO, states that an Eighth Air Force headquarters official reported the recovery near Roswell of a hexagonal-shaped disc suspended from a large balloon by cable, and that the disc and balloon \"were being sent to Wright Field . . . for examination.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO reviewed Air Materiel Command (Wright Field) records from 1947 to 1950 and \"found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO attempted to identify the military regulations governing the handling of such debris and reported: \"We were unable to locate any applicable regulation.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "In March 1995 the CIA Executive Director told GAO it was \"unclear whether the CIA had ever conducted a search for records specifically relating to Roswell\" and ordered one; on 30 May 1995 he reported that a search on \"Roswell, New Mexico\" across all CIA databases produced no documents.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO stated in its scope and methodology section: \"Our search of government records was complicated by the fact that some records we wanted to review were missing and there was not always an explanation.\"",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "GAO found that in 1947 Army regulations required air accident reports to be maintained permanently, that no military service filed a report on the Roswell incident, and that Air Force officials stated there was no requirement to prepare a report on the crash of a weather balloon.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "DOD informed GAO that the July 1994 Report of Air Force Research Regarding the Roswell Incident \"represents the extent of DOD records or information concerning the Roswell crash,\" and that report concluded the most likely source of the wreckage was one of the Project MOGUL balloon trains.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-95-187/html/GAOREPORTS-NSIAD-95-187.htm"
+        },
+        {
+          "text": "The Air Force's 1997 report The Roswell Report: Case Closed concludes that \"Air Force activities which occurred over a period of many years have been consolidated and are now represented to have occurred in two or three days in July 1947,\" that reported \"aliens\" were anthropomorphic test dummies carried by high-altitude balloons, and that body claims at the RAAF hospital most likely combine a 1956 KC-97 accident killing eleven airmen and a 1959 manned balloon mishap injuring two pilots.",
+          "tier": 1,
+          "source": "https://www.af.mil/The-Roswell-Report/"
+        },
+        {
+          "text": "The anthropomorphic dummy drops and both mishaps relied on in the 1997 explanation postdate July 1947 by roughly seven to twelve years; the Air Force resolves the discrepancy by asserting temporal compression of witness memory rather than by producing contemporaneous 1947 documentation.",
+          "tier": 2,
+          "source": "https://www.af.mil/The-Roswell-Report/"
+        },
+        {
+          "text": "The National Archives states it \"has been unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico,\" and that before the 1994 interviews Secretary Widnall released interviewees from any previous security obligations that may have restricted their statements.",
+          "tier": 1,
+          "source": "https://www.archives.gov/research/military/air-force/ufos"
+        }
+      ],
+      "denialPosture": "Three official positions exist, each dated and attributable: Eighth Air Force, 9 July 1947, a radar-tracking weather balloon; the Office of the Secretary of the Air Force, 8 September 1994 under Secretary Sheila Widnall, a Project MOGUL balloon train; and Headquarters USAF, 24 June 1997, anthropomorphic test dummies plus a 1956 aircraft accident and a 1959 balloon mishap. The 1994 and 1997 reports also assert that Air Force research \"did not locate or develop any information that the 'Roswell Incident' was a UFO event nor was there any indication of a 'cover-up' by the Government.\" No official statement has ever explained the destruction of the 1945-1949 RAAF administrative and message files without a disposition authority.",
+      "openQuestions": [
+        "Who destroyed the RAAF administrative records and outgoing messages, when, and under what authority? GAO could not answer this and no agency has since.",
+        "Where are the records of the 1395th Military Police Company (Aviation), and were they ever accessioned anywhere?",
+        "If the FBI teletype is correct that the material went to Wright Field, why do Air Materiel Command files for 1947-1950 contain no receipt, examination or disposition entry?",
+        "The July 1947 RAAF press release itself, as distributed, has not been located in primary form in the federal record; only the 509th unit history's paraphrase and press accounts survive.",
+        "The so-called Ramey memo - the sheet of paper visible in the 8 July 1947 Fort Worth press photographs - has no authoritative government transcription. Any reading of it remains an interpretive claim and is deliberately excluded from the claims above.",
+        "Whether any 1947 material relating to Roswell exists in still-classified compartmented series that GAO's 1994-95 access did not reach; GAO reviewed classified holdings but its access was not unlimited and it did not audit special access programs."
+      ]
+    }
+  },
+  {
+    "id": "nimitz-2004",
+    "entityDossier": {
+      "whatItIs": "On 14 November 2004, during pre-deployment workups off southern California, the USS Princeton (CG-59) vectored two F/A-18F Super Hornets from VFA-41 aboard USS Nimitz (CVN-68) onto a radar contact. Four aircrew, including squadron commanding officer Cdr. David Fravor, visually observed a white, wingless, roughly forty-foot object above a patch of disturbed water. A later sortie captured the infrared video now known as FLIR1, which the Department of Defense formally released as an authentic unclassified Navy video on 27 April 2020.",
+      "whyImplicated": "Nimitz is the modern case that cannot be argued away on witness quality, because the observation was multi-platform: an Aegis SPY-1 radar track held over weeks, four aircrew in two aircraft, and an ATFLIR recording. What happened to that data afterwards is the point. Fravor testified under oath in July 2023 that \"the incident was never investigated, none of my crew were ever questioned, tapes were never taken,\" and that no one from the government contacted him about it until Jay Stratton did so in 2009 on behalf of a Defense Department programme he had never heard of. Enlisted personnel from the Princeton and the Nimitz have separately said that unidentified individuals arrived by helicopter within a day and collected Aegis and aircraft data recordings; that account is testimonial and undocumented. Either way, the United States possessed the highest-quality sensor capture of an unexplained object in its history and produced no investigation, no incident report and no data package - until a compartmented programme quietly reached out five years later. That gap between the sensor and the file is the same architecture Bolender described in 1969.",
+      "roles": ["concealment", "disclosure", "oversight", "custody"],
+      "narrative": "The Nimitz encounter is the case that made the modern era possible, and the reason it belongs on a map of the legacy programme is not the object. It is the handling.\n\nFravor's sworn statement to the House Oversight Committee, filed for the hearing of 26 July 2023, is the cleanest primary account and it is worth reading for the operational detail rather than the spectacle. He was commanding officer of Strike Fighter Squadron 41 attached to Carrier Air Wing Eleven, roughly two weeks into an at-sea period, briefed to lead a two-versus-two air combat training exercise controlled by Princeton. On launch, \"we were told that training was going to be suspended for real world tasking.\" His flight was vectored west of the combat air patrol point. Critically, he records what the controller told him about the preceding fortnight: the Princeton \"had been observing these objects on their Aegis combat system for the previous 2 weeks. They had been descending from above 80,000ft and coming rapidly down to 20,000ft would stay for hours and then go straight back up.\" This is not a single sighting. It is a two-week radar campaign by a cruiser's air defence system that generated no public record and no known written report.\n\nAt the merge the aircrew saw disturbed white water, then a small white object with its longitudinal axis pointed north-south, moving abruptly above it, with \"no Rotors, No Rotor wash, or any visible flight control surfaces like wings.\" Fravor descended in a clockwise turn; the object shifted its axis to align with his aircraft and began a climbing turn in the same direction. At roughly half a mile it \"rapidly accelerated and disappeared right in front of our aircraft,\" and the disturbed water was gone with it. The flight turned back toward the CAP point sixty miles east and the controller reported that the object had reappeared there on the Princeton's SPY-1 radar, having covered that distance in \"less than a minute.\"\n\nBack aboard Nimitz they mentioned it to the crew preparing to launch. That crew took the roughly ninety-second infrared video that would be released by the government in 2017. Fravor adds a detail about a second recording that has never surfaced: \"What is not seen is the Radar tape that showed the jamming of the APG-73 radar in the aircraft.\" An electronic attack on a fighter's fire control radar off the coast of California is, by any ordinary standard, a reportable event.\n\nAnd then, on his account, nothing. \"What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken, and after a couple of days, it turned into a great story to tell friends. Not until 2009 did Jay Stratton contact me to investigate what we observed. Unbeknownst to all of us, Jay was part of the ATIP . . . program led by Lue Elizondo out of the DOD.\" That single paragraph is the whole argument in miniature. The Navy's normal machinery - safety reporting, intelligence debrief, mishap investigation - did not engage. Five years later a compartmented Defense Department effort did, without announcing itself, and the resulting document circulated for years as what Fravor calls \"the Unofficial Official Report.\" Fravor also notes that Lt. Cdr. Alex Dietrich, the other pilot in the flight, had been invited to the Pentagon multiple times to discuss the event and view other UAP videos while he had heard from no one at all - which means the government knew where the aircrew were and chose which of them to talk to.\n\nAgainst that, there is a competing testimonial strand that must be tiered honestly. Petty Officer Gary Voorhis, aviation technician Patrick \"PJ\" Hughes and Senior Chief Kevin Day have described, in interviews and documentaries from roughly 2019 onward, unidentified individuals arriving by helicopter within about a day and taking Aegis data recordings, combat engagement centre recorders, optical drives holding radio communications and E-2 Hawkeye data bricks, with Voorhis instructed to erase even blank tapes. No document has ever been produced for this and no official Navy statement has addressed it. It is also not in tension with Fravor as often assumed: Fravor speaks for his aircrew and his squadron's tapes, the enlisted witnesses speak about the cruiser and the carrier's data systems. Both can be true. Neither is documented.\n\nWhat is documented is the government's slow, deliberate concession of the artifact. On 27 April 2020 the Department of Defense issued a formal statement authorising release of three unclassified Navy videos, \"one taken in November 2004 and the other two in January 2015, which have been circulating in the public domain after unauthorized releases in 2007 and 2017.\" It confirmed that \"the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos,\" stated that release \"does not reveal any sensitive capabilities or systems, and does not impinge on any subsequent investigations of military air space incursions by unidentified aerial phenomena,\" and closed with the line that matters: \"The aerial phenomena observed in the videos remain characterized as 'unidentified.'\" Two things are conceded in that paragraph. The video is real, and there are subsequent investigations of airspace incursions by unidentified phenomena that a release could in principle impinge upon.\n\nFravor's closing testimony frames the oversight question the way this board frames it. He is explicit that the issue \"is not about full public disclosure that could undermine national security\" but about checks and balances, and he makes the structural point directly: \"even Unacknowledged Waived programs have some level of oversight by the appropriate committee members in the House and Senate and this work that is said to be occurring from Whistleblower testimonies should not be exempt.\" That is a retired commander with a Top Gun background telling Congress, under oath, that he believes there is an activity operating outside the waived-programme oversight floor. Nimitz is on this map because it is the point where the sensor data, the missing file and the oversight gap all converge in one afternoon off San Diego.",
+      "claims": [
+        {
+          "text": "In sworn written testimony to the House Oversight Committee for the 26 July 2023 hearing, Cdr. David Fravor (USN, ret.) states that on launch his flight was told \"that training was going to be suspended for real world tasking.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor's statement records that the USS Princeton \"had been observing these objects on their Aegis combat system for the previous 2 weeks. They had been descending from above 80,000ft and coming rapidly down to 20,000ft would stay for hours and then go straight back up.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor describes an object with \"no Rotors, No Rotor wash, or any visible flight control surfaces like wings\" that aligned its longitudinal axis with his aircraft, then \"rapidly accelerated and disappeared right in front of our aircraft\" at approximately half a mile.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor states the object reappeared on the Princeton's SPY-1 radar at the flight's CAP point roughly 60 miles east, having covered that distance \"in a very short period of time (less than a minute).\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor states that a second recording exists and has never been shown: \"What is not seen is the Radar tape that showed the jamming of the APG-73 radar in the aircraft.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor states: \"What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken, and after a couple of days, it turned into a great story to tell friends.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor states that the first government approach came in 2009 from Jay Stratton, who \"was part of the ATIP . . . program led by Lue Elizondo out of the DOD,\" and that the resulting document circulated as what he calls \"the Unofficial Official Report.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor states that Lt. Cdr. Alex Dietrich, the other pilot in the flight, \"had been invited to the Pentagon multiple times to discuss the event and view other videos of UAPs\" while he himself had not been contacted after 2009.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "Fravor's closing testimony asserts an oversight gap: \"even Unacknowledged Waived programs have some level of oversight by the appropriate committee members in the House and Senate and this work that is said to be occurring from Whistleblower testimonies should not be exempt.\"",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"
+        },
+        {
+          "text": "The Department of Defense stated on 27 April 2020 that it authorised release of three unclassified Navy videos, one taken in November 2004, and that \"the aerial phenomena observed in the videos remain characterized as 'unidentified.'\"",
+          "tier": 1,
+          "source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "text": "The same DoD statement records that \"the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos,\" that they had circulated \"after unauthorized releases in 2007 and 2017,\" and that the released files were posted to the Naval Air Systems Command FOIA reading room.",
+          "tier": 1,
+          "source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "text": "The same statement concedes the existence of an ongoing investigative effort, saying release \"does not impinge on any subsequent investigations of military air space incursions by unidentified aerial phenomena.\"",
+          "tier": 1,
+          "source": "https://www.defense.gov/News/Releases/Release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+        },
+        {
+          "text": "Fravor testified under oath alongside Ryan Graves and David Grusch before the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs on 26 July 2023 in the hearing \"Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency.\"",
+          "tier": 1,
+          "source": "House Committee on Oversight and Accountability, hearing transcript HHRG-118-GO06-Transcript-20230726, 26 July 2023, https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"
+        },
+        {
+          "text": "Former crew members including Gary Voorhis, Patrick \"PJ\" Hughes and Kevin Day have stated in interviews since 2019 that unidentified individuals arrived by helicopter shortly after the encounter and collected Aegis data recordings, combat engagement centre recorders and E-2 aircraft data drives. No document supports this and no Navy statement addresses it; the compiled case file that reports these accounts states expressly that the point \"remains anecdotal and is not confirmed by documentation.\"",
+          "tier": 3,
+          "source": "https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/"
+        },
+        {
+          "text": "The FLIR1 video was recorded on a later sortie the same day by a weapons systems officer, Lt. Cdr. Chad Underwood, using an ATFLIR pod; Underwood did not see the object visually.",
+          "tier": 2,
+          "source": "https://www.theblackvault.com/casefiles/the-vault-files-the-tic-tac-incident-november-14-2004/"
+        }
+      ],
+      "denialPosture": "There is effectively no denial to catalogue, and that is itself the finding. The Navy acknowledged the videos' authenticity in 2019 and the Department of Defense formally released them on 27 April 2020 while stating that the phenomena \"remain characterized as 'unidentified.'\" No component has denied the Princeton's Aegis tracks, denied the encounter, or produced a resolution. The only official position that has ever been asserted about Nimitz is that the imagery is real and the object is unexplained.",
+      "openQuestions": [
+        "Do the USS Princeton's Aegis SPY-1 recordings and combat information centre logs for 10-16 November 2004 still exist, and under what disposition authority were they retained or destroyed?",
+        "Does the APG-73 radar tape Fravor describes, showing jamming of his aircraft's fire control radar, exist in any Navy holding?",
+        "Was any contemporaneous 2004 report of any kind generated - safety, intelligence, mishap or operational - and if not, under what authority was reporting waived for a two-week Aegis track and a fighter radar jamming event?",
+        "What is the provenance, classification history and custodian of the document Fravor calls the \"Unofficial Official Report,\" prepared following Jay Stratton's 2009 contact?",
+        "Who directed the collection of data recordings from Princeton and Nimitz, if it occurred, and under what authority? No FOIA release has yet produced tasking, travel or custody documentation.",
+        "Why was Lt. Cdr. Dietrich brought to the Pentagon repeatedly while the flight lead was not contacted at all, and which office issued those invitations?"
+      ]
+    }
+  },
+  {
+    "id": "yankee-blue",
+    "entityDossier": {
+      "whatItIs": "YANKEE BLUE is an alleged United States Air Force practice in which personnel entering certain classified units were shown photographs of flying saucers and told they were being read on to a programme to reverse-engineer non-human craft, when no such programme existed. It was reported in June 2025 by The Wall Street Journal as a finding of the All-domain Anomaly Resolution Office under its first director, Sean Kirkpatrick, and was said to have been halted by a spring 2023 directive from the office of the Secretary of Defense. No primary document establishing the programme, the practice or the directive has been released.",
+      "whyImplicated": "If documented, YANKEE BLUE would be the single strongest item in the concealment strand of this board, because it is the government manufacturing belief in a recovery and reverse-engineering programme inside its own ranks - which means that some fraction of insider testimony about that programme could be the product of a deliberate indoctrination rather than of access. It cuts both ways and it cuts hard, which is exactly why the tiering here has to be strict. What is documented is not the programme. What is documented is the Department's behaviour when asked for the paper: an Office of the Secretary of Defense FOIA search confined to a single correspondence office returning no records in September 2025, a Pentagon spokesperson on 1 October 2025 stating she could not confirm the memorandum with the word \"alleged\" underlined for emphasis, and an OSD appellate authority on 12 December 2025 overturning that search as inadequate and remanding for a new one. A department that cannot locate a Secretary-level directive from 2023 has either a records problem or a candour problem, and either is on the map.",
+      "roles": ["concealment", "disclosure"],
+      "narrative": "This entity is retained on the board with the allegation graded low and the negative findings graded high, and the distinction should be kept in front of the reader at all times. A negative primary finding is a documented fact. It is not a record of the thing.\n\nThe allegation entered the public record on 6 June 2025, when Joel Schectman and Aruna Viswanatha of The Wall Street Journal published \"The Pentagon Disinformation That Fueled America's UFO Mythology.\" The reporting described a decades-long pattern in which the Air Force encouraged UFO belief to screen classified aviation programmes, and within that pattern a specific practice: personnel in certain classified units were briefed that they were being admitted to a programme called YANKEE BLUE concerned with reverse-engineering recovered non-human craft, shown photographs of saucers, bound by non-disclosure agreements, and in some accounts warned of extreme consequences for disclosure. The practice was said to have run from roughly the Cold War until 2023, when the office of the Secretary of Defense circulated a directive across the services ordering it to stop immediately. The finding was attributed to AARO's internal historical review under Sean Kirkpatrick.\n\nEverything downstream of that article is either restatement or an attempt to find the paper. Popular Mechanics, VICE and the New York Post ran versions in June 2025; none produced independent documentation. The article itself, as researcher John Greenewald has noted, did not publish the memorandum, did not identify its date and did not describe its sourcing.\n\nThe documentary trail that does exist is a FOIA trail, and it is unusually clean because it has been published in full. On 17 June 2025 Greenewald's Black Vault filed a request with the Office of the Secretary of Defense for any directive issued in spring 2023 ordering a halt to YANKEE BLUE-related practices or to other activities involving fabricated claims of reverse-engineering non-human technology. OSD searched solely within its Correspondence Management Division and reported no responsive records. On 17 September 2025 an administrative appeal was filed arguing that a search confined to one office was not \"reasonably calculated to uncover all relevant documents\" under Oglesby v. U.S. Dep't of Army, 920 F.2d 57 (D.C. Cir. 1990), that a Secretary-level directive could reasonably reside in policy directorates or the OSD Executive Secretariat, and that agencies must pursue logical leads under Campbell v. DOJ, 164 F.3d 20 (D.C. Cir. 1998). The appeal also made the records-management point directly: any such 2023 memorandum would be subject to mandatory federal retention, so its absence is itself a finding.\n\nOn 1 October 2025, asked again about the WSJ claim, Pentagon spokesperson Susan Gough replied: \"Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article. You may want to ask the Air Force or other military services whether they put out such a memo to their personnel.\" In the original email the word \"alleged\" was underlined. This is a carefully constructed sentence. It does not deny that the practice occurred. It denies confirmation of a department-level memorandum and redirects to the services. The Air Force did not respond to a request for comment.\n\nOn 12 December 2025 the Acting Chief of the OSD FOIA Division ruled on the appeal: \"After carefully considering your appeal, and as a result of discussions between FOID personnel and this office, I am remanding your request to FOID for a search for responsive records.\" The appellate decision, released as case 25-A-3514-A1, does not establish that the memorandum exists. It establishes that the Department's own appellate authority found the Department's prior categorical no-records answer to rest on an inadequate search, and ordered it done again. As of the last published status the case remains open.\n\nThere is a second correction this board has already had to make about itself, and it belongs in the dossier. It has been widely repeated - including previously on this board - that AARO acknowledged YANKEE BLUE in its Report on the Historical Record of U.S. Government Involvement with UAP, Volume I, published 8 March 2024. It did not. A full-text check of the released 63-page volume returns no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports. The board logged that correction on 12 August 2026. The only official gesture toward the subject is the Department's statement, made in the context of the June 2025 reporting, that it \"is committed to releasing a second volume of its Historical Record Report, to include AARO's findings on reports of potential pranks and inauthentic materials,\" then expected in late 2025. No such volume was located in the sources available for this dossier, which means the sole official channel through which the finding was to be documented had not delivered as of the research cutoff.\n\nSo the honest state of the record is this. A major newspaper reported a specific, named, dated practice sourced to a Pentagon office's internal review. The Pentagon has neither confirmed nor denied the practice, has said it cannot confirm the memorandum, has failed one FOIA search on appeal, has been ordered to search again, has promised a report volume that would address it, and has not published that volume. Every one of those is an artifact of an institution's conduct and every one of them is dated and attributable. None of them is the programme. YANKEE BLUE stays on this board as a node about the Department's disclosure behaviour, and it should not be cited by anyone as established fact about what was done to Air Force personnel until a document with a signature block exists.",
+      "claims": [
+        {
+          "text": "The Wall Street Journal reported on 6 June 2025 that AARO, under its first director Sean Kirkpatrick, found that personnel in classified Air Force units had for decades been shown flying-saucer imagery and told they were being read on to a reverse-engineering programme called YANKEE BLUE that did not exist.",
+          "tier": 2,
+          "source": "Joel Schectman and Aruna Viswanatha, \"The Pentagon Disinformation That Fueled America's UFO Mythology,\" The Wall Street Journal, 6 June 2025, https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e"
+        },
+        {
+          "text": "The Wall Street Journal reported that a directive from the office of the Secretary of Defense was circulated across the services in spring 2023 ordering the practice to stop immediately. The article did not publish the memorandum, identify its date or describe its sourcing, and no such document has surfaced publicly.",
+          "tier": 3,
+          "source": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+        },
+        {
+          "text": "A FOIA request filed with the Office of the Secretary of Defense on 17 June 2025 sought any spring 2023 directive halting YANKEE BLUE-related practices; OSD searched solely within its Correspondence Management Division and reported no responsive records in September 2025.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+        },
+        {
+          "text": "Pentagon spokesperson Susan Gough stated on 1 October 2025: \"Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article. You may want to ask the Air Force or other military services whether they put out such a memo to their personnel.\" In the original email the word \"alleged\" was underlined for emphasis.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+        },
+        {
+          "text": "On 12 December 2025 the Acting Chief of the OSD FOIA Division granted the administrative appeal and wrote: \"After carefully considering your appeal, and as a result of discussions between FOID personnel and this office, I am remanding your request to FOID for a search for responsive records.\"",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/wp-content/uploads/2025/12/Appellate-Response-25-A-3514-A1.pdf"
+        },
+        {
+          "text": "The appeal, filed 17 September 2025, argued that confining the search to the Correspondence Management Division was not \"reasonably calculated to uncover all relevant documents\" under Oglesby v. U.S. Dep't of Army, 920 F.2d 57 (D.C. Cir. 1990), and that agencies must pursue logical leads under Campbell v. DOJ, 164 F.3d 20 (D.C. Cir. 1998).",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+        },
+        {
+          "text": "The Air Force did not respond to a request for comment on the alleged directive, and as of 15 December 2025 the FOIA case seeking information on the alleged YANKEE BLUE ritual remained open.",
+          "tier": 2,
+          "source": "https://www.theblackvault.com/documentarchive/pentagon-reopens-search-for-alleged-yankee-blue-memo-after-initial-denial/"
+        },
+        {
+          "text": "The term \"Yankee Blue\" does not appear anywhere in AARO's Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (8 March 2024), nor in the FY2023, FY2024 or FY2025 consolidated annual reports. The widely repeated claim that AARO conceded the programme in Volume I does not survive a full-text check.",
+          "tier": 1,
+          "source": "AARO Historical Record Report Volume I, 8 March 2024, full text at https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF ; full-text verification logged in this project's correction record, the-program/research/_corrections.json, 12 August 2026"
+        },
+        {
+          "text": "A Department of Defense statement attributed to spokesperson Sue Gough said: \"The department is committed to releasing a second volume of its Historical Record Report, to include AARO's findings on reports of potential pranks and inauthentic materials,\" then expected in late 2025.",
+          "tier": 2,
+          "source": "https://en.wikipedia.org/wiki/Yankee_Blue (citing Schectman and Viswanatha, The Wall Street Journal)"
+        },
+        {
+          "text": "No AARO Historical Record Report Volume II was located in any official channel during research for this dossier, and no official publication has therefore documented the pranks-and-inauthentic-materials finding.",
+          "tier": 2,
+          "source": "Negative finding; searches of aaro.mil, media.defense.gov and secondary aggregators as of 14 August 2026 returned no Volume II publication record."
+        },
+        {
+          "text": "This project's correction record additionally logs an AFOSI FOIA case, 2025-06002-F, reported as returning no investigative reports, summaries or closure memoranda relating to the alleged programme. This number has not been independently verified against a released AFOSI response letter in the course of this dossier.",
+          "tier": 3,
+          "source": "Project correction record, the-program/research/_corrections.json, entry dated 12 August 2026 (not independently verified)"
+        },
+        {
+          "text": "Secondary outlets including Popular Mechanics (27 June 2025) and VICE (13 June 2025) restated the WSJ account. None produced an independent document, witness on the record by name, or agency confirmation.",
+          "tier": 3,
+          "source": "https://www.popularmechanics.com/military/a65224436/pentagon-ufo-myths-exposed/ ; https://www.vice.com/en/article/did-the-pentagon-make-up-ufo-sightings-to-hide-secret-government-projects/"
+        }
+      ],
+      "denialPosture": "The Department has not denied the practice and has not confirmed the memorandum. On 1 October 2025 spokesperson Susan Gough stated she could not confirm the existence of any department-level memo as described, underlining the word \"alleged,\" and referred the question to the Air Force and the services; the Air Force did not respond. In September 2025 OSD returned a categorical no-records FOIA determination, which its own appellate authority set aside on 12 December 2025 as resting on an inadequate search.",
+      "openQuestions": [
+        "Does the spring 2023 Secretary of Defense directive exist? The remanded OSD search ordered on 12 December 2025 has not published a result.",
+        "If no such directive exists, what did the Wall Street Journal's sources describe, and will the newspaper address the discrepancy?",
+        "Did any service - Air Force, Space Force or otherwise - issue its own stop order, as Gough's referral implies might be the case?",
+        "Has AARO Historical Record Report Volume II been published, and does it contain the pranks and inauthentic-materials findings the Department promised?",
+        "Are there AFOSI investigative files, closure memoranda or IG referrals on the practice? The case number carried in this project's correction record has not been verified against a released response letter.",
+        "Has any named individual gone on the record as having been indoctrinated into YANKEE BLUE? As of this dossier, no such person has been publicly identified.",
+        "Has any Senate Armed Services or House Oversight correspondence named the programme? No such correspondence was located."
+      ]
+    }
+  },
+  {
+    "id": "nara-uap-collection",
+    "entityDossier": {
+      "whatItIs": "The Unidentified Anomalous Phenomena Records Collection is a statutory records collection at the National Archives and Records Administration created by sections 1841 to 1843 of the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023 and codified at 44 U.S.C. 2107 note. It is designated Record Group 615. The law required every federal agency to review, identify and organise each UAP record in its custody by 20 October 2024, and NARA's implementing memorandum set 30 September 2025 as the deadline for transferring digital copies of publicly releasable records.",
+      "whyImplicated": "This is the compliance test, and it is the only one Congress has ever set with a date on it. The statute's scope is deliberately enormous: \"copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence.\" If a legacy recovery and reverse-engineering effort exists, its records fall inside that sentence by construction, including records held by contractors under government funding. But the mechanism Congress actually enacted has no teeth. The independent, presidentially appointed Review Board with subpoena power and the eminent-domain provision over recovered materials, both present in the Schumer-Rounds draft, were removed in conference. What survived is a self-certification regime: each agency conducts its own access review, decides for itself what is releasable, what is redacted and what is postponed in full, and hands NARA digital copies. NARA is a custodian, not an auditor. The collection therefore tells you what agencies chose to declare, and the far more informative fact is which agencies declared nothing.",
+      "roles": ["custody", "disclosure", "oversight"],
+      "narrative": "The UAP Records Collection is what remains of the most ambitious disclosure statute ever drafted on this subject, and reading the implementing paperwork tells you precisely how much was left.\n\nThe legal skeleton is straightforward. Sections 1841 to 1843 of the FY2024 NDAA, Public Law 118-31, signed 22 December 2023 and now carried at 44 U.S.C. 2107 note, direct NARA to establish the collection. NARA's guidance to agencies states the operative requirement: \"by October 20, 2024, each federal agency review, identify, and organize each Unidentified Anomalous Phenomena (UAP) record in its custody for disclosure to the public and transmission to the National Archives.\" The scope clause is quoted verbatim from the statute and is remarkably wide: the collection will consist of \"copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).\" Three things in that sentence do work. \"Government-funded\" reaches contractor holdings. \"Technologies of unknown origin\" and \"non-human intelligence\" are the terms of art from the recovery-programme allegations, not from the drone-and-balloon vocabulary. \"Or equivalent subjects by any other name\" is a direct anticipation of nickname and codeword evasion.\n\nThe second memorandum, AC 04.2025, issued 10 October 2024 over the names of Acting Chief Records Officer William Fischer and Executive for Research Services Chris Naylor, sets the transfer clock: \"No later than September 30, 2025, federal agencies must transfer to NARA digital copies of all UAP records identified by October 20, 2024, that can be publicly disclosed, including those that were publicly available on December 22, 2023.\" It establishes Record Group 615, requires simultaneous transfer of redacted and unredacted copies where redactions exist, and states that NARA will accept digital versions only. It closes with a sentence that should be tracked: \"Further guidance on the review and transfer procedures for classified or otherwise restricted UAP records using the standards for withholding specified in Section 1843 of the Act will be forthcoming.\" That guidance is the mechanism by which anything actually sensitive would move. Its issuance has not been confirmed.\n\nThe metadata schema NARA published is the most revealing document in the set, because it shows what the drafters expected to receive. Each transferred record must carry a \"Rights [Previous Security Classification]\" field and a current classification field, both mandatory, with values up to Top Secret. There is a mandatory-when-applicable \"Special Controls\" field whose worked examples are \"SAP SCI RD/FRD FGI\" - special access programme, sensitive compartmented information, Restricted Data and Formerly Restricted Data, foreign government information. There is a mandatory \"Release Status\" field with three permitted values: Released in Full, Released in Part, Withheld in Full. And there is a \"Refer To\" field listing every agency with equity, with a standing instruction that the Department of Energy must be entered whenever a file contains Restricted Data. The transfer procedure requires agencies to move physical and legal custody of copies of all records to NARA - including those \"withheld in full\" - and to complete congressional notification under section 1843(c) for anything redacted or postponed.\n\nSo the architecture assumes special-access and nuclear-equity material. It has fields for it. What it does not have is anyone with authority to go and get it. The agency conducts its own access review. The agency decides which bucket each record goes in. NARA receives what it is given. This is the direct consequence of the conference outcome: the presidentially appointed, Senate-confirmed UAP Records Review Board with subpoena authority, and the provision asserting federal eminent domain over recovered materials and biological evidence of unknown origin held by private persons, were both stripped from the Schumer-Rounds text before enactment. What passed is a records-transfer instruction with a deadline and no enforcement.\n\nHow it has performed is now partly visible. Agency implementation memoranda exist and are worth reading as artifacts in their own right. The Nuclear Regulatory Commission's data call, ADAMS accession ML24177A281, signed by Chief Information Officer Scott C. Flanders on 9 July 2024, instructs NRC offices to identify UAP records by 30 August 2024, to load electronic records into ADAMS under a dedicated processing template, to send paper to the Document Processing Center for digitisation, and - the operative instruction - to report classified records and negative responses by email to the Agency Records Officer rather than loading them. It also recites the statutory UAP definition at 50 U.S.C. 3373(n)(8) and lists standing FOIA redaction categories for UAP-responsive Security Information Database reports, including the names of law enforcement officials and intelligence specialists and \"information relating to any ongoing investigation into the incident.\" This is what compliance looks like at a small, cooperative agency: a records officer, a spreadsheet and a template.\n\nThe first public output came on 24 April 2025, when NARA announced the release of records transferred from the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission, adding that it \"will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are transferred from federal agencies.\" Four agencies at the first release, from a federal government of well over a hundred. Independent reviewers tracking the catalogue through the 30 September 2025 deadline report a very small set of contributing agencies and a large body of material that was already public before the Act. That tracking is secondary and is tiered accordingly here, but the direction is not in dispute and NARA's own press release names only four.\n\nThe most important operational detail is buried in the guidance and has had almost no attention. Agencies \"will continue to manage the original source records in their custody according to the NARA approved disposition schedule. Temporary records will eventually be destroyed.\" The Act moves copies. It does not change the disposition schedule of the originals. A record can be copied into RG 615 in redacted form, withheld in full, and have its original lawfully destroyed on schedule, and nothing in the statute prevents that sequence. For a board built on the premise that the custody trail is the evidence, that sentence is the single most consequential line NARA has published.",
+      "claims": [
+        {
+          "text": "Sections 1841-1843 of the FY2024 NDAA, Public Law 118-31, enacted 22 December 2023 and codified at 44 U.S.C. 2107 note, require NARA to establish the Unidentified Anomalous Phenomena Records Collection.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/memos/ac-04-2025"
+        },
+        {
+          "text": "The law requires that \"by October 20, 2024, each federal agency review, identify, and organize each Unidentified Anomalous Phenomena (UAP) record in its custody for disclosure to the public and transmission to the National Archives.\"",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "The collection consists of \"copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).\"",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "NARA memorandum AC 04.2025, dated 10 October 2024 and signed by Acting Chief Records Officer William Fischer and Executive for Research Services Chris Naylor, requires that \"no later than September 30, 2025, federal agencies must transfer to NARA digital copies of all UAP records identified by October 20, 2024, that can be publicly disclosed, including those that were publicly available on December 22, 2023,\" and establishes Record Group 615.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/memos/ac-04-2025"
+        },
+        {
+          "text": "The same memorandum states that \"further guidance on the review and transfer procedures for classified or otherwise restricted UAP records using the standards for withholding specified in Section 1843 of the Act will be forthcoming.\" No such follow-on guidance was located during research for this dossier.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/memos/ac-04-2025"
+        },
+        {
+          "text": "NARA's guidance states that \"agencies will continue to manage the original source records in their custody according to the NARA approved disposition schedule. Temporary records will eventually be destroyed.\" The Act therefore transfers copies without altering the destruction schedule of originals.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "The mandatory metadata schema for transferred records includes a \"Special Controls\" field whose worked examples are \"SAP SCI RD/FRD FGI,\" a mandatory prior and current security classification field, a mandatory \"Release Status\" field with values Released in Full, Released in Part and Withheld in Full, and a \"Refer To\" field requiring the Department of Energy to be entered whenever a file contains Restricted Data.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "Agencies must transfer physical and legal custody to NARA of copies of all fully releasable, restricted-in-part and withheld-in-full UAP records, and must complete congressional notification under section 1843(c) for the latter two categories.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "The access review, redaction decisions and postponement determinations are made by each originating agency itself; NARA's published role is custodial, and the guidance contains no audit, challenge or verification mechanism.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "NARA announced the first release on 24 April 2025, comprising records transferred from the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission, and stated it would add to the collection \"on an ongoing, rolling basis as they are transferred from federal agencies.\"",
+          "tier": 1,
+          "source": "https://www.archives.gov/press/press-releases/2025/nr25-07"
+        },
+        {
+          "text": "The Nuclear Regulatory Commission's implementing data call, ADAMS accession ML24177A281 signed by Chief Information Officer Scott C. Flanders on 9 July 2024, set an internal deadline of 30 August 2024, directed that classified records not be loaded into ADAMS but reported by email to the Agency Records Officer, and recited the statutory UAP definition at 50 U.S.C. 3373(n)(8).",
+          "tier": 1,
+          "source": "https://www.nrc.gov/docs/ML2417/ML24177A281.pdf"
+        },
+        {
+          "text": "The same NRC memorandum sets standing redaction categories for UAP-responsive records including names and contact information of law enforcement officials and intelligence specialists, information on how the reporting nuclear plant responded, and \"information relating to any ongoing investigation into the incident.\"",
+          "tier": 1,
+          "source": "https://www.nrc.gov/docs/ML2417/ML24177A281.pdf"
+        },
+        {
+          "text": "The enacted provisions omit the presidentially appointed, Senate-confirmed UAP Records Review Board with subpoena authority and the eminent-domain provision over recovered materials that appeared in the Schumer-Rounds UAP Disclosure Act text; those elements were removed during conference on the FY2024 NDAA.",
+          "tier": 2,
+          "source": "https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act/"
+        },
+        {
+          "text": "Independent tracking of the National Archives Catalog through the 30 September 2025 statutory transfer deadline reports that only a small number of agencies - FAA, NRC, NSA, ODNI and OSD - had UAP records added during 2025, and that most transferred material was already publicly available before the Act.",
+          "tier": 3,
+          "source": "https://hm05uap.substack.com/i/182921977/nara"
+        }
+      ],
+      "denialPosture": "There is no denial to catalogue here in the conventional sense. The posture is structural: agencies self-certify what UAP records they hold, and an agency that holds none simply reports a negative response, as the NRC data call expressly contemplates. No agency has been required to explain a nil return, no penalty attaches to a missed deadline, and NARA has published no compliance list, no non-compliance list and no enforcement statement.",
+      "openQuestions": [
+        "Was the promised follow-on guidance for classified and otherwise restricted UAP records, flagged as forthcoming in AC 04.2025 on 10 October 2024, ever issued?",
+        "Which agencies filed negative responses, and does any published list of responding versus non-responding agencies exist?",
+        "Have any section 1843(c) congressional notifications been made for records redacted or postponed in full, and to which committees?",
+        "Has any record bearing SAP or SCI special controls ever been transferred into Record Group 615, in redacted or withheld-in-full form?",
+        "How has the \"Government-funded\" clause been applied to contractor-held records, and has any prime contractor been tasked under it?",
+        "Because originals remain on existing disposition schedules, has any original UAP record been lawfully destroyed after a copy was placed in RG 615 as withheld in full?",
+        "What, if anything, follows from an agency simply missing the 30 September 2025 deadline? No enforcement mechanism appears in the statute or in NARA's guidance."
+      ]
+    }
+  }
+]

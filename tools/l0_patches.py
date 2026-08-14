@@ -612,6 +612,102 @@ def apply(s, model, must_replace):
         "  if (S.filters.size || S.edgeTypes.size !== ALL_EDGE_TYPES.length || S.query)",
         "L0 rail registers", 1); ok &= o
 
+    # ---- stage 2: selection, sliding dock, entity dossier -----------------
+    s, o = must_replace(s, "</style>", L0_CSS2 + "</style>", "L0 stage-2 styles",
+                        s.count("</style>")); ok &= o
+    s, o = must_replace(s, "const CMD = {", L0_JS2 + "\nconst CMD = {",
+                        "L0 stage-2 module", 1); ok &= o
+    s, o = must_replace(s, "const CMD = {" + L0_CMD, "const CMD = {" + L0_CMD + L0_CMD2,
+                        "focusL0 command", 1); ok &= o
+
+    # SINGLE selection. The handoff's additive model left no way to unclick and no
+    # visible exit; this replaces it. An analyst can still open two from the CMD
+    # line, which is where comparison actually belongs.
+    s, o = must_replace(s,
+        "    if (S.l0open.indexOf(id) < 0) S.l0open.push(id);\n    paint({ map:'l0' });",
+        "    S.l0open = [id];\n    if (MAP && MAP.focus) MAP.focus(id);\n"
+        "    paint({ map:'l0' });",
+        "single selection on expand", 1); ok &= o
+
+    # selectNode drives the map too, so the dock never describes a node the reader
+    # cannot see. It only moves the camera when the target IS on the L0 map.
+    s, o = must_replace(s,
+        "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
+        "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n    paint({ map:'select' });",
+        "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
+        "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n"
+        "    if ((L0DATA.l0||[]).some(x=>x.id===id)) CMD.focusL0(id);\n"
+        "    else S.l0open = [];\n"
+        "    paint({ map:'select' });",
+        "selectNode syncs the map", 1); ok &= o
+
+    # the dock opens wide on selection and collapses on clear, with one control
+    s, o = must_replace(s,
+        "function renderDock(){\n  const d = $('#dock');\n  d.classList.toggle('open', !!S.sel);",
+        "function renderDock(){\n  const d = $('#dock');\n  d.classList.toggle('open', !!S.sel);\n"
+        "  setDockOpen(!!S.sel && !S.dockCollapsed);",
+        "dock opens on selection", 1); ok &= o
+
+    # the entity dossier goes ABOVE the inherited node dossier: on this board the
+    # argument for why an entity is implicated is the product, and the member list
+    # is the table of contents for it
+    s, o = must_replace(s,
+        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>';",
+        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>'\n"
+        "    + '<button class=\"dock-toggle\" data-dockw=\"1\" title=\"Widen or collapse the dossier\">'\n"
+        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
+        "dock collapse control", 1); ok &= o
+
+    s, o = must_replace(s, "  const n = NODES.find(x=>x.id===S.sel);",
+        "  const _ed = renderEntityDossier(S.sel);\n"
+        "  const n = NODES.find(x=>x.id===S.sel);",
+        "entity dossier lookup", 1); ok &= o
+
+    # the entity dossier renders FIRST in the dock body
+    s, o = must_replace(s,
+        "  d.innerHTML = grip + ((n.cls === 'person') ? personDock(n) : otherDock(n));",
+        "  d.innerHTML = grip + _ed + ((n.cls === 'person') ? personDock(n) : otherDock(n));",
+        "entity dossier into the dock body", 1); ok &= o
+
+    # the collapse control, and an obvious way out of a selection
+    s, o = must_replace(s,
+        "function renderDock(){\n  const d = $('#dock');",
+        "document.addEventListener('click', ev => {\n"
+        "  if (ev.target.closest('[data-dockw]')){\n"
+        "    S.dockCollapsed = !S.dockCollapsed;\n"
+"    setDockOpen(!!S.sel && !S.dockCollapsed); renderDock();\n"
+        "  }\n});\n"
+        "function renderDock(){\n  const d = $('#dock');",
+        "dock toggle handler", 1); ok &= o
+
+    # MAP.focus: move the camera to a node and light it. Clicking empty canvas
+    # clears, which is the exit the first build did not have.
+    s, o = must_replace(s,
+        "  return {\n    repaint, pairs: [],",
+        "  function focus(id){\n"
+        "    const n = byId[id];\n"
+        "    if (!n) return;\n"
+        "    /* zoom in enough that the node and its label are readable, then\n"
+        "       centre it. The reader asked for the node they clicked, not a\n"
+        "       field of 96. */\n"
+        "    view.k = Math.max(view.k, 1.15);\n"
+        "    view.ox = W/2 - n.x*view.k; view.oy = H/2 - n.y*view.k;\n"
+        "    repaint();\n"
+        "  }\n"
+        "  return {\n    repaint, focus, pairs: [],",
+        "MAP.focus", 1); ok &= o
+
+    s, o = must_replace(s,
+        "    const n = at(ev.clientX-b.left, ev.clientY-b.top);\n    if (!n) return;\n"
+        "    CMD.expand(n.id);",
+        "    const n = at(ev.clientX-b.left, ev.clientY-b.top);\n"
+        "    /* empty canvas clears. Before this there was no way to unclick. */\n"
+        "    if (!n){ if (S.l0open.length) CMD.clearExpansions(); return; }\n"
+        "    /* clicking the open node again closes it — the other half of the exit */\n"
+        "    if (S.l0open.length === 1 && S.l0open[0] === n.id) return CMD.clearExpansions();\n"
+        "    CMD.expand(n.id);",
+        "click to clear", 1); ok &= o
+
     # -- expose the model on the debug surface the screenshotter already uses, so
     #    the L0 checks can be made AT RUNTIME. This board has been bitten twice by
     #    patches that read correctly and did not take effect.
@@ -641,3 +737,116 @@ def apply(s, model, must_replace):
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
     return s, ok
+
+
+# ===========================================================================
+# Stage 2 — selection, the sliding dock, and the entity dossier.
+#
+# Stewart's review of the first build overrode three things the design handoff
+# specified, and the overrides are right:
+#
+#   * Multi-open ledgers were the handoff's model ("comparison is the point").
+#     In use it means you cannot unclick, there is no visible way out, and
+#     clicking a second node does not take you anywhere. Selection is now SINGLE
+#     and global. Multi-open survives only on the CMD line, where an analyst who
+#     actually wants two ledgers can still ask for them.
+#   * The dossier dock was a 306px strip, which is not a reading measure. It now
+#     animates out to half the viewport on selection.
+#   * L0 nodes had no dossier of their own, so clicking MITRE gave you a list of
+#     its members and no argument. The entity dossier is now the PRIMARY content
+#     and the member ledger is secondary. That inverts the handoff's emphasis on
+#     purpose.
+# ===========================================================================
+
+L0_CSS2 = """
+/* dock: a reading measure on selection, a strip otherwise ------------------ */
+.dock{transition:width 260ms cubic-bezier(.2,0,0,1)}
+.dock.dock-wide{max-width:none}
+.dock-wide{--dock-w:var(--dock-w-open)}
+.dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
+  z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
+  border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
+  text-align:center;padding:0}
+.dock-toggle:hover{color:#5ed4e6;border-color:#3b444f}
+.edoss{padding:0 0 14px}
+.edoss .why{margin:0 0 10px;padding:9px 11px;background:#141920;
+  border-left:2px solid #5ed4e6;font:400 11px/1.65 'IBM Plex Mono',monospace;
+  color:#dfe4ea}
+.edoss .roles{display:flex;flex-wrap:wrap;gap:4px;margin:0 0 10px}
+.edoss .role{padding:2px 6px;border:1px solid #333c47;color:#8d97a4;
+  font:500 8.5px/1.5 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase}
+.edoss .narr{font:400 11.5px/1.75 'IBM Plex Mono',monospace;color:#b9c2cd;
+  white-space:pre-wrap;margin:0 0 12px}
+.edoss .dn{margin:0 0 12px;padding:8px 11px;border:1px solid #3b2b2b;
+  background:#1a1416;font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#e8b0a6}
+.edoss .cl{padding:6px 0;border-top:1px solid #1d242b;
+  font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#b9c2cd}
+.edoss .cl .t{display:inline-block;min-width:44px;font-size:8.5px;letter-spacing:.13em}
+.edoss .cl a{color:#5c6672;font-size:9px;word-break:break-all;text-decoration:none}
+.edoss .cl a:hover{color:#5ed4e6}
+.t1{color:#5ed4e6}.t2{color:#efb555}.t3{color:#8d97a4}
+"""
+
+L0_JS2 = r"""
+/* Render an entity dossier. This is the argument for why the node is on the map,
+   and on this board that argument is the product. The member ledger that used to
+   be the whole of a node's content is now the table of contents underneath it. */
+function renderEntityDossier(id){
+  const n = (L0DATA.l0||[]).find(x=>x.id===id);
+  const d = n && n.dossier;
+  if (!d) return '';
+  const T = t => '<span class="t t'+t+'">TIER '+t+'</span>';
+  let h = '<div class="edoss">';
+  if (d.whatItIs) h += '<div class="narr">'+esc(d.whatItIs)+'</div>';
+  if (d.whyImplicated) h += '<div class="why">'+esc(d.whyImplicated)+'</div>';
+  if (d.roles && d.roles.length)
+    h += '<div class="roles">'+d.roles.map(r=>'<span class="role">'+esc(r)+'</span>').join('')+'</div>';
+  if (d.narrative) h += '<div class="narr">'+esc(d.narrative)+'</div>';
+  if (d.denialPosture)
+    h += '<div class="dn"><span class="eyebrow">DENIAL POSTURE</span><br>'+esc(d.denialPosture)+'</div>';
+  if (d.claims && d.claims.length){
+    h += '<div class="eyebrow" style="margin:12px 0 4px">Claims · '+d.claims.length+'</div>';
+    for (const c of d.claims){
+      const src = String(c.source||'');
+      const link = /^https?:\/\//.test(src)
+        ? '<a href="'+esc(src)+'" target="_blank" rel="noopener">'+esc(src)+'</a>'
+        : '<a>'+esc(src)+'</a>';
+      h += '<div class="cl">'+T(c.tier)+' '+esc(c.text)+'<br>'+link+'</div>';
+    }
+  }
+  if (d.openQuestions && d.openQuestions.length){
+    h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions</div>';
+    for (const q of d.openQuestions) h += '<div class="cl">'+esc(q)+'</div>';
+  }
+  return h + '</div>';
+}
+
+/* The dock is a 306px strip at rest and a reading measure when something is
+   selected. Half the viewport, floored at 560px so it does not collapse on a
+   laptop, and animated on the shell's own curve rather than snapping. */
+function setDockOpen(open){
+  const d = document.getElementById('dock');
+  if (!d) return;
+  /* Set the width ON THE ELEMENT rather than through a CSS variable. --dock-w is
+     already written to :root by the inherited resize grip, and racing two
+     declarations of the same custom property through different owners is how the
+     first attempt at this silently did nothing: the class landed, the width did
+     not move, and nothing errored. */
+  const wide = Math.max(560, Math.round(window.innerWidth * 0.5));
+  d.style.width = (open ? wide : (S.dockW || 306)) + 'px';
+  d.classList.toggle('dock-wide', !!open);
+  S.dockWide = !!open;
+}
+"""
+
+L0_CMD2 = r"""
+  /* One selection, obeyed everywhere. Selecting from the timeline, a case card or
+     a search result clears whatever was open, lights the node on the map, moves the
+     camera to it and opens its dossier. Before this, the map kept the previous
+     selection and the reader had no way to tell which node the dock was describing. */
+  focusL0(id){
+    S.l0open = [id];
+    S.l0panel = null;
+    if (MAP && MAP.focus) MAP.focus(id);
+  },
+"""

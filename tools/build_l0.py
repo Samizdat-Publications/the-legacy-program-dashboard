@@ -349,6 +349,31 @@ def bake(l0ids, node_by_id, direct, summarised):
     return P, clamped, overlaps
 
 
+
+# ---------------------------------------------------------------- entity dossiers
+# These are a PARALLEL dataset, deliberately not merged into the board's nodes.
+# Merging 359 sourced claims onto 25 nodes would move every claim count, every tier
+# mix and the whole GOLDEN manifest, and it would mix two different kinds of object:
+# a node claim is a fact about the entity, an entity dossier is the ARGUMENT for why
+# that entity is on this map. They are verified separately for the same reason.
+#
+# They live in research/dossiers/ rather than research/ because merge.py globs
+# research/*.json and expects node documents.
+def load_dossiers():
+    import glob
+    out = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "research", "dossiers", "*.json"))):
+        for e in json.load(open(f, encoding="utf-8")):
+            d = e.get("entityDossier") or {}
+            prev = out.get(e["id"])
+            # A duplicate is not an error: two research passes can reach the same
+            # entity. Keep the better-sourced one rather than whichever sorted last.
+            if prev and len(prev.get("claims", [])) >= len(d.get("claims", [])):
+                continue
+            out[e["id"]] = d
+    return out
+
+
 # ---------------------------------------------------------------- emit
 def short_label(s):
     import re
@@ -369,6 +394,7 @@ def build(path=BOARD):
     direct, summarised, gated_out = build_edges(nodes, adj, pair, L0, depth)
 
     node_by_id = {n["id"]: n for n in nodes}
+    dossiers = load_dossiers()
     P, clamped, overlaps = bake(l0ids, node_by_id, direct, summarised)
     pos = {p["id"]: (p["x"], p["y"]) for p in P}
 
@@ -395,6 +421,7 @@ def build(path=BOARD):
             "C": n["C"], "A": n["A"], "D": n["D"], "deg": deg[i],
             "claims": n["claims"], "t1": n["t1"], "x": x, "y": y,
             "mix": dict(mix), "di": issued[i], "dr": received[i],
+            "dossier": dossiers.get(i),
             "direct": m["direct"], "routed": m["routed"],
         })
 
@@ -426,6 +453,9 @@ def build(path=BOARD):
             "membersMin": mc[0], "membersMedian": mc[len(mc) // 2],
             "membersMax": mc[-1], "inert": sum(1 for v in mc if v <= 1),
             "unclusteredL0": sum(1 for n in l0 if n["cluster"] == "other"),
+            "withDossier": sum(1 for n in l0 if n.get("dossier")),
+            "dossierClaims": sum(len((n["dossier"] or {}).get("claims", []))
+                                 for n in l0 if n.get("dossier")),
             "extent": {"w": max(xs) - min(xs), "h": max(ys) - min(ys)},
         },
         "nodes": {n["id"]: [n["label"], n["cls"], deg[n["id"]], n["tier"]]
