@@ -3,3 +3,7 @@ __pycache__/
 dist/shots/
 node_modules/
 tools/_pristine-board.json
+
+# Local GitHub credential. Never commit.
+.gh-token
+.gh-token.txt
