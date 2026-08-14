@@ -814,6 +814,13 @@ function renderEntityDossier(id){
       h += '<div class="cl">'+T(c.tier)+' '+esc(c.text)+'<br>'+link+'</div>';
     }
   }
+  if (d.connections && d.connections.length){
+    /* The connection notes are written for the analyst agent, not primarily for a
+       human reader: they name who links to whom in plain language so a downstream
+       pass can find joins the research never made explicit. */
+    h += '<div class="eyebrow" style="margin:12px 0 4px">Connections</div>';
+    for (const c of d.connections) h += '<div class="cl">'+esc(c)+'</div>';
+  }
   if (d.openQuestions && d.openQuestions.length){
     h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions</div>';
     for (const q of d.openQuestions) h += '<div class="cl">'+esc(q)+'</div>';

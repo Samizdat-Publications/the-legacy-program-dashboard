@@ -1,0 +1,490 @@
+[
+  {
+    "id": "uapda-fy2027-house-adopted",
+    "entityDossier": {
+      "whatItIs": "The Unidentified Anomalous Phenomena Disclosure Act as adopted by the U.S. House of Representatives on 22 July 2026 as an amendment to the Fiscal Year 2027 National Defense Authorization Act (H.R. 8800, 119th Congress). It would create a permanent UAP Records Collection at the National Archives, stand up an independent Senate-confirmed UAP Records Review Board with subpoena authority, and extend disclosure obligations to covered government contractors. It is the first time the full JFK-Act-style disclosure architecture has cleared a chamber of Congress since the original Schumer-Rounds text was gutted in conference in December 2023.",
+      "whyImplicated": "The amendment is written on the assumption that UAP records exist outside the reach of ordinary congressional oversight, in agency holdings and in contractor holdings, and that the agencies holding them will not surrender them voluntarily. Three design choices give that away: the records collection is compulsory and on a statutory timeline rather than voluntary; the review board is given subpoena power rather than a request authority; and disclosure obligations are extended to 'covered government contractors,' which is meaningless unless Congress believes private firms hold federal UAP records. Burlison's own framing, that records have 'remained scattered across agencies and outside meaningful oversight,' is a sitting member of Congress stating on the record that the existing oversight architecture does not reach the material. The amendment also explicitly positions itself as statutory backstop to a presidential declassification effort (PURSUE), which is an admission that executive-branch goodwill is not considered durable. Every one of those features is a legislative inference about the concealment structure, drawn by people with access to classified briefings.",
+      "roles": ["disclosure", "oversight"],
+      "narrative": "The Burlison amendment is the third act of a five-year legislative arc, and the arc itself is the evidence.\n\nAct one was July 2023, when Senators Chuck Schumer and Mike Rounds introduced the UAP Disclosure Act as Senate Amendment 797 to S.2226, the FY2024 NDAA, explicitly modeled on the President John F. Kennedy Assassination Records Collection Act of 1992. That text carried a presumption of immediate disclosure, an independent review board, presidential authority to overturn board determinations, a hard 25-year outer deadline, and — the provision that made the defense industry move — federal eminent domain over 'recovered technologies of unknown origin' and biological evidence held by private persons. The Senate adopted it 84 to 0. An eminent domain clause is not written into a defense bill as an abstraction. It is written because the drafters believe there is specific property, in specific private hands, that the government cannot presently compel.\n\nAct two was December 2023. In conference with the House, the review board, the eminent domain provision and the presidential certification mechanism were stripped. What survived became Sections 1841 through 1843 of Public Law 118-31, which directed the Archivist to establish a UAP Records Collection at NARA and required agencies to identify, organize and begin transmitting UAP records. The surviving language was the filing cabinet without the locksmith: a collection with no independent body empowered to second-guess an agency's decision to withhold, and no reach into contractor vaults. Agencies were left as the sole judges of what constituted a covered record.\n\nAct three is 2025-2026. Burlison, a Missouri Republican on the House Oversight Committee, reintroduced the disclosure act as an NDAA amendment during FY2026 consideration; it did not reach a floor vote. He came back for FY2027. On 22 July 2026 the House adopted his amendment to H.R. 8800, and later that day passed the underlying bill 216 to 212 on Roll Call 278. The press release from his office is precise about what the amendment restores: 'a permanent UAP Records Collection at the National Archives,' 'an independent, Senate-confirmed UAP Records Review Board with subpoena authority to review records, hear testimony, and determine whether information should remain protected under standards established by law,' and extension of disclosure requirements 'to covered government contractors.' The review board is back. The contractor reach is back. Eminent domain is not mentioned.\n\nThe contractor clause is the load-bearing provision for anyone mapping the legacy program. Under the existing FY2024 architecture, a record physically held by a prime or a subcontractor under an IRAD-funded or SAP-funded effort is not obviously a 'federal record' subject to transmission. The FY2023 statutory scheme had already tried to grip this problem from a different angle: 50 U.S.C. 3373b(a)(1)(B) protects authorized disclosure of any activity 'by a department or agency of the Federal Government or a contractor of such a department or agency' relating to UAP including 'material retrieval, material analysis, reverse engineering,' and 3373b(b)(3)(A) ordered federal agencies and their contractors to conduct comprehensive searches of records relating to UAP nondisclosure orders and hand copies to AARO. A subpoena-armed review board with contractor jurisdiction is the enforcement mechanism those provisions never had.\n\nThe PURSUE relationship is the other tell. The press release says the amendment would 'support President Trump's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' by 'bolstering in law authorities for carrying out disclosure.' PURSUE is a Department of War declassification and release effort standing at war.gov/ufo, running on rolling tranches. A legislator who trusted an executive declassification program to be complete and permanent would not spend a year of floor strategy building a Senate-confirmed board with subpoena power to sit alongside it. The amendment is insurance against the possibility that PURSUE releases what the executive branch chooses to release and stops there.\n\nWhat happens next is a conference fight. The FY2027 NDAA moved to the Senate; the House-passed disclosure architecture will meet whatever the Senate produces, and the 2023 precedent is that the strongest provisions die quietly in conference without a recorded vote. Conference is where the concealment structure has historically been most effective, because it is the one stage of the legislative process with no roll call, no floor debate and no public amendment text.",
+      "claims": [
+        {
+          "text": "The House of Representatives adopted Rep. Eric Burlison's Unidentified Anomalous Phenomena Disclosure Act as an amendment to the Fiscal Year 2027 National Defense Authorization Act on 22 July 2026.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework (press release dated July 22, 2026; page metadata article:published_time 2026-07-22T15:33:46-04:00)"
+        },
+        {
+          "text": "The adopted amendment would create a permanent UAP Records Collection at the National Archives, establish an independent UAP Records Review Board, and extend disclosure requirements to covered government contractors.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+        },
+        {
+          "text": "The Review Board contemplated by the amendment would be Senate-confirmed and would hold subpoena authority: it would 'review records, hear testimony, and determine whether information should remain protected under standards established by law.'",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+        },
+        {
+          "text": "Burlison stated on the record that 'For too long, UAP records have remained scattered across agencies and outside meaningful oversight,' framing the amendment as creating 'an independent review process to preserve those records, review them, and make them available to the public pursuant to law.'",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+        },
+        {
+          "text": "The press release states the amendment would 'support President Trump's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' by 'bolstering in law authorities for carrying out disclosure.'",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
+        },
+        {
+          "text": "The underlying vehicle, H.R. 8800, the National Defense Authorization Act for Fiscal Year 2027, passed the House on Roll Call 278 by a vote of 216 yea to 212 nay, with 3 not voting, in the 2nd Session of the 119th Congress.",
+          "tier": 1,
+          "source": "https://clerk.house.gov/Votes/2026278 (Roll Call 278, H.R. 8800, 119th Congress 2nd Session; Vote Question: On Passage; Status: Passed)"
+        },
+        {
+          "text": "The FY2027 NDAA carrying the amendment moved to the Senate for consideration after House passage, placing the disclosure architecture into conference exposure.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework ('The Fiscal Year 2027 National Defense Authorization Act now moves to the Senate for consideration.')"
+        },
+        {
+          "text": "Burlison had previously offered the UAP Disclosure Act of 2025 as an amendment to the FY2026 NDAA; that earlier attempt did not become law in the form he introduced.",
+          "tier": 2,
+          "source": "https://burlison.house.gov/media/press-releases/rep-burlison-introduces-uap-disclosure-act-2025-amendment-ndaa"
+        },
+        {
+          "text": "The legislative ancestor is Senate Amendment 797 to S.2226, the UAP Disclosure Act introduced by Senators Chuck Schumer and Mike Rounds in July 2023 as an amendment to the FY2024 NDAA and expressly modeled on the JFK Assassination Records Collection Act.",
+          "tier": 2,
+          "source": "https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa"
+        },
+        {
+          "text": "The FY2024 NDAA as enacted (Public Law 118-31, Sections 1841 through 1843) directed the National Archives and Records Administration to establish a UAP Records Collection and required federal agencies to identify, organize and transmit UAP records, but the independent review board, the eminent domain provision over recovered technologies of unknown origin, and the presidential certification requirement were removed in conference.",
+          "tier": 2,
+          "source": "https://www.insidegovernmentcontracts.com/2024/01/implications-of-the-unidentified-anomalous-phenomena-uap-amendment-in-the-2024-national-defense-authorization-act-ndaa/ (Covington, 'Implications of the Unidentified Anomalous Phenomena (UAP) Amendment in the 2024 National Defense Authorization Act (NDAA)')"
+        },
+        {
+          "text": "PURSUE, the Presidential Unsealing and Reporting System for UAP Encounters, is a Department of War-led records release effort with an ODNI supporting role, publishing declassified UAP-related material on a rolling basis at war.gov/ufo.",
+          "tier": 2,
+          "source": "https://www.war.gov/ufo/"
+        },
+        {
+          "text": "The contractor-reach problem the amendment addresses already exists in statute: 50 U.S.C. 3373b(b)(3)(A) requires federal departments and their contractors to conduct 'comprehensive searches of all records relating to nondisclosure orders' concerning UAP events, activities and programs and to provide copies to AARO.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        }
+      ],
+      "denialPosture": "",
+      "connections": [
+        "Rep. Eric Burlison (R-MO-07), House Oversight Committee member, is the sponsor and the through-line from the FY2026 attempt to the FY2027 adoption.",
+        "Direct descendant of Senate Amendment 797 (Schumer-Rounds, July 2023) to S.2226; the review board and contractor reach it restores are the provisions killed in the December 2023 FY2024 NDAA conference.",
+        "Builds on and supersedes Sections 1841-1843 of Public Law 118-31, which created the NARA UAP Records Collection without an independent adjudicator.",
+        "Positioned by its sponsor as statutory reinforcement for PURSUE, the Trump administration's Department of War / ODNI declassification effort at war.gov/ufo.",
+        "Operates in the same statutory field as 50 U.S.C. 3373 (AARO charter, from FY2023 NDAA Sec. 6802) and 50 U.S.C. 3373b (authorized-disclosure mechanism and NDA record sweep, from FY2023 NDAA Sec. 1673).",
+        "The National Archives and Records Administration is the designated custodian; NARA also houses the Information Security Oversight Office, which has no visibility into waived SAPs — the same records the board would be chasing.",
+        "'Covered government contractors' is the clause that reaches the prime-and-subcontractor layer described in whistleblower testimony and in the Michels/UAPGerb 'Pyramid of Contractors' mapping."
+      ],
+      "openQuestions": [
+        "The exact amendment number and text as made in order by the House Rules Committee for H.R. 8800 has not been verified against rules.house.gov; reporting places it at amendment 1044 but this has not been confirmed against the Rules Committee record.",
+        "Whether the amendment was adopted by voice vote, by division, or en bloc with other amendments — Roll Call 278 is the vote on passage of the underlying bill, not on the amendment itself.",
+        "Whether the House-adopted text retains any analogue to the 2023 eminent domain provision over recovered technologies of unknown origin; the press release does not mention it.",
+        "How the amendment defines 'covered government contractor' — whether it reaches subcontractors, FFRDCs, UARCs, and university affiliates, or only prime contract holders.",
+        "What standard of review the Board would apply, and whether the President retains override authority as in the 2023 Senate text.",
+        "Whether the Senate companion or the FY2027 conference retains the Review Board; the 2023 precedent is removal in conference without a recorded vote.",
+        "Whether AARO, ODNI or the Department of War took a formal position opposing the amendment, and whether any such position was transmitted to the Armed Services committees in writing."
+      ]
+    }
+  },
+  {
+    "id": "isoo",
+    "entityDossier": {
+      "whatItIs": "The Information Security Oversight Office, a component of the National Archives and Records Administration, established by Section 5.2 of Executive Order 13526 to develop implementing directives for the national security classification system, oversee agency compliance, and report at least annually to the President. Its Director is appointed by the Archivist of the United States subject to the approval of the President; the current Director is Michael D. Thomas, successor to Mark A. Bradley. ISOO is, on paper, the only government-wide civilian oversight body for classified information.",
+      "whyImplicated": "ISOO is implicated by absence, not by action. In fifty years of annual reports to the President, ISOO has never reported the existence of a program engaged in the recovery or exploitation of non-human craft — and the reason is that the Executive Order that created ISOO also built the trapdoor through which such a program would fall. Section 4.3(b)(3) of E.O. 13526 says the ISOO Director 'shall be afforded access' to special access programs, then immediately permits an agency head to limit that access to the Director plus one employee, or, for programs deemed 'extraordinarily sensitive and vulnerable,' to the Director alone. Section 5.2(b)(4) goes further: an agency head who believes ISOO access would pose 'an exceptional national security risk' may recommend denial to the President through the National Security Advisor, and 'Access shall be denied pending the response.' The denial is self-executing. ISOO's oversight is therefore contingent on the consent of the agency being overseen. Every ISOO annual report is an accounting of the classification system that a concealed waived SAP would not appear in, and ISOO would not know it was missing.",
+      "roles": ["oversight", "concealment"],
+      "narrative": "ISOO is the institution people point to when they say the classification system has oversight. Read the authorities and the picture inverts: ISOO is the institution that documents the boundary of what oversight cannot see.\n\nThe charter is Executive Order 13526, signed 29 December 2009. Section 5.2(a) places ISOO inside the National Archives and gives the Archivist the appointment power over its Director, subject to presidential approval. Section 5.2(b) lists nine functions: develop directives, oversee agency compliance, approve agency implementing regulations, conduct on-site reviews, review requests for original classification authority, take action on complaints, standardize forms, report annually to the President, and chair interagency meetings. Section 5.1(a) makes ISOO directives 'binding on the agencies.' On its face this is real authority.\n\nThen come the carve-outs, and they are written with unusual care.\n\nSection 5.2(b)(4) grants ISOO the authority to conduct on-site reviews of any agency program 'and to require of each agency those reports and information and other cooperation that may be necessary to fulfill its responsibilities.' The very next sentence is the trapdoor: 'If granting access to specific categories of classified information would pose an exceptional national security risk, the affected agency head or the senior agency official shall submit a written justification recommending the denial of access to the President through the National Security Advisor within 60 days of the request for access. Access shall be denied pending the response.' An agency head who wants to keep ISOO out of a compartment does not need to win an argument. He needs to file a paper and wait. Access is denied by default during the pendency, and the order sets no deadline for the President to respond.\n\nSection 4.3 is where the structure becomes specific to special access programs. Only six officials may create a SAP — the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each. Section 4.3(b)(2) requires each agency head to 'establish and maintain a system of accounting for special access programs' — note that the accounting system is the agency's, not ISOO's. Section 4.3(b)(3) provides ISOO access, then caps it: 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' A single human being, with no staff, no analysts, and no ability to delegate, is the entire oversight footprint for the most sensitive category of American secrecy.\n\nAnd then Section 4.3(c), one sentence, easy to skip: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119.' Section 119 of Title 10 is the congressional SAP oversight statute. It requires annual reports to the defense committees identifying each SAP, its cost history, and its milestones — and subsection (e) lets the Secretary of Defense waive the content requirement 'if the Secretary determines that inclusion of that information in the report would adversely affect the national security,' delivering the information instead only 'jointly to the chairman and ranking minority member of each of the defense committees.' That is the statutory birth certificate of the waived SAP: a program known to four members of Congress and to no one else on the Hill. E.O. 13526 does not disturb it.\n\nThe oversight picture then gets worse, not better. The Office of Law Revision Counsel's note to 10 U.S.C. 119 records that the annual reporting requirements in subsections (a) and (b) — the SAP inventory and the new-program notification — were terminated effective 31 December 2021 by Section 1061 of Public Law 114-328. The one recurring, statutory, cross-committee accounting of DoD special access programs sunset four years ago, in the same window in which Congress was writing UAP oversight law on the assumption that unreported restricted-access programs existed.\n\nSo the analytical position is this. If a legacy recovery and reverse-engineering effort is carried as a waived unacknowledged SAP or under a non-DoD authority such as an Atomic Energy Act restricted-data compartment, ISOO would have no independent way to detect it. It has no access it cannot be denied, no staff it can bring, no inventory it maintains itself, and no statutory partner report to cross-check against since 2021. ISOO's annual report to the President — the FY2024 edition was transmitted in early August 2025 and publicly issued on 18 September 2025 by Director Michael D. Thomas, the first of his tenure, restructured around four areas of action — is an honest accounting of the classification system as agencies choose to describe it to ISOO.\n\nThat is the argument. ISOO is not a participant in concealment. ISOO is the measuring instrument that was built with a blind spot exactly the shape of the thing being hidden, and the blind spot was written into the order by the same executive branch that would be operating in it.",
+      "claims": [
+        {
+          "text": "The Information Security Oversight Office is established within the National Archives by Section 5.2(a) of Executive Order 13526, and its Director is appointed by the Archivist of the United States subject to the approval of the President.",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 5.2(a), Dec. 29, 2009, 75 F.R. 707 — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "E.O. 13526 Sec. 4.3(b)(3) permits an agency head to limit ISOO's access to a special access program to 'the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.'",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 4.3(b)(3) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "E.O. 13526 Sec. 5.2(b)(4) provides that where an agency head recommends denial of ISOO access on grounds of 'exceptional national security risk,' the written justification goes to the President through the National Security Advisor within 60 days and 'Access shall be denied pending the response.'",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 5.2(b)(4) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "Under E.O. 13526 Sec. 4.3(b)(2), the system of accounting for special access programs is maintained by each agency head, not by ISOO.",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 4.3(b)(2) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "Only the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program absent separate presidential authorization.",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 4.3(a) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "E.O. 13526 Sec. 4.3(c) states in full: 'Nothing in this order shall supersede any requirement made by or under 10 U.S.C. 119,' preserving the statutory SAP reporting regime and its waiver mechanism intact against the classification order.",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 4.3(c) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "10 U.S.C. 119(e) authorizes the Secretary of Defense to waive, case by case, any requirement that specified information be included in a SAP report to the defense committees where inclusion 'would adversely affect the national security,' and to provide that information and the waiver justification only 'jointly to the chairman and ranking minority member of each of the defense committees.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "The annual SAP reporting requirements in 10 U.S.C. 119(a) and (b) were terminated effective 31 December 2021 by Section 1061 of Public Law 114-328, eliminating the recurring statutory inventory of DoD special access programs delivered to the defense committees.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim (Statutory Notes, 'Termination of Reporting Requirements')"
+        },
+        {
+          "text": "10 U.S.C. 119(f) bars initiation of a special access program until the defense committees are notified and 30 days elapse — a notification requirement that survives the 2021 termination of the annual reports.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "ISOO directives issued under E.O. 13526 Sec. 5.1(a) are 'binding on the agencies,' and Sec. 5.2(b)(8) requires the Director to report at least annually to the President on implementation of the order.",
+          "tier": 1,
+          "source": "Executive Order 13526, Secs. 5.1(a) and 5.2(b)(8) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "ISOO transmitted its Fiscal Year 2024 Annual Report to the President in early August 2025 and publicly issued it on 18 September 2025; it was the first annual report of Director Michael D. Thomas's tenure and restructured ISOO's mission into four areas: Oversight and Compliance, Guidance and Implementation, Data Collection and Analysis, and Administration and Engagement.",
+          "tier": 1,
+          "source": "https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ; report at https://www.archives.gov/files/isoo/reports/isoo-fy-2024-annual-report-final-508.pdf"
+        },
+        {
+          "text": "ISOO's published annual reports run back to 1979, providing a continuous forty-five-year government-wide accounting of the classification system in which no recovery or exploitation program for non-human technology has been reported.",
+          "tier": 2,
+          "source": "https://www.archives.gov/isoo/reports/annual-report-archive.html ; see also https://isoo-overview.blogs.archives.gov/2025/09/18/announcing-the-publication-of-isoos-fiscal-year-2024-annual-report-to-the-president/ ('I studied our prior releases, dating all the way back to 1979')"
+        },
+        {
+          "text": "Under E.O. 13526 Sec. 5.2(b)(6), ISOO is required to 'consider and take action on complaints and suggestions from persons within or outside the Government' regarding administration of the classification program, providing a standing external channel that has not, on the public record, produced a UAP-related classification finding.",
+          "tier": 1,
+          "source": "Executive Order 13526, Sec. 5.2(b)(6) — https://www.archives.gov/isoo/policy-documents/cnsi-eo.html"
+        },
+        {
+          "text": "ISOO sits inside the same agency, NARA, that the FY2024 NDAA designated as custodian of the UAP Records Collection and that the FY2027 Burlison amendment would make the permanent home of that collection.",
+          "tier": 2,
+          "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework ; https://www.archives.gov/isoo"
+        }
+      ],
+      "denialPosture": "ISOO does not deny the existence of a legacy program; it has never made an affirmative public statement on the subject either way. Its posture is structural silence — an annual report to the President that accounts for the classification system as agencies self-report it, produced by an office that E.O. 13526 permits any of six agency heads to lock out of the relevant compartment with a single memorandum to the National Security Advisor.",
+      "connections": [
+        "Michael D. Thomas, current ISOO Director, signatory of the FY2024 Annual Report to the President; predecessor Mark A. Bradley.",
+        "Reports through the Archivist of the United States, who is also the statutory custodian of the UAP Records Collection under the FY2024 NDAA and under the Burlison FY2027 amendment.",
+        "Directly linked to the Under Secretary of Defense for Intelligence and Security and the DoD Special Access Program Central Office (SAPCO), which run the DoD SAP accounting system that E.O. 13526 Sec. 4.3(b)(2) leaves in agency hands.",
+        "The 10 U.S.C. 119(e) waiver channel routes SAP information to four individuals — the chairman and ranking member of the House and Senate Armed Services and Appropriations committees — which is the same narrow channel referenced in 50 U.S.C. 3373b(a)(4)(A) as the test for whether a program has been 'explicitly and clearly reported' to Congress.",
+        "Chairs the National Industrial Security Program Policy Advisory Committee (NISPPAC), the contractor-facing side of the classification system and therefore the interface with the prime contractors named in reverse-engineering testimony.",
+        "The Director serves as Executive Secretary of the Interagency Security Classification Appeals Panel (ISCAP) under E.O. 13526 Sec. 5.3(a)(4), the only body that can override an agency declassification denial."
+      ],
+      "openQuestions": [
+        "How many times, if ever, has an agency head invoked the E.O. 13526 Sec. 5.2(b)(4) denial-of-access procedure against ISOO, and for which compartments? No public accounting of these filings has been identified.",
+        "Whether ISOO's SAP oversight under Sec. 4.3(b)(3) has ever been exercised against a waived unacknowledged SAP, and whether any ISOO Director has ever been the single authorized reader of such a program.",
+        "Whether the FY2024 or any prior ISOO annual report contains a count of special access programs across government; the reports were not read in full for this dossier.",
+        "What replaced the terminated 10 U.S.C. 119(a) and (b) annual reports after 31 December 2021, if anything, and whether the defense committees receive any equivalent inventory today.",
+        "Whether ISOO has any role in reviewing classification decisions applied to records transmitted to the NARA UAP Records Collection, or whether that review sits entirely with originating agencies.",
+        "Whether restricted data compartments under the Atomic Energy Act of 1954 — which sit outside E.O. 13526's classification system entirely — are within ISOO's reach at all.",
+        "Whether any ISOO Director has been briefed on a UAP-related program and, if so, whether that briefing appears in any ISOO record."
+      ]
+    }
+  },
+  {
+    "id": "ousdi",
+    "entityDossier": {
+      "whatItIs": "The Office of the Under Secretary of Defense for Intelligence and Security, the OSD principal staff element for defense intelligence, counterintelligence, and security policy, chartered by DoD Directive 5143.01 (24 October 2014, incorporating Change 2, 6 April 2020) under 10 U.S.C. 113 and 137 and Executive Orders 12333, 13470 and 13869. It owns DoD security policy, counterintelligence, and the department's interface with the DoD Special Access Program Central Office. Under 50 U.S.C. 3373(b)(3)(B)(i), the Director of AARO reports to the USD(I&S) on all administrative matters of the office.",
+      "whyImplicated": "OUSD(I&S) is the office that produced the paper trail of the Elizondo counter-narrative, and that paper trail is the cleanest documentary evidence in the entire record of a deliberate, dated, signed effort by a defense component to control the public account of a UAP program. Its Director for Defense Intelligence, Garry Reid, wrote a memorandum for record in late December 2017 — within a week of the New York Times AATIP story — asserting that Luis Elizondo had 'aggrandized his role' and that to the best of Reid's knowledge Elizondo 'had no job responsibilities related to the AATIP,' while simultaneously initiating an AFOSI inquiry into Elizondo's handling of classified material. The Pentagon then sat on that determination for eighteen months before deploying it publicly through spokesman Christopher Sherwood in June 2019, and afterwards quietly amended the wording from 'no responsibilities' to 'no assigned responsibilities.' The same office holds administrative authority over AARO, the body Congress created to investigate the concealment, and it is the department's SAP security-policy owner. The entity that ran the counter-narrative also holds the keys to the compartments and supervises the investigators.",
+      "roles": ["concealment", "oversight", "custody"],
+      "narrative": "OUSD(I&S) is where the security state's plumbing and its press strategy meet, and the December 2017 file shows both running at once.\n\nThe charter first. DoD Directive 5143.01, reissued 24 October 2014 and updated by Change 2 on 6 April 2020, sets the USD(I&S)'s responsibilities, functions, relationships and authorities pursuant to 10 U.S.C. 113 and 137, 50 U.S.C. 3001 et seq., Public Law 108-458, and Executive Orders 12333, 13470 and 13869. The 'and Security' in the title was added in 2019-2020 and is the whole point: this office does not merely produce intelligence, it writes the rules for who may know things. It coordinates with the Director of the DoD Special Access Program Central Office on SAP matters involving ODNI and the intelligence community, and it runs the department's counterintelligence, law enforcement and security enterprise. Under 50 U.S.C. 3373(b)(3)(B)(i), enacted by Section 6802 of the FY2023 NDAA, the Director of AARO 'shall report... to the Under Secretary of Defense for Intelligence and Security on all administrative matters of the Office.' Operational and security matters go to the Deputy Secretary and the Principal Deputy DNI; administration — staffing, funding, personnel, facilities — goes to OUSD(I&S). Congress placed the investigative body's housekeeping under the office whose predecessor had spent five years managing the Elizondo problem.\n\nNow the file. Records obtained by The Black Vault under FOIA establish the sequence.\n\n3 October 2017: Elizondo submits a resignation letter, received by his direct supervisor John Garrity III. A second, differently worded resignation letter — the one public since 2018 — is later characterized in Reid's memo as having 'uncertain provenance' and as never delivered to the Secretary of Defense.\n\n12 October 2017: Reid learns of the To The Stars Academy launch, at which Elizondo appears as Director of Global Security and Special Programs one week after leaving DoD and states that TTSA plans to provide 'never-before-released footage from real U.S. government systems.' Reid contacts the Air Force Office of Special Investigations. AFOSI finds no 'tangible indicators' of misconduct and declines to open a case.\n\n7 December 2017: The New York Times contacts DoD about AATIP and Elizondo.\n\n15 December 2017: The OUSD(I) Security Officer is notified that Elizondo may have 'misused government systems' and 'may intend to release [U.S. government] footage or information that he obtained during his employment with OUSD(I).'\n\n16 December 2017: 'Glowing Auras and Black Money' publishes, carrying the FLIR1 and Gimbal videos captioned as released by AATIP and courtesy of the Department of Defense. The same two videos appear on TTSA's YouTube channel.\n\n18 December 2017: OUSD(I) discovers a classified email Elizondo sent to a Navy civilian in August 2017 requesting assistance getting videos declassified, with the same videos attached.\n\n21 December 2017: Reid meets AFOSI agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials. AFOSI concludes the investigation in April 2018. No charges are known to have followed.\n\n23 December 2017: A copy of Reid's memorandum for record carries handwritten marginal notes and initials dated '12/23' believed to be those of Secretary of Defense James N. Mattis, including a question whether Elizondo's 'sudden departure' was a 'counter-intelligence alarm?'\n\nThe two propositions in that file cannot both be casually true. If Elizondo had no job responsibilities related to AATIP, the department's own security office had no reason to fear that he would release government footage 'obtained during his employment with OUSD(I),' and Reid had no reason to open a counterintelligence inquiry about material he possessed. The counter-narrative and the counterintelligence action are internally inconsistent, and both were produced by the same office in the same week.\n\nThe eighteen-month gap is the other artifact. The determination was reached in December 2017. It was not made public until June 2019, when spokesman Christopher Sherwood told The Intercept that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' That formulation was later revised to 'no assigned responsibilities' — a lawyer's edit, narrowing a claim about what a man did to a claim about what was written in his position description. Departments do not narrow their own denials unless the broader version is indefensible.\n\nReid himself was removed in April 2022, following a nearly two-year investigation by The Debrief; the stated cause was an inappropriate relationship and favoritism with a colleague, not the Elizondo matter, and sources described him as the person most directly responsible for preventing further UAP video releases and for retaliating against Elizondo. The office continued. Bradley Hansell was confirmed as USD(I&S) by the Senate 61-35 and took office 25 July 2025, succeeding acting Under Secretary Dustin Gard-Weiss.\n\nFor an analyst the significance is structural rather than personal. The record shows that when a UAP disclosure event occurred, the response was generated inside OUSD(I&S) by the Director for Defense Intelligence, coordinated with a service investigative agency, briefed to the Secretary of Defense within a week, and held in reserve for eighteen months before public deployment. That is not confusion. That is an information operation run through a security-policy office — and the same office now holds administrative authority over AARO and coordination authority over DoD SAPs.",
+      "claims": [
+        {
+          "text": "DoD Directive 5143.01, dated 24 October 2014 and incorporating Change 2 dated 6 April 2020, is the charter for the Under Secretary of Defense for Intelligence and Security, issued under 10 U.S.C. 113 and 137, 50 U.S.C. 3001 et seq., Public Law 108-458, and Executive Orders 12333, 13470 and 13869.",
+          "tier": 1,
+          "source": "DoD Directive 5143.01, 'Under Secretary of Defense for Intelligence and Security (USD(I&S))', Oct. 24, 2014, Incorporating Change 2, April 6, 2020 — https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/514301p.pdf"
+        },
+        {
+          "text": "Under 50 U.S.C. 3373(b)(3)(B)(i), enacted by Section 6802(a) of the FY2023 NDAA, the Director of the All-domain Anomaly Resolution Office reports to the Under Secretary of Defense for Intelligence and Security on all administrative matters of the Office.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "Garry Reid, then Director for Defense Intelligence at OUSD(I), wrote a memorandum for record in late December 2017 asserting that Luis Elizondo had 'aggrandized his role' in AATIP and that to the best of Reid's knowledge Elizondo 'had no job responsibilities related to the AATIP.'",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/ (DoD memorandum for record released to The Black Vault under FOIA)"
+        },
+        {
+          "text": "On 15 December 2017, the OUSD(I) Security Officer was notified that Elizondo may have 'misused government systems' and 'may intend to release [U.S. government] footage or information that he obtained during his employment with OUSD(I)' — a determination that presupposes he possessed such material.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "On 18 December 2017 OUSD(I) discovered a classified email sent by Elizondo in August 2017 to a Navy civilian requesting assistance to get one or more videos declassified, with the same videos then circulating in the media attached; on 21 December 2017 Reid met AFOSI agents to initiate a formal inquiry into Elizondo's possible mishandling of classified materials.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "A copy of Reid's memorandum for record bears handwritten marginal notes and initials dated '12/23' believed to be those of Secretary of Defense James N. Mattis, including a question whether Elizondo's 'sudden departure' constituted a 'counter-intelligence alarm?'",
+          "tier": 2,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "DoD reached its internal determination about Elizondo's AATIP role in late December 2017 but did not make it public until June 2019, an eighteen-month interval for which no reason appears in the released records.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "Pentagon spokesperson Christopher Sherwood stated publicly in June 2019 that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017'; the department later revised the formulation to 'no assigned responsibilities.'",
+          "tier": 2,
+          "source": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/ ; revision noted at https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "A previously unpublished Elizondo resignation letter received by his direct supervisor John Garrity III on 3 October 2017 surfaced in the FOIA release; the second, publicly known resignation letter was characterized in Reid's memo as having 'uncertain provenance' and as never delivered to the Secretary of Defense.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "Reid's first security concern predates the New York Times story: on 12 October 2017 he learned of the To The Stars Academy launch at which Elizondo, one week after resigning, announced plans to provide 'never-before-released footage from real U.S. government systems,' and Reid contacted AFOSI, which found no 'tangible indicators' of misconduct at that time.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/ex-dod-intelligence-officers-ufo-claims-spark-security-concerns-and-confusion-pentagon-memos-reveal/"
+        },
+        {
+          "text": "Garry Reid was removed from his position as Director for Defense Intelligence in April 2022 following a nearly two-year investigation by The Debrief; the stated cause was an inappropriate relationship and favoritism with a colleague rather than his handling of the Elizondo matter.",
+          "tier": 2,
+          "source": "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"
+        },
+        {
+          "text": "Correspondence between Luis Elizondo and DoD spokesperson Susan Gough was released by the Office of the Secretary of Defense under FOIA case 21-F-0938.",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+        },
+        {
+          "text": "Bradley Hansell was confirmed by the Senate 61-35 as Under Secretary of Defense for Intelligence and Security and took office on 25 July 2025, succeeding acting Under Secretary Dustin Gard-Weiss.",
+          "tier": 2,
+          "source": "https://www.executivegov.com/articles/bradley-hansell-dod-under-secretary-intel-security-confirmation"
+        },
+        {
+          "text": "The USD(I&S) carries out SAP responsibilities involving ODNI and intelligence community members in coordination with the Director of the DoD Special Access Program Central Office (SAPCO).",
+          "tier": 2,
+          "source": "DoD Manual 5205.07, 'Special Access Program (SAP) Security Manual' — https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF"
+        }
+      ],
+      "denialPosture": "OUSD(I&S) is the origin point of the central official denial in the modern UAP record: that Luis Elizondo had no responsibilities — later narrowed to 'no assigned responsibilities' — with regard to AATIP. That denial was formed internally in December 2017, withheld from the public for eighteen months, and issued through a departmental spokesperson rather than a signed official. It is contradicted in the same file by the department's own security officers, who feared Elizondo would release footage he had 'obtained during his employment with OUSD(I),' and by Reid's decision to open an AFOSI inquiry into his handling of that material.",
+      "connections": [
+        "Garry Reid, Director for Defense Intelligence, OUSD(I) — author of the December 2017 memorandum for record; removed April 2022.",
+        "Luis Elizondo — the subject of the memorandum; resigned effective 4 October 2017; later Director of Global Security and Special Programs at To The Stars Academy.",
+        "John Garrity III — Elizondo's direct supervisor, recipient of the 3 October 2017 resignation letter.",
+        "Neill Tipton — senior OUSD(I) official identified in released emails as stating Elizondo had no assigned responsibilities while also corresponding with him about AATIP.",
+        "Christopher Sherwood and Susan Gough — DoD spokespeople who carried the public denial; Gough correspondence released under FOIA case 21-F-0938.",
+        "Secretary of Defense James N. Mattis — believed author of the handwritten marginal notes and '12/23' initials on the Reid memorandum.",
+        "Air Force Office of Special Investigations — the investigative arm Reid engaged twice, in October and December 2017.",
+        "Christopher Mellon — recipient of the video packaging bearing 'L Elizondo' found on an open web directory in 2018.",
+        "AARO — reports to USD(I&S) on all administrative matters under 50 U.S.C. 3373(b)(3)(B)(i), placing the investigative body's administration under the office that ran the counter-narrative.",
+        "DoD SAPCO — the SAP coordination partner named in DoDM 5205.07, tying OUSD(I&S) to the compartment structure ISOO cannot independently inventory.",
+        "Bradley Hansell, USD(I&S) since 25 July 2025; Dustin Gard-Weiss, acting predecessor."
+      ],
+      "openQuestions": [
+        "The exact date, control number and classification caveats of the Reid memorandum for record have not been established from the released copy; reporting places its classification at TS/ORCON but this was not verified against the document.",
+        "Why the December 2017 determination about Elizondo's role was withheld from the public for eighteen months before being issued through a spokesperson in June 2019.",
+        "Who authorized the change in wording from 'no responsibilities' to 'no assigned responsibilities,' and when.",
+        "What the New York Times submitted to DoD on 7 December 2017 that caused the OUSD(I) Security Officer to be notified on 15 December that Elizondo may have misused government systems.",
+        "Whether OUSD(I&S) or its predecessor exercised any authority over AATIP, AAWSAP or any successor effort beyond personnel administration, and whether any such authority is documented in a DoD issuance.",
+        "The identity of the 'Navy civilian' to whom Elizondo's August 2017 classified declassification-assistance email was addressed.",
+        "Whether the colleague who succeeded Reid after his April 2022 removal retained his UAP-related portfolio.",
+        "What administrative controls OUSD(I&S) has exercised over AARO's staffing, funding and access under 50 U.S.C. 3373(b)(3)(B)(i), and whether any of those controls have constrained AARO's historical record work."
+      ]
+    }
+  },
+  {
+    "id": "michels-gerb-structural-episode",
+    "entityDossier": {
+      "whatItIs": "The long-form interview 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb),' published 11 January 2026 on American Alchemy with Jesse Michels, running three hours and fifty-four minutes. In it the pseudonymous open-source researcher UAPGerb walks Michels through a claimed organizational map of the legacy recovery and reverse-engineering effort: the contractor hierarchy, the administering agencies, the facilities, and the named individuals. It is the most detailed publicly available attempt to render the concealment structure as an org chart rather than an anecdote.",
+      "whyImplicated": "This episode matters not as testimony but as a hypothesis document. Its published chapter structure is itself a claim about how the program is organized — 'Legacy Programs,' 'The Pyramid of Contractors,' 'Modern Majestic 12,' 'The Administrators of Secrecy,' 'The Office of Global Access,' 'The Role of MITRE,' 'The DOE NEST,' 'The 1954 Atomic Energy Agreement,' 'The Y-12 Complex,' 'Underground Military Bases' — asserting that the effort is administered through a layered contractor pyramid with Department of Energy and federally funded research and development center involvement rather than through a single DoD program office. That is a falsifiable structural model, and it is the one an analyst can test against procurement records, facility clearances and statutory authorities. The episode also names individuals and cases as nodes — Jonathan Wagan, J. Andrew Kistner, Eric Henry Wang, Marconi — converting rumor into a checkable list. Its evidentiary weight is low; its investigative value as a target list is high.",
+      "roles": ["research", "disclosure"],
+      "narrative": "There is a difference between a witness and a cartographer. Most UAP media is witness content: a person describes what he saw or was told, and the audience is asked to weigh his credibility. The Michels-Gerb episode is cartography. UAPGerb is not claiming personal access; he is claiming that the public record, read carefully enough and cross-indexed hard enough, discloses the shape of the thing. That makes the episode assessable in a way testimony is not, because a map can be checked against the terrain.\n\nThe episode published on 11 January 2026 at 7:15 PM UTC on Jesse Michels's American Alchemy, running 3 hours 54 minutes. The chapter list published with it is the closest thing the open record has to a table of contents for the concealment hypothesis, and it is worth reading as a document in itself.\n\nThe first movement is structural. 'Legacy Programs' at 6:00, then 'The Pyramid of Contractors' at 12:03, then 'Whistleblowers and Leaks' at 16:46 and 'Modern Majestic 12' at 23:50. The claim embedded in that ordering is that the program's continuity lives in the contractor layer rather than in any government office — that government offices rotate, get renamed, get terminated by statute, while the corporate custodians and their facility clearances persist. This is the single most consequential structural assertion in the episode, because it is the one that explains how a program survives the abolition of the Aerial Phenomena Task Force, the creation of AARO, and forty years of reorganizations. It is also the assertion that makes the 'covered government contractors' clause of the Burlison FY2027 amendment the operative provision rather than a throwaway.\n\nThe second movement is administrative. 'Exploring the IPU Docs' at 27:10 reaches back to the 1947 Interplanetary Phenomenon Unit; 'The Administrators of Secrecy' at 32:24 and 'Individuals in the Shadows' at 37:38 name people; 'The Office of Global Access' at 43:04 and 'The Conflict of Interest' at 49:48 lead into 'The Role of MITRE' at 51:28. MITRE operates federally funded research and development centers — organizations that hold government facility clearances and perform government work while sitting outside both the civil service and ordinary contractor competition. In the legacy-program hypothesis the FFRDC is the ideal custodian: it has continuity, clearances, and a relationship to government that is neither employment nor procurement in the ordinary sense.\n\nThe third movement is nuclear. 'The DOE NEST' at 1:22:01, 'The 1954 Atomic Energy Agreement' at 1:30:25, 'The GAO Audit' at 1:31:55, 'The Y-12 Complex' at 1:32:56. The Department of Energy thread is analytically the strongest part of the map, for a reason that has nothing to do with anyone's testimony: Restricted Data under the Atomic Energy Act of 1954 is classified by statute at birth, sits outside the Executive Order 13526 classification system entirely, and is therefore outside the reach of the Information Security Oversight Office's oversight authority. Congress noticed this. When it drafted the UAP authorized-disclosure protections at 50 U.S.C. 3373b(b)(1)(B), it wrote that an authorized disclosure 'shall be deemed to comply with any regulation or order issued under the authority of Executive Order 13526... or chapter 18 of the Atomic Energy Act of 1954.' Legislators do not immunize disclosures against the Atomic Energy Act unless they have reason to think the Atomic Energy Act is being used.\n\nThe fourth movement is geographic and biographical: 'Underground Military Bases' at 1:44:25, 'Covert Operations and Facilities' at 1:52:44, 'Marconi's Involvement' at 2:04:48, 'The Legacy of Eric Henry Wang' at 2:07:16, and named witness segments for Jonathan Wagan at 1:15:47 and J. Andrew Kistner at 1:31:35. The fifth is meta: 'Controlled Disclosure Dynamics' at 2:28:42, 'The Shadow Government' at 2:38:42, 'The Role of Psyops' at 2:51:34 — Gerb arguing that disclosure itself is being managed, which is a claim about the current period rather than the historical one.\n\nOn sourcing discipline, this dossier draws a hard line. The episode's existence, date, duration, host, guest and published chapter structure are verifiable primary metadata. Every substantive assertion inside it — that MITRE holds a custodial role, that an 'Office of Global Access' exists, that Y-12 is implicated, that a 1954 atomic energy agreement bears on the subject — is UAPGerb's claim, unverified here, and is catalogued as such at tier 3. The correct use of this episode by a downstream analyst is as a query list: take each named entity, each facility, each individual, and test it against procurement data, FOIA releases, clearance records and statutory authority. The episode's value is that it is specific enough to be wrong.\n\nThe relationship to the broader board is that Gerb's structural model and Congress's legislative behaviour have converged without either citing the other. Gerb says the continuity lives in the contractor pyramid. Congress, in the FY2023 authorized-disclosure statute and again in the FY2027 House-adopted disclosure amendment, keeps writing provisions that reach contractors, contractor nondisclosure agreements, and contractor-held records. Two independent processes arriving at the same load-bearing assumption is the kind of convergence worth flagging.",
+      "claims": [
+        {
+          "text": "The episode 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' was published on American Alchemy with Jesse Michels on 11 January 2026 at 7:15 PM UTC with a running time of 3 hours 54 minutes.",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+        },
+        {
+          "text": "The episode's published chapter structure includes 'Legacy Programs' (6:00), 'The Pyramid of Contractors' (12:03), 'Whistleblowers and Leaks' (16:46), 'Modern Majestic 12' (23:50), 'Exploring the IPU Docs' (27:10), 'The Administrators of Secrecy' (32:24) and 'Individuals in the Shadows' (37:38).",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983 (episode timestamps as published)"
+        },
+        {
+          "text": "The published chapter list places 'The Office of Global Access' at 43:04, 'The Conflict of Interest' at 49:48 and 'The Role of MITRE' at 51:28, asserting a custodial or coordinating role for a federally funded research and development center operator in the legacy program structure.",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+        },
+        {
+          "text": "The episode devotes segments to a Department of Energy thread: 'The DOE NEST' (1:22:01), 'The 1954 Atomic Energy Agreement' (1:30:25), 'The GAO Audit' (1:31:55) and 'The Y-12 Complex' (1:32:56).",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+        },
+        {
+          "text": "The episode names individual cases as discrete segments: 'The Alien Reproduction Vehicle' (1:09:22), 'Jonathan Wagan's Story' (1:15:47), 'J. Andrew Kistner's Testimony' (1:31:35), 'Marconi's Involvement' (2:04:48) and 'The Legacy of Eric Henry Wang' (2:07:16).",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+        },
+        {
+          "text": "The episode treats present-day disclosure as itself a managed process, with segments titled 'Controlled Disclosure Dynamics' (2:28:42), 'The Shadow Government' (2:38:42), 'Legacy Programs and Control' (2:49:17) and 'The Role of Psyops' (2:51:34).",
+          "tier": 1,
+          "source": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+        },
+        {
+          "text": "UAPGerb had previously appeared on American Alchemy in February 2025, in an interview Michels publicly described as covering 'UFO crash retrievals and reverse-engineering' and as 'a comprehensive tour of Air Force Bases, Deep Underground Military Bases and Federally Funded Research Organizations.'",
+          "tier": 2,
+          "source": "https://x.com/AlchemyAmerican/status/1893046290046456114"
+        },
+        {
+          "text": "That earlier February 2025 American Alchemy appearance was released under the title 'The Most Knowledgeable UFO Researcher In The World.'",
+          "tier": 2,
+          "source": "https://www.iheart.com/podcast/269-american-alchemy-222867745/episode/the-most-knowledgeable-ufo-researcher-in-268705703/"
+        },
+        {
+          "text": "UAPGerb's structural claim that the program's continuity resides in a contractor layer is testable against a statutory fact: Congress wrote authorized-disclosure protections in 50 U.S.C. 3373b(a)(1)(B) that expressly cover programs run by 'a contractor of such a department or agency' relating to 'material retrieval, material analysis, reverse engineering.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        },
+        {
+          "text": "The episode's Department of Energy and Atomic Energy Act emphasis aligns with a drafting choice by Congress: 50 U.S.C. 3373b(b)(1)(B) deems an authorized disclosure to comply with any regulation or order issued under Executive Order 13526 'or chapter 18 of the Atomic Energy Act of 1954 (42 U.S.C. 2271 et seq.),' immunizing UAP disclosures against atomic energy secrecy law specifically.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        },
+        {
+          "text": "UAPGerb asserts that the legacy effort traces from early Cold War initiatives including the 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork work with Project Blue Book through to programs he attributes to modern agency management.",
+          "tier": 3,
+          "source": "https://open.spotify.com/episode/2JlkoGbPzhveWGduBmdHyA (episode description and content, American Alchemy with Jesse Michels, 11 January 2026)"
+        },
+        {
+          "text": "UAPGerb is a pseudonymous open-source researcher whose public output consists of long-form podcast appearances rather than documentary publication or sworn testimony; he has appeared across multiple podcast platforms including American Alchemy, the Danny Jones Podcast and DEBRIEFED with Chris Ramsay.",
+          "tier": 3,
+          "source": "https://www.wikidisc.org/wiki/UAP_Gerb ; https://open.spotify.com/episode/4oOOiT92IGlidDe3aj7IM0"
+        }
+      ],
+      "denialPosture": "",
+      "connections": [
+        "Jesse Michels, host of American Alchemy, is the interviewer and the distribution channel; his platform has become a primary venue for legacy-program mapping.",
+        "UAPGerb (@UAPGERB) is the researcher; pseudonymous, open-source method, no claimed insider access.",
+        "MITRE Corporation is named in the episode structure as playing a role; MITRE operates federally funded research and development centers holding government facility clearances.",
+        "Department of Energy, NEST and the Y-12 National Security Complex are named as nodes, tying the hypothesis to Atomic Energy Act Restricted Data authorities that sit outside E.O. 13526 and therefore outside ISOO's oversight reach.",
+        "Named individuals and cases offered as investigative targets: Jonathan Wagan, J. Andrew Kistner, Eric Henry Wang, Marconi.",
+        "The 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork are offered as the historical origin points of the structure.",
+        "The 'Pyramid of Contractors' model converges with the 'covered government contractors' clause in the Burlison FY2027 NDAA amendment and with the contractor coverage in 50 U.S.C. 3373b.",
+        "The 'Office of Global Access' claim, if pursued, would be tested against 50 U.S.C. 3373(j)(1)(B)(ii)(I), which requires AARO's historical record report to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.'"
+      ],
+      "openQuestions": [
+        "Every substantive assertion made inside the episode is unverified here. The chapter structure is primary metadata; the content is UAPGerb's claim.",
+        "No documentary basis has been established for the existence of an 'Office of Global Access,' and no government issuance, budget line or organizational chart naming such an office has been identified.",
+        "MITRE's asserted role rests on no cited contract, task order or FFRDC sponsoring agreement in the public record examined here.",
+        "The identities, employment histories and clearance records of Jonathan Wagan, J. Andrew Kistner and Eric Henry Wang have not been independently established.",
+        "What 'The 1954 Atomic Energy Agreement' refers to specifically — whether the Atomic Energy Act of 1954 itself, an implementing agreement, or a separate instrument — is not resolved by the chapter title.",
+        "What 'The GAO Audit' segment refers to; the Comptroller General does hold a UAP audit mandate under Section 6803 of Public Law 117-263, but whether that is the audit discussed is not established.",
+        "Whether UAPGerb's identity, background and any prior government or contractor affiliation would change the weight assigned to his structural model.",
+        "Whether any of the facilities or organizations named in the episode have been the subject of a UAP-related records search under 50 U.S.C. 3373b(b)(3)(A)."
+      ]
+    }
+  },
+  {
+    "id": "ndaa-fy2023-sec-6802",
+    "entityDossier": {
+      "whatItIs": "Section 6802 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, Public Law 117-263, Division F (the Intelligence Authorization Act for Fiscal Year 2023), Title LXVIII, enacted 23 December 2022, 136 Stat. 3586. Section 6802(a) amended 50 U.S.C. 3373 in its entirety, replacing the FY2022 Airborne Object Identification and Management Synchronization Group language with the statutory charter of the All-domain Anomaly Resolution Office. It is the provision that put a congressional demand for the concealment history into permanent federal law.",
+      "whyImplicated": "Section 6802 is the moment Congress wrote its suspicion into the United States Code. The historical record report it mandates at 50 U.S.C. 3373(j) does not ask whether UAP are real; it orders the Director of AARO to compile and itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress' and 'any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about unidentified anomalous phenomena or related activities,' from 1 January 1945 forward. Those are not the words of a legislature seeking information about aerial objects. They are the words of a legislature accusing the executive branch of running unreported compartmented programs and conducting a disinformation effort, and then ordering the executive branch to write the indictment itself. Section 6802 also created the material-testing and propulsion-science machinery at 50 U.S.C. 3373(e) and (g), and Section 6803 attached a Comptroller General audit to the historical record report because Congress did not trust the self-investigation it had just commissioned.",
+      "roles": ["oversight", "disclosure", "research"],
+      "narrative": "Read Section 6802 the way a prosecutor reads a charging document and the picture is unmistakable.\n\nThe mechanics first, because the citation matters and is commonly muddled. Public Law 117-263 is the FY2023 NDAA. Division F of that act is the Intelligence Authorization Act for Fiscal Year 2023. Section 6802(a) of Division F, Title LXVIII, amended 50 U.S.C. 3373 generally, at 136 Stat. 3586. That is the AARO charter. A separate provision, Section 1673 of Division A, Title XVI, at 136 Stat. 2959, created 50 U.S.C. 3373b, the authorized-disclosure mechanism, and it is Section 1673 rather than Section 6802 that carries the phrase 'reverse engineering.' An analyst tracing statutory authority needs both, and needs to keep them distinct: 6802 built the office, 1673 built the whistleblower channel, and Section 6803 built the audit.\n\nNow the language. Subsection (j)(1)(A) requires the Director of AARO, within 540 days of 23 December 2022, to submit to the congressional defense committees, the congressional intelligence committees and congressional leadership 'a written report detailing the historical record of the United States Government relating to unidentified anomalous phenomena,' drawing on intelligence community records and documents, oral history interviews, open source analysis, interviews of current and former Government officials, and 'classified and unclassified national archives including any records any third party obtained pursuant to section 552 of title 5.' Subsection (j)(1)(B)(i) sets the period: 'beginning on January 1, 1945' and running to completion.\n\nThen (j)(1)(B)(ii), the operative demand. The report shall 'include a compilation and itemization of the key historical record of the involvement of the intelligence community with unidentified anomalous phenomena, including — (I) any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress; (II) successful or unsuccessful efforts to identify and track unidentified anomalous phenomena; and (III) any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about unidentified anomalous phenomena or related activities.'\n\nSubparagraph (I) is a statutory recognition that unreported restricted-access programs may exist — which is precisely the waived-SAP and Restricted Data territory that the Information Security Oversight Office cannot independently inventory and that the 10 U.S.C. 119(e) waiver channel narrows to four members of Congress. Subparagraph (III) is a statutory recognition that a disinformation effort may exist, and it uses the word 'obfuscate' and the phrase 'manipulate public opinion' in the United States Code. Congress does not legislate against hypotheticals in these terms.\n\nSubsection (j)(2) removed the obvious dodge in advance: 'The Archivist of the United States shall make available to the Office such information maintained by the National Archives and Records Administration, including classified information, as the Director of the Office considers necessary.' No classification barrier at the Archives.\n\nSection 6802 also built the technical apparatus. Subsection (e)(1) directs the Secretary of Defense, coordinating with the DNI, to designate 'one or more line organizations' primarily responsible for scientific, technical and operational analysis of field-investigation data and data from other sources, 'including with respect to the testing of materials, medical studies, and development of theoretical models.' Subsection (e)(2) requires directives ensuring each designated line organization has authority 'to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.' Subsection (g) orders a science plan to develop and test theories accounting for 'characteristics and performance of unidentified anomalous phenomena that exceed the known state of the art in science or technology, including in the areas of propulsion, aerodynamic control, signatures, structures, materials, sensors, countermeasures, weapons, electronics, and power generation,' and to 'provide the foundation for potential future investments to replicate or otherwise better understand any such advanced characteristics and performance.' Replicate. The statute contemplates replication of performance exceeding the known state of the art. Subsection (n)(6) then defines 'line organization' in a way that excludes any component of the Office of the Secretary of Defense — pushing the material testing out to service labs, national labs and agencies where the work would actually be done.\n\nThe reporting architecture around it is equally telling. Subsection (l)(4) requires the Director to give the Armed Services and Intelligence committee leadership, every briefing period, 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.' Congress built a running log of refusals into the statute. And Section 6803 of the same public law, at 136 Stat. 3594, required the Comptroller General within 90 days to identify cleared GAO personnel to audit the historical record report process, with on-site work as appropriate, quarterly findings to AARO, and semiannual verbal briefings to the intelligence committees, the defense committees and congressional leadership.\n\nThat is a statute that funds an office, orders it to investigate its own department's concealment history back to 1945, strips the classification defense at the Archives, requires it to log every time it is refused data, and puts an independent auditor over its shoulder. Later Congresses kept tightening: Section 1673(a) of Public Law 119-60, enacted 18 December 2025, ordered the AARO Director within 180 days to make 'an accounting of security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena,' and Section 1687(b) of Public Law 118-31 barred UAP-related independent research and development costs from being allowable as indirect contract expenses unless the material is made available to the defense and intelligence committees and congressional leadership — a direct strike at the mechanism by which contractor-held UAP work could be billed to the taxpayer without congressional visibility.\n\nSection 6802 is the hook because everything downstream hangs from it: AARO's existence, the historical record report, the line-organization material testing, the classification-guide accounting, and the statutory vocabulary — 'restricted access,' 'not explicitly and clearly reported to Congress,' 'obfuscate' — that the rest of the disclosure fight is conducted in.",
+      "claims": [
+        {
+          "text": "Section 6802(a) of Public Law 117-263, Division F, Title LXVIII, enacted 23 December 2022 at 136 Stat. 3586, amended 50 U.S.C. 3373 in its entirety, establishing the statutory charter of the All-domain Anomaly Resolution Office.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim (Source Credit and Amendments notes)"
+        },
+        {
+          "text": "50 U.S.C. 3373(j)(1)(B)(ii)(I), as enacted by Section 6802, requires AARO's historical record report to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373(j)(1)(B)(ii)(III) requires the report to itemize 'any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about unidentified anomalous phenomena or related activities.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "The historical record report was due not later than 540 days after 23 December 2022 and must focus on the period 'beginning on January 1, 1945,' running to the date the Director completes the activities.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373(j)(2) requires the Archivist of the United States to make available to AARO 'such information maintained by the National Archives and Records Administration, including classified information, as the Director of the Office considers necessary' — removing classification as a basis for withholding at NARA.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373(e)(1) directs designation of one or more 'line organizations' primarily responsible for scientific, technical and operational analysis of UAP data 'including with respect to the testing of materials, medical studies, and development of theoretical models'; subsection (n)(6) defines 'line organization' so as to exclude any component of the Office of the Secretary of Defense.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373(g) requires a science plan to develop and test theories accounting for UAP 'characteristics and performance... that exceed the known state of the art in science or technology, including in the areas of propulsion, aerodynamic control, signatures, structures, materials, sensors, countermeasures, weapons, electronics, and power generation' and to 'provide the foundation for potential future investments to replicate or otherwise better understand any such advanced characteristics and performance.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373(l)(4) requires the AARO Director each briefing period to provide the chairs and ranking members of the Armed Services and Intelligence committees 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+        },
+        {
+          "text": "Section 6803 of Public Law 117-263, at 136 Stat. 3594, required the Comptroller General within 90 days of enactment to identify cleared GAO personnel to audit the historical record report process, including on-site work, with quarterly findings provided to AARO and semiannual verbal briefings to the congressional intelligence committees, defense committees and congressional leadership.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim (Statutory Notes, 'Comptroller General of the United States Audits and Briefings on Unidentified Anomalous Phenomena Historical Record Report')"
+        },
+        {
+          "text": "The phrase 'reverse engineering' does not appear in Section 6802; it appears in the companion provision, Section 1673 of Public Law 117-263, Division A, Title XVI, 136 Stat. 2959, which created 50 U.S.C. 3373b and covers federal and contractor activity relating to UAP 'including with respect to material retrieval, material analysis, reverse engineering, research and development, detection and tracking, developmental or operational testing, and security protections and enforcement.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373b(a)(4)(B) requires the Secretary, within 72 hours of determining that an authorized disclosure relates to a restricted access activity, special access program or compartmented access program that has not been explicitly and clearly reported to the defense or intelligence committees, to report that disclosure to those committees and to congressional leadership.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        },
+        {
+          "text": "50 U.S.C. 3373b(b)(1) provides that an authorized disclosure shall not be subject to a nondisclosure agreement, shall be deemed to comply with any regulation or order issued under Executive Order 13526 or chapter 18 of the Atomic Energy Act of 1954, and is not a violation of 18 U.S.C. 798 or other disclosure law.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373b&num=0&edition=prelim"
+        },
+        {
+          "text": "Section 1687(b) of Public Law 118-31, enacted 22 December 2023, bars independent research and development funding relating to UAP from being allowable as indirect contract expenses under DoD Instruction 3204.01 unless such material and information is made available to the congressional defense committees, the House and Senate intelligence committees and congressional leadership.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim (Statutory Notes, 'Limitation Regarding Independent Research and Development')"
+        },
+        {
+          "text": "Section 1673(a) of Public Law 119-60, enacted 18 December 2025, requires the AARO Director within 180 days to make 'an accounting of security classification guides that apply to information used for reports and investigations of unidentified anomalous phenomena' and permits issuance of a consolidated security classification matrix for UAP-related programs.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim (Statutory Notes, 'Accounting of Security Classification Guides Relating to Unidentified Anomalous Phenomena')"
+        }
+      ],
+      "denialPosture": "Section 6802 contains no denial; it is the instrument that compels one. Its significance for the concealment record is that any AARO historical record report issued under 50 U.S.C. 3373(j) that fails to itemize unreported restricted-access programs or obfuscation efforts is a dated, signed statutory filing by a named Director, made under a mandate that expressly contemplated finding both — which converts a null finding from an absence of evidence into an attributable representation to Congress.",
+      "connections": [
+        "Creates the All-domain Anomaly Resolution Office; AARO's Director reports to the Deputy Secretary of Defense and the Principal Deputy DNI on operational and security matters and to the Under Secretary of Defense for Intelligence and Security on all administrative matters under 50 U.S.C. 3373(b)(3)(B).",
+        "Companion to Section 1673 of the same public law, which created 50 U.S.C. 3373b — the authorized-disclosure channel, the reverse-engineering enumeration, the anti-reprisal protections and the government-wide and contractor-wide sweep of UAP nondisclosure orders.",
+        "Section 6803 attaches Government Accountability Office audit oversight to the historical record report; the Comptroller General is the only independent auditor in the scheme.",
+        "The 'restricted access... not explicitly and clearly reported to Congress' formulation directly implicates the 10 U.S.C. 119(e) waived-SAP channel and the E.O. 13526 Sec. 4.3 special access program structure that ISOO cannot independently inventory.",
+        "The Atomic Energy Act immunity in 3373b(b)(1)(B) ties the statutory scheme to Department of Energy Restricted Data authorities outside the E.O. 13526 system.",
+        "The Archivist of the United States is made a compelled source under 3373(j)(2), the same official who holds the UAP Records Collection under the FY2024 NDAA and would hold the permanent collection under the Burlison FY2027 amendment.",
+        "Section 1687(b) of Public Law 118-31 targets contractor independent research and development billing, the funding mechanism most often alleged for contractor-held UAP work.",
+        "Later amendments by Public Law 118-31 Sec. 7341, Public Law 118-159 Sec. 1089, and Public Law 119-60 Secs. 1671 and 1672 progressively tightened reporting, added NORAD and NORTHCOM intercept reporting back to 1 January 2004, and required the classification guide accounting."
+      ],
+      "openQuestions": [
+        "Whether the historical record report required by 50 U.S.C. 3373(j) was delivered within the 540-day statutory deadline and in how many volumes; the delivery record was not examined for this dossier.",
+        "Which 'line organizations' were designated under 50 U.S.C. 3373(e)(1) for material testing, medical studies and theoretical modelling — the names are required to be reported under 3373(k)(1)(B)(xvi) but have not been verified here.",
+        "How many enumerations of withheld data have been provided to the committees under 50 U.S.C. 3373(l)(4), and what they contain.",
+        "What the Comptroller General's Section 6803 audit found, and whether any of the semiannual verbal briefings produced a written product.",
+        "Whether the nondisclosure order sweep required by 50 U.S.C. 3373b(b)(3)(A) was in fact conducted by all covered agencies and contractors, and how many instruments were produced to AARO.",
+        "How many 72-hour congressional notifications under 50 U.S.C. 3373b(a)(4)(B) have been made — each one would be a formal statement that an unreported restricted-access program was implicated.",
+        "Whether any contractor has had UAP-related IRAD costs disallowed under Section 1687(b) of Public Law 118-31, which would be a documented dollar figure attached to contractor UAP work.",
+        "Whether the security classification guide accounting required by Section 1673(a) of Public Law 119-60 was completed by its June 2026 deadline and whether a consolidated classification matrix was issued."
+      ]
+    }
+  }
+]

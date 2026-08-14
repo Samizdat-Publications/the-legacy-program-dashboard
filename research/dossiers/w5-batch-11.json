@@ -1,0 +1,604 @@
+[
+  {
+    "id": "gerb-mitre-investigation",
+    "entityDossier": {
+      "whatItIs": "An open-source investigation by the pseudonymous researcher known as UAP Gerb into The MITRE Corporation and the wider federally funded research and development center (FFRDC) layer as custodians of UAP-related material, which in 2026 converged with a formal congressional records demand. On May 22, 2026 Rep. Eric Burlison (MO-07) transmitted ten pages of legislative interrogatories and production requests to MITRE covering its possible custody, control, analysis, transfer, destruction or withholding of records on UAP, recovered materials, technologies of unknown origin and alleged legacy crash-retrieval or reverse-engineering programs. MITRE confirmed publicly that it is reviewing its archives.",
+      "whyImplicated": "The FFRDC is the structural blind spot in the whole concealment architecture: it holds government-funded records, sits inside classified programs, and is largely shielded from FOIA. Burlison's letter names the exact mechanism the record has always lacked a demand for, asking MITRE to identify Special Access Programs, Controlled Access Programs, activities under Alternative Compensatory Control Measures, classification guides, nondisclosure instruments, contractor-held federal records, budgetary mechanisms and internal retaliation complaints. It asks for records back to 1930, which is a date choice that only makes sense if the requester believes the paper trail predates Roswell. It explicitly asks MITRE to describe UAP-related work conducted with Lockheed Martin, Northrop Grumman, Raytheon/RTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems and Bigelow Aerospace or its successors, which converts the letter into a map of the suspected contractor network. And a member of Burlison's own staff told DefenseScoop the letter was informed by advice from whistleblowers, disclosure advocacy organizations and people working at FFRDCs, meaning an independent researcher's target list has been laundered into a congressional production request.",
+      "roles": ["custody", "concealment", "oversight", "disclosure", "research"],
+      "narrative": "The investigation has two halves that need to be tiered separately, because they are not equally evidenced.\n\nThe first half is the independent research. UAP Gerb is a pseudonymous researcher and documentarian who produces multi-hour, heavily sourced video investigations into crash retrieval, reverse-engineering facilities and the contractor and laboratory network around them. His signature thesis is not about craft at all but about legal architecture: that the Department of Energy, not the Pentagon, is the load-bearing custodian, that the Nuclear Emergency Support Team has a classified retrieval mission alongside its public one, and that the Atomic Energy Act of 1954 supplies the classification vehicle by designating recovered material as trans-classified foreign nuclear material, a category that sits outside the reach of the congressional intelligence committees. In his August 2025 Danny Jones Podcast appearance he put it directly: the DOE NEST had authority under the 1954 Atomic Energy Act, which also governs how UFO materials are classified as transclassified foreign nuclear materials. This matters because it is a falsifiable structural claim about statute, not a witness anecdote, and because it explains a specific documented behavior, namely why UAP disclosure amendments keep naming the 1954 Act as an obstacle.\n\nThe second, and more consequential, half of the investigation is Gerb's January 2026 attack on the AARO to Oak Ridge to Battelle circuit. As reported by IBTimes UK on January 17, 2026, Gerb alleges that in 2024 AARO contracted Oak Ridge National Laboratory to examine a metallic specimen recovered from private land in Ohio; that AARO subsequently issued a brief statement suggesting the sample was ordinary while the full Oak Ridge analysis was never released; that former AARO director Sean Kirkpatrick left government in December 2023 to become Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge, the same laboratory that received material he had previously decided to send out for analysis; that Oak Ridge subsequently removed the webpage announcing his appointment and that he did not list the position on his public CV; and that former Under Secretary of Defense for Intelligence and Security Ronald Moultrie removed his prior Battelle board service from his official biography. The structural point behind the personnel allegations is the one that survives regardless of motive: Oak Ridge is operated by UT-Battelle, a Battelle entity, and Battelle is the same institution that performed the statistical analysis published as Project Blue Book Special Report No. 14 in 1955. The organization that wrote the government's foundational public assessment of the phenomenon in the 1950s operates the laboratory that assessed its recovered material in the 2020s. That is not a coincidence anyone has been asked to explain on the record.\n\nThe third half, the one that turns research into leverage, is Burlison. Reports in the research community indicate Burlison invited Gerb to dinner, and by May 2026 Burlison had transmitted to MITRE a document whose enclosure lists more than forty specific requests. The letter instructs MITRE to designate a senior official, issue a preservation hold, provide a records-location index, produce unclassified responsive records in native electronic format with complete metadata within 45 days, identify classified or sponsor-controlled material, and coordinate a classified briefing for cleared committee staff. It asks MITRE to identify all work involving detection, tracking, correlation, characterization, data fusion, anomaly detection or attribution of UAP-related signatures across air, space, maritime, undersea, cyber, electromagnetic, acoustic, radar, optical, infrared, nuclear, biological, chemical or multi-intelligence domains. And it includes the trapdoor clause: if no responsive records exist, MITRE must certify the search methodology, repositories searched, custodians contacted, search terms used, date ranges and the responsible MITRE official who supervised the search. That converts a null answer into an attributable, signed, falsifiable statement by a named person, which is exactly the property that a denial needs in order to become evidence.\n\nThe MITRE demand did not arrive alone. Burlison's press release states it builds on his earlier letter to MIT Lincoln Laboratory concerning historical UAP records associated with the Beacon Hill Study and a reel-to-reel recording identified as AF-ATIC-FILM, 03/52. A film reel identified by an Air Technical Intelligence Center designator and a March 1952 date, held at an MIT laboratory rather than at the National Archives, is the single most specific artifact anyone in Congress has publicly named in this line of inquiry.\n\nWhat the record does not yet contain is any MITRE production. As of the reporting, MITRE has said only that insiders are reviewing archives and that if relevant material is found it will coordinate with the responsible federal agencies. That is a conditional, agency-deferring non-answer, which is the standard posture of a contractor that intends to route any responsive material back through the classification authority that created it.",
+      "claims": [
+        {
+          "text": "Rep. Eric Burlison (MO-07) transmitted legislative interrogatories and production requests to The MITRE Corporation seeking answers on MITRE's potential custody, control, analysis, transfer, destruction, or withholding of records related to UAP, anomalous aerospace or undersea events, recovered materials, technologies of unknown origin, and alleged legacy crash-retrieval or reverse-engineering programs.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance (press release dated May 26, 2026)"
+        },
+        {
+          "text": "The correspondence is dated May 22, 2026, runs ten pages, and its enclosure lists more than 40 specific production requests covering records collections and transfers, contracts, task orders, classified access and special programs, analysis and identification activities, AI models, technology exploitation, health and safety data, and secure facilities.",
+          "tier": 1,
+          "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/ (Brandi Vincent, DefenseScoop, May 27, 2026)"
+        },
+        {
+          "text": "Burlison asked MITRE to supply records dating back to 1930.",
+          "tier": 1,
+          "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+        },
+        {
+          "text": "The letter demands information about any UAP-related work involving Lockheed Martin, Northrop Grumman, Raytheon/RRTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems, Bigelow Aerospace or its successors/affiliates, or any other aerospace, defense, intelligence, science, engineering, biomedical, or materials-analysis entity.",
+          "tier": 1,
+          "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/ (direct quotation of the letter)"
+        },
+        {
+          "text": "All unclassified responsive records are to be delivered in native electronic format with complete metadata within 45 days; if no responsive records exist, MITRE must provide a certification describing search methodology, repositories searched, custodians contacted, search terms used, date ranges, and the responsible MITRE official who supervised the search.",
+          "tier": 1,
+          "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+        },
+        {
+          "text": "The interrogatories seek information on Special Access Programs, Controlled Access Programs, national programs, activities under Alternative Compensatory Control Measures, classification guides, nondisclosure instruments, contractor-held federal records, sensor data, materials analysis, third-party relationships, budgetary mechanisms, and internal disclosures or retaliation concerns related to UAP records or programs.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+        },
+        {
+          "text": "The MITRE requests build on Burlison's earlier letter to MIT Lincoln Laboratory concerning historical UAP-related records associated with the Beacon Hill Study and a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52', which asked Lincoln Laboratory to identify, preserve, digitize and coordinate transfer of responsive records to NARA for the UAP Records Collection.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+        },
+        {
+          "text": "Burlison stated on the record: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records, especially records Congress has directed to be identified, preserved, reviewed, and transferred for public release.'",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+        },
+        {
+          "text": "Burlison wrote: 'It requires MITRE to tell Congress what it knows, what it holds, what it has held, what it has transferred, what it has destroyed or was directed to destroy, and which federal sponsors or classification authorities control any responsive records.'",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+        },
+        {
+          "text": "A member of Burlison's team told DefenseScoop that the letter was informed by 'advice from many whistleblowers, disclosure advocacy organizations, and those working at FFRDCs.'",
+          "tier": 1,
+          "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+        },
+        {
+          "text": "UAP Gerb alleges that AARO contracted Oak Ridge National Laboratory in 2024 to examine a metallic specimen recovered from private land in Ohio, that AARO later issued a brief statement suggesting the sample was ordinary, and that the full Oak Ridge analysis has never been publicly released.",
+          "tier": 3,
+          "source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604 (IBTimes UK, January 17, 2026, reporting Gerb's claims)"
+        },
+        {
+          "text": "UAP Gerb alleges that former AARO director Sean Kirkpatrick left government in December 2023 to become Chief Technology Officer for Defence and Intelligence Programs at Oak Ridge National Laboratory, that Oak Ridge later removed the webpage announcing the appointment, and that Kirkpatrick did not list the position on his public CV.",
+          "tier": 3,
+          "source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604"
+        },
+        {
+          "text": "UAP Gerb alleges that former Under Secretary of Defense for Intelligence and Security Ronald Moultrie deleted his prior position on Battelle's board from his official biography, and notes that Oak Ridge National Laboratory is operated by UT-Battelle, a Battelle entity, producing what Gerb calls a 'closed loop of power' over funding, research and public narrative.",
+          "tier": 3,
+          "source": "https://www.ibtimes.co.uk/uap-whistleblower-gerb-exposes-secret-club-running-americas-ufo-cover-1771604"
+        },
+        {
+          "text": "UAP Gerb's central structural thesis, stated on the Danny Jones Podcast (episode #320, August 4, 2025), is that 'The DOE NEST had the authority under the 1954 Atomic Energy Act, which also governs how UFO materials are classified as transclassified foreign nuclear materials', placing recovered material outside the reach of congressional intelligence committees.",
+          "tier": 3,
+          "source": "https://www.wikidisc.org/wiki/UAP_Gerb (WikiDisc entry, last edited July 1, 2026, citing Danny Jones Podcast #320, August 4, 2025)"
+        }
+      ],
+      "denialPosture": "MITRE's only attributable public statement is conditional and agency-deferring: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.' That is not a denial that records exist; it is a commitment to route any discovery back through the sponsoring classification authority, which is the same authority whose control is the subject of the inquiry.",
+      "connections": [
+        "Rep. Eric Burlison (MO-07), House Oversight and Government Reform Committee and Task Force on the Declassification of Federal Secrets, is the signatory of the May 22, 2026 MITRE interrogatories and of the earlier MIT Lincoln Laboratory letter",
+        "MIT Lincoln Laboratory, the Beacon Hill Study, and the reel-to-reel recording designated AF-ATIC-FILM, 03/52 are the named prior target of the same records campaign",
+        "Battelle Memorial Institute connects the 1955 Blue Book Special Report No. 14 statistical study to UT-Battelle, the operator of Oak Ridge National Laboratory, which per Gerb received AARO's 2024 Ohio specimen",
+        "Sean Kirkpatrick (AARO director to December 2023) and Ronald Moultrie (USD(I&S)) are the two named individuals in Gerb's revolving-door allegation",
+        "The letter's named contractor list (Lockheed Martin, Northrop Grumman, Raytheon/RTX, Boeing, General Dynamics, SAIC, Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems, Bigelow Aerospace) is effectively a congressional target map of the suspected custody network",
+        "NARA Record Group 615 and the UAP Records Collection created by FY2024 NDAA sections 1841-1843 are the statutory hook Burlison uses to assert that MITRE holds transferable federal records",
+        "The Atomic Energy Act of 1954 and DOE/NEST are Gerb's proposed alternative custody chain, bypassing the DoD SAP system entirely"
+      ],
+      "openQuestions": [
+        "Has MITRE produced anything responsive, and has any certification of a null search been signed by a named MITRE official?",
+        "Which federal sponsor or classification authority does MITRE identify as controlling any responsive material?",
+        "Does the Beacon Hill Study record set at MIT Lincoln Laboratory still contain AF-ATIC-FILM, 03/52, and has it been transferred to NARA?",
+        "Was there in fact a 2024 AARO contract or task order to Oak Ridge National Laboratory for analysis of material recovered in Ohio, and what is its contract number?",
+        "Is Sean Kirkpatrick's Oak Ridge appointment documented in any surviving primary record, and why was the announcement page removed?",
+        "Is 'trans-classified foreign nuclear material' an actual DOE classification category in current use, and does any UAP-related material sit in it?",
+        "The identity, nationality and prior professional background of UAP Gerb are unknown, which caps independent verification of his sourcing"
+      ]
+    }
+  },
+  {
+    "id": "us-house",
+    "entityDossier": {
+      "whatItIs": "The United States House of Representatives, and specifically the three bodies within it that have repeatedly touched the legacy program question: the Committee on Armed Services, which held the first open congressional UFO hearing in 1966; the Committee on Oversight and Government Reform, which has run the modern public hearings since 2023; and that committee's Task Force on the Declassification of Federal Secrets, chaired by Rep. Anna Paulina Luna. The House is also the chamber whose FY2024 NDAA conference product created the statutory UAP Records Collection at the National Archives.",
+      "whyImplicated": "The House is not a bystander in this record; it is the institution that has been lied to, and periodically the institution that catches the lie. Its 1966 Armed Services hearing extracted the Air Force's official position on the record from a sitting Secretary and simultaneously put J. Allen Hynek's dissent into the Congressional record. Its Oversight Committee in 2023 put a former Navy pilot and other witnesses in front of cameras under oath. Its members have since gone after the contractor layer directly, issuing legislative interrogatories to The MITRE Corporation and MIT Lincoln Laboratory rather than to executive agencies, which is a deliberate move around the FOIA exemptions and classification authorities that block agency requests. And the House is where the funding lever sits: FY2024 NDAA section 1687 makes UAP-related independent research and development costs unallowable as indirect expenses unless the underlying material is made available to the defense and intelligence committees and to congressional leadership.",
+      "roles": ["oversight", "disclosure", "funding", "concealment"],
+      "narrative": "The House's involvement runs on a sixty-year cycle of the same three moves: hearing, denial, statute.\n\nMove one, 1966. On April 5, 1966 the Committee on Armed Services of the House of Representatives, 89th Congress, second session, held a hearing on Unidentified Flying Objects, convened after pressure from House Minority Leader Gerald Ford. The Air Force sent Secretary Harold Brown, and Project Blue Book sent Major Hector Quintanilla, its serving chief, and Dr. J. Allen Hynek, its scientific consultant. Brown put the Air Force position on the record: no evidence that UFOs threatened national security or were extraterrestrial. Hynek used the same hearing to place on the record that the Air Force's practice of assigning conventional explanations to every report was a poverty of hypotheses, and to call for an independent civilian scientific panel. The Air Force's response was to fund the Condon study at the University of Colorado, which is the template: a congressional hearing produces not disclosure but an outsourced study whose public summary can be written to a conclusion. That is exactly what had already been done with Battelle and Special Report No. 14 eleven years earlier.\n\nMove two, 2023 to 2026. On July 26, 2023 the Oversight Committee's Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Glenn Grothman with Rep. Robert Garcia as ranking member, and driven by Reps. Tim Burchett and Anna Paulina Luna, held the first public hearing to take testimony from military pilots and whistleblowers. Ryan Graves's written statement placed three institutional claims into the record: that UAP in U.S. airspace are grossly underreported; that stigma is itself a national security problem; and that excessive classification is hiding what the government knows, with all UAP video classified secret or above since 2021. Graves also entered a specific, dated, attributable account of information suppression: his advisor Rear Admiral Tim Gallaudet received a classified SIPRNET email in 2015 titled 'Urgent safety of flight issue' attaching the GO FAST video, and the following day the email was removed from Gallaudet's system and from his deputy's, with no one ever discussing it again. Gallaudet's own stated presumption is that the removal was connected to a classified special access program. That single paragraph in a House witness statement is the cleanest documented instance of a UAP record being pulled out of an official system.\n\nBy 2025 the House had institutionalized the effort. Chairman James Comer created the Task Force on the Declassification of Federal Secrets and named Luna to chair it, with Rep. Jasmine Crockett as ranking member and Republican members Nancy Mace, Tim Burchett, Lauren Boebert, Eric Burlison, Eli Crane and Brandon Gill, and Democratic members Stephen Lynch, Raja Krishnamoorthi and Dave Min. On September 9, 2025 the task force held a hearing on restoring public trust through UAP transparency and whistleblower protection, taking testimony from Air Force veteran Jeffrey Nuccetelli, Chief Alexandro Wiggins, journalist George Knapp and Air Force veteran Dylan Borland.\n\nMove three, statute. The FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841 through 1843, directed NARA to establish the Unidentified Anomalous Phenomena Records Collection and required every federal agency to review, identify and organize its UAP records for transmission to the National Archives by October 20, 2024. The statutory definition of what belongs in the collection is the tell: copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence. Congress wrote non-human intelligence into a records statute. NARA's implementing metadata schema then required a mandatory Special Controls field populated with SAP, SCI, RD/FRD and FGI markings, and required the Department of Energy to be entered as a referral agency whenever a file contains Restricted Data or Formerly Restricted Data. The Archives built its intake to receive special-access and nuclear-classified UAP material before anyone had produced any. Separately, section 1687(b) of the same law made UAP-related independent research and development funding unallowable as an indirect expense on covered contracts unless the material is made available to the congressional defense committees, the House Permanent Select Committee on Intelligence, the Senate Select Committee on Intelligence, and the four congressional leaders. That provision exists because someone in Congress concluded that contractors were charging the taxpayer for UAP work through overhead while reporting nothing.\n\nBy 2026 the House had pivoted to attacking the contractor and FFRDC layer directly. Burlison's May 2026 interrogatories to MITRE, and his earlier letter to MIT Lincoln Laboratory, assert that a nonprofit FFRDC cannot become a private vault for federal records. On August 1, 2026 Burlison released, with administration authorization, preliminary implementation guidance for President Trump's directive on nondisclosure agreements binding current and former government employees and contractors with UAP information, and invited anyone who believes the directive applies to them to contact his office. That is a sitting member of the House offering himself as the intake channel for people whose NDAs may have just been waived. Running alongside it, and not through it, the administration began posting declassified interagency UAP files in May 2026 on war.gov/ufo, an executive release track that answers to no congressional deadline.",
+      "claims": [
+        {
+          "text": "On April 5, 1966 the Committee on Armed Services of the House of Representatives, 89th Congress second session, held a hearing on Unidentified Flying Objects, with Secretary of the Air Force Harold Brown, Project Blue Book chief Major Hector Quintanilla, and Blue Book scientific consultant Dr. J. Allen Hynek.",
+          "tier": 1,
+          "source": "U.S. House Committee on Armed Services, 'Unidentified Flying Objects,' hearing, 89th Cong., 2d sess., April 5, 1966; https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf and https://archive.org/details/ufo_1966_1"
+        },
+        {
+          "text": "The July 26, 2023 UAP hearing was held by the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, chaired by Rep. Glenn Grothman with Rep. Robert Garcia as ranking member, and was described by witness Ryan Graves as 'the first public hearing on UAP to hear from military pilots and whistleblowers.'",
+          "tier": 1,
+          "source": "Ryan Graves, written testimony, House Committee on Oversight and Accountability, July 26, 2023; https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "Graves testified that Rear Admiral Tim Gallaudet received a classified SIPRNET email in 2015 titled 'Urgent safety of flight issue' attaching the GO FAST UAP video, that the following day the email was removed from Gallaudet's system and his deputy's, that no one ever discussed it, and that Gallaudet 'presumes the email was removed in connection with a classified special access program.'",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "Graves testified that 'Since 2021, all UAP videos are classified as secret or above,' preventing the American people and some Members of Congress from seeing material such as the full GIMBAL video recorded by his squadron.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "House Oversight Chairman James Comer created the Task Force on the Declassification of Federal Secrets and named Rep. Anna Paulina Luna (FL-13) as Chairwoman, with Rep. Jasmine Crockett (TX-30) as Ranking Member; Republican members are Nancy Mace, Tim Burchett, Lauren Boebert, Eric Burlison, Eli Crane and Brandon Gill, and Democratic members are Stephen Lynch, Raja Krishnamoorthi and Dave Min.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/subcommittee/task-force-on-the-declassification-of-federal-secrets/"
+        },
+        {
+          "text": "On September 9, 2025 the Task Force on the Declassification of Federal Secrets held a hearing on UAP transparency and whistleblower protection with witnesses Jeffrey Nuccetelli (U.S. Air Force veteran), Chief Alexandro Wiggins, journalist George Knapp, and Dylan Borland (U.S. Air Force veteran).",
+          "tier": 2,
+          "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/"
+        },
+        {
+          "text": "The FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841-1843, requires NARA to establish the 'Unidentified Anomalous Phenomena Records Collection' and required each federal agency to review, identify and organize each UAP record in its custody for disclosure and transmission to the National Archives by October 20, 2024.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance (NARA guidance, updated May 8, 2024)"
+        },
+        {
+          "text": "The statutory scope of the UAP Records Collection is 'copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects).'",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "NARA's metadata requirements for UAP records include a mandatory 'Special Controls' field to be populated with access or handling restrictions such as SAP, SCI, RD/FRD and FGI, and require the Department of Energy to be entered as a referral agency whenever a file contains Restricted Data or Formerly Restricted Data.",
+          "tier": 1,
+          "source": "https://www.archives.gov/records-mgmt/uap-guidance"
+        },
+        {
+          "text": "Section 1687(b) of Public Law 118-31 (Dec. 22, 2023, 137 Stat. 621) provides that independent research and development funding relating to unidentified anomalous phenomena 'shall not be allowable as indirect expenses' for covered contracts under DoD Instruction 3204.01 unless such material and information is made available to the appropriate congressional committees and congressional leadership.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (statutory note to 50 U.S.C. 3373)"
+        },
+        {
+          "text": "Rep. Eric Burlison, a member of both the Oversight Committee and the Task Force, transmitted legislative interrogatories to The MITRE Corporation on May 22, 2026 and had previously sent a records demand to MIT Lincoln Laboratory concerning the Beacon Hill Study and the recording 'AF-ATIC-FILM, 03/52'.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/burlison-presses-mitre-answers-uap-records-ffrdc-accountability-and-compliance"
+        },
+        {
+          "text": "On August 1, 2026 Rep. Burlison publicly released, with administration authorization, preliminary implementation guidance for President Trump's directive on nondisclosure agreements covering current and former government employees and contractors with UAP-related information, following his July 21, 2026 statement inviting affected individuals to contact his office.",
+          "tier": 1,
+          "source": "https://burlison.house.gov/media/press-releases/rep-burlison-releases-administration-memorandum-president-trumps-uap-nda (memorandum at https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf)"
+        },
+        {
+          "text": "The Safe Airspace for Americans Act, H.R. 6967 (118th Congress), introduced by the Chairman and Ranking Member of the House Oversight National Security Subcommittee, would allow civilian pilots to report UAP through NASA's Aviation Safety Reporting System, provide protection against retaliation, and make all UAP reports publicly available.",
+          "tier": 2,
+          "source": "https://www.congress.gov/bill/118th-congress/house-bill/6967/text (bill text; endorsement noted at https://www.safeaerospace.org/)"
+        },
+        {
+          "text": "In May 2026 the administration began posting declassified interagency UAP files as part of President Trump's disclosure initiative, with the first tranche published on war.gov/ufo, an executive-branch release running parallel to, rather than through, the congressional records process.",
+          "tier": 2,
+          "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+        }
+      ],
+      "denialPosture": "The House does not deny; it is the venue in which denials are entered. The dated, signed executive-branch denials that matter here were delivered to House committees: Secretary of the Air Force Harold Brown's April 5, 1966 statement to Armed Services that no evidence existed of a national security threat or extraterrestrial origin, and the recurring executive position, restated through 2026, that no case has been verified as involving extraterrestrial activity or technology.",
+      "connections": [
+        "Rep. Eric Burlison links the House to the MITRE and MIT Lincoln Laboratory records campaigns and to the Trump UAP NDA waiver intake channel",
+        "Rep. Anna Paulina Luna chairs the Task Force on the Declassification of Federal Secrets; Chairman James Comer created it",
+        "Reps. Tim Burchett and Glenn Grothman drove the July 26, 2023 Oversight hearing at which Ryan Graves and Americans for Safe Aerospace entered testimony",
+        "Rear Admiral Tim Gallaudet, an ASA advisor, is the source of the 2015 SIPRNET email-deletion account entered into the House record",
+        "FY2024 NDAA sections 1841-1843 tie the House to NARA, the UAP Records Collection and Record Group 615",
+        "FY2024 NDAA section 1687(b) ties the House to DoD Instruction 3204.01, contractor IR&D accounting, and the defense and intelligence committees",
+        "The 1966 Armed Services hearing produced the Condon Committee at the University of Colorado, the successor to the Battelle-authored Blue Book Special Report No. 14",
+        "The House Subcommittee on Government Information (Rep. John E. Moss, chairman) took up the non-availability of Special Report No. 14 on November 15, 1956"
+      ],
+      "openQuestions": [
+        "Which agencies actually met the October 20, 2024 UAP Records Collection deadline, and which certified null returns?",
+        "Has any contractor been found in violation of the section 1687(b) IR&D limitation, and has any audit been performed?",
+        "Did any House committee ever receive a waived-SAP notification touching UAP, and would the chair and ranking member be permitted to say so?",
+        "Whether the 1966 Armed Services hearing record contains any internal Air Force acknowledgment of the Special Report No. 14 unknown-rate discrepancy",
+        "What became of the classified briefing Burlison requested from MITRE for Task Force members and cleared committee staff",
+        "How the executive-branch file releases on war.gov/ufo interact with, or bypass, the statutory NARA collection process"
+      ]
+    }
+  },
+  {
+    "id": "blue-book-special-report-14",
+    "entityDossier": {
+      "whatItIs": "Project Blue Book Special Report No. 14, formally titled 'Analysis of Reports of Unidentified Aerial Objects,' dated 5 May 1955, is the largest statistical study of UFO reports the U.S. government has ever produced. The analysis was performed under contract by Battelle Memorial Institute of Columbus, Ohio, under a project designation reported as Project STORK, using 3,201 cases with an information cut-off of the end of 1952. It was released publicly on October 25, 1955 through Department of Defense Office of Public Information Release No. 1053-55.",
+      "whyImplicated": "The gap between what the study found and what the government said it found is the cleanest documented instance of deliberate framing in the entire record, and it is verifiable from two documents that were published together. The press release and Secretary of the Air Force Donald Quarles's accompanying statement told the public that the unknowns amounted to three per cent, a figure drawn from 131 sightings in the first four months of 1955, not from the 3,201-case study sample the report actually analyzed. The report body shows unknowns running far higher, and highest precisely where witness reliability was rated Excellent. The release also declined to name Battelle, describing the analysis only as the work of a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio. The full 316-page report was then not distributed, on stated grounds of printing cost, until a private citizen reprinted it. Every element of a concealment operation is present and dated: a suppressed dataset, a substituted statistic, an unnamed contractor, and a restricted distribution.",
+      "roles": ["research", "concealment", "disclosure"],
+      "narrative": "Start with what the report says about itself. Its own Summary states that the special study started in 1953, that to provide the study group with a complete set of files the information cut-off date was established as of the end of 1952, and that in these charts, 3201 cases have been used. It describes a three-part analytic method: a systematic attempt to find distinguishing characteristics in the data, a study of any trend or pattern, and an attempt to determine the probability that any of the UNKNOWNS represented observations of technological developments not known to this country. On the first of these it records a genuinely load-bearing finding: 'The first step in the analysis of the data revealed the existence of certain apparent similarities between cases of objects definitely identified and those not identified. Statistical methods of testing when applied indicated a low probability that these apparent similarities were significant.' Read plainly, Battelle tested whether the unknowns looked like the knowns and found that the resemblance did not hold up. That is the opposite of the conclusion the public was handed. The report then walks it back through re-evaluation, concluding that the probability the unknowns represented unknown technology was very small.\n\nNow the release. Department of Defense Office of Public Information Release No. 1053-55, dated October 25, 1955 and headlined 'AIR FORCE RELEASES STUDY ON UNIDENTIFIED AERIAL OBJECTS', opens with the flat assertion that no evidence of the existence of the popularly-termed flying saucers was found. It attributes the work to a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio, and never says the word Battelle. It then executes the substitution: since the instigation of the investigation more than seven years ago, methods and procedures have been so refined that of the 131 sightings reported during the first four months of 1955 only three per cent were listed as unknown. Secretary Quarles then attaches his name to that number: 'On the basis of this study we believe that no objects such as those popularly described as flying saucers have overflown the United States. I feel certain that even the unknown three per cent could have been explained as conventional phenomena or illusions if more complete observational data had been available.' The phrase on the basis of this study is doing enormous work. The study is the 3,201-case Battelle analysis. The three per cent is from a 131-case sample the study did not analyze, collected three years after the study's own cut-off date. The two are welded together in a single sentence and a Cabinet-level official signs it.\n\nThe attached Summary makes the substitution visible in its own numbers. For cases received before the end of 1952 it gives Unknown at 9 per cent; for the more recent tranche it gives Unknown at 3 per cent. Neither figure is the rate for the 3,201 cases whose charts and tables make up the report.\n\nThe body tells a different story, which is why the body was hard to get. Leon Davidson, a chemical engineer who had worked at Los Alamos Scientific Laboratory and who reprinted the report photographically beginning in 1956, wrote in his publisher's analysis that the key to the answer is contained in Fig. 8 (orig. p. 24) and Tables A1, A2, and A3 (orig. pp. 107 and 108); that Fig. 8 shows Unknown sightings constitute 33.3 per cent of all the object sightings for which the reliability of the sighting is considered Excellent; and that Tables A1 through A3 agree, with the percentage of Unknown sightings not less than about 20 per cent even when sightings of lesser reliability are included. The distribution runs the wrong way for the official framing: the better the witness, the more likely the object stayed unidentified.\n\nDistribution was the second layer of the concealment. Davidson reproduces a letter from Air Force Secretary Donald A. Quarles dated July 5, 1956 stating that it has been estimated that the cost of printing enough copies for distribution to the public through such outlets as libraries and academic institutions would be between $10 and $15 per copy. The 316-page full report was therefore never distributed. The non-availability became a matter of congressional record at the House Subcommittee on Government Information under Rep. John E. Moss on November 15, 1956. Davidson's privately financed edition, reproduced photographically page by page with the main text intact, is why the document exists in public hands at all.\n\nOne further anomaly sits in the photographic reproduction. Davidson points to original page 295, where the codes for Final Identification carry typewritten strikeovers: the category originally called Rockets and Missiles in the early analytic work was changed to read Insufficient Information, and the category originally called Electromagnetic Phenomenon was changed to read Unknown. If that reading of the page is correct, then the report's residual category was not an empty bin for the unexplained. It was a renamed bin for a hypothesis.\n\nBattelle is the connective tissue. The same institute later formed UT-Battelle, the operator of Oak Ridge National Laboratory, which per contemporary allegations received AARO's 2024 material analysis work. Battelle is also one of the entities Rep. Burlison named in his May 2026 MITRE interrogatories, alongside Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC, Leidos, The Aerospace Corporation, Booz Allen Hamilton, BAE Systems and Bigelow Aerospace. The organization that wrote the government's founding public statistical assessment of the phenomenon has never left the file.",
+      "claims": [
+        {
+          "text": "Project Blue Book Special Report No. 14 is titled 'Analysis of Reports of Unidentified Aerial Objects' and is dated 5 May 1955; the study started in 1953, its information cut-off was the end of 1952, and per the report's own Summary, 'In these charts, 3201 cases have been used.'",
+          "tier": 1,
+          "source": "Special Report No. 14, Summary, p. vii, as photographically reproduced in Leon Davidson, ed., 'Flying Saucers: An Analysis of the Air Force Project Blue Book Special Report No. 14'; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The report was released publicly on October 25, 1955 by Department of Defense Office of Public Information Release No. 1053-55, headlined 'AIR FORCE RELEASES STUDY ON UNIDENTIFIED AERIAL OBJECTS'.",
+          "tier": 1,
+          "source": "DoD Office of Public Information, Washington 25, D.C., Release No. 1053-55, October 25, 1955, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The October 25, 1955 press release states flatly: 'No evidence of the existence of the popularly-termed \"flying saucers\" was found.'",
+          "tier": 1,
+          "source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The press release never names Battelle Memorial Institute, attributing the work only to 'study and analysis by a private scientific group under the supervision of the Air Technical Intelligence Center at Dayton, Ohio.'",
+          "tier": 1,
+          "source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The three per cent figure in the release refers to a different and much later sample: 'of the 131 sightings reported during the first four months of 1955 only three per cent were listed as unknown', not to the 3,201 cases analyzed in the report.",
+          "tier": 1,
+          "source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "Secretary of the Air Force Donald A. Quarles is quoted in the release: 'On the basis of this study we believe that no objects such as those popularly described as flying saucers have overflown the United States. I feel certain that even the unknown three per cent could have been explained as conventional phenomena or illusions if more complete observational data had been available.'",
+          "tier": 1,
+          "source": "DoD Release No. 1053-55, October 25, 1955; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The Summary distributed with the release gives category percentages for cases received before the end of 1952 that include 'Unknown - 9%', and for the later tranche 'Unknown - 3%'; neither is the unknown rate for the 3,201-case charted sample.",
+          "tier": 1,
+          "source": "Special Report No. 14, Summary, pp. vii-viii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The report's own Summary records that 'The first step in the analysis of the data revealed the existence of certain apparent similarities between cases of objects definitely identified and those not identified. Statistical methods of testing when applied indicated a low probability that these apparent similarities were significant.'",
+          "tier": 1,
+          "source": "Special Report No. 14, Summary, p. vii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "Leon Davidson's published analysis of the report states that Figure 8 (original p. 24) shows Unknown sightings constituting 33.3% of all object sightings whose reliability is rated 'Excellent', and that Tables A1 through A3 (original pp. 107-108) show the Unknown percentage 'is not less than about 20%' even when lesser-reliability sightings are included.",
+          "tier": 2,
+          "source": "Leon Davidson, 'Analysis of the Project Blue Book Report No. 14', p. D-4 of his photographic reprint edition; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The Air Force did not distribute the full 316-page report; a letter from Air Force Secretary Donald A. Quarles dated July 5, 1956 states that 'It has been estimated that the cost of printing enough copies for distribution to the public through such outlets as libraries and academic institutions would be between $10 and $15 per copy.'",
+          "tier": 1,
+          "source": "Quarles letter, July 5, 1956, quoted in the Publisher's Statement of the Davidson reprint, p. D-2; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "The unavailability of the full text to the public was taken up in the Record of Hearings of the House Subcommittee on Government Information, Rep. John E. Moss chairman, on November 15, 1956.",
+          "tier": 2,
+          "source": "Leon Davidson, 'Analysis of the Project Blue Book Report No. 14', p. D-4; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "On original page 295 of the report, in the codes for Final Identification, typewritten strikeovers show that the category originally called 'Rockets and Missiles' was changed to 'Insufficient Information', and the category originally called 'Electromagnetic Phenomenon' was changed to 'Unknown'.",
+          "tier": 2,
+          "source": "Leon Davidson, analysis at p. D-10 discussing original p. 295, reproduced photographically; http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        },
+        {
+          "text": "Special Report No. 14 is the Blue Book report 'most important for UFO research, as it contained the study by Battelle Memorial Institute that analyzed the characteristics of UFOs in sightings that were unidentified'; the Battelle consulting work supporting Blue Book was performed under the designations Project Stork and Project Henry.",
+          "tier": 2,
+          "source": "https://cufos.org/resources/project-blue-book/ (Center for UFO Studies; full report PDF at https://cufos.org/PDFs/books/Air_Force_Project_Blue_Book_Special_Report_14R.pdf)"
+        },
+        {
+          "text": "The report's Summary concludes that a thorough re-examination and re-evaluation of the cases of objects not originally identified 'led to the conclusion that this probability was very small', referring to the probability that any of the UNKNOWNS represented observations of technological developments not known to this country.",
+          "tier": 1,
+          "source": "Special Report No. 14, Summary, p. vii, reproduced at http://jfk.hood.edu/Collection/Weisberg%20Subject%20Index%20Files/D%20Disk/Davidson%20Leon%20Project%20Bluebook/Item%2002.pdf"
+        }
+      ],
+      "denialPosture": "The official denial is the October 25, 1955 release itself and Secretary Quarles's attached statement, which is exactly why it is evidence rather than argument. It is dated, numbered (Release No. 1053-55), signed by a named Cabinet-level official, and its central statistical assertion can be checked against the document it purports to summarize. The Air Force position that no objects such as those popularly described as flying saucers have overflown the United States was published simultaneously with, and contradicted by, the report's own reliability-stratified unknown rates.",
+      "connections": [
+        "Battelle Memorial Institute performed the analysis; Battelle later formed UT-Battelle, the operator of Oak Ridge National Laboratory, and Battelle is named in Rep. Burlison's May 2026 MITRE interrogatories",
+        "Air Technical Intelligence Center (ATIC), Wright-Patterson AFB, supervised the study; the ATIC designator also appears in the film reel 'AF-ATIC-FILM, 03/52' that Burlison demanded from MIT Lincoln Laboratory",
+        "Secretary of the Air Force Donald A. Quarles is the named author of both the October 25, 1955 public conclusion and the July 5, 1956 letter justifying non-distribution",
+        "J. Allen Hynek worked on Blue Book consulting under Project Stork and later told the House Armed Services Committee in 1966 that Air Force practice showed a poverty of hypotheses",
+        "Leon Davidson, a chemical engineer formerly at Los Alamos Scientific Laboratory, is the private citizen who forced the document into public circulation",
+        "The House Subcommittee on Government Information under Rep. John E. Moss is the earliest congressional body on record challenging the withholding",
+        "The Robertson Panel (January 1953) and the later Condon Committee bracket this report as the other two outsourced scientific reviews used to close the question"
+      ],
+      "openQuestions": [
+        "The widely circulated figure of 21.5% unknowns among the 3,201 cases could not be verified against a legible primary table in the sources retrieved; the verifiable primary-adjacent figures are 33.3% for Excellent-reliability sightings and not less than about 20% overall, per Davidson's reading of Tables A1 through A3",
+        "Whether the significance tests Battelle ran are recoverable from the surviving full tables, and at what confidence level the knowns and unknowns were found to differ",
+        "Who inside ATIC or the Office of Public Information decided to substitute the 1955 131-case three per cent figure for the study's own unknown rate, and whether that decision is documented",
+        "Who authorized the strikeover changes to the Final Identification codes on original page 295, and when",
+        "Whether the Battelle contract file, deliverables and the intermediate Project STORK status reports survive, and in whose custody",
+        "Whether Battelle's institutional records on this work fall within the scope of Rep. Burlison's 2026 FFRDC and contractor records campaign"
+      ]
+    }
+  },
+  {
+    "id": "waived-usap",
+    "entityDossier": {
+      "whatItIs": "A waived unacknowledged special access program is the most tightly held category in the Department of Defense classification system. Department of Defense training doctrine defines it in one sentence: 'Waived SAPs are unacknowledged SAPs for which the Secretary of Defense has waived applicable reporting requirements under Section 119, Title 10 U.S. Code.' The waiver authority is 10 U.S.C. 119(e), under which the Secretary may withhold specified information from the statutory reports to Congress if he determines that including it would adversely affect national security, and must then provide the information and the justification for the waiver only to the chairman and ranking minority member of each of the defense committees.",
+      "whyImplicated": "This is the mechanism. If a legacy recovery and reverse-engineering program exists and has been concealed from Congress, waived SAP status is the lawful instrument by which that concealment is accomplished, and no unlawful act is required to sustain it. The statute permits an entire program's existence, cost, milestones and technology to disappear from the reports Congress wrote to keep itself informed, on the unilateral written determination of a single official. The population read in on the legislative side collapses to eight members and, per DoD policy, their staff directors. Everyone else in Congress, including every member of both intelligence committees who is not chair or ranking, can hold a Top Secret clearance and still be told nothing exists. The system is designed to produce truthful denials from officials who genuinely do not know, which is the precise pathology alleged across every UAP whistleblower account since 2017.",
+      "roles": ["concealment", "funding", "oversight"],
+      "narrative": "The architecture has four layers, and each one narrows the audience.\n\nLayer one is the baseline reporting duty. 10 U.S.C. 119, added by Public Law 100-180 section 1132(a)(1) on December 4, 1987, required the Secretary of Defense to submit to the defense committees an annual report on special access programs by March 1 of each year, setting out the total amount requested for SAPs in the President's budget and, for each SAP, a brief description, its major milestones, its actual cost for each prior fiscal year, and its estimated total cost across the current year, the budget year and four succeeding years. Subsection (b) required a separate annual report by February 1 giving notice and justification for each new SAP designation, with the current total program cost estimate and an identification of existing programs or technologies similar in technology or mission to the one being hidden. Subsection (f), added by Public Law 101-510 section 1482(a)(2) in November 1990, added the hard gate: a special access program may not be initiated until the defense committees are notified and thirty days elapse.\n\nLayer two is the waiver. Subsection (e)(1) provides that the Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security, with each waiver made on a case-by-case basis. Subsection (e)(2) then routes the withheld information and the justification jointly to the chairman and ranking minority member of each of the defense committees. Steven Aftergood of the Federation of American Scientists put the practical result plainly: waived SAPs are exempted by statute (10 USC 119e) from normal congressional notification requirements, and in such cases only eight senior members of the congressional defense committees may be advised of the program.\n\nLayer three is DoD policy, which is more restrictive than the statute. Under the pre-2024 SAP policy framework, only the chair, the ranking minority member and the staff directors of the defense and intelligence committees are authorized access to waived DoD SAPs within their committee's oversight role, absent approval by the Secretary or Deputy Secretary. The currently effective directive, DoD Directive 5205.07, reissued September 12, 2024 and approved by Deputy Secretary of Defense Kathleen H. Hicks, adds a provision that is the operational choke point for whistleblowers: no DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval. The people most likely to hold the evidence are contractors, and the directive forbids them from handing it to Congress without permission from the office that runs the SAP system.\n\nLayer four is the quiet erosion of the reporting baseline itself. The U.S. Code note under section 119 records that for termination, effective December 31, 2021, of the provisions in subsections (a) and (b) requiring submittal of an annual report to Congress, see section 1061 of Public Law 114-328. The annual SAP report and the annual new-SAP notification report, the two instruments the 1987 Congress built, were sunset by a general reporting-requirement cull. And the September 12, 2024 reissuance of DoDD 5205.07 does not define waived SAP anywhere in its glossary. It defines SAP, SAP architecture, SAP umbrella, SAP compartment, SAP sub-compartment, Joint Force Integration SAP and Strategic Enabler SAP. The acknowledged, unacknowledged and waived taxonomy that appears in DoD's own training material has been replaced in the public directive by a vocabulary that does not distinguish between programs Congress is told about and programs it is not. Whether that is reform or relabeling, the public governing document no longer names the category.\n\nThe rest of the directive maps the custody chain. All DoD SAPs are assigned to an oversight authority drawn from USD(R&E), USD(A&S), USD(P), USD(I&S) and the Director of the DoD SAP Central Office. The Director of DoD SAPCO reports directly to the Deputy Secretary of Defense, holds delegated Top Secret original classification authority for all DoD SAP information, publishes and maintains the security classification guides for every SAP umbrella, accredits congressional SAP facilities, and maintains records of DoD SAP information provided to Congress. Establishment of new SAP umbrellas and compartments is by exception and requires Secretary or Deputy Secretary approval. The senior governing body, the SAP Oversight Committee, is chaired by the Deputy Secretary of Defense. Approximately 75 to 80 per cent of all DoD SAPs are acquisition SAPs, which is the category that would cover a materials exploitation or reverse-engineering effort.\n\nCongress has attacked the funding side rather than the classification side. FY2024 NDAA section 1687(b) makes independent research and development funding relating to unidentified anomalous phenomena unallowable as an indirect expense on covered contracts unless the material and information is made available to the congressional defense committees, both intelligence committees, and the majority and minority leaders of the Senate and the Speaker and minority leader of the House. That is an admission on the face of the statute that Congress believed UAP work was being charged to the taxpayer through contractor overhead and reported to no one. It is also a route around the waiver, because IR&D allowability is an accounting question, not a classification question.",
+      "claims": [
+        {
+          "text": "Department of Defense training doctrine defines the category: 'Under extremely limited circumstances, unacknowledged SAPs may also be waived. Waived SAPs are unacknowledged SAPs for which the Secretary of Defense has waived applicable reporting requirements under Section 119, Title 10 U.S. Code. Waived SAPs have more restrictive reporting requirements and access controls.'",
+          "tier": 1,
+          "source": "Center for Development of Security Excellence (CDSE), Student Guide, Course SA001 'Special Access Program (SAP) Overview,' lesson 'SAP Lifecycle and Structure'; https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf"
+        },
+        {
+          "text": "10 U.S.C. 119(e)(1): 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim (text in effect August 13, 2026)"
+        },
+        {
+          "text": "10 U.S.C. 119(e)(2) requires that when the waiver authority is exercised, the withheld information and the justification for the waiver be provided 'jointly to the chairman and ranking minority member of each of the defense committees.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "10 U.S.C. 119(g) defines 'defense committees' as the Committee on Armed Services, the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations of the Senate, and the same three bodies of the House of Representatives.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "Waived SAPs 'are exempted by statute (10 USC 119e) from normal congressional notification requirements. In such cases, only eight senior members of the congressional defense committees may be advised of the program.'",
+          "tier": 2,
+          "source": "Steven Aftergood, 'Spotlight on DoD Special Access Programs,' Federation of American Scientists, February 7, 2013; https://fas.org/publication/dod_saps/"
+        },
+        {
+          "text": "10 U.S.C. 119(f) provides that a special access program may not be initiated until the defense committees are notified of the program and a period of 30 days elapses after such notification is received; this subsection was added by Public Law 101-510, section 1482(a)(2), November 5, 1990.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "Section 119 was enacted by Public Law 100-180, division A, title XI, section 1132(a)(1), December 4, 1987, 101 Stat. 1151, and the first report was required to set out SAP budget requests and appropriations for each of the five preceding fiscal years and to cover all then-existing special access programs.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim (source credit and 'Initial Reports on Special Access Programs' note)"
+        },
+        {
+          "text": "The annual reporting requirements in subsections (a) and (b) of 10 U.S.C. 119 were terminated effective December 31, 2021 by section 1061 of Public Law 114-328.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim ('Termination of Reporting Requirements' note)"
+        },
+        {
+          "text": "DoD Directive 5205.07, 'Special Access Program Policy,' effective September 12, 2024, was approved by Deputy Secretary of Defense Kathleen H. Hicks; it reissues and cancels the July 1, 2010 directive and incorporates and cancels the Deputy Secretary of Defense Memorandum 'Implementation Guidance for DoD Special Access Program Enterprise Reform,' July 11, 2023.",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+        },
+        {
+          "text": "The September 12, 2024 DoDD 5205.07 glossary contains no definition of 'waived SAP', 'unacknowledged SAP' or 'acknowledged SAP'; it instead defines a new taxonomy of 'Joint Force Integration SAP' and 'Strategic Enabler SAP', the latter being a SAP protecting capabilities or information that 'warrant more limited and restrictive sharing than Joint Force Integration SAPs.'",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf (Glossary, G.2 Definitions)"
+        },
+        {
+          "text": "DoDD 5205.07 paragraph 3.1.g states: 'No DoD contractor entity, contractor employee, contractor representative, or consultant will provide SAP material to any members of Congress or their staff without Director, DoD SAPCO approval', and requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO when briefing or providing SAP material to any member of Congress or their staff.",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+        },
+        {
+          "text": "The Director of the DoD SAP Central Office reports directly to the Deputy Secretary of Defense, is delegated TOP SECRET original classification authority for all DoD SAP information, publishes and maintains security classification guides for all DoD SAP umbrellas, accredits congressional SAP facilities, and 'Maintains records of DoD SAP information provided to Congress.'",
+          "tier": 1,
+          "source": "https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf (paragraphs 2.1.b and 2.1.e)"
+        },
+        {
+          "text": "Approximately 75 to 80 percent of all DoD SAPs are acquisition SAPs, established to protect sensitive research, development, testing and evaluation, modification and procurement activities; SAPs are referred to by both protection level and category, producing combinations such as 'unacknowledged waived operations and support SAPs'.",
+          "tier": 1,
+          "source": "CDSE Student Guide, Course SA001 'Special Access Program (SAP) Overview'; https://www.cdse.edu/Portals/124/Documents/student-guides/SA001-guide.pdf"
+        },
+        {
+          "text": "Section 1687(b) of the FY2024 NDAA, Public Law 118-31 (137 Stat. 621), bars UAP-related independent research and development funding from being allowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, the House Permanent Select Committee on Intelligence, the Senate Select Committee on Intelligence, and the four congressional leaders.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (statutory note to 50 U.S.C. 3373)"
+        }
+      ],
+      "denialPosture": "There is no denial to catalogue, because the Department has never publicly acknowledged any individual waived SAP; acknowledging one would defeat the category. What is on the record instead is a quieter act: the September 12, 2024 reissuance of DoD Directive 5205.07 removed the acknowledged, unacknowledged and waived taxonomy from the public policy document entirely, while DoD's own unclassified training material continues to teach it. The public governing directive no longer names the category by which programs are lawfully hidden from Congress.",
+      "connections": [
+        "10 U.S.C. 119(g) makes the Senate Armed Services Committee and House Armed Services Committee two of the four bodies whose chair and ranking member constitute the eight-member notification group, alongside both Appropriations Committees",
+        "DoD SAPCO, reporting to the Deputy Secretary of Defense, is the office that must approve any contractor disclosure of SAP material to Congress, making it the gatekeeper against exactly the whistleblower route Congress has been soliciting",
+        "Rear Admiral Tim Gallaudet's account, entered into the House record by Ryan Graves, presumes a classified special access program caused the 2015 deletion of a UAP safety-of-flight email from Navy systems",
+        "Rep. Eric Burlison's May 2026 MITRE interrogatories specifically demand information on Special Access Programs, Controlled Access Programs and Alternative Compensatory Control Measures held by an FFRDC",
+        "FY2024 NDAA section 1687(b) attacks the same concealment through contractor IR&D accounting rather than through classification",
+        "50 U.S.C. 3373(j)(1)(B)(ii)(I) requires AARO's historical record report to itemize 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress', which is a statutory description of a waived SAP",
+        "Section 1061 of Public Law 114-328 sunset the annual SAP reports to Congress effective December 31, 2021, the same window in which the UAP reporting statutes were being written",
+        "NARA's UAP records metadata schema requires a Special Controls field populated with SAP, SCI, RD/FRD or FGI markings, meaning the Archives is already structured to receive SAP-controlled UAP material"
+      ],
+      "openQuestions": [
+        "How many waived SAPs currently exist, and has that number ever been disclosed even to the eight?",
+        "Whether the September 12, 2024 removal of the waived-SAP taxonomy from DoDD 5205.07 reflects abolition of the category, its migration into 'Strategic Enabler SAP', or only a change in what the public document says",
+        "What replaced the annual section 119(a) and (b) reports after their December 31, 2021 termination, and whether anything replaced them at all",
+        "Whether any of the eight members has ever been briefed on a UAP-related waived SAP, and whether the statute permits them to confirm or deny that",
+        "How Alternative Compensatory Control Measures, which sit below SAP thresholds and carry lighter reporting, are being used for UAP-adjacent activity",
+        "Whether the Director, DoD SAPCO's mandated records of DoD SAP information provided to Congress are themselves discoverable, and whether they show any UAP-related entries",
+        "How Department of Energy Restricted Data and Formerly Restricted Data authorities interact with, or supersede, the 10 U.S.C. 119 framework for recovered material"
+      ]
+    }
+  },
+  {
+    "id": "americans-for-safe-aerospace",
+    "entityDossier": {
+      "whatItIs": "Americans for Safe Aerospace (ASA) is a military pilot-led 501(c)(3) nonprofit founded in 2023 by Ryan Graves, a former U.S. Navy F/A-18F pilot from strike fighter squadron VFA-11. It operates a confidential intake channel through which military and commercial aircrew report UAP encounters, and it functions as the principal non-governmental witness pipeline into Congress. Headquartered at 1620 I St NW Suite 900, Washington, DC, it describes itself as the world's largest UAP advocacy community and reported more than 30,000 members as of 2026, up from roughly 4,000 at its founding.",
+      "whyImplicated": "ASA is the institution that solved the collection problem the government created. Because there is no protected, non-stigmatizing reporting route for commercial pilots, and because military witnesses face a confusing internal process, the observational data that would test the phenomenon has never been aggregated by the state. ASA aggregates it privately and then feeds it to Congress, which is why its founder's July 2023 testimony landed as the first public congressional hearing to take military pilot and whistleblower evidence. More importantly for a concealment map, ASA is where several people who were inside the classified system have landed: Jay Stratton, former Director of the UAP Task Force; Christopher Mellon, former Deputy Assistant Secretary of Defense for Intelligence; Rear Admiral Tim Gallaudet, former head of NOAA and Oceanographer of the Navy; and Kirk McConnell, former professional staff of the Senate Armed Services Committee. That roster means ASA holds institutional memory of both the task force that collected the data and the committee staff that wrote the oversight statutes. It is a private organization staffed with the government's own former custodians.",
+      "roles": ["disclosure", "research", "oversight"],
+      "narrative": "ASA's origin is a specific failure of the reporting system. Graves joined the Navy in 2009 and by 2014 was flying with VFA-11 near Virginia Beach when a radar upgrade began producing unknown tracks that were initially dismissed as software glitches and then corroborated on infrared, confirming their physical presence. The sightings became routine enough to appear in daily briefs. The pivotal event was in Warning Area W-72, an exclusive block of airspace ten miles east of Virginia Beach where all traffic enters through a single GPS point at a set altitude. As two jets crossed the threshold one hundred feet apart, one pilot saw a dark gray cube inside a clear sphere, motionless against the wind, fixed directly at the entry point. Both aircraft took evasive action and terminated the mission. The squadron filed a safety report. There was no official acknowledgement and no mechanism to report further sightings. Graves founded ASA to build the mechanism that did not exist.\n\nThe organization scaled faster than anyone planned. Its July 18, 2023 launch release for the UAP Witness Campaign stated that more than 30 commercial aircrew and military witnesses had already approached it and that ASA had more than 4,000 members. Eight days later, in written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Graves reported nearly 5,000 members and more than 30 UAP witnesses being actively worked. By 2026 the public membership figure is over 30,000. The witness profile is itself a finding: the majority are commercial pilots at major airlines, often veterans with decades of experience, and their reports frequently open with an apology, in Graves's phrasing, 'I apologize, I realize this will sound crazy.' They describe objects at altitudes apparently above 40,000 feet, potentially in low earth orbit or in the grey zone below the Karman line, executing right-hand turns, retrograde orbits and j-hooks, with recurring clusters north of Hawaii and in the North Atlantic. They are adamant these are not Starlink flares.\n\nASA's process is deliberately witness-controlled. A pilot or veteran contacts the organization confidentially with an outline, ASA conducts an interview, brings in an advisor with relevant expertise for evaluation, and only then, and only with the witness's explicit permission, are next steps taken, which can include meetings with congressional staff and Members or with AARO. Most witnesses do not want to speak publicly and fear professional consequences; they want their account added to the data set. That design is a direct response to the retaliation problem that runs through the whole file.\n\nThe advisory bench is what makes ASA structurally significant rather than merely large. Its pilots include David Fravor and Alex Dietrich, the first former Navy pilots to meet with Congress about their UAP encounter, plus Michael Greene and Sam Fletcher. Its national security advisors are Jay Stratton, former Director of the UAP Task Force, Christopher Mellon, Rear Admiral Tim Gallaudet, and Kirk McConnell, former professional staff on the Senate Armed Services Committee, which is the committee that wrote the AARO statutes and whose chair and ranking member sit inside the eight-member waived-SAP notification group. Its policy advisors include Susan McCue, former chief of staff to Senator Harry Reid, and Bryan Bender, former defense editor at Politico, plus Mike Gold of the NASA UAP Independent Study Team and David Radzanowski, former CFO and Chief of Staff at NASA. Its science bench includes Avi Loeb of Harvard, Garry Nolan of Stanford, Robin Hanson of George Mason and Ravi Starzl of Carnegie Mellon.\n\nThe single most operationally important thing ASA has put on the congressional record came through Gallaudet. Graves testified that while serving as an Admiral with Fleet Forces Command, Gallaudet received a classified SIPRNET email in 2015 from the Operations Commander to all one- and two-star subordinates, titled 'Urgent safety of flight issue', attaching the GO FAST video and raising concerns about multiple near mid-air collisions with UAP in the early warning area off Virginia Beach, with a note that the exercise might be shut down for safety reasons. Gallaudet reviewed it with his deputy. The next day the email was removed from both of their systems, and despite routine in-person meetings with that group, no one ever discussed it again. Gallaudet's stated presumption is that the removal was connected to a classified special access program. That is a flag officer, on the record through a congressional witness, describing the retroactive deletion of a safety-of-flight communication.\n\nGraves also entered two hard data points into the House record: that the UAP Task Force reported in 2021 there had been eleven near misses with UAP, citing the ODNI Preliminary Assessment of June 25, 2021, and that in April 2022 the FAA issued an alert to its operations managers that a commercial aircraft over West Virginia experienced a double attitude and double autopilot failure while flying under a UAP. He also flagged an unexplained reversal by AARO's director, who told Congress he operated only under Title 10 authority and needed Title 50 authorities and access to scientifically calibrated intelligence-community sensors, then indicated in his first public interview shortly before the hearing that he had what he needed.\n\nOn policy, ASA endorsed the Safe Airspace for Americans Act, H.R. 6967 in the 118th Congress, which would let civilian pilots report through NASA's Aviation Safety Reporting System with anti-retaliation protection and public release of all reports, a mechanism recommended by the NASA UAP Independent Study Team. ASA's July 2023 release also documents the organization's read of the UAP Disclosure Act of 2023, sponsored by Senators Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich, whose central mechanism was a nine-member civilian Review Board empowered to hold hearings, administer oaths, and subpoena UAP witnesses and documents.",
+      "claims": [
+        {
+          "text": "Americans for Safe Aerospace is a military pilot-led 501(c)(3) nonprofit founded by Ryan Graves, a former U.S. Navy lieutenant and F/A-18 pilot, headquartered at 1620 I St NW Suite 900, Washington, DC 20006; Graves is Founder and Executive Director.",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/"
+        },
+        {
+          "text": "As of 2026 ASA publicly reports more than 30,000 members and describes itself as 'the world's largest UAP advocacy community dedicated to pilot support, aerospace safety, data-driven research, and analysis of UAP.'",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/"
+        },
+        {
+          "text": "At launch of its UAP Witness Campaign on July 18, 2023, ASA stated that 'More than 30 commercial aircrew and military witnesses have already approached ASA to share their accounts' and that the organization had more than 4,000 members.",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023"
+        },
+        {
+          "text": "In written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs on July 26, 2023, Graves stated ASA had 'nearly 5,000 members' and was 'actively working with more than 30 UAP witnesses who have approached us.'",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "Graves testified that ASA advisor Rear Admiral Tim Gallaudet, former head of NOAA and Oceanographer of the Navy, received a classified SIPRNET email in 2015 while serving with Fleet Forces Command, titled 'Urgent safety of flight issue', attaching the GO FAST video and citing multiple near mid-air collisions with UAP off Virginia Beach; the email was removed from Gallaudet's system and his deputy's the next day and was never discussed, and Gallaudet 'presumes the email was removed in connection with a classified special access program.'",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "Graves testified to the W-72 incident: two F/A-18s entering Warning Area W-72 ten miles east of Virginia Beach through a single GPS entry point, one hundred feet apart, when a pilot saw 'a dark gray cube inside of a clear sphere, motionless against the wind, fixed directly at the entry point'; the jets took evasive action, terminated the mission, and the squadron's safety report received no official acknowledgement and no further reporting mechanism.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "Graves testified that the UAP Task Force reported in 2021 that there were 11 near misses with UAP, citing the ODNI Preliminary Assessment on UAP dated June 25, 2021.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf, citing https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf"
+        },
+        {
+          "text": "Graves testified that in April 2022 the FAA issued an alert to its operation managers that a commercial aircraft over West Virginia experienced a double attitude and double autopilot failure while flying under a UAP.",
+          "tier": 1,
+          "source": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+        },
+        {
+          "text": "ASA's national security advisory bench includes Jay Stratton (former Director, UAP Task Force), Christopher Mellon (former Deputy Assistant Secretary of Defense for Intelligence), Rear Admiral Tim Gallaudet (former head of NOAA), and Kirk McConnell (former professional staff, Senate Armed Services Committee).",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/"
+        },
+        {
+          "text": "ASA's aircrew leadership includes David Fravor and Alex Dietrich, the first former Navy pilots to meet with Congress about their UAP encounter, plus Michael Greene (former U.S. Marines F/A-18 weapons system officer) and Sam Fletcher (former U.S. Navy F/A-18 weapons system officer).",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/ and https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023"
+        },
+        {
+          "text": "ASA's policy and science advisors include Susan McCue (former chief of staff to Senator Harry Reid), Bryan Bender (former defense editor, Politico), Mike Gold (former NASA UAP Independent Study Team member), David Radzanowski (former CFO and Chief of Staff, NASA), Avi Loeb (Harvard), Garry Nolan (Stanford), Robin Hanson (George Mason) and Ravi Starzl (Carnegie Mellon).",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/"
+        },
+        {
+          "text": "ASA's witness process is witness-controlled: confidential outline, ASA interview, evaluation with a subject-matter advisor, then referral to congressional staff, Members, or AARO 'only at the explicit permission and willingness of the UAP witness.'",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023"
+        },
+        {
+          "text": "ASA endorsed the Safe Airspace for Americans Act, H.R. 6967 (118th Congress), which would allow civilian pilots to report UAP through NASA's Aviation Safety Reporting System, provide protection against retaliation, and make all UAP reports publicly available; the mechanism was recommended by the NASA UAP Independent Study Team.",
+          "tier": 1,
+          "source": "https://www.safeaerospace.org/ (bill text at https://www.congress.gov/bill/118th-congress/house-bill/6967/text)"
+        },
+        {
+          "text": "ASA documented that the UAP Disclosure Act of 2023 was proposed by Senators Schumer, Rounds, Rubio, Gillibrand, Young and Heinrich, and that its key mechanism was a nine-member civilian Review Board empowered to 'hold hearings, administer oaths, and subpoena [UAP] witnesses and documents' in connection with declassifying UAP documents for public distribution.",
+          "tier": 2,
+          "source": "https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023"
+        }
+      ],
+      "denialPosture": "ASA does not deny; it documents. Its posture toward the government's own position is captured in Graves's testimony noting that AARO director Sean Kirkpatrick told Congress he operated only under Title 10 authority and needed Title 50 authorities and access to scientifically calibrated intelligence-community sensors, then indicated in his first public interview a week before the hearing that he had what he needed, a reversal Graves flagged on the record as unexplained.",
+      "connections": [
+        "Ryan Graves, VFA-11, is the bridge between the W-72 encounters off Virginia Beach and the July 26, 2023 House Oversight hearing",
+        "Rear Admiral Tim Gallaudet supplies the 2015 SIPRNET email-deletion account tying UAP data suppression to a presumed classified special access program",
+        "Jay Stratton connects ASA directly to the UAP Task Force, the predecessor body AARO was required to absorb under 50 U.S.C. 3373(m)",
+        "Kirk McConnell connects ASA to Senate Armed Services Committee professional staff, the body that drafted the AARO statutes",
+        "Susan McCue connects ASA to Senator Harry Reid's office, the origin of the AAWSAP funding line",
+        "David Fravor and Alex Dietrich connect ASA to the 2004 Nimitz Tic Tac encounters",
+        "AARO is ASA's designated referral destination for consenting witnesses, making ASA a de facto private front end to a federal office",
+        "The Safe Airspace for Americans Act (H.R. 6967) links ASA to the House Oversight National Security Subcommittee leadership and to NASA's Aviation Safety Reporting System",
+        "Christopher Mellon links ASA to the 2017 public disclosure chain and to the Office of the Deputy Assistant Secretary of Defense for Intelligence"
+      ],
+      "openQuestions": [
+        "How many of ASA's accumulated witness reports have actually been transmitted to AARO, and what AARO did with them",
+        "Whether ASA's raw report corpus is preserved, structured, and available to any independent analytic body",
+        "Whether any ASA witness has faced documented retaliation after referral",
+        "The current disposition of the April 2022 FAA West Virginia double-failure alert, which has not been publicly produced in full",
+        "Whether ASA advisors who held clearances are constrained by nondisclosure obligations that the July 2026 presidential UAP NDA directive may now have waived",
+        "Whether ASA's 30,000-plus membership figure reflects verified aviation professionals or general public sign-ups; the site does not disaggregate"
+      ]
+    }
+  },
+  {
+    "id": "senate-armed-services",
+    "entityDossier": {
+      "whatItIs": "The Committee on Armed Services of the United States Senate, one of the four congressional defense committees named in 10 U.S.C. 119(g), and therefore one of the bodies whose chairman and ranking minority member sit inside the eight-member group that may be advised of a waived special access program. SASC is also the drafting venue for the annual National Defense Authorization Act provisions that created the All-domain Anomaly Resolution Office, defined unidentified anomalous phenomena in statute, and progressively tightened the reporting obligations attached to them.",
+      "whyImplicated": "SASC occupies the structural pinch point: it is simultaneously the committee that is supposed to receive notification of the most closely held programs and the committee that keeps writing new statutes because it apparently is not receiving it. The language it has enacted is an admission. 50 U.S.C. 3373(j) requires AARO's historical record report to itemize any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress, and any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about UAP. Congress does not write that sentence about a subject on which it believes it has been told the truth. Subsection (l)(4) goes further, requiring the AARO Director to hand the SASC and SSCI chair and ranking member an enumeration of every instance in which UAP data was withheld from AARO because of classification restrictions or for any other reason, which is a statutory acknowledgment that data is being withheld from the office created to collect it. And in December 2025 Congress had to amend the statute again to extend the immediate data-availability requirement beyond intelligence community elements to Department of Defense components, meaning that for three years the mandate did not reach the department that owns the special access program system.",
+      "roles": ["oversight", "funding", "concealment", "disclosure"],
+      "narrative": "Follow the statutory ratchet, because it is a record of what did not work.\n\nIn December 2021, section 1683 of the FY2022 NDAA, Public Law 117-81, 135 Stat. 2118, created the office structure and authorities to address what were then called unidentified aerial phenomena. Twelve months later, in December 2022, Public Law 117-263 rewrote the section twice over: section 1673(c) of the NDAA substituted anomalous for aerial throughout and added congressional leadership to the notification list, while section 6802(a) of the Intelligence Authorization Act amended the section generally, standing up the All-domain Anomaly Resolution Office proper. The Senate-side drive came from SASC members, principally Senator Kirsten Gillibrand working with Senator Marco Rubio.\n\nWhat the rewritten section actually demands is the interesting part. AARO's duties include developing procedures to synchronize and standardize the collection, reporting and analysis of UAP incidents, including adverse physiological effects, across the entire Department of Defense and intelligence community. The Secretary of Defense and the Director of National Intelligence must jointly designate an official responsible for ensuring the expertise, authorities, accesses, data, systems, platforms and capabilities exist for rapid response to and support for field investigations, and must designate one or more line organizations primarily responsible for scientific, technical and operational analysis of data, including with respect to the testing of materials, medical studies, and development of theoretical models. Congress wrote materials testing and medical studies into the statute. It also required that each designated line organization have authority to draw on the special expertise of persons outside the federal government with appropriate security clearances, and it listed the Department of Energy among the elements that may detail personnel to be physically located at the office.\n\nThe historical record report in subsection (j) is the closest thing to a congressional charge sheet in U.S. law. It requires a written report to the defense committees, the intelligence committees and congressional leadership covering the period beginning January 1, 1945, compiling the key historical record of intelligence community involvement with UAP, and specifically itemizing three things: any restricted-access program or activity not explicitly and clearly reported to Congress; successful or unsuccessful efforts to identify and track UAP; and any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect information, classified or unclassified. The Archivist of the United States is directed to make NARA holdings, including classified holdings, available to AARO for that purpose. Congress then attached an auditor: section 6803 of Public Law 117-263 required the Comptroller General to identify cleared GAO personnel to audit the historical record report process, to conduct work on site as appropriate, and to brief the intelligence committees, the defense committees and congressional leadership semiannually on AARO's progress and its compliance with legislative requirements. That requirement was extended by Public Law 118-159 section 6802 in December 2024.\n\nThe FY2024 NDAA added the money lever. Section 1687(b) of Public Law 118-31 made independent research and development funding relating to UAP unallowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, both intelligence committees, and the majority and minority leaders of the Senate and the Speaker and minority leader of the House. This is the appropriations-side answer to the classification-side problem, and its existence implies a belief that contractors were recovering UAP-related costs through overhead.\n\nThe FY2026 NDAA, Public Law 119-60, enacted December 18, 2025, shows what still was not working. Section 1671 added a new subsection (l)(5) requiring every semiannual briefing to include details on any UAP intercepts conducted by the North American Aerospace Defense Command or United States Northern Command, including the number, location and nature of the intercepts and a description of the procedures and protocols followed, including any data collected or analyzed during such intercepts, and requiring the AARO Director to inform Congress of any failure by NORAD or NORTHCOM to provide timely information. Section 1671(b) reached backward, requiring the first briefing after enactment to cover intercepts not previously reported going back to January 1, 2004. Section 1673(a) gave the AARO Director 180 days to produce an accounting of the security classification guides that apply to information used for UAP reports and investigations, with discretionary authority to issue a consolidated security classification matrix. Section 1672(b) rewrote the data-availability clause so that the immediate-production requirement now binds each element of the intelligence community and component of the Department of Defense with UAP data, where the prior text bound only intelligence community elements.\n\nThat last amendment is the single most damning line in the sequence. From December 2022 to December 2025, the statutory command to hand UAP data over immediately did not reach Department of Defense components as such. The department that operates the special access program system, that houses DoD SAPCO, and that owns the classification guides sat outside the mandate for three years, and it took an act of Congress in December 2025 to close it.\n\nWhat SASC has not delivered is the enforcement architecture. The UAP Disclosure Act, offered by Senators Chuck Schumer and Mike Rounds as an NDAA amendment and modeled on the JFK Assassination Records Collection Act, would have created a nine-member presidentially appointed civilian Review Board with subpoena power and would have asserted federal eminent domain over recovered technologies of unknown origin held by private entities. The Review Board and the eminent domain provision were stripped in conference in FY2024, and the Act was excluded again from the FY2026 NDAA. What survived was a records collection with no independent adjudicator. The one provision that would have reached into contractor custody, eminent domain over recovered technologies of unknown origin, is the one that has never made it into law.",
+      "claims": [
+        {
+          "text": "10 U.S.C. 119(g)(1) names the Committee on Armed Services of the Senate as one of the 'defense committees' entitled to special access program notification, making its chairman and ranking minority member two of the eight members who may be advised of a waived SAP under section 119(e)(2).",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title10-section119&num=0&edition=prelim"
+        },
+        {
+          "text": "The statutory basis for AARO originates in section 1683 of the FY2022 NDAA, Public Law 117-81, division A, title XVI, December 27, 2021, 135 Stat. 2118, and was amended generally by Public Law 117-263 section 1673(c) and Intelligence Authorization Act section 6802(a) on December 23, 2022.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (source credit line, 50 U.S.C. 3373)"
+        },
+        {
+          "text": "50 U.S.C. 3373(j)(1)(B)(ii)(I) requires AARO's historical record report to include 'any program or activity that was protected by restricted access that has not been explicitly and clearly reported to Congress.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "50 U.S.C. 3373(j)(1)(B)(ii)(III) requires the report to include 'any efforts to obfuscate, manipulate public opinion, hide, or otherwise provide incorrect unclassified or classified information about unidentified anomalous phenomena or related activities.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "50 U.S.C. 3373(l)(4) requires the AARO Director to provide to the chair and ranking member of the Senate and House Armed Services Committees and the congressional intelligence committees 'an enumeration of any instances in which data relating to unidentified anomalous phenomena was not provided to the Office because of classification restrictions on that data or for any other reason.'",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "Section 1672(b) of the FY2026 NDAA, Public Law 119-60 (December 18, 2025, 139 Stat. 1202), amended 50 U.S.C. 3373(f)(1)(A) to require that 'each element of the intelligence community and component of the Department of Defense' with UAP data make it immediately available to AARO; the prior text bound only intelligence community elements.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (Amendments note, 2025)"
+        },
+        {
+          "text": "Section 1671(a) of Public Law 119-60 added 50 U.S.C. 3373(l)(5), requiring each semiannual briefing to detail any UAP intercepts conducted by NORAD or U.S. Northern Command, including 'the number, location, and nature of such intercepts' and 'a description of the procedures and protocols followed during the intercepts, including any data collected or analyzed during such intercepts', and requiring notice to Congress of any failure by NORAD or NORTHCOM to provide timely information.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "Section 1671(b) of Public Law 119-60 requires the first post-enactment briefing to include previously unreported NORAD and NORTHCOM UAP intercepts occurring from January 1, 2004 onward.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 ('First Briefing' statutory note)"
+        },
+        {
+          "text": "Section 1673(a) of Public Law 119-60 requires the AARO Director, within 180 days of December 18, 2025, to make an accounting of security classification guides that apply to information used for UAP reports and investigations, and permits issuance of a consolidated security classification matrix for UAP-related programs.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 ('Accounting of Security Classification Guides' note)"
+        },
+        {
+          "text": "50 U.S.C. 3373(e) requires designation of one or more line organizations primarily responsible for scientific, technical and operational analysis of UAP data 'including with respect to the testing of materials, medical studies, and development of theoretical models', and requires that each such organization have authority to draw on the special expertise of persons outside the federal government with appropriate security clearances.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "50 U.S.C. 3373(i) lists the Department of Energy among the elements that may provide detailees to be physically located at AARO, alongside CIA, DIA, NSA, NGA, the service intelligence elements and DHS.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "Section 6803 of Public Law 117-263 required the Comptroller General to identify cleared GAO personnel to audit the AARO historical record report process, including on-site work, and to brief the intelligence committees, defense committees and congressional leadership semiannually on AARO's progress and compliance with legislative requirements; the requirement was extended by Public Law 118-159 section 6802 (December 23, 2024).",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29 (Comptroller General audit note)"
+        },
+        {
+          "text": "Section 1687(b) of the FY2024 NDAA, Public Law 118-31 (137 Stat. 621), bars UAP-related independent research and development funding from being allowable as an indirect expense on contracts covered by DoD Instruction 3204.01 unless the material is made available to the congressional defense committees, HPSCI, SSCI and the four congressional leaders.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=%28title%3A50+section%3A3373+edition%3Aprelim%29"
+        },
+        {
+          "text": "The UAP Disclosure Act, offered by Senators Chuck Schumer and Mike Rounds as an amendment to the FY2024 NDAA and modeled on the JFK Assassination Records Collection Act, would have created a nine-member civilian Review Board empowered to hold hearings, administer oaths and subpoena witnesses and documents, and would have asserted eminent domain over recovered technologies of unknown origin held by private entities; the Review Board and eminent domain provisions were stripped in conference and the Act was again excluded from the FY2026 NDAA.",
+          "tier": 2,
+          "source": "https://www.thedisclosureera.com/articles/uap-disclosure-act-stalls-again-uapda-excluded-from-fy2026-defense-bill; sponsor list and Review Board powers corroborated at https://www.safeaerospace.org/press-releases/uap-witness-campaign-2023"
+        }
+      ],
+      "denialPosture": "SASC issues no denials of its own; it is the body to which denials are owed. The relevant posture is the executive branch's, restated through 2026, that government officials have not uncovered evidence verifying any UAP case involving extraterrestrial activity or technology. That position is worth dating against the committee's own enacted text, which since December 2022 has required a formal itemization of restricted-access programs never reported to Congress and of efforts to hide or provide incorrect information about UAP.",
+      "connections": [
+        "10 U.S.C. 119(e) and (g) make the SASC chair and ranking member two of the eight members who may be advised of a waived SAP; the House Armed Services Committee and both Appropriations Committees supply the other six",
+        "Senators Kirsten Gillibrand and Marco Rubio drove the FY2023 rewrite that created AARO in statute; Senators Chuck Schumer and Mike Rounds sponsored the UAP Disclosure Act",
+        "50 U.S.C. 3373(i) links SASC's statute directly to the Department of Energy, which UAP Gerb's research identifies as the alternative custody chain via NEST and the Atomic Energy Act of 1954",
+        "50 U.S.C. 3373(e) links the statute to materials testing and medical studies, connecting to the AARO to Oak Ridge to UT-Battelle analysis chain alleged in 2026 reporting",
+        "Section 1687(b) links SASC to DoD Instruction 3204.01 and to contractor independent research and development accounting",
+        "The Comptroller General audit requirement links SASC to GAO as an independent verifier of AARO's historical record report",
+        "Kirk McConnell links former SASC professional staff to Americans for Safe Aerospace and Ryan Graves",
+        "NARA's UAP Records Collection under FY2024 NDAA sections 1841-1843 is the conference product that survived after the Review Board and eminent domain provisions were removed"
+      ],
+      "openQuestions": [
+        "Has any SASC chair or ranking member ever received a waived-SAP notification touching UAP, and is there any record of it in the DoD SAPCO congressional-disclosure logs required by DoDD 5205.07?",
+        "What did the subsection (l)(4) enumerations of withheld data actually contain, and how many instances have been reported to date?",
+        "Why did the immediate data-availability mandate exclude Department of Defense components from December 2022 until December 2025, and who benefited from that gap?",
+        "Whether AARO's historical record report, covering January 1, 1945 forward, has itemized any restricted-access program not previously reported to Congress",
+        "What GAO's semiannual audit briefings on AARO's compliance have found, and whether any unclassified version exists",
+        "Why the eminent domain provision over recovered technologies of unknown origin has been removed from every enacted NDAA since 2023, and at whose insistence",
+        "Whether the section 1673(a) accounting of UAP security classification guides was delivered within the 180-day deadline in June 2026"
+      ]
+    }
+  }
+]

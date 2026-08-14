@@ -244,3 +244,66 @@ the browser.
 3. The stats strip still reads CONFIDENCE KEY where the handoff calls for the
    claim-tier key.
 4. D4 marks and colours still need sign-off; D2 is still a rule bent.
+
+---
+
+# Stage 3 — all 96 L0 nodes have a dossier, 14 August 2026
+
+Twelve research agents in two waves covered the remaining 71 nodes.
+
+```
+L0 nodes            96
+with a dossier      96      (was 25)
+dossier claims   1,361      Tier 1 968 · Tier 2 344 · Tier 3 49
+claims with no source  0
+```
+
+Every claim carries a tier and a source, and `verify.py` now asserts both. Two new
+checks, both self-tested: `every L0 node carries an entity dossier` and `every
+dossier claim is tiered and sourced`. `GOLDEN.json` gains `l0_with_dossier` and
+`l0_dossier_claims`, because coverage moving is either research landing or a
+regression and the two look identical in a diff.
+
+A `connections` field was added to the schema for this wave and is rendered in the
+dock. It is written for the downstream analyst agent rather than a human reader:
+plain-language notes naming who links to whom, so a later pass can find joins the
+research never made explicit. 71 of 96 carry it; the first 25 predate the field.
+
+## The tiering held up under scale
+
+`manhattan-project-2` renders with **zero Tier 1 claims and two Tier 3**. That is
+the system working: the label has no primary document behind it, and the agent
+tiered it as an allegation with named proponents rather than dressing it up.
+Likewise `stringfield-status-reports` has no Tier 1 at all and its substantive
+abstracts were pushed to `openQuestions` by design, and `gerb-mitre-investigation`
+carries the batch's only Tier 3 weight because Gerb's identity is unknown.
+
+## Corrections the research surfaced, for the next wave
+
+1. **`iaa-fy2024-sec-1102` is misnumbered on the board.** In S.2103 as reported
+   22 Jun 2023 the contractor turn-in provision is **Sec. 1104**; Sec. 1102 is an
+   unrelated defense-sensitive-support provision. The enacted text is **Sec. 7343 of
+   Division G, P.L. 118-31**. The node id and label should be corrected.
+2. **The AARO FY2025 report contradicts itself.** §IV.C says 44 satellite-flaring
+   resolutions; §VI and the executive summary say 238. Worth a claim of its own.
+3. **Loeb's first UAPSAC post is 13 June 2026, not 29 June.** 29 June is the second.
+4. **10 U.S.C. 119(a)-(b) annual SAP reporting terminated 31 Dec 2021** (Pub. L.
+   114-328 §1061). Several board claims state the duty in the present tense.
+5. **AARO Historical Record Report Volume I contains zero occurrences of "Wilson."**
+   It disposes of the reverse-engineering allegations as "circular reporting"
+   without engaging the document sitting in a congressional hearing file.
+
+## Recurring research obstacles, so the next wave does not rediscover them
+
+`congress.gov`, `nytimes.com` and `web.archive.org` will not fetch. Full NDAA text
+truncates on every attempt. Several agents exhausted a 200-search budget mid-task;
+raise `CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` before the next wave. Sibling
+agents in the same session deduplicate identical fetches, so two agents needing the
+same PDF will find the second request blocked.
+
+## Still open
+
+1. The 874 non-L0 nodes have no entity dossier. The register is total and they are
+   all reachable, but the analyst layer stops at the map.
+2. Corrections 1 through 5 above are logged, not applied.
+3. Stats strip still reads CONFIDENCE KEY; D4 and D2 still need sign-off.

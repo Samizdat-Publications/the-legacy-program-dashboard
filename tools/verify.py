@@ -362,6 +362,39 @@ def _l0_via(b, html):
                                f"empty label")
     return bad[:8]
 
+
+@check("every L0 node carries an entity dossier")
+def _l0_dossier_cover(b, html):
+    d = _l0(html)
+    if d is None:
+        return ["the built file carries no L0 model"]
+    # The dossier is the ARGUMENT for why a node is on this map, and on this board
+    # the argument is the product. A node with a member list and no argument sends
+    # the reader into individual dossiers to reconstruct it themselves.
+    missing = [n["id"] for n in d["l0"] if not (n.get("dossier") or {}).get("narrative")]
+    if missing:
+        return [f"{len(missing)} L0 node(s) have no entity dossier: {missing[:6]}"]
+    return []
+
+
+@check("every dossier claim is tiered and sourced")
+def _l0_dossier_claims(b, html):
+    d = _l0(html)
+    if d is None:
+        return ["the built file carries no L0 model"]
+    bad = []
+    for n in d["l0"]:
+        for i, c in enumerate((n.get("dossier") or {}).get("claims", [])):
+            if c.get("tier") not in (1, 2, 3):
+                bad.append(f"{n['id']} claim {i} has tier {c.get('tier')!r}; "
+                           f"an untiered claim is an unmarked assertion")
+            if not str(c.get("source") or "").strip():
+                bad.append(f"{n['id']} claim {i} has no source. This is the one "
+                           f"rule that never bends.")
+            if not str(c.get("text") or "").strip():
+                bad.append(f"{n['id']} claim {i} has no text")
+    return bad[:8]
+
 # ---------------------------------------------------------------------------
 # golden counts — drift detection. Not correctness; a tripwire that turns a
 # silent change into a deliberate one. `--update-golden` is the only way past it.
@@ -377,7 +410,9 @@ def _l0_golden():
     c = json.load(open(path, encoding="utf-8"))["counts"]
     return {"l0_nodes": c["l0"], "l0_edges_direct": c["directEdges"],
             "l0_edges_summarised": c["summarisedEdges"], "ledger": c["ledger"],
-            "path_only": c["pathOnly"], "unattached": c["unattached"]}
+            "path_only": c["pathOnly"], "unattached": c["unattached"],
+            "l0_with_dossier": c.get("withDossier", 0),
+            "l0_dossier_claims": c.get("dossierClaims", 0)}
 
 
 def measure(b):
@@ -504,7 +539,9 @@ def self_test():
         m = {"config": {"sharedMemberGate": 2},
              "counts": {"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0,
                         "unattached": 6},
-             "l0": [{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}],
+             "l0": [{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
+                     "dossier": {"narrative": "why e0 is on the map",
+                                 "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}],
              "directEdges": [], "summarised": [], "pathOnly": [],
              "unattached": [{"id": "e%d" % i, "deg": 0} for i in range(1, 7)],
              "nodes": {"a-b": ["Ann Bee", "person", 1, "A"],
@@ -541,7 +578,18 @@ def self_test():
         "summarised edge tier is the strongest of its underlying links": l0board,
         "the shared-member gate holds and only hand-written edges are summarised": l0board,
     })
+    _l0_dosn = {"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
+                "dossier": {"narrative": "why e0 is on the map",
+                            "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
     poison_html.update({
+        # a node on the map with no argument for why it is there
+        "every L0 node carries an entity dossier":
+            wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),
+        # an unsourced claim, which is the one rule that never bends
+        "every dossier claim is tiered and sourced":
+            wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
+                         "dossier": {"narrative": "n",
+                                     "claims": [{"text": "x", "tier": 1, "source": ""}]}}])),
         # registers that do not sum to the board
         "register partition is total":
             wrap(L0(counts={"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0, "unattached": 5})),
