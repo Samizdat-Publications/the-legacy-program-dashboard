@@ -19,6 +19,7 @@ Sections:
 """
 
 import json, os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -1601,6 +1602,21 @@ def main():
                 "           get alpha() { return alpha; }, set alpha(v) { alpha = v; } };",
                 "sim alpha setter", 1)
             ok_all &= ok
+
+    # ---- 5. the L0 program map --------------------------------------------
+    # The rest state of the NETWORK view. Lives in its own module because it has no
+    # upstream equivalent to patch against -- see tools/l0_patches.py. The model and
+    # its layout are baked by tools/build_l0.py, which must run first.
+    import l0_patches
+    l0_path = os.path.join(ROOT, "data", "l0-model.json")
+    if not os.path.exists(l0_path):
+        print("  !! data/l0-model.json missing -- run tools/build_l0.py first",
+              file=sys.stderr)
+        ok_all = False
+    else:
+        l0_model = json.load(open(l0_path, encoding="utf-8"))
+        s, ok = l0_patches.apply(s, l0_model, must_replace)
+        ok_all &= ok
 
     # ---- branding ---------------------------------------------------------
     for old, new, label, cnt in [
