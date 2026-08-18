@@ -307,3 +307,85 @@ same PDF will find the second request blocked.
    all reachable, but the analyst layer stops at the map.
 2. Corrections 1 through 5 above are logged, not applied.
 3. Stats strip still reads CONFIDENCE KEY; D4 and D2 still need sign-off.
+
+---
+
+# Stage 4 — the analyst layer and the unattached wave, 14 August 2026
+
+## The next wave was the wrong job, and measuring said so
+
+The plan was entity dossiers for the 874 non-L0 nodes. Measuring first killed it:
+those nodes are not empty. Median narrative runs 113-213 words by class, **zero are
+empty**, and only 26 are thin — of which 24 are bare city locations at degree zero,
+where the work is wiring them, not describing them. Writing 874 dossiers would have
+been an expensive restatement of prose already on the board.
+
+## What was actually missing: the connection layer
+
+Every node now carries an explicit connection list **projected** from the board's own
+hand-written edges: neighbour, class, type, tier, direction, plus the `why` and
+`note` the researcher already wrote. 1,771 of 1,786 edges carried a label and 1,712 a
+note, so this is a reformatting of sourced research into a shape an agent can
+traverse. Nothing is generated, and a new self-tested check rejects any row without a
+hand-written edge behind it — a generated connection on this board would be a
+fabricated claim.
+
+The dock renders it for **any** selected node, not just the ones on the map, and each
+row clicks through.
+
+## The unattached wave
+
+Four agents were sent at the 90 degree-zero nodes with a simple brief: wire them with
+sourced edges, or say honestly that no connection exists.
+
+```
+                before   after
+unattached        113      64
+ledger            706     755
+path only          55      54
+hand-written edges 1786   1893      (+107)
+summarised edges    76      86
+L0 nodes            96      97
+```
+
+**49 nodes came off the unattached register.** Three were judged unwireable and said
+so: `izmiran` (its SETKA-AN role is attested but no source connects it to any node on
+this board), `peru-uap-office` (AARO's own foreign-engagement section documents
+London and Uruguay, not Peru), and `soyuzufotsentr` (the obvious KLAS-TV link is
+actively contradicted — Knapp's documents came from the MoD via Col. Boris Sokolov,
+not the KGB "Blue Folder"). Those three refusals are worth more than three invented
+edges.
+
+**31 locations are recommended for removal** as incidental biography — congressional
+home towns and researcher home bases that fail the test "does something that matters
+to this subject demonstrably happen here". Not actioned; it is a deletion and Stewart
+should approve it. Seven more (`l-aztec`, `l-france`, `l-paris`, `l-brazil`,
+`l-brasilia`, `l-santiago`, `l-moscow`) are recommended for KEEPING but stay unwired
+because the partner nodes they need (aztec-1948, geipan, cometa, cefaa, setka) do not
+exist on the board yet. That is a research finding: the board has no European or
+South American UAP-office nodes.
+
+`langley-2023-incursions` crossed the floor onto the map as a result of the wiring
+and was given a dossier immediately, because the coverage check failed the build and
+would not let it ship otherwise. That is the gate doing exactly what it is for.
+
+## Corrections and cautions the wave produced
+
+- **`iaa-fy2024-sec-1102` is misnumbered**, now confirmed twice independently. The
+  contractor turn-in provision is Sec. 1104 of S.2103 as reported; the enacted text is
+  Sec. 7343 of Division G, P.L. 118-31.
+- **Gen. Mark Kelly (ACC commander, the Langley eyewitness) is not Sen. Mark Kelly
+  (D-AZ).** Secondary coverage conflates them.
+- The AARO "has not yet received a report" statement on Langley is the most
+  load-bearing concealment artifact in that dossier and the weakest-sourced. It needs
+  a FOIA.
+- `steve-feinberg` has **no** sourced UAP or AARO role: his SASC advance policy
+  questions and nomination transcript contain zero hits. He is wired only as Deputy
+  Secretary of Defense, and that absence is itself worth noting.
+
+## Still open
+
+1. The 31 recommended location deletions need a decision.
+2. Five European and South American UAP-office nodes do not exist and should.
+3. 64 nodes remain unattached, 3 of them demonstrably unwireable.
+4. Corrections logged in Stage 3 remain unapplied.

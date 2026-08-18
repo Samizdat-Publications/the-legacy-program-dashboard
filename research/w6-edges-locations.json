@@ -1,0 +1,394 @@
+{
+  "edges": [
+    {
+      "a": "l-langley-afb",
+      "b": "langley-2023-incursions",
+      "type": "geographic",
+      "label": "site of the December 2023 incursions",
+      "claimTier": 1,
+      "dateStart": "2023-12-06",
+      "dateEnd": null,
+      "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+      "sources": [
+        "https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks",
+        "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+      ]
+    },
+    {
+      "a": "l-langley-afb",
+      "b": "dod",
+      "type": "geographic",
+      "label": "DoD installation; NORAD/USNORTHCOM response",
+      "claimTier": 1,
+      "dateStart": "2023-12-06",
+      "dateEnd": null,
+      "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+      "sources": [
+        "https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions"
+      ]
+    },
+    {
+      "a": "l-mclean",
+      "b": "mitre-corporation",
+      "type": "geographic",
+      "label": "MITRE McLean headquarters campus",
+      "claimTier": 1,
+      "dateStart": "1963-01-01",
+      "dateEnd": null,
+      "note": "MITRE holds dual headquarters in Bedford, Massachusetts and McLean, Virginia; the McLean office was established in 1963 and is where the defence and intelligence FFRDC customer relationships sit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mitre_Corporation",
+        "https://www.mitre.org/locations"
+      ]
+    },
+    {
+      "a": "l-mclean",
+      "b": "cia",
+      "type": "geographic",
+      "label": "CIA headquarters at Langley, within McLean",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The CIA's George Bush Center for Intelligence stands in the Langley neighbourhood of McLean, Fairfax County, Virginia. Note this is a different Langley from Langley Air Force Base, which is at Hampton, Virginia.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Central_Intelligence_Agency"
+      ]
+    },
+    {
+      "a": "l-mclean",
+      "b": "odni",
+      "type": "geographic",
+      "label": "ODNI headquarters at Liberty Crossing",
+      "claimTier": 1,
+      "dateStart": "2008-01-01",
+      "dateEnd": null,
+      "note": "The Director of National Intelligence has been headquartered at the Liberty Crossing complex in McLean, Virginia since 2008, alongside the National Counterterrorism Center.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Counterterrorism_Center"
+      ]
+    },
+    {
+      "a": "l-bedford-ma",
+      "b": "mitre-corporation",
+      "type": "geographic",
+      "label": "MITRE founding site and original headquarters",
+      "claimTier": 1,
+      "dateStart": "1958-07-01",
+      "dateEnd": null,
+      "note": "MITRE was founded at Bedford, Massachusetts in 1958 as a spin-off from MIT Lincoln Laboratory, adjacent to Hanscom Air Force Base, and Bedford remains one of its two headquarters.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mitre_Corporation",
+        "https://clui.org/ludb/site/mitre-corporation-bedford-headquarters"
+      ]
+    },
+    {
+      "a": "l-columbus-oh",
+      "b": "battelle",
+      "type": "geographic",
+      "label": "Battelle Memorial Institute headquarters",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Battelle Memorial Institute is headquartered in Columbus, Ohio, roughly sixty-five miles from Wright-Patterson Air Force Base at Dayton, which is the geographic fact underlying its Air Force analytical work in the 1940s and 1950s.",
+      "sources": [
+        "https://cufos.org/resources/project-blue-book/"
+      ]
+    },
+    {
+      "a": "l-columbus-oh",
+      "b": "project-blue-book",
+      "type": "geographic",
+      "label": "Project Stork / Blue Book Special Report No. 14 produced here",
+      "claimTier": 1,
+      "dateStart": "1952-01-01",
+      "dateEnd": null,
+      "note": "In 1952 Project Blue Book contracted the Battelle Memorial Institute of Columbus, Ohio to carry out the statistical study of 1947-1952 sighting reports that became Project Blue Book Special Report No. 14, dated 5 May 1955; the Battelle group was associated with Project Stork.",
+      "sources": [
+        "https://archive.org/details/ProjectBlueBookSpecialReport14",
+        "https://cufos.org/resources/project-blue-book/",
+        "https://www.isaackoi.com/ufo/19550505-bluebook-special-report-14.html"
+      ]
+    },
+    {
+      "a": "l-santa-monica",
+      "b": "rand-corporation",
+      "type": "geographic",
+      "label": "RAND headquarters since its 1948 formation",
+      "claimTier": 1,
+      "dateStart": "1948-05-14",
+      "dateEnd": null,
+      "note": "RAND was formed on 14 May 1948 and is headquartered at 1776 Main Street, Santa Monica, California, where it operates three of its four FFRDCs. This is where the contractor-operated analytical institution was invented.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/RAND_Corporation",
+        "https://www.rand.org/about.html"
+      ]
+    },
+    {
+      "a": "l-san-agustin",
+      "b": "roswell-1947",
+      "type": "geographic",
+      "label": "alleged second recovery site (Barnett account)",
+      "claimTier": 3,
+      "dateStart": "1947-07-01",
+      "dateEnd": null,
+      "note": "The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand via Vern and Jean Maltais to Stanton Friedman in October 1978 and published in Berlitz and Moore's 'The Roswell Incident' (1980). The claim is contested by Kevin Randle, who argues the site has no connection to Roswell, and no primary document supports it.",
+      "sources": [
+        "https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin.html",
+        "https://ufologie.patrickgross.org/rw/w/fleckdanley.htm"
+      ]
+    },
+    {
+      "a": "l-uk-mod-whitehall",
+      "b": "doc-condign-report",
+      "type": "geographic",
+      "label": "Condign report held at MoD Main Building",
+      "claimTier": 1,
+      "dateStart": "1997-01-01",
+      "dateEnd": null,
+      "note": "Project Condign was run by the Defence Intelligence Staff branch DI55 between 1997 and 2000; the resulting three-volume, 463-page report 'Unidentified Aerial Phenomena in the UK Air Defence Region' was held at the Ministry of Defence Main Building in Whitehall.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Project_Condign",
+        "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt"
+      ]
+    },
+    {
+      "a": "l-uk-mod-whitehall",
+      "b": "rendlesham-1980",
+      "type": "geographic",
+      "label": "MoD UFO desk held and released the Rendlesham file",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The MoD's UFO desk, run by the Directorate of Air Staff until its closure in 2009, held the Rendlesham Forest file; the complete file was released via The National Archives in August 2009 and includes Lt Col Charles Halt's account and the MoD's own investigation conclusions.",
+      "sources": [
+        "https://www.nbcnews.com/id/wbna32451823",
+        "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+      ]
+    },
+    {
+      "a": "l-uk",
+      "b": "rendlesham-1980",
+      "type": "geographic",
+      "label": "incident location: Rendlesham Forest, Suffolk",
+      "claimTier": 1,
+      "dateStart": "1980-12-26",
+      "dateEnd": null,
+      "note": "The December 1980 reports were made by USAF personnel stationed at RAF Woodbridge and RAF Bentwaters in Suffolk, England. That the reports were made at this location is documented in the MoD file; the nature of what was seen remains unresolved.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+        "https://www.nbcnews.com/id/wbna32451823"
+      ]
+    },
+    {
+      "a": "l-uk",
+      "b": "doc-condign-report",
+      "type": "geographic",
+      "label": "UK-commissioned study of its own air defence region",
+      "claimTier": 1,
+      "dateStart": "1997-01-01",
+      "dateEnd": null,
+      "note": "Condign drew on approximately 10,000 sightings and reports gathered by DI55 within the UK Air Defence Region, making it a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Project_Condign"
+      ]
+    },
+    {
+      "a": "l-london",
+      "b": "doc-condign-report",
+      "type": "geographic",
+      "label": "produced at Whitehall, released via TNA at Kew",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Both ends of the Condign story sit in London: the report was held at the MoD Main Building in Whitehall, and the MoD's historical UFO files were transferred to The National Archives at Kew between 2008 and 2013 after the reporting desk closed in December 2009.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Project_Condign",
+        "https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf"
+      ]
+    },
+    {
+      "a": "l-ames",
+      "b": "nasa",
+      "type": "geographic",
+      "label": "NASA field centre at Moffett Field",
+      "claimTier": 1,
+      "dateStart": "1939-12-20",
+      "dateEnd": null,
+      "note": "Ames Research Center at Moffett Field, Mountain View, California is one of ten NASA field centres, selected as NACA's second aeronautical research laboratory on 20 December 1939 and absorbed into NASA in 1958.",
+      "sources": [
+        "https://www.nasa.gov/ames/",
+        "https://en.wikipedia.org/wiki/Ames_Research_Center"
+      ]
+    },
+    {
+      "a": "l-cambridge-ma",
+      "b": "galileo-project",
+      "type": "geographic",
+      "label": "first Galileo Observatory, Harvard College Observatory roof",
+      "claimTier": 1,
+      "dateStart": "2021-01-01",
+      "dateEnd": null,
+      "note": "The Galileo Project's first all-sky observatory is on the roof of the Harvard College Observatory in Cambridge, Massachusetts. It is the physical instrument site for the project's instrumented search, not merely an administrative address.",
+      "sources": [
+        "https://galileo.hsites.harvard.edu/",
+        "https://en.wikipedia.org/wiki/The_Galileo_Project"
+      ]
+    },
+    {
+      "a": "l-cambridge-ma",
+      "b": "avi-loeb",
+      "type": "geographic",
+      "label": "Loeb's Harvard base; launched the project from here",
+      "claimTier": 1,
+      "dateStart": "2021-01-01",
+      "dateEnd": null,
+      "note": "Avi Loeb is a Harvard astrophysicist and launched the Galileo Project in 2021 from Cambridge, Massachusetts. Unlike the other academic locations on this board, the institution here hosts the actual detection hardware.",
+      "sources": [
+        "https://galileo.hsites.harvard.edu/",
+        "https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/"
+      ]
+    },
+    {
+      "a": "l-lasvegas",
+      "b": "baass",
+      "type": "geographic",
+      "label": "BAASS base of operations",
+      "claimTier": 1,
+      "dateStart": "2008-09-22",
+      "dateEnd": null,
+      "note": "Bigelow Aerospace Advanced Space Studies, the sole bidder on DIA solicitation HHM402-08-R-0211 and holder of contract HHM402-08-C-0072, operated from Robert Bigelow's Las Vegas, Nevada base.",
+      "sources": [
+        "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/",
+        "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+      ]
+    },
+    {
+      "a": "l-lasvegas",
+      "b": "aawsap",
+      "type": "geographic",
+      "label": "AAWSAP contract performed from Las Vegas",
+      "claimTier": 1,
+      "dateStart": "2008-09-22",
+      "dateEnd": null,
+      "note": "Performance on DIA contract HHM402-08-C-0072 began 22 September 2008 with an initial value of $10 million; the work was carried out by BAASS in Nevada, making Las Vegas the operational centre of the AAWSAP effort rather than Washington.",
+      "sources": [
+        "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"
+      ]
+    },
+    {
+      "a": "l-lasvegas",
+      "b": "nids",
+      "type": "geographic",
+      "label": "NIDS headquarters 1995-2004",
+      "claimTier": 1,
+      "dateStart": "1995-01-01",
+      "dateEnd": null,
+      "note": "The National Institute for Discovery Science was a privately financed research organisation based in Las Vegas, Nevada, founded by Robert Bigelow in 1995 and disbanded in October 2004. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
+        "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
+      ]
+    },
+    {
+      "a": "l-lasvegas",
+      "b": "harry-reid",
+      "type": "geographic",
+      "label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+      "claimTier": 2,
+      "dateStart": "2007-01-01",
+      "dateEnd": null,
+      "note": "This is not merely a home-town link: Senator Harry Reid of Nevada secured the appropriation with Senators Inouye and Stevens, and the money was performed by Robert Bigelow, a Las Vegas constituent. The constituent relationship is the reported mechanism connecting the earmark to the contractor.",
+      "sources": [
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/",
+        "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
+      ]
+    },
+    {
+      "a": "l-virginia",
+      "b": "nro",
+      "type": "geographic",
+      "label": "NRO headquarters, Westfields, Chantilly",
+      "claimTier": 1,
+      "dateStart": "1995-01-01",
+      "dateEnd": null,
+      "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+      ]
+    },
+    {
+      "a": "l-michigan-state",
+      "b": "dod",
+      "type": "geographic",
+      "label": "site of the DoD unsupported-adjustment study",
+      "claimTier": 2,
+      "dateStart": "2017-12-01",
+      "dateEnd": null,
+      "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+      "sources": [
+        "https://msutoday.msu.edu/news/2017/12/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct",
+        "https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/"
+      ]
+    },
+    {
+      "a": "l-ottawa",
+      "b": "sky-canada-project",
+      "type": "geographic",
+      "label": "Office of the Chief Science Advisor, Ottawa",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The Sky Canada Project is run by the Office of the Chief Science Advisor of Canada, seated in Ottawa. Its report reviewed how UAP reports are handled in Canada and recommended the creation of a federal office to collect and investigate them.",
+      "sources": [
+        "https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project",
+        "https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf"
+      ]
+    }
+  ],
+  "recommend_removal": [
+    { "id": "l-knoxville", "reason": "incidental to the subject; home district of Rep. Tim Burchett. The 26 July 2023 hearing happened in Washington, not Knoxville." },
+    { "id": "l-st-petersburg", "reason": "incidental to the subject; home district of Rep. Anna Paulina Luna. The 9 September 2025 Task Force hearing happened in Washington, not St. Petersburg." },
+    { "id": "l-springfield-mo", "reason": "incidental to the subject; home district of Rep. Eric Burlison. His NDAA amendment was drafted and adopted in Washington." },
+    { "id": "l-tompkinsville", "reason": "incidental to the subject; home anchor of Rep. James Comer. No program event, facility or investigation occurred here." },
+    { "id": "l-charleston-sc", "reason": "incidental to the subject; home anchor of Rep. Nancy Mace. The naval-industrial character of the city is not connected to any documented item on this board." },
+    { "id": "l-glenbeulah", "reason": "incidental to the subject; home anchor of Rep. Glenn Grothman." },
+    { "id": "l-franklin-tn", "reason": "incidental to the subject; home anchor of Rep. Andrew Ogles." },
+    { "id": "l-dallas", "reason": "incidental to the subject; home anchor of Rep. Jasmine Crockett." },
+    { "id": "l-oro-valley", "reason": "incidental to the subject; home anchor of Rep. Eli Crane." },
+    { "id": "l-windsor-co", "reason": "incidental to the subject; home anchor of Rep. Lauren Boebert." },
+    { "id": "l-lafayette", "reason": "incidental to the subject; home anchor of Rep. Clay Higgins." },
+    { "id": "l-gilbert-az", "reason": "incidental to the subject; home anchor of Rep. Andy Biggs. The March 1997 Phoenix Lights occurred over the Phoenix metropolitan area, not Gilbert, and there is no Phoenix Lights node to attach to; if that event is wanted it should be its own node." },
+    { "id": "l-orlando", "reason": "incidental to the subject; home anchor of Rep. Maxwell Frost." },
+    { "id": "l-takoma-park", "reason": "incidental to the subject; home anchor of Rep. Jamie Raskin." },
+    { "id": "l-schaumburg", "reason": "incidental to the subject; home anchor of Rep. Raja Krishnamoorthi. His dual Oversight/HPSCI assignment is a committee fact, not a geographic one." },
+    { "id": "l-green-bay", "reason": "incidental to the subject; home anchor of former Rep. Michael Gallagher. His HASC/HPSCI seats are committee facts, not geographic ones." },
+    { "id": "l-parkland-fl", "reason": "incidental to the subject; home anchor of Rep. Jared Moskowitz." },
+    { "id": "l-long-beach", "reason": "incidental to the subject; home anchor of Rep. Robert Garcia. The port and aerospace corridor are not tied to any documented item on this board." },
+    { "id": "l-boise-id", "reason": "incidental to the subject; Kenneth Arnold's home town. The 24 June 1947 sighting was near Mount Rainier, Washington, and Arnold's first press account was given to the East Oregonian at Pendleton, Oregon. Nothing relevant happened at Boise." },
+    { "id": "l-sheffield", "reason": "incidental to the subject; the university base of researcher David Clarke. The MoD file release he consulted on happened at Whitehall and Kew, both already covered by l-uk-mod-whitehall and l-london." },
+    { "id": "l-cincinnati", "reason": "incidental to the subject; the home of Leonard Stringfield, who collected crash-retrieval testimony by correspondence. The proximity to Wright-Patterson is an observation about his sources, not an event at this address." },
+    { "id": "l-cedar-rapids", "reason": "incidental to the subject; the home base of investigator Kevin Randle. His Roswell fieldwork was conducted in New Mexico." },
+    { "id": "l-fredericton", "reason": "incidental to the subject; the home of investigator Stanton Friedman. His consequential act, locating Jesse Marcel in 1978, did not occur here." },
+    { "id": "l-sf", "reason": "incidental to the subject; the home base of Jacques Vallee. His 2022 co-authored materials paper is a publication, not a site." },
+    { "id": "l-santacruz", "reason": "incidental to the subject; the base of attorney Daniel Sheehan and his Romero Institute. The litigation and legislative drafting he is known for happened in Washington and in federal courts, not here. Flagged as 'likely genuine' in the brief but it does not survive the test." },
+    { "id": "l-huntington-beach", "reason": "incidental to the subject; the home area of Robert Wood. The McDonnell Douglas advanced systems work is a real facility claim, but McDonnell Douglas has no node on this board and Wood's MJ-12 advocacy is authorship, not a site event." },
+    { "id": "l-wellesley", "reason": "incidental to the subject; the college affiliation of Galileo Project co-author Wesley Watters. The project's instruments are at Cambridge, Massachusetts, which is already wired." },
+    { "id": "l-boston", "reason": "incidental to the subject; the workplace of a co-author on the 2022 Vallee/Nolan materials paper. Adjacency to Cambridge is not a claim about Boston." },
+    { "id": "l-nashville", "reason": "incidental to the subject; the base of a co-author on the 2025 Villarroel transients paper. The data are Palomar plates; nothing happened at Nashville." },
+    { "id": "l-seattle", "reason": "incidental to the subject; the base of researcher Jacob Haqq-Misra. Arnold's 1947 sighting was near Mount Rainier, roughly sixty miles away, and is not a Seattle event." },
+    { "id": "l-woodshole", "reason": "no documented involvement. Searches surface no WHOI role in the CNEOS 2014-01-08 spherule recovery, which was run by Avi Loeb's Galileo Project expedition; the only WHOI item found is a June 2026 seismometer detection of a Cape Cod Bay meteor breakup, unrelated to UAP. The node currently rests on a capability argument rather than a fact, which fails the test." }
+  ],
+  "unresolved": [
+    "l-aztec: KEEP but unwired. The March 1948 Aztec claim and its exposure as a Newton/GeBauer fraud are well sourced (https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax), but there is no Aztec event node in the permitted id list and no defensible edge to roswell-1947. Create an event node (e.g. aztec-1948) and wire the location to it.",
+    "l-france: KEEP but unwired. GEIPAN has operated inside CNES at Toulouse since 1977 and the 1999 COMETA report was produced under IHEDN auspices, but neither GEIPAN nor COMETA exists as a node id. Create geipan and doc-cometa-report nodes.",
+    "l-paris: KEEP but unwired. Same gap as l-france. Note also that GEIPAN's operational work is at Toulouse, not Paris, so a Paris edge should attach to COMETA/IHEDN specifically once that node exists.",
+    "l-brazil: KEEP but unwired. The FAB transfer of UAP holdings to the Arquivo Nacional, the 19 May 1986 incident and the 1996 Varginha episode all need event/archive nodes that do not exist in the permitted id list.",
+    "l-brasilia: KEEP but unwired. Same gap as l-brazil. A containment edge to l-brazil is possible but adds no information.",
+    "l-santiago: KEEP but unwired. CEFAA operates within Chile's Direccion General de Aeronautica Civil; no cefaa or dgac node exists in the permitted id list.",
+    "l-moscow: KEEP but unwired. The 1978 Soviet Academy of Sciences / MoD study known as Setka has no node in the permitted id list. This node carries real analytic weight as a constraint on the strong global-programme hypothesis and should not be dropped.",
+    "l-virginia is a malformed compound node. Its description conflates the Commonwealth of Virginia (intelligence corridor) with Charlottesville (Steven Greer's base). Only the Chantilly/NRO edge was written. Recommend splitting into a state-level node and a separate l-charlottesville, then deciding whether Greer's base survives the same test that removed the other researcher home bases.",
+    "l-lasvegas is flagged in its own description as an alias of l-las-vegas, and l-cambridge-ma as an alias of l-cambridge. The four edges on l-lasvegas and two on l-cambridge-ma must be re-pointed if the merge pass runs.",
+    "l-mclean: the CIA edge is geographically correct (Langley is a neighbourhood of McLean) but risks reading as a duplicate of l-langley-afb, which is a different place entirely (Hampton, Virginia). Consider a display note on both nodes.",
+    "l-michigan-state: wired to dod at tier 2, but the edge would be stronger against a black-budget or mark-skidmore node if one is created. No such id was available."
+  ]
+}

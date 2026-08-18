@@ -1,0 +1,355 @@
+{
+  "edges": [
+    {
+      "a": "compass-rose-legal-group",
+      "b": "david-grusch",
+      "type": "institutional",
+      "label": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
+      "sources": [
+        "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/",
+        "https://compassrosepllc.com/mccullough/"
+      ]
+    },
+    {
+      "a": "compass-rose-legal-group",
+      "b": "odni",
+      "type": "institutional",
+      "label": "Senior partner was ODNI's Intelligence Community Inspector General",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Compass Rose senior partner I. Charles McCullough III was the Presidentially appointed, Senate-confirmed Inspector General of the Intelligence Community, reporting directly to DNI James Clapper and responsible for inquiries involving ODNI and the wider IC. That ICIG channel is the mechanism through which Grusch's complaint was routed.",
+      "sources": [
+        "https://compassrosepllc.com/mccullough/",
+        "https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/"
+      ]
+    },
+    {
+      "a": "newsnation",
+      "b": "david-grusch",
+      "type": "investigative",
+      "label": "Broke Grusch's first on-camera whistleblower interview",
+      "claimTier": 1,
+      "dateStart": "2023-06-11",
+      "dateEnd": null,
+      "note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+      "sources": [
+        "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+        "https://en.wikipedia.org/wiki/Ross_Coulthart"
+      ]
+    },
+    {
+      "a": "newsnation",
+      "b": "skywatcher",
+      "type": "investigative",
+      "label": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+      "sources": [
+        "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
+        "https://en.wikipedia.org/wiki/Ross_Coulthart",
+        "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+      ]
+    },
+    {
+      "a": "newsnation",
+      "b": "immaculate-constellation",
+      "type": "investigative",
+      "label": "Carried and explained the Immaculate Constellation report",
+      "claimTier": 2,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
+      "sources": [
+        "https://www.newsnationnow.com/space/ufo/report-immaculate-constellation-uap-journalist/",
+        "https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/"
+      ]
+    },
+    {
+      "a": "public-substack",
+      "b": "immaculate-constellation",
+      "type": "investigative",
+      "label": "Published the whistleblower brief naming the program",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Public, Michael Shellenberger's Substack news outlet, published the story alleging the DoD runs an 'active and highly secretive Unacknowledged Special Access Program' called Immaculate Constellation, based on a whistleblower brief supplied to the House Oversight Committee. NPR's contemporaneous hearing report links directly to the Public story.",
+      "sources": [
+        "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+        "https://www.public.news/p/pentagon-is-illegally-hiding-secret"
+      ]
+    },
+    {
+      "a": "public-substack",
+      "b": "hearing-2024-11-13",
+      "type": "witness-chain",
+      "label": "Founder Shellenberger testified as a hearing witness",
+      "claimTier": 1,
+      "dateStart": "2024-11-13",
+      "dateEnd": null,
+      "note": "Michael Shellenberger, founder of Public, was one of four witnesses at the 13 November 2024 joint House Oversight subcommittee hearing 'Unidentified Anomalous Phenomena: Exposing the Truth'. His written testimony ran to roughly 214 pages and pressed for UAP transparency legislation and defunding of undisclosed programs.",
+      "sources": [
+        "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+        "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"
+      ]
+    },
+    {
+      "a": "public-substack",
+      "b": "nancy-mace",
+      "type": "investigative",
+      "label": "Immaculate Constellation document hosted on Mace's House site",
+      "claimTier": 1,
+      "dateStart": "2024-11-13",
+      "dateEnd": null,
+      "note": "Shellenberger shared the Immaculate Constellation whistleblower document with lawmakers at the hearing chaired by Rep. Nancy Mace; the document was posted at mace.house.gov/immaculateconstellation. Mace questioned witnesses about the program by name during the hearing.",
+      "sources": [
+        "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024",
+        "https://mace.house.gov/immaculateconstellation"
+      ]
+    },
+    {
+      "a": "klas-tv",
+      "b": "hearing-2025-09-09",
+      "type": "witness-chain",
+      "label": "Knapp testified as KLAS-TV chief investigative reporter",
+      "claimTier": 1,
+      "dateStart": "2025-09-09",
+      "dateEnd": null,
+      "note": "George Knapp, identifying himself in his statement for the record as 'Chief Investigative Reporter for KLAS-TV in Las Vegas', testified under oath before the House Committee on Oversight and Accountability UAP Task Force hearing of 9 September 2025 chaired by Rep. Luna.",
+      "sources": [
+        "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "klas-tv",
+      "b": "harry-reid",
+      "type": "investigative",
+      "label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+      "claimTier": 2,
+      "dateStart": "1989-01-01",
+      "dateEnd": null,
+      "note": "In sworn testimony Knapp states that the first person he told outside the KLAS newsroom about the 1989 Bob Lazar / S-4 story was Senator Harry Reid, beginning 'a private collaboration and conversation that continued for the rest of his life'. This rests on Knapp's own account, though it is given under oath.",
+      "sources": [
+        "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "klas-tv",
+      "b": "aawsap",
+      "type": "custody",
+      "label": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
+      "claimTier": 2,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Knapp testified that he was asked to share the most important papers he obtained from the Russian Ministry of Defense in the 1990s with BAASS and the DIA and did so, and that AAWSAP assembled a team to translate and analyse them; the resulting full report remains unreleased at DIA, with only a brief synopsis published.",
+      "sources": [
+        "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "klas-tv",
+      "b": "james-lacatski",
+      "type": "research",
+      "label": "Knapp co-authored two books with the AAWSAP originator",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Knapp disclosed in his congressional statement that he is co-author of two books written primarily by Dr James Lacatski (the DIA officer who conceived AAWSAP) and Dr Colm Kelleher, the BAASS programme manager.",
+      "sources": [
+        "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "the-hill",
+      "b": "hearing-2024-11-13",
+      "type": "investigative",
+      "label": "Covered the November 2024 House UAP secrecy hearing",
+      "claimTier": 1,
+      "dateStart": "2024-11-13",
+      "dateEnd": null,
+      "note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
+      "sources": [
+        "https://thehill.com/homenews/house/4989539-house-uap-secrecy-hearing/",
+        "https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/",
+        "https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024"
+      ]
+    },
+    {
+      "a": "the-hill",
+      "b": "uapda-2023",
+      "type": "investigative",
+      "label": "Reported the fight over the UAP amendment in the FY2024 defence bill",
+      "claimTier": 2,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
+      "sources": [
+        "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/"
+      ]
+    },
+    {
+      "a": "the-hill",
+      "b": "david-grusch",
+      "type": "investigative",
+      "label": "Continuing coverage of Grusch and congressional UAP transparency push",
+      "claimTier": 2,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+      "sources": [
+        "https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/",
+        "https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/"
+      ]
+    },
+    {
+      "a": "cseti",
+      "b": "cia",
+      "type": "institutional",
+      "label": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
+      "claimTier": 3,
+      "dateStart": "1993-12-13",
+      "dateEnd": null,
+      "note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
+      "sources": [
+        "https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/",
+        "https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf"
+      ]
+    },
+    {
+      "a": "harvard-cfa",
+      "b": "galileo-project",
+      "type": "institutional",
+      "label": "Host institution of the Galileo Project",
+      "claimTier": 1,
+      "dateStart": "2021-07-26",
+      "dateEnd": null,
+      "note": "The Galileo Project is listed as a research programme of the Center for Astrophysics | Harvard & Smithsonian and is hosted on Harvard infrastructure; its first observatory was built on the roof of the Harvard College Observatory. Start date is the project's public launch in July 2021.",
+      "sources": [
+        "https://www.cfa.harvard.edu/research/galileo-project",
+        "https://galileo.hsites.harvard.edu/about"
+      ]
+    },
+    {
+      "a": "harvard-cfa",
+      "b": "avi-loeb",
+      "type": "institutional",
+      "label": "Loeb directs the Institute for Theory and Computation at the CfA",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Avi Loeb, head of the Galileo Project, is Director of the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics and former chair of Harvard's Astronomy Department; his CfA position is the institutional base from which the Galileo Project operates.",
+      "sources": [
+        "https://galileo.hsites.harvard.edu/people/avi-loeb",
+        "https://www.cfa.harvard.edu/research/galileo-project"
+      ]
+    },
+    {
+      "a": "raytheon",
+      "b": "nimitz-2004",
+      "type": "custody",
+      "label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+      "claimTier": 1,
+      "dateStart": "2004-11-14",
+      "dateEnd": null,
+      "note": "The AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) pod is developed and manufactured by Raytheon. The FLIR1 'Tic Tac' video, the primary sensor artefact of the 2004 Nimitz encounter and later released by DoD, was recorded on an ATFLIR pod operated by a VFA-41 weapons systems officer. This is the only UAP-specific Raytheon link found: the company's role is as the builder of the sensor of record, not as a programme participant.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR",
+        "https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/"
+      ]
+    },
+    {
+      "a": "senado-brasil",
+      "b": "odni",
+      "type": "legislative",
+      "label": "2022 Senate special session justified by the 2021 US UAP report",
+      "claimTier": 1,
+      "dateStart": "2022-06-24",
+      "dateEnd": null,
+      "note": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
+      "sources": [
+        "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+        "https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis"
+      ]
+    },
+    {
+      "a": "senado-brasil",
+      "b": "hospital-regional-varginha",
+      "type": "investigative",
+      "label": "Girao backed Varginha hospital witnesses in Washington",
+      "claimTier": 2,
+      "dateStart": "2026-01-20",
+      "dateEnd": null,
+      "note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
+      "sources": [
+        "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+        "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+      ]
+    },
+    {
+      "a": "hospital-regional-varginha",
+      "b": "anna-paulina-luna",
+      "type": "witness-chain",
+      "label": "Hospital duty neurosurgeon described the being to Luna on the Hill",
+      "claimTier": 2,
+      "dateStart": "2026-01-15",
+      "dateEnd": null,
+      "note": "At a closed-door 15 January 2026 meeting in Rep. Tim Burchett's Longworth office, Dr Italo Venturelli, who says he was on duty at the Hospital Regional de Varginha in January 1996, described examining a non-human being at the hospital. Rep. Anna Paulina Luna, chair of the House Task Force on the Declassification of Federal Secrets, questioned him directly and afterwards said Congress should seek Air Force flight records and landing authorisations to test the claimed US removal of the body. No medical record of the treatment exists, per Venturelli.",
+      "sources": [
+        "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+        "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+      ]
+    },
+    {
+      "a": "hospital-regional-varginha",
+      "b": "eric-burlison",
+      "type": "witness-chain",
+      "label": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
+      "claimTier": 2,
+      "dateStart": "2026-01-15",
+      "dateEnd": null,
+      "note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
+      "sources": [
+        "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+        "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+      ]
+    },
+    {
+      "a": "hospital-regional-varginha",
+      "b": "aaro",
+      "type": "investigative",
+      "label": "Varginha discussed in a 2024 meeting with AARO staff",
+      "claimTier": 3,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Filmmaker James Fox says that in 2024 he met AARO personnel to discuss video his team had obtained and that the Varginha incident was among the cases debated, with AARO director Dr Jon Kosloski entering the room. This rests solely on Fox's account as reported by The Debrief; AARO's own 2024 report states no investigation has concluded that any UAP report indicates extraterrestrial origin, and the Pentagon did not respond to requests for comment.",
+      "sources": [
+        "https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/",
+        "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+      ]
+    }
+  ],
+  "unwireable": [
+    {
+      "id": "peru-uap-office",
+      "reason": "Peru's Air Force UAP office (OIFAA, 1999-2005; relaunched as DIFAA under the Peruvian Air Force's national air defence information centre in October 2013) is well documented in Peruvian sources, but no sourced link could be established to any node on this board. AARO's FY2025 Consolidated Annual Report, which is the office's own account of 'Foreign Partner Engagement' for the period, records only a deputy-director briefing to a conference in London; its documented South American engagement is with Uruguay's air force, not Peru. No AARO, ODNI, NASA, Galileo Project or Sol Foundation link to the Peruvian office could be sourced. Wiring it to AARO on the basis of both being national UAP offices would be an invented relationship."
+    },
+    {
+      "id": "soyuzufotsentr",
+      "reason": "SOYUZUFOTSENTR was founded in 1990 as the first official Soviet public UFO organisation, with cosmonaut Pavel Popovich as president and Vladimir Azhazha as director, and received the 124-page KGB 'Blue Folder' declassified on 24 October 1991. The obvious candidate edge, to KLAS-TV via George Knapp's 1993 Moscow trip, is specifically contradicted by the best available source: Knapp's documents came from the Ministry of Defence via Colonel Boris Sokolov, not from the KGB Blue Folder collection held by Popovich and Azhazha. Knapp's own sworn 2025 testimony names Sokolov, Gen. Igor Maltsev and Dr Rimili Avramenko as his Russian contacts and never mentions Soyuzufotsentr. Jacques Vallee met Azhazha in Moscow in January 1990 and later designed the AAWSAP data warehouse, but Vallee is not a node on this board and an organisation-to-organisation edge from Soyuzufotsentr to AAWSAP would misstate that chain. No defensible edge found."
+    }
+  ],
+  "unresolved": [
+    "susan-gough -> public-substack (denial): the Pentagon spokesperson's statement that DoD 'has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION' is widely quoted, but I could not retrieve a primary or first-tier page carrying it directly (newsnationnow.com and thehill.com both blocked automated fetch), so I did not create the denial edge rather than cite an unverified quote.",
+    "skywatcher -> eric-burlison: Burlison has publicly described a private group conducting an operation to attract, down and document UAP, which commentators identify as Skywatcher, but I found no source in which either Burlison or Skywatcher confirms the identification.",
+    "skywatcher -> sol-foundation: Skywatcher's named strategic adviser is Matthew Pines; I could not source a documented institutional tie between Skywatcher and the Sol Foundation or any other node.",
+    "cseti / disclosure-project -> a US government node beyond the disputed 1993 Woolsey meeting: the 9 May 2001 National Press Club event is well documented as an event, but I found no sourced institutional relationship between CSETI and Blue Book, AARO, DIA or any other node on the list.",
+    "hospital-regional-varginha -> dia: Jacques Vallee stated on video at the 20 January 2026 press conference that the data warehouse he and a scientific team compiled for DIA contains hundreds of creature reports 'including some similar to those of Varginha'. That is a comparative statement about database contents rather than a documented link between the hospital case and DIA, so I left it out.",
+    "the-hill dates: thehill.com blocked automated fetch throughout, so publication dates for the UAPDA/NDAA and Grusch stories could not be verified and were left null."
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "edges": [
+    {
+      "a": "pogo",
+      "b": "hearing-2025-09-09",
+      "type": "investigative",
+      "label": "POGO counsel testified at the UAP transparency hearing",
+      "claimTier": 1,
+      "dateStart": "2025-09-09",
+      "dateEnd": null,
+      "note": "Joe Spielberger, senior policy counsel at the Project On Government Oversight, was a witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.' His written testimony argued that national security whistleblowers -- the category David Grusch and the military witnesses fall into -- lack an independent enforcement mechanism and are uniquely exposed to clearance-based retaliation.",
+      "sources": [
+        "Testimony of Joe Spielberger, Senior Policy Counsel, Project On Government Oversight, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection,' September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+        "https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf"
+      ]
+    },
+    {
+      "a": "pogo",
+      "b": "house-oversight-committee",
+      "type": "institutional",
+      "label": "Outside watchdog seated as witness before Oversight's declassification task force",
+      "claimTier": 1,
+      "dateStart": "2025-09-09",
+      "dateEnd": null,
+      "note": "POGO appeared before the House Committee on Oversight and Government Reform's Task Force on the Declassification of Federal Secrets, and used the appearance to recommend statutory changes (overturning Navy v. Egan, independent adjudication for IC and military whistleblowers) that bear directly on the committee's UAP inquiry.",
+      "sources": [
+        "Testimony of Joe Spielberger, POGO, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "pogo",
+      "b": "anna-paulina-luna",
+      "type": "legislative",
+      "label": "POGO recommendations delivered to Luna's task force",
+      "claimTier": 2,
+      "dateStart": "2025-09-09",
+      "dateEnd": null,
+      "note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
+      "sources": [
+        "https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf",
+        "House Committee on Oversight and Government Reform press release, 'Luna Opens Hearing on Restoring Public Trust Through UAP Transparency,' September 9, 2025 -- https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency"
+      ]
+    },
+    {
+      "a": "the-intercept",
+      "b": "luis-elizondo",
+      "type": "investigative",
+      "label": "First major press challenge to Elizondo's AATIP leadership claim",
+      "claimTier": 1,
+      "dateStart": "2019-06-01",
+      "dateEnd": null,
+      "note": "Keith Kloor reported for The Intercept that 'there is no discernible evidence that he ever worked for a government UFO program, much less led one,' and obtained a Pentagon statement from spokesperson Christopher Sherwood that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI ... up until the time he resigned effective 10/4/2017.'",
+      "sources": [
+        "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+      ]
+    },
+    {
+      "a": "the-intercept",
+      "b": "aatip",
+      "type": "investigative",
+      "label": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+      "claimTier": 1,
+      "dateStart": "2019-06-01",
+      "dateEnd": null,
+      "note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+      "sources": [
+        "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+      ]
+    },
+    {
+      "a": "the-intercept",
+      "b": "ttsa",
+      "type": "investigative",
+      "label": "Scrutiny of To The Stars Academy's media apparatus and financing",
+      "claimTier": 1,
+      "dateStart": "2019-06-01",
+      "dateEnd": null,
+      "note": "The Intercept documented TTSA's SEC filing identifying it as a 'Motion Picture & Video Tape Production' concern, the undisclosed employment relationship between TTSA staff and the History Channel series 'Unidentified,' and reporter George Knapp's purchase of 400 shares of TTSA stock, which Knapp confirmed to The Intercept.",
+      "sources": [
+        "Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"
+      ]
+    },
+    {
+      "a": "the-intercept",
+      "b": "david-grusch",
+      "type": "investigative",
+      "label": "FOIA'd police records on Grusch published weeks after his testimony",
+      "claimTier": 1,
+      "dateStart": "2023-08-09",
+      "dateEnd": null,
+      "note": "Ken Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia FOIA showing Grusch was placed under an emergency custody order in October 2018 and retained his clearance afterward. Grusch's advocates publicly claimed the records were leaked medical files; The Intercept published its FOIA correspondence to rebut that.",
+      "sources": [
+        "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention,' The Intercept, August 9, 2023 -- https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"
+      ]
+    },
+    {
+      "a": "us-navy",
+      "b": "uap-task-force",
+      "type": "institutional",
+      "label": "Navy designated lead service for the UAP Task Force",
+      "claimTier": 1,
+      "dateStart": "2020-08-04",
+      "dateEnd": null,
+      "note": "Deputy Secretary of Defense David L. Norquist approved establishment of the UAP Task Force on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Under Secretary of Defense for Intelligence and Security. The Navy therefore owned the institutional predecessor to AOIMSG and AARO.",
+      "sources": [
+        "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force,' August 14, 2020 -- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+      ]
+    },
+    {
+      "a": "us-navy",
+      "b": "nimitz-2004",
+      "type": "institutional",
+      "label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+      "claimTier": 1,
+      "dateStart": "2004-11-14",
+      "dateEnd": null,
+      "note": "The November 2004 encounters involved aircrew and sensors of the USS Nimitz Carrier Strike Group. DoD authorized release of the unclassified Navy video 'taken in November 2004' through the Naval Air Systems Command FOIA reading room on 27 April 2020, stating the aerial phenomena in the videos 'remain characterized as unidentified.' The DoD statement itself dates the video but does not name the strike group.",
+      "sources": [
+        "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+        "https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/"
+      ]
+    },
+    {
+      "a": "us-navy",
+      "b": "roosevelt-2014-2015",
+      "type": "institutional",
+      "label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+      "claimTier": 1,
+      "dateStart": "2014-01-01",
+      "dateEnd": null,
+      "note": "The 2014-2015 Atlantic training-range encounters were reported by U.S. Navy F/A-18F aircrew from squadrons working up with and deployed aboard the USS Theodore Roosevelt, as described in Ryan Graves' congressional testimony. DoD separately authorized release of two unclassified Navy videos 'taken in January 2015' via the NAVAIR FOIA reading room on 27 April 2020, stating the phenomena 'remain characterized as unidentified.'",
+      "sources": [
+        "Department of Defense, 'Statement by the Department of Defense on the Release of Historical Navy Videos,' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+        "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf"
+      ]
+    },
+    {
+      "a": "us-navy",
+      "b": "ryan-graves",
+      "type": "witness-chain",
+      "label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+      "claimTier": 1,
+      "dateStart": "2023-07-26",
+      "dateEnd": null,
+      "note": "Graves is a former U.S. Navy F/A-18F pilot whose squadron logged repeated UAP encounters on the Atlantic training ranges; he carried that service experience into congressional testimony and into founding Americans for Safe Aerospace as a reporting channel for military and commercial aircrew.",
+      "sources": [
+        "Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf",
+        "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf"
+      ]
+    },
+    {
+      "a": "enigma-labs",
+      "b": "pursue-releases",
+      "type": "investigative",
+      "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+      "claimTier": 1,
+      "dateStart": "2026-05-08",
+      "dateEnd": null,
+      "note": "After the first PURSUE tranche (roughly 160 files) posted to war.gov/ufo on 8 May 2026, Enigma Labs consultant Alejandro Rojas said the team was adding PURSUE elements to Enigma's maps and app so official cases could be cross-referenced 'against our database of over 200,000 public sightings.' He also criticised the drop for lacking coordinates, sensor parameters and altitude data.",
+      "sources": [
+        "Brandi Vincent, ''Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop,' DefenseScoop, May 14, 2026 -- https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+      ]
+    },
+    {
+      "a": "enigma-labs",
+      "b": "aaro",
+      "type": "institutional",
+      "label": "Documented AARO contact with Enigma Labs, released heavily redacted",
+      "claimTier": 2,
+      "dateStart": "2025-07-03",
+      "dateEnd": null,
+      "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with most content withheld under exemptions (b)(5) and (b)(6). Enigma Labs states on its own FAQ that it has 'no signed partnerships or collaborations to date' with any government. The edge records documented contact, not a contractual relationship.",
+      "sources": [
+        "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' (DoD FOIA case 23-F-0711, response finalized July 3, 2025) -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+      ]
+    },
+    {
+      "a": "john-greenewald",
+      "b": "enigma-labs",
+      "type": "investigative",
+      "label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+      "claimTier": 1,
+      "dateStart": "2023-01-01",
+      "dateEnd": null,
+      "note": "Greenewald filed the January 2023 FOIA request that eventually produced the AARO-Enigma Labs email set in July 2025, making The Black Vault the origin point for public knowledge of contact between the Pentagon's UAP office and a private UAP data company.",
+      "sources": [
+        "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/"
+      ]
+    },
+    {
+      "a": "blue-marble-space-institute",
+      "b": "nasa",
+      "type": "research",
+      "label": "BMSIS research investigator seated on NASA's UAP independent study team",
+      "claimTier": 1,
+      "dateStart": "2022-10-21",
+      "dateEnd": null,
+      "note": "NASA's announced 16-member independent study team on UAP included Anamaria Berea, described by NASA as 'a research investigator with Blue Marble Space Institute of Science in Seattle.' That team produced the September 2023 public report and the recommendation that NASA build a UAP data pipeline.",
+      "sources": [
+        "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members,' October 21, 2022 -- https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/"
+      ]
+    },
+    {
+      "a": "ocsa-canada",
+      "b": "canada-dot",
+      "type": "investigative",
+      "label": "Sky Canada Project audited and issued recommendations to Transport Canada",
+      "claimTier": 1,
+      "dateStart": "2025-06-01",
+      "dateEnd": null,
+      "note": "The Office of the Chief Science Advisor's report 'Management of Public Reporting of Unidentified Anomalous Phenomena in Canada' maps Transport Canada's CADORS as the federal channel where pilot and public UAP sightings are logged (via NAV CANADA Aviation Occurrence Reports), and its Recommendation 3 directs Transport Canada to encourage aircrew and controllers to report UAP 'without fear of stigmatization.'",
+      "sources": [
+        "Office of the Chief Science Advisor of Canada, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada' (Sky Canada Project), 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+      ]
+    },
+    {
+      "a": "ocsa-canada",
+      "b": "dgac-chile",
+      "type": "research",
+      "label": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+      "claimTier": 1,
+      "dateStart": "2025-06-01",
+      "dateEnd": null,
+      "note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+      "sources": [
+        "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, sections 'Chile' and Recommendation 13 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada",
+        "SEFAA / DGAC Chile -- https://sefaa.dgac.gob.cl/"
+      ]
+    },
+    {
+      "a": "ocsa-canada",
+      "b": "aaro",
+      "type": "research",
+      "label": "AARO reviewed as a foreign model and named as a proposed partner",
+      "claimTier": 1,
+      "dateStart": "2025-06-01",
+      "dateEnd": null,
+      "note": "The Sky Canada report summarizes AARO's June 2024 report on 757 UAP cases and AARO's Historical Record Report Volume I, and its Recommendation 13 directs the future Canadian lead organization to establish partnerships with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The report also notes the RCAF attended a May 2023 Five Eyes UAP briefing hosted by AARO at the Pentagon, which OCSA could not access.",
+      "sources": [
+        "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+      ]
+    },
+    {
+      "a": "ocsa-canada",
+      "b": "nasa",
+      "type": "research",
+      "label": "NASA's UAP study cited as precedent and named as a proposed partner",
+      "claimTier": 1,
+      "dateStart": "2025-06-01",
+      "dateEnd": null,
+      "note": "The Sky Canada report cites NASA's September 2023 UAP Independent Study Report in its bibliography and lists NASA among the international entities the recommended Canadian lead organization should partner with to share data and methodologies.",
+      "sources": [
+        "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, Recommendation 13 and references -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada"
+      ]
+    },
+    {
+      "a": "509th-bomb-group",
+      "b": "roswell-1947",
+      "type": "custody",
+      "label": "509th intelligence office took possession of the Roswell debris",
+      "claimTier": 1,
+      "dateStart": "1947-07-08",
+      "dateEnd": null,
+      "note": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb Group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.' GAO later confirmed 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery,' and located the July 1947 combined 509th/RAAF history report noting recovery of a 'flying disc' subsequently called a radar-tracking balloon.",
+      "sources": [
+        "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,' July 28, 1995 -- https://sgp.fas.org/othergov/roswell.pdf",
+        "https://sgp.fas.org/othergov/roswell.html"
+      ]
+    },
+    {
+      "a": "us-house",
+      "b": "509th-bomb-group",
+      "type": "investigative",
+      "label": "Congressionally requested GAO search of 509th and RAAF records",
+      "claimTier": 1,
+      "dateStart": "1995-07-28",
+      "dateEnd": null,
+      "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+      "sources": [
+        "GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995 -- https://sgp.fas.org/othergov/roswell.html"
+      ]
+    },
+    {
+      "a": "saf-aaz",
+      "b": "us-house",
+      "type": "behavioral",
+      "label": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+      "claimTier": 1,
+      "dateStart": "2010-12-29",
+      "dateEnd": null,
+      "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+      "sources": [
+        "Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf",
+        "Steven Aftergood, 'Air Force SAP Policy Limits Congressional Contacts,' Federation of American Scientists, January 4, 2011 -- https://fas.org/publication/usaf_sap/"
+      ]
+    },
+    {
+      "a": "saf-aaz",
+      "b": "dod",
+      "type": "institutional",
+      "label": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
+      "claimTier": 1,
+      "dateStart": "2010-12-29",
+      "dateEnd": null,
+      "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
+      "sources": [
+        "Air Force Policy Directive 16-7, 'Special Access Programs,' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf",
+        "https://fas.org/publication/usaf_sap/"
+      ]
+    },
+    {
+      "a": "wayne-state-university",
+      "b": "kit-green",
+      "type": "institutional",
+      "label": "Green's academic base for UAP-injury neuroimaging work",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Christopher 'Kit' Green, MD, PhD, former CIA life sciences analyst, is professor in the Departments of Diagnostic Radiology and of Psychiatry and Behavioral Neurosciences at Wayne State University School of Medicine, where he ran the Emergent Technology Research Division. Wayne State is the institutional address for the clinical neuroimaging he applied to patients reporting injury after anomalous encounters.",
+      "sources": [
+        "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor,' April 2, 2009 -- https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+        "Wayne State University, Department of Psychiatry and Behavioral Neurosciences -- https://psychiatry.med.wayne.edu/",
+        "Bulletin of the Atomic Scientists biography, Christopher Green -- https://thebulletin.org/biography/christopher-green/"
+      ]
+    },
+    {
+      "a": "wayne-state-university",
+      "b": "dird-series",
+      "type": "research",
+      "label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+      "claimTier": 2,
+      "dateStart": "2010-01-01",
+      "dateEnd": null,
+      "note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+      "sources": [
+        "Defense Intelligence Agency FOIA Electronic Reading Room, 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' -- https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/",
+        "The Black Vault, 'The Advanced Aerospace Weapon System Applications Program (AAWSAP) Documentation' (DIA FOIA-0159-2018, 37 of 38 DIRDs released March 25, 2022) -- https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/"
+      ]
+    },
+    {
+      "a": "vanderbilt-university",
+      "b": "dod",
+      "type": "research",
+      "label": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
+      "claimTier": 2,
+      "dateStart": "2025-08-01",
+      "dateEnd": null,
+      "note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
+      "sources": [
+        "Paul Govern, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it,' Vanderbilt Health News (VUMC), May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+        "Stephen Bruehl, cluster-analysis study of 216 UAP cases, World Futures, published online October 1, 2025 (title not given in the VUMC source) -- https://www.tandfonline.com/doi/full/10.1080/02604027.2025.2561724"
+      ]
+    },
+    {
+      "a": "vanderbilt-university",
+      "b": "aatip",
+      "type": "research",
+      "label": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
+      "claimTier": 2,
+      "dateStart": "2017-12-16",
+      "dateEnd": null,
+      "note": "Bruehl told VUMC that the December 2017 New York Times report revealing AATIP is what restarted his interest and led him to conclude 'nobody's really studying this scientifically'; his Anesthesiology chair then authorized him to publish UAP work under the Vanderbilt name. His 2025 papers with Beatriz Villarroel in PASP and Scientific Reports followed.",
+      "sources": [
+        "Vanderbilt Health News, May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+        "Bruehl and Villarroel, 'Transients in the Palomar Observatory Sky Survey may be Associated with Nuclear Testing and Reports of Unidentified Anomalous Phenomena,' Scientific Reports, October 20, 2025 -- https://www.nature.com/articles/s41598-025-21620-3"
+      ]
+    },
+    {
+      "a": "sheffield-hallam",
+      "b": "rendlesham-1980",
+      "type": "custody",
+      "label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+      "claimTier": 1,
+      "dateStart": "2008-01-01",
+      "dateEnd": null,
+      "note": "Dr David Clarke, associate professor at Sheffield Hallam University, first obtained MoD documents on the 1980 Rendlesham Forest incident in May 2001 under the Code of Practice for Access to Government Information, then served 2008-2013 as consultant and curator for the MoD/National Archives UFO files project that transferred and opened more than 60,000 pages, including the Rendlesham file at TNA reference DEFE 24/1948.",
+      "sources": [
+        "Dr David Clarke, 'National Archives UFO Files' -- https://drdavidclarke.co.uk/national-archives-ufo-files-7/",
+        "Sheffield Hallam University Research Archive (SHURA), 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' -- https://shura.shu.ac.uk/35070/",
+        "The National Archives UFO records podcast transcript, August 2009 -- https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf"
+      ]
+    }
+  ],
+  "unwireable": [
+    {
+      "id": "izmiran",
+      "reason": "IZMIRAN (the USSR Academy of Sciences Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation) is genuinely central to Soviet state UAP research -- its director Vladimir Migulin led SETKA-AN from 1978 with IZMIRAN researcher Yulii Platov as executive, running to 1990 -- but no source I could verify connects IZMIRAN by name to any node on the available list. The obvious candidate route (George Knapp's 1993 Soviet UFO documents later shared with BAASS/AAWSAP) is reported only at the level of 'the Ministry of Defence, the Academy of Sciences and other agencies'; no source names IZMIRAN as the originator of the material that reached NIDS, BAASS or DIA. AARO's Historical Record Report Volume I does not name it either. Asserting an edge would require inventing the link."
+    }
+  ],
+  "unresolved": [
+    "Jacob Haqq-Misra, senior research investigator at the Blue Marble Space Institute of Science, is described in secondary sources (his LinkedIn and a podcast listing) as an Affiliate Scientist with the Galileo Project who attends its monthly meetings. I could not confirm this on a Galileo Project or BMSIS primary page, so no blue-marble-space-institute -> galileo-project edge was written.",
+    "POGO's testimony footnote 1 cites its own mid-1990s work with whistleblowers at 'the then-secret Air Force Base Area 51' over illegal hazardous-waste burning (Scott Amey, 'Government Confirms Area 51, But Answers Still Secret,' POGO, August 19, 2013). This is a real, sourced POGO-to-Groom Lake link but there is no Area 51 / Groom Lake node id in the supplied list.",
+    "Vanderbilt's Stephen Bruehl entered the field through a May 2024 Scientific Coalition for UAP Studies conference in Huntsville, Alabama (presentations by Beatriz Villarroel and Robert Powell). SCU has no node id in the supplied list, so that relationship is unwired.",
+    "Sheffield Hallam's David Clarke work is anchored to The National Archives (UK) and the UK Ministry of Defence. The only archive nodes supplied are the U.S. NARA collections (nara-uap-collection, nara-rg615), which are a different institution, so no archive-to-archive edge was written.",
+    "The Sky Canada report notes that the RCAF represented the Canadian Armed Forces at a May 2023 Five Eyes UAP briefing hosted by the U.S. at the Pentagon with an AARO presentation, and that OCSA could not obtain first-hand information about it. The RCAF / Department of National Defence has no node id supplied, so only the OCSA-to-AARO edge captures this.",
+    "Transport Canada (canada-dot) has only one defensible edge. Its other documented UAP relationships in the Sky Canada report run to NAV CANADA, the Transportation Safety Board of Canada, NORAD, the RCMP and the U.S. FAA -- none of which have node ids in the supplied list.",
+    "Chile's DGAC likewise has only one defensible edge. SEFAA/CEFAA's substantive external relationships (the 2014 Chilean Navy helicopter IR case, its monthly public case reports) do not touch any supplied node id."
+  ]
+}

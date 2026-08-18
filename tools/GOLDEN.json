@@ -3,7 +3,7 @@
  "counts": {
   "people": 246,
   "entities": 724,
-  "edges": 1786,
+  "edges": 1893,
   "timeline": 858,
   "entity_classes": {
    "document": 198,
@@ -25,14 +25,14 @@
    "3": 521
   },
   "unique_source_urls": 2678,
-  "l0_nodes": 96,
+  "l0_nodes": 97,
   "l0_edges_direct": 170,
-  "l0_edges_summarised": 76,
-  "ledger": 706,
-  "path_only": 55,
-  "unattached": 113,
-  "l0_with_dossier": 96,
-  "l0_dossier_claims": 1361,
+  "l0_edges_summarised": 86,
+  "ledger": 755,
+  "path_only": 54,
+  "unattached": 64,
+  "l0_with_dossier": 97,
+  "l0_dossier_claims": 1375,
   "people_with_date": 245,
   "locations_with_coords": 75
  }
