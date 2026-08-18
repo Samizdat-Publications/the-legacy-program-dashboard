@@ -180,7 +180,23 @@
   "reid-dia-meetings-2008-2009->aawsap (programmatic)",
   "reid-dia-meetings-2008-2009->dod (institutional)",
   "sol-foundation->sol-briefing-3-2026 (institutional)",
-  "sol-briefing-3-2026->garry-nolan (research)"
+  "sol-briefing-3-2026->garry-nolan (research)",
+  "aztec-1948->l-aztec (geographic)",
+  "aztec-1948->roswell-1947 (behavioral)",
+  "aztec-1948->dod (denial)",
+  "geipan->l-france (geographic)",
+  "geipan->cometa (institutional)",
+  "geipan->cefaa (investigative)",
+  "cometa->l-france (geographic)",
+  "cometa->l-paris (institutional)",
+  "cometa->project-blue-book (research)",
+  "cometa->roswell-1947 (research)",
+  "cometa->setka (research)",
+  "cefaa->dgac-chile (institutional)",
+  "cefaa->l-santiago (geographic)",
+  "setka->izmiran (institutional)",
+  "setka->l-moscow (geographic)",
+  "setka->dod (behavioral)"
  ],
  "edge_without_note": [
   "ndaa-fy2023-sec-6802->aaro (programmatic)",
@@ -257,6 +273,124 @@
   "dod-sapco-arch->sap-annual-report (programmatic)",
   "eo-12829->cfr-32-117 (programmatic)",
   "accm->four-regime-map (programmatic)"
+ ],
+ "person_bad_locId": [
+  {
+   "id": "anna-paulina-luna",
+   "locId": "l-st-petersburg"
+  },
+  {
+   "id": "kenneth-arnold",
+   "locId": "l-boise-id"
+  },
+  {
+   "id": "robert-wood",
+   "locId": "l-huntington-beach"
+  },
+  {
+   "id": "nancy-mace",
+   "locId": "l-charleston-sc"
+  },
+  {
+   "id": "tim-burchett",
+   "locId": "l-knoxville"
+  },
+  {
+   "id": "eli-crane",
+   "locId": "l-oro-valley"
+  },
+  {
+   "id": "eric-burlison",
+   "locId": "l-springfield-mo"
+  },
+  {
+   "id": "jared-moskowitz",
+   "locId": "l-parkland-fl"
+  },
+  {
+   "id": "robert-garcia",
+   "locId": "l-long-beach"
+  },
+  {
+   "id": "glenn-grothman",
+   "locId": "l-glenbeulah"
+  },
+  {
+   "id": "andy-ogles",
+   "locId": "l-franklin-tn"
+  },
+  {
+   "id": "james-comer",
+   "locId": "l-tompkinsville"
+  },
+  {
+   "id": "jasmine-crockett",
+   "locId": "l-dallas"
+  },
+  {
+   "id": "lauren-boebert",
+   "locId": "l-windsor-co"
+  },
+  {
+   "id": "clay-higgins",
+   "locId": "l-lafayette"
+  },
+  {
+   "id": "andy-biggs",
+   "locId": "l-gilbert-az"
+  },
+  {
+   "id": "maxwell-frost",
+   "locId": "l-orlando"
+  },
+  {
+   "id": "jamie-raskin",
+   "locId": "l-takoma-park"
+  },
+  {
+   "id": "raja-krishnamoorthi",
+   "locId": "l-schaumburg"
+  },
+  {
+   "id": "mike-gallagher",
+   "locId": "l-green-bay"
+  },
+  {
+   "id": "sarah-little",
+   "locId": "l-woodshole"
+  },
+  {
+   "id": "wesley-watters",
+   "locId": "l-wellesley"
+  },
+  {
+   "id": "sizun-jiang",
+   "locId": "l-boston"
+  },
+  {
+   "id": "stephen-bruehl",
+   "locId": "l-nashville"
+  },
+  {
+   "id": "jacob-haqq-misra",
+   "locId": "l-seattle"
+  },
+  {
+   "id": "david-clarke-uk",
+   "locId": "l-sheffield"
+  },
+  {
+   "id": "leonard-stringfield",
+   "locId": "l-cincinnati"
+  },
+  {
+   "id": "stanton-friedman",
+   "locId": "l-fredericton"
+  },
+  {
+   "id": "kevin-randle",
+   "locId": "l-cedar-rapids"
+  }
  ],
  "person_without_date": [
   "michael-powers-comptroller"
@@ -399,11 +533,66 @@
    "sources": 1
   }
  ],
+ "entity_without_source": [
+  "setka",
+  "soyuzufotsentr"
+ ],
  "entity_without_desc": [
   "soyuzufotsentr"
  ],
- "entity_without_source": [
-  "soyuzufotsentr"
+ "tier1_claim_no_url": [
+  {
+   "id": "setka",
+   "claim": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September "
+  },
+  {
+   "id": "setka",
+   "claim": "Academy of Sciences President Anatoly Aleksandrov wrote to L. Smirnov, Vice-President of t"
+  },
+  {
+   "id": "setka",
+   "claim": "The MIC Scientific and Technical Council met 'in October, 1977 in Kremlin under the presid"
+  },
+  {
+   "id": "setka",
+   "claim": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry"
+  },
+  {
+   "id": "setka",
+   "claim": "'Thus, in 1978 in the USSR the state program of studying the \"UFO\" phenomenon started, and"
+  },
+  {
+   "id": "setka",
+   "claim": "The military branch was led from 'one of the central military research institutes in the M"
+  },
+  {
+   "id": "setka",
+   "claim": "'The budget financing of the research program included the salary of the experts occupied "
+  },
+  {
+   "id": "setka",
+   "claim": "A document authorised by the Chief of the General Staff in January 1980 reached the troops"
+  },
+  {
+   "id": "setka",
+   "claim": "Verbatim: 'One can say that the noted directive for 13 years put the army into the on-duty"
+  },
+  {
+   "id": "setka",
+   "claim": "The research was classified for three stated reasons: it formally entered the classified d"
+  },
+  {
+   "id": "setka",
+   "claim": "'During the work on the program (for 13 years) about three thousand of messages reporting "
+  },
+  {
+   "id": "setka",
+   "claim": "Across the whole programme there was no message about a UFO landing, no message about cont"
+  },
+  {
+   "id": "setka",
+   "claim": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh regio"
+  }
  ],
  "tierA_underconnected": [
   {

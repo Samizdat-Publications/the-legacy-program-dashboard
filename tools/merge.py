@@ -403,6 +403,27 @@ def load():
         for g in doc.get("gaps") or []:
             gaps.append({"domain": slug, "gap": g})
 
+    # ---- approved removals -------------------------------------------------
+    # research/_removed.json is a deliberate, approved deletion list. It exists as
+    # a file rather than as edits to the source research because a deletion should
+    # be reviewable: the ids, the reason and who approved it stay in the repo.
+    # Edges touching a removed node go with it, or verify.py's dangling-reference
+    # check fails the build -- which is the correct behaviour and the reason this
+    # is done here rather than by hand.
+    rmpath = os.path.join(RESEARCH, "_removed.json")
+    if os.path.exists(rmpath):
+        rm = set(json.load(open(rmpath, encoding="utf-8")).get("remove") or [])
+        gone = [i for i in rm if i in people or i in entities]
+        for i in gone:
+            people.pop(i, None)
+            entities.pop(i, None)
+        dropped = [k for k, e in edges.items() if e["a"] in rm or e["b"] in rm]
+        for k in dropped:
+            edges.pop(k)
+        if gone or dropped:
+            print(f"  removed {len(gone)} approved node(s) and {len(dropped)} edge(s) "
+                  f"that touched them", file=sys.stderr)
+
     return people, entities, edges, timeline, entity_info, gaps
 
 
