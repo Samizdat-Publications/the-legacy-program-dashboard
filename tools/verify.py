@@ -395,6 +395,30 @@ def _l0_dossier_claims(b, html):
                 bad.append(f"{n['id']} claim {i} has no text")
     return bad[:8]
 
+
+@check("every connection row is backed by a hand-written edge")
+def _l0_connections(b, html):
+    d = _l0(html)
+    if d is None:
+        return ["the built file carries no L0 model"]
+    hand = set()
+    for e in b["edges"]:
+        hand.add((e["a"], e["b"], e["type"]))
+        hand.add((e["b"], e["a"], e["type"]))
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    bad = []
+    for src, rows in (d.get("connections") or {}).items():
+        for r in rows:
+            # The connection layer is PROJECTED from sourced edges, never written.
+            # If a row appears here with no edge behind it, something generated it,
+            # and a generated connection on this board is a fabricated claim.
+            if (src, r["id"], r["type"]) not in hand:
+                bad.append(f"{src} -> {r['id']} ({r['type']}) has no hand-written "
+                           f"edge behind it")
+            if r["id"] not in ids:
+                bad.append(f"{src} connects to {r['id']}, which is not a node")
+    return bad[:8]
+
 # ---------------------------------------------------------------------------
 # golden counts — drift detection. Not correctness; a tripwire that turns a
 # silent change into a deliberate one. `--update-golden` is the only way past it.
@@ -544,6 +568,7 @@ def self_test():
                                  "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}],
              "directEdges": [], "summarised": [], "pathOnly": [],
              "unattached": [{"id": "e%d" % i, "deg": 0} for i in range(1, 7)],
+             "connections": {},
              "nodes": {"a-b": ["Ann Bee", "person", 1, "A"],
                        **{"e%d" % i: ["E%d" % i, "institution", 0, "B"] for i in range(7)}}}
         m.update(kw)
@@ -610,6 +635,11 @@ def self_test():
         "UI copy agrees with the register counts":
             wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [],
                          "mix": {"person": 1, "document": 1}}])),
+        # a connection row with no edge behind it: something generated it
+        "every connection row is backed by a hand-written edge":
+            wrap(L0(connections={"e0": [{"id": "a-b", "type": "custody", "tier": 1,
+                                         "label": "Ann Bee", "cls": "person",
+                                         "dir": "out", "why": "", "note": ""}]})),
         # the JR., J. reappearance site: a via that resolves to nothing
         "every routed row names its intermediate resolvably":
             wrap(L0(l0=[{"id": "e0", "direct": [], "mix": {},

@@ -791,10 +791,31 @@ L0_JS2 = r"""
 /* Render an entity dossier. This is the argument for why the node is on the map,
    and on this board that argument is the product. The member ledger that used to
    be the whole of a node's content is now the table of contents underneath it. */
+/* The derived connection layer. Projected from the board's own hand-written edges
+   in build_l0.py, so every row here is a link somebody sourced by hand — nothing
+   is generated. Rendered for EVERY node, including the 874 that are not on the
+   map, because an agent hunting a join nobody made needs the adjacency stated with
+   its tier and its reason attached. */
+function renderConnections(id){
+  const rows = (L0DATA.connections || {})[id] || [];
+  if (!rows.length) return '';
+  let h = '<div class="eyebrow" style="margin:12px 0 4px">Connections · ' + rows.length + '</div>';
+  for (const r of rows){
+    h += '<div class="cl l0row" data-node="'+esc(r.id)+'">'
+       + '<span class="t t'+r.tier+'">TIER '+r.tier+'</span> '
+       + '<b>'+esc(r.label)+'</b> <span class="dg">'+esc(r.type)
+       + (r.dir === 'out' ? ' &rarr;' : ' &larr;') + '</span>'
+       + (r.why ? '<br>'+esc(r.why) : '')
+       + (r.note ? '<br><span class="dg">'+esc(r.note)+'</span>' : '')
+       + '</div>';
+  }
+  return h;
+}
+
 function renderEntityDossier(id){
   const n = (L0DATA.l0||[]).find(x=>x.id===id);
-  const d = n && n.dossier;
-  if (!d) return '';
+  const d = (n && n.dossier) || (L0DATA.dossiers || {})[id];
+  if (!d) return '<div class="edoss">' + renderConnections(id) + '</div>';
   const T = t => '<span class="t t'+t+'">TIER '+t+'</span>';
   let h = '<div class="edoss">';
   if (d.whatItIs) h += '<div class="narr">'+esc(d.whatItIs)+'</div>';
@@ -825,6 +846,7 @@ function renderEntityDossier(id){
     h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions</div>';
     for (const q of d.openQuestions) h += '<div class="cl">'+esc(q)+'</div>';
   }
+  h += renderConnections(id);
   return h + '</div>';
 }
 

@@ -96,7 +96,8 @@ def load_board(path=BOARD):
             "claims": len(claims),
             "t1": sum(1 for c in claims if c.get("tier") == 1),
         })
-    edges = [{"a": e["a"], "b": e["b"], "t": e["type"], "ct": e["claimTier"]}
+    edges = [{"a": e["a"], "b": e["b"], "t": e["type"], "ct": e["claimTier"],
+              "label": e.get("label") or "", "note": e.get("note") or ""}
              for e in b["edges"]]
     return nodes, edges
 
@@ -350,6 +351,35 @@ def bake(l0ids, node_by_id, direct, summarised):
 
 
 
+# ------------------------------------------------------- the connections layer
+# Every node gets an explicit, machine-readable list of who it is connected to and
+# WHY, derived from the board's own hand-written edges. 1,771 of 1,786 carry a
+# label and 1,712 carry a note explaining why the link exists, so this is a
+# reformatting of sourced research, not a generation of new claims. Nothing here
+# can be fabricated because nothing here is written: it is projected.
+#
+# This exists for the analyst agent. The board's narratives describe each node in
+# prose; an agent looking for a join nobody made needs the adjacency stated, with
+# the tier and the reason attached, for every node rather than just the 96 on the
+# map.
+def build_connections(nodes, edges, node_by_id):
+    conn = OrderedDict((n["id"], []) for n in nodes)
+    for e in edges:
+        for src, dst, direction in ((e["a"], e["b"], "out"), (e["b"], e["a"], "in")):
+            if src not in conn or dst not in node_by_id:
+                continue
+            other = node_by_id[dst]
+            conn[src].append({
+                "id": dst, "label": other["label"], "cls": other["cls"],
+                "type": e["t"], "tier": e["ct"], "dir": direction,
+                "why": e.get("label") or "", "note": e.get("note") or "",
+            })
+    # strongest tier first, then by type, so the most defensible link reads first
+    for k in conn:
+        conn[k].sort(key=lambda c: (c["tier"], c["type"], c["id"]))
+    return conn
+
+
 # ---------------------------------------------------------------- entity dossiers
 # These are a PARALLEL dataset, deliberately not merged into the board's nodes.
 # Merging 359 sourced claims onto 25 nodes would move every claim count, every tier
@@ -395,6 +425,7 @@ def build(path=BOARD):
 
     node_by_id = {n["id"]: n for n in nodes}
     dossiers = load_dossiers()
+    connections = build_connections(nodes, edges, node_by_id)
     P, clamped, overlaps = bake(l0ids, node_by_id, direct, summarised)
     pos = {p["id"]: (p["x"], p["y"]) for p in P}
 
@@ -456,10 +487,16 @@ def build(path=BOARD):
             "withDossier": sum(1 for n in l0 if n.get("dossier")),
             "dossierClaims": sum(len((n["dossier"] or {}).get("claims", []))
                                  for n in l0 if n.get("dossier")),
+            "nodesWithConnections": sum(1 for v in connections.values() if v),
+            "connectionRows": sum(len(v) for v in connections.values()),
             "extent": {"w": max(xs) - min(xs), "h": max(ys) - min(ys)},
         },
         "nodes": {n["id"]: [n["label"], n["cls"], deg[n["id"]], n["tier"]]
                   for n in nodes},
+        # keyed by node id, for EVERY node on the board and not just the 96 on the map
+        "connections": connections,
+        # entity dossiers are keyed separately so a non-L0 node can carry one too
+        "dossiers": dossiers,
         "l0": l0, "directEdges": direct, "summarised": summarised,
         "pathOnly": sorted(
             ({"id": i, "depth": depth[i], "via": route_of(i)[:-1]} for i in path_only),
