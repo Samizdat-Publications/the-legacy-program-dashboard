@@ -559,3 +559,61 @@ calls, both now closed rather than open.
 3. `dird-series` and `dird-collection` are two nodes describing the same thing.
    Worth collapsing, but it is a deletion and needs approval.
 4. 23 nodes unattached, 3 demonstrably unwireable.
+
+---
+
+# Stage 7 — collapses, and the waived-SAP notification group, 14 August 2026
+
+## Two duplicate pairs collapsed
+
+`dird-collection` and `dird-series` described the same object. `dird-series`
+survives (degree 34 against 7) and takes the more precise label; its seven edges
+were re-pointed first. `dird-vacuum-engineering` was a second node for Puthoff's
+vacuum/spacetime metric DIRD, which is why it sat at degree 1 after the DIRD wiring.
+
+The first attempt orphaned a timeline event — `verify.py` caught `tl-2019-dirds`
+still pointing at the removed node. **A collapse is not a deletion.**
+`research/_removed.json` now carries an alias map and `merge.py` re-points
+references at the survivor. The 31 removed locations deliberately have no alias,
+because nothing should point at them.
+
+## The waived-SAP notification group
+
+The board argued that a waived unacknowledged SAP is concealable because
+notification runs to a handful of members, without ever naming them. Now it does.
+
+**The governing provision is 10 U.S.C. 119(e)(2), not the Gang of Eight.** These
+are routinely conflated and they are different mechanisms. 119(e)(2) routes withheld
+information and the waiver justification "jointly to the chairman and ranking
+minority member of each of the defense committees", and 119(g) defines those as six
+bodies — SASC, SAC, SAC-Defense, HASC, HAC, HAC-Defense — which is **twelve seats,
+not eight**. Note that §119 uses its own definition rather than the narrower
+10 U.S.C. 101(a)(16).
+
+12 current office-holders sourced from .gov committee pages, plus the 2009, 2020 and
+2023 rosters. 28 edges. Six gaps logged rather than guessed.
+
+### The finding that changes the argument
+
+**The waiver mechanism has quietly lost most of its subject matter.** Pub. L. 114-328
+§1061(c)(4) terminated 10 U.S.C. 119(a) and (b) after 31 December 2021, and §119(e)(1)
+can only waive requirements "under subsection (a), (b), or (c)". So the waiver now
+bites only on subsection (c), classification-change reports.
+
+Two corollaries the board should carry:
+
+1. §119(f)'s 30-day pre-initiation notice to the **full** defense committees was
+   never waivable.
+2. Unlike 50 U.S.C. 3093, §119 has **no 180-day sunset and no duty to tell the rest
+   of the committee that a limited notification even occurred.** That makes the DoD
+   SAP channel the more opaque of the two, which is the opposite of the usual
+   assumption that covert action is the darker one.
+
+Separately: DoDD 5205.07 as reissued 12 September 2024 no longer uses the words
+"acknowledged", "unacknowledged" or "waived" anywhere.
+
+## Still open
+
+1. Six office-holder gaps in the notification group.
+2. 23 nodes unattached, 3 demonstrably unwireable.
+3. The stats strip still reads CONFIDENCE KEY.

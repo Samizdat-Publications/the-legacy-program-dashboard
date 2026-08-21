@@ -317,7 +317,35 @@
   "richard-obousy->dird-warp-drive-dark-energy-and-the (research)",
   "eric-davis->dird-warp-drive-dark-energy-and-the (research)",
   "dird-warp-drive-dark-energy-and-the->aawsap (programmatic)",
-  "dird-warp-drive-dark-energy-and-the->dia (institutional)"
+  "dird-warp-drive-dark-energy-and-the->dia (institutional)",
+  "waived-sap-notification-group->usc-10-119 (legislative)",
+  "waived-sap-notification-group->waived-usap-mechanism (institutional)",
+  "waived-sap-notification-group->waived-usap (programmatic)",
+  "waived-sap-notification-group->oversight-congress (institutional)",
+  "waived-sap-notification-group->senate-armed-services (institutional)",
+  "waived-sap-notification-group->house-oversight-committee (institutional)",
+  "dod-sapco->waived-sap-notification-group (institutional)",
+  "dod-sapco->waived-usap (programmatic)",
+  "dod->waived-sap-notification-group (institutional)",
+  "waived-sap-notification-group->classified-annex (funding)",
+  "harry-reid->waived-sap-notification-group (institutional)",
+  "david-grusch->waived-sap-notification-group (investigative)",
+  "nancy-mace->waived-sap-notification-group (institutional)",
+  "eric-burlison->waived-sap-notification-group (institutional)",
+  "anna-paulina-luna->waived-sap-notification-group (institutional)",
+  "congressional-uap-caucus->waived-sap-notification-group (institutional)",
+  "roger-wicker->waived-sap-notification-group (institutional)",
+  "jack-reed->waived-sap-notification-group (institutional)",
+  "susan-collins->waived-sap-notification-group (institutional)",
+  "patty-murray->waived-sap-notification-group (institutional)",
+  "mitch-mcconnell->waived-sap-notification-group (institutional)",
+  "chris-coons->waived-sap-notification-group (institutional)",
+  "mike-rogers-alabama->waived-sap-notification-group (institutional)",
+  "adam-smith->waived-sap-notification-group (institutional)",
+  "tom-cole->waived-sap-notification-group (institutional)",
+  "rosa-delauro->waived-sap-notification-group (institutional)",
+  "ken-calvert->waived-sap-notification-group (institutional)",
+  "betty-mccollum->waived-sap-notification-group (institutional)"
  ],
  "edge_without_note": [
   "ndaa-fy2023-sec-6802->aaro (programmatic)",
@@ -393,7 +421,8 @@
   "ndaa-fy2024-1687->waived-usap-mechanism (programmatic)",
   "dod-sapco-arch->sap-annual-report (programmatic)",
   "eo-12829->cfr-32-117 (programmatic)",
-  "accm->four-regime-map (programmatic)"
+  "accm->four-regime-map (programmatic)",
+  "chris-coons->waived-sap-notification-group (institutional)"
  ],
  "person_bad_locId": [
   {
@@ -534,7 +563,16 @@
   "john-cramer",
   "richard-obousy",
   "john-albertine",
-  "j-golightly"
+  "j-golightly",
+  "susan-collins",
+  "patty-murray",
+  "chris-coons",
+  "mike-rogers-alabama",
+  "adam-smith",
+  "tom-cole",
+  "rosa-delauro",
+  "ken-calvert",
+  "betty-mccollum"
  ],
  "person_thin_sourcing": [
   {
@@ -724,10 +762,47 @@
   {
    "id": "james-wells",
    "sources": 0
+  },
+  {
+   "id": "susan-collins",
+   "sources": 0
+  },
+  {
+   "id": "patty-murray",
+   "sources": 0
+  },
+  {
+   "id": "chris-coons",
+   "sources": 0
+  },
+  {
+   "id": "mike-rogers-alabama",
+   "sources": 0
+  },
+  {
+   "id": "adam-smith",
+   "sources": 0
+  },
+  {
+   "id": "tom-cole",
+   "sources": 0
+  },
+  {
+   "id": "rosa-delauro",
+   "sources": 0
+  },
+  {
+   "id": "ken-calvert",
+   "sources": 0
+  },
+  {
+   "id": "betty-mccollum",
+   "sources": 0
   }
  ],
  "entity_without_source": [
   "setka",
+  "waived-sap-notification-group",
   "soyuzufotsentr"
  ],
  "entity_without_desc": [
@@ -899,6 +974,82 @@
    "claim": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Commi"
   },
   {
+   "id": "susan-collins",
+   "claim": "Susan Collins (R-ME) is listed as Chair of the Senate Appropriations Committee on the comm"
+  },
+  {
+   "id": "susan-collins",
+   "claim": "In the 118th Congress Collins was the ranking minority member of the Senate Appropriations"
+  },
+  {
+   "id": "patty-murray",
+   "claim": "Patty Murray (D-WA) is listed as Vice Chair of the Senate Appropriations Committee on the "
+  },
+  {
+   "id": "patty-murray",
+   "claim": "Murray was Chairman of the Senate Appropriations Committee in the 118th Congress."
+  },
+  {
+   "id": "chris-coons",
+   "claim": "Christopher A. Coons (D-DE) is listed as Ranking Member of the Defense Subcommittee of the"
+  },
+  {
+   "id": "chris-coons",
+   "claim": "The published jurisdiction of the Senate Appropriations Defense Subcommittee includes the "
+  },
+  {
+   "id": "mike-rogers-alabama",
+   "claim": "Mike Rogers (R-AL 03) is listed as Chairman of the House Armed Services Committee on the c"
+  },
+  {
+   "id": "mike-rogers-alabama",
+   "claim": "Rogers was Chairman of the House Armed Services Committee in the 118th Congress, jointly a"
+  },
+  {
+   "id": "adam-smith",
+   "claim": "Adam Smith (D-WA 09) is listed as Ranking Member of the House Armed Services Committee on "
+  },
+  {
+   "id": "adam-smith",
+   "claim": "Smith was Chairman of the House Armed Services Committee in the 116th Congress, with Mac T"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "Tom Cole (R-OK) is identified as Chairman of the House Appropriations Committee in a commi"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About "
+  },
+  {
+   "id": "rosa-delauro",
+   "claim": "Rosa L. DeLauro (D-CT) is identified as Ranking Member of the House Appropriations Committ"
+  },
+  {
+   "id": "ken-calvert",
+   "claim": "Ken Calvert (R-CA) is listed as Chair of the Defense Subcommittee of the House Appropriati"
+  },
+  {
+   "id": "ken-calvert",
+   "claim": "Calvert was Chair of the House Appropriations Defense Subcommittee in the 118th Congress."
+  },
+  {
+   "id": "ken-calvert",
+   "claim": "Calvert was the senior Republican on the House Appropriations Defense Subcommittee in the "
+  },
+  {
+   "id": "betty-mccollum",
+   "claim": "Betty McCollum (D-MN) is listed as Ranking Member of the Defense Subcommittee of the House"
+  },
+  {
+   "id": "betty-mccollum",
+   "claim": "McCollum was Ranking Member of the House Appropriations Defense Subcommittee in the 118th "
+  },
+  {
+   "id": "betty-mccollum",
+   "claim": "In the 116th Congress McCollum was Vice Chair of the House Appropriations Defense Subcommi"
+  },
+  {
    "id": "setka",
    "claim": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September "
   },
@@ -949,6 +1100,82 @@
   {
    "id": "setka",
    "claim": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh regio"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "10 U.S.C. 119(e)(2) directs waived-SAP information and the waiver justification 'jointly t"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "10 U.S.C. 119(g) defines 'defense committees' for this section as the Senate Armed Service"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "10 U.S.C. 101(a)(16) defines the different term 'congressional defense committees' as only"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "The Gang of Eight under 50 U.S.C. 3093(c)(2) consists of 'the chairmen and ranking minorit"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "50 U.S.C. 3093(c)(5)(B) forces re-justification or widened access within 180 days of a lim"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "50 U.S.C. 3093(g)(1)-(2) requires that all members of the intelligence committee be told a"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "Pub. L. 114-328 sec. 1061(c)(4) lists 'Section 119(a) and (b)' among terminated reporting "
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "10 U.S.C. 119(f) bars initiating a special access program until the defense committees are"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "August 2026 holders of the twelve offices: Roger F. Wicker (SASC Chairman) and Jack Reed ("
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2009 holders (111th Congress): SASC Chairman Carl Levin, Ranking Member John McCain; SAC C"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "The December 2009 Congressional Directory records Ike Skelton as HASC Chairman and Howard "
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2020 holders (116th Congress): SASC Chairman James M. Inhofe, Ranking Member Jack Reed; SA"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2020 holders (116th Congress), House: HASC Chairman Adam Smith, Ranking Member Mac Thornbe"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2023 holders (118th Congress), Senate: SASC Chairman Jack Reed, Ranking Member Roger F. Wi"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2023 holders (118th Congress), House Appropriations Defense Subcommittee: Chair Ken Calver"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "2023 holders (118th Congress), House Armed Services: Chairman Mike Rogers and Ranking Memb"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "DoD Directive 5205.07, reissued 12 September 2024, sets DoD special access program policy "
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "DoDD 5205.07 para. 3.1.g requires all personnel accessed to DoD SAPs to notify the Directo"
+  },
+  {
+   "id": "waived-sap-notification-group",
+   "claim": "DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congre"
   }
  ],
  "tierA_underconnected": [

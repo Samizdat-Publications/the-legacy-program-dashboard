@@ -35159,5 +35159,313 @@ export const PROGRAM_EDGES = [
         date: '2018-01-09'
       }
     ]
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'usc-10-119',
+    type: 'legislative',
+    label: 'created by 10 U.S.C. 119(e)(2) and defined by 119(g)',
+    claimTier: 1,
+    dateStart: '1987-12-04',
+    dateEnd: null,
+    note: 'Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of \'defense committees\' used by the section.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'waived-usap-mechanism',
+    type: 'institutional',
+    label: 'sole statutory recipient of waived-SAP notification',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'waived-usap',
+    type: 'programmatic',
+    label: 'the twelve members with statutory sight of a waived programme',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group\'s statutory sight line entirely.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'oversight-congress',
+    type: 'institutional',
+    label: 'the narrow aperture through which Congress sees waived DoD SAPs',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'senate-armed-services',
+    type: 'institutional',
+    label: 'one of the six defense committees named in 10 U.S.C. 119(g)(1)',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'house-oversight-committee',
+    type: 'institutional',
+    label: 'not a defense committee; receives nothing under 10 U.S.C. 119',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.',
+    sources: []
+  },
+  {
+    a: 'dod-sapco',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'accredits congressional SAP facilities and records SAP information given to Congress',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congressional SAPFs and maintain records of DoD SAP information provided to Congress. Para. 2.1.a(5) makes the Director the DoD primary point of contact for SAP matters with the Legislative Branch.',
+    sources: []
+  },
+  {
+    a: 'dod-sapco',
+    b: 'waived-usap',
+    type: 'programmatic',
+    label: 'contractor disclosure to Congress requires SAPCO approval',
+    claimTier: 1,
+    dateStart: '2024-09-12',
+    dateEnd: null,
+    note: 'DoDD 5205.07 para. 3.1.g bars any DoD contractor entity, contractor employee, contractor representative or consultant from providing SAP material to any member of Congress or their staff without Director, DoD SAPCO approval, and requires all accessed personnel to notify SAPCO when briefing Congress.',
+    sources: []
+  },
+  {
+    a: 'dod',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'Secretary of Defense is the notifying authority under 119(e)',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.',
+    sources: []
+  },
+  {
+    a: 'waived-sap-notification-group',
+    b: 'classified-annex',
+    type: 'funding',
+    label: 'four of the twelve seats are appropriations leadership',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group\'s sight of a waived programme includes the money as well as the report.',
+    sources: []
+  },
+  {
+    a: 'harry-reid',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group',
+    claimTier: 1,
+    dateStart: '2009-01-01',
+    dateEnd: '2009-12-31',
+    note: 'This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.',
+    sources: []
+  },
+  {
+    a: 'david-grusch',
+    b: 'waived-sap-notification-group',
+    type: 'investigative',
+    label: 'allegations of a programme withheld from the statutory notification channel',
+    claimTier: 3,
+    dateStart: '2023-07-26',
+    dateEnd: null,
+    note: 'Grusch\'s 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.',
+    sources: []
+  },
+  {
+    a: 'nancy-mace',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'House Armed Services member but not chair or ranking - no 119(e)(2) entitlement',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.',
+    sources: []
+  },
+  {
+    a: 'eric-burlison',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'no statutory entitlement; not a defense committee chair or ranking member',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.',
+    sources: []
+  },
+  {
+    a: 'anna-paulina-luna',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'no statutory entitlement; not a defense committee chair or ranking member',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).',
+    sources: []
+  },
+  {
+    a: 'congressional-uap-caucus',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'caucus membership confers no statutory access',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.',
+    sources: []
+  },
+  {
+    a: 'roger-wicker',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 1 of 12 - Chairman, Senate Armed Services',
+    claimTier: 1,
+    dateStart: '2025-01-03',
+    dateEnd: null,
+    note: 'Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.',
+    sources: []
+  },
+  {
+    a: 'jack-reed',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 2 of 12 - Ranking Member, Senate Armed Services',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).',
+    sources: []
+  },
+  {
+    a: 'susan-collins',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 3 of 12 - Chair, Senate Appropriations',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.',
+    sources: []
+  },
+  {
+    a: 'patty-murray',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Senate Appropriations Committee styles its ranking minority member \'Vice Chair\'. The title does not change the 119(e)(2) entitlement.',
+    sources: []
+  },
+  {
+    a: 'mitch-mcconnell',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.',
+    sources: []
+  },
+  {
+    a: 'chris-coons',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: '',
+    sources: []
+  },
+  {
+    a: 'mike-rogers-alabama',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 7 of 12 - Chairman, House Armed Services',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.',
+    sources: []
+  },
+  {
+    a: 'adam-smith',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 8 of 12 - Ranking Member, House Armed Services',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).',
+    sources: []
+  },
+  {
+    a: 'tom-cole',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 9 of 12 - Chairman, House Appropriations',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Confirmed in the chair as of a committee press release dated 24 June 2026.',
+    sources: []
+  },
+  {
+    a: 'rosa-delauro',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 10 of 12 - Ranking Member, House Appropriations',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'In the group continuously across the 118th and 119th Congresses.',
+    sources: []
+  },
+  {
+    a: 'ken-calvert',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 11 of 12 - Chair, House Appropriations Defense Subcommittee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'In the group in 2020 as ranking member and from 2023 as chair.',
+    sources: []
+  },
+  {
+    a: 'betty-mccollum',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.',
+    sources: []
   }
 ];
