@@ -226,12 +226,35 @@ function mountL0(host){
     const cx = horizFirst ? x2 : x1, cy = horizFirst ? y1 : y2;
     ctx.beginPath(); ctx.moveTo(x1,y1); ctx.lineTo(cx,cy); ctx.lineTo(x2,y2); ctx.stroke();
     ctx.setLineDash([]);
-    /* ticks */
-    const n = Math.min(5, w);
+    /* Ticks, with an overflow numeral. DIVERGENCE D6.
+
+       The design package asserted that shared-member counts run 2-5, "so the
+       parent board's five-weight tick vocabulary fits exactly, with no overflow
+       and no numeral case". That was true of the graph as it stood. Wiring the
+       DIRDs to their authors and to AAWSAP densified it, and dia~dird-series now
+       shares 18 members. The claim is no longer true, and it was MY change that
+       broke it.
+
+       Five ticks cannot carry 18, and drawing five for both 5 and 18 would be a
+       channel that silently saturates -- the reader would have no way to tell the
+       difference. So beyond five the marks give way to a numeral. This is the
+       numeral case the design said did not exist; it exists now. */
+    const TICK_MAX = 5;
     ctx.fillStyle = t.c;
-    for (let i=0;i<n;i++){
-      const off = (i - (n-1)/2) * 3.6;
-      ctx.fillRect(cx + (horizFirst?off:-1.1), cy + (horizFirst?-1.1:off), 2.2, 2.2);
+    if (w <= TICK_MAX){
+      for (let i=0;i<w;i++){
+        const off = (i - (w-1)/2) * 3.6;
+        ctx.fillRect(cx + (horizFirst?off:-1.1), cy + (horizFirst?-1.1:off), 2.2, 2.2);
+      }
+    } else {
+      ctx.font = "500 9px 'IBM Plex Mono',monospace";
+      ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+      const label = String(w);
+      const tw = ctx.measureText(label).width;
+      ctx.fillStyle = 'rgba(15,18,22,0.88)';
+      ctx.fillRect(cx - tw/2 - 2, cy - 6, tw + 4, 12);
+      ctx.fillStyle = t.c;
+      ctx.fillText(label, cx, cy);
     }
     /* D3: denial edges are the first asymmetric edge the engine has had.
        Direction is the whole instrument — undirected, AARO's own historical

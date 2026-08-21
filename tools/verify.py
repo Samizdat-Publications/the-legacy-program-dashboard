@@ -255,9 +255,15 @@ def _l0_tier(b, html):
         if e["n"] != len(e["via"]):
             bad.append(f"summarised {e['a']}~{e['b']} claims {e['n']} shared members "
                        f"but lists {len(e['via'])}")
-        if e["n"] > 5:
-            bad.append(f"summarised {e['a']}~{e['b']} needs {e['n']} ticks; the "
-                       f"vocabulary tops out at 5 and there is no numeral case")
+        # The design asserted shared counts run 2-5 so the five-tick vocabulary
+        # never overflows. Densifying the graph made that false. The assertion
+        # that still holds is that the RENDERER can represent the overflow: five
+        # ticks drawn for both 5 and 18 would be a channel that silently
+        # saturates, which is the same failure class as a check that always
+        # passes.
+        if e["n"] > 5 and "TICK_MAX" not in html:
+            bad.append(f"summarised {e['a']}~{e['b']} carries {e['n']} shared "
+                       f"members and the renderer has no tick-overflow path")
     return bad[:8]
 
 

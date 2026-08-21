@@ -1,0 +1,858 @@
+{
+  "_meta": {
+    "batch": "w7-dirds-1",
+    "scope": "Wiring 8 AAWSAP Defense Intelligence Reference Documents (DIRDs) out of degree-1 isolation: author attribution, commissioning programme, publishing agency, subject domain.",
+    "authority": "DIA letter to the Senate Armed Services Committee (The Hon. John McCain), 9 January 2018, signed Christine Kapnisi, Chief, DIA Congressional Relations Division, transmitting a three-page list of the 38 reports produced under the AAWSAP/AATIP contract. Released under FOIA to Steven Aftergood (FAS) January 2019 and hosted at irp.fas.org/dia/aatip-list.pdf. Every author attribution below is taken from that list, not inferred from the title.",
+    "documentMetadataMethod": "Publication date, Intelligence Cut-Off Date (ICOD) and DIA document number read directly off the cover pages of the DIA-released PDFs mirrored on The Black Vault. All released DIRD covers redact the author name under FOIA exemption (b)(6), which is why the DIA list is the controlling source for authorship.",
+    "existingNodeIdsVerified": "Checked against the-program/data/the-program.json: harold-puthoff exists (hal-puthoff does NOT), eric-davis, kit-green, james-lacatski, colm-kelleher, aawsap, aatip, dird-series, dird-collection, baass, nids, dia, earthtech-international, lockheed-martin, wayne-state-university, d-materials, d-ffrdc all exist.",
+    "notRestated": "The pre-existing <dird>-to-dird-series edges are not repeated here."
+  },
+
+  "people": [
+    {
+      "id": "friedwardt-winterberg",
+      "label": "Friedwardt Winterberg",
+      "sub": "Theoretical physicist, Research Professor, University of Nevada, Reno; author of two AAWSAP DIRDs",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 0,
+      "D": 0,
+      "narrative": "Friedwardt Winterberg is a German-American theoretical physicist who took his doctorate at the Max Planck Institute in Goettingen under Werner Heisenberg and spent the bulk of his career as a research professor at the University of Nevada, Reno. His work spans general relativity, Planck-scale physics, plasma physics and, most relevantly here, nuclear fusion propulsion. He has argued for decades that inertially confined deuterium micro-detonations, ignited by intense relativistic particle beams drawn from a spacecraft acting as its own charged capacitor, offer a route to manned deep-space flight that chemical rockets cannot approach. His nuclear rocket propulsion work earned him the 1979 Hermann Oberth Gold Medal of the Wernher von Braun International Space Flight Foundation and a 1981 citation from the Nevada Legislature.\n\nThat is precisely why a DIA advanced-aerospace contract found him. AAWSAP's statement of work prioritised twelve technical areas, propulsion and power generation among them, and asked contractors to look thirty to forty years forward at capabilities a foreign adversary might field. Winterberg was one of the very small number of credentialed academic physicists who had published continuously on high-energy-density fusion propulsion in the open literature, which made him a natural pick for a literature-survey deliverable. He is credited on the DIA list with two of the 38 DIRDs: \"Advanced Nuclear Propulsion for Manned Deep Space Missions\" and \"Negative Mass Propulsion\", the latter outside this batch. Both are surveys, not experimental programmes. He has no other documented connection to UAP work, to BAASS field investigations, or to the paranormal lines of effort AARO later described. He appears on this board strictly as a commissioned subject-matter author.",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 credits item 2, \"Advanced Nuclear Propulsion for Manned Deep Space Missions\", to \"Dr F Winterberg, Univ of Nevada-Reno\".",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Winterberg is a research professor at the University of Nevada, Reno who received his PhD under Werner Heisenberg at the Max Planck Institute, Goettingen, and whose nuclear rocket propulsion work was recognised with the 1979 Hermann Oberth Gold Medal.",
+          "tier": 1,
+          "source": "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community",
+        "https://en.wikipedia.org/wiki/Friedwardt_Winterberg",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+      ]
+    },
+    {
+      "id": "wil-mccarthy",
+      "label": "Wil McCarthy",
+      "sub": "Engineer and science-fiction novelist; President, The Programmable Matter Corporation, Lakewood, Colorado",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 0,
+      "D": 0,
+      "narrative": "Wil McCarthy is the least conventional author in this batch and the one whose selection says the most about how AAWSAP sourced its expertise. He is an aerospace engineer and patent agent who began as a flight controller on Lockheed Martin space launch systems, moved to Omnitech Robotics as an engineering manager, served as chief technology officer of the aerospace research laboratory Galileo Shipyards, and is president of The Programmable Matter Corporation in Lakewood, Colorado. He is simultaneously a working science-fiction novelist, and it was in fiction that he first popularised the idea he was later paid by the Defense Intelligence Agency to survey. His \"Queendom of Sol\" novels, notably The Wellstone, are built around a substance he called wellstone: a programmable material whose effective atoms can be reconfigured on command so that a bounded but effectively unlimited range of material properties can be summoned or dismissed at will. He set the same idea out for a general readership in the non-fiction book Hacking Matter.\n\nAAWSAP's statement of work included materials, structures and signature reduction. Programmable matter, quantum dots and reconfigurable metamaterial surfaces sit squarely in that space, and the pool of people who had written a book-length synthesis of the field in 2009 was tiny. McCarthy had both the engineering background to write to a defence-warning audience and a commercial vehicle, The Programmable Matter Corporation, through which the work could be contracted. His DIRD, \"Aerospace Applications of Programmable Matter\", is a twenty-page survey and carries the earliest publication date of the eight documents in this batch, 14 December 2009. He has no documented UAP-programme role beyond authorship of this single deliverable.",
+      "claims": [
+        {
+          "text": "The 9 January 2018 DIA list credits item 23, \"Aerospace Applications of Programmable Matter\", to \"Dr W McCarthy, Programmable Matter Corporation\".",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omnitech Robotics, former CTO of Galileo Shipyards, and president of The Programmable Matter Corporation in Lakewood, Colorado.",
+          "tier": 1,
+          "source": "https://en.wikipedia.org/wiki/Wil_McCarthy"
+        },
+        {
+          "text": "McCarthy popularised programmable matter under the coined name \"wellstone\" in his science fiction and in the non-fiction book Hacking Matter, before being commissioned to survey the field for DIA.",
+          "tier": 2,
+          "source": "https://en.wikipedia.org/wiki/Hacking_Matter"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://en.wikipedia.org/wiki/Wil_McCarthy",
+        "https://en.wikipedia.org/wiki/Hacking_Matter",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"
+      ]
+    },
+    {
+      "id": "claudio-maccone",
+      "label": "Claudio Maccone",
+      "sub": "Italian SETI astronomer and mathematician; International Academy of Astronautics (Chair, SETI Permanent Committee; Director for Scientific Space Exploration). 1948-2025",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 0,
+      "D": 0,
+      "narrative": "Claudio Maccone was an Italian space scientist, SETI astronomer and mathematician, and the only DIRD author in this batch whose deliverable is about the prevalence of extraterrestrial civilisations rather than about hardware. His central contribution, and the subject of his DIRD, was the Statistical Drake Equation: he replaced the seven fixed factors of Frank Drake's 1961 formula with seven positive random variables and showed that, by the central limit theorem applied multiplicatively, the resulting number of communicating civilisations must follow a lognormal distribution. That turns the Drake Equation from a rhetorical device into something with an error bar, and lets a mean and variance be propagated rather than a single indefensible point estimate. He later extended the machinery into what he called Evo-SETI, applying the same lognormal statistics to the evolution of life on Earth.\n\nHe was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in Paris in 2010, and from 2012 chaired the IAA's SETI Permanent Committee. He died in 2025.\n\nHis presence on the AAWSAP author list is the clearest evidence that the contract's remit was not confined to foreign adversary hardware. A programme chartered to assess far-term aerospace threats commissioned a paper on how many technological civilisations the galaxy may hold, which only makes sense if the sponsor considered non-terrestrial technology a live category of \"advanced aerospace threat\". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum representation of general relativity, a paper cited in Puthoff's own DIRD, which places him inside the same small citation network as the EarthTech authors.",
+      "claims": [
+        {
+          "text": "The 9 January 2018 DIA list credits item 15, \"An Introduction to the Statistical Drake Equation\", to \"Dr Claudio Maccone, International Academy of Astronautics\".",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD reproduces at Appendix B the underlying conference paper \"The Statistical Drake Equation\" with the byline intact, reading \"Claudio Macc[one], Co-Vice Chair, SETI Permanent Study Group, International Academy of Astronautics\", corroborating the DIA list attribution from inside the document itself even though the cover author block is redacted under (b)(6). OCR of the scan is degraded; the surname renders as \"Maccolle\" and SETI as \"SHTI\".",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+        },
+        {
+          "text": "Maccone was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in 2010 and chaired the IAA SETI Permanent Committee from 2012; he died in 2025.",
+          "tier": 1,
+          "source": "https://www.seti.org/news/claudio-maccone/"
+        },
+        {
+          "text": "Maccone co-authored with H. E. Puthoff and E. W. Davis, \"Levi-Civita effect in the polarizable vacuum (PV) representation of general relativity\", Gen. Relativ. Grav. 37, 483 (2005), which appears as reference 19 of Puthoff's own DIRD.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.seti.org/news/claudio-maccone/",
+        "https://en.wikipedia.org/wiki/Claudio_Maccone",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+      ]
+    },
+    {
+      "id": "vincent-teofilo",
+      "label": "Vincent L. Teofilo",
+      "sub": "Physicist; 28 years at Lockheed Martin Space Systems; DIRD author on aneutronic fusion propulsion. 1944-2026",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 0,
+      "D": 0,
+      "narrative": "Vincent Louis Teofilo was a career industrial physicist whose path ran through almost every institution that has ever tried to build a fusion reactor in the United States. He took a bachelor's degree in electrical engineering at Manhattan College and a master's in nuclear engineering and a PhD in physics at New York University. He taught at Princeton and operated the university's nuclear reactor, then worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel. He then spent twenty-eight years at Lockheed Martin Space Systems, contributing to programmes including the Hubble Space Telescope and the Space-Based Infrared System. He died on 10 January 2026 at the age of 81.\n\nThat combination, deep fusion plasma physics plus long service inside a prime contractor's space division, is exactly the profile AAWSAP needed for a propulsion deliverable that had to be credible to a defence-warning audience rather than to a physics journal. Three of the 38 DIRDs went to Lockheed Martin staff, Teofilo on aneutronic fusion, S. Macheret on MHD air-breathing propulsion and J. Golightly on ultracapacitors, which makes Lockheed Martin the single most heavily represented corporate institution on the DIRD author list.\n\nTeofilo's DIRD is not a physics monograph. It runs from confinement schemes through Hall thrusters to a roadmap figure, surveys the funding levels of privately backed fusion start-ups, and closes by arguing that the physicists who pioneered the reactor technology must now work alongside the space systems companies. It reads as an industrial technology-transition assessment, which is what a Lockheed Martin space-systems physicist would be expected to produce. He is also recorded as a co-author of \"Review of Experimental Concepts for Studying the Quantum Vacuum Field\", placing him adjacent to the EarthTech vacuum-energy literature.",
+      "claims": [
+        {
+          "text": "The 9 January 2018 DIA list credits item 26, \"Aneutronic Fusion Propulsion\", to \"Dr V Teofilo, Lockheed Martin\".",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Teofilo held a PhD in physics from New York University, taught at Princeton where he operated the university nuclear reactor, worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel, and spent 28 years at Lockheed Martin Space Systems. He died 10 January 2026, aged 81.",
+          "tier": 1,
+          "source": "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077"
+        },
+        {
+          "text": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion and Power for Aerospace Applications (Dr S Macheret), and item 35, Ultracapacitors as Energy and Power Storage Devices (Dr J Golightly).",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+      ]
+    },
+    {
+      "id": "william-culbreth",
+      "label": "William Culbreth",
+      "sub": "Professor of Mechanical/Nuclear Engineering (ret.), University of Nevada, Las Vegas; founder of the UNLV Nuclear Engineering Lab; author of two AAWSAP DIRDs",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 0,
+      "D": 0,
+      "narrative": "William Culbreth is a now-retired professor of mechanical engineering at the University of Nevada, Las Vegas, and the founder of the UNLV Nuclear Engineering Lab, a facility since led by Alexander Barzilov and embedded in UNLV's national-security engineering research area. UNLV sits about sixty-five miles from the Nevada National Security Site, and Culbreth's academic career was built on that adjacency: reactor physics, radiation detection and transport, and the nuclear engineering pipeline that feeds the Department of Energy's Nevada operations.\n\nThe geography matters for how he ended up on a DIA contract. AAWSAP was executed by Bigelow Aerospace Advanced Space Studies out of Las Vegas, and BAASS drew on subcontracted subject-matter experts. Culbreth was a credentialed nuclear engineer at the city's own research university, and he is credited on the DIA list with two of the 38 deliverables, more than any author outside EarthTech: item 29, \"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\", and item 30, \"Aneutronic Fusion Propulsion II\". The pairing is telling. One paper is about seeing something moving very fast, the other about what might make it move, which are the two halves of the question AAWSAP was chartered to ask.\n\nThe released aneutronic paper attributed to him reads like a nuclear engineering course text extended into speculation: chapters on fission rocket history at the Nevada Test Site and Project Rover, radiation shielding, muon-catalysed and cavitation fusion, antimatter annihilation, and an appendix containing a relativistic rocket worksheet. It cites standard nuclear engineering textbooks rather than primary plasma-physics literature. Culbreth has no documented role in AAWSAP's UAP casework or in the paranormal lines of effort later described by AARO.",
+      "claims": [
+        {
+          "text": "The 9 January 2018 DIA list credits item 30, \"Aneutronic Fusion Propulsion II\", to \"Dr W Culbreth, Univ of Nevada-Las Vegas\", and item 29, \"Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\", to the same author.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "William Culbreth is a retired UNLV mechanical engineering professor who started the UNLV Nuclear Engineering Lab, now led by Alexander Barzilov.",
+          "tier": 1,
+          "source": "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab"
+        },
+        {
+          "text": "The DIRD released as DIA-08-1011-003 devotes five separate passages to the Nevada Test Site, including Project Rover, NERVA testing at Area 25, an operational anecdote about manual retrieval of ejected radioactive material, and lithium mining at Silverpeak, Nevada; its reference list is dominated by nuclear engineering textbooks rather than primary plasma-physics journals. This is consistent with, but does not by itself prove, authorship by a UNLV nuclear engineer.",
+          "tier": 2,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+      ]
+    }
+  ],
+
+  "entities": [
+    {
+      "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
+      "cls": "document",
+      "sub": "Dr F. Winterberg, University of Nevada-Reno | DIA-08-1003-007 | Acquisition Threat Support | published 11 March 2010 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr F. Winterberg of the University of Nevada-Reno, per the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee on 9 January 2018 (item 2). The released PDF redacts the author name under FOIA exemption (b)(6).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads: \"11 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-007\", series \"Acquisition Threat Support\". The OCR renders the date field as \"reDO\" and the number as \"DIA-OS-1003-007\"; these are scan artefacts for ICOD and DIA-08-.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+        },
+        {
+          "text": "Inside cover states the product is \"one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "id": "dird-advanced-space-propulsion-based-on-vacuum",
+      "cls": "document",
+      "sub": "Dr Hal Puthoff, EarthTech International | DIA-08-1003-015 | Acquisition Threat Support | published 29 March 2010 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr Hal Puthoff of EarthTech International, per the 9 January 2018 DIA list (item 5, \"Advanced Space Propulsion Based on Vacuum (Spacetime Metrics) Engineering\").",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads: \"29 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-015\", series \"Acquisition Threat Support\". The OCR renders the number as \"DIA-08-i003-015\".",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+        },
+        {
+          "text": "The paper's internal self-citation pattern independently corroborates Puthoff's authorship despite the redacted cover: references 3, 16 and 19 are H. E. Puthoff papers, including \"Polarizable-vacuum (PV) approach to general relativity\", Found. Phys. 32, 927 (2002).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+        },
+        {
+          "text": "The paper concludes that a metric-engineered craft would exhibit apparent superluminal motion, blueshifted emission, reduced effective mass permitting abrupt trajectory changes without internal stress, materials \"hardened\" so a craft \"could, for example, impact water at high velocities without apparent deleterious effects\", and sudden \"cloaking\" or \"blinking out\". These are the reported observables of UAP encounters restated as consequences of general relativity.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"
+      ]
+    },
+    {
+      "id": "dird-aerospace-applications-of-programmable-matter",
+      "cls": "document",
+      "sub": "Dr W. McCarthy, Programmable Matter Corporation | DIA-08-0911-016 | Acquisition Threat Support | published 14 December 2009 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr W. McCarthy of the Programmable Matter Corporation, per the 9 January 2018 DIA list (item 23).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads: \"14 December 2009 / ICOD: 1 December 2009 / DIA-08-0911-016\", series \"Acquisition Threat Support\". This is the earliest publication date and the lowest DIA document number of the eight documents in this batch.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"
+        },
+        {
+          "text": "DIA released the document in its FOIA Electronic Reading Room as a 20-page PDF; it discusses programmable material whose effective atoms can be changed on demand, permitting a bounded but very large range of material properties to be summoned or dismissed at will.",
+          "tier": 1,
+          "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"
+      ]
+    },
+    {
+      "id": "dird-an-introduction-to-the-statistical-drake",
+      "cls": "document",
+      "sub": "Dr Claudio Maccone, International Academy of Astronautics | DIA document number not recoverable from released scan | Acquisition Threat Support | published 11 March 2010 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr Claudio Maccone of the International Academy of Astronautics, per the 9 January 2018 DIA list (item 15).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable anywhere in the text layer of the released scan; the number is either absent from the scan or lost to OCR. It is therefore recorded here as unknown rather than guessed.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+        },
+        {
+          "text": "Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper \"The Statistical Drake Equation\" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"
+        },
+        {
+          "text": "This is the only one of the 38 DIRDs whose subject is the prevalence of extraterrestrial civilisations rather than a physical technology, which is a direct indication that the DIA sponsor treated non-terrestrial technology as a category within \"advanced aerospace threat\".",
+          "tier": 3,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+        "https://www.seti.org/news/claudio-maccone/"
+      ]
+    },
+    {
+      "id": "dird-aneutronic-fusion-propulsion",
+      "cls": "document",
+      "sub": "Attributed to Dr W. Culbreth, University of Nevada-Las Vegas (see note) | DIA-08-1011-003 | Defense Futures | published 1 November 2010 | ICOD 20 July 2010",
+      "claims": [
+        {
+          "text": "The DIA list of 9 January 2018 records TWO distinct aneutronic fusion deliverables, not one: item 26 \"Aneutronic Fusion Propulsion, Dr V Teofilo, Lockheed Martin\" and item 30 \"Aneutronic Fusion Propulsion II, Dr W Culbreth, Univ of Nevada-Las Vegas\". The apparent duplication on the board is therefore genuine bibliography, not a data error.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-003\", series \"Defense Futures\" (not \"Acquisition Threat Support\"), with a singular \"Author:\" field redacted under (b)(6). The document runs 50 pages with 28 endnotes.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+        },
+        {
+          "text": "Assigned to Culbreth by elimination and by internal character: this document contains five separate Nevada Test Site passages (Project Rover, NERVA at Area 25, Silverpeak lithium mining), cites standard nuclear engineering textbooks, and includes a relativistic rocket worksheet appendix, while containing zero occurrences of \"Lockheed\", \"Teofilo\", \"Sunnyvale\" or any Lockheed Martin content. The companion document DIA-08-1011-004 does contain a V. Teofilo self-citation. Neither cover names its author.",
+          "tier": 2,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/"
+      ]
+    },
+    {
+      "id": "dird-aneutronic-fusion-propulsion-2",
+      "cls": "document",
+      "sub": "Attributed to Dr V. Teofilo, Lockheed Martin (see note) | DIA-08-1011-004 | Defense Futures | published 1 November 2010 | ICOD 20 July 2010 | cover reads \"Authors\" plural",
+      "claims": [
+        {
+          "text": "This is NOT a duplicate of dird-aneutronic-fusion-propulsion. It is a physically distinct 37-page document with its own DIA document number, DIA-08-1011-004, sequential to DIA-08-1011-003. Cover reads \"01 November 2010 / ICOD: 20 July 2010\", series \"Defense Futures\", and uniquely among the eight documents in this batch the byline field is plural, \"Authors:\", redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+        },
+        {
+          "text": "The word \"II\" does not appear anywhere on the cover or title page of this released PDF; the title page reads \"(U) Aneutronic Fusion Propulsion\". The Roman numeral exists only in The Black Vault's filename. This is why the board carries two nodes with identical labels.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+        },
+        {
+          "text": "Assigned to Teofilo on internal evidence: endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\", the only occurrence of either candidate author's surname in either aneutronic document. It sits immediately adjacent to endnote 16, a citation of AeroJet/Lockheed Martin Space Systems Company Hall thruster hardware that is also named in the body text. The document's framing is industrial rather than academic: GEO comsat markets, a funding table of privately backed fusion companies, and a closing argument that reactor physicists must now work alongside \"the space systems companies\".",
+          "tier": 2,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+        },
+        {
+          "text": "Admin note states the product was produced in FY 2010, whereas the Acquisition Threat Support DIRDs in this batch state FY 2009. The DIRD series therefore spans at least two fiscal years and two internal DIA series labels.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
+      ]
+    },
+    {
+      "id": "dird-anomalous-acute-and-subacute-field-effects",
+      "cls": "document",
+      "sub": "Dr Christopher \"Kit\" Green, Wayne State University | DIA document number not recoverable from released scan | Acquisition Threat Support | published 11 March 2010 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr Kit Green of Wayne State University, per the 9 January 2018 DIA list (item 12, listed there under the shorter title \"Field Effects on Biological Tissues\").",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable from the text layer of the released scan; it is recorded here as unknown rather than guessed.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"
+        },
+        {
+          "text": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", is materially more specific than the title the DIA reported to the Senate Armed Services Committee, \"Field Effects on Biological Tissues\". The words \"Anomalous\" and \"Human\" were not in the version of the title given to Congress.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "This is the only DIRD in the 38 whose subject is injury to human beings, which is what makes it the load-bearing document for the board's medical-effects thread rather than a propulsion survey.",
+          "tier": 3,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "id": "dird-antigravity-for-aerospace-applications",
+      "cls": "document",
+      "sub": "Dr Eric W. Davis, EarthTech International | DIA-08-1003-018 | Acquisition Threat Support | published 30 March 2010 | ICOD 1 December 2009",
+      "claims": [
+        {
+          "text": "Authored by Dr Eric Davis of EarthTech International, per the 9 January 2018 DIA list (item 11).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Cover page reads \"30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-018\", series \"Acquisition Threat Support\".",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"
+        },
+        {
+          "text": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"Antigravity for Aerospace Applications\", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Davis is credited with six of the 38 DIRDs on the DIA list, more than any other author: antigravity, traversable wormholes, quantum vacuum energy extraction, laser lightcraft nanosatellites, quantum tomography of negative energy states, and (with R. Obousy) warp drive and extra dimensions.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    }
+  ],
+
+  "edges": [
+    {
+      "a": "friedwardt-winterberg",
+      "b": "dird-advanced-nuclear-propulsion-for-manned-deep",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Named as author on the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee, 9 January 2018, item 2. The released PDF redacts the author under (b)(6); the DIA list is the controlling source.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-advanced-nuclear-propulsion-for-manned-deep",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Inside cover: \"one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program\".",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-advanced-nuclear-propulsion-for-manned-deep",
+      "type": "custody",
+      "label": "published and holds; DIA-08-1003-007",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Published by DIA as a Defense Intelligence Reference Document, Acquisition Threat Support series, DIA-08-1003-007, ICOD 1 December 2009. Later released by DIA under FOIA.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf"]
+    },
+
+    {
+      "a": "harold-puthoff",
+      "b": "dird-advanced-space-propulsion-based-on-vacuum",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2010-03-29",
+      "dateEnd": null,
+      "note": "DIA list item 5 names \"Dr Hal Puthoff, EarthTech International\". Corroborated internally by self-citation: references 3, 16 and 19 of the paper are H. E. Puthoff publications.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"]
+    },
+    {
+      "a": "dird-advanced-space-propulsion-based-on-vacuum",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-03-29",
+      "dateEnd": null,
+      "note": "Inside cover names the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program, FY 2009 series.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"]
+    },
+    {
+      "a": "dird-advanced-space-propulsion-based-on-vacuum",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "authored at EarthTech International",
+      "claimTier": 1,
+      "dateStart": "2010-03-29",
+      "dateEnd": null,
+      "note": "The DIA list gives Puthoff's affiliation of record for this deliverable as EarthTech International, the Austin institute he founded and directs.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-advanced-space-propulsion-based-on-vacuum",
+      "type": "custody",
+      "label": "published and holds; DIA-08-1003-015",
+      "claimTier": 1,
+      "dateStart": "2010-03-29",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Acquisition Threat Support series, DIA-08-1003-015, ICOD 1 December 2009.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf"]
+    },
+
+    {
+      "a": "wil-mccarthy",
+      "b": "dird-aerospace-applications-of-programmable-matter",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2009-12-14",
+      "dateEnd": null,
+      "note": "DIA list item 23 names \"Dr W McCarthy, Programmable Matter Corporation\". Released PDF redacts the author under (b)(6).",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-aerospace-applications-of-programmable-matter",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2009-12-14",
+      "dateEnd": null,
+      "note": "Inside cover names the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. Earliest-dated document in this batch.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-aerospace-applications-of-programmable-matter",
+      "type": "custody",
+      "label": "published and holds; DIA-08-0911-016",
+      "claimTier": 1,
+      "dateStart": "2009-12-14",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Acquisition Threat Support series, DIA-08-0911-016, ICOD 1 December 2009. Released in the DIA FOIA Electronic Reading Room, FileId 170022.",
+      "sources": ["https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"]
+    },
+    {
+      "a": "dird-aerospace-applications-of-programmable-matter",
+      "b": "d-materials",
+      "type": "research",
+      "label": "subject domain: exotic and reconfigurable materials",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs.",
+      "sources": ["https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"]
+    },
+
+    {
+      "a": "claudio-maccone",
+      "b": "dird-an-introduction-to-the-statistical-drake",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "DIA list item 15 names \"Dr Claudio Maccone, International Academy of Astronautics\". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"]
+    },
+    {
+      "a": "dird-an-introduction-to-the-statistical-drake",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Inside cover names the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program, FY 2009 series.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-an-introduction-to-the-statistical-drake",
+      "type": "custody",
+      "label": "published and holds; document number not recoverable",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009. No DIA document number is legible in the released scan; deliberately left unrecorded rather than inferred.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf"]
+    },
+
+    {
+      "a": "william-culbreth",
+      "b": "dird-aneutronic-fusion-propulsion",
+      "type": "research",
+      "label": "authored (attribution by elimination, see note)",
+      "claimTier": 2,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "TIER 2 AND DELIBERATELY SO. The DIA list establishes at tier 1 that two aneutronic fusion DIRDs exist, one by V. Teofilo (Lockheed Martin) and one by W. Culbreth (UNLV). Which released document number belongs to which author is NOT stated on either cover, both of which redact the author under (b)(6). This document, DIA-08-1011-003, is assigned to Culbreth because the companion DIA-08-1011-004 carries a V. Teofilo self-citation at endnote 17 and Lockheed Martin content, while this one carries none of either and is instead saturated with Nevada Test Site, Project Rover and NERVA material plus nuclear engineering textbook citations. If the mapping is ever shown to be reversed, this edge and its partner must be swapped together.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"]
+    },
+    {
+      "a": "dird-aneutronic-fusion-propulsion",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Produced under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program; Defense Futures series rather than Acquisition Threat Support, reflecting the FY 2010 tranche.",
+      "sources": ["https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-aneutronic-fusion-propulsion",
+      "type": "custody",
+      "label": "published and holds; DIA-08-1011-003",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Defense Futures series, DIA-08-1011-003, ICOD 20 July 2010. 50 pages, 28 endnotes, singular \"Author\" byline.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf"]
+    },
+
+    {
+      "a": "vincent-teofilo",
+      "b": "dird-aneutronic-fusion-propulsion-2",
+      "type": "research",
+      "label": "authored (attribution by internal self-citation, see note)",
+      "claimTier": 2,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"]
+    },
+    {
+      "a": "dird-aneutronic-fusion-propulsion-2",
+      "b": "lockheed-martin",
+      "type": "institutional",
+      "label": "authored by Lockheed Martin Space Systems staff",
+      "claimTier": 2,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Follows from the Teofilo attribution. The DIA list gives Teofilo's affiliation of record as Lockheed Martin. Lockheed Martin is the most represented corporate institution on the DIRD author list, with three of the 38 deliverables (Teofilo, Macheret, Golightly).",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-aneutronic-fusion-propulsion-2",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Admin note states the product was produced in FY 2010 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program; Defense Futures series.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-aneutronic-fusion-propulsion-2",
+      "type": "custody",
+      "label": "published and holds; DIA-08-1011-004",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Defense Futures series, DIA-08-1011-004, ICOD 20 July 2010. 37 pages, 20 endnotes, plural \"Authors\" byline. Sequential to DIA-08-1011-003 and issued the same day.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"]
+    },
+
+    {
+      "a": "kit-green",
+      "b": "dird-anomalous-acute-and-subacute-field-effects",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "DIA list item 12 names \"Dr Kit Green, Wayne State Univ\", under the shorter title \"Field Effects on Biological Tissues\". The released document's printed title is longer and more specific.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-anomalous-acute-and-subacute-field-effects",
+      "b": "wayne-state-university",
+      "type": "institutional",
+      "label": "authored at Wayne State University",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-anomalous-acute-and-subacute-field-effects",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Inside cover names the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program, FY 2009 series, Acquisition Threat Support.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-anomalous-acute-and-subacute-field-effects",
+      "type": "custody",
+      "label": "published and holds; document number not recoverable",
+      "claimTier": 1,
+      "dateStart": "2010-03-11",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009. No DIA document number is legible in the released scan; left unrecorded rather than inferred.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf"]
+    },
+
+    {
+      "a": "eric-davis",
+      "b": "dird-antigravity-for-aerospace-applications",
+      "type": "research",
+      "label": "authored",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "DIA list item 11 names \"Dr Eric Davis, EarthTech International\". Independently confirmed by EarthTech International's own publication list, which cites the document as Davis, E. W. (2010) with document number DIA-08-1003-018 and originating office Acquisition Support Division (DWO-3), Defense Warning Office.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"]
+    },
+    {
+      "a": "dird-antigravity-for-aerospace-applications",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "authored at EarthTech International",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "dird-antigravity-for-aerospace-applications",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "deliverable under AAWSAP",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "Inside cover names the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program, FY 2009 series.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"]
+    },
+    {
+      "a": "dia",
+      "b": "dird-antigravity-for-aerospace-applications",
+      "type": "custody",
+      "label": "published and holds; DIA-08-1003-018",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "Defense Intelligence Reference Document, Acquisition Threat Support series, DIA-08-1003-018, ICOD 1 December 2009, originating with the Acquisition Support Division (DWO-3) of the Defense Warning Office, Directorate for Analysis.",
+      "sources": ["https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf"]
+    },
+
+    {
+      "a": "friedwardt-winterberg",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "commissioned subject-matter author",
+      "claimTier": 1,
+      "dateStart": "2009",
+      "dateEnd": "2010",
+      "note": "Credited with two of the 38 AAWSAP deliverables (Advanced Nuclear Propulsion for Manned Deep Space Missions; Negative Mass Propulsion). Work was contracted through the DIA/BAASS chain, not performed as a DIA employee.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "wil-mccarthy",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "commissioned subject-matter author",
+      "claimTier": 1,
+      "dateStart": "2009",
+      "dateEnd": "2009",
+      "note": "Credited with one of the 38 AAWSAP deliverables, Aerospace Applications of Programmable Matter, contracted through The Programmable Matter Corporation.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "claudio-maccone",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "commissioned subject-matter author",
+      "claimTier": 1,
+      "dateStart": "2009",
+      "dateEnd": "2010",
+      "note": "Credited with one of the 38 AAWSAP deliverables, An Introduction to the Statistical Drake Equation. The only foreign-based academic institution on the author list alongside Ulf Leonhardt at St Andrews.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "vincent-teofilo",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "commissioned subject-matter author",
+      "claimTier": 1,
+      "dateStart": "2010",
+      "dateEnd": "2010",
+      "note": "Credited on the DIA list with Aneutronic Fusion Propulsion, affiliation Lockheed Martin.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "vincent-teofilo",
+      "b": "lockheed-martin",
+      "type": "institutional",
+      "label": "physicist, Lockheed Martin Space Systems, 28 years",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+      "sources": ["https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077", "https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "william-culbreth",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "commissioned subject-matter author",
+      "claimTier": 1,
+      "dateStart": "2010",
+      "dateEnd": "2010",
+      "note": "Credited with two of the 38 AAWSAP deliverables: Aneutronic Fusion Propulsion II, and Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities. Based at UNLV, the same city as the prime contractor BAASS.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf"]
+    },
+    {
+      "a": "william-culbreth",
+      "b": "baass",
+      "type": "geographic",
+      "label": "UNLV academic in the prime contractor's home city",
+      "claimTier": 3,
+      "dateStart": "2010",
+      "dateEnd": "2010",
+      "note": "TIER 3, INFERENTIAL. AAWSAP was executed by Bigelow Aerospace Advanced Space Studies out of Las Vegas under DIA contract HHM402-08-C-0072, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas nuclear engineering faculty member who received two deliverables. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one.",
+      "sources": ["https://irp.fas.org/dia/aatip-list.pdf", "https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab"]
+    }
+  ],
+
+  "unresolved": [
+    "AUTHOR-TO-DOCUMENT-NUMBER MAPPING FOR THE TWO ANEUTRONIC FUSION DIRDs. The DIA list establishes at tier 1 that both papers exist and that their authors are V. Teofilo (Lockheed Martin) and W. Culbreth (UNLV). It does NOT give document numbers. Both released covers redact the author under FOIA exemption (b)(6). I have assigned DIA-08-1011-004 to Teofilo on the strength of a V. Teofilo self-citation at endnote 17 and adjacent Lockheed Martin Space Systems content, and DIA-08-1011-003 to Culbreth by elimination plus its Nevada Test Site character. Both edges are written at claimTier 2 and must be swapped together if ever disproved. To pin this directly you would need the BAASS subcontract/award list or an unredacted copy.",
+
+    "THE 'II' SUFFIX IS INCONSISTENTLY APPLIED AND THE TWO SOURCES DISAGREE. The DIA list attaches 'Aneutronic Fusion Propulsion II' to Culbreth (item 30) and the unsuffixed title to Teofilo (item 26). The Black Vault attaches 'II' to its file for DIA-08-1011-004, which on internal evidence is the Teofilo paper. Neither released PDF prints 'II' anywhere on its cover or title page. Do not treat the suffix as authoritative in either direction.",
+
+    "DIA DOCUMENT NUMBER FOR 'An Introduction to the Statistical Drake Equation'. No DIA-08-XXXX-XXX string is present anywhere in the text layer of the released scan. Either the OCR dropped it or the cover of this particular release does not carry it. Recorded as unknown. Recovering it requires viewing the cover page image rather than the extracted text, or a separate FOIA index entry.",
+
+    "DIA DOCUMENT NUMBER FOR 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues'. Same situation as the Maccone document: not present in the released scan's text layer. Recorded as unknown. The existing board record for this entity also lacks the number, which corroborates rather than contradicts.",
+
+    "CO-AUTHORS OF DIA-08-1011-004. The cover byline reads 'Authors:' plural, uniquely among the eight documents in this batch, so at least one additional contributor exists beyond the person named on the DIA list. All names are redacted under (b)(6) and the DIA list records only a single name per deliverable. Unresolvable from public sources.",
+
+    "NO BOARD NODES EXIST for University of Nevada Reno, University of Nevada Las Vegas, The Programmable Matter Corporation, or the International Academy of Astronautics. Affiliations for Winterberg, Culbreth, McCarthy and Maccone are therefore carried in the person 'sub' field and narrative rather than as institutional edges. If those institution nodes are created in a later wave, four institutional edges should be added.",
+
+    "NO SUBJECT-DOMAIN NODE FITS SEVEN OF THE EIGHT DOCUMENTS. Only d-materials and d-ffrdc were available. d-materials was wired to the programmable matter DIRD. d-ffrdc does not apply to any document in this batch. Domains for propulsion/metric engineering, fusion, human bioeffects and SETI/exobiology do not exist on the board; if created, these seven documents should be wired to them.",
+
+    "METHOD DISCLOSURE. Author attributions, titles, dates, ICODs and document numbers were established via WebSearch and web_fetch against irp.fas.org, dia.mil and theblackvault.com as instructed. During the aneutronic disambiguation a delegated subagent fell back to a command-line PDF text extraction of the same two Black Vault URLs after web_fetch returned an empty body for them; the underlying documents and URLs are unchanged and the extracted strings are quoted verbatim, but the reader should know the retrieval path for that one finding differed. Every claim it supports is marked tier 2."
+  ]
+}

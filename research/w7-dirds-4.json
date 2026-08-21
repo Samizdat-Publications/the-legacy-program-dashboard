@@ -1,0 +1,1161 @@
+{
+  "domain": "AAWSAP/AATIP Defense Intelligence Reference Documents (DIRDs) — batch 4 of 4. Authorship, affiliation, DIA document number, publication date and Intelligence Cut-Off Date established for eight DIRDs, and edges written to connect each document to its author, its commissioning programme and its publishing agency, so that the documents no longer hang off the dird-series filing hub alone.",
+  "note": "METHOD NOTE, load-bearing. Every released DIRD cover page redacts the author line under FOIA exemption (b)(6). Author attribution therefore does NOT come from the cover page. It comes from the Defense Intelligence Agency letter of 9 January 2018 from Christine Kapnisi, Chief, DIA Congressional Relations Division, to Sen. John McCain, Chairman, Senate Committee on Armed Services, which lists all 38 DIRDs by title and author. That letter is hosted by the FAS Intelligence Resource Program at https://irp.fas.org/dia/aatip-list.pdf. The PDF at that address did not render extractable text through the fetch tool used here; the attributions below were taken from Keith Basterfield's verbatim transcription of the same letter and its three-page attachment (published 17 January 2019, from the copy released by DIA Office of Corporate Communications to Nick Pope), cross-checked against the UAPedia summary of the same DIA list and against EarthTech International's own published citation list for Eric Davis. Document numbers, publication dates and Intelligence Cut-Off Dates were read directly off the released PDF cover pages held by The Black Vault. Where the DIA list and the released PDF disagree, both readings are recorded and the disagreement is flagged in unresolved[].",
+  "people": [
+    {
+      "id": "paul-czysz",
+      "label": "Paul A. Czysz",
+      "sub": "Hypersonics engineer; President, HyperTech Concepts LLC; Professor Emeritus of Aerospace Engineering, Saint Louis University",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 1,
+      "narrative": "Paul Czysz is the author the DIA list names for \"Space Access,\" the AAWSAP survey of how the United States has reached orbit and how it might do so differently. He is the least exotic figure in the DIRD author set and that is precisely what makes him useful. Czysz was a McDonnell Douglas hypersonics man, named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts, and served as chief scientist on the National Aerospace Plane effort. He left industry for Saint Louis University, held the Oliver L. Parks Endowed Chair in the Department of Aerospace and Mechanical Engineering at Parks College, and ran his own consultancy, HyperTech Concepts LLC, which is the affiliation the DIA letter records against his name.\n\nHis DIRD, DIA-08-1001-006, is dated March 2010 with an Intelligence Cut-Off Date of 1 December 2009, and it sits in the Acquisition Threat Support series. Its contents are conventional aerospace engineering: hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, operational cost of transatmospheric vehicles, landing ellipses for hypersonic gliders. There is no metric engineering in it and no anomalous physics. Its presence in the set matters for that reason. The thirty-eight DIRDs are routinely described as a wormhole-and-warp-drive catalogue; roughly half of them are ordinary technology forecasting of the kind a defence warning office commissions every year, and Czysz's paper is the clearest example. He is a control on the claim that AAWSAP was uniformly speculative.\n\nCzysz died in 2013, before the December 2017 disclosure of AATIP and well before the DIRDs surfaced in bulk in the 2022 FOIA release. He therefore never commented publicly on the programme, was never interviewed about it, and left no account of who commissioned the paper or what the tasking said. His custody proximity is nil and his access level was that of an unclassified subject-matter subcontractor. He is on the board as an author node, not as a witness.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr P Czysz, HyperTech.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
+          "tier": 2,
+          "source": "https://www.researchgate.net/profile/Paul-Czysz"
+        },
+        {
+          "text": "Czysz died in 2013, before the public disclosure of AATIP in December 2017 and before the bulk FOIA release of the DIRDs in March 2022. He gave no public account of the AAWSAP tasking.",
+          "tier": 2,
+          "source": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027"
+        },
+        {
+          "text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018 and its attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "DIA, list of 38 AAWSAP/AATIP products transmitted to Congress, 9 January 2018 (FAS Intelligence Resource Program mirror)",
+          "url": "https://irp.fas.org/dia/aatip-list.pdf",
+          "date": "2018-01-09"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+          "date": "2010-03"
+        },
+        {
+          "name": "Paul Czysz research profile, Saint Louis University, Department of Aerospace and Mechanical Engineering",
+          "url": "https://www.researchgate.net/profile/Paul-Czysz",
+          "date": null
+        },
+        {
+          "name": "Paul Czysz obituary, St. Louis Post-Dispatch",
+          "url": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
+          "date": "2013"
+        }
+      ]
+    },
+    {
+      "id": "richard-genik",
+      "label": "Richard J. Genik II",
+      "sub": "Physicist and neuroimaging researcher; Director, Emergent Technology Research Division, and research assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 1,
+      "narrative": "Richard Genik wrote three of the thirty-eight DIRDs, more than anyone except Eric Davis, and all three are human-factors papers rather than physics papers. The DIA list credits him with \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (item 20, released as \"Technological Approaches to...\"), \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\" (item 28), and \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\" (item 33). His affiliation on the list is Wayne State University, which is where the human-effects strand of AAWSAP concentrated.\n\nThat concentration is the reason he matters to this board. Wayne State is also the institution the DIA list gives for Christopher \"Kit\" Green, author of the field-effects-on-biological-tissues DIRD. Two of the thirty-eight papers, and three counting Genik's second and third, were written inside one medical school, and the human-effects line of AAWSAP inquiry runs through it. Genik is a physicist by training, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State, working in a psychiatry and behavioural neurosciences department on functional MRI measurement of cognitive workload in naturalistic multitasking environments. He directs Wayne State's Emergent Technology Research Division. He was one of fifteen experts selected by the US Army to advise on how the service should direct its neuroscience research funding over a twenty-year horizon.\n\nHis DIRD on limb-independent device control is DIA-08-1003-012, dated 23 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. In substance it is a brain-machine interface survey; the KLAS-TV list of the same document, published July 2018, titles it simply \"Brain-Machine Interfaces.\" That is the shortest description of what AAWSAP wanted from Wayne State: a forecast of how a pilot might fly something without hands.\n\nGenik has no documented custody proximity and no documented special access. He is wired here as an author and as the connective tissue between the DIRD series and the Wayne State human-effects cluster.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
+          "tier": 2,
+          "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+        },
+        {
+          "text": "The released DIRD cover page carries \"Author: [redacted (b)(6)]\" and the administrative note \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency Advanced Aerospace Weapon System Applications (AAWSA) Program.\"",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Wayne State University School of Medicine news profile, \"Richard Genik, Ph.D.\"",
+          "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+          "date": "2009-07-13"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+          "date": "2010-03-23"
+        }
+      ]
+    },
+    {
+      "id": "george-hathaway",
+      "label": "George D. Hathaway",
+      "sub": "Professional engineer; principal, Hathaway Consulting Services and Hathaway Research International, Toronto",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "George Hathaway is the author the DIA list names for \"Role of Superconductors in Gravity Research,\" and separately for \"Maverick Inventor Versus Corporate Inventor\" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.\n\nHathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory's stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people's extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.\n\nThat record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.\n\nHathaway's disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 10 as \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The same DIA list credits Hathaway with a second DIRD, item 16, \"Maverick Inventor Versus Corporate Inventor.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification.",
+          "tier": 2,
+          "source": "https://www.hathawayresearch.com/principal-staff/"
+        },
+        {
+          "text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
+          "tier": 2,
+          "source": "https://www.altpropulsion.com/gravity-control-experiments/"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Hathaway Research International, principal scientist and staff biographies",
+          "url": "https://www.hathawayresearch.com/principal-staff/",
+          "date": null
+        },
+        {
+          "name": "\"George Hathaway's Gravity Control Experiments,\" Alternative Propulsion Engineering Conference",
+          "url": "https://www.altpropulsion.com/gravity-control-experiments/",
+          "date": null
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"The Role of Superconductors in Gravity Research\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+          "date": "2010-03-23"
+        }
+      ]
+    },
+    {
+      "id": "john-cramer",
+      "label": "John G. Cramer",
+      "sub": "Professor Emeritus of Physics, University of Washington; author of the transactional interpretation of quantum mechanics",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 1,
+      "narrative": "The DIA list credits \"Space-Communication Implications of Quantum Entanglement and Nonlocality\" to Dr J Cramer, University of Washington. Cramer is a mainstream experimental nuclear physicist at the University of Washington who is known outside his field for the transactional interpretation of quantum mechanics, an advanced-and-retarded-wave reading of the quantum formalism that he has developed since the 1980s, and for a long-running attempt to test whether nonlocal correlations could be made to carry a signal.\n\nThat is exactly the question AAWSAP bought. The DIRD, DIA-08-1003-016, is dated 30 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. The KLAS-TV version of the list titles it \"Quantum Entanglement Communication,\" which states the tasking plainly: could entanglement be used as a communications channel, and if so what would that mean for space communication. The orthodox answer is that it cannot, because the no-communication theorem forbids it, and a defence warning office commissioning a survey on the point from the physicist most publicly associated with probing that boundary is a legible act rather than a strange one.\n\nCramer is the cleanest example in this batch of an AAWSAP author with an entirely conventional academic standing and no involvement in the UAP question before or after. He holds no documented special access, has no proximity to any custody claim, and has not to date been drawn into the disclosure argument that the DIRDs became the paper trail for. His node exists to hold the document to a real person and to record that the quantum-communications strand of AAWSAP was contracted to a named university physicist rather than to the programme's inner circle of consultants.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The KLAS-TV list of the same thirty-eight DIRDs, published 25 July 2018 by George Knapp and Matt Adams and confirmed genuine by Luis Elizondo, gives the same document as \"Quantum Entanglement Communication, Dr J Cramer, Univ of Washington.\"",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released DIRD is dated 30 March 2010, carries an Intelligence Cut-Off Date of 1 December 2009 and the document number DIA-08-1003-016, and sits in the Acquisition Threat Support series. The author line on the cover page is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+          "date": "2010-03-30"
+        }
+      ]
+    },
+    {
+      "id": "richard-obousy",
+      "label": "Richard K. Obousy",
+      "sub": "Theoretical physicist; principal, Obousy Consultants; president and founder, Icarus Interstellar",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "Richard Obousy is the correction this batch exists to make. \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" is the most cited and most reproduced of the thirty-eight DIRDs and is almost universally attributed in press coverage to Eric Davis. The DIA letter of 9 January 2018 does not say that. It lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" Obousy is the author of record on the government's own list. EarthTech International's published citation list gives the paper as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, which resolves the two records rather than contradicting them: it is a co-authored paper on which DIA recorded the lead author and the popular account recorded the famous one.\n\nThe distinction is not cosmetic. The warp-drive DIRD is routinely used to argue that a small circle of consultants wrote the programme's most exotic output for itself. On the DIA record the lead author is an outside theorist trading as a one-man consultancy, and the paper's substance, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy's own published work on dark energy and compactified extra dimensions rather than Davis's.\n\nObousy went on to found and lead Icarus Interstellar, the volunteer successor organisation to Project Daedalus that pursued interstellar flight study, where he appears on the team alongside Eric Davis and Friedwardt Winterberg, the DIA-listed author of the negative-mass and advanced-nuclear-propulsion DIRDs. That overlap is itself a finding: the exotic-propulsion half of the DIRD author set was drawn from an existing interstellar-studies community that predates AAWSAP and outlived it.\n\nThe document is DIA-08-1004-001, dated 2 April 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It was one of the first two DIRDs to reach the public internet, appearing in December 2017 and later confirmed genuine by Davis in correspondence with the researcher Isaac Koi.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Davis, as the author.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "EarthTech International's published citation list for Eric Davis gives the same paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is a co-authored paper with Obousy first named.",
+          "tier": 1,
+          "source": "http://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "Obousy appears on the Icarus Interstellar team alongside Eric Davis and Friedwardt Winterberg, both of whom are also DIA-listed DIRD authors.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+        },
+        {
+          "text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001,\" Acquisition Threat Support series, with the author line redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+          "url": "http://earthtech.org/pubs/davis/",
+          "date": null
+        },
+        {
+          "name": "Keith Basterfield, \"Those Defense Intelligence Reference Documents\"",
+          "url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+          "date": "2018-06-02"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+          "date": "2010-04-02"
+        }
+      ]
+    },
+    {
+      "id": "john-albertine",
+      "label": "J. Albertine",
+      "sub": "Directed Technologies; high-energy laser physicist, M.S.; probably John R. Albertine, formerly of the US Navy High Energy Laser Program Office",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 2,
+      "D": 1,
+      "narrative": "The DIA list names \"J Albertine, M.S., Directed Technologies\" as the author of the high-energy laser weapons DIRD, and it names him twice. Items 37 and 38 of the January 2018 attachment are the same paper in two versions, one unclassified and one formerly classified SECRET//NOFORN. That resolves what had been an open question in the public record: the thirty-eighth DIRD was not a missing exotic paper, it was the classified twin of the laser survey. Albertine is therefore the only author in the thirty-eight known to have produced a classified deliverable under AAWSAP, which is why his access score sits above the rest of the subject-matter author set.\n\nThe identification of \"J Albertine\" with John R. Albertine is a reasoned inference rather than a documented match and is recorded here as such. John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's degree in applied physics from Johns Hopkins, which matches the \"M.S.\" the DIA list appends to the name. He was a senior staff physicist in the Space Division of the Johns Hopkins Applied Physics Laboratory, then from 1976 to 1997 worked in the US Navy's High Energy Laser Program Office directing Navy HEL programmes, retiring from civil service in 1997 and consulting thereafter for OSD, the Air Force, ONR, the Navy HEL programme office and Penn State in the directed-energy field. He guest-edited the high-energy laser systems and components special section of Optical Engineering in 2012. No public source consulted here links him by name to Directed Technologies or to AAWSAP, and that gap is recorded in unresolved[].\n\nThe unclassified version, DIA-08-1003-019, is dated 31 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It is the one straightforwardly operational weapons paper in the set, and it is the one the programme classified.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the unclassified version by the same author.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's in applied physics from Johns Hopkins; he was a senior staff physicist at the Johns Hopkins Applied Physics Laboratory Space Division and from 1976 to 1997 worked in the US Navy High Energy Laser Program Office, consulting afterwards for OSD, the Air Force, ONR and the Navy HEL programme office.",
+          "tier": 2,
+          "source": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full"
+        },
+        {
+          "text": "The identification of the DIA-listed \"J Albertine, M.S., Directed Technologies\" with John R. Albertine of the Navy HEL programme is an inference from the shared field, the matching M.S. credential and the consulting career, not a documented match. No source consulted names John R. Albertine as an employee of Directed Technologies or as an AAWSAP author.",
+          "tier": 3,
+          "source": "No attributed source on file"
+        },
+        {
+          "text": "The released unclassified version reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" Acquisition Threat Support series, author line redacted under (b)(6). Note that the DIA list title reads \"Evaluation\" where the released document reads \"Evolution.\"",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "John R. Albertine, \"Special Section Guest Editorial: High-Energy Laser Systems and Components,\" Optical Engineering 52(2), 021001 (biographical note)",
+          "url": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
+          "date": "2012-11-29"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+          "date": "2010-03-31"
+        }
+      ]
+    },
+    {
+      "id": "j-golightly",
+      "label": "J. Golightly",
+      "sub": "Lockheed Martin; author of record for the AAWSAP ultracapacitors DIRD. Given name not established in any source consulted.",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 0,
+      "narrative": "The DIA letter of 9 January 2018 gives item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" That is the entirety of what the government record says about this author, and nothing further was established here. No public biography, publication list or institutional page consulted resolves the initial to a given name. The node is deliberately labelled with the initial rather than a guess, because the whole point of this exercise is that a wrong attribution is worse than an unwired document.\n\nWhat the affiliation does establish is worth recording. Lockheed Martin is the DIA-listed employer for three of the thirty-eight DIRDs: this ultracapacitors paper, \"Aneutronic Fusion Propulsion\" by Dr V Teofilo, and \"Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications\" by Dr S Macheret. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was undertaken by colleagues at Lockheed Martin, which matches the list. AAWSAP did not only buy papers from universities and one-man consultancies; it bought three from a prime contractor, and Lockheed Martin is a board node on other grounds entirely. The ultracapacitors DIRD is one of the concrete threads between the DIRD series and the contractor-custody cluster.\n\nThe document is DIA-08-1011-005, dated 1 November 2010 with an Intelligence Cut-Off Date of 20 July 2010. It is a late DIRD, from the second wave rather than the FY2009 batch, and its Intelligence Cut-Off Date is correspondingly later than the 1 December 2009 that most of the earlier papers carry. Its subject is unglamorous energy-storage engineering with obvious conventional military application and no anomalous content.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "No source consulted establishes the given name behind the initial \"J\" for Golightly, or any biographical detail beyond the Lockheed Martin affiliation recorded on the DIA list.",
+          "tier": 1,
+          "source": "No attributed source on file"
+        },
+        {
+          "text": "Lockheed Martin is the DIA-listed affiliation for three DIRDs: Golightly's ultracapacitors paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion\" and Dr S Macheret's MHD air-breathing propulsion paper.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-005,\" with the author line redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Keith Basterfield, \"Back to those 38 Defense Intelligence Reference Documents (DIRDs)\" — verbatim transcription of the DIA letter of 9 January 2018",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Defense Intelligence Reference Document, \"Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+          "date": "2010-11-01"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "dird-space-access-where-we-ve-been",
+      "cls": "document",
+      "sub": "Dr P. Czysz, HyperTech (HyperTech Concepts LLC) · DIA-08-1001-006 · March 2010 · ICOD 1 December 2009 · Acquisition Threat Support series",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018 to the Senate Armed Services Committee, item 4: \"Space Access, Dr P Czysz, HyperTech.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"March 2010 / ICOD: 1 December 2009 / DIA-08-1001-006,\" series \"Acquisition Threat Support,\" full title \"Space Access: Where We've Been ... and Where We Could Go.\"",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+        },
+        {
+          "text": "Inside cover administrative note: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\" The author line reads \"Author: [redacted (b)(6)].\"",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+        },
+        {
+          "text": "Contents are conventional hypersonics and launch engineering: propulsion perspective, hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, atmospheric variations, and appendices on transatmospheric vehicle operational costs and landing ellipses for hypersonic gliders. No anomalous-physics content.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"Space Access: Where We've Been ... and Where We Could Go\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+          "date": "2010-03"
+        },
+        {
+          "name": "DIA FOIA Electronic Reading Room — Space Access: Where We've Been and Where We Could Go",
+          "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/",
+          "date": "2010-03"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        }
+      ]
+    },
+    {
+      "id": "dird-state-of-the-art-and-evolution",
+      "cls": "document",
+      "sub": "J. Albertine, M.S., Directed Technologies · DIA-08-1003-019 · 31 March 2010 · ICOD 1 December 2009 · Acquisition Threat Support series · exists in unclassified and formerly SECRET//NOFORN versions",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art and Evaluation of High Energy Laser Weapons, J Albertine, Directed technologies. (Formerly classified SECRET/NOFORN.)\" and item 38, the same title and author unclassified.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf"
+        },
+        {
+          "text": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the released document is titled \"State of the Art and Evolution of High-Energy Laser Weapons.\" Evaluation versus Evolution is an unresolved discrepancy between the government list and the government document.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier KLAS-TV list of July 2018 carried only as \"Redacted.\" It is the sole DIRD known to have had a classified version, making it the only classified deliverable in the set.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"State of the Art and Evolution of High-Energy Laser Weapons\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+          "date": "2010-03-31"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/",
+          "date": "2022-03-31"
+        }
+      ]
+    },
+    {
+      "id": "dird-technological-approaches-to-controlling-external-devices",
+      "cls": "document",
+      "sub": "Dr R. Genik (Richard J. Genik II), Wayne State University · DIA-08-1003-012 · 23 March 2010 · ICOD 1 December 2009 · Acquisition Threat Support series",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"23 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-012,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+        },
+        {
+          "text": "The earlier KLAS-TV list of the same document, published 25 July 2018, titles it \"Brain-Machine Interfaces, Dr R Genik, Wayne State Univ.\" The DIA title and the KLAS title describe the same paper.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "One of three DIRDs written by Genik, and one of four DIRDs whose DIA-listed affiliation is Wayne State University, the fourth being Kit Green's \"Field Effects on Biological Tissues.\" The human-effects and human-interface strand of AAWSAP concentrated at that institution.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+          "date": "2010-03-23"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Wayne State University School of Medicine news profile, \"Richard Genik, Ph.D.\"",
+          "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+          "date": "2009-07-13"
+        }
+      ]
+    },
+    {
+      "id": "dird-the-role-of-superconductors-in-gravity",
+      "cls": "document",
+      "sub": "Dr George D. Hathaway, Hathaway Consulting (Hathaway Consulting Services, Toronto) · DIA-08-1003-013 · 23 March 2010 · ICOD printed as 1 December 2010 · Acquisition Threat Support series",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This attribution corrects the common assumption that the paper was written by one of the academic gravity-modification claimants whose work it reviews.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"23 March 2010 / ICOD: 1 December 2010 / DIA-08-1003-013,\" series \"Acquisition Threat Support.\" The printed Intelligence Cut-Off Date is later than the printed publication date, which is anomalous; every other DIRD in this batch from the same March 2010 tranche carries ICOD 1 December 2009. The reading is recorded as printed and flagged.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+        },
+        {
+          "text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
+          "tier": 2,
+          "source": "https://www.altpropulsion.com/gravity-control-experiments/"
+        },
+        {
+          "text": "The author line on the released cover page is redacted under (b)(6); the inside cover carries the standard AAWSA FY2009 administrative note.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"The Role of Superconductors in Gravity Research\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+          "date": "2010-03-23"
+        },
+        {
+          "name": "DIA FOIA Electronic Reading Room — The Role of Superconductors in Gravity Research",
+          "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/",
+          "date": "2010-03-23"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "\"George Hathaway's Gravity Control Experiments,\" Alternative Propulsion Engineering Conference",
+          "url": "https://www.altpropulsion.com/gravity-control-experiments/",
+          "date": null
+        }
+      ]
+    },
+    {
+      "id": "dird-the-space-communication-implications-of-quantum",
+      "cls": "document",
+      "sub": "Dr J. Cramer (John G. Cramer), University of Washington · DIA-08-1003-016 · 30 March 2010 · ICOD 1 December 2009 · Acquisition Threat Support series",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-016,\" series \"Acquisition Threat Support.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+        },
+        {
+          "text": "The earlier KLAS-TV list titles the same document \"Quantum Entanglement Communication,\" stating the tasking directly: whether entanglement can be made to carry a signal, and what that would mean for space communication.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"The Space-Communication Implications of Quantum Entanglement and Nonlocality\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+          "date": "2010-03-30"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        }
+      ]
+    },
+    {
+      "id": "dird-traversable-wormholes-stargates-and-negative-energy",
+      "cls": "document",
+      "sub": "Dr Eric W. Davis, EarthTech International · DIA-08-1004-004 · 6 April 2010 · ICOD 1 December 2009 · Acquisition Threat Support series, Acquisition Support Division (DWO-3), Defense Warning Office",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"6 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-004.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf"
+        },
+        {
+          "text": "EarthTech International's own citation list records the paper as \"Davis, E. W. (2010), 'Traversable Wormholes, Stargates, and Negative Energy,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-004, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\"",
+          "tier": 1,
+          "source": "http://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"Traversable Wormholes, Stargates, and Negative Energy\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+          "date": "2010-04-06"
+        },
+        {
+          "name": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+          "url": "http://earthtech.org/pubs/davis/",
+          "date": null
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "Keith Basterfield, \"Those Defense Intelligence Reference Documents\" (provenance of the first leaked copies)",
+          "url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
+          "date": "2018-06-02"
+        }
+      ]
+    },
+    {
+      "id": "dird-ultracapacitors-as-energy-and-power-storage",
+      "cls": "document",
+      "sub": "Dr J. Golightly, Lockheed Martin · DIA-08-1011-005 · 1 November 2010 · ICOD 20 July 2010",
+      "claims": [
+        {
+          "text": "Author of record per the DIA letter of 9 January 2018, item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\"",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The released cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-005.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+        },
+        {
+          "text": "A late-tranche DIRD. Its Intelligence Cut-Off Date of 20 July 2010 and DIA-08-1011 series number place it with the November 2010 batch rather than the FY2009 March-April 2010 tranche that carries ICOD 1 December 2009.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+        },
+        {
+          "text": "One of three DIRDs whose DIA-listed affiliation is Lockheed Martin, alongside Dr V Teofilo's \"Aneutronic Fusion Propulsion\" and Dr S Macheret's MHD air-breathing propulsion paper.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+          "date": "2010-11-01"
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        }
+      ]
+    },
+    {
+      "id": "dird-warp-drive-dark-energy-and-the",
+      "cls": "document",
+      "sub": "Dr Richard K. Obousy, Obousy Consultants (lead author per DIA list), with Eric W. Davis, EarthTech International (co-author per EarthTech citation) · DIA-08-1004-001 · 2 April 2010 · ICOD 1 December 2009 · Acquisition Threat Support series, Acquisition Support Division (DWO-3), Defense Warning Office",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" The government's own list names Obousy, not Eric Davis, as the author of record. The widespread press attribution of this paper to Davis alone is not supported by the DIA list.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "EarthTech International's citation list gives the paper as \"Obousy, R. K. and Davis, E. W. (2010), 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions,' Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-001, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.\" It is co-authored, with Obousy first named, which reconciles the DIA list with the popular attribution.",
+          "tier": 1,
+          "source": "http://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "The released cover page reads \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001.\" The author line is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf"
+        },
+        {
+          "text": "One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)",
+          "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+          "date": "2010-04-02"
+        },
+        {
+          "name": "EarthTech International, publications list for Eric W. Davis (DIRD citations)",
+          "url": "http://earthtech.org/pubs/davis/",
+          "date": null
+        },
+        {
+          "name": "Keith Basterfield, transcription of the DIA letter of 9 January 2018 and its three-page attachment",
+          "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+          "date": "2019-01-17"
+        },
+        {
+          "name": "UAPedia, \"Origins of AATIP/AAWSAP: Programs & DIRDs\" (independent summary of the DIA list crediting the warp-drive paper to R. Obousy)",
+          "url": "https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/",
+          "date": "2026-03-06"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "paul-czysz",
+      "b": "dird-space-access-where-we-ve-been",
+      "type": "research",
+      "label": "author of record on the DIA list",
+      "claimTier": 1,
+      "dateStart": "2010-03",
+      "dateEnd": null,
+      "note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-space-access-where-we-ve-been",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "FY2009 AAWSAP deliverable",
+      "claimTier": 1,
+      "dateStart": "2010-03",
+      "dateEnd": null,
+      "note": "Inside cover: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\" Comments were to be addressed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf"
+      ]
+    },
+    {
+      "a": "dird-space-access-where-we-ve-been",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1001-006, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-03",
+      "dateEnd": null,
+      "note": "Cover page: \"March 2010 / ICOD: 1 December 2009 / DIA-08-1001-006,\" prepared by the Defense Intelligence Agency. Released under FOIA and held in the DIA FOIA Electronic Reading Room.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/"
+      ]
+    },
+    {
+      "a": "john-albertine",
+      "b": "dird-state-of-the-art-and-evolution",
+      "type": "research",
+      "label": "author of record on the DIA list, both versions",
+      "claimTier": 1,
+      "dateStart": "2010-03-31",
+      "dateEnd": null,
+      "note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-state-of-the-art-and-evolution",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "AAWSAP deliverable; the only one with a classified version",
+      "claimTier": 1,
+      "dateStart": "2010-03-31",
+      "dateEnd": null,
+      "note": "The existence of a SECRET//NOFORN twin of this paper is the answer to the long-standing question of what the redacted 38th DIRD was. It is also the counterexample to DIA's October 2009 assessment that the AAWSAP deliverables were basic research not warranting Special Access Program protection: one deliverable was in fact classified, and it was the conventional directed-energy weapons survey rather than any of the exotic-physics papers.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-state-of-the-art-and-evolution",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1003-019, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-03-31",
+      "dateEnd": null,
+      "note": "Cover page: \"31 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-019.\" Released under FOIA in the March 2022 bulk release of 37 DIRDs.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"
+      ]
+    },
+    {
+      "a": "richard-genik",
+      "b": "dird-technological-approaches-to-controlling-external-devices",
+      "type": "research",
+      "label": "author of record on the DIA list",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-technological-approaches-to-controlling-external-devices",
+      "b": "wayne-state-university",
+      "type": "institutional",
+      "label": "author's affiliation of record",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "Wayne State is the DIA-listed affiliation for four DIRDs: Genik's three human-factors papers and Kit Green's \"Field Effects on Biological Tissues.\" That makes it the single most productive institution in the DIRD set after EarthTech International, and the locus of the programme's human-effects line of inquiry.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+      ]
+    },
+    {
+      "a": "dird-technological-approaches-to-controlling-external-devices",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "FY2009 AAWSAP deliverable",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "Inside cover carries the standard AAWSA FY2009 administrative note and directs comments to the AAWSA Program Manager at DIA.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+      ]
+    },
+    {
+      "a": "dird-technological-approaches-to-controlling-external-devices",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1003-012, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "Cover page: \"23 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-012.\"",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+      ]
+    },
+    {
+      "a": "george-hathaway",
+      "b": "dird-the-role-of-superconductors-in-gravity",
+      "type": "research",
+      "label": "author of record on the DIA list",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "DIA list item 10: \"Role of Superconductors in Gravity Research, Dr George Hathaway, Hathaway Consulting.\" This is the attribution most likely to be got wrong from the title alone: the paper reviews the Podkletnov and Ning Li gravity-modification claims but was not written by either of them or by any academic advocate of the effect. It was written by the Toronto engineer who had run the Podkletnov replication and reported null results.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-the-role-of-superconductors-in-gravity",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "FY2009 AAWSAP deliverable",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "Inside cover: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\"",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+      ]
+    },
+    {
+      "a": "dird-the-role-of-superconductors-in-gravity",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1003-013, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "Cover page as printed: \"23 March 2010 / ICOD: 1 December 2010 / DIA-08-1003-013.\" The Intelligence Cut-Off Date printed on this document postdates its publication date, which is anomalous against every other March 2010 DIRD examined. Recorded as printed and flagged in unresolved[].",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/"
+      ]
+    },
+    {
+      "a": "dird-the-role-of-superconductors-in-gravity",
+      "b": "d-materials",
+      "type": "research",
+      "label": "subject domain: superconducting materials and claimed gravitational coupling",
+      "claimTier": 1,
+      "dateStart": "2010-03-23",
+      "dateEnd": null,
+      "note": "The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf"
+      ]
+    },
+    {
+      "a": "john-cramer",
+      "b": "dird-the-space-communication-implications-of-quantum",
+      "type": "research",
+      "label": "author of record on the DIA list",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "DIA list item 25: \"Space_Communication Implications of Quantum Entanglement and Nonlocality, Dr J Cramer, Univ of Washington.\" A mainstream university physicist, not a programme insider.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-the-space-communication-implications-of-quantum",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "FY2009 AAWSAP deliverable",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "Standard AAWSA FY2009 administrative note on the inside cover. The tasking, per the KLAS-TV rendering of the title, was quantum entanglement communication.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+      ]
+    },
+    {
+      "a": "dird-the-space-communication-implications-of-quantum",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1003-016, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "Cover page: \"30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-016.\"",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf"
+      ]
+    },
+    {
+      "a": "eric-davis",
+      "b": "dird-traversable-wormholes-stargates-and-negative-energy",
+      "type": "research",
+      "label": "author of record on the DIA list and on EarthTech's own citation list",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "DIA list item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" Unlike the warp-drive paper, the popular attribution to Davis is confirmed by the government list here. EarthTech's own bibliography carries the same citation with the document number DIA-08-1004-004.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "http://earthtech.org/pubs/davis/",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-traversable-wormholes-stargates-and-negative-energy",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+      "sources": [
+        "http://earthtech.org/pubs/davis/",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-traversable-wormholes-stargates-and-negative-energy",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "Produced under the DIA AAWSA Program contract executed by BAASS. Eric Davis has described his role as a BAASS subcontractor tasked with setting up the expert studies and extrapolating terrestrial technology to roughly 2050.",
+      "sources": [
+        "http://earthtech.org/pubs/davis/",
+        "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+      ]
+    },
+    {
+      "a": "dird-traversable-wormholes-stargates-and-negative-energy",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1004-004, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "Cover page: \"6 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-004.\" Issued through the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+        "http://earthtech.org/pubs/davis/"
+      ]
+    },
+    {
+      "a": "j-golightly",
+      "b": "dird-ultracapacitors-as-energy-and-power-storage",
+      "type": "research",
+      "label": "author of record on the DIA list",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "dird-ultracapacitors-as-energy-and-power-storage",
+      "b": "lockheed-martin",
+      "type": "institutional",
+      "label": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+      ]
+    },
+    {
+      "a": "dird-ultracapacitors-as-energy-and-power-storage",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "AAWSAP deliverable, late tranche",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Dated 1 November 2010 with an Intelligence Cut-Off Date of 20 July 2010 and a DIA-08-1011 series number, placing it in the November 2010 batch rather than the FY2009 tranche delivered in March and April 2010. The DIRD series was produced in at least two waves.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+      ]
+    },
+    {
+      "a": "dird-ultracapacitors-as-energy-and-power-storage",
+      "b": "d-materials",
+      "type": "research",
+      "label": "subject domain: energy-storage materials for commercial and military applications",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf"
+      ]
+    },
+    {
+      "a": "richard-obousy",
+      "b": "dird-warp-drive-dark-energy-and-the",
+      "type": "research",
+      "label": "author of record on the DIA list; lead author",
+      "claimTier": 1,
+      "dateStart": "2010-04-02",
+      "dateEnd": null,
+      "note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
+      "sources": [
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "http://earthtech.org/pubs/davis/",
+        "https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/"
+      ]
+    },
+    {
+      "a": "eric-davis",
+      "b": "dird-warp-drive-dark-energy-and-the",
+      "type": "research",
+      "label": "co-author per EarthTech International's own citation",
+      "claimTier": 1,
+      "dateStart": "2010-04-02",
+      "dateEnd": null,
+      "note": "EarthTech International's publications page cites the paper as \"Obousy, R. K. and Davis, E. W. (2010).\" Davis is a co-author, not the sole author, and is not the name DIA recorded on its list to Congress. Both facts are true and the board should carry both edges rather than collapse them.",
+      "sources": [
+        "http://earthtech.org/pubs/davis/"
+      ]
+    },
+    {
+      "a": "dird-warp-drive-dark-energy-and-the",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "AAWSAP deliverable, Acquisition Support Division (DWO-3)",
+      "claimTier": 1,
+      "dateStart": "2010-04-02",
+      "dateEnd": null,
+      "note": "Produced under the DIA AAWSA Program contract executed by BAASS. Along with the traversable-wormholes DIRD, this is one of the two papers that reached the public internet in December 2017, more than four years before the bulk FOIA release, and is the single most reproduced document of the thirty-eight.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
+      ]
+    },
+    {
+      "a": "dird-warp-drive-dark-energy-and-the",
+      "b": "dia",
+      "type": "institutional",
+      "label": "published by DIA as DIA-08-1004-001, Acquisition Threat Support series",
+      "claimTier": 1,
+      "dateStart": "2010-04-02",
+      "dateEnd": null,
+      "note": "Cover page: \"2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001.\" Issued through the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, per EarthTech's citation of the same document.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+        "http://earthtech.org/pubs/davis/"
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "item": "The authoritative DIA list PDF did not render",
+      "detail": "https://irp.fas.org/dia/aatip-list.pdf returned an HTML content type and no extractable text through the fetch tool used here, on four attempts including a cache-busting variant. All author attributions in this file therefore rest on Keith Basterfield's verbatim transcription of the same 9 January 2018 letter and its three-page attachment (published 17 January 2019 from the copy DIA's Office of Corporate Communications released to Nick Pope), cross-checked against UAPedia's independent summary of the same list and against EarthTech International's own citation list. The FAS URL is recorded on the edges as the primary, but it was not read directly."
+    },
+    {
+      "item": "Every released DIRD cover page redacts the author",
+      "detail": "All eight documents in this batch carry \"Author: [redacted (b)(6)]\" on the inside cover. No author name appears on any released DIRD. Any claim that a DIRD's authorship is confirmed \"on the cover page\" is false. Authorship is confirmed only by the DIA list to Congress and, for the Davis and Obousy papers, by EarthTech International's own bibliography."
+    },
+    {
+      "item": "J. Golightly given name unknown",
+      "detail": "The DIA list gives only \"Dr J Golightly, Lockheed Martin.\" No biography, publication record or institutional page consulted resolves the initial. The person node is labelled \"J. Golightly\" rather than expanded to a guess."
+    },
+    {
+      "item": "J. Albertine identification is an inference, not a match",
+      "detail": "The DIA list gives \"J Albertine, M.S., Directed Technologies.\" John R. Albertine, formerly of the US Navy High Energy Laser Program Office, holds an M.S. in applied physics from Johns Hopkins and consults in directed energy, which fits, but no source consulted places John R. Albertine at Directed Technologies or names him as an AAWSAP author. Carried as a tier-3 claim and reflected in the node label."
+    },
+    {
+      "item": "Superconductors DIRD Intelligence Cut-Off Date postdates publication",
+      "detail": "DIA-08-1003-013 is printed \"23 March 2010 / ICOD: 1 December 2010.\" An ICOD eight months after the publication date is anomalous; every other March 2010 DIRD examined in this batch carries ICOD 1 December 2009. The reading may be an error in the original or an artefact of the FOIA scan. Recorded as printed. Not corrected."
+    },
+    {
+      "item": "Laser weapons DIRD title differs between the DIA list and the document",
+      "detail": "The DIA list reads \"State of the Art and Evaluation of High Energy Laser Weapons.\" The released document reads \"State of the Art and Evolution of High-Energy Laser Weapons.\" The board node uses the document title. Evaluation versus Evolution is unresolved."
+    },
+    {
+      "item": "The board carries one node for a paper that exists in two versions",
+      "detail": "The DIA list enumerates the laser weapons paper twice, items 37 and 38, as an unclassified version and a formerly SECRET//NOFORN version. Only the unclassified version has been released. dird-state-of-the-art-and-evolution represents the released unclassified document; the classified twin has no node and no released text."
+    },
+    {
+      "item": "Warp-drive attribution: DIA list versus press and versus EarthTech",
+      "detail": "DIA names R. Obousy. Press names Eric Davis. EarthTech names both, Obousy first. Two research edges have been written rather than one, and neither is silently dropped. If the board's edge-rendering treats multiple authorship edges as a conflict rather than as co-authorship, this pair will need a display rule."
+    },
+    {
+      "item": "Directed Technologies and Obousy Consultants are not board nodes",
+      "detail": "Two author affiliations in this batch, Directed Technologies (Albertine) and Obousy Consultants (Obousy), plus HyperTech Concepts (Czysz) and Hathaway Consulting Services (Hathaway), have no existing institution node. Their affiliations are recorded in the person nodes' sub fields and narratives only. No institution edges were invented for them."
+    },
+    {
+      "item": "Only one subject-domain node was available",
+      "detail": "d-materials was the only domain node supplied. Two documents were wired to it, the superconductors and ultracapacitors papers, on straightforward materials grounds. The other six documents have no domain edge because no propulsion, directed-energy, human-factors or quantum-communications domain node was available to connect to. This is a gap in the wiring, not an absence of subject matter."
+    }
+  ]
+}

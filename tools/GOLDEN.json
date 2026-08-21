@@ -1,9 +1,9 @@
 {
  "note": "Deliberately accepted counts. Every change here should be explainable in the commit message.",
  "counts": {
-  "people": 246,
+  "people": 266,
   "entities": 694,
-  "edges": 1909,
+  "edges": 2030,
   "timeline": 858,
   "entity_classes": {
    "document": 198,
@@ -15,24 +15,24 @@
    "program": 68
   },
   "entity_tiers": {
-   "A": 140,
-   "B": 330,
-   "C": 470
+   "A": 143,
+   "B": 337,
+   "C": 480
   },
   "claim_tiers": {
-   "1": 2367,
-   "2": 1286,
-   "3": 495
+   "1": 2540,
+   "2": 1320,
+   "3": 498
   },
-  "unique_source_urls": 2713,
-  "l0_nodes": 101,
-  "l0_edges_direct": 179,
-  "l0_edges_summarised": 86,
-  "ledger": 765,
-  "path_only": 47,
-  "unattached": 27,
-  "l0_with_dossier": 101,
-  "l0_dossier_claims": 1430,
+  "unique_source_urls": 2780,
+  "l0_nodes": 102,
+  "l0_edges_direct": 180,
+  "l0_edges_summarised": 96,
+  "ledger": 794,
+  "path_only": 41,
+  "unattached": 23,
+  "l0_with_dossier": 102,
+  "l0_dossier_claims": 1444,
   "people_with_date": 245,
   "locations_with_coords": 46
  }

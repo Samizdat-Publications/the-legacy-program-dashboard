@@ -1,0 +1,981 @@
+{
+  "people": [
+    {
+      "id": "george-miley",
+      "label": "George H. Miley",
+      "sub": "Nuclear/plasma engineer, University of Illinois; author, DIRD 'Inertial Electrostatic Confinement Fusion' (DIA-08-1003-006)",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 3,
+      "narrative": "Miley is the author the DIA list places first: entry 1 on both the July 2018 KLAS list and the 9 January 2018 letter to the Senate Armed Services Committee reads 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released DIRD carries DIA document number DIA-08-1003-006, publication date 10 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. At 72 pages it is the longest of the thirty-seven released deliverables. Miley is a genuine subject-matter figure rather than a fringe recruit: he is the co-author, with S. Krupakar Murali, of the Springer monograph 'Inertial Electrostatic Confinement (IEC) Fusion: Fundamentals and Applications', and IEC has been his declared research line for decades. That matters for how the DIRD set should be read. Hal Puthoff's own account of the commissioning, given at the Society for Scientific Exploration conference in June 2018, is that he acted as a surrogate buyer precisely so that DIA would not have to expose why it wanted the answers: 'it's difficult for contractors to obtain expert opinions on advanced technologies because they would expose why they are interested. So, I acted as a surrogate.' Miley is what that procurement posture produces at the credible end - an established university engineer asked, without being told the reason, where his own compact-fusion field would stand by 2050. IEC fusion is one of the few AAWSAP topics with a plausible aerospace power-source reading rather than an exotic-physics one: a compact, non-tokamak fusion device is the sort of thing that would be needed if a small craft were producing the observed energy budget. The DIRD sits in the earliest release tranche alongside the invisibility-cloaking and biosensors papers, under the 'Acquisition Threat Support' banner, indicating it was commissioned in the first wave of the FY2009 series. No public statement by Miley about AAWSAP, AATIP or the purpose of the commission has been located.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists entry 1 as 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1003-006, publication date 10 March 2010 and Intelligence Cut-Off Date 1 December 2009, in the 'Acquisition Threat Support' series; the author block is redacted under FOIA exemption (b)(5).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
+        },
+        {
+          "text": "Miley is co-author of the Springer monograph 'Inertial Electrostatic Confinement (IEC) Fusion: Fundamentals and Applications', establishing IEC as his documented research field.",
+          "tier": 1,
+          "source": "https://link.springer.com/book/10.1007/978-1-4614-9338-9"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+        "https://link.springer.com/book/10.1007/978-1-4614-9338-9",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "id": "ulf-leonhardt",
+      "label": "Ulf Leonhardt",
+      "sub": "Theoretical physicist, University of St Andrews; author, DIRD 'Invisibility Cloaking: Theory and Experiments' (DIA-08-1003-001)",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 3,
+      "narrative": "Leonhardt wrote the lowest-numbered DIRD in the released set. The cover page of 'Invisibility Cloaking: Theory and Experiments' carries DIA-08-1003-001, publication date 2 March 2010 and an Intelligence Cut-Off Date of 1 December 2009 - the first document out of the FY2009 'Acquisition Threat Support' pipeline. Entry 7 on the DIA list to the Senate Armed Services Committee reads 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' He is the one AAWSAP author whom even the programme's harshest mainstream critic treated as unimpeachable: The War Zone's January 2019 audit of the list, which characterised several of the deliverables as junk science, singled Leonhardt out as a case where the title 'may sound particularly fanciful' but the work 'is grounded in real science to do with quantum physics and the behavior of light.' Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by 2009, one of two or three names internationally associated with the field. His presence is evidence for the interpretation that AAWSAP's commissioning was not indiscriminate. It also positions the cloaking paper as the signature-reduction leg of the survey. Puthoff's Broad Area Announcement account lists the twelve threat areas DIA wanted evaluated as including 'lift, propulsion, signature reduction, human effects and so on', and named invisibility cloaking explicitly among the papers he commissioned. The DIRD is therefore the direct answer to the signature-reduction question: if an object is observed on some sensors and not others, what does the physics of cloaking say about how that could be engineered, and where would it be by 2050. Knapp released a copy in February 2019, making it the fourth DIRD to reach the public before the March 2022 bulk FOIA release.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists entry 7 as 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1003-001, publication date 2 March 2010 and Intelligence Cut-Off Date 1 December 2009 - the lowest document number in the released set.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+        },
+        {
+          "text": "The War Zone's audit of the DIRD list, which called several deliverables junk science, identified Leonhardt as a genuine expert whose work 'is grounded in real science to do with quantum physics and the behavior of light.'",
+          "tier": 1,
+          "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+        },
+        {
+          "text": "Puthoff, describing the commission at the June 2018 Society for Scientific Exploration conference, named 'invisibility cloaking' among the papers he let contracts for.",
+          "tier": 1,
+          "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    },
+    {
+      "id": "bruce-towe",
+      "label": "Bruce C. Towe",
+      "sub": "Biomedical engineer; author of two DIRDs, 'Biosensors and BioMEMS' (DIA-08-1003-020) and 'Biomaterials'",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 1,
+      "D": 3,
+      "narrative": "Towe is one of only four authors to write more than one DIRD, and the only one whose pair sits entirely on the biological side of the survey. The DIA list to the Senate Armed Services Committee names him at entry 6, 'Biosensors and BioMEMS', and entry 17, 'Biomaterials', both attributed to 'Univ of Arizona'. The released 'Biosensors and BioMEMS: A Survey of the Present Field' carries DIA-08-1003-020, publication date 31 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. There is a documentable discrepancy worth flagging rather than smoothing: every located institutional record for Bruce Towe places him at Arizona State University's School of Biological and Health Systems Engineering, not the University of Arizona. The DIA list appears to have recorded the affiliation loosely; both the KLAS transcription and the 9 January 2018 letter carry the same 'Univ of Arizona' wording, so the error, if it is one, originates upstream in DIA's own list rather than in transcription. His documented field - implantable microelectronic biosensors, neurostimulation, brain-machine electrode fabrication - maps precisely onto the DIRD's contents, which run through brain-implanted BioMEMS neuroelectrodes, microelectrode array fabrication, retinal devices and therapeutic neurostimulation. Towe's papers matter to the board because they anchor the biomedical leg of AAWSAP alongside Kit Green's 'Field Effects on Biological Tissues' and Richard Genik's three neuro-interface deliverables. Puthoff's account of the Broad Area Announcement lists 'human effects' among the twelve threat areas DIA specified. Read together, the Towe, Green and Genik papers are the programme asking two questions at once: what does proximity to the phenomenon do to a human body, and what would a human-machine interface capable of flying such a vehicle have to look like.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists entry 6 as 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona' and entry 17 as 'Biomaterials, Dr Bruce Towe, Univ of Arizona.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1003-020, publication date 31 March 2010 and Intelligence Cut-Off Date 1 December 2009.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+        },
+        {
+          "text": "Towe's documented academic home is Arizona State University's School of Biological and Health Systems Engineering, where he researches neurostimulation, implantable microelectronics and bioelectronics - not the University of Arizona as recorded on the DIA list.",
+          "tier": 2,
+          "source": "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+        "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/",
+        "https://search.asu.edu/profile/43292"
+      ]
+    },
+    {
+      "id": "robert-baker",
+      "label": "Robert M. L. Baker, Jr.",
+      "sub": "GravWave LLC; author, DIRD 'High-Frequency Gravitational Wave Communications' (DIA-08-1004-005) - commissioned after a JASON review rejected the underlying physics",
+      "cluster": "research",
+      "tier": "B",
+      "C": 1,
+      "A": 2,
+      "D": 3,
+      "narrative": "Baker is the single most consequential author in this batch, not for what his DIRD says but for what its existence demonstrates about AAWSAP's quality control. Entry 9 on the DIA list to the Senate Armed Services Committee reads 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.' The released document carries DIA-08-1004-005, publication date 6 April 2010 and an Intelligence Cut-Off Date of 1 December 2009. Baker's company, GravWave LLC, had spent years promoting high-frequency gravitational waves as an enabling technology for communications, surveillance, propulsion and the remote initiation of nuclear events, and Baker had done HFGW work for the Office of the Director of National Intelligence. In 2008 the JASON advisory group - the standing panel of outside scientists convened to adjudicate exactly this class of question for the US government - reviewed that ODNI work and rejected it at the root. As quoted in The War Zone's audit of the AATIP list: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA then published Baker's HFGW paper as an official Defense Intelligence Reference Document roughly eighteen months later. That sequence is the finding. It is not that a government programme funded speculative physics - that was the stated purpose of the survey, which asked authors to project to 2050. It is that the programme published, on a JWICS-hosted reference series carrying DIA's imprimatur, a paper on a topic that the government's own senior scientific review body had already assessed as not merely unproven but wrong, and whose threat premise it had already declared not credible. Baker is separately linked into the AAWSAP author network through Eric Davis: the two co-authored a 2005 STAIF paper with R. C. Woods on HFGW radiation patterns and aerospace applications, and Davis himself presented at a DIA and National Security Space Office HFGW working group at MITRE in 2003. The commission was therefore not a blind buy from a stranger.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1004-005, publication date 6 April 2010 and Intelligence Cut-Off Date 1 December 2009.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+        },
+        {
+          "text": "A 2008 JASON advisory group review of HFGW work Baker had done for the Office of the Director of National Intelligence concluded, as quoted by The War Zone: 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible.'",
+          "tier": 1,
+          "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+        },
+        {
+          "text": "DIA published Baker's HFGW DIRD on 6 April 2010, after the 2008 JASON finding - the JASON report is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+          "tier": 1,
+          "source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+        },
+        {
+          "text": "Baker co-authored a 2005 STAIF conference paper on HFGW radiation patterns and aerospace applications with Eric W. Davis and R. C. Woods, establishing a pre-existing working link to the AAWSAP subcontractor who commissioned the DIRDs.",
+          "tier": 1,
+          "source": "https://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "Baker published an open-source version of the material in 2010: 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010.",
+          "tier": 1,
+          "source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+        "https://earthtech.org/pubs/davis/",
+        "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+      ]
+    },
+    {
+      "id": "marc-millis",
+      "label": "Marc G. Millis",
+      "sub": "Former NASA propulsion engineer, founder of the Tau Zero Foundation; author, DIRD 'Cockpits in the Era of Breakthrough Flight' (DIA-08-1011-002)",
+      "cluster": "research",
+      "tier": "C",
+      "C": 1,
+      "A": 2,
+      "D": 3,
+      "narrative": "The DIA list to the Senate Armed Services Committee records entry 27 as 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'; the released document carries DIA-08-1011-002, publication date 1 November 2010 and an Intelligence Cut-Off Date of 8 July 2010, and sits in the later 'Defense Futures' series rather than the earlier 'Acquisition Threat Support' tranche. Millis is the former head of NASA's Breakthrough Propulsion Physics project and the founder of the Tau Zero Foundation, and he is co-editor with Eric W. Davis of the 2009 AIAA volume 'Frontiers of Propulsion Science' - the same volume that contains the Davis and Puthoff chapter 'On Extracting Energy from the Quantum Vacuum'. The two men were therefore collaborators in print before the DIRD contract was let, which is the ordinary mechanism by which Puthoff's commissioning net was cast. Millis subsequently published an open-source version of the DIRD's argument as 'Cockpit considerations for Inertial-Affect and FTL Propulsion' in the Journal of the British Interplanetary Society in 2013, with an abstract that names 'Frontiers of Propulsion Science' as its primary reference - a clean, verifiable mapping from classified-adjacent deliverable to the open literature, of the kind Davis described when he said 'We allowed open domain publishing on the topics of these reports.' The paper is the most peculiar and, on reflection, the most revealing of the thirty-eight. It is not a physics paper. It asks what a crew station looks like once a vehicle has inertial control, hover-to-superluminal speed range, and no separation between ground, orbital and interstellar flight regimes - including the loss of the pilot's own inertial and visual motion cues. That is the question you commission if you are trying to reason backwards from observed flight behaviour to the design constraints on whatever is aboard. Millis's NASA departure followed a 1999 controversy over his attendance at a venture-capital event hosted by Joe Firmage.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1011-002, publication date 1 November 2010 and Intelligence Cut-Off Date 8 July 2010, in the 'Defense Futures' series.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+        },
+        {
+          "text": "Millis is co-editor with Eric W. Davis of 'Frontiers of Propulsion Science', AIAA Progress in Astronautics & Aeronautics Vol. 227 (2009), a documented pre-DIRD collaboration with the AAWSAP subcontractor.",
+          "tier": 1,
+          "source": "https://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "Millis published an open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion', in the Journal of the British Interplanetary Society in 2013.",
+          "tier": 1,
+          "source": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+        },
+        {
+          "text": "The DIA list records the author as 'Dr G Millis'; the identification with Marc G. Millis of the Tau Zero Foundation rests on the Tau Zero affiliation, the JBIS open-source counterpart published as 'M G Millis', and The War Zone's identification of Marc Millis as an AATIP author.",
+          "tier": 2,
+          "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+        "https://earthtech.org/pubs/davis/",
+        "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+        "https://tauzero.aero/who-we-are/",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "id": "richard-genik",
+      "label": "Richard J. Genik II",
+      "sub": "Wayne State University School of Medicine; author of three DIRDs including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft' (DIA-08-1101-001)",
+      "cluster": "research",
+      "tier": "B",
+      "C": 1,
+      "A": 2,
+      "D": 3,
+      "narrative": "Genik wrote three of the thirty-eight DIRDs, more than any author except Eric Davis, and all three are on the human side of the machine. The DIA list to the Senate Armed Services Committee attributes to him 'Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces' (listed by KLAS as 'Brain-Machine Interfaces'), 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft', and 'Quantum Computing and Utilizing Organic Molecules in Automation Technology'. The released 'Cognitive Limits' document carries DIA-08-1101-001, publication date 15 December 2010 and an Intelligence Cut-Off Date of 8 September 2010 - the highest document number of the eight examined here and among the last deliverables in the series. Genik was director of the Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army in 2009 to advise on how the service should direct its neuroscience research funding over the following two decades. He is therefore not a peripheral hire; he was already inside the defence neuroscience advisory circuit when AAWSAP reached him. The Wayne State connection is the structurally important fact. Kit Green, who wrote the AAWSAP paper on 'Field Effects on Biological Tissues' and who is already a node on this board, was at Wayne State in the same period. Wayne State thus supplied four of the thirty-eight deliverables across two authors, all of them on human effects and human-machine control - a concentration second only to EarthTech's six. The 'Cognitive Limits' question itself is telling: how many unmanned vehicles can one human mind fly at once. That is the design constraint you would need if you were reasoning about swarming behaviour or about a single operator controlling multiple objects.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 attributes three DIRDs to 'Dr R Genik, Wayne State Univ', including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1101-001, publication date 15 December 2010 and Intelligence Cut-Off Date 8 September 2010, in the 'Defense Futures' series.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+        },
+        {
+          "text": "Richard J. Genik II, Ph.D., was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army to advise on two decades of neuroscience research funding.",
+          "tier": 1,
+          "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+        },
+        {
+          "text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "id": "william-culbreth",
+      "label": "William Culbreth",
+      "sub": "Professor of Mechanical Engineering, University of Nevada Las Vegas; author of two DIRDs including 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (DIA-08-1012-001)",
+      "cluster": "research",
+      "tier": "B",
+      "C": 1,
+      "A": 2,
+      "D": 3,
+      "narrative": "Culbreth wrote two of the thirty-eight DIRDs: 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' and 'Aneutronic Fusion Propulsion II', both attributed on the DIA list to 'Dr W Culbreth, Univ of Nevada-Las Vegas'. The released tracking paper carries DIA-08-1012-001, publication date 20 November 2010 and an Intelligence Cut-Off Date of 30 August 2010, in the 'Defense Futures' series. He is a professor of mechanical engineering at UNLV whose open research record runs to nuclear waste management and thermal-hydraulic engineering. The hypersonic tracking DIRD is the sensor-side counterpart to the rest of the survey, and the one deliverable in this batch that reads most like conventional threat analysis rather than futures speculation: if an object is moving at hypersonic velocity, what would it take to detect and track it with high resolution. Read alongside Leonhardt's cloaking paper it forms a matched pair - one asks how an object could be made undetectable, the other asks how an object moving impossibly fast could nevertheless be tracked. Culbreth is also the AAWSAP author who has spoken most openly about the work: George Knapp published an interview with him in July 2019 and released the hypersonic tracking DIRD at that time, making it the fifth DIRD in the public domain nearly three years before DIA's bulk FOIA release of 25 March 2022. UNLV is separately documented as having analysed material samples for BAASS, so Culbreth's authorship sits inside a broader Bigelow-to-UNLV relationship rather than being an isolated academic contract.",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 attributes two DIRDs to 'Dr W Culbreth, Univ of Nevada-Las Vegas': 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' and 'Aneutronic Fusion Propulsion II.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released DIRD bears document number DIA-08-1012-001, publication date 20 November 2010 and Intelligence Cut-Off Date 30 August 2010, in the 'Defense Futures' series.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf"
+        },
+        {
+          "text": "George Knapp released the hypersonic tracking DIRD and published an interview with Culbreth in mid-2019, making it the fifth DIRD to reach the public before the March 2022 bulk FOIA release.",
+          "tier": 1,
+          "source": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/"
+        },
+        {
+          "text": "Culbreth is a professor of mechanical engineering at the University of Nevada, Las Vegas.",
+          "tier": 1,
+          "source": "https://www.unlv.edu/people/william-culbreth"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+        "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+        "https://www.unlv.edu/people/william-culbreth"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "dird-biosensors-and-biomems-a-survey-of",
+      "cls": "document",
+      "sub": "Dr Bruce Towe, listed as University of Arizona (documented affiliation Arizona State University); DIA-08-1003-020; published 31 March 2010; ICOD 1 December 2009; 45pp; 'Acquisition Threat Support' series",
+      "claims": [
+        {
+          "text": "Entry 6 on the DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 31 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-020; the author field is redacted under FOIA exemption (b)(5) and 'Prepared by' is redacted under 10 U.S.C. 424.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+        },
+        {
+          "text": "The administrative note states the product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+        },
+        {
+          "text": "Contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and therapeutic neurostimulation - the human-effects and human-interface leg of the AAWSAP survey.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+        },
+        {
+          "text": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in response to John Greenewald's 31 January 2018 request; DIA located 37 documents totalling 1,473 pages.",
+          "tier": 1,
+          "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://sbhse.engineering.asu.edu/2019/08/bruce-towe/"
+      ]
+    },
+    {
+      "id": "dird-cockpits-in-the-era-of-breakthrough",
+      "cls": "document",
+      "sub": "Dr G. Millis (Marc G. Millis), Tau Zero Foundation; DIA-08-1011-002; published 1 November 2010; ICOD 8 July 2010; 57pp; 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 1 November 2010, an Intelligence Cut-Off Date of 8 July 2010 and document number DIA-08-1011-002, under the 'Defense Futures' banner rather than 'Acquisition Threat Support'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+        },
+        {
+          "text": "The cover states the DIRD 'provides non-substantive but authoritative reference information related to intelligence topics or methodologies' and that the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program; the author field is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+        },
+        {
+          "text": "An open-source counterpart, 'Cockpit considerations for Inertial-Affect and FTL Propulsion' by M. G. Millis, was published in the Journal of the British Interplanetary Society in 2013; its abstract addresses added degrees of motion, hover-to-superluminal speed range, new motion displays, and the loss of the pilot's inertial and visual cues.",
+          "tier": 1,
+          "source": "http://www.jbis.org.uk/paper.php?p=2013.66.278"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+        "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+      ]
+    },
+    {
+      "id": "dird-cognitive-limits-on-simultaneous-control-of",
+      "cls": "document",
+      "sub": "Dr R. Genik (Richard J. Genik II), Wayne State University; DIA-08-1101-001; published 15 December 2010; ICOD 8 September 2010; 30-31pp; 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 15 December 2010, an Intelligence Cut-Off Date of 8 September 2010 and document number DIA-08-1101-001 - the latest document number among the eight in this batch.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+        },
+        {
+          "text": "It is one of three DIRDs by Genik, alongside 'Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces' and 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' - the largest single-author block after Eric Davis.",
+          "tier": 1,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "The document was released as item 34 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022.",
+          "tier": 1,
+          "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+      ]
+    },
+    {
+      "id": "dird-concepts-for-extracting-energy-from-the",
+      "cls": "document",
+      "sub": "Dr Eric W. Davis, EarthTech International; DIA-08-1004-007; published 6 April 2010; ICOD 1 December 2009; 57pp; 'Acquisition Threat Support', Acquisition Support Division (DWO-3), Defense Warning Office",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'; the earlier KLAS list rendered the same entry as 'Vacuum Energy Applications'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "EarthTech International's own publication list for Eric W. Davis independently confirms the attribution and the document number: 'Davis, E. W. (2010), \"Concepts for Extracting Energy From the Quantum Vacuum,\" Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-007, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.'",
+          "tier": 1,
+          "source": "https://earthtech.org/pubs/davis/"
+        },
+        {
+          "text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-007, matching EarthTech's citation exactly.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+        },
+        {
+          "text": "Davis and Harold Puthoff had published the same argument in the open literature the previous year as 'Chapter 18: On Extracting Energy from the Quantum Vacuum' in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis.",
+          "tier": 1,
+          "source": "https://earthtech.org/pubs/davis/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://earthtech.org/pubs/davis/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+      ]
+    },
+    {
+      "id": "dird-detection-and-high-resolution-tracking-of",
+      "cls": "document",
+      "sub": "Dr W. Culbreth (William Culbreth), University of Nevada Las Vegas; DIA-08-1012-001; published 20 November 2010; ICOD 30 August 2010; 46pp; 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 20 November 2010, an Intelligence Cut-Off Date of 30 August 2010 and document number DIA-08-1012-001, in the 'Defense Futures' series; the author field is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf"
+        },
+        {
+          "text": "George Knapp obtained and released this DIRD in mid-2019, making it the fifth AAWSAP deliverable in the public domain, nearly three years before DIA's bulk FOIA release of 25 March 2022.",
+          "tier": 1,
+          "source": "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/"
+        },
+        {
+          "text": "It is the sensor-side counterpart to the cloaking and signature-reduction strand of the survey: Puthoff described the DIA Broad Area Announcement as specifying twelve threat areas including 'lift, propulsion, signature reduction, human effects and so on.'",
+          "tier": 1,
+          "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+        "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+        "https://www.unlv.edu/people/william-culbreth"
+      ]
+    },
+    {
+      "id": "dird-high-frequency-gravitational-wave-communications",
+      "cls": "document",
+      "sub": "Dr Robert M. L. Baker Jr., GravWave LLC; DIA-08-1004-005; published 6 April 2010; ICOD 1 December 2009; 57pp; 'Acquisition Threat Support' series - published after JASON had found the underlying physics wrong",
+      "claims": [
+        {
+          "text": "The DIA letter of 9 January 2018 lists entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 6 April 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1004-005; the author field is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+        },
+        {
+          "text": "In 2008 the JASON advisory group reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA nevertheless published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010.",
+          "tier": 1,
+          "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+        },
+        {
+          "text": "The JASON review is hosted by the Federation of American Scientists at irp.fas.org/agency/dod/jason/gravwaves.pdf.",
+          "tier": 1,
+          "source": "https://irp.fas.org/agency/dod/jason/gravwaves.pdf"
+        },
+        {
+          "text": "Baker published an open-source counterpart in 2010, 'Utilization of High-Frequency Gravitational Waves for Aerospace Systems and Technology', presented at the Seventh Annual AIAA Southern California Aerospace Systems and Technology Conference on 1 May 2010, claiming HFGW applications in communications, surveillance, remote initiation of nuclear events and propulsion.",
+          "tier": 1,
+          "source": "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+        "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html"
+      ]
+    },
+    {
+      "id": "dird-inertial-electrostatic-confinement-fusion",
+      "cls": "document",
+      "sub": "Dr George H. Miley, University of Illinois; DIA-08-1003-006; published 10 March 2010; ICOD 1 December 2009; 72pp - the longest of the 37 released DIRDs; 'Acquisition Threat Support' series",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 opens with entry 1: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 10 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-006; the author field is redacted under (b)(5).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf"
+        },
+        {
+          "text": "At 72 pages it is the longest single document in DIA's 37-document, 1,473-page FOIA release of 25 March 2022.",
+          "tier": 1,
+          "source": "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+        },
+        {
+          "text": "Puthoff named 'IEC fusion as a compact energy source' among the studies he commissioned, in his June 2018 Society for Scientific Exploration account of letting 38 contracts over a two-year period.",
+          "tier": 1,
+          "source": "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+        "https://link.springer.com/book/10.1007/978-1-4614-9338-9"
+      ]
+    },
+    {
+      "id": "dird-invisibility-cloaking-theory-and-experiments",
+      "cls": "document",
+      "sub": "Dr Ulf Leonhardt, University of St Andrews; DIA-08-1003-001; published 2 March 2010; ICOD 1 December 2009; 29pp; 'Acquisition Threat Support' series - lowest document number in the released set",
+      "claims": [
+        {
+          "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.'",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The released cover page carries the date 2 March 2010, an Intelligence Cut-Off Date of 1 December 2009 and document number DIA-08-1003-001 - the lowest DIA document number in the released set; the author field is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+        },
+        {
+          "text": "Contents run Camouflage, Transparency, Cloaking - a survey of the physics of signature reduction rather than a threat assessment.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+        },
+        {
+          "text": "The War Zone's audit of the DIRD list, which characterised several deliverables as junk science, treated this one as legitimate, noting Leonhardt 'has been publishing papers on that topic since 2006' and that his research 'is grounded in real science'.",
+          "tier": 1,
+          "source": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "dird-biosensors-and-biomems-a-survey-of",
+      "b": "bruce-towe",
+      "type": "research",
+      "label": "authored by Bruce Towe",
+      "claimTier": 1,
+      "dateStart": "2010-03-31",
+      "dateEnd": null,
+      "note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+      ]
+    },
+    {
+      "a": "dird-biosensors-and-biomems-a-survey-of",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP, FY2009 series",
+      "claimTier": 1,
+      "dateStart": "2010-03-31",
+      "dateEnd": null,
+      "note": "The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    },
+    {
+      "a": "dird-biosensors-and-biomems-a-survey-of",
+      "b": "d-bio",
+      "type": "research",
+      "label": "subject domain: implantable biosensors and neuro-interface",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf"
+      ]
+    },
+    {
+      "a": "dird-cockpits-in-the-era-of-breakthrough",
+      "b": "marc-millis",
+      "type": "research",
+      "label": "authored by Marc G. Millis, Tau Zero Foundation",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-cockpits-in-the-era-of-breakthrough",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP, published in the 'Defense Futures' series",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "The cover carries DIA-08-1011-002, 1 November 2010, ICOD 8 July 2010, under the 'Defense Futures' banner. The administrative note confirms the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. The shift from 'Acquisition Threat Support' to 'Defense Futures' across the later 2010 deliverables marks a change in the DIA office of record, from the Acquisition Support Division (DWO-3) to the Technology Warning Division (DWO-4) of the Defense Warning Office.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+        "https://earthtech.org/pubs/davis/"
+      ]
+    },
+    {
+      "a": "dird-cockpits-in-the-era-of-breakthrough",
+      "b": "d-aerospace",
+      "type": "research",
+      "label": "subject domain: crew-station design for breakthrough flight regimes",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
+      "sources": [
+        "http://www.jbis.org.uk/paper.php?p=2013.66.278",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf"
+      ]
+    },
+    {
+      "a": "dird-cognitive-limits-on-simultaneous-control-of",
+      "b": "richard-genik",
+      "type": "research",
+      "label": "authored by Richard J. Genik II",
+      "claimTier": 1,
+      "dateStart": "2010-12-15",
+      "dateEnd": null,
+      "note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+      ]
+    },
+    {
+      "a": "dird-cognitive-limits-on-simultaneous-control-of",
+      "b": "wayne-state-university",
+      "type": "institutional",
+      "label": "author's institution at time of writing",
+      "claimTier": 1,
+      "dateStart": "2010-12-15",
+      "dateEnd": null,
+      "note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+      "sources": [
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-cognitive-limits-on-simultaneous-control-of",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP; latest document number in the released set",
+      "claimTier": 1,
+      "dateStart": "2010-12-15",
+      "dateEnd": null,
+      "note": "DIA-08-1101-001, published 15 December 2010 with an Intelligence Cut-Off Date of 8 September 2010, in the 'Defense Futures' series. The 1101 block places it at the end of the AAWSAP deliverable sequence, consistent with Puthoff's account of letting the 38 contracts over a two-year period from 2008.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    },
+    {
+      "a": "dird-cognitive-limits-on-simultaneous-control-of",
+      "b": "d-bio",
+      "type": "research",
+      "label": "subject domain: cognitive load limits on multi-vehicle control",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+      ]
+    },
+    {
+      "a": "dird-concepts-for-extracting-energy-from-the",
+      "b": "eric-davis",
+      "type": "research",
+      "label": "authored by Eric W. Davis",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "Doubly sourced. The DIA list of 9 January 2018 gives entry 14 as 'Concepts for Extracting Energy from the Quantum Vacuum, Dr Eric Davis, EarthTech International'. EarthTech's own bibliography for Davis cites the same document with the matching DIA number DIA-08-1004-007, confirming the attribution against the redacted cover page independently of the DIA list.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://earthtech.org/pubs/davis/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+      ]
+    },
+    {
+      "a": "dird-concepts-for-extracting-energy-from-the",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "produced at EarthTech International, Austin",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+      "sources": [
+        "https://earthtech.org/pubs/davis/",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-concepts-for-extracting-energy-from-the",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP; Acquisition Support Division (DWO-3), Defense Warning Office",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "EarthTech's citation gives the full DIA provenance: 'Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1004-007, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC.' This is the clearest public statement of which DIA office of record owned the AAWSAP deliverable series.",
+      "sources": [
+        "https://earthtech.org/pubs/davis/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf"
+      ]
+    },
+    {
+      "a": "dird-concepts-for-extracting-energy-from-the",
+      "b": "d-exotic",
+      "type": "research",
+      "label": "subject domain: zero-point/vacuum energy extraction",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
+      "sources": [
+        "https://earthtech.org/pubs/davis/"
+      ]
+    },
+    {
+      "a": "dird-detection-and-high-resolution-tracking-of",
+      "b": "william-culbreth",
+      "type": "research",
+      "label": "authored by William Culbreth, UNLV",
+      "claimTier": 1,
+      "dateStart": "2010-11-20",
+      "dateEnd": null,
+      "note": "The DIA list of 9 January 2018 records 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities, Dr W Culbreth, Univ of Nevada-Las Vegas.' The released PDF's author block is redacted under (b)(6). Culbreth also wrote 'Aneutronic Fusion Propulsion II'. He is among the few DIRD authors to have discussed the work publicly, in a 2019 interview with George Knapp.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/",
+        "https://www.unlv.edu/people/william-culbreth"
+      ]
+    },
+    {
+      "a": "dird-detection-and-high-resolution-tracking-of",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP; 'Defense Futures' series",
+      "claimTier": 1,
+      "dateStart": "2010-11-20",
+      "dateEnd": null,
+      "note": "DIA-08-1012-001, published 20 November 2010 with an Intelligence Cut-Off Date of 30 August 2010. Puthoff described the DIA Broad Area Announcement as naming twelve threat areas including 'lift, propulsion, signature reduction, human effects and so on'; this deliverable answers the detection-and-tracking side of that brief.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    },
+    {
+      "a": "dird-detection-and-high-resolution-tracking-of",
+      "b": "d-signals",
+      "type": "research",
+      "label": "subject domain: sensing and tracking at hypersonic velocity",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The sensor-side counterpart to Leonhardt's cloaking DIRD: one asks how an object could be made undetectable, the other how an object moving at hypersonic velocity could nevertheless be tracked at high resolution. Together they bracket the observability problem that any UAP sensor programme has to solve.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf"
+      ]
+    },
+    {
+      "a": "dird-high-frequency-gravitational-wave-communications",
+      "b": "robert-baker",
+      "type": "research",
+      "label": "authored by Robert M. L. Baker Jr., GravWave LLC",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "The DIA list of 9 January 2018 records entry 9 as 'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave' - the earlier KLAS transcription rendered the title as 'Gravity Wave Communication'. The released PDF's author block is redacted under (b)(6). Baker confirmed to researcher Keith Basterfield that he published three related HFGW papers in 2010.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+      ]
+    },
+    {
+      "a": "dird-high-frequency-gravitational-wave-communications",
+      "b": "jason-advisory-group",
+      "type": "denial",
+      "label": "JASON found the underlying physics wrong two years before DIA published the DIRD",
+      "claimTier": 1,
+      "dateStart": "2008-01-01",
+      "dateEnd": "2010-04-06",
+      "note": "In 2008 JASON reviewed separate HFGW work Baker had done for the Office of the Director of National Intelligence and rejected it at the root: 'The proposed applications of the science of HFGW are fundamentally wrong,' and 'No foreign threat in HFGW is credible.' DIA published Baker's HFGW paper as an official Defense Intelligence Reference Document on 6 April 2010 regardless. This is the sharpest available evidence of AAWSAP's quality-control failure: the programme placed on a JWICS-hosted DIA reference series a topic the government's own senior scientific review body had already assessed as wrong and whose threat premise it had declared not credible. It is also the only case in the 38 where an external government review directly contradicts a published deliverable.",
+      "sources": [
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://irp.fas.org/agency/dod/jason/gravwaves.pdf",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf"
+      ]
+    },
+    {
+      "a": "dird-high-frequency-gravitational-wave-communications",
+      "b": "aawsap",
+      "type": "funding",
+      "label": "DIA money spent on HFGW after JASON's rejection",
+      "claimTier": 1,
+      "dateStart": "2010-04-06",
+      "dateEnd": null,
+      "note": "DIA-08-1004-005, published 6 April 2010, ICOD 1 December 2009, 'Acquisition Threat Support' series. DIA spent approximately $22 million on the programme between 2008 and 2012 across 38 reports. The HFGW commission is the clearest instance where that spending went to a line of work already adjudicated against by JASON, and it bears on how much weight any of the other 37 deliverables should carry.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-high-frequency-gravitational-wave-communications",
+      "b": "d-signals",
+      "type": "research",
+      "label": "subject domain: gravitational-wave communications and surveillance",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Baker's open-source 2010 counterpart claims theoretical aerospace, military and civilian applications in 'communications, surveillance, remote initiation of nuclear events and propulsion, including moving space objects and missiles in flight and frustrating anti-missile and anti-satellite systems.' The breadth of that claim is precisely what JASON's 'no foreign threat in HFGW is credible' was rejecting.",
+      "sources": [
+        "http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-inertial-electrostatic-confinement-fusion",
+      "b": "george-miley",
+      "type": "research",
+      "label": "authored by George H. Miley, University of Illinois",
+      "claimTier": 1,
+      "dateStart": "2010-03-10",
+      "dateEnd": null,
+      "note": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://link.springer.com/book/10.1007/978-1-4614-9338-9"
+      ]
+    },
+    {
+      "a": "dird-inertial-electrostatic-confinement-fusion",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP as a compact energy source study",
+      "claimTier": 1,
+      "dateStart": "2010-03-10",
+      "dateEnd": null,
+      "note": "DIA-08-1003-006, published 10 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support' series; 72 pages, the longest document in DIA's 1,473-page release. Puthoff named 'IEC fusion as a compact energy source' among the studies he commissioned when describing the 38 contracts at the Society for Scientific Exploration in June 2018.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/",
+        "https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf"
+      ]
+    },
+    {
+      "a": "dird-inertial-electrostatic-confinement-fusion",
+      "b": "d-plasma",
+      "type": "research",
+      "label": "subject domain: compact non-tokamak fusion power",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-invisibility-cloaking-theory-and-experiments",
+      "b": "ulf-leonhardt",
+      "type": "research",
+      "label": "authored by Ulf Leonhardt, University of St Andrews",
+      "claimTier": 1,
+      "dateStart": "2010-03-02",
+      "dateEnd": null,
+      "note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf"
+      ]
+    },
+    {
+      "a": "dird-invisibility-cloaking-theory-and-experiments",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "commissioned under AAWSAP; lowest DIA document number in the released set",
+      "claimTier": 1,
+      "dateStart": "2010-03-02",
+      "dateEnd": null,
+      "note": "DIA-08-1003-001, published 2 March 2010, ICOD 1 December 2009 - the first document out of the FY2009 'Acquisition Threat Support' pipeline. Puthoff explicitly named 'invisibility cloaking' among the papers he commissioned in his June 2018 account of letting the 38 contracts.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    },
+    {
+      "a": "dird-invisibility-cloaking-theory-and-experiments",
+      "b": "d-materials",
+      "type": "research",
+      "label": "subject domain: transformation optics, metamaterials and signature reduction",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Contents run Camouflage, Transparency, Cloaking. The paper is the signature-reduction leg of the survey, sitting alongside Shvets's 'Metamaterials for Aerospace Applications' and against Culbreth's hypersonic detection paper. Puthoff listed signature reduction among the twelve threat areas DIA specified in the Broad Area Announcement.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+        "https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/"
+      ]
+    }
+  ],
+  "unresolved": [
+    "The FAS-hosted PDF of the DIA 9 January 2018 letter (irp.fas.org/dia/aatip-list.pdf) would not render text through the available fetcher; the same is true of the KLAS/Knapp list PDF and the FAS-hosted JASON report. All author attributions here are taken from Keith Basterfield's line-by-line transcription of the DIA letter (published 17 January 2019 onward), cross-checked against his separate transcription of the KLAS list and, where possible, against primary confirmation. Only one attribution has independent primary confirmation: Eric Davis's 'Concepts for Extracting Energy From the Quantum Vacuum', where EarthTech International's own bibliography cites the identical DIA number DIA-08-1004-007. A researcher with working PDF extraction should re-verify the other seven against the FAS scan directly.",
+    "Every released DIRD cover page redacts the author under FOIA exemption (b)(5) or (b)(6) and the 'Prepared by' line under 10 U.S.C. 424. The released documents therefore do NOT carry author or affiliation, contrary to the working assumption in the tasking. Cover pages carry only date, Intelligence Cut-Off Date and DIA document number. The DIA list to the Senate Armed Services Committee is the only source of authorship for all eight.",
+    "Bruce Towe's affiliation. Both the DIA letter and the KLAS list record 'Univ of Arizona'. Every located institutional record places Bruce C. Towe at Arizona State University's School of Biological and Health Systems Engineering. The discrepancy originates in DIA's own list, not in transcription. Not resolved; recorded on the node at claimTier 2.",
+    "'Dr G Millis' on the DIA list. The identification with Marc G. Millis rests on the Tau Zero affiliation, the JBIS open-source counterpart published as 'M G Millis', and The War Zone's naming of Marc Millis as an AATIP author. No document located gives the author's forename as recorded by DIA. Recorded at claimTier 2.",
+    "The JASON HFGW review. The quotations 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible' are taken as quoted by Joseph Trevithick in The War Zone, 18 January 2019, which links to the FAS-hosted report at irp.fas.org/agency/dod/jason/gravwaves.pdf. The FAS PDF itself would not render through the available fetcher, so the quotations have not been verified against the primary text. Secondary sources give the report as JASON, 'High Frequency Gravitational Waves', JSR-08-506, October 2008, lead author Douglas Eardley; that report number is NOT verified against the primary document and has been kept out of the claims.",
+    "Whether the JASON finding was known to DIA, BAASS, or to Puthoff at the time the HFGW contract was let has not been established. The finding here is limited to the documented sequence: JASON's 2008 rejection precedes DIA's 6 April 2010 publication of Baker's DIRD. No document showing knowledge or a waiver has been located.",
+    "Institution nodes do not exist on the board for Tau Zero Foundation, GravWave LLC, the University of Illinois, UNLV, the University of St Andrews or Arizona State University, so no institutional edges were written for six of the eight documents. If those institution nodes are created later, six institutional edges should be added: Cockpits to Tau Zero, HFGW to GravWave, IEC Fusion to Illinois, Hypersonic Tracking to UNLV, Invisibility Cloaking to St Andrews, and Biosensors to Arizona State.",
+    "The existing board node for JASON is 'jason-advisory-group', not 'jason' as given in the tasking; the denial edge was written against the existing id.",
+    "UNLV is separately reported to have analysed material samples for BAASS, which would put William Culbreth's authorship inside a broader Bigelow-to-UNLV relationship rather than an isolated academic contract. Sourced only to a secondary blog summary and not wired here."
+  ]
+}

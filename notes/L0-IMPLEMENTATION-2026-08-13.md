@@ -462,3 +462,100 @@ warning, correctly, because he has 18 connections; Gough renders no badge at all
    eight members of Congress — are not on the board as a set and should be.
 2. `dird-series`, D4 sign-off, D2, and the CONFIDENCE KEY label remain from Stage 1.
 3. 27 nodes remain unattached, 3 demonstrably unwireable.
+
+---
+
+# Stage 6 — corrections verified, and the DIRD star broken up, 14 August 2026
+
+## One of the five corrections was itself wrong
+
+All five proposed corrections were verified against primary sources **before any
+was applied**, and the one two independent agents were most confident about was
+refuted.
+
+Both claimed `iaa-fy2024-sec-1102` was misnumbered and should be Sec. 1104. They had
+conflated two bills. The provision **is** Sec. 1102 of Division M of S. 2226 as
+passed by the Senate on 27 July 2023, **and** Sec. 1104 of S. 2103 as reported by
+SSCI on 22 June 2023. Both citations are correct, to different vehicles. The board
+was right and the correction would have introduced an error.
+
+Two agents agreeing is not corroboration when they share a method.
+
+The verification also found something the correction would have buried: **the
+turn-in mandate did not survive conference.** Enacted Sec. 7343 of Division G,
+P.L. 118-31 contains only definitions, a funding limitation and an IR&D limitation.
+"Non-earth origin", "exotic", "in their possession" and the 60-day deadline appear
+nowhere in the enacted text. Three new Tier 1 claims record that, with 7343(b)
+quoted in full.
+
+Four confirmed and applied: the AARO FY2025 satellite-flaring contradiction (44 at
+§IV.C against 238 at §I and §VI, with the separate §III.A "44 in the space domain"
+named so a reviewer is not ambushed by it); the termination of 10 U.S.C. 119(a) and
+(b) on 31 December 2021 with (c) through (g) surviving; the total absence of
+"Wilson" and "Davis" from all 63 pages of AARO HRR Vol I; and Loeb's post dates.
+
+## The DIRD star, and what breaking it cost
+
+`dird-series` was the third-largest node on the map with 32 members, and **31 of
+those 32 documents had degree 1** — they connected to the hub and to nothing else.
+A star whose centre exists only because nothing else connects to its spokes is a
+filing artefact, not a finding.
+
+Four agents wired each DIRD to its author, its commissioning programme and its
+institution, working from the DIA letter to SASC of 9 January 2018 that lists all 38
+by title and author.
+
+```
+DIRD degree      before: 31 nodes at 1      after: 17 at 4, 15 at 5, 2 at 3
+largest node     dird-series (3rd)          aawsap, 82 members
+edges            1,909                      2,030
+people           246                        266
+```
+
+`aawsap` becoming the largest node is the **correct** outcome. It genuinely
+commissioned all 38 deliverables, so its footprint is a fact about the programme,
+where `dird-series` was a fact about a shelf.
+
+**20 new authors** joined the board — Winterberg, Millis, Leonhardt, Miley, Baker,
+Genik, Hathaway, Obousy, Cramer, Czysz, Towe, Teofilo, Culbreth, Maccone, McCarthy
+and others. Two popular attributions were corrected against the DIA list: the
+warp-drive DIRD is credited to **R. Obousy**, not Eric Davis, who is a co-author;
+and the superconductors DIRD to **George Hathaway**, not the academics it reviews.
+
+Every released DIRD redacts its author under (b)(6), so no attribution rests on a
+cover page — all rest on the DIA congressional list. That is stated in the
+unresolved log rather than smoothed over.
+
+The `aneutronic-fusion-propulsion` pair is **not** a duplicate: two physically
+distinct documents, DIA-08-1011-003 (50pp) and -004 (37pp), same date and ICOD. The
+board label is missing the "II".
+
+## Divergence D6 — I broke the tick vocabulary myself
+
+The design package asserted that shared-member counts run 2 to 5, "so the parent
+board's five-weight tick vocabulary fits exactly, with no overflow and no numeral
+case." That was true of the graph as it stood. Densifying it made it false:
+`dia~dird-series` now shares **18** members.
+
+Five ticks cannot carry 18, and drawing five for both 5 and 18 would be a channel
+that silently saturates — the same failure class as a check that always passes.
+Beyond five, the marks now give way to a numeral. **This is the numeral case the
+design said did not exist. It exists now, and it exists because of my change.**
+
+The check that caught it asserted a design constraint rather than a property, so it
+became false the moment the data moved. It now asserts what still holds: that the
+renderer has an overflow path. Verified in the browser — three pairs render numerals.
+
+## Also closed
+
+D4 approved as built. D2 accepted as a recorded exception. Both were Stewart's
+calls, both now closed rather than open.
+
+## Still open
+
+1. **The eight members of Congress who receive waived-SAP notification** are still
+   not on the board as a set. Next deep pass.
+2. `dird-vacuum-engineering` remains at degree 1 and was not in any batch.
+3. `dird-series` and `dird-collection` are two nodes describing the same thing.
+   Worth collapsing, but it is a deletion and needs approval.
+4. 23 nodes unattached, 3 demonstrably unwireable.

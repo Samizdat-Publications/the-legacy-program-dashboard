@@ -1,0 +1,881 @@
+{
+  "_meta": {
+    "batch": "w7-dirds-3",
+    "scope": "Wiring 8 AAWSAP/AATIP Defense Intelligence Reference Documents (DIRDs) out of the dird-series hub by establishing author, affiliation, DIA document number, publication date and Intelligence Cut-Off Date for each.",
+    "authority": "DIA letter to the Senate Armed Services Committee (offices of Sen. John McCain and Sen. Jack Reed), transmitting a list of all 38 products produced under the AATIP/AAWSAP contract. Provided to Congress January 2018; released under FOIA to Steven Aftergood (Federation of American Scientists) 16 January 2019 and posted at irp.fas.org/dia/aatip-list.pdf. Every author attribution below is taken from that list and, where the DIRD itself has been released, cross-checked against the cover page (title, series, publication date, ICOD, DIA document number).",
+    "method": "The FAS/DIA list PDF is a scan and does not yield machine text. The list was read from two independent transcriptions that distinguish the DIA/FAS list from the earlier (July 2018) George Knapp / KLAS-TV list, and from The Black Vault's DIRD archive page which reproduces the DIA list entries alongside the released PDFs. Cover-page data was read from the released PDFs themselves as mirrored by The Black Vault. Author names on the released PDF cover pages are redacted under (b)(6) / (b)(3):10 USC 424, so authorship rests on the DIA list, not on the PDFs.",
+    "notes": "All eight DIRDs in this batch have been released in redacted form. The author name is redacted on every released cover page; the DIA congressional list is the only authoritative naming source."
+  },
+
+  "people": [
+    {
+      "id": "george-hathaway",
+      "label": "George D. Hathaway",
+      "sub": "Professional engineer, Hathaway Consulting Services (Toronto); author of two AAWSAP DIRDs",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "George D. Hathaway is a Canadian professional engineer who graduated from the Department of Electrical Engineering at the University of Toronto in 1974 and built a consulting practice around experimental testing of unconventional energy and propulsion claims. He appears twice by name on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee, credited as author of item 10, 'Role of Superconductors in Gravity Research', and item 16, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', in both cases with the affiliation Hathaway Consulting. That places him among the small group of AAWSAP contributors who produced more than one deliverable.\n\nHis self-description, preserved from his now-defunct company site and quoted in The Black Vault's DIRD archive, is that of a hands-on experimentalist rather than a theorist: a consultant on 'novel and exotic materials, energy production and propulsion concepts', an expert on 'experimental design, analysis, testing' and, pointedly, 'an expert on scientific and engineering measurements and their misuse'. He is also a machinist, a reviewer for scientific publications, and author of the book 'Mindbending: The Hutchison Files'.\n\nThat last credit is the reason his presence on a Defense Intelligence Agency contract is analytically significant rather than routine. Hathaway's public body of work sits inside the anomalous-physics testing community that Robert Bigelow's ventures drew on, and his Maverick Inventor DIRD is not a physics paper at all but a research-culture argument about whether breakthrough invention comes from lone inventors or corporate laboratories. The Defense Intelligence Reference Document series was defined by DIA as providing 'non-substantive but authoritative reference information'; item 16 shows how loosely that mandate was drawn in practice. His Maverick Inventor DIRD carries DIA document number DIA-08-1003-017, published 30 March 2010 with an ICOD of 1 December 2009, and is identified on its own cover page as one of a series of advanced technology reports produced in FY 2009 under the AAWSA Program.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Named on the same DIA list as author of item 10, 'Role of Superconductors in Gravity Research', affiliation Hathaway Consulting, making him a two-deliverable AAWSAP contributor.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        },
+        {
+          "text": "Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'.",
+          "tier": 2,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://fas.org/publication/aatip-list/",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+
+    {
+      "id": "sergey-macheret",
+      "label": "Sergey O. Macheret",
+      "sub": "Plasma physicist; senior staff engineer, Lockheed Martin Skunk Works 2006-2014; author, MHD Air Breathing Propulsion DIRD",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "Sergey O. Macheret is a Ukrainian-American plasma physicist and aerospace engineer, and he is the single clearest example on the DIRD list of a mainstream, credentialled defence-industry scientist being drawn into the AAWSAP deliverable stream. He took an M.S. in physics from the Moscow Institute of Physics and Technology and a Ph.D. in plasma physics and plasma chemistry from the Kurchatov Institute, emigrated to the United States in 1991, and held research posts at Ohio State and Princeton before joining Lockheed Martin Aeronautics.\n\nThe DIA list transmitted to the Senate Armed Services Committee credits him as author of 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' with the affiliation Lockheed Martin. That affiliation is exact for the period: he was a senior staff engineer at Lockheed Martin Skunk Works from 2006 to 2014, which brackets the document's 21 November 2010 publication date and its 20 July 2010 Intelligence Cut-Off Date. He left for Purdue University in 2014 as a professor of aeronautics and astronautics, added a professorship in electrical and computer engineering in 2022, was elected an AIAA Fellow, received the AIAA Plasmadynamics and Lasers Award in 2022, and founded US Plasma Engineering LLC in 2023.\n\nHis DIRD is one of three Lockheed Martin products on the DIA list and reads as ordinary hypersonics work rather than fringe physics: MHD control of ionised flow around an air-breathing vehicle, with explicit reference to Soviet work on the Ajax (Ayaks) hypersonic concept associated with the Leninets Design Bureau in St. Petersburg. That is squarely within the stated AAWSAP purpose of assessing foreign advanced aerospace weapon threats out to forty years, and it is the strongest available counterweight to the assumption that the DIRD series was uniformly speculative. Macheret has no public association with UAP research, with Bigelow's organisations, or with the anomalous-physics network that produced the EarthTech deliverables; his presence on the list is best read as a contracted subject-matter survey by a working plasma dynamicist.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications', affiliation Lockheed Martin.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Senior staff engineer at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014 — the period covering the DIRD's 20 July 2010 ICOD and 21 November 2010 publication date.",
+          "tier": 2,
+          "source": "https://en.wikipedia.org/wiki/Sergey_Macheret"
+        },
+        {
+          "text": "Joined Purdue University in 2014 as professor of aeronautics and astronautics; AIAA Fellow; recipient of the 2022 AIAA Plasmadynamics and Lasers Award.",
+          "tier": 2,
+          "source": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/",
+        "https://en.wikipedia.org/wiki/Sergey_Macheret",
+        "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award"
+      ]
+    },
+
+    {
+      "id": "friedwardt-winterberg",
+      "label": "Friedwardt Winterberg",
+      "sub": "Theoretical physicist, research professor, University of Nevada, Reno; author of two AAWSAP DIRDs",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "Friedwardt Winterberg is a German-American theoretical physicist and research professor at the University of Nevada, Reno, with a long publication record spanning general relativity, Planck-scale physics, nuclear fusion and plasma physics. He appears twice on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee: as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and as author of 'Negative Mass Propulsion', both with the affiliation University of Nevada, Reno.\n\nHis geographic placement matters to the shape of the programme. AAWSAP funding was directed by Senator Harry Reid toward a Nevada constituent, and the DIRD author list carries an unusually heavy Nevada concentration — Winterberg at UNR, and separate deliverables credited to the University of Nevada, Las Vegas. Winterberg is the only author on the list credited with two Nevada-institution papers, and both of his are propulsion physics rather than the anomalous-phenomena material that dominates the EarthTech contributions.\n\n'Negative Mass Propulsion' carries DIA document number DIA-08-1101-023, published 3 January 2011 with an Intelligence Cut-Off Date of 30 August 2010, in the 'Defense Futures' series, and its cover page identifies it as one of a series of advanced technology reports produced in FY 2010 under the AAWSA Program. The subject is the classic Bondi problem of runaway motion between positive and negative gravitational mass, considered as a propulsion concept: a vehicle accelerating without expelling reaction mass. Winterberg published closely related work in the peer-reviewed literature, which distinguishes his DIRD from several others on the list that have no independent scholarly footprint. The document was released by DIA under FOIA and posted to the DIA FOIA Electronic Reading Room; the author name is redacted on the released cover page under (b)(6), so the attribution rests on the congressional list rather than on the document itself.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Negative Mass Propulsion', affiliation University of Nevada, Reno.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Named on the same DIA list as author of item 2, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', affiliation University of Nevada, Reno — making him a two-deliverable AAWSAP contributor.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        },
+        {
+          "text": "German-American theoretical physicist and research professor at the University of Nevada, Reno, publishing in general relativity, Planck-scale physics, nuclear fusion and plasma physics; published related negative-mass propulsion work in the Journal of the British Interplanetary Society (2011).",
+          "tier": 2,
+          "source": "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/",
+        "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+      ]
+    },
+
+    {
+      "id": "gerald-smith",
+      "label": "Gerald A. Smith",
+      "sub": "Experimental particle physicist; Professor Emeritus, Penn State; founder, Positronics Research LLC (New Mexico)",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "Gerald A. Smith is an experimental high-energy physicist with an unusually deep institutional pedigree who ended his career building antimatter storage hardware for NASA and then selling antimatter propulsion concepts through a small New Mexico company. He is credited on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee as author of 'Positron Aerospace Propulsion', affiliation Positronics Research.\n\nHis background: B.A. in physics from Miami University (Ohio) in 1957, M.S. (1958) and Ph.D. (1961) in physics from Yale, a second-generation graduate student of Enrico Fermi, and post-doctoral years from 1961 to 1966 as an assistant professor under Luis Alvarez at Berkeley. He built a high-energy physics programme at Michigan State from 1968, served as Associate Laboratory Director for High Energy Physics at Argonne in 1978, and in 1983 became Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State. He was spokesperson for international collaborations at Brookhaven, CERN, Fermilab and SLAC, has more than 300 refereed publications, and is a Fellow of the American Physical Society. At Penn State he oversaw the ICAN-II and AIMStar antimatter-catalysed designs and the development of two antiproton traps: the Mark I portable trap for JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall. He became Professor Emeritus in 2000 and founded Positronics Research LLC in 2001.\n\nHis DIRD is therefore a case where AAWSAP bought a survey from a genuine domain authority, and it aligns with work he was already doing publicly: his positron-propelled vehicle concept was a NASA Institute for Advanced Concepts Phase I study and was written up by NASA in 2006. The AAWSAP deliverable carries DIA document number DIA-08-1003-002, published 2 March 2010 with an ICOD of 1 December 2009, in the 'Acquisition Threat Support' series. It is one of the DIRDs released by DIA in redacted form; the author line on the released cover page is blanked.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Positron Aerospace Propulsion', affiliation Positronics Research.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
+          "tier": 2,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        },
+        {
+          "text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
+          "tier": 2,
+          "source": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
+        "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+        "https://www.niac.usra.edu/files/studies/abstracts/1147Smith.pdf"
+      ]
+    },
+
+    {
+      "id": "james-wells",
+      "label": "James Wells",
+      "sub": "Author, Pulsed High-Power Microwave Source Technology DIRD; affiliation given as J W Enterprises on the DIA list",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "narrative": "James Wells is credited on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology'. He is one of the least publicly traceable names on the list, and he is also the one clear instance in this batch where the two circulating versions of the DIRD roster disagree on affiliation.\n\nThe DIA list released to the Federation of American Scientists in January 2019 gives his affiliation as 'J W Enterprises'. The earlier list published by George Knapp and Matt Adams of KLAS-TV on 25 July 2018 — a near-complete roster whose authenticity was confirmed by former programme manager Luis Elizondo, but whose source was never disclosed — gives his affiliation as 'Northrop Grumman'. The DIA list is the authoritative document because it was prepared by the agency and transmitted to Congress; 'J W Enterprises' is therefore recorded here as the affiliation of record, with the Northrop Grumman variant preserved as a discrepancy rather than discarded. The two are not necessarily contradictory in substance — a named consultancy and a prime contractor could both be true of the same person at different points — but nothing sourced resolves it, and the difference should not be smoothed over.\n\nBeyond the list entry itself, no verified biography, institutional page or publication record has been located for him, and the released DIRD does not help: the author line on the cover page is redacted under (b)(6). What is firmly established is the document. 'Pulsed High-Power Microwave Source Technology' carries DIA document number DIA-08-0912-005, published 28 January 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the 'Acquisition Threat Support' series. It runs 37 pages and was released by DIA in redacted form. Its subject — directed-energy source hardware — is among the most conventionally military topics in the entire series.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology', affiliation 'J W Enterprises'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The earlier George Knapp / KLAS-TV list of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman' rather than J W Enterprises. The discrepancy is unresolved; the DIA list is treated as authoritative.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
+          "tier": 2,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+      ]
+    },
+
+    {
+      "id": "richard-genik",
+      "label": "Richard J. Genik II",
+      "sub": "Director, Emergent Technology Research Division, and assistant professor of psychiatry and behavioral neurosciences, Wayne State University School of Medicine",
+      "cluster": "research",
+      "tier": "B",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "narrative": "Richard J. Genik II is director of the Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. He is one of the more prolific AAWSAP contributors, credited on the DIA list transmitted to the Senate Armed Services Committee with 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' and, elsewhere on the same list, with item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces' — brain-machine interface work squarely within his stated speciality.\n\nHis Wayne State affiliation is the significant structural fact. Wayne State is also the affiliation given on the DIA list for Christopher 'Kit' Green, the former CIA analyst and physician who authored item 12 on human biological field effects and who is one of the central figures in the legacy-programme narrative. Two of the 38 DIRDs are therefore credited to a single medical school, and the human-effects and human-interface strands of the AAWSAP deliverable set both run through it. Genik has also been publicly identified as one of fifteen experts selected by the U.S. Army to advise on how the service should direct its neuroscience research funding over the following two decades, which places him in the applied military-neuroscience advisory community independently of AAWSAP.\n\nHis quantum computing DIRD sits oddly against that background — it is a survey of quantum information substrates including organic molecules, quantum dots and graphene, not a neuroscience paper. It carries DIA document number DIA-08-1102-005, published 10 December 2010, in the 'Defense Futures' series, and it is one of the few DIRDs whose Intelligence Cut-Off Date is identical to its publication date, also 10 December 2010, meaning it was issued with no lag between research cutoff and release. The released copy is redacted; the author line is blanked, and the attribution rests on the congressional list.",
+      "claims": [
+        {
+          "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', affiliation Wayne State University.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Named on the same DIA list as author of item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces', affiliation Wayne State University — making him a multi-deliverable AAWSAP contributor.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        },
+        {
+          "text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
+          "tier": 2,
+          "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+        }
+      ],
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    }
+  ],
+
+  "entities": [
+    {
+      "id": "dird-laser-lightcraft-nanosatellites",
+      "cls": "document",
+      "sub": "Dr. Eric W. Davis, EarthTech International (Austin, TX) — DIA-08-1011-001 — published 1 November 2010 — ICOD 30 August 2010 — 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '01 November 2010 / ICOD 30 August 2010 / DIA-08-1011-001 / Defense Intelligence Reference Document / Defense Futures / Laser Lightcraft Nanosatellites'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr E Davis, EarthTech'. The author line on the released PDF is redacted under (b)(5)/(b)(6), so the congressional list is the sole naming authority.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Administrative note on the cover page: 'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.'",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "id": "dird-maverick-inventor-versus-corporate-inventor-where",
+      "cls": "document",
+      "sub": "Dr. George D. Hathaway, Hathaway Consulting (Toronto) — DIA-08-1003-017 — published 30 March 2010 — ICOD 1 December 2009 — 'Acquisition Threat Support' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '30 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-017 / Defense Intelligence Reference Document / Acquisition Threat Support / Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr George Hathaway, Hathaway Consulting'. The author line on the released PDF is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Released copy runs 19 pages.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    },
+    {
+      "id": "dird-mhd-air-breathing-propulsion-and-power",
+      "cls": "document",
+      "sub": "Dr. Sergey O. Macheret, Lockheed Martin Aeronautics (Skunk Works) — DIA-08-1011-006 — published 21 November 2010 — ICOD 20 July 2010 — 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '21 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-006 / Defense Intelligence Reference Document / Defense Futures / MHD Air Breathing Propulsion and Power for Aerospace Applications'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin', where the title is given in full as 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Also held in the DIA FOIA Electronic Reading Room as a 32-page released document.",
+          "tier": 1,
+          "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "id": "dird-negative-mass-propulsion",
+      "cls": "document",
+      "sub": "Dr. Friedwardt Winterberg, University of Nevada, Reno — DIA-08-1101-023 — published 3 January 2011 — ICOD 30 August 2010 — 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '03 January 2011 / ICOD 30 August 2010 / DIA-08-1101-023 / Defense Intelligence Reference Document / Defense Futures / Negative Mass Propulsion'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr F Winterberg, Univ of Nevada-Reno'. The author line on the released PDF is redacted under (b)(6).",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Administrative note: 'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.' Held in the DIA FOIA Electronic Reading Room.",
+          "tier": 1,
+          "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "id": "dird-positron-aerospace-propulsion",
+      "cls": "document",
+      "sub": "Dr. Gerald A. Smith, Positronics Research LLC (New Mexico) — DIA-08-1003-002 — published 2 March 2010 — ICOD 1 December 2009 — 'Acquisition Threat Support' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '2 March 2010 / ICOD: 1 December 2009 / DIA-08-1003-002 / Defense Intelligence Reference Document / Acquisition Threat Support / Positron Aerospace Propulsion'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr Gerald Smith, Positronics Research'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Released copy runs 35 pages; internal chapter structure covers antimatter, positron air-breathing propulsion, the positron ramjet engine and its UAV, ramjet-assisted missile and single-stage reusable vehicle applications, and solid-core and gas-core positron rockets.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    },
+    {
+      "id": "dird-pulsed-high-power-microwave-source-technology",
+      "cls": "document",
+      "sub": "Dr. James Wells, J W Enterprises (DIA list; Knapp/KLAS list gives Northrop Grumman) — DIA-08-0912-005 — published 28 January 2010 — ICOD 1 December 2009 — 'Acquisition Threat Support' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '28 January 2010 / ICOD: 1 December 2009 / DIA-08-0912-005 / Defense Intelligence Reference Document / Acquisition Threat Support / Pulsed High-Power Microwave Source Technology'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr James Wells, J W Enterprises'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The earlier George Knapp / KLAS-TV roster of 25 July 2018 gives the same author with the affiliation 'Northrop Grumman'. The DIA list is treated as authoritative; the discrepancy is recorded, not resolved.",
+          "tier": 2,
+          "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+        },
+        {
+          "text": "Released copy runs 37 pages. Note the DIA document number prefix 0912, indicating a December 2009 assignment, earlier than any other document in this batch.",
+          "tier": 1,
+          "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    },
+    {
+      "id": "dird-quantum-computing-and-utilizing-organic-molecules",
+      "cls": "document",
+      "sub": "Dr. Richard J. Genik II, Wayne State University — DIA-08-1102-005 — published 10 December 2010 — ICOD 10 December 2010 — 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '10 December 2010 / ICOD: 10 December 2010 / DIA-08-1102-005 / Defense Intelligence Reference Document / Defense Futures / Quantum Computing and Utilizing Organic Molecules in Automation Technology'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr R Genik, Wayne State Univ'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "The Intelligence Cut-Off Date and the publication date are identical (both 10 December 2010) — unusual across the DIRD series, where the ICOD normally precedes publication by weeks to months.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "id": "dird-quantum-tomography-of-negative-energy-states",
+      "cls": "document",
+      "sub": "Dr. Eric W. Davis, EarthTech International (Austin, TX) — DIA-08-1102-007 — published 11 January 2011 — ICOD 10 August 2010 — 'Defense Futures' series",
+      "claims": [
+        {
+          "text": "Cover page reads: '11 January 2011 / ICOD: 10 August 2010 / DIA-08-1102-007 / Defense Intelligence Reference Document / Defense Futures / Quantum Tomography of Negative Energy States in the Vacuum'.",
+          "tier": 1,
+          "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf"
+        },
+        {
+          "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr Eric Davis, EarthTech'.",
+          "tier": 1,
+          "source": "https://irp.fas.org/dia/aatip-list.pdf"
+        },
+        {
+          "text": "Held in the DIA FOIA Electronic Reading Room. Subject matter is continuous with Davis's other AAWSAP deliverables on negative energy — item 8, 'Traversable Wormholes, Stargates and Negative Energy', and item 14 on extracting energy from the quantum vacuum — making him the author of a coherent negative-energy sub-series within the DIRD set.",
+          "tier": 1,
+          "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
+        }
+      ],
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    }
+  ],
+
+  "edges": [
+    {
+      "a": "dird-laser-lightcraft-nanosatellites",
+      "b": "eric-davis",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "The DIA list of all 38 AATIP/AAWSAP products, transmitted to the Senate Armed Services Committee in January 2018 and released under FOIA in January 2019, credits 'Laser Lightcraft Nanosatellites' to 'Dr E Davis, EarthTech'. The author line on the released PDF cover page is redacted, so this attribution rests on the congressional list rather than the document.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+      ]
+    },
+    {
+      "a": "dird-laser-lightcraft-nanosatellites",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract, FY 2010",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "The document's own administrative note states it is 'one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program', and directs comments to the AAWSA Program Manager at DIA, Bldg 6000, Washington DC 20340-5100.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+      ]
+    },
+    {
+      "a": "dird-laser-lightcraft-nanosatellites",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "author's institutional affiliation at time of writing",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-laser-lightcraft-nanosatellites",
+      "b": "dia",
+      "type": "custody",
+      "label": "published, numbered and released by DIA as DIA-08-1011-001",
+      "claimTier": 1,
+      "dateStart": "2010-11-01",
+      "dateEnd": null,
+      "note": "DIA assigned document number DIA-08-1011-001, published it 1 November 2010 in the 'Defense Futures' series with an Intelligence Cut-Off Date of 30 August 2010, marked it UNCLASSIFIED//FOR OFFICIAL USE ONLY, and later released it in redacted form under FOIA.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf"
+      ]
+    },
+
+    {
+      "a": "dird-quantum-tomography-of-negative-energy-states",
+      "b": "eric-davis",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2011-01-11",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-quantum-tomography-of-negative-energy-states",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract",
+      "claimTier": 1,
+      "dateStart": "2011-01-11",
+      "dateEnd": null,
+      "note": "Issued as DIA-08-1102-007 on 11 January 2011 in the DIRD 'Defense Futures' series, the vehicle DIA used exclusively for AAWSAP contract deliverables. The DIA cover letter to SASC describes the enclosed list as 'all products produced under the AATIP contract for DIA to publish'.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+    {
+      "a": "dird-quantum-tomography-of-negative-energy-states",
+      "b": "earthtech-international",
+      "type": "institutional",
+      "label": "author's institutional affiliation at time of writing",
+      "claimTier": 1,
+      "dateStart": "2011-01-11",
+      "dateEnd": null,
+      "note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+
+    {
+      "a": "dird-mhd-air-breathing-propulsion-and-power",
+      "b": "sergey-macheret",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-11-21",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications' to 'Dr S Macheret, Lockheed Martin'. Macheret is a plasma physicist (Ph.D., Kurchatov Institute) with a substantial peer-reviewed record in MHD flow control, and this DIRD is among the most conventionally grounded on the list.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-mhd-air-breathing-propulsion-and-power",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract",
+      "claimTier": 1,
+      "dateStart": "2010-11-21",
+      "dateEnd": null,
+      "note": "Issued as DIA-08-1011-006 on 21 November 2010, ICOD 20 July 2010, in the DIRD 'Defense Futures' series. Its subject — MHD control of ionised flow around a hypersonic air-breathing vehicle, referencing Soviet Ajax/Ayaks work — sits directly within the stated AAWSAP purpose of assessing foreign advanced aerospace weapon threats out to forty years.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/"
+      ]
+    },
+    {
+      "a": "dird-mhd-air-breathing-propulsion-and-power",
+      "b": "lockheed-martin",
+      "type": "institutional",
+      "label": "author's employer at time of writing (Skunk Works)",
+      "claimTier": 1,
+      "dateStart": "2010-11-21",
+      "dateEnd": null,
+      "note": "Lockheed Martin is the affiliation recorded on the DIA congressional list. Macheret was a senior staff engineer at Lockheed Martin Aeronautics, Skunk Works, from 2006 to 2014, bracketing the document's ICOD and publication date. Lockheed Martin is credited with three of the 38 products on the DIA list.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://en.wikipedia.org/wiki/Sergey_Macheret",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+
+    {
+      "a": "dird-quantum-computing-and-utilizing-organic-molecules",
+      "b": "richard-genik",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-12-10",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    },
+    {
+      "a": "dird-quantum-computing-and-utilizing-organic-molecules",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract",
+      "claimTier": 1,
+      "dateStart": "2010-12-10",
+      "dateEnd": null,
+      "note": "Issued as DIA-08-1102-005 on 10 December 2010 in the DIRD 'Defense Futures' series. Unusually for the series, the Intelligence Cut-Off Date is identical to the publication date, indicating no lag between research cutoff and issue.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf"
+      ]
+    },
+    {
+      "a": "dird-quantum-computing-and-utilizing-organic-molecules",
+      "b": "wayne-state-university",
+      "type": "institutional",
+      "label": "author's institutional affiliation at time of writing",
+      "claimTier": 1,
+      "dateStart": "2010-12-10",
+      "dateEnd": null,
+      "note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+      ]
+    },
+
+    {
+      "a": "dird-negative-mass-propulsion",
+      "b": "friedwardt-winterberg",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2011-01-03",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract"
+      ]
+    },
+    {
+      "a": "dird-negative-mass-propulsion",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract, FY 2010",
+      "claimTier": 1,
+      "dateStart": "2011-01-03",
+      "dateEnd": null,
+      "note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1101-023 on 3 January 2011, ICOD 30 August 2010.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+      ]
+    },
+    {
+      "a": "dird-negative-mass-propulsion",
+      "b": "baass",
+      "type": "funding",
+      "label": "commissioned via the BAASS prime contract",
+      "claimTier": 2,
+      "dateStart": "2010-08-30",
+      "dateEnd": "2011-01-03",
+      "note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+      "sources": [
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf"
+      ]
+    },
+    {
+      "a": "dird-negative-mass-propulsion",
+      "b": "dia",
+      "type": "custody",
+      "label": "published, numbered and released by DIA as DIA-08-1101-023",
+      "claimTier": 1,
+      "dateStart": "2011-01-03",
+      "dateEnd": null,
+      "note": "DIA numbered, published and marked the document UNCLASSIFIED//FOR OFFICIAL USE ONLY, and subsequently released it in redacted form to its FOIA Electronic Reading Room, where it is held as FileId 170039.",
+      "sources": [
+        "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/"
+      ]
+    },
+
+    {
+      "a": "dird-positron-aerospace-propulsion",
+      "b": "gerald-smith",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-03-02",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+        "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+      ]
+    },
+    {
+      "a": "dird-positron-aerospace-propulsion",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract",
+      "claimTier": 1,
+      "dateStart": "2010-03-02",
+      "dateEnd": null,
+      "note": "Issued as DIA-08-1003-002 on 2 March 2010, ICOD 1 December 2009, in the DIRD 'Acquisition Threat Support' series — the earlier of the two series labels used across the AAWSAP deliverable set, the later being 'Defense Futures'.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
+      ]
+    },
+    {
+      "a": "dird-positron-aerospace-propulsion",
+      "b": "baass",
+      "type": "funding",
+      "label": "commissioned via the BAASS prime contract",
+      "claimTier": 2,
+      "dateStart": "2009-12-01",
+      "dateEnd": "2010-03-02",
+      "note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+      "sources": [
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf"
+      ]
+    },
+
+    {
+      "a": "dird-pulsed-high-power-microwave-source-technology",
+      "b": "james-wells",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-01-28",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    },
+    {
+      "a": "dird-pulsed-high-power-microwave-source-technology",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract",
+      "claimTier": 1,
+      "dateStart": "2010-01-28",
+      "dateEnd": null,
+      "note": "Issued as DIA-08-0912-005 on 28 January 2010, ICOD 1 December 2009, in the DIRD 'Acquisition Threat Support' series. The 0912 number block places its assignment in December 2009, the earliest of the eight documents in this batch, and its directed-energy subject matter is among the most conventionally military on the DIA list.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf"
+      ]
+    },
+    {
+      "a": "dird-pulsed-high-power-microwave-source-technology",
+      "b": "dia",
+      "type": "custody",
+      "label": "published, numbered and released by DIA as DIA-08-0912-005",
+      "claimTier": 1,
+      "dateStart": "2010-01-28",
+      "dateEnd": null,
+      "note": "DIA numbered and published the 37-page document marked UNCLASSIFIED//FOR OFFICIAL USE ONLY and released it in redacted form under FOIA. All 38 DIRDs were marked FOUO except a single Directed Technologies laser deliverable that was classified Secret/NOFORN.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk"
+      ]
+    },
+
+    {
+      "a": "dird-maverick-inventor-versus-corporate-inventor-where",
+      "b": "george-hathaway",
+      "type": "research",
+      "label": "authored by",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "The DIA congressional list credits 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?' to 'Dr George Hathaway, Hathaway Consulting'. Hathaway is also credited on the same list with 'Role of Superconductors in Gravity Research'. The author line on the released PDF is redacted under (b)(6).",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+      ]
+    },
+    {
+      "a": "dird-maverick-inventor-versus-corporate-inventor-where",
+      "b": "aawsap",
+      "type": "programmatic",
+      "label": "produced under the AAWSA/AAWSAP contract, FY 2009",
+      "claimTier": 1,
+      "dateStart": "2010-03-30",
+      "dateEnd": null,
+      "note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1003-017 on 30 March 2010, ICOD 1 December 2009. It is not a physics paper: it is a research-culture argument about whether breakthrough invention originates with lone inventors or corporate laboratories, which is the clearest single illustration of how loosely the DIRD mandate was drawn in practice.",
+      "sources": [
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+      ]
+    },
+    {
+      "a": "dird-maverick-inventor-versus-corporate-inventor-where",
+      "b": "baass",
+      "type": "funding",
+      "label": "commissioned via the BAASS prime contract",
+      "claimTier": 2,
+      "dateStart": "2009-12-01",
+      "dateEnd": "2010-03-30",
+      "note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+      "sources": [
+        "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+        "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf"
+      ]
+    },
+
+    {
+      "a": "sergey-macheret",
+      "b": "lockheed-martin",
+      "type": "institutional",
+      "label": "senior staff engineer, Lockheed Martin Aeronautics (Skunk Works)",
+      "claimTier": 2,
+      "dateStart": "2006-01-01",
+      "dateEnd": "2014-12-31",
+      "note": "Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sergey_Macheret",
+        "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "richard-genik",
+      "b": "wayne-state-university",
+      "type": "institutional",
+      "label": "director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences",
+      "claimTier": 1,
+      "dateStart": "2009-07-13",
+      "dateEnd": null,
+      "note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
+      "sources": [
+        "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+        "https://irp.fas.org/dia/aatip-list.pdf"
+      ]
+    },
+    {
+      "a": "richard-genik",
+      "b": "kit-green",
+      "type": "institutional",
+      "label": "co-affiliated AAWSAP authors at Wayne State University",
+      "claimTier": 2,
+      "dateStart": "2009-01-01",
+      "dateEnd": "2011-01-01",
+      "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
+      "sources": [
+        "https://irp.fas.org/dia/aatip-list.pdf",
+        "https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html",
+        "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+      ]
+    }
+  ],
+
+  "unresolved": [
+    "No subject-domain node exists on the board for the domains these eight documents actually occupy. The only domain node offered was d-materials, which fits none of them. Recommend adding d-propulsion (would take negative-mass, positron, laser-lightcraft, MHD), d-directed-energy (pulsed high-power microwave, laser-lightcraft) and d-quantum (quantum tomography, quantum computing) before the next DIRD batch, otherwise the subject-domain leg of the wiring cannot be completed for most of the series.",
+    "james-wells affiliation conflict, unresolved: the DIA list released to FAS gives 'J W Enterprises'; the earlier George Knapp / KLAS-TV roster of 25 July 2018 gives 'Northrop Grumman'. Both rosters are otherwise substantially consistent, and Elizondo confirmed the Knapp roster genuine. The DIA list is recorded as authoritative here. Resolution would require the FOIA-released contract or subcontract paperwork naming the DIRD authors, which has not been released.",
+    "No institution node exists for Hathaway Consulting (Toronto), Positronics Research LLC (New Mexico), J W Enterprises, or the University of Nevada, Reno. Four of the eight documents therefore have no employer-institution edge and were given a baass funding edge in its place. Adding university-nevada-reno in particular would be worthwhile: it would also pick up Winterberg's second DIRD and sits directly on the Reid/Nevada funding axis.",
+    "Author names are redacted under (b)(6) and (b)(3):10 USC 424 on every released DIRD cover page in this batch, without exception. Every author attribution here therefore rests entirely on the DIA congressional list. No cover page independently corroborates an author name. This is a systemic single-source condition across the whole DIRD series and should be flagged on the board rather than left implicit.",
+    "george-hathaway's relationship to Bigelow's organisations is asserted in reporting (TWZ describes him as 'another person with clear ties to Bigelow and his more fringe and paranormal interests') but no primary document establishing employment, subcontract or advisory board membership with NIDS, Bigelow Aerospace or BAASS has been located. No nids or bigelow edge was written for him. If a NIDS science advisory board roster surfaces, that is the edge to add.",
+    "The DIA list PDF at irp.fas.org/dia/aatip-list.pdf is a five-page scan that yields no machine-readable text through the available fetch tooling. Its contents were read here through two independent transcriptions that explicitly distinguish the DIA/FAS list from the earlier Knapp list, cross-checked against The Black Vault's DIRD archive page. A human verification pass against the scanned images themselves is advisable before these attributions are treated as final.",
+    "Item 38 on the DIA list is redacted in full. It is not among this batch, but it means the board's dird-series can never be fully enumerated from the congressional list alone."
+  ]
+}

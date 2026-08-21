@@ -320,6 +320,16 @@
   "claim": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to "
  },
  {
+  "id": "wil-mccarthy",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omn"
+ },
+ {
+  "id": "j-golightly",
+  "why": "no attributed source",
+  "claim": "No source consulted establishes the given name behind the initial \"J\" for Golightly, or any biographical detai"
+ },
+ {
   "id": "aaro-historical-record-vol1",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "The report contains ZERO occurrences of the name 'Wilson' and zero of 'Davis' across all 63 pages including en"
@@ -528,6 +538,21 @@
   "id": "aatip",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; suppor"
+ },
+ {
+  "id": "dird-biosensors-and-biomems-a-survey-of",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in respon"
+ },
+ {
+  "id": "dird-cognitive-limits-on-simultaneous-control-of",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The document was released as item 34 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022."
+ },
+ {
+  "id": "dird-inertial-electrostatic-confinement-fusion",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "At 72 pages it is the longest single document in DIA's 37-document, 1,473-page FOIA release of 25 March 2022."
  },
  {
   "id": "l-skinwalker",
