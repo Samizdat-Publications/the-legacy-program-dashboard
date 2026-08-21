@@ -3765,7 +3765,7 @@ export const TIMELINE = [
     label: 'The 38 DIRD titles enter the public record',
     text: 'Nick Pope publishes the DIA transmittal letter; researchers begin extracting the individual reports through FOIA, eventually obtaining 37 of 38.',
     tier: 'A',
-    node: 'dird-collection'
+    node: 'dird-series'
   },
   {
     id: 'st-2019-01-16',

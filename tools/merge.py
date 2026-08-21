@@ -417,9 +417,28 @@ def load():
         for i in gone:
             people.pop(i, None)
             entities.pop(i, None)
+        # A COLLAPSE is not a deletion: dird-collection and dird-series described
+        # the same object. Where an alias exists, re-point references at the
+        # survivor rather than orphaning them -- a removed node that timeline
+        # events still cite is a dangling reference, and verify.py caught exactly
+        # that on the first attempt at this.
+        alias = json.load(open(rmpath, encoding="utf-8")).get("alias") or {}
+        repointed = 0
+        for t in timeline.values():
+            for f in ("node", "nodeId", "ref", "entityId"):
+                if t.get(f) in alias:
+                    t[f] = alias[t[f]]
+                    repointed += 1
+            for f in ("nodes", "refs", "entityIds"):
+                if isinstance(t.get(f), list) and any(x in alias for x in t[f]):
+                    t[f] = [alias.get(x, x) for x in t[f]]
+                    repointed += 1
         dropped = [k for k, e in edges.items() if e["a"] in rm or e["b"] in rm]
         for k in dropped:
             edges.pop(k)
+        if repointed:
+            print(f"  re-pointed {repointed} reference(s) to a collapsed node",
+                  file=sys.stderr)
         if gone or dropped:
             print(f"  removed {len(gone)} approved node(s) and {len(dropped)} edge(s) "
                   f"that touched them", file=sys.stderr)

@@ -1771,91 +1771,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'baass',
-    b: 'dird-collection',
-    type: 'programmatic',
-    label: 'prime contractor that commissioned and delivered the 38 DIRDs',
-    claimTier: 1,
-    dateStart: '2008',
-    dateEnd: '2010',
-    note: 'BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.',
-    sources: [
-      {
-        name: 'DIA letter to SASC',
-        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
-        date: '2018-01-09'
-      }
-    ]
-  },
-  {
-    a: 'harold-puthoff',
-    b: 'dird-collection',
-    type: 'programmatic',
-    label: 'authored DIRD on vacuum/spacetime metric engineering',
-    claimTier: 1,
-    dateStart: '2008',
-    dateEnd: '2010',
-    note: 'Item 5 on DIA\'s transmittal list; the closest thing in the released set to a theory of how the reported craft operate.',
-    sources: [
-      {
-        name: 'DIA letter to SASC',
-        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
-        date: '2018-01-09'
-      }
-    ]
-  },
-  {
-    a: 'eric-davis',
-    b: 'dird-collection',
-    type: 'programmatic',
-    label: 'authored five of the 38 DIRDs',
-    claimTier: 1,
-    dateStart: '2008',
-    dateEnd: '2010',
-    note: 'Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.',
-    sources: [
-      {
-        name: 'DIA letter to SASC',
-        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
-        date: '2018-01-09'
-      }
-    ]
-  },
-  {
-    a: 'kit-green',
-    b: 'dird-collection',
-    type: 'programmatic',
-    label: 'authored the human biological effects DIRD',
-    claimTier: 1,
-    dateStart: '2008',
-    dateEnd: '2010',
-    note: 'Item 12, \'Field Effects on Biological Tissues\', released as \'Anomalous Acute and Subacute Field Effects on Human Biological Tissues\' — a government document about injuries.',
-    sources: [
-      {
-        name: 'DIRD 26',
-        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
-        date: '2010-01-01'
-      }
-    ]
-  },
-  {
-    a: 'earthtech-international',
-    b: 'dird-collection',
-    type: 'funding',
-    label: 'largest single DIRD producer — six of 38',
-    claimTier: 1,
-    dateStart: '2008',
-    dateEnd: '2010',
-    note: 'A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.',
-    sources: [
-      {
-        name: 'The War Zone',
-        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
-        date: '2019-01-18'
-      }
-    ]
-  },
-  {
     a: 'harold-puthoff',
     b: 'earthtech-international',
     type: 'institutional',
@@ -1930,23 +1845,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2009',
     dateEnd: '2009',
     note: 'A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.',
-    sources: [
-      {
-        name: 'DIA memo U-429-09-DWO-IM',
-        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf',
-        date: '2009-10-30'
-      }
-    ]
-  },
-  {
-    a: 'dia-deliverables-review-2009',
-    b: 'dird-collection',
-    type: 'investigative',
-    label: 'formal DIA quality assessment of the 26 FY09 reports',
-    claimTier: 1,
-    dateStart: '2009',
-    dateEnd: '2009',
-    note: 'Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.',
     sources: [
       {
         name: 'DIA memo U-429-09-DWO-IM',
@@ -2212,23 +2110,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2018',
     dateEnd: '2018',
     note: 'A records officer\'s signature is the only formal notification the authorizing committee ever received about a ten-year program.',
-    sources: [
-      {
-        name: 'DIA letter to SASC',
-        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
-        date: '2018-01-09'
-      }
-    ]
-  },
-  {
-    a: 'dia-aatip-letter-2018',
-    b: 'dird-collection',
-    type: 'investigative',
-    label: 'transmitted the complete list of 38 products',
-    claimTier: 1,
-    dateStart: '2018',
-    dateEnd: '2018',
-    note: 'Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released.',
     sources: [
       {
         name: 'DIA letter to SASC',
@@ -19901,28 +19782,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'harold-puthoff',
-    b: 'dird-vacuum-engineering',
-    type: 'programmatic',
-    label: 'Named author of the AAWSAP vacuum-engineering propulsion study',
-    claimTier: 1,
-    dateStart: '2009',
-    dateEnd: '2010',
-    note: 'Listed by DIA among the 38 AAWSAP reference products and hosted in the DIA FOIA reading room; the propulsion theory commissioned alongside the injury pathology.',
-    sources: [
-      {
-        name: 'DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/',
-        date: '2026-08-12'
-      },
-      {
-        name: 'Federation of American Scientists, \'AATIP List\' (Secrecy News)',
-        url: 'https://fas.org/publication/aatip-list/',
-        date: '2019-01-17'
-      }
-    ]
-  },
-  {
     a: 'kit-green',
     b: 'dird-green-clinical-medical',
     type: 'programmatic',
@@ -35181,5 +35040,124 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Cover page: "2 April 2010 / ICOD: 1 December 2009 / DIA-08-1004-001." Issued through the Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, per EarthTech\'s citation of the same document.',
     sources: []
+  },
+  {
+    a: 'baass',
+    b: 'dird-series',
+    type: 'programmatic',
+    label: 'prime contractor that commissioned and delivered the 38 DIRDs',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIA letter to SASC',
+        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
+        date: '2018-01-09'
+      }
+    ]
+  },
+  {
+    a: 'harold-puthoff',
+    b: 'dird-series',
+    type: 'programmatic',
+    label: 'authored DIRD on vacuum/spacetime metric engineering',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'Item 5 on DIA\'s transmittal list; the closest thing in the released set to a theory of how the reported craft operate. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIA letter to SASC',
+        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
+        date: '2018-01-09'
+      }
+    ]
+  },
+  {
+    a: 'eric-davis',
+    b: 'dird-series',
+    type: 'programmatic',
+    label: 'authored five of the 38 DIRDs',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIA letter to SASC',
+        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
+        date: '2018-01-09'
+      }
+    ]
+  },
+  {
+    a: 'kit-green',
+    b: 'dird-series',
+    type: 'programmatic',
+    label: 'authored the human biological effects DIRD',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'Item 12, \'Field Effects on Biological Tissues\', released as \'Anomalous Acute and Subacute Field Effects on Human Biological Tissues\' — a government document about injuries. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIRD 26',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
+        date: '2010-01-01'
+      }
+    ]
+  },
+  {
+    a: 'earthtech-international',
+    b: 'dird-series',
+    type: 'funding',
+    label: 'largest single DIRD producer — six of 38',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2010',
+    note: 'A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'The War Zone',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: '2019-01-18'
+      }
+    ]
+  },
+  {
+    a: 'dia-deliverables-review-2009',
+    b: 'dird-series',
+    type: 'investigative',
+    label: 'formal DIA quality assessment of the 26 FY09 reports',
+    claimTier: 1,
+    dateStart: '2009',
+    dateEnd: '2009',
+    note: 'Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIA memo U-429-09-DWO-IM',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP/U-429-09-DWO-IM.pdf',
+        date: '2009-10-30'
+      }
+    ]
+  },
+  {
+    a: 'dia-aatip-letter-2018',
+    b: 'dird-series',
+    type: 'investigative',
+    label: 'transmitted the complete list of 38 products',
+    claimTier: 1,
+    dateStart: '2018',
+    dateEnd: '2018',
+    note: 'Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released. [Re-pointed from dird-collection, 14 Aug 2026: dird-collection and dird-series described the same object and were collapsed.]',
+    sources: [
+      {
+        name: 'DIA letter to SASC',
+        url: 'https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf',
+        date: '2018-01-09'
+      }
+    ]
   }
 ];

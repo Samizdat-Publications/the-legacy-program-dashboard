@@ -122,6 +122,20 @@
    "sources": [
     "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
    ]
+  },
+  {
+   "id": "dird-series",
+   "cls": "document",
+   "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+   "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme \u2014 the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
+   "claims": [
+    {
+     "text": "The board formerly carried two nodes for this object, dird-series and dird-collection, describing the same AAWSAP deliverable set. They were collapsed on 14 August 2026 and dird-collection's seven edges re-pointed here.",
+     "tier": 1,
+     "source": "Board maintenance record, notes/L0-IMPLEMENTATION-2026-08-13.md"
+    }
+   ],
+   "sources": []
   }
  ],
  "edges": [],
