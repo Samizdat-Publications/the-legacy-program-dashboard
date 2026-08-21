@@ -17,7 +17,7 @@
    "from": "B",
    "to": "A",
    "score": 79.0,
-   "rank": 38,
+   "rank": 39,
    "degree": 13,
    "program_edges": 1,
    "denials": 4
@@ -3499,12 +3499,23 @@
    "denials": 0
   },
   {
+   "id": "uap-science-advisory-council-2026",
+   "cls": "institution",
+   "from": "B",
+   "to": "C",
+   "score": 25.0,
+   "rank": 503,
+   "degree": 8,
+   "program_edges": 1,
+   "denials": 0
+  },
+  {
    "id": "tna-ufo-release",
    "cls": "program",
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 503,
+   "rank": 504,
    "degree": 4,
    "program_edges": 2,
    "denials": 0
@@ -3515,7 +3526,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 504,
+   "rank": 505,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -3526,7 +3537,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 505,
+   "rank": 506,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3537,7 +3548,7 @@
    "from": "A",
    "to": "C",
    "score": 25.0,
-   "rank": 506,
+   "rank": 507,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3548,7 +3559,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 507,
+   "rank": 508,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3559,7 +3570,7 @@
    "from": "B",
    "to": "C",
    "score": 25.0,
-   "rank": 508,
+   "rank": 509,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3570,7 +3581,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 509,
+   "rank": 510,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3581,7 +3592,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 510,
+   "rank": 511,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3592,7 +3603,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 511,
+   "rank": 512,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3603,7 +3614,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 512,
+   "rank": 513,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3614,7 +3625,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 513,
+   "rank": 514,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3625,7 +3636,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 514,
+   "rank": 515,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3636,7 +3647,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 515,
+   "rank": 516,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3647,7 +3658,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 517,
+   "rank": 518,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3658,7 +3669,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 518,
+   "rank": 519,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3669,7 +3680,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 519,
+   "rank": 520,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3680,7 +3691,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 520,
+   "rank": 521,
    "degree": 6,
    "program_edges": 1,
    "denials": 0
@@ -3691,7 +3702,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 521,
+   "rank": 522,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3702,7 +3713,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 522,
+   "rank": 523,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3713,7 +3724,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 523,
+   "rank": 524,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3724,7 +3735,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 525,
+   "rank": 526,
    "degree": 6,
    "program_edges": 2,
    "denials": 0
@@ -3735,7 +3746,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 526,
+   "rank": 527,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3746,7 +3757,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 527,
+   "rank": 528,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3757,7 +3768,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 528,
+   "rank": 529,
    "degree": 4,
    "program_edges": 0,
    "denials": 2
@@ -3768,7 +3779,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 529,
+   "rank": 530,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -3779,7 +3790,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 530,
+   "rank": 531,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3790,7 +3801,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 531,
+   "rank": 532,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3801,7 +3812,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 532,
+   "rank": 533,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3812,7 +3823,7 @@
    "from": "B",
    "to": "C",
    "score": 24.0,
-   "rank": 533,
+   "rank": 534,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3823,7 +3834,7 @@
    "from": "A",
    "to": "C",
    "score": 24.0,
-   "rank": 534,
+   "rank": 535,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -3834,7 +3845,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 535,
+   "rank": 536,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3845,7 +3856,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 536,
+   "rank": 537,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3856,7 +3867,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 537,
+   "rank": 538,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3867,7 +3878,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 538,
+   "rank": 539,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3878,7 +3889,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 539,
+   "rank": 540,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -3889,7 +3900,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 540,
+   "rank": 541,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3900,7 +3911,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 541,
+   "rank": 542,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -3911,7 +3922,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 542,
+   "rank": 543,
    "degree": 1,
    "program_edges": 1,
    "denials": 0
@@ -3922,7 +3933,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 543,
+   "rank": 544,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -3933,7 +3944,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 544,
+   "rank": 545,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -3944,7 +3955,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 545,
+   "rank": 546,
    "degree": 6,
    "program_edges": 0,
    "denials": 0
@@ -3955,7 +3966,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 546,
+   "rank": 547,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -3966,7 +3977,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 547,
+   "rank": 548,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3977,7 +3988,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 548,
+   "rank": 549,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -3988,7 +3999,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 549,
+   "rank": 550,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -3999,7 +4010,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 550,
+   "rank": 551,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4010,19 +4021,8 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 552,
-   "degree": 2,
-   "program_edges": 1,
-   "denials": 0
-  },
-  {
-   "id": "uap-science-advisory-council-2026",
-   "cls": "institution",
-   "from": "B",
-   "to": "C",
-   "score": 23.0,
    "rank": 553,
-   "degree": 8,
+   "degree": 2,
    "program_edges": 1,
    "denials": 0
   },

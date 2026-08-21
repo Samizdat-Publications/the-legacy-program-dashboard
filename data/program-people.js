@@ -28,7 +28,7 @@ export const PEOPLE = [
     domains: ['d-funding', 'd-oversight', 'd-legislative', 'd-records'],
     narrative: 'Reid is the appropriator who created the funded lineage and then tried to seal it. As Majority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget for what became AAWSAP at DIA — AARO\'s own 2024 report states flatly that \'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA.\' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 2009. On 24 June 2009 he wrote to Deputy Secretary of Defense William Lynn III requesting that portions of what he called the \'Advanced Aerospace Threat and Identification Program\' be placed in a Restricted Special Access Program with a bigoted access list, protecting methodologies for identifying and engineering advanced technologies, personnel and oversight details, and the involvement of private contractors and industry partners. That letter is the most important single document in this domain because it establishes that the Senate Majority Leader believed the program was producing something warranting SAP protection with a compartmented access list. DoD refused. Reid later said publicly that $22 million was not enough and that failing to study the subject would be malpractice, and called the program one of the good things he did in his congressional service. He died 28 December 2021.',
     affiliations: ['US Senate (1987-2017)', 'Senate Majority Leader (2007-2015)', 'U.S. Senate, Nevada (1987-2017)'],
-    tierRationale: 'Re-graded A on a global pass (rank 29 of 940, score 88). 16 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 30 of 940, score 88). 16 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     chronology: [
       {
         date: '2007-01-01',
@@ -245,7 +245,7 @@ export const PEOPLE = [
       'Defense Intelligence Agency, Defense Warning Office (1990s-2010s)',
       'AAWSAP Government Project Leader (2008-2010)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 49 of 940, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 50 of 940, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     chronology: [
       {
         date: '2007-06-19',
@@ -1161,7 +1161,7 @@ export const PEOPLE = [
       'Wayne State University School of Medicine, Departments of Diagnostic Radiology and Psychiatry & Behavioral Neurosciences',
       'Institute for Advanced Studies at Austin / AAWSAP DIRD author (2009-2010)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 40 of 940, score 76). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 41 of 940, score 76). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     chronology: [
       {
         date: '1969',
@@ -3520,7 +3520,7 @@ export const PEOPLE = [
       'Budget Suites of America, founder',
       'Bigelow Aerospace Advanced Space Studies / BAASS (2008-2010s)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 44 of 940, score 75). 11 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 45 of 940, score 75). 11 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D2.',
     chronology: [
       { date: '1995-01-01', event: 'Founds the National Institute for Discovery Science', precision: 'year' },
       {
@@ -4714,7 +4714,7 @@ export const PEOPLE = [
       'formerly Office of the Secretary of Defense',
       'formerly Senate Select Committee on Intelligence'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 45 of 940, score 75). 14 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 46 of 940, score 75). 14 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     chronology: [
       { date: '2017-10-11', event: 'Announced as TTSA National Security Affairs Advisor.', precision: 'day' },
       {
@@ -5087,7 +5087,7 @@ export const PEOPLE = [
     domains: ['d-coverup', 'd-oversight'],
     narrative: 'Abba directed the DoD Special Access Program Central Office, the organization that would know, by definition, what special access programs exist and who is read on to them. He appears in the FOIA-released AARO memorandum for record documenting the office\'s nine attempts to interview Grusch between June 2023 and January 2024 - the memorandum bears a March 2023 DoD memo under his signature establishing the access authority AARO invoked. His presence in that file is the closest the public record comes to putting SAPCO on paper in the Grusch matter. SAPCO is the natural custodian of the answer to the only question that matters here - what program was Grusch refused a read-on to - and it has never addressed the question publicly.',
     affiliations: ['US Air Force, Major General', 'DoD Special Access Program Central Office, Director'],
-    tierRationale: 'Re-graded C on a global pass (rank 535 of 940, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 536 of 940, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     chronology: [
       {
         date: '2023-03-08',
@@ -5577,7 +5577,7 @@ export const PEOPLE = [
     domains: ['d-legacy', 'd-coverup', 'd-records'],
     narrative: 'Brigadier General Carroll \'Rip\' Bolender wrote the memorandum that closed Project Blue Book and, in the same breath, admitted the program had never been the real reporting channel. His 20 October 1969 memorandum recommending termination states that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and \'are not part of the Blue Book system.\' Read plainly, this says that from at least the JANAP era the significant cases went up a separate, classified channel while Blue Book handled the public-facing residue — and that shutting Blue Book down therefore terminated nothing operational. The memo is the hinge between the legacy era and everything the modern disclosure movement alleges: it is a general officer, in writing, describing a two-track system. Bolender had a serious operational career, including work on the lunar module programme, and there is no indication he intended a revelation; he was explaining to his own chain why closing the public office cost the Air Force nothing.',
     affiliations: ['US Air Force, Deputy Director of Development (1969)', 'Air Force Systems Command'],
-    tierRationale: 'Re-graded C on a global pass (rank 536 of 940, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 537 of 940, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '1969-10-20',
@@ -6271,7 +6271,7 @@ export const PEOPLE = [
       'US House of Representatives, HI-02 (2013-2021)',
       'Army National Guard'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 509 of 940, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 510 of 940, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     chronology: [
       {
         date: '2026-05-08',
@@ -6461,7 +6461,7 @@ export const PEOPLE = [
       'Center for Strategic and International Studies',
       'OSD Policy (Obama administration)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 510 of 940, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 511 of 940, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     chronology: [
       {
         date: '2021-11-23',
@@ -6556,7 +6556,7 @@ export const PEOPLE = [
       'dod',
       'dod-agencywide-audit'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 511 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 512 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     chronology: [
       {
         date: '2018',
@@ -10300,7 +10300,7 @@ export const PEOPLE = [
       'Commander, NORAD and USNORTHCOM (Feb 2024- )',
       'Deputy Commander, US Central Command (prior)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 512 of 940, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 513 of 940, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     chronology: [
       {
         date: '2024-02-01',
@@ -11506,7 +11506,7 @@ export const PEOPLE = [
     domains: ['d-oversight', 'd-coverup', 'd-witness'],
     narrative: 'Gaetz is the member who personally went and looked, and the only one who has claimed on the record to have viewed a specific UAP radar sequence. Waived onto the 26 July 2023 subcommittee, he described a protected disclosure his office received from Eglin Air Force Base, in his district, and a subsequent site visit he made with Burchett and Luna. His account is a compressed portrait of how access is negotiated rather than granted: \'We asked to see any of the evidence that had been taken by flight crew in this endeavor and to observe any radar signature as well as to meet with the flight crew. We were not afforded access to all of the flight crew and initially we were not afforded access to images and to radar. Thereafter, we had a bit of a discussion about how authorities flow in the United States of America and we did see the image and we did meet with one member of the flight crew who took the image.\' The crew, he said, were on a test mission over the Gulf of Mexico in airspace that was supposed to be clear, and encountered four craft in a clear diamond formation - \'a radar sequence that I and I alone have observed in the U.S. Congress\' - and an orb he could not attach to any human capability. He recommended two specific committee actions: a SCIF session with Grusch, and that the Eglin radar images be provided to the committee, \'subpoenaed if necessary.\' Neither happened. He also recorded the culture problem verbatim: \'It was stated explicitly to me by these test pilots that if you have a UAP experience the best thing you can do for your career is forget it and not tell anyone.\' He resigned from the House in November 2024.',
     affiliations: ['U.S. House of Representatives, FL-1 (2017-2024)', 'House Armed Services Committee (2017-2024)'],
-    tierRationale: 'Re-graded C on a global pass (rank 513 of 940, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 514 of 940, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     chronology: [
       {
         date: '2023-01-01',
@@ -12990,7 +12990,7 @@ export const PEOPLE = [
       'To The Stars Academy of Arts & Science / To The Stars Inc. (2017-present)',
       'Gravity Holdings LLC'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 537 of 940, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 538 of 940, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       {
         date: '2017-09-01',
@@ -13082,7 +13082,7 @@ export const PEOPLE = [
       'To The Stars Academy of Arts & Science (2017-present)',
       'The Sol Foundation'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 514 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 515 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     chronology: [
       {
         date: '2007',
@@ -14240,7 +14240,7 @@ export const PEOPLE = [
       'Office of the Director of National Intelligence, PDDNI (2007-2009)',
       'MITRE Board of Trustees (Chairman from 2018)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 515 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 516 of 940, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     chronology: [
       { date: '1979-01-01', event: 'Becomes Director of Los Alamos National Laboratory', precision: 'year' },
       { date: '2005-01-01', event: 'Becomes Director of the National Reconnaissance Office', precision: 'year' },
@@ -17406,7 +17406,7 @@ export const PEOPLE = [
     domains: ['d-witness', 'd-coverup'],
     narrative: 'Penniston was the senior security police NCO who went outside the RAF Woodbridge east gate in the early hours of 26 December 1980. His contemporaneous notebook - later released by him and reproduced by researchers - contains sketches and the phrase \'craft of unknown origin.\' He has stated on the record that he approached the object, walked around it, and physically touched a warm, glass-smooth surface bearing raised symbols, and that he and John Burroughs were subsequently subjected to lengthy debriefings by personnel he could not identify. He signed an official USAF witness statement in January 1981 which, in its released form, is markedly less detailed than his notebook. The gap between the notebook and the official statement is the evidentiary point: it is a documented instance of a first-hand military account being compressed as it moved up the chain, in exactly the manner the concealment thesis predicts. Penniston\'s later claims - including a binary-code download experienced during the encounter - have made him easier to dismiss, which is itself a familiar pattern in this record: the most exposed witnesses accumulate the most discrediting material.',
     affiliations: ['United States Air Force, 81st Security Police Squadron (1980-1981)'],
-    tierRationale: 'Re-graded C on a global pass (rank 538 of 940, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 539 of 940, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     chronology: [
       {
         date: '1980-12-26',
@@ -19862,7 +19862,7 @@ export const PEOPLE = [
     domains: ['d-custody', 'd-coverup'],
     narrative: 'Gaffney appears on this board for a single reason and the board does not stretch it. On 9 September 2025, immediately after naming a Lockheed Martin executive in response to Rep. Nick Begich\'s request for specific gatekeepers, George Knapp said \'I have a name for you\' and gave the committee \'Glenn Gaffney, CIA.\' The naming sits directly alongside Knapp\'s broader assertion that the intelligence agencies, \'CIA I think primarily,\' gave the material to the contractors and instructed them to keep it quiet. It also sits alongside two independent records of a CIA veto: Luis Elizondo\'s confirmation in November 2024 that the Lockheed-Bigelow transfer \'was blocked,\' and AARO\'s own account of an interviewee stating that \'a former named senior CIA official quashed the proposal to remove the material from the corporation.\' Whether the person AARO declined to name and the person Knapp named are the same individual is unestablished, and the board asserts nothing about it. Gaffney is a real and senior former intelligence community figure whose career ran through the Agency\'s science and technology and collection directorates; no released document, complaint or corporate record connects him to recovered material, and no response from him has been published. This is a research thread with a name attached, not a finding.',
     affiliations: ['Central Intelligence Agency', 'Office of the Director of National Intelligence'],
-    tierRationale: 'Re-graded C on a global pass (rank 516 of 940, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 517 of 940, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '2025-09-09',
@@ -21582,7 +21582,7 @@ export const PEOPLE = [
     domains: ['d-money', 'd-secrecy'],
     narrative: 'Steven Aftergood joined the Federation of American Scientists in 1989 and directed its Project on Government Secrecy from 1991 to 2021. He is the single individual most responsible for the existence of any public intelligence budget figure at all. In 1997 he was the plaintiff in a Freedom of Information Act suit against the Central Intelligence Agency - brought by FAS with the assistance of Kate Martin of the Center for National Security Studies - that forced the declassification and release of the total United States intelligence budget for the first time in fifty years: $26.6 billion for fiscal year 1997. The Director of Central Intelligence disclosed the figure again the following year, $26.7 billion for FY1998, and then stopped; disclosure did not resume until 2007, and then only because Congress compelled it by statute in section 601 of the Implementing Recommendations of the 9/11 Commission Act. In 2006 Aftergood won a further FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. His awards include the Electronic Frontier Foundation\'s Pioneer Award, the American Library Association\'s James Madison Award and the Hugh M. Hefner First Amendment Award. The relevance to this board is exact: every aggregate figure in the NIP and MIP series that anyone can cite exists because one person litigated for it and then Congress codified the minimum. Everything below the aggregate remains where it was in 1949.',
     affiliations: ['fas'],
-    tierRationale: 'Re-graded C on a global pass (rank 539 of 940, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 540 of 940, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       { date: '1989', event: 'Joins the Federation of American Scientists', precision: 'year' },
       { date: '1991', event: 'Begins directing the FAS Project on Government Secrecy', precision: 'year' },
@@ -22110,7 +22110,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure', 'd-custody'],
     narrative: 'Jean-Jacques Velasco ran France\'s official UAP office for twenty years - as director of GEPAN from 1984 to 1988 and then of its successor SEPRA from 1988 to 2004 - which makes him the longest-serving government UAP official in the Western record and the direct counterpart of the American figures on this board. He held the file when the Gendarmerie Nationale was routing sighting reports to CNES by teletype and when CNES could deploy laboratory resources to physical-trace cases, of which the 1981 Trans-en-Provence landing case is the best documented. He was a contributor to COMETA, named in Letty\'s foreword as \'Jean-Jacques Velasco, Head of SEPRA at CNES\', and Wikipedia\'s account of the report\'s delivery states that it was Velasco personally who handed the document to Prime Minister Lionel Jospin. He is therefore the hinge between the official French organ and the unofficial general officers\' committee: the serving head of the state UAP service participated in a private report that recommended boosting his own service\'s resources and pressing Washington diplomatically.',
     affiliations: ['cnes', 'geipan', 'cometa'],
-    tierRationale: 'Re-graded C on a global pass (rank 540 of 940, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 541 of 940, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       { date: '1984', event: 'Becomes director of GEPAN', precision: 'year' },
       { date: '1988', event: 'GEPAN renamed SEPRA; Velasco continues as head', precision: 'year' },
@@ -24715,7 +24715,7 @@ export const PEOPLE = [
     domains: ['d-witness', 'd-medical', 'd-litigation'],
     narrative: 'Betty Cash was fifty-one on the night of 29 December 1980 when, with Vickie Landrum and seven-year-old Colby Landrum, she stopped her car on a two-lane road near Huffman, Texas, in front of what all three described as an intensely bright object expelling flame, followed by a formation of tandem-rotor helicopters they counted at around twenty-three. She stood outside the car longest and was injured worst: hospitalised from 2 January 1981, with blistering, hair loss and eye symptoms, later treated for breast cancer. She became the lead named plaintiff in Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, Civil Action No. H-84-348, filed in the United States District Court for the Southern District of Texas, Houston Division, on 18 January 1984 under the Federal Tort Claims Act, 28 U.S.C. 1346(b) and 2671 et seq. Her attorney in charge was Peter A. Gersten of Gagliardi, Torpes & Gersten, Tarrytown, New York, with William C. Shead as local co-counsel. On 21 August 1986 Judge Ross N. Sterling granted the government\'s motion and entered an Order of Dismissal under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56. This board records Cash at tier A not because the object is identified - it is not - but because she is the only UFO witness in the United States to have forced the government to appear in a federal court and answer, on the record, whether an object and aircraft of that description were its own.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 541 of 940, score 23). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 542 of 940, score 23). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     chronology: [
       { date: '1980-12-29', event: 'The encounter near Huffman, Texas, at about 9pm', precision: 'day' },
       {

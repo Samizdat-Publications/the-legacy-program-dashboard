@@ -9,7 +9,7 @@
    "cluster": "ic",
    "sub": "Alleged USAF/AFOSI program",
    "tier": "B",
-   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel — briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports — which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment — but it is a finding about the absence of a record, not a record.",
+   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel \u2014 briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports \u2014 which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment \u2014 but it is a finding about the absence of a record, not a record.",
    "sources": [
     {
      "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (March 2024)",
@@ -34,12 +34,101 @@
      "source": "Correction logged 12 Aug 2026; see notes/WAVE3_QUEUE.md"
     }
    ]
+  },
+  {
+   "id": "iaa-fy2024-sec-1102",
+   "cls": "legislation",
+   "label": "IAA FY2024 Sec. 1102 \u2014 contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 \u2014 a funding limitation only.",
+   "claims": [
+    {
+     "text": "The turn-in provision is Sec. 1102 of Division M of S. 2226 as passed by the Senate on 27 July 2023. The Division M table of contents reads 'TITLE XI--OTHER MATTERS Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office. Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.' The same text appears as Sec. 1104 of S. 2103 as reported by SSCI on 22 June 2023; both citations are correct, to different vehicles.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm"
+    },
+    {
+     "text": "The turn-in mandate did not survive conference. Enacted Sec. 7343 of Division G, P.L. 118-31 contains only (a) definitions, (b) a funding limitation and (c) an IR&D limitation. The phrases 'non-earth origin', 'exotic', 'in their possession' and the 60-day deadline appear nowhere in the enacted text.",
+     "tier": 1,
+     "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+    },
+    {
+     "text": "Enacted Sec. 7343(b) reads: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership, including for any activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024.'",
+     "tier": 1,
+     "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+    }
+   ],
+   "sources": [
+    "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm",
+    "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim"
+   ]
+  },
+  {
+   "id": "aaro-fy2025-annual-report",
+   "cls": "document",
+   "claims": [
+    {
+     "text": "The report contradicts itself on satellite flaring. Section IV.C states that AARO resolved 44 UAP-related events as attributable to satellite flaring during the reporting period, while Section I (Executive Summary) and Section VI state that new capability enabled analysts to resolve 238 reported UAP as satellite flaring. Note that a separate figure of 44 UAP reports 'in the space domain' appears at Section III.A and is a different 44.",
+     "tier": 1,
+     "source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+    }
+   ],
+   "sources": [
+    "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf"
+   ]
+  },
+  {
+   "id": "usc-10-119",
+   "cls": "legislation",
+   "claims": [
+    {
+     "text": "The annual reporting requirements in subsections (a) and (b) TERMINATED effective 31 December 2021. The statutory note reads: 'For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.' Subsections (c) through (g) survive, and (e)(1) still cross-references the terminated (a) and (b).",
+     "tier": 1,
+     "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    }
+   ],
+   "sources": [
+    "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+   ]
+  },
+  {
+   "id": "aaro-historical-record-vol1",
+   "cls": "document",
+   "claims": [
+    {
+     "text": "The report contains ZERO occurrences of the name 'Wilson' and zero of 'Davis' across all 63 pages including endnotes 1-200. It names no private individuals, referring instead to 'Person 1' and 'the named former CIA official'. It disposes of the reverse-engineering allegations without ever engaging the Wilson-Davis memorandum, a document that sits in a congressional hearing file.",
+     "tier": 1,
+     "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    },
+    {
+     "text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
+     "tier": 1,
+     "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+    }
+   ],
+   "sources": [
+    "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+   ]
+  },
+  {
+   "id": "uap-science-advisory-council-2026",
+   "cls": "institution",
+   "claims": [
+    {
+     "text": "Avi Loeb's first Medium post on the UAP Science Advisory Council carries article:published_time 2026-06-13T16:20:50Z. His second post, 'More Details on the UAP Science Advisory Council', carries a byline of 16 June 2026; the 29 June 2026 date that has circulated is that post's republish timestamp, not its publication date.",
+     "tier": 2,
+     "source": "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+    }
+   ],
+   "sources": [
+    "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df"
+   ]
   }
  ],
  "edges": [],
  "timeline": [],
  "entityInfo": {},
  "gaps": [
-  "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme."
+  "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme.",
+  "Sec. 1102 of S.2226 Div M: the section HEADING and placement are verified against the govinfo engrossed text, but web_fetch caps extraction at ~118,600 characters and the engrossed body (pages 2368-2374) could not be read verbatim. The make-available-to-AARO mandate is corroborated by a contemporaneous section-by-section locator, not read directly. This is the soft joint in the citation and should be closed with a direct read of the printed bill."
  ]
 }
