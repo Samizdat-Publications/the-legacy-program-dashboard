@@ -731,6 +731,13 @@ def apply(s, model, must_replace):
         "    CMD.expand(n.id);",
         "click to clear", 1); ok &= o
 
+    # The stats strip key describes the CLAIM TIER, not a confidence score. The
+    # parent board graded confidence; this board grades evidence, and the two are
+    # different claims about the same colour. Last item from the handoff's shell
+    # spec.
+    s, o = must_replace(s, "Confidence key", "Claim tier", "claim-tier key label",
+                        s.count("Confidence key")); ok &= o
+
     # -- expose the model on the debug surface the screenshotter already uses, so
     #    the L0 checks can be made AT RUNTIME. This board has been bitten twice by
     #    patches that read correctly and did not take effect.

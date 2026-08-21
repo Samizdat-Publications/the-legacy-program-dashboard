@@ -1,0 +1,1306 @@
+{
+ "edges": [
+  {
+   "a": "dod-agencywide-audit",
+   "b": "d-money",
+   "type": "funding",
+   "label": "eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about",
+   "claimTier": 1,
+   "dateStart": "2018",
+   "dateEnd": "2025",
+   "note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
+   "sources": [
+    {
+     "name": "CRS In Focus IF12627, 'Defense Primer: FY2025 Department of Defense Audit Results'",
+     "url": "https://www.congress.gov/crs-product/IF12627",
+     "date": "2026-01-15"
+    },
+    {
+     "name": "DoD OIG press release, 'Independent Auditor's Reports on the DoD FY 2025 Financial Statements'",
+     "url": "https://www.dodig.mil/In-the-Spotlight/Article/4365200/press-release-independent-auditors-reports-on-the-dod-fy-2025-financial-stateme/",
+     "date": "2025-12-18"
+    }
+   ]
+  },
+  {
+   "a": "classified-annex",
+   "b": "d-money",
+   "type": "funding",
+   "label": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+   "claimTier": 1,
+   "dateStart": "2026-02-03",
+   "dateEnd": null,
+   "note": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+   "sources": [
+    {
+     "name": "Public Law 119-75, Department of Defense Appropriations Act, 2026 (Secs. 8005-8006) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf",
+     "date": "2026-02-03"
+    }
+   ]
+  },
+  {
+   "a": "usc-10-119",
+   "b": "d-money",
+   "type": "legislative",
+   "label": "the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it",
+   "claimTier": 1,
+   "dateStart": "1987-12-04",
+   "dateEnd": null,
+   "note": "Sec. 119(a)-(c) requires the annual SAP report to the four defense committees to state actual historical costs and estimated future costs for each program. Sec. 119(e)(1) lets the Secretary waive any of that on a case-by-case national-security determination, with the information and the justification going instead 'jointly to the chairman and ranking minority member of each of the defense committees.' The cost visibility this domain measures is created and removed by this one section.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ]
+  },
+  {
+   "a": "waived-usap",
+   "b": "d-money",
+   "type": "funding",
+   "label": "the access category whose costs reach four members rather than four committees",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "A waived unacknowledged SAP is the category to which the 10 U.S.C. 119(e) waiver is applied. Costs are not zero and are not unappropriated; they are reported to a group of four. The board's Tier 2 grading holds because the existence of the category and the reporting channel are documented in statute and DoD issuance, while the contents of any particular waived programme are not.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf",
+     "date": "2025-08-09"
+    }
+   ]
+  },
+  {
+   "a": "waived-usap-mechanism",
+   "b": "d-money",
+   "type": "funding",
+   "label": "the stacked mechanism by which a funded activity can exist with no publicly reconcilable line",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf",
+     "date": "2025-08-09"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "aawsap",
+   "b": "d-money",
+   "type": "funding",
+   "label": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+   "claimTier": 1,
+   "dateStart": "2008",
+   "dateEnd": "2012",
+   "note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+   "sources": [
+    {
+     "name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+     "date": "2017-12-16"
+    },
+    {
+     "name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+     "date": "2017-12-16"
+    },
+    {
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/",
+     "date": "2008-08-18"
+    },
+    {
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/",
+     "date": "2009-09-02"
+    }
+   ]
+  },
+  {
+   "a": "nip",
+   "b": "d-funding",
+   "type": "funding",
+   "label": "one of the two named channels through which US intelligence money is appropriated",
+   "claimTier": 1,
+   "dateStart": "2007",
+   "dateEnd": null,
+   "note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
+   "sources": [
+    {
+     "name": "ODNI, Intelligence Community Budget",
+     "url": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "ODNI press release, 'DNI Releases FY 2027 Budget Request Figure for the National Intelligence Program'",
+     "url": "https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2026/4156-pr-07-26",
+     "date": "2026-03-01"
+    },
+    {
+     "name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+     "url": "https://www.congress.gov/crs-product/R44381",
+     "date": "2024-09-26"
+    }
+   ]
+  },
+  {
+   "a": "mip",
+   "b": "d-funding",
+   "type": "funding",
+   "label": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+   "claimTier": 1,
+   "dateStart": "2010",
+   "dateEnd": null,
+   "note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+   "sources": [
+    {
+     "name": "ODNI, Intelligence Community Budget",
+     "url": "https://www.odni.gov/index.php/what-we-do/ic-budget",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+     "url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "CRS Report R44381, 'Intelligence Community Spending: Trends and Issues'",
+     "url": "https://www.congress.gov/crs-product/R44381",
+     "date": "2024-09-26"
+    }
+   ]
+  },
+  {
+   "a": "aawsap-contract-hhm402-08-c-0072",
+   "b": "d-funding",
+   "type": "funding",
+   "label": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+   "claimTier": 1,
+   "dateStart": "2008-09-22",
+   "dateEnd": "2010",
+   "note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+   "sources": [
+    {
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/",
+     "date": "2009-09-02"
+    },
+    {
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/",
+     "date": "2008-08-18"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "d-funding",
+   "type": "legislative",
+   "label": "carries the first enacted funding limitation aimed at unreported UAP activity",
+   "claimTier": 1,
+   "dateStart": "2023-12-22",
+   "dateEnd": null,
+   "note": "Beyond the Subtitle C records collection, P.L. 118-31 carries funding-side provisions that bar the obligation of funds for UAP activity protected under special or restricted access that has not been disclosed to the congressional committees, and bar charging UAP-related independent research and development as an allowable indirect contract expense. Congress legislating on the funding channel is the strongest available evidence that the channel is real.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+     "url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/",
+     "date": "2023-12-14"
+    },
+    {
+     "name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+     "url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/",
+     "date": "2023-12-24"
+    }
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "d-funding",
+   "type": "funding",
+   "label": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
+   "claimTier": 1,
+   "dateStart": "2023-12-22",
+   "dateEnd": null,
+   "note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
+   "sources": [
+    {
+     "name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+     "url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/",
+     "date": "2024-01-03"
+    },
+    {
+     "name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+     "url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/",
+     "date": "2023-12-14"
+    },
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "d-funding",
+   "type": "funding",
+   "label": "the Senate committee text that would have closed the channel at the contractor end",
+   "claimTier": 2,
+   "dateStart": "2023-06-22",
+   "dateEnd": null,
+   "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
+   "sources": [
+    {
+     "name": "S. 2103, 118th Congress, Intelligence Authorization Act for Fiscal Year 2024, as reported (Congress.gov)",
+     "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2103/text",
+     "date": "2023-06-22"
+    },
+    {
+     "name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+     "url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/",
+     "date": "2023-12-24"
+    },
+    {
+     "name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm",
+     "date": "2023-07-27"
+    }
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
+   "claimTier": 1,
+   "dateStart": "2024-09-12",
+   "dateEnd": null,
+   "note": "Established by DoD Directive 5205.07 (reissued 12 September 2024) 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general or flag officer or SES equivalent, and designated the primary DoD liaison with the Executive Branch and Congress on all DoD SAP issues. Any structural map of where a legacy programme could sit starts at this node.",
+   "sources": [
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf",
+     "date": "2025-08-09"
+    }
+   ]
+  },
+  {
+   "a": "ic-sapco",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The IC maintains its own special access and controlled access program control architecture under DNI authority, separate from the DoD SAP enterprise administered by DoD SAPCO. AARO's Historical Record Report Volume I confirms its existence in the government's own UAP record. The two-sided structure matters because a programme can be lodged on either side, and the oversight statutes differ.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "ousdi",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
+   "sources": [
+    {
+     "name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf",
+     "date": "2022-08-17"
+    },
+    {
+     "name": "DoD Financial Management Regulation, Volume 2B, Chapter 16, 'Intelligence Programs/Activities'",
+     "url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/02b/02b_16.pdf",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "carve-out",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the provision that removes a contractor facility from the government's own industrial security oversight",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Defined in DoD Directive 5205.07 and DoD Manual 5205.07 Volume 1 as a provision approved by the Secretary or Deputy Secretary of Defense relieving the defence security agency of its National Industrial Security Program oversight responsibilities at a contractor facility. It is the structural seam at which a programme held at a company stops being visible to any government security official outside the programme.",
+   "sources": [
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf",
+     "date": "2025-08-09"
+    }
+   ]
+  },
+  {
+   "a": "dodi-5205-11",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the issuance that documents the approval and oversight chain this domain is trying to map",
+   "claimTier": 1,
+   "dateStart": "2024-09-12",
+   "dateEnd": null,
+   "note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+   "sources": [
+    {
+     "name": "Archived: DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs' (12 Sep 2024) (Wayback 2025-08-09)",
+     "url": "https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf",
+     "date": "2025-08-09"
+    }
+   ]
+  },
+  {
+   "a": "isoo",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the office charged with counting the classification system, and therefore the boundary of the public map",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "ISOO is housed at the National Archives and is responsible to the President for policy and oversight of the government-wide security classification system and the National Industrial Security Program, under Executive Orders 13526 and 13556. Where ISOO's annual reporting stops is where this domain's open-source organisational mapping has to switch to inference.",
+   "sources": [
+    {
+     "name": "National Archives - Information Security Oversight Office",
+     "url": "https://www.archives.gov/isoo",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "oversight-congress",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the statutory oversight scheme, and the exception written into it",
+   "claimTier": 1,
+   "dateStart": "1987-12-04",
+   "dateEnd": null,
+   "note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "d-structure",
+   "type": "institutional",
+   "label": "the four-member channel that 10 U.S.C. 119(e) substitutes for committee reporting",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Sec. 119(e)(2) directs that where the Secretary exercises the waiver, the information and the justification go jointly to the chairman and ranking minority member of each of the defense committees - the Armed Services and Appropriations committees of both chambers. Attaching this node to the structural domain is what stops the two channels being conflated. [Corrected 14 Aug 2026: 10 U.S.C. 119(g) defines 'defense committees' as SIX bodies including both Appropriations Defense subcommittees, so notification runs to twelve seats, not eight. Section 119 uses its own definition, not 10 U.S.C. 101(a)(16).]",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, 'Special Access Program (SAP) Policy' (12 Sep 2024) (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "manhattan-project-2",
+   "b": "d-structure",
+   "type": "research",
+   "label": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
+   "claimTier": 3,
+   "dateStart": "2026-05-01",
+   "dateEnd": "2026-06-19",
+   "note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
+   "sources": [
+    {
+     "name": "UAP Gerb, 'The Manhattan Project 2.0' Vol. 1 (YouTube)",
+     "url": "https://www.youtube.com/watch?v=jR-h5p2bd-A",
+     "date": "2026-05-01"
+    },
+    {
+     "name": "UAP Gerb, 'Special Access Required' Vol. 2 (YouTube)",
+     "url": "https://www.youtube.com/watch?v=6MsmPrpQqa8",
+     "date": "2026-06-19"
+    }
+   ]
+  },
+  {
+   "a": "nyt-2017-12-16",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "the baseline against which the substrate shift is measured",
+   "claimTier": 1,
+   "dateStart": "2017-12-16",
+   "dateEnd": null,
+   "note": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+   "sources": [
+    {
+     "name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+     "date": "2017-12-16"
+    },
+    {
+     "name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf",
+     "date": "2017-12-16"
+    }
+   ]
+  },
+  {
+   "a": "newsnation",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+   "claimTier": 1,
+   "dateStart": "2021",
+   "dateEnd": null,
+   "note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+   "sources": [
+    {
+     "name": "NewsNation, Ross Coulthart correspondent page",
+     "url": "https://www.newsnationnow.com/author/ross-coulthart/",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "NewsNation, 'Reality Check with Ross Coulthart' programme page",
+     "url": "https://www.newsnationnow.com/podcasts-newsnation/reality-check/",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "four decades of the record produced from a single local affiliate",
+   "claimTier": 1,
+   "dateStart": "1981",
+   "dateEnd": null,
+   "note": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    },
+    {
+     "name": "Wikipedia, George Knapp (television journalist)",
+     "url": "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "public-substack",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+   "claimTier": 1,
+   "dateStart": "2024-10",
+   "dateEnd": "2024-11-13",
+   "note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+   "sources": [
+    {
+     "name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+     "date": "2024-11-13"
+    },
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    }
+   ]
+  },
+  {
+   "a": "the-intercept",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "the adversarial counterweight inside the same substrate",
+   "claimTier": 1,
+   "dateStart": "2019-06-01",
+   "dateEnd": "2023-08-09",
+   "note": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
+   "sources": [
+    {
+     "name": "The Intercept, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?'",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "date": "2019-06-01"
+    },
+    {
+     "name": "The Intercept, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention'",
+     "url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/",
+     "date": "2023-08-09"
+    }
+   ]
+  },
+  {
+   "a": "the-hill",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "placement aimed at the congressional audience rather than original investigation",
+   "claimTier": 2,
+   "dateStart": "2023",
+   "dateEnd": null,
+   "note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+   "sources": [
+    {
+     "name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/",
+     "date": "2024-01-12"
+    },
+    {
+     "name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+     "url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/",
+     "date": "2023-11-30"
+    }
+   ]
+  },
+  {
+   "a": "john-greenewald",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+   "claimTier": 1,
+   "dateStart": "1996",
+   "dateEnd": null,
+   "note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+   "sources": [
+    {
+     "name": "OSD/JS FOIA case 18-F-0324, final response and released documents (The Black Vault)",
+     "url": "https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf",
+     "date": "2022-08-17"
+    },
+    {
+     "name": "The Black Vault, case file: To The Stars Academy, Tom DeLonge and the secret DoD UFO research program",
+     "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "immaculate-constellation",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "the case that proves the substrate: leak, newsletter, congressional record, no newsroom",
+   "claimTier": 1,
+   "dateStart": "2024-10",
+   "dateEnd": "2024-11-13",
+   "note": "An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed.",
+   "sources": [
+    {
+     "name": "Michael Shellenberger, written testimony to the House Committee on Oversight and Accountability",
+     "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf",
+     "date": "2024-11-13"
+    },
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    }
+   ]
+  },
+  {
+   "a": "michels-gerb-structural-episode",
+   "b": "d-media",
+   "type": "investigative",
+   "label": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
+   "claimTier": 1,
+   "dateStart": "2026-01-11",
+   "dateEnd": null,
+   "note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
+   "sources": [
+    {
+     "name": "American Alchemy, 'The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb' (YouTube)",
+     "url": "https://www.youtube.com/watch?v=u7g5Sn1DJF4",
+     "date": "2026-01-11"
+    },
+    {
+     "name": "American Alchemy with Jesse Michels, 'The Hidden UFO Program Is Real - Here's How It Works! (ft. UAPGerb)' (Apple Podcasts listing)",
+     "url": "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983",
+     "date": "2026-01-11"
+    }
+   ]
+  },
+  {
+   "a": "samdt-797",
+   "b": "d-legislative",
+   "type": "legislative",
+   "label": "the filing instrument - where the process starts and where its text is fixed",
+   "claimTier": 1,
+   "dateStart": "2023-07-13",
+   "dateEnd": null,
+   "note": "Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record.",
+   "sources": [
+    {
+     "name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm",
+     "date": "2023-07-13"
+    },
+    {
+     "name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm",
+     "date": "2023-07-27"
+    }
+   ]
+  },
+  {
+   "a": "uapda-2023",
+   "b": "d-legislative",
+   "type": "legislative",
+   "label": "passed one chamber, stripped in conference - the domain's instructive defeat",
+   "claimTier": 1,
+   "dateStart": "2023-07-13",
+   "dateEnd": "2023-12-22",
+   "note": "The only text ever passed by a chamber of Congress legislating on the assumption that recovered non-human technology exists and is held in part by private entities. It rode to the Senate floor as an amendment, cleared the Senate as a division of S. 2226, and did not survive conference into P.L. 118-31 in that form. The mechanism of the defeat is the lesson, which is why it belongs to process rather than to statute.",
+   "sources": [
+    {
+     "name": "S. 2226, 118th Congress, Engrossed in Senate - Division G, UAP Disclosure Act of 2023 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm",
+     "date": "2023-07-27"
+    },
+    {
+     "name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm",
+     "date": "2023-07-13"
+    },
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "uapda-fy2027-house-adopted",
+   "b": "d-legislative",
+   "type": "legislative",
+   "label": "the successor framework, and the first time such a text has cleared the House floor",
+   "claimTier": 1,
+   "dateStart": "2026-07-22",
+   "dateEnd": null,
+   "note": "Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for.",
+   "sources": [
+    {
+     "name": "Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework'",
+     "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+     "date": "2026-07-22"
+    }
+   ]
+  },
+  {
+   "a": "iaa-fy2024-sec-1102",
+   "b": "d-legislative",
+   "type": "legislative",
+   "label": "a committee-reported provision that did not survive conference in the form reported",
+   "claimTier": 2,
+   "dateStart": "2023-06-22",
+   "dateEnd": "2023-12-22",
+   "note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
+   "sources": [
+    {
+     "name": "S. 2103, 118th Congress, Intelligence Authorization Act for Fiscal Year 2024, as reported (Congress.gov)",
+     "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2103/text",
+     "date": "2023-06-22"
+    },
+    {
+     "name": "Douglas Dean Johnson (Mirador), 'Senate Intelligence bill gives holders of \"non-earth origin or exotic UAP material\" six months to make it available to AARO'",
+     "url": "https://douglasjohnson.ghost.io/senate-intelligence-bill-gives-holders-of-non-earth-origin-six-months/",
+     "date": "2023-12-24"
+    },
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "senate-armed-services",
+   "b": "d-legislative",
+   "type": "institutional",
+   "label": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
+   "claimTier": 1,
+   "dateStart": "2023",
+   "dateEnd": null,
+   "note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "S. 4784, 119th Congress, reported in Senate (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm",
+     "date": "2026-06-15"
+    },
+    {
+     "name": "Congressional Record, 13 July 2023, text of S.Amdt. 797 (CREC-2023-07-13-pt1-PgS2953)",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/html/CREC-2023-07-13-pt1-PgS2953.htm",
+     "date": "2023-07-13"
+    }
+   ]
+  },
+  {
+   "a": "house-oversight-committee",
+   "b": "d-legislative",
+   "type": "institutional",
+   "label": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+   "claimTier": 1,
+   "dateStart": "2023-07-26",
+   "dateEnd": "2025-09-09",
+   "note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+   "sources": [
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    },
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Exposing the Truth' (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    },
+    {
+     "name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ]
+  },
+  {
+   "a": "us-house",
+   "b": "d-legislative",
+   "type": "institutional",
+   "label": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+   "claimTier": 1,
+   "dateStart": "2023-07-26",
+   "dateEnd": "2026-07-22",
+   "note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+   "sources": [
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    },
+    {
+     "name": "The Hill, 'House lawmakers demand transparency from leaders on UAP amendment's inclusion in Defense bill'",
+     "url": "https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/",
+     "date": "2023-11-30"
+    },
+    {
+     "name": "Rep. Eric Burlison, 'House Adopts Burlison Amendment Establishing UAP Disclosure Framework'",
+     "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
+     "date": "2026-07-22"
+    }
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "d-legislative",
+   "type": "institutional",
+   "label": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+   "claimTier": 1,
+   "dateStart": "2023-08-22",
+   "dateEnd": null,
+   "note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+   "sources": [
+    {
+     "name": "Rep. Tim Burchett, 'Rep. Burchett Launches UAP Caucus, Leads Letter to Intelligence Community Inspector General'",
+     "url": "https://burchett.house.gov/media/press-releases/rep-burchett-launches-uap-caucus-leads-letter-intelligence-community-inspector",
+     "date": "2023-08-22"
+    },
+    {
+     "name": "The Hill, 'Classified UFO briefing: House members emerge with mixed feelings'",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/",
+     "date": "2024-01-12"
+    }
+   ]
+  },
+  {
+   "a": "usc-10-119",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "codified permanent law - the only statute governing what Congress is told about special access programs",
+   "claimTier": 1,
+   "dateStart": "1987-12-04",
+   "dateEnd": null,
+   "note": "Added by sec. 1132(a)(1) of the NDAA for FY1988-89, P.L. 100-180, signed 4 December 1987, and amended five times since. It is positive law in title 10 rather than a standalone provision, which places it at the centre of the enacted corpus this domain isolates.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2022-sec-1683",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "the statutory root of the modern apparatus, codified at 50 U.S.C. 3373",
+   "claimTier": 1,
+   "dateStart": "2021-12-27",
+   "dateEnd": null,
+   "note": "Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created.",
+   "sources": [
+    {
+     "name": "Public Law 117-81, National Defense Authorization Act for FY2022 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm",
+     "date": "2021-12-27"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2023-sec-6802",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report",
+   "claimTier": 1,
+   "dateStart": "2022-12-23",
+   "dateEnd": null,
+   "note": "Sec. 6802 of P.L. 117-263, enacted 23 December 2022, added subsection (j) requiring a Historical Record Report within 540 days and subsection (k) requiring joint DNI/SECDEF annual reports. This is the authority AARO itself cites for both report series, which makes it enacted law with directly observable output.",
+   "sources": [
+    {
+     "name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+     "date": "2022-12-23"
+    },
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (DOPSR-2024-0263)",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+     "date": "2024-03-08"
+    }
+   ]
+  },
+  {
+   "a": "iaa-2023",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
+   "claimTier": 1,
+   "dateStart": "2022-12-23",
+   "dateEnd": null,
+   "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
+   "sources": [
+    {
+     "name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+     "date": "2022-12-23"
+    },
+    {
+     "name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for FY2025 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2024",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "P.L. 118-31 Subtitle C, secs. 1841-1843 - the UAP Records Collection as enacted",
+   "claimTier": 1,
+   "dateStart": "2023-12-22",
+   "dateEnd": null,
+   "note": "What survived conference from the Senate-passed disclosure title was a records collection at NARA, a duty to transmit and a postponement regime, without the Review Board or the eminent domain provision. NARA's published guidance to federal agencies implementing the collection is the observable proof that this part is law and operating.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "National Archives, 'Guidance to Federal Agencies on Unidentified Anomalous Phenomena Records Collection'",
+     "url": "https://www.archives.gov/records-mgmt/uap-guidance",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "Division G of P.L. 118-31 - enacted intelligence-side UAP provisions",
+   "claimTier": 1,
+   "dateStart": "2023-12-22",
+   "dateEnd": null,
+   "note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
+   "sources": [
+    {
+     "name": "Senate Select Committee on Intelligence, Intelligence Authorization Act for FY2024, Division G of the NDAA for FY2024 (text, incl. Secs. 7341 and 7343)",
+     "url": "https://www.intelligence.senate.gov/2024/01/03/legislation-intelligence-authorization-act-fiscal-year-2024-division-g-national-defense/",
+     "date": "2024-01-03"
+    },
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024, incl. Div. G (IAA FY2024) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "Senate Select Committee on Intelligence, Joint Explanatory Statement to Accompany the Intelligence Authorization Act for Fiscal Year 2024",
+     "url": "https://www.intelligence.senate.gov/2023/12/14/publications-joint-explanatory-statement-accompany-intelligence-authorization-act-fiscal-year-2024/",
+     "date": "2023-12-14"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2025",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "P.L. 118-159 Div. G, secs. 6801-6802 - GAO review of AARO and the sunset of the audit cadence",
+   "claimTier": 1,
+   "dateStart": "2024-12-23",
+   "dateEnd": null,
+   "note": "Approved 23 December 2024. Sec. 6801 directs a GAO review of AARO's implementation of 50 U.S.C. 3373; sec. 6802 sunsets the GAO audit requirements attached to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records the first enacted step in winding oversight machinery back down rather than up.",
+   "sources": [
+    {
+     "name": "Public Law 118-159, Servicemember Quality of Life Improvement and National Defense Authorization Act for FY2025 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    },
+    {
+     "name": "Public Law 117-263, James M. Inhofe National Defense Authorization Act for FY2023, incl. Div. F (IAA FY2023) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
+     "date": "2022-12-23"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2026",
+   "b": "d-legislation",
+   "type": "legislative",
+   "label": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
+   "claimTier": 1,
+   "dateStart": "2025-12-18",
+   "dateEnd": null,
+   "note": "Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact.",
+   "sources": [
+    {
+     "name": "Public Law 119-60, National Defense Authorization Act for FY2026 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+     "date": "2025-12-18"
+    }
+   ]
+  },
+  {
+   "a": "mitre-corporation",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "the largest operator of the one acquisition form built to be non-competitive by design",
+   "claimTier": 1,
+   "dateStart": "1958-07-21",
+   "dateEnd": null,
+   "note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
+   "sources": [
+    {
+     "name": "NSF NCSES, Master Government List of Federally Funded R&D Centers",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "MITRE, R&D Centers",
+     "url": "https://www.mitre.org/our-impact/rd-centers",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+     "url": "https://www.everycrsreport.com/reports/R44629.html",
+     "date": "2026-05-15"
+    }
+   ]
+  },
+  {
+   "a": "lockheed-martin",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "the prime where classified contract line items and sworn allegation meet",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
+   "sources": [
+    {
+     "name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+     "url": "https://www.usaspending.gov/search",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    },
+    {
+     "name": "House Oversight Task Force hearing transcript, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ]
+  },
+  {
+   "a": "raytheon",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "sensor-side prime - the contractor-generated data category nobody is asking for",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
+   "sources": [
+    {
+     "name": "USAspending.gov, federal award search (prime contract obligations by recipient)",
+     "url": "https://www.usaspending.gov/search",
+     "date": "2026-08-21"
+    },
+    {
+     "name": "House Oversight hearing transcript, 'UAP: Implications on National Security, Public Safety, and Government Transparency' (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ]
+  },
+  {
+   "a": "eg-and-g",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "contracting at a site whose existence was itself classified",
+   "claimTier": 1,
+   "dateStart": "1947",
+   "dateEnd": "1995-10-10",
+   "note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
+   "sources": [
+    {
+     "name": "Presidential Determination on Classified Information Concerning the Air Force's Operating Location Near Groom Lake, Nevada, 60 FR 52823",
+     "url": "https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location",
+     "date": "1995-10-10"
+    }
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "a company stood up to hold a single government contract",
+   "claimTier": 1,
+   "dateStart": "2008",
+   "dateEnd": null,
+   "note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+   "sources": [
+    {
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/",
+     "date": "2009-09-02"
+    },
+    {
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/",
+     "date": "2008-08-18"
+    }
+   ]
+  },
+  {
+   "a": "earthtech-international",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "the subcontract path - how work reached the government without a prime relationship",
+   "claimTier": 1,
+   "dateStart": "2008",
+   "dateEnd": "2010",
+   "note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+   "sources": [
+    {
+     "name": "DIA letter to the Senate Armed Services Committee listing the 38 AATIP/AAWSAP reference documents",
+     "url": "https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf",
+     "date": "2018-01-09"
+    },
+    {
+     "name": "The War Zone, 'Here's The List Of Studies The Military's Secretive UFO Program Funded'",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "date": "2019-01-18"
+    }
+   ]
+  },
+  {
+   "a": "aawsap-contract-hhm402-08-c-0072",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "the instrument itself - competed, awarded, numbered and released",
+   "claimTier": 1,
+   "dateStart": "2008-09-22",
+   "dateEnd": null,
+   "note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+   "sources": [
+    {
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/",
+     "date": "2009-09-02"
+    },
+    {
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/",
+     "date": "2008-08-18"
+    }
+   ]
+  },
+  {
+   "a": "ttsa-army-crada",
+   "b": "d-contracting",
+   "type": "institutional",
+   "label": "a non-FAR instrument binding the Army to a private claimant of recovered material",
+   "claimTier": 1,
+   "dateStart": "2019-10-10",
+   "dateEnd": null,
+   "note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
+   "sources": [
+    {
+     "name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2019-11-15)",
+     "url": "https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq",
+     "date": "2019-11-15"
+    },
+    {
+     "name": "Archived: To The Stars Academy, CRADA FAQ (Wayback 2021-10-24)",
+     "url": "https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq",
+     "date": "2021-10-24"
+    }
+   ]
+  },
+  {
+   "a": "d-ffrdc",
+   "b": "d-contracting",
+   "type": "research",
+   "label": "the FFRDC seam is a species of contracting mechanics, not a separate subject",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
+   "sources": [
+    {
+     "name": "CRS Report R44629, 'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
+     "url": "https://www.everycrsreport.com/reports/R44629.html",
+     "date": "2026-05-15"
+    },
+    {
+     "name": "NSF NCSES, Master Government List of Federally Funded R&D Centers",
+     "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc",
+     "date": "2026-08-12"
+    }
+   ]
+  }
+ ],
+ "recommend_collapse": [
+  {
+   "keep": "d-funding",
+   "remove": "d-money",
+   "reason": "Collapse. d-money's own description begins by saying it 'narrows d-funding to a single question' - a domain defined as a narrowing of another domain is a facet of it, not a peer. The membership sets do not separate cleanly: the classified annex, MIP, NIP, waived USAPs and 10 U.S.C. 119 all satisfy both tests, and the disjoint split written into this file (audit and opacity to d-money, named channels to d-funding) is an editorial choice that could be reversed without loss, which is the diagnostic for a distinction without a difference. Keep d-funding because 'Funding Channels' states a membership test a node either passes or fails (is this a route money travels?), whereas 'Black Budget & Unaccounted Funds' states a conclusion, and the board's tier discipline prefers testable membership to argued membership. On collapse, fold the DoD audit-disclaimer material into d-funding's description as its unaccounted-funds facet and re-point the existing d-funding -> d-money edge, which becomes self-referential."
+  },
+  {
+   "keep": "d-legislation",
+   "remove": "NONE - recommend keeping both",
+   "reason": "Do NOT collapse d-legislative into d-legislation. The membership sets produced in this pass are fully disjoint: d-legislative holds S.Amdt. 797, the UAPDA of 2023, the FY2027 House-adopted amendment, the SSCI committee provision, and the four institutional actors that move text; d-legislation holds only enacted law - 10 U.S.C. 119 and the FY2022, FY2023, FY2024, FY2025 and FY2026 acts. Nothing appears in both. Proposal versus enactment is also the board's central substantive finding (the Review Board and eminent domain provisions passed the Senate and were stripped in conference), so merging the two would erase the thing the board is arguing. 'keep' is set to d-legislation only to name the id that would survive if a collapse were forced against this recommendation; the recommendation itself is to keep both. Suggested improvement short of collapse: relabel d-legislative to 'Legislative Process (proposed and pending)' so the boundary is legible from the node label alone."
+  },
+  {
+   "keep": "dod-sapco",
+   "remove": "dod-sapco-arch",
+   "reason": "Not one of the pairs asked about, but found during this pass and worth raising: dod-sapco and dod-sapco-arch carry the identical label 'DoD Special Access Program Central Office (DoD SAPCO)' and identical descriptive content drawn from the same two issuances, DoDD 5205.07 and DoDI 5205.11. They are one institution entered twice. Keep dod-sapco (degree 11) and re-point dod-sapco-arch's 6 edges onto it. Only dod-sapco was wired to d-structure in this file so that the collapse does not have to be undone afterwards."
+  }
+ ],
+ "unresolved": [
+  "iaa-fy2024-sec-1102 carries a section number that does not match any text I could verify. The contractor turn-in provision with the 60-day notification and 180-day availability deadlines is Section 1104 of S. 2103 as reported by the Senate Select Committee on Intelligence, not Section 1102 (Section 1102 of that bill concerns notification on the provision of defense sensitive support). The node id and label should be corrected. An existing board edge, iaa-2024 -> iaa-fy2024-sec-1102, already carries the annotation 'section number needs verification'; this pass confirms the annotation was warranted.",
+  "Whether the contractor turn-in requirement survived into enacted law is unresolved. The enacted counterpart is Sec. 7343 of Division G of P.L. 118-31, 'Funding limitations relating to unidentified anomalous phenomena.' The Senate Select Committee's own Joint Explanatory Statement describes 7343 as imposing a funding limitation and an independent-research-and-development indirect-expense limitation, and does not describe a turn-in duty; the contemporaneous Mirador analysis records that the enacted UAP provisions 'differed substantially' from what Senate committees and the full Senate had approved. I could not retrieve the operative text of Sec. 7343 from a primary source: govinfo's PLAW-118publ31 HTML and the Senate Intelligence Committee's Division G page both served only front matter and the section list on fetch, not the section bodies. Because of that, iaa-fy2024-sec-1102 was wired to d-legislative and d-funding at Tier 2 and deliberately NOT to d-legislation. Resolving this needs the govinfo PDF page range for Division G Subtitle C.",
+  "d-structure -> manhattan-project-2 is Tier 3 and rests entirely on two UAP Gerb YouTube videos (1 May and 19 June 2026). No independent documentary corroboration exists for the onion model as a description of an actual architecture. It is wired because the domain is about structural argument and this is the argument, not because the architecture is established.",
+  "raytheon -> d-contracting is Tier 2. No source places Raytheon in any UAP-specific contract vehicle, programme or SAP. The edge rests on its documented role as the prime for the ATFLIR and AN/APG-79 sensor families plus general prime-contract volume in USAspending. If a stricter standard is applied this edge should be the first cut.",
+  "the-hill -> d-media is Tier 2. The sourced record shows coverage and opinion placement aimed at a congressional readership; I found no original documentary investigation by The Hill in this subject area, so the edge label says placement rather than investigation.",
+  "ttsa-army-crada: the executed CRADA instrument itself is not public. Sourcing is To The Stars Academy's own archived FAQ from 2019 and 2021. The signing date, the signatories and the named points of contact all come from the partner rather than from the Army, and no FOIA release of the agreement has surfaced.",
+  "waived-sap-notification-group carried no sources at all on the board before this pass. The two edges written here source it to 10 U.S.C. 119(e)(2), which is the provision that creates the channel. The composition of the group as eight members - chair and ranking member of each of the four defense committees - follows from the statutory text; any narrower 'Gang of Eight' framing found elsewhere on the board should be checked against it.",
+  "aawsap-contract-hhm402-08-c-0072 and iaa-2024 each appear in two of my domains (contracting and funding; enacted statute and funding). Both are deliberate and the notes state which fact carries which membership, but if the d-money/d-funding collapse is accepted these should be re-checked for redundancy."
+ ]
+}

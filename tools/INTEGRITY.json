@@ -71,9 +71,52 @@
   "usc-50-3091a-2024amend->usc-50-3091a (programmatic)",
   "usc-50-3091a-2024amend->sap-taxonomy (programmatic)",
   "ndaa-fy2024-1687->waived-usap-mechanism (programmatic)",
-  "dod-sapco-arch->sap-annual-report (programmatic)",
   "eo-12829->cfr-32-117 (programmatic)",
   "accm->four-regime-map (programmatic)",
+  "fab->operacao-prato (programmatic)",
+  "fab->ev-noite-ovnis-1986 (programmatic)",
+  "fab->uyrange-hollanda (institutional)",
+  "fab->otavio-moreira-lima (institutional)",
+  "fab->pessoa-cavalcanti (institutional)",
+  "pessoa-cavalcanti->ev-noite-ovnis-1986 (investigative)",
+  "otavio-moreira-lima->doc-fab-1986-report (institutional)",
+  "hospital-regional-varginha->ev-varginha-1996 (witness-chain)",
+  "l-brazil->l-brasilia (geographic)",
+  "l-brazil->fab (geographic)",
+  "l-brazil->operacao-prato (geographic)",
+  "l-brazil->ev-noite-ovnis-1986 (geographic)",
+  "l-brasilia->arquivo-nacional-ufo (custody)",
+  "l-brasilia->doc-fab-1986-report (geographic)",
+  "l-brasilia->otavio-moreira-lima (geographic)",
+  "l-brasilia->senado-brasil (geographic)",
+  "senado-brasil->arquivo-nacional-ufo (legislative)",
+  "senado-brasil->ev-noite-ovnis-1986 (legislative)",
+  "senado-brasil->fab (legislative)",
+  "operacao-prato->the-black-vault (custody)",
+  "uyrange-hollanda->the-black-vault (witness-chain)",
+  "operacao-prato->jacques-vallee (investigative)",
+  "uyrange-hollanda->jacques-vallee (witness-chain)",
+  "operacao-prato->aawsap (research)",
+  "operacao-prato->baass (research)",
+  "arquivo-nacional-ufo->nara-rg615 (institutional)",
+  "fab->aaro-fy2025-annual-report (institutional)",
+  "arquivo-nacional-ufo->sky-canada-project (institutional)",
+  "arquivo-nacional-ufo->geipan (institutional)",
+  "operacao-prato->setka (programmatic)",
+  "peru-uap-office->fab (institutional)",
+  "peru-uap-office->cefaa (institutional)",
+  "peru-uap-office->geipan (institutional)",
+  "dod-sapco->sap-annual-report (programmatic)",
+  "john-mchugh->waived-sap-notification-group (institutional)",
+  "john-mchugh->us-house (institutional)",
+  "buck-mckeon->waived-sap-notification-group (institutional)",
+  "buck-mckeon->oversight-congress (institutional)",
+  "thad-cochran->waived-sap-notification-group (institutional)",
+  "thad-cochran->oversight-congress (institutional)",
+  "tom-cole->waived-sap-notification-group (institutional)",
+  "tom-cole->us-house (institutional)",
+  "dod-sapco->waived-sap-notification-group (institutional)",
+  "dod-sapco->classified-annex (funding)",
   "pogo->hearing-2025-09-09 (investigative)",
   "pogo->house-oversight-committee (institutional)",
   "pogo->anna-paulina-luna (legislative)",
@@ -324,7 +367,6 @@
   "waived-sap-notification-group->oversight-congress (institutional)",
   "waived-sap-notification-group->senate-armed-services (institutional)",
   "waived-sap-notification-group->house-oversight-committee (institutional)",
-  "dod-sapco->waived-sap-notification-group (institutional)",
   "dod-sapco->waived-usap (programmatic)",
   "dod->waived-sap-notification-group (institutional)",
   "waived-sap-notification-group->classified-annex (funding)",
@@ -342,7 +384,6 @@
   "chris-coons->waived-sap-notification-group (institutional)",
   "mike-rogers-alabama->waived-sap-notification-group (institutional)",
   "adam-smith->waived-sap-notification-group (institutional)",
-  "tom-cole->waived-sap-notification-group (institutional)",
   "rosa-delauro->waived-sap-notification-group (institutional)",
   "ken-calvert->waived-sap-notification-group (institutional)",
   "betty-mccollum->waived-sap-notification-group (institutional)"
@@ -419,7 +460,6 @@
   "usc-50-3091a-2024amend->usc-50-3091a (programmatic)",
   "usc-50-3091a-2024amend->sap-taxonomy (programmatic)",
   "ndaa-fy2024-1687->waived-usap-mechanism (programmatic)",
-  "dod-sapco-arch->sap-annual-report (programmatic)",
   "eo-12829->cfr-32-117 (programmatic)",
   "accm->four-regime-map (programmatic)",
   "chris-coons->waived-sap-notification-group (institutional)"
@@ -542,8 +582,50 @@
    "locId": "l-cedar-rapids"
   }
  ],
+ "person_bad_domain_ref": [
+  {
+   "id": "david-norquist",
+   "domain": "d-money"
+  },
+  {
+   "id": "brett-mansfield",
+   "domain": "d-money"
+  },
+  {
+   "id": "platte-moring",
+   "domain": "d-money"
+  },
+  {
+   "id": "michael-powers-comptroller",
+   "domain": "d-money"
+  },
+  {
+   "id": "mark-skidmore",
+   "domain": "d-money"
+  },
+  {
+   "id": "catherine-austin-fitts",
+   "domain": "d-money"
+  },
+  {
+   "id": "laurence-kotlikoff",
+   "domain": "d-money"
+  },
+  {
+   "id": "steven-aftergood",
+   "domain": "d-money"
+  },
+  {
+   "id": "terry-patton",
+   "domain": "d-money"
+  }
+ ],
  "person_without_date": [
   "michael-powers-comptroller",
+  "john-mchugh",
+  "buck-mckeon",
+  "thad-cochran",
+  "tom-cole",
   "friedwardt-winterberg",
   "wil-mccarthy",
   "claudio-maccone",
@@ -569,7 +651,6 @@
   "chris-coons",
   "mike-rogers-alabama",
   "adam-smith",
-  "tom-cole",
   "rosa-delauro",
   "ken-calvert",
   "betty-mccollum"
@@ -666,6 +747,22 @@
   {
    "id": "sizun-jiang",
    "sources": 1
+  },
+  {
+   "id": "john-mchugh",
+   "sources": 0
+  },
+  {
+   "id": "buck-mckeon",
+   "sources": 0
+  },
+  {
+   "id": "thad-cochran",
+   "sources": 0
+  },
+  {
+   "id": "tom-cole",
+   "sources": 0
   },
   {
    "id": "bernard-norlain",
@@ -784,10 +881,6 @@
    "sources": 0
   },
   {
-   "id": "tom-cole",
-   "sources": 0
-  },
-  {
    "id": "rosa-delauro",
    "sources": 0
   },
@@ -809,6 +902,58 @@
   "soyuzufotsentr"
  ],
  "tier1_claim_no_url": [
+  {
+   "id": "john-mchugh",
+   "claim": "A House Armed Services Committee statement dated 2 June 2009 describes McHugh as 'House Ar"
+  },
+  {
+   "id": "john-mchugh",
+   "claim": "McHugh had left the ranking seat by 16 June 2009, when Chairman Skelton issued a statement"
+  },
+  {
+   "id": "buck-mckeon",
+   "claim": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Repu"
+  },
+  {
+   "id": "buck-mckeon",
+   "claim": "The December 2009 Congressional Directory records Howard P. 'Buck' McKeon as the senior Re"
+  },
+  {
+   "id": "buck-mckeon",
+   "claim": "The chairman and ranking minority member of the House Armed Services Committee are among t"
+  },
+  {
+   "id": "thad-cochran",
+   "claim": "The Senate Appropriations Subcommittee on Defense hearing volume for Department of Defense"
+  },
+  {
+   "id": "thad-cochran",
+   "claim": "The 111th Congress committee assignment publication lists Cochran as the senior Republican"
+  },
+  {
+   "id": "thad-cochran",
+   "claim": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodie"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "A statement from Congressman Tom Cole's office dated 10 April 2024 records that 'the full "
+  },
+  {
+   "id": "tom-cole",
+   "claim": "Cole was selected for the chairmanship by the House Republican Steering Committee before t"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "Cole was still serving as Chairman of the House Appropriations Committee as of a committee"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "Tom Cole (R-OK) is identified as Chairman of the House Appropriations Committee in a commi"
+  },
+  {
+   "id": "tom-cole",
+   "claim": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About "
+  },
   {
    "id": "friedwardt-winterberg",
    "claim": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 credits "
@@ -1012,14 +1157,6 @@
   {
    "id": "adam-smith",
    "claim": "Smith was Chairman of the House Armed Services Committee in the 116th Congress, with Mac T"
-  },
-  {
-   "id": "tom-cole",
-   "claim": "Tom Cole (R-OK) is identified as Chairman of the House Appropriations Committee in a commi"
-  },
-  {
-   "id": "tom-cole",
-   "claim": "The House Appropriations Committee's official site lists 'Chairman Tom Cole' in its About "
   },
   {
    "id": "rosa-delauro",

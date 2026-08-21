@@ -3015,7 +3015,7 @@ export const TIMELINE = [
     label: 'Brazilian Army inquiry on Varginha',
     text: 'The inquiry concludes the 1996 witnesses encountered Luiz Antonio de Paula, a mentally disabled man, and that the observed military vehicle movements were routine maintenance and Escola de Sargentos das Armas transport. The underlying unit movement logs are not published.',
     tier: 'B',
-    node: 'varginha-1996'
+    node: 'ev-varginha-1996'
   },
   {
     id: 'tl-2010-elizondo-takes-over',

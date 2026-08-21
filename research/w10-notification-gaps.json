@@ -1,0 +1,309 @@
+{
+  "people": [
+    {
+      "id": "john-mchugh",
+      "label": "John M. McHugh",
+      "sub": "Ranking Member, House Armed Services Committee, January 2009 to June 2009; thereafter Secretary of the Army, 21 September 2009 to 1 November 2015",
+      "cluster": "oversight",
+      "tier": "C",
+      "C": 1,
+      "A": 1,
+      "D": 2,
+      "narrative": "McHugh held one of the twelve 10 U.S.C. 119(e)(2) seats for roughly the first half of 2009, the year the board treats as load-bearing because of the Reid special access program request. As ranking minority member of the House Armed Services Committee he was entitled, jointly with Chairman Ike Skelton, to receive whatever the Secretary of Defense withheld from a section 119 report under the waiver authority together with the written justification for withholding it, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His tenure in the seat is short and precisely bracketed by two dated statements from the committee's own chairman. On 2 June 2009 Skelton described him as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and recorded that McHugh 'took the reins as Ranking Member of the House Armed Services Committee in January.' On 16 June 2009 Skelton congratulated Buck McKeon as the new ranking member. McHugh therefore held a 119(e)(2) seat from January 2009 until some point between 2 and 16 June 2009, and not thereafter, even though he remained a member of the House until 21 September 2009. That distinction matters for date-specific claims: a waived-SAP notification made in the spring of 2009 reached McHugh, and one made in the autumn of 2009 reached McKeon. McHugh's later trajectory is the reason this node is worth keeping rather than folding into a footnote. He moved from a seat entitled to receive waived DoD special access program information directly into the office of Secretary of the Army, the service secretariat that runs its own SAP portfolio. There is no public record of any UAP-specific statement by him in either capacity, and none would be expected: section 119 supplies no disclosure route on the congressional side and Army SAP holdings are not publicly enumerated.",
+      "claims": [
+        {
+          "text": "A House Armed Services Committee statement dated 2 June 2009 describes McHugh as 'House Armed Services Committee Ranking Member John M. McHugh (R-NY)' and states that 'Congressman McHugh took the reins as Ranking Member of the House Armed Services Committee in January.'",
+          "tier": 1,
+          "source": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army"
+        },
+        {
+          "text": "McHugh had left the ranking seat by 16 June 2009, when Chairman Skelton issued a statement congratulating Buck McKeon on his election as the committee's Ranking Member.",
+          "tier": 1,
+          "source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+        },
+        {
+          "text": "McHugh was sworn in as Secretary of the Army in 2009, after leaving the House Armed Services ranking seat.",
+          "tier": 2,
+          "source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+        }
+      ],
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+        "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+        "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    },
+    {
+      "id": "buck-mckeon",
+      "label": "Howard P. \"Buck\" McKeon",
+      "sub": "Ranking Member, House Armed Services Committee, from 16 June 2009; Chairman of the same committee in the 112th and 113th Congresses, January 2011 to January 2015",
+      "cluster": "oversight",
+      "tier": "B",
+      "C": 2,
+      "A": 1,
+      "D": 3,
+      "narrative": "McKeon succeeded John McHugh in the House Armed Services ranking seat in June 2009 and thereby entered the twelve-member group designated by 10 U.S.C. 119(e)(2). The date is fixed by the committee's own record: Chairman Ike Skelton issued a statement dated 16 June 2009 congratulating McKeon 'on his election as the Ranking Member of the House Armed Services Committee' following his selection by the House Republican Conference, and noted that the full committee was marking up the annual defense authorization bill that same day. This closes the board's open question about the 2009 House Armed Services succession, and it closes it in a direction that matters: the handover happened in June 2009, not in September when McHugh resigned his seat to become Secretary of the Army. Any claim tied to a specific 2009 date should use McHugh for the first half of the year and McKeon for the second. McKeon's entitlement did not end there. He chaired the House Armed Services Committee across the 112th and 113th Congresses, so he occupied a 119(e)(2) seat from June 2009 continuously into January 2015 - first as ranking member, then as chairman. That is a five-and-a-half-year sight line into whatever waived DoD special access program material the Secretary of Defense chose to route through the section 119 channel, spanning the entire period between the Reid SAP request and the establishment of the Advanced Aerospace Threat Identification Program's successor arrangements. McKeon has no publicly documented UAP-specific record, and the absence is structurally expected rather than exculpatory. Section 119 gives the twelve recipients no staff-sharing right in the statute, no route to brief colleagues, and no sunset that would eventually force the material into wider committee view. On this board McKeon is best treated as a long-duration entitlement node covering the 2009-2015 window that the current-holder roster does not reach.",
+      "claims": [
+        {
+          "text": "A House Armed Services Committee statement dated 16 June 2009 records that 'the House Republican Conference selected Congressman Howard P. \"Buck\" McKeon (R-CA) to serve as the Ranking Member of the House Armed Services Committee' and congratulates him 'on his election as the Ranking Member.'",
+          "tier": 1,
+          "source": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+        },
+        {
+          "text": "The December 2009 Congressional Directory records Howard P. 'Buck' McKeon as the senior Republican on the House Armed Services Committee, consistent with a June 2009 succession.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm"
+        },
+        {
+          "text": "The chairman and ranking minority member of the House Armed Services Committee are among the twelve offices entitled under 10 U.S.C. 119(e)(2) to receive information withheld from a section 119 report and the Secretary of Defense's justification for the waiver.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+        }
+      ],
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+        "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    },
+    {
+      "id": "thad-cochran",
+      "label": "Thad Cochran",
+      "sub": "Ranking Member, Defense Subcommittee of the Senate Appropriations Committee, and Ranking Member of the full Senate Appropriations Committee, 111th Congress including 2009",
+      "cluster": "oversight",
+      "tier": "B",
+      "C": 2,
+      "A": 1,
+      "D": 3,
+      "narrative": "Cochran held two of the twelve 10 U.S.C. 119(e)(2) seats simultaneously in 2009: ranking minority member of the Senate Appropriations Committee and ranking minority member of that committee's Defense Subcommittee, both named expressly as 'defense committees' by 10 U.S.C. 119(g)(1). His opposite number in both seats was Daniel K. Inouye, who chaired the full committee and the Defense Subcommittee. The Senate side of the group in 2009 therefore comprised four distinct individuals - Levin, McCain, Inouye and Cochran - filling six statutory seats, the same double-occupancy pattern the board records for Susan Collins in the 118th Congress. The board previously carried Cochran's Defense Subcommittee ranking role as an inference drawn from list order in a committee assignment publication that marks chairmen but not ranking members. That inference is now confirmed from a primary source that states the designation in terms. The bound Senate hearing volume for Department of Defense Appropriations for Fiscal Year 2010, the Subcommittee on Defense hearings of the 111th Congress running from 18 March 2009, contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran.' A witness formally addressing the subcommittee's two presiding officers by title, printed in the Government Publishing Office record of the proceeding, is a direct statement of who held the ranking seat rather than a reading of seniority order. What Cochran's seats entitled him to receive is the same as every other member of the group: whatever the Secretary of Defense withheld from a section 119 report under the waiver authority, plus the justification, delivered jointly with the chairman. What makes the appropriations pair distinctive is that it is the money side of the entitlement. Cochran has no publicly documented UAP-specific record. He is on this board because 2009 is a load-bearing year and because the Defense Subcommittee ranking seat is the single hardest of the twelve to source correctly for any historical date.",
+      "claims": [
+        {
+          "text": "The Senate Appropriations Subcommittee on Defense hearing volume for Department of Defense Appropriations for Fiscal Year 2010 (111th Congress, hearings from 18 March 2009) contains a witness statement addressed 'Chairman Inouye, Ranking Member Cochran,' confirming Cochran as the subcommittee's ranking minority member in 2009.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm"
+        },
+        {
+          "text": "The 111th Congress committee assignment publication lists Cochran as the senior Republican on the Senate Appropriations Committee, opposite Chairman Daniel K. Inouye.",
+          "tier": 1,
+          "source": "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+        },
+        {
+          "text": "The Defense Subcommittee of the Senate Committee on Appropriations is one of the six bodies expressly named as a 'defense committee' by 10 U.S.C. 119(g)(1), so its chairman and ranking minority member each hold a 119(e)(2) seat distinct from the full-committee seats.",
+          "tier": 1,
+          "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+        }
+      ],
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+        "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    },
+    {
+      "id": "tom-cole",
+      "label": "Tom Cole",
+      "sub": "Chairman, House Appropriations Committee, from 10 April 2024 (ratified by the House Republican Conference), continuing through August 2026",
+      "cluster": "oversight",
+      "tier": "B",
+      "C": 2,
+      "A": 1,
+      "D": 3,
+      "narrative": "This record supersedes the board's earlier, undated entry for Cole. His tenure in the 10 U.S.C. 119(e)(2) group now has a fixed start: a statement issued from his own congressional office on 10 April 2024 records that 'the full House Republican Conference ratified him as Chairman of the House Appropriations Committee,' following the House Republican Steering Committee's selection the previous day. He succeeded Kay Granger, who had announced in March 2024 that she would step down from the chair. The correction matters for how the board dates his node. Cole entered the group in the middle of the 118th Congress, not at the start of the 119th. That places him inside the twelve for roughly nine months longer than the earlier record implied, but still after all three of the board's load-bearing moments - the 2009 Reid special access program request, the 2020 establishment of the Unidentified Aerial Phenomena Task Force, and the July 2023 Grusch testimony. Granger, not Cole, held the House Appropriations chair on the date of that testimony. As chairman of the House Appropriations Committee, Cole is entitled jointly with Ranking Member Rosa DeLauro to receive whatever the Secretary of Defense withholds from a section 119 report under the waiver authority, together with the justification, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His committee is also the one that writes the classified annex through which a waived programme is funded. There is no public record of any UAP-specific statement by Cole. As with every other holder, the statute supplies the entitlement and supplies no route to speak about it.",
+      "claims": [
+        {
+          "text": "A statement from Congressman Tom Cole's office dated 10 April 2024 records that 'the full House Republican Conference ratified him as Chairman of the House Appropriations Committee.'",
+          "tier": 1,
+          "source": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+        },
+        {
+          "text": "Cole was selected for the chairmanship by the House Republican Steering Committee before the full Conference ratified him.",
+          "tier": 1,
+          "source": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee"
+        },
+        {
+          "text": "Cole was still serving as Chairman of the House Appropriations Committee as of a committee press release dated 24 June 2026.",
+          "tier": 1,
+          "source": "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request"
+        },
+        {
+          "text": "Because Cole's chairmanship began on 10 April 2024, Kay Granger and not Cole held the House Appropriations 119(e)(2) seat on 26 July 2023, the date of the Grusch testimony.",
+          "tier": 2,
+          "source": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+        }
+      ],
+      "sources": [
+        "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+        "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee",
+        "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "john-mchugh",
+      "b": "waived-sap-notification-group",
+      "type": "institutional",
+      "label": "Ranking Member, House Armed Services Committee",
+      "claimTier": 1,
+      "dateStart": "2009-01-06",
+      "dateEnd": "2009-06-16",
+      "note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+        "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+      ]
+    },
+    {
+      "a": "john-mchugh",
+      "b": "us-house",
+      "type": "institutional",
+      "label": "Representative, New York 23rd district, until 21 September 2009",
+      "claimTier": 2,
+      "dateStart": null,
+      "dateEnd": "2009-09-21",
+      "note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+        "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army"
+      ]
+    },
+    {
+      "a": "buck-mckeon",
+      "b": "waived-sap-notification-group",
+      "type": "institutional",
+      "label": "Ranking Member then Chairman, House Armed Services Committee",
+      "claimTier": 1,
+      "dateStart": "2009-06-16",
+      "dateEnd": null,
+      "note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+        "https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    },
+    {
+      "a": "buck-mckeon",
+      "b": "oversight-congress",
+      "type": "institutional",
+      "label": "House Armed Services leadership, 2009-2015",
+      "claimTier": 1,
+      "dateStart": "2009-06-16",
+      "dateEnd": null,
+      "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+      "sources": [
+        "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member"
+      ]
+    },
+    {
+      "a": "thad-cochran",
+      "b": "waived-sap-notification-group",
+      "type": "institutional",
+      "label": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+      "claimTier": 1,
+      "dateStart": "2009-01-06",
+      "dateEnd": null,
+      "note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm",
+        "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm"
+      ]
+    },
+    {
+      "a": "thad-cochran",
+      "b": "oversight-congress",
+      "type": "institutional",
+      "label": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
+      "claimTier": 1,
+      "dateStart": "2009-01-06",
+      "dateEnd": null,
+      "note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
+      "sources": [
+        "https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm",
+        "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+      ]
+    },
+    {
+      "a": "tom-cole",
+      "b": "waived-sap-notification-group",
+      "type": "institutional",
+      "label": "Chairman, House Appropriations Committee",
+      "claimTier": 1,
+      "dateStart": "2024-04-10",
+      "dateEnd": null,
+      "note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+      "sources": [
+        "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+        "https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request"
+      ]
+    },
+    {
+      "a": "tom-cole",
+      "b": "us-house",
+      "type": "institutional",
+      "label": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+      "claimTier": 1,
+      "dateStart": "2024-04-10",
+      "dateEnd": null,
+      "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+      "sources": [
+        "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations"
+      ]
+    },
+    {
+      "a": "dod-sapco",
+      "b": "waived-sap-notification-group",
+      "type": "institutional",
+      "label": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+      "claimTier": 1,
+      "dateStart": "2024-09-12",
+      "dateEnd": null,
+      "note": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+      "sources": [
+        "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+      ]
+    },
+    {
+      "a": "dod-sapco",
+      "b": "waived-usap",
+      "type": "institutional",
+      "label": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
+      "claimTier": 1,
+      "dateStart": "2024-09-12",
+      "dateEnd": null,
+      "note": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
+      "sources": [
+        "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+      ]
+    },
+    {
+      "a": "dod-sapco",
+      "b": "classified-annex",
+      "type": "funding",
+      "label": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+      "claimTier": 1,
+      "dateStart": "2024-09-12",
+      "dateEnd": null,
+      "note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+      "sources": [
+        "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+      ]
+    }
+  ],
+  "still_open": [
+    {
+      "gap": "Whether the Department of Defense continues in practice to provide SAP budget and new-programme information to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b), and whether the 119(e)(2) chair-and-ranking channel is still used for that material.",
+      "blocked_by": "PARTIALLY CLOSED, NOT FULLY. DoDI 5205.11 para. 7.2.h (12 September 2024) establishes that DoD 'will conform to all congressional reporting requirements,' will submit additional materials on committee request, and presents waived-programme justification materials 'only to the committee staff directors.' That confirms a live post-2021 flow of waived-programme material to the defense committees and tells us the route is the staff directors rather than the members. What remains unresolved is the original question about the substance of the terminated subsections (a) and (b) - the annual SAP budget report and the annual new-programme designation-and-justification report. No search found any statute reinstating them, and the operative direction would sit in the classified annex to an authorisation or appropriations act, which is not publicly retrievable. A public committee report accompanying an FY2022-FY2027 NDAA or defense appropriations bill might carry unclassified direction on SAP reporting; that specific document set was not searched in this pass and is the recommended next step."
+    },
+    {
+      "gap": "Whether any waiver under 10 U.S.C. 119(e)(1) has ever been exercised in connection with UAP-related activity.",
+      "blocked_by": "STILL FULLY OPEN. Section 119 creates no public record of the fact that a waiver occurred, no sunset, and no notice to non-leadership members that a limited notification took place, so there is no document class in which a positive or negative answer would be expected to appear. AARO's Historical Record Report Volume 1 (March 2024) describes a partnership with the DoD, IC and DHS Special Access Program Control Offices and states that AARO investigators were granted access to pertinent sensitive programmes, but that is an executive-branch access arrangement and says nothing about whether the Secretary of Defense exercised the 119(e)(1) reporting waiver. The full AARO PDF was not retrieved and verified in this pass, so nothing from it is recorded as a claim. Resolving this would require either a declassified waiver justification or an on-record statement by one of the twelve seat-holders, neither of which exists publicly."
+    },
+    {
+      "gap": "The exact day in June 2009 on which the House Republican Conference voted to seat McKeon.",
+      "blocked_by": "MINOR RESIDUAL ONLY - the substantive gap is closed. The committee's own statements bracket the succession tightly: McHugh is described as sitting ranking member on 2 June 2009 and McKeon is congratulated as the new ranking member on 16 June 2009. Secondary sources give 9 June 2009 for the Republican leadership vote, but no primary source was found stating that date, so 16 June 2009 is used as the conservative dateEnd/dateStart in the edges above. For any claim tied to a date between 2 and 16 June 2009, treat the seat as contested and say so."
+    }
+  ]
+}

@@ -136,6 +136,14 @@
     }
    ],
    "sources": []
+  },
+  {
+   "id": "d-legislative",
+   "cls": "domain",
+   "label": "Legislative Process (proposed and pending)",
+   "sub": "Bills, amendments and the actors that move them. Deliberately distinct from d-legislation (Enacted Statute): the gap between what passed the Senate and what survived conference is one of this board's central substantive findings, and collapsing the two would erase it.",
+   "claims": [],
+   "sources": []
   }
  ],
  "edges": [],

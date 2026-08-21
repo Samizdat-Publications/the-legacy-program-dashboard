@@ -617,3 +617,84 @@ Separately: DoDD 5205.07 as reissued 12 September 2024 no longer uses the words
 1. Six office-holder gaps in the notification group.
 2. 23 nodes unattached, 3 demonstrably unwireable.
 3. The stats strip still reads CONFIDENCE KEY.
+
+---
+
+# Stage 8 — the backlog closed, 14 August 2026
+
+Everything outstanding was worked in one pass: the CONFIDENCE KEY label, the six
+office-holder gaps, and the 23 remaining unattached nodes.
+
+```
+                  session start    now
+unattached             113           3
+L0 nodes                96         107
+ledger                 706         818
+dossier claims       1,361       1,527
+```
+
+**Only three nodes remain unattached**: `soyuzufotsentr` (demonstrably unwireable —
+the obvious KLAS-TV link is contradicted), `university-at-albany` and `l-albany`.
+
+## What the waves found
+
+**The Brazilian cluster** was 13 nodes talking only to each other. Now wired, and
+the outward links are the interesting part. Operação Prato material reached US hands
+three times over — Bob Pratt's dossier, Vallee being shown the military file by
+Hollanda in 1988, and AAWSAP/BAASS building a 346-record "Project Colares" database
+inside CAPELLA with two 2009 collection trips to Brazil. **Every channel is private.
+None is state to state.** Set against that: AARO's FY2025 Foreign Partner Engagement
+section is two sentences naming one London conference briefing, and the Sky Canada
+report contains zero occurrences of "Brazil". Both negatives are on the board as
+labelled comparison edges.
+
+**The domain nodes** were orphaned at degree 1-2 when they should be among the
+best-connected. 55 edges across seven domains, which also fixed `ndaa-fy2025`,
+`iaa-2023`, `raytheon` and the AAWSAP contract node.
+
+**Four of six office-holder gaps closed.** Two corrections came with them: Tom Cole
+did **not** hold a 119(e)(2) seat on the Grusch testimony date — Granger did — and
+DoDI 5205.11 para 7.2.a(3) admits committee **staff directors and a security
+manager** to waived SAPs, so the earlier "no staff who can read the material" line
+was wrong as a matter of DoD policy.
+
+## Five collapses
+
+`d-money` into `d-funding` (a facet, not a peer — its own description said it
+"narrows d-funding to a single question"), `dod-sapco-arch` into `dod-sapco`,
+`varginha-1996` into `ev-varginha-1996`, plus the two from Stage 7.
+
+`d-legislative` and `d-legislation` were **not** collapsed. Their membership sets
+came out fully disjoint, and proposal-versus-enactment is the board's central
+substantive finding — the Review Board and eminent domain provisions passed the
+Senate and were stripped in conference. Collapsing them would erase the finding.
+`d-legislative` is relabelled "Legislative Process (proposed and pending)" instead.
+
+## Three errors caught, one of them mine
+
+1. **12 seats, not 8.** Two agents disagreed on the size of the waived-SAP
+   notification group. I read 10 U.S.C. 119(g) directly: it defines its own six
+   bodies, including **both** Appropriations Defense subcommittees, so chair plus
+   ranking is twelve. §119 does not use the narrower 10 U.S.C. 101(a)(16)
+   definition. The "eight members" assertion was stripped before it entered the board.
+2. **RQS 193/2022 is not a records-seeking instrument.** It is a request for a
+   commemorative special session under Art. 199 RISF, approved 16 March 2022, held
+   24 June 2022. The Brazil pass built twelve edges on the assumption that it
+   compelled disclosure. Its durable value is the content of its justificação, which
+   names Operação Prato, the 1986 night, SIOANI and the archive code BR DFANBSB ARX.
+3. **My own over-correction.** Having found error 2, I tiered down all twelve edges
+   at once. Wrong in the other direction: most of them assert what the document
+   **names**, which is verifiable in its text and unaffected by its procedural
+   nature. Tiers restored, note kept. A correction applied by regex across a set is
+   the same failure as the over-broad matcher in Stage 5.
+
+## Still open
+
+1. Three unattached nodes, one of them demonstrably unwireable.
+2. `operacao-prato` and `ev-noite-ovnis-1986` are Tier 1 poor — no SIAN item numbers,
+   no press-conference transcript, no primary FAB order. A Brazilian archive request
+   would close it.
+3. Arquivo Nacional says its UFO fund ends at 2016; the FAB says transfers run to
+   2025, and 2025 records are demonstrably being released. Unresolved contradiction.
+4. Whether a §119(e)(1) waiver was ever exercised over UAP activity. No document
+   class exists in which the answer would appear.
