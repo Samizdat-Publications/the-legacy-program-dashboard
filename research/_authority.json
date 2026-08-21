@@ -1,0 +1,88 @@
+{
+ "_why": "STRUCTURAL AUTHORITY. The board grades nodes on connections, which means it grades people on what they SAID and what documents they generated. That net catches witnesses, whistleblowers, journalists and FOIA requesters. It systematically under-catches the officials whose relevance is positional: someone who can compel disclosure, approve a compartment, or relieve an oversight function, and who has never spoken publicly, scores near zero and sinks. Stephen Feinberg surfaced this. Three of the four Deputy Secretaries of Defense on the board have a documented UAP decision attached to the office; the incumbent has none, and on connection-count he ranks 349th while sitting in the chair that his three predecessors used to make those decisions from. That is a shape in the instrument, not a fact about him.",
+
+ "_rule": "An office qualifies only if a citable instrument grants it authority to DO something to this subject: approve or disapprove a special access program, relieve an oversight function, compel or withhold records, or direct a component that does. Being senior is not authority. Speaking for the Department is not authority. Every entry names the instrument.",
+
+ "_not_authority": "Deliberately excluded: press spokespeople (susan-gough, christopher-sherwood) speak for a decision, they do not make one; board members of FFRDCs (donald-kerr, sue-gordon) advise a corporation, not a compartment; former holders retain none of it. Former holders are still flagged, but as 'held' rather than 'holds', because what they did with the office is history and what the incumbent could do is live.",
+
+ "offices": [
+  {
+   "match": ["Deputy Secretary of Defense"],
+   "authority": "Approves or disapproves DoD special access programs, and approves the carve-out provision that relieves DCSA of National Industrial Security Program oversight for a SAP. DoD SAPCO sits under the authority, direction and control of this office, with its Director reporting directly.",
+   "instruments": [
+    "DoDD 5205.07, 'DoD Special Access Program Policy', reissued 12 September 2024",
+    "32 CFR 117.6(b)(3)"
+   ],
+   "weight": 3
+  },
+  {
+   "match": ["Secretary of Defense"],
+   "authority": "Co-equal approval authority for SAP designation and carve-out provisions; the officer to whom the waived-SAP reporting determination belongs.",
+   "instruments": ["DoDD 5205.07 (12 September 2024)", "10 U.S.C. 119"],
+   "weight": 3
+  },
+  {
+   "match": ["Director, DoD Special Access Program Central Office", "Special Access Program Central Office", "DoD SAPCO"],
+   "authority": "Central management of the entire DoD special access program portfolio. Also the approval gate a contractor must pass before giving SAP material to any member of Congress.",
+   "instruments": [
+    "DoDD 5205.07 para 3.1.g",
+    "DoDI 5205.11, 'Management, Administration, and Oversight of DoD SAPs' (12 September 2024)"
+   ],
+   "weight": 3
+  },
+  {
+   "match": ["Under Secretary of Defense for Intelligence", "USD(I", "OUSD(I"],
+   "authority": "Counterintelligence, security and law-enforcement policy for the Department; the staff element that produced the Elizondo counter-narrative memoranda and that owns defence intelligence program authority.",
+   "instruments": ["DoDD 5143.01", "DoDD 5205.07"],
+   "weight": 2
+  },
+  {
+   "match": ["Director of National Intelligence", "Principal Deputy Director of National Intelligence"],
+   "authority": "Controls access to intelligence sources and methods including SCI, prescribes the procedures governing them, and is the office that waived NDAs for AARO and PURSUE participants.",
+   "instruments": ["32 CFR 117.6(e)", "ODNI Memorandum ES 2026-00818 (31 July 2026)"],
+   "weight": 3
+  },
+  {
+   "match": ["Inspector General of the Intelligence Community"],
+   "authority": "Statutory IC watchdog; determines whether a whistleblower complaint is credible and urgent, which is the finding that put the Grusch allegations in front of Congress.",
+   "instruments": ["50 U.S.C. 3033"],
+   "weight": 2
+  },
+  {
+   "match": ["Inspector General of the Department", "Deputy Inspector General"],
+   "authority": "Statutory independent audit and investigation of the Department, including the financial statement audit that has never passed and the reprisal complaints filed by programme witnesses.",
+   "instruments": ["5 U.S.C. App. (Inspector General Act)", "DODIG-2023-109"],
+   "weight": 2
+  },
+  {
+   "match": ["Information Security Oversight Office", "Director, ISOO"],
+   "authority": "Government-wide oversight of the classification system, reporting to the President. Notable for what it does NOT reach: ISOO has no visibility into waived unacknowledged SAPs, which is the gap the board's secrecy argument turns on.",
+   "instruments": ["E.O. 13526 sections 5.1 and 5.2", "32 CFR part 2004"],
+   "weight": 2
+  },
+  {
+   "match": ["Director, DCSA", "Defense Counterintelligence and Security Agency"],
+   "authority": "Industrial security oversight of cleared contractors under the NISP, and the function that a carve-out provision switches off for a given SAP.",
+   "instruments": ["32 CFR 117.6(b)(3)"],
+   "weight": 2
+  },
+  {
+   "match": ["Chairman of the Joint Chiefs"],
+   "authority": "Principal military adviser; directs the joint staff that would own any operational response to an unresolved incursion.",
+   "instruments": ["10 U.S.C. 151"],
+   "weight": 1
+  },
+  {
+   "match": ["Archivist of the United States", "National Archives Record Group 615"],
+   "authority": "Accessions and publishes the statutory UAP records collection, and is the office agencies must transmit covered records to.",
+   "instruments": ["P.L. 118-31 sections 1841-1843"],
+   "weight": 2
+  },
+  {
+   "match": ["Director, AARO", "All-domain Anomaly Resolution Office"],
+   "authority": "Statutory authority to receive, resolve and report UAP cases across the Department and the IC, and the office through which the Department's answer to Congress is routed.",
+   "instruments": ["50 U.S.C. 3373", "50 U.S.C. 3373k"],
+   "weight": 3
+  }
+ ]
+}

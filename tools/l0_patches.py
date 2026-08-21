@@ -785,6 +785,12 @@ L0_CSS2 = """
 .edoss .cl a{color:#5c6672;font-size:9px;word-break:break-all;text-decoration:none}
 .edoss .cl a:hover{color:#5ed4e6}
 .t1{color:#5ed4e6}.t2{color:#efb555}.t3{color:#8d97a4}
+.auth{margin:0 0 10px;padding:9px 11px;background:#141920;border-left:2px solid #a795e8;
+  font:400 10.5px/1.65 'IBM Plex Mono',monospace;color:#dfe4ea}
+.auth .eb{font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;
+  text-transform:uppercase;color:#a795e8;display:block;margin-bottom:5px}
+.auth .ins{color:#5c6672;font-size:9px;display:block;margin-top:5px}
+.auth .thin{color:#efb555;display:block;margin-top:6px}
 """
 
 L0_JS2 = r"""
@@ -812,12 +818,32 @@ function renderConnections(id){
   return h;
 }
 
+/* Structural authority. The board grades on connections, which grades people on
+   what they SAID. This states what the office can DO, with the instrument that
+   grants it, so an officer with real authority and no public record stops reading
+   as unimportant. The empty evidence column is the finding, not a low score. */
+function renderAuthority(id){
+  const a = (L0DATA.authority || {})[id];
+  if (!a) return '';
+  const p = a.publicRecord || {};
+  const thin = a.weight >= 3 && (p.connections || 0) <= 2;
+  return '<div class="auth"><span class="eb">Structural authority · '
+    + (a.tense === 'held' ? 'held' : 'holds') + '</span>'
+    + esc(a.authority)
+    + '<span class="ins">' + a.instruments.map(esc).join(' · ') + '</span>'
+    + (thin ? '<span class="thin">Public UAP record: '
+        + (p.connections||0) + ' connection(s), ' + (p.denialsIssued||0)
+        + ' denial(s) issued. This office could answer from position alone, and the '
+        + 'record is nearly empty. That absence is the finding, not a low score.</span>' : '')
+    + '</div>';
+}
+
 function renderEntityDossier(id){
   const n = (L0DATA.l0||[]).find(x=>x.id===id);
   const d = (n && n.dossier) || (L0DATA.dossiers || {})[id];
-  if (!d) return '<div class="edoss">' + renderConnections(id) + '</div>';
+  if (!d) return '<div class="edoss">' + renderAuthority(id) + renderConnections(id) + '</div>';
   const T = t => '<span class="t t'+t+'">TIER '+t+'</span>';
-  let h = '<div class="edoss">';
+  let h = '<div class="edoss">' + renderAuthority(id);
   if (d.whatItIs) h += '<div class="narr">'+esc(d.whatItIs)+'</div>';
   if (d.whyImplicated) h += '<div class="why">'+esc(d.whyImplicated)+'</div>';
   if (d.roles && d.roles.length)

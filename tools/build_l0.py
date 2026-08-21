@@ -380,6 +380,67 @@ def build_connections(nodes, edges, node_by_id):
     return conn
 
 
+# --------------------------------------------------- structural authority
+# The board grades on connections, which grades people on what they SAID. That
+# under-catches the officials whose relevance is POSITIONAL: someone who can
+# approve a compartment, relieve an oversight function or compel records, and who
+# has never spoken publicly, scores near zero and sinks.
+#
+# Stephen Feinberg surfaced it. Three of the four Deputy Secretaries of Defense on
+# this board have a documented UAP decision attached to the office; the incumbent
+# has none, and on connection count he ranks in the 300s while sitting in the chair
+# his three predecessors used to make those decisions from. The empty evidence
+# column IS the finding, and a scoring system that buries it is the wrong
+# instrument.
+#
+# Rules live in research/_authority.json. An office qualifies only if a citable
+# instrument grants it authority to DO something to this subject. Seniority is not
+# authority and speaking for the Department is not authority.
+def load_authority():
+    path = os.path.join(ROOT, "research", "_authority.json")
+    if not os.path.exists(path):
+        return []
+    return json.load(open(path, encoding="utf-8")).get("offices") or []
+
+
+def mark_authority(nodes, board_by_id, offices, deg, issued, received):
+    # A node qualifies only if it IS the office, not if it MENTIONS one. The first
+    # pass matched hearings and letters that merely cite "the Secretary of Defense"
+    # in their subtitle, and two ids the rules file explicitly excludes. Match on
+    # the ROLE DESCRIPTOR only -- the leading clause of `sub`, before the first
+    # semicolon -- and only for people and institutions.
+    EXCLUDE = {"susan-gough", "christopher-sherwood",   # speak for a decision
+               "donald-kerr", "sue-gordon",             # advise a corporation
+               "mitre-nsec", "mip"}                     # not an office
+    out = OrderedDict()
+    for n in nodes:
+        if n["id"] in EXCLUDE or n["cls"] not in ("person", "institution"):
+            continue
+        sub = (board_by_id.get(n["id"], {}).get("sub") or "")
+        role = sub.split(";")[0].split("|")[0].strip()
+        hay = (role + " | " + n["label"])
+        for off in offices:
+            if any(m.lower() in role.lower() for m in off["match"]):
+                # "held" vs "holds": a former holder's authority is history, the
+                # incumbent's is live, and the board should not blur the two.
+                former = any(w in hay.lower() for w in ("former", "20", "-2"))
+                out[n["id"]] = {
+                    "authority": off["authority"],
+                    "instruments": off["instruments"],
+                    "weight": off["weight"],
+                    "tense": "held" if former and "former" in hay.lower() else "holds",
+                    # the whole point: how much public UAP record does the holder
+                    # of this authority actually have?
+                    "publicRecord": {
+                        "connections": deg.get(n["id"], 0),
+                        "denialsIssued": issued.get(n["id"], 0),
+                        "denialsReceived": received.get(n["id"], 0),
+                    },
+                }
+                break
+    return out
+
+
 # ---------------------------------------------------------------- entity dossiers
 # These are a PARALLEL dataset, deliberately not merged into the board's nodes.
 # Merging 359 sourced claims onto 25 nodes would move every claim count, every tier
@@ -439,6 +500,10 @@ def build(path=BOARD):
             issued[e["a"]] += 1
             received[e["b"]] += 1
 
+    raw = json.load(open(path, encoding="utf-8"))
+    board_by_id = {n["id"]: n for n in raw["people"] + raw["entities"]}
+    authority = mark_authority(nodes, board_by_id, load_authority(), deg, issued, received)
+
     l0 = []
     for i in l0ids:
         n = node_by_id[i]
@@ -489,12 +554,23 @@ def build(path=BOARD):
                                  for n in l0 if n.get("dossier")),
             "nodesWithConnections": sum(1 for v in connections.values() if v),
             "connectionRows": sum(len(v) for v in connections.values()),
+            "authorityNodes": len(authority),
+            # The headline. Not "zero connections" -- everyone has at least one --
+            # but top-weight authority with a public record thin enough that the
+            # connection-count ranking buries them. These are the officers who could
+            # answer the board's central question from position alone and about whom
+            # the public record is almost empty.
+            "authorityThinRecord": sum(1 for v in authority.values()
+                                       if v["weight"] >= 3
+                                       and v["publicRecord"]["connections"] <= 2),
             "extent": {"w": max(xs) - min(xs), "h": max(ys) - min(ys)},
         },
         "nodes": {n["id"]: [n["label"], n["cls"], deg[n["id"]], n["tier"]]
                   for n in nodes},
         # keyed by node id, for EVERY node on the board and not just the 96 on the map
         "connections": connections,
+        # positional relevance, keyed by node id
+        "authority": authority,
         # entity dossiers are keyed separately so a non-L0 node can carry one too
         "dossiers": dossiers,
         "l0": l0, "directEdges": direct, "summarised": summarised,

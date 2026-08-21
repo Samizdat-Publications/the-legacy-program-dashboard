@@ -419,6 +419,34 @@ def _l0_connections(b, html):
                 bad.append(f"{src} connects to {r['id']}, which is not a node")
     return bad[:8]
 
+
+@check("structural authority is cited, and the exclusions hold")
+def _l0_authority(b, html):
+    d = _l0(html)
+    if d is None:
+        return ["the built file carries no L0 model"]
+    auth = d.get("authority") or {}
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    bad = []
+    # Excluded on principle, not by accident: a spokesperson speaks for a decision
+    # and does not make one; an FFRDC trustee advises a corporation, not a
+    # compartment. The first matcher caught all four plus a set of hearings that
+    # merely cited an office. If they reappear, the matcher has gone loose again.
+    for x in ("susan-gough", "christopher-sherwood", "donald-kerr", "sue-gordon"):
+        if x in auth:
+            bad.append(f"{x} is flagged as holding structural authority; it is "
+                       f"excluded by rule and the matcher has gone loose")
+    for k, v in auth.items():
+        if k not in ids:
+            bad.append(f"{k} carries authority but is not a node")
+        if not v.get("instruments"):
+            bad.append(f"{k} claims authority with no instrument cited; an uncited "
+                       f"authority is an assertion")
+        if v.get("tense") not in ("holds", "held"):
+            bad.append(f"{k} has tense {v.get('tense')!r}; a former holder's "
+                       f"authority is history and must not read as live")
+    return bad[:8]
+
 # ---------------------------------------------------------------------------
 # golden counts — drift detection. Not correctness; a tripwire that turns a
 # silent change into a deliberate one. `--update-golden` is the only way past it.
@@ -568,7 +596,7 @@ def self_test():
                                  "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}],
              "directEdges": [], "summarised": [], "pathOnly": [],
              "unattached": [{"id": "e%d" % i, "deg": 0} for i in range(1, 7)],
-             "connections": {},
+             "connections": {}, "authority": {},
              "nodes": {"a-b": ["Ann Bee", "person", 1, "A"],
                        **{"e%d" % i: ["E%d" % i, "institution", 0, "B"] for i in range(7)}}}
         m.update(kw)
@@ -635,6 +663,11 @@ def self_test():
         "UI copy agrees with the register counts":
             wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [],
                          "mix": {"person": 1, "document": 1}}])),
+        # the matcher going loose, plus an uncited authority claim
+        "structural authority is cited, and the exclusions hold":
+            wrap(L0(authority={"susan-gough": {"authority": "x", "instruments": [],
+                                               "weight": 3, "tense": "holds",
+                                               "publicRecord": {"connections": 0}}})),
         # a connection row with no edge behind it: something generated it
         "every connection row is backed by a hand-written edge":
             wrap(L0(connections={"e0": [{"id": "a-b", "type": "custody", "tier": 1,

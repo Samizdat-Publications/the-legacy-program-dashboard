@@ -389,3 +389,76 @@ would not let it ship otherwise. That is the gate doing exactly what it is for.
 2. Five European and South American UAP-office nodes do not exist and should.
 3. 64 nodes remain unattached, 3 of them demonstrably unwireable.
 4. Corrections logged in Stage 3 remain unapplied.
+
+---
+
+# Stage 5 — structural authority, 14 August 2026
+
+## The instrument had a shape, and Feinberg showed it
+
+The board grades nodes on connections. That grades **people on what they said** and
+on what documents they generated. It is a good instrument for witnesses,
+whistleblowers, journalists and FOIA requesters, and a bad one for officials whose
+relevance is *positional*: someone who can approve a compartment, relieve an
+oversight function or compel records, and who has never spoken publicly, scores
+near zero and sinks.
+
+Stephen Feinberg surfaced it. Three of the four Deputy Secretaries of Defense on
+this board have a documented UAP decision attached to the office — Lynn received
+the 2009 Reid SAP packet, Norquist established the UAP Task Force, Hicks signed the
+AARO establishment memo. The incumbent has none, and on connection count he ranked
+in the 300s while sitting in the chair the other three used.
+
+That is a shape in the instrument, not a fact about him. **The empty evidence column
+is the finding, and a scoring system that buries it is the wrong instrument.**
+
+## What was built
+
+`research/_authority.json` — a curated rule set. An office qualifies only if a
+**citable instrument** grants it authority to DO something to this subject: approve
+or disapprove a SAP, relieve an oversight function, compel or withhold records, or
+direct a component that does. Seniority is not authority. Speaking for the
+Department is not authority. Twelve offices, each naming its instrument (DoDD
+5205.07, 32 CFR 117.6, 10 U.S.C. 119, 50 U.S.C. 3373, E.O. 13526, P.L. 118-31).
+
+**21 nodes flagged. 7 of them hold top-weight authority with two or fewer
+connections**: Feinberg, Gabbard, Lukas, Norquist, Haines, Mattis, IC SAPCO.
+
+The dock renders the authority, its instruments, and — where the record is thin —
+states plainly that the office could answer from position alone and the record is
+nearly empty.
+
+`held` and `holds` are distinguished. A former holder's authority is history; the
+incumbent's is live, and the board must not blur the two.
+
+## The matcher went loose once, exactly as expected
+
+The first pass flagged **45** nodes including hearings and letters that merely
+*cited* an office in their subtitle, plus `donald-kerr` and `sue-gordon`, which the
+rules file explicitly excludes. Substring matching against the whole subtitle
+catches mentions, not offices.
+
+Fixed by matching only the **role descriptor** — the leading clause of `sub` before
+the first semicolon — and only for people and institutions. 45 became 21.
+
+The check now asserts the exclusions by name: `susan-gough` and
+`christopher-sherwood` speak for a decision and do not make one;
+`donald-kerr` and `sue-gordon` advise a corporation, not a compartment. If any of
+the four reappears, the matcher has gone loose again and the build fails.
+
+Also asserted: every flagged node must cite an instrument, because an uncited
+authority is an assertion, and tense must be `holds` or `held`.
+
+## Verified at runtime
+
+`/tmp` was wiped between calls and Playwright had to be reinstalled — the documented
+gotcha, and worth the reinstall. Confirmed in the browser: Feinberg renders the
+badge **and** the thin-record warning; Kirkpatrick renders the badge and **not** the
+warning, correctly, because he has 18 connections; Gough renders no badge at all.
+
+## Still open
+
+1. The authority list is 12 offices. The waived-SAP notification recipients — the
+   eight members of Congress — are not on the board as a set and should be.
+2. `dird-series`, D4 sign-off, D2, and the CONFIDENCE KEY label remain from Stage 1.
+3. 27 nodes remain unattached, 3 demonstrably unwireable.
