@@ -1,11 +1,12 @@
 {
  "_why": "Locations removed 14 Aug 2026 on Stewart's approval. Each failed the test 'does something that matters to THIS SUBJECT demonstrably happen here'. They were congressional home towns, researcher home bases and similar incidental biography, carried at degree zero. Removing them is not hiding them: an incidental location was never evidence, and 31 dead nodes on a connectivity map cost the reader attention for nothing.",
- "_approved_by": "Stewart, 14 Aug 2026 (locations); Stewart, 14 Aug 2026 (dird-collection and dird-vacuum-engineering as duplicates)",
+ "_approved_by": "Stewart, 14 Aug 2026 (locations); Stewart, 14 Aug 2026 (dird-collection and dird-vacuum-engineering as duplicates); l-albany added 14 Aug 2026 under the same approved criterion - its entire content is the university's mailing address and every locatable event happens elsewhere.",
  "remove": [
   "d-money",
   "dird-collection",
   "dird-vacuum-engineering",
   "dod-sapco-arch",
+  "l-albany",
   "l-boise-id",
   "l-boston",
   "l-cedar-rapids",
@@ -37,6 +38,7 @@
   "l-wellesley",
   "l-windsor-co",
   "l-woodshole",
+  "setka",
   "varginha-1996"
  ],
  "_duplicates": "dird-collection duplicated dird-series; its 7 edges were re-pointed in research/w8-collapse.json before removal. dird-vacuum-engineering duplicated dird-advanced-space-propulsion-based-on-vacuum \u2014 both are Puthoff's vacuum/spacetime metric DIRD.",
@@ -45,7 +47,8 @@
   "dird-vacuum-engineering": "dird-advanced-space-propulsion-based-on-vacuum",
   "varginha-1996": "ev-varginha-1996",
   "dod-sapco-arch": "dod-sapco",
-  "d-money": "d-funding"
+  "d-money": "d-funding",
+  "setka": "setka-program"
  },
  "_alias_why": "A removed node that other records still point at leaves a dangling reference. Where the removal is a COLLAPSE rather than a deletion, the id is aliased to its survivor and every remaining reference is re-pointed. Deletions (the 31 locations) have no alias because nothing should point at them."
 }

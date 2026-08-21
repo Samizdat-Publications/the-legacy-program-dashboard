@@ -5,6 +5,26 @@
   "id": "nara-uap-collection"
  },
  {
+  "kind": "entity",
+  "why": "bad cls 'provision'",
+  "id": "iaa-fy2024-sec-1102"
+ },
+ {
+  "kind": "entity",
+  "why": "bad cls 'statute'",
+  "id": "usc-10-119"
+ },
+ {
+  "kind": "entity",
+  "why": "bad cls 'mechanism'",
+  "id": "waived-usap-mechanism"
+ },
+ {
+  "kind": "entity",
+  "why": "bad cls 'mechanism'",
+  "id": "waived-sap-notification-group"
+ },
+ {
   "kind": "entityInfo",
   "why": "unexpected type list",
   "id": "keyFindings"

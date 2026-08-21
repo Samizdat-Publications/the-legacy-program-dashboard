@@ -1,0 +1,217 @@
+{
+  "entities": [
+    {
+      "id": "operacao-prato",
+      "cls": "program",
+      "sub": "Brazilian Air Force I COMAR (Belem/PA) intelligence-section operation, Colares, Para, 1977-1978; documents held in the Arquivo Nacional Fundo OVNI, BR DFANBSB ARX",
+      "claims": [
+        {
+          "text": "Arquivo Nacional's own response to a litigant, quoted verbatim in the federal court record: 'Em pesquisa no SIAN, usando o termo \"operação prato\", retornam 6 (seis) documentos. Em nenhum deles há documentos de caráter audiovisual.' The catalogue therefore yields six items under that search term and no audiovisual material. NO ITEM-LEVEL SIAN REFERENCE CODES FOR THESE SIX WERE OBTAINABLE - see 'unresolved'.",
+          "tier": 1,
+          "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)"
+        },
+        {
+          "text": "The operation's commander is named in a Chamber of Deputies information requirement as 'coronel Uyrangê Bolivar Soares Nogueira de Hollanda Lima', described as having narrated the missing film and photographic material to ufologists 'antes de sua morte em 1997'. This fixes both the full name and the 1997 death in a primary parliamentary document.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)"
+        },
+        {
+          "text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
+          "tier": 1,
+          "source": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011"
+        },
+        {
+          "text": "Archival unit designation attested in a parliamentary document: the summary of SINDACTA I UFO cases sent to COMDABRA is recorded 'no Envelope nº. 10 da década de 1970'. The related petition is Processo nº 60.000.000026/2008-45 ('Dossiê UFO BRASIL'), filed at the Ministério da Defesa on 2 January 2008; the Operação Prato film material is its item 'j'.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, RIC 679/2011, items 1.1 and 1.2, 22 June 2011"
+        },
+        {
+          "text": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à época da Operação', placing the operation under the 1º Comando Aéreo Regional in Belém/PA, 1977-1978.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011"
+        },
+        {
+          "text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
+          "tier": 1,
+          "source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023"
+        },
+        {
+          "text": "The Senado Federal, in a requerimento approved by the Plenary on 24 June 2022, lists Operação Prato among official Brazilian government UFO research programmes: 'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato'. This is a primary legislative characterisation, not an independent finding of fact.",
+          "tier": 1,
+          "source": "Senado Federal, Requerimento nº 193, de 2022 (RQS 193/2022), Sen. Eduardo Girão et al., justificação; Diário do Senado Federal nº 32 de 2022; approved in plenary 24/06/2022 (https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline)"
+        }
+      ],
+      "sources": [
+        "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+        "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+        "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+      ]
+    },
+    {
+      "id": "ev-noite-ovnis-1986",
+      "cls": "event",
+      "sub": "19-20 May 1986; 21 radar plots, five FAB fighters scrambled from Santa Cruz (RJ) and Anápolis (GO) across four Brazilian states; ministerial press conference 23 May 1986; report released 25 September 2009",
+      "claims": [
+        {
+          "text": "Ministerial press conference record: on 23 May 1986 at 16h30 the Minister of Aeronautics, Brigadeiro Octávio Júlio Moreira Lima (1926-2011), convened the press to state that five FAB fighters had pursued 21 UFOs. His words as reported: 'Não se trata de acreditar ou não [em seres extraterrestres ou em discos voadores]. Só podemos dar informações técnicas. As suposições são várias. Tecnicamente, diria aos senhores que não temos explicação.' The five FAB pilots and the on-duty flight controllers attended.",
+          "tier": 2,
+          "source": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 (https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html)"
+        },
+        {
+          "text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
+          "tier": 2,
+          "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026"
+        },
+        {
+          "text": "Full scramble order of battle, pilots, aircraft prefixes and bases: (1) F-5, prefix FAB-4848, Tenente Kleber Caldas Marinho, 22h34, from Base Aérea de Santa Cruz (RJ); (2) Mirage F-103, prefix 4913, Capitão Armindo Sousa Viriato de Freitas, 22h48, from Base Aérea de Anápolis (GO); (3) F-5, prefix FAB-4849, Capitão Márcio Brisolla Jordão, 22h50, from Santa Cruz (RJ); (4) Mirage, prefix FAB-4918, Capitão Rodolfo Silva e Souza, 23h17, Anápolis; (5) Mirage, prefix FAB-4917, Capitão Júlio Cézar Rozemberg, 23h46, Anápolis. The last two had no visual or radar contact. All three initial aircraft were given the same tasking: 'interceptação não agressiva'.",
+          "tier": 2,
+          "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026. NOTE: prefix FAB-4913 for the Viriato Mirage and the 22h48 (not 22h50) departure time differ in detail from earlier board entries; Tier 1 confirmation requires the Relatório de Ocorrências itself in SIAN, which could not be machine-retrieved."
+        },
+        {
+          "text": "Civil-aviation corroboration on the night: at 21h04 the São José dos Campos controller Sargento Sérgio Mota da Silva contacted the twin-engine Xingu, prefix PT-MBZ, returning from Brasília, carrying Coronel Ozires Silva (who took office as president of Petrobras the following day) and copilot Alcir Pereira da Silva. Sightings were also reported by a TAM Bandeirante on the Londrina-São Paulo route and a Transbrasil aircraft over Araxá (MG).",
+          "tier": 2,
+          "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026"
+        },
+        {
+          "text": "The 1986 event is named and characterised in a Senate document approved by the Plenary on 24 June 2022: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' This attests the legislative record of the event, not the physical claims within it.",
+          "tier": 1,
+          "source": "Senado Federal, RQS 193/2022, justificação; Diário do Senado Federal nº 32 de 2022; approved 24/06/2022"
+        }
+      ],
+      "sources": [
+        "https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html",
+        "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline"
+      ]
+    },
+    {
+      "id": "arquivo-nacional-ufo",
+      "cls": "institution",
+      "sub": "Arquivo Nacional (Brazil), Fundo Objeto Voador Não Identificado - OVNI, reference code BR DFANBSB ARX, produced by the Comando da Aeronáutica; OPEN AND ACCRUING fund - the '743 registros / 1952-2016' figure is a 13 September 2018 catalogue snapshot, not a terminus",
+      "claims": [
+        {
+          "text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
+          "tier": 1,
+          "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)"
+        },
+        {
+          "text": "Verified item-level reference code format, published by the Arquivo Nacional itself: 'Ilustração elaborada a partir de relatos de aparição de objeto voador não identificado em Marília, São Paulo, agosto de 1968. Arquivo Nacional. Fundo Objeto Voador Não Identificado. BR_DFANBSB_ARX_0_0_25.' This confirms the BR_DFANBSB_ARX_0_0_nnn item numbering used elsewhere on the board.",
+          "tier": 1,
+          "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', 13/09/2018, image caption"
+        },
+        {
+          "text": "The 2016 endpoint was still being repeated by COMAER in 2022 litigation, showing the lag is institutional and not confined to the Arquivo Nacional: 'a coleção filmográfica, iconográfica, sonora e textual referente aos anos de 1952 e 2016, produzida pelo COMAER, está disponível para consulta no acervo do Arquivo Nacional.'",
+          "tier": 1,
+          "source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023, quoting Comando de Operações Especiais/Comando da Aeronáutica, evento 13, ANEXO2"
+        },
+        {
+          "text": "HOLDING-COUNT DISCREPANCY RESOLVED - 743 and 758 count different things at different dates by different methods. 743 is the Arquivo Nacional's own 2018 description of the fund's registros. 758 is a SIAN search-hit count reported in 2022: 'Atualmente, no Arquivo Nacional, quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' The same sentence yields 137 for a free-text search, proving these are query results, not holdings inventories. Neither number is a stable figure for an accruing fund.",
+          "tier": 1,
+          "source": "Senado Federal, RQS 193/2022, justificação; and Arquivo Nacional news item 13/09/2018"
+        },
+        {
+          "text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
+          "tier": 1,
+          "source": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023"
+        },
+        {
+          "text": "Accession-by-accession structure is documented: a 2011 parliamentary requirement refers to 'o terceiro recolhimento do CENDOC (FAB) ao Arquivo Nacional (COREG)', citing 'envelope nº 2 do terceiro recolhimento', referring to the year 1981; and records that the Minister of Defence had stated CENDOC 'encerraria no dia 31 de agosto de 2010 a remessa de todo o seu acervo à Coordenação Regional do Arquivo Nacional no Distrito Federal (COREG)'.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, RIC 679/2011, justificação and item 2.4, 22 June 2011, referencing RIC 4470/2009 answered by Minister Nelson Jobim via Ofício 4225-GM/Aspar-MD of 20 April 2010"
+        },
+        {
+          "text": "2025 records are demonstrably in the fund and being served: the Arquivo Nacional released FAB dossiers covering at least 18 unidentified-object reports made in Brazil during 2025 by pilots and air traffic controllers, including a 23 November 2025 Londrina control-tower report and a 1 September 2025 report by a LATAM captain over Guarulhos (SP). State distribution reported: Paraná 5, Ceará 4, Minas Gerais 2, São Paulo 2, Rio de Janeiro 2, Alagoas 1, Mato Grosso 1, undetermined 1.",
+          "tier": 2,
+          "source": "André Rigue and Lauryn Amaral, CNN Brasil, 'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025', 12 August 2026, updated 14 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)"
+        }
+      ],
+      "sources": [
+        "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+        "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+        "https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline",
+        "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+        "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+      ]
+    },
+    {
+      "id": "fab",
+      "cls": "institution",
+      "sub": "Brazilian Air Force; ran Operação Prato and the 1986 intercepts; transfers UAP records to the Arquivo Nacional under Portaria 551/GC3 of 9 August 2010",
+      "claims": [
+        {
+          "text": "Full operative text of Portaria nº 551/GC3, de 9 de agosto de 2010, transcribed in a federal court judgment. Legal basis: 'inciso XIV do art. 23 da Estrutura Regimental do Comando da Aeronáutica, aprovada pelo Decreto nº 6.834, de 30 de abril de 2009', and Processo nº 67000.001974/2010-61. Art. 1º: 'As atividades do Comando da Aeronáutica (COMAER) relativas ao assunto \"objetos voadores não identificados\" (OVNI) restringem-se ao registro de ocorrências e ao seu trâmite para o Arquivo Nacional.' Art. 2º assigns COMDABRA to receive and catalogue. Art. 3º assigns CENDOC to copy, bind, archive and periodically forward originals to the Arquivo Nacional. Art. 6º: 'Revoga-se a Nota Nº C-002/MIN/ADM, de 13 de abril de 1978 e o Aviso Nº S-001/MIN, de 28 de fevereiro de 1989.'",
+          "tier": 1,
+          "source": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)"
+        },
+        {
+          "text": "DOU RECORD FOUND (by citation, not by page image). A Chamber of Deputies information requirement cites the underlying process 'citado no Diário Oficial da União de 10 de agosto de 2010, Seção I - página 101', and states that 'no dia 10 de agosto do ano passado a Força Aérea admitira e abrira oficialmente parte do seu esquema de procedimentos quanto ao assunto dos OVNIs, por meio da publicação no DOU da Portaria 551/GC3'. Publication is therefore attested by a primary parliamentary document independent of the FAB's own note: DOU of 10 August 2010, Seção 1, p. 101. The in.gov.br page image itself could not be retrieved.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 (https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011)"
+        },
+        {
+          "text": "SPELLING RESOLVED - 'Juniti Saito' is correct; 'Junichi Saito' is an error originating in the Senate requerimento. The Câmara dos Deputados portal reproduces the Air Force Commander's own Ordem do Dia for Aviator's Day, signed in his own signature block: 'Tenente-Brigadeiro-do-Ar JUNITI SAITO / Comandante da Aeronáutica' (24/10/2012). The variant 'Junichi Saito' appears in the justificação of Senado RQS 193/2022, which also miscalls the Portaria a 'decreto'.",
+          "tier": 1,
+          "source": "Câmara dos Deputados, CREDN, 'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito', 24/10/2012 (https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito); contrasted with Senado Federal RQS 193/2022"
+        },
+        {
+          "text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
+          "tier": 2,
+          "source": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)"
+        }
+      ],
+      "sources": [
+        "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+        "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+        "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito",
+        "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "a": "fab",
+      "b": "arquivo-nacional-ufo",
+      "type": "transfers-records-to",
+      "label": "Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically",
+      "claimTier": 1,
+      "dateStart": "2010-08-09",
+      "dateEnd": null,
+      "note": "Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a 'terceiro recolhimento' covering 1981, with CENDOC's bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.",
+      "sources": [
+        "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+        "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011",
+        "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+      ]
+    },
+    {
+      "a": "operacao-prato",
+      "b": "arquivo-nacional-ufo",
+      "type": "held-by",
+      "label": "SIAN search 'operação prato' returns 6 documents, none audiovisual",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Arquivo Nacional's own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.",
+      "sources": [
+        "https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf",
+        "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011"
+      ]
+    }
+  ],
+  "resolved": [
+    "ARCHIVE DATE CONTRADICTION: The 2016 date is a catalogue-description lag, not the end of an accession and not a separate fund. The Arquivo Nacional's '743 registros / most recent 1952-2016' statement sits on an institutional news item stamped 'Publicado em 13/09/2018 18h25' and never updated - it is a September 2018 snapshot. The fund is structurally open: Portaria 551/GC3 Art. 3 obliges CENDOC to send originals to the Arquivo Nacional 'periodicamente', and successive recolhimentos are documented in parliamentary records. FAB's own note of August 2026 gives coverage as 1952-2025, and 2025 dossiers are demonstrably being served. The stale figure also propagated: COMAER itself repeated '1952 e 2016' in a 2022 court filing.",
+    "HOLDING COUNT 743 vs 758: They count different things at different times. 743 is the Arquivo Nacional's own 2018 description of registros in the fund. 758 is a SIAN search-hit count reported in Senado RQS 193/2022, in a sentence that also gives 137 hits for the free-text term 'OVNI' - proving both are query results, not an inventory. Neither is a stable holding figure for an accruing fund; a third-party 2026 index of the same fund reports 924 dossiers spanning 1952-2024.",
+    "SAITO SPELLING: 'Juniti Saito' is correct. The Câmara dos Deputados portal reproduces his own signed Ordem do Dia, 'Tenente-Brigadeiro-do-Ar JUNITI SAITO, Comandante da Aeronáutica' (24/10/2012). 'Junichi Saito' appears only in the justificação of Senado RQS 193/2022 and sources copying it; the same passage also wrongly calls Portaria 551/GC3 a 'decreto'.",
+    "PORTARIA 551/GC3 DOU RECORD: Attested independently of the FAB's own note. Câmara dos Deputados RIC 679/2011 cites the underlying process as 'citado no Diário Oficial da União de 10 de agosto de 2010, Seção I - página 101' and states the Portaria was published in the DOU on 10 August 2010. The Portaria's full operative text (Arts. 1, 2, 3, 6, Processo nº 67000.001974/2010-61, legal basis Decreto nº 6.834/2009) is transcribed verbatim in a 2023 federal court judgment. The in.gov.br DOU page image itself was not retrievable.",
+    "HOLLANDA: Full name and 1997 death fixed in a primary parliamentary document - 'coronel Uyrangê Bolivar Soares Nogueira de Hollanda Lima, antes de sua morte em 1997' (RIC 679/2011).",
+    "1986 REPORT DELAY: Press conference 23 May 1986, 16h30, Minister Octávio Júlio Moreira Lima promised a dossier within 30 days; the report, dated 2 June 1986 and signed by interim COMDA commander José Pessoa Cavalcanti de Albuquerque, was released 25 September 2009 - 23 years. Sourced to BBC Brasil (Tier 2), not to a primary record.",
+    "OPERAÇÃO PRATO CATALOGUE YIELD: The Arquivo Nacional states that a SIAN search on 'operação prato' returns exactly six documents and that none of them is audiovisual - quoted verbatim in the 2023 federal judgment. This is the closest thing to a catalogue enumeration obtainable without an authenticated SIAN session."
+  ],
+  "unresolved": [
+    "NO SIAN ITEM NUMBERS FOR OPERAÇÃO PRATO WERE OBTAINED, AND NONE ARE ASSERTED HERE. sian.an.gov.br returns an anti-bot CAPTCHA challenge page to every automated request, including the free-search endpoint; the Arquivo Nacional's own archival-description site dibrarq.arquivonacional.gov.br does the same; and SIAN requires gov.br authentication for consultation. The image server imagem.sian.an.gov.br returned empty for constructed BR_DFANBSB_ARX paths. The only verified item-level codes in the ARX fund are BR_DFANBSB_ARX_0_0_25 (Marília/SP 1968 illustration, published by the Arquivo Nacional itself) and BR_DFANBSB_ARX_0_0_0249 (2 June 1986 report, already on the board). Neither belongs to Operação Prato. The six Operação Prato items are attested to exist, but their reference codes require an authenticated SIAN session or an on-site/e-mail request to the Arquivo Nacional.",
+    "NO PRIMARY FAB ORDER ESTABLISHING OPERAÇÃO PRATO WAS FOUND. No portaria, ordem de missão, or directive creating the operation surfaced in any accessible official source. Accounts that Brigadeiro Protázio Lopes de Oliveira constituted a secret investigative board under Capitão Hollanda in September 1977, and that the 2ª Seção (A2) of I COMAR executed it, appear only in ufology sites and blogs and are NOT accepted here. What is primary-sourced is only that Protázio Lopes de Oliveira headed I COMAR at the time (RIC 679/2011). The 1978 predecessor instrument revoked by Portaria 551/GC3 - Nota Nº C-002/MIN/ADM de 13 de abril de 1978 - postdates the operation and is not its founding order.",
+    "BIBLIOTECA NACIONAL HEMEROTECA (memoria.bn.gov.br) COULD NOT BE QUERIED. The site returned an empty body to web_fetch (it is a JavaScript application with a session-bound search backend). The 1986 press coverage of the Moreira Lima press conference - which would raise that record from Tier 2 to Tier 1 with a dated newspaper page - therefore remains unretrieved. The press-conference quote and the 16h30 / 23 May 1986 timing rest on BBC Brasil only.",
+    "1986 PILOT, AIRCRAFT AND BASE DETAILS REMAIN TIER 2. They are reported consistently by BBC Brasil but Tier 1 confirmation requires the Relatório de Ocorrências of 2 June 1986 in SIAN (BR_DFANBSB_ARX_0_0_0249), which could not be fetched. Note an unreconciled detail conflict: BBC gives the Viriato Mirage as prefix 4913 departing Anápolis at 22h48, whereas the board's existing entry has 22:50 for Jordão and no prefix for the Mirage.",
+    "THE MISSING OPERAÇÃO PRATO AUDIOVISUAL MATERIAL IS A LIVE FACTUAL DISPUTE, NOT SETTLED. RIC 679/2011 asserts on the record that ~270 of 500+ photographs and several hours of super 8 / super 16mm film were never transferred. The 2023 federal judgment held there were insufficient indicia that such files exist. Both are primary records and they contradict each other. No document resolving the dispute was found; the answers to RIC 679/2011, if given, were not located.",
+    "THE in.gov.br DOU PAGE IMAGE FOR 10 AUGUST 2010, SEÇÃO 1, P. 101 WAS NOT RETRIEVED. The constructed in.gov.br permalink returned an empty body, and in.gov.br's search interface was not machine-queryable. The DOU citation is therefore attested by the Câmara dos Deputados document rather than by the gazette page itself. A search result reported the issue number as DOU n. 152, but that number could NOT be confirmed against any page actually fetched and is therefore NOT recorded as a claim."
+  ]
+}

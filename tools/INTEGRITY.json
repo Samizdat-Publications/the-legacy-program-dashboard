@@ -102,7 +102,6 @@
   "fab->aaro-fy2025-annual-report (institutional)",
   "arquivo-nacional-ufo->sky-canada-project (institutional)",
   "arquivo-nacional-ufo->geipan (institutional)",
-  "operacao-prato->setka (programmatic)",
   "peru-uap-office->fab (institutional)",
   "peru-uap-office->cefaa (institutional)",
   "peru-uap-office->geipan (institutional)",
@@ -117,6 +116,13 @@
   "tom-cole->us-house (institutional)",
   "dod-sapco->waived-sap-notification-group (institutional)",
   "dod-sapco->classified-annex (funding)",
+  "fab->arquivo-nacional-ufo (programmatic)",
+  "operacao-prato->arquivo-nacional-ufo (programmatic)",
+  "operacao-prato->setka-program (programmatic)",
+  "cometa->setka-program (research)",
+  "setka-program->izmiran (institutional)",
+  "setka-program->l-moscow (geographic)",
+  "setka-program->dod (behavioral)",
   "pogo->hearing-2025-09-09 (investigative)",
   "pogo->house-oversight-committee (institutional)",
   "pogo->anna-paulina-luna (legislative)",
@@ -234,12 +240,8 @@
   "cometa->l-paris (institutional)",
   "cometa->project-blue-book (research)",
   "cometa->roswell-1947 (research)",
-  "cometa->setka (research)",
   "cefaa->dgac-chile (institutional)",
   "cefaa->l-santiago (geographic)",
-  "setka->izmiran (institutional)",
-  "setka->l-moscow (geographic)",
-  "setka->dod (behavioral)",
   "friedwardt-winterberg->dird-advanced-nuclear-propulsion-for-manned-deep (research)",
   "dird-advanced-nuclear-propulsion-for-manned-deep->aawsap (programmatic)",
   "dia->dird-advanced-nuclear-propulsion-for-manned-deep (custody)",
@@ -546,6 +548,14 @@
    "locId": "l-green-bay"
   },
   {
+   "id": "matthew-szydagis",
+   "locId": "l-albany"
+  },
+  {
+   "id": "kevin-knuth",
+   "locId": "l-albany"
+  },
+  {
    "id": "sarah-little",
    "locId": "l-woodshole"
   },
@@ -626,6 +636,7 @@
   "buck-mckeon",
   "thad-cochran",
   "tom-cole",
+  "cecilia-levy",
   "friedwardt-winterberg",
   "wil-mccarthy",
   "claudio-maccone",
@@ -894,12 +905,7 @@
   }
  ],
  "entity_without_source": [
-  "setka",
-  "waived-sap-notification-group",
-  "soyuzufotsentr"
- ],
- "entity_without_desc": [
-  "soyuzufotsentr"
+  "waived-sap-notification-group"
  ],
  "tier1_claim_no_url": [
   {
@@ -1185,58 +1191,6 @@
   {
    "id": "betty-mccollum",
    "claim": "In the 116th Congress McCollum was Vice Chair of the House Appropriations Defense Subcommi"
-  },
-  {
-   "id": "setka",
-   "claim": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September "
-  },
-  {
-   "id": "setka",
-   "claim": "Academy of Sciences President Anatoly Aleksandrov wrote to L. Smirnov, Vice-President of t"
-  },
-  {
-   "id": "setka",
-   "claim": "The MIC Scientific and Technical Council met 'in October, 1977 in Kremlin under the presid"
-  },
-  {
-   "id": "setka",
-   "claim": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry"
-  },
-  {
-   "id": "setka",
-   "claim": "'Thus, in 1978 in the USSR the state program of studying the \"UFO\" phenomenon started, and"
-  },
-  {
-   "id": "setka",
-   "claim": "The military branch was led from 'one of the central military research institutes in the M"
-  },
-  {
-   "id": "setka",
-   "claim": "'The budget financing of the research program included the salary of the experts occupied "
-  },
-  {
-   "id": "setka",
-   "claim": "A document authorised by the Chief of the General Staff in January 1980 reached the troops"
-  },
-  {
-   "id": "setka",
-   "claim": "Verbatim: 'One can say that the noted directive for 13 years put the army into the on-duty"
-  },
-  {
-   "id": "setka",
-   "claim": "The research was classified for three stated reasons: it formally entered the classified d"
-  },
-  {
-   "id": "setka",
-   "claim": "'During the work on the program (for 13 years) about three thousand of messages reporting "
-  },
-  {
-   "id": "setka",
-   "claim": "Across the whole programme there was no message about a UFO landing, no message about cont"
-  },
-  {
-   "id": "setka",
-   "claim": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh regio"
   },
   {
    "id": "waived-sap-notification-group",

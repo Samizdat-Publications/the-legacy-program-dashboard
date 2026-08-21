@@ -1,0 +1,75 @@
+{
+ "_why": "setka and setka-program were the same USSR programme entered twice. setka-program survives: 'program' is the correct class for a research programme and setka was mis-classed as an institution. Its dossier is carried across.",
+ "edges": [
+  {
+   "a": "operacao-prato",
+   "b": "setka-program",
+   "type": "programmatic",
+   "label": "COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial",
+   "claimTier": 2,
+   "dateStart": "1977",
+   "dateEnd": "1990",
+   "note": "COMPARISON EDGE \u2014 no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Opera\u00e7\u00e3o Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes \u2014 one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
+   "sources": [],
+   "_domains": [
+    "w10-brazil"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "setka-program",
+   "type": "research",
+   "label": "cites Soviet statistical distributions as comparable",
+   "claimTier": 3,
+   "dateStart": "1999-07",
+   "dateEnd": null,
+   "note": "COMETA chapter 7.3 records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide'. The report does not name SETKA, and the identification of the Soviet studies with the SETKA programme is inference rather than citation - hence tier 3. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
+   "sources": [],
+   "_domains": [
+    "w6-international"
+   ]
+  },
+  {
+   "a": "setka-program",
+   "b": "izmiran",
+   "type": "institutional",
+   "label": "head institute of the Academy of Sciences branch",
+   "claimTier": 1,
+   "dateStart": "1978",
+   "dateEnd": "1990",
+   "note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
+   "sources": [],
+   "_domains": [
+    "w6-international"
+   ]
+  },
+  {
+   "a": "setka-program",
+   "b": "l-moscow",
+   "type": "geographic",
+   "label": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
+   "claimTier": 1,
+   "dateStart": "1977-10",
+   "dateEnd": "1990",
+   "note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
+   "sources": [],
+   "_domains": [
+    "w6-international"
+   ]
+  },
+  {
+   "a": "setka-program",
+   "b": "dod",
+   "type": "behavioral",
+   "label": "opposite reporting posture: mandated versus stigmatised",
+   "claimTier": 1,
+   "dateStart": "1980-01",
+   "dateEnd": "1990",
+   "note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
+   "sources": [],
+   "_domains": [
+    "w6-international"
+   ]
+  }
+ ]
+}

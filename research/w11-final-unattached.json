@@ -1,0 +1,494 @@
+{
+  "generated": "2026-08-21",
+  "pass": "w11-final-unattached",
+  "scope": "Closeout of the last three unattached nodes: university-at-albany, l-albany, soyuzufotsentr",
+  "edges": [
+    {
+      "a": "university-at-albany",
+      "b": "kevin-knuth",
+      "type": "institutional",
+      "label": "Employs Knuth; Professor of Physics since 2023, on the faculty since 2005",
+      "claimTier": 1,
+      "dateStart": "2005",
+      "dateEnd": null,
+      "note": "The UAlbany Department of Physics faculty page lists Knuth's appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.",
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Kevin Knuth faculty page",
+          "url": "https://www.albany.edu/physics/faculty/kevin-knuth",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "a": "university-at-albany",
+      "b": "matthew-szydagis",
+      "type": "institutional",
+      "label": "Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+          "url": "https://www.albany.edu/physics/faculty/matthew-szydagis",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "a": "university-at-albany",
+      "b": "cecilia-levy",
+      "type": "institutional",
+      "label": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+      "claimTier": 1,
+      "dateStart": null,
+      "dateEnd": null,
+      "note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+          "url": "https://www.albany.edu/physics/faculty/cecilia-levy",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "a": "university-at-albany",
+      "b": "paper-uapx-2025",
+      "type": "research",
+      "label": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+      "claimTier": 1,
+      "dateStart": "2025-06-02",
+      "dateEnd": null,
+      "note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        },
+        {
+          "name": "Szydagis, Knuth, Kugielsky & Levy, 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099",
+          "url": "https://doi.org/10.1016/j.paerosci.2025.101099",
+          "date": "2025-06-02"
+        }
+      ]
+    },
+    {
+      "a": "university-at-albany",
+      "b": "paper-knuth-2025-new-science",
+      "type": "research",
+      "label": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
+      "claimTier": 1,
+      "dateStart": "2025-06",
+      "dateEnd": null,
+      "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        },
+        {
+          "name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+          "url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa",
+          "date": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "a": "university-at-albany",
+      "b": "uapx",
+      "type": "research",
+      "label": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+      "claimTier": 2,
+      "dateStart": "2021",
+      "dateEnd": null,
+      "note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        },
+        {
+          "name": "UAPx - Dr. Kevin Knuth biography page",
+          "url": "https://www.uapexpedition.org/drkevinknuth",
+          "date": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "a": "cecilia-levy",
+      "b": "paper-uapx-2025",
+      "type": "investigative",
+      "label": "Co-author of the UAPx field-expedition results",
+      "claimTier": 1,
+      "dateStart": "2025-06-02",
+      "dateEnd": null,
+      "note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "a": "cecilia-levy",
+      "b": "matthew-szydagis",
+      "type": "research",
+      "label": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+      "claimTier": 1,
+      "dateStart": "2018",
+      "dateEnd": null,
+      "note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+          "url": "https://www.albany.edu/physics/faculty/cecilia-levy",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "a": "kevin-knuth",
+      "b": "paper-knuth-2025-new-science",
+      "type": "investigative",
+      "label": "Lead author of the 34-author UAP review",
+      "claimTier": 1,
+      "dateStart": "2025-06",
+      "dateEnd": null,
+      "note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "a": "matthew-szydagis",
+      "b": "paper-knuth-2025-new-science",
+      "type": "investigative",
+      "label": "Co-author of the 34-author UAP review",
+      "claimTier": 1,
+      "dateStart": "2025-06",
+      "dateEnd": null,
+      "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    },
+    {
+      "a": "kevin-knuth",
+      "b": "scu-uap-studies",
+      "type": "research",
+      "label": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
+      "claimTier": 1,
+      "dateStart": "2025-06-06",
+      "dateEnd": "2025-06-08",
+      "note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
+      "sources": [
+        {
+          "name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+          "url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa",
+          "date": "2025-06-27"
+        }
+      ]
+    },
+    {
+      "a": "soyuzufotsentr",
+      "b": "vladimir-azhazha",
+      "type": "institutional",
+      "label": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+      "claimTier": 1,
+      "dateStart": "1990",
+      "dateEnd": null,
+      "note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+      "sources": [
+        {
+          "name": "Project Condign Volume 3, Chapter 4, paras 1 and 4 - released MoD copy, OCR text",
+          "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+          "date": "2006-05-15"
+        },
+        {
+          "name": "Project Condign - Volumes 1-3 (Internet Archive item)",
+          "url": "https://archive.org/details/condign-vol-2-1-258",
+          "date": "2006-05-15"
+        }
+      ]
+    },
+    {
+      "a": "doc-condign-vol3",
+      "b": "soyuzufotsentr",
+      "type": "investigative",
+      "label": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
+      "claimTier": 1,
+      "dateStart": "2000",
+      "dateEnd": null,
+      "note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
+      "sources": [
+        {
+          "name": "Project Condign Volume 3, Chapter 4, paras 1-8 - released MoD copy, OCR text",
+          "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+          "date": "2006-05-15"
+        }
+      ]
+    },
+    {
+      "a": "soyuzufotsentr",
+      "b": "setka-program",
+      "type": "temporal",
+      "label": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+      "claimTier": 3,
+      "dateStart": "1990",
+      "dateEnd": null,
+      "note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+      "sources": [
+        {
+          "name": "Project Condign Volume 3, Chapter 4, para 1 - released MoD copy, OCR text",
+          "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+          "date": "2006-05-15"
+        },
+        {
+          "name": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+          "url": "https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly",
+          "date": "2026-02-09"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "cecilia-levy",
+      "label": "Cecilia Levy",
+      "sub": "Associate Professor of Physics, University at Albany (SUNY); LZ dark-matter physicist; third UAlbany author on the 2025 UAPx field-expedition paper",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 1,
+      "narrative": "Cecilia Levy is the third University at Albany physicist on the only peer-reviewed UAP field-expedition paper published to date, and she is on this board for a narrow and checkable reason: the University named her, in its own press release, as one of three 'UAlbany authors' on Szydagis, Knuth, Kugielsky & Levy (2025). Her career is otherwise entirely conventional astroparticle physics. She took a BSc at the Universite de Montreal, an MSc at Queen's University on the PICASSO dark matter experiment, a PhD at the University of Muenster on XENON100, a postdoc at RPI on XENON1T, and a postdoc at Albany on LUX/LZ, and she is now an Associate Professor in the same department as Szydagis and Knuth. Her stated research is the direct detection of dark matter: she works on the seven-tonne LZ detector at the Sanford Underground Research Facility, where her group handled detector cleanliness and the 206Pb wall background, and she co-develops the Snowball Chamber, a supercooled-water low-mass dark matter detector she describes as 'a research topic completely unique to the UAlbany dark matter group'. She co-authored the founding Snowball Chamber paper with Szydagis in 2018. That shared instrument work is the mechanism by which rare-event detection practice reached the UAP field campaign: the University's release explains that Szydagis's C-TAP frame-differencing software applies an approach 'used by physicists like him and Levy to look for direct evidence of dark matter'. One honest qualification belongs on the record. Unlike Szydagis, whose departmental page lists Unidentified Anomalous Phenomena among his research interests, Levy's faculty page makes no mention of UAP at all. Her involvement is visible in the publication and in the press office, not in her declared research profile - which is a reasonable description of how most working scientists have touched this subject.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Levy is an Associate Professor in the Department of Physics at the University at Albany, with a PhD from the University of Muenster on XENON100 and postdoctoral work at RPI (XENON1T) and Albany (LUX/LZ).",
+          "source": "University at Albany, Department of Physics faculty page"
+        },
+        {
+          "tier": 1,
+          "text": "UAlbany's news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences UAPx field-expedition paper: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx'.",
+          "source": "UAlbany News Center, 4 June 2025"
+        },
+        {
+          "tier": 1,
+          "text": "She co-authored the Snowball Chamber paper with Szydagis: 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018).",
+          "source": "University at Albany faculty page publication list"
+        },
+        {
+          "tier": 2,
+          "text": "Her UAlbany faculty page lists no UAP research interest, in contrast to Szydagis's page, which does. Her UAP involvement is documented through co-authorship and the university press office only.",
+          "source": "Comparison of the two UAlbany Department of Physics faculty pages, retrieved 21 August 2026"
+        }
+      ],
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+          "url": "https://www.albany.edu/physics/faculty/cecilia-levy",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "id": "paper-knuth-2025-new-science",
+      "cls": "document",
+      "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
+      "sub": "34-author review of UAP studies 1933-present; Knuth lead author, Szydagis co-author",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 0,
+      "D": 2,
+      "desc": "The companion piece to the UAPx field-expedition paper in the same Progress in Aerospace Sciences special edition, and the larger of the two. UAlbany's news office describes it as 'a comprehensive review of studies conducted on UAPs from 1933 to the present, including more than 20 historical government and privately funded projects as well as recent scientific research efforts in Ireland, France, Germany, Norway, Sweden and the United States', with Knuth as lead author 'co-written by Szydagis and more than 30 other researchers from around the world'. SCU's June 2025 press release puts the author count at thirty-four and gives the DOI as 10.1016/j.paerosci.2025.101097. Its stated aims, per the University, are to clarify the historical scientific narrative, to establish that UAP have been observed and recorded for well over 150 years and studied by astronomers, scientists and engineers, and to show that several serious academic efforts in multiple countries are currently collecting instrumented data. Its significance for this board is structural rather than evidentiary: a thirty-four-author review in a high-impact aerospace engineering journal, led from a state university physics department, is the closest thing the subject has to a conventional field-defining literature review, and it exists because two faculty members at a mid-sized SUNY campus were willing to put their names on it.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Knuth is lead author; the article was co-written by Szydagis and more than thirty other researchers, and published in a special edition of Progress in Aerospace Sciences in June 2025.",
+          "source": "UAlbany News Center, 4 June 2025"
+        },
+        {
+          "tier": 1,
+          "text": "SCU records the paper as bringing together thirty-four authors, DOI 10.1016/j.paerosci.2025.101097.",
+          "source": "SCU press release, 27 June 2025"
+        }
+      ],
+      "sources": [
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        },
+        {
+          "name": "SCU press release, 'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award'",
+          "url": "https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa",
+          "date": "2025-06-27"
+        },
+        {
+          "name": "ScienceDirect article record (linked from the UAlbany release)",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0376042125000235",
+          "date": "2025-06-02"
+        }
+      ]
+    },
+    {
+      "id": "soyuzufotsentr",
+      "cls": "institution",
+      "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
+      "sub": "1990 Soviet ufology centre with USSR Academy of Sciences institute rights, headed by V. G. Azhazha; named in UK Project Condign",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "desc": "CORRECTED NODE - previously a bookkeeping stub with a null description and no sources. SOYUZUFOTSENTR is on this board because a UK Defence Intelligence Staff report classified SECRET UK EYES ONLY thought it worth naming. Project Condign Volume 3, Chapter 4 records that a 'UFO' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989, and that in 1990 an Inter-Industry Ufology Research Centre - Condign transliterates it SOYUZUFOSENTR - was created to co-ordinate records; that the centre held the rights of an Institute under the USSR Academy of Sciences; and that it was headed by V. G. Azhazha, 'an eminent researcher and former naval submariner'. Condign records a ten-week school with terms of reference to study 'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth'; that the Institute developed light filters, instrumentation and IR and UV photography; and that claimed imagery of 'peculiar spheres, humanoid figures' was reported but, in Condign's dry formulation, 'if the imagery exists, it has never been published'. The centre sits at the hinge between the closed Soviet state effort and the open Russian ufology of the 1990s: it was founded in 1990, the year the SETKA programmes ended, and it was the first Soviet UFO organisation to operate publicly. It should NOT be confused with the KLAS-TV / George Knapp document story. Knapp's 1993 Moscow acquisition came from the Ministry of Defence via Colonel Boris Sokolov; the KGB 'Blue Folder' associated with Popovich and Azhazha is a separate collection. That distinction is why the obvious media edge from this node cannot be written.",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Project Condign Volume 3, Chapter 4, para 1: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan.",
+          "source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 (released 2006)"
+        },
+        {
+          "tier": 1,
+          "text": "Condign Volume 3, Chapter 4, para 4: 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic. Unexplained imagery has reportedly been obtained including \"peculiar spheres, humanoid figures ... If the imagery exists, it has never been published.\"'",
+          "source": "Project Condign, Volume 3, Chapter 4, para 4"
+        },
+        {
+          "tier": 2,
+          "text": "A secondary analysis records SOYUZUFOTSENTR as established in 1990 as the first official Soviet public UFO organisation, with cosmonaut Pavel Popovich as president and Azhazha as director. Condign names only Azhazha; the Popovich presidency is not corroborated by the Condign text and rests on the secondary source alone.",
+          "source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026"
+        },
+        {
+          "tier": 1,
+          "text": "Knapp's 1993 documents came from the Ministry of Defence via Colonel Boris Sokolov, not from the KGB 'Blue Folder' declassified 24 October 1991 and handed to Popovich. The two collections are distinct.",
+          "source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026, citing Huneeus and Kehoe"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Project Condign Volume 3, Chapter 4 - released MoD copy, OCR text",
+          "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+          "date": "2006-05-15"
+        },
+        {
+          "name": "Project Condign - Volumes 1-3 (Internet Archive item)",
+          "url": "https://archive.org/details/condign-vol-2-1-258",
+          "date": "2006-05-15"
+        },
+        {
+          "name": "Gene Sticco, 'Knapp's \"Russian UFO files\" are mostly old news, even in 1993 Russia', Blackgrove's Field Notes",
+          "url": "https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly",
+          "date": "2026-02-09"
+        }
+      ]
+    },
+    {
+      "id": "university-at-albany",
+      "cls": "institution",
+      "label": "University at Albany (SUNY), Department of Physics",
+      "sub": "Academic home of Kevin Knuth, Matthew Szydagis and Cecilia Levy; source of both 2025 Progress in Aerospace Sciences UAP papers",
+      "cluster": "research",
+      "tier": "C",
+      "C": 0,
+      "A": 1,
+      "D": 2,
+      "desc": "CORRECTED NODE - description updated to add Cecilia Levy, the second 2025 paper, and the departmental research-interest listing. The physics department at the University at Albany is, improbably, the most productive academic base in this field outside Stanford and Harvard. It employs Kevin Knuth - information physicist, former NASA Ames research scientist and Editor-in-Chief of Entropy since 2012, on the faculty since 2005 and a full professor since 2023 - along with Matthew Szydagis, a liquid-xenon dark-matter physicist who created the Noble Element Simulation Technique used across the direct-detection community, and Cecilia Levy, an LZ physicist and Szydagis's co-developer on the Snowball Chamber. What makes the institution more than an address is that the commitment is on the record in the department's own materials: Szydagis's faculty page lists 'Unidentified Anomalous Phenomena' among his research interests, and the University's news office published the June 2025 field results under its own masthead, naming the three as 'UAlbany authors' and reporting the honest outcome that the team 'succeeded in plausibly explaining all but one of the potential anomalies detected'. Two papers came out of the same Progress in Aerospace Sciences special edition: the UAPx field-expedition results and Knuth's 34-author review, 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)'. Knuth also produced the 2019 Entropy kinematics paper on the Nimitz encounter, and in June 2025 received SCU's inaugural Distinguished Scholar Award. That a mid-sized state university supplies a meaningful fraction of the world's peer-reviewed UAP instrumentation output is a measure of how little institutional capacity exists. Note that UAlbany is not the host or funder of UAPx - the field work was funded by Caroline Cory of OMnium Media for the documentary 'A Tear in the Sky' (2022).",
+      "claims": [
+        {
+          "tier": 1,
+          "text": "Knuth joined the University at Albany in 2005 (Assistant Professor 2005-2009, Associate 2009-2023, Professor 2023-present) and has been Editor-in-Chief of Entropy since 2012.",
+          "source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026"
+        },
+        {
+          "tier": 1,
+          "text": "Szydagis's departmental research interests, as published by the university, include 'general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'.",
+          "source": "UAlbany Department of Physics faculty page, retrieved 21 August 2026"
+        },
+        {
+          "tier": 1,
+          "text": "UAlbany's news office: 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.'",
+          "source": "UAlbany News Center, 4 June 2025"
+        },
+        {
+          "tier": 1,
+          "text": "Funding for the California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from the University.",
+          "source": "UAlbany News Center, 4 June 2025"
+        }
+      ],
+      "sources": [
+        {
+          "name": "University at Albany, Department of Physics - Kevin Knuth faculty page",
+          "url": "https://www.albany.edu/physics/faculty/kevin-knuth",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "University at Albany, Department of Physics - Matthew Szydagis faculty page",
+          "url": "https://www.albany.edu/physics/faculty/matthew-szydagis",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "University at Albany, Department of Physics - Cecilia Levy faculty page",
+          "url": "https://www.albany.edu/physics/faculty/cecilia-levy",
+          "date": "2026-08-21"
+        },
+        {
+          "name": "UAlbany News Center, 'UAlbany Physicists Test Scientific Approach to UAP Research'",
+          "url": "https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research",
+          "date": "2025-06-04"
+        }
+      ]
+    }
+  ],
+  "recommend_removal": [
+    {
+      "id": "l-albany",
+      "reason": "Incidental biography, on exactly the precedent that removed 31 other locations. Nothing that matters to this subject demonstrably happens in Albany. The city's entire content on this board is the mailing address of the University at Albany. Every locatable event in the Albany cluster occurs elsewhere: the UAPx field expedition behind the only peer-reviewed field-instrumentation result was at Laguna Beach, California (2021); the Nimitz encounter analysed in the 2019 Entropy paper was off southern California (2004); Szydagis's LZ detector work is at the Sanford Underground Research Facility in Lead, South Dakota; SCU's Distinguished Scholar Award was presented in Huntsville, Alabama (June 2025). Contrast l-moscow, which is retained because a Kremlin decision, an MoD institute and IZMIRAN all sit there and the SETKA programme was run from it. Albany has one institution, no event, no decision and no custody transfer. Two further defects support removal: (1) the node's only claim is tier 3 and is an editorial judgement ('the small existing proof that instrumented UAP research can be conducted ... under normal academic norms'), not a fact about a place; (2) its single edge, university-at-albany -> l-albany, is typed 'research' although it describes a containment relationship and its label describes people rather than a place - if the node is retained against this recommendation, that edge must be re-typed 'geographic' and re-labelled. The subject-matter content the node currently carries is not lost: it has been folded into the corrected university-at-albany description."
+    }
+  ],
+  "unwireable": [],
+  "unresolved": [
+    "The prior pass's KLAS-TV verdict HOLDS and should not be revisited without new documents. Re-tested this pass: George Knapp's 1993 Moscow document acquisition came from the Ministry of Defence via retired Colonel Boris Sokolov, whereas the KGB 'Blue Folder' - 124 pages, declassified 24 October 1991 - was handed to Pavel Popovich and passed to Azhazha. These are two separate collections. There is therefore no documented custody, investigative or institutional path from soyuzufotsentr to klas-tv, and none has been written. The node is now wired through Condign and Azhazha instead, which is where the evidence actually is.",
+    "Condign Volume 3 does not name SETKA. Its Former Soviet Union chapter describes a Soviet exploitation programme, SOYUZUFOTSENTR, Popovich's All Union Ufology Association, Maltsev's 1990 document release, Troitsky's Commission and Sokolov's aircraft-incident account, but never uses the programme name. The board's existing edge doc-condign-vol3 -> setka-program is therefore an identification made by the board, not by the document. Worth an explicit note on that edge.",
+    "Pavel Popovich has no node. Condign Volume 3 Chapter 4 para 6 records that 'In 1990 the All Union Ufology Association was formed and [h]eaded by Major General of Aviation P. POPOVICH (Pilot Cosmonaut) at the Air Force Academy', and a secondary source makes him president of SOYUZUFOTSENTR with Azhazha as director. He is the custody link for the KGB Blue Folder. PROPOSED NEW NODE: pavel-popovich (person, cluster ic or research). Not created here because it is outside this pass's three-node scope and the SOYUZUFOTSENTR presidency needs a better source than the one found.",
+    "Scientific Coalition for UAP Studies already exists as scu-uap-studies, so no new node was needed - but the hypothesis in the tasking that Knuth is 'associated with SCU' resolves narrowly. Verified: SCU gave him its inaugural Distinguished Scholar Award in June 2025. NOT verified, and no evidence found: any SCU board seat, officer post or executive role. The board's substantive SCU link into this cluster runs through Robert Powell, an SCU founding board member and Knuth's 2019 co-author.",
+    "Kevin Knuth is described in third-party coverage as an affiliate of the Galileo Project at Harvard. This was NOT verified against a Galileo Project or Harvard primary source in this pass, so no kevin-knuth -> galileo-project edge was written. If confirmed from a Galileo Project or Harvard primary listing, that edge would connect the Albany cluster directly to harvard-cfa / avi-loeb and is worth a short follow-up.",
+    "Caroline Cory / OMnium Media funded the entire 2021 California field campaign behind the only peer-reviewed UAP field-expedition paper, in order to produce the documentary 'A Tear in the Sky' (2022). A documentary producer funding the field work that becomes the field's flagship peer-reviewed instrumentation result is a funding relationship of real structural interest and there is no node for either party. PROPOSED NEW NODES: omnium-media (institution, cluster media) and caroline-cory (person), with a funding edge to paper-uapx-2025 and uapx. Sourced to the UAlbany release. Not created here as out of scope.",
+    "The existing university-at-albany node text asserts that 'In June 2026 Szydagis was appointed to the UAP Science Advisory Council'. This pass did not verify that appointment or resolve which of the two board nodes it belongs to - uap-science-advisory-council or uap-science-advisory-council-2026. The existing edge matthew-szydagis -> uap-science-advisory-council points at the first. Duplicate-node check recommended.",
+    "Transliteration mismatch, low priority: the board labels the node soyuzufotsentr, Condign's released text reads SOYUZUFOSENTR (no T), and secondary literature uses SOYUZUFOTSENTR. The corrected entity records Condign's spelling in the quote and keeps the board's id unchanged. Do not silently normalise the quote."
+  ]
+}

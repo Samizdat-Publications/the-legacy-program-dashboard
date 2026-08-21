@@ -22831,17 +22831,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'operacao-prato',
-    b: 'setka',
-    type: 'programmatic',
-    label: 'COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial',
-    claimTier: 2,
-    dateStart: '1977',
-    dateEnd: '1990',
-    note: 'COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences\' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
-    sources: []
-  },
-  {
     a: 'peru-uap-office',
     b: 'fab',
     type: 'institutional',
@@ -24241,6 +24230,356 @@ export const PROGRAM_EDGES = [
     dateStart: '2024-09-12',
     dateEnd: null,
     note: 'DoDI 5205.11 para. 7.2.h, \'Congressional Budget Justification Materials\': \'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.\' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.',
+    sources: []
+  },
+  {
+    a: 'fab',
+    b: 'arquivo-nacional-ufo',
+    type: 'programmatic',
+    label: 'Portaria 551/GC3 (9 Aug 2010): COMDABRA/COMAE catalogues, CENDOC forwards originals periodically',
+    claimTier: 1,
+    dateStart: '2010-08-09',
+    dateEnd: null,
+    note: 'Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a \'terceiro recolhimento\' covering 1981, with CENDOC\'s bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.',
+    sources: []
+  },
+  {
+    a: 'operacao-prato',
+    b: 'arquivo-nacional-ufo',
+    type: 'programmatic',
+    label: 'SIAN search \'operação prato\' returns 6 documents, none audiovisual',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Arquivo Nacional\'s own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.',
+    sources: []
+  },
+  {
+    a: 'university-at-albany',
+    b: 'kevin-knuth',
+    type: 'institutional',
+    label: 'Employs Knuth; Professor of Physics since 2023, on the faculty since 2005',
+    claimTier: 1,
+    dateStart: '2005',
+    dateEnd: null,
+    note: 'The UAlbany Department of Physics faculty page lists Knuth\'s appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.',
+    sources: [
+      {
+        name: 'University at Albany, Department of Physics - Kevin Knuth faculty page',
+        url: 'https://www.albany.edu/physics/faculty/kevin-knuth',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'university-at-albany',
+    b: 'matthew-szydagis',
+    type: 'institutional',
+    label: 'Employs Szydagis; Associate Professor of Physics, with UAP listed as a departmental research interest',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The department\'s own faculty page for Szydagis lists his research interests as \'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena\'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.',
+    sources: [
+      {
+        name: 'University at Albany, Department of Physics - Matthew Szydagis faculty page',
+        url: 'https://www.albany.edu/physics/faculty/matthew-szydagis',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'university-at-albany',
+    b: 'cecilia-levy',
+    type: 'institutional',
+    label: 'Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University\'s own news office names her as one of three \'UAlbany authors\' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.',
+    sources: [
+      {
+        name: 'University at Albany, Department of Physics - Cecilia Levy faculty page',
+        url: 'https://www.albany.edu/physics/faculty/cecilia-levy',
+        date: '2026-08-21'
+      },
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      }
+    ]
+  },
+  {
+    a: 'university-at-albany',
+    b: 'paper-uapx-2025',
+    type: 'research',
+    label: 'Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name',
+    claimTier: 1,
+    dateStart: '2025-06-02',
+    dateEnd: null,
+    note: 'The UAlbany News Center release of 4 June 2025 states: \'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.\' The release also records the outcome honestly - \'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected\' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      },
+      {
+        name: 'Szydagis, Knuth, Kugielsky & Levy, \'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena\', Progress in Aerospace Sciences 156:101099',
+        url: 'https://doi.org/10.1016/j.paerosci.2025.101099',
+        date: '2025-06-02'
+      }
+    ]
+  },
+  {
+    a: 'university-at-albany',
+    b: 'paper-knuth-2025-new-science',
+    type: 'research',
+    label: 'Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored',
+    claimTier: 1,
+    dateStart: '2025-06',
+    dateEnd: null,
+    note: 'Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states \'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world\'; SCU\'s June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      },
+      {
+        name: 'SCU press release, \'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award\'',
+        url: 'https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa',
+        date: '2025-06-27'
+      }
+    ]
+  },
+  {
+    a: 'university-at-albany',
+    b: 'uapx',
+    type: 'research',
+    label: 'Academic base of UAPx\'s science leadership - NOT a host, sponsor or funder',
+    claimTier: 2,
+    dateStart: '2021',
+    dateEnd: null,
+    note: 'The distinction matters and is drawn by the University itself. UAlbany\'s release separates \'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy\' from \'Ben Kugielsky of UAPx, a non-profit scientific research organization\'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary \'A Tear in the Sky\' (2022) - not from UAlbany.',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      },
+      {
+        name: 'UAPx - Dr. Kevin Knuth biography page',
+        url: 'https://www.uapexpedition.org/drkevinknuth',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'cecilia-levy',
+    b: 'paper-uapx-2025',
+    type: 'investigative',
+    label: 'Co-author of the UAPx field-expedition results',
+    claimTier: 1,
+    dateStart: '2025-06-02',
+    dateEnd: null,
+    note: 'Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board\'s existing node label for this paper already carries her surname; until now she had no node behind it.',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      }
+    ]
+  },
+  {
+    a: 'cecilia-levy',
+    b: 'matthew-szydagis',
+    type: 'research',
+    label: 'Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work',
+    claimTier: 1,
+    dateStart: '2018',
+    dateEnd: null,
+    note: 'Levy\'s faculty page lists \'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water\' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as \'a research topic completely unique to the UAlbany dark matter group\'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is \'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter\'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.',
+    sources: [
+      {
+        name: 'University at Albany, Department of Physics - Cecilia Levy faculty page',
+        url: 'https://www.albany.edu/physics/faculty/cecilia-levy',
+        date: '2026-08-21'
+      },
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      }
+    ]
+  },
+  {
+    a: 'kevin-knuth',
+    b: 'paper-knuth-2025-new-science',
+    type: 'investigative',
+    label: 'Lead author of the 34-author UAP review',
+    claimTier: 1,
+    dateStart: '2025-06',
+    dateEnd: null,
+    note: 'UAlbany: \'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.\' Knuth, quoted in the same release: \'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.\'',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      }
+    ]
+  },
+  {
+    a: 'matthew-szydagis',
+    b: 'paper-knuth-2025-new-science',
+    type: 'investigative',
+    label: 'Co-author of the 34-author UAP review',
+    claimTier: 1,
+    dateStart: '2025-06',
+    dateEnd: null,
+    note: 'Named by the University as co-writer alongside Knuth and more than thirty other researchers.',
+    sources: [
+      {
+        name: 'UAlbany News Center, \'UAlbany Physicists Test Scientific Approach to UAP Research\'',
+        url: 'https://www.albany.edu/news-center/news/2025-ualbany-physicists-test-scientific-approach-uap-research',
+        date: '2025-06-04'
+      }
+    ]
+  },
+  {
+    a: 'kevin-knuth',
+    b: 'scu-uap-studies',
+    type: 'research',
+    label: 'SCU\'s inaugural Distinguished Scholar Award, June 2025 - recognition, not an office',
+    claimTier: 1,
+    dateStart: '2025-06-06',
+    dateEnd: '2025-06-08',
+    note: 'Presented at SCU\'s Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: \'Dr. Knuth\'s leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.\' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board\'s pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth\'s co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.',
+    sources: [
+      {
+        name: 'SCU press release, \'Scientific Coalition for UAP Studies honors Dr. Kevin Knuth with inaugural Distinguished Scholar Award\'',
+        url: 'https://www.explorescu.org/post/scientific-coalition-for-uap-studies-honors-dr-kevin-knuth-with-inaugural-distinguished-scholar-awa',
+        date: '2025-06-27'
+      }
+    ]
+  },
+  {
+    a: 'soyuzufotsentr',
+    b: 'vladimir-azhazha',
+    type: 'institutional',
+    label: 'Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff\'s own report',
+    claimTier: 1,
+    dateStart: '1990',
+    dateEnd: null,
+    note: 'Project Condign Volume 3, Chapter 4 (\'UAP Work in Other Countries\'), para 1, verified against the released MoD OCR text: \'A "UFO" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.\' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign\'s own, and differs from the board\'s node label. Para 4 adds that under Azhazha \'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic\', and that claimed imagery of \'peculiar spheres, humanoid figures\' has, \'if the imagery exists ... never been published\'. This edge closes a gap that was already implicit in the board\'s own data: the vladimir-azhazha node has carried instId \'soyuzufotsentr\' and affiliations [\'soyuzufotsentr\'] all along, with no edge written.',
+    sources: [
+      {
+        name: 'Project Condign Volume 3, Chapter 4, paras 1 and 4 - released MoD copy, OCR text',
+        url: 'https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt',
+        date: '2006-05-15'
+      },
+      {
+        name: 'Project Condign - Volumes 1-3 (Internet Archive item)',
+        url: 'https://archive.org/details/condign-vol-2-1-258',
+        date: '2006-05-15'
+      }
+    ]
+  },
+  {
+    a: 'doc-condign-vol3',
+    b: 'soyuzufotsentr',
+    type: 'investigative',
+    label: 'Condign\'s Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR',
+    claimTier: 1,
+    dateStart: '2000',
+    dateEnd: null,
+    note: 'This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening \'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.\' The same chapter runs on to Popovich\'s 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev\'s 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov\'s account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.',
+    sources: [
+      {
+        name: 'Project Condign Volume 3, Chapter 4, paras 1-8 - released MoD copy, OCR text',
+        url: 'https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt',
+        date: '2006-05-15'
+      }
+    ]
+  },
+  {
+    a: 'soyuzufotsentr',
+    b: 'setka-program',
+    type: 'temporal',
+    label: 'INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure',
+    claimTier: 3,
+    dateStart: '1990',
+    dateEnd: null,
+    note: 'READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled \'ran the parallel public ufology centre after censorship lifted\'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.',
+    sources: [
+      {
+        name: 'Project Condign Volume 3, Chapter 4, para 1 - released MoD copy, OCR text',
+        url: 'https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt',
+        date: '2006-05-15'
+      },
+      {
+        name: 'Gene Sticco, \'Knapp\'s "Russian UFO files" are mostly old news, even in 1993 Russia\', Blackgrove\'s Field Notes',
+        url: 'https://asirpjournal.substack.com/p/knapps-russian-ufo-files-are-mostly',
+        date: '2026-02-09'
+      }
+    ]
+  },
+  {
+    a: 'operacao-prato',
+    b: 'setka-program',
+    type: 'programmatic',
+    label: 'COMPARISON: two military UAP field-collection programmes that ended in publication rather than burial',
+    claimTier: 2,
+    dateStart: '1977',
+    dateEnd: '1990',
+    note: 'COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences\' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.] [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]',
+    sources: []
+  },
+  {
+    a: 'cometa',
+    b: 'setka-program',
+    type: 'research',
+    label: 'cites Soviet statistical distributions as comparable',
+    claimTier: 3,
+    dateStart: '1999-07',
+    dateEnd: null,
+    note: 'COMETA chapter 7.3 records that \'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide\'. The report does not name SETKA, and the identification of the Soviet studies with the SETKA programme is inference rather than citation - hence tier 3. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]',
+    sources: []
+  },
+  {
+    a: 'setka-program',
+    b: 'izmiran',
+    type: 'institutional',
+    label: 'head institute of the Academy of Sciences branch',
+    claimTier: 1,
+    dateStart: '1978',
+    dateEnd: '1990',
+    note: 'Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme\'s published account. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]',
+    sources: []
+  },
+  {
+    a: 'setka-program',
+    b: 'l-moscow',
+    type: 'geographic',
+    label: 'run from Moscow: Kremlin decision, MoD institute, IZMIRAN',
+    claimTier: 1,
+    dateStart: '1977-10',
+    dateEnd: '1990',
+    note: 'The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was \'one of the central military research institutes in the Moscow region\'; and the academic branch was run from IZMIRAN, also in the Moscow region. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]',
+    sources: []
+  },
+  {
+    a: 'setka-program',
+    b: 'dod',
+    type: 'behavioral',
+    label: 'opposite reporting posture: mandated versus stigmatised',
+    claimTier: 1,
+    dateStart: '1980-01',
+    dateEnd: '1990',
+    note: 'A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army \'into the on-duty regime of observation\' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme\'s own coordinators; no institutional contact between the two is claimed. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]',
     sources: []
   },
   {
@@ -30355,23 +30694,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'university-at-albany',
-    b: 'l-albany',
-    type: 'research',
-    label: 'The Albany physicists conduct instrumented UAP research under normal academic norms',
-    claimTier: 3,
-    dateStart: '2019',
-    dateEnd: null,
-    note: 'Matthew Szydagis and Kevin Knuth publish null and ambiguous results alongside positive ones and retain their academic positions. Reasoning: their published record.',
-    sources: [
-      {
-        name: 'University at Albany, SUNY - Department of Physics',
-        url: 'https://www.albany.edu/physics',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
     a: 'l-los-alamos',
     b: 'l-white-sands',
     type: 'geographic',
@@ -35208,17 +35530,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'cometa',
-    b: 'setka',
-    type: 'research',
-    label: 'cites Soviet statistical distributions as comparable',
-    claimTier: 3,
-    dateStart: '1999-07',
-    dateEnd: null,
-    note: 'COMETA chapter 7.3 records that \'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide\'. The report does not name SETKA, and the identification of the Soviet studies with the SETKA programme is inference rather than citation - hence tier 3.',
-    sources: []
-  },
-  {
     a: 'cefaa',
     b: 'dgac-chile',
     type: 'institutional',
@@ -35238,39 +35549,6 @@ export const PROGRAM_EDGES = [
     dateStart: '1997-10-14',
     dateEnd: null,
     note: 'Established at the Escuela Técnica Aeronáutica in the Quinta Normal aeronautical complex, Santiago, the same site where Chile\'s 1968-1975 predecessor commission had operated out of the Oficina Meteorológica. SEFAA is now at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.',
-    sources: []
-  },
-  {
-    a: 'setka',
-    b: 'izmiran',
-    type: 'institutional',
-    label: 'head institute of the Academy of Sciences branch',
-    claimTier: 1,
-    dateStart: '1978',
-    dateEnd: '1990',
-    note: 'Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme\'s published account.',
-    sources: []
-  },
-  {
-    a: 'setka',
-    b: 'l-moscow',
-    type: 'geographic',
-    label: 'run from Moscow: Kremlin decision, MoD institute, IZMIRAN',
-    claimTier: 1,
-    dateStart: '1977-10',
-    dateEnd: '1990',
-    note: 'The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was \'one of the central military research institutes in the Moscow region\'; and the academic branch was run from IZMIRAN, also in the Moscow region.',
-    sources: []
-  },
-  {
-    a: 'setka',
-    b: 'dod',
-    type: 'behavioral',
-    label: 'opposite reporting posture: mandated versus stigmatised',
-    claimTier: 1,
-    dateStart: '1980-01',
-    dateEnd: '1990',
-    note: 'A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army \'into the on-duty regime of observation\' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme\'s own coordinators; no institutional contact between the two is claimed.',
     sources: []
   },
   {

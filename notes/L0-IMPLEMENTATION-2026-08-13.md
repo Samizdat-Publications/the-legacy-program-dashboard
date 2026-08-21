@@ -698,3 +698,106 @@ Senate and were stripped in conference. Collapsing them would erase the finding.
    2025, and 2025 records are demonstrably being released. Unresolved contradiction.
 4. Whether a §119(e)(1) waiver was ever exercised over UAP activity. No document
    class exists in which the answer would appear.
+
+---
+
+# Stage 9 — research backlog closed, 14 August 2026
+
+**Unattached is 0.** Every one of the 968 nodes is reachable. 110 L0 nodes, all with
+dossiers, 1,563 dossier claims, 4,320 connection rows.
+
+## Two claims got WEAKER, and that is the result
+
+**The Sec. 1102 turn-in language has never been read.** Six primary vehicles were
+tried — govinfo HTML and PDF of S.2226es and S.2103rs, SSCI's engrossed PDF, and both
+formats of the Congressional Record granule — and all die at the same ~92-145k
+character extraction ceiling, always from file start, with no range access. The
+nearest miss reached Title IX, about two printed pages short.
+
+So the 60-day deadline, the "non-earth origin or exotic" language and the
+make-available-to-AARO mandate rest on a secondary source describing **reported Sec.
+1104**, not engrossed Sec. 1102. That is a downgrade of the board's prior confidence
+and it is recorded as a Tier 2 claim rather than buried. What was established: Title
+XI of Division M contains exactly two sections, confirmed against a second
+independent primary copy; the full text was printed as **SA 1053 at 169 Cong. Rec.
+S3628-S3642**, which is the citation vehicle a future pass should use; reported Sec.
+1103, "Modification of congressional oversight of special access programs", was
+dropped between committee and floor.
+
+**The twelve-seat argument is narrower than it looked.** DoDI 5205.11 §7.2.a(3)
+extends waived-SAP access **beyond** the statute's twelve seats to committee staff
+directors, a security manager, and the intelligence committees, while §7.2.h routes
+justification materials "only to the committee staff directors". The board should not
+claim that twelve people are the whole readership.
+
+## The waiver: affirmative at the mechanism level, negative at the instance level
+
+DoDI 5205.11 (12 Sep 2024, public) says the Secretary "may designate select
+unacknowledged SAPs as 'waived' … pursuant to Section 119 of Title 10", defines a
+waived SAP in its glossary, and requires the SAPOC's annual review to assess "All
+waived DoD SAPs to determine the need for continued waived status" — **an agenda item
+nobody drafts for an empty set.**
+
+But no public document names a single exercise, date, programme or count, and none
+links a waived SAP to UAP. The absence is by design: §119 requires no public reporting
+of waiver use, GAO's access is gated through the defense committee chairs, and the
+Moynihan Commission recorded that waived-programme notification was given "only
+orally". Note also that §119(a) and (b) terminated 31 Dec 2021 and DoD **still**
+designates waived SAPs "pursuant to Section 119".
+
+## Brazil: hardened where the record allowed, and honest where it did not
+
+17 Tier 1 claims added from two primary records — the federal court judgment in
+Recurso Cível 5002417-48.2022.4.04.7200/SC and Câmara RIC 679/2011.
+
+**The archive contradiction is resolved: it is a catalogue-description lag.** The
+"743 registros / 1952-2016" text sits on an Arquivo Nacional news item stamped
+13/09/2018 and never revised. Portaria 551/GC3 Art. 3 obliges CENDOC to send
+originals "periodicamente", so the fund is structurally open; the FAB's August 2026
+note gives 1952-2025 and 2025 dossiers are being served. The stale figure propagated
+into COMAER's own 2022 court filing.
+
+Also settled: **"Juniti Saito" is correct** — his own signed Ordem do Dia reads
+"Tenente-Brigadeiro-do-Ar JUNITI SAITO". "Junichi" originates in Senado RQS 193/2022,
+which also miscalls the Portaria a "decreto". The 743 and 758 figures **count
+different things**: 743 is the 2018 fund description, 758 is a 2022 SIAN search-hit
+count. Portaria 551/GC3's DOU publication is now attested independently of the FAB.
+
+**No SIAN item numbers were obtained and none were invented.** sian.an.gov.br and
+dibrarq return anti-bot CAPTCHA pages and SIAN consultation requires gov.br
+authentication. The Arquivo Nacional's own statement that a SIAN search on "operação
+prato" returns six documents, none audiovisual, is on the board; the item numbers are
+not. No primary FAB order establishing Operação Prato exists in any accessible
+official source — only ufology blogs assert one, and they were rejected.
+
+## Four errors in my own brief, found by the agent I briefed
+
+I told the dossier agent that Condign was a four-volume report, that Volume 3 was
+titled "Potential for Exploitation", that its preface was dated December 2000, and
+that Knuth's page lists UAP as a research interest. **All four were wrong.** It is a
+three-volume report, Volume 3 is "Miscellaneous Related Studies", the preface is
+February 2000, and it is Szydagis's departmental page that carries the declaration,
+not Knuth's. The centre's name is also SOYUZUFO**S**ENTR in the document, not
+Soyuzufotsentr.
+
+Corrections recorded. An agent that contradicts its own brief is the system working.
+
+Two finds worth carrying: UAlbany's 5 Nov 2025 release states **Eric W. Davis joined
+the physics department as visiting adjunct faculty**, and FOI review file DEFE
+24/2090/1 shows a still-redacted **"CIA desk officer"** reference at Condign Vol 3,
+Ch 4, p3, para 12.
+
+## Collapses this stage
+
+`setka` into `setka-program` (the survivor's `program` class is correct for a research
+programme; `setka` was mis-classed as an institution). `l-albany` removed under the
+criterion already approved for 31 other locations — its entire content is the
+university's mailing address.
+
+## Genuinely blocked, not deferred
+
+1. Verbatim text of engrossed Sec. 1102 and enacted §7343. Extraction ceiling.
+2. Any identified instance or count of a §119(e)(1) waiver. No public document class
+   exists in which the answer would appear.
+3. SIAN item numbers for Operação Prato. CAPTCHA and gov.br authentication.
+4. The 1986 press coverage at memoria.bn.gov.br. Empty body returned.
