@@ -70,3 +70,66 @@ survives, the conflict is a finding and belongs on the survivor, not in a diff.
    covers `locId`, `instId` and `domains` as well as the timeline.
 3. The duplicate check moves from the integrity report into `verify.py` as a gate
    check with a self-test, so this cannot silently accumulate again.
+
+
+---
+
+# Resolved, 22 August 2026
+
+Stewart approved all nine collapses the same day and delegated the choice of
+survivor. **19 nodes to 9.** Recorded in `research/_removed.json` under
+`_approved_by`.
+
+| survivor | absorbed | claims carried | sources carried |
+|---|---|---|---|
+| `ndaa-fy2024-1687` | `ndaa-fy2024-sec1687`, `ndaa24-sec1687` | 7 | 2 |
+| `aaro-fy2025-annual-report` | `aaro-fy2025-report`, `aaro-fy2025-report-2026` | 11 | 2 |
+| `ndaa26-uap-provisions` | `fy2026-ndaa-uap-provisions`, `ndaa-fy2026-uap-provisions` | 9 | 1 |
+| `uap-science-advisory-council` | `uap-science-advisory-council-2026` | 4 | 0 |
+| `pursue-releases` | `pursue-programme-2026` | 4 | 0 |
+| `uapda-fy2027-house-adopted` | `burlison-uapda-fy2027-ndaa-amendment` | 4 | 1 |
+| `burlison-mitre-letter-2026` | `burlison-mitre-demand-2026` | 4 | 0 |
+| `kirkpatrick-sciam-oped-2024` | `kirkpatrick-sciam-oped` | 2 | 0 |
+| `jesse-marcel` | `jesse-marcel-sr` | 3 | 2 |
+
+48 claims and 8 sources carried onto survivors; the rest were already duplicated
+there and were deduplicated by normalised text and by URL.
+
+## What consolidation was worth
+
+| node | edges before → after | claims before → after |
+|---|---|---|
+| `ndaa-fy2024-1687` | 4 → 11 | 11 → 18 |
+| `aaro-fy2025-annual-report` | 14 → 19 | 30 → 42 |
+| `ndaa26-uap-provisions` | 1 → 6 | 10 → 19 |
+| `pursue-releases` | 38 → 47 | 19 → 23 |
+| `jesse-marcel` | 4 → 8 | 4 → 7 |
+| `uap-science-advisory-council` | 14 → 17 | 19 → 23 |
+
+`ndaa26-uap-provisions` was one of the three underconnected Tier A nodes. It was
+never underconnected; it was one of three. `tierA_underconnected` fell 3 → 2 on
+the collapse alone.
+
+## Two things the collapse itself fixed
+
+**Collapse no longer deletes edges.** `merge.py` re-points an edge through the
+alias map onto the survivor, merging it where one already exists and discarding
+the self-edges a collapse creates. Applying that to the aliases already in
+`_removed.json` **recovered 27 edges the August collapses had silently dropped.**
+
+**The check is now in the gate.** `no unapproved duplicate nodes` computes the
+groups from the board itself rather than reading `INTEGRITY.json`, so it is a
+property of what shipped and is self-tested. The six genuine non-duplicates live
+in `tools/DUPLICATES_ACCEPTED.json`, each with a reason saying what distinguishes
+them. Anything unlisted fails the build.
+
+## Conflicts preserved rather than resolved away
+
+Two groups disagreed with themselves, and the disagreement is now a claim on the
+survivor:
+
+- The AARO FY2025 report's three copies gave **21 July, 20 July and 21 July 2026**
+  as the release date. Two of three say 21 July, which is retained, but three
+  independent passes over one document disagreeing is itself a finding.
+- The UAPDA amendment's two copies gave **23 July** and **22-23 July 2026** for
+  House adoption. The range is retained as the wider statement.

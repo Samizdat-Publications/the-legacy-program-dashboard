@@ -158,6 +158,41 @@ def _person_refs(b, html):
     return bad[:40]
 
 
+@check("no unapproved duplicate nodes")
+def _duplicates(b, html):
+    """One object recorded twice is worse than one recorded not at all: both copies
+    look sourced, each holds a fraction of the evidence, and they can carry
+    different tiers, so the board grades the same thing two ways at once.
+
+    Five people were on this board twice in August. That was fixed by unifying the
+    id rules for people, and nothing ever checked the entities. On 22 August the
+    FY2024 NDAA sec. 1687 was here three times, the AARO FY2025 annual report three
+    times, and Jesse Marcel twice -- nine groups, 19 nodes, splitting about 70 edges
+    and 130 claims.
+
+    This computes the groups from the board itself rather than reading merge.py's
+    INTEGRITY.json, so it is a property of what shipped and can be self-tested.
+    Pairs that genuinely are not duplicates go in tools/DUPLICATES_ACCEPTED.json
+    with a reason saying what distinguishes them -- the same deliberate-acceptance
+    pattern as the golden manifest. Anything unlisted fails."""
+    from merge import duplicate_groups
+    from collections import OrderedDict
+    people = OrderedDict((n["id"], n) for n in b["people"])
+    ents = OrderedDict((n["id"], n) for n in b["entities"])
+    acc = os.path.join(ROOT, "tools", "DUPLICATES_ACCEPTED.json")
+    ok = set()
+    if os.path.exists(acc):
+        for row in json.load(open(acc, encoding="utf-8")).get("accepted", []):
+            ok.add(tuple(sorted([row["a"], row["b"]])))
+    bad = []
+    for g in duplicate_groups(people, ents):
+        if tuple(sorted([g["a"], g["b"]])) not in ok:
+            bad.append(f"{g['a']} and {g['b']} look like one {g.get('cls')} recorded twice "
+                       f"(label overlap {g.get('overlap')}); collapse it, or record why it is "
+                       f"not a duplicate in tools/DUPLICATES_ACCEPTED.json")
+    return bad[:40]
+
+
 @check("affiliations render as names, not ids")
 def _affiliations(b, html):
     """affiliations is a prose field upstream and is printed verbatim. The research
@@ -667,6 +702,12 @@ def self_test():
             lambda b: b["people"][0].update(sequenceChain=["a-node-id"])),
         "affiliations render as names, not ids": mut(
             lambda b: b["people"][0].update(affiliations=["some-ghost-org"])),
+        "no unapproved duplicate nodes": mut(lambda b: (
+            b["entities"][0].update(label="Twin Report",
+                                    sources=[{"url": "https://example.gov/twin.pdf"}]),
+            b["entities"].append({"id": "e-twin", "cls": b["entities"][0]["cls"],
+                                  "label": "Twin Report", "claims": [],
+                                  "sources": [{"url": "https://example.gov/twin.pdf"}]}))),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
         "UI copy agrees with the data": base,   # paired with a poisoned html below

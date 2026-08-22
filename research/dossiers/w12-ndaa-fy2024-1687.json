@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ndaa-fy2024-1687",
+  "entityDossier": {
+   "whatItIs": "Section 1687 of the National Defense Authorization Act for Fiscal Year 2024, Pub. L. 118-31, 137 Stat. 621, titled 'Limitation on Use of Funds for Certain Unreported Programs'. It has three subsections. (a) bars obligation or expenditure of funds authorised by the Act on any UAP-related activity 'protected under any form of special access or restricted access limitation' that has not been reported to Congress. (b), carrying the codification note '50 USC 3373 note', makes UAP-related independent research and development unallowable as an indirect expense under contracts covered by DoD Instruction 3204.01. (c) defines 'appropriate congressional committees' as the congressional defense committees plus HPSCI and SSCI, and imports the 50 U.S.C. 3373(n) definition of 'unidentified anomalous phenomena'.",
+   "whyImplicated": "This is the point where the SAP architecture and the UAP question meet in enacted law rather than in testimony. Congress does not write a targeted funding prohibition, or a targeted bar on a specific category of contractor overhead recovery, for a subject matter it believes is absent from the portfolio. The provision is the legislature acting on the possibility that UAP work was being carried inside special access programmes it had not been told about, and inside contractor IR&D it was indirectly paying for. Its companion, section 7343 of the FY2024 Intelligence Authorization Act, imposes the same limits on intelligence funds through the DNI rather than the Secretary of Defense, so the pair covers both sides of the DoD/IC seam.",
+   "roles": [
+    "funding",
+    "oversight",
+    "concealment"
+   ],
+   "narrative": "Section 1687 does not repeal or amend 10 U.S.C. 119(e). It leaves the waiver lawful and operates on the money instead: the waiver may still be exercised, but funds authorised by this Act cannot be spent on a UAP-related special access activity that Congress has not been told about. That is a materially different instrument from an oversight reform, and it is the instrument Congress reached for.\n\nThe two subsections have different reach and it matters. Subsection (a) is limited to 'funds authorized to be appropriated or otherwise made available by this Act', so it expires with the fiscal year. Subsection (b), the IR&D allowability bar, carries no fiscal year limitation at all and sits as a note to 50 U.S.C. 3373. One was a one-year appropriations rider; the other was meant to persist.\n\nNeither the FY2025 NDAA (P.L. 118-159) nor the FY2026 NDAA (P.L. 119-60) re-enacted the 1687(a) prohibition, which is recorded on this board as a full-text search finding rather than an inference.",
+   "claims": [
+    {
+     "text": "Pub. L. 118-31 sec. 1687(a), verbatim: 'None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' that have not been reported to the appropriate congressional committees and congressional leadership.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Sec. 1687(b) provides that 'independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by' DoD Instruction 3204.01, and carries the codification note '50 USC 3373 note'.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Sec. 1687(c)(1) defines 'appropriate congressional committees' as the congressional defense committees plus the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence; (c)(2) defines 'congressional leadership'.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Subsection (a) is limited to funds made available by that Act and so lapses with the fiscal year, while subsection (b) carries no fiscal-year limitation and is codified as a note to 50 U.S.C. 3373.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Section 7343 of the FY2024 Intelligence Authorization Act imposes the same limitations on intelligence funds, running through the Director of National Intelligence rather than the Secretary of Defense.",
+     "tier": 1,
+     "source": "Pub. L. 118-31 div. G sec. 7343, https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Section 1687 does not repeal or amend 10 U.S.C. 119(e). The waiver remains lawful; the section operates on appropriations instead.",
+     "tier": 3,
+     "source": "Reading of Pub. L. 118-31 sec. 1687 against 10 U.S.C. 119(e), https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    }
+   ],
+   "denialPosture": "No denial attaches to the statute. The informative absence is that no DoD component has publicly identified a UAP-related special access programme in any report made under it, and that neither the FY2025 nor the FY2026 NDAA re-enacted the subsection (a) prohibition.",
+   "connections": [
+    "Sec. 1687 and IAA FY2024 sec. 7343 are the DoD-side and IC-side halves of the same limitation, which is why both are on this board.",
+    "It leaves 10 U.S.C. 119(e) untouched, so the waived-SAP mechanism this board is about survives the provision aimed at it.",
+    "Subsection (b) reaches contractor IR&D, which is the funding route named in Grusch's sworn testimony."
+   ],
+   "openQuestions": [
+    "Whether any programme was actually reported to the appropriate congressional committees under 1687(a), and whether any funding was withheld as a result.",
+    "Whether subsection (b)'s IR&D allowability bar has ever been applied to a specific contract, and by which contracting officer.",
+    "Why neither the FY2025 nor the FY2026 NDAA re-enacted subsection (a), and whether anything replaced it."
+   ]
+  }
+ }
+]

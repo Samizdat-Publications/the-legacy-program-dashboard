@@ -456,6 +456,44 @@ def load():
                 if isinstance(t.get(f), list) and any(x in alias for x in t[f]):
                     t[f] = [alias.get(x, x) for x in t[f]]
                     repointed += 1
+        # An edge touching a COLLAPSED node is not garbage: it is a real
+        # relationship recorded against the wrong copy of a node. Re-point it at the
+        # survivor first, exactly as the timeline and the person back-references are
+        # re-pointed, and only then drop what is left. Without this a collapse
+        # silently deletes the loser's edges, which is how a duplicate ends up
+        # costing evidence instead of just tidiness.
+        repointed_edges = 0
+        for key in list(edges.keys()):
+            e = edges[key]
+            na, nb = alias.get(e["a"], e["a"]), alias.get(e["b"], e["b"])
+            if (na, nb) == (e["a"], e["b"]):
+                continue
+            edges.pop(key)
+            if na == nb:
+                # the collapse made both ends the same node; a self-edge is noise
+                repointed_edges += 1
+                continue
+            e["a"], e["b"] = na, nb
+            nk, rk = f"{na}|{nb}|{e['type']}", f"{nb}|{na}|{e['type']}"
+            tgt = rk if rk in edges else nk
+            if tgt in edges:
+                old_e = edges[tgt]
+                if len(e["note"]) > len(old_e["note"]):
+                    old_e["note"] = e["note"]
+                if not old_e["label"]:
+                    old_e["label"] = e["label"]
+                old_e["claimTier"] = min(old_e["claimTier"], e["claimTier"])
+                old_e["sources"] = norm_sources(old_e["sources"] + e["sources"])
+                for dm in e["_domains"]:
+                    if dm not in old_e["_domains"]:
+                        old_e["_domains"].append(dm)
+            else:
+                edges[nk] = e
+            repointed_edges += 1
+        if repointed_edges:
+            print(f"  re-pointed {repointed_edges} edge(s) onto collapse survivors",
+                  file=sys.stderr)
+
         dropped = [k for k, e in edges.items() if e["a"] in rm or e["b"] in rm]
         for k in dropped:
             edges.pop(k)

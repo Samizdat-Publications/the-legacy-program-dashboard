@@ -4152,79 +4152,6 @@ export const PROGRAM_EDGES = [
   },
   {
     a: 'jon-kosloski',
-    b: 'aaro-fy2025-report',
-    type: 'institutional',
-    label: 'Signed out under his directorship, nine months late',
-    claimTier: 1,
-    dateStart: '2026',
-    dateEnd: '2026',
-    note: 'The FY2025 report covering June 2024-May 2025 was not released until 20 July 2026, roughly three months before the FY2026 report was due.',
-    sources: [
-      {
-        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
-        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
-      },
-      {
-        name: 'The Debrief - AARO\'s latest UAP report',
-        url: 'https://thedebrief.org/aaros-latest-uap-report-finds-no-evidence-of-exotic-technology-but-mysteries-remain/',
-        date: '2026-07-23'
-      }
-    ]
-  },
-  {
-    a: 'aaro-fy2025-report',
-    b: 'dod',
-    type: 'denial',
-    label: '\'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials\'',
-    claimTier: 1,
-    dateStart: '2026',
-    dateEnd: '2026',
-    note: 'A categorical negative issued by the office whose access to waived and unacknowledged programs has never been established. Recorded as a denial artefact with its author and date.',
-    sources: [
-      {
-        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
-        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
-      }
-    ]
-  },
-  {
-    a: 'aaro-fy2025-report',
-    b: 'americans-for-safe-aerospace',
-    type: 'denial',
-    label: '\'AARO did not receive reports indicating flight safety concerns during this reporting period\'',
-    claimTier: 1,
-    dateStart: '2026',
-    dateEnd: '2026',
-    note: 'The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO\'s intake, not about the sky.',
-    sources: [
-      {
-        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
-        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
-      }
-    ]
-  },
-  {
-    a: 'aaro-fy2025-report',
-    b: 'aaro',
-    type: 'institutional',
-    label: '1,870 total cases; 319 new; 9 meriting further analysis',
-    claimTier: 1,
-    dateStart: '2026',
-    dateEnd: '2026',
-    note: 'The report also notes cases near sensitive installations with \'performance characteristics exceed the known state-of-the-art\' while adding \'No technical data accompanied these reports.\'',
-    sources: [
-      {
-        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
-        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
-      }
-    ]
-  },
-  {
-    a: 'jon-kosloski',
     b: 'langley-2023-incursions',
     type: 'behavioral',
     label: 'AARO\'s case work does not address the domestic incursion wave',
@@ -6038,40 +5965,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'fy2026-ndaa-uap-provisions',
-    b: 'aaro',
-    type: 'legislative',
-    label: 'Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides',
-    claimTier: 2,
-    dateStart: '2025',
-    dateEnd: null,
-    note: 'The first legislative attempt to reach the classification guides themselves, which govern what may be said about a sighting before any declassification question arises.',
-    sources: [
-      {
-        name: 'DefenseScoop: Congress wants to know more about the military\'s UAP intercepts around North America',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
-      }
-    ]
-  },
-  {
-    a: 'christopher-mellon',
-    b: 'fy2026-ndaa-uap-provisions',
-    type: 'programmatic',
-    label: 'Two of the three provisions mirror recommendations he championed',
-    claimTier: 2,
-    dateStart: '2025',
-    dateEnd: null,
-    note: 'Per Disclosure Foundation executive director Jordan Flowers.',
-    sources: [
-      {
-        name: 'DefenseScoop: Congress wants to know more about the military\'s UAP intercepts around North America',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
-      }
-    ]
-  },
-  {
     a: 'eric-burlison',
     b: 'burlison-mitre-letter-2026',
     type: 'investigative',
@@ -6079,7 +5972,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: null,
-    note: 'Ten pages, 40+ production requests, records back to 1930, 45-day deadline, native format with metadata.',
+    note: 'Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.',
     sources: [
       {
         name: 'DefenseScoop: MITRE moves to comply with lawmaker\'s request for UAP records and assets dating back to 1930',
@@ -6096,7 +5989,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: null,
-    note: 'More than 40 production requests with a 5/10/14/30/45-day compliance schedule; MITRE confirmed it was reviewing its archives.',
+    note: 'MITRE confirmed it was reviewing its archives and said it would \'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.\'',
     sources: [
       {
         name: 'DefenseScoop: MITRE moves to comply with lawmaker\'s request for UAP records and assets dating back to 1930',
@@ -6505,7 +6398,7 @@ export const PROGRAM_EDGES = [
     claimTier: 2,
     dateStart: '2026',
     dateEnd: null,
-    note: 'Mellon\'s verdict on the first PURSUE drop of 8 May 2026 became the caucus\'s framing.',
+    note: 'Mellon\'s judgement six days after Release 01 became the framing for the entire research community\'s response.',
     sources: [
       {
         name: 'DefenseScoop: \'Data alone is not disclosure\' — UAP research community reacts to Trump\'s first PURSUE file drop',
@@ -11659,23 +11552,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'sean-kirkpatrick',
-    b: 'kirkpatrick-sciam-oped',
-    type: 'denial',
-    label: 'Bylined attribution of the allegations to circular reporting and unsupported belief',
-    claimTier: 2,
-    dateStart: '2024',
-    dateEnd: '2024',
-    note: 'Published 19 January 2024 under Kirkpatrick\'s own name, seven weeks before AARO\'s Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency\'s conclusions in the press.',
-    sources: [
-      {
-        name: 'Scientific American - Here\'s What I Learned as the U.S. Government\'s UFO Hunter',
-        url: 'https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/',
-        date: '2024-01-19'
-      }
-    ]
-  },
-  {
     a: 'susan-gough',
     b: 'david-grusch',
     type: 'denial',
@@ -12405,28 +12281,6 @@ export const PROGRAM_EDGES = [
         name: 'Task Force hearing record, Serial No. 119-44',
         url: 'https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf',
         date: '2025-09-09'
-      }
-    ]
-  },
-  {
-    a: 'kirkpatrick-sciam-oped',
-    b: 'aaro-historical-record-vol1',
-    type: 'temporal',
-    label: 'Op-ed advanced the report\'s analytic frame seven weeks early',
-    claimTier: 2,
-    dateStart: '2024',
-    dateEnd: '2024',
-    note: 'Kirkpatrick\'s 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.',
-    sources: [
-      {
-        name: 'Scientific American',
-        url: 'https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/',
-        date: '2024-01-19'
-      },
-      {
-        name: 'AARO Historical Record Report Volume I',
-        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
-        date: '2024-03-08'
       }
     ]
   },
@@ -16429,7 +16283,8 @@ export const PROGRAM_EDGES = [
         name: 'Skeptic / Skeptics Society, \'Michael Shermer Named to White House UAP Science Advisory Council\'',
         url: 'https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/',
         date: '2026-06-15'
-      }
+      },
+      { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-12' }
     ]
   },
   {
@@ -16469,6 +16324,11 @@ export const PROGRAM_EDGES = [
         name: 'Avi Loeb, \'A UAP Science Advisory Council to the U.S.\', Medium',
         url: 'https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df',
         date: '2026-06-29'
+      },
+      {
+        name: 'DefenseScoop, UAP Science Advisory Council',
+        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
+        date: '2026-06-17'
       }
     ]
   },
@@ -17382,55 +17242,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'dodi-3204-01',
-    b: 'ndaa-fy2024-sec1687',
-    type: 'legislative',
-    label: 'Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date',
-    claimTier: 1,
-    dateStart: '2023',
-    dateEnd: '2023',
-    note: 'Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.',
-    sources: [
-      {
-        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
-      },
-      {
-        name: 'DoD Instruction 3204.01, \'DoD Policy for Oversight of Independent Research and Development (IR&D)\' (Change 2)',
-        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf',
-        date: '2020-07-09'
-      }
-    ]
-  },
-  {
-    a: 'ndaa-fy2024-sec1687',
-    b: 'lockheed-martin',
-    type: 'funding',
-    label: 'The IR&D restriction applies directly to covered prime contractors',
-    claimTier: 1,
-    dateStart: '2023',
-    dateEnd: null,
-    note: 'DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).',
-    sources: [
-      {
-        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
-      },
-      {
-        name: 'DoD Instruction 3204.01, \'DoD Policy for Oversight of Independent Research and Development (IR&D)\' (Change 2)',
-        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf',
-        date: '2020-07-09'
-      },
-      {
-        name: 'USAspending.gov federal award search (prime contract obligations by recipient)',
-        url: 'https://www.usaspending.gov/search',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
     a: 'usc-10-119',
     b: 'david-grusch',
     type: 'legislative',
@@ -17449,28 +17260,6 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight hearing transcript, \'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency\' (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
-      }
-    ]
-  },
-  {
-    a: 'usc-10-119',
-    b: 'ndaa-fy2024-sec1687',
-    type: 'legislative',
-    label: 'Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter',
-    claimTier: 1,
-    dateStart: '2023',
-    dateEnd: '2023',
-    note: 'Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.',
-    sources: [
-      {
-        name: '10 U.S.C. Sec. 119, Special access programs: congressional oversight',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: '2024-01-01'
-      },
-      {
-        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
       }
     ]
   },
@@ -17997,28 +17786,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'iaa-fy2024-sec1104',
-    b: 'ndaa-fy2024-sec1687',
-    type: 'legislative',
-    label: 'Only the funding limitation and the IR&D restriction survived into law',
-    claimTier: 1,
-    dateStart: '2023',
-    dateEnd: '2023',
-    note: 'Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.',
-    sources: [
-      {
-        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)',
-        url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
-        date: '2023-06-22'
-      },
-      {
-        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
-      }
-    ]
-  },
-  {
     a: 'ndaa-fy2024',
     b: 'leidos',
     type: 'legislative',
@@ -18154,6 +17921,16 @@ export const PROGRAM_EDGES = [
         name: 'DefenseScoop - Pentagon investigating mysterious UAP event near Virginia\'s coast',
         url: 'https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/',
         date: '2026-07-21'
+      },
+      {
+        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
+      },
+      {
+        name: 'The Debrief - AARO\'s latest UAP report',
+        url: 'https://thedebrief.org/aaros-latest-uap-report-finds-no-evidence-of-exotic-technology-but-mysteries-remain/',
+        date: '2026-07-23'
       }
     ]
   },
@@ -18616,7 +18393,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: null,
-    note: 'Hegseth is the addressee of the presidential direction and the signatory of the statement published on the PURSUE portal.',
+    note: 'Hegseth, Louisville, 23 February 2026: \'We\'re going to be in full compliance with that executive order... there\'ll be more coming on that.\' He set no timeline.',
     sources: [
       {
         name: 'Department of War - PURSUE portal (war.gov/UFO)',
@@ -18694,7 +18471,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: null,
-    note: 'All five tranches are posted at war.gov/UFO as paired document and video bundles, with video served from a CloudFront distribution; AARO links out to it rather than hosting it.',
+    note: 'All five tranches are published on the Secretary of War\'s web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.',
     sources: [
       {
         name: 'Department of War - PURSUE portal (war.gov/UFO)',
@@ -19144,84 +18921,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'eric-burlison',
-    b: 'burlison-uapda-fy2027-ndaa-amendment',
-    type: 'legislative',
-    label: 'Author of the adopted FY2027 NDAA disclosure amendment',
-    claimTier: 2,
-    dateStart: '2026',
-    dateEnd: null,
-    note: 'The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.',
-    sources: [
-      {
-        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
-        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
-        date: '2026-07-23'
-      }
-    ]
-  },
-  {
-    a: 'burlison-uapda-fy2027-ndaa-amendment',
-    b: 'nara-uap-records-collection',
-    type: 'legislative',
-    label: 'Would impose statutory transfer timelines on the NARA collection',
-    claimTier: 2,
-    dateStart: '2026',
-    dateEnd: null,
-    note: 'The amendment would require agencies to identify, preserve and transfer covered UAP records under a statutory timeline, supplying the enforcement the FY2024 NDAA sections omitted.',
-    sources: [
-      {
-        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
-        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
-        date: '2026-07-23'
-      },
-      {
-        name: 'National Archives - UAP Records Collection (archives.gov/uap)',
-        url: 'https://www.archives.gov/uap',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
-    a: 'burlison-uapda-fy2027-ndaa-amendment',
-    b: 'pursue-releases',
-    type: 'legislative',
-    label: 'Statutory backstop for an executive release programme',
-    claimTier: 2,
-    dateStart: '2026',
-    dateEnd: null,
-    note: 'The amendment is framed as reinforcing PURSUE by creating statutory disclosure procedures rather than relying solely on executive-branch policy.',
-    sources: [
-      {
-        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
-        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
-        date: '2026-07-23'
-      }
-    ]
-  },
-  {
-    a: 'burlison-uapda-fy2027-ndaa-amendment',
-    b: 'ndaa-fy2024',
-    type: 'legislative',
-    label: 'Restores the enforcement architecture stripped from the FY2024 sections',
-    claimTier: 3,
-    dateStart: '2026',
-    dateEnd: null,
-    note: 'Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.',
-    sources: [
-      {
-        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
-        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
-        date: '2026-07-23'
-      },
-      {
-        name: 'National Archives - UAP Records Collection (archives.gov/uap)',
-        url: 'https://www.archives.gov/uap',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
     a: 'ndaa-fy2024',
     b: 'nara-uap-records-collection',
     type: 'legislative',
@@ -19357,7 +19056,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: '2026',
-    note: '319 new reports, 1,870 total, 370 resolved, and no mention anywhere of the PURSUE releases published by the same department in the preceding three months.',
+    note: 'The report also notes cases near sensitive installations with \'performance characteristics exceed the known state-of-the-art\' while adding \'No technical data accompanied these reports.\'',
     sources: [
       {
         name: 'AARO - FY2025 Consolidated Annual Report on UAP (PDF)',
@@ -19368,6 +19067,11 @@ export const PROGRAM_EDGES = [
         name: 'The Black Vault - AARO releases FY2025 UAP report months after statutory deadline',
         url: 'https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/',
         date: '2026-07-21'
+      },
+      {
+        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
       }
     ]
   },
@@ -20897,7 +20601,7 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026',
     dateEnd: null,
-    note: 'Loeb says he was \'tasked by\' the White House, AARO, ODNI, the FBI and all Intelligence Community members to create the research team.',
+    note: 'DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.',
     sources: [
       {
         name: 'Skeptic / Skeptics Society, \'Michael Shermer Named to White House UAP Science Advisory Council\'',
@@ -20918,6 +20622,11 @@ export const PROGRAM_EDGES = [
         name: 'DefenseScoop - New science advisory council forms',
         url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
         date: '2026-06-17'
+      },
+      {
+        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
+        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
+        date: '2026-06-22'
       }
     ]
   },
@@ -21727,6 +21436,16 @@ export const PROGRAM_EDGES = [
         name: 'The Sol Foundation, \'Sol Foundation Co-Founders Named to UAP Science Advisory Council\'',
         url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
         date: '2026-06-01'
+      },
+      {
+        name: 'DefenseScoop, \'Data alone is not disclosure\'',
+        url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
+        date: '2026-05-14'
+      },
+      {
+        name: 'DefenseScoop, UAP Science Advisory Council',
+        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
+        date: '2026-06-17'
       }
     ]
   },
@@ -22777,45 +22496,6 @@ export const PROGRAM_EDGES = [
         name: 'Wikipedia - Sean M. Kirkpatrick',
         url: 'https://en.wikipedia.org/wiki/Sean_M._Kirkpatrick',
         date: '2026-08-12'
-      }
-    ]
-  },
-  {
-    a: 'ndaa-fy2026-uap-provisions',
-    b: 'aaro',
-    type: 'legislative',
-    label: 'statutorily compels the intercept record and an accounting of classification guides',
-    claimTier: 1,
-    dateStart: '2025',
-    dateEnd: null,
-    note: 'Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.',
-    sources: [
-      {
-        name: 'DefenseScoop - Congress wants to know more about the military\'s UAP intercepts around North America',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
-      }
-    ]
-  },
-  {
-    a: 'ndaa-fy2026-uap-provisions',
-    b: 'dodig-2023-109',
-    type: 'legislative',
-    label: 'the data-sharing streamlining provision answers the IG\'s 2023 reporting-requirement finding',
-    claimTier: 3,
-    dateStart: '2023',
-    dateEnd: '2025',
-    note: 'The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.',
-    sources: [
-      {
-        name: 'DoD OIG unclassified summary',
-        url: 'https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF',
-        date: '2024-01-25'
-      },
-      {
-        name: 'DefenseScoop - FY2026 NDAA UAP provisions',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
       }
     ]
   },
@@ -24988,28 +24668,6 @@ export const PROGRAM_EDGES = [
   },
   {
     a: 'trump-truth-social-post-2026-02-20',
-    b: 'pursue-programme-2026',
-    type: 'programmatic',
-    label: 'originating direction',
-    claimTier: 2,
-    dateStart: '2026-02-20',
-    dateEnd: null,
-    note: 'PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only \'Presidential Direction\'.',
-    sources: [
-      {
-        name: 'DefenseScoop, Trump UAP disclosure tease',
-        url: 'https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/',
-        date: '2026-02-20'
-      },
-      {
-        name: 'ODNI Memorandum ES 2026-00818',
-        url: 'https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf',
-        date: '2026-08-01'
-      }
-    ]
-  },
-  {
-    a: 'trump-truth-social-post-2026-02-20',
     b: 'pete-hegseth',
     type: 'programmatic',
     label: 'directed to',
@@ -25023,23 +24681,6 @@ export const PROGRAM_EDGES = [
         url: 'https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/',
         date: '2026-02-20'
       },
-      {
-        name: 'DefenseScoop, Hegseth doubles down',
-        url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
-        date: '2026-02-25'
-      }
-    ]
-  },
-  {
-    a: 'pete-hegseth',
-    b: 'pursue-programme-2026',
-    type: 'institutional',
-    label: 'committed the Department',
-    claimTier: 2,
-    dateStart: '2026-02-23',
-    dateEnd: null,
-    note: 'Hegseth, Louisville, 23 February 2026: \'We\'re going to be in full compliance with that executive order... there\'ll be more coming on that.\' He set no timeline.',
-    sources: [
       {
         name: 'DefenseScoop, Hegseth doubles down',
         url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
@@ -25067,32 +24708,6 @@ export const PROGRAM_EDGES = [
         url: 'https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/',
         date: '2026-02-20'
       }
-    ]
-  },
-  {
-    a: 'pursue-programme-2026',
-    b: 'war-gov-ufo-portal',
-    type: 'institutional',
-    label: 'published through',
-    claimTier: 1,
-    dateStart: '2026-05-08',
-    dateEnd: null,
-    note: 'All five tranches are published on the Secretary of War\'s web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.',
-    sources: [
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'pursue-programme-2026',
-    b: 'pursue-bundle-urls',
-    type: 'custody',
-    label: 'physical release locations',
-    claimTier: 1,
-    dateStart: '2026-05-08',
-    dateEnd: '2026-08-07',
-    note: 'The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.',
-    sources: [
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
     ]
   },
   {
@@ -25198,29 +24813,17 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '2026-07-22',
     dateEnd: null,
-    note: 'The House adopted his Unidentified Anomalous Phenomena Disclosure Act as an amendment to the FY2027 NDAA on 22 July 2026.',
+    note: 'The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.',
     sources: [
       {
         name: 'Burlison, House Adopts UAP Disclosure Framework',
         url: 'https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework',
         date: '2026-07-22'
-      }
-    ]
-  },
-  {
-    a: 'uapda-fy2027-house-adopted',
-    b: 'pursue-programme-2026',
-    type: 'legislative',
-    label: 'supplies the statutory machinery PURSUE lacks',
-    claimTier: 3,
-    dateStart: '2026-07-22',
-    dateEnd: null,
-    note: 'Burlison\'s own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE\'s defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.',
-    sources: [
+      },
       {
-        name: 'Burlison, House Adopts UAP Disclosure Framework',
-        url: 'https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework',
-        date: '2026-07-22'
+        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
+        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
+        date: '2026-07-23'
       }
     ]
   },
@@ -25255,62 +24858,6 @@ export const PROGRAM_EDGES = [
         name: 'Burlison, House Adopts UAP Disclosure Framework',
         url: 'https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework',
         date: '2026-07-22'
-      },
-      {
-        name: 'DefenseScoop, MITRE complies with Burlison request',
-        url: 'https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/',
-        date: '2026-05-27'
-      }
-    ]
-  },
-  {
-    a: 'eric-burlison',
-    b: 'burlison-mitre-demand-2026',
-    type: 'investigative',
-    label: 'author of the production demand',
-    claimTier: 2,
-    dateStart: '2026-05-22',
-    dateEnd: null,
-    note: 'Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.',
-    sources: [
-      {
-        name: 'DefenseScoop, MITRE complies with Burlison request',
-        url: 'https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/',
-        date: '2026-05-27'
-      }
-    ]
-  },
-  {
-    a: 'burlison-mitre-demand-2026',
-    b: 'mitre-corporation',
-    type: 'investigative',
-    label: 'addressed to',
-    claimTier: 2,
-    dateStart: '2026-05-22',
-    dateEnd: null,
-    note: 'MITRE confirmed it was reviewing its archives and said it would \'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.\'',
-    sources: [
-      {
-        name: 'DefenseScoop, MITRE complies with Burlison request',
-        url: 'https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/',
-        date: '2026-05-27'
-      }
-    ]
-  },
-  {
-    a: 'burlison-mitre-demand-2026',
-    b: 'hearing-2025-09-09',
-    type: 'investigative',
-    label: 'acts on the hearing\'s fourth finding',
-    claimTier: 3,
-    dateStart: '2026-05-22',
-    dateEnd: null,
-    note: 'The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.',
-    sources: [
-      {
-        name: 'House Oversight hearing wrap-up',
-        url: 'https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/',
-        date: '2025-09-09'
       },
       {
         name: 'DefenseScoop, MITRE complies with Burlison request',
@@ -25457,58 +25004,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'virginia-coast-uap-2026',
-    b: 'aaro-fy2025-report-2026',
-    type: 'institutional',
-    label: 'sole maritime case in the report',
-    claimTier: 2,
-    dateStart: '2026-07-21',
-    dateEnd: '2026-07-21',
-    note: 'AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.',
-    sources: [
-      {
-        name: 'DefenseScoop, Navy UAP event off Virginia',
-        url: 'https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/',
-        date: '2026-07-21'
-      }
-    ]
-  },
-  {
-    a: 'aaro-fy2025-report-2026',
-    b: 'pursue-programme-2026',
-    type: 'temporal',
-    label: 'statutory analysis trails executive publication',
-    claimTier: 3,
-    dateStart: '2026-07-21',
-    dateEnd: null,
-    note: 'The FY2025 report appeared months late and after three PURSUE tranches, so the Department\'s analytic product followed rather than accompanied its own releases.',
-    sources: [
-      {
-        name: 'The Black Vault, AARO FY2025 report',
-        url: 'https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/',
-        date: '2026-07-21'
-      },
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'aaro-fy2025-report-2026',
-    b: 'aaro-2026-posture',
-    type: 'denial',
-    label: 'no evidence of captured or exploited UAP materials, while writing custody procedures for them',
-    claimTier: 1,
-    dateStart: '2026-07-21',
-    dateEnd: null,
-    note: 'The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.',
-    sources: [
-      {
-        name: 'The Black Vault, AARO FY2025 report',
-        url: 'https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/',
-        date: '2026-07-21'
-      }
-    ]
-  },
-  {
     a: 'aaro-2026-posture',
     b: 'war-gov-ufo-portal',
     type: 'institutional',
@@ -25635,23 +25130,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'blackvault-pursue-archive',
-    b: 'pursue-programme-2026',
-    type: 'research',
-    label: 'supplies the index the releasing authority did not',
-    claimTier: 2,
-    dateStart: '2026-05-11',
-    dateEnd: null,
-    note: 'Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.',
-    sources: [
-      {
-        name: 'The Black Vault searchable PURSUE archive',
-        url: 'https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/',
-        date: '2026-05-11'
-      }
-    ]
-  },
-  {
     a: 'john-greenewald',
     b: 'dodig-2021-000806-foia',
     type: 'investigative',
@@ -25665,255 +25143,6 @@ export const PROGRAM_EDGES = [
         name: 'The Black Vault, DoW OIG FOIA release',
         url: 'https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/',
         date: '2026-06-16'
-      }
-    ]
-  },
-  {
-    a: 'dodig-2021-000806-foia',
-    b: 'pursue-programme-2026',
-    type: 'denial',
-    label: 'imagery released, methodology withheld',
-    claimTier: 3,
-    dateStart: '2026-06-16',
-    dateEnd: null,
-    note: 'In the same quarter the Department published sensor video it withheld under exemption (b)(1) the \'Potential Benefits\' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.',
-    sources: [
-      {
-        name: 'The Black Vault, DoW OIG FOIA release',
-        url: 'https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/',
-        date: '2026-06-16'
-      },
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'uap-science-advisory-council-2026',
-    b: 'uap-governance-board',
-    type: 'institutional',
-    label: 'reports to',
-    claimTier: 2,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.',
-    sources: [
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      },
-      {
-        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
-        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
-        date: '2026-06-22'
-      }
-    ]
-  },
-  {
-    a: 'avi-loeb',
-    b: 'uap-science-advisory-council-2026',
-    type: 'institutional',
-    label: 'convened and leads',
-    claimTier: 2,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.',
-    sources: [
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      },
-      {
-        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
-        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
-        date: '2026-06-22'
-      }
-    ]
-  },
-  {
-    a: 'garry-nolan',
-    b: 'uap-science-advisory-council-2026',
-    type: 'institutional',
-    label: 'member',
-    claimTier: 2,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'Nolan and fellow Sol Foundation co-founder Peter Skafish were both named to the council; all data shared with it is to be unclassified.',
-    sources: [
-      {
-        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
-        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
-        date: '2026-06-22'
-      }
-    ]
-  },
-  {
-    a: 'tim-gallaudet',
-    b: 'uap-science-advisory-council-2026',
-    type: 'institutional',
-    label: 'member, and a public critic of the releases',
-    claimTier: 2,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'Gallaudet criticised Release 01 for absent metadata on 14 May 2026 and was named to the council five weeks later.',
-    sources: [
-      {
-        name: 'DefenseScoop, \'Data alone is not disclosure\'',
-        url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
-        date: '2026-05-14'
-      },
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      }
-    ]
-  },
-  {
-    a: 'sol-foundation',
-    b: 'uap-science-advisory-council-2026',
-    type: 'institutional',
-    label: 'two co-founders seated',
-    claimTier: 2,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'A private research body founded to press the government on UAP had both co-founders seated on a federal-facing advisory council within roughly three years.',
-    sources: [
-      {
-        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
-        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
-        date: '2026-06-22'
-      },
-      { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'uap-science-advisory-council-2026',
-    b: 'pursue-programme-2026',
-    type: 'temporal',
-    label: 'forms five weeks into a release programme that assesses nothing',
-    claimTier: 3,
-    dateStart: '2026-06-17',
-    dateEnd: null,
-    note: 'PURSUE publishes imagery without assessment; AARO assesses without publishing imagery; the council is the only body chartered across both gaps, and has published nothing as of 12 August 2026.',
-    sources: [
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      },
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'aaro-aui-workshop-2025',
-    b: 'uap-science-advisory-council-2026',
-    type: 'programmatic',
-    label: 'operational precursor',
-    claimTier: 3,
-    dateStart: '2025-08',
-    dateEnd: '2026-06-17',
-    note: 'Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.',
-    sources: [
-      {
-        name: 'DefenseScoop, AARO invite-only workshop',
-        url: 'https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/',
-        date: '2026-03-16'
-      },
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      }
-    ]
-  },
-  {
-    a: 'aaro-2025-workshop-white-paper',
-    b: 'pursue-programme-2026',
-    type: 'research',
-    label: 'recommendations the release programme did not adopt',
-    claimTier: 3,
-    dateStart: '2026-02',
-    dateEnd: null,
-    note: 'The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.',
-    sources: [
-      {
-        name: 'Disclosure Archives, AARO release chronology',
-        url: 'https://disclosurearchives.com/aaro-releases',
-        date: '2026-08-12'
-      },
-      {
-        name: 'The Black Vault searchable PURSUE archive',
-        url: 'https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/',
-        date: '2026-05-11'
-      }
-    ]
-  },
-  {
-    a: 'christopher-mellon',
-    b: 'fy2026-ndaa-uap-provisions',
-    type: 'legislative',
-    label: 'recommendations reflected in statute',
-    claimTier: 2,
-    dateStart: '2025-12-10',
-    dateEnd: null,
-    note: 'The FY2026 NDAA\'s three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.',
-    sources: [
-      {
-        name: 'DefenseScoop, FY2026 NDAA UAP provisions',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
-      }
-    ]
-  },
-  {
-    a: 'fy2026-ndaa-uap-provisions',
-    b: 'norad-northcom',
-    type: 'legislative',
-    label: 'demands an intercept history since 2004',
-    claimTier: 2,
-    dateStart: '2025-12-10',
-    dateEnd: null,
-    note: 'AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.',
-    sources: [
-      {
-        name: 'DefenseScoop, FY2026 NDAA UAP provisions',
-        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
-        date: '2025-12-10'
-      }
-    ]
-  },
-  {
-    a: 'christopher-mellon',
-    b: 'pursue-programme-2026',
-    type: 'behavioral',
-    label: '\'Data alone is not disclosure\'',
-    claimTier: 2,
-    dateStart: '2026-05-14',
-    dateEnd: null,
-    note: 'Mellon\'s judgement six days after Release 01 became the framing for the entire research community\'s response.',
-    sources: [
-      {
-        name: 'DefenseScoop, \'Data alone is not disclosure\'',
-        url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
-        date: '2026-05-14'
-      }
-    ]
-  },
-  {
-    a: 'ryan-graves',
-    b: 'pursue-programme-2026',
-    type: 'behavioral',
-    label: 'operational critique of the release format',
-    claimTier: 2,
-    dateStart: '2026-05-14',
-    dateEnd: null,
-    note: '\'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.\'',
-    sources: [
-      {
-        name: 'DefenseScoop, \'Data alone is not disclosure\'',
-        url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
-        date: '2026-05-14'
       }
     ]
   },
@@ -26088,46 +25317,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'alien-gov-domains-2026',
-    b: 'pursue-programme-2026',
-    type: 'temporal',
-    label: 'contemplated branding not used',
-    claimTier: 3,
-    dateStart: '2026-03-17',
-    dateEnd: '2026-05-08',
-    note: 'The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War\'s estate instead.',
-    sources: [
-      {
-        name: 'DefenseScoop, alien .gov domains',
-        url: 'https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/',
-        date: '2026-03-18'
-      },
-      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
-    ]
-  },
-  {
-    a: 'threei-atlas-2025',
-    b: 'uap-science-advisory-council-2026',
-    type: 'temporal',
-    label: 'the gap the council was formed across',
-    claimTier: 3,
-    dateStart: '2025-11-04',
-    dateEnd: '2026-06-17',
-    note: 'An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.',
-    sources: [
-      {
-        name: 'DefenseScoop, 3I/ATLAS',
-        url: 'https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/',
-        date: '2025-11-04'
-      },
-      {
-        name: 'DefenseScoop, UAP Science Advisory Council',
-        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
-        date: '2026-06-17'
-      }
-    ]
-  },
-  {
     a: 'pursue-task-force',
     b: 'uapda-fy2027-house-adopted',
     type: 'legislative',
@@ -26234,24 +25423,6 @@ export const PROGRAM_EDGES = [
         name: 'NewsTalk KZRG, House approves Burlison amendment',
         url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
         date: '2026-07-23'
-      }
-    ]
-  },
-  {
-    a: 'pursue-programme-2026',
-    b: 'aaro-historical-record-vol2',
-    type: 'denial',
-    label: 'sixteen gigabytes released, one promised report unpublished',
-    claimTier: 3,
-    dateStart: '2026-08-12',
-    dateEnd: null,
-    note: 'The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.',
-    sources: [
-      { name: 'WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' },
-      {
-        name: 'AARO Congressional and Press Products',
-        url: 'https://www.aaro.mil/Congressional-Press-Products/',
-        date: '2026-08-12'
       }
     ]
   },
@@ -28504,40 +27675,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'ndaa24-sec1687',
-    b: 'irad-mechanism',
-    type: 'legislative',
-    label: 'Statutory bar on UAP-related IR&D as an allowable indirect cost',
-    claimTier: 1,
-    dateStart: '2023-12-22',
-    dateEnd: null,
-    note: 'Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.',
-    sources: [
-      {
-        name: 'NDAA FY2024, Sec. 1687(b)',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
-      }
-    ]
-  },
-  {
-    a: 'ndaa24-sec1687',
-    b: 'iaa24-sec7343',
-    type: 'legislative',
-    label: 'The same bar enacted twice, once for SECDEF and once for the DNI',
-    claimTier: 1,
-    dateStart: '2023-12-22',
-    dateEnd: null,
-    note: 'Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.',
-    sources: [
-      {
-        name: 'P.L. 118-31, Secs. 1687 and 7343',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
-        date: '2023-12-22'
-      }
-    ]
-  },
-  {
     a: 'iaa24-sec7343',
     b: 'nip',
     type: 'legislative',
@@ -28551,23 +27688,6 @@ export const PROGRAM_EDGES = [
         name: 'IAA FY2024, Sec. 7343',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
         date: '2023-12-22'
-      }
-    ]
-  },
-  {
-    a: 'ndaa24-sec1687',
-    b: 'ndaa26-uap-provisions',
-    type: 'temporal',
-    label: 'The funding bar was not renewed; only the IR&D provision survives',
-    claimTier: 1,
-    dateStart: '2024-12-23',
-    dateEnd: '2025-12-18',
-    note: 'Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.',
-    sources: [
-      {
-        name: 'P.L. 118-31; P.L. 118-159; P.L. 119-60',
-        url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm',
-        date: '2025-12-18'
       }
     ]
   },
@@ -30947,23 +30067,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'hearing-2025-09-09',
-    b: 'burlison-uapda-fy2027-ndaa-amendment',
-    type: 'legislative',
-    label: 'The FOIA-reach finding is the antecedent of the 2026 contractor-disclosure amendment',
-    claimTier: 3,
-    dateStart: '2025-09-09',
-    dateEnd: '2026-07-23',
-    note: 'The Task Force found UAP spending flows to entities outside FOIA reach; the amendment adopted 23 July 2026 extends disclosure obligations to government contractors. Reasoning: direct correspondence between the finding and the remedy.',
-    sources: [
-      {
-        name: 'House Oversight hearing page',
-        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
-        date: '2025-09-09'
-      }
-    ]
-  },
-  {
     a: 'hearing-2026-06-30',
     b: 'task-force-declassification-federal-secrets',
     type: 'institutional',
@@ -31427,40 +30530,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'stanton-friedman',
-    b: 'jesse-marcel-sr',
-    type: 'witness-chain',
-    label: 'Friedman\'s February 1978 interview reopened Roswell',
-    claimTier: 2,
-    dateStart: '1978-02',
-    dateEnd: '1978',
-    note: 'Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.',
-    sources: [
-      {
-        name: 'Stanton T. Friedman - Wikipedia',
-        url: 'https://en.wikipedia.org/wiki/Stanton_T._Friedman',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
-    a: 'jesse-marcel-sr',
-    b: 'the-roswell-incident-1980',
-    type: 'witness-chain',
-    label: 'Marcel\'s account is the spine of the 1980 book',
-    claimTier: 2,
-    dateStart: '1978',
-    dateEnd: '1980',
-    note: 'Berlitz and Moore built \'The Roswell Incident\' on Friedman\'s Marcel material together with the second-hand Barney Barnett account.',
-    sources: [
-      {
-        name: 'Charles Berlitz and William L. Moore, \'The Roswell Incident\' (1980)',
-        url: 'https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012',
-        date: '1980-01-01'
-      }
-    ]
-  },
-  {
     a: 'william-l-moore',
     b: 'the-roswell-incident-1980',
     type: 'research',
@@ -31475,36 +30544,6 @@ export const PROGRAM_EDGES = [
         url: 'https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012',
         date: '1980-01-01'
       }
-    ]
-  },
-  {
-    a: 'jesse-marcel-sr',
-    b: 'jesse-marcel-jr',
-    type: 'witness-chain',
-    label: 'Father showed son the debris in July 1947',
-    claimTier: 2,
-    dateStart: '1947-07',
-    dateEnd: '1947-07',
-    note: 'Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.',
-    sources: [
-      {
-        name: 'The Roswell Report: Case Closed (1997)',
-        url: 'https://archive.org/details/AFD-101027-030',
-        date: '1997-01-01'
-      }
-    ]
-  },
-  {
-    a: 'walter-haut',
-    b: 'jesse-marcel-sr',
-    type: 'institutional',
-    label: 'Haut\'s 8 July 1947 press release named Marcel as the recovering officer',
-    claimTier: 1,
-    dateStart: '1947-07-08',
-    dateEnd: '1947-07-08',
-    note: 'The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard\'s order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.',
-    sources: [
-      { name: 'Walter Haut - Wikipedia', url: 'https://en.wikipedia.org/wiki/Walter_Haut', date: '2026-08-12' }
     ]
   },
   {
@@ -37690,5 +36729,913 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.',
     sources: []
+  },
+  {
+    a: 'aaro-fy2025-annual-report',
+    b: 'dod',
+    type: 'denial',
+    label: '\'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials\'',
+    claimTier: 1,
+    dateStart: '2026',
+    dateEnd: '2026',
+    note: 'A categorical negative issued by the office whose access to waived and unacknowledged programs has never been established. Recorded as a denial artefact with its author and date.',
+    sources: [
+      {
+        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
+      }
+    ]
+  },
+  {
+    a: 'aaro-fy2025-annual-report',
+    b: 'americans-for-safe-aerospace',
+    type: 'denial',
+    label: '\'AARO did not receive reports indicating flight safety concerns during this reporting period\'',
+    claimTier: 1,
+    dateStart: '2026',
+    dateEnd: '2026',
+    note: 'The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO\'s intake, not about the sky.',
+    sources: [
+      {
+        name: 'AARO FY2025 Consolidated Annual Report on UAP (PDF)',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
+      }
+    ]
+  },
+  {
+    a: 'ndaa26-uap-provisions',
+    b: 'aaro',
+    type: 'legislative',
+    label: 'Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides',
+    claimTier: 1,
+    dateStart: '2025',
+    dateEnd: null,
+    note: 'Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.',
+    sources: [
+      {
+        name: 'DefenseScoop: Congress wants to know more about the military\'s UAP intercepts around North America',
+        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'christopher-mellon',
+    b: 'ndaa26-uap-provisions',
+    type: 'programmatic',
+    label: 'Two of the three provisions mirror recommendations he championed',
+    claimTier: 2,
+    dateStart: '2025',
+    dateEnd: null,
+    note: 'Per Disclosure Foundation executive director Jordan Flowers.',
+    sources: [
+      {
+        name: 'DefenseScoop: Congress wants to know more about the military\'s UAP intercepts around North America',
+        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'sean-kirkpatrick',
+    b: 'kirkpatrick-sciam-oped-2024',
+    type: 'denial',
+    label: 'Bylined attribution of the allegations to circular reporting and unsupported belief',
+    claimTier: 2,
+    dateStart: '2024',
+    dateEnd: '2024',
+    note: 'Published 19 January 2024 under Kirkpatrick\'s own name, seven weeks before AARO\'s Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency\'s conclusions in the press.',
+    sources: [
+      {
+        name: 'Scientific American - Here\'s What I Learned as the U.S. Government\'s UFO Hunter',
+        url: 'https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/',
+        date: '2024-01-19'
+      }
+    ]
+  },
+  {
+    a: 'kirkpatrick-sciam-oped-2024',
+    b: 'aaro-historical-record-vol1',
+    type: 'temporal',
+    label: 'Op-ed advanced the report\'s analytic frame seven weeks early',
+    claimTier: 2,
+    dateStart: '2024',
+    dateEnd: '2024',
+    note: 'Kirkpatrick\'s 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.',
+    sources: [
+      {
+        name: 'Scientific American',
+        url: 'https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/',
+        date: '2024-01-19'
+      },
+      {
+        name: 'AARO Historical Record Report Volume I',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
+        date: '2024-03-08'
+      }
+    ]
+  },
+  {
+    a: 'dodi-3204-01',
+    b: 'ndaa-fy2024-1687',
+    type: 'legislative',
+    label: 'Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date',
+    claimTier: 1,
+    dateStart: '2023',
+    dateEnd: '2023',
+    note: 'Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.',
+    sources: [
+      {
+        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      },
+      {
+        name: 'DoD Instruction 3204.01, \'DoD Policy for Oversight of Independent Research and Development (IR&D)\' (Change 2)',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf',
+        date: '2020-07-09'
+      }
+    ]
+  },
+  {
+    a: 'ndaa-fy2024-1687',
+    b: 'lockheed-martin',
+    type: 'funding',
+    label: 'The IR&D restriction applies directly to covered prime contractors',
+    claimTier: 1,
+    dateStart: '2023',
+    dateEnd: null,
+    note: 'DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).',
+    sources: [
+      {
+        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      },
+      {
+        name: 'DoD Instruction 3204.01, \'DoD Policy for Oversight of Independent Research and Development (IR&D)\' (Change 2)',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf',
+        date: '2020-07-09'
+      },
+      {
+        name: 'USAspending.gov federal award search (prime contract obligations by recipient)',
+        url: 'https://www.usaspending.gov/search',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'usc-10-119',
+    b: 'ndaa-fy2024-1687',
+    type: 'legislative',
+    label: 'Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter',
+    claimTier: 1,
+    dateStart: '2023',
+    dateEnd: '2023',
+    note: 'Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.',
+    sources: [
+      {
+        name: '10 U.S.C. Sec. 119, Special access programs: congressional oversight',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: '2024-01-01'
+      },
+      {
+        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      }
+    ]
+  },
+  {
+    a: 'iaa-fy2024-sec1104',
+    b: 'ndaa-fy2024-1687',
+    type: 'legislative',
+    label: 'Only the funding limitation and the IR&D restriction survived into law',
+    claimTier: 1,
+    dateStart: '2023',
+    dateEnd: '2023',
+    note: 'Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.',
+    sources: [
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported by the Senate Select Committee on Intelligence (Sec. 1104)',
+        url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        date: '2023-06-22'
+      },
+      {
+        name: 'National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      }
+    ]
+  },
+  {
+    a: 'uapda-fy2027-house-adopted',
+    b: 'nara-uap-records-collection',
+    type: 'legislative',
+    label: 'Would impose statutory transfer timelines on the NARA collection',
+    claimTier: 2,
+    dateStart: '2026',
+    dateEnd: null,
+    note: 'The amendment would require agencies to identify, preserve and transfer covered UAP records under a statutory timeline, supplying the enforcement the FY2024 NDAA sections omitted.',
+    sources: [
+      {
+        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
+        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
+        date: '2026-07-23'
+      },
+      {
+        name: 'National Archives - UAP Records Collection (archives.gov/uap)',
+        url: 'https://www.archives.gov/uap',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'uapda-fy2027-house-adopted',
+    b: 'pursue-releases',
+    type: 'legislative',
+    label: 'Statutory backstop for an executive release programme',
+    claimTier: 2,
+    dateStart: '2026',
+    dateEnd: null,
+    note: 'Burlison\'s own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE\'s defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.',
+    sources: [
+      {
+        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
+        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
+        date: '2026-07-23'
+      },
+      {
+        name: 'Burlison, House Adopts UAP Disclosure Framework',
+        url: 'https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework',
+        date: '2026-07-22'
+      }
+    ]
+  },
+  {
+    a: 'uapda-fy2027-house-adopted',
+    b: 'ndaa-fy2024',
+    type: 'legislative',
+    label: 'Restores the enforcement architecture stripped from the FY2024 sections',
+    claimTier: 3,
+    dateStart: '2026',
+    dateEnd: null,
+    note: 'Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.',
+    sources: [
+      {
+        name: 'NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure',
+        url: 'https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/',
+        date: '2026-07-23'
+      },
+      {
+        name: 'National Archives - UAP Records Collection (archives.gov/uap)',
+        url: 'https://www.archives.gov/uap',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'harold-puthoff',
+    b: 'dird-advanced-space-propulsion-based-on-vacuum',
+    type: 'programmatic',
+    label: 'Named author of the AAWSAP vacuum-engineering propulsion study',
+    claimTier: 1,
+    dateStart: '2009',
+    dateEnd: '2010',
+    note: 'Listed by DIA among the 38 AAWSAP reference products and hosted in the DIA FOIA reading room; the propulsion theory commissioned alongside the injury pathology.',
+    sources: [
+      {
+        name: 'DIA FOIA Electronic Reading Room - Advanced Aerospace Threat Identification Program',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Advanced-Aerospace-Threat-Identification-Program/',
+        date: '2026-08-12'
+      },
+      {
+        name: 'Federation of American Scientists, \'AATIP List\' (Secrecy News)',
+        url: 'https://fas.org/publication/aatip-list/',
+        date: '2019-01-17'
+      }
+    ]
+  },
+  {
+    a: 'ndaa26-uap-provisions',
+    b: 'dodig-2023-109',
+    type: 'legislative',
+    label: 'the data-sharing streamlining provision answers the IG\'s 2023 reporting-requirement finding',
+    claimTier: 3,
+    dateStart: '2023',
+    dateEnd: '2025',
+    note: 'The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.',
+    sources: [
+      {
+        name: 'DoD OIG unclassified summary',
+        url: 'https://media.defense.gov/2024/Jan/25/2003381266/-1/-1/1/UNCLASSIFIED%20SUMMARY_UNIDENTIFIED%20ANOMALOUS%20PHENOMENA%20SECURE.PDF',
+        date: '2024-01-25'
+      },
+      {
+        name: 'DefenseScoop - FY2026 NDAA UAP provisions',
+        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'dod-agencywide-audit',
+    b: 'd-funding',
+    type: 'funding',
+    label: 'eight consecutive disclaimers of opinion are the measurable size of the gap this domain is about',
+    claimTier: 1,
+    dateStart: '2018',
+    dateEnd: '2025',
+    note: 'The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.',
+    sources: [
+      {
+        name: 'CRS In Focus IF12627, \'Defense Primer: FY2025 Department of Defense Audit Results\'',
+        url: 'https://www.congress.gov/crs-product/IF12627',
+        date: '2026-01-15'
+      },
+      {
+        name: 'DoD OIG press release, \'Independent Auditor\'s Reports on the DoD FY 2025 Financial Statements\'',
+        url: 'https://www.dodig.mil/In-the-Spotlight/Article/4365200/press-release-independent-auditors-reports-on-the-dod-fy-2025-financial-stateme/',
+        date: '2025-12-18'
+      }
+    ]
+  },
+  {
+    a: 'classified-annex',
+    b: 'd-funding',
+    type: 'funding',
+    label: 'the second set of numbers, given the same legal force and not printed in the Statutes at Large',
+    claimTier: 1,
+    dateStart: '2026-02-03',
+    dateEnd: null,
+    note: 'Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex \'are hereby required by law to be carried out in the manner provided by such tables.\' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.',
+    sources: [
+      {
+        name: 'Public Law 119-75, Department of Defense Appropriations Act, 2026 (Secs. 8005-8006) (GPO)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf',
+        date: '2026-02-03'
+      }
+    ]
+  },
+  {
+    a: 'usc-10-119',
+    b: 'd-funding',
+    type: 'legislative',
+    label: 'the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it',
+    claimTier: 1,
+    dateStart: '1987-12-04',
+    dateEnd: null,
+    note: 'Sec. 119(a)-(c) requires the annual SAP report to the four defense committees to state actual historical costs and estimated future costs for each program. Sec. 119(e)(1) lets the Secretary waive any of that on a case-by-case national-security determination, with the information and the justification going instead \'jointly to the chairman and ranking minority member of each of the defense committees.\' The cost visibility this domain measures is created and removed by this one section.',
+    sources: [
+      {
+        name: '10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: '2026-08-21'
+      },
+      {
+        name: '10 U.S.C. 119 (U.S. Code 2023 Edition, GPO)',
+        url: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm',
+        date: '2024-01-05'
+      }
+    ]
+  },
+  {
+    a: 'waived-usap',
+    b: 'd-funding',
+    type: 'funding',
+    label: 'the access category whose costs reach four members rather than four committees',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'A waived unacknowledged SAP is the category to which the 10 U.S.C. 119(e) waiver is applied. Costs are not zero and are not unappropriated; they are reported to a group of four. The board\'s Tier 2 grading holds because the existence of the category and the reporting channel are documented in statute and DoD issuance, while the contents of any particular waived programme are not.',
+    sources: [
+      {
+        name: '10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: '2026-08-21'
+      },
+      {
+        name: 'Archived: DoD Directive 5205.07, \'Special Access Program (SAP) Policy\' (12 Sep 2024) (Wayback 2026-05-18)',
+        url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        date: '2026-05-18'
+      },
+      {
+        name: 'Archived: DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\' (12 Sep 2024) (Wayback 2025-08-09)',
+        url: 'https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf',
+        date: '2025-08-09'
+      }
+    ]
+  },
+  {
+    a: 'waived-usap-mechanism',
+    b: 'd-funding',
+    type: 'funding',
+    label: 'the stacked mechanism by which a funded activity can exist with no publicly reconcilable line',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.',
+    sources: [
+      {
+        name: '10 U.S.C. 119 - Special access programs: congressional oversight (Office of the Law Revision Counsel)',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: '2026-08-21'
+      },
+      {
+        name: 'Archived: DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\' (12 Sep 2024) (Wayback 2025-08-09)',
+        url: 'https://web.archive.org/web/20250809023849/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodi/520511p.pdf',
+        date: '2025-08-09'
+      },
+      {
+        name: 'Archived: DoD Directive 5205.07, \'Special Access Program (SAP) Policy\' (12 Sep 2024) (Wayback 2026-05-18)',
+        url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        date: '2026-05-18'
+      }
+    ]
+  },
+  {
+    a: 'aawsap',
+    b: 'd-funding',
+    type: 'funding',
+    label: 'the only case where money for a UAP programme has been traced from a classified appropriation to a named contract',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2012',
+    note: 'Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain\'s proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.',
+    sources: [
+      {
+        name: 'New York Times, \'Glowing Auras and Black Money: The Pentagon\'s Mysterious U.F.O. Program\'',
+        url: 'https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html',
+        date: '2017-12-16'
+      },
+      {
+        name: 'New York Times, \'Glowing Auras and Black Money\' (NICAP archival copy)',
+        url: 'https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf',
+        date: '2017-12-16'
+      },
+      {
+        name: 'FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        date: '2008-08-18'
+      },
+      {
+        name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        date: '2009-09-02'
+      }
+    ]
+  },
+  {
+    a: 'trump-truth-social-post-2026-02-20',
+    b: 'pursue-releases',
+    type: 'programmatic',
+    label: 'originating direction',
+    claimTier: 2,
+    dateStart: '2026-02-20',
+    dateEnd: null,
+    note: 'PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only \'Presidential Direction\'.',
+    sources: [
+      {
+        name: 'DefenseScoop, Trump UAP disclosure tease',
+        url: 'https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/',
+        date: '2026-02-20'
+      },
+      {
+        name: 'ODNI Memorandum ES 2026-00818',
+        url: 'https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf',
+        date: '2026-08-01'
+      }
+    ]
+  },
+  {
+    a: 'pursue-releases',
+    b: 'pursue-bundle-urls',
+    type: 'custody',
+    label: 'physical release locations',
+    claimTier: 1,
+    dateStart: '2026-05-08',
+    dateEnd: '2026-08-07',
+    note: 'The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.',
+    sources: [
+      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
+    ]
+  },
+  {
+    a: 'burlison-mitre-letter-2026',
+    b: 'hearing-2025-09-09',
+    type: 'investigative',
+    label: 'acts on the hearing\'s fourth finding',
+    claimTier: 3,
+    dateStart: '2026-05-22',
+    dateEnd: null,
+    note: 'The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.',
+    sources: [
+      {
+        name: 'House Oversight hearing wrap-up',
+        url: 'https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/',
+        date: '2025-09-09'
+      },
+      {
+        name: 'DefenseScoop, MITRE complies with Burlison request',
+        url: 'https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/',
+        date: '2026-05-27'
+      }
+    ]
+  },
+  {
+    a: 'virginia-coast-uap-2026',
+    b: 'aaro-fy2025-annual-report',
+    type: 'institutional',
+    label: 'sole maritime case in the report',
+    claimTier: 2,
+    dateStart: '2026-07-21',
+    dateEnd: '2026-07-21',
+    note: 'AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.',
+    sources: [
+      {
+        name: 'DefenseScoop, Navy UAP event off Virginia',
+        url: 'https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/',
+        date: '2026-07-21'
+      }
+    ]
+  },
+  {
+    a: 'aaro-fy2025-annual-report',
+    b: 'pursue-releases',
+    type: 'temporal',
+    label: 'statutory analysis trails executive publication',
+    claimTier: 3,
+    dateStart: '2026-07-21',
+    dateEnd: null,
+    note: 'The FY2025 report appeared months late and after three PURSUE tranches, so the Department\'s analytic product followed rather than accompanied its own releases.',
+    sources: [
+      {
+        name: 'The Black Vault, AARO FY2025 report',
+        url: 'https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/',
+        date: '2026-07-21'
+      },
+      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
+    ]
+  },
+  {
+    a: 'aaro-fy2025-annual-report',
+    b: 'aaro-2026-posture',
+    type: 'denial',
+    label: 'no evidence of captured or exploited UAP materials, while writing custody procedures for them',
+    claimTier: 1,
+    dateStart: '2026-07-21',
+    dateEnd: null,
+    note: 'The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.',
+    sources: [
+      {
+        name: 'The Black Vault, AARO FY2025 report',
+        url: 'https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/',
+        date: '2026-07-21'
+      }
+    ]
+  },
+  {
+    a: 'blackvault-pursue-archive',
+    b: 'pursue-releases',
+    type: 'research',
+    label: 'supplies the index the releasing authority did not',
+    claimTier: 2,
+    dateStart: '2026-05-11',
+    dateEnd: null,
+    note: 'Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.',
+    sources: [
+      {
+        name: 'The Black Vault searchable PURSUE archive',
+        url: 'https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/',
+        date: '2026-05-11'
+      }
+    ]
+  },
+  {
+    a: 'dodig-2021-000806-foia',
+    b: 'pursue-releases',
+    type: 'denial',
+    label: 'imagery released, methodology withheld',
+    claimTier: 3,
+    dateStart: '2026-06-16',
+    dateEnd: null,
+    note: 'In the same quarter the Department published sensor video it withheld under exemption (b)(1) the \'Potential Benefits\' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.',
+    sources: [
+      {
+        name: 'The Black Vault, DoW OIG FOIA release',
+        url: 'https://www.theblackvault.com/documentarchive/department-of-war-cites-national-security-to-hide-core-uap-evaluation-details/',
+        date: '2026-06-16'
+      },
+      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
+    ]
+  },
+  {
+    a: 'uap-science-advisory-council',
+    b: 'uap-governance-board',
+    type: 'institutional',
+    label: 'reports to',
+    claimTier: 2,
+    dateStart: '2026-06-17',
+    dateEnd: null,
+    note: 'The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.',
+    sources: [
+      {
+        name: 'DefenseScoop, UAP Science Advisory Council',
+        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
+        date: '2026-06-17'
+      },
+      {
+        name: 'Sol Foundation, co-founders named to UAP Science Advisory Council',
+        url: 'https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/',
+        date: '2026-06-22'
+      }
+    ]
+  },
+  {
+    a: 'aaro-aui-workshop-2025',
+    b: 'uap-science-advisory-council',
+    type: 'programmatic',
+    label: 'operational precursor',
+    claimTier: 3,
+    dateStart: '2025-08',
+    dateEnd: '2026-06-17',
+    note: 'Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.',
+    sources: [
+      {
+        name: 'DefenseScoop, AARO invite-only workshop',
+        url: 'https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/',
+        date: '2026-03-16'
+      },
+      {
+        name: 'DefenseScoop, UAP Science Advisory Council',
+        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
+        date: '2026-06-17'
+      }
+    ]
+  },
+  {
+    a: 'aaro-2025-workshop-white-paper',
+    b: 'pursue-releases',
+    type: 'research',
+    label: 'recommendations the release programme did not adopt',
+    claimTier: 3,
+    dateStart: '2026-02',
+    dateEnd: null,
+    note: 'The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.',
+    sources: [
+      {
+        name: 'Disclosure Archives, AARO release chronology',
+        url: 'https://disclosurearchives.com/aaro-releases',
+        date: '2026-08-12'
+      },
+      {
+        name: 'The Black Vault searchable PURSUE archive',
+        url: 'https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/',
+        date: '2026-05-11'
+      }
+    ]
+  },
+  {
+    a: 'christopher-mellon',
+    b: 'ndaa26-uap-provisions',
+    type: 'legislative',
+    label: 'recommendations reflected in statute',
+    claimTier: 2,
+    dateStart: '2025-12-10',
+    dateEnd: null,
+    note: 'The FY2026 NDAA\'s three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.',
+    sources: [
+      {
+        name: 'DefenseScoop, FY2026 NDAA UAP provisions',
+        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'ndaa26-uap-provisions',
+    b: 'norad-northcom',
+    type: 'legislative',
+    label: 'demands an intercept history since 2004',
+    claimTier: 2,
+    dateStart: '2025-12-10',
+    dateEnd: null,
+    note: 'AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.',
+    sources: [
+      {
+        name: 'DefenseScoop, FY2026 NDAA UAP provisions',
+        url: 'https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'ryan-graves',
+    b: 'pursue-releases',
+    type: 'behavioral',
+    label: 'operational critique of the release format',
+    claimTier: 2,
+    dateStart: '2026-05-14',
+    dateEnd: null,
+    note: '\'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.\'',
+    sources: [
+      {
+        name: 'DefenseScoop, \'Data alone is not disclosure\'',
+        url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
+        date: '2026-05-14'
+      }
+    ]
+  },
+  {
+    a: 'alien-gov-domains-2026',
+    b: 'pursue-releases',
+    type: 'temporal',
+    label: 'contemplated branding not used',
+    claimTier: 3,
+    dateStart: '2026-03-17',
+    dateEnd: '2026-05-08',
+    note: 'The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War\'s estate instead.',
+    sources: [
+      {
+        name: 'DefenseScoop, alien .gov domains',
+        url: 'https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/',
+        date: '2026-03-18'
+      },
+      { name: 'Department of War, WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' }
+    ]
+  },
+  {
+    a: 'threei-atlas-2025',
+    b: 'uap-science-advisory-council',
+    type: 'temporal',
+    label: 'the gap the council was formed across',
+    claimTier: 3,
+    dateStart: '2025-11-04',
+    dateEnd: '2026-06-17',
+    note: 'An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.',
+    sources: [
+      {
+        name: 'DefenseScoop, 3I/ATLAS',
+        url: 'https://defensescoop.com/2025/11/04/3i-atlas-comet-us-government-monitoring-mysterious-interstellar-object/',
+        date: '2025-11-04'
+      },
+      {
+        name: 'DefenseScoop, UAP Science Advisory Council',
+        url: 'https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/',
+        date: '2026-06-17'
+      }
+    ]
+  },
+  {
+    a: 'pursue-releases',
+    b: 'aaro-historical-record-vol2',
+    type: 'denial',
+    label: 'sixteen gigabytes released, one promised report unpublished',
+    claimTier: 3,
+    dateStart: '2026-08-12',
+    dateEnd: null,
+    note: 'The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.',
+    sources: [
+      { name: 'WAR.GOV/UFO portal', url: 'https://www.war.gov/UFO/', date: '2026-08-12' },
+      {
+        name: 'AARO Congressional and Press Products',
+        url: 'https://www.aaro.mil/Congressional-Press-Products/',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'ndaa-fy2024-1687',
+    b: 'irad-mechanism',
+    type: 'legislative',
+    label: 'Statutory bar on UAP-related IR&D as an allowable indirect cost',
+    claimTier: 1,
+    dateStart: '2023-12-22',
+    dateEnd: null,
+    note: 'Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.',
+    sources: [
+      {
+        name: 'NDAA FY2024, Sec. 1687(b)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      }
+    ]
+  },
+  {
+    a: 'ndaa-fy2024-1687',
+    b: 'iaa24-sec7343',
+    type: 'legislative',
+    label: 'The same bar enacted twice, once for SECDEF and once for the DNI',
+    claimTier: 1,
+    dateStart: '2023-12-22',
+    dateEnd: null,
+    note: 'Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.',
+    sources: [
+      {
+        name: 'P.L. 118-31, Secs. 1687 and 7343',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      }
+    ]
+  },
+  {
+    a: 'ndaa-fy2024-1687',
+    b: 'ndaa26-uap-provisions',
+    type: 'temporal',
+    label: 'The funding bar was not renewed; only the IR&D provision survives',
+    claimTier: 1,
+    dateStart: '2024-12-23',
+    dateEnd: '2025-12-18',
+    note: 'Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.',
+    sources: [
+      {
+        name: 'P.L. 118-31; P.L. 118-159; P.L. 119-60',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm',
+        date: '2025-12-18'
+      }
+    ]
+  },
+  {
+    a: 'hearing-2025-09-09',
+    b: 'uapda-fy2027-house-adopted',
+    type: 'legislative',
+    label: 'The FOIA-reach finding is the antecedent of the 2026 contractor-disclosure amendment',
+    claimTier: 3,
+    dateStart: '2025-09-09',
+    dateEnd: '2026-07-23',
+    note: 'The Task Force found UAP spending flows to entities outside FOIA reach; the amendment adopted 23 July 2026 extends disclosure obligations to government contractors. Reasoning: direct correspondence between the finding and the remedy.',
+    sources: [
+      {
+        name: 'House Oversight hearing page',
+        url: 'https://oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'stanton-friedman',
+    b: 'jesse-marcel',
+    type: 'witness-chain',
+    label: 'Friedman\'s February 1978 interview reopened Roswell',
+    claimTier: 2,
+    dateStart: '1978-02',
+    dateEnd: '1978',
+    note: 'Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.',
+    sources: [
+      {
+        name: 'Stanton T. Friedman - Wikipedia',
+        url: 'https://en.wikipedia.org/wiki/Stanton_T._Friedman',
+        date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'jesse-marcel',
+    b: 'the-roswell-incident-1980',
+    type: 'witness-chain',
+    label: 'Marcel\'s account is the spine of the 1980 book',
+    claimTier: 2,
+    dateStart: '1978',
+    dateEnd: '1980',
+    note: 'Berlitz and Moore built \'The Roswell Incident\' on Friedman\'s Marcel material together with the second-hand Barney Barnett account.',
+    sources: [
+      {
+        name: 'Charles Berlitz and William L. Moore, \'The Roswell Incident\' (1980)',
+        url: 'https://archive.org/details/charles-berlitz-william-l.-moore-the-roswell-incident-1980_202012',
+        date: '1980-01-01'
+      }
+    ]
+  },
+  {
+    a: 'jesse-marcel',
+    b: 'jesse-marcel-jr',
+    type: 'witness-chain',
+    label: 'Father showed son the debris in July 1947',
+    claimTier: 2,
+    dateStart: '1947-07',
+    dateEnd: '1947-07',
+    note: 'Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.',
+    sources: [
+      {
+        name: 'The Roswell Report: Case Closed (1997)',
+        url: 'https://archive.org/details/AFD-101027-030',
+        date: '1997-01-01'
+      }
+    ]
+  },
+  {
+    a: 'walter-haut',
+    b: 'jesse-marcel',
+    type: 'institutional',
+    label: 'Haut\'s 8 July 1947 press release named Marcel as the recovering officer',
+    claimTier: 1,
+    dateStart: '1947-07-08',
+    dateEnd: '1947-07-08',
+    note: 'The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard\'s order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.',
+    sources: [
+      { name: 'Walter Haut - Wikipedia', url: 'https://en.wikipedia.org/wiki/Walter_Haut', date: '2026-08-12' }
+    ]
   }
 ];
