@@ -10,7 +10,7 @@ Conservative by design: duplicate ids MERGE rather than overwrite, and nothing
 is dropped silently. Unplaceable records land in tools/REJECTS.json with a reason.
 """
 
-import json, os, re, sys, glob
+import json, os, re, sys, glob, unicodedata
 from collections import defaultdict, OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -663,6 +663,73 @@ def remediate_tiers(people, entities):
     return demotions
 
 
+DUP_STOP = {"the", "of", "a", "an", "and", "for", "to", "on", "in", "act", "section",
+            "sec", "us", "u", "s", "united", "states", "department", "office",
+            "program", "programme", "inc", "llc", "corporation"}
+
+
+def _dup_key(label):
+    t = unicodedata.normalize("NFKD", label or "").lower()
+    t = re.sub(r"[^a-z0-9 ]+", " ", t)
+    return frozenset(w for w in t.split() if w and w not in DUP_STOP)
+
+
+def duplicate_groups(people, entities):
+    """Find nodes that are probably the same thing recorded twice.
+
+    Five people were once on this board twice, splitting their edges and their
+    sources, and nothing detected it. The same failure is back in the entities:
+    the FY2024 NDAA sec. 1687 is here three times, the AARO FY2025 annual report
+    three times, and Jesse Marcel twice. A duplicate is worse than a missing node,
+    because both copies look sourced and each carries a fraction of the evidence
+    under a different tier.
+
+    The test is deliberately narrow, to stay useful rather than noisy: same class,
+    at least one shared source URL, and label token-sets that overlap by 60% after
+    dropping structural words. Two genuinely distinct documents that share a title
+    -- DIA-08-1011-003 and -004 are both called 'Aneutronic Fusion Propulsion' --
+    will show up here, which is correct: a reader cannot tell them apart either.
+    """
+    import itertools
+    from collections import defaultdict
+    nodes = list(people.values()) + list(entities.values())
+    byurl = defaultdict(list)
+    for n in nodes:
+        for src in n.get("sources") or []:
+            if src.get("url"):
+                byurl[src["url"]].append(n)
+    seen, groups = set(), []
+    for url, grp in byurl.items():
+        if not 2 <= len(grp) <= 40:
+            continue
+        for a, b in itertools.combinations(grp, 2):
+            if a["id"] == b["id"] or a.get("cls") != b.get("cls"):
+                continue
+            pair = tuple(sorted([a["id"], b["id"]]))
+            if pair in seen:
+                continue
+            ka, kb = _dup_key(a["label"]), _dup_key(b["label"])
+            if not ka or not kb:
+                continue
+            # A detector that cries wolf gets ignored, and then it is no detector.
+            # The AARO consolidated annual reports are near-identical by title and
+            # share a source, but FY2023, FY2024 and FY2025 are three real reports.
+            # If both labels carry years and the years differ, they are distinct.
+            # Match bare digits, not \b\d{4}\b: "FY2023" has no word boundary
+            # before the digits, which is exactly the case this needs to catch.
+            ya = set(re.findall(r"(?:19|20)\d{2}", a["label"] or ""))
+            yb = set(re.findall(r"(?:19|20)\d{2}", b["label"] or ""))
+            if ya and yb and ya != yb:
+                continue
+            overlap = len(ka & kb) / len(ka | kb)
+            if overlap >= 0.6:
+                seen.add(pair)
+                groups.append({"a": pair[0], "b": pair[1], "cls": a.get("cls"),
+                               "overlap": round(overlap, 2), "shared_url": url})
+    groups.sort(key=lambda g: (-g["overlap"], g["a"]))
+    return groups
+
+
 def integrity(people, entities, edges, timeline):
     ids = set(people) | set(entities)
     problems = defaultdict(list)
@@ -715,6 +782,9 @@ def integrity(people, entities, edges, timeline):
             for c in n.get("claims", []):
                 if c["tier"] == 1 and not urls:
                     problems["tier1_claim_no_url"].append({"id": n["id"], "claim": c["text"][:90]})
+
+    for g in duplicate_groups(people, entities):
+        problems["probable_duplicate_node"].append(g)
 
     deg = defaultdict(int)
     for e in edges.values():

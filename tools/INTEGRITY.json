@@ -540,6 +540,134 @@
    "sources": 1
   }
  ],
+ "probable_duplicate_node": [
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "aaro-fy2025-report",
+   "cls": "document",
+   "overlap": 1.0,
+   "shared_url": "https://web.archive.org/web/20260714193029/https://www.aaro.mil/Congressional-Press-Products/"
+  },
+  {
+   "a": "aaro-fy2025-annual-report",
+   "b": "aaro-fy2025-report-2026",
+   "cls": "document",
+   "overlap": 1.0,
+   "shared_url": "https://www.theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-after-statutory-deadline-citing-319-new-cases-and-expanded-satellite-analysis/"
+  },
+  {
+   "a": "burlison-uapda-fy2027-ndaa-amendment",
+   "b": "uapda-fy2027-house-adopted",
+   "cls": "legislation",
+   "overlap": 1.0,
+   "shared_url": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"
+  },
+  {
+   "a": "dird-aneutronic-fusion-propulsion",
+   "b": "dird-aneutronic-fusion-propulsion-2",
+   "cls": "document",
+   "overlap": 1.0,
+   "shared_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/"
+  },
+  {
+   "a": "fy2026-ndaa-uap-provisions",
+   "b": "ndaa-fy2026-uap-provisions",
+   "cls": "legislation",
+   "overlap": 1.0,
+   "shared_url": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/"
+  },
+  {
+   "a": "ndaa-fy2024-1687",
+   "b": "ndaa-fy2024-sec1687",
+   "cls": "legislation",
+   "overlap": 1.0,
+   "shared_url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+  },
+  {
+   "a": "ndaa-fy2024-1687",
+   "b": "ndaa24-sec1687",
+   "cls": "legislation",
+   "overlap": 1.0,
+   "shared_url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+  },
+  {
+   "a": "ndaa-fy2024-sec1687",
+   "b": "ndaa24-sec1687",
+   "cls": "legislation",
+   "overlap": 1.0,
+   "shared_url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+  },
+  {
+   "a": "pursue-programme-2026",
+   "b": "pursue-releases",
+   "cls": "program",
+   "overlap": 1.0,
+   "shared_url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/"
+  },
+  {
+   "a": "uap-science-advisory-council",
+   "b": "uap-science-advisory-council-2026",
+   "cls": "institution",
+   "overlap": 1.0,
+   "shared_url": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/"
+  },
+  {
+   "a": "kirkpatrick-sciam-oped",
+   "b": "kirkpatrick-sciam-oped-2024",
+   "cls": "document",
+   "overlap": 0.82,
+   "shared_url": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/"
+  },
+  {
+   "a": "jesse-marcel",
+   "b": "jesse-marcel-sr",
+   "cls": "person",
+   "overlap": 0.75,
+   "shared_url": "https://archive.org/details/DTIC_ADA326148"
+  },
+  {
+   "a": "earthtech-international",
+   "b": "institute-advanced-studies-austin",
+   "cls": "institution",
+   "overlap": 0.71,
+   "shared_url": "https://www.earthtech.org/about/"
+  },
+  {
+   "a": "burlison-mitre-demand-2026",
+   "b": "burlison-mitre-letter-2026",
+   "cls": "document",
+   "overlap": 0.67,
+   "shared_url": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
+  },
+  {
+   "a": "dodm-5205-07-series",
+   "b": "dodm-5205-07-v1",
+   "cls": "document",
+   "overlap": 0.62,
+   "shared_url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf"
+  },
+  {
+   "a": "gimbal-video",
+   "b": "gofast-video",
+   "cls": "document",
+   "overlap": 0.62,
+   "shared_url": "https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+  },
+  {
+   "a": "house-armed-services",
+   "b": "senate-armed-services",
+   "cls": "institution",
+   "overlap": 0.6,
+   "shared_url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+  },
+  {
+   "a": "l-skinwalker",
+   "b": "l-utah",
+   "cls": "location",
+   "overlap": 0.6,
+   "shared_url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+  }
+ ],
  "tierA_underconnected": [
   {
    "id": "dodm-5205-07-series",
