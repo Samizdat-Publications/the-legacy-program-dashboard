@@ -342,6 +342,64 @@
   {
    "id": "uap-gerb",
    "sequenceChain": []
+  },
+  {
+   "id": "david-clarke-uk",
+   "affiliations": [
+    "sheffield-hallam",
+    "The National Archives, Kew"
+   ]
+  },
+  {
+   "id": "gary-anthony-uk",
+   "affiliations": [
+    "British UFO Research Association (BUFORA)"
+   ]
+  },
+  {
+   "id": "denis-letty",
+   "affiliations": [
+    "cometa",
+    "ihedn",
+    "Armée de l'Air (French Air Force)"
+   ]
+  },
+  {
+   "id": "bernard-norlain",
+   "affiliations": [
+    "ihedn",
+    "cometa",
+    "Armée de l'Air (French Air Force)"
+   ]
+  },
+  {
+   "id": "uyrange-hollanda",
+   "affiliations": [
+    "fab",
+    "Serviço Nacional de Informações (SNI)"
+   ]
+  },
+  {
+   "id": "otavio-moreira-lima",
+   "affiliations": [
+    "fab",
+    "Ministério da Aeronáutica"
+   ]
+  },
+  {
+   "id": "pessoa-cavalcanti",
+   "affiliations": [
+    "fab",
+    "Brazilian Air Defence Command (COMDA)"
+   ]
+  },
+  {
+   "id": "ricardo-bermudez",
+   "affiliations": [
+    "cefaa",
+    "dgac-chile",
+    "Fuerza Aérea de Chile (FACh)"
+   ]
   }
  ],
  "entities": [
@@ -531,5 +589,6 @@
   "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme.",
   "Sec. 1102 of S.2226 Div M: the section HEADING and placement are verified against the govinfo engrossed text, but web_fetch caps extraction at ~118,600 characters and the engrossed body (pages 2368-2374) could not be read verbatim. The make-available-to-AARO mandate is corroborated by a contemporaneous section-by-section locator, not read directly. This is the soft joint in the citation and should be closed with a direct read of the printed bill."
  ],
- "_sequence_chain_why": "chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every chain step. All 11 sequenceChains on this board held bare node-id strings or free prose instead, so every one rendered an undefined event under an undefined date - on Grusch, Elizondo, Davis and Marcel among others. Nothing threw and no count moved, so nothing caught it. The renderer is inherited from The Vanishing, where a chain step is an ordered, dated, individually sourced link; the research wrote program lineages and shorthand labels into the same field. Each chain below is rebuilt from that person's own on-board chronology, and each step's source is the claim on the same person that covers it. Steps the old chain asserted but the record here does not carry were dropped rather than written from memory. Where no claim on the node covers a step, the source is null and the dock prints 'No attributed source on file', which is the true statement. uap-gerb is set empty: its old chain pointed at Burlison letters that are not on that node, and it has no ordered chain of individually documented links. The dock prints the 'No sequence chain' block, which says that is a finding rather than a gap."
+ "_sequence_chain_why": "chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every chain step. All 11 sequenceChains on this board held bare node-id strings or free prose instead, so every one rendered an undefined event under an undefined date - on Grusch, Elizondo, Davis and Marcel among others. Nothing threw and no count moved, so nothing caught it. The renderer is inherited from The Vanishing, where a chain step is an ordered, dated, individually sourced link; the research wrote program lineages and shorthand labels into the same field. Each chain below is rebuilt from that person's own on-board chronology, and each step's source is the claim on the same person that covers it. Steps the old chain asserted but the record here does not carry were dropped rather than written from memory. Where no claim on the node covers a step, the source is null and the dock prints 'No attributed source on file', which is the true statement. uap-gerb is set empty: its old chain pointed at Burlison letters that are not on that node, and it has no ordered chain of individually documented links. The dock prints the 'No sequence chain' block, which says that is a finding rather than a gap.",
+ "_affiliations_why": "affiliations is a PROSE field upstream: The Vanishing writes 'NASA Jet Propulsion Laboratory (1998-2022)' into it and renders it verbatim. The research on this board wrote node ids into it instead, so 54 entries reached the dossier as raw slugs - a reader saw 'dod-sapco', 'uk-mod-ufo-desk' and 'skidmore-fitts-report' where a name belonged. 46 of them name a real node and the renderer now resolves those to the node's label and makes them navigable, which keeps the link rather than throwing it away. The eight below name an institution that is not on the board, so they are written out as the prose this field has always held, using the name each person's own sub field already gives."
 }

@@ -1603,6 +1603,31 @@ def main():
                 "sim alpha setter", 1)
             ok_all &= ok
 
+    # ---- affiliations resolve to the node they name -----------------------
+    # affiliations is a PROSE field upstream: The Vanishing writes 'NASA Jet
+    # Propulsion Laboratory (1998-2022)' into it and renders it verbatim. The
+    # research on this board writes node ids instead, so 54 entries reached the
+    # dossier as raw slugs -- a reader saw 'dod-sapco', 'uk-mod-ufo-desk' and
+    # 'skidmore-fitts-report' where a name belonged. 46 of them name a real node.
+    #
+    # Rewriting them as prose would fix the display and throw away the link, so
+    # instead the renderer resolves an id to its label and makes it navigable.
+    # An entry that names no node still renders as the prose it always was, which
+    # is what 'HarperCollins/Mudlark' and 'presidentialufo.com' need. data-goto
+    # is caught by the delegated click handler, so nothing else has to be wired.
+    s, ok = must_replace(
+        s,
+        "      + p.affiliations.map(a=>'&middot; '+esc(a)).join('<br>')+'</div>';",
+        "      + p.affiliations.map(a=>{\n"
+        "          const n = typeof a === 'string' && /^[a-z0-9]+(-[a-z0-9]+)*$/.test(a)\n"
+        "            ? NODES.find(x => x.id === a) : null;\n"
+        "          return '&middot; ' + (n\n"
+        "            ? '<a href=\"#\" data-goto=\"'+esc(n.id)+'\">'+esc(n.label)+'</a>'\n"
+        "            : esc(a));\n"
+        "        }).join('<br>')+'</div>';",
+        "affiliations resolve to node labels", 1)
+    ok_all &= ok
+
     # ---- 5. the L0 program map --------------------------------------------
     # The rest state of the NETWORK view. Lives in its own module because it has no
     # upstream equivalent to patch against -- see tools/l0_patches.py. The model and

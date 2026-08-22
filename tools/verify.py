@@ -158,6 +158,28 @@ def _person_refs(b, html):
     return bad[:40]
 
 
+@check("affiliations render as names, not ids")
+def _affiliations(b, html):
+    """affiliations is a prose field upstream and is printed verbatim. The research
+    here writes node ids into it, so 54 entries reached the dossier as raw slugs:
+    a reader saw 'dod-sapco' and 'skidmore-fitts-report' where a name belonged.
+
+    The renderer now resolves an id-shaped entry to that node's label and links it,
+    which keeps the graph link instead of throwing it away by rewriting to prose.
+    That fix only holds for entries that name a REAL node -- an id-shaped string
+    matching nothing falls through to esc() and prints the slug. So the property
+    worth asserting is not 'no ids here', it is: every id-shaped entry resolves."""
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    slug = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+    bad = []
+    for p in b["people"]:
+        for a in p.get("affiliations") or []:
+            if isinstance(a, str) and slug.match(a) and a not in ids:
+                bad.append(f"{p['id']}: affiliation {a!r} is id-shaped but names no node, "
+                           f"so it prints as the raw slug")
+    return bad[:40]
+
+
 @check("sequence chains are renderable")
 def _chain_shape(b, html):
     """chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every step.
@@ -633,6 +655,8 @@ def self_test():
             lambda b: b["people"][0].update(locId="l-ghost")),
         "sequence chains are renderable": mut(
             lambda b: b["people"][0].update(sequenceChain=["a-node-id"])),
+        "affiliations render as names, not ids": mut(
+            lambda b: b["people"][0].update(affiliations=["some-ghost-org"])),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
         "UI copy agrees with the data": base,   # paired with a poisoned html below
