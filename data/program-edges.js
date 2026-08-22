@@ -1639,22 +1639,39 @@ export const PROGRAM_EDGES = [
     b: 'carve-out',
     type: 'programmatic',
     label: '32 CFR 117.6(b) writes the carve-out into regulation',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), \'Responsibilities\': "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \'DoD SAP Policy\'." The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026.',
+    sources: [
+      {
+        name: '32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020',
+        url: 'https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117',
+        date: '2026-08-22'
+      },
+      {
+        name: 'National Industrial Security Program Operating Manual (NISPOM) final rule, 85 FR 83312, 21 December 2020',
+        url: 'https://www.federalregister.gov/documents/2020/12/21/2020-27698/national-industrial-security-program-operating-manual-nispom',
+        date: '2020-12-21'
+      }
+    ]
   },
   {
     a: 'carve-out',
     b: 'dcsa-nisp',
     type: 'programmatic',
     label: 'relieves DCSA of NISP industrial security oversight for a DoD SAP',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for \'security oversight of the NISP as the DoD CSO\', and then (b)(3) removes it: "The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, \'DoD SAP Policy\'." So the effect is not that oversight passes to another body but that the cognizant security office\'s oversight function ceases for that programme, on the written approval of one of two named officials.',
+    sources: [
+      {
+        name: '32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020',
+        url: 'https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117',
+        date: '2026-08-22'
+      }
+    ]
   },
   {
     a: 'dodi-5205-11',
@@ -1839,11 +1856,17 @@ export const PROGRAM_EDGES = [
     b: 'cfr-32-117',
     type: 'programmatic',
     label: '32 CFR 117 implements E.O. 12829',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: '32 CFR part 117 names E.O. 12829 in its authority citation - \'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...\' - and section 117.1 Purpose states that the rule \'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, "National Industrial Security Program"\'. Read from the eCFR renderer API on 22 August 2026.',
+    sources: [
+      {
+        name: '32 CFR part 117 (NISPOM Rule), full text via the eCFR renderer API, read 22 August 2026; published at 85 FR 83312, 21 December 2020',
+        url: 'https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117',
+        date: '2026-08-22'
+      }
+    ]
   },
   {
     a: 'accm',

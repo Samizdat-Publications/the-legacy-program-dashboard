@@ -52,7 +52,7 @@
   {
    "id": "harry-reid",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 31 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 32 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
    "cls": "person"
   },
   {
@@ -94,13 +94,13 @@
   {
    "id": "tim-burchett",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 71 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 72 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
    "cls": "person"
   },
   {
    "id": "jesse-marcel",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 80 of 956, score 65). 8 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 81 of 956, score 65). 8 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
    "cls": "person"
   },
   {
@@ -1834,28 +1834,28 @@
    "cls": "legislation"
   },
   {
+   "id": "carve-out",
+   "tier": "A",
+   "tierRationale": "Re-graded A on a global pass (rank 30 of 956, score 91). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+   "cls": "program"
+  },
+  {
    "id": "mitre-corporation",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 30 of 956, score 91). 28 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 31 of 956, score 91). 28 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.",
    "cls": "institution"
   },
   {
    "id": "ndaa-fy2024",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 32 of 956, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 33 of 956, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
    "cls": "legislation"
   },
   {
    "id": "iaa-fy2024-sec-1102",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 33 of 956, score 87). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 34 of 956, score 87). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
    "cls": "legislation"
-  },
-  {
-   "id": "carve-out",
-   "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 34 of 956, score 85). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
-   "cls": "program"
   },
   {
    "id": "ndaa-fy2024-1687",
@@ -1978,15 +1978,21 @@
    "cls": "domain"
   },
   {
+   "id": "cfr-32-117",
+   "tier": "A",
+   "tierRationale": "Re-graded A on a global pass (rank 61 of 956, score 73). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+   "cls": "legislation"
+  },
+  {
    "id": "arquivo-nacional-ufo",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 61 of 956, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 62 of 956, score 73). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C1/A0/D3.",
    "cls": "institution"
   },
   {
    "id": "l-skinwalker",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 62 of 956, score 71). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 63 of 956, score 71). 9 connections, 6 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
    "cls": "location",
    "coords": [
     40.2569,
@@ -1997,127 +2003,121 @@
   {
    "id": "usc-50-3091a",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 63 of 956, score 71). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 64 of 956, score 71). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
    "cls": "legislation"
   },
   {
    "id": "odni-memo-es-2026-00818",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 64 of 956, score 71). 10 connections, 2 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 65 of 956, score 71). 10 connections, 2 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.",
    "cls": "document"
   },
   {
    "id": "doe",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 65 of 956, score 70). 17 connections, 4 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+   "tierRationale": "Re-graded A on a global pass (rank 66 of 956, score 70). 17 connections, 4 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
    "cls": "institution"
   },
   {
    "id": "ndaa26-uap-provisions",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 66 of 956, score 70). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 67 of 956, score 70). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
    "cls": "legislation"
   },
   {
    "id": "operacao-prato",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 67 of 956, score 70). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 68 of 956, score 70). 10 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
    "cls": "program"
   },
   {
    "id": "dodig-2023-109",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 68 of 956, score 69). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 69 of 956, score 69). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.",
    "cls": "document"
   },
   {
    "id": "adam-research-project",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 69 of 956, score 69). 8 connections, 7 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 70 of 956, score 69). 8 connections, 7 of them custody/witness/funding/programmatic. Axes C3/A1/D2.",
    "cls": "program"
   },
   {
    "id": "uap-task-force",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 70 of 956, score 69). 19 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 71 of 956, score 69). 19 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
    "cls": "program"
   },
   {
    "id": "aaro-fy2024-annual-report",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 72 of 956, score 68). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 73 of 956, score 68). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.",
    "cls": "document"
   },
   {
    "id": "wilson-davis-memo",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 73 of 956, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 74 of 956, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
    "cls": "document"
   },
   {
    "id": "earthtech-international",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 74 of 956, score 68). 14 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 75 of 956, score 68). 14 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.",
    "cls": "institution"
   },
   {
    "id": "geipan",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 75 of 956, score 68). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 76 of 956, score 68). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
    "cls": "institution"
   },
   {
    "id": "dodd-5205-07-2024",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 76 of 956, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 77 of 956, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.",
    "cls": "document"
   },
   {
    "id": "cefaa",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 77 of 956, score 67). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 78 of 956, score 67). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
    "cls": "institution"
   },
   {
    "id": "nara-uap-collection",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 78 of 956, score 66). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 79 of 956, score 66). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.",
    "cls": "institution"
   },
   {
    "id": "ndaa-fy2026",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 79 of 956, score 66). 9 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+   "tierRationale": "Re-graded A on a global pass (rank 80 of 956, score 66). 9 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
    "cls": "legislation"
   },
   {
    "id": "eo-13526",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 81 of 956, score 65). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 82 of 956, score 65). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
    "cls": "legislation"
   },
   {
    "id": "ttsa-army-crada",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 82 of 956, score 64). 11 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 83 of 956, score 64). 11 connections, 5 of them custody/witness/funding/programmatic. Axes C3/A1/D3.",
    "cls": "document"
   },
   {
    "id": "uapda-sec-9010-eminent-domain",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 83 of 956, score 64). 4 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 84 of 956, score 64). 4 connections, 2 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A2/D3.",
    "cls": "document"
   },
   {
    "id": "usc-50-3348",
    "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 84 of 956, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
-   "cls": "legislation"
-  },
-  {
-   "id": "cfr-32-117",
-   "tier": "A",
-   "tierRationale": "Re-graded A on a global pass (rank 85 of 956, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 85 of 956, score 64). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
    "cls": "legislation"
   },
   {

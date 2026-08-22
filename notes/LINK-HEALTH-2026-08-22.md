@@ -63,6 +63,33 @@ for anything title-specific.
 The working retrieval path for the DIRDs themselves is The Black Vault: all 32
 series-member PDFs returned 200 and were downloaded and read on 22 August.
 
+## Correction: 9 of the 763 are block pages, and I was wrong about eCFR
+
+The sweep followed redirects and recorded the final status, so a host that
+302s a bot to a block page and serves it with 200 was counted as reachable.
+All 763 successes were re-probed recording the effective URL. **37 ended on a
+different host, and 9 of those are block pages:**
+
+- 6 YouTube URLs land on `google.com/sorry/index`, which matches the 18 that
+  returned 429 outright.
+- 3 `doi.org` URLs resolve to `validate.perfdrive.com`, Radware's bot manager
+  sitting in front of IOPscience.
+
+The other 28 are benign: `www.` canonicalisation, DOI resolution to the
+publisher, and archive.org handing off to a CDN node. So the verified figure is
+**754, not 763**.
+
+**And a correction to this note's own first version.** It said eCFR was blocked,
+because `www.ecfr.gov` 302-redirected to `unblock.federalregister.gov` when I hit
+it. Re-probing each eCFR URL once, unhurried, returns the page with no redirect.
+The block is **rate-triggered, and I triggered it** by hammering the host. eCFR
+is usable if approached slowly, and its renderer API at
+`/api/renderer/v1/content/enhanced/...` returned the full 716KB of 32 CFR part
+117 either way. That route is how the codified NISPOM carve-out was read.
+
+The general lesson holds and cuts both ways: a status code from one client at one
+moment is evidence about that request, not about the document.
+
 ## Where the unreachable URLs cluster
 
 Non-archive hosts with the most URLs this client could not fetch. Treat as "needs

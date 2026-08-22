@@ -28,7 +28,7 @@ export const PEOPLE = [
     domains: ['d-funding', 'd-oversight', 'd-legislative', 'd-records'],
     narrative: 'Reid is the appropriator who created the funded lineage and then tried to seal it. As Majority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget for what became AAWSAP at DIA — AARO\'s own 2024 report states flatly that \'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA.\' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 2009. On 24 June 2009 he wrote to Deputy Secretary of Defense William Lynn III requesting that portions of what he called the \'Advanced Aerospace Threat and Identification Program\' be placed in a Restricted Special Access Program with a bigoted access list, protecting methodologies for identifying and engineering advanced technologies, personnel and oversight details, and the involvement of private contractors and industry partners. That letter is the most important single document in this domain because it establishes that the Senate Majority Leader believed the program was producing something warranting SAP protection with a compartmented access list. DoD refused. Reid later said publicly that $22 million was not enough and that failing to study the subject would be malpractice, and called the program one of the good things he did in his congressional service. He died 28 December 2021.',
     affiliations: ['US Senate (1987-2017)', 'Senate Majority Leader (2007-2015)', 'U.S. Senate, Nevada (1987-2017)'],
-    tierRationale: 'Re-graded A on a global pass (rank 31 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 32 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     chronology: [
       {
         date: '2007-01-01',
@@ -8437,7 +8437,7 @@ export const PEOPLE = [
       'House Committee on Oversight and Accountability',
       'US House of Representatives (TN-2)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 71 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 72 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2023-03-11',
@@ -16759,7 +16759,7 @@ export const PEOPLE = [
       '509th Bomb Group, Roswell Army Air Field, S-2 Intelligence (1946-1948)',
       'US Air Force, Special Weapons Program (1948-1950)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 80 of 956, score 65). 8 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 81 of 956, score 65). 8 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
     chronology: [
       {
         date: '1947-07-07',
