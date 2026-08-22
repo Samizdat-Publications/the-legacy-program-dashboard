@@ -552,8 +552,18 @@ def measure(b):
     cls = Counter(n["cls"] for n in b["entities"])
     tier = Counter(n.get("tier") for n in b["people"] + b["entities"])
     ctier = Counter(c["tier"] for n in b["people"] + b["entities"] for c in n.get("claims", []))
-    urls = {c["source"] for n in b["people"] + b["entities"]
-            for c in n.get("claims", []) if c.get("source")}
+    # This counted the whole annotated source STRING, so appending a demotion note
+    # to a claim minted a new "unique source URL" and the number drifted upward on
+    # a pass that added no sourcing at all. Count the URLs, from the claim sources
+    # and the node sources alike, which is what the name has always promised.
+    urlpat = re.compile(r"https?://[^\s,;)\]<>\"]+")
+    urls = set()
+    for n in b["people"] + b["entities"]:
+        for c in n.get("claims", []):
+            urls.update(u.rstrip(".,;") for u in urlpat.findall(c.get("source") or ""))
+        for sc in n.get("sources", []) or []:
+            if sc.get("url"):
+                urls.add(sc["url"].rstrip(".,;"))
     return {
         "people": len(b["people"]), "entities": len(b["entities"]),
         "edges": len(b["edges"]), "timeline": len(b.get("timeline", [])),

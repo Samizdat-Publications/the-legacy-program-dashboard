@@ -502,17 +502,47 @@ def load():
 # A Tier 1 claim asserts a primary record exists. These patterns identify sources
 # that are NOT primary records, however reliable they may be as reporting.
 SECONDARY_PAT = re.compile(
+    # 'blog' without \b: the word boundary meant this missed 'blogspot.com', and
+    # 29 Tier 1 claims were cited to one blogspot host alone.
     r"wikipedia|britannica|\bwiki\b|reddit|substack|medium\.com|youtube|"
-    r"podcast|blog\b|fandom", re.I)
+    r"podcast|blog|fandom", re.I)
 
 # A URL that would justify Tier 1: statute, regulation, agency policy, court
 # record, congressional record, archive, or an agency's own document repository.
+#
+# This pattern was written against the US federal record and silently treated
+# every other government on earth as unsourceable. The board now carries the UK
+# National Archives, Canada, Chile's DGAC, Brazil's Arquivo Nacional, the Senado
+# and the Camara -- 16, 17, 13, 10 and 6 citations respectively -- and none of
+# them counted. It also only credited a .mil URL when it ended in .pdf, so
+# dia.mil and aaro.mil (248 and 154 citations) did not register as primary
+# records even of their own statements.
+#
+# Two non-government hosts are included deliberately: The Black Vault and the
+# FAS Intelligence Resource Program host the released FOIA PDFs themselves --
+# the DIRDs and the DIA's 9 January 2018 AATIP list among them. Primacy belongs
+# to the document, not to who serves it, and the alternative is that 118
+# citations of actual released government records count as no source at all.
+#
+# Whether a URL is a primary record is a SEPARATE question from whether the body
+# publishing it is disinterested. aaro.mil is a primary record OF ITS OWN
+# STATEMENT and nothing more, and INTERESTED_PARTY_PAT below is what enforces
+# that. Widening this pattern does not loosen that rule.
 PRIMARY_URL_PAT = re.compile(
-    r"congress\.gov|govinfo\.gov|federalregister\.gov|whitehouse\.gov/presidential-actions|"
-    r"archives\.gov|ecfr\.gov|law\.cornell\.edu|courtlistener|\.uscourts\.gov|"
-    r"gao\.gov|oversight\.house\.gov|\.senate\.gov|\.house\.gov|dodig\.mil|"
-    r"esd\.whs\.mil|\.mil/.*\.pdf|dni\.gov|cia\.gov/readingroom|foia|"
-    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org", re.I)
+    # US federal
+    r"congress\.gov|govinfo\.gov|federalregister\.gov|whitehouse\.gov|"
+    r"archives\.gov|presidentiallibraries\.us|ecfr\.gov|acquisition\.gov|"
+    r"law\.cornell\.edu|courtlistener|\.uscourts\.gov|"
+    r"gao\.gov|oversight\.house\.gov|\.senate\.gov|\.house\.gov|docs\.house\.gov|"
+    r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
+    r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
+    r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
+    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+    # other governments, all of them already cited on this board
+    r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
+    r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
+    # third-party hosts of released government documents
+    r"theblackvault\.com|irp\.fas\.org", re.I)
 
 demotions = []
 
@@ -542,6 +572,45 @@ ATTRIBUTION_PAT = re.compile(
     r"claimed|announced|acknowledg|concluded|reported that|wrote|testified|"
     r"responded|maintains?|characteri[sz]ed|according to (?:aaro|the )?(?:dod|"
     r"department of defense|pentagon))\b", re.I)
+
+
+URL_IN_SOURCE = re.compile(r"https?://[^\s,;)\]<>\"]+")
+DEMOTION_NOTE = re.compile(r"\s*[-\u2014]+\s*DEMOTED from Tier 1.*$", re.I)
+
+
+def hoist_claim_urls(people, entities):
+    """Make node.sources[] reflect the URLs the node's own claims already cite.
+
+    The research writes the primary record straight into claim.source and often
+    leaves node.sources[] empty. Everything downstream reads node.sources[]: the
+    demotion pass computes has_primary from it, and the integrity report counts
+    it. So 26 nodes carrying 90 Tier 1 claims registered as completely unsourced
+    while every one of those 90 claims cited a real primary URL - the DIA 9 Jan
+    2018 AATIP list, 10 U.S.C. 119 on uscode.house.gov, the released DIRD PDFs,
+    committee pages on house.gov and senate.gov.
+
+    Nothing here is new research and no claim gains a source it did not already
+    cite. This only stops the node from disclaiming what it is standing on.
+    """
+    hoisted = 0
+    for n in list(people.values()) + list(entities.values()):
+        have = {s.get("url") for s in n.get("sources") or [] if s.get("url")}
+        for c in n.get("claims") or []:
+            raw = c.get("source") or ""
+            for u in URL_IN_SOURCE.findall(raw):
+                u = u.rstrip(".,;")
+                if u in have:
+                    continue
+                have.add(u)
+                # the source string minus its URLs and minus any demotion note is
+                # the human name for the record; fall back to the host.
+                name = DEMOTION_NOTE.sub("", URL_IN_SOURCE.sub("", raw))
+                name = re.sub(r"\s+", " ", name).strip(" ,;-\u2014")
+                if len(name) < 8:
+                    name = re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
+                n.setdefault("sources", []).append({"name": name, "url": u, "date": None})
+                hoisted += 1
+    return hoisted
 
 
 def remediate_tiers(people, entities):
@@ -758,6 +827,7 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
 
 def main():
     people, entities, edges, timeline, entity_info, gaps = load()
+    hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
     problems, deg = integrity(people, entities, edges, timeline)
     today = emit(people, entities, edges, timeline, entity_info, gaps, problems)
@@ -792,6 +862,7 @@ def main():
     print(f"unique source URLs  {len(srcs)}")
     print(f"timeline  {len(timeline)}")
     print(f"gaps      {len(gaps)}   rejects {len(rejects)}")
+    print(f"hoisted URLs      {hoisted}  (claim.source -> node.sources)")
     print(f"tier-1 demotions  {len(demotions)}  (tools/DEMOTIONS.json)")
     print("\n--- integrity ---")
     for k in sorted(problems, key=lambda x: -len(problems[x])):

@@ -90,16 +90,6 @@
   "claim": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell."
  },
  {
-  "id": "william-lynn",
-  "why": "node carries no primary-record URL",
-  "claim": "Reid's Restricted SAP request for the program was addressed to Deputy Secretary of Defense William Lynn III on"
- },
- {
-  "id": "william-lynn",
-  "why": "node carries no primary-record URL",
-  "claim": "A DIA talking paper for a 19 November 2009 4:45pm meeting in SVC-217 records that the Deputy Secretary of Defe"
- },
- {
   "id": "daniel-sheehan",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizon"
@@ -113,11 +103,6 @@
   "id": "daniel-sheehan",
   "why": "node carries no primary-record URL",
   "claim": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act follo"
- },
- {
-  "id": "steve-justice",
-  "why": "node carries no primary-record URL",
-  "claim": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired"
  },
  {
   "id": "uap-gerb",
@@ -158,11 +143,6 @@
   "id": "ross-coulthart",
   "why": "node carries no primary-record URL",
   "claim": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; "
- },
- {
-  "id": "steven-greer",
-  "why": "node carries no primary-record URL",
-  "claim": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracki"
  },
  {
   "id": "steven-greer",
@@ -218,36 +198,6 @@
   "id": "jj-velasco",
   "why": "node carries no primary-record URL",
   "claim": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed to the"
- },
- {
-  "id": "claude-poher",
-  "why": "node carries no primary-record URL",
-  "claim": "'GEPAN was created in 1977, under the direction of Dr. Claude Poher. Poher has now resigned, feeling that he h"
- },
- {
-  "id": "claude-poher",
-  "why": "node carries no primary-record URL",
-  "claim": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanch"
- },
- {
-  "id": "wilbert-smith",
-  "why": "node carries no primary-record URL",
-  "claim": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by"
- },
- {
-  "id": "wilbert-smith",
-  "why": "node carries no primary-record URL",
-  "claim": "Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficult to reconcile this perfor"
- },
- {
-  "id": "wilbert-smith",
-  "why": "node carries no primary-record URL",
-  "claim": "Smith recommended that the next step be a 'substantial effort towards the acquisition of as much as possible o"
- },
- {
-  "id": "wilbert-smith",
-  "why": "node carries no primary-record URL",
-  "claim": "Sky Canada Project report: 'In 1950, the Department of Transport granted one of their engineers, Wilbert Smith"
  },
  {
   "id": "leonard-stringfield",
@@ -320,14 +270,84 @@
   "claim": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to "
  },
  {
+  "id": "friedwardt-winterberg",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The same DIA list credits item 36, \"Negative Mass Propulsion\", to Dr F Winterberg, University of Nevada-Reno."
+ },
+ {
   "id": "wil-mccarthy",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "McCarthy is a former Lockheed Martin space launch systems flight controller, former engineering manager at Omn"
  },
  {
+  "id": "vincent-teofilo",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion "
+ },
+ {
+  "id": "richard-genik",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit "
+ },
+ {
+  "id": "richard-genik",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices "
+ },
+ {
+  "id": "richard-genik",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of "
+ },
+ {
+  "id": "george-hathaway",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 10 as \"Role of Superconductors in Gravity Research, Dr George Hath"
+ },
+ {
+  "id": "george-hathaway",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The same DIA list credits Hathaway with a second DIRD, item 16, \"Maverick Inventor Versus Corporate Inventor.\""
+ },
+ {
+  "id": "paul-czysz",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists DIRD item 4 as \"Space Access, Dr"
+ },
+ {
+  "id": "john-cramer",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 25 as \"Space_Communication Implications of Quantum Entanglement an"
+ },
+ {
+  "id": "richard-obousy",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimen"
+ },
+ {
+  "id": "john-albertine",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists the high-energy laser weapons paper twice: item 37, \"State of the Art a"
+ },
+ {
+  "id": "john-albertine",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left th"
+ },
+ {
+  "id": "j-golightly",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J G"
+ },
+ {
   "id": "j-golightly",
   "why": "no attributed source",
   "claim": "No source consulted establishes the given name behind the initial \"J\" for Golightly, or any biographical detai"
+ },
+ {
+  "id": "j-golightly",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Lockheed Martin is the DIA-listed affiliation for three DIRDs: Golightly's ultracapacitors paper, Dr V Teofilo"
  },
  {
   "id": "aaro-historical-record-vol1",
@@ -540,9 +560,24 @@
   "claim": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; suppor"
  },
  {
+  "id": "dird-anomalous-acute-and-subacute-field-effects",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The title as printed on the released document, \"Anomalous Acute and Subacute Field Effects on Human Biological"
+ },
+ {
+  "id": "dird-antigravity-for-aerospace-applications",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"An"
+ },
+ {
   "id": "dird-biosensors-and-biomems-a-survey-of",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The document was released as item 20 of 37 in DIA FOIA case FOIA-00159-2018, completed 25 March 2022 in respon"
+ },
+ {
+  "id": "dird-cognitive-limits-on-simultaneous-control-of",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "It is one of three DIRDs by Genik, alongside 'Technological Applications to Controlling External Devices in th"
  },
  {
   "id": "dird-cognitive-limits-on-simultaneous-control-of",
@@ -553,6 +588,66 @@
   "id": "dird-inertial-electrostatic-confinement-fusion",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "At 72 pages it is the longest single document in DIA's 37-document, 1,473-page FOIA release of 25 March 2022."
+ },
+ {
+  "id": "dird-space-access-where-we-ve-been",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018 to the Senate Armed Services Committee, item 4: \"Space A"
+ },
+ {
+  "id": "dird-state-of-the-art-and-evolution",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, which lists the paper twice: item 37 \"State of the Art "
+ },
+ {
+  "id": "dird-state-of-the-art-and-evolution",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA list renders the title as \"State of the Art and Evaluation of High Energy Laser Weapons\" while the rel"
+ },
+ {
+  "id": "dird-state-of-the-art-and-evolution",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "This document accounts for the long-unexplained 38th entry on the AAWSAP deliverables list, which the earlier "
+ },
+ {
+  "id": "dird-the-role-of-superconductors-in-gravity",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, item 10: \"Role of Superconductors in Gravity Research, "
+ },
+ {
+  "id": "dird-the-space-communication-implications-of-quantum",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, item 25: \"Space_Communication Implications of Quantum E"
+ },
+ {
+  "id": "dird-traversable-wormholes-stargates-and-negative-energy",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative "
+ },
+ {
+  "id": "dird-ultracapacitors-as-energy-and-power-storage",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, item 35: \"Ultracapacitors as Energy and Power Storage D"
+ },
+ {
+  "id": "dird-ultracapacitors-as-energy-and-power-storage",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "One of three DIRDs whose DIA-listed affiliation is Lockheed Martin, alongside Dr V Teofilo's \"Aneutronic Fusio"
+ },
+ {
+  "id": "dird-warp-drive-dark-energy-and-the",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "The DIA letter of 9 January 2018 lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimen"
+ },
+ {
+  "id": "dird-technological-approaches-to-controlling-external-devices",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Author of record per the DIA letter of 9 January 2018, item 20: \"Technological Applications to Controlling Ext"
+ },
+ {
+  "id": "dird-technological-approaches-to-controlling-external-devices",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "One of three DIRDs written by Genik, and one of four DIRDs whose DIA-listed affiliation is Wayne State Univers"
  },
  {
   "id": "l-skinwalker",
@@ -615,79 +710,9 @@
   "claim": "Gillibrand's statement links directly to a Department of War release headed 'Department of War Releases Uniden"
  },
  {
-  "id": "adam-research-project",
-  "why": "node carries no primary-record URL",
-  "claim": "TTSA's SEC offering materials describe ADAM as acquiring and analysing material samples from advanced aerospac"
- },
- {
-  "id": "adam-research-project",
-  "why": "node carries no primary-record URL",
-  "claim": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its futur"
- },
- {
-  "id": "adam-research-project",
-  "why": "node carries no primary-record URL",
-  "claim": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zin"
- },
- {
-  "id": "ttsa-army-crada",
-  "why": "node carries no primary-record URL",
-  "claim": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and "
- },
- {
-  "id": "ttsa-army-crada",
-  "why": "node carries no primary-record URL",
-  "claim": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metama"
- },
- {
-  "id": "ttsa-army-crada",
-  "why": "node carries no primary-record URL",
-  "claim": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pa"
- },
- {
-  "id": "ttsa-army-crada",
-  "why": "node carries no primary-record URL",
-  "claim": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science"
- },
- {
-  "id": "ttsa-army-crada",
-  "why": "node carries no primary-record URL",
-  "claim": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019"
- },
- {
   "id": "oak-ridge-national-laboratory",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning "
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "On 22 June 2026 ODNI, with the support of the FBI, announced a UAP Science Advisory Council to undertake furth"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "The council is led by Dr Avi Loeb and reports to a higher-level UAP Governance Board, an interagency body coor"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "Named members from the Sol Foundation are Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross"
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "All data shared with the council will be unclassified."
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the "
- },
- {
-  "id": "uap-science-advisory-council",
-  "why": "node carries no primary-record URL",
-  "claim": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an intera"
  },
  {
   "id": "pursue-release-01",
@@ -728,16 +753,6 @@
   "id": "navy-pic-1953-film-analysis",
   "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "The document was released on 7 August 2026 in PURSUE Release 05 at war.gov/UFO."
- },
- {
-  "id": "aoimsg",
-  "why": "node carries no primary-record URL",
-  "claim": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-c"
- },
- {
-  "id": "aoimsg",
-  "why": "node carries no primary-record URL",
-  "claim": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022."
  },
  {
   "id": "pursue-programme-2026",
@@ -836,23 +851,18 @@
  },
  {
   "id": "l-colorado-springs",
-  "why": "node carries no primary-record URL",
-  "claim": "NORAD and US Northern Command are headquartered at Peterson Space Force Base, Colorado Springs; Cheyenne Mount"
- },
- {
-  "id": "l-colorado-springs",
-  "why": "node carries no primary-record URL",
+  "why": "sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact",
   "claim": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs."
  },
  {
-  "id": "l-ft-meade",
+  "id": "baass-ten-month-report",
   "why": "node carries no primary-record URL",
-  "claim": "NSA is headquartered at Fort George G. Meade, Maryland."
+  "claim": "DIA reported it could locate no report matching the description of 'Utah Ranch Investigation: August 2009-Febr"
  },
  {
-  "id": "l-ft-meade",
+  "id": "baass-ten-month-report",
   "why": "node carries no primary-record URL",
-  "claim": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024."
+  "claim": "DoD confirms the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in U"
  },
  {
   "id": "nids",
@@ -870,34 +880,9 @@
   "claim": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies "
  },
  {
-  "id": "ttsa",
+  "id": "lacatski-book-series",
   "why": "node carries no primary-record URL",
-  "claim": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semiv"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per shar"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "CRADA 19-15, 'Novel & Emerging Technology Exploitation (NETE),' between To The Stars Academy of Arts and Scien"
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the "
- },
- {
-  "id": "ttsa",
-  "why": "node carries no primary-record URL",
-  "claim": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements "
+  "claim": "Lacatski published 'Inside the U.S. Government Covert UFO Program: New Insights' in 2025 (ISBN 9798989114689) "
  },
  {
   "id": "nyt-2017-12-16",
@@ -923,6 +908,16 @@
   "id": "unidentified-history-series",
   "why": "node carries no primary-record URL",
   "claim": "The series prompted the Pentagon statement of 1 June 2019 that Elizondo had no AATIP responsibilities."
+ },
+ {
+  "id": "pentacle-memorandum",
+  "why": "node carries no primary-record URL",
+  "claim": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addr"
+ },
+ {
+  "id": "pentacle-memorandum",
+  "why": "node carries no primary-record URL",
+  "claim": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within t"
  },
  {
   "id": "uap-gerb-mitre-investigation",
@@ -1005,36 +1000,6 @@
   "claim": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for gover"
  },
  {
-  "id": "dird-green-clinical-medical",
-  "why": "node carries no primary-record URL",
-  "claim": "The document's Hypothesis One reads: 'Sufficient evidence exists from human injury / effects to reverse engine"
- },
- {
-  "id": "dird-green-clinical-medical",
-  "why": "node carries no primary-record URL",
-  "claim": "Its executive summary states that reported incidents and acquired medical data 'support a hypothesis that some"
- },
- {
-  "id": "dird-green-clinical-medical",
-  "why": "node carries no primary-record URL",
-  "claim": "The document quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' regarding 'Probable ET Generated "
- },
- {
-  "id": "dird-green-clinical-medical",
-  "why": "node carries no primary-record URL",
-  "claim": "It draws on 42 peer-reviewed cases and approximately 300 unpublished cases, names the Cash-Landrum event, and "
- },
- {
-  "id": "dird-green-clinical-medical",
-  "why": "node carries no primary-record URL",
-  "claim": "It proposes a continuation effort evaluating 300 to 500 events in ICD-code diagnostics with decisions on inves"
- },
- {
-  "id": "dia-aatip-list-2019",
-  "why": "node carries no primary-record URL",
-  "claim": "DIA released a 38-title list of AATIP research products to FAS on 16 January 2019, covering work funded 2007-2"
- },
- {
   "id": "age-of-disclosure-2025",
   "why": "node carries no primary-record URL",
   "claim": "The film premiered at SXSW on 9 March 2025 and was released theatrically in limited release and on Prime Video"
@@ -1043,56 +1008,6 @@
   "id": "hr-8197",
   "why": "node carries no primary-record URL",
   "claim": "H.R. 8197 was introduced by Rep. Tim Burchett on 6 April 2026 and would abolish AARO, bar any successor entity"
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "Arquivo Nacional's own response to a litigant, quoted verbatim in the federal court record: 'Em pesquisa no SI"
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "The operation's commander is named in a Chamber of Deputies information requirement as 'coronel Uyrangê Boliva"
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas "
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "Archival unit designation attested in a parliamentary document: the summary of SINDACTA I UFO cases sent to CO"
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à "
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was d"
- },
- {
-  "id": "operacao-prato",
-  "why": "node carries no primary-record URL",
-  "claim": "The Senado Federal, in a requerimento approved by the Plenary on 24 June 2022, lists Operação Prato among offi"
- },
- {
-  "id": "ev-noite-ovnis-1986",
-  "why": "node carries no primary-record URL",
-  "claim": "The 1986 event is named and characterised in a Senate document approved by the Plenary on 24 June 2022: 'em 19"
- },
- {
-  "id": "ev-noite-ovnis-1986",
-  "why": "node carries no primary-record URL",
-  "claim": "The Air Defence Command's report records the interceptor sequence with Zulu timings, the 13 plots astern of th"
- },
- {
-  "id": "ev-noite-ovnis-1986",
-  "why": "node carries no primary-record URL",
-  "claim": "The report records the technical limitation that Brazilian coverage rested on radars 'cuja finalidade primária"
  },
  {
   "id": "soyuzufotsentr",
@@ -1225,144 +1140,14 @@
   "claim": "Recommendation 1 includes alerting 'special civilian and military departments, as well as the Direction de la "
  },
  {
-  "id": "gepan",
-  "why": "node carries no primary-record URL",
-  "claim": "NSA-held assessment: 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material ph"
- },
- {
-  "id": "gepan",
-  "why": "node carries no primary-record URL",
-  "claim": "NSA-held assessment: 'The care with which distances, angles, and psychological factors were evaluated makes th"
- },
- {
-  "id": "gepan",
-  "why": "node carries no primary-record URL",
-  "claim": "NSA-held assessment: 'the original report was limited to 120 or 140 copies and was secret. It is not available"
- },
- {
-  "id": "gepan",
-  "why": "node carries no primary-record URL",
-  "claim": "NSA-held assessment: GEPAN 'is alerted to actual cases by teletype by the Gendarmerie, the French national pol"
- },
- {
   "id": "sepra",
   "why": "node carries no primary-record URL",
   "claim": "COMETA recommendation 2 targets SEPRA directly, asking that it 'collect information relating to all UFO manife"
  },
  {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "'Depuis 49 ans, le GEIPAN a enregistré plus de 9 897 témoignages représentant environ 5 170 cas d'observations"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN dynamic statistics as at 11 August 2026: 3,381 cases total - A 28.1% (950), B 38.7% (1,310), C 30.0% (1"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "'Au total le GEIPAN reçoit plus de 1000 contacts par an ... Environ 150 à 200 donnent lieu à une enquête qui s"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN's classification was rebuilt in 2008 on two measured parameters, consistency (C) and residual strangene"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN uses IPACO as its preferred image and video authentication and processing software for investigations ("
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN announced 'Un nouveau responsable au GEIPAN à compter du 15 janvier 2024' on 12 February 2024."
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "'Le CNES étudie les PAN depuis 1977, date de la création du GEPAN (Groupe d'Étude des Phénomènes Aérospatiaux "
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "'Fin 2001, la Direction générale du CNES commande un audit pour statuer sur l'avenir de l'activité. En 2005, à"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN is steered by a comité de pilotage 'composé de représentants des autorités civiles et militaires du pay"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "'L'équipe du GEIPAN est constituée de deux agents CNES à temps plein: le responsable et son assistante', with "
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "Classification is by consistency (C) and residual strangeness (E), producing categories A (perfectly identifie"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "Published statistics dated 11/08/2026 cover 3,381 classified cases: 950 class A (28.1%), 1,310 class B (38.7%)"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEIPAN's FAQ states it is 'a technical department of CNES', that it 'does not involve in a security topic nor "
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "CNES lists GEIPAN's inception as 1977, its location as CNES Toulouse, its lifetime as 'Indefinite' and its sta"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "Key milestones per CNES: '2008: GEIPAN website created and UAP archives transferred to it; 2005: GEIPAN replac"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "GEPAN's investigation of the Trans-en-Provence physical-trace case of 8 January 1981 was published as Note Tec"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "Canada's Office of the Chief Science Advisor: 'France's GEIPAN ... operates under the French space agency CNES"
- },
- {
-  "id": "geipan",
-  "why": "node carries no primary-record URL",
-  "claim": "The same report records that GEIPAN has 'a team of three full-time employees', that reports are investigated b"
- },
- {
   "id": "ev-varginha-1996",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains"
- },
- {
-  "id": "project-magnet",
-  "why": "node carries no primary-record URL",
-  "claim": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speed"
- },
- {
-  "id": "project-magnet",
-  "why": "node carries no primary-record URL",
-  "claim": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of a"
- },
- {
-  "id": "project-magnet",
-  "why": "node carries no primary-record URL",
-  "claim": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ont"
- },
- {
-  "id": "project-magnet",
-  "why": "node carries no primary-record URL",
-  "claim": "Sky Canada Project, June 2025: 'the Department of Transport terminated Project Magnet in 1954.'"
  },
  {
   "id": "setka-program",
@@ -1581,16 +1366,6 @@
  },
  {
   "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 over 'doodlebug' devices they claimed were "
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "A one-page memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the FBI's Washington Field Of"
- },
- {
-  "id": "aztec-1948",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later i"
  },
@@ -1598,56 +1373,6 @@
   "id": "aztec-1948",
   "why": "cited to a secondary/encyclopedic source",
   "claim": "Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was rec"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "Newton, 'initially known only as the mysterious “Mr. X”', 'notoriously gave a lecture to a host of science stu"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could "
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "Leonard GeBauer, 'a Phoenix electronics merchant', is identified as 'likely “Dr. Gee,” the “magnetologist” fea"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "Newton and GeBauer 'were charged with swindling Herman A. Flader to the tune of $50,000'; the device sold was "
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, wi"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "The exposure was published by J. P. Cahn as 'The Flying Saucers and the Mysterious Little Men', True, Septembe"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine"
- },
- {
-  "id": "aztec-1948",
-  "why": "node carries no primary-record URL",
-  "claim": "The FBI's own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it 'does n"
  },
  {
   "id": "plains-san-agustin-1947",
@@ -1680,16 +1405,6 @@
   "claim": "The book states that Walter Haut was 'not a witness'."
  },
  {
-  "id": "hottel-memo",
-  "why": "node carries no primary-record URL",
-  "claim": "The memorandum is dated 22 March 1950, authored by Guy Hottel, special agent in charge of the FBI's Washington"
- },
- {
-  "id": "hottel-memo",
-  "why": "node carries no primary-record URL",
-  "claim": "The FBI has described the memo as relaying a second- or third-hand claim that the Bureau never investigated, a"
- },
- {
   "id": "l-kecksburg",
   "why": "node carries no primary-record URL",
   "claim": "Kecksburg lies about 30 miles (48 km) southeast of Pittsburgh in Westmoreland County, Pennsylvania."
@@ -1700,21 +1415,6 @@
   "claim": "The Greensburg Tribune-Review reported that the area where the object landed was immediately sealed off on the"
  },
  {
-  "id": "d-psyop",
-  "why": "node carries no primary-record URL",
-  "claim": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media"
- },
- {
-  "id": "d-psyop",
-  "why": "node carries no primary-record URL",
-  "claim": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request"
- },
- {
-  "id": "l-uk-mod-whitehall",
-  "why": "node carries no primary-record URL",
-  "claim": "The UK Ministry of Defence operated a UFO reporting desk until its closure in December 2009 and released its U"
- },
- {
   "id": "l-huffman-tx",
   "why": "node carries no primary-record URL",
   "claim": "Cash v. United States, No. H-84-348 (S.D. Tex.), was dismissed by order dated 21 August 1986."
@@ -1723,25 +1423,5 @@
   "id": "l-toulouse",
   "why": "node carries no primary-record URL",
   "claim": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly."
- },
- {
-  "id": "l-brasilia",
-  "why": "node carries no primary-record URL",
-  "claim": "Brazilian military UFO records have been transferred into the Arquivo Nacional and are publicly accessible."
- },
- {
-  "id": "l-uk",
-  "why": "node carries no primary-record URL",
-  "claim": "The UK Ministry of Defence closed its UFO desk in December 2009 and released its UFO file series to the Nation"
- },
- {
-  "id": "l-ottawa",
-  "why": "node carries no primary-record URL",
-  "claim": "Wilbert B. Smith's November 1950 memorandum to the Canadian Controller of Telecommunications states that the f"
- },
- {
-  "id": "l-ottawa",
-  "why": "node carries no primary-record URL",
-  "claim": "Canada's Office of the Chief Science Advisor ran the Sky Canada Project, a federal review of how UAP reports a"
  }
 ]
