@@ -20,11 +20,11 @@
    "C": 485
   },
   "claim_tiers": {
-   "1": 2660,
-   "2": 1278,
+   "1": 2707,
+   "2": 1234,
    "3": 493
   },
-  "unique_source_urls": 1173,
+  "unique_source_urls": 1176,
   "l0_nodes": 110,
   "l0_edges_direct": 209,
   "l0_edges_summarised": 109,
@@ -33,7 +33,7 @@
   "unattached": 0,
   "l0_with_dossier": 110,
   "l0_dossier_claims": 1563,
-  "people_with_date": 245,
+  "people_with_date": 279,
   "locations_with_coords": 45
  }
 }

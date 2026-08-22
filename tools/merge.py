@@ -567,10 +567,25 @@ INTERESTED_PARTY_PAT = re.compile(
 # A claim ABOUT what an interested party said is legitimately Tier 1 from that
 # party's own publication — there, the statement IS the fact. Only claims that use
 # the interested party as an authority for an external fact get capped.
+# The interested-party rule caps an AARO/DoD-sourced claim at Tier 2 UNLESS the
+# claim is about what they said -- because publishing a document makes it a primary
+# record OF THE STATEMENT. That exemption is only as wide as this verb list, and the
+# list held speech verbs only. So a claim reporting what a document LISTS, CONTAINS,
+# READS or PUBLISHES did not read as attribution and was demoted anyway.
+#
+# 47 claims were caught that way, and they included the strongest evidence on the
+# board: that HRR Volume I contains zero occurrences of the name 'Wilson' across all
+# 63 pages, what its title page reads verbatim, and the file manifest of every PURSUE
+# release. A full-text negative finding about a document, sourced to that document,
+# is exactly what Tier 1 is for.
 ATTRIBUTION_PAT = re.compile(
     r"\b(denie[ds]|denial|declined|stated|states|said|asserts?|asserted|claims|"
     r"claimed|announced|acknowledg|concluded|reported that|wrote|testified|"
-    r"responded|maintains?|characteri[sz]ed|according to (?:aaro|the )?(?:dod|"
+    r"responded|maintains?|characteri[sz]ed|"
+    r"attributes?|attributed|credits?|credited|lists?|listed|identifies|identified|"
+    r"names|named|reads|contains?|describes?|described|prints?|printed|publishes|"
+    r"published|records?|recorded|shows?|gives?|hosts?|"
+    r"according to (?:aaro|the )?(?:dod|"
     r"department of defense|pentagon))\b", re.I)
 
 
