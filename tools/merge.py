@@ -712,14 +712,17 @@ def duplicate_groups(people, entities):
             if not ka or not kb:
                 continue
             # A detector that cries wolf gets ignored, and then it is no detector.
-            # The AARO consolidated annual reports are near-identical by title and
-            # share a source, but FY2023, FY2024 and FY2025 are three real reports.
-            # If both labels carry years and the years differ, they are distinct.
-            # Match bare digits, not \b\d{4}\b: "FY2023" has no word boundary
-            # before the digits, which is exactly the case this needs to catch.
-            ya = set(re.findall(r"(?:19|20)\d{2}", a["label"] or ""))
-            yb = set(re.findall(r"(?:19|20)\d{2}", b["label"] or ""))
-            if ya and yb and ya != yb:
+            # Two labels that both carry an identifier and carry DIFFERENT ones are
+            # different things, however alike the surrounding words are. That covers
+            # the AARO consolidated annual reports, which are near-identical by title
+            # and share a source but are three real reports (FY2023/FY2024/FY2025),
+            # and the two DIRDs both titled 'Aneutronic Fusion Propulsion', which are
+            # distinguished only by DIA-08-1011-003 vs -004.
+            # Match bare digit runs, not \b\d{4}\b: "FY2023" has no word boundary
+            # before its digits, which is exactly the case this needs to catch.
+            ia = set(re.findall(r"\d{3,}", a["label"] or ""))
+            ib = set(re.findall(r"\d{3,}", b["label"] or ""))
+            if ia and ib and ia != ib:
                 continue
             overlap = len(ka & kb) / len(ka | kb)
             if overlap >= 0.6:

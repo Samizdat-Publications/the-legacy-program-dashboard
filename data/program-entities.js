@@ -26903,7 +26903,7 @@ export const DOCUMENTS = [
   {
     id: 'dird-aneutronic-fusion-propulsion',
     cls: 'document',
-    label: 'Aneutronic Fusion Propulsion',
+    label: 'Aneutronic Fusion Propulsion (DIA-08-1011-003)',
     cluster: 'other',
     sub: 'defense-intelligence-reference-document',
     desc: 'DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01, DIA-08-1011-003, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.',
@@ -26985,7 +26985,7 @@ export const DOCUMENTS = [
   {
     id: 'dird-aneutronic-fusion-propulsion-2',
     cls: 'document',
-    label: 'Aneutronic Fusion Propulsion',
+    label: 'Aneutronic Fusion Propulsion (DIA-08-1011-004)',
     cluster: 'other',
     sub: 'defense-intelligence-reference-document',
     desc: 'DIA Defense Intelligence Reference Document (Defense Futures series), 2010-11-01, DIA-08-1011-004, produced under the Advanced Aerospace Weapon System Applications (AAWSA/AAWSAP) Program contract with BAASS. Released under FOIA.',
