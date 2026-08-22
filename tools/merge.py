@@ -285,7 +285,30 @@ def load():
                 "photoCredit": p.get("photoCredit"),
                 "_domains": [slug],
             }
-            if slug == "_remediation" and pid in people:
+            if slug == "_corrections" and pid in people:
+                # The entity side of this overlay has existed since the Condign
+                # corrections. People needed it for the same reason and did not
+                # have it: merge_person UNIONS domains, affiliations and
+                # sequenceChain, so a wrong value cannot be removed by editing the
+                # research file that introduced it -- the union pulls it back from
+                # whichever other file also declares it. A correction has to be
+                # able to say "this field is now exactly this", so on the
+                # reference fields this overlay REPLACES rather than merges.
+                tgt = people[pid]
+                for f in ("label", "sub", "cluster", "tier", "status", "loc",
+                          "date", "narrative", "unexplainedResidual"):
+                    if p.get(f) is not None:
+                        tgt[f] = p[f]
+                # membership test, not truthiness: an explicit null or [] is the
+                # correction in every case where the old value should simply go.
+                for f in ("locId", "instId", "domains", "affiliations", "sequenceChain"):
+                    if f in p:
+                        tgt[f] = rec[f]
+                if p.get("sources"):
+                    tgt["sources"] = norm_sources(list(p["sources"]) + tgt.get("sources", []))
+                if p.get("claims"):
+                    tgt["claims"] = norm_claims(p["claims"]) + tgt.get("claims", [])
+            elif slug == "_remediation" and pid in people:
                 tgt = people[pid]
                 for f in ("tier", "tierRationale", "date", "coords"):
                     if p.get(f) is not None:
@@ -436,6 +459,32 @@ def load():
         dropped = [k for k, e in edges.items() if e["a"] in rm or e["b"] in rm]
         for k in dropped:
             edges.pop(k)
+
+        # Dropping the edges is not the whole job. A person points at nodes through
+        # locId, instId and domains as well, and deriveEdges() turns every one of
+        # those into a live edge at runtime -- so a back-reference to a removed node
+        # is a phantom edge, not merely untidy data.
+        #
+        # The first version of this block swept edges only, because verify.py's
+        # dangling check walked edge endpoints only. Satisfying the gate defined the
+        # scope of the fix, and 31 people kept pointing at 30 removed locations while
+        # the gate reported ok. The gate now walks these fields too; this sweep is
+        # what keeps them clean, and an alias re-points rather than orphans exactly
+        # as it does for the timeline above.
+        swept = 0
+        for p_ in people.values():
+            for f in ("locId", "instId"):
+                if p_.get(f) in rm:
+                    p_[f] = alias.get(p_[f])
+                    swept += 1
+            doms = [alias.get(d, d) for d in p_.get("domains") or []]
+            doms = [d for i, d in enumerate(doms) if d not in rm and d not in doms[:i]]
+            if doms != (p_.get("domains") or []):
+                p_["domains"] = doms
+                swept += 1
+        if swept:
+            print(f"  swept {swept} person back-reference(s) to removed nodes",
+                  file=sys.stderr)
         if repointed:
             print(f"  re-pointed {repointed} reference(s) to a collapsed node",
                   file=sys.stderr)

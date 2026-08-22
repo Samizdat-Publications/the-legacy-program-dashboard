@@ -125,6 +125,58 @@ def _dangling(b, html):
     for t in b.get("timeline", []):
         if t.get("node") and t["node"] not in ids:
             bad.append(f"timeline {t.get('id')} references missing node {t['node']!r}")
+        if t.get("ref") and t["ref"] not in ids:
+            bad.append(f"timeline {t.get('id')}.ref references missing {t['ref']!r}")
+        for f in ("entities", "nodes", "refs"):
+            for x in t.get(f) or []:
+                if x not in ids:
+                    bad.append(f"timeline {t.get('id')}.{f} references missing {x!r}")
+    return bad[:40]
+
+
+@check("every person back-reference resolves")
+def _person_refs(b, html):
+    """A person points at nodes through locId, instId and domains, and deriveEdges()
+    turns each one into a live edge at runtime. These are references exactly as much
+    as an edge endpoint is, and until this check existed nothing walked them.
+
+    That gap shipped. When 30 location nodes were removed under the approved
+    deletion list, the removal dropped the edges that touched them -- because the
+    dangling check walked edge endpoints, and satisfying the gate defined the scope
+    of the fix. The 31 person.locId back-references pointing at those same nodes
+    survived, and the board emitted 31 geographic edges to locations that no longer
+    existed. Nothing threw, and 'no dangling references' reported ok on every run."""
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    bad = []
+    for p in b["people"]:
+        for f in ("locId", "instId"):
+            if p.get(f) and p[f] not in ids:
+                bad.append(f"person {p['id']}.{f} references missing {p[f]!r}")
+        for d in p.get("domains") or []:
+            if d not in ids:
+                bad.append(f"person {p['id']}.domains references missing {d!r}")
+    return bad[:40]
+
+
+@check("sequence chains are renderable")
+def _chain_shape(b, html):
+    """chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every step.
+    All 11 chains on this board held bare node-id strings instead of step objects,
+    so every one of them rendered an undefined event under an undefined date --
+    including Grusch, Elizondo, Davis and Marcel, which are the most-read dossiers
+    here. Nothing threw, and no count moved.
+
+    The renderer is inherited from The Vanishing, where a chain step is an ordered,
+    dated, individually sourced link. The research wrote program lineages into the
+    same field. Both are legitimate objects; only one of them is what this field
+    renders, and the field has to hold what the renderer reads."""
+    bad = []
+    for p in b["people"]:
+        for i, s in enumerate(p.get("sequenceChain") or []):
+            if not isinstance(s, dict):
+                bad.append(f"{p['id']}: chain step {i} is a {type(s).__name__}, not a step object")
+            elif not (s.get("date") and s.get("event")):
+                bad.append(f"{p['id']}: chain step {i} has no date or no event")
     return bad[:40]
 
 
@@ -577,6 +629,10 @@ def self_test():
             label="James R. Clapper Jr.") or b["people"][0].update(label="Jr.")),
         "no dangling references": mut(lambda b: b["edges"].append(
             {"a": "a-b", "b": "ghost", "type": "custody"})),
+        "every person back-reference resolves": mut(
+            lambda b: b["people"][0].update(locId="l-ghost")),
+        "sequence chains are renderable": mut(
+            lambda b: b["people"][0].update(sequenceChain=["a-node-id"])),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
         "UI copy agrees with the data": base,   # paired with a poisoned html below

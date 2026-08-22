@@ -1,6 +1,349 @@
 {
  "domain": "_corrections",
- "people": [],
+ "people": [
+  {
+   "id": "jesse-marcel",
+   "sequenceChain": [
+    {
+     "date": "1947-07-07",
+     "event": "Travels to the Foster ranch with CIC Capt. Sheridan Cavitt and collects debris",
+     "isAnomalous": false,
+     "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+    },
+    {
+     "date": "1947-07-08",
+     "event": "Photographed in Gen. Roger Ramey's Fort Worth office with balloon and radar-target debris",
+     "isAnomalous": false,
+     "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+    },
+    {
+     "date": "1978-02-20",
+     "event": "Tells Stanton Friedman the balloon story was a cover and the material was unidentifiable",
+     "isAnomalous": true,
+     "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978"
+    }
+   ]
+  },
+  {
+   "id": "steven-schiff",
+   "sequenceChain": [
+    {
+     "date": "1993-01-01",
+     "event": "Begins seeking Roswell records from the Department of Defense after constituent inquiries",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1994-03-01",
+     "event": "Directs GAO to conduct a records search; GAO work begins",
+     "isAnomalous": false,
+     "source": "GAO/NSIAD-95-187, letter of transmittal and scope section"
+    },
+    {
+     "date": "1994-09-08",
+     "event": "Air Force issues its report attributing the Roswell debris to Project MOGUL",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1995-07-28",
+     "event": "GAO/NSIAD-95-187 issued, reporting the destruction of RAAF records without disposition authority",
+     "isAnomalous": true,
+     "source": "GAO/NSIAD-95-187, p.3"
+    }
+   ]
+  },
+  {
+   "id": "howard-c-cross",
+   "sequenceChain": [
+    {
+     "date": "1952-01-01",
+     "event": "Battelle running Project Stork analytical work for the Air Force on Blue Book data",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1953-01-09",
+     "event": "Writes the memorandum to Miles E. Goll at Wright-Patterson AFB, ref. G-1579-4, classified SECRET",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    },
+    {
+     "date": "1953-01-14",
+     "event": "Robertson Panel convenes; per Vallee, it is not briefed on the Pentacle proposals",
+     "isAnomalous": true,
+     "source": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON"
+    },
+    {
+     "date": "1967-06-18",
+     "event": "Jacques Vallee finds the memo among J. Allen Hynek's papers and records it in his journal",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    },
+    {
+     "date": "1992-01-01",
+     "event": "Vallee publishes an account in Forbidden Science, using the codename 'Pentacle'",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    }
+   ]
+  },
+  {
+   "id": "tim-gallaudet",
+   "sequenceChain": [
+    {
+     "date": "2015-01-01",
+     "event": "Receives the 'URGENT SAFETY OF FLIGHT ISSUE' email from the Fleet Forces Command operations officer carrying the GO FAST video",
+     "isAnomalous": false,
+     "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+    },
+    {
+     "date": "2015-01-02",
+     "event": "Says the email vanished from his and other recipients' accounts the following day",
+     "isAnomalous": true,
+     "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024"
+    },
+    {
+     "date": "2024-11-13",
+     "event": "Testifies to House Oversight joint subcommittees about the recalled email",
+     "isAnomalous": false,
+     "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+    }
+   ]
+  },
+  {
+   "id": "harold-puthoff",
+   "sequenceChain": [
+    {
+     "date": "1972",
+     "event": "Begins SRI International remote-viewing/psychoenergetics programme with Russell Targ under CIA and later DIA sponsorship.",
+     "isAnomalous": false,
+     "source": "CIA STARGATE declassified collection"
+    },
+    {
+     "date": "1978-01-01",
+     "event": "Army/DIA effort formalised as GRILL FLAME.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1995-01-01",
+     "event": "CIA declassifies and releases the STARGATE corpus following the AIR evaluation; programme terminated.",
+     "isAnomalous": false,
+     "source": "CIA STARGATE declassified collection"
+    },
+    {
+     "date": "1995-01-01",
+     "event": "Becomes a consultant to Robert Bigelow's newly founded National Institute for Discovery Science.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2008-01-01",
+     "event": "Principal investigator on Defense Intelligence Agency-funded advanced aerospace work through Bigelow's BAASS under AAWSAP.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2017-10-11",
+     "event": "Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice.",
+     "isAnomalous": false,
+     "source": null
+    }
+   ]
+  },
+  {
+   "id": "eric-davis",
+   "sequenceChain": [
+    {
+     "date": "1996-01-01",
+     "event": "Works with NIDS as a staff scientist under Bigelow.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2002-10-16",
+     "event": "Date attributed to the meeting with Vice Adm. Thomas R. Wilson recorded in the notes later known as the Wilson-Davis memo.",
+     "isAnomalous": true,
+     "source": "House Permanent Select Committee on Intelligence, Counterterrorism, Counterintelligence and Counterproliferation Subcommittee hearing, 17 May 2022; contemporaneous reporting"
+    },
+    {
+     "date": "2008-01-01",
+     "event": "Authors Defense Intelligence Reference Documents for the DIA-funded AAWSAP effort through BAASS.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2019-10-21",
+     "event": "Gives a classified briefing on retrievals of unexplained objects to Senate Armed Services Committee staff.",
+     "isAnomalous": false,
+     "source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record"
+    }
+   ]
+  },
+  {
+   "id": "robert-bigelow",
+   "sequenceChain": [
+    {
+     "date": "1995-01-01",
+     "event": "Founds the National Institute for Discovery Science",
+     "isAnomalous": false,
+     "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+    },
+    {
+     "date": "1996-01-01",
+     "event": "Purchases the 480-acre Sherman ranch in Uintah County, Utah, with non-disclosure conditions on the sellers.",
+     "isAnomalous": false,
+     "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+    },
+    {
+     "date": "2008-09-22",
+     "event": "BAASS awarded DIA contract HHM402-08-C-0072",
+     "isAnomalous": false,
+     "source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022"
+    },
+    {
+     "date": "2009-07-01",
+     "event": "BAASS delivers the 494-page Ten Month Report to DIA",
+     "isAnomalous": false,
+     "source": null
+    }
+   ]
+  },
+  {
+   "id": "david-grusch",
+   "sequenceChain": [
+    {
+     "date": "2021-07-01",
+     "event": "First protected disclosure of classified UAP concealment information to the DoD Inspector General",
+     "isAnomalous": false,
+     "source": "House Oversight hearing transcript, 26 July 2023"
+    },
+    {
+     "date": "2022-05-25",
+     "event": "PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2022-07-01",
+     "event": "ICIG finds the complaint credible and urgent",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2023-04-04",
+     "event": "DOPSR clears first submission for open publication",
+     "isAnomalous": false,
+     "source": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault"
+    },
+    {
+     "date": "2023-06-05",
+     "event": "The Debrief publishes Kean and Blumenthal's account of his allegations",
+     "isAnomalous": false,
+     "source": "Kean and Blumenthal, The Debrief, 5 June 2023"
+    },
+    {
+     "date": "2023-07-26",
+     "event": "Testifies under oath before the House Oversight Committee",
+     "isAnomalous": false,
+     "source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282"
+    },
+    {
+     "date": "2023-08-09",
+     "event": "The Intercept publishes his 2014 and 2018 police and psychiatric records obtained by FOIA from Loudoun County",
+     "isAnomalous": true,
+     "source": null
+    },
+    {
+     "date": "2025-07-24",
+     "event": "Rep. Eli Crane writes DoD on his behalf citing clearance removal, denied promotion, lost medical retirement",
+     "isAnomalous": true,
+     "source": "Rep. Eli Crane, letter to the Department of Defense dated 24 July 2025, entered into the record of the 9 September 2025 Task Force hearing"
+    },
+    {
+     "date": "2026-06-09",
+     "event": "Speaks at a Capitol-steps press conference organised with Rep. Luna; describes a continuum of alleged non-human life and references four species",
+     "isAnomalous": false,
+     "source": "Grusch at the Capitol press conference hosted by the House Task Force on the Declassification of Federal Secrets, 9 June 2026; Fox News, 10 June 2026"
+    }
+   ]
+  },
+  {
+   "id": "luis-elizondo",
+   "sequenceChain": [
+    {
+     "date": "2017-08-09",
+     "event": "Submits DD Form 1910 seeking public-release clearance for three .mpg files: 'GoFast', 'Gimbal' and 'FLIR'.",
+     "isAnomalous": false,
+     "source": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019"
+    },
+    {
+     "date": "2017-08-24",
+     "event": "DD Form 1910 approved.",
+     "isAnomalous": false,
+     "source": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019"
+    },
+    {
+     "date": "2017-10-03",
+     "event": "Submits first resignation letter as Director, National Programs Special Management Staff, requesting deferred retirement.",
+     "isAnomalous": false,
+     "source": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)"
+    },
+    {
+     "date": "2017-10-04",
+     "event": "Resignation effective; hand-delivers second letter addressed 'Mr. Secretary' protesting Departmental inaction on UAP.",
+     "isAnomalous": false,
+     "source": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)"
+    },
+    {
+     "date": "2017-10-11",
+     "event": "Announced as Director of Global Security & Special Programs at To The Stars Academy launch.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2017-12-16",
+     "event": "Named in the New York Times 'Glowing Auras and Black Money' as the official who ran AATIP.",
+     "isAnomalous": false,
+     "source": "Elizondo statements to the New York Times, 16 December 2017, and subsequently"
+    }
+   ]
+  },
+  {
+   "id": "colm-kelleher",
+   "sequenceChain": [
+    {
+     "date": "1996-01-01",
+     "event": "Begins leading the NIDS science team at Skinwalker Ranch",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    },
+    {
+     "date": "2005",
+     "event": "Publishes 'Hunt for the Skinwalker' with George Knapp.",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    },
+    {
+     "date": "2008-09-01",
+     "event": "AAWSAP contract awarded to Bigelow Aerospace Advanced Space Studies; Kelleher serves as deputy administrator.",
+     "isAnomalous": false,
+     "source": "Reported consistently in the AAWSAP record and in Kelleher's own co-authored account with the programme manager"
+    },
+    {
+     "date": "2021",
+     "event": "Publishes 'Skinwalkers at the Pentagon' with James Lacatski and George Knapp.",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    }
+   ]
+  },
+  {
+   "id": "uap-gerb",
+   "sequenceChain": []
+  }
+ ],
  "entities": [
   {
    "id": "yankee-blue",
@@ -9,7 +352,7 @@
    "cluster": "ic",
    "sub": "Alleged USAF/AFOSI program",
    "tier": "B",
-   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel \u2014 briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports \u2014 which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment \u2014 but it is a finding about the absence of a record, not a record.",
+   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel — briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports — which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment — but it is a finding about the absence of a record, not a record.",
    "sources": [
     {
      "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (March 2024)",
@@ -38,8 +381,8 @@
   {
    "id": "iaa-fy2024-sec-1102",
    "cls": "legislation",
-   "label": "IAA FY2024 Sec. 1102 \u2014 contractor turn-in of 'non-earth origin or exotic' UAP material",
-   "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 \u2014 a funding limitation only.",
+   "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 — a funding limitation only.",
    "claims": [
     {
      "text": "The turn-in provision is Sec. 1102 of Division M of S. 2226 as passed by the Senate on 27 July 2023. The Division M table of contents reads 'TITLE XI--OTHER MATTERS Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office. Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.' The same text appears as Sec. 1104 of S. 2103 as reported by SSCI on 22 June 2023; both citations are correct, to different vehicles.",
@@ -132,7 +475,7 @@
    "id": "dird-series",
    "cls": "document",
    "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
-   "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme \u2014 the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
+   "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme — the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
    "claims": [
     {
      "text": "The board formerly carried two nodes for this object, dird-series and dird-collection, describing the same AAWSAP deliverable set. They were collapsed on 14 August 2026 and dird-collection's seven edges re-pointed here.",
@@ -187,5 +530,6 @@
  "gaps": [
   "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme.",
   "Sec. 1102 of S.2226 Div M: the section HEADING and placement are verified against the govinfo engrossed text, but web_fetch caps extraction at ~118,600 characters and the engrossed body (pages 2368-2374) could not be read verbatim. The make-available-to-AARO mandate is corroborated by a contemporaneous section-by-section locator, not read directly. This is the soft joint in the citation and should be closed with a direct read of the printed bill."
- ]
+ ],
+ "_sequence_chain_why": "chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every chain step. All 11 sequenceChains on this board held bare node-id strings or free prose instead, so every one rendered an undefined event under an undefined date - on Grusch, Elizondo, Davis and Marcel among others. Nothing threw and no count moved, so nothing caught it. The renderer is inherited from The Vanishing, where a chain step is an ordered, dated, individually sourced link; the research wrote program lineages and shorthand labels into the same field. Each chain below is rebuilt from that person's own on-board chronology, and each step's source is the claim on the same person that covers it. Steps the old chain asserted but the record here does not carry were dropped rather than written from memory. Where no claim on the node covers a step, the source is null and the dock prints 'No attributed source on file', which is the true statement. uap-gerb is set empty: its old chain pointed at Burlison letters that are not on that node, and it has no ordered chain of individually documented links. The dock prints the 'No sequence chain' block, which says that is a finding rather than a gap."
 }
