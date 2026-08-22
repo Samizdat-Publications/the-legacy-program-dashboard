@@ -789,6 +789,26 @@ def integrity(people, entities, edges, timeline):
     for g in duplicate_groups(people, entities):
         problems["probable_duplicate_node"].append(g)
 
+    # Parallel edges: the same node pair joined more than once under different
+    # types. An edge key is (a, b, type), so two passes describing one relationship
+    # with different vocabulary each get their own edge. Where one twin is sourced
+    # and noted at Tier 1 and the other sits unsourced at Tier 3, the unsourced one
+    # is redundancy rather than missing research, and it inflates
+    # edge_without_source with work that is already done.
+    bypair = defaultdict(list)
+    for e in edges.values():
+        bypair[tuple(sorted([e["a"], e["b"]]))].append(e)
+    for pair, group in sorted(bypair.items()):
+        if len(group) < 2:
+            continue
+        sourced = [e for e in group if e["sources"]]
+        bare = [e for e in group if not e["sources"]]
+        if sourced and bare:
+            problems["unsourced_edge_with_sourced_twin"].append({
+                "a": pair[0], "b": pair[1],
+                "unsourced": [e["type"] for e in bare],
+                "sourced": [e["type"] for e in sourced]})
+
     deg = defaultdict(int)
     for e in edges.values():
         deg[e["a"]] += 1

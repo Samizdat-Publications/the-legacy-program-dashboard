@@ -2039,7 +2039,7 @@ export const PEOPLE = [
       'Americans for Safe Aerospace',
       'formerly US Navy VFA-11'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 92 of 968, score 59). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 93 of 968, score 59). 10 connections, 6 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2014-01-01',
@@ -2711,7 +2711,7 @@ export const PEOPLE = [
       'formerly NOAA',
       'formerly US Navy'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 93 of 968, score 59). 9 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 94 of 968, score 59). 9 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     chronology: [
       {
         date: '2015-01-01',
@@ -4020,7 +4020,7 @@ export const PEOPLE = [
       'Defense Intelligence Agency',
       'UAP Task Force, Director (2020-2021)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 83 of 968, score 61). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 84 of 968, score 61). 6 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     chronology: [
       { date: '2009-01-01', event: 'Works the AAWSAP effort at DIA', precision: 'year' },
       {
@@ -8258,7 +8258,7 @@ export const PEOPLE = [
       'US House of Representatives (2021-present)',
       'House Committee on Oversight and Accountability'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 88 of 968, score 60). 13 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 89 of 968, score 60). 13 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2023-07-26',
@@ -8437,7 +8437,7 @@ export const PEOPLE = [
       'House Committee on Oversight and Accountability',
       'US House of Representatives (TN-2)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 65 of 968, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 66 of 968, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2023-03-11',
@@ -9759,7 +9759,7 @@ export const PEOPLE = [
       'Bigelow Aerospace',
       'Author, \'Hunt for the Skinwalker\' (2005) and \'Skinwalkers at the Pentagon\' (2021)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 103 of 968, score 57). 8 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 104 of 968, score 57). 8 connections, 5 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     chronology: [
       { date: '1996', event: 'Joins NIDS as project manager under Robert Bigelow.', precision: 'year' },
       { date: '1996-01-01', event: 'Begins leading the NIDS science team at Skinwalker Ranch', precision: 'year' },
@@ -15260,7 +15260,7 @@ export const PEOPLE = [
       'UAP Gerb YouTube channel (2023-present)',
       '@UAPGERB on X'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 84 of 968, score 61). 16 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 85 of 968, score 61). 16 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       {
         date: '2024-02-18',
@@ -16183,7 +16183,7 @@ export const PEOPLE = [
       'The Sol Foundation',
       'UAP Science Advisory Council'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 89 of 968, score 60). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 90 of 968, score 60). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [
       {
         date: '2011',

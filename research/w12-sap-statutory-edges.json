@@ -1,0 +1,190 @@
+{
+ "domain": "w12-sap-statutory-edges",
+ "_why": "The SAP legal architecture is the mechanism the board's whole thesis rests on and, unlike the allegations, it is fully documentable from statute - the research log has said so since wave 2 and called it underweighted. Four of these edges carried no source and no note at all.\n\nBoth statutes were read directly from the Office of Law Revision Counsel text on 22 August 2026, which is a primary source and one of the hosts that actually answers this session. Every quotation here was taken from that reading.\n\nThe find worth carrying: 50 U.S.C. 3348(g)(2)(B) excludes the Department of Defense, the NNSA and the Intelligence Community from its own SAP-reporting regime, and it does so by naming the regimes they report under instead. DoD goes to 10 U.S.C. 119 - the statute that carries the subsection (e) waiver. So the general SAP-reporting statute routes precisely the three bodies at issue into separate channels, one of which is waivable.\n\nAlso established, and a negative result: 10 U.S.C. 119 does NOT reference 50 U.S.C. 3348. The cross-reference runs only one way. Its single external citation is 31 U.S.C. 1105.\n\nAnd 119(g) was re-read independently: it defines its own six bodies, including both Appropriations Defense subcommittees, so chairman plus ranking member is twelve. That confirms the twelve-seat figure the L0 notes recorded, from the statute rather than from the earlier reading.\n\nSecond pass, same session: 50 U.S.C. 3091a read from the same OLRC source. It obliges an annual list of every active and every terminated controlled-access compartment to Congress, and semiannual DNI briefings. Pub. L. 118-159 secs. 6602 and 6603 amended it in December 2024, and the OLRC amendment note establishes that the new subsection (c) applies only to programmes established on or after enactment - prospective, so existing compartments are untouched. The DoDI 5205.11 edge is written from the verbatim quotations already recorded on that node by the 21 August pass, not from a fresh reading: esd.whs.mil returns 403 to this session, which is why no new quotation from it is asserted here.\n\nType correction made during this pass: the amendment edge was first written as 'legislative' while the unsourced edge it was meant to source is 'programmatic'. Because an edge key is (a, b, type), that created a SECOND edge between the same two nodes instead of sourcing the existing one. Corrected to programmatic. The mistake is worth recording because it is the same shape as a defect it exposed: 98 node pairs on this board are joined by more than one edge, and on 21 of those pairs one twin is sourced and noted at Tier 1 while the other sits unsourced at Tier 3. Those 21 inflate the unsourced-edge count with redundancy rather than with missing research.",
+ "entities": [
+  {
+   "id": "usc-50-3348",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3348 — Reports Relating to Certain SAPs and Similar Programs",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348, Reports relating to certain special access programs and similar programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "50 U.S.C. 3348(g)(2)(B) excludes from its own SAP-reporting regime exactly the three bodies this board is about: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10); (ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title); or (iii) an agency in the Intelligence Community (as defined in section 3003(4) of this title).'",
+     "source": "50 U.S.C. 3348(g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim"
+    },
+    {
+     "tier": 1,
+     "text": "The section heading is 'Reports relating to certain special access programs and similar programs'. The word doing the work is 'certain': DoD, NNSA and the Intelligence Community are routed out of it by subsection (g)(2)(B) to their own regimes, and the DoD regime it routes to, 10 U.S.C. 119, is the one carrying a waiver.",
+     "source": "50 U.S.C. 3348 heading and (g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim"
+    }
+   ]
+  },
+  {
+   "id": "usc-10-119",
+   "cls": "legislation",
+   "label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "10 U.S.C. 119 makes no cross-reference to 50 U.S.C. 3348. The traffic runs one way: 3348 names 119 in order to exclude the Department of Defense from itself, and 119 does not name 3348 at all. The only external statute 119 cites is 31 U.S.C. 1105, on the President's budget submission.",
+     "source": "Full text of 10 U.S.C. 119, OLRC prelim, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    }
+   ]
+  },
+  {
+   "id": "usc-50-3091a",
+   "cls": "legislation",
+   "label": "50 U.S.C. 3091a — Congressional Oversight of Controlled Access Programs",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091a, Congressional oversight of controlled access programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The section requires an annual report containing 'a list of all compartments and subcompartments of controlled access programs active as of the date of the report' and 'a list of all compartments and subcompartments of controlled access programs terminated during the period'. A complete compartment inventory is therefore owed to Congress by statute, whatever is or is not delivered.",
+     "source": "50 U.S.C. 3091a, OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim"
+    },
+    {
+     "tier": 1,
+     "text": "Its obligations run to 'a head of an element of the intelligence community' and to the Director of National Intelligence, who briefs 'the appropriate congressional committees and congressional leadership' semiannually, with notification procedures required before a new controlled access program is established.",
+     "source": "50 U.S.C. 3091a, OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "a": "usc-50-3348",
+   "b": "usc-10-119",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "excludes DoD, routing it to sec. 119",
+   "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348, Reports relating to certain special access programs and similar programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "usc-50-3348",
+   "b": "usc-50-2426",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "excludes NNSA, routing it to sec. 2426",
+   "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3348, Reports relating to certain special access programs and similar programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "usc-10-119",
+   "b": "defense-committees",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "defines the term for this section",
+   "note": "10 U.S.C. 119(g) defines 'defense committees' for this section as six bodies: '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, chairman and ranking minority member of each, is where the board's twelve seats come from. Read directly from the OLRC text on 22 August 2026, which confirms the count independently of the earlier reading recorded in the L0 notes.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "usc-10-119e",
+   "b": "waived-usap-mechanism",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "the waiver authority itself",
+   "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "usc-50-3091a-2024amend",
+   "b": "usc-50-3091a",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "amends",
+   "note": "Pub. L. 118-159 secs. 6602 and 6603, approved 23 December 2024, amend this section: 6602 inserts a new subsection (c) limiting National Intelligence Program spending, and 6603 adds subsection (b)(2)(A) with its exception at (B). The OLRC text carries the amendment note and records that subsection (c) 'shall apply with respect to controlled access programs ... that are established on or after the date of the enactment of this Act', so the new limit is prospective only and existing compartments are untouched by it. Statute read on 22 August 2026; the verbatim section text is already on the amendment node from the enacted public law.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091a, Congressional oversight of controlled access programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Pub. L. 118-159 (FY2025 NDAA), secs. 6602 and 6603",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    }
+   ]
+  },
+  {
+   "a": "dodi-5205-11",
+   "b": "waived-usap-mechanism",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "the DoD-side implementation",
+   "note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
+   "sources": [
+    {
+     "name": "DoDI 5205.11, Management, Administration, and Oversight of DoD Special Access Programs, 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "date": "2024-09-12"
+    }
+   ]
+  },
+  {
+   "a": "usc-50-3091a-2024amend",
+   "b": "sap-taxonomy",
+   "type": "programmatic",
+   "claimTier": 3,
+   "label": "bars movement between the categories",
+   "note": "Tier 3 because this is a reading of what the amendment does to the taxonomy, not a quotation about it. Sec. 6603's new 50 U.S.C. 3091a(b)(2)(A) bars the head of an IC element from transferring a capability out of a controlled access program, subject to the two exits at (B). The categories on this board are not merely descriptive after December 2024: Congress attached a statutory consequence to which box a capability sits in, which is what makes the CAP/SAP distinction load-bearing rather than nomenclature. The verbatim text of both subparagraphs is on the amendment node.",
+   "sources": [
+    {
+     "name": "Pub. L. 118-159 (FY2025 NDAA), secs. 6602 and 6603",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ159/html/PLAW-118publ159.htm",
+     "date": "2024-12-23"
+    }
+   ]
+  }
+ ]
+}
