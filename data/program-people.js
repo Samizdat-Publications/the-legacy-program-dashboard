@@ -12157,7 +12157,7 @@ export const PEOPLE = [
       'U.S. House of Representatives, LA-3 (2017- )',
       'Committee on Oversight and Accountability / Government Reform'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 938 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 939 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2024-11-13',
@@ -12329,7 +12329,7 @@ export const PEOPLE = [
       'U.S. House of Representatives, MD-8 (2017- )',
       'Committee on Oversight and Accountability, Ranking Member (2023-2024)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 939 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 940 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2023-07-26',
@@ -12449,7 +12449,7 @@ export const PEOPLE = [
       'Select Committee on the CCP, Chairman (2023-2024)',
       'U.S. Marine Corps (2006-2013)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 914 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 915 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [
       {
         date: '2023-01-01',
@@ -14306,7 +14306,7 @@ export const PEOPLE = [
       'Issues in Science and Technology (contributor)',
       'New York University, journalism faculty'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 915 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 916 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '2019-04-01',
@@ -19168,7 +19168,7 @@ export const PEOPLE = [
     domains: ['d-media'],
     narrative: 'Tim McMillan co-founded The Debrief and serves as its Executive Director, and in doing so built the outlet that has done more sustained, document-driven reporting on the legacy program than any legacy newsroom. The Debrief\'s significance is structural rather than personal: when the New York Times would not run the David Grusch story in June 2023, The Debrief did. A publication founded by McMillan with Micah Hanks and MJ Banias absorbed a story the paper of record declined, and that transfer is one of the cleanest available illustrations of how the institutional press has handled this subject. McMillan, a former law enforcement officer turned investigative reporter, has reported extensively on the Pentagon\'s UAP effort and on the personnel moving between the task force, AARO and the contractor base.',
     affiliations: ['The Debrief (co-founder, Executive Director)'],
-    tierRationale: 'Re-graded C on a global pass (rank 916 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 917 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       {
         date: '2023-06-05',
@@ -19266,7 +19266,7 @@ export const PEOPLE = [
     domains: ['d-media'],
     narrative: 'Marik von Rennenkampff occupies a narrow but useful position: he writes about UAP for The Hill, the trade paper of Congress, which means his arguments land in front of staffers rather than subscribers. His columns have pressed on the specific institutional questions this board cares about - whether the Pentagon has spread false UFO stories, what H.R. McMaster\'s remarks imply, why the alleged programme allegations strengthen the case for the UAP Disclosure Act, and why anomalous \'orbs\' warrant scientific study. His value is that he argues from the public record and from official statements rather than from witness testimony, which makes his pieces usable as citations in a way that video interviews are not. He is a former Obama administration official at the State Department, which is the credential that gets him the column inches.',
     affiliations: ['The Hill (opinion contributor)', 'US Department of State (former)'],
-    tierRationale: 'Re-graded C on a global pass (rank 917 of 968, score 10). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 918 of 968, score 10). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '2024-01-01',
@@ -19335,7 +19335,7 @@ export const PEOPLE = [
       'Academy of Television Arts and Sciences (chairman/CEO, 2001-2003)',
       'CNN (correspondent)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 918 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 919 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '1996-01-01',
@@ -19582,7 +19582,7 @@ export const PEOPLE = [
     domains: ['d-media', 'd-structure'],
     narrative: 'Rob Jones is the research producer on Ross Coulthart\'s Reality Check and, unusually for a below-the-line credit, an identifiable actor in the structural investigation. UAP Gerb\'s 12 May 2026 livestream describes Jones surfacing \'details on a new alleged gatekeeper\' - meaning a NewsNation staff researcher is independently producing names for the gatekeeper roster that Gerb\'s videos then work into the org chart. Jones appears alongside Gerb on repeated livestreams. His presence is the clearest evidence that the Gerb reconstruction is not a solitary YouTube project but is being co-produced with a network research desk.',
     affiliations: ['NewsNation Reality Check (research producer)'],
-    tierRationale: 'Re-graded C on a global pass (rank 919 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 920 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '2026-05-12',
@@ -20335,7 +20335,7 @@ export const PEOPLE = [
       'Chief Pentagon Spokesman / Assistant to the Secretary of Defense for Public Affairs (2025-)',
       'US Army (2000-2006)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 947 of 968, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 895 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2026-02-20',
@@ -20345,12 +20345,22 @@ export const PEOPLE = [
     ],
     claims: [
       {
+        tier: 1,
+        text: 'A Department of War release dated 18 March 2026 names Sean Parnell as \'Chief Pentagon Spokesman\' in its own title: \'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’\'.',
+        source: 'https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/'
+      },
+      {
         tier: 2,
         text: 'The department \'looks forward to working with the interagency to fulfill the president\'s directive.\'',
         source: 'Sean Parnell, quoted by DefenseScoop, 20 February 2026'
       }
     ],
     sources: [
+      {
+        name: 'Department of War release, \'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’\', 18 March 2026',
+        url: 'https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/',
+        date: '2026-03-18'
+      },
       {
         name: 'DefenseScoop - Transparency proponents meet Trump\'s UAP disclosure tease with hope and caution',
         url: 'https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/',
@@ -21164,7 +21174,7 @@ export const PEOPLE = [
       'Scientific Coalition for UAP Studies - board',
       'The Galileo Project - research affiliate'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 920 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 921 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     chronology: [
       { date: '2023-12-07', event: 'Co-authors the SCU study on reported UAP characteristics.', precision: 'day' },
       {
@@ -21526,7 +21536,7 @@ export const PEOPLE = [
       'Scientific Coalition for UAP Studies - contributor',
       'VASCO collaboration'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 921 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 922 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     chronology: [
       { date: '2025-07-25', event: 'Preprint of the POSS-I / nuclear testing paper posted.', precision: 'day' },
       {
@@ -22349,7 +22359,7 @@ export const PEOPLE = [
     domains: ['d-funding'],
     narrative: 'Terry K. Patton, professor emeritus at Midwestern State University, has chaired the Federal Accounting Standards Advisory Board since April 2026. He did not write SFFAS 56 - it issued on 4 October 2018, under a different Board - but he now chairs the body that owns it, that alone can amend or withdraw it, and that alone can issue the Interpretations contemplated by paragraph 8(c) which authorise further, unspecified modifications to public financial reports. The Board he chairs currently comprises R. Scott Bell of the Treasury, Eric S. Berman, Robert Dacey of the Government Accountability Office, Diane L. Dudley, Billy Morehead and David A. Vaudt. Any serious effort to force the record open on classified financial reporting has to pass through FASAB, because the permission structure is a FASAB pronouncement and not a statute: no legislation need be repealed to end it, only a standard withdrawn.',
     affiliations: ['fasab'],
-    tierRationale: 'Re-graded C on a global pass (rank 895 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 896 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '2026-04',
@@ -23605,7 +23615,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure'],
     narrative: 'Eduardo Girão, a Brazilian Senator representing the coastal state of Ceará, led a Brazilian Senate hearing on unidentified aerial phenomena in 2022 - the first legislative engagement with the question in Brazil since the Air Force transferred its files to the National Archives. In January 2026 he travelled to Washington in a private capacity, not representing the Brazilian Senate, to meet members of the United States Congress and to attend the National Press Club press conference on the thirtieth anniversary of the Varginha events. He spoke from the podium commending the three Brazilian witnesses for their courage. During a break he met Representative Eric Burlison of Missouri for the first time; Burlison asked whether he could obtain videos or other material evidence, and Girão answered \'I\'m going to try\'. The two discussed a joint Brazilian-American effort to acquire tangible evidence. He is the point of contact through which the Brazilian legislature and the United States Congress could formalise a bilateral evidence-seeking arrangement, and his movement is worth watching.',
     affiliations: ['senado-brasil'],
-    tierRationale: 'Re-graded C on a global pass (rank 896 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 897 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       { date: '2022', event: 'Leads a Brazilian Senate hearing on UAP', precision: 'year' },
       {
@@ -24577,7 +24587,7 @@ export const PEOPLE = [
     domains: ['d-recovery', 'd-media'],
     narrative: 'Francis Joseph Xavier Scully (28 April 1892 - 23 June 1964), a Variety columnist and humorist, wrote the first crashed-saucer book. Two 1949 Variety columns and then \'Behind the Flying Saucers\' (Henry Holt, 1950) told readers that in March 1948 a 99-foot disc containing sixteen small humanoid bodies had come down in Hart Canyon twelve miles northeast of Aztec, New Mexico, had been taken by the military for secret research, ran on magnetic principles, came from Venus, and had every dimension divisible by nine. Scully\'s named sources were Silas M. Newton and a scientist he described as having \'more degrees than a thermometer\' - later identified as Leo A. Gebauer. The book was a bestseller and it set the template: crash, bodies, immediate military cordon, exotic material, total official silence. San Francisco Chronicle reporter J. P. Cahn published exposures in True magazine in 1952 and 1956 showing Newton and Gebauer were confidence men selling \'doodlebug\' oil-finding devices they claimed were built on recovered alien technology; a metal sample they supplied Cahn was ordinary aluminium; and in 1953 both were convicted of fraud after millionaire Herman Flader pressed charges. Scully is on this board as the origin of the crash-retrieval genre and as the reason the genre carried a fraud provenance from its first page - a provenance that Leonard Stringfield, Ryan Wood and the Aztec revivalists have each had to argue around rather than through.',
     affiliations: ['Variety magazine, columnist', 'The New York Sun (early career)'],
-    tierRationale: 'Re-graded C on a global pass (rank 897 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 898 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '1949',
@@ -24720,7 +24730,7 @@ export const PEOPLE = [
       'The Majestic Documents / majesticdocuments.com, co-principal',
       'UFO Crash Retrieval Conference, organiser'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 940 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 941 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       { date: '1999', event: 'Co-founds majesticdocuments.com with Robert M. Wood', precision: 'year' },
       {
@@ -26685,7 +26695,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'The DIA list credits "Space-Communication Implications of Quantum Entanglement and Nonlocality" to Dr J Cramer, University of Washington. Cramer is a mainstream experimental nuclear physicist at the University of Washington who is known outside his field for the transactional interpretation of quantum mechanics, an advanced-and-retarded-wave reading of the quantum formalism that he has developed since the 1980s, and for a long-running attempt to test whether nonlocal correlations could be made to carry a signal.  That is exactly the question AAWSAP bought. The DIRD, DIA-08-1003-016, is dated 30 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. The KLAS-TV version of the list titles it "Quantum Entanglement Communication," which states the tasking plainly: could entanglement be used as a communications channel, and if so what would that mean for space communication. The orthodox answer is that it cannot, because the no-communication theorem forbids it, and a defence warning office commissioning a survey on the point from the physicist most publicly associated with probing that boundary is a legible act rather than a strange one.  Cramer is the cleanest example in this batch of an AAWSAP author with an entirely conventional academic standing and no involvement in the UAP question before or after. He holds no documented special access, has no proximity to any custody claim, and has not to date been drawn into the disclosure argument that the DIRDs became the paper trail for. His node exists to hold the document to a real person and to record that the quantum-communications strand of AAWSAP was contracted to a named university physicist rather than to the programme\'s inner circle of consultants.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 922 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 923 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     chronology: [],
     claims: [
       {

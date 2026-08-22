@@ -13624,7 +13624,7 @@
     "U.S. House of Representatives, LA-3 (2017- )",
     "Committee on Oversight and Accountability / Government Reform"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 938 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 939 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
    "chronology": [
     {
      "date": "2024-11-13",
@@ -13815,7 +13815,7 @@
     "U.S. House of Representatives, MD-8 (2017- )",
     "Committee on Oversight and Accountability, Ranking Member (2023-2024)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 939 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 940 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
    "chronology": [
     {
      "date": "2023-07-26",
@@ -13946,7 +13946,7 @@
     "Select Committee on the CCP, Chairman (2023-2024)",
     "U.S. Marine Corps (2006-2013)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 914 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 915 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
    "chronology": [
     {
      "date": "2023-01-01",
@@ -16061,7 +16061,7 @@
     "Issues in Science and Technology (contributor)",
     "New York University, journalism faculty"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 915 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 916 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "2019-04-01",
@@ -21678,7 +21678,7 @@
    "affiliations": [
     "The Debrief (co-founder, Executive Director)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 916 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 917 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "chronology": [
     {
      "date": "2023-06-05",
@@ -21800,7 +21800,7 @@
     "The Hill (opinion contributor)",
     "US Department of State (former)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 917 of 968, score 10). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 918 of 968, score 10). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "2024-01-01",
@@ -21874,7 +21874,7 @@
     "Academy of Television Arts and Sciences (chairman/CEO, 2001-2003)",
     "CNN (correspondent)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 918 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 919 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "1996-01-01",
@@ -22186,7 +22186,7 @@
    "affiliations": [
     "NewsNation Reality Check (research producer)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 919 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 920 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "2026-05-12",
@@ -23041,7 +23041,7 @@
     "Chief Pentagon Spokesman / Assistant to the Secretary of Defense for Public Affairs (2025-)",
     "US Army (2000-2006)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 947 of 968, score 8). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 895 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
    "chronology": [
     {
      "date": "2026-02-20",
@@ -23051,12 +23051,22 @@
    ],
    "claims": [
     {
+     "tier": 1,
+     "text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
+     "source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/"
+    },
+    {
      "tier": 2,
      "text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
      "source": "Sean Parnell, quoted by DefenseScoop, 20 February 2026"
     }
    ],
    "sources": [
+    {
+     "name": "Department of War release, 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’', 18 March 2026",
+     "url": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+     "date": "2026-03-18"
+    },
     {
      "name": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution",
      "url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
@@ -23979,7 +23989,7 @@
     "Scientific Coalition for UAP Studies - board",
     "The Galileo Project - research affiliate"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 920 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 921 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
    "chronology": [
     {
      "date": "2023-12-07",
@@ -24402,7 +24412,7 @@
     "Scientific Coalition for UAP Studies - contributor",
     "VASCO collaboration"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 921 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 922 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
    "chronology": [
     {
      "date": "2025-07-25",
@@ -25322,7 +25332,7 @@
    "affiliations": [
     "fasab"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 895 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 896 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "2026-04",
@@ -26914,7 +26924,7 @@
    "affiliations": [
     "senado-brasil"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 896 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 897 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "chronology": [
     {
      "date": "2022",
@@ -28097,7 +28107,7 @@
     "Variety magazine, columnist",
     "The New York Sun (early career)"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 897 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 898 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "1949",
@@ -28283,7 +28293,7 @@
     "The Majestic Documents / majesticdocuments.com, co-principal",
     "UFO Crash Retrieval Conference, organiser"
    ],
-   "tierRationale": "Re-graded C on a global pass (rank 940 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 941 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "chronology": [
     {
      "date": "1999",
@@ -30550,7 +30560,7 @@
    "domains": [],
    "narrative": "The DIA list credits \"Space-Communication Implications of Quantum Entanglement and Nonlocality\" to Dr J Cramer, University of Washington. Cramer is a mainstream experimental nuclear physicist at the University of Washington who is known outside his field for the transactional interpretation of quantum mechanics, an advanced-and-retarded-wave reading of the quantum formalism that he has developed since the 1980s, and for a long-running attempt to test whether nonlocal correlations could be made to carry a signal.\n\nThat is exactly the question AAWSAP bought. The DIRD, DIA-08-1003-016, is dated 30 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. The KLAS-TV version of the list titles it \"Quantum Entanglement Communication,\" which states the tasking plainly: could entanglement be used as a communications channel, and if so what would that mean for space communication. The orthodox answer is that it cannot, because the no-communication theorem forbids it, and a defence warning office commissioning a survey on the point from the physicist most publicly associated with probing that boundary is a legible act rather than a strange one.\n\nCramer is the cleanest example in this batch of an AAWSAP author with an entirely conventional academic standing and no involvement in the UAP question before or after. He holds no documented special access, has no proximity to any custody claim, and has not to date been drawn into the disclosure argument that the DIRDs became the paper trail for. His node exists to hold the document to a real person and to record that the quantum-communications strand of AAWSAP was contracted to a named university physicist rather than to the programme's inner circle of consultants.",
    "affiliations": [],
-   "tierRationale": "Re-graded C on a global pass (rank 922 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 923 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.",
    "chronology": [],
    "claims": [
     {
@@ -40234,7 +40244,7 @@
    "dateEnd": "2022",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 923 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 924 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 1,
@@ -41667,7 +41677,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 924 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 925 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
    "claims": [
     {
      "tier": 2,
@@ -45652,7 +45662,7 @@
     -71.1097
    ],
    "locLabel": "Cambridge, Massachusetts, USA",
-   "tierRationale": "Re-graded C on a global pass (rank 941 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 942 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -48267,7 +48277,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 898 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 899 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -52347,7 +52357,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 899 of 968, score 11). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 900 of 968, score 11). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -52502,7 +52512,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 925 of 968, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 926 of 968, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 2,
@@ -52557,7 +52567,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 942 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 943 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -52972,7 +52982,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 926 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 927 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -55922,7 +55932,7 @@
    "dateEnd": "2025",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 927 of 968, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 928 of 968, score 10). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -56020,7 +56030,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 943 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 944 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -57003,7 +57013,7 @@
    "dateEnd": "2026",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 900 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 901 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 2,
@@ -57702,7 +57712,7 @@
    "dateEnd": "2020",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 928 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 929 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -57927,7 +57937,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 929 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 930 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
    "claims": [
     {
      "tier": 1,
@@ -59192,7 +59202,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 901 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+   "tierRationale": "Re-graded C on a global pass (rank 902 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
    "claims": [
     {
      "tier": 1,
@@ -59260,7 +59270,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 944 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 945 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D1.",
    "claims": [
     {
      "tier": 1,
@@ -59430,7 +59440,7 @@
    "dateEnd": "2025",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 902 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 903 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -61334,7 +61344,7 @@
    "dateEnd": "2005",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 930 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 931 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 2,
@@ -61721,7 +61731,7 @@
    "dateEnd": "1995",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 903 of 968, score 11). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 904 of 968, score 11). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -62000,7 +62010,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 904 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 905 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
    "claims": [
     {
      "tier": 1,
@@ -62034,7 +62044,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 905 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 906 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 2,
@@ -62857,7 +62867,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 931 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 932 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
    "claims": [
     {
      "tier": 2,
@@ -63149,7 +63159,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 906 of 968, score 11). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 907 of 968, score 11). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -63217,7 +63227,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 907 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 908 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -65656,7 +65666,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 932 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 933 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 2,
@@ -67251,7 +67261,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 933 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 934 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -67599,7 +67609,7 @@
    "dateEnd": "2026-02",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 908 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 909 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
    "claims": [
     {
      "tier": 2,
@@ -69120,7 +69130,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 945 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 946 of 968, score 9). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -71049,7 +71059,7 @@
    "dateEnd": "1999",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 909 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 910 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.",
    "claims": [
     {
      "tier": 1,
@@ -71907,7 +71917,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 934 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 935 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
    "claims": [
     {
      "tier": 2,
@@ -72688,7 +72698,7 @@
    "dateEnd": "2026-06-30",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 935 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 936 of 968, score 10). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 1,
@@ -73643,7 +73653,7 @@
    "dateEnd": "2005",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 946 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 947 of 968, score 9). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -73687,7 +73697,7 @@
    "dateEnd": "2009",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 936 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 937 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 2,
@@ -73726,7 +73736,7 @@
    "dateEnd": "1950",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded C on a global pass (rank 910 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+   "tierRationale": "Re-graded C on a global pass (rank 911 of 968, score 11). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
    "claims": [
     {
      "tier": 2,
@@ -75757,7 +75767,7 @@
     -107.9928
    ],
    "locLabel": "Aztec, New Mexico, USA",
-   "tierRationale": "Re-graded C on a global pass (rank 937 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 938 of 968, score 10). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.",
    "claims": [
     {
      "tier": 2,
@@ -76118,7 +76128,7 @@
     18.0686
    ],
    "locLabel": "Stockholm, Sweden",
-   "tierRationale": "Re-graded C on a global pass (rank 911 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 912 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
    "claims": [
     {
      "tier": 1,
@@ -76540,7 +76550,7 @@
     -70.6693
    ],
    "locLabel": "Santiago, Chile",
-   "tierRationale": "Re-graded C on a global pass (rank 912 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded C on a global pass (rank 913 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
    "claims": [
     {
      "tier": 3,
@@ -76583,7 +76593,7 @@
     37.6173
    ],
    "locLabel": "Moscow, Russia",
-   "tierRationale": "Re-graded C on a global pass (rank 913 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+   "tierRationale": "Re-graded C on a global pass (rank 914 of 968, score 11). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
    "claims": [
     {
      "tier": 3,

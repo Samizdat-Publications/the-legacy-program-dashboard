@@ -6782,7 +6782,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 896,
+   "rank": 897,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6793,7 +6793,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 897,
+   "rank": 898,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6804,7 +6804,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 900,
+   "rank": 901,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -6815,7 +6815,7 @@
    "from": "A",
    "to": "C",
    "score": 11.0,
-   "rank": 902,
+   "rank": 903,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -6826,7 +6826,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 903,
+   "rank": 904,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -6837,7 +6837,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 904,
+   "rank": 905,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6848,7 +6848,7 @@
    "from": "A",
    "to": "C",
    "score": 11.0,
-   "rank": 905,
+   "rank": 906,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6859,7 +6859,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 908,
+   "rank": 909,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6870,7 +6870,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 910,
+   "rank": 911,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -6881,7 +6881,7 @@
    "from": "B",
    "to": "C",
    "score": 11.0,
-   "rank": 911,
+   "rank": 912,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6892,7 +6892,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 915,
+   "rank": 916,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6903,7 +6903,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 916,
+   "rank": 917,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6914,7 +6914,7 @@
    "from": "A",
    "to": "C",
    "score": 10.0,
-   "rank": 923,
+   "rank": 924,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6925,7 +6925,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 924,
+   "rank": 925,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6936,7 +6936,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 927,
+   "rank": 928,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -6947,7 +6947,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 928,
+   "rank": 929,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -6958,7 +6958,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 930,
+   "rank": 931,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6969,7 +6969,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 931,
+   "rank": 932,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -6980,7 +6980,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 932,
+   "rank": 933,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -6991,7 +6991,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 933,
+   "rank": 934,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -7002,7 +7002,7 @@
    "from": "B",
    "to": "C",
    "score": 10.0,
-   "rank": 935,
+   "rank": 936,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -7013,7 +7013,7 @@
    "from": "A",
    "to": "C",
    "score": 10.0,
-   "rank": 936,
+   "rank": 937,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -7024,7 +7024,7 @@
    "from": "B",
    "to": "C",
    "score": 9.0,
-   "rank": 940,
+   "rank": 941,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -7035,7 +7035,7 @@
    "from": "B",
    "to": "C",
    "score": 9.0,
-   "rank": 941,
+   "rank": 942,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -7046,7 +7046,7 @@
    "from": "B",
    "to": "C",
    "score": 9.0,
-   "rank": 943,
+   "rank": 944,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -7057,7 +7057,7 @@
    "from": "B",
    "to": "C",
    "score": 9.0,
-   "rank": 946,
+   "rank": 947,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
