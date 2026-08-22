@@ -17,7 +17,7 @@
    "from": "B",
    "to": "A",
    "score": 79.0,
-   "rank": 44,
+   "rank": 45,
    "degree": 13,
    "program_edges": 1,
    "denials": 4
@@ -34,26 +34,26 @@
    "denials": 1
   },
   {
+   "id": "dodm-5205-07-series",
+   "cls": "document",
+   "from": "B",
+   "to": "A",
+   "score": 73.0,
+   "rank": 59,
+   "degree": 5,
+   "program_edges": 4,
+   "denials": 0
+  },
+  {
    "id": "wilson-davis-memo",
    "cls": "document",
    "from": "B",
    "to": "A",
    "score": 68.0,
-   "rank": 72,
+   "rank": 73,
    "degree": 9,
    "program_edges": 5,
    "denials": 2
-  },
-  {
-   "id": "dodm-5205-07-series",
-   "cls": "document",
-   "from": "B",
-   "to": "A",
-   "score": 61.0,
-   "rank": 90,
-   "degree": 2,
-   "program_edges": 1,
-   "denials": 0
   },
   {
    "id": "ndaa-fy2023-sec-6802",
@@ -72,7 +72,7 @@
    "from": "B",
    "to": "A",
    "score": 49.0,
-   "rank": 131,
+   "rank": 132,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -83,21 +83,32 @@
    "from": "C",
    "to": "A",
    "score": 48.0,
-   "rank": 138,
+   "rank": 140,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
   },
   {
-   "id": "iaa-fy2024-7343",
-   "cls": "legislation",
+   "id": "john-greenewald",
+   "cls": "person",
    "from": "A",
    "to": "B",
    "score": 47.0,
    "rank": 144,
-   "degree": 2,
+   "degree": 12,
    "program_edges": 0,
    "denials": 0
+  },
+  {
+   "id": "condon-committee",
+   "cls": "program",
+   "from": "A",
+   "to": "B",
+   "score": 47.0,
+   "rank": 145,
+   "degree": 12,
+   "program_edges": 3,
+   "denials": 1
   },
   {
    "id": "d-ffrdc",
@@ -105,7 +116,7 @@
    "from": "A",
    "to": "B",
    "score": 47.0,
-   "rank": 145,
+   "rank": 146,
    "degree": 9,
    "program_edges": 0,
    "denials": 0
@@ -116,7 +127,7 @@
    "from": "A",
    "to": "B",
    "score": 47.0,
-   "rank": 146,
+   "rank": 147,
    "degree": 6,
    "program_edges": 3,
    "denials": 0
@@ -127,7 +138,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 147,
+   "rank": 148,
    "degree": 6,
    "program_edges": 2,
    "denials": 0
@@ -138,7 +149,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 148,
+   "rank": 149,
    "degree": 5,
    "program_edges": 3,
    "denials": 1
@@ -149,7 +160,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 149,
+   "rank": 150,
    "degree": 5,
    "program_edges": 1,
    "denials": 0
@@ -160,7 +171,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 150,
+   "rank": 151,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -171,7 +182,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 151,
+   "rank": 152,
    "degree": 4,
    "program_edges": 3,
    "denials": 1
@@ -182,7 +193,7 @@
    "from": "A",
    "to": "B",
    "score": 46.0,
-   "rank": 152,
+   "rank": 153,
    "degree": 7,
    "program_edges": 1,
    "denials": 1
@@ -193,7 +204,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 153,
+   "rank": 154,
    "degree": 9,
    "program_edges": 1,
    "denials": 0
@@ -204,7 +215,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 154,
+   "rank": 155,
    "degree": 4,
    "program_edges": 4,
    "denials": 0
@@ -215,7 +226,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 155,
+   "rank": 156,
    "degree": 7,
    "program_edges": 1,
    "denials": 1
@@ -226,7 +237,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 156,
+   "rank": 157,
    "degree": 6,
    "program_edges": 1,
    "denials": 0
@@ -237,7 +248,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 157,
+   "rank": 158,
    "degree": 7,
    "program_edges": 0,
    "denials": 1
@@ -248,7 +259,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 158,
+   "rank": 159,
    "degree": 4,
    "program_edges": 2,
    "denials": 1
@@ -259,7 +270,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 159,
+   "rank": 160,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -270,7 +281,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 160,
+   "rank": 161,
    "degree": 6,
    "program_edges": 1,
    "denials": 1
@@ -281,7 +292,7 @@
    "from": "A",
    "to": "B",
    "score": 45.0,
-   "rank": 162,
+   "rank": 163,
    "degree": 9,
    "program_edges": 2,
    "denials": 0
@@ -292,7 +303,7 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 163,
+   "rank": 164,
    "degree": 6,
    "program_edges": 5,
    "denials": 0
@@ -303,20 +314,9 @@
    "from": "A",
    "to": "B",
    "score": 44.0,
-   "rank": 164,
+   "rank": 165,
    "degree": 6,
    "program_edges": 3,
-   "denials": 0
-  },
-  {
-   "id": "dcsa-nisp",
-   "cls": "institution",
-   "from": "A",
-   "to": "B",
-   "score": 44.0,
-   "rank": 165,
-   "degree": 4,
-   "program_edges": 1,
    "denials": 0
   },
   {
@@ -1871,18 +1871,18 @@
    "denials": 0
   },
   {
-   "id": "imminent-book",
-   "cls": "document",
+   "id": "senate-armed-services",
+   "cls": "institution",
    "from": "A",
    "to": "B",
    "score": 33.0,
    "rank": 326,
-   "degree": 2,
-   "program_edges": 1,
+   "degree": 9,
+   "program_edges": 0,
    "denials": 0
   },
   {
-   "id": "schulgen-memo",
+   "id": "imminent-book",
    "cls": "document",
    "from": "A",
    "to": "B",
@@ -1893,12 +1893,23 @@
    "denials": 0
   },
   {
-   "id": "gerb-mitre-investigation",
+   "id": "schulgen-memo",
    "cls": "document",
    "from": "A",
    "to": "B",
    "score": 33.0,
    "rank": 328,
+   "degree": 2,
+   "program_edges": 1,
+   "denials": 0
+  },
+  {
+   "id": "gerb-mitre-investigation",
+   "cls": "document",
+   "from": "A",
+   "to": "B",
+   "score": 33.0,
+   "rank": 329,
    "degree": 7,
    "program_edges": 2,
    "denials": 1
@@ -1909,7 +1920,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 330,
+   "rank": 331,
    "degree": 9,
    "program_edges": 1,
    "denials": 0
@@ -1920,7 +1931,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 331,
+   "rank": 332,
    "degree": 8,
    "program_edges": 2,
    "denials": 0
@@ -1931,7 +1942,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 332,
+   "rank": 333,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -1942,7 +1953,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 333,
+   "rank": 334,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -1953,7 +1964,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 334,
+   "rank": 335,
    "degree": 4,
    "program_edges": 2,
    "denials": 1
@@ -1964,7 +1975,7 @@
    "from": "A",
    "to": "B",
    "score": 33.0,
-   "rank": 335,
+   "rank": 336,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -1975,7 +1986,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 336,
+   "rank": 337,
    "degree": 6,
    "program_edges": 2,
    "denials": 1
@@ -1986,7 +1997,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 337,
+   "rank": 338,
    "degree": 3,
    "program_edges": 2,
    "denials": 0
@@ -1997,7 +2008,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 338,
+   "rank": 339,
    "degree": 4,
    "program_edges": 1,
    "denials": 0
@@ -2008,7 +2019,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 339,
+   "rank": 340,
    "degree": 4,
    "program_edges": 0,
    "denials": 1
@@ -2019,7 +2030,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 342,
+   "rank": 343,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -2030,7 +2041,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 343,
+   "rank": 344,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2041,7 +2052,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 344,
+   "rank": 345,
    "degree": 5,
    "program_edges": 0,
    "denials": 3
@@ -2052,7 +2063,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 345,
+   "rank": 346,
    "degree": 3,
    "program_edges": 0,
    "denials": 1
@@ -2063,7 +2074,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 346,
+   "rank": 347,
    "degree": 4,
    "program_edges": 3,
    "denials": 0
@@ -2074,7 +2085,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 347,
+   "rank": 348,
    "degree": 3,
    "program_edges": 1,
    "denials": 0
@@ -2085,7 +2096,7 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 348,
+   "rank": 349,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -2096,19 +2107,8 @@
    "from": "A",
    "to": "B",
    "score": 32.0,
-   "rank": 349,
-   "degree": 4,
-   "program_edges": 0,
-   "denials": 0
-  },
-  {
-   "id": "senate-armed-services",
-   "cls": "institution",
-   "from": "A",
-   "to": "B",
-   "score": 32.0,
    "rank": 350,
-   "degree": 8,
+   "degree": 4,
    "program_edges": 0,
    "denials": 0
   },
@@ -4434,12 +4434,23 @@
    "denials": 0
   },
   {
+   "id": "house-armed-services",
+   "cls": "institution",
+   "from": "B",
+   "to": "C",
+   "score": 23.0,
+   "rank": 598,
+   "degree": 5,
+   "program_edges": 0,
+   "denials": 0
+  },
+  {
    "id": "uap-gerb-mitre-investigation",
    "cls": "document",
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 598,
+   "rank": 599,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4450,7 +4461,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 599,
+   "rank": 600,
    "degree": 2,
    "program_edges": 2,
    "denials": 0
@@ -4461,7 +4472,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 600,
+   "rank": 601,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4472,7 +4483,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 602,
+   "rank": 603,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -4483,7 +4494,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 603,
+   "rank": 604,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4494,7 +4505,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 604,
+   "rank": 605,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4505,7 +4516,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 605,
+   "rank": 606,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4516,7 +4527,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 606,
+   "rank": 607,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4527,7 +4538,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 607,
+   "rank": 608,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4538,7 +4549,7 @@
    "from": "A",
    "to": "C",
    "score": 23.0,
-   "rank": 608,
+   "rank": 609,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4549,7 +4560,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 609,
+   "rank": 610,
    "degree": 5,
    "program_edges": 1,
    "denials": 0
@@ -4560,7 +4571,7 @@
    "from": "B",
    "to": "C",
    "score": 23.0,
-   "rank": 610,
+   "rank": 611,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4571,7 +4582,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 612,
+   "rank": 613,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4582,7 +4593,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 613,
+   "rank": 614,
    "degree": 5,
    "program_edges": 0,
    "denials": 0
@@ -4593,7 +4604,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 614,
+   "rank": 615,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4604,7 +4615,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 615,
+   "rank": 616,
    "degree": 1,
    "program_edges": 0,
    "denials": 0
@@ -4615,7 +4626,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 616,
+   "rank": 617,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4626,7 +4637,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 617,
+   "rank": 618,
    "degree": 1,
    "program_edges": 0,
    "denials": 1
@@ -4637,7 +4648,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 618,
+   "rank": 619,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4648,7 +4659,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 619,
+   "rank": 620,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4659,7 +4670,7 @@
    "from": "B",
    "to": "C",
    "score": 22.0,
-   "rank": 620,
+   "rank": 621,
    "degree": 2,
    "program_edges": 1,
    "denials": 0
@@ -4670,7 +4681,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 625,
+   "rank": 626,
    "degree": 4,
    "program_edges": 0,
    "denials": 0
@@ -4681,7 +4692,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 626,
+   "rank": 627,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4692,7 +4703,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 627,
+   "rank": 628,
    "degree": 2,
    "program_edges": 0,
    "denials": 0
@@ -4703,7 +4714,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 628,
+   "rank": 629,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4714,7 +4725,7 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 629,
+   "rank": 630,
    "degree": 3,
    "program_edges": 0,
    "denials": 0
@@ -4725,20 +4736,9 @@
    "from": "A",
    "to": "C",
    "score": 22.0,
-   "rank": 630,
-   "degree": 4,
-   "program_edges": 1,
-   "denials": 0
-  },
-  {
-   "id": "house-armed-services",
-   "cls": "institution",
-   "from": "B",
-   "to": "C",
-   "score": 22.0,
    "rank": 631,
    "degree": 4,
-   "program_edges": 0,
+   "program_edges": 1,
    "denials": 0
   },
   {

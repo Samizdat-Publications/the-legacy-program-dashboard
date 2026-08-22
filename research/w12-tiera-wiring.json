@@ -1,0 +1,131 @@
+{
+ "domain": "w12-tiera-wiring",
+ "_why": "The last two underconnected Tier A nodes. The third, ndaa26-uap-provisions, was never underconnected at all - it was one of three duplicate nodes, and the 22 August collapse took it from degree 1 to degree 6 without a single edge being written for it.\n\nThese two are different: both are richly sourced (10 and 14 claims) and genuinely under-wired. Every edge here is written from a quotation already verified and recorded on the node itself, so nothing new is asserted. Where a connection is a reading of how two instruments sit together rather than something either text says, it is Tier 3 and says so - the 7343/3348 and 7343/ICD 906 edges both carry that caveat, and I confirmed by reading 3348 directly on 22 August that it makes no reference to 7343.\n\nesd.whs.mil returns 403 to this session, so no new quotation from DoDM 5205.07 is asserted here; the carve-out and patents language is what an earlier pass recorded verbatim.",
+ "edges": [
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "senate-armed-services",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "named as an appropriate committee",
+   "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
+   "sources": [
+    {
+     "name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "house-armed-services",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "named as an appropriate committee",
+   "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
+   "sources": [
+    {
+     "name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "usc-50-3348",
+   "type": "legislative",
+   "claimTier": 3,
+   "label": "the IC side of the same seam",
+   "note": "Tier 3: this is a reading of how the provisions sit together, not a cross-reference either text makes. Sec. 7343 is the intelligence-funds twin of NDAA sec. 1687, running through the DNI rather than the Secretary of Defense. The seam it straddles is the one 50 U.S.C. 3348(g)(2)(B) draws when it excludes DoD, the NNSA and IC agencies from its own SAP-reporting regime and routes each to a separate channel. 3348's text was read directly on 22 August 2026 and makes no reference to 7343; the connection is structural.",
+   "sources": [
+    {
+     "name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "50 U.S.C. 3348 (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "iaa-fy2024-7343",
+   "b": "icd-906",
+   "type": "legislative",
+   "claimTier": 3,
+   "label": "controlled-access counterpart",
+   "note": "Tier 3, and recorded as a reading rather than a citation. The board's existing claim holds that secs. 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3. ICD 906 is ODNI's controlled-access-programme directive and is the IC-side instrument the mirroring runs through. Neither text cites the other.",
+   "sources": [
+    {
+     "name": "Pub. L. 118-31 div. G sec. 7343 (FY2024 Intelligence Authorization Act), enacted text",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "dodm-5205-07-series",
+   "b": "carve-out",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "defines and operates the carve-out",
+   "note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+   "sources": [
+    {
+     "name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    }
+   ]
+  },
+  {
+   "a": "dodm-5205-07-series",
+   "b": "dcsa-nisp",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "relieves it of oversight",
+   "note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+   "sources": [
+    {
+     "name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    }
+   ]
+  },
+  {
+   "a": "dodm-5205-07-series",
+   "b": "dod-sapco",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "assigns it the patent and inspection roles",
+   "note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+   "sources": [
+    {
+     "name": "Archived: DoDM 5205.07 Volume 4, 'Special Access Program (SAP) Security Manual: Marking', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "DoDM 5205.07 Volume 1, 'DoD SAP Security Manual: General Procedures', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)",
+     "url": "https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf",
+     "date": "2018-02-12"
+    }
+   ]
+  }
+ ]
+}
