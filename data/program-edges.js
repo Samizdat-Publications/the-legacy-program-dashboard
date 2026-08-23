@@ -138,22 +138,44 @@ export const PROGRAM_EDGES = [
     b: 'aaro-historical-record-vol2',
     type: 'institutional',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, \'AARO will publish Volume II in accordance with the date established in Section 6802\', and page 45, \'This report represents Volume I of AARO\'s HR2.\' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.',
+    sources: [
+      {
+        name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2024-03-08'
+      },
+      {
+        name: 'Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)',
+        url: 'https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'aaro-historical-record-vol1',
     b: 'aaro-historical-record-vol2',
     type: 'temporal',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'Volume I is the predecessor and it defines what Volume II must contain: page 11 states \'Volume II will include any findings resulting from interviews and research\' conducted after Volume I\'s cutoff. The sequence is fixed by the document itself rather than inferred.',
+    sources: [
+      {
+        name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2024-03-08'
+      },
+      {
+        name: 'Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)',
+        url: 'https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'aaro-historical-record-vol1',
@@ -182,44 +204,88 @@ export const PROGRAM_EDGES = [
     b: 'yankee-blue',
     type: 'investigative',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of \'Yankee Blue\' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.',
+    sources: [
+      {
+        name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2024-03-08'
+      },
+      {
+        name: 'Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)',
+        url: 'https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'aaro',
     b: 'odni-preliminary-assessment-2021',
     type: 'institutional',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'AARO inherited the reporting line this assessment opened. The June 2021 preliminary assessment predates AARO and was built from UAP Task Force holdings; the ODNI 2022 annual report then carries a section headed \'Establishment of the All-Domain Anomaly Resolution Office (AARO)\' recording that the Deputy Secretary directed USD(I&S) to stand it up. The institutional relation is succession, not authorship.',
+    sources: [
+      {
+        name: 'ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021 (dni.gov)',
+        url: 'https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf',
+        date: '2021-06-25'
+      },
+      {
+        name: 'Wayback snapshot of ODNI Preliminary Assessment PDF (now served from archive.dni.gov)',
+        url: 'https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'odni-preliminary-assessment-2021',
     b: 'odni-2022-annual-report',
     type: 'temporal',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The 2022 report extends the 2021 baseline rather than replacing it: it reports new cases \'in addition to the 144 UAP reports covered during the 17 years of UAP reporting included in\' the preliminary assessment. The 144-incident figure is the anchor both documents are measured against.',
+    sources: [
+      {
+        name: 'ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)',
+        url: 'https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf',
+        date: '2023-01-12'
+      },
+      {
+        name: 'Wayback snapshot of the ODNI 2022 Annual Report PDF (now served from odni.gov)',
+        url: 'https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf',
+        date: '2026-05-23'
+      }
+    ]
   },
   {
     a: 'odni-2022-annual-report',
     b: 'aaro-fy2023-annual-report',
     type: 'temporal',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The reporting line passes here. The 2022 report is ODNI\'s, and it records AARO\'s establishment under its own heading; from FY2023 the consolidated annual report is AARO\'s product. Same statutory obligation, different office holding the pen.',
+    sources: [
+      {
+        name: 'ODNI, 2022 Annual Report on Unidentified Aerial Phenomena (dni.gov)',
+        url: 'https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf',
+        date: '2023-01-12'
+      },
+      {
+        name: 'Wayback snapshot of the ODNI 2022 Annual Report PDF (now served from odni.gov)',
+        url: 'https://web.archive.org/web/20260523011837id_/https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf',
+        date: '2026-05-23'
+      }
+    ]
   },
   {
     a: 'aaro-fy2023-annual-report',
@@ -248,11 +314,22 @@ export const PROGRAM_EDGES = [
     b: 'aaro-fy2025-annual-report',
     type: 'temporal',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'Consecutive reports in the same statutory series. Sec. 6802\'s new 50 U.S.C. 3373(k)(1)(A) requires a joint DNI/SecDef report 180 days after enactment of the IAA FY2023 \'and annually thereafter for four years\', so these are the second and third of five, and the series has a written end rather than running indefinitely.',
+    sources: [
+      {
+        name: 'Fiscal Year 2025 Consolidated Annual Report on UAP (aaro.mil Portals/136, FY25 UAP Annual Report folder)',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
+      },
+      {
+        name: 'Wayback snapshot of the FY2025 Consolidated Annual Report PDF',
+        url: 'https://web.archive.org/web/20260720215350id_/https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        date: '2026-07-20'
+      }
+    ]
   },
   {
     a: 'dodig-2023-109',
@@ -286,88 +363,176 @@ export const PROGRAM_EDGES = [
     b: 'aaro-historical-record-vol1',
     type: 'research',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'AARO\'s own report counts this study among the official record. HRR Volume I lists the \'UAP Independent Study Team (UAPIST) (June 2022-September 2023)\' as one of the USG UAP investigatory efforts it catalogues, which is what puts a NASA civilian panel inside a Department historical record.',
+    sources: [
+      {
+        name: 'NASA, Unidentified Anomalous Phenomena Independent Study Team Report (nasa.gov)',
+        url: 'https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf',
+        date: '2023-09-14'
+      },
+      {
+        name: 'Wayback snapshot of the NASA UAP Independent Study Team Report PDF',
+        url: 'https://web.archive.org/web/20260706111241id_/https://smd-cms.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf',
+        date: '2026-07-06'
+      }
+    ]
   },
   {
     a: 'uap-task-force',
     b: 'odni-preliminary-assessment-2021',
     type: 'institutional',
     label: '',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.',
+    sources: [
+      {
+        name: 'ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021 (dni.gov)',
+        url: 'https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf',
+        date: '2021-06-25'
+      },
+      {
+        name: 'Wayback snapshot of ODNI Preliminary Assessment PDF (now served from archive.dni.gov)',
+        url: 'https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'harry-reid',
     b: 'aawsap',
     type: 'programmatic',
     label: 'co-sponsored FY2008 supplemental $10M add with Sen. Inouye',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.',
+    sources: [
+      {
+        name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        date: '2009-06-24'
+      },
+      {
+        name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        date: '2009'
+      }
+    ]
   },
   {
     a: 'harry-reid',
     b: 'reid-letter-2009-06-24',
     type: 'programmatic',
     label: 'signed 24 June 2009',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - \'HARRY REID, MAJORITY LEADER, NEVADA\' - and asked the Department to place the programme under a restricted special access programme.',
+    sources: [
+      {
+        name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        date: '2009-06-24'
+      },
+      {
+        name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        date: '2009'
+      }
+    ]
   },
   {
     a: 'reid-letter-2009-06-24',
     b: 'dia-sap-denial-2009',
     type: 'programmatic',
     label: 'USD(I) tasked DIA to evaluate; DIA declined',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The request and the refusal. Reid\'s 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - \'DIA cannot find adequate justification to establish\' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.',
+    sources: [
+      {
+        name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        date: '2009-11-13'
+      },
+      {
+        name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        date: '2009-11-19'
+      }
+    ]
   },
   {
     a: 'aawsap',
     b: 'baass',
     type: 'programmatic',
     label: 'HHM402-08-C-0072, sole bid, signed 22 Sep 2008',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'BAASS was the only bidder and the performer. DIA\'s own record: \'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.\' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.',
+    sources: [
+      {
+        name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        date: '2008-08-18'
+      },
+      {
+        name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        date: '2010'
+      }
+    ]
   },
   {
     a: 'baass',
     b: 'bigelow-aerospace',
     type: 'programmatic',
     label: 'BAASS LLC, North Las Vegas NV',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that \'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas\'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.',
+    sources: [
+      {
+        name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        date: '2009-09-02'
+      },
+      {
+        name: 'DIA briefing \'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)\' (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/',
+        date: '2009'
+      }
+    ]
   },
   {
     a: 'aawsap',
     b: 'dird-series',
     type: 'programmatic',
     label: '26 FY2009 + 12 FY2010 technical reports',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The DIRDs are the contract\'s deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF\'s cover page on 22 August 2026.',
+    sources: [
+      {
+        name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        date: '2008-08-18'
+      },
+      {
+        name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        date: '2010'
+      }
+    ]
   },
   {
     a: 'aawsap',
@@ -413,11 +578,22 @@ export const PROGRAM_EDGES = [
     b: 'aawsap-contract-hhm402-08-c-0072',
     type: 'programmatic',
     label: 'prime contract',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.',
+    sources: [
+      {
+        name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        date: '2009-09-02'
+      },
+      {
+        name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        date: '2008-08-18'
+      }
+    ]
   },
   {
     a: 'dird-series',
@@ -1128,11 +1304,22 @@ export const PROGRAM_EDGES = [
     b: 'aaro-historical-record-vol1',
     type: 'programmatic',
     label: 'AARO: \'AATIP was never an official DoD program\'',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The report is where the Department\'s own account of AATIP sits. Volume I records that AAWSAP \'was also known [as] AATIP\' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme\'s lifecycle. The denial edge on this pair is separate and records the report\'s rejection of the reverse-engineering account.',
+    sources: [
+      {
+        name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2024-03-08'
+      },
+      {
+        name: 'Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)',
+        url: 'https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: '2026-08-11'
+      }
+    ]
   },
   {
     a: 'chuck-schumer',
@@ -1759,22 +1946,44 @@ export const PROGRAM_EDGES = [
     b: 'dodd-5205-07-2010',
     type: 'programmatic',
     label: '12 Sep 2024 reissuance cancels the 1 Jul 2010 directive',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'Same policy instrument, two issuances, and the programmatic relation is what CHANGED between them - which is not the same fact as the supersession recorded on the temporal edge. The 2010 directive\'s glossary defines \'carve-out\' as \'a provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program oversight\', and its Enclosure 2 para 5 restates the statutory waiver in policy. A full-text pass of the 12 September 2024 reissue finds no occurrence of \'carve-out\', \'waived\' or \'unacknowledged\' at all. The vocabulary the earlier directive defined is simply absent from the later one. Note what that does and does not establish: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation, and still points at DoDD 5205.07 by name, so the mechanism did not end when the words left the directive.',
+    sources: [
+      {
+        name: 'Archived: DoD Directive 5205.07, \'DoD Special Access Program (SAP) Policy\', effective 12 September 2024 (Wayback 2026-05-18)',
+        url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        date: '2026-05-18'
+      },
+      {
+        name: 'DoD Directive 5205.07, \'DoD Special Access Program (SAP) Policy\', effective 12 September 2024',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        date: '2024-09-12'
+      }
+    ]
   },
   {
     a: 'dodm-5205-07-series',
     b: 'dodd-5205-07-2010',
     type: 'programmatic',
     label: 'manual implements policy established in DoDD 5205.07',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1\'s Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.',
+    sources: [
+      {
+        name: 'Archived: DoDM 5205.07 Volume 4, \'Special Access Program (SAP) Security Manual: Marking\', 10 Oct 2013, Incorporating Change 2, effective 8 September 2020 (Wayback 2026-05-18)',
+        url: 'https://web.archive.org/web/20260518063205/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507-V4p.PDF',
+        date: '2026-05-18'
+      },
+      {
+        name: 'DoDM 5205.07 Volume 1, \'DoD SAP Security Manual: General Procedures\', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)',
+        url: 'https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf',
+        date: '2018-02-12'
+      }
+    ]
   },
   {
     a: 'usc-50-3348',
@@ -1820,33 +2029,66 @@ export const PROGRAM_EDGES = [
     b: 'icd-906',
     type: 'programmatic',
     label: '3091a(d)(3) defines \'controlled access program\' as a program created or managed pursuant to ICD 906',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as \'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive\'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.',
+    sources: [
+      {
+        name: '50 U.S.C. 3091a — Congressional oversight of controlled access programs (U.S. Code 2023 Edition, GPO)',
+        url: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm',
+        date: '2024-01-05'
+      },
+      {
+        name: '50 U.S.C. 3091a, Congressional oversight of controlled access programs (OLRC prelim, read 22 August 2026)',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim',
+        date: '2026-08-22'
+      }
+    ]
   },
   {
     a: 'icd-906',
     b: 'odni-capco',
     type: 'programmatic',
     label: 'D.9 makes the CAPCO Director the accountable official',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The directive creates the office\'s duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.',
+    sources: [
+      {
+        name: 'ICD 906, \'Controlled Access Programs\' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025',
+        url: 'https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2024-12-19'
+      },
+      {
+        name: 'ICD 906, \'Controlled Access Programs\', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)',
+        url: 'https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf',
+        date: '2015-10-17'
+      }
+    ]
   },
   {
     a: 'odni-capco',
     b: 'capco-register',
     type: 'programmatic',
     label: 'CAPCO manages the CAP Registry of all control systems, compartments and sub-compartments',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to \'Manage a CAP Registry that maintains a list of all control systems\', and E.4 restates the duty to \'Maintain the CAP Registry, a list of all control systems\'. The office is the custodian, not merely the publisher.',
+    sources: [
+      {
+        name: 'ICD 906, \'Controlled Access Programs\' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025',
+        url: 'https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2024-12-19'
+      },
+      {
+        name: 'ICD 906, \'Controlled Access Programs\', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)',
+        url: 'https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf',
+        date: '2015-10-17'
+      }
+    ]
   },
   {
     a: 'usc-50-3091a-2024amend',
@@ -1892,11 +2134,22 @@ export const PROGRAM_EDGES = [
     b: 'waived-usap-mechanism',
     type: 'programmatic',
     label: 'sec. 1687(a) bars FY2024 funds for UAP activity under special or restricted access absent disclosure',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.',
+    sources: [
+      {
+        name: 'Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
+        date: '2023-12-22'
+      },
+      {
+        name: 'Archived: DoD Instruction 3204.01, \'DoD Policy for Oversight of Independent Research and Development (IR&D)\' (Change 2) (Wayback 2026-03-09)',
+        url: 'https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf',
+        date: '2026-03-09'
+      }
+    ]
   },
   {
     a: 'eo-12829',
@@ -1920,11 +2173,22 @@ export const PROGRAM_EDGES = [
     b: 'four-regime-map',
     type: 'programmatic',
     label: 'ACCM applies \'where SAP controls are not required\' and is named in no reporting statute',
-    claimTier: 3,
+    claimTier: 1,
     dateStart: null,
     dateEnd: null,
-    note: '',
-    sources: []
+    note: 'ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on \'special access program\' or \'controlled access program\'. A measure that is neither falls outside all four.',
+    sources: [
+      {
+        name: '32 CFR 117.3 (eCFR)',
+        url: 'https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3',
+        date: '2026-08-12'
+      },
+      {
+        name: '32 CFR 117.23 (eCFR)',
+        url: 'https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.23',
+        date: '2026-08-12'
+      }
+    ]
   },
   {
     a: 'harry-reid',
@@ -24395,7 +24659,14 @@ export const PROGRAM_EDGES = [
     dateStart: '2010-08-09',
     dateEnd: null,
     note: 'Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a \'terceiro recolhimento\' covering 1981, with CENDOC\'s bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.',
-    sources: []
+    sources: [
+      {
+        name: 'Relatório de Ocorrências (Arquivo Nacional)',
+        url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
+        date: '1986-06-02'
+      },
+      { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' }
+    ]
   },
   {
     a: 'operacao-prato',
@@ -24406,7 +24677,14 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Arquivo Nacional\'s own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.',
-    sources: []
+    sources: [
+      {
+        name: 'Operação Prato - Wikipedia',
+        url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
+        date: '2026-01-01'
+      },
+      { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' }
+    ]
   },
   {
     a: 'university-at-albany',
@@ -24737,6 +25015,28 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
+    a: 'chris-coons',
+    b: 'waived-sap-notification-group',
+    type: 'institutional',
+    label: 'seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee\'s published jurisdiction includes the CIA, DIA and NSA.',
+    sources: [
+      {
+        name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)',
+        url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
+        date: '2026-08-22'
+      },
+      {
+        name: 'appropriations.senate.gov',
+        url: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        date: null
+      }
+    ]
+  },
+  {
     a: 'iaa-fy2024-7343',
     b: 'senate-armed-services',
     type: 'legislative',
@@ -24872,6 +25172,50 @@ export const PROGRAM_EDGES = [
         name: 'DoDM 5205.07 Volume 1, \'DoD SAP Security Manual: General Procedures\', 18 June 2015, Incorporating Change 1, 12 Feb 2018 (Internet Archive capture, 18 Oct 2019)',
         url: 'https://web.archive.org/web/20191018064106/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520507_vol1.pdf',
         date: '2018-02-12'
+      }
+    ]
+  },
+  {
+    a: 'dird-advanced-space-propulsion-based-on-vacuum',
+    b: 'harold-puthoff',
+    type: 'research',
+    label: 'authored',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Authorship, corroborated internally rather than only by the DIA list. References 3, 16 and 19 of the paper are Puthoff\'s own prior work, and DIA singled the report out as its showcase deliverable in Info Memo U-10-2552 to USD(AT&L).',
+    sources: [
+      {
+        name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        date: '2010-03-29'
+      },
+      {
+        name: 'DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
+        date: '2022-03'
+      }
+    ]
+  },
+  {
+    a: 'dod-sapco',
+    b: 'waived-usap',
+    type: 'programmatic',
+    label: 'contractor disclosure to Congress requires SAPCO approval',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO \'under the authority, direction, and control of the Deputy Secretary of Defense\', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.',
+    sources: [
+      {
+        name: 'Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)',
+        url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        date: '2026-05-18'
+      },
+      {
+        name: 'Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)',
+        url: 'https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        date: '2026-05-08'
       }
     ]
   },
@@ -35237,17 +35581,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'harold-puthoff',
-    b: 'dird-advanced-space-propulsion-based-on-vacuum',
-    type: 'research',
-    label: 'authored',
-    claimTier: 1,
-    dateStart: '2010-03-29',
-    dateEnd: null,
-    note: 'DIA list item 5 names "Dr Hal Puthoff, EarthTech International". Corroborated internally by self-citation: references 3, 16 and 19 of the paper are H. E. Puthoff publications.',
-    sources: []
-  },
-  {
     a: 'dird-advanced-space-propulsion-based-on-vacuum',
     b: 'aawsap',
     type: 'programmatic',
@@ -36720,17 +37053,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'dod-sapco',
-    b: 'waived-usap',
-    type: 'programmatic',
-    label: 'contractor disclosure to Congress requires SAPCO approval',
-    claimTier: 1,
-    dateStart: '2024-09-12',
-    dateEnd: null,
-    note: 'DoDD 5205.07 para. 3.1.g bars any DoD contractor entity, contractor employee, contractor representative or consultant from providing SAP material to any member of Congress or their staff without Director, DoD SAPCO approval, and requires all accessed personnel to notify SAPCO when briefing Congress.',
-    sources: []
-  },
-  {
     a: 'dod',
     b: 'waived-sap-notification-group',
     type: 'institutional',
@@ -36871,17 +37193,6 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.',
-    sources: []
-  },
-  {
-    a: 'chris-coons',
-    b: 'waived-sap-notification-group',
-    type: 'institutional',
-    label: 'seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee',
-    claimTier: 1,
-    dateStart: null,
-    dateEnd: null,
-    note: '',
     sources: []
   },
   {
