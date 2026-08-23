@@ -45,26 +45,26 @@
    "denials": 0
   },
   {
+   "id": "ndaa-fy2023-sec-6802",
+   "cls": "legislation",
+   "from": "C",
+   "to": "A",
+   "score": 70.0,
+   "rank": 67,
+   "degree": 7,
+   "program_edges": 6,
+   "denials": 0
+  },
+  {
    "id": "wilson-davis-memo",
    "cls": "document",
    "from": "B",
    "to": "A",
    "score": 68.0,
-   "rank": 74,
+   "rank": 76,
    "degree": 9,
    "program_edges": 5,
    "denials": 2
-  },
-  {
-   "id": "ndaa-fy2023-sec-6802",
-   "cls": "legislation",
-   "from": "C",
-   "to": "A",
-   "score": 54.0,
-   "rank": 119,
-   "degree": 7,
-   "program_edges": 6,
-   "denials": 0
   },
   {
    "id": "richard-genik",

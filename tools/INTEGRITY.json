@@ -1,11 +1,5 @@
 {
  "edge_without_source": [
-  "ndaa-fy2023-sec-6802->aaro (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-historical-record-vol1 (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-historical-record-vol2 (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2023-annual-report (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2024-annual-report (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2025-annual-report (programmatic)",
   "aaro->aaro-historical-record-vol2 (institutional)",
   "aaro-historical-record-vol1->aaro-historical-record-vol2 (temporal)",
   "aaro-historical-record-vol1->yankee-blue (investigative)",
@@ -23,7 +17,6 @@
   "aawsap->dird-series (programmatic)",
   "aawsap->aawsap-contract-hhm402-08-c-0072 (programmatic)",
   "aatip->aaro-historical-record-vol1 (programmatic)",
-  "eo-13526->usc-10-119 (programmatic)",
   "dodd-5205-07-2024->dodd-5205-07-2010 (programmatic)",
   "dodm-5205-07-series->dodd-5205-07-2010 (programmatic)",
   "usc-50-3091a->icd-906 (programmatic)",
@@ -349,12 +342,6 @@
   "betty-mccollum->waived-sap-notification-group (institutional)"
  ],
  "edge_without_note": [
-  "ndaa-fy2023-sec-6802->aaro (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-historical-record-vol1 (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-historical-record-vol2 (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2023-annual-report (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2024-annual-report (programmatic)",
-  "ndaa-fy2023-sec-6802->aaro-fy2025-annual-report (programmatic)",
   "aaro->aaro-historical-record-vol2 (institutional)",
   "aaro-historical-record-vol1->aaro-historical-record-vol2 (temporal)",
   "aaro-historical-record-vol1->yankee-blue (investigative)",
@@ -372,7 +359,6 @@
   "aawsap->dird-series (programmatic)",
   "aawsap->aawsap-contract-hhm402-08-c-0072 (programmatic)",
   "aatip->aaro-historical-record-vol1 (programmatic)",
-  "eo-13526->usc-10-119 (programmatic)",
   "dodd-5205-07-2024->dodd-5205-07-2010 (programmatic)",
   "dodm-5205-07-series->dodd-5205-07-2010 (programmatic)",
   "usc-50-3091a->icd-906 (programmatic)",
@@ -662,16 +648,6 @@
    ],
    "sourced": [
     "temporal"
-   ]
-  },
-  {
-   "a": "eo-13526",
-   "b": "usc-10-119",
-   "unsourced": [
-    "programmatic"
-   ],
-   "sourced": [
-    "legislative"
    ]
   },
   {

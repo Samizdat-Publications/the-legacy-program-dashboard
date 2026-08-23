@@ -1,0 +1,67 @@
+{
+ "domain": "w12-eo13526",
+ "_why": "The last of the reachable regulatory edges, and it turned up the piece that completes a picture the board had only two thirds of.\n\nEO 13526 sec. 4.3 was read from the Federal Register text on govinfo. Sec. 4.3(a) is the authority to create a SAP at all, held by six officials or their principal deputies. That is what makes the edge to 10 U.S.C. 119 real: the order supplies the programmes the statute obliges the Secretary to report. Neither text cites the other.\n\nThe find is sec. 4.3(b)(3). 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee ... or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The executive branch's own oversight office can be reduced to a single person by the decision of the agency head.\n\nSet against the two already established this session, that makes three independent narrowings of oversight over the same object, in three different instruments: congressional readership to twelve under 10 U.S.C. 119(e), ISOO access to one under EO 13526 4.3(b)(3), and DCSA industrial-security oversight removed entirely under 32 CFR 117.6(b)(3). Recorded as a Tier 3 claim because it is a reading of the three together, not something any one of them says - but each of the three components is Tier 1 and quoted from the primary text.",
+ "entities": [
+  {
+   "id": "eo-13526",
+   "cls": "legislation",
+   "label": "Executive Order 13526 — Classified National Security Information",
+   "sources": [
+    {
+     "name": "Executive Order 13526, Classified National Security Information, 75 FR 707, 5 January 2010, sec. 4.3 (read from govinfo, 22 August 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "EO 13526 sec. 4.3(a): 'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.' For programmes pertaining to intelligence sources and methods, but not military operational, strategic and tactical programmes, the function is the DNI's.",
+     "source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(a) permits establishment only where 'required by statute or upon a specific finding that: (1) the vulnerability of, or threat to, specific information is exceptional; and (2) the normal criteria for determining eligibility for access applicable to information classified at the same level are not deemed sufficient', and directs that these officials 'shall keep the number of these programs at an absolute minimum'.",
+     "source": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "THE EXECUTIVE-SIDE NARROWING. Sec. 4.3(b)(3): 'An agency head may limit access to a special access program to the Director of the Information Security Oversight Office and no more than one other employee of the Information Security Oversight Office or, for special access programs that are extraordinarily sensitive and vulnerable, to the Director only.' The oversight body's access to an extraordinarily sensitive SAP can therefore be reduced to a single person, at the agency head's discretion.",
+     "source": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Sec. 4.3(b)(4) requires that 'The agency head or principal deputy shall review annually each special access program to determine whether it continues to meet the requirements of this order', and (b)(5) that 'Upon request, an agency head shall brief the National Security Advisor, or a designee, on any or all of the agency's special access programs.'",
+     "source": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm"
+    },
+    {
+     "tier": 3,
+     "text": "Three separate instruments each narrow oversight of the same object, and none of them depends on the others. 10 U.S.C. 119(e) reduces the congressional readership of a waived SAP to twelve members. EO 13526 sec. 4.3(b)(3) can reduce ISOO's access to one person. 32 CFR 117.6(b)(3) relieves the Director, DCSA of NISP industrial-security oversight entirely on a carve-out. Congressional, executive and industrial-security oversight are narrowed by three different authorities, so closing any one of them would leave the other two intact.",
+     "source": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "a": "eo-13526",
+   "b": "usc-10-119",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "creates what the statute must report",
+   "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
+   "sources": [
+    {
+     "name": "Executive Order 13526, Classified National Security Information, 75 FR 707, 5 January 2010, sec. 4.3 (read from govinfo, 22 August 2026)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  }
+ ]
+}
