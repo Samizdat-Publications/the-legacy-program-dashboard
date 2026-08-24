@@ -625,7 +625,7 @@ def apply(s, model, must_replace):
     # -- state
     s, o = must_replace(s, "  turns:[], narrow:false,\n};",
                         "  turns:[], narrow:false,\n"
-                        "  l0open:[], l0panel:null, l0full:false,\n};",
+                        "  l0open:[], l0panel:null, l0full:false, dockOff:false,\n};",
                         "L0 state", 1); ok &= o
 
     # -- styles
@@ -746,10 +746,16 @@ def apply(s, model, must_replace):
         "    CMD.expand(n.id);",
         "    const n = at(ev.clientX-b.left, ev.clientY-b.top);\n"
         "    /* empty canvas clears. Before this there was no way to unclick. */\n"
-        "    if (!n){ if (S.l0open.length) CMD.clearExpansions(); return; }\n"
+        "    if (!n){ if (S.l0open.length){ CMD.clearExpansions(); CMD.clearSelection(); } return; }\n"
         "    /* clicking the open node again closes it — the other half of the exit */\n"
-        "    if (S.l0open.length === 1 && S.l0open[0] === n.id) return CMD.clearExpansions();\n"
-        "    CMD.expand(n.id);",
+        "    if (S.l0open.length === 1 && S.l0open[0] === n.id){\n"
+        "      CMD.clearExpansions(); CMD.clearSelection(); return; }\n"
+        "    /* Open the popover AND load the dossier. The DETAIL pane says 'click any\n"
+        "       node on the map ... to open its dossier here'; it never did, because\n"
+        "       this handler only ever called expand(). The copy was right and the\n"
+        "       behaviour was wrong. */\n"
+        "    CMD.expand(n.id);\n"
+        "    CMD.selectNode(n.id);",
         "click to clear", 1); ok &= o
 
     # The stats strip key describes the CLAIM TIER, not a confidence score. The
@@ -758,6 +764,56 @@ def apply(s, model, must_replace):
     # spec.
     s, o = must_replace(s, "Confidence key", "Claim tier", "claim-tier key label",
                         s.count("Confidence key")); ok &= o
+
+    # ---- the KPI cells are the most-looked-at thing on the page and were inert
+    # Each maps to the filter a reader would otherwise have to hunt for in the rail.
+    s, o = must_replace(s,
+        "k.map(([l,v,u,c])=>'<div class=\"kpi\">",
+        "k.map(([l,v,u,c])=>'<div class=\"kpi\"'+(KPI_FILTER[l]?' data-kpi=\"'+KPI_FILTER[l]"
+        "+'\"'+(S.filters.has(KPI_FILTER[l])?' class=\"kpi on\"':''):'')+'>",
+        "clickable KPI cells", 1); ok &= o
+
+    s, o = must_replace(s, "function renderStats(){",
+        "/* Which rail filter each KPI cell stands for. A reader who clicks the big\n"
+        "   number expects it to do what the number describes; leaving it inert makes\n"
+        "   the most prominent element on the page the only dead one. */\n"
+        "const KPI_FILTER = { 'TIER A':'tier-A', 'CUSTODY':'C3', 'DENIALS':'denied' };\n"
+        "function renderStats(){", "KPI filter map", 1); ok &= o
+
+    # ---- pane collapse. The rail already has one; the dock did not.
+    s, o = must_replace(s,
+        "document.addEventListener('click', ev => {\n"
+        "  if (ev.target.closest('[data-dockw]')){",
+        "document.addEventListener('click', ev => {\n"
+        "  const kp = ev.target.closest('[data-kpi]');\n"
+        "  if (kp){ CMD.toggleFilter(kp.getAttribute('data-kpi')); return; }\n"
+        "  if (ev.target.closest('[data-dockoff]')){\n"
+        "    S.dockOff = !S.dockOff;\n"
+        "    document.getElementById('app').classList.toggle('dock-off', S.dockOff);\n"
+        "    renderDock(); return;\n"
+        "  }\n"
+        "  if (ev.target.closest('[data-dockw]')){",
+        "KPI + dock-collapse handlers", 1); ok &= o
+
+    # the always-present collapse control, and the re-open tab when hidden
+    s, o = must_replace(s,
+        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
+        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>'\n"
+        "    + '<button class=\"dock-hide\" data-dockoff=\"1\" title=\"Hide the detail pane\">&raquo;</button>';",
+        "dock hide control", 1); ok &= o
+
+    s, o = must_replace(s,
+        "  d.classList.toggle('open', !!S.sel);\n  setDockOpen(!!S.sel && !S.dockCollapsed);",
+        "  d.classList.toggle('open', !!S.sel);\n"
+        "  setDockOpen(!!S.sel && !S.dockCollapsed && !S.dockOff);\n"
+        "  let tab = document.querySelector('.dock-show');\n"
+        "  if (S.dockOff && !tab){\n"
+        "    tab = el('button','dock-show','&laquo;');\n"
+        "    tab.setAttribute('data-dockoff','1');\n"
+        "    tab.title = 'Show the detail pane';\n"
+        "    document.body.appendChild(tab);\n"
+        "  } else if (!S.dockOff && tab){ tab.remove(); }",
+        "dock re-open tab", 1); ok &= o
 
     # -- expose the model on the debug surface the screenshotter already uses, so
     #    the L0 checks can be made AT RUNTIME. This board has been bitten twice by
@@ -838,6 +894,19 @@ L0_CSS2 = """
 .edoss .cl a{color:#5c6672;font-size:9px;word-break:break-all;text-decoration:none}
 .edoss .cl a:hover{color:#5ed4e6}
 .t1{color:#5ed4e6}.t2{color:#efb555}.t3{color:#8d97a4}
+.kpi[data-kpi]{cursor:pointer}
+.kpi[data-kpi]:hover{background:#141920}
+.kpi[data-kpi].on{background:#141920;box-shadow:inset 0 -2px 0 #5ed4e6}
+.dock-hide{position:absolute;left:-11px;top:calc(50% + 52px);transform:translateY(-50%);
+  z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
+  border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
+  text-align:center;padding:0}
+.dock-hide:hover{color:#5ed4e6;border-color:#3b444f}
+.dock-off .dock{width:0 !important;border-left:none;overflow:hidden}
+.dock-show{position:fixed;right:0;top:50%;transform:translateY(-50%);z-index:33;
+  width:22px;height:46px;background:#141920;border:1px solid #262e36;border-right:none;
+  color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;text-align:center}
+.dock-show:hover{color:#5ed4e6}
 .auth{margin:0 0 10px;padding:9px 11px;background:#141920;border-left:2px solid #a795e8;
   font:400 10.5px/1.65 'IBM Plex Mono',monospace;color:#dfe4ea}
 .auth .eb{font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;

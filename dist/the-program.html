@@ -218,6 +218,19 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
 .edoss .cl a{color:#5c6672;font-size:9px;word-break:break-all;text-decoration:none}
 .edoss .cl a:hover{color:#5ed4e6}
 .t1{color:#5ed4e6}.t2{color:#efb555}.t3{color:#8d97a4}
+.kpi[data-kpi]{cursor:pointer}
+.kpi[data-kpi]:hover{background:#141920}
+.kpi[data-kpi].on{background:#141920;box-shadow:inset 0 -2px 0 #5ed4e6}
+.dock-hide{position:absolute;left:-11px;top:calc(50% + 52px);transform:translateY(-50%);
+  z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
+  border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
+  text-align:center;padding:0}
+.dock-hide:hover{color:#5ed4e6;border-color:#3b444f}
+.dock-off .dock{width:0 !important;border-left:none;overflow:hidden}
+.dock-show{position:fixed;right:0;top:50%;transform:translateY(-50%);z-index:33;
+  width:22px;height:46px;background:#141920;border:1px solid #262e36;border-right:none;
+  color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;text-align:center}
+.dock-show:hover{color:#5ed4e6}
 .auth{margin:0 0 10px;padding:9px 11px;background:#141920;border-left:2px solid #a795e8;
   font:400 10.5px/1.65 'IBM Plex Mono',monospace;color:#dfe4ea}
 .auth .eb{font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;
@@ -682,6 +695,19 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
 .edoss .cl a{color:#5c6672;font-size:9px;word-break:break-all;text-decoration:none}
 .edoss .cl a:hover{color:#5ed4e6}
 .t1{color:#5ed4e6}.t2{color:#efb555}.t3{color:#8d97a4}
+.kpi[data-kpi]{cursor:pointer}
+.kpi[data-kpi]:hover{background:#141920}
+.kpi[data-kpi].on{background:#141920;box-shadow:inset 0 -2px 0 #5ed4e6}
+.dock-hide{position:absolute;left:-11px;top:calc(50% + 52px);transform:translateY(-50%);
+  z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
+  border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
+  text-align:center;padding:0}
+.dock-hide:hover{color:#5ed4e6;border-color:#3b444f}
+.dock-off .dock{width:0 !important;border-left:none;overflow:hidden}
+.dock-show{position:fixed;right:0;top:50%;transform:translateY(-50%);z-index:33;
+  width:22px;height:46px;background:#141920;border:1px solid #262e36;border-right:none;
+  color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;text-align:center}
+.dock-show:hover{color:#5ed4e6}
 .auth{margin:0 0 10px;padding:9px 11px;background:#141920;border-left:2px solid #a795e8;
   font:400 10.5px/1.65 'IBM Plex Mono',monospace;color:#dfe4ea}
 .auth .eb{font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;
@@ -111005,7 +111031,7 @@ const S = {
   settingsOpen:false, anOpen:true, anBusy:false, railOpen:true, dockW:306,
   hasKey:false, model:'claude-sonnet-5', effort:'balanced', keyState:'',
   turns:[], narrow:false,
-  l0open:[], l0panel:null, l0full:false,
+  l0open:[], l0panel:null, l0full:false, dockOff:false,
 };
 
 let MAP = null;               // map controller, mounted only while view === NETWORK
@@ -111545,10 +111571,16 @@ function mountL0(host){
     const b = host.getBoundingClientRect();
     const n = at(ev.clientX-b.left, ev.clientY-b.top);
     /* empty canvas clears. Before this there was no way to unclick. */
-    if (!n){ if (S.l0open.length) CMD.clearExpansions(); return; }
+    if (!n){ if (S.l0open.length){ CMD.clearExpansions(); CMD.clearSelection(); } return; }
     /* clicking the open node again closes it — the other half of the exit */
-    if (S.l0open.length === 1 && S.l0open[0] === n.id) return CMD.clearExpansions();
+    if (S.l0open.length === 1 && S.l0open[0] === n.id){
+      CMD.clearExpansions(); CMD.clearSelection(); return; }
+    /* Open the popover AND load the dossier. The DETAIL pane says 'click any
+       node on the map ... to open its dossier here'; it never did, because
+       this handler only ever called expand(). The copy was right and the
+       behaviour was wrong. */
     CMD.expand(n.id);
+    CMD.selectNode(n.id);
   });
   cvs.addEventListener('wheel', ev => {
     ev.preventDefault();
@@ -112763,6 +112795,10 @@ function spanMonths(){
   if (!ds.length) return '0';
   return String(Math.round((new Date(ds[ds.length-1]) - new Date(ds[0])) / 86400000 / 30.44));
 }
+/* Which rail filter each KPI cell stands for. A reader who clicks the big
+   number expects it to do what the number describes; leaving it inert makes
+   the most prominent element on the page the only dead one. */
+const KPI_FILTER = { 'TIER A':'tier-A', 'CUSTODY':'C3', 'DENIALS':'denied' };
 function renderStats(){
   const P = visiblePeople();
   const t = {1:0,2:0,3:0};
@@ -112779,7 +112815,7 @@ function renderStats(){
     ['CUSTODY', custody, 'chain links', 'var(--dead)'],
   ];
   $('#stats').innerHTML =
-    k.map(([l,v,u,c])=>'<div class="kpi"><div class="kpi-l">'+l+'</div><div class="kpi-v"><b style="color:'+c+'">'+v+'</b><i>'+u+'</i></div></div>').join('')
+    k.map(([l,v,u,c])=>'<div class="kpi"'+(KPI_FILTER[l]?' data-kpi="'+KPI_FILTER[l]+'"'+(S.filters.has(KPI_FILTER[l])?' class="kpi on"':''):'')+'><div class="kpi-l">'+l+'</div><div class="kpi-v"><b style="color:'+c+'">'+v+'</b><i>'+u+'</i></div></div>').join('')
     + '<div class="spacer"></div>'
     + '<div class="ckey"><div class="eyebrow">Claim tier</div><div class="ckey-row">'
     + '<span class="cf-conf">Confirmed</span><span class="cf-claim">Claim</span><span class="cf-open">Open question</span>'
@@ -113569,6 +113605,13 @@ function viewSearch(v){
    click on any node opens a full dossier, not a demographic summary.
    ========================================================================= */
 document.addEventListener('click', ev => {
+  const kp = ev.target.closest('[data-kpi]');
+  if (kp){ CMD.toggleFilter(kp.getAttribute('data-kpi')); return; }
+  if (ev.target.closest('[data-dockoff]')){
+    S.dockOff = !S.dockOff;
+    document.getElementById('app').classList.toggle('dock-off', S.dockOff);
+    renderDock(); return;
+  }
   if (ev.target.closest('[data-dockw]')){
     S.dockCollapsed = !S.dockCollapsed;
     setDockOpen(!!S.sel && !S.dockCollapsed); renderDock();
@@ -113577,10 +113620,18 @@ document.addEventListener('click', ev => {
 function renderDock(){
   const d = $('#dock');
   d.classList.toggle('open', !!S.sel);
-  setDockOpen(!!S.sel && !S.dockCollapsed);
+  setDockOpen(!!S.sel && !S.dockCollapsed && !S.dockOff);
+  let tab = document.querySelector('.dock-show');
+  if (S.dockOff && !tab){
+    tab = el('button','dock-show','&laquo;');
+    tab.setAttribute('data-dockoff','1');
+    tab.title = 'Show the detail pane';
+    document.body.appendChild(tab);
+  } else if (!S.dockOff && tab){ tab.remove(); }
   const grip = '<div class="dock-grip" title="Drag to resize. Double click to reset"></div>'
     + '<button class="dock-toggle" data-dockw="1" title="Widen or collapse the dossier">'
-    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';
+    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>'
+    + '<button class="dock-hide" data-dockoff="1" title="Hide the detail pane">&raquo;</button>';
   if (!S.sel){
     d.innerHTML = grip + '<div class="dock-empty"><span class="eyebrow">Detail</span>'
       + 'Click any node on the map, any case card, or any search result to open its dossier here. '
