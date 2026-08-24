@@ -884,3 +884,58 @@ shared design system for cosmetic reasons.
    because the primary channels do not render.
 8. **59% DOCUMENTED is 58.59% rounded.** Correct, but a tie-out question waiting to
    happen if someone recomputes from the claim table.
+
+---
+
+# Stage 11 — the analyst pass and the request queue, 14 August 2026
+
+## The board was used for the thing it was built for
+
+`notes/ANALYST-PASS-2026-08-14.md`. An analyst agent traversed the 4,320 connection
+rows, the 110 dossiers and the 674 open questions looking for joins that no single
+node states. **7 finds: 5 STRONG, 1 PLAUSIBLE, 1 mixed**, plus four sub-threshold
+items and a negative-results section.
+
+**The strongest is a genuine novel join.** John Schuessler appears **twice inside the
+same $22M DIA/AAWSAP contract** — as the named author of the BAASS March 2009 monthly
+report on Colares, and as the source of Appendix A, the "Schuessler Catalog of
+UFO-Related Human Physiological Effects", in the AAWSAP human-effects DIRD whose
+stated Hypothesis One is that human injury can be reverse-engineered into propulsion
+physics.
+
+His node has **two neighbours** — `betty-cash` and `mufon` — and mentions neither
+AAWSAP, BAASS, DIA, Kit Green nor Colares. The board contained every fact needed to
+see it and nobody had crossed them. That is the payoff the connection layer was built
+for, and it worked on first use.
+
+The finds are **not yet wired as edges.** They are inferences from existing claims and
+should be reviewed before they mutate the board.
+
+## The request queue
+
+`notes/REQUEST-QUEUE.md`. 674 open questions triaged into what a person can actually
+execute.
+
+```
+FOIA / records requests   18   closing ~95 open questions across 45 nodes
+archive + manual          11   including all four items automation could not reach
+paywalled / purchasable    6   + 1 time-locked (Rice MS 0672, opens 2031)
+permanently blocked       11   clusters, each with the reason no document class exists
+```
+
+**Highest value: NARA Office of General Counsel, the RG 615 compliance register under
+sections 1841-1843 of P.L. 118-31.** Purely administrative records with no
+classification equity of their own, closing 14 open questions across 8 nodes. And the
+null return is itself the finding: Congress built a records collection with a deadline
+and no enforcement instrument.
+
+## The agent corrected me again
+
+I handed it two FOIA case numbers from my own working memory —
+`DODOIG-2021-000806` and `APP-00031-2022` — and it refused both, because **neither
+appears anywhere in the board data.** The DoD IG case the board actually records is
+`DODOIG-2025-000932`. Citing a case number that does not exist in a FOIA request is
+exactly the fabricated-source failure this project treats as unforgivable, and it
+would have been mine.
+
+Fourth time this session an agent has contradicted its own brief and been right.
