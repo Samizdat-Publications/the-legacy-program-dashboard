@@ -1,5 +1,5 @@
 {
- "_why": "Collapse pass 14 Aug 2026. varginha-1996/ev-varginha-1996 and dod-sapco/dod-sapco-arch were the same object entered twice. d-money was a FACET of d-funding, not a peer: its own description opens by saying it narrows d-funding to a single question, and every member of one satisfied the other. 'Funding Channels' is a membership test a node passes or fails; 'Black Budget & Unaccounted Funds' is a conclusion.",
+ "_why": "Collapse pass 14 Aug 2026. varginha-1996/ev-varginha-1996 and dod-sapco/dod-sapco-arch were the same object entered twice. d-money was a FACET of d-funding, not a peer: its own description opens by saying it narrows d-funding to a single question, and every member of one satisfied the other. 'Funding Channels' is a membership test a node passes or fails; 'Black Budget & Unaccounted Funds' is a conclusion.\n\nNote hygiene, 23 August 2026: the trailing marker '[Re-pointed from a collapsed duplicate, 14 Aug 2026.]' was stripped from these notes. Edge notes render in the dock, so that was build bookkeeping showing to a reader. The provenance is not lost - it is in this file, in _removed.json's alias map and in git history, which are the right places for it. The substantive sentences in each note are untouched.",
  "edges": [
   {
    "a": "dod-sapco",
@@ -9,7 +9,7 @@
    "claimTier": 3,
    "dateStart": null,
    "dateEnd": null,
-   "note": " [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "",
    "sources": [],
    "_domains": [
     "_rs-sap-docs"
@@ -23,7 +23,7 @@
    "claimTier": 3,
    "dateStart": "1996",
    "dateEnd": "2010",
-   "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
    "sources": [
     {
      "name": "The Roswell Report: Case Closed (1997)",
@@ -43,7 +43,7 @@
    "claimTier": 1,
    "dateStart": "2013-02-06",
    "dateEnd": null,
-   "note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
    "sources": [
     {
      "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
@@ -63,7 +63,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -83,7 +83,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.' [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDM 5205.07-V1 Enclosure 2 para 3.b: the Director, DoD SAPCO 'Functions as the DoD single point of Congressional liaison concerning SAPs.'",
    "sources": [
     {
      "name": "DoD Manual 5205.07 Volume 1, 18 June 2015, Change 1 12 February 2018",
@@ -108,7 +108,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -128,7 +128,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",

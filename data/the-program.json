@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23",
+ "generated": "2026-08-24",
  "people": [
   {
    "id": "harry-reid",
@@ -104038,10 +104038,22 @@
    "claimTier": 3,
    "dateStart": null,
    "dateEnd": null,
-   "note": " [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
-   "sources": [],
+   "note": "DoD SAPCO is the office this report is compiled through. 10 U.S.C. 119(a)(1) puts the obligation on the Secretary of Defense - 'not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs' - and DoDD 5205.07 vests central management of the SAP enterprise in DoD SAPCO under the Deputy Secretary of Defense. The statute names the Secretary; the directive names the office that does the work.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
    "_domains": [
     "w10-collapse",
+    "w12-dod-house-sources",
     "_rs-sap-docs"
    ]
   },
@@ -104053,7 +104065,7 @@
    "claimTier": 3,
    "dateStart": "1996",
    "dateEnd": "2010",
-   "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
    "sources": [
     {
      "name": "The Roswell Report: Case Closed (1997)",
@@ -104074,7 +104086,7 @@
    "claimTier": 1,
    "dateStart": "2013-02-06",
    "dateEnd": null,
-   "note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
    "sources": [
     {
      "name": "DoD Instruction 5205.11, 6 February 2013, Change 1 31 August 2018",
@@ -104095,7 +104107,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -104143,7 +104155,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -104164,7 +104176,7 @@
    "claimTier": 1,
    "dateStart": "2010-07-01",
    "dateEnd": null,
-   "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face. [Re-pointed from a collapsed duplicate, 14 Aug 2026.]",
+   "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
    "sources": [
     {
      "name": "DoD Directive 5205.07, 1 July 2010, Change 1 31 August 2018",
@@ -105461,9 +105473,21 @@
    "dateStart": "2009-01-06",
    "dateEnd": "2009-06-16",
    "note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-notification-group-sources"
    ]
   },
   {
@@ -105475,9 +105499,21 @@
    "dateStart": null,
    "dateEnd": "2009-09-21",
    "note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+     "date": null
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-dod-house-sources"
    ]
   },
   {
@@ -105489,9 +105525,26 @@
    "dateStart": "2009-06-16",
    "dateEnd": null,
    "note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+     "date": null
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-notification-group-sources"
    ]
   },
   {
@@ -105503,9 +105556,21 @@
    "dateStart": "2009-06-16",
    "dateEnd": null,
    "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+     "date": null
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-dod-house-sources"
    ]
   },
   {
@@ -105517,9 +105582,21 @@
    "dateStart": "2009-01-06",
    "dateEnd": null,
    "note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-notification-group-sources"
    ]
   },
   {
@@ -105531,9 +105608,21 @@
    "dateStart": "2009-01-06",
    "dateEnd": null,
    "note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-dod-house-sources"
    ]
   },
   {
@@ -105545,9 +105634,26 @@
    "dateStart": "2024-04-10",
    "dateEnd": null,
    "note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+     "date": null
+    }
+   ],
    "_domains": [
     "w10-notification-gaps",
+    "w12-notification-group-sources",
     "w9-waived-sap-group"
    ]
   },
@@ -105560,9 +105666,26 @@
    "dateStart": "2024-04-10",
    "dateEnd": null,
    "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+     "date": null
+    },
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee",
+     "date": null
+    },
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-dod-house-sources"
    ]
   },
   {
@@ -105574,9 +105697,21 @@
    "dateStart": "2024-09-12",
    "dateEnd": null,
    "note": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
-   "sources": [],
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ],
    "_domains": [
     "w10-notification-gaps",
+    "w12-notification-group-sources",
     "w9-waived-sap-group"
    ]
   },
@@ -105610,9 +105745,21 @@
    "dateStart": "2024-09-12",
    "dateEnd": null,
    "note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+     "date": "2026-02-03"
+    },
+    {
+     "name": "NDAA FY2026 (P.L. 119-60), Secs. 4, 5, 1001, 4001",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+     "date": "2025-12-18"
+    }
+   ],
    "_domains": [
-    "w10-notification-gaps"
+    "w10-notification-gaps",
+    "w12-dod-house-sources"
    ]
   },
   {
@@ -106051,9 +106198,21 @@
    "dateStart": "1980-01",
    "dateEnd": "1990",
    "note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed. [Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]",
-   "sources": [],
+   "sources": [
+    {
+     "name": "Stonehill & Mantle - Setka: A Secret Soviet UFO Research Program",
+     "url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf",
+     "date": "2010-11-19"
+    },
+    {
+     "name": "Project Condign Volume 3 (UK MoD assessment of FSU activity)",
+     "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+     "date": "2006-05-15"
+    }
+   ],
    "_domains": [
     "w11-setka-collapse",
+    "w12-dod-house-sources",
     "w6-international"
    ]
   },
@@ -107383,6 +107542,282 @@
    ]
   },
   {
+   "a": "steve-feinberg",
+   "b": "dod",
+   "type": "institutional",
+   "label": "Deputy Secretary of Defense",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+   "sources": [
+    {
+     "name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/",
+     "date": "2026-08-10"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "l-michigan-state",
+   "b": "dod",
+   "type": "geographic",
+   "label": "site of the DoD unsupported-adjustment study",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+   "sources": [
+    {
+     "name": "Summary Report on Unsupported Journal Voucher Adjustments (PDF)",
+     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+     "date": "2017-09-01"
+    },
+    {
+     "name": "Missing Money supporting documentation index",
+     "url": "https://missingmoney.solari.com/dod-and-hud-missing-money-supporting-documentation/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)",
+     "url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/",
+     "date": "2026-01-13"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "marik-von-rennenkampff",
+   "b": "dod",
+   "type": "institutional",
+   "label": "Obama-administration DoD appointee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
+   "sources": [
+    {
+     "name": "The Hill - 'Did the Pentagon spread false UFO stories? We're skeptical.'",
+     "url": "https://thehill.com/opinion/national-security/5381851-did-the-pentagon-spread-false-ufo-stories-were-skeptical/",
+     "date": "2025-01-01"
+    },
+    {
+     "name": "The Hill - 'Shocking UFO allegations make the case for the Disclosure Act'",
+     "url": "https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/",
+     "date": "2024-01-01"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "l-langley-afb",
+   "b": "dod",
+   "type": "geographic",
+   "label": "DoD installation; NORAD/USNORTHCOM response",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+   "sources": [
+    {
+     "name": "Archived: NORAD Newsroom (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/",
+     "date": "2026-05-18"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "reid-dia-meetings-2008-2009",
+   "b": "dod",
+   "type": "institutional",
+   "label": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+   "sources": [
+    {
+     "name": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/",
+     "date": "2009-01-02"
+    },
+    {
+     "name": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/",
+     "date": "2009-05-04"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "dod",
+   "type": "denial",
+   "label": "Air Force denials of Hangar 18 bodies",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+   "sources": [
+    {
+     "name": "Aztec crashed saucer hoax - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+     "url": "https://vault.fbi.gov/",
+     "date": "2026-08-12"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "vanderbilt-university",
+   "b": "dod",
+   "type": "research",
+   "label": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
+   "sources": [
+    {
+     "name": "Bruehl S. & Villarroel B., 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports (Nature Portfolio)",
+     "url": "https://doi.org/10.1038/s41598-025-21620-3",
+     "date": "2025-10-20"
+    },
+    {
+     "name": "Same paper, publisher record with author affiliations",
+     "url": "https://www.nature.com/articles/s41598-025-21620-3",
+     "date": "2025-10-20"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "saf-aaz",
+   "b": "dod",
+   "type": "institutional",
+   "label": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
+   "sources": [
+    {
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "us-house",
+   "type": "institutional",
+   "label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+   "sources": [
+    {
+     "name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+     "url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+     "date": "2026-08-11"
+    },
+    {
+     "name": "National Reconnaissance Office - About NRO",
+     "url": "https://www.nro.gov/About-NRO/",
+     "date": "2026-08-12"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "us-house",
+   "b": "509th-bomb-group",
+   "type": "investigative",
+   "label": "Congressionally requested GAO search of 509th and RAAF records",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+   "sources": [
+    {
+     "name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+     "url": "https://www.gao.gov/products/nsiad-95-187",
+     "date": "1995-07-28"
+    },
+    {
+     "name": "GAO/NSIAD-95-187, full report (PDF)",
+     "url": "https://www.gao.gov/assets/nsiad-95-187.pdf",
+     "date": "1995-07-28"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "saf-aaz",
+   "b": "us-house",
+   "type": "behavioral",
+   "label": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+   "sources": [
+    {
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ],
+   "_domains": [
+    "w12-dod-house-sources",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
    "a": "chris-coons",
    "b": "waived-sap-notification-group",
    "type": "institutional",
@@ -107405,6 +107840,675 @@
    ],
    "_domains": [
     "w12-narrative-edges",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "david-grusch",
+   "b": "waived-sap-notification-group",
+   "type": "investigative",
+   "label": "allegations of a programme withheld from the statutory notification channel",
+   "claimTier": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD FOIA 23-F-0946 - Grusch DOPSR request records (Wayback 2026-06-12)",
+     "url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf",
+     "date": "2026-06-12"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "oversight-congress",
+   "type": "institutional",
+   "label": "the narrow aperture through which Congress sees waived DoD SAPs",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "mike-rogers-alabama",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 7 of 12 - Chairman, House Armed Services",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "house-oversight-committee",
+   "type": "institutional",
+   "label": "not a defense committee; receives nothing under 10 U.S.C. 119",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "ken-calvert",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "In the group in 2020 as ranking member and from 2023 as chair.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "usc-10-119",
+   "type": "legislative",
+   "label": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of 'defense committees' used by the section.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "susan-collins",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 3 of 12 - Chair, Senate Appropriations",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "mitch-mcconnell",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+     "url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/",
+     "date": "2023-11-27"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "eric-burlison",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "anna-paulina-luna",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "no statutory entitlement; not a defense committee chair or ranking member",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/",
+     "date": "2026-08-10"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "caucus membership confers no statutory access",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/",
+     "date": "2024-01-12"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "betty-mccollum",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap",
+   "type": "programmatic",
+   "label": "the twelve members with statutory sight of a waived programme",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group's statutory sight line entirely.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "rosa-delauro",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 10 of 12 - Ranking Member, House Appropriations",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "In the group continuously across the 118th and 119th Congresses.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "patty-murray",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "adam-smith",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 8 of 12 - Ranking Member, House Armed Services",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "nancy-mace",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
+     "date": "2024-11-13"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "classified-annex",
+   "type": "funding",
+   "label": "four of the twelve seats are appropriations leadership",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+     "date": "2026-02-03"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "roger-wicker",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 1 of 12 - Chairman, Senate Armed Services",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "S. 4784 (Reported in Senate), FY2027 NDAA — GPO",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm",
+     "date": "2026-06-15"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "senate-armed-services",
+   "type": "institutional",
+   "label": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "P.L. 118-31, Sec. 1841(e) — GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "Secretary of Defense is the notifying authority under 119(e)",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/",
+     "date": "2026-08-10"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "harry-reid",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/",
+     "date": "2009-06-24"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap-mechanism",
+   "type": "institutional",
+   "label": "sole statutory recipient of waived-SAP notification",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
+    "w9-waived-sap-group"
+   ]
+  },
+  {
+   "a": "jack-reed",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Congress.gov — S. 2226",
+     "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2226",
+     "date": "2023-07-11"
+    }
+   ],
+   "_domains": [
+    "w12-notification-group-sources",
     "w9-waived-sap-group"
    ]
   },
@@ -118749,48 +119853,6 @@
    ]
   },
   {
-   "a": "us-house",
-   "b": "509th-bomb-group",
-   "type": "investigative",
-   "label": "Congressionally requested GAO search of 509th and RAAF records",
-   "claimTier": 1,
-   "dateStart": "1995-07-28",
-   "dateEnd": null,
-   "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "saf-aaz",
-   "b": "us-house",
-   "type": "behavioral",
-   "label": "Air Force SAP directive bars congressional briefings without SAPCO approval",
-   "claimTier": 1,
-   "dateStart": "2010-12-29",
-   "dateEnd": null,
-   "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "saf-aaz",
-   "b": "dod",
-   "type": "institutional",
-   "label": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
-   "claimTier": 1,
-   "dateStart": "2010-12-29",
-   "dateEnd": null,
-   "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
    "a": "wayne-state-university",
    "b": "kit-green",
    "type": "institutional",
@@ -118813,20 +119875,6 @@
    "dateStart": "2010-01-01",
    "dateEnd": null,
    "note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "vanderbilt-university",
-   "b": "dod",
-   "type": "research",
-   "label": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
-   "claimTier": 2,
-   "dateStart": "2025-08-01",
-   "dateEnd": null,
-   "note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
    "sources": [],
    "_domains": [
     "w6-edges-inst-a"
@@ -119211,20 +120259,6 @@
    ]
   },
   {
-   "a": "l-langley-afb",
-   "b": "dod",
-   "type": "geographic",
-   "label": "DoD installation; NORAD/USNORTHCOM response",
-   "claimTier": 1,
-   "dateStart": "2023-12-06",
-   "dateEnd": null,
-   "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
    "a": "l-mclean",
    "b": "mitre-corporation",
    "type": "geographic",
@@ -119519,20 +120553,6 @@
    ]
   },
   {
-   "a": "l-michigan-state",
-   "b": "dod",
-   "type": "geographic",
-   "label": "site of the DoD unsupported-adjustment study",
-   "claimTier": 2,
-   "dateStart": "2017-12-01",
-   "dateEnd": null,
-   "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
    "a": "l-ottawa",
    "b": "sky-canada-project",
    "type": "geographic",
@@ -119544,20 +120564,6 @@
    "sources": [],
    "_domains": [
     "w6-edges-locations"
-   ]
-  },
-  {
-   "a": "steve-feinberg",
-   "b": "dod",
-   "type": "institutional",
-   "label": "Deputy Secretary of Defense",
-   "claimTier": 1,
-   "dateStart": "2025-03-14",
-   "dateEnd": null,
-   "note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
    ]
   },
   {
@@ -119583,20 +120589,6 @@
    "dateStart": "1997-01-01",
    "dateEnd": null,
    "note": "Per his NRO bio: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "us-house",
-   "type": "institutional",
-   "label": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
    "sources": [],
    "_domains": [
     "w6-edges-people"
@@ -119737,20 +120729,6 @@
    "dateStart": "2024-01-01",
    "dateEnd": null,
    "note": "After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company's escaped helium balloons, von Rennenkampff wrote in The Hill: 'After calling the company, I found Kirkpatrick's statement to be implausible.' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "marik-von-rennenkampff",
-   "b": "dod",
-   "type": "institutional",
-   "label": "Obama-administration DoD appointee",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
    "sources": [],
    "_domains": [
     "w6-edges-people"
@@ -119925,20 +120903,6 @@
    ]
   },
   {
-   "a": "reid-dia-meetings-2008-2009",
-   "b": "dod",
-   "type": "institutional",
-   "label": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
-   "claimTier": 1,
-   "dateStart": "2009-06-24",
-   "dateEnd": null,
-   "note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
    "a": "sol-foundation",
    "b": "sol-briefing-3-2026",
    "type": "institutional",
@@ -119989,20 +120953,6 @@
    "dateStart": "1974",
    "dateEnd": null,
    "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "aztec-1948",
-   "b": "dod",
-   "type": "denial",
-   "label": "Air Force denials of Hangar 18 bodies",
-   "claimTier": 2,
-   "dateStart": "1974",
-   "dateEnd": null,
-   "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
    "sources": [],
    "_domains": [
     "w6-international"
@@ -121259,342 +122209,6 @@
    "_domains": [
     "w8-collapse",
     "aawsap-aatip"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "usc-10-119",
-   "type": "legislative",
-   "label": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
-   "claimTier": 1,
-   "dateStart": "1987-12-04",
-   "dateEnd": null,
-   "note": "Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of 'defense committees' used by the section.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "waived-usap-mechanism",
-   "type": "institutional",
-   "label": "sole statutory recipient of waived-SAP notification",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "waived-usap",
-   "type": "programmatic",
-   "label": "the twelve members with statutory sight of a waived programme",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group's statutory sight line entirely.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "oversight-congress",
-   "type": "institutional",
-   "label": "the narrow aperture through which Congress sees waived DoD SAPs",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "senate-armed-services",
-   "type": "institutional",
-   "label": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "house-oversight-committee",
-   "type": "institutional",
-   "label": "not a defense committee; receives nothing under 10 U.S.C. 119",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "dod",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "Secretary of Defense is the notifying authority under 119(e)",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "waived-sap-notification-group",
-   "b": "classified-annex",
-   "type": "funding",
-   "label": "four of the twelve seats are appropriations leadership",
-   "claimTier": 2,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "harry-reid",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
-   "claimTier": 1,
-   "dateStart": "2009-01-01",
-   "dateEnd": "2009-12-31",
-   "note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "david-grusch",
-   "b": "waived-sap-notification-group",
-   "type": "investigative",
-   "label": "allegations of a programme withheld from the statutory notification channel",
-   "claimTier": 3,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "nancy-mace",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "eric-burlison",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "no statutory entitlement; not a defense committee chair or ranking member",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "anna-paulina-luna",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "no statutory entitlement; not a defense committee chair or ranking member",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "congressional-uap-caucus",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "caucus membership confers no statutory access",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "roger-wicker",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 1 of 12 - Chairman, Senate Armed Services",
-   "claimTier": 1,
-   "dateStart": "2025-01-03",
-   "dateEnd": null,
-   "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "jack-reed",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 2 of 12 - Ranking Member, Senate Armed Services",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "susan-collins",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 3 of 12 - Chair, Senate Appropriations",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "patty-murray",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "mitch-mcconnell",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "mike-rogers-alabama",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 7 of 12 - Chairman, House Armed Services",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "adam-smith",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 8 of 12 - Ranking Member, House Armed Services",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "rosa-delauro",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 10 of 12 - Ranking Member, House Appropriations",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "In the group continuously across the 118th and 119th Congresses.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "ken-calvert",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "In the group in 2020 as ranking member and from 2023 as chair.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
-   ]
-  },
-  {
-   "a": "betty-mccollum",
-   "b": "waived-sap-notification-group",
-   "type": "institutional",
-   "label": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
-   "sources": [],
-   "_domains": [
-    "w9-waived-sap-group"
    ]
   },
   {

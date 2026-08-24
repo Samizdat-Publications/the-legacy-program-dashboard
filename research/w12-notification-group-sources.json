@@ -1,0 +1,583 @@
+{
+ "domain": "w12-notification-group-sources",
+ "_why": "Twenty-nine edges into the waived-SAP notification group, every one of which already carried a precise note and none of which carried a source. This attaches the statute the notes rest on rather than rewriting them: 10 U.S.C. 119, read from the Office of Law Revision Counsel text on 22 August 2026, subsection (e)(2) for who is notified and (g) for which bodies count.\n\nWhere an edge turns on whether a person holds one of the twelve seats, the Senate's table of session convening dates is added too, because that is what dates the seat. Where it turns on the contrast with the Gang of Eight - Reid and McConnell - 50 U.S.C. 3093(c)(2) is added, since the point of those edges is that the two groups are disjoint sets: 3093 includes the majority and minority leaders of the Senate and 119(g) does not.\n\nThe structural fact these edges collectively carry is worth stating plainly, because it is not obvious and it is fully documented: the House Oversight Committee, which took the July 2023 Grusch testimony and has driven the public record since, is NOT one of the six bodies named in 10 U.S.C. 119(g). It holds no entitlement under (e)(2) and no statutory route to compel waived-SAP material. Neither do the party leaders. The committees that could be told are not the committees that have been asking.",
+ "edges": [
+  {
+   "a": "david-grusch",
+   "b": "waived-sap-notification-group",
+   "type": "investigative",
+   "claimTier": 3,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD FOIA 23-F-0946 - Grusch DOPSR request records (Wayback 2026-06-12)",
+     "url": "https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf",
+     "date": "2026-06-12"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "oversight-congress",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "thad-cochran",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "mike-rogers-alabama",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "house-oversight-committee",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ]
+  },
+  {
+   "a": "ken-calvert",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "usc-10-119",
+   "type": "legislative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ]
+  },
+  {
+   "a": "tom-cole",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+     "date": null
+    }
+   ]
+  },
+  {
+   "a": "susan-collins",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "mitch-mcconnell",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "The Debrief — UAP Disclosure Act receives pushback from lawmakers",
+     "url": "https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/",
+     "date": "2023-11-27"
+    }
+   ]
+  },
+  {
+   "a": "eric-burlison",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ]
+  },
+  {
+   "a": "buck-mckeon",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+     "date": null
+    }
+   ]
+  },
+  {
+   "a": "anna-paulina-luna",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/",
+     "date": "2026-08-10"
+    }
+   ]
+  },
+  {
+   "a": "congressional-uap-caucus",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "The Hill: Classified UFO briefing — House members emerge with mixed feelings",
+     "url": "https://thehill.com/homenews/house/4406059-classified-ufo-briefing-house-members-mixed-feelings/",
+     "date": "2024-01-12"
+    }
+   ]
+  },
+  {
+   "a": "betty-mccollum",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "john-mchugh",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap",
+   "type": "programmatic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "rosa-delauro",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "patty-murray",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "adam-smith",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "nancy-mace",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "CHRG-118hhrg57440, printed hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth', Serial No. 118-135",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
+     "date": "2024-11-13"
+    }
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "classified-annex",
+   "type": "funding",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+     "date": "2026-02-03"
+    }
+   ]
+  },
+  {
+   "a": "roger-wicker",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "S. 4784 (Reported in Senate), FY2027 NDAA — GPO",
+     "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm",
+     "date": "2026-06-15"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "senate-armed-services",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "P.L. 118-31, Sec. 1841(e) — GPO",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "a": "dod",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/",
+     "date": "2026-08-10"
+    }
+   ]
+  },
+  {
+   "a": "harry-reid",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "50 U.S.C. 3093(c)(2), the Gang of Eight construct, for contrast with the section 119 group",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/",
+     "date": "2009-06-24"
+    }
+   ]
+  },
+  {
+   "a": "waived-sap-notification-group",
+   "b": "waived-usap-mechanism",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ]
+  },
+  {
+   "a": "jack-reed",
+   "b": "waived-sap-notification-group",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "Congress.gov — S. 2226",
+     "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2226",
+     "date": "2023-07-11"
+    }
+   ]
+  }
+ ]
+}

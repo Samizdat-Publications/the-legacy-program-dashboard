@@ -1,0 +1,327 @@
+{
+ "_why": "Verification record for the 32 released Defense Intelligence Reference Documents, produced by downloading every PDF and reading it. It is kept in the repo because the verification is expensive to redo and the downloads themselves are ephemeral: 78MB of PDFs that lived in a container temp directory. Anything asserted on a DIRD edge or claim should be checkable against this file without fetching anything.\n\nTwo passes were needed and the first was wrong. Reading only the first three pages found 13 of 32 naming the Advanced Aerospace Weapon System Applications Program; scanning the whole document found 27. The five that do not name it anywhere are recorded as such, and their aawsap edges are Tier 2 resting on the DIA 9 January 2018 list rather than on the document.\n\nThe scans are heavily OCR-degraded - the inside-cover statement images as 'advanced technalo re arts roduced' - so a document number was only recorded where it read unambiguously as DIA-NN-NNNN-NNN. 12 of 32 did. Publication dates read cleanly on all 32.",
+ "_read_on": "2026-08-22 (covers) and 2026-08-23 (full-document scan)",
+ "_method": "curl to the Black Vault copy, then pypdf text extraction. dia.mil returns 403 to this session and irp.fas.org/dia/aatip-list.pdf returns HTTP 202 with an empty body, so the Black Vault is the working retrieval path.",
+ "dirds": {
+  "dird-advanced-nuclear-propulsion-for-manned-deep": {
+   "isDIRD_cover_mark": true,
+   "pages": 38,
+   "publication_date_on_cover": "11 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/"
+  },
+  "dird-advanced-space-propulsion-based-on-vacuum": {
+   "isDIRD_cover_mark": true,
+   "pages": 18,
+   "publication_date_on_cover": "29 March 2010",
+   "document_number": null,
+   "icod_raw": "1 December 2009",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/"
+  },
+  "dird-aerospace-applications-of-programmable-matter": {
+   "isDIRD_cover_mark": true,
+   "pages": 21,
+   "publication_date_on_cover": "14 December 2009",
+   "document_number": "DIA-08-0911-016",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/"
+  },
+  "dird-an-introduction-to-the-statistical-drake": {
+   "isDIRD_cover_mark": true,
+   "pages": 56,
+   "publication_date_on_cover": "11 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/"
+  },
+  "dird-aneutronic-fusion-propulsion": {
+   "isDIRD_cover_mark": true,
+   "pages": 50,
+   "publication_date_on_cover": "01 November 2010",
+   "document_number": "DIA-08-1011-003",
+   "icod_raw": "20 July 2010",
+   "names_aawsap_in_full_text": false,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/"
+  },
+  "dird-aneutronic-fusion-propulsion-2": {
+   "isDIRD_cover_mark": true,
+   "pages": 37,
+   "publication_date_on_cover": "01 November 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/"
+  },
+  "dird-anomalous-acute-and-subacute-field-effects": {
+   "isDIRD_cover_mark": true,
+   "pages": 39,
+   "publication_date_on_cover": "11 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/"
+  },
+  "dird-antigravity-for-aerospace-applications": {
+   "isDIRD_cover_mark": true,
+   "pages": 45,
+   "publication_date_on_cover": "30 March 2010",
+   "document_number": "DIA-08-1003-018",
+   "icod_raw": "1 December 2009",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/"
+  },
+  "dird-biosensors-and-biomems-a-survey-of": {
+   "isDIRD_cover_mark": true,
+   "pages": 46,
+   "publication_date_on_cover": "31 March 2010",
+   "document_number": "DIA-08-1003-020",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/"
+  },
+  "dird-cockpits-in-the-era-of-breakthrough": {
+   "isDIRD_cover_mark": true,
+   "pages": 58,
+   "publication_date_on_cover": "01 November 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/"
+  },
+  "dird-cognitive-limits-on-simultaneous-control-of": {
+   "isDIRD_cover_mark": true,
+   "pages": 31,
+   "publication_date_on_cover": "15 December 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/"
+  },
+  "dird-concepts-for-extracting-energy-from-the": {
+   "isDIRD_cover_mark": true,
+   "pages": 58,
+   "publication_date_on_cover": "6 April 2010",
+   "document_number": "DIA-08-1004-007",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/"
+  },
+  "dird-detection-and-high-resolution-tracking-of": {
+   "isDIRD_cover_mark": true,
+   "pages": 47,
+   "publication_date_on_cover": "20 November 2010",
+   "document_number": "DIA-08-1012-001",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/"
+  },
+  "dird-high-frequency-gravitational-wave-communications": {
+   "isDIRD_cover_mark": true,
+   "pages": 58,
+   "publication_date_on_cover": "6 April 2010",
+   "document_number": "DIA-08-1004-005",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": false,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/"
+  },
+  "dird-inertial-electrostatic-confinement-fusion": {
+   "isDIRD_cover_mark": true,
+   "pages": 73,
+   "publication_date_on_cover": "10 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/"
+  },
+  "dird-invisibility-cloaking-theory-and-experiments": {
+   "isDIRD_cover_mark": true,
+   "pages": 30,
+   "publication_date_on_cover": "2 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": false,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/"
+  },
+  "dird-laser-lightcraft-nanosatellites": {
+   "isDIRD_cover_mark": true,
+   "pages": 78,
+   "publication_date_on_cover": "01 November 2010",
+   "document_number": "DIA-08-1011-001",
+   "icod_raw": "30 August 2010",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/"
+  },
+  "dird-maverick-inventor-versus-corporate-inventor-where": {
+   "isDIRD_cover_mark": true,
+   "pages": 20,
+   "publication_date_on_cover": "30 March 2010",
+   "document_number": "DIA-08-1003-017",
+   "icod_raw": "1 December 2009",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/"
+  },
+  "dird-mhd-air-breathing-propulsion-and-power": {
+   "isDIRD_cover_mark": true,
+   "pages": 33,
+   "publication_date_on_cover": "21 November 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/"
+  },
+  "dird-negative-mass-propulsion": {
+   "isDIRD_cover_mark": true,
+   "pages": 44,
+   "publication_date_on_cover": "03 January 2011",
+   "document_number": "DIA-08-1101-023",
+   "icod_raw": "30 August 2010",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/"
+  },
+  "dird-positron-aerospace-propulsion": {
+   "isDIRD_cover_mark": true,
+   "pages": 36,
+   "publication_date_on_cover": "2 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": false,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/"
+  },
+  "dird-pulsed-high-power-microwave-source-technology": {
+   "isDIRD_cover_mark": true,
+   "pages": 38,
+   "publication_date_on_cover": "28 January 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": false,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/"
+  },
+  "dird-quantum-computing-and-utilizing-organic-molecules": {
+   "isDIRD_cover_mark": true,
+   "pages": 55,
+   "publication_date_on_cover": "10 December 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/"
+  },
+  "dird-quantum-tomography-of-negative-energy-states": {
+   "isDIRD_cover_mark": true,
+   "pages": 52,
+   "publication_date_on_cover": "11 January 2011",
+   "document_number": "DIA-08-1102-007",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/"
+  },
+  "dird-space-access-where-we-ve-been": {
+   "isDIRD_cover_mark": true,
+   "pages": 57,
+   "publication_date_on_cover": "1 December 2009",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/"
+  },
+  "dird-state-of-the-art-and-evolution": {
+   "isDIRD_cover_mark": true,
+   "pages": 32,
+   "publication_date_on_cover": "31 March 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/"
+  },
+  "dird-technological-approaches-to-controlling-external-devices": {
+   "isDIRD_cover_mark": true,
+   "pages": 37,
+   "publication_date_on_cover": "23 March 2010",
+   "document_number": "DIA-08-1003-012",
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/"
+  },
+  "dird-the-role-of-superconductors-in-gravity": {
+   "isDIRD_cover_mark": true,
+   "pages": 17,
+   "publication_date_on_cover": "23 March 2010",
+   "document_number": null,
+   "icod_raw": "1 December 2010",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/"
+  },
+  "dird-the-space-communication-implications-of-quantum": {
+   "isDIRD_cover_mark": true,
+   "pages": 33,
+   "publication_date_on_cover": "30 March 2010",
+   "document_number": null,
+   "icod_raw": "1 December 2009",
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/"
+  },
+  "dird-traversable-wormholes-stargates-and-negative-energy": {
+   "isDIRD_cover_mark": true,
+   "pages": 43,
+   "publication_date_on_cover": "6 April 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/"
+  },
+  "dird-ultracapacitors-as-energy-and-power-storage": {
+   "isDIRD_cover_mark": true,
+   "pages": 35,
+   "publication_date_on_cover": "01 November 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/"
+  },
+  "dird-warp-drive-dark-energy-and-the": {
+   "isDIRD_cover_mark": true,
+   "pages": 34,
+   "publication_date_on_cover": "2 April 2010",
+   "document_number": null,
+   "icod_raw": null,
+   "names_aawsap_in_full_text": true,
+   "blackvault_url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+   "dia_readingroom_url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/"
+  }
+ }
+}
