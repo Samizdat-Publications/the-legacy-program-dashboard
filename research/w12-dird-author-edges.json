@@ -1,0 +1,1299 @@
+{
+ "domain": "w12-dird-author-edges",
+ "_why": "Sixty-one edges joining the DIRDs to their authors, the institutions those authors worked for, and the research domains the papers sit in. Every one already carried a precise note; none carried a source.\n\nEach now cites what its own note rests on. Where the note turns on authorship or affiliation it takes the DIA's 9 January 2018 list to the Senate Armed Services Committee, which is what credits each paper to a named author and institution - 39 of the 61 say so explicitly. Every edge also takes the released document itself, by the URLs recorded in research/_dird-verification.json, which is the file produced by downloading all 32 PDFs and reading their covers rather than by trusting a filename.\n\nThe list is cited at fas.org/publication/aatip-list/ rather than irp.fas.org/dia/aatip-list.pdf, because the latter returns HTTP 202 with an empty body and its Wayback capture recorded the same.\n\nTiers are left exactly as the notes set them. Several are deliberately Tier 2 and say why - the Teofilo edge because the cover author field is redacted under (b)(6) and reads 'Authors' plural, so co-authorship cannot be excluded. Attaching a source does not upgrade a claim, and nothing here was re-tiered.",
+ "edges": [
+  {
+   "a": "dird-cognitive-limits-on-simultaneous-control-of",
+   "b": "wayne-state-university",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-aerospace-applications-of-programmable-matter",
+   "b": "d-materials",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Aerospace Applications of Programmable Matter' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "wayne-state-university",
+   "b": "dird-series",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+     "date": "2022-03"
+    },
+    {
+     "name": "DIA Info Memo U-429-09, 'Review of Advanced Aerospace Contract Deliverables', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/",
+     "date": "2009-10-30"
+    }
+   ]
+  },
+  {
+   "a": "j-golightly",
+   "b": "dird-ultracapacitors-as-energy-and-power-storage",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-cockpits-in-the-era-of-breakthrough",
+   "b": "marc-millis",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-high-frequency-gravitational-wave-communications",
+   "b": "d-signals",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'High-Frequency Gravitational Wave Communications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-cognitive-limits-on-simultaneous-control-of",
+   "b": "d-bio",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "john-albertine",
+   "b": "dird-state-of-the-art-and-evolution",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'State of the Art and Evolution of High-Energy Laser Weapons' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_23-DIRD_State_of_the_Art_and_Evolution_of_High-Energy_Laser_Weapons.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-concepts-for-extracting-energy-from-the",
+   "b": "d-exotic",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-technological-approaches-to-controlling-external-devices",
+   "b": "wayne-state-university",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Technological Approaches to Controlling External Devices in the Absenc' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-antigravity-for-aerospace-applications",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-cockpits-in-the-era-of-breakthrough",
+   "b": "d-aerospace",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Cockpits in the Era of Breakthrough Flight' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-quantum-computing-and-utilizing-organic-molecules",
+   "b": "richard-genik",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "kit-green",
+   "b": "dird-anomalous-acute-and-subacute-field-effects",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-laser-lightcraft-nanosatellites",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Laser Lightcraft Nanosatellites' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "b": "george-hathaway",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "vincent-teofilo",
+   "b": "dird-aneutronic-fusion-propulsion-2",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-004)' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-laser-lightcraft-nanosatellites",
+   "b": "eric-davis",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Laser Lightcraft Nanosatellites' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-quantum-computing-and-utilizing-organic-molecules",
+   "b": "wayne-state-university",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Quantum Computing and Utilizing Organic Molecules in Automation Techno' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "friedwardt-winterberg",
+   "b": "dird-advanced-nuclear-propulsion-for-manned-deep",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-inertial-electrostatic-confinement-fusion",
+   "b": "george-miley",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-quantum-tomography-of-negative-energy-states",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Quantum Tomography of Negative Energy States in the Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-high-frequency-gravitational-wave-communications",
+   "b": "jason-advisory-group",
+   "type": "denial",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'High-Frequency Gravitational Wave Communications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-concepts-for-extracting-energy-from-the",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-biosensors-and-biomems-a-survey-of",
+   "b": "bruce-towe",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-pulsed-high-power-microwave-source-technology",
+   "b": "james-wells",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Pulsed High-Power Microwave Source Technology' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-traversable-wormholes-stargates-and-negative-energy",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-positron-aerospace-propulsion",
+   "b": "gerald-smith",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Positron Aerospace Propulsion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "wil-mccarthy",
+   "b": "dird-aerospace-applications-of-programmable-matter",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Aerospace Applications of Programmable Matter' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "john-cramer",
+   "b": "dird-the-space-communication-implications-of-quantum",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'The Space-Communication Implications of Quantum Entanglement and Nonlo' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_16-DIRD_The_Space_Communication_Implications_of_Quantum_Entanglement_and_Nonlocality.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-cognitive-limits-on-simultaneous-control-of",
+   "b": "richard-genik",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecra' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-advanced-space-propulsion-based-on-vacuum",
+   "b": "earthtech-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineeri' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-invisibility-cloaking-theory-and-experiments",
+   "b": "ulf-leonhardt",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "paul-czysz",
+   "b": "dird-space-access-where-we-ve-been",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Space Access: Where We've Been and Where We Could Go' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-concepts-for-extracting-energy-from-the",
+   "b": "eric-davis",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Concepts for Extracting Energy From the Quantum Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-biosensors-and-biomems-a-survey-of",
+   "b": "d-bio",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Biosensors and BioMEMS: A Survey of the Present Field' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "claudio-maccone",
+   "b": "dird-an-introduction-to-the-statistical-drake",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'An Introduction to the Statistical Drake Equation' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "richard-obousy",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-positron-aerospace-propulsion",
+   "b": "baass",
+   "type": "funding",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Positron Aerospace Propulsion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-aneutronic-fusion-propulsion-2",
+   "b": "lockheed-martin",
+   "type": "institutional",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-004)' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-anomalous-acute-and-subacute-field-effects",
+   "b": "wayne-state-university",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "eric-davis",
+   "b": "dird-antigravity-for-aerospace-applications",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Antigravity for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-inertial-electrostatic-confinement-fusion",
+   "b": "d-plasma",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Inertial Electrostatic Confinement Fusion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-negative-mass-propulsion",
+   "b": "friedwardt-winterberg",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Negative Mass Propulsion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "eric-davis",
+   "b": "dird-warp-drive-dark-energy-and-the",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-ultracapacitors-as-energy-and-power-storage",
+   "b": "lockheed-martin",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "sergey-macheret",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-maverick-inventor-versus-corporate-inventor-where",
+   "b": "baass",
+   "type": "funding",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-detection-and-high-resolution-tracking-of",
+   "b": "d-signals",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Veloc' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-invisibility-cloaking-theory-and-experiments",
+   "b": "d-materials",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Invisibility Cloaking: Theory and Experiments' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "eric-davis",
+   "b": "dird-traversable-wormholes-stargates-and-negative-energy",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Traversable Wormholes, Stargates, and Negative Energy' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_18-DIRD_Traversible_Wormholes_Stargates_and_Negative_Energy.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "william-culbreth",
+   "b": "dird-aneutronic-fusion-propulsion",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Aneutronic Fusion Propulsion (DIA-08-1011-003)' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-negative-mass-propulsion",
+   "b": "baass",
+   "type": "funding",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Negative Mass Propulsion' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-quantum-tomography-of-negative-energy-states",
+   "b": "eric-davis",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Quantum Tomography of Negative Energy States in the Vacuum' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "george-hathaway",
+   "b": "dird-the-role-of-superconductors-in-gravity",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'The Role of Superconductors in Gravity Research' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "richard-genik",
+   "b": "dird-technological-approaches-to-controlling-external-devices",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Technological Approaches to Controlling External Devices in the Absenc' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-ultracapacitors-as-energy-and-power-storage",
+   "b": "d-materials",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Ultracapacitors as Energy and Power Storage Devices for Commercial and' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-the-role-of-superconductors-in-gravity",
+   "b": "d-materials",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'The Role of Superconductors in Gravity Research' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "dird-detection-and-high-resolution-tracking-of",
+   "b": "william-culbreth",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Veloc' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-mhd-air-breathing-propulsion-and-power",
+   "b": "lockheed-martin",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'MHD Air Breathing Propulsion and Power for Aerospace Applications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  {
+   "a": "dird-high-frequency-gravitational-wave-communications",
+   "b": "robert-baker",
+   "type": "research",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Released DIRD, 'High-Frequency Gravitational Wave Communications' — FOIA copy, cover page read 22 August 2026",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room entry for this reference document",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations",
+     "url": "https://fas.org/publication/aatip-list/",
+     "date": "2026-08-23"
+    }
+   ]
+  }
+ ]
+}
