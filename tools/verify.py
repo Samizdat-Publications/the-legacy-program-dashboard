@@ -521,13 +521,24 @@ def check_idempotent():
         # build_l0 bakes the L0 model and its layout; build_dashboard consumes it.
         # It is in the idempotency gate because a bake seeded from anything
         # non-deterministic would drift here and nowhere else.
+        # build_design_extract feeds build_l0_layout, which is Design's generator
+        # and is now inside the gate: a packed layout is a pure function of its
+        # inputs, so if it is not byte-identical across two runs something
+        # non-deterministic has crept back in.
         for cmd in (["merge.py"], ["regrade.py"], ["merge.py"],
-                    ["build_l0.py"], ["build_dashboard.py"]):
-            r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", cmd[0])],
+                    ["build_l0.py"], ["build_design_extract.py"],
+                    ["build_l0_layout.mjs"], ["build_dashboard.py"]):
+            exe = ["node"] if cmd[0].endswith(".mjs") else [sys.executable]
+            r = subprocess.run(exe + [os.path.join(ROOT, "tools", cmd[0])],
                                capture_output=True, cwd=ROOT)
             if r.returncode != 0:
                 return None, f"{cmd[0]} exited {r.returncode}: {r.stderr.decode()[:400]}"
-        return hashlib.sha256(open(DIST, "rb").read()).hexdigest(), None
+        h = hashlib.sha256()
+        h.update(open(DIST, "rb").read())
+        lm = os.path.join(ROOT, "data", "l0-layout-model.json")
+        if os.path.exists(lm):
+            h.update(open(lm, "rb").read())
+        return h.hexdigest(), None
 
     h1, err = build_once()
     if err:

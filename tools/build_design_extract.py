@@ -37,6 +37,18 @@ def main():
         return ("1940-1969" if y < 1970 else "1970-1999" if y < 2000
                 else "2000-2016" if y < 2017 else "2017-2026")
 
+    def member_rows(ids):
+        """Off-map neighbours with the fields the dossier needs to answer
+        'which people?'. Backfill row 2."""
+        out = []
+        for i in ids:
+            src = N.get(i)
+            if not src:
+                continue
+            out.append({"id": i, "label": src.get("label") or i,
+                        "cls": src.get("cls"), "tier": src.get("tier")})
+        return out
+
     l0 = []
     for n in m["l0"]:
         src = N.get(n["id"], {})
@@ -53,6 +65,21 @@ def main():
             "era": era(src.get("dateStart") or src.get("date")),
             "roles": d.get("roles") or [],
             "whyImplicated": (d.get("whyImplicated") or "")[:400],
+
+            # ---- backfill, design response section 4 ----------------------
+            # Five of the seven asks were already computed by build_l0.py and
+            # simply never carried across. They cost nothing to add and they
+            # unblock the band ordering, the shared-line naming and the
+            # members-vs-degree arithmetic.
+            "C": n.get("C"), "A": n.get("A"), "D": n.get("D"),   # row 4
+            "dateEnd": src.get("dateEnd"),                        # row 6
+            "membersDirect": len(n["direct"]),                    # row 3
+            "membersRouted": len(n["routed"]),                    # row 3
+            "direct": member_rows(n["direct"]),                   # row 2
+            "routed": [{"id": r["id"], "depth": r["depth"],
+                        "label": (N.get(r["id"], {}).get("label") or r["id"]),
+                        "cls": N.get(r["id"], {}).get("cls")}
+                       for r in n["routed"]],
         })
 
     dist = {
@@ -84,8 +111,20 @@ def main():
         "l0": l0,
         "directEdges": [{"a": e["a"], "b": e["b"], "n": e["n"], "tier": e["tier"],
                          "types": e["types"]} for e in m["directEdges"]],
-        "summarised": [{"a": e["a"], "b": e["b"], "n": e["n"], "tier": e["tier"]}
+        # row 1: the shared members themselves, so a line can name
+        # "Puthoff · Bigelow" instead of printing 2
+        "summarised": [{"a": e["a"], "b": e["b"], "n": e["n"], "tier": e["tier"],
+                        "via": e.get("via") or [],
+                        "viaLabels": [(N.get(v, {}).get("label") or v)
+                                      for v in (e.get("via") or [])]}
                        for e in m["summarised"]],
+        # row 5: aggregating a pair loses which end issued the denial, and motion
+        # may only carry attested direction, so the pairs are carried separately
+        "denialPairs": [{"a": e["a"], "b": e["b"], "tier": e["claimTier"],
+                         "label": e.get("label") or ""}
+                        for e in b["edges"] if e["type"] == "denial"
+                        and e["a"] in {x["id"] for x in m["l0"]}
+                        and e["b"] in {x["id"] for x in m["l0"]}],
         "entryPaths": m.get("entryPaths", []),
         "authority": {k: {"weight": v["weight"], "tense": v["tense"],
                           "connections": v["publicRecord"]["connections"]}
@@ -96,6 +135,13 @@ def main():
     print(f"design-extract.json  {size:,} bytes  ({size/CAP*100:.0f}% of the 1MB cap)")
     print(f"  L0 {len(l0)} · era {dist['era']} · missing {dist['eraMissing']}")
     print(f"  roles {dist['roles']}")
+    have_cad = sum(1 for x in l0 if x["C"] is not None)
+    have_end = sum(1 for x in l0 if x["dateEnd"])
+    print(f"  backfill: C/A/D {have_cad}/{len(l0)} · dateEnd {have_end}/{len(l0)} "
+          f"· via on {sum(1 for e in out['summarised'] if e['via'])}/"
+          f"{len(out['summarised'])} summarised · denial pairs {len(out['denialPairs'])}")
+    print(f"  still absent: photo/photoCredit/photoKind (data/l0-images.json), "
+          f"highlights (data/l0-highlights.json)")
     if size >= CAP:
         sys.exit(f"FATAL: {size:,} bytes is over the {CAP:,} read cap. The whole "
                  f"point of this file is that Design can read it.")
