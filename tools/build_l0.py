@@ -465,6 +465,75 @@ def load_dossiers():
     return out
 
 
+# ------------------------------------------------------------- entry paths
+# A stranger opening this board sees 110 nodes and 313 edges and has no idea
+# where to start. These are six curated ways in, each seeded from the graph
+# itself rather than a hand-typed list, so a card's count is always what the
+# card actually opens.
+#
+# Each path names a QUESTION, not a category. "Follow the money" is a thing a
+# reader wants to do; "funding domain" is a thing the schema has.
+ENTRY_PATHS = [
+    {"id": "money", "label": "Follow the money",
+     "blurb": "How an unacknowledged programme gets paid for, and why the "
+              "Department has never passed an audit.",
+     "seed": ["aawsap", "mip", "nip", "dod-agencywide-audit", "classified-annex",
+              "sffas-56", "d-funding", "d-contracting", "aatip", "baass",
+              "earthtech-international"]},
+    {"id": "custody", "label": "The custody chain",
+     "blurb": "Who is said to have held material, and who says so. Every link "
+              "here is hand-written and individually sourced.",
+     "edge": "custody"},
+    {"id": "denial", "label": "Who denied what",
+     "blurb": "A denial is a dated, signed, attributable statement, which makes "
+              "it evidence about the denier. These are the issuers.",
+     "edge": "denial", "issuersOnly": True},
+    {"id": "mechanism", "label": "The legal mechanism",
+     "blurb": "The statutes and directives that let a programme exist without "
+              "being reportable, and the twelve seats that get told.",
+     "seed": ["waived-usap", "waived-usap-mechanism", "carve-out", "usc-10-119",
+              "dodi-5205-11", "dod-sapco", "classified-annex",
+              "waived-sap-notification-group", "oversight-congress", "isoo"]},
+    {"id": "foreign", "label": "The foreign counter-examples",
+     "blurb": "States that funded a UAP office, published, and did not treat the "
+              "subject as unmentionable. The contrast is the argument.",
+     "seed": ["geipan", "cefaa", "setka-program", "cometa", "sky-canada-project",
+              "fab", "operacao-prato", "arquivo-nacional-ufo",
+              "doc-condign-report", "ev-noite-ovnis-1986", "senado-brasil"]},
+    {"id": "witness", "label": "Start from a witness",
+     "blurb": "The people who testified under oath, and what the record does and "
+              "does not corroborate.",
+     "seed": ["david-grusch", "luis-elizondo", "ryan-graves", "jeffrey-nuccetelli",
+              "dylan-borland", "tim-gallaudet", "david-fravor"],
+     "people": True},
+]
+
+
+def build_entry_paths(nodes, edges, L0, node_by_id):
+    out = []
+    for p in ENTRY_PATHS:
+        if p.get("edge"):
+            ids = []
+            for e in edges:
+                if e["t"] != p["edge"]:
+                    continue
+                ids.append(e["a"])
+                if not p.get("issuersOnly"):
+                    ids.append(e["b"])
+            ids = list(dict.fromkeys(ids))
+        else:
+            ids = [i for i in p["seed"] if i in node_by_id]
+        on_map = [i for i in ids if i in L0]
+        out.append({
+            "id": p["id"], "label": p["label"], "blurb": p["blurb"],
+            "people": bool(p.get("people")),
+            # what the card opens, and therefore what its count must say
+            "ids": ids if p.get("people") else on_map,
+            "onMap": len(on_map), "total": len(ids),
+        })
+    return out
+
+
 # ---------------------------------------------------------------- emit
 def short_label(s):
     import re
@@ -487,6 +556,7 @@ def build(path=BOARD):
     node_by_id = {n["id"]: n for n in nodes}
     dossiers = load_dossiers()
     connections = build_connections(nodes, edges, node_by_id)
+    entry_paths = build_entry_paths(nodes, edges, L0, node_by_id)
     P, clamped, overlaps = bake(l0ids, node_by_id, direct, summarised)
     pos = {p["id"]: (p["x"], p["y"]) for p in P}
 
@@ -554,6 +624,7 @@ def build(path=BOARD):
                                  for n in l0 if n.get("dossier")),
             "nodesWithConnections": sum(1 for v in connections.values() if v),
             "connectionRows": sum(len(v) for v in connections.values()),
+            "entryPaths": len(entry_paths),
             "authorityNodes": len(authority),
             # The headline. Not "zero connections" -- everyone has at least one --
             # but top-weight authority with a public record thin enough that the
@@ -569,6 +640,7 @@ def build(path=BOARD):
                   for n in nodes},
         # keyed by node id, for EVERY node on the board and not just the 96 on the map
         "connections": connections,
+        "entryPaths": entry_paths,
         # positional relevance, keyed by node id
         "authority": authority,
         # entity dossiers are keyed separately so a non-L0 node can carry one too

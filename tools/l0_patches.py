@@ -222,7 +222,12 @@ function mountL0(host){
     const x1=SX(a.x), y1=SY(a.y), x2=SX(b.x), y2=SY(b.y);
     const t = L0_TIER[e.tier] || L0_TIER[3];
     const w = e.n || 1;
-    ctx.globalAlpha = Math.min(0.92, 0.30 + (w-1)*0.15);
+    /* MULTIPLY by the caller's alpha, do not overwrite it. The caller sets the
+       focus dim before calling; setting globalAlpha outright here clobbered it,
+       so nodes dimmed and the edge lattice stayed at full brightness — which is
+       most of the ink, so the dim looked like it had barely worked. */
+    const base = ctx.globalAlpha;
+    ctx.globalAlpha = base * Math.min(0.92, 0.30 + (w-1)*0.15);
     ctx.strokeStyle = t.c;
     ctx.lineWidth = summarised ? 1 : 2;
     ctx.setLineDash(t.d);
@@ -273,7 +278,7 @@ function mountL0(host){
       ctx.lineTo(hx + Math.sin(ang)*3.2, hy - Math.cos(ang)*3.2);
       ctx.closePath(); ctx.fill();
     }
-    ctx.globalAlpha = 1;
+    ctx.globalAlpha = base;
   }
 
   function draw(){
@@ -299,7 +304,7 @@ function mountL0(host){
     const es = D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
     es.sort((p,q)=>(p.e.n||1)-(q.e.n||1));
     for (const {e,s} of es){
-      const on = !S.l0open.length || lit.has(e.a) || lit.has(e.b);
+      const on = (!S.l0open.length && !focus) || lit.has(e.a) || lit.has(e.b);
       ctx.globalAlpha = on ? 1 : dim;
       trace(e, s);
     }
@@ -308,7 +313,7 @@ function mountL0(host){
     for (const n of D.l0){
       const x = SX(n.x), y = SY(n.y);
       if (x < -80 || x > W+80 || y < -60 || y > H+60) continue;
-      const on = !S.l0open.length || lit.has(n.id);
+      const on = (!S.l0open.length && !focus) || lit.has(n.id);
       ctx.globalAlpha = on ? 1 : dim;
       const col = (L0_CLS[n.cls]||L0_CLS.person).c;
       const mem = n.direct.length + n.routed.length;
@@ -815,6 +820,77 @@ def apply(s, model, must_replace):
         "  } else if (!S.dockOff && tab){ tab.remove(); }",
         "dock re-open tab", 1); ok &= o
 
+    # ---- stage 3: entry surface (C) and focus on select (D) ---------------
+    s, o = must_replace(s, "</style>", L0_CSS3 + "</style>", "L0 stage-3 styles",
+                        s.count("</style>")); ok &= o
+    s, o = must_replace(s, "const CMD = {", L0_JS3 + "\nconst CMD = {",
+                        "L0 stage-3 module", 1); ok &= o
+    # Anchor on stable text inside L0_CMD rather than composing the block as a
+    # literal: an earlier patch rewrites expand()'s body, so L0_CMD no longer
+    # matches the file it was inserted into.
+    s, o = must_replace(s, "  showPathOnly(){", L0_CMD3 + "  showPathOnly(){",
+                        "entry path commands", 1); ok &= o
+    s, o = must_replace(s,
+        "  l0open:[], l0panel:null, l0full:false, dockOff:false,\n};",
+        "  l0open:[], l0panel:null, l0full:false, dockOff:false,\n"
+        "  /* l0entry starts TRUE: a stranger should land on a question, not a\n"
+        "     hairball. Once they have chosen a way in it stays down for the\n"
+        "     session. */\n"
+        "  l0entry:true, l0path:null, l0focus:null,\n};",
+        "entry state", 1); ok &= o
+
+    # the entry surface mounts over the map, and the map keeps running behind it
+    s, o = must_replace(s,
+        "  measure();\n  const fk = fitScale();",
+        "  renderL0Entry(host);\n  measure();\n  const fk = fitScale();",
+        "mount the entry surface", 1); ok &= o
+    s, o = must_replace(s,
+        "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); }",
+        "  function repaint(){ paintMap(); renderChrome(); renderLedgers();\n"
+        "    renderRegister(); renderL0Entry(host); }",
+        "repaint includes the entry surface", 1); ok &= o
+
+    # card + skip clicks
+    s, o = must_replace(s,
+        "  host.addEventListener('click', ev => {\n    const c = ev.target.closest('[data-close]');",
+        "  host.addEventListener('click', ev => {\n"
+        "    const pc = ev.target.closest('[data-path]');\n"
+        "    if (pc) return CMD.openPath(pc.getAttribute('data-path'));\n"
+        "    if (ev.target.closest('[data-skip]')){ S.l0entry = false; repaint(); return; }\n"
+        "    const c = ev.target.closest('[data-close]');",
+        "entry card clicks", 1); ok &= o
+
+    # D: focus. A selected node dims everything not on its thread; an open path
+    # dims everything outside the path.
+    s, o = must_replace(s,
+        "    const dim = S.l0open.length ? 0.16 : 1;\n    const lit = new Set(S.l0open);",
+        "    /* Focus (D). Selection dims to the one-hop thread; an entry path dims\n"
+        "       to the path. Without it, following a connection means tracing one\n"
+        "       orthogonal line across a field of 313 others. */\n"
+        "    const focus = S.l0focus || (S.sel && byId[S.sel] ? l0FocusSet(S.sel) : null);\n"
+        "    const dim = (S.l0open.length || focus) ? 0.16 : 1;\n"
+        "    const lit = focus ? new Set(focus) : new Set(S.l0open);",
+        "focus set drives the dim", 1); ok &= o
+
+    # the breadcrumb gains the path chip and a way back to the entry surface
+    s, o = must_replace(s,
+        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "    if (S.l0path){\n"
+        "      const p = (L0DATA.entryPaths||[]).find(x=>x.id===S.l0path);\n"
+        "      if (p) h += '<span class=\"l0chip path\" data-clearpath=\"1\">'\n"
+        "        + esc(p.label) + ' <span class=\"n\">' + p.onMap + '</span>'\n"
+        "        + ' <span class=\"x\">&times;</span></span>';\n"
+        "    }\n"
+        "    h += '<span class=\"l0chip\" data-entry=\"1\">START</span>';\n"
+        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "path chip + START", 1); ok &= o
+    s, o = must_replace(s,
+        "    if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();",
+        "    if (ev.target.closest('[data-clearpath]')) return CMD.clearPath();\n"
+        "    if (ev.target.closest('[data-entry]')) return CMD.showEntry();\n"
+        "    if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();",
+        "path chip handlers", 1); ok &= o
+
     # -- expose the model on the debug surface the screenshotter already uses, so
     #    the L0 checks can be made AT RUNTIME. This board has been bitten twice by
     #    patches that read correctly and did not take effect.
@@ -1036,4 +1112,117 @@ L0_CMD2 = r"""
     S.l0panel = null;
     if (MAP && MAP.focus) MAP.focus(id);
   },
+"""
+
+
+# ===========================================================================
+# Stage 3 — the entry surface (C) and focus on select (D).
+#
+# Stewart, on seeing the board cold: "way too busy ... no opportunity for
+# discovery, nothing visually identifying what the important connections are."
+# He is right, and the cause is that position on this map carries no
+# information: x and y are force-layout output, so every node looks equally
+# important and arrives in no order.
+#
+# The real fix is a layout where position means something, which is out with
+# Claude Design (notes/DESIGN-BRIEF-LAYOUT-2026-08-14.md) because it changes the
+# bake. These two are the parts that need no design decision and fix the worst
+# of it now:
+#
+#   C  an entry surface with six curated ways in, so a stranger lands on a
+#      question rather than a hairball
+#   D  focus on select, so following a thread dims everything that is not on it
+# ===========================================================================
+
+L0_CSS3 = """
+/* ---- entry surface ------------------------------------------------------ */
+.l0entry{position:absolute;inset:0;z-index:9;overflow:auto;
+  background:linear-gradient(160deg,#161a20 0%,#11141a 100%);padding:26px 30px 30px}
+.l0entry h2{margin:0 0 4px;font:600 15px/1.3 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0entry .sub{margin:0 0 20px;font:400 11px/1.7 'IBM Plex Mono',monospace;
+  color:#8d97a4;max-width:760px}
+.l0entry .sub b{color:#b9c2cd;font-weight:500}
+.l0cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));
+  gap:12px;max-width:1180px}
+.l0card{background:#141920;border:1px solid #262e36;padding:13px 14px 12px;
+  cursor:pointer;display:flex;flex-direction:column;gap:7px;text-align:left}
+.l0card:hover{border-color:#5ed4e6;background:#1a2027}
+.l0card h3{margin:0;font:600 12px/1.3 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0card p{margin:0;font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#8d97a4}
+.l0card .n{margin-top:auto;font:500 9px/1 'IBM Plex Mono',monospace;
+  letter-spacing:.10em;text-transform:uppercase;color:#5ed4e6}
+.l0entry .skip{margin:20px 0 0;font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#5c6672}
+.l0entry .skip button{background:none;border:none;color:#5ed4e6;cursor:pointer;
+  font:inherit;padding:0;text-decoration:underline}
+.l0chip.path{border-color:#5ed4e6;color:#e6e9ee}
+"""
+
+L0_JS3 = r"""
+/* The entry surface. Six questions, not six categories: a reader wants to
+   "follow the money", not to "filter by funding domain". Counts come from the
+   model, computed at build time from the graph, so a card can never advertise
+   a number different from what it opens. */
+function renderL0Entry(host, onPick){
+  const D = L0DATA;
+  let e = host.querySelector('.l0entry');
+  if (!S.l0entry){ if (e) e.remove(); return; }
+  if (!e){ e = el('div','l0entry'); host.appendChild(e); }
+  let h = '<h2>The Program</h2>'
+    + '<p class="sub">A network of <b>' + D.counts.total + '</b> entities and <b>'
+    + (L0DATA.counts.connectionRows/2|0) + '</b> hand-written, individually sourced '
+    + 'connections, mapping the legacy recovery and reverse-engineering programme and '
+    + 'the modern disclosure movement, 1944-2026. '
+    + '<b>' + D.counts.l0 + '</b> of those entities clear the connectivity floor and '
+    + 'sit on the map; the rest are reachable by opening one. Pick somewhere to start.</p>'
+    + '<div class="l0cards">';
+  for (const p of (D.entryPaths||[])){
+    h += '<button class="l0card" data-path="'+esc(p.id)+'">'
+       + '<h3>'+esc(p.label)+'</h3><p>'+esc(p.blurb)+'</p>'
+       + '<span class="n">'+(p.people ? p.total+' people' : p.onMap+' on the map')
+       + (p.total > p.onMap && !p.people ? ' · '+p.total+' in all' : '')
+       + '</span></button>';
+  }
+  h += '</div><p class="skip">Or <button data-skip="1">open the whole map</button> '
+     + '— ' + (D.counts.l0 + D.counts.directEdges + D.counts.summarisedEdges)
+     + ' objects at once, which is a lot to arrive at cold.</p>';
+  e.innerHTML = h;
+}
+
+/* Focus. Selecting a node dims everything that is not on its thread. Without
+   this, following a connection means tracing one orthogonal line across a field
+   of 313 others, which is the thing that makes the map feel unusable. */
+function l0FocusSet(id){
+  const D = L0DATA, keep = new Set([id]);
+  for (const r of (D.connections||{})[id] || []) keep.add(r.id);
+  for (const e of D.directEdges) {
+    if (e.a === id) keep.add(e.b);
+    if (e.b === id) keep.add(e.a);
+  }
+  for (const e of D.summarised) {
+    if (e.a === id) keep.add(e.b);
+    if (e.b === id) keep.add(e.a);
+  }
+  return keep;
+}
+"""
+
+L0_CMD3 = r"""
+  /* Each entry path is a real command, so the analyst can take the same route
+     from the chat line that a reader takes by clicking a card. */
+  openPath(id){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id===id);
+    if (!p) return warn('no entry path named "'+id+'"');
+    S.l0entry = false;
+    S.l0path = id;
+    S.l0focus = new Set(p.ids);
+    S.l0open = [];
+    if (p.people && p.ids.length) { CMD.selectNode(p.ids[0]); return; }
+    S.sel = null;
+    paint({ map:'l0', full:true });
+  },
+  clearPath(){
+    S.l0path = null; S.l0focus = null;
+    paint({ map:'l0', full:true });
+  },
+  showEntry(){ S.l0entry = true; S.view = 'NETWORK'; paint({ full:true }); },
 """

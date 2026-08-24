@@ -939,3 +939,71 @@ exactly the fabricated-source failure this project treats as unforgivable, and i
 would have been mine.
 
 Fourth time this session an agent has contradicted its own brief and been right.
+
+---
+
+# Stage 12 — entry surface and focus, 14 August 2026
+
+Stewart, seeing the board cold for the first time: *"way too busy ... no opportunity
+for discovery, nothing visually identifying what the important connections are. In
+the current state this is basically useless to the end user."* He was right.
+
+**The diagnosis is not node count. Position carries no information** — x and y are
+force-layout output, so every node looks equally important and arrives in no order.
+The real fix is a layout where position means something, which is out with Claude
+Design (`notes/DESIGN-BRIEF-LAYOUT-2026-08-14.md`) because it changes the bake. These
+two need no design decision and fix the worst of it now.
+
+## C — the entry surface
+
+Six curated ways in, each a QUESTION rather than a category. A reader wants to
+"follow the money"; they do not want to "filter by funding domain".
+
+```
+Follow the money              7 on the map ·  11 in all
+The custody chain            38 on the map · 157 in all
+Who denied what              36 on the map · 124 in all
+The legal mechanism          10 on the map
+The foreign counter-examples 11 on the map
+Start from a witness          7 people
+```
+
+Every path is **computed at build time from the graph**, not hand-listed, so a card
+can never advertise a count different from what it opens. `custody` and `denial` are
+derived from their edge types; the rest are curated seeds validated against the node
+table. Each is also a CMD action, so the analyst can take the same route from the
+chat line that a reader takes by clicking.
+
+The surface is skippable and reachable again from a `START` chip in the breadcrumb.
+
+## D — focus on select
+
+Selecting a node dims to its one-hop thread; opening a path dims to the path.
+
+**Measured, not asserted** — mean canvas alpha over the whole surface:
+
+```
+whole map           54.05
+with a path         18.80    -65.2%
+with a selection    16.11    -70.2%
+```
+
+The first attempt reduced it by only 50% and looked barely changed, because
+`trace()` set `globalAlpha` outright and clobbered the dim the caller had just set.
+Edges are most of the ink, so the nodes dimmed and the lattice stayed bright. It now
+multiplies by the caller's alpha and restores it rather than resetting to 1.
+
+That is the fourth time this session a change looked right in the diff and was wrong
+on the canvas.
+
+## Also fixed this stage
+
+The `on` test short-circuited on `!S.l0open.length`, so a path or a selection —
+neither of which opens a ledger — left everything lit and the dim did nothing at all.
+
+## Sequencing note
+
+A and B (position-means-something, and the edge budget) went to Claude Design
+**before** being built, deliberately: A changes the bake and the model shape, so
+building it first and then receiving a different banding scheme would mean doing it
+twice. C and D had no such dependency.
