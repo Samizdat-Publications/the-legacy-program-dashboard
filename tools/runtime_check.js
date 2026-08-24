@@ -23,6 +23,9 @@
  * never finished parsing in the container. Serve it over HTTP.
  */
 const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const fs = require('fs');
+const path = require('path');
+const ROOT = path.resolve(__dirname, '..');
 const URL = process.argv[2] || 'http://127.0.0.1:8899/the-program.html';
 const SHOTS = process.env.RUNTIME_SHOTS || '';
 
@@ -51,12 +54,26 @@ const check = (c, label, detail = '') => {
 
   // The stats strip is the board's own claim about itself. If it disagrees with
   // the data, the merge and the build have diverged.
+  //
+  // The expected values are READ FROM tools/GOLDEN.json rather than written here.
+  // The first version of this file hardcoded them and went stale the moment two
+  // claims were added, which made the check fail on a correct build -- a check
+  // that cries wolf gets switched off, and then it is no check. Golden is already
+  // the one place where a count change has to be accepted deliberately, so it is
+  // the right source of truth for this too.
+  const g = JSON.parse(fs.readFileSync(path.join(ROOT, 'tools', 'GOLDEN.json'), 'utf8')).counts;
+  const expEntities = g.people + g.entities;
+  const expClaims = Object.values(g.claim_tiers).reduce((a, b) => a + b, 0);
   const strip = await page.evaluate(() => document.body.innerText.slice(0, 700));
   const num = re => { const m = strip.match(re); return m ? m[1] : '?'; };
-  check(num(/ENTITIES\s+(\d+)/) === '956', 'stats strip ENTITIES', num(/ENTITIES\s+(\d+)/));
-  check(num(/SOURCED LINKS\s+(\d+)/) === '2159', 'stats strip SOURCED LINKS', num(/SOURCED LINKS\s+(\d+)/));
-  check(num(/of (\d+) claims/) === '4443', 'stats strip claim total', num(/of (\d+) claims/));
-  check(num(/Case files\s*\.*\s*(\d+)/) === '278', 'CASE FILES count', num(/Case files\s*\.*\s*(\d+)/));
+  check(num(/ENTITIES\s+(\d+)/) === String(expEntities), 'stats strip ENTITIES',
+        `${num(/ENTITIES\s+(\d+)/)} vs golden ${expEntities}`);
+  check(num(/SOURCED LINKS\s+(\d+)/) === String(g.edges), 'stats strip SOURCED LINKS',
+        `${num(/SOURCED LINKS\s+(\d+)/)} vs golden ${g.edges}`);
+  check(num(/of (\d+) claims/) === String(expClaims), 'stats strip claim total',
+        `${num(/of (\d+) claims/)} vs golden ${expClaims}`);
+  check(num(/Case files\s*\.*\s*(\d+)/) === String(g.people), 'CASE FILES count',
+        `${num(/Case files\s*\.*\s*(\d+)/)} vs golden ${g.people}`);
 
   await page.click('[data-view="CASES"]');
   await page.waitForTimeout(2500);
@@ -64,6 +81,8 @@ const check = (c, label, detail = '') => {
   check(/278 of 278 records shown/.test(cases), 'case view shows every record');
   check(!/jesse-marcel-sr|ndaa24-sec1687|aaro-fy2025-report\b/.test(cases),
         'ids collapsed on 22 Aug do not reappear');
+  check(!/Re-pointed from a collapsed duplicate/.test(cases),
+        'no build placeholder is shown to a reader');
 
   // Open a dossier that carries a rebuilt sequence chain.
   await page.evaluate(() => {

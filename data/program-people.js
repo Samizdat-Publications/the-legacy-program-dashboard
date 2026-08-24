@@ -3939,7 +3939,7 @@ export const PEOPLE = [
       'Chairman, Senate Appropriations Committee (2009-2012)',
       'Chairman, Defense Appropriations Subcommittee'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 711 of 956, score 18). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 712 of 956, score 18). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [
       {
         date: '2007-01-01',
@@ -5481,7 +5481,7 @@ export const PEOPLE = [
     domains: ['d-legacy'],
     narrative: 'Kenneth Arnold was a Boise businessman and experienced private pilot who, on 24 June 1947, reported nine crescent-shaped objects flying in formation near Mount Rainier at speeds he estimated above 1,200 mph. His description of their motion — \'like a saucer if you skipped it across water\' — was garbled by wire services into \'flying saucer,\' naming the phenomenon for the next twenty years. Arnold matters to this board for three reasons. First, his sighting is the trigger event: the 1947 wave, Roswell, the Twining memo and the Schulgen collection requirement all follow it within eighteen weeks. Second, he was interviewed by Army Air Forces intelligence officers, and the resulting case file entered the government record from the outset — the Air Force never treated him as a hoaxer, only as unexplained. Third, his treatment established the template applied to every subsequent civilian witness: initial official interest, then public ridicule. The relevant investigative files are preserved in the Project Blue Book microfilm at the National Archives and in scanned form in the NICAP document archive.',
     affiliations: ['Great Western Fire Control Supply (owner)', 'Deputy Federal US Marshal (auxiliary)'],
-    tierRationale: 'Re-graded C on a global pass (rank 738 of 956, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 739 of 956, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '1947-06-24',
@@ -5563,7 +5563,7 @@ export const PEOPLE = [
       'University of Colorado (1963-1970)',
       'Colorado UFO Project, scientific director (1966-1968)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 680 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 681 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D0.',
     chronology: [
       {
         date: '1966-10-06',
@@ -5667,7 +5667,7 @@ export const PEOPLE = [
       'House Minority Leader (1965-1973)',
       'President of the United States (1974-1977)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 712 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 713 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1966-03-20',
@@ -6129,7 +6129,7 @@ export const PEOPLE = [
       'McDonnell Douglas Astronautics Company (1956-1993)',
       'majesticdocuments.com, co-founder with Ryan S. Wood'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 713 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 714 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     chronology: [
       { date: '1956', event: 'Joins Douglas Aircraft, later McDonnell Douglas Astronautics', precision: 'year' },
       {
@@ -6811,7 +6811,7 @@ export const PEOPLE = [
       'Deputy Director of the CIA (2013-2015)',
       'Deputy National Security Advisor (2015-2017)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 663 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 664 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     chronology: [
       {
         date: '2021-06-25',
@@ -7113,7 +7113,7 @@ export const PEOPLE = [
     domains: ['d-oversight', 'd-funding'],
     narrative: 'Platte B. Moring III is listed on the Office of Inspector General\'s own leadership page as Inspector General of the Department of War. He is the officer statutorily responsible for the annual agency-wide financial statement audit that has produced eight consecutive disclaimers of opinion, and the signatory authority behind DOWIG-2026-081, the FY2025 audit summary published 12 May 2026 recording twenty-six material weaknesses and more than $859 billion in unsupported adjustments in two quarters. He is also the officer to whom any complaint about misuse of Department funds in an unreported special access programme would be directed, and the officer who would have to certify whether the section 1687(b) prohibition on UAP-related independent research and development cost allowability has been complied with. No Department of Defense or Department of War Inspector General has ever published a finding on whether any special access programme relates to unidentified anomalous phenomena. That absence is the single most conspicuous hole in the oversight record and it sits in this office.',
     affiliations: ['dodig'],
-    tierRationale: 'Re-graded C on a global pass (rank 739 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 740 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     chronology: [
       {
         date: '2026-05-12',
@@ -7730,7 +7730,7 @@ export const PEOPLE = [
     domains: ['d-legislative', 'd-oversight', 'd-records'],
     narrative: 'Young is the fourth Republican name on S.Amdt. 797 and the least visible of the six. His inclusion matters as a count rather than as a voice: the amendment as filed on 13 July 2023 carried three Republicans — Rounds, Rubio and Young — against two Democrats besides the sponsor, which is why it was able to travel as part of the Senate\'s bipartisan package and reach the engrossed bill without a recorded vote against it. Young has not made the issue a public priority since, and he does not appear in the 2024 or 2026 refiling records.',
     affiliations: ['U.S. Senate, Indiana (2017- )', 'Senate Foreign Relations Committee'],
-    tierRationale: 'Re-graded C on a global pass (rank 681 of 956, score 19). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 682 of 956, score 19). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D1.',
     chronology: [
       { date: '2023-07-13', event: 'Original cosponsor of S.Amdt. 797', precision: 'day' }
     ],
@@ -10730,7 +10730,7 @@ export const PEOPLE = [
       'NASA Heliophysics Division Director (2018-2023)',
       'NASA Associate Administrator, Science Mission Directorate (2023- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 740 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 741 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2023-09-14',
@@ -10845,7 +10845,7 @@ export const PEOPLE = [
     domains: ['d-aviators', 'd-oversight'],
     narrative: 'Ross directs Joint Interagency Task Force 401, the counter-drone organisation the Department stood up in August 2025 after two years of unattributed incursions over US military installations that no existing command structure could stop. JIATF-401\'s creation is the institutional admission that the December 2023 Langley swarms and the December 2024 New Jersey wave were not a public-misperception problem: a standing joint interagency task force with a general officer at its head is not what a government builds to handle hobbyist quadcopters. The task force\'s first year coincided with the Department of Defense Inspector General\'s evaluation of counter-drone readiness at ten installations, published as DODIG-2026-045 on 21 January 2026, which found inconsistent policies, unclear designation of \'covered\' facilities under federal law, and approval processes that delayed deployment of systems bases already had. Nine days later, on 30 January 2026, the Department issued updated guidance removing the \'fence-line\' limitation on base commanders\' response authority, defining \'unauthorized surveillance\' as an explicit threat, and letting commanders judge threat by \'totality of circumstances.\' Ross\'s task force is the node where the observational record stops being a disclosure argument and becomes a force-protection line item.',
     affiliations: ['US Air Force, Brigadier General', 'Joint Interagency Task Force 401, Director (Aug 2025- )'],
-    tierRationale: 'Re-graded C on a global pass (rank 664 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 665 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [
       {
         date: '2025-08-01',
@@ -11663,7 +11663,7 @@ export const PEOPLE = [
       'Congressional UAP Caucus (2023- )',
       'House Financial Services Subcommittee on National Security'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 714 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 715 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2023-07-26',
@@ -11910,7 +11910,7 @@ export const PEOPLE = [
       'U.S. House of Representatives, KY-1 (2016- )',
       'Committee on Oversight and Accountability / Government Reform, Chairman (2023- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 682 of 956, score 19). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 683 of 956, score 19). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2023-07-26',
@@ -12016,7 +12016,7 @@ export const PEOPLE = [
       'Committee on Oversight and Government Reform (2023- )',
       'Task Force on the Declassification of Federal Secrets, Ranking Member (2025- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 715 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 716 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2025-02-11',
@@ -12782,7 +12782,7 @@ export const PEOPLE = [
     domains: ['d-legislative', 'd-oversight', 'd-records'],
     narrative: 'Rogers chaired the House Armed Services Committee through the FY2024 NDAA conference and, as chairman of the committee of primary jurisdiction over the bill, was one of the four principals whose sign-off the conference report required. He is named alongside Turner as leading the effort to eliminate or significantly alter the UAP Disclosure Act. His institutional interest is structural rather than personal: the UAPDA as passed by the Senate would have created an independent agency outside the Armed Services Committee\'s oversight, with authority to compel production from the Department of Defense and from its contractors, and to seize material from those contractors by eminent domain. Every enforcement mechanism in the Senate text that would have operated outside the armed services and intelligence committee structure was removed; the mechanisms that survived — a records collection at the National Archives, a review by agency heads, and postponement decisions made by the original classification authority — leave the existing committee architecture untouched. The FY2024 NDAA also confirms this in a second place: Sec. 1687, which Rogers\'s committee produced, disciplines unreported UAP special access programs by cutting off funds, but routes the remedy to \'the appropriate congressional committees and congressional leadership\' rather than to any outside board.',
     affiliations: ['U.S. House, Alabama (2003- )', 'Chairman, House Armed Services Committee (2023- )'],
-    tierRationale: 'Re-graded C on a global pass (rank 716 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 717 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D0.',
     chronology: [
       {
         date: '2023-11-27',
@@ -13530,7 +13530,7 @@ export const PEOPLE = [
     domains: ['d-coverup'],
     narrative: 'Sherwood made two statements eleven days apart in 2019 that between them define the Department\'s problem. On 22 May 2019 he told the New York Post that AATIP \'did pursue research and investigation into unidentified aerial phenomena\' — the first unambiguous official acknowledgement that the Pentagon\'s aerospace-threat program looked at UAP. On 1 June 2019 he told The Intercept\'s Keith Kloor that \'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.\' Six months later Susan Gough repudiated the first statement, telling reporters Sherwood had merely repeated what an earlier spokesperson had said and that his account was \'not entirely fact-based\' — while keeping the second statement intact. The Department has therefore been in the position of saying one of its own spokesmen was wrong about the program but right about the man.',
     affiliations: ['Office of the Assistant to the Secretary of Defense for Public Affairs'],
-    tierRationale: 'Re-graded C on a global pass (rank 638 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 639 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.',
     chronology: [
       {
         date: '2019-05-22',
@@ -13713,7 +13713,7 @@ export const PEOPLE = [
     domains: ['d-disclosure', 'd-coverup'],
     narrative: 'Gradisher supplied the single most consequential official concession of the period and, in the same breath, the Navy\'s rebuttal of TTSA\'s release narrative. On 10 September 2019 he stated: \'The Navy designates the objects contained in these videos as unidentified aerial phenomena.\' That sentence made FLIR1, Gimbal and GoFast officially unexplained. He simultaneously said \'The Navy has not released the videos to the general public\' and that \'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017\' — directly undercutting the claim that the government had cleared the footage for publication. The DD Form 1910 Elizondo actually submitted supports Gradisher on the narrow point: it sought internal research and analysis distribution, expressly \'not for publication.\' The two positions are reconcilable and both are in the record.',
     affiliations: ['U.S. Navy, Office of the Deputy Chief of Naval Operations for Information Warfare'],
-    tierRationale: 'Re-graded C on a global pass (rank 741 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 742 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2019-09-10',
@@ -13776,7 +13776,7 @@ export const PEOPLE = [
       'U.S. Central Command, Commander (2010-2013)',
       'Secretary of Defense (2017-2019)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 639 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 640 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     chronology: [
       {
         date: '2017-10-04',
@@ -13842,7 +13842,7 @@ export const PEOPLE = [
     domains: ['d-coverup'],
     narrative: 'Garrity is identified as the DoD official to whom Elizondo\'s first resignation letter of 3 October 2017 was submitted. The letter, released in FOIA 18-F-0324, is a short formal note: \'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.\' Elizondo\'s attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels. Garrity matters because the letter he received is the single cleanest documentary proof of Elizondo\'s actual title and departure date, and it is that title the Department has never disputed even while disputing everything else.',
     affiliations: ['Office of the Under Secretary of Defense for Intelligence'],
-    tierRationale: 'Re-graded C on a global pass (rank 764 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 765 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '2017-10-03',
@@ -13891,7 +13891,7 @@ export const PEOPLE = [
     domains: ['d-materials', 'd-disclosure'],
     narrative: 'Kari DeLonge is listed in TTSA\'s Form 1-K as Chief Content Officer, age 35, the highest cash-compensated officer at $100,000 for FY2017, and the recipient of options over five million shares at a $0.003 exercise price valued at roughly $18.96 million. She is also, per the released agreement, the person who signed the CRADA with the U.S. Army Ground Vehicle Systems Center on 10 October 2019 on TTSA\'s behalf. That combination — a content executive as the corporate signatory on a materials-science research agreement with an Army laboratory — is one of the more revealing structural facts about TTSA: the entity\'s legal and financial spine was the entertainment company, and the aerospace and materials work was hung on it. She was also TTSA\'s public-relations voice in the June 2019 dispute, telling The Intercept that Elizondo \'took it over in 2010 as Director\' and \'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).\'',
     affiliations: ['To The Stars Academy of Arts & Science / To The Stars Inc., Chief Content Officer (2017-present)'],
-    tierRationale: 'Re-graded C on a global pass (rank 765 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 766 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     chronology: [
       { date: '2017-10-11', event: 'TTSA launches; she is Chief Content Officer.', precision: 'day' },
       {
@@ -14374,7 +14374,7 @@ export const PEOPLE = [
       'The MITRE Corporation (2024-present)',
       'American Nuclear Society (President)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 683 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 684 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     chronology: [
       {
         date: '2015-01-01',
@@ -14464,7 +14464,7 @@ export const PEOPLE = [
       'MITRE Board of Trustees (2021-present; Vice Chair from 2023)',
       'CACI International, BlackSky, SecurityScorecard (boards)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 640 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 641 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '2015-01-01',
@@ -14604,7 +14604,7 @@ export const PEOPLE = [
       'Idaho National Laboratory Strategic Advisory Committee, Vice Chair',
       'MITRE Board of Trustees (2026-present)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 717 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 718 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
     chronology: [
       {
         date: '2018-01-01',
@@ -14796,7 +14796,7 @@ export const PEOPLE = [
       'MIT Lincoln Laboratory, Division 6 (1951-1958)',
       'The MITRE Corporation (1958-1986; Technical Director, then President)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 742 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 743 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     chronology: [
       {
         date: '1951-01-01',
@@ -15113,7 +15113,7 @@ export const PEOPLE = [
       'White House OSTP, Deputy Director; Deputy Assistant to the President (2021-2022)',
       'RAND Corporation, President and CEO (2022-present)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 718 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 719 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
     chronology: [
       { date: '2015-01-01', event: 'Becomes Director of IARPA', precision: 'year' },
       {
@@ -15886,7 +15886,7 @@ export const PEOPLE = [
       'The New York Times (1964-2009)',
       'The Debrief (contributor, 2023)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 766 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 767 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       { date: '2017-12-16', event: 'Co-authors the New York Times AATIP story', precision: 'day' },
       { date: '2017-12-16', event: 'Co-authors the New York Times AATIP story.', precision: 'day' },
@@ -17366,7 +17366,7 @@ export const PEOPLE = [
       'American Rocket Society, president (1953)',
       'National Air and Space Museum, assistant director (1965-1980)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 665 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 666 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     chronology: [
       { date: '1953-01-14', event: 'Serves as secretary to the Robertson Panel', precision: 'day' },
       {
@@ -17944,7 +17944,7 @@ export const PEOPLE = [
     domains: ['d-coverup', 'd-witness'],
     narrative: 'Moore is the hinge between the Roswell revival, the MJ-12 documents and the AFOSI disinformation programme - and he confessed to the last of those himself. With Charles Berlitz he published \'The Roswell Incident\' in 1980, the book that pulled the 1947 event back into public circulation after three decades. In December 1984 his associate Jaime Shandera received an anonymous roll of undeveloped 35mm film containing what became known as the Eisenhower Briefing Document of Operation Majestic-12. Moore and Shandera controlled the release of that material for the next several years. Then, at the MUFON symposium in Las Vegas in July 1989, Moore told the assembled UFO community that he had worked with Air Force counterintelligence, that he had passed disinformation to Paul Bennewitz on their behalf, and that he had done so in exchange for access. It was, in its way, the most honest act in the field: a researcher publicly conceding he had been run. Everything downstream of Moore - MJ-12\'s provenance, the Aquarius material, the Bennewitz collapse - has to be read through the fact that the principal civilian channel was in contact with the counterintelligence service the material was supposedly about. That does not make the material false. It makes its origin an intelligence question rather than a research question.',
     affiliations: ['Aerial Phenomena Research Organization', 'Fair-Witness Project, Burbank, California'],
-    tierRationale: 'Re-graded C on a global pass (rank 719 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 720 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '1980-01-01',
@@ -18183,7 +18183,7 @@ export const PEOPLE = [
       'Stanford Research Institute / SRI International (1972-1982)',
       'Lockheed Missiles and Space Company (1985-1997)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 743 of 956, score 17). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 744 of 956, score 17). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [
       {
         date: '1972-01-01',
@@ -18668,7 +18668,7 @@ export const PEOPLE = [
       'National Institute for Discovery Science (board, 1995-2004)',
       'Advanced Theoretical Physics working group (convener, 1980s)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 641 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 642 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     chronology: [
       {
         date: '1985-01-01',
@@ -18909,7 +18909,7 @@ export const PEOPLE = [
       'The Disclosure Project (founder, 1993)',
       'CSETI (founder, 1990)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 642 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 643 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       { date: '1990-01-01', event: 'Founds CSETI.', precision: 'year' },
       { date: '1993-01-01', event: 'Founds the Disclosure Project.', precision: 'year' },
@@ -19136,7 +19136,7 @@ export const PEOPLE = [
     domains: ['d-media'],
     narrative: 'Jeremy Corbell is the movement\'s primary conduit for leaked military imagery, and that role - not his filmmaking - is what makes him structurally significant. Beginning in 2019 he released a sequence of US Navy materials including the USS Omaha \'transmedium\' footage and the pyramid-shaped object video, several of which the Pentagon subsequently confirmed as genuine Navy recordings. The confirmation pattern is the interesting datum: material leaks to Corbell, Corbell publishes, the Department authenticates the provenance while contesting the interpretation. He directed Bob Lazar: Area 51 & Flying Saucers, which premiered on Netflix in 2019 and returned Lazar to public attention, and Hunt for the Skinwalker, based on the George Knapp and Colm Kelleher book. He co-hosts Weaponized with Knapp. He has been criticised within the field for showmanship and for imagery later explained by lens artefacts, and both things are true at once: he is an unreliable narrator and a reliable pipe.',
     affiliations: ['Weaponized podcast (with George Knapp)', 'Extraordinary Beliefs (film series)'],
-    tierRationale: 'Re-graded C on a global pass (rank 744 of 956, score 17). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 745 of 956, score 17). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2018-01-01',
@@ -19998,7 +19998,7 @@ export const PEOPLE = [
       'Senate Appropriations Committee',
       'US-China Economic and Security Review Commission (2000s)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 684 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 685 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     chronology: [
       {
         date: '1991',
@@ -20075,7 +20075,7 @@ export const PEOPLE = [
     domains: ['d-custody', 'd-coverup'],
     narrative: 'Ryder exists on this board for one reason: on 9 September 2025 Rep. Nick Begich asked George Knapp to name specific gatekeepers \'within the root cell of the UAP SAP federation,\' and Knapp answered, under oath, \'Well, one of them was named Dr. James Ryder at Lockheed.\' That single sentence is the only time a private individual inside a prime contractor has been named to a congressional committee as a custodian of the alleged program. Knapp immediately qualified it - \'I do not fault these contractors for doing what they were asked to do by our government. They are supposed to lie if people ask about it\' - and attributed the original tasking to the intelligence agencies, CIA primarily. The board records the naming precisely because it is on the record and because it is testable: Lockheed Martin\'s research organisation is a matter of public corporate record, and a Congress that wanted to resolve this could resolve it with a letter. What the board does not do is assert anything about Ryder beyond the fact of the naming. There is no released document, contract, complaint or corporate statement connecting him to recovered material, and no response from him or from Lockheed Martin has been published. This entry is a placeholder for an investigative thread, not a finding.',
     affiliations: ['Lockheed Martin Corporation'],
-    tierRationale: 'Re-graded C on a global pass (rank 643 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 644 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.',
     chronology: [
       {
         date: '2025-09-09',
@@ -20826,7 +20826,7 @@ export const PEOPLE = [
       'UAPx (co-founder)',
       'UAP Science Advisory Council (2026- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 745 of 956, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 746 of 956, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2013-10-08',
@@ -20920,7 +20920,7 @@ export const PEOPLE = [
       'The Galileo Project - research affiliate',
       'Scientific Coalition for UAP Studies - collaborator'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 746 of 956, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 747 of 956, score 17). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       { date: '2001', event: 'Joins NASA Ames Research Center.', precision: 'year' },
       { date: '2005', event: 'Joins the University at Albany as assistant professor.', precision: 'year' },
@@ -20999,7 +20999,7 @@ export const PEOPLE = [
       'VASCO project - principal investigator',
       'ExoProbe project'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 685 of 956, score 19). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 686 of 956, score 19). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '2019-12-12',
@@ -21471,7 +21471,7 @@ export const PEOPLE = [
     domains: ['d-astro', 'd-research'],
     narrative: 'Siraj is the origin of the IM1 thesis. Working with Loeb, he identified CNEOS 2014-01-08 - a half-metre bolide that entered the atmosphere near Papua New Guinea on 8 January 2014 - as having an apparently interstellar velocity, publishing the argument in The Astrophysical Journal in November 2022 and a seismometer-based localisation in Signals in September 2023. He leads the Galileo Project\'s Interstellar Object Studies branch, and it was his localisation that determined where the 2023 Pacific expedition dragged its magnetic sled. When Fernando et al. showed in March 2024 that the seismic signal was more consistent with truck traffic than with an ocean impact, it was Siraj\'s chain of inference that broke, not Loeb\'s chemistry. That is worth stating precisely, because it is the cleanest published example in this whole domain of a physical-recovery attempt failing on localisation rather than on analysis - and of the failure being established in the ordinary peer-reviewed way, in public, within months.',
     affiliations: ['Harvard University', 'The Galileo Project - Interstellar Object Studies branch lead'],
-    tierRationale: 'Re-graded C on a global pass (rank 767 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 768 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D1.',
     chronology: [
       {
         date: '2022-11-01',
@@ -21673,7 +21673,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'McHugh held one of the twelve 10 U.S.C. 119(e)(2) seats for roughly the first half of 2009, the year the board treats as load-bearing because of the Reid special access program request. As ranking minority member of the House Armed Services Committee he was entitled, jointly with Chairman Ike Skelton, to receive whatever the Secretary of Defense withheld from a section 119 report under the waiver authority together with the written justification for withholding it, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His tenure in the seat is short and precisely bracketed by two dated statements from the committee\'s own chairman. On 2 June 2009 Skelton described him as \'House Armed Services Committee Ranking Member John M. McHugh (R-NY)\' and recorded that McHugh \'took the reins as Ranking Member of the House Armed Services Committee in January.\' On 16 June 2009 Skelton congratulated Buck McKeon as the new ranking member. McHugh therefore held a 119(e)(2) seat from January 2009 until some point between 2 and 16 June 2009, and not thereafter, even though he remained a member of the House until 21 September 2009. That distinction matters for date-specific claims: a waived-SAP notification made in the spring of 2009 reached McHugh, and one made in the autumn of 2009 reached McKeon. McHugh\'s later trajectory is the reason this node is worth keeping rather than folding into a footnote. He moved from a seat entitled to receive waived DoD special access program information directly into the office of Secretary of the Army, the service secretariat that runs its own SAP portfolio. There is no public record of any UAP-specific statement by him in either capacity, and none would be expected: section 119 supplies no disclosure route on the congressional side and Army SAP holdings are not publicly enumerated.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 644 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 645 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     chronology: [],
     claims: [
       {
@@ -21947,7 +21947,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Cecilia Levy is the third University at Albany physicist on the only peer-reviewed UAP field-expedition paper published to date, and she is on this board for a narrow and checkable reason: the University named her, in its own press release, as one of three \'UAlbany authors\' on Szydagis, Knuth, Kugielsky & Levy (2025). Her career is otherwise entirely conventional astroparticle physics. She took a BSc at the Universite de Montreal, an MSc at Queen\'s University on the PICASSO dark matter experiment, a PhD at the University of Muenster on XENON100, a postdoc at RPI on XENON1T, and a postdoc at Albany on LUX/LZ, and she is now an Associate Professor in the same department as Szydagis and Knuth. Her stated research is the direct detection of dark matter: she works on the seven-tonne LZ detector at the Sanford Underground Research Facility, where her group handled detector cleanliness and the 206Pb wall background, and she co-develops the Snowball Chamber, a supercooled-water low-mass dark matter detector she describes as \'a research topic completely unique to the UAlbany dark matter group\'. She co-authored the founding Snowball Chamber paper with Szydagis in 2018. That shared instrument work is the mechanism by which rare-event detection practice reached the UAP field campaign: the University\'s release explains that Szydagis\'s C-TAP frame-differencing software applies an approach \'used by physicists like him and Levy to look for direct evidence of dark matter\'. One honest qualification belongs on the record. Unlike Szydagis, whose departmental page lists Unidentified Anomalous Phenomena among his research interests, Levy\'s faculty page makes no mention of UAP at all. Her involvement is visible in the publication and in the press office, not in her declared research profile - which is a reasonable description of how most working scientists have touched this subject.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 768 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 769 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D1.',
     chronology: [],
     claims: [
       {
@@ -22160,7 +22160,7 @@ export const PEOPLE = [
     domains: ['d-funding'],
     narrative: 'Catherine Austin Fitts was a managing director and board member of the Wall Street investment bank Dillon, Read and Co. Inc., and served as Assistant Secretary of Housing and Federal Housing Commissioner at the Department of Housing and Urban Development under President George H. W. Bush. She subsequently founded Hamilton Securities Group and later Solari, Inc., publisher of the Solari Report. Her position on this board is specific and should be stated with equal specificity: she is the person who first insisted, from inside knowledge of how a federal department\'s books actually work, that undocumented adjustments in federal financial statements are not clerical noise but a category of activity in their own right, and she is the co-author with Mark Skidmore of the September 2017 compilation that produced the $21 trillion figure. Her broader public commentary ranges far beyond what any documentary record supports, and a board that cites her must be disciplined about which Fitts it is citing: the former Federal Housing Commissioner who can read an agency financial statement and identify what is missing from it, or the Solari Report proprietor whose interpretive framework is not evidence. The former is a genuine and unusual qualification. She has held a Presidential appointment at a cabinet department, which means she has seen from the inside how the numbers that reach the public are assembled.',
     affiliations: ['solari', 'skidmore-fitts-report'],
-    tierRationale: 'Re-graded C on a global pass (rank 747 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 748 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1989',
@@ -22649,7 +22649,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure'],
     narrative: 'Denis Letty, a French Air Force general in the 2nd Section (the reserve of general officers) and an auditor of the Institut des Hautes Études de Défense Nationale, is the man who assembled the most senior group of serving-and-retired defence officials ever to publish a UAP report in a NATO country. In February 1995 he organised a conference on unidentified aerospace phenomena within the Air Force Academy alumni association at which former French military pilots publicly described their own encounters, the CNES officer responsible for the file presented his papers, and an astronomer set out a scientifically acceptable version of the extraterrestrial hypothesis. In March 1995 he took the project to General Bernard Norlain at Norlain\'s IHEDN office; Norlain referred him to the IHEDN Auditors Association, which backed it. The committee Letty then coordinated over close to three years was named COMETA, the Comité d\'Études Approfondies, and was constituted as a French 1901-law association on 24 February 1999 with Letty as chairman. In his own foreword to the report Letty writes that the accumulation of well-documented sightings by credible witnesses \'forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular\'. He names his contributors in the text - Jean-Jacques Velasco of SEPRA, pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud, Edmond Campagnac of Air France, Squadron Commander Michel Perrier of the Gendarmerie Nationale, and Air Force General Joseph Domange.',
     affiliations: ['cometa', 'ihedn', 'Armée de l\'Air (French Air Force)'],
-    tierRationale: 'Re-graded C on a global pass (rank 769 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 770 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1995-02',
@@ -22725,7 +22725,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure'],
     narrative: 'Bernard Norlain is the former director of the Institut des Hautes Études de Défense Nationale, the French state\'s own senior strategic-studies institute reporting to the Prime Minister, and later a prominent figure in nuclear-disarmament advocacy. His preface to the COMETA report is the reason COMETA cannot be dismissed as a hobbyist product: it places the report inside the IHEDN lineage. Norlain records that Denis Letty came to his IHEDN office in March 1995, that he referred Letty to the IHEDN Auditors Association which supported the project, and that the Association had itself produced a preliminary UFO report in its bulletin some twenty years earlier - the 1976 committee chaired by General Blanchard of the Gendarmerie Nationale whose recommendations produced GEPAN. His preface is titled \'Concrete problems are raised that call for a response in terms of action\', and it ends with an explicit political demand: \'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country ... May this new report, which is much more in-depth, give new impetus to our national efforts and to indispensable international cooperation. IHEDN will then have well served the nation and, perhaps, humanity.\'',
     affiliations: ['ihedn', 'cometa', 'Armée de l\'Air (French Air Force)'],
-    tierRationale: 'Re-graded C on a global pass (rank 748 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 749 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     chronology: [
       {
         date: '1995-03',
@@ -22899,7 +22899,7 @@ export const PEOPLE = [
     domains: ['d-international'],
     narrative: 'Claude Poher was the CNES engineer who founded and first directed GEPAN, the Groupe d\'Étude des Phénomènes Aérospatiaux Non-identifiés, established in 1977 within the French national space agency under the authority of CNES director general Yves Sillard. GEPAN was created on the recommendation of a 1976 committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale, whose objective was \'to make proposals for organizing research and the collection of data on these phenomena\' - a fact recorded in the COMETA report\'s own introduction. Poher\'s statistical work formed the basis of GEPAN\'s first year, and a contemporaneous document held in the US National Security Agency\'s declassified UFO collection records that during 1977 GEPAN \'was largely concerned with checking Poher\'s statistics, which it approved\'. The same NSA-held document records that Poher resigned in 1978 \'feeling that he has done everything he could do with the methods at hand\', but that the organisation was not disbanded and continued its work.',
     affiliations: ['cnes', 'gepan'],
-    tierRationale: 'Re-graded C on a global pass (rank 770 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 771 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '1976',
@@ -23304,7 +23304,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure'],
     narrative: 'Ricardo Bermúdez Sanhueza, an air brigade general of the Chilean Air Force, became director of the Escuela Técnica Aeronáutica in 1997 and simultaneously took over the direction of the Comité de Estudios de Fenómenos Aéreos Anómalos, the UAP committee that the Director General of Civil Aviation had created on 3 October 1997. He held the CEFAA directorship until 2016 - nineteen years, making him the longest-serving national UAP office head in the Americas and the counterpart of France\'s Jean-Jacques Velasco. Under Bermúdez, CEFAA operated inside the Dirección General de Aeronáutica Civil rather than the armed forces, convened multidisciplinary scientific panels including astronomers, meteorologists, physicists and image analysts to adjudicate cases, and did something no US body did in the same period: it released the raw sensor product. The case that made this internationally visible is the Chilean Navy helicopter FLIR video of November 2014, which CEFAA analysed for two years before publishing. Bermúdez\'s tenure is the model that Canada\'s own Office of the Chief Science Advisor identified in June 2025 as one of only three worth copying, alongside the American AARO and the French GEIPAN.',
     affiliations: ['cefaa', 'dgac-chile', 'Fuerza Aérea de Chile (FACh)'],
-    tierRationale: 'Re-graded C on a global pass (rank 749 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 750 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       {
         date: '1997',
@@ -23422,7 +23422,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure'],
     narrative: 'As Chief Science Advisor of Canada, Mona Nemer\'s office initiated and published the Sky Canada Project, the first Canadian federal review of UAP reporting since the National Research Council stopped collecting reports in 1995. A preliminary report appeared in January 2025 and the full report, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\', in June 2025, running to fifty-nine pages. The report is careful about what it is not - it disclaims any intention to prove or disprove extraterrestrial life or visitors, or to make the Office the point of contact for Canadians reporting sightings - and it is blunt about what it found. Canadians report an estimated 600 to 1,000 UAP sightings a year; a commissioned Earnscliffe Strategies survey found one in four Canadians say they have witnessed a UAP, only ten per cent reported it, and forty per cent would not know whom to contact. Federal departments receive reports but mostly do not compile them, so the government cannot even state how many it receives. The report\'s recommendations are structural: identify a lead department, establish a dedicated service that collects testimony, investigates and publishes its analyses, get Transport Canada and NAV CANADA to encourage pilots and controllers to report without stigma, open the data, and establish partnerships with AARO and NASA in the United States, GEIPAN in France and SEFAA in Chile. It is the clearest statement by any allied government that the American, French and Chilean models are the ones worth copying.',
     affiliations: ['ocsa-canada'],
-    tierRationale: 'Re-graded C on a global pass (rank 666 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 667 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       { date: '2025-01', event: 'Preliminary Sky Canada Project report published', precision: 'month' },
       {
@@ -23497,7 +23497,7 @@ export const PEOPLE = [
     domains: ['d-international'],
     narrative: 'Vladimir Azhazha is named in the UK Defence Intelligence Staff\'s own Project Condign report as the head of the Soviet inter-industry ufology research centre, and that naming by a Western intelligence organisation is what puts him on this board. Condign Volume 3 records that a \'UFO\' Commission was created under the USSR Union of Scientific and Engineering Societies in 1989 and, in 1990, an Inter-Industry Ufology Research Centre known as SOYUZUFOTSENTR to co-ordinate records; that this centre had the rights of an Institute under the USSR Academy of Sciences; and that it was headed by \'V. G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner\'. A ten-week school was established with terms of reference to study \'ufology as a science of unidentified flying objects and their interrelations with the universe and, in particular, with the biotechnosphere of the earth\'. Condign further records that the centre developed light filters, instrumentation and infrared and ultraviolet photography, and that Azhazha reported obtaining unexplained imagery including \'peculiar spheres, humanoid figures\' - adding, drily, that \'if the imagery exists, it has never been published\'. Azhazha also helped write the Soviet Navy\'s anomalous phenomena reporting instruction under the protection of friends in the Navy while under political pressure over his research.',
     affiliations: ['soyuzufotsentr'],
-    tierRationale: 'Re-graded C on a global pass (rank 686 of 956, score 19). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 687 of 956, score 19). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '1980-03-07',
@@ -23772,7 +23772,7 @@ export const PEOPLE = [
       'Condon Committee Early Warning Network coordinator, 1967-1969',
       'Mid-Ohio Research Associates'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 645 of 956, score 21). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 646 of 956, score 21). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       {
         date: '1920',
@@ -24219,7 +24219,7 @@ export const PEOPLE = [
       'Ballard Funeral Home, Roswell (military mortuary contract with RAAF)',
       'International UFO Museum and Research Center, co-founder'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 646 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 647 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     chronology: [
       {
         date: '1946-12-22',
@@ -24303,7 +24303,7 @@ export const PEOPLE = [
     domains: ['d-recovery', 'd-witness', 'd-roswell'],
     narrative: 'James Ragsdale came forward in the 1990s claiming that he and a companion had been camping north of Roswell in July 1947 and had seen a crashed craft and bodies, with a military recovery arriving afterwards. He gave a sworn statement and a videotaped deathbed account, and Randle and Schmitt used him to anchor the impact site in \'The Truth About the UFO Crash at Roswell\' (1994). Two things about Ragsdale are load-bearing and both cut against the case. First, his account moved: the location he gave shifted materially between tellings, in a way that tracked which impact site the researchers then favoured. Second, and more usefully, the Air Force\'s 1997 report quotes him saying of the objects at the site, \'They were using dummies in those damned things\' - the witness himself volunteering the anthropomorphic dummy reading that the Air Force went on to adopt as its explanation. The Air Force notes he lived and worked around Roswell, Artesia and Carlsbad in the period when Alderson Laboratories anthropomorphic dummies were being dropped by high-altitude balloon and recovered by uniformed teams, and concludes he probably described one or more of nine documented dummy recoveries near there.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 647 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 648 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
     chronology: [
       { date: '1947-07', event: 'Alleged sighting of a crashed craft north of Roswell', precision: 'month' },
       { date: '1993', event: 'Signs affidavit; account adopted by Randle and Schmitt', precision: 'year' },
@@ -24363,7 +24363,7 @@ export const PEOPLE = [
     domains: ['d-recovery', 'd-witness'],
     narrative: 'Grady L. \'Barney\' Barnett was a soil conservation engineer who travelled widely in New Mexico and who, according to friends, described coming upon a crashed disc and small bodies in open country, with an archaeological field party present, before military personnel arrived and cleared everyone out. Barnett died in 1969, years before anyone thought to record him, and every version of his account reaching the literature is second-hand, given by Vern Maltais and Alice Knight decades later - Knight on camera saying flatly, \'I don\'t recall the date.\' The account entered the record through Berlitz and Moore\'s \'The Roswell Incident\' (1980) and became the load-bearing support for a second, separate 1947 crash on the Plains of San Agustin, 175 miles northwest of Roswell. The Air Force\'s 1997 report offers a specific and testable alternative: that Maltais and Knight, thirty-plus years on, confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak in the San Agustin Mountains, immediately outside White Sands Missile Range and the Jornada Test Range, where numerous anthropomorphic dummy balloon flights terminated and were recovered by military teams. Barnett is the clearest case in the whole domain of an account that cannot be graded above tier 3 by construction: the only first-hand witness died before being interviewed.',
     affiliations: ['US Soil Conservation Service, engineer'],
-    tierRationale: 'Re-graded C on a global pass (rank 687 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 688 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     chronology: [
       {
         date: '1947-07',
@@ -24440,7 +24440,7 @@ export const PEOPLE = [
     domains: ['d-recovery', 'd-witness'],
     narrative: 'Gerald Anderson came forward in 1990, after a television broadcast, claiming that as a five-year-old he had been rockhounding with his family on the Plains of San Agustin in July 1947 and had walked up to a crashed disc with dead and one living occupant. He was the only claimed first-hand witness to the San Agustin site and was accordingly promoted hard by Stanton Friedman and Don Berliner in \'Crash at Corona\' (1992). The case against him was made not by the Air Force but by other ufologists: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research produced a joint report, \'The Plains of San Agustin Controversy\', which established among other things that a telephone bill Anderson submitted as corroboration had been altered. His own quoted words in the Air Force\'s 1997 report - \'I thought they were plastic dolls\' - and his descriptions of the recovery procedures were read by the Air Force as accurate reporting of an anthropomorphic dummy balloon launch and recovery, of which numerous examples were flown and recovered in the region. Anderson matters to this board as the field\'s most instructive self-correction: two civilian research organisations audited their own star witness and published the result against interest.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 648 of 956, score 21). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 649 of 956, score 21). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
     chronology: [
       { date: '1947-07', event: 'Alleged childhood encounter on the Plains of San Agustin', precision: 'month' },
       { date: '1990', event: 'Comes forward after a television broadcast', precision: 'year' },
@@ -24585,7 +24585,7 @@ export const PEOPLE = [
       'McDonnell Douglas Corporation (43 years), manager of advanced research and development',
       'The Majestic Documents / majesticdocuments.com, co-principal with Ryan S. Wood'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 750 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 751 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     chronology: [
       {
         date: '1999',
@@ -25103,7 +25103,7 @@ export const PEOPLE = [
     domains: ['d-coverup', 'd-recovery'],
     narrative: 'James McAndrew, born 1963, was the junior officer who did the archival work on both Air Force Roswell reports and the sole named author of the second. As a first lieutenant he wrote Attachment 32 of the 1995 report - the Project Mogul synopsis that carries the Air Force\'s whole 1947 explanation. He then produced \'The Roswell Report: Case Closed\' (1997), published by Headquarters United States Air Force through the Government Printing Office, a 231-page volume addressing the claims of alien bodies that the 1994-1995 report had not covered. His method is the reason that book matters on this board irrespective of whether one accepts its conclusion: rather than asserting a denial he went to the certified records - the 427th Army Air Forces Base Unit Squadron \'M\' morning reports, the National Personnel Records Center, aircraft accident files, Alderson Laboratories dummy launch and recovery logs - and printed the documents, the anthropomorphic dummy launch and landing locations at Appendix A, the sworn witness statements of ten named Air Force personnel at Appendix B including Col. Joseph W. Kittinger Jr., and full interview transcripts of Gerald Anderson, Glenn Dennis, Alice Knight, Vern Maltais and James Ragsdale at Appendix C. In other words the government\'s denial published its own primary sources and named its own witnesses, which is the standard against which every claim on this board should be measured, including the claims this board finds persuasive.',
     affiliations: ['US Air Force, intelligence officer', 'Office of the Secretary of the Air Force'],
-    tierRationale: 'Re-graded C on a global pass (rank 688 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 689 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [
       {
         date: '1995',
@@ -25252,7 +25252,7 @@ export const PEOPLE = [
       'Project VISIT (Vehicle Internal Systems Investigative Team)',
       'MUFON, International Director 2000-2006'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 771 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 772 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '1981-02',
@@ -25427,7 +25427,7 @@ export const PEOPLE = [
     domains: ['d-recovery', 'd-witness'],
     narrative: 'Stan Gordon is the field researcher who kept Kecksburg alive for four decades until it reached a federal courtroom. A western Pennsylvania investigator who was a teenager in Greensburg when the fireball came down on 9 December 1965, he spent the following decades locating and interviewing local witnesses - residents who described a military and state police cordon thrown around the woods, a flatbed truck leaving the site carrying something acorn-shaped and about the size of a Volkswagen, and men in unmarked vehicles - while the official position remained that searchers found absolutely nothing. His witness pool supplied the 1990 Unsolved Mysteries episode, the 2003 Sci Fi Channel documentary \'The New Roswell: Kecksburg Exposed\', and, indirectly, the evidentiary basis for Leslie Kean\'s 2003 FOIA request and lawsuit against NASA. Gordon\'s work is the standard illustration of the retrieval literature\'s characteristic profile: a large, internally consistent body of local first-hand testimony describing a recovery operation, and no document. The Kean litigation was the attempt to close that gap by force of law, and it produced a federal finding that NASA\'s searches were inadequate and sworn testimony that two boxes of records from the period were missing - not the object, but the paper trail of its absence.',
     affiliations: ['Pennsylvania Association for the Study of the Unexplained (PASU), founder'],
-    tierRationale: 'Re-graded C on a global pass (rank 772 of 956, score 16). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 773 of 956, score 16). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     chronology: [
       {
         date: '1965-12-09',
@@ -25587,7 +25587,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Wil McCarthy is the least conventional author in this batch and the one whose selection says the most about how AAWSAP sourced its expertise. He is an aerospace engineer and patent agent who began as a flight controller on Lockheed Martin space launch systems, moved to Omnitech Robotics as an engineering manager, served as chief technology officer of the aerospace research laboratory Galileo Shipyards, and is president of The Programmable Matter Corporation in Lakewood, Colorado. He is simultaneously a working science-fiction novelist, and it was in fiction that he first popularised the idea he was later paid by the Defense Intelligence Agency to survey. His "Queendom of Sol" novels, notably The Wellstone, are built around a substance he called wellstone: a programmable material whose effective atoms can be reconfigured on command so that a bounded but effectively unlimited range of material properties can be summoned or dismissed at will. He set the same idea out for a general readership in the non-fiction book Hacking Matter.  AAWSAP\'s statement of work included materials, structures and signature reduction. Programmable matter, quantum dots and reconfigurable metamaterial surfaces sit squarely in that space, and the pool of people who had written a book-length synthesis of the field in 2009 was tiny. McCarthy had both the engineering background to write to a defence-warning audience and a commercial vehicle, The Programmable Matter Corporation, through which the work could be contracted. His DIRD, "Aerospace Applications of Programmable Matter", is a twenty-page survey and carries the earliest publication date of the eight documents in this batch, 14 December 2009. He has no documented UAP-programme role beyond authorship of this single deliverable.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 773 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 774 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
     chronology: [],
     claims: [
       {
@@ -25636,7 +25636,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Claudio Maccone was an Italian space scientist, SETI astronomer and mathematician, and the only DIRD author in this batch whose deliverable is about the prevalence of extraterrestrial civilisations rather than about hardware. His central contribution, and the subject of his DIRD, was the Statistical Drake Equation: he replaced the seven fixed factors of Frank Drake\'s 1961 formula with seven positive random variables and showed that, by the central limit theorem applied multiplicatively, the resulting number of communicating civilisations must follow a lognormal distribution. That turns the Drake Equation from a rhetorical device into something with an error bar, and lets a mean and variance be propagated rather than a single indefensible point estimate. He later extended the machinery into what he called Evo-SETI, applying the same lognormal statistics to the evolution of life on Earth.  He was appointed Director for Scientific Space Exploration by the International Academy of Astronautics in Paris in 2010, and from 2012 chaired the IAA\'s SETI Permanent Committee. He died in 2025.  His presence on the AAWSAP author list is the clearest evidence that the contract\'s remit was not confined to foreign adversary hardware. A programme chartered to assess far-term aerospace threats commissioned a paper on how many technological civilisations the galaxy may hold, which only makes sense if the sponsor considered non-terrestrial technology a live category of "advanced aerospace threat". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum representation of general relativity, a paper cited in Puthoff\'s own DIRD, which places him inside the same small citation network as the EarthTech authors.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 649 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 650 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
     chronology: [],
     claims: [
       {
@@ -25699,7 +25699,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Vincent Louis Teofilo was a career industrial physicist whose path ran through almost every institution that has ever tried to build a fusion reactor in the United States. He took a bachelor\'s degree in electrical engineering at Manhattan College and a master\'s in nuclear engineering and a PhD in physics at New York University. He taught at Princeton and operated the university\'s nuclear reactor, then worked on fusion reactor development at Westinghouse, Pacific Northwest National Laboratory, Physics International and Bechtel. He then spent twenty-eight years at Lockheed Martin Space Systems, contributing to programmes including the Hubble Space Telescope and the Space-Based Infrared System. He died on 10 January 2026 at the age of 81.  That combination, deep fusion plasma physics plus long service inside a prime contractor\'s space division, is exactly the profile AAWSAP needed for a propulsion deliverable that had to be credible to a defence-warning audience rather than to a physics journal. Three of the 38 DIRDs went to Lockheed Martin staff, Teofilo on aneutronic fusion, S. Macheret on MHD air-breathing propulsion and J. Golightly on ultracapacitors, which makes Lockheed Martin the single most heavily represented corporate institution on the DIRD author list.  Teofilo\'s DIRD is not a physics monograph. It runs from confinement schemes through Hall thrusters to a roadmap figure, surveys the funding levels of privately backed fusion start-ups, and closes by arguing that the physicists who pioneered the reactor technology must now work alongside the space systems companies. It reads as an industrial technology-transition assessment, which is what a Lockheed Martin space-systems physicist would be expected to produce. He is also recorded as a co-author of "Review of Experimental Concepts for Studying the Quantum Vacuum Field", placing him adjacent to the EarthTech vacuum-energy literature.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 720 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 721 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D0.',
     chronology: [],
     claims: [
       {
@@ -25844,7 +25844,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Miley is the author the DIA list places first: entry 1 on both the July 2018 KLAS list and the 9 January 2018 letter to the Senate Armed Services Committee reads \'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.\' The released DIRD carries DIA document number DIA-08-1003-006, publication date 10 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. At 72 pages it is the longest of the thirty-seven released deliverables. Miley is a genuine subject-matter figure rather than a fringe recruit: he is the co-author, with S. Krupakar Murali, of the Springer monograph \'Inertial Electrostatic Confinement (IEC) Fusion: Fundamentals and Applications\', and IEC has been his declared research line for decades. That matters for how the DIRD set should be read. Hal Puthoff\'s own account of the commissioning, given at the Society for Scientific Exploration conference in June 2018, is that he acted as a surrogate buyer precisely so that DIA would not have to expose why it wanted the answers: \'it\'s difficult for contractors to obtain expert opinions on advanced technologies because they would expose why they are interested. So, I acted as a surrogate.\' Miley is what that procurement posture produces at the credible end - an established university engineer asked, without being told the reason, where his own compact-fusion field would stand by 2050. IEC fusion is one of the few AAWSAP topics with a plausible aerospace power-source reading rather than an exotic-physics one: a compact, non-tokamak fusion device is the sort of thing that would be needed if a small craft were producing the observed energy budget. The DIRD sits in the earliest release tranche alongside the invisibility-cloaking and biosensors papers, under the \'Acquisition Threat Support\' banner, indicating it was commissioned in the first wave of the FY2009 series. No public statement by Miley about AAWSAP, AATIP or the purpose of the commission has been located.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 689 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 690 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -26373,7 +26373,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Sergey O. Macheret is a Ukrainian-American plasma physicist and aerospace engineer, and he is the single clearest example on the DIRD list of a mainstream, credentialled defence-industry scientist being drawn into the AAWSAP deliverable stream. He took an M.S. in physics from the Moscow Institute of Physics and Technology and a Ph.D. in plasma physics and plasma chemistry from the Kurchatov Institute, emigrated to the United States in 1991, and held research posts at Ohio State and Princeton before joining Lockheed Martin Aeronautics.  The DIA list transmitted to the Senate Armed Services Committee credits him as author of \'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications\' with the affiliation Lockheed Martin. That affiliation is exact for the period: he was a senior staff engineer at Lockheed Martin Skunk Works from 2006 to 2014, which brackets the document\'s 21 November 2010 publication date and its 20 July 2010 Intelligence Cut-Off Date. He left for Purdue University in 2014 as a professor of aeronautics and astronautics, added a professorship in electrical and computer engineering in 2022, was elected an AIAA Fellow, received the AIAA Plasmadynamics and Lasers Award in 2022, and founded US Plasma Engineering LLC in 2023.  His DIRD is one of three Lockheed Martin products on the DIA list and reads as ordinary hypersonics work rather than fringe physics: MHD control of ionised flow around an air-breathing vehicle, with explicit reference to Soviet work on the Ajax (Ayaks) hypersonic concept associated with the Leninets Design Bureau in St. Petersburg. That is squarely within the stated AAWSAP purpose of assessing foreign advanced aerospace weapon threats out to forty years, and it is the strongest available counterweight to the assumption that the DIRD series was uniformly speculative. Macheret has no public association with UAP research, with Bigelow\'s organisations, or with the anomalous-physics network that produced the EarthTech deliverables; his presence on the list is best read as a contracted subject-matter survey by a working plasma dynamicist.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 774 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 775 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [],
     claims: [
       {
@@ -26672,7 +26672,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Richard Obousy is the correction this batch exists to make. "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions" is the most cited and most reproduced of the thirty-eight DIRDs and is almost universally attributed in press coverage to Eric Davis. The DIA letter of 9 January 2018 does not say that. It lists item 19 as "Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants." Obousy is the author of record on the government\'s own list. EarthTech International\'s published citation list gives the paper as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, which resolves the two records rather than contradicting them: it is a co-authored paper on which DIA recorded the lead author and the popular account recorded the famous one.  The distinction is not cosmetic. The warp-drive DIRD is routinely used to argue that a small circle of consultants wrote the programme\'s most exotic output for itself. On the DIA record the lead author is an outside theorist trading as a one-man consultancy, and the paper\'s substance, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy\'s own published work on dark energy and compactified extra dimensions rather than Davis\'s.  Obousy went on to found and lead Icarus Interstellar, the volunteer successor organisation to Project Daedalus that pursued interstellar flight study, where he appears on the team alongside Eric Davis and Friedwardt Winterberg, the DIA-listed author of the negative-mass and advanced-nuclear-propulsion DIRDs. That overlap is itself a finding: the exotic-propulsion half of the DIRD author set was drawn from an existing interstellar-studies community that predates AAWSAP and outlived it.  The document is DIA-08-1004-001, dated 2 April 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It was one of the first two DIRDs to reach the public internet, appearing in December 2017 and later confirmed genuine by Davis in correspondence with the researcher Isaac Koi.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 721 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 722 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [],
     claims: [
       {
@@ -26743,7 +26743,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'The DIA list names "J Albertine, M.S., Directed Technologies" as the author of the high-energy laser weapons DIRD, and it names him twice. Items 37 and 38 of the January 2018 attachment are the same paper in two versions, one unclassified and one formerly classified SECRET//NOFORN. That resolves what had been an open question in the public record: the thirty-eighth DIRD was not a missing exotic paper, it was the classified twin of the laser survey. Albertine is therefore the only author in the thirty-eight known to have produced a classified deliverable under AAWSAP, which is why his access score sits above the rest of the subject-matter author set.  The identification of "J Albertine" with John R. Albertine is a reasoned inference rather than a documented match and is recorded here as such. John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master\'s degree in applied physics from Johns Hopkins, which matches the "M.S." the DIA list appends to the name. He was a senior staff physicist in the Space Division of the Johns Hopkins Applied Physics Laboratory, then from 1976 to 1997 worked in the US Navy\'s High Energy Laser Program Office directing Navy HEL programmes, retiring from civil service in 1997 and consulting thereafter for OSD, the Air Force, ONR, the Navy HEL programme office and Penn State in the directed-energy field. He guest-edited the high-energy laser systems and components special section of Optical Engineering in 2012. No public source consulted here links him by name to Directed Technologies or to AAWSAP, and that gap is recorded in unresolved[].  The unclassified version, DIA-08-1003-019, is dated 31 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It is the one straightforwardly operational weapons paper in the set, and it is the one the programme classified.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 690 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 691 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     chronology: [],
     claims: [
       {
