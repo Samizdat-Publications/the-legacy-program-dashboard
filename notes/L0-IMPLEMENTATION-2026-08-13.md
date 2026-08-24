@@ -801,3 +801,86 @@ university's mailing address.
    exists in which the answer would appear.
 3. SIAN item numbers for Operação Prato. CAPTCHA and gov.br authentication.
 4. The 1986 press coverage at memoria.bn.gov.br. Empty body returned.
+
+---
+
+# Stage 10 — adversarial review, 14 August 2026
+
+Run at Stewart's request against the finished board. Three layers.
+
+## Layer 1 — Jess: independent numeric re-derivation
+
+`tools/audit_independent.py`, which **deliberately does not import `verify.py` or
+`build_l0.py`.** Running the author's own gate proves the author is self-consistent,
+not that the deliverable is right. This file reimplements the floor, the BFS
+registers, the edge aggregation and the shared-member gate from scratch and compares
+against both the model and the figures a reader actually sees.
+
+**38 checks, 0 failures.** Every rendered figure ties: ENTITIES 968, SOURCED LINKS
+2,160, TIER A 144, DOCUMENTED 59% of 4,431, DENIALS 174, CUSTODY 119, map 428
+objects. The L0 set was compared by **exact membership**, not just count.
+
+**The audit script's own first run had two failures, and both were the script's
+fault, not the board's.** It scraped the built HTML for the stats strip, but the
+strip is computed at runtime, so it matched `5205` out of "DoDD 5205.07" for CUSTODY
+and could not find ENTITIES at all. Fixed to read the rendered DOM. Where the runtime
+capture is absent the checks now **fail loudly rather than skip silently** — the
+canvasInk lesson, applied to the auditor.
+
+## Layer 2 — Justin: fresh-eyes visual pass
+
+Run in a subagent given only the screenshots and told to ignore the data entirely.
+It found eight things, six of them real.
+
+**The one that mattered: the dossier panel was clipping every line at both edges.**
+The panel the entire board exists to deliver, losing the end of every sentence.
+
+The cause is worth recording because my own instrumented check **passed while it was
+broken.** The shell is a CSS grid and the dock is a grid child whose track is sized by
+`--dock-w`. I was setting `width` on the *element*, which made the element wider than
+its track, so it overflowed to the right and off-screen. A programmatic "does any
+child overflow its parent" test returned zero overflowing elements — because the
+children fitted the element fine. It was the element that did not fit the grid.
+Measuring `dock.right` against `window.innerWidth` is what caught it.
+
+That is the third time this session that a check I wrote agreed with me and the
+screenshot disagreed. **The visual pass is not optional and it has to be a subagent.**
+
+Also fixed:
+- The register panel rendered as a 400x700 black void when empty, which reads as a
+  failed load rather than a zero-result state. It now collapses and says so.
+- The register covered the breadcrumb, leaving an orphan "cts · 1.15x" fragment.
+  Re-positioned below the chrome.
+- The member popover ran past the canvas bottom with no scrollbar: a header reading
+  "PERSON · 6" rendered one row. The count and the content disagreed and the reader
+  had no way to tell. Now clamped and scrolls.
+- The object count sat directly on live map content. Given a backing plate.
+
+**Kept as inherited template, deliberately:** the KPI strip's trailing dead space and
+uneven cell widths, the nav dot leaders that terminate in nothing for views with no
+count, and the rail clipping at the analyst bar. All three are parent-board shell
+behaviour, unchanged from *The Vanishing*, and changing them here would fork the
+shared design system for cosmetic reasons.
+
+## Layer 3 — the CEO gate: what could still be wrong
+
+1. **The Sec. 1102 turn-in language has never been read verbatim.** Tier 2, recorded.
+   If challenged, the board cannot produce the bill text — only a secondary source
+   describing a differently-numbered section of a different bill.
+2. **"Twelve seats" is the statutory floor, not the readership.** DoDI 5205.11
+   §7.2.a(3) admits staff directors, a security manager and the intelligence
+   committees. Any framing that says twelve people is the whole readership overclaims.
+3. **`operacao-prato` and `ev-noite-ovnis-1986` are Tier 1 poor.** No SIAN item
+   numbers, no primary FAB order, no press-conference transcript. Fragile to a single
+   challenge.
+4. **`manhattan-project-2` has zero Tier 1 claims** and rests on named proponents.
+   Correctly tiered, but it is on the map and will be asked about.
+5. **`gerb-mitre-investigation` rests on one podcast** whose speaker's identity is
+   unknown.
+6. **Single-event sensitivity:** the floor is degree >= 6. Ten L0 nodes sit at exactly
+   6. One retracted edge drops any of them off the map and takes its dossier with it.
+7. **The 2026-dated material is the freshest and the thinnest.** PURSUE, the ODNI NDA
+   waiver memo and the FY2027 amendment all rest substantially on secondary reporting
+   because the primary channels do not render.
+8. **59% DOCUMENTED is 58.59% rounded.** Correct, but a tie-out question waiting to
+   happen if someone recomputes from the claim table.

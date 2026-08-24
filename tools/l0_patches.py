@@ -59,7 +59,8 @@ L0_CSS = """
 .l0chip .n{color:#5ed4e6}
 .l0chip .x{color:#5c6672;font-size:11px}
 .l0chip:hover .x{color:#e8705f}
-.l0meta{color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em}
+.l0meta{color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;
+  background:rgba(15,18,22,0.88);padding:5px 7px;border:1px solid #1d242b}
 .l0ctl{position:absolute;right:12px;top:10px;z-index:4;display:flex;gap:6px}
 .l0ledger{position:absolute;z-index:6;width:306px;background:#141920;
   border:1px solid #262e36;box-shadow:0 10px 30px rgba(0,0,0,.6)}
@@ -75,7 +76,7 @@ L0_CSS = """
   font:400 9px/1.5 'IBM Plex Mono',monospace;letter-spacing:.10em;color:#8d97a4}
 .l0sum b{color:#b9c2cd;font-weight:500}
 .l0sum .di{color:#e8705f}
-.l0body{max-height:328px;overflow:auto;padding:4px 0}
+.l0body{flex:1 1 auto;min-height:0;overflow:auto;padding:4px 0}
 .l0grp{padding:6px 10px 2px;font:500 8.5px/1 'IBM Plex Mono',monospace;
   letter-spacing:.13em;text-transform:uppercase;color:#5c6672}
 .l0row{display:flex;align-items:baseline;gap:6px;padding:2px 10px;cursor:pointer;
@@ -92,8 +93,11 @@ L0_CSS = """
   box-shadow:0 8px 22px rgba(0,0,0,.55)}
 .l0tip b{color:#e6e9ee;font-weight:500}
 .l0tip .act{color:#5ed4e6}
-.l0reg{position:absolute;left:0;top:0;bottom:0;z-index:7;width:396px;
-  background:#12171d;border-right:1px solid #262e36;display:flex;flex-direction:column}
+.l0reg{position:absolute;left:0;top:44px;z-index:5;width:396px;max-height:calc(100% - 56px);
+  background:#12171d;border:1px solid #262e36;display:flex;flex-direction:column}
+.l0reg.empty{max-height:none}
+.l0reg .none{padding:14px 12px 16px;font:400 10.5px/1.6 'IBM Plex Mono',monospace;
+  color:#5c6672;border-top:1px solid #1d242b}
 .l0reg h4{margin:0;padding:11px 12px 0;font:600 11.5px/1.25 'IBM Plex Mono',monospace;
   color:#e6e9ee}
 .l0reg p{margin:6px 12px 9px;font:400 9px/1.6 'IBM Plex Mono',monospace;
@@ -423,8 +427,16 @@ function mountL0(host){
       }
       h += '</div>';
       p.innerHTML = h;
-      const sx = Math.max(8, Math.min(W-314, SX(n.x) + 18));
-      const sy = Math.max(8, Math.min(H-120, SY(n.y) - 40));
+      /* Clamp into the visible canvas. Previously the card was positioned from
+         the node and allowed to run past the bottom edge, so a header reading
+         "PERSON - 6" could render one row with no scrollbar and no "+5 more":
+         the count and the content disagreed and the reader had no way to tell. */
+      const CARD_H = Math.min(430, H - 24);
+      const sx = Math.max(8, Math.min(W - 314, SX(n.x) + 18));
+      const sy = Math.max(8, Math.min(H - CARD_H - 8, SY(n.y) - 40));
+      p.style.maxHeight = CARD_H + 'px';
+      p.style.display = 'flex';
+      p.style.flexDirection = 'column';
       p.style.left = sx+'px'; p.style.top = sy+'px';
       host.appendChild(p);
     }
@@ -451,7 +463,16 @@ function mountL0(host){
       h += '<div class="l0row" data-node="'+esc(r.id)+'"><span>'+esc(l0Short(meta[0],meta[1]))
          + '</span><span class="ld"></span><span class="dg">'+right+'</span></div>';
     }
-    p.innerHTML = h + '</div>';
+    /* A zero-result register must SAY it is zero. An empty panel reads as one
+       that failed to load, which is indistinguishable from broken from the
+       outside -- the same class of defect as a check that always passes. */
+    if (!rows.length){
+      p.className = 'l0reg empty';
+      p.innerHTML = h + '</div><div class="none">No entities in this register. '
+        + 'Every node on the board is reachable from the map.</div>';
+    } else {
+      p.innerHTML = h + '</div>';
+    }
     host.appendChild(p);
   }
 
@@ -792,13 +813,15 @@ L0_CSS2 = """
 /* dock: a reading measure on selection, a strip otherwise ------------------ */
 .dock{transition:width 260ms cubic-bezier(.2,0,0,1)}
 .dock.dock-wide{max-width:none}
-.dock-wide{--dock-w:var(--dock-w-open)}
 .dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
   z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
   border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
   text-align:center;padding:0}
 .dock-toggle:hover{color:#5ed4e6;border-color:#3b444f}
-.edoss{padding:0 0 14px}
+.edoss{padding:0 12px 14px;max-width:100%;box-sizing:border-box;overflow-wrap:break-word;word-break:break-word}
+.dock{overflow-x:hidden}
+.dock>*{max-width:100%;box-sizing:border-box}
+.edoss *{max-width:100%;box-sizing:border-box;overflow-wrap:break-word}
 .edoss .why{margin:0 0 10px;padding:9px 11px;background:#141920;
   border-left:2px solid #5ed4e6;font:400 11px/1.65 'IBM Plex Mono',monospace;
   color:#dfe4ea}
@@ -806,7 +829,7 @@ L0_CSS2 = """
 .edoss .role{padding:2px 6px;border:1px solid #333c47;color:#8d97a4;
   font:500 8.5px/1.5 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase}
 .edoss .narr{font:400 11.5px/1.75 'IBM Plex Mono',monospace;color:#b9c2cd;
-  white-space:pre-wrap;margin:0 0 12px}
+  white-space:pre-wrap;overflow-wrap:break-word;word-break:break-word;margin:0 0 12px}
 .edoss .dn{margin:0 0 12px;padding:8px 11px;border:1px solid #3b2b2b;
   background:#1a1416;font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#e8b0a6}
 .edoss .cl{padding:6px 0;border-top:1px solid #1d242b;
@@ -918,7 +941,17 @@ function setDockOpen(open){
      first attempt at this silently did nothing: the class landed, the width did
      not move, and nothing errored. */
   const wide = Math.max(560, Math.round(window.innerWidth * 0.5));
-  d.style.width = (open ? wide : (S.dockW || 306)) + 'px';
+  /* The shell is a CSS GRID and the dock is a grid child whose track is sized by
+     --dock-w. Setting width on the ELEMENT makes it wider than its track, so it
+     overflows to the right and off-screen: the panel looked wide but every line
+     was guillotined at the viewport edge, on both sides. A programmatic
+     "does any child overflow its parent" check passed, because the children fit
+     the element fine -- it was the element that did not fit the grid.
+     Write the custom property the grid actually reads. This is the same owner
+     the resize grip uses, which is why it takes. */
+  document.documentElement.style.setProperty('--dock-w',
+    (open ? wide : (S.dockW || 306)) + 'px');
+  d.style.width = '';
   d.classList.toggle('dock-wide', !!open);
   S.dockWide = !!open;
 }
