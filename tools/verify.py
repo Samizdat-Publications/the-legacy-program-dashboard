@@ -507,6 +507,37 @@ def _golden(b, html):
 
 
 # ---------------------------------------------------------------------------
+# the no-key analyst — the only voice a reader without an API key ever hears.
+# ---------------------------------------------------------------------------
+
+@check("scripted analyst answers from the right branch")
+def check_scripted_analyst(board, html):
+    """Delegate to tools/test_scripted_analyst.mjs, which asserts the TOPIC TAG
+    of each answer rather than its prose.
+
+    Kept as a separate script, and shelling out rather than reimplementing:
+    the function under test is JavaScript that closes over NODES and L0DATA, so
+    the only honest way to test it is to run it. Reimplementing its routing in
+    Python would produce a check that agrees with my reading of the code, which
+    is the failure this repo keeps hitting.
+
+    That script carries its own self-test: BREAK=1 disables the topic table and
+    the run must go red. This check is exercised in self_test() the same way.
+    """
+    exe = os.path.join(ROOT, "tools", "test_scripted_analyst.mjs")
+    if not os.path.exists(exe):
+        return ["tools/test_scripted_analyst.mjs is missing"]
+    env = dict(os.environ)
+    r = subprocess.run(["node", exe], capture_output=True, cwd=ROOT, env=env)
+    if r.returncode == 0:
+        return []
+    out = (r.stdout.decode() + r.stderr.decode())
+    lines = [l for l in out.splitlines() if l.startswith("FAIL") or "->" in l]
+    return ["scripted analyst routing: " + l.strip() for l in lines[:12]] or \
+           ["scripted analyst test exited %d: %s" % (r.returncode, out[-300:])]
+
+
+# ---------------------------------------------------------------------------
 # idempotency — the check that would have caught the 35 lost dates.
 # ---------------------------------------------------------------------------
 
@@ -702,10 +733,23 @@ def self_test():
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")
             continue
-        b = poisons.get(name, base)
-        html = poison_html.get(name, good_html)
-        caught = fn(b, html)
-        clean = fn(base, good_html)
+        # The scripted-analyst check does not read the board or the HTML fixture
+        # -- it runs real JavaScript in a subprocess -- so a poisoned dict proves
+        # nothing about it. Its poison is BREAK=1, which disables the topic table
+        # inside the function under test. Same contract as every other check:
+        # show it going red, or it is not evidence.
+        if name == "scripted analyst answers from the right branch":
+            os.environ["BREAK"] = "1"
+            try:
+                caught = fn(base, good_html)
+            finally:
+                os.environ.pop("BREAK", None)
+            clean = fn(base, good_html)
+        else:
+            b = poisons.get(name, base)
+            html = poison_html.get(name, good_html)
+            caught = fn(b, html)
+            clean = fn(base, good_html)
         if not caught:
             print(f"  FAIL  {name}: did NOT reject poisoned input — this check is dead")
             ok = False

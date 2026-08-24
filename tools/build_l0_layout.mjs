@@ -77,6 +77,31 @@ const ERAS = [
 const BAND_VOCAB = ['retrieval', 'reverse-engineering', 'funding', 'research',
   'custody', 'disclosure', 'oversight', 'concealment'];
 
+/* RARITY PIN — the answer to "pin the rank or let it re-derive?"
+
+   Neither, quite. The order is PINNED here and RECOMPUTED every run, and a
+   disagreement is reported rather than obeyed. Pure re-derivation is unsafe now
+   that position carries information: oversight (68) and disclosure (74) are 8%
+   apart, so six tags landing in a research pass can invert them and silently move
+   every node carrying both into a different row. A reader who saw the map last
+   month would find fourteen nodes relocated with no editorial change behind it,
+   and no way to see that it happened. Pure pinning is also unsafe — it goes stale
+   and stops describing the board.
+
+   So: the pin is the rule, drift is a finding, and moving a node between bands
+   becomes a decision someone makes with a diff in front of them. This is the same
+   discipline that caught 107-vs-96: state the invariant, make the violation loud.
+
+   Pinned 24 August 2026 against data/design-extract.json, counts at pin time:
+     concealment 79 · disclosure 74 · oversight 68 · custody 48 · research 46
+     funding 27 · reverse-engineering 17 · retrieval 10
+   Three adjacent pairs were within 10% at pin time (research/custody,
+   oversight/disclosure, disclosure/concealment) and are the ones to watch.
+   Re-pin deliberately; do not edit this to silence a warning. */
+const RARITY_PIN = ['retrieval', 'reverse-engineering', 'funding', 'research',
+  'custody', 'oversight', 'disclosure', 'concealment'];
+const RARITY_PIN_DATE = '2026-08-24';
+
 const GEO = {
   gutter: 148, headRow: 46, colGap: 10, bandGap: 8,
   /* One chip size for the whole map. Not a layout convenience: §4 says size must
@@ -128,48 +153,41 @@ export function normaliseCurrent(dx) {
   const nodes = dx.l0.map(n => ({
     id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
     cluster: n.cluster, tier: n.tier, deg: n.deg, claims: n.claims, t1: n.t1,
-    roles: n.roles || [], y0: yearOf(n.dateStart),
-    /* backfill rows 4 and 6: these were nulled because the extract did not
-       carry them. It does now. */
-    y1: yearOf(n.dateEnd), span: (yearOf(n.dateEnd) && yearOf(n.dateStart))
-      ? Math.max(0, yearOf(n.dateEnd) - yearOf(n.dateStart)) : 0,
+    roles: n.roles || [], y0: yearOf(n.dateStart), span: 0,
     era: eraIndex(yearOf(n.dateStart)),
     di: n.di || 0, dr: n.dr || 0,
-    C: n.C == null ? null : n.C, A: n.A == null ? null : n.A,
-    D: n.D == null ? null : n.D,
+    /* Backfilled into design-extract.json on 24 Aug. Design's baseline nulled
+       these because the extract did not carry them at pin time; it does now, so
+       nulling them here made the generator announce "C/A/D absent from this
+       source" while fields.cad reported true -- the two disagreeing is exactly
+       the class of silent degradation this package is built to prevent. */
+    C: n.C != null ? n.C : null, A: n.A != null ? n.A : null,
+    D: n.D != null ? n.D : null,
+    y1: yearOf(n.dateEnd),
     memberCount: n.members || 0, mix: n.mix || {},
-    /* row 2 and row 3: the off-map neighbours themselves, and the split, so
-       "5 on the map, 14 held back" can be made to sum to the degree */
     members: Array.isArray(n.direct) ? n.direct : null,
-    membersDirect: n.membersDirect == null ? null : n.membersDirect,
-    membersRouted: n.membersRouted == null ? null : n.membersRouted,
     why: n.whyImplicated || '',
   }));
   const direct = dx.directEdges.map(e => ({
     a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
-    types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0, dn: [],
+    types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
+    dn: e.dn || [],                              /* backfilled 24 Aug */
   }));
   const summarised = dx.summarised.map(e => ({
     a: e.a, b: e.b, n: e.n, kind: 'shared', tier: e.tier,
-    via: (e.via && e.via.length) ? e.via : null,
-    viaLabels: e.viaLabels || null,
+    via: e.via && e.via.length ? e.via : null,   /* backfilled 24 Aug */
   }));
   return {
     key: 'current',
     label: 'design-extract.json · 24 Aug 2026',
     source: 'data/design-extract.json',
     boardNodes: (dx.counts || {}).total, boardEdges: null,
-    nodes, direct, summarised,
-    viaMembers: Object.fromEntries((dx.summarised || [])
-      .filter(e => e.via && e.via.length)
-      .map(e => [e.a + '|' + e.b, e.via])),
-    denialPairs: dx.denialPairs || [],
+    nodes, direct, summarised, viaMembers: {},
     dates: {}, conflicts: {},
-    /* DETECTED, not declared. These were hardcoded false because the extract did
-       not carry the fields when this generator was written. The backfill landed
-       them, and a capability flag that asserts absence is exactly as wrong as one
-       that asserts presence — probe the data instead, so the generator tells the
-       truth about whatever it is handed. */
+    /* Detected, not asserted. Five of these were backfilled into
+       design-extract.json on 24 Aug; a hardcoded false makes the generator
+       announce it lacks fields the file now carries, and silently take the
+       degraded path. Re-applied after the package shipped without it. */
     fields: {
       via: (dx.summarised || []).some(e => e.via && e.via.length),
       members: (dx.l0 || []).some(n => Array.isArray(n.direct)),
@@ -371,8 +389,18 @@ export function layout(src, supplied, images) {
      research moves. Where C is available the result is checked against it. */
   const tally = {};
   for (const n of N) for (const r of n.roles) tally[r] = (tally[r] || 0) + 1;
-  const rarity = Object.fromEntries(
-    Object.entries(tally).sort((a, b) => a[1] - b[1] || (a[0] < b[0] ? -1 : 1)).map(([r], i) => [r, i]));
+  const observed = Object.entries(tally)
+    .sort((a, b) => a[1] - b[1] || (a[0] < b[0] ? -1 : 1)).map(([r]) => r);
+  const rarity = Object.fromEntries(RARITY_PIN.map((r, i) => [r, i]));
+  // any tag the pin does not know about sorts last, loudly
+  for (const r of observed) if (rarity[r] == null) rarity[r] = RARITY_PIN.length;
+  const unpinnedTags = observed.filter(r => RARITY_PIN.indexOf(r) < 0);
+  /* Where the pinned order and this board's own counts disagree. Reported, never
+     obeyed — obeying it is the silent-relocation failure the pin exists to stop. */
+  const pinDrift = observed
+    .map((r, i) => [r, i, RARITY_PIN.indexOf(r), tally[r]])
+    .filter(row => row[1] !== row[2])
+    .map(row => ({ tag: row[0], observedRank: row[1] + 1, pinnedRank: row[2] + 1, count: row[3] }));
   for (const n of N) {
     n.band = n.roles.slice().sort((a, b) => rarity[a] - rarity[b] || (a < b ? -1 : 1))[0] || null;
   }
@@ -497,6 +525,7 @@ export function layout(src, supplied, images) {
     bandRecs.push({
       id: b, y, h, rows, n: N.filter(n => n.band === b).length,
       meanC: mc == null ? null : +mc.toFixed(2), tagged: tally[b] || 0,
+      residual: (tally[b] || 0) > N.length * 0.5,
     });
     y += h + GEO.bandGap;
   }
@@ -560,6 +589,14 @@ export function layout(src, supplied, images) {
       .filter(([, es]) => es.length > 1),
     missingRoles,
     bandOrderBasis, haveC,
+    /* The pin, its drift, and the near-ties that make drift possible. */
+    rarityPin: RARITY_PIN, rarityPinDate: RARITY_PIN_DATE,
+    rarityObserved: observed, rarityDrift: pinDrift, unpinnedTags,
+    /* A band whose tag is claimed by more than half the map can only win when a
+       node carries nothing rarer, so its population is a RESIDUAL rather than a
+       category. Naming that is the difference between a thin row that is honest
+       and a thin row that looks broken. */
+    residualBands: bands.filter(b => (tally[b] || 0) > N.length * 0.5),
     /* Adjacent tags whose counts sit within 10% of each other. These are the pairs
        whose rarity ranks can swap between research passes, and a swap moves every
        node carrying both from one band to the other. It happened between these two
@@ -586,7 +623,11 @@ export function layout(src, supplied, images) {
      not clear, or was never found, is not drawn at all, exactly as an unsourced
      claim is not printed. Field names inherited from the sibling board:
      `photo` + `photoCredit`, plus `photoKind` because a logo must not be cropped. */
-  const IMG = images || {};
+  /* Records live under `images` so the file can carry its own documentation --
+     the clearance vocabulary and the record shape -- without those doc keys
+     sitting in the same namespace as node ids. Bare top-level keying is still
+     accepted, which is the shape Design specified. */
+  const IMG = (images && images.images) ? images.images : (images || {});
   let imgClears = 0, imgAsk = 0;
   for (const n of N) {
     const r = IMG[n.id];
@@ -700,7 +741,8 @@ async function main() {
   /* fileURLToPath, not .pathname. A file URL percent-encodes spaces, so
      .pathname yields "Missing%20individuals..." and every read fails with
      ENOENT on a path that plainly exists. This repo lives under a directory
-     with three spaces in it. Reported to Design. */
+     with three spaces in it. Reported to Design; re-applied 24 Aug after the
+     layout package shipped from a baseline that did not carry it. */
   const { fileURLToPath } = await import('node:url');
   const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
   const rd = p => JSON.parse(fs.readFileSync(path.join(root, p), 'utf8'));
@@ -708,12 +750,13 @@ async function main() {
   const glob = d => fs.readdirSync(path.join(root, d))
     .filter(f => f.endsWith('.json')).sort().map(f => rd(path.join(d, f)));
 
+  const highlightsFile = has('data/l0-highlights.json') ? rd('data/l0-highlights.json') : null;
   const out = buildAll({
     design: rd('data/design-extract.json'),
     extract: has('data/l0-extract.json') ? rd('data/l0-extract.json') : null,
     dossiers: has('research/dossiers') ? glob('research/dossiers').flat() : [],
     docs: has('research') ? glob('research') : [],
-    highlights: has('data/l0-highlights.json') ? rd('data/l0-highlights.json') : null,
+    highlights: highlightsFile,
     images: has('data/l0-images.json') ? rd('data/l0-images.json') : null,
   });
 
@@ -730,7 +773,27 @@ async function main() {
       `· at rest ${f.restDrawn} of ${f.drawnBeforeBudget} (${f.restPct}%) · dated ${f.withDate}/${f.l0} ` +
       `· last era ${f.lastEraShare}% · bands by ${f.bandOrderBasis}`);
     if (f.orphans) { console.error('FATAL: the budget dropped every edge on: ' + f.orphanIds.join(', ')); process.exit(1); }
-    if (f.flaggedUnknownIds.length) { console.error('FATAL: highlights name ids not on the map: ' + f.flaggedUnknownIds.join(', ')); process.exit(1); }
+    /* The highlights file is an editorial pass authored against ONE board, and
+       it names the board it was written for. Fatal on that board -- a flag
+       pointing at a node that is not there is a broken pointer. On any other
+       dataset the same mismatch is a finding, not a fault: `legacy` is a
+       superseded 96-node snapshot kept as a cross-check, and three of the
+       fourteen flags name nodes the old floor excluded. Killing the build over
+       that would be obeying a stale dataset, which is the same error the rarity
+       pin exists to prevent -- so report it and carry on, and never silence it
+       by trimming the editorial file to the intersection. */
+    const authoredFor = (highlightsFile || {}).authoredFor || 'current';
+    if (f.flaggedUnknownIds.length) {
+      if (m.key === authoredFor) {
+        console.error('FATAL: highlights name ids not on the ' + m.key +
+          ' map, which they are authored for: ' + f.flaggedUnknownIds.join(', '));
+        process.exit(1);
+      }
+      console.log('  note  ' + f.flaggedUnknownIds.length + ' of ' +
+        (f.flagged + f.flaggedUnknownIds.length) + ' highlights are absent from `' +
+        m.key + '` (authored for `' + authoredFor + '`): ' +
+        f.flaggedUnknownIds.join(', '));
+    }
     if (f.flaggedOverCap) { console.error('FATAL: highlight flags over the ' + Math.round(HIGHLIGHT_CAP * 100) + '% cap'); process.exit(1); }
   }
   /* The whole point of a purpose-built extract is that it can be read. */

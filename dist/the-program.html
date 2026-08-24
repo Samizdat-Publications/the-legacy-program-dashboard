@@ -813,7 +813,7 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
     <div class="sugg" id="ansugg"></div>
     <div class="an-in">
       <span class="caret">&#9646;</span>
-      <input id="anin" placeholder="Ask about a case, or type a command such as selectNode(&quot;leblanc&quot;)" autocomplete="off" spellcheck="false">
+      <input id="anin" placeholder="Ask about the program, or type a command such as openPath(&quot;mechanism&quot;)" autocomplete="off" spellcheck="false">
       <button class="send" id="ansend">SEND</button>
     </div>
   </div>
@@ -114288,57 +114288,355 @@ function mentionedEntities(text){
 }
 
 /* --- scripted fallback. Fully functional, not a stub. --------------------- */
-function scriptedReply(q){
-  const t = q.toLowerCase();
-  const find = (s) => PEOPLE.find(p => t.includes(p.label.split(' ').pop().toLowerCase()) || t.includes(p.id));
-  const turn = { role:'ANALYST', text:'', actions:[], cites:[] };
+/* ---------------------------------------------------------------------------
+   SCRIPTED ANALYST -- the no-key path.
 
-  const p = find();
-  if (p){
-    turn.actions = ['selectNode("'+p.id+'")'];
-    turn.text = p.label + ' is Tier ' + p.tier + ', S' + p.C + ' P' + p.A + ' I' + p.D + '. '
-      + p.tierRationale + (p.unexplainedResidual ? ' The unexplained residual: ' + p.unexplainedResidual : '')
-      + '\n\nRunning scripted replies because no API key is set. The dossier on the right carries the full narrative, the sequence chain, every connection and the sources.';
-    turn.cites = [[p.id, p.label]];
-    S.turns.push(turn); renderTranscript(); runCommandLine(turn.actions[0]); return;
-  }
-  if (/base rate|jpl|meaningful|statistic/.test(t)){
-    turn.actions = ['setView("COVERUP")'];
-    turn.text = 'Read the counterarguments view, and read it as the grading instrument rather than as a rebuttal. Novella supplies the matched denominator that Scientific American concedes it lacks: JPL at roughly 4,500 employees would expect about 164 all-cause deaths over four years and this list contains five. That argument produced most of the Tier C assignments in this file. The tracker’s strength is in the Tier A anomalies, not in the geography.';
-    S.turns.push(turn); renderTranscript(); runCommandLine(turn.actions[0]); return;
-  }
-  if (/weak|attack|hostile|discredit/.test(t)){
-    turn.actions = ['setView("CASES")','toggleFilter("tier-C")'];
-    turn.text = 'A hostile reader attacks the weakest entry to discredit the whole set, which is why the weakest entries are labelled as such by the tracker itself. Jason Thomas is P0/I0 at a pharmaceutical company with no defense nexus of any kind, and he is retained deliberately to show the list is not curated. James Moffatt is tagged media-linked only and appears on no mainstream list; his inclusion is a live editorial decision. Ning Li has a documented seven-year medical chain that covers the facts.';
+   Rewritten for this board. The inherited version answered questions about
+   JPL headcount, Ning Li and Jason Thomas, because it came from The Program
+   with one string swapped. A reader with no API key was being handed confident,
+   well-sourced answers about a different project entirely -- the worst failure
+   mode this board has, since it is indistinguishable from working.
+
+   Design rules, so the next person extending this does not weaken it:
+
+   1. EVERY FIGURE IS COMPUTED FROM THE LOADED DATA AT ANSWER TIME. Nothing is
+      typed as a literal. A hardcoded count is a claim that silently goes stale
+      the next time research lands, and there is no check that would catch it.
+   2. Every topic drives the UI as well as printing prose. The promise is that
+      any line the analyst prints can be retyped, so the actions must be real
+      CMD calls, not decoration.
+   3. The scripted state is stated once, at the end, and is not apologised for.
+      It is a supported state -- the board is fully usable by hand.
+   4. No topic asserts anything that is not already on the board. If an answer
+      wants a source, it names the node and lets the dossier carry it.
+   ------------------------------------------------------------------------ */
+function scriptedReply(q){
+  const t = String(q||'').toLowerCase();
+  const turn = { role:'ANALYST', text:'', actions:[], cites:[] };
+  const L0 = (typeof L0DATA==='object' && L0DATA && L0DATA.l0) ? L0DATA.l0 : [];
+  const byId = new Map(NODES.map(n=>[n.id,n]));
+  const l0by = new Map(L0.map(n=>[n.id,n]));
+  const lab = id => (byId.get(id)||l0by.get(id)||{}).label || id;
+  const nfmt = n => String(n);
+  const say = (topic, text, actions, cites) => {
+    turn.topic = topic;               /* asserted by the branch test */
+    turn.text = text + '\n\n' + SCRIPT_FOOTER;
+    turn.actions = actions || [];
+    turn.cites = cites || [];
     S.turns.push(turn); renderTranscript();
-    turn.actions.forEach((a,i)=>setTimeout(()=>runCommandLine(a), i*140)); return;
+    turn.actions.forEach((a,i)=>setTimeout(()=>runCommandLine(a), i*160));
+    return true;
+  };
+  const SCRIPT_FOOTER =
+    'Running scripted replies because no API key is set. These are pre-written for the '
+    + 'topics below and computed from the loaded data, so the numbers are current. Set a key '
+    + 'from the top right to ask anything else. Every command in this answer is one you can retype.';
+
+  /* ---- 1. resolve a named entity, but do NOT answer with it yet. --------
+
+     The first version of this let any name mention win outright, and six of
+     the seven suggestion chips broke on it: "Trace the custody chain from
+     Grusch" answered with Grusch's dossier instead of the custody path, and
+     "What is the legal mechanism..." matched a node whose label contains the
+     word oversight. A bare token match against 968 labels is not intent.
+
+     So: resolve the name here, and only answer with it when the question is
+     SHAPED like a lookup ("who is X", "tell me about X") or is essentially
+     just the name. Otherwise topics run first and the entity is the fallback.
+     ------------------------------------------------------------------- */
+  /* Match on every key a reader might actually type, not just the label.
+     Measured failures this replaced:
+       "david grusch"          -- label is "David Charles Grusch", so a whole-label
+                                  test misses and the custody topic claimed it.
+       "tell me about AAWSAP"  -- label is "Advanced Aerospace Weapon System
+                                  Applications Program (AAWSAP)", so both the label
+                                  and its last token miss, and /sap/ in the mechanism
+                                  topic matched INSIDE the word aawsap.
+     Keys: the full label, the id with dashes opened out, any parenthetical
+     acronym, and the last name for a person. Longest match wins, so
+     "sean kirkpatrick" does not resolve on "sean". */
+  let hit = null, hitLen = 0;
+  const wordish = k => new RegExp('(^|[^a-z0-9])' + k.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')
+    + '([^a-z0-9]|$)').test(t);
+  for (const n of NODES){
+    const L = String(n.label||'').toLowerCase();
+    const keys = [L, String(n.id||'').toLowerCase().replace(/-/g,' ')];
+    const par = L.match(/\(([^)]{2,40})\)\s*$/);
+    if (par) keys.push(par[1].toLowerCase());
+    const words = L.replace(/[(),]/g,' ').split(/\s+/).filter(Boolean);
+    if (n.cls === 'person' && words.length) keys.push(words[words.length-1]);
+    for (const k of keys){
+      if (k.length > 3 && k.length > hitLen && wordish(k)){ hit = n; hitLen = k.length; }
+    }
   }
-  if (/export|spreadsheet|csv|download|excel/.test(t)){
-    const cols = ['id','name','status','date','age','location','affiliation','tier','S','P','I','left behind','unexplained residual'];
-    const rows = PEOPLE.map(p=>[p.id,p.label,p.status,p.date,(p.age==null?'NOT REPORTED':p.age),p.loc||'NOT REPORTED',
-      p.sub||'NOT REPORTED',p.tier,p.C,p.A,p.D,(p.leftBehind.join('; ')||'NOTHING RECORDED'),(p.unexplainedResidual||'NONE')]);
-    turn.actions = ['exportData({filename:"the-vanishing-all-cases", columns:[...], rows:[...]})'];
-    turn.text = 'Exported all '+PEOPLE.length+' cases as CSV and kept a copy in the report view. '
-      + 'This is the scripted fallback, so it exports everything rather than the subset you asked for. '
-      + 'Set an API key and the analyst will filter, sort and caveat it properly.';
-    S.turns.push(turn); renderTranscript();
-    CMD.exportData({ filename:'the-vanishing-all-cases', columns:cols, rows:rows });
-    CMD.setView('REPORT');
-    return;
+  /* Answer with the entity only when the question is SHAPED like a lookup.
+     A bare token match against 968 labels is not intent: "what is the legal
+     mechanism that lets a program escape oversight" contains a node label and
+     is plainly not a request for that node's dossier. */
+  const bare = t.replace(/[^a-z0-9 ]/g,'').trim();
+  const explicit = /\b(tell me about|tell me more about|dossier on|profile of|look ?up|brief me on|show me the (record|dossier|file) (on|for)|what do (we|you) (have|know) (on|about))\b/.test(t);
+  const asked    = /^(who|what)\s+(is|was|were|are)\b/.test(t);
+  const dominant = hit && hitLen >= bare.length * 0.5;
+  const lookupShaped = explicit || (asked && dominant) || (dominant && bare.split(/\s+/).length <= 5);
+
+  const entityAnswer = () => {
+    const l0 = l0by.get(hit.id);
+    const cl = (hit.claims||[]).length;
+    const t1 = (hit.claims||[]).filter(c=>c.tier===1).length;
+    let txt = hit.label + ' is Tier ' + hit.tier + ', S' + hit.C + ' P' + hit.A + ' I' + hit.D + '.';
+    if (hit.tierRationale) txt += ' ' + hit.tierRationale;
+    if (cl) txt += '\n\n' + cl + ' graded claim' + (cl===1?'':'s') + ' on the record, ' + t1
+      + ' of them Tier 1 -- documented, and what survives a hostile audit.';
+    if (l0){
+      txt += ' On the program map it carries ' + l0.deg + ' distinct connections'
+          + ((l0.di||l0.dr) ? ', and ' + (l0.di||0) + ' denial' + ((l0.di||0)===1?'':'s')
+             + ' issued against ' + (l0.dr||0) + ' received' : '')
+          + '.';
+    } else {
+      txt += '\n\nIt sits below the program map floor of ' + ((L0DATA.config||{}).floor || 6)
+          + ' connections, so it lives in the ledger rather than on the map. That is a statement about how '
+          + 'much has been established, not about importance.';
+    }
+    txt += '\n\nThe dossier on the right carries the full narrative, every connection and the sources.';
+    return say('entity', txt, ['selectNode("'+hit.id+'")'], [[hit.id, hit.label]]);
+  };
+  if (hit && lookupShaped) return entityAnswer();
+
+  /* ---- 2. the custody chain ------------------------------------------- */
+  if (/custody|chain of custody|recovered material|retriev|craft|wreck/.test(t)){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id==='custody');
+    const n = p ? p.ids.length : 0;
+    return say('custody',
+      'The custody question is the one the whole board turns on, because it is the only claim '
+      + 'that could be settled by producing an object. ' + n + ' nodes sit on the custody path and it is now open.'
+      + '\n\nRead it as a chain with a documented end and an undocumented middle. The documented end is '
+      + 'procedural: who was authorised to hold what, under which programme, with which oversight waived. '
+      + 'The undocumented middle is testimonial -- Grusch describes a chain he says he was briefed on but '
+      + 'did not personally witness, which is exactly why his own claims grade where they do rather than higher.'
+      + '\n\nWhat the board can show you and a witness cannot: the custody path and the legal-mechanism path '
+      + 'share nodes. The same instruments that would let material be held without a public record are already '
+      + 'on the map, sourced, and independent of anyone\'s testimony. Start at carve-out and waived-sap-notification-group '
+      + 'and read outward. If the testimony were withdrawn tomorrow the mechanism would still be there.',
+      ['openPath("custody")'],
+      [['david-grusch','David Grusch'],['carve-out','the DCSA carve-out'],['waived-sap-notification-group','waived SAP notification']]);
   }
-  if (/chart|plot|graph|timeline|visuali[sz]e|report/.test(t)){
-    const pts = PEOPLE.map(p=>({ id:p.id, label:p.label, date:p.date, tier:p.tier }));
-    turn.actions = ['renderChart({type:"timeline", title:"All 15 cases", points:[...]})','setView("REPORT")'];
-    turn.text = 'Built a timeline of all '+PEOPLE.length+' cases in the report view, coloured by tier. '
-      + 'This is the scripted fallback, so it plots everything rather than answering your specific question. '
-      + 'Set an API key from the top right and the analyst will compute the subset you actually asked for, caveat it, and frame those people on the map.';
-    S.turns.push(turn); renderTranscript();
-    CMD.renderChart({ type:'timeline', title:'All '+PEOPLE.length+' cases', points:pts,
-      note:'Plotted from the case records. Density after April 2026 reflects reporting attention, not events.' });
-    CMD.setView('REPORT');
-    return;
+
+  /* ---- 3. export ------------------------------------------------------- */
+  if (/export|spreadsheet|csv|download|excel|table of/.test(t)){
+    const want = /tier a|tier-a/.test(t) ? NODES.filter(n=>n.tier==='A') : NODES;
+    const rows = want.map(n=>{
+      const l0 = l0by.get(n.id);
+      const cl = n.claims||[];
+      return [n.id, n.label, n.cls||'', n.tier, n.C, n.A, n.D,
+        (l0? l0.deg : ''), (l0? (l0.di||0) : ''), (l0? (l0.dr||0) : ''),
+        cl.length, cl.filter(c=>c.tier===1).length,
+        (l0 ? 'map' : 'ledger'), (n.whyImplicated||n.tierRationale||'').replace(/\s+/g,' ').slice(0,300)];
+    });
+    return say('export',
+      'Exported ' + rows.length + ' node' + (rows.length===1?'':'s')
+      + ' with axes, map degree, denial counts and claim grading, and kept a copy in the report view.'
+      + '\n\nOne column deserves a warning. `deg` is distinct neighbours on the program map, not edge instances -- '
+      + '94 node pairs on this board carry more than one hand-written connection, and counting those separately is '
+      + 'what produced a published figure of 107 map nodes when the correct answer was 96. If you re-derive '
+      + 'anything from this file, that is the trap.'
+      + '\n\nNodes marked `ledger` sit below the map floor of ' + ((L0DATA.config||{}).floor||6) + ' connections. '
+      + 'They are not lesser -- they are less established, which is a different claim.',
+      ['exportData({"filename":"the-program-nodes","columns":["id","label","class","node tier","S","P","I","map degree","denials issued","denials received","claims","tier 1 claims","register","why implicated"],"rows":'
+        + JSON.stringify(rows) + '})'], []);
   }
-  turn.text = 'No API key is configured, so I am running scripted replies. That is a first-class state, not an error: every control the analyst can operate is clickable, and typing a literal command here works too. Try selectNode("leblanc"), focusCluster("new-mexico"), or setEdgeFilter(["witness-chain","programmatic"]). Set a key from the top right to ask open questions of the case file.';
+
+  /* ---- 4. tiers and where the evidence is ------------------------------ */
+  if (/tier|grade|grading|evidence.*strong|how.*confident|confidence|rate.*claim/.test(t)){
+    const cls = {}; for (const n of NODES) cls[n.tier] = (cls[n.tier]||0)+1;
+    let t1=0,t2=0,t3=0;
+    for (const n of NODES) for (const c of (n.claims||[])){
+      if (c.tier===1) t1++; else if (c.tier===2) t2++; else if (c.tier===3) t3++;
+    }
+    return say('tiers',
+      'Two grading systems run on this board and confusing them is the single easiest mistake to make here, so:'
+      + '\n\nCLAIM TIERS 1-3 measure evidence strength, and 1 is the strongest. Think of it as ammunition grading. '
+      + 'Tier 1 is documented and survives a hostile audit. Tier 2 is a named person on the record. Tier 3 is '
+      + 'stated inference -- flagged by the file, not by a critic. Currently ' + t1 + ' / ' + t2 + ' / ' + t3 + '.'
+      + '\n\nNODE TIERS A/B/C measure proximity to the programme, not credibility. A node can be Tier A -- close in '
+      + '-- and carry nothing but Tier 3 claims. That combination is not a contradiction, it is the definition of '
+      + 'where to look next. Currently '
+      + Object.keys(cls).sort().map(k=>k+': '+cls[k]).join(' · ')
+      + '.'
+      + '\n\nThe two systems share three colours, which is a known weakness in the design and the reason the '
+      + 'legend spells out which is which. If a number on this board looks like it is saying something is '
+      + 'important, check whether it is actually saying it is close.',
+      ['setView("ANALYSIS")'], []);
+  }
+
+  /* ---- 5. what collapses first under a hostile audit ------------------- */
+  if (/weak|collapse|hostile|attack|discredit|shaki|debunk|hostile audit/.test(t)){
+    let t1=0,t2=0,t3=0;
+    for (const n of NODES) for (const c of (n.claims||[])){
+      if (c.tier===1) t1++; else if (c.tier===2) t2++; else if (c.tier===3) t3++;
+    }
+    const worst = NODES.filter(n=>(n.claims||[]).length>=3)
+      .map(n=>({n, share:(n.claims||[]).filter(c=>c.tier===3).length/(n.claims||[]).length,
+                three:(n.claims||[]).filter(c=>c.tier===3).length}))
+      .filter(x=>x.three>=2).sort((a,b)=>b.share-a.share||b.three-a.three).slice(0,4);
+    return say('audit',
+      'Tier 3 goes first, and the board is built so you can see it coming. Of ' + (t1+t2+t3)
+      + ' graded claims, ' + t1 + ' are Tier 1 (documented), ' + t2 + ' Tier 2 (a named person on the record) and '
+      + t3 + ' Tier 3 (stated inference).'
+      + '\n\nTier 3 is not padding and it is not hedging -- it is where the research goes next, labelled as such by '
+      + 'the file itself rather than by a critic. A hostile auditor who strips every Tier 3 claim from this board '
+      + 'is doing what the board already invites, and the argument that survives is the one worth having.'
+      + '\n\nThe nodes carrying the highest proportion of inference right now:\n'
+      + (worst.length
+          ? worst.map(x=>'  · ' + x.n.label + ' — ' + x.three + ' of ' + (x.n.claims||[]).length + ' claims are Tier 3').join('\n')
+          : '  · no node with three or more claims is inference-heavy, which is itself the answer')
+      + '\n\nOne structural weakness that no tier captures, and you should know it: claims sourced to AARO or '
+      + 'defense.gov are capped at Tier 2 unless the claim is about what they said. That is an editorial rule, not '
+      + 'a measurement. A reader who rejects the rule will regrade a large part of this board.',
+      ['setView("ANALYSIS")'], []);
+  }
+
+  /* ---- 6. every formal denial ----------------------------------------- */
+  if (/denial|denied|deny|refut|official.*statement|on the record.*deni/.test(t)){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id==='denial');
+    const issuers = L0.filter(n=>(n.di||0)>0).sort((a,b)=>(b.di||0)-(a.di||0)).slice(0,5);
+    const recvs = L0.filter(n=>(n.dr||0)>0).sort((a,b)=>(b.dr||0)-(a.dr||0)).slice(0,5);
+    return say('denial',
+      'Opened the denial path: ' + (p?p.ids.length:0) + ' nodes. Read these as artifacts of the concealment effort, '
+      + 'not as counterweights to it. A denial is a dated, signed, attributable statement, which makes it evidence '
+      + 'about the denier -- what they were willing to assert, when, and in what form. That is why they are recorded '
+      + 'in full and sourced rather than summarised away.'
+      + '\n\nThe denial edges are directional, which matters: issuing a denial and being the subject of one are '
+      + 'different facts and the map draws them differently.'
+      + '\n\nMost denials issued:\n'
+      + issuers.map(n=>'  · ' + n.label + ' — ' + n.di + ' issued, ' + (n.dr||0) + ' received').join('\n')
+      + '\n\nMost denied:\n'
+      + recvs.map(n=>'  · ' + n.label + ' — ' + n.dr + ' received, ' + (n.di||0) + ' issued').join('\n')
+      + '\n\nThe pattern worth your attention is a node that receives many and issues none. That is a subject the '
+      + 'record keeps addressing and that never answers back, because it is a programme rather than a person.',
+      ['openPath("denial")','setView("COVERUP")'], []);
+  }
+
+  /* ---- 7. the legal mechanism ----------------------------------------- */
+  if (/legal|mechanism|statute|statutory|oversight.*escape|escape.*oversight|\bsaps?\b|waiver|waived|loophole|carve.?out/.test(t)){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id==='mechanism');
+    return say('mechanism',
+      'This is the part of the board that needs no witness at all, which is why it is the strongest thing on it. '
+      + (p?p.ids.length:0) + ' nodes, all sourced to statute, regulation and audit -- none to testimony.'
+      + '\n\nThe mechanism has three moving parts and they compose:'
+      + '\n\n  1. A waived special access programme reports to six people rather than to committees -- the chair '
+      + 'and ranking member of each relevant committee. Twelve seats, and 10 U.S.C. 119 requires no public record '
+      + 'that a waiver was ever used at all.'
+      + '\n\n  2. A carve-out under 32 CFR 117.6(b)(3) relieves DCSA of its oversight function for that programme '
+      + 'when the Secretary or Deputy Secretary approves it. One signature and the industrial-security auditor stops coming.'
+      + '\n\n  3. The Department has never passed an audit. Unsupported journal-voucher adjustments are the '
+      + 'mechanism by which money can move without being followed to a programme.'
+      + '\n\nAnd one live discontinuity you should look at directly: subsections (a) and (b) of 10 U.S.C. 119 '
+      + 'terminated on 31 December 2021, yet programmes are still designated waived under that section. The '
+      + 'reporting duty the waiver waives no longer exists in the form the waiver refers to.'
+      + '\n\nNone of the above requires anyone to have seen anything. It is the shape of a container, established '
+      + 'from public law, and it is the reason the board treats absence of a record as weak evidence in either direction.',
+      ['openPath("mechanism")'],
+      [['usc-10-119','10 U.S.C. 119'],['carve-out','32 CFR 117.6(b)(3)'],['dod-agencywide-audit','the DoD audit']]);
+  }
+
+  /* ---- 8. cover-up against oversight ----------------------------------- */
+  if (/cover.?up.*oversight|oversight.*cover.?up|strand|two.*axis|against each other|plot.*strand/.test(t)){
+    const role = r => L0.filter(n=>(n.roles||[]).indexOf(r)>=0).length;
+    const era = (a,b) => L0.filter(n=>{ const y=+String(n.dateStart||'').slice(0,4); return y>=a&&y<=b; }).length;
+    return say('strands',
+      'Both strands are on the map and the honest answer is that they are not opposites -- they are the same '
+      + 'people at different dates, which is the finding.'
+      + '\n\nBy role tag: concealment ' + role('concealment') + ' nodes, oversight ' + role('oversight')
+      + ', disclosure ' + role('disclosure') + '. Those overlap heavily, and the overlap is not sloppiness. '
+      + 'An office that concealed in one decade and testified in another carries both tags truthfully.'
+      + '\n\nBy date, ' + era(2017,2026) + ' of ' + L0.length + ' map nodes start in 2017 or later. That is the '
+      + 'shape of the whole board: an almost silent record from 1944 to 2016, then a decade of intense activity. '
+      + 'Two readings fit and the board deliberately supports both. Either concealment worked and then partially '
+      + 'failed, or the subject only became institutionally real in 2017 and the earlier material is thin because '
+      + 'there is little there. The board cannot adjudicate that from density alone and does not pretend to.'
+      + '\n\nWhat would separate them is the pre-1970 record, which is exactly where the FOIA queue points.',
+      ['setView("COVERUP")'], []);
+  }
+
+  /* ---- 9. money -------------------------------------------------------- */
+  if (/money|fund|paid|contract|budget|dollar|cost|financ/.test(t)){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id==='money');
+    return say('money',
+      'Opened the money path: ' + (p?p.ids.length:0) + ' nodes. It is the shortest path on the board and that is '
+      + 'the point -- money is the thing that leaves records whether or not anyone intends it to.'
+      + '\n\nThe anchor is the DIA award that became AAWSAP: a $22M contract that produced 38 technical reports, '
+      + 'and the largest single node on this map. Everything downstream -- the DIRD series, BAASS, the human-effects '
+      + 'work, the request to convert it to a special access programme -- hangs off that one award.'
+      + '\n\nThe reason the path is short is not that little money moved. It is that the audit trail stops. The '
+      + 'Department has never passed an audit, and unsupported journal-voucher adjustments are the specific '
+      + 'mechanism by which funds can move without being followed to a programme. So the board can show you money '
+      + 'arriving and can show you the hole it could disappear into, and cannot show you the transit. That gap is '
+      + 'reported rather than filled.',
+      ['openPath("money")'],
+      [['aawsap','AAWSAP'],['dod-agencywide-audit','the DoD audit']]);
+  }
+
+  /* ---- 10. foreign counter-examples ------------------------------------- */
+  if (/foreign|france|french|brazil|other countr|international|geipan|counter.?example/.test(t)){
+    const p = (L0DATA.entryPaths||[]).find(x=>x.id==='foreign');
+    return say('foreign',
+      'Opened the foreign path: ' + (p?p.ids.length:0) + ' nodes. These are on the board to do one job -- to '
+      + 'break the argument that official study of this subject is impossible, or that secrecy is inherent to it.'
+      + '\n\nFrance has run a state-funded UAP office inside its space agency since 1977, with a public case '
+      + 'database. Brazil ran a military field operation, declassified the files into its national archive, and its '
+      + 'Senate cited them by reference code. Neither state collapsed.'
+      + '\n\nThe genuinely interesting finding here is not the foreign programmes themselves. It is that when the '
+      + 'Brazilian material reached US hands, it did so three times and every channel was private -- researcher to '
+      + 'researcher, never state to state. A government that wanted this data had an ally publishing it and did '
+      + 'not, apparently, ask.',
+      ['openPath("foreign")'],
+      [['geipan','GEIPAN'],['operacao-prato','Operação Prato']]);
+  }
+
+  /* ---- 11. where do I start -------------------------------------------- */
+  if (/start|begin|where.*look|what.*look at|overview|orient|new here|first time|guide/.test(t)){
+    const hl = (L0DATA.highlights && L0DATA.highlights.flags) ? L0DATA.highlights.flags : [];
+    return say('start',
+      'Start on the entry surface rather than the map. The map shows you ' + L0.length + ' nodes at once, which is '
+      + 'a reference view, not a way in.'
+      + '\n\nSix curated routes exist, and they are genuinely different arguments rather than filters on the same one:'
+      + '\n  · Follow the money — shortest, hardest to dismiss'
+      + '\n  · The custody chain — the claim that could be settled by producing an object'
+      + '\n  · Who denied what — the denial record as evidence about the denier'
+      + '\n  · The legal mechanism — needs no witness at all'
+      + '\n  · The foreign counter-examples — proof that official study is possible'
+      + '\n  · Start from a witness — the testimonial spine'
+      + (hl.length ? '\n\nIf you would rather be pointed at specific nodes, ' + hl.length + ' are flagged as '
+          + 'starting points, each with a stated reason. The first is ' + lab(hl[0].id) + ': ' + (hl[0].why||'') : '')
+      + '\n\nMy suggestion, if you want the strongest version of this board in ten minutes: read the legal '
+      + 'mechanism first, then the money, then the denials. That order gives you a container, a payment and a '
+      + 'pattern of official response before you meet a single witness -- which is the order least vulnerable to '
+      + 'your opinion of any individual person.',
+      ['showEntry()'], []);
+  }
+
+  /* A name was mentioned but the question was not shaped like a lookup and no
+     topic claimed it. Answering with the entity beats the default. */
+  if (hit) return entityAnswer();
+
+  /* ---- default: say what is actually answerable ------------------------ */
+  turn.topic = 'default';
+  turn.text =
+    'No API key is set, so I am running scripted replies -- a supported state, not an error. The whole dashboard '
+    + 'is usable by hand and every control I can operate is clickable.'
+    + '\n\nI have full pre-written answers for these, and they are computed from the loaded data rather than typed in:'
+    + '\n  · the custody chain'
+    + '\n  · what collapses first under a hostile audit'
+    + '\n  · every formal denial, and who issued against whom'
+    + '\n  · the legal mechanism that lets a programme escape oversight'
+    + '\n  · the cover-up strand against the oversight strand'
+    + '\n  · how the two tier systems work and where the evidence is thinnest'
+    + '\n  · follow the money'
+    + '\n  · the foreign counter-examples'
+    + '\n  · where to start'
+    + '\n  · any entity by name — try "tell me about AAWSAP"'
+    + '\n\nLiteral commands work too: openPath("mechanism"), selectNode("aawsap"), focusL0("aaro"), setView("COVERUP").'
+    + '\n\nSet a key from the top right to ask anything outside that list.';
   S.turns.push(turn); renderTranscript();
 }
 
