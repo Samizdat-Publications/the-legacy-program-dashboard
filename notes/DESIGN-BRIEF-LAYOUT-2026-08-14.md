@@ -26,6 +26,36 @@ map entirely.
 you ship, run against a file that exists in the repo, and the two must agree.** If they
 disagree, say which is authoritative. This cost a full session to unpick.
 
+### CORRECTION, 14 Aug — and you were right to refuse
+
+The first version of this brief cited `data/the-program.json` and `data/l0-model.json`.
+Both **are** tracked and pushed, but they are 6.9MB and 5.7MB, and **GitHub's file read
+caps around 1MB**, so to anything reading the repo over the API they appear absent. You
+correctly reported that and declined to reproduce figures you could not read. That was
+the right call and the failure was mine — it is the same trap the original handoff
+recorded as its seventh build trap, and I did not carry it forward.
+
+Fixed: **`data/design-extract.json`, 122KB, 12% of the cap.** Built by
+`tools/build_design_extract.py`, derived at build time from both large files, carrying
+exactly what the layout work needs. Every figure in §2 below reproduces from it:
+
+```
+extract.distributions.era              the era histogram
+extract.distributions.roles            the function tags and their overlap
+extract.distributions.rolesPerNode     how many roles each node carries
+extract.distributions.cluster          why cluster is unusable
+extract.distributions.degree           min/median/max, at-floor, >=15
+extract.distributions.edgeTier         the finding that kills a tier-based edge budget
+extract.distributions.sharedMemberCounts   including the 18 that broke the tick vocabulary
+extract.l0[]                           110 nodes with era, roles, dateStart, coords,
+                                       members, mix, denial direction, whyImplicated
+extract.directEdges / extract.summarised   the full edge sets, compact
+extract.entryPaths                     the six ways in that now exist
+```
+
+If you need something not in the extract, say so and I will add it and push rather
+than have you work around a file you cannot open.
+
 ---
 
 ## 1. What the problem actually is
@@ -162,17 +192,31 @@ rest state needs to do, say so.
 
 ## 6. What you have access to
 
+**Readable over the API (under the 1MB cap):**
+
 ```
-data/l0-model.json      the map model: 110 nodes with baked coords, full dossiers,
-                        4,320 connection rows, the authority layer, both registers
-data/the-program.json   the full board (6MB+)
-tools/build_l0.py       the model + layout bake. Read the DEGREE section at the top.
-tools/l0_patches.py     the renderer, as injected JS/CSS
+data/design-extract.json   122KB -- START HERE. Everything in §2 reproduces from it.
+data/l0-extract.json       320KB -- the older board extract, still accurate for the
+                           full 968-node graph, but its `deg` field is the
+                           edge-instance count that caused the 107/96 error. Do not
+                           use it for degree.
+tools/build_design_extract.py   how the extract is derived. 
+tools/build_l0.py          the model + layout bake. Read the DEGREE section at the top.
+tools/l0_patches.py        the renderer, as injected JS/CSS
 notes/L0-IMPLEMENTATION-2026-08-13.md   everything done and every mistake made
 notes/ANALYST-PASS-2026-08-14.md        what the board found when an agent traversed it
 ```
 
-`dist/the-program.html` is 13MB and will not render on GitHub. Clone and open it.
+**Tracked and pushed but OVER the cap — you will not be able to read these over the
+API, and that is expected, not a missing file:**
+
+```
+data/the-program.json   6.9MB   the full board
+data/l0-model.json      5.7MB   the map model with full dossiers and 4,320 connection rows
+dist/the-program.html   13MB    the built dashboard
+```
+
+Clone the repo if you need them. Otherwise work from `design-extract.json`.
 
 ---
 
