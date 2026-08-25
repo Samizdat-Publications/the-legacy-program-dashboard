@@ -179,11 +179,30 @@ export function normaliseCurrent(dx) {
     members: Array.isArray(n.direct) ? n.direct : null,
     why: n.whyImplicated || '',
   }));
-  const direct = dx.directEdges.map(e => ({
-    a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
-    types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
-    dn: e.dn || [],                              /* backfilled 24 Aug */
-  }));
+  /* denialPairs carries the raw, UNSORTED ends of every denial link on the map,
+     plus `denier` where the record names who issued it. The generator used to
+     record only that the array was non-empty (see figures.denialDir) and never
+     joined it, so `dn` came out empty on every edge and the renderer fell back to
+     the aggregated a/b -- which is [a,b].sort(), i.e. alphabetical. That is how
+     22 of 47 denial arrowheads came to point the wrong way.
+     Join it here, and carry `denier` only when every underlying denial for the
+     pair agrees on one. Disagreement means unattested, not majority rule. */
+  const dnByPair = new Map();
+  for (const d of (dx.denialPairs || [])) {
+    const k = [d.a, d.b].sort().join('|');
+    if (!dnByPair.has(k)) dnByPair.set(k, []);
+    dnByPair.get(k).push(d);
+  }
+  const direct = dx.directEdges.map(e => {
+    const ds = dnByPair.get([e.a, e.b].sort().join('|')) || [];
+    const named = [...new Set(ds.map(d => d.denier).filter(Boolean))];
+    return {
+      a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
+      types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
+      dn: ds.map(d => [d.a, d.b]),
+      denier: (named.length === 1 && ds.every(d => d.denier)) ? named[0] : null,
+    };
+  });
   const summarised = dx.summarised.map(e => ({
     a: e.a, b: e.b, n: e.n, kind: 'shared', tier: e.tier,
     via: e.via && e.via.length ? e.via : null,   /* backfilled 24 Aug */
@@ -283,6 +302,13 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
          the pair key is sorted, so the issuer would otherwise be lost: `a`
          issued it, `b` is the subject. */
       dn: es.filter(e => e.t === 'denial').map(e => [e.a, e.b]),
+      /* Same rule as the current path: a/b is not a denier, so direction is
+         attested only where the record names one. */
+      denier: (() => {
+        const dn = es.filter(e => e.t === 'denial');
+        const named = [...new Set(dn.map(e => e.denier).filter(Boolean))];
+        return (dn.length && named.length === 1 && dn.every(e => e.denier)) ? named[0] : null;
+      })(),
     });
   }
 

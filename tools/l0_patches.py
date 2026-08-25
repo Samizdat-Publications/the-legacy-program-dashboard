@@ -143,6 +143,17 @@ const L0_CLS = {
    edge types' own dashes become selection-only. */
 const L0_TIER = { 1:{c:'#5ed4e6',d:[]}, 2:{c:'#efb555',d:[6,4]}, 3:{c:'#8d97a4',d:[2,3]} };
 const L0_LABEL_DROP = 0.62;      /* inherited LOD rule, unchanged */
+/* Denials, said only as strongly as the record allows. `di`/`dr` count only edges
+   that NAME their denier; `dnu` counts the rest. The board used to publish an
+   issued/received split derived from the edge's a/b order, which does not encode
+   who denied whom. See notes/DENIAL-DIRECTION-2026-08-26.md. Until `denier` is
+   authored, a denial is an undirected link and the board says so. */
+function l0Denials(n){
+  if ((n.di||0) + (n.dr||0) > 0) return 'denials ' + (n.di||0) + ' issued \u00b7 ' + (n.dr||0) + ' received';
+  const u = n.dnu || 0;
+  if (!u) return 'no denial links';
+  return u + ' denial link' + (u === 1 ? '' : 's') + ' \u00b7 direction not attested';
+}
 const L0_MARK = 13;              /* legacy point-cloud glyph. Still used by the
                                     FULL GRAPH fallback; the packed map draws chips. */
 /* ---- packed-cell palette -------------------------------------------------
@@ -441,15 +452,26 @@ function mountL0(host){
       ctx.fillStyle = t.c;
       ctx.fillText(label, cx, cy);
     }
-    /* D3: denial edges are the first asymmetric edge the engine has had.
-       Direction is the whole instrument — undirected, AARO's own historical
-       record and Grusch look alike; split, one is the heaviest issuer on the
-       board and the other is predominantly a recipient. */
-    if (!summarised && (e.types||[]).indexOf('denial') >= 0){
-      const ang = Math.atan2(y2-cy, x2-cx);
-      const hx = x2 - Math.cos(ang)*10, hy = y2 - Math.sin(ang)*10;
+    /* D3: denial edges are the first asymmetric edge the engine has had, and
+       direction is the whole instrument. Undirected, AARO's own historical record
+       and Grusch look alike.
+
+       Which is exactly why it may not be guessed. This head used to draw on EVERY
+       denial edge, pointing at `e.b`, where a/b comes from [a,b].sort() in the
+       generator. Alphabetical order. It disagreed with the board's own records on
+       22 of 47, and the records do not carry a consistent issuer-first convention
+       either. So the head now draws only where an edge NAMES its denier, and it
+       points at the OTHER end, the subject. No edge names one yet, so none draw.
+       Author `denier` and the instrument comes back. */
+    const dnr = e.denier;
+    if (!summarised && (e.types||[]).indexOf('denial') >= 0 && dnr &&
+        (dnr === e.a || dnr === e.b)){
+      const tx = dnr === e.a ? x2 : x1, ty = dnr === e.a ? y2 : y1;
+      const fx = dnr === e.a ? cx : x2, fy = dnr === e.a ? cy : y2;
+      const ang = Math.atan2(ty-fy, tx-fx);
+      const hx = tx - Math.cos(ang)*10, hy = ty - Math.sin(ang)*10;
       ctx.beginPath();
-      ctx.moveTo(x2 - Math.cos(ang)*11*view.k, y2 - Math.sin(ang)*11*view.k);
+      ctx.moveTo(tx - Math.cos(ang)*11*view.k, ty - Math.sin(ang)*11*view.k);
       ctx.lineTo(hx - Math.sin(ang)*3.2, hy + Math.cos(ang)*3.2);
       ctx.lineTo(hx + Math.sin(ang)*3.2, hy - Math.cos(ang)*3.2);
       ctx.closePath(); ctx.fill();
@@ -582,7 +604,7 @@ function mountL0(host){
         + '<span class="x" data-close="'+esc(id)+'">&times;</span></div>'
         + '<div class="l0sum"><b>'+mem+'</b> members · <b>'+n.deg+'</b> links · <b>'
         + n.claims+'</b> claims, <b>'+n.t1+'</b> tier 1<br>'
-        + 'denials <span class="di">'+n.di+' issued</span> · '+n.dr+' received</div>'
+        + esc(l0Denials(n))+'</div>'
         + '<div class="l0body">';
       const groups = {};
       for (const m of n.direct){
@@ -667,7 +689,7 @@ function mountL0(host){
     t.innerHTML = '<b>'+esc(n.cls.toUpperCase())+' · '+esc(n.label)+'</b><br>'
       + mem + ' members' + (mix ? ' — '+esc(mix) : '') + '<br>'
       + 'degree '+n.deg+' · '+n.claims+' claims, '+n.t1+' tier 1<br>'
-      + 'denials '+n.di+' issued · '+n.dr+' received<br>'
+      + esc(l0Denials(n))+'<br>'
       + '<span class="act">' + (mem >= 2
           ? 'click opens the member ledger'
           : 'click refused — '+mem+' member, no aggregate') + '</span>';
@@ -1302,7 +1324,10 @@ function renderAuthority(id){
     + '<span class="ins">' + a.instruments.map(esc).join(' · ') + '</span>'
     + (thin ? '<span class="thin">Public UAP record: '
         + (p.connections||0) + ' connection(s), ' + (p.denialsIssued||0)
-        + ' denial(s) issued. This office could answer from position alone, and the '
+        + ' denial(s) issued on the record'
+        + ((p.denialsUndirected||0) ? ' and ' + p.denialsUndirected
+             + ' denial link(s) whose direction is not attested' : '')
+        + '. This office could answer from position alone, and the '
         + 'record is nearly empty. That absence is the finding, not a low score.</span>' : '')
     + '</div>';
 }

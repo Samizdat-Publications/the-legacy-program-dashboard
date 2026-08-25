@@ -1018,6 +1018,47 @@ def _dz_deterministic(b, html):
     return bad[:40]
 
 
+@check("denial direction is published only where the record names a denier")
+def _dz_denier(b, html):
+    """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
+
+    `motion is attested, not decorative` above guards the FLAGS -- that a denial is
+    marked as one, and that no second motion flag exists. It says nothing about the
+    direction, which is the actual claim the arrowhead makes, and it passed happily
+    for the whole of the first build while the head was drawn at `e.b` where a/b is
+    [a,b].sort(). Alphabetical order rendered as a statement about who denied whom.
+
+    The board's raw records do not carry a consistent issuer-first convention
+    either, so direction is attested ONLY where an edge names its denier. See
+    notes/DENIAL-DIRECTION-2026-08-26.md.
+
+    Asserts: a published `denier` is one of the edge's own ends, and it is named by
+    at least one of the underlying denial records the edge rolls up. An edge with no
+    denier is fine and is the current state of every one of them."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        for e in d.get("edges") or []:
+            dnr = e.get("denier")
+            if dnr is None:
+                continue
+            if not e.get("denial"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names a denier but is "
+                           f"not marked as a denial")
+                continue
+            if dnr not in (e.get("a"), e.get("b")):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
+                           f"which is not one of its own ends")
+                continue
+            pairs = e.get("dn") or []
+            if pairs and not any(dnr in p for p in pairs):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
+                           f"which appears in none of its {len(pairs)} denial record(s)")
+    return bad
+
+
 @check("motion is attested, not decorative")
 def _dz_motion(b, html):
     """Design: `motion_only_where_attested`. Must reject a time-direction flow on
@@ -1516,6 +1557,11 @@ def self_test():
         # a time-direction flow on every line
         "motion is attested, not decorative":
             lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
+        # a denier invented for an edge, naming a node that is not even on it --
+        # which is what publishing a direction derived from [a,b].sort() amounts to
+        "denial direction is published only where the record names a denier":
+            lay(lambda m: [e.update(denier="not-an-end-of-this-edge")
+                           for e in m["current"]["edges"] if e.get("denial")]),
         # a flag naming an id the floor excluded
         "highlights are a pointer, not a promotion":
             lay(lambda m: m["current"]["highlights"]["flags"].append(

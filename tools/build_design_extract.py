@@ -120,7 +120,11 @@ def main():
                        for e in m["summarised"]],
         # row 5: aggregating a pair loses which end issued the denial, and motion
         # may only carry attested direction, so the pairs are carried separately
+        # `denier` names which end issued it. a/b does NOT encode that -- see
+        # notes/DENIAL-DIRECTION-2026-08-26.md -- so it is carried explicitly or
+        # not at all, and the arrowhead stays off until it is authored.
         "denialPairs": [{"a": e["a"], "b": e["b"], "tier": e["claimTier"],
+                         "denier": e.get("denier"),
                          "label": e.get("label") or ""}
                         for e in b["edges"] if e["type"] == "denial"
                         and e["a"] in {x["id"] for x in m["l0"]}
