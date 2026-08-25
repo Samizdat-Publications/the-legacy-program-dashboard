@@ -4974,20 +4974,6 @@
  "entityInfo": {
   "domain": "w2-international",
   "scope": "The non-US governmental record: the United Kingdom, France, Brazil, Chile, Canada, the USSR/Russia, Spain, Japan, Argentina and Peru, 1950-August 2026, and the 2025-2026 propagation of the American disclosure wave into allied governments.",
-  "coreDocuments": [
-   "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00), UK MoD, 2000, released 15 May 2006",
-   "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA), July 1999",
-   "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, Brazil, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, declassified 25 September 2009",
-   "Management of Public Reporting of Unidentified Aerial Phenomena in Canada, Office of the Chief Science Advisor of Canada, June 2025",
-   "Wilbert B. Smith, 'Geo-Magnetics', Department of Transport, 21 November 1950, and the Project Magnet report, 1952",
-   "'French Government UFO Study', document in the US National Security Agency declassified UFO document collection, on GEPAN's June 1978 report"
-  ],
-  "archives": [
-   "The National Archives, Kew: DEFE 24, DEFE 31, AIR 2, AIR 20, PREM 11/855",
-   "Arquivo Nacional, Brazil: SIAN image server, BR_DFANBSB_ARX series",
-   "Library and Archives Canada: RG 24 acc. 83-84/167 box 7523 file DRBS 3800-10-1 pt.1; RG 24 vol. 17984 file S-940-5 pts.1-2 reel T-3291; RG 77 reels T-1741 to T-1744; over 15,000 pages, c.9,500 digitised",
-   "GEIPAN case database, geipan.fr; SEFAA resolved-case archive, sefaa.dgac.gob.cl"
-  ],
   "throughLine": "Every national record on this board contains the same two moves in sequence: a classified assessment that the objects are real and structured, and an official recommendation to stop looking. Britain's Condign said UAP 'regularly appear in the UKADR' and then recommended DI55 stop monitoring them. Canada's Project Magnet said the vehicles were 'probably extra-terrestrial' and recommended acquiring the technology, and was defunded two years later. Brazil's Air Defence Command said the phenomena were 'solid and reflect intelligence' and classified the finding for twenty-three years. The USSR ran two programmes and gave as a reason for their secrecy that the characteristics might be militarily exploitable. Only France and Chile built offices that publish, and in June 2025 the Government of Canada named those two - and the American AARO - as the only models worth copying.",
   "counts": {
    "people": 19,
@@ -5012,5 +4998,20 @@
   "No NATO institutional position on UAP was located. The alliance appears in this record only indirectly, through Condign's reference to 'other NATO nations' and through the bilateral behaviour of member states. Whether NATO has ever issued guidance, and whether the subject has appeared in a NAC or Military Committee document, is unanswered.",
   "The exact CEFAA case reference and the Chilean Navy's own report on the November 2014 helicopter FLIR case were not located; the account here rests on January 2017 press reporting. SEFAA's resolved-case archive should be searched for the file.",
   "Whether the Government of Canada has designated a lead department in response to the Sky Canada Project's June 2025 recommendations, as at August 2026, is unestablished."
- ]
+ ],
+ "_coreDocuments": [
+  "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00), UK MoD, 2000, released 15 May 2006",
+  "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA), July 1999",
+  "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, Brazil, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, declassified 25 September 2009",
+  "Management of Public Reporting of Unidentified Aerial Phenomena in Canada, Office of the Chief Science Advisor of Canada, June 2025",
+  "Wilbert B. Smith, 'Geo-Magnetics', Department of Transport, 21 November 1950, and the Project Magnet report, 1952",
+  "'French Government UFO Study', document in the US National Security Agency declassified UFO document collection, on GEPAN's June 1978 report"
+ ],
+ "_archives": [
+  "The National Archives, Kew: DEFE 24, DEFE 31, AIR 2, AIR 20, PREM 11/855",
+  "Arquivo Nacional, Brazil: SIAN image server, BR_DFANBSB_ARX series",
+  "Library and Archives Canada: RG 24 acc. 83-84/167 box 7523 file DRBS 3800-10-1 pt.1; RG 24 vol. 17984 file S-940-5 pts.1-2 reel T-3291; RG 77 reels T-1741 to T-1744; over 15,000 pages, c.9,500 digitised",
+  "GEIPAN case database, geipan.fr; SEFAA resolved-case archive, sefaa.dgac.gob.cl"
+ ],
+ "_why_moved": "keyFindings, coreDocuments and archives were written under `entityInfo`, which merge.py reads as {entityId: {desc, sources}}. A list keyed by a section name is not an entity record, so all three were rejected on every build since they were written -- silently, because nothing read tools/REJECTS.json. They are research notes, not node content, so they are moved to underscore-prefixed keys here: merge ignores those, the notes stay in the file, and the reject list goes clean. Moved 25 August 2026."
 }

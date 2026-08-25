@@ -748,7 +748,9 @@ def measure(b):
 # ---------------------------------------------------------------------------
 
 LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
+REJECTS = os.path.join(ROOT, "tools", "REJECTS.json")
 _LAYOUT_OVERRIDE = None
+_REJECTS_OVERRIDE = None
 
 
 def _layout():
@@ -1065,6 +1067,42 @@ def _dz_read_cap(b, html):
                 f"read as ABSENT over the GitHub API, which is the failure this file exists "
                 f"to avoid"]
     return []
+
+
+@check("no research record is silently dropped")
+def _no_rejects(b, html):
+    """merge.py writes every record it could not place to tools/REJECTS.json with a
+    reason, and until 25 August NOTHING READ THAT FILE. The build exited 0, the gate
+    passed, and the dropped research simply was not on the board.
+
+    What that cost, discovered by looking: research/w11-statutory.json carried four
+    entity records whose `cls` values were 'provision', 'statute' and 'mechanism' --
+    none of which are in VALID_CLS. All four were rejected on every build since they
+    were written, taking 30 claims with them, 26 of which reached the board by no
+    other route. Among them the verbatim text of the 10 U.S.C. 119(e)(1) waiver
+    authority, the DoDI 5205.11 paragraphs cutting professional staff out of waived
+    programs, and the finding that the waiver has been exercised and the Department
+    says so in a currently effective instruction. Two of the four nodes are
+    start-here flags -- the first things the board tells a stranger to read.
+
+    A typo in one field, no error anywhere, and the most load-bearing statutory
+    research on the board was absent for weeks.
+
+    This asserts the reject list is empty. If a record genuinely cannot be placed and
+    that is correct, fix the record or move it out of the merged keys -- do not add an
+    accepted-rejects list, because the next silent drop will hide inside it."""
+    if _REJECTS_OVERRIDE is not None:
+        rej = _REJECTS_OVERRIDE
+    elif not os.path.exists(REJECTS):
+        return []
+    else:
+        with open(REJECTS, encoding="utf-8") as fh:
+            try:
+                rej = json.load(fh)
+            except ValueError:
+                return ["tools/REJECTS.json is unparseable"]
+    return [f"merge dropped {r.get('kind')} {r.get('id')!r}: {r.get('why')}"
+            for r in rej][:40]
 
 
 @check("counts match the golden manifest")
@@ -1393,6 +1431,13 @@ def self_test():
                 n["restEdges"] = 0    # clause 1 without clause 2
                 return
 
+    # The reject list is a build product too, and the check that reads it needs to be
+    # shown failing for the same reason every other check does.
+    poison_rejects = {
+        "no research record is silently dropped":
+            [{"kind": "entity", "id": "usc-10-119", "why": "bad cls 'statute'"}],
+    }
+
     poison_layout = {} if _real is None else {
         # a model baked from the extract's `deg` field, which counts edge INSTANCES
         "L0 degree is distinct neighbours, not edge instances":
@@ -1440,6 +1485,15 @@ def self_test():
             finally:
                 os.environ.pop("BREAK", None)
             clean = fn(base, good_html)
+        elif name in poison_rejects:
+            global _REJECTS_OVERRIDE
+            _REJECTS_OVERRIDE = poison_rejects[name]
+            try:
+                caught = fn(base, good_html)
+            finally:
+                _REJECTS_OVERRIDE = []
+            clean = fn(base, good_html)
+            _REJECTS_OVERRIDE = None
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE
             lb = _real_board if _real_board is not None else base

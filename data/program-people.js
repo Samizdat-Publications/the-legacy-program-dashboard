@@ -28,7 +28,7 @@ export const PEOPLE = [
     domains: ['d-funding', 'd-oversight', 'd-legislative', 'd-records'],
     narrative: 'Reid is the appropriator who created the funded lineage and then tried to seal it. As Majority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget for what became AAWSAP at DIA — AARO\'s own 2024 report states flatly that \'at the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA.\' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 2009. On 24 June 2009 he wrote to Deputy Secretary of Defense William Lynn III requesting that portions of what he called the \'Advanced Aerospace Threat and Identification Program\' be placed in a Restricted Special Access Program with a bigoted access list, protecting methodologies for identifying and engineering advanced technologies, personnel and oversight details, and the involvement of private contractors and industry partners. That letter is the most important single document in this domain because it establishes that the Senate Majority Leader believed the program was producing something warranting SAP protection with a compartmented access list. DoD refused. Reid later said publicly that $22 million was not enough and that failing to study the subject would be malpractice, and called the program one of the good things he did in his congressional service. He died 28 December 2021.',
     affiliations: ['US Senate (1987-2017)', 'Senate Majority Leader (2007-2015)', 'U.S. Senate, Nevada (1987-2017)'],
-    tierRationale: 'Re-graded A on a global pass (rank 32 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 34 of 956, score 90). 17 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     chronology: [
       {
         date: '2007-01-01',
@@ -854,7 +854,7 @@ export const PEOPLE = [
       'DIA AAWSAP/AATIP DIRD author (2008-2010)',
       'The Aerospace Corporation (by 2020)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 24 of 956, score 102). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 25 of 956, score 102). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     chronology: [
       { date: '1996-01-01', event: 'Joins NIDS as a scientist under Bigelow', precision: 'year' },
       { date: '1996-01-01', event: 'Works with NIDS as a staff scientist under Bigelow.', precision: 'year' },
@@ -4221,7 +4221,7 @@ export const PEOPLE = [
       'Office of the Secretary of Defense, public affairs',
       'Office of the Secretary of Defense, Public Affairs'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 35 of 956, score 84). 14 connections, 0 of them custody/witness/funding/programmatic, 8 official denials recorded against it. Axes C0/A1/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 36 of 956, score 84). 14 connections, 0 of them custody/witness/funding/programmatic, 8 official denials recorded against it. Axes C0/A1/D1.',
     chronology: [
       {
         date: '2017-10-01',
@@ -4443,7 +4443,7 @@ export const PEOPLE = [
       'All-domain Anomaly Resolution Office',
       'formerly National Security Agency Research Directorate'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 36 of 956, score 84). 10 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 37 of 956, score 84). 10 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D2.',
     chronology: [
       { date: '2024-08-26', event: 'Named AARO\'s full-time director', precision: 'day' },
       { date: '2024-08-26', event: 'DoD announces Kosloski as AARO Director', precision: 'day' },
@@ -8437,7 +8437,7 @@ export const PEOPLE = [
       'House Committee on Oversight and Accountability',
       'US House of Representatives (TN-2)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 74 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 75 of 956, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2023-03-11',
@@ -8775,7 +8775,7 @@ export const PEOPLE = [
       'WEAPONIZED podcast, co-host with Jeremy Corbell',
       'Bigelow Aerospace Advanced Space Studies / BAASS, consultant (2008-2010)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 28 of 956, score 93). 18 connections, 10 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 30 of 956, score 93). 18 connections, 10 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       { date: '1989', event: 'Breaks the Bob Lazar S-4 reverse-engineering story on KLAS-TV', precision: 'year' },
       {
@@ -10941,7 +10941,7 @@ export const PEOPLE = [
       'US House of Representatives',
       'House Committee on Oversight and Government Reform'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 22 of 956, score 103). 29 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 23 of 956, score 103). 29 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     chronology: [
       {
         date: '2023-07-26',
