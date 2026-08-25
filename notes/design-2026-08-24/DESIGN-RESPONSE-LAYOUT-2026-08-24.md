@@ -70,14 +70,28 @@ scoring — ordering bands by measured mean C puts reverse-engineering at 2.50 a
 disclosure at 0.71 without being told to. That is the validation, and it needs C/A/D in
 the extract to run on current data.
 
-**⚠ One fragility, found by running both datasets.** Two tags with near-equal counts can
-swap rarity rank between research passes and take every node carrying both with them.
-`oversight` (68) and `disclosure` (74) are 8% apart on the current board and **inverted**
-from the legacy one, which moves fourteen nodes between two bands. The generator now emits
-every adjacent pair within 10% (`figures.rarityTies`) and the comp names them. The rule is
-still right; the near-ties need watching. If you want the partition pinned rather than
-re-derived, pin the rank order explicitly and treat a change to it as a deliberate
-decision — but then say so in the config, because a pinned order is a different rule.
+**⚠ One fragility, found by running both datasets — now handled.** Two tags with
+near-equal counts can swap rarity rank between research passes and take every node
+carrying both with them. `oversight` (68) and `disclosure` (74) are 8% apart on the
+current board and **inverted** on the legacy one, which moves fourteen nodes between two
+bands.
+
+**Answer to "pin the rank or let it re-derive?": neither, quite. Pin it AND recompute it,
+and report the disagreement instead of obeying it.**
+
+Pure re-derivation is unsafe now that position carries information — six tags landing in a
+research pass would silently relocate fourteen nodes, and a reader who saw the map last
+month would have no way to see that it happened. Pure pinning is also unsafe: it goes stale
+and stops describing the board. So `RARITY_PIN` in the generator is the rule, the observed
+order is recomputed every run, and `figures.rarityDrift` reports every disagreement. Moving
+a node between bands becomes a decision someone makes with a diff in front of them. Same
+discipline that caught 107-vs-96: state the invariant, make the violation loud.
+
+Pinned 24 August against `design-extract.json`. Current data: **zero drift**. Legacy data:
+**reports the oversight/disclosure inversion** rather than acting on it — which is the check
+working, not failing. Re-pin deliberately; do not edit the constant to silence a warning.
+Three adjacent pairs were within 10% at pin time (research/custody, oversight/disclosure,
+disclosure/concealment) and are the ones to watch.
 
 **2 · What happens to a node that spans eras?**
 It sits at its start, and the span is not drawn. On the legacy board only 40 of 96 nodes
@@ -317,6 +331,7 @@ A check that has never failed is indistinguishable from a broken one.
 | `absent_prints_as_absent` | undated nodes sit in a labelled `NO DATE` column; nodes with no L0-level link carry `×` | placing an undated node in an era column; an `isolated` count dropping to 0 without those nodes gaining a real edge |
 | `no_size_channel` | every chip is 205×20 | any model where the set of distinct chip widths or heights has more than one member |
 | `layout_is_deterministic` | two runs over identical inputs give byte-identical positions | a re-introduced force pass |
+| `rarity_order_matches_the_pin` | the rank the board's tag counts imply equals `RARITY_PIN` | a research pass that inverts a near-tie — legacy data drifts on oversight/disclosure and the check fires |
 | `motion_only_where_attested` | a path carries a particle only if it is a denial or belongs to the selected node | a time-direction flow on every line |
 | `highlights_are_a_pointer` | flags name ids on the map, stay under 15%, and change no channel that means credibility | a flag naming an id the floor excluded; flagging more than 16 of 110 |
 | `model_under_read_cap` | the emitted model is under ~1MB | the thing this whole correction was about — the generator exits non-zero |
@@ -325,20 +340,27 @@ A check that has never failed is indistinguishable from a broken one.
 
 ## 6. What I could not settle
 
-- **Whether this can be a patch.** This is a comp against the model, not a patch against
-  `tools/l0_patches.py`. Whether a packed-cell layout can be expressed as a named patch on
-  the parent board's canvas renderer — which draws from x/y and knows nothing about cells
-  — is the cost question in §4.1 of the parent brief and I cannot answer it from here.
-  **This is the one open item that could change the whole approach.**
+- **Whether this can be a patch.** ✅ **Answered by the implementation session: `mountL0` is
+  theirs end to end, so this is not a patch against the parent renderer and §4.1 of the
+  parent brief does not bind it.** The packed-cell layout can be built directly. This was
+  the one open item that could have changed the approach; it does not.
 - **The date axis rests on merge precedence, not on me.** On the legacy corpus 21 ids
   carried conflicting `dateStart` values, 14 on the map, and exactly **one** changed an era
   column — `yankee-blue`, dated to both 1980 and 2023, marked `?` on the chip. If
   `merge.py`'s precedence rule is not the one the axis should follow, the axis is wrong for
   that node and no layout fixes it.
-- **Two of the eight bands barely fill.** `concealment` is never any node's rarest tag and
-  draws no row; `disclosure` draws 3 on current data. I read that as the structure showing
-  up in the layout rather than a fault, but it is a judgement and you may want a band
-  promoted by hand.
+- **Two of the eight bands are residuals, and that is now labelled.** A tag claimed by more
+  than half the map can only win when a node carries nothing rarer, so its population is a
+  **residual rather than a category**. `concealment` (79) never wins and draws no row;
+  `disclosure` (74) draws 3; `oversight` (68) draws 17. So `disclosure` at 3 is not a
+  finding about disclosure's role on this board — it is a mechanical consequence of being
+  the second-most-universal tag. **Accept it, do not promote a band by hand.** The gutter
+  now marks both rows `residual`, which is the difference between a thin row that is honest
+  and a thin row that looks broken. Merging them would be worse: `oversight` at 13 of 17 in
+  the last decade is the 79-year gap made visible, and collapsing it into a shared residual
+  row destroys the strongest thing the layout says. Note also that whether a node lands in
+  oversight or disclosure is *exactly* what the 68/74 near-tie governs — the pin above is
+  what makes that population stable and explainable rather than accidental.
 - **The entry surface may want to own the rest state.** With six curated paths returning 7
   to 38 nodes each, the honest default may be no map at all until a path is chosen — in
   which case this budget is what the map falls back to when a path is *cleared*, not what a

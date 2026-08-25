@@ -999,7 +999,8 @@ class Component extends DCLogic {
     const bandRows = M.bands.map((b, i) => ({
       y: b.y, h: b.h, name: BANDLBL[b.id] || b.id, n: b.n,
       // mean C where the axis exists; otherwise say what the order actually is
-      meanC: b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2),
+      meanC: (b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2)) +
+        (b.residual ? ' · residual' : ''),
       bg: i % 2 ? '#0f1216' : '#101419',
       fg: sel && sel.band === b.id ? '#5ed4e6' : '#8d97a4',
     }));
@@ -1070,7 +1071,10 @@ class Component extends DCLogic {
           : 'Band order here falls back to rarity because this source carries no C/A/D — see the four fields in §00. ')
           + f.roleTags + ' tags across ' + f.l0 + ' nodes, mean ' + f.roleTagsPerNode +
           '. Concealment is claimed by ' + M.rarity.concealment + ' and is therefore never a band: it is the field, not a row.' +
-          ((f.rarityTies || []).length ? ' Watch the near-ties: ' + f.rarityTies.map(t => t[0] + ' ' + t[1] + '/' + t[2] + ' ' + t[3]).join(', ') + '. A pair within 10% can swap rank between research passes and take every node carrying both with it — which is exactly what oversight and disclosure did between these two datasets.' : '') },
+          ((f.rarityTies || []).length ? ' Near-ties: ' + f.rarityTies.map(t => t[0] + ' ' + t[1] + '/' + t[2] + ' ' + t[3]).join(', ') + '. A pair within 10% can swap rank between research passes and take every node carrying both with it, so the order is pinned (' + (f.rarityPinDate || '') + ') and recomputed every run: ' +
+            ((f.rarityDrift || []).length
+              ? 'this dataset DRIFTS from the pin — ' + f.rarityDrift.map(d => d.tag + ' observed ' + d.observedRank + ', pinned ' + d.pinnedRank).join('; ') + '. The pin holds and the drift is reported, so no node moves row without someone deciding it should.'
+              : 'this dataset agrees with the pin.') : '') },
       { q: '2 · What happens to a node that spans eras?',
         a: 'It sits at its start, and the span is not drawn. ' + (f.withEnd
           ? 'Only ' + f.withEnd + ' of ' + f.l0 + ' nodes carry a dateEnd and only ' + f.withRealSpan + ' of those are longer than a year, so an extent channel would be absent for two thirds of the map and would print an absent end date as a closed one.'
@@ -1105,6 +1109,9 @@ class Component extends DCLogic {
       { name: 'highlights_are_a_pointer_not_a_tier',
         asserts: 'Flags name ids that are on the map, stay under ' + 15 + '% of it, and change no channel that means credibility.',
         rejects: 'a highlights file naming an id the floor excluded, or flagging more than ' + Math.round(f.l0 * 0.15) + ' of ' + f.l0 + ' nodes — a pointer at everything points at nothing.' },
+      { name: 'rarity_order_matches_the_pin',
+        asserts: 'The rarity rank the board\'s own tag counts imply equals the pinned order in the generator.',
+        rejects: 'a research pass that inverts a near-tie — ' + (f.rarityDrift || []).length + ' tag(s) drift on this dataset, which is the check firing rather than failing to. Silently obeying the new order would relocate every node carrying both tags with nothing on the page to show it happened.' },
       { name: 'no_size_channel', asserts: 'Every chip is 205×20. Degree changes packing order inside a cell and nothing else.',
         rejects: 'any model where the set of distinct chip widths or heights has more than one member.' },
       { name: 'layout_is_deterministic', asserts: 'Two runs over identical inputs give byte-identical positions; no random, no physics, no wall clamp.',
