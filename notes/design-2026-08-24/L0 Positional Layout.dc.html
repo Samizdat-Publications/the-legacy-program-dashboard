@@ -1,0 +1,1311 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  html,body{margin:0;padding:0;background:#0f1216}
+  *{box-sizing:border-box}
+  a{color:#5ed4e6;text-decoration:none;border-bottom:1px solid #1d242b}
+  a:hover{color:#e6e9ee;border-bottom-color:#333c47}
+  ::selection{background:#1a2027;color:#e6e9ee}
+  @keyframes l0breathChip{
+    0%,64%,100%{outline-color:rgba(239,181,85,0);box-shadow:none}
+    12%,40%{outline-color:rgba(239,181,85,.95);box-shadow:0 0 0 4px rgba(239,181,85,.06)}}
+  @keyframes l0breathCell{0%,64%,100%{opacity:0}12%,40%{opacity:1}}
+  @keyframes l0once{0%{outline-color:rgba(239,181,85,0)}22%{outline-color:rgba(239,181,85,1)}100%{outline-color:rgba(239,181,85,.8)}}
+  @keyframes l0cellonce{0%{opacity:0}100%{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style>
+<script src="data/l0-layout-model.js"></script>
+</helmet>
+
+<div style="background:#0f1216;color:#e6e9ee;font-family:'IBM Plex Mono',ui-monospace,monospace;min-height:100vh;font-size:12px;line-height:1.55">
+
+  <div style="display:flex;justify-content:space-between;align-items:flex-end;gap:24px;padding:20px 26px 16px;border-bottom:1px solid #262e36">
+    <div>
+      <div style="font-size:14px;font-weight:600;letter-spacing:.01em">L0 PROGRAM MAP <span style="color:#4f5964">/</span> POSITIONAL LAYOUT</div>
+      <div style="font-size:9px;letter-spacing:.14em;color:#5ed4e6;margin-top:5px">DESIGN RESPONSE &middot; BRIEF OF 14 AUGUST 2026 &middot; SECTIONS A AND B</div>
+    </div>
+    <div style="text-align:right;font-size:8.5px;letter-spacing:.11em;color:#5c6672;line-height:1.7">
+      <div>GENERATOR tools/build_l0_layout.mjs</div>
+      <div>MODEL data/l0-layout-model.json &middot; BAKED {{ gen }}</div>
+      <div>{{ fig.l0 }} NODES &middot; {{ fig.restDrawn }} EDGES AT REST &middot; NO PHYSICS</div>
+    </div>
+  </div>
+
+  <section style="padding:20px 26px 24px;border-bottom:1px solid #1d242b;background:#0d1014">
+    <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase;margin-bottom:10px">00 &middot; Reproduction receipt &mdash; corrected 24 August</div>
+    <div style="max-width:104ch;color:#b9c2cd">This section previously said the brief cited files that were not in the repo. That was wrong, and the correction matters more than the original claim. Both files are tracked and pushed &mdash; <span style="color:#b9c2cd">the-program.json</span> at 6.9MB and <span style="color:#b9c2cd">l0-model.json</span> at 5.7MB &mdash; and the read API caps around 1MB, so they came back as absent rather than as too large. The brief&rsquo;s figures were reproducible the whole time. An unreadable file is not a missing one, and a reader that cannot tell the difference will report the wrong fault confidently.</div>
+    <div style="max-width:104ch;color:#b9c2cd;margin-top:9px"><span style="color:#5ed4e6">data/design-extract.json</span> now exists to be readable: 122KB, and every figure in the brief reproduces from it. This page runs on it by default and every number below is read from the generator&rsquo;s output. One trap survives and is worth restating: <span style="color:#b9c2cd">data/l0-extract.json</span> is readable and accurate for the graph, but its <span style="color:#efb555">deg</span> field is an edge-instance count, and using it moves the L0 set from 96 to 107. Degree here is always recomputed from distinct neighbours.</div>
+
+    <div style="display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:14px">
+      <div style="display:flex;gap:0">
+        <sc-for list="{{ dsOpts }}" as="d" hint-placeholder-count="2">
+          <div onClick="{{ d.pick }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ d.bc }};border-left-width:{{ d.blw }};color:{{ d.fg }};background:{{ d.bg }}">{{ d.label }}</div>
+        </sc-for>
+      </div>
+      <div style="font-size:9.5px;color:#8d97a4">{{ dsLabel }} &mdash; <span style="color:#5c6672">{{ dsNote }}</span></div>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:#1d242b;border:1px solid #1d242b;margin-top:16px">
+      <sc-for list="{{ receipt }}" as="r" hint-placeholder-count="4">
+        <div style="background:#12171d;padding:11px 13px">
+          <div style="display:flex;justify-content:space-between;gap:8px;align-items:baseline">
+            <div style="font-size:8.5px;letter-spacing:.12em;color:#5c6672">{{ r.label }}</div>
+            <div style="font-size:7.5px;letter-spacing:.11em;color:{{ r.verdictFg }}">{{ r.verdict }}</div>
+          </div>
+          <div style="display:flex;gap:14px;align-items:baseline;margin-top:7px">
+            <div>
+              <div style="font-size:7.5px;letter-spacing:.1em;color:#4f5964">BRIEF SAID</div>
+              <div style="font-size:15px;color:{{ r.briefFg }};text-decoration:{{ r.briefDeco }};text-decoration-color:#3b444f">{{ r.brief }}</div>
+            </div>
+            <div>
+              <div style="font-size:7.5px;letter-spacing:.1em;color:#4f5964">THIS RUN</div>
+              <div style="font-size:15px;color:{{ r.nowFg }}">{{ r.now }}</div>
+            </div>
+          </div>
+          <div style="font-size:9px;color:#8d97a4;margin-top:7px;line-height:1.5">{{ r.note }}</div>
+        </div>
+      </sc-for>
+    </div>
+    <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase;margin-top:20px;margin-bottom:9px">Backfill queue &mdash; fields the design reads that the extract does not yet carry</div>
+    <div style="max-width:104ch;color:#8d97a4;font-size:11px">Each row is a task, not a complaint: what to pull, where from, and what the design cannot say until it lands. Switch the dataset above to see the cost &mdash; <span style="color:#b9c2cd">LEGACY</span> is the older 96-node board and happens to carry five of these. Nothing is mixed: every figure comes from one dataset and the header says which.</div>
+    <div style="border:1px solid #1d242b;margin-top:11px">
+      <div style="display:flex;gap:14px;padding:6px 13px;border-bottom:1px solid #1d242b;background:#0f1216;font-size:7.5px;letter-spacing:.12em;color:#4f5964">
+        <span style="width:120px;flex:none">FIELD</span>
+        <span style="width:74px;flex:none">STATE</span>
+        <span style="flex:1;min-width:150px">WHAT IT IS</span>
+        <span style="flex:1.6;min-width:230px">WHERE TO PULL IT</span>
+        <span style="flex:1.3;min-width:200px">WHAT THE DESIGN CANNOT SAY WITHOUT IT</span>
+      </div>
+      <sc-for list="{{ gaps }}" as="g" hint-placeholder-count="7">
+        <div style="display:flex;gap:14px;align-items:baseline;padding:8px 13px;border-bottom:1px solid #1d242b;background:{{ g.rowBg }}">
+          <span style="width:120px;flex:none;font-size:10px;color:#efb555">{{ g.field }}</span>
+          <span style="width:74px;flex:none;font-size:8.5px;letter-spacing:.11em;color:{{ g.markFg }}">{{ g.mark }}</span>
+          <span style="flex:1;min-width:150px;font-size:10px;color:#b9c2cd">{{ g.what }}</span>
+          <span style="flex:1.6;min-width:230px;font-size:9.5px;color:#8d97a4">{{ g.pull }}</span>
+          <span style="flex:1.3;min-width:200px;font-size:9.5px;color:#5c6672">{{ g.cost }}</span>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:20px 26px 6px">
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap">
+      <div>
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">A &middot; the layout</div>
+        <div style="font-size:13px;margin-top:5px">X is era. Y is function. A node&rsquo;s cell states when it starts and what the board says it did, before you read a word of it.</div>
+        <div style="font-size:9.5px;color:#5c6672;margin-top:6px">Line treatment: <span style="color:#b9c2cd">{{ wireNote }}</span></div>
+        <div style="position:relative;margin-top:12px;max-width:620px">
+          <div style="display:flex;align-items:center;gap:0;border:1px solid {{ queryBc }};background:#0d1014">
+            <span style="padding:0 9px;font-size:9px;letter-spacing:.13em;color:#5c6672">FIND</span>
+            <input value="{{ q }}" onChange="{{ onQuery }}" placeholder="label, or band:custody era:2017 via:bigelow deg:&gt;15 flag:y" style="flex:1;min-width:0;background:transparent;border:0;outline:none;padding:8px 0;color:#e6e9ee;font-family:inherit;font-size:11px" />
+            <span style="padding:0 10px;font-size:9px;letter-spacing:.1em;color:{{ hitFg }};white-space:nowrap">{{ hitLabel }}</span>
+            <span onClick="{{ clearQuery }}" style="padding:8px 10px;font-size:9px;letter-spacing:.1em;color:#5c6672;cursor:pointer;border-left:1px solid #1d242b">CLEAR</span>
+          </div>
+          <sc-if value="{{ hasResults }}" hint-placeholder-val="{{ true }}">
+            <div style="position:absolute;left:0;right:0;top:100%;z-index:6;border:1px solid #262e36;border-top:0;background:#12171d;box-shadow:0 14px 28px rgba(0,0,0,.55)">
+              <sc-for list="{{ results }}" as="r" hint-placeholder-count="5">
+                <div onClick="{{ r.pick }}" style="padding:6px 11px;cursor:pointer;border-bottom:1px solid #1d242b">
+                  <div style="font-size:10.5px;color:#e6e9ee">{{ r.label }}</div>
+                  <div style="font-size:9px;color:#5c6672;margin-top:1px">{{ r.meta }}</div>
+                </div>
+              </sc-for>
+              <sc-if value="{{ hasMore }}" hint-placeholder-val="{{ true }}">
+                <div style="padding:5px 11px;font-size:9px;letter-spacing:.1em;color:#4f5964">+{{ moreHits }} more, outlined on the map</div>
+              </sc-if>
+            </div>
+          </sc-if>
+          <sc-if value="{{ noHits }}" hint-placeholder-val="{{ true }}">
+            <div style="position:absolute;left:0;right:0;top:100%;z-index:6;border:1px solid #262e36;border-top:0;background:#12171d;padding:8px 11px;font-size:10px;color:#e8705f">Nothing on the map matches. The 96 here are the nodes above the degree floor &mdash; a miss may still exist in the 874 below it.</div>
+          </sc-if>
+        </div>
+      </div>
+      <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:flex-end">
+        <div style="display:flex;gap:0">
+          <sc-for list="{{ wireOpts }}" as="w" hint-placeholder-count="4">
+            <div onClick="{{ w.pick }}" title="{{ w.note }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ w.bc }};border-left-width:{{ w.blw }};color:{{ w.fg }};background:{{ w.bg }}">{{ w.label }}</div>
+          </sc-for>
+        </div>
+        <div style="display:flex;gap:0">
+          <sc-for list="{{ budgets }}" as="b" hint-placeholder-count="3">
+            <div onClick="{{ b.pick }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ b.bc }};border-left-width:{{ b.blw }};color:{{ b.fg }};background:{{ b.bg }}">{{ b.label }}</div>
+          </sc-for>
+        </div>
+        <div style="display:flex;gap:0" title="A summarised line between two map nodes that share two or more members — an off-map person, document or location connected directly to both. ON SELECT draws them only for the node you open.">
+          <span style="font-size:9px;letter-spacing:.1em;padding:6px 9px;white-space:nowrap;border:1px solid #262e36;border-right:0;color:#5c6672">SHARED</span>
+          <sc-for list="{{ sharedOpts }}" as="s" hint-placeholder-count="3">
+            <div onClick="{{ s.pick }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ s.bc }};border-left-width:{{ s.blw }};color:{{ s.fg }};background:{{ s.bg }}">{{ s.label }}</div>
+          </sc-for>
+        </div>
+        <div onClick="{{ toggleFlags }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ flagBc }};color:{{ flagFg }};background:{{ flagBg }}">{{ flagLabel }}</div>
+        <div style="display:flex;gap:0">
+          <sc-for list="{{ attnOpts }}" as="a" hint-placeholder-count="3">
+            <div onClick="{{ a.pick }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ a.bc }};border-left-width:{{ a.blw }};color:{{ a.fg }};background:{{ a.bg }}">{{ a.label }}</div>
+          </sc-for>
+        </div>
+        <div onClick="{{ toggleMotion }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ motionBc }};color:{{ motionFg }};background:{{ motionBg }}">{{ motionLabel }}</div>
+        <div style="display:flex;gap:0">
+          <sc-for list="{{ zooms }}" as="z" hint-placeholder-count="2">
+            <div onClick="{{ z.pick }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid {{ z.bc }};border-left-width:{{ z.blw }};color:{{ z.fg }};background:{{ z.bg }}">{{ z.label }}</div>
+          </sc-for>
+        </div>
+        <div onClick="{{ clear }}" style="font-size:9px;letter-spacing:.1em;padding:6px 11px;white-space:nowrap;cursor:pointer;border:1px solid #262e36;color:#5c6672">CLEAR SELECTION</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:6px 26px 0">
+    <div style="border:1px solid #1d242b;background:#0d1014;overflow-x:{{ stageOverflow }};overflow-y:hidden">
+      <div style="height:{{ stageH }}px;position:relative">
+        <div style="position:absolute;top:0;left:0;width:2200px;height:{{ worldH }}px;transform:scale({{ scale }});transform-origin:0 0">
+
+          <sc-for list="{{ bandRows }}" as="b" hint-placeholder-count="7">
+            <div style="position:absolute;left:0;top:{{ b.y }}px;width:2200px;height:{{ b.h }}px;background:{{ b.bg }};border-top:1px solid #1d242b"></div>
+          </sc-for>
+
+          <sc-for list="{{ flagCells }}" as="k" hint-placeholder-count="6">
+            <div style="position:absolute;left:{{ k.x }}px;top:{{ k.y }}px;width:{{ k.w }}px;height:{{ k.h }}px;background:rgba(239,181,85,.045);box-shadow:inset 0 0 0 1px rgba(239,181,85,.14);animation:{{ k.anim }}"></div>
+          </sc-for>
+
+          <sc-for list="{{ cols }}" as="c" hint-placeholder-count="5">
+            <div style="position:absolute;left:{{ c.x }}px;top:0;width:{{ c.w }}px;height:{{ worldH }}px;border-left:1px solid {{ c.rule }}"></div>
+          </sc-for>
+
+
+
+          <sc-for list="{{ cols }}" as="c" hint-placeholder-count="5">
+            <div style="position:absolute;left:{{ c.x }}px;top:8px;width:{{ c.w }}px;padding-left:10px">
+              <div style="font-size:10px;letter-spacing:.13em;color:{{ c.fg }}">{{ c.label }}</div>
+              <div style="font-size:8.5px;letter-spacing:.08em;color:#4f5964;margin-top:2px">{{ c.note }} &middot; {{ c.n }} nodes</div>
+            </div>
+          </sc-for>
+
+          <sc-for list="{{ bandRows }}" as="b" hint-placeholder-count="7">
+            <div style="position:absolute;left:0;top:{{ b.y }}px;width:148px;height:{{ b.h }}px;padding:11px 12px 0 14px;border-right:1px solid #1d242b">
+              <div style="font-size:9.5px;letter-spacing:.09em;color:{{ b.fg }};text-transform:uppercase;line-height:1.25">{{ b.name }}</div>
+              <div style="font-size:8.5px;color:#4f5964;margin-top:4px">{{ b.n }} &middot; {{ b.meanC }}</div>
+            </div>
+          </sc-for>
+
+          <svg width="2200" height="{{ worldH }}" viewBox="0 0 2200 {{ worldH }}" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none">
+            <defs>
+              <marker id="dn" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto">
+                <path d="M0 0 L8 4 L0 8 z" fill="#e8705f"></path>
+              </marker>
+            </defs>
+            <sc-for list="{{ wires }}" as="w" hint-placeholder-count="40">
+              <path d="{{ w.d }}" fill="none" stroke="{{ w.stroke }}" stroke-width="{{ w.sw }}" stroke-dasharray="{{ w.dash }}" opacity="{{ w.op }}" marker-end="{{ w.marker }}"></path>
+            </sc-for>
+            <sc-for list="{{ particles }}" as="p" hint-placeholder-count="12">
+              <circle r="{{ p.r }}" fill="{{ p.c }}" opacity="{{ p.op }}">
+                <animateMotion path="{{ p.d }}" dur="{{ p.dur }}" begin="{{ p.begin }}" keyPoints="{{ p.kp }}" keyTimes="0;1" calcMode="linear" repeatCount="indefinite"></animateMotion>
+              </circle>
+            </sc-for>
+            <sc-for list="{{ counts }}" as="k" hint-placeholder-count="6">
+              <g opacity="{{ k.op }}">
+                <rect x="{{ k.rx }}" y="{{ k.ry }}" width="{{ k.rw }}" height="{{ k.rh }}" fill="#171528" stroke="#a795e8" stroke-width="0.9"></rect>
+                <text x="{{ k.tx }}" y="{{ k.ty }}" fill="#cfc2f5" font-size="{{ k.fs }}" font-family="IBM Plex Mono, monospace" text-anchor="middle">{{ k.n }}</text>
+              </g>
+            </sc-for>
+          </svg>
+
+          <sc-for list="{{ chips }}" as="c" hint-placeholder-count="30">
+            <div onClick="{{ c.pick }}" title="{{ c.title }}" style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:205px;height:20px;display:flex;align-items:center;gap:5px;padding-right:5px;border-left:2px solid {{ c.tier }};background:{{ c.bg }};opacity:{{ c.op }};outline:{{ c.outline }};outline-offset:1px;animation:{{ c.anim }};cursor:pointer;overflow:hidden;white-space:nowrap;font-size:9.5px;letter-spacing:.01em;color:{{ c.fg }}">
+              <sc-if value="{{ c.hasPhoto }}" hint-placeholder-val="{{ false }}">
+                <div style="width:16px;height:16px;flex:none;background-color:#0d1014;background-image:{{ c.photoBg }};background-size:{{ c.photoFit }};background-position:center;background-repeat:no-repeat;border:{{ c.photoFrame }};filter:{{ c.photoFilter }}"></div>
+              </sc-if>
+              <span style="width:11px;flex:none;text-align:center;font-size:8px;color:{{ c.glyphFg }}">{{ c.glyph }}</span>
+              <span style="overflow:hidden;text-overflow:ellipsis">{{ c.label }}</span>
+              <span style="margin-left:auto;flex:none;font-size:8px;color:#efb555;letter-spacing:.06em">{{ c.rank }}</span>
+              <span style="flex:none;font-size:8px;color:{{ c.markFg }}">{{ c.mark }}</span>
+            </div>
+          </sc-for>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:0 26px">
+    <sc-if value="{{ hasLegend }}" hint-placeholder-val="{{ true }}">
+      <div style="border:1px solid #1d242b;border-top:0;background:#0d1014;padding:12px 15px">
+        <div style="display:flex;gap:12px;align-items:baseline;flex-wrap:wrap">
+          <div style="font-size:8.5px;letter-spacing:.13em;color:#efb555;text-transform:uppercase">Start here</div>
+          <div style="font-size:8.5px;letter-spacing:.11em;color:{{ flagSourceFg }}">{{ flagSource }}</div>
+          <div style="font-size:9.5px;color:#8d97a4;flex:1;min-width:280px">{{ flagRule }}</div>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:1px;background:#1d242b;margin-top:11px">
+          <sc-for list="{{ legend }}" as="l" hint-placeholder-count="9">
+            <div onClick="{{ l.pick }}" style="background:#12171d;padding:7px 10px;cursor:pointer;display:flex;gap:9px;align-items:baseline">
+              <span style="flex:none;font-size:10px;color:#efb555;letter-spacing:.06em">{{ l.rank }}</span>
+              <span style="min-width:0">
+                <span style="font-size:10px;color:#e6e9ee">{{ l.label }}</span>
+                <span style="display:block;font-size:9px;color:#5c6672;margin-top:2px">{{ l.why }}</span>
+              </span>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </sc-if>
+    <div style="display:grid;grid-template-columns:minmax(0,1fr) 360px;gap:1px;background:#1d242b;border:1px solid #1d242b;border-top:0">
+      <div style="background:#12171d;padding:13px 15px;min-height:132px">
+        <sc-if value="{{ hasSel }}" hint-placeholder-val="{{ true }}">
+          <div style="display:flex;gap:13px;align-items:flex-start">
+            <div style="flex:none">
+              <sc-if value="{{ selHasPhoto }}" hint-placeholder-val="{{ false }}">
+                <div>
+                  <div style="width:64px;height:64px;background-color:#0d1014;background-image:{{ selPhotoBg }};background-size:{{ selPhotoFit }};background-position:center;background-repeat:no-repeat;border:{{ selPhotoFrame }}"></div>
+                  <div style="font-size:7.5px;letter-spacing:.06em;color:#5c6672;width:64px;margin-top:4px;line-height:1.35">{{ selPhotoCredit }}</div>
+                  <div style="font-size:7.5px;color:#efb555;width:64px;margin-top:2px;line-height:1.35">{{ selPhotoNote }}</div>
+                </div>
+              </sc-if>
+              <sc-if value="{{ noPhoto }}" hint-placeholder-val="{{ true }}">
+                <div style="width:64px;height:64px;border:1px solid #1d242b;background:#0d1014;display:flex;align-items:center;justify-content:center;font-size:16px;color:#333c47">{{ selGlyphBig }}</div>
+              </sc-if>
+            </div>
+          <div style="min-width:0;flex:1">
+            <div style="display:flex;gap:10px;align-items:baseline;flex-wrap:wrap">
+              <div style="font-size:13px;color:#e6e9ee">{{ sel.label }}</div>
+              <div style="font-size:8.5px;letter-spacing:.11em;padding:2px 6px;white-space:nowrap;border:1px solid {{ sel.tierC }};color:{{ sel.tierC }}">TIER {{ sel.tier }}</div>
+              <div style="font-size:8.5px;letter-spacing:.11em;color:#5c6672">{{ sel.cls }} &middot; {{ sel.cluster }} &middot; {{ sel.id }}</div>
+            </div>
+            <div style="display:flex;gap:22px;flex-wrap:wrap;margin-top:10px;font-size:9.5px;color:#8d97a4">
+              <div>CELL <span style="color:#b9c2cd">{{ sel.cell }}</span></div>
+              <div>DATE <span style="color:#b9c2cd">{{ sel.dateStr }}</span></div>
+              <div>C/A/D <span style="color:#b9c2cd">{{ sel.cad }}</span></div>
+              <div>DEGREE <span style="color:#b9c2cd">{{ sel.deg }}</span></div>
+              <div>CLAIMS <span style="color:#b9c2cd">{{ sel.claims }}</span> <span style="color:#4f5964">/ tier 1</span> <span style="color:#b9c2cd">{{ sel.t1 }}</span></div>
+              <div>DENIALS <span style="color:#b9c2cd">{{ sel.denialStr }}</span></div>
+            </div>
+            <div style="margin-top:9px;font-size:9.5px;color:#8d97a4">ROLES <span style="color:#e6e9ee">{{ sel.primary }}</span><span style="color:#4f5964"> &larr; rarest, so the band</span> &middot; {{ sel.otherRoles }}</div>
+            <div style="margin-top:11px;display:flex;flex-wrap:wrap;gap:1px;background:#1d242b">
+              <sc-for list="{{ selEdges }}" as="e" hint-placeholder-count="6">
+                <div style="background:#141920;padding:5px 8px;font-size:9px;color:#8d97a4;display:flex;gap:8px;align-items:center">
+                  <span style="color:{{ e.c }};font-size:8.5px">{{ e.kindMark }}</span>
+                  <span style="color:#b9c2cd">{{ e.other }}</span>
+                  <span style="color:#5c6672">{{ e.detail }}</span>
+                </div>
+              </sc-for>
+            </div>
+            <div style="margin-top:13px;padding-top:10px;border-top:1px solid #1d242b">
+              <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">Members &mdash; held back by the rollup, not absent &middot; <span style="color:#4f5964">{{ memberBasisLabel }}</span></div>
+              <div style="font-size:9.5px;color:#8d97a4;margin-top:5px">{{ memberNote }}</div>
+              <div style="display:flex;flex-wrap:wrap;gap:14px;margin-top:8px">
+                <sc-for list="{{ mixRows }}" as="x" hint-placeholder-count="4">
+                  <div style="font-size:9.5px;color:#5c6672"><span style="color:{{ x.fg }}">{{ x.n }}</span> {{ x.cls }}</div>
+                </sc-for>
+              </div>
+              <div style="display:flex;flex-wrap:wrap;gap:1px;background:#1d242b;margin-top:9px">
+                <sc-for list="{{ members }}" as="m" hint-placeholder-count="8">
+                  <div style="background:#141920;padding:5px 8px;font-size:9px;display:flex;gap:7px;align-items:center">
+                    <span style="font-size:8px;color:{{ m.clsFg }};width:7px;flex:none">{{ m.cls }}</span>
+                    <span style="color:#b9c2cd">{{ m.label }}</span>
+                    <span style="color:#5c6672">{{ m.type }}</span>
+                    <span style="color:{{ m.tierFg }};font-size:8.5px">{{ m.tier }}</span>
+                    <span style="color:#e8705f;font-size:8.5px">{{ m.dir }}</span>
+                  </div>
+                </sc-for>
+              </div>
+            </div>
+          </div>
+          </div>
+        </sc-if>
+        <sc-if value="{{ noSel }}" hint-placeholder-val="{{ true }}">
+          <div>
+            <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">Reading the map</div>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px 26px;margin-top:11px;font-size:9.5px;color:#8d97a4;line-height:1.7">
+              <div>
+                <div style="color:#b9c2cd">Position</div>
+                <div>Column = era of <span style="color:#b9c2cd">dateStart</span>. Row = band. Inside a cell, most-connected first. All chips are one size: size is not a channel on this board.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Line colour</div>
+                <div><span style="color:#5ed4e6">cyan</span> structural &middot; <span style="color:#6f7f8c">grey</span> anchor &middot; <span style="color:#a795e8">violet</span> shared-member, with the count as a numeral &middot; <span style="color:#e8705f">red arrow</span> denial, pointing at the subject.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Line routing</div>
+                <div>Vertical legs run in the gutters between era columns, one lane per edge, longest rise nearest the gutter centre. Dash is claim tier per divergence D1 &mdash; solid tier 1, dashed tier 2, dotted tier 3, and never anything else.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Find</div>
+                <div>Matches dim the rest of the map and take a <span style="color:#5ed4e6">solid cyan outline</span>, so a result set reads as a shape in the matrix rather than a list. Filters AND together: <span style="color:#b9c2cd">band: era: cls: tier: cluster: role: id: flag: isolated:</span> and the numeric <span style="color:#b9c2cd">deg: claims: denials:</span> with &gt; or &lt;. <span style="color:#b9c2cd">via:</span> searches the off-map shared members, so it finds nodes joined by a person who is never drawn.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Motion</div>
+                <div>Attested direction only. A travelling dot runs issuer &rarr; subject on every <span style="color:#e8705f">denial</span>, and on selection the selected node&rsquo;s edges run outward. Nothing else moves, because nothing else has a sourced direction.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Shared-member lines</div>
+                <div>A <span style="color:#a795e8">violet</span> line means two map nodes share two or more <span style="color:#b9c2cd">members</span> &mdash; people, documents or locations that sit off the map and connect directly to both. The gate is two, so one coincidental link never draws a line. Unselected the line carries the count; select either end and it carries the <span style="color:#b9c2cd">names</span>, with the full list in the dossier row below. Off at rest.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Start here</div>
+                <div>An <span style="color:#efb555">amber dashed box</span> and a rank numeral, with a wash on the cell so the region reads before the label does. Drawn offset from the chip, not inside it: it is a pointer somebody chose, not a property of the record, and it must never read as a tier.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Chip marks</div>
+                <div>Left rule is entity tier A/B/C. Glyph is class &mdash; I institution, P program, E event, L legislation, D document. <span style="color:#e8705f">&times;</span> means no L0-level link exists at all. <span style="color:#efb555">?</span> means the research files disagree about its date.</div>
+              </div>
+            </div>
+            <div style="font-size:9.5px;color:#5c6672;margin-top:12px">Click a chip to fall back to one-hop focus &mdash; the local edges the budget suppresses appear only there.</div>
+          </div>
+        </sc-if>
+      </div>
+      <div style="background:#12171d;padding:13px 15px">
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">Ink at rest</div>
+        <sc-for list="{{ inkRows }}" as="i" hint-placeholder-count="4">
+          <div style="display:flex;justify-content:space-between;gap:10px;font-size:9.5px;margin-top:7px">
+            <span style="color:{{ i.c }}">{{ i.label }}</span>
+            <span style="flex:1;border-bottom:1px dotted #262e36;transform:translateY(-4px)"></span>
+            <span style="color:#b9c2cd">{{ i.v }}</span>
+          </div>
+        </sc-for>
+        <div style="font-size:9px;color:#5c6672;margin-top:11px;line-height:1.6">{{ inkNote }}</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:26px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:26px">
+
+      <div>
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">A1 &middot; the rule, in three lines</div>
+        <div style="margin-top:10px;border-left:2px solid #5ed4e6;padding-left:13px;color:#b9c2cd">
+          <div><span style="color:#5c6672">X &mdash;</span> four era columns, equal width, keyed on <span style="color:#e6e9ee">dateStart</span>. Undated nodes get a labelled column of their own.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Y &mdash;</span> one band per role tag, assigned by <span style="color:#e6e9ee">rarest tag wins</span>, ordered top to bottom by the band&rsquo;s measured mean C.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Cell &mdash;</span> chips packed by degree, one uniform size. Position is a pure function of (era, band, degree, id). No physics, no seed, no clamping.</div>
+        </div>
+
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase;margin-top:24px">A2 &middot; the five questions</div>
+        <sc-for list="{{ answers }}" as="a" hint-placeholder-count="5">
+          <div style="margin-top:13px;padding-top:11px;border-top:1px solid #1d242b">
+            <div style="font-size:10.5px;color:#e6e9ee">{{ a.q }}</div>
+            <div style="font-size:11px;color:#b9c2cd;margin-top:6px">{{ a.a }}</div>
+            <div style="font-size:9px;color:#5c6672;margin-top:6px">{{ a.evidence }}</div>
+          </div>
+        </sc-for>
+      </div>
+
+      <div>
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">B &middot; the edge budget</div>
+        <div style="color:#b9c2cd;margin-top:10px">Tier cannot thin this map and degree should not: {{ fig.tier1Direct }} of {{ fig.directEdges }} direct edges are Tier 1, and gating on degree keeps {{ fig.bothHighDegree }} while stripping the periphery the floor already earned. The budget comes out of the layout instead. Position now states era and band, so a short edge mostly restates where its endpoints sit; a long one asserts something position cannot.</div>
+        <div style="margin-top:12px;border-left:2px solid #5ed4e6;padding-left:13px;color:#b9c2cd">
+          <div><span style="color:#5c6672">Clause 1 &mdash;</span> draw an edge if it crosses <span style="color:#e6e9ee">two or more bands and at least one era</span>.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Clause 2 &mdash;</span> every node keeps its <span style="color:#e6e9ee">single strongest edge</span> regardless &mdash; lowest claim tier, then longest span. Nothing sits on this map unexplained.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Rest &mdash;</span> summarised shared-member edges are off. They are the closest thing to what the bands already say, and there are {{ fig.summarisedEdges }} of them.</div>
+        </div>
+
+        <div style="margin-top:16px;border:1px solid #1d242b">
+          <sc-for list="{{ ladder }}" as="l" hint-placeholder-count="9">
+            <div style="display:flex;gap:12px;align-items:baseline;padding:6px 12px;border-bottom:1px solid #1d242b;background:{{ l.bg }}">
+              <span style="width:38px;flex:none;text-align:right;font-size:12px;color:{{ l.fg }}">{{ l.n }}</span>
+              <span style="width:34px;flex:none;font-size:9px;color:#5c6672">{{ l.pct }}%</span>
+              <span style="font-size:10px;color:{{ l.rfg }}">{{ l.rule }}</span>
+            </div>
+          </sc-for>
+        </div>
+        <div style="font-size:9.5px;color:#5c6672;margin-top:9px">Percentages are of the {{ fig.directEdges }} direct edges, except the two rows that include summarised lines, which are of {{ fig.drawnBeforeBudget }}.</div>
+
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase;margin-top:24px">B1 &middot; the count vocabulary</div>
+        <div style="color:#b9c2cd;margin-top:9px">The brief is right that the five-tick vocabulary is dead. It is drawn as a numeral in a bordered chip at the line&rsquo;s midpoint, which has no ceiling and no overflow case &mdash; 18 and 180 render the same way. In this checkout the largest shared-member count is {{ fig.maxShared }}; the brief reports 18 at the current commit. The chip is specified for the second number, not the first.</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:0 26px 26px">
+    <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">C &middot; what the matrix says</div>
+    <div style="color:#b9c2cd;margin-top:9px;max-width:104ch">The occupancy table is the layout, before any node is drawn. It is also the strongest structural claim on the board, stated by position rather than left to the reader: retrieval is a first-two-era activity and has nothing in 2000&ndash;2016; disclosure is {{ discLast }} of {{ discTotal }} in the last decade; and oversight is the primary reason exactly {{ oversightN }} node is on this map.</div>
+    <div style="display:inline-block;border:1px solid #1d242b;margin-top:14px">
+      <div style="display:flex;background:#0d1014;border-bottom:1px solid #1d242b">
+        <div style="width:180px;flex:none;padding:7px 12px;font-size:8.5px;letter-spacing:.11em;color:#5c6672">BAND</div>
+        <sc-for list="{{ cols }}" as="c" hint-placeholder-count="5">
+          <div style="width:118px;flex:none;padding:7px 10px;font-size:8.5px;letter-spacing:.11em;color:#5c6672;text-align:right">{{ c.label }}</div>
+        </sc-for>
+        <div style="width:74px;flex:none;padding:7px 12px;font-size:8.5px;letter-spacing:.11em;color:#5c6672;text-align:right">TOTAL</div>
+      </div>
+      <sc-for list="{{ matrixRows }}" as="m" hint-placeholder-count="7">
+        <div style="display:flex;border-bottom:1px solid #1d242b;background:{{ m.bg }}">
+          <div style="width:180px;flex:none;padding:6px 12px;font-size:10px;color:#b9c2cd">{{ m.band }}</div>
+          <sc-for list="{{ m.cells }}" as="v" hint-placeholder-count="5">
+            <div style="width:118px;flex:none;padding:6px 10px;font-size:12px;text-align:right;color:{{ v.fg }}">{{ v.t }}</div>
+          </sc-for>
+          <div style="width:74px;flex:none;padding:6px 12px;font-size:12px;text-align:right;color:#e6e9ee">{{ m.total }}</div>
+        </div>
+      </sc-for>
+      <div style="display:flex;background:#0d1014">
+        <div style="width:180px;flex:none;padding:6px 12px;font-size:8.5px;letter-spacing:.11em;color:#5c6672">NODES PER COLUMN</div>
+        <sc-for list="{{ colTotals }}" as="t" hint-placeholder-count="5">
+          <div style="width:118px;flex:none;padding:6px 10px;font-size:12px;text-align:right;color:#8d97a4">{{ t }}</div>
+        </sc-for>
+        <div style="width:74px;flex:none;padding:6px 12px;font-size:12px;text-align:right;color:#5ed4e6">{{ fig.l0 }}</div>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:0 26px 34px">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:26px">
+      <div>
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">D &middot; checks, and the input each must reject</div>
+        <div style="color:#8d97a4;margin-top:9px;font-size:11px">A check that has never failed is indistinguishable from a broken one. Each of these is stated with the input that must turn it red, so it can be fed that input on the day it lands.</div>
+        <sc-for list="{{ checks }}" as="c" hint-placeholder-count="6">
+          <div style="margin-top:12px;padding:10px 12px;border:1px solid #1d242b;background:#12171d">
+            <div style="font-size:10px;color:#e6e9ee">{{ c.name }}</div>
+            <div style="font-size:9.5px;color:#8d97a4;margin-top:5px">{{ c.asserts }}</div>
+            <div style="font-size:9.5px;color:#e8705f;margin-top:5px">REJECTS &mdash; <span style="color:#b9c2cd">{{ c.rejects }}</span></div>
+          </div>
+        </sc-for>
+      </div>
+      <div>
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">H &middot; one image per node &mdash; the slot, before the data</div>
+        <div style="color:#b9c2cd;margin-top:9px">Requested 24 August: a portrait for a person, a mark for an institution. The slot is built and empty, so the treatment is settled before {{ fig.l0 }} images arrive and nothing has to be redesigned around them. It occupies the space the class letter already had, which is why adding images costs no chip width and removing them loses no information.</div>
+        <div style="display:flex;gap:16px;flex-wrap:wrap;margin-top:14px">
+          <div>
+            <div style="width:64px;height:64px;border:1px solid #262e36;background:#0d1014;display:flex;align-items:center;justify-content:center;font-size:16px;color:#333c47">I</div>
+            <div style="font-size:8px;letter-spacing:.08em;color:#5c6672;width:64px;margin-top:5px;line-height:1.4">NO IMAGE &mdash; the class letter, not a silhouette</div>
+          </div>
+          <div>
+            <div style="width:64px;height:64px;border:1px solid #262e36;background:#101419"></div>
+            <div style="font-size:8px;letter-spacing:.08em;color:#66d69f;width:64px;margin-top:5px;line-height:1.4">CLEARS &mdash; solid frame, credit printed</div>
+          </div>
+          <div>
+            <div style="width:64px;height:64px;border:1px dashed #efb555;background:#101419"></div>
+            <div style="font-size:8px;letter-spacing:.08em;color:#efb555;width:64px;margin-top:5px;line-height:1.4">ASK &mdash; dashed frame, reason printed</div>
+          </div>
+          <div>
+            <div style="width:64px;height:64px;border:1px solid #1d242b;background:#0d1014;display:flex;align-items:center;justify-content:center;font-size:9px;color:#e8705f">&times;</div>
+            <div style="font-size:8px;letter-spacing:.08em;color:#5c6672;width:64px;margin-top:5px;line-height:1.4">DOES NOT CLEAR / NOT FOUND &mdash; nothing is drawn</div>
+          </div>
+        </div>
+        <div style="margin-top:14px;border-left:2px solid #efb555;padding-left:13px;color:#b9c2cd">
+          <div><span style="color:#5c6672">Rule 1 &mdash;</span> Square, never round. A circular crop is an avatar and this is an intelligence product. 16px in the chip, 64px in the dossier, and no other size.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Rule 2 &mdash;</span> Greyscale at rest, full colour on selection or a search hit. Not styling: {{ fig.l0 }} institutional logos in brand colour would take over a palette that spends colour on claim tier and edge kind.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Rule 3 &mdash;</span> <span style="color:#e6e9ee">portrait</span> crops to fill, <span style="color:#e6e9ee">mark</span> fits inside. A cropped logo is a broken logo, and a letterboxed face wastes the slot &mdash; so the kind is a field, not a guess.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Rule 4 &mdash;</span> An image is a claim. It carries its credit and its clearance, the credit prints in the dossier, and the four-state vocabulary from the sibling board&rsquo;s PHOTOS.md governs: only <span style="color:#66d69f">CLEARS</span> and <span style="color:#efb555">ASK</span> are ever drawn. A photograph of the wrong person is a factual error that no amount of framing fixes.</div>
+          <div style="margin-top:7px"><span style="color:#5c6672">Rule 5 &mdash;</span> Missing is not broken. The letter is the answer, and it says what the node <span style="color:#e6e9ee">is</span> rather than implying a face nobody found. On a load error the record drops to null and the letter returns, the same way the sibling board handles it.</div>
+        </div>
+        <div style="margin-top:13px;padding:11px 13px;border:1px solid #262e36;background:#0d1014">
+          <div style="font-size:8.5px;letter-spacing:.12em;color:#5c6672">TO BACKFILL &mdash; data/l0-images.json, keyed by node id</div>
+          <div style="font-size:9.5px;color:#8d97a4;margin-top:7px;line-height:1.75">&#123; "rand-corporation": &#123;<br />&nbsp;&nbsp;"photo": "assets/photos/rand-corporation.png",<br />&nbsp;&nbsp;"photoKind": "mark",<br />&nbsp;&nbsp;"photoCredit": "RAND Corporation",<br />&nbsp;&nbsp;"clearance": "clears",<br />&nbsp;&nbsp;"note": ""<br />&#125; &#125;</div>
+          <div style="font-size:9.5px;color:#5c6672;margin-top:8px">Currently {{ fig.withPhoto }} of {{ fig.l0 }} carry one. The count is read from the model, so this line is the progress bar.</div>
+        </div>
+
+        <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase;margin-top:26px">E &middot; what I could not settle</div>
+        <sc-for list="{{ open }}" as="o" hint-placeholder-count="5">
+          <div style="margin-top:12px;padding-top:10px;border-top:1px solid #1d242b">
+            <div style="font-size:10.5px;color:#e6e9ee">{{ o.t }}</div>
+            <div style="font-size:11px;color:#b9c2cd;margin-top:5px">{{ o.d }}</div>
+          </div>
+        </sc-for>
+        <div style="margin-top:20px;padding:11px 13px;border:1px solid #262e36;background:#0d1014">
+          <div style="font-size:8.5px;letter-spacing:.13em;color:#5ed4e6">REQUESTED AFTER THE BRIEF &middot; 24 AUGUST</div>
+          <div style="font-size:9.5px;color:#8d97a4;margin-top:7px">Three things Stewart asked for that the brief does not cover, all built above and recorded here so the implementation session has them in writing.</div>
+          <div style="font-size:9.5px;color:#b9c2cd;margin-top:9px"><span style="color:#5c6672">01 &mdash;</span> <span style="color:#e6e9ee">Search.</span> Working here as the reference and as the design language: one field, space-separated tokens ANDed, a bare token over label / id / roles / cluster / class and <span style="color:#b9c2cd">key:value</span> filters for band, era, class, tier, cluster, role, id, flag, isolated, and numeric deg / claims / denials with &gt; and &lt;. <span style="color:#b9c2cd">via:</span> reaches the off-map shared members. Matches dim the map and outline in cyan; the result list is a shortcut, not the answer, because the answer is the shape the matches make in the matrix. On the board this has to be a <span style="color:#b9c2cd">CMD</span> action to satisfy constraint 4 of the parent brief, and the no-result state must say what it did not search &mdash; the 874 nodes below the degree floor.</div>
+          <div style="font-size:9.5px;color:#b9c2cd;margin-top:8px"><span style="color:#5c6672">02 &mdash;</span> <span style="color:#e6e9ee">Named shared members.</span> A line reading 5 is a count with no content. The generator now resolves every member id to a display label, so a selected node&rsquo;s violet lines name who joins it &mdash; two names, then one name and a remainder, then the numeral past four.</div>
+          <div style="font-size:9.5px;color:#b9c2cd;margin-top:8px"><span style="color:#5c6672">03 &mdash;</span> <span style="color:#e6e9ee">Start-here callouts.</span> The board should point at what is worth clicking on open. Design language and data hook above; the editorial pass that decides <span style="color:#b9c2cd">which</span> nodes is not a design decision and is left as <span style="color:#efb555">data/l0-highlights.json</span>.</div>
+          <div style="font-size:9.5px;color:#b9c2cd;margin-top:8px"><span style="color:#5c6672">04 &mdash;</span> <span style="color:#e6e9ee">&ldquo;Is the map claiming Lockheed has no people?&rdquo;</span> It was, and that was a fault in this comp rather than in the data. <span style="color:#b9c2cd">lockheed-martin</span> carries {{ lmDeg }} neighbours: {{ lmOnMap }} on the map and {{ lmMembers }} held back by the rollup, among them Ben Rich, Elizondo, Bigelow Aerospace, Air Force Plant 42 and NDAA FY2024 Sec. 1687. The rollup withholding them is correct and is the whole reason the map is legible; drawing nothing in their place is not. Every node now carries its member list and the dossier row states the arithmetic, so absence on the map reads as <span style="color:#b9c2cd">held back</span> rather than as <span style="color:#b9c2cd">none</span> &mdash; which is credibility rule territory, not polish. {{ memberRows }} member rows across the {{ fig.l0 }} nodes, median {{ membersMedian }}, max {{ membersMax }}.</div>
+        </div>
+
+        <div style="margin-top:16px;padding:11px 13px;border:1px solid #262e36;background:#0d1014">
+          <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672">NOT IN SCOPE, NOT TOUCHED</div>
+          <div style="font-size:9.5px;color:#8d97a4;margin-top:6px">The four-row shell, the left rail, the dossier dock, the analyst bar, the seven credibility rules, node size as a channel, and the two kept divergences D1 and D3. This proposal changes where a node sits and which lines are drawn at rest. Nothing else.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1500,&quot;height&quot;:1200},&quot;dataset&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;current&quot;,&quot;legacy&quot;],&quot;default&quot;:&quot;current&quot;,&quot;tsType&quot;:&quot;'current'|'legacy'&quot;,&quot;section&quot;:&quot;Data&quot;},&quot;wireStyle&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;ortho&quot;,&quot;arc&quot;],&quot;default&quot;:&quot;ortho&quot;,&quot;tsType&quot;:&quot;'ortho'|'arc'&quot;,&quot;section&quot;:&quot;Lines&quot;},&quot;budget&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;rest&quot;,&quot;direct&quot;,&quot;all&quot;],&quot;default&quot;:&quot;rest&quot;,&quot;tsType&quot;:&quot;'rest'|'direct'|'all'&quot;,&quot;section&quot;:&quot;Edge budget&quot;},&quot;sharedMembers&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;select&quot;,&quot;always&quot;,&quot;never&quot;],&quot;default&quot;:&quot;select&quot;,&quot;tsType&quot;:&quot;'select'|'always'|'never'&quot;,&quot;section&quot;:&quot;Edge budget&quot;},&quot;arcCurve&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:0.1,&quot;min&quot;:0,&quot;max&quot;:0.32,&quot;step&quot;:0.01,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Lines&quot;},&quot;motion&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Motion&quot;},&quot;particleSpeed&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:74,&quot;min&quot;:24,&quot;max&quot;:180,&quot;step&quot;:2,&quot;unit&quot;:&quot;px/s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Motion&quot;},&quot;showHighlights&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Start here&quot;},&quot;attention&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;breath&quot;,&quot;once&quot;,&quot;off&quot;],&quot;default&quot;:&quot;breath&quot;,&quot;tsType&quot;:&quot;'breath'|'once'|'off'&quot;,&quot;section&quot;:&quot;Start here&quot;}}">
+const TIERC = { A: '#5ed4e6', B: '#efb555', C: '#8d97a4' };
+// One character, because the chip has room for one. I institution · P program ·
+// E event · L legislation · D document.
+const GLYPH = { institution: 'I', program: 'P', event: 'E', legislation: 'L', document: 'D', person: 'p' };
+const DASH = { 1: '', 2: '7 4', 3: '2 4' };
+const BANDLBL = {
+  'reverse-engineering': 'Reverse engineering', retrieval: 'Retrieval', funding: 'Funding',
+  custody: 'Custody', research: 'Research', disclosure: 'Disclosure',
+  oversight: 'Oversight', concealment: 'Concealment',
+};
+
+class Component extends DCLogic {
+  state = { M: null, sel: null, budget: null, shared: null, scale: 1, zoom: 'fit' };
+
+  componentDidMount() {
+    // A user who has asked the OS for less motion gets none of it, including the
+    // sweep. There is no version of this map that needs the animation to be read.
+    this.reduced = typeof window !== 'undefined' && window.matchMedia
+      && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const grab = () => {
+      const M = (typeof window !== 'undefined') && window.L0_LAYOUT_MODEL;
+      if (M) { this.setState({ M }); return true; }
+      return false;
+    };
+    if (!grab()) { let n = 0; const t = setInterval(() => { if (grab() || ++n > 60) clearInterval(t); }, 80); }
+    this.fit = () => {
+      const w = Math.max(320, (document.documentElement.clientWidth || 1400) - 54);
+      this.setState({ scale: Math.min(1, w / 2200) });
+    };
+    this.fit();
+    window.addEventListener('resize', this.fit);
+  }
+  componentWillUnmount() { window.removeEventListener('resize', this.fit); }
+
+  get budget() { return this.state.budget ?? this.props.budget ?? 'rest'; }
+  /* Shared-member lines at rest were the wrong question. Their real behaviour is
+     conditional: too messy across 96 nodes, exactly right on one. Three explicit
+     states beat a toggle whose effect depended on whether something was selected. */
+  get sharedMode() { return this.state.sharedMode ?? this.props.sharedMembers ?? 'select'; }
+  get curve() { return this.props.arcCurve ?? 0.1; }
+  get wire() { return this.state.wire ?? this.props.wireStyle ?? 'ortho'; }
+  get motion() {
+    if (this.reduced) return false;
+    return this.state.motion ?? this.props.motion ?? true;
+  }
+  /* How the start-here layer announces itself.
+     'breath' — every flagged cell and chip surfaces together over ~0.9s, holds
+                ~2s, fades out, and the board sits clean for ~2.5s before the next
+                one. In sync, not staggered: the point is that the board raises its
+                hand, and a cascade would read as nine separate events. Between
+                breaths only the rank numeral stays, so the set is still findable
+                and the map is never carrying the highlight permanently.
+     'once'   — the same thing exactly once on load, in rank order, then held. The
+                cascade is legible there because it doubles as the enumeration.
+     'off'    — nothing moves but the denial particles.
+     The traversing scan this replaced was rejected on the objection it drew and on
+     its merits: a bar crossing left to right pulls the eye along the time axis,
+     which is the one reading of this layout that must not be implied. */
+  get attention() {
+    if (this.reduced) return 'off';
+    return this.state.attn ?? this.props.attention ?? 'breath';
+  }
+  get vel() { return this.props.particleSpeed ?? 74; }   // px per second
+
+  /* MOTION — what it is allowed to mean ------------------------------------------
+     Motion is the last unused channel on this map, which makes it the easiest one
+     to spend badly. Two treatments were tried and rejected on the board's own
+     rules rather than on taste:
+
+     Particles flowing left to right along every line, in the direction of the time
+     axis. Rejected: it states that the relationship runs from the earlier node to
+     the later one, and for most of these edges that is not a claim the board makes.
+     An institutional edge between a 1947 node and a 2024 node has no direction at
+     all, and brief question 4 is explicit that a time axis must not imply the edges
+     are chronological. A moving dot is a much stronger implication than a static
+     line, and it would be asserting something unsourced 24 times a minute.
+
+     Line weight by member count, claim count or degree. Rejected on arrival by §4:
+     that is the size channel wearing a different coat, and it would put the most
+     ink on AARO, which this board treats as implicated rather than authoritative.
+     Weight here stays a two-step structural/anchor distinction and nothing else.
+
+     What motion does carry: direction the record actually establishes. That is
+     denials — `a` issued it, `b` is the subject, confirmed against the merged board
+     — and, on selection, which end of an edge you are standing on. If something
+     moves, the direction is attested. The era sweep is the one decorative element
+     and it touches no edge: it is a scan across the axis, which is the parent
+     board's own idiom, and it says nothing about any relationship. */
+  particlesFor(visible, geoms, sel) {
+    if (!this.motion) return [];
+    const out = [];
+    visible.forEach((e, i) => {
+      const g = geoms[i];
+      const isDenial = (e.dn || []).length > 0;
+      const touchesSel = sel && (e.a === sel.id || e.b === sel.id);
+      if (!isDenial && !touchesSel) return;
+      // forward = the path runs a->b, which is the direction geometry was built in
+      let forward = true, colour = '#e8705f', r = 1.9, op = 0.9;
+      if (isDenial) {
+        forward = e.dn[0][0] === e.a;
+      } else {
+        forward = e.a === sel.id;
+        colour = e.kind === 'shared' ? '#a795e8' : '#5ed4e6';
+        r = 1.6; op = 0.75;
+      }
+      if (isDenial && touchesSel && e.dn[0][1] === sel.id) op = 1;
+      const dur = Math.max(1.6, (g.len || 300) / this.vel);
+      out.push({
+        d: g.d, c: colour, r, op,
+        dur: dur.toFixed(2) + 's',
+        begin: '-' + ((this.hash(e) % 100) / 100 * dur).toFixed(2) + 's',
+        kp: forward ? '0;1' : '1;0',
+      });
+    });
+    return out;
+  }
+
+  // deterministic per-edge hash, so every jitter and every arc side is stable
+  // across runs — nothing about a line's shape may depend on draw order.
+  hash(e) {
+    let h = 0; const s = e.a + '|' + e.b;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) % 100003;
+    return h;
+  }
+
+  /* Orthogonal routing, the parent board's trace language: leave the chip
+     horizontally, run the vertical leg in a gutter between era columns, turn once
+     more into the target. `lane` is a signed offset from the gutter centre, handed
+     out by wireSet so parallel legs sit in their own lane instead of stacking. */
+  ortho(A, B, lane) {
+    const acy = A.y + 10, bcy = B.y + 10;
+    const right = (B.x + 102) >= (A.x + 102);
+    const x1 = right ? A.x + 205 : A.x, x2 = right ? B.x : B.x + 205;
+    const lo = Math.min(x1, x2), hi = Math.max(x1, x2);
+    let cx = Math.max(lo + 9, Math.min(hi - 9, this.gutter(A, B, lo, hi) + lane));
+    const r = Math.min(5, Math.abs(bcy - acy) / 2, Math.abs(cx - x1), Math.abs(x2 - cx)) || 0;
+    const sx = cx > x1 ? 1 : -1, sy = bcy > acy ? 1 : -1, ex = x2 > cx ? 1 : -1;
+    const d = r < 1.5
+      ? `M${x1} ${acy} L${cx} ${acy} L${cx} ${bcy} L${x2} ${bcy}`
+      : `M${x1} ${acy} L${cx - sx * r} ${acy} Q${cx} ${acy} ${cx} ${acy + sy * r}` +
+        ` L${cx} ${bcy - sy * r} Q${cx} ${bcy} ${cx + ex * r} ${bcy} L${x2} ${bcy}`;
+    return {
+      d, mx: cx, my: (acy + bcy) / 2,
+      // manhattan length is exact for an orthogonal route, so a particle can run at
+      // constant velocity instead of constant duration
+      len: Math.abs(cx - x1) + Math.abs(bcy - acy) + Math.abs(x2 - cx),
+    };
+  }
+
+  /* The gutter an edge wants: the column boundary nearest its horizontal midpoint
+     that actually lies between the two chips. Falls back to the midpoint when the
+     endpoints are in the same column and no boundary is available. */
+  gutter(A, B, lo, hi) {
+    const mid = (lo + hi) / 2;
+    const chans = ((this._M && this._M.eras) || []).map(c => c.x + c.w + 5)
+      .filter(v => v > lo + 16 && v < hi - 16);
+    return chans.length
+      ? chans.reduce((p, v) => Math.abs(v - mid) < Math.abs(p - mid) ? v : p, chans[0])
+      : mid;
+  }
+
+  /* One geometry pass over every visible edge. Orthogonal mode needs it: lanes can
+     only be allocated once every edge's preferred gutter is known. */
+  wireSet(edges, N, mode, M) {
+    if (mode !== 'ortho') return edges.map(e => this.wireGeom(e, N, mode, M));
+    const want = edges.map(e => {
+      const A = N.get(e.a), B = N.get(e.b);
+      const right = (B.x + 102) >= (A.x + 102);
+      const x1 = right ? A.x + 205 : A.x, x2 = right ? B.x : B.x + 205;
+      const lo = Math.min(x1, x2), hi = Math.max(x1, x2);
+      return { A, B, g: Math.round(this.gutter(A, B, lo, hi)), rise: Math.abs(B.y - A.y) };
+    });
+    const buckets = new Map();
+    want.forEach((w, i) => { (buckets.get(w.g) || buckets.set(w.g, []).get(w.g)).push(i); });
+    const lane = new Array(edges.length).fill(0);
+    for (const idxs of buckets.values()) {
+      // longest rise takes the centre lane, the rest alternate outwards; ties broken
+      // on edge key so the allocation is reproducible
+      idxs.sort((p, q) => want[q].rise - want[p].rise ||
+        (edges[p].a + edges[p].b < edges[q].a + edges[q].b ? -1 : 1));
+      idxs.forEach((ix, k) => { lane[ix] = (((k + 1) >> 1) * 5) * (k % 2 ? 1 : -1); });
+    }
+    return want.map((w, i) => this.ortho(w.A, w.B, lane[i]));
+  }
+
+  /* SEARCH ---------------------------------------------------------------------
+     Requested by Stewart, 24 August. Working here as the reference implementation
+     and as the design language; the board's own version is a CMD action in the
+     patch pipeline, per constraint 4 in the parent brief.
+
+     The grammar is space-separated tokens, ANDed. A bare token is free text over
+     label, id, roles, cluster and class. A `key:value` token filters:
+
+       band:custody   era:2017   cls:document   tier:A   cluster:ic
+       role:funding   via:puthoff   flag:y   isolated:y
+       deg:>15   claims:>20   denials:>0
+
+     `via:` is the one that earns its keep: it searches the off-map shared members,
+     so "via:bigelow" returns the map nodes joined by Robert Bigelow without him
+     ever being drawn. Numeric keys take >, < or a bare equality. */
+  tokenMatch(tok, n, M, viaIdx) {
+    const m = /^([a-z]+):(.*)$/i.exec(tok);
+    if (!m) {
+      const s = tok.toLowerCase();
+      return (n.short + ' ' + n.label + ' ' + n.id + ' ' + n.roles.join(' ') + ' ' +
+        n.cluster + ' ' + n.cls).toLowerCase().indexOf(s) >= 0;
+    }
+    const k = m[1].toLowerCase(), v = m[2].toLowerCase();
+    const num = (val) => {
+      const c = v[0];
+      const x = parseFloat(c === '>' || c === '<' ? v.slice(1) : v);
+      if (isNaN(x)) return false;
+      return c === '>' ? val > x : c === '<' ? val < x : val === x;
+    };
+    switch (k) {
+      case 'band': return n.band.toLowerCase().indexOf(v) >= 0;
+      case 'era': {
+        const col = M.eras.find(c => String(c.id) === String(n.col));
+        return ((col ? col.label : '') + ' ' + (n.y0 || '')).toLowerCase().indexOf(v) >= 0;
+      }
+      case 'cls': case 'class': return n.cls.toLowerCase().indexOf(v) >= 0;
+      case 'tier': return String(n.tier).toLowerCase() === v;
+      case 'cluster': return n.cluster.toLowerCase().indexOf(v) >= 0;
+      case 'role': return n.roles.some(r => r.toLowerCase().indexOf(v) >= 0);
+      case 'id': return n.id.toLowerCase().indexOf(v) >= 0;
+      case 'via': return (viaIdx.get(n.id) || []).some(s => s.indexOf(v) >= 0);
+      case 'flag': return (v[0] === 'y') === !!this.flagIds.has(n.id);
+      case 'isolated': return (v[0] === 'y') === !!n.isolated;
+      case 'deg': return num(n.deg);
+      case 'claims': return num(n.claims);
+      case 'denials': return num(n.di + n.dr);
+      default: return false;
+    }
+  }
+
+  wireGeom(e, N, mode, M) {
+    const A = N.get(e.a), B = N.get(e.b);
+    const h = this.hash(e);
+    const acy = A.y + 10, bcy = B.y + 10;
+    const acx = A.x + 102, bcx = B.x + 102;
+
+    if (mode === 'straight') {
+      return { d: `M${acx} ${acy} L${bcx} ${bcy}`, mx: (acx + bcx) / 2, my: (acy + bcy) / 2, len: Math.hypot(bcx - acx, bcy - acy) };
+    }
+
+    if (mode === 'bundle') {
+      // Band-level bundling: every edge between the same pair of bands is pulled
+      // through the same horizontal trunk, so band-to-band traffic reads as one
+      // thick strand instead of n separate crossings.
+      const bandY = id => { const b = M.bands.find(x => x.id === id); return b ? b.y + b.h / 2 : acy; };
+      const ty = (bandY(A.band) + bandY(B.band)) / 2 + (((h % 5) - 2) * 2);
+      return {
+        d: `M${acx} ${acy} C${acx} ${ty} ${bcx} ${ty} ${bcx} ${bcy}`,
+        mx: (acx + bcx) / 2, my: (acy + 3 * ty + bcy) / 5,
+        len: Math.abs(ty - acy) + Math.abs(bcx - acx) + Math.abs(bcy - ty),
+      };
+    }
+
+    if (mode === 'ortho') return this.ortho(A, B, 0);
+
+    // arc — quadratic, curvature proportional to length, side by hash so parallel
+    // runs fan out instead of stacking
+    const dx = bcx - acx, dy = bcy - acy, len = Math.hypot(dx, dy) || 1;
+    const k = this.curve * len * ((h % 2) ? 1 : -1);
+    const cx = (acx + bcx) / 2 + (-dy / len) * k, cy = (acy + bcy) / 2 + (dx / len) * k;
+    return { d: `M${acx} ${acy} Q${cx} ${cy} ${bcx} ${bcy}`, mx: (acx + 2 * cx + bcx) / 4, my: (acy + 2 * cy + bcy) / 4, len: len * 1.08 };
+  }
+
+  renderVals() {
+    const ALL = this.state.M;
+    const dsKey = this.state.ds ?? this.props.dataset ?? 'current';
+    const M = ALL ? (ALL[dsKey] || ALL.current) : null;
+    // Seeded with the key names the template reads, so the pre-load render draws
+    // the frame instead of logging unresolved holes.
+    const FIGKEYS = ['l0', 'l0StaleDeg', 'restDrawn', 'multiEdgePairs', 'pairs', 'tier1Direct',
+      'directEdges', 'bothHighDegree', 'summarisedEdges', 'drawnBeforeBudget', 'maxShared',
+      'withPhoto'];
+    const empty = {
+      gen: '', fig: Object.fromEntries(FIGKEYS.map(k => [k, '—'])),
+      receipt: [], budgets: [], cols: [], bandRows: [], chips: [], wires: [],
+      counts: [], matrixRows: [], colTotals: [], ladder: [], answers: [], checks: [], open: [],
+      inkRows: [], selEdges: [], sel: {}, hasSel: false, noSel: true, scale: 1, worldH: 912,
+      stageH: 520, inkNote: '', sharedOpts: [], members: [], memberNote: '',
+      mixRows: [], memberBasisLabel: '',
+      discLast: '', discTotal: '', oversightN: '',
+      zooms: [], wireOpts: [], wireNote: '', stageOverflow: 'hidden', stageW: '100%',
+      particles: [], flagCells: [], legend: [], hasLegend: false, attnOpts: [],
+      lmDeg: '—', lmOnMap: '—', lmMembers: '—', memberRows: '—', membersMedian: '—', membersMax: '—',
+      dsOpts: [], dsLabel: '', dsNote: '', dsSource: '', readCap: {}, overCap: [], gaps: [],
+      fieldsMissing: [], hasVia: false, hasMembers: false, hasDenialDir: false,
+      ties: [], bandBasis: '',
+      q: '', hitCount: 0, searching: false, onQuery: () => {}, clearQuery: () => {},
+      queryBc: '#262e36', hitLabel: 'idle', hitFg: '#4f5964', noHits: false,
+      results: [], moreHits: 0, hasMore: false, hasResults: false,
+      flagRule: '', flagSource: '', flagSourceFg: '#5c6672', flagLabel: 'FLAGS',
+      flagBc: '#262e36', flagFg: '#5c6672', flagBg: 'transparent', toggleFlags: () => {},
+      motionLabel: 'MOTION', motionBc: '#262e36', motionFg: '#5c6672',
+      motionBg: 'transparent', toggleMotion: () => {}, motionCount: 0,
+      clear: () => {}, toggleShared: () => {},
+    };
+    if (!M) return empty;
+
+    this._M = M;
+    const f = M.figures;
+    const oneToOne = this.state.zoom === '1';
+    const sc = oneToOne ? 1 : this.state.scale;
+    const N = new Map(M.nodes.map(n => [n.id, n]));
+    const sel = this.state.sel ? N.get(this.state.sel) : null;
+
+    const budget = this.budget, sm = this.sharedMode;
+    const visible = M.edges.filter(e => {
+      if (e.kind === 'shared' && sm === 'never') return false;
+      if (sel) return e.a === sel.id || e.b === sel.id;
+      /* An anchor is the only line a node has. ON SELECT hides the *summary*
+         layer, not the guarantee — dropping anchor-role shared edges at rest
+         would leave nodes bare and make clause 2 a false statement on the page. */
+      if (e.kind === 'shared' && sm === 'select') return e.role === 'anchor' || budget === 'all';
+      if (budget === 'all') return true;
+      if (budget === 'direct') return e.rest || e.kind === 'direct';
+      return e.rest || e.kind === 'shared';
+    });
+
+    const hop = new Set();
+    if (sel) { hop.add(sel.id); visible.forEach(e => { hop.add(e.a); hop.add(e.b); }); }
+
+    const mode = this.wire;
+    const geoms = this.wireSet(visible, N, mode, M);
+    const wires = visible.map((e, i) => {
+      const g = geoms[i];
+      const structural = e.role === 'structural';
+      const stroke = e.kind === 'shared' ? '#a795e8' : (e.denial ? '#e8705f' : (structural ? '#5ed4e6' : '#6f7f8c'));
+      const thin = mode === 'straight' || mode === 'ortho';
+      return {
+        d: g.d, stroke,
+        sw: (structural ? 1.3 : (e.role === 'anchor' ? 1 : 0.8)) * (thin ? 0.85 : 1),
+        dash: DASH[e.tier] || '', marker: e.denial ? 'url(#dn)' : '',
+        op: sel ? 0.95 : (e.role === 'local' ? 0.3 : (structural ? 0.72 : 0.42)),
+      };
+    });
+
+    /* A summarised line reading "5" is a count with no content. When a node is
+       selected its shared lines name the members instead — two of them fit on the
+       line, and past that the numeral is the only honest label, which is also what
+       keeps the 18-member case from overflowing. */
+    const vm = M.viaMembers || {};
+    const memberName = id => (vm[id] || [id])[0];
+    const counts = visible.map((e, i) => ({ e, g: geoms[i] })).filter(r => r.e.kind === 'shared').map(({ e, g }) => {
+      // named while the names fit, then one name and a remainder, then the numeral.
+      // The numeral is the only honest label past four, and it is also what keeps
+      // the 18-member case from overflowing its line.
+      // names only where the source carries via[]; otherwise the count is all
+      // there is to say, and saying more would be inventing it
+      const via = e.via || null;
+      const named = !!sel && !!via && e.n <= 4;
+      const text = !named ? String(e.n)
+        : e.n <= 2 ? via.map(memberName).join(' · ')
+        : memberName(via[0]) + ' +' + (e.n - 1);
+      const fs = named ? 9 : 9.5;
+      const w = named ? 12 + text.length * 5.6 : 14 + text.length * 5.6;
+      return {
+        rx: Math.round(g.mx - w / 2), ry: Math.round(g.my - 8), rw: Math.round(w), rh: 16,
+        tx: Math.round(g.mx), ty: Math.round(g.my + 3.5),
+        n: text, fs, op: sel ? 1 : 0.7,
+      };
+    });
+
+    /* THE START-HERE LAYER ----------------------------------------------------
+       "Interesting" is a pointer somebody chose, not something the record says,
+       so it must not borrow any channel that means credibility. Tier keeps the
+       left rule, structural keeps the cyan, and this gets amber — the board's
+       missing/open hue — drawn as an outline OFFSET from the chip rather than a
+       fill inside it, so it reads as a mark laid on top of the board instead of a
+       property of the node. Nothing about the node's own body changes.
+
+       It is drawn at two scales because it has to survive both: at FIT the cell
+       carries a wash, so the region reads before any label does; at 1:1 the chip
+       carries the outline and its rank numeral, so the nine are enumerable and
+       the legend can explain each one. */
+    const flags = ((M.highlights || {}).flags) || [];
+    const showFlags = this.state.flags ?? this.props.showHighlights ?? true;
+    const flagBy = new Map(showFlags ? flags.map(x => [x.id, x]) : []);
+    const attn = this.attention;
+    const BREATH = '7s';
+    const chipAnim = fl => !fl || attn === 'off' ? 'none'
+      : attn === 'breath'
+        ? `l0breathChip ${BREATH} ease-in-out infinite`
+        : `l0once 1.1s ease-out ${(fl.rank * 0.13).toFixed(2)}s both`;
+    const flagCells = [];
+    if (showFlags) {
+      const seen = new Set();
+      for (const fl of flags) {
+        const n = N.get(fl.id); if (!n) continue;
+        const key = n.band + '/' + n.col; if (seen.has(key)) continue;
+        seen.add(key);
+        const band = M.bands.find(b => b.id === n.band);
+        const col = M.eras.find(c => String(c.id) === String(n.col));
+        if (band && col) flagCells.push({
+          x: col.x, y: band.y, w: col.w, h: band.h,
+          anim: attn === 'off' ? 'none'
+            : attn === 'breath' ? `l0breathCell ${BREATH} ease-in-out infinite`
+            : `l0cellonce 1.1s ease-out ${(fl.rank * 0.13).toFixed(2)}s both`,
+        });
+      }
+    }
+    const legend = flags.map(fl => {
+      const n = N.get(fl.id);
+      return {
+        rank: String(fl.rank).padStart(2, '0'),
+        label: n ? n.short : fl.id,
+        why: fl.why || 'no reason given in the highlights file',
+        cell: n ? n.cell : '—',
+        pick: () => this.setState({ sel: fl.id }),
+      };
+    });
+
+    this.flagIds = new Set(flags.map(x => x.id));
+
+    // off-map member names, indexed by the map nodes they join — what via: searches
+    const viaIdx = new Map();
+    for (const e of M.edges) {
+      if (e.kind !== 'shared') continue;
+      const names = (e.via || []).map(id => ((M.viaMembers || {})[id] || [id]).join(' ').toLowerCase());
+      for (const end of [e.a, e.b]) {
+        if (!viaIdx.has(end)) viaIdx.set(end, []);
+        viaIdx.get(end).push(...names);
+      }
+    }
+    const q = (this.state.q || '').trim();
+    const toks = q ? q.split(/\s+/) : [];
+    const hits = q ? M.nodes.filter(n => toks.every(t => this.tokenMatch(t, n, M, viaIdx))) : [];
+    const hitIds = new Set(hits.map(n => n.id));
+    const searching = q.length > 0 && !sel;
+
+    const conflicted = new Set((f.dateConflictsChangingEra || []).map(r => r[0]));
+    const chips = M.nodes.map(n => {
+      const dim = (sel && !hop.has(n.id)) || (searching && !hitIds.has(n.id));
+      const isSel = sel && sel.id === n.id;
+      const isHit = searching && hitIds.has(n.id);
+      const fl = flagBy.get(n.id);
+      return {
+        x: n.x, y: n.y, label: n.short, title: n.label + '  ·  ' + n.id,
+        tier: TIERC[n.tier] || '#8d97a4',
+        /* The image occupies the slot the class letter already had, so adding
+           images costs no width and removing them loses no information. Greyscale
+           at rest is not styling: 110 institutional logos in brand colour would
+           take over a palette that spends colour on claim tier and edge kind. */
+        glyph: n.photo ? '' : (GLYPH[n.cls] || '···'),
+        /* The URL goes through a background-image value, never an `src`. `src` is
+           fetched eagerly, so during the placeholder phase the browser requests the
+           literal hole text and logs a failure per row; an unresolved style hole
+           renders nothing and requests nothing. background-size cover/contain maps
+           one-to-one onto the portrait/mark rule. */
+        photoBg: n.photo ? 'url("' + n.photo + '")' : 'none',
+        hasPhoto: !!n.photo,
+        photoFit: n.photoKind === 'mark' ? 'contain' : 'cover',
+        photoFrame: n.photoClearance === 'ask' ? '1px dashed #efb555' : '1px solid #262e36',
+        photoFilter: dim ? 'grayscale(1) opacity(.5)' : (isSel || isHit ? 'none' : 'grayscale(1) contrast(.92)'),
+        glyphFg: dim ? '#2b333c' : '#4f5964',
+        bg: isSel ? '#1e2630' : (dim ? '#0e1216' : (isHit ? '#16202a' : '#141920')),
+        fg: dim ? '#454e58' : (isSel || fl || isHit ? '#e6e9ee' : '#b9c2cd'),
+        op: dim ? 0.3 : 1,
+        outline: dim ? 'none' : (fl ? '1px dashed #efb555' : (isHit ? '1px solid #5ed4e6' : 'none')),
+        anim: dim ? 'none' : chipAnim(fl),
+        rank: fl ? String(fl.rank).padStart(2, '0') : '',
+        mark: n.isolated ? '×' : (conflicted.has(n.id) ? '?' : ''),
+        markFg: n.isolated ? '#e8705f' : '#efb555',
+        pick: () => this.setState({ sel: this.state.sel === n.id ? null : n.id }),
+      };
+    });
+
+    const bandRows = M.bands.map((b, i) => ({
+      y: b.y, h: b.h, name: BANDLBL[b.id] || b.id, n: b.n,
+      // mean C where the axis exists; otherwise say what the order actually is
+      meanC: b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2),
+      bg: i % 2 ? '#0f1216' : '#101419',
+      fg: sel && sel.band === b.id ? '#5ed4e6' : '#8d97a4',
+    }));
+
+    const cols = M.eras.map(c => ({
+      x: c.x, w: c.w, label: c.label, note: c.note,
+      n: M.nodes.filter(n => String(n.col) === String(c.id)).length,
+      rule: c.kind === 'nodate' ? '#333c47' : '#1d242b',
+      fg: c.kind === 'nodate' ? '#efb555' : '#b9c2cd',
+    }));
+
+    const budgets = [
+      ['rest', 'AT REST ' + f.restDrawn],
+      ['direct', 'ALL DIRECT ' + (f.directEdges + f.restShared)],
+      ['all', 'EVERYTHING ' + f.drawnBeforeBudget],
+    ].map(([k, label], i) => ({
+      label, blw: i ? '0px' : '1px',
+      bc: budget === k ? '#5ed4e6' : '#262e36',
+      fg: budget === k ? '#5ed4e6' : '#8d97a4',
+      bg: budget === k ? '#12171d' : 'transparent',
+      pick: () => this.setState({ budget: k, sel: null }),
+    }));
+
+    const matrixRows = M.matrix.map((r, i) => ({
+      band: BANDLBL[r.band] || r.band, total: r.total, bg: i % 2 ? '#12171d' : '#141920',
+      cells: r.cells.map(v => ({ t: v === 0 ? '·' : String(v), fg: v === 0 ? '#333c47' : (v >= 8 ? '#5ed4e6' : '#b9c2cd') })),
+    }));
+    const colTotals = M.eras.map(c => M.nodes.filter(n => String(n.col) === String(c.id)).length);
+
+    const disc = M.matrix.find(r => r.band === 'disclosure') || { cells: [0, 0, 0, 0], total: 0 };
+    const ovr = M.matrix.find(r => r.band === 'oversight') || { total: 0 };
+
+    const receipt = [
+      { label: 'BOARD NODES', brief: 968, now: f.boardNodes ?? '—',
+        note: 'Reproduces. The brief was right.' },
+      { label: 'L0 NODES ON THE MAP', brief: 110, now: f.l0,
+        note: 'Floor 6, distinct neighbours — recomputed, never the extract\u2019s deg field.' },
+      { label: 'EDGES DRAWN BEFORE BUDGET', brief: 313, now: f.drawnBeforeBudget,
+        note: f.directEdges + ' direct plus ' + f.summarisedEdges + ' summarised. Four more than the brief: the board moved.' },
+      { label: 'LARGEST SHARED-MEMBER COUNT', brief: 5, now: f.maxShared,
+        note: f.maxShared >= 18 ? 'The 18 the brief warned about is in the data. No tick vocabulary survives it.' : 'This dataset predates the 18-member pair.' },
+    ].map(r => {
+      const agree = String(r.brief) === String(r.now);
+      return {
+        ...r, agree,
+        briefFg: agree ? '#5c6672' : '#e8705f',
+        briefDeco: agree ? 'none' : 'line-through',
+        nowFg: agree ? '#66d69f' : '#5ed4e6',
+        verdict: agree ? 'AGREES' : 'MOVED',
+        verdictFg: agree ? '#66d69f' : '#efb555',
+      };
+    });
+
+    const inkRows = [
+      { label: 'structural — crosses 2 bands, 1 era', v: f.restStructural, c: '#5ed4e6' },
+      { label: 'anchors — one per otherwise-bare node', v: f.restAnchor, c: '#6f7f8c' },
+      { label: 'of those, shared-member', v: f.restShared, c: '#a795e8' },
+      { label: 'local, held back for selection', v: f.localHidden, c: '#4f5964' },
+      { label: 'nodes with no line at rest', v: f.orphans, c: '#8d97a4' },
+      { label: 'nodes with no L0-level link at all', v: f.isolated, c: '#e8705f' },
+    ];
+
+    const answers = [
+      { q: '1 · How do you pick a primary function when the tags overlap?',
+        a: 'Rarest tag on the map wins. Rarity is a usable proxy for specificity — the tag fewest nodes claim is the most particular thing the board says this node did — and it needs no manual pass over 96 dossiers, so it re-derives itself when the research moves.',
+        evidence: (f.haveC
+          ? 'Checks out against the board\'s own scoring: ordering the bands by measured mean C puts reverse-engineering at ' + (M.bands[0] || {}).meanC + ' and disclosure at ' + ((M.bands.find(b => b.id === 'disclosure') || {}).meanC) + ' without being told to. '
+          : 'Band order here falls back to rarity because this source carries no C/A/D — see the four fields in §00. ')
+          + f.roleTags + ' tags across ' + f.l0 + ' nodes, mean ' + f.roleTagsPerNode +
+          '. Concealment is claimed by ' + M.rarity.concealment + ' and is therefore never a band: it is the field, not a row.' +
+          ((f.rarityTies || []).length ? ' Watch the near-ties: ' + f.rarityTies.map(t => t[0] + ' ' + t[1] + '/' + t[2] + ' ' + t[3]).join(', ') + '. A pair within 10% can swap rank between research passes and take every node carrying both with it — which is exactly what oversight and disclosure did between these two datasets.' : '') },
+      { q: '2 · What happens to a node that spans eras?',
+        a: 'It sits at its start, and the span is not drawn. ' + (f.withEnd
+          ? 'Only ' + f.withEnd + ' of ' + f.l0 + ' nodes carry a dateEnd and only ' + f.withRealSpan + ' of those are longer than a year, so an extent channel would be absent for two thirds of the map and would print an absent end date as a closed one.'
+          : 'This source carries no dateEnd at all — it is in the backfill queue — so no node here could carry an extent even if the channel existed. The decision rests on the measurement from the legacy board, where 40 of 96 nodes had an end date and only 20 of those ran longer than a year.'),
+        evidence: (f.longSpans.length
+          ? 'The ' + f.longSpans.length + ' nodes with a span over ten years — ' + f.longSpans.map(s => s[0] + ' ' + s[1] + '–' + s[2]).join(', ') + ' — carry it in the dossier, where the reason is written down too. '
+          : 'Switch to LEGACY to see the four nodes that would qualify. ')
+          + 'Consequence, not duration, is what AAWSAP-type cases actually want, and that is an edge, not a bar.' },
+      { q: '3 · How do you label bands without stealing the space you just freed?',
+        a: 'A 148px left gutter, once, outside the plot. It carries the band name, its node count and ' + (f.haveC ? 'its mean C' : 'its rank in the order') + '. Nothing is labelled inside a cell and no legend sits on the canvas.',
+        evidence: 'The gutter costs 7% of a 2200px world — the same world the current bake uses — and replaces the label collision problem entirely: the bake\'s separation pass exists to stop node labels overlapping, and a packed grid cannot overlap.' },
+      { q: '4 · How do you stop it reading as a Gantt chart?',
+        a: 'The X axis is four discrete columns, not a continuous scale. There is no position within a column that means a year, so no horizontal run can be read as a duration and no crossing as a sequence. The orthogonal traces reinforce it: a leg turns into a gutter and leaves, which is wiring, not a bar.',
+        evidence: 'The arcs also carry the argument in the direction a Gantt cannot: ' + f.sameCell + ' direct edges join nodes in the same cell and are suppressed precisely because they say nothing position has not already said.' },
+      { q: '5 · The last decade holds nearly half the map. Compress or accept?',
+        a: 'Accept, and keep the columns equal. ' + f.lastEraShare + '% of dated nodes start in 2017–2026. Widening that column to fit its contents, or narrowing the early ones to their thin population, is exactly the finding erased.',
+        evidence: 'Equal columns make the pile-up the first thing the eye gets, and the cells stay legible because the crowding is bounded: the busiest cell holds ' + Math.max.apply(null, M.matrix.map(r => Math.max.apply(null, r.cells))) + ' nodes, which packs into a two-column grid without shrinking a chip.' },
+    ];
+
+    const checks = [
+      { name: 'degree_is_distinct_neighbours', asserts: 'The L0 set built from distinct neighbours equals the shipped model\'s node list.',
+        rejects: 'a model baked from the extract\'s deg field — it would report ' + f.l0StaleDeg + ' nodes against the model\'s ' + f.l0 + '.' },
+      { name: 'figures_match_model', asserts: 'Every number rendered on this page is read from data/l0-layout-model.json, not recomputed.',
+        rejects: 'any hand-edited figure in the write-up — change one and the page contradicts the file it cites, because there is only one copy of each number.' },
+      { name: 'no_node_without_a_line', asserts: 'After the budget, every node that has any L0-level edge has at least one drawn at rest.',
+        rejects: 'clause 1 shipped without clause 2 — it reaches only ' + f.clause1Covers + ' of ' + f.l0 + ' nodes, leaving ' + f.bareAfterClause1 + ' bare, so the check fires the moment the ' + f.restAnchor + ' anchors go missing.' },
+      { name: 'absent_prints_as_absent', asserts: 'Nodes without a dateStart appear in a labelled NO DATE column; nodes with no L0-level link carry the × mark.',
+        rejects: 'placing ' + (f.withoutDateIds || []).join(' or ') + ' in an era column, and any build where the isolated count drops to zero without those ' + f.isolated + ' nodes gaining a real edge.' },
+      { name: 'motion_only_where_direction_is_attested',
+        asserts: 'A path carries a particle only if it is a denial, where the issuer is recorded, or if it belongs to the selected node.',
+        rejects: 'a time-direction flow on every line — it would assert a direction on the ' + (f.directEdges - 44) + ' direct edges whose relationship the board states no direction for.' },
+      { name: 'highlights_are_a_pointer_not_a_tier',
+        asserts: 'Flags name ids that are on the map, stay under ' + 15 + '% of it, and change no channel that means credibility.',
+        rejects: 'a highlights file naming an id the floor excluded, or flagging more than ' + Math.round(f.l0 * 0.15) + ' of ' + f.l0 + ' nodes — a pointer at everything points at nothing.' },
+      { name: 'no_size_channel', asserts: 'Every chip is 205×20. Degree changes packing order inside a cell and nothing else.',
+        rejects: 'any model where the set of distinct chip widths or heights has more than one member.' },
+      { name: 'layout_is_deterministic', asserts: 'Two runs over identical inputs give byte-identical positions; no random, no physics, no wall clamp.',
+        rejects: 'a re-introduced force pass — and unlike the current bake there is no clamped-percentage or label-overlap figure to watch, because neither can occur.' },
+    ];
+
+    const open = [
+      { t: 'Your figures, not mine', d: 'Everything here is measured on board commit 9ccc25d via data/l0-extract.json, because the files the brief names are not in the repo. Re-run the generator against the current board and the shape should hold — the rule is scale-free — but every count on this page will move. Do not quote them.' },
+      { t: 'The date axis rests on merge precedence, not on me', d: f.dateConflicts + ' ids carry conflicting dateStart values across research/*.json, ' + f.dateConflictsOnMap.length + ' of them on the map. Only one changes an era column — yankee-blue, which the corpus dates to both 1980 and 2023 — and it is marked ? on the chip. If merge.py\'s precedence rule is not the one you want the axis to follow, the axis is wrong for that node and no amount of layout fixes it.' },
+      { t: 'Two of the eight bands never fill', d: 'Concealment is claimed by ' + M.rarity.concealment + ' of ' + f.l0 + ' nodes and is never any node\'s rarest tag, so it draws no row. Oversight draws one. I read that as the 79-year gap showing up in the layout rather than as a fault, but it is a judgement and you may want oversight promoted into a real band by hand.' },
+      { t: 'The entry surface probably wants to own the rest state', d: 'With six curated paths returning 7 to 38 nodes each, the honest default may be no map at all until a path is chosen — in which case this budget is what the map falls back to when a path is cleared, not what a stranger meets first. That is your call, not a design one.' },
+      { t: 'Not checked against the renderer', d: 'This is a comp against the model, not a patch against tools/l0_patches.py. Whether the packed-cell layout can be expressed as a named patch on the parent board\'s canvas renderer — which draws from x/y and knows nothing about cells — is the cost question in §4.1 and I cannot answer it from here.' },
+    ];
+
+    const ladder = M.ladder.map(l => {
+      const isRule = l.rule.indexOf('THE RULE') >= 0;
+      return {
+        n: l.n, pct: l.pct, rule: l.rule,
+        bg: isRule ? '#141920' : 'transparent',
+        fg: isRule ? '#5ed4e6' : '#b9c2cd',
+        rfg: isRule ? '#e6e9ee' : '#8d97a4',
+      };
+    });
+
+    const selEdges = !sel ? [] : visible.map(e => {
+      const otherId = e.a === sel.id ? e.b : e.a;
+      const o = N.get(otherId);
+      const dir = (e.dn || []).length ? (e.dn[0][0] === sel.id ? ' denial issued →' : ' ← denial received') : '';
+      const names = e.kind !== 'shared' ? (e.types || []).join('/')
+        : e.via
+          ? 'via ' + e.via.slice(0, 4).map(memberName).join(' · ') +
+            (e.via.length > 4 ? ' +' + (e.via.length - 4) + ' more' : '')
+          : e.n + ' shared members — names need via[]';
+      return {
+        other: o.short.length > 44 ? o.short.slice(0, 43) + '…' : o.short,
+        kindMark: e.kind === 'shared' ? '≈' + e.n : '—',
+        c: e.kind === 'shared' ? '#a795e8' : (e.denial ? '#e8705f' : '#5ed4e6'),
+        detail: 't' + e.tier + ' · ' + names + ' · ' + e.role + dir,
+      };
+    }).sort((a, b) => a.detail < b.detail ? -1 : 1);
+
+    const wireOpts = [
+      ['ortho', 'ORTHOGONAL', 'Default. The parent board\u2019s traces \u2014 vertical legs run in the gutters between era columns.'],
+      ['arc', 'ARC', 'Quadratic, curvature by length. Airier, and nothing can be misread as a bar.'],
+    ].map(([k, label, note], i) => ({
+      label, note, blw: i ? '0px' : '1px',
+      bc: mode === k ? '#5ed4e6' : '#262e36',
+      fg: mode === k ? '#5ed4e6' : '#8d97a4',
+      bg: mode === k ? '#12171d' : 'transparent',
+      pick: () => this.setState({ wire: k }),
+    }));
+    const wireNote = (wireOpts.find(w => w.bc === '#5ed4e6') || {}).note || '';
+    const motionOn = this.motion;
+    const particles = this.particlesFor(visible, geoms, sel);
+
+    const zooms = [['fit', 'FIT'], ['1', '1:1']].map(([k, label], i) => ({
+      label, blw: i ? '0px' : '1px',
+      bc: this.state.zoom === k ? '#5ed4e6' : '#262e36',
+      fg: this.state.zoom === k ? '#5ed4e6' : '#8d97a4',
+      bg: this.state.zoom === k ? '#12171d' : 'transparent',
+      pick: () => this.setState({ zoom: k }),
+    }));
+
+    return {
+      gen: (ALL || {}).generated || '', fig: f, scale: sc, worldH: M.worldH,
+      stageH: Math.round(M.worldH * sc), zooms, wireOpts, wireNote,
+      stageOverflow: oneToOne ? 'auto' : 'hidden',
+      particles, flagCells, legend,
+      q, hitCount: hits.length, searching,
+      onQuery: ev => this.setState({ q: ev.target.value, sel: null }),
+      clearQuery: () => this.setState({ q: '' }),
+      queryBc: q ? '#5ed4e6' : '#262e36',
+      hitLabel: !q ? 'idle' : hits.length + ' of ' + f.l0,
+      hitFg: !q ? '#4f5964' : (hits.length ? '#5ed4e6' : '#e8705f'),
+      noHits: q.length > 0 && hits.length === 0,
+      results: hits.slice(0, 8).map(n => ({
+        label: n.short.length > 52 ? n.short.slice(0, 51) + '…' : n.short,
+        meta: n.band + ' · ' + (M.eras.find(c => String(c.id) === String(n.col)) || {}).label +
+          ' · deg ' + n.deg + ' · tier ' + n.tier,
+        pick: () => this.setState({ sel: n.id }),
+      })),
+      moreHits: hits.length > 8 ? hits.length - 8 : 0,
+      hasMore: hits.length > 8,
+      hasResults: hits.length > 0 && q.length > 0,
+      attnOpts: [['breath', 'BREATHE'], ['once', 'ONCE'], ['off', 'STILL']].map(([k, label], i) => ({
+        label, blw: i ? '0px' : '1px',
+        bc: attn === k ? '#efb555' : '#262e36',
+        fg: attn === k ? '#efb555' : '#8d97a4',
+        bg: attn === k ? '#12171d' : 'transparent',
+        pick: () => this.setState({ attn: k }),
+      })),
+      flagRule: (M.highlights || {}).rule || '',
+      flagSource: (M.highlights || {}).placeholder ? 'PLACEHOLDER — DERIVED' : 'data/l0-highlights.json',
+      flagSourceFg: (M.highlights || {}).placeholder ? '#efb555' : '#5ed4e6',
+      flagLabel: showFlags ? 'FLAGS ' + f.flagged : 'FLAGS OFF',
+      flagBc: showFlags ? '#efb555' : '#262e36',
+      flagFg: showFlags ? '#efb555' : '#5c6672',
+      flagBg: showFlags ? '#12171d' : 'transparent',
+      toggleFlags: () => this.setState({ flags: !showFlags }),
+      hasLegend: showFlags && legend.length > 0,
+      motionLabel: this.reduced ? 'MOTION — REDUCED' : (motionOn ? 'MOTION ON' : 'MOTION OFF'),
+      motionBc: motionOn ? '#e8705f' : '#262e36',
+      motionFg: motionOn ? '#e8705f' : '#5c6672',
+      motionBg: motionOn ? '#12171d' : 'transparent',
+      toggleMotion: () => this.setState({ motion: !motionOn }),
+      motionCount: particles.length,
+      receipt, budgets, cols, bandRows, chips, wires, counts,
+      matrixRows, colTotals, ladder, answers, checks, open, inkRows, selEdges,
+      hasSel: !!sel, noSel: !sel, noPhoto: !!sel && !sel.photo,
+      discLast: disc.cells[3], discTotal: disc.total, oversightN: ovr.total,
+      dsOpts: [['current', 'CURRENT · 110'], ['legacy', 'LEGACY · 96']]
+        .filter(([k]) => ALL && ALL[k])
+        .map(([k, label], i) => ({
+          label, blw: i ? '0px' : '1px',
+          bc: dsKey === k ? '#5ed4e6' : '#262e36',
+          fg: dsKey === k ? '#5ed4e6' : '#8d97a4',
+          bg: dsKey === k ? '#12171d' : 'transparent',
+          pick: () => this.setState({ ds: k, sel: null, q: '' }),
+        })),
+      dsLabel: M.label, dsNote: M.note, dsSource: M.source,
+      readCap: (ALL || {}).readCap || {},
+      overCap: (((ALL || {}).readCap || {}).overCap || [])
+        .map(r => ({ file: r[0], size: r[1], what: r[2] })),
+      gaps: ((ALL || {}).gaps || []).map((g, i) => {
+        const key = ['via', 'members', 'membersSplit', 'cad', 'denialDir', 'dateEnd', 'photo'][i];
+        const have = key === 'photo' ? f.withPhoto > 0
+          : key === 'membersSplit' ? M.memberBasis === 'neighbours'
+          : !!(M.fields || {})[key];
+        return {
+          field: g[0], what: g[1], pull: g[2], cost: g[3],
+          mark: have ? 'PRESENT' : 'TO BACKFILL',
+          markFg: have ? '#66d69f' : '#efb555',
+          rowBg: have ? 'transparent' : '#12171d',
+        };
+      }),
+      fieldsMissing: Object.entries(M.fields || {}).filter(([, v]) => !v).map(([k]) => k),
+      hasVia: !!(M.fields || {}).via,
+      hasMembers: !!(M.fields || {}).members,
+      hasDenialDir: !!(M.fields || {}).denialDir,
+      ties: (f.rarityTies || []).map(t => ({ text: t[0] + ' ' + t[1] + ' vs ' + t[2] + ' ' + t[3] })),
+      bandBasis: f.bandOrderBasis,
+      lmDeg: (N.get('lockheed-martin') || {}).deg,
+      lmOnMap: (N.get('lockheed-martin') || {}).onMapEdges,
+      lmMembers: (N.get('lockheed-martin') || {}).memberCount,
+      memberRows: f.memberRows, membersMedian: f.membersMedian, membersMax: f.membersMax,
+      selPhotoBg: sel && sel.photo ? 'url("' + sel.photo + '")' : 'none',
+      selHasPhoto: !!(sel && sel.photo),
+      selPhotoFit: sel && sel.photoKind === 'mark' ? 'contain' : 'cover',
+      selPhotoFrame: sel && sel.photoClearance === 'ask' ? '1px dashed #efb555' : '1px solid #262e36',
+      selPhotoCredit: sel ? (sel.photoCredit || '') : '',
+      selPhotoNote: sel ? (sel.photoNote || '') : '',
+      selGlyphBig: sel ? (GLYPH[sel.cls] || '·') : '',
+      sel: sel ? {
+        id: sel.id, label: sel.label, cls: sel.cls, cluster: sel.cluster, tier: sel.tier,
+        tierC: TIERC[sel.tier] || '#8d97a4', cell: sel.cell, deg: sel.deg,
+        claims: sel.claims, t1: sel.t1, cad: sel.C + '/' + sel.A + '/' + sel.D,
+        dateStr: sel.y0 == null ? 'absent' : (sel.y1 && sel.y1 !== sel.y0 ? sel.y0 + '–' + sel.y1 : String(sel.y0)),
+        denialStr: sel.di + ' issued, ' + sel.dr + ' received',
+        primary: sel.band, otherRoles: sel.roles.filter(r => r !== sel.band).join(' · ') || 'none',
+      } : {},
+      memberBasisLabel: M.memberBasis === 'neighbours'
+        ? 'off-map neighbours · sums to the degree'
+        : 'P1 roll-up to depth 3 · not a remainder of the degree',
+      mixRows: !sel ? [] : Object.entries(sel.mix || {})
+        .sort((a, b) => b[1] - a[1])
+        .map(([cls, n]) => ({ cls, n, fg: cls === 'person' ? '#c9d2dd' : '#8d97a4' })),
+      members: !sel ? [] : (sel.members || []).map(r => ({
+        label: r[1].length > 46 ? r[1].slice(0, 45) + '…' : r[1],
+        cls: (GLYPH[r[2]] || '·'),
+        clsFg: r[2] === 'person' ? '#c9d2dd' : '#4f5964',
+        type: r[3], tier: 't' + r[4],
+        tierFg: r[4] === 1 ? '#5ed4e6' : (r[4] === 2 ? '#efb555' : '#8d97a4'),
+        dir: r[3] === 'denial' ? (r[5] ? 'issued →' : '← received') : '',
+      })),
+      /* Two different quantities depending on the source, and they must not be
+         presented alike. On legacy, members ARE the off-map neighbours, so the two
+         figures sum to the degree exactly. On current, `members` is the P1 roll-up
+         — direct plus routed to depth 3 — which is not a remainder of anything and
+         is stated as its own number rather than as subtraction. */
+      memberNote: !sel ? '' : (M.memberBasis === 'neighbours'
+        ? sel.onMapEdges + ' of its ' + sel.deg + ' neighbours are drawn on the map. The other ' +
+          sel.memberCount + ' are held back by the rollup — they are not absent from the board.'
+        : sel.onMapEdges + ' of its ' + sel.deg + ' neighbours are drawn on the map. Its roll-up ' +
+          'carries ' + sel.memberCount + ' members, counted through up to three intermediates, so ' +
+          'that figure is not the remainder of the degree and the two do not sum.') +
+        ((M.fields || {}).members ? '' : ' This dataset carries the count and the class mix, not the names: add members[] and this list fills in.'),
+      inkNote: sel
+        ? 'Selection overrides the budget: every edge on this node is drawn, including the local ones held back at rest.'
+        : f.restDrawn + ' lines for ' + f.l0 + ' nodes, ' + f.restPct + '% of the ' + f.drawnBeforeBudget + ' the map can draw. The current rest state draws all of them.',
+      sharedOpts: [['select', 'ON SELECT'], ['always', 'ALWAYS'], ['never', 'NEVER']]
+        .map(([k, label], i) => ({
+          label, blw: i ? '0px' : '1px',
+          bc: sm === k ? '#a795e8' : '#262e36',
+          fg: sm === k ? '#a795e8' : '#8d97a4',
+          bg: sm === k ? '#12171d' : 'transparent',
+          pick: () => this.setState({ sharedMode: k }),
+        })),
+      clear: () => this.setState({ sel: null, q: '' }),
+    };
+  }
+}
+</script>
+</body>
+</html>

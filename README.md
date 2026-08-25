@@ -3,8 +3,11 @@
 A network board mapping the legacy UAP recovery and reverse-engineering program and the
 modern disclosure movement, 1944–2026.
 
-**970 nodes · 246 people · 1,786 hand-written sourced links · 4,108 tiered claims ·
-858 timeline events · 82 years.**
+**968 nodes · 279 people · 2,160 hand-written sourced links · 4,431 tiered claims ·
+2,825 unique source URLs · 858 timeline events · 82 years.**
+
+*Counts as of 24 August 2026. They move every research pass — regenerate rather than
+trusting them. See `CLAUDE.md` for how.*
 
 Open `dist/the-program.html` by double-clicking it. No server, no build step, no
 dependencies. It is a single self-contained file.
@@ -26,7 +29,7 @@ Every claim on the board carries a tier:
 | **2** | Sourced claim |
 | **3** | Inference, with the reasoning stated |
 
-**59% of 4,108 claims rest on a primary record.** That number is the product. The design's
+**59% of 4,431 claims rest on a primary record.** That number is the product. The design's
 job is to make it impossible to read the board without knowing which parts are documented
 and which are testimony — not to make the testimony look more documented than it is.
 

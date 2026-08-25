@@ -651,6 +651,37 @@ def _golden(b, html):
 
 
 # ---------------------------------------------------------------------------
+# the no-key analyst — the only voice a reader without an API key ever hears.
+# ---------------------------------------------------------------------------
+
+@check("scripted analyst answers from the right branch")
+def check_scripted_analyst(board, html):
+    """Delegate to tools/test_scripted_analyst.mjs, which asserts the TOPIC TAG
+    of each answer rather than its prose.
+
+    Kept as a separate script, and shelling out rather than reimplementing:
+    the function under test is JavaScript that closes over NODES and L0DATA, so
+    the only honest way to test it is to run it. Reimplementing its routing in
+    Python would produce a check that agrees with my reading of the code, which
+    is the failure this repo keeps hitting.
+
+    That script carries its own self-test: BREAK=1 disables the topic table and
+    the run must go red. This check is exercised in self_test() the same way.
+    """
+    exe = os.path.join(ROOT, "tools", "test_scripted_analyst.mjs")
+    if not os.path.exists(exe):
+        return ["tools/test_scripted_analyst.mjs is missing"]
+    env = dict(os.environ)
+    r = subprocess.run(["node", exe], capture_output=True, cwd=ROOT, env=env)
+    if r.returncode == 0:
+        return []
+    out = (r.stdout.decode() + r.stderr.decode())
+    lines = [l for l in out.splitlines() if l.startswith("FAIL") or "->" in l]
+    return ["scripted analyst routing: " + l.strip() for l in lines[:12]] or \
+           ["scripted analyst test exited %d: %s" % (r.returncode, out[-300:])]
+
+
+# ---------------------------------------------------------------------------
 # idempotency — the check that would have caught the 35 lost dates.
 # ---------------------------------------------------------------------------
 
@@ -665,13 +696,31 @@ def check_idempotent():
         # build_l0 bakes the L0 model and its layout; build_dashboard consumes it.
         # It is in the idempotency gate because a bake seeded from anything
         # non-deterministic would drift here and nowhere else.
+        # build_design_extract feeds build_l0_layout, which is Design's generator
+        # and is now inside the gate: a packed layout is a pure function of its
+        # inputs, so if it is not byte-identical across two runs something
+        # non-deterministic has crept back in.
         for cmd in (["merge.py"], ["regrade.py"], ["merge.py"],
-                    ["build_l0.py"], ["build_dashboard.py"]):
-            r = subprocess.run([sys.executable, os.path.join(ROOT, "tools", cmd[0])],
+                    ["build_l0.py"], ["build_design_extract.py"],
+                    ["build_l0_layout.mjs"], ["build_dashboard.py"]):
+            exe = ["node"] if cmd[0].endswith(".mjs") else [sys.executable]
+            r = subprocess.run(exe + [os.path.join(ROOT, "tools", cmd[0])],
                                capture_output=True, cwd=ROOT)
             if r.returncode != 0:
                 return None, f"{cmd[0]} exited {r.returncode}: {r.stderr.decode()[:400]}"
-        return hashlib.sha256(open(DIST, "rb").read()).hexdigest(), None
+        # Both artifacts carry a "generated":"YYYY-MM-DD" stamp. Hashing it makes
+        # this check fail for a build that straddles midnight UTC -- a real, rare,
+        # maximally confusing false failure, since nothing is actually
+        # non-deterministic and a re-run passes. Neutralise the stamp and hash
+        # everything else. Verified 25 Aug: two consecutive runs are byte-identical
+        # apart from this field.
+        stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
+        h = hashlib.sha256()
+        h.update(stamp.sub(b'"generated":"<stamped>"', open(DIST, "rb").read()))
+        lm = os.path.join(ROOT, "data", "l0-layout-model.json")
+        if os.path.exists(lm):
+            h.update(stamp.sub(b'"generated":"<stamped>"', open(lm, "rb").read()))
+        return h.hexdigest(), None
 
     h1, err = build_once()
     if err:
@@ -850,10 +899,23 @@ def self_test():
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")
             continue
-        b = poisons.get(name, base)
-        html = poison_html.get(name, good_html)
-        caught = fn(b, html)
-        clean = fn(base, good_html)
+        # The scripted-analyst check does not read the board or the HTML fixture
+        # -- it runs real JavaScript in a subprocess -- so a poisoned dict proves
+        # nothing about it. Its poison is BREAK=1, which disables the topic table
+        # inside the function under test. Same contract as every other check:
+        # show it going red, or it is not evidence.
+        if name == "scripted analyst answers from the right branch":
+            os.environ["BREAK"] = "1"
+            try:
+                caught = fn(base, good_html)
+            finally:
+                os.environ.pop("BREAK", None)
+            clean = fn(base, good_html)
+        else:
+            b = poisons.get(name, base)
+            html = poison_html.get(name, good_html)
+            caught = fn(b, html)
+            clean = fn(base, good_html)
         if not caught:
             print(f"  FAIL  {name}: did NOT reject poisoned input — this check is dead")
             ok = False

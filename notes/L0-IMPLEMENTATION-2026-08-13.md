@@ -801,3 +801,209 @@ university's mailing address.
    exists in which the answer would appear.
 3. SIAN item numbers for Operação Prato. CAPTCHA and gov.br authentication.
 4. The 1986 press coverage at memoria.bn.gov.br. Empty body returned.
+
+---
+
+# Stage 10 — adversarial review, 14 August 2026
+
+Run at Stewart's request against the finished board. Three layers.
+
+## Layer 1 — Jess: independent numeric re-derivation
+
+`tools/audit_independent.py`, which **deliberately does not import `verify.py` or
+`build_l0.py`.** Running the author's own gate proves the author is self-consistent,
+not that the deliverable is right. This file reimplements the floor, the BFS
+registers, the edge aggregation and the shared-member gate from scratch and compares
+against both the model and the figures a reader actually sees.
+
+**38 checks, 0 failures.** Every rendered figure ties: ENTITIES 968, SOURCED LINKS
+2,160, TIER A 144, DOCUMENTED 59% of 4,431, DENIALS 174, CUSTODY 119, map 428
+objects. The L0 set was compared by **exact membership**, not just count.
+
+**The audit script's own first run had two failures, and both were the script's
+fault, not the board's.** It scraped the built HTML for the stats strip, but the
+strip is computed at runtime, so it matched `5205` out of "DoDD 5205.07" for CUSTODY
+and could not find ENTITIES at all. Fixed to read the rendered DOM. Where the runtime
+capture is absent the checks now **fail loudly rather than skip silently** — the
+canvasInk lesson, applied to the auditor.
+
+## Layer 2 — Justin: fresh-eyes visual pass
+
+Run in a subagent given only the screenshots and told to ignore the data entirely.
+It found eight things, six of them real.
+
+**The one that mattered: the dossier panel was clipping every line at both edges.**
+The panel the entire board exists to deliver, losing the end of every sentence.
+
+The cause is worth recording because my own instrumented check **passed while it was
+broken.** The shell is a CSS grid and the dock is a grid child whose track is sized by
+`--dock-w`. I was setting `width` on the *element*, which made the element wider than
+its track, so it overflowed to the right and off-screen. A programmatic "does any
+child overflow its parent" test returned zero overflowing elements — because the
+children fitted the element fine. It was the element that did not fit the grid.
+Measuring `dock.right` against `window.innerWidth` is what caught it.
+
+That is the third time this session that a check I wrote agreed with me and the
+screenshot disagreed. **The visual pass is not optional and it has to be a subagent.**
+
+Also fixed:
+- The register panel rendered as a 400x700 black void when empty, which reads as a
+  failed load rather than a zero-result state. It now collapses and says so.
+- The register covered the breadcrumb, leaving an orphan "cts · 1.15x" fragment.
+  Re-positioned below the chrome.
+- The member popover ran past the canvas bottom with no scrollbar: a header reading
+  "PERSON · 6" rendered one row. The count and the content disagreed and the reader
+  had no way to tell. Now clamped and scrolls.
+- The object count sat directly on live map content. Given a backing plate.
+
+**Kept as inherited template, deliberately:** the KPI strip's trailing dead space and
+uneven cell widths, the nav dot leaders that terminate in nothing for views with no
+count, and the rail clipping at the analyst bar. All three are parent-board shell
+behaviour, unchanged from *The Vanishing*, and changing them here would fork the
+shared design system for cosmetic reasons.
+
+## Layer 3 — the CEO gate: what could still be wrong
+
+1. **The Sec. 1102 turn-in language has never been read verbatim.** Tier 2, recorded.
+   If challenged, the board cannot produce the bill text — only a secondary source
+   describing a differently-numbered section of a different bill.
+2. **"Twelve seats" is the statutory floor, not the readership.** DoDI 5205.11
+   §7.2.a(3) admits staff directors, a security manager and the intelligence
+   committees. Any framing that says twelve people is the whole readership overclaims.
+3. **`operacao-prato` and `ev-noite-ovnis-1986` are Tier 1 poor.** No SIAN item
+   numbers, no primary FAB order, no press-conference transcript. Fragile to a single
+   challenge.
+4. **`manhattan-project-2` has zero Tier 1 claims** and rests on named proponents.
+   Correctly tiered, but it is on the map and will be asked about.
+5. **`gerb-mitre-investigation` rests on one podcast** whose speaker's identity is
+   unknown.
+6. **Single-event sensitivity:** the floor is degree >= 6. Ten L0 nodes sit at exactly
+   6. One retracted edge drops any of them off the map and takes its dossier with it.
+7. **The 2026-dated material is the freshest and the thinnest.** PURSUE, the ODNI NDA
+   waiver memo and the FY2027 amendment all rest substantially on secondary reporting
+   because the primary channels do not render.
+8. **59% DOCUMENTED is 58.59% rounded.** Correct, but a tie-out question waiting to
+   happen if someone recomputes from the claim table.
+
+---
+
+# Stage 11 — the analyst pass and the request queue, 14 August 2026
+
+## The board was used for the thing it was built for
+
+`notes/ANALYST-PASS-2026-08-14.md`. An analyst agent traversed the 4,320 connection
+rows, the 110 dossiers and the 674 open questions looking for joins that no single
+node states. **7 finds: 5 STRONG, 1 PLAUSIBLE, 1 mixed**, plus four sub-threshold
+items and a negative-results section.
+
+**The strongest is a genuine novel join.** John Schuessler appears **twice inside the
+same $22M DIA/AAWSAP contract** — as the named author of the BAASS March 2009 monthly
+report on Colares, and as the source of Appendix A, the "Schuessler Catalog of
+UFO-Related Human Physiological Effects", in the AAWSAP human-effects DIRD whose
+stated Hypothesis One is that human injury can be reverse-engineered into propulsion
+physics.
+
+His node has **two neighbours** — `betty-cash` and `mufon` — and mentions neither
+AAWSAP, BAASS, DIA, Kit Green nor Colares. The board contained every fact needed to
+see it and nobody had crossed them. That is the payoff the connection layer was built
+for, and it worked on first use.
+
+The finds are **not yet wired as edges.** They are inferences from existing claims and
+should be reviewed before they mutate the board.
+
+## The request queue
+
+`notes/REQUEST-QUEUE.md`. 674 open questions triaged into what a person can actually
+execute.
+
+```
+FOIA / records requests   18   closing ~95 open questions across 45 nodes
+archive + manual          11   including all four items automation could not reach
+paywalled / purchasable    6   + 1 time-locked (Rice MS 0672, opens 2031)
+permanently blocked       11   clusters, each with the reason no document class exists
+```
+
+**Highest value: NARA Office of General Counsel, the RG 615 compliance register under
+sections 1841-1843 of P.L. 118-31.** Purely administrative records with no
+classification equity of their own, closing 14 open questions across 8 nodes. And the
+null return is itself the finding: Congress built a records collection with a deadline
+and no enforcement instrument.
+
+## The agent corrected me again
+
+I handed it two FOIA case numbers from my own working memory —
+`DODOIG-2021-000806` and `APP-00031-2022` — and it refused both, because **neither
+appears anywhere in the board data.** The DoD IG case the board actually records is
+`DODOIG-2025-000932`. Citing a case number that does not exist in a FOIA request is
+exactly the fabricated-source failure this project treats as unforgivable, and it
+would have been mine.
+
+Fourth time this session an agent has contradicted its own brief and been right.
+
+---
+
+# Stage 12 — entry surface and focus, 14 August 2026
+
+Stewart, seeing the board cold for the first time: *"way too busy ... no opportunity
+for discovery, nothing visually identifying what the important connections are. In
+the current state this is basically useless to the end user."* He was right.
+
+**The diagnosis is not node count. Position carries no information** — x and y are
+force-layout output, so every node looks equally important and arrives in no order.
+The real fix is a layout where position means something, which is out with Claude
+Design (`notes/DESIGN-BRIEF-LAYOUT-2026-08-14.md`) because it changes the bake. These
+two need no design decision and fix the worst of it now.
+
+## C — the entry surface
+
+Six curated ways in, each a QUESTION rather than a category. A reader wants to
+"follow the money"; they do not want to "filter by funding domain".
+
+```
+Follow the money              7 on the map ·  11 in all
+The custody chain            38 on the map · 157 in all
+Who denied what              36 on the map · 124 in all
+The legal mechanism          10 on the map
+The foreign counter-examples 11 on the map
+Start from a witness          7 people
+```
+
+Every path is **computed at build time from the graph**, not hand-listed, so a card
+can never advertise a count different from what it opens. `custody` and `denial` are
+derived from their edge types; the rest are curated seeds validated against the node
+table. Each is also a CMD action, so the analyst can take the same route from the
+chat line that a reader takes by clicking.
+
+The surface is skippable and reachable again from a `START` chip in the breadcrumb.
+
+## D — focus on select
+
+Selecting a node dims to its one-hop thread; opening a path dims to the path.
+
+**Measured, not asserted** — mean canvas alpha over the whole surface:
+
+```
+whole map           54.05
+with a path         18.80    -65.2%
+with a selection    16.11    -70.2%
+```
+
+The first attempt reduced it by only 50% and looked barely changed, because
+`trace()` set `globalAlpha` outright and clobbered the dim the caller had just set.
+Edges are most of the ink, so the nodes dimmed and the lattice stayed bright. It now
+multiplies by the caller's alpha and restores it rather than resetting to 1.
+
+That is the fourth time this session a change looked right in the diff and was wrong
+on the canvas.
+
+## Also fixed this stage
+
+The `on` test short-circuited on `!S.l0open.length`, so a path or a selection —
+neither of which opens a ledger — left everything lit and the dim did nothing at all.
+
+## Sequencing note
+
+A and B (position-means-something, and the edge budget) went to Claude Design
+**before** being built, deliberately: A changes the bake and the model shape, so
+building it first and then receiving a different banding scheme would mean doing it
+twice. C and D had no such dependency.

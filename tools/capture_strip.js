@@ -31,7 +31,15 @@ const URL_ = process.env.BOARD_URL || 'http://127.0.0.1:8899/the-program.html';
     const el = document.querySelector('.stats') ||
                [...document.querySelectorAll('div')]
                  .find(d => /ENTITIES/.test(d.textContent) && d.textContent.length < 600);
-    return el ? el.textContent.replace(/\s+/g, ' ').trim() : null;
+    if (!el) return null;
+    const parts = [el.textContent.replace(/\s+/g, ' ').trim()];
+    // The L0 breadcrumb is a SEPARATE element from the stats strip, and it carries the
+    // only rendered copy of the program-map object count. Leaving it out does not fail
+    // the audit -- it makes audit_independent skip `breadcrumb object count` in silence,
+    // which is how that check sat dead while the count was wrong.
+    const crumb = document.querySelector('.l0crumb');
+    if (crumb) parts.push(crumb.textContent.replace(/\s+/g, ' ').trim());
+    return parts.join(' ');
   });
   await browser.close();
   if (!strip) { console.error('capture_strip: could not find the stats strip'); process.exit(1); }

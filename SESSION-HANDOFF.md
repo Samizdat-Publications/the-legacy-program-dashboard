@@ -1,7 +1,16 @@
 # Session handoff — The Program
 
-**Updated 23 August 2026.** Supersedes the handoff of 13 August, which is preserved in git
-history. Its counts, its environment notes and its priorities are all stale; ignore them.
+> **`CLAUDE.md` is the authoritative entry point.** It carries the build order, the gate,
+> the constraints and the priority queue, and it is maintained. Read it first. This file is
+> the narrative handoff that goes with it: why things are the way they are, and what bit
+> previous sessions. Where the two disagree about a number, `CLAUDE.md` wins — and better
+> still, trust neither and run `python3 tools/state_snapshot.py --gate`, which derives
+> everything from source.
+
+**Updated 25 August 2026**, on the merge of `claude/status-update-bewtdk` into `master`.
+Supersedes the handoffs of 13 and 23 August, both preserved in git history. The 12 August
+cloud-session handoff is at `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Counts in all
+three are stale; ignore them.
 
 ---
 
@@ -9,8 +18,11 @@ history. Its counts, its environment notes and its priorities are all stale; ign
 
 **https://github.com/Samizdat-Publications/the-legacy-program-dashboard** (private)
 
-Work in progress sits on `claude/status-update-bewtdk`, open as draft PR #1 against `master`.
-Fourteen commits, master unmoved, no conflicts.
+Work sits on `claude/status-update-bewtdk`, open as draft PR #1 against `master`. On
+25 August 2026 `master` was merged into it, bringing the L0 program map, both of Design's
+layout rounds, the no-key analyst rewrite and `tools/audit_independent.py` alongside this
+branch's sourcing and reference-integrity work. `research/` did not conflict at all; the
+generated files were resolved by rebuilding, never by picking a side.
 
 **GitHub write access is solved and is no longer job zero.** The 13 August handoff opened with
 a long section on getting it; that was a Cowork-session limitation. This repo is now worked
