@@ -112222,6 +112222,69 @@
    ]
   },
   {
+   "a": "iaa-2024",
+   "b": "aaro",
+   "type": "legislative",
+   "label": "AARO reporting change and UAP funding limitation",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, Division G (Intelligence Authorization Act for Fiscal Year 2024), secs. 7341 and 7343",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "ndaa-fy2024",
+   "type": "legislative",
+   "label": "enacted as Division G of the FY2024 NDAA",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, table of contents and Division G heading",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "iaa-fy2024-sec-1102",
+   "type": "legislative",
+   "label": "section node of this act (section number needs verification)",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, full enacted text, searched for the turn-in language",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
    "a": "william-b-adkins",
    "b": "cia",
    "type": "institutional",
@@ -123769,48 +123832,6 @@
    "dateStart": "2024-09-13",
    "dateEnd": null,
    "note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "iaa-2024",
-   "b": "ndaa-fy2024",
-   "type": "legislative",
-   "label": "enacted as Division G of the FY2024 NDAA",
-   "claimTier": 1,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "The Senate Select Committee on Intelligence publishes the enacted text as 'Intelligence Authorization Act for Fiscal Year 2024, Division G of the National Defense Authorization Act for Fiscal Year 2024' (P.L. 118-31, 22 December 2023).",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "iaa-2024",
-   "b": "aaro",
-   "type": "legislative",
-   "label": "AARO reporting change and UAP funding limitation",
-   "claimTier": 1,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "Division G contains Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office,' and Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena' - the provision barring funds for UAP activity not disclosed to the AARO Director and congressional leadership.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "iaa-2024",
-   "b": "iaa-fy2024-sec-1102",
-   "type": "legislative",
-   "label": "section node of this act (section number needs verification)",
-   "claimTier": 2,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "The board's section node is filed under this act. Caution: the contractor turn-in language (persons holding UAP material or 'non-earth origin or exotic' material to notify AARO and make it available within 180 days) is Sec. 1104 of S.2103 as reported by SSCI on 22 June 2023; the enacted Division G UAP sections are numbered 7341 and 7343. The '1102' designation in the node id is not confirmed against either text.",
    "sources": [],
    "_domains": [
     "w6-edges-people"
