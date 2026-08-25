@@ -111926,6 +111926,79 @@
    ]
   },
   {
+   "a": "harvard-cfa",
+   "b": "avi-loeb",
+   "type": "institutional",
+   "label": "Loeb directs the Institute for Theory and Computation at the CfA",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
+   "sources": [
+    {
+     "name": "Domine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025, arXiv:2411.07956, author affiliations",
+     "url": "https://arxiv.org/abs/2411.07956",
+     "date": "2025-01-28"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "harvard-cfa",
+   "b": "galileo-project",
+   "type": "institutional",
+   "label": "Host institution of the Galileo Project",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+   "sources": [
+    {
+     "name": "Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations",
+     "url": "https://arxiv.org/abs/2411.07956",
+     "date": "2025-01-28"
+    },
+    {
+     "name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1",
+     "url": "https://arxiv.org/abs/2209.02479",
+     "date": "2022-09-02"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "raytheon",
+   "b": "nimitz-2004",
+   "type": "custody",
+   "label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+   "sources": [
+    {
+     "name": "U.S. Navy, 'NAVSUP Weapon Systems Support Awards $325 Million ATFLIR Contract to Raytheon', 20 May 2020",
+     "url": "https://www.navy.mil/Press-Office/News-Stories/Article/2283958/navsup-weapon-systems-support-awards-325-million-atflir-contract-to-raytheon/",
+     "date": "2020-05-20"
+    },
+    {
+     "name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+     "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+     "date": "2020-04-27"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
    "a": "andy-biggs",
    "b": "david-grusch",
    "type": "investigative",
@@ -123845,48 +123918,6 @@
    "dateStart": "1993-12-13",
    "dateEnd": null,
    "note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "harvard-cfa",
-   "b": "galileo-project",
-   "type": "institutional",
-   "label": "Host institution of the Galileo Project",
-   "claimTier": 1,
-   "dateStart": "2021-07-26",
-   "dateEnd": null,
-   "note": "The Galileo Project is listed as a research programme of the Center for Astrophysics | Harvard & Smithsonian and is hosted on Harvard infrastructure; its first observatory was built on the roof of the Harvard College Observatory. Start date is the project's public launch in July 2021.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "harvard-cfa",
-   "b": "avi-loeb",
-   "type": "institutional",
-   "label": "Loeb directs the Institute for Theory and Computation at the CfA",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Avi Loeb, head of the Galileo Project, is Director of the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics and former chair of Harvard's Astronomy Department; his CfA position is the institutional base from which the Galileo Project operates.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "raytheon",
-   "b": "nimitz-2004",
-   "type": "custody",
-   "label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
-   "claimTier": 1,
-   "dateStart": "2004-11-14",
-   "dateEnd": null,
-   "note": "The AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) pod is developed and manufactured by Raytheon. The FLIR1 'Tic Tac' video, the primary sensor artefact of the 2004 Nimitz encounter and later released by DoD, was recorded on an ATFLIR pod operated by a VFA-41 weapons systems officer. This is the only UAP-specific Raytheon link found: the company's role is as the builder of the sensor of record, not as a programme participant.",
    "sources": [],
    "_domains": [
     "w6-edges-inst-b"

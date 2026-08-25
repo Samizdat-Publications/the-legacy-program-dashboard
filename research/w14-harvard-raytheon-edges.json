@@ -1,0 +1,30 @@
+{
+ "domain": "w14-harvard-raytheon-edges",
+ "_why": "Three edges. The two Harvard ones were left unsourced in an earlier batch this session because cfa.harvard.edu returns 403 here and the Galileo overview paper gave Loeb's affiliation as Harvard's Astronomy Department, which is Harvard but is not the Center for Astrophysics. The peer-reviewed instrument paper settles it properly.\n\nDomine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025 (arXiv:2411.07956), carries a full affiliation block. Affiliation 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138, USA'. Affiliation 2 is 'Galileo Project, 60 Garden Street, Cambridge, MA 02138, USA'. Loeb is 'Abraham Loeb 1,2' - both - and is footnoted 'Head of the Galileo Project'. Six of the sixteen authors carry both affiliations, and the correspondence address is at cfa.harvard.edu. The two organisations share a street address. That is an institutional relationship stated in a peer-reviewed record rather than inferred from a press page.\n\nraytheon -> nimitz-2004 is tier 2 and the gap is worth naming. The Navy's own contract announcement establishes that Raytheon makes the ATFLIR and that it is 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department's release of the videos establishes that one is from November 2004 and that they are genuine Navy footage. Neither document says which sensor produced the November 2004 video. raytheon.com's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie is left as inference.",
+
+ "edges": [
+  {
+   "a": "harvard-cfa", "b": "avi-loeb", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "Domine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025, arXiv:2411.07956, author affiliations", "url": "https://arxiv.org/abs/2411.07956", "date": "2025-01-28"}
+   ],
+   "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page."
+  },
+  {
+   "a": "harvard-cfa", "b": "galileo-project", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations", "url": "https://arxiv.org/abs/2411.07956", "date": "2025-01-28"},
+    {"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1", "url": "https://arxiv.org/abs/2209.02479", "date": "2022-09-02"}
+   ],
+   "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label."
+  },
+  {
+   "a": "raytheon", "b": "nimitz-2004", "type": "custody", "claimTier": 2,
+   "sources": [
+    {"name": "U.S. Navy, 'NAVSUP Weapon Systems Support Awards $325 Million ATFLIR Contract to Raytheon', 20 May 2020", "url": "https://www.navy.mil/Press-Office/News-Stories/Article/2283958/navsup-weapon-systems-support-awards-325-million-atflir-contract-to-raytheon/", "date": "2020-05-20"},
+    {"name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020", "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/", "date": "2020-04-27"}
+   ],
+   "note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement."
+  }
+ ]
+}
