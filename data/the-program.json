@@ -112636,6 +112636,69 @@
    ]
   },
   {
+   "a": "pogo",
+   "b": "house-oversight-committee",
+   "type": "institutional",
+   "label": "Outside watchdog seated as witness before Oversight's declassification task force",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+   "sources": [
+    {
+     "name": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "vanderbilt-university",
+   "b": "aatip",
+   "type": "research",
+   "label": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
+   "sources": [
+    {
+     "name": "Vanderbilt Health News, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it', 7 May 2026",
+     "url": "https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+     "date": "2026-05-07"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "enigma-labs",
+   "b": "pursue-releases",
+   "type": "investigative",
+   "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
+   "sources": [
+    {
+     "name": "U.S. Department of War, 'Presidential Unsealing and Reporting System for UAP Encounters' (PURSUE)",
+     "url": "https://www.war.gov/UFO/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
    "a": "us-navy",
    "b": "nimitz-2004",
    "type": "institutional",
@@ -123594,34 +123657,6 @@
    ]
   },
   {
-   "a": "pogo",
-   "b": "house-oversight-committee",
-   "type": "institutional",
-   "label": "Outside watchdog seated as witness before Oversight's declassification task force",
-   "claimTier": 1,
-   "dateStart": "2025-09-09",
-   "dateEnd": null,
-   "note": "POGO appeared before the House Committee on Oversight and Government Reform's Task Force on the Declassification of Federal Secrets, and used the appearance to recommend statutory changes (overturning Navy v. Egan, independent adjudication for IC and military whistleblowers) that bear directly on the committee's UAP inquiry.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "enigma-labs",
-   "b": "pursue-releases",
-   "type": "investigative",
-   "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
-   "claimTier": 1,
-   "dateStart": "2026-05-08",
-   "dateEnd": null,
-   "note": "After the first PURSUE tranche (roughly 160 files) posted to war.gov/ufo on 8 May 2026, Enigma Labs consultant Alejandro Rojas said the team was adding PURSUE elements to Enigma's maps and app so official cases could be cross-referenced 'against our database of over 200,000 public sightings.' He also criticised the drop for lacking coordinates, sensor parameters and altitude data.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
    "a": "enigma-labs",
    "b": "aaro",
    "type": "institutional",
@@ -123644,20 +123679,6 @@
    "dateStart": "2023-01-01",
    "dateEnd": null,
    "note": "Greenewald filed the January 2023 FOIA request that eventually produced the AARO-Enigma Labs email set in July 2025, making The Black Vault the origin point for public knowledge of contact between the Pentagon's UAP office and a private UAP data company.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "vanderbilt-university",
-   "b": "aatip",
-   "type": "research",
-   "label": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
-   "claimTier": 2,
-   "dateStart": "2017-12-16",
-   "dateEnd": null,
-   "note": "Bruehl told VUMC that the December 2017 New York Times report revealing AATIP is what restarted his interest and led him to conclude 'nobody's really studying this scientifically'; his Anesthesiology chair then authorized him to publish UAP work under the Vanderbilt name. His 2025 papers with Beatriz Villarroel in PASP and Scientific Reports followed.",
    "sources": [],
    "_domains": [
     "w6-edges-inst-a"
