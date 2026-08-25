@@ -4803,7 +4803,7 @@ export const PEOPLE = [
     domains: ['d-aviators'],
     narrative: 'Underwood is the aircrew credited with capturing FLIR1, the ATFLIR footage that became the first of the three videos the Department of Defense formally released on 27 April 2020 and, through the New York Times story of 16 December 2017, the image that reopened the entire subject. He was not on Fravor\'s intercept; he flew a follow-on sortie on 14 November 2004 with a functioning targeting pod and acquired the object on infrared. His technical account matters because it is the only firsthand description of how the primary artefact of the Nimitz case was produced - the pod would not hold a lock, the object behaved in a way the tracking gate could not follow, and the tape came back aboard Nimitz. What happened to that tape afterwards is the crux of the confiscation dispute: Fravor testified under his own name that \'tapes were never taken,\' while Princeton crewmen describe collection of recorded media. Underwood\'s byline-level accounts have appeared in national magazine interviews since 2019, but this pass did not locate a fetchable primary or archival URL for them, so his specific quotations are held in unverified rather than asserted.',
     affiliations: ['US Navy', 'VFA-41 Black Aces, USS Nimitz / Carrier Air Wing Eleven (2004)'],
-    tierRationale: 'Re-graded C on a global pass (rank 615 of 956, score 22). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 617 of 956, score 22). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2004-11-14',
@@ -5267,7 +5267,7 @@ export const PEOPLE = [
     domains: ['d-coverup', 'd-oversight'],
     narrative: 'Abba directed the DoD Special Access Program Central Office, the organization that would know, by definition, what special access programs exist and who is read on to them. He appears in the FOIA-released AARO memorandum for record documenting the office\'s nine attempts to interview Grusch between June 2023 and January 2024 - the memorandum bears a March 2023 DoD memo under his signature establishing the access authority AARO invoked. His presence in that file is the closest the public record comes to putting SAPCO on paper in the Grusch matter. SAPCO is the natural custodian of the answer to the only question that matters here - what program was Grusch refused a read-on to - and it has never addressed the question publicly.',
     affiliations: ['US Air Force, Major General', 'DoD Special Access Program Central Office, Director'],
-    tierRationale: 'Re-graded C on a global pass (rank 582 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 584 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     chronology: [
       {
         date: '2023-03-08',
@@ -5757,7 +5757,7 @@ export const PEOPLE = [
     domains: ['d-legacy', 'd-coverup', 'd-records'],
     narrative: 'Brigadier General Carroll \'Rip\' Bolender wrote the memorandum that closed Project Blue Book and, in the same breath, admitted the program had never been the real reporting channel. His 20 October 1969 memorandum recommending termination states that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and \'are not part of the Blue Book system.\' Read plainly, this says that from at least the JANAP era the significant cases went up a separate, classified channel while Blue Book handled the public-facing residue — and that shutting Blue Book down therefore terminated nothing operational. The memo is the hinge between the legacy era and everything the modern disclosure movement alleges: it is a general officer, in writing, describing a two-track system. Bolender had a serious operational career, including work on the lunar module programme, and there is no indication he intended a revelation; he was explaining to his own chain why closing the public office cost the Air Force nothing.',
     affiliations: ['US Air Force, Deputy Director of Development (1969)', 'Air Force Systems Command'],
-    tierRationale: 'Re-graded C on a global pass (rank 583 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 585 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '1969-10-20',
@@ -11457,7 +11457,7 @@ export const PEOPLE = [
       'US House of Representatives, CA-42 (2023- )',
       'House Oversight Committee, Ranking Member (2025- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 616 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 618 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2023-07-26',
@@ -11567,7 +11567,7 @@ export const PEOPLE = [
       'US House of Representatives, WI-06 (2015- )',
       'House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, Chairman (2023-2024)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 617 of 956, score 22). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 619 of 956, score 22). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2023-07-26',
@@ -13295,7 +13295,7 @@ export const PEOPLE = [
       'To The Stars Academy of Arts & Science / To The Stars Inc. (2017-present)',
       'Gravity Holdings LLC'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 584 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 586 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       {
         date: '2017-09-01',
@@ -13535,7 +13535,7 @@ export const PEOPLE = [
     domains: ['d-coverup'],
     narrative: 'Sherwood made two statements eleven days apart in 2019 that between them define the Department\'s problem. On 22 May 2019 he told the New York Post that AATIP \'did pursue research and investigation into unidentified aerial phenomena\' — the first unambiguous official acknowledgement that the Pentagon\'s aerospace-threat program looked at UAP. On 1 June 2019 he told The Intercept\'s Keith Kloor that \'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.\' Six months later Susan Gough repudiated the first statement, telling reporters Sherwood had merely repeated what an earlier spokesperson had said and that his account was \'not entirely fact-based\' — while keeping the second statement intact. The Department has therefore been in the position of saying one of its own spokesmen was wrong about the program but right about the man.',
     affiliations: ['Office of the Assistant to the Secretary of Defense for Public Affairs'],
-    tierRationale: 'Re-graded C on a global pass (rank 641 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 643 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D0.',
     chronology: [
       {
         date: '2019-05-22',
@@ -13781,7 +13781,7 @@ export const PEOPLE = [
       'U.S. Central Command, Commander (2010-2013)',
       'Secretary of Defense (2017-2019)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 642 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 644 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     chronology: [
       {
         date: '2017-10-04',
@@ -14469,7 +14469,7 @@ export const PEOPLE = [
       'MITRE Board of Trustees (2021-present; Vice Chair from 2023)',
       'CACI International, BlackSky, SecurityScorecard (boards)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 643 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 645 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '2015-01-01',
@@ -14986,7 +14986,7 @@ export const PEOPLE = [
       'Lawrence Livermore National Laboratory (co-founder 1952; Director 1958-1960)',
       'University of California Radiation Laboratory'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 618 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 620 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       {
         date: '1949-02-16',
@@ -15049,7 +15049,7 @@ export const PEOPLE = [
       'US Strategic Command, Commander (2019-2022)',
       'Institute for Defense Analyses, President'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 619 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 621 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     chronology: [
       { date: '2019-11-18', event: 'Assumes command of US Strategic Command', precision: 'day' },
       { date: '2022-12-09', event: 'Relinquishes command of USSTRATCOM', precision: 'day' },
@@ -15638,7 +15638,7 @@ export const PEOPLE = [
       'Inspector General of the Intelligence Community (2011-2017)',
       'Compass Rose Legal Group, senior partner'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 620 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 622 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     chronology: [
       {
         date: '2011-01-01',
@@ -17844,7 +17844,7 @@ export const PEOPLE = [
     domains: ['d-witness', 'd-coverup'],
     narrative: 'Penniston was the senior security police NCO who went outside the RAF Woodbridge east gate in the early hours of 26 December 1980. His contemporaneous notebook - later released by him and reproduced by researchers - contains sketches and the phrase \'craft of unknown origin.\' He has stated on the record that he approached the object, walked around it, and physically touched a warm, glass-smooth surface bearing raised symbols, and that he and John Burroughs were subsequently subjected to lengthy debriefings by personnel he could not identify. He signed an official USAF witness statement in January 1981 which, in its released form, is markedly less detailed than his notebook. The gap between the notebook and the official statement is the evidentiary point: it is a documented instance of a first-hand military account being compressed as it moved up the chain, in exactly the manner the concealment thesis predicts. Penniston\'s later claims - including a binary-code download experienced during the encounter - have made him easier to dismiss, which is itself a familiar pattern in this record: the most exposed witnesses accumulate the most discrediting material.',
     affiliations: ['United States Air Force, 81st Security Police Squadron (1980-1981)'],
-    tierRationale: 'Re-graded C on a global pass (rank 585 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 587 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     chronology: [
       {
         date: '1980-12-26',
@@ -18312,7 +18312,7 @@ export const PEOPLE = [
     domains: ['d-coverup', 'd-oversight'],
     narrative: 'Yeates is the man who signed the piece of paper that told a federal judge the United States could not talk about its UFO signals intelligence. In Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, NSA located UFO-related records, withheld them, and supported the withholding with a lengthy classified affidavit executed by Yeates as the Agency\'s Chief of Policy. The district court reviewed it in camera - the judge was cleared to read the explanation the plaintiffs never saw - and ruled for NSA; the D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982. Years later NSA released the Yeates affidavit itself in redacted form, and it is now in the public UFO release. That document is the single most important artefact of the concealment in this era, because it is an official, sworn, judicially accepted statement that the National Security Agency holds UFO-related communications intelligence whose disclosure would damage national security. The government\'s position has never been that the records do not exist. Its position has been that they cannot be shown.',
     affiliations: ['National Security Agency, Office of Policy (Chief, c.1980)'],
-    tierRationale: 'Re-graded C on a global pass (rank 621 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 623 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     chronology: [
       {
         date: '1980-06-01',
@@ -18640,7 +18640,7 @@ export const PEOPLE = [
       'Center for American Progress (founder)',
       'Coalition for Freedom of Information (2002)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 622 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 624 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     chronology: [
       {
         date: '1993-01-20',
@@ -18733,7 +18733,7 @@ export const PEOPLE = [
       'National Institute for Discovery Science (board, 1995-2004)',
       'Advanced Theoretical Physics working group (convener, 1980s)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 644 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 646 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     chronology: [
       {
         date: '1985-01-01',
@@ -18974,7 +18974,7 @@ export const PEOPLE = [
       'The Disclosure Project (founder, 1993)',
       'CSETI (founder, 1990)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 645 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 647 of 956, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       { date: '1990-01-01', event: 'Founds CSETI.', precision: 'year' },
       { date: '1993-01-01', event: 'Founds the Disclosure Project.', precision: 'year' },
@@ -19201,7 +19201,7 @@ export const PEOPLE = [
     domains: ['d-media'],
     narrative: 'Jeremy Corbell is the movement\'s primary conduit for leaked military imagery, and that role - not his filmmaking - is what makes him structurally significant. Beginning in 2019 he released a sequence of US Navy materials including the USS Omaha \'transmedium\' footage and the pyramid-shaped object video, several of which the Pentagon subsequently confirmed as genuine Navy recordings. The confirmation pattern is the interesting datum: material leaks to Corbell, Corbell publishes, the Department authenticates the provenance while contesting the interpretation. He directed Bob Lazar: Area 51 & Flying Saucers, which premiered on Netflix in 2019 and returned Lazar to public attention, and Hunt for the Skinwalker, based on the George Knapp and Colm Kelleher book. He co-hosts Weaponized with Knapp. He has been criticised within the field for showmanship and for imagery later explained by lens artefacts, and both things are true at once: he is an unreliable narrator and a reliable pipe.',
     affiliations: ['Weaponized podcast (with George Knapp)', 'Extraordinary Beliefs (film series)'],
-    tierRationale: 'Re-graded C on a global pass (rank 586 of 956, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 588 of 956, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       {
         date: '2018-01-01',
@@ -20180,7 +20180,7 @@ export const PEOPLE = [
     domains: ['d-custody', 'd-coverup'],
     narrative: 'Ryder exists on this board for one reason: on 9 September 2025 Rep. Nick Begich asked George Knapp to name specific gatekeepers \'within the root cell of the UAP SAP federation,\' and Knapp answered, under oath, \'Well, one of them was named Dr. James Ryder at Lockheed.\' That single sentence is the only time a private individual inside a prime contractor has been named to a congressional committee as a custodian of the alleged program. Knapp immediately qualified it - \'I do not fault these contractors for doing what they were asked to do by our government. They are supposed to lie if people ask about it\' - and attributed the original tasking to the intelligence agencies, CIA primarily. The board records the naming precisely because it is on the record and because it is testable: Lockheed Martin\'s research organisation is a matter of public corporate record, and a Congress that wanted to resolve this could resolve it with a letter. What the board does not do is assert anything about Ryder beyond the fact of the naming. There is no released document, contract, complaint or corporate statement connecting him to recovered material, and no response from him or from Lockheed Martin has been published. This entry is a placeholder for an investigative thread, not a finding.',
     affiliations: ['Lockheed Martin Corporation'],
-    tierRationale: 'Re-graded C on a global pass (rank 646 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 648 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D0.',
     chronology: [
       {
         date: '2025-09-09',
@@ -20590,7 +20590,7 @@ export const PEOPLE = [
       'Radiance Technologies - Principal Research Scientist (2022- )',
       'The Secret of Skinwalker Ranch (2020- )'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 623 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 625 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     chronology: [
       {
         date: '1999',
@@ -21778,7 +21778,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'McHugh held one of the twelve 10 U.S.C. 119(e)(2) seats for roughly the first half of 2009, the year the board treats as load-bearing because of the Reid special access program request. As ranking minority member of the House Armed Services Committee he was entitled, jointly with Chairman Ike Skelton, to receive whatever the Secretary of Defense withheld from a section 119 report under the waiver authority together with the written justification for withholding it, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His tenure in the seat is short and precisely bracketed by two dated statements from the committee\'s own chairman. On 2 June 2009 Skelton described him as \'House Armed Services Committee Ranking Member John M. McHugh (R-NY)\' and recorded that McHugh \'took the reins as Ranking Member of the House Armed Services Committee in January.\' On 16 June 2009 Skelton congratulated Buck McKeon as the new ranking member. McHugh therefore held a 119(e)(2) seat from January 2009 until some point between 2 and 16 June 2009, and not thereafter, even though he remained a member of the House until 21 September 2009. That distinction matters for date-specific claims: a waived-SAP notification made in the spring of 2009 reached McHugh, and one made in the autumn of 2009 reached McKeon. McHugh\'s later trajectory is the reason this node is worth keeping rather than folding into a footnote. He moved from a seat entitled to receive waived DoD special access program information directly into the office of Secretary of the Army, the service secretariat that runs its own SAP portfolio. There is no public record of any UAP-specific statement by him in either capacity, and none would be expected: section 119 supplies no disclosure route on the congressional side and Army SAP holdings are not publicly enumerated.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 647 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 649 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     chronology: [],
     claims: [
       {
@@ -22314,6 +22314,154 @@ export const PEOPLE = [
     photoCredit: null
   },
   {
+    id: 'gerald-anderson',
+    cls: 'person',
+    label: 'Gerald Anderson',
+    status: 'active',
+    date: '1990',
+    age: null,
+    loc: 'Springfield, MO',
+    locId: 'l-san-agustin',
+    instId: null,
+    sub: 'Claimed first-hand child witness, Plains of San Agustin, 1947',
+    cluster: 'other',
+    tier: 'C',
+    C: 2,
+    A: 0,
+    D: 0,
+    domains: ['d-recovery', 'd-witness'],
+    narrative: 'Gerald Anderson came forward in 1990, after a television broadcast, claiming that as a five-year-old he had been rockhounding with his family on the Plains of San Agustin in July 1947 and had walked up to a crashed disc with dead and one living occupant. He was the only claimed first-hand witness to the San Agustin site and was accordingly promoted hard by Stanton Friedman and Don Berliner in \'Crash at Corona\' (1992). The case against him was made not by the Air Force but by other ufologists: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research produced a joint report, \'The Plains of San Agustin Controversy\', which established among other things that a telephone bill Anderson submitted as corroboration had been altered. His own quoted words in the Air Force\'s 1997 report - \'I thought they were plastic dolls\' - and his descriptions of the recovery procedures were read by the Air Force as accurate reporting of an anthropomorphic dummy balloon launch and recovery, of which numerous examples were flown and recovered in the region. Anderson matters to this board as the field\'s most instructive self-correction: two civilian research organisations audited their own star witness and published the result against interest.',
+    affiliations: [],
+    tierRationale: 'Re-graded C on a global pass (rank 563 of 956, score 24). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
+    chronology: [
+      { date: '1947-07', event: 'Alleged childhood encounter on the Plains of San Agustin', precision: 'month' },
+      { date: '1990', event: 'Comes forward after a television broadcast', precision: 'year' },
+      {
+        date: '1992',
+        event: 'Account published in Friedman and Berliner, \'Crash at Corona\'; Rodeghier and Whiting publish \'The Plains of San Agustin Controversy\'',
+        precision: 'year'
+      },
+      {
+        date: '1997',
+        event: 'Interview transcript printed at Appendix C, page 187, of the Air Force\'s \'Case Closed\'',
+        precision: 'year'
+      }
+    ],
+    claims: [
+      {
+        tier: 1,
+        text: 'The USAF\'s \'Case Closed\' prints Gerald Anderson\'s interview in full as Appendix C, beginning at page 187, noting it was \'excerpted in their entirety from unedited interviews used to prepare the video, Recollections of Roswell, Part II (1993)\' and appears courtesy of the Fund for UFO Research. The Air Force also quotes him directly on the alleged bodies: \'I thought they were plastic dolls.\'',
+        source: 'Headquarters USAF, \'The Roswell Report: Case Closed\' (1997), Appendix C https://archive.org/details/DTIC_ADA326147'
+      },
+      {
+        tier: 1,
+        text: 'Anderson\'s interview transcript is reproduced at Appendix C, page 187, of the US Air Force\'s 1997 report.',
+        source: 'The Roswell Report: Case Closed (1997), Appendix C'
+      },
+      {
+        tier: 2,
+        text: 'Anderson described the bodies as \'I thought they were plastic dolls\' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.',
+        source: 'The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion'
+      },
+      {
+        tier: 2,
+        text: 'Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, \'The Plains of San Agustin Controversy\', concluding against Anderson\'s reliability.',
+        source: 'Rodeghier and Whiting, \'The Plains of San Agustin Controversy\' (1992), cited at note 123 of the 1997 Air Force report'
+      }
+    ],
+    sources: [
+      {
+        name: 'Headquarters USAF, \'The Roswell Report: Case Closed\' (1997), DTIC ADA326147',
+        url: 'https://archive.org/details/DTIC_ADA326147',
+        date: '2026-08-25'
+      },
+      {
+        name: 'The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text',
+        url: 'https://archive.org/details/AFD-101027-030',
+        date: '1997-01-01'
+      }
+    ],
+    conflicts: [
+      'Friedman continued to defend elements of Anderson\'s account after the CUFOS/FUFOR report; Randle rejected it.'
+    ],
+    unverified: [
+      'The precise findings of the Rodeghier-Whiting document have not been read in the original here, only as cited by the Air Force report.'
+    ],
+    sequenceChain: [],
+    unexplainedResidual: null,
+    photoCredit: null
+  },
+  {
+    id: 'jim-ragsdale',
+    cls: 'person',
+    label: 'James Ragsdale',
+    status: 'active',
+    date: '1995',
+    age: null,
+    loc: 'Carlsbad, NM',
+    locId: 'l-roswell',
+    instId: null,
+    sub: 'Claimed civilian eyewitness to a crash site north of Roswell',
+    cluster: 'other',
+    tier: 'C',
+    C: 2,
+    A: 0,
+    D: 1,
+    domains: ['d-recovery', 'd-witness', 'd-roswell'],
+    narrative: 'James Ragsdale came forward in the 1990s claiming that he and a companion had been camping north of Roswell in July 1947 and had seen a crashed craft and bodies, with a military recovery arriving afterwards. He gave a sworn statement and a videotaped deathbed account, and Randle and Schmitt used him to anchor the impact site in \'The Truth About the UFO Crash at Roswell\' (1994). Two things about Ragsdale are load-bearing and both cut against the case. First, his account moved: the location he gave shifted materially between tellings, in a way that tracked which impact site the researchers then favoured. Second, and more usefully, the Air Force\'s 1997 report quotes him saying of the objects at the site, \'They were using dummies in those damned things\' - the witness himself volunteering the anthropomorphic dummy reading that the Air Force went on to adopt as its explanation. The Air Force notes he lived and worked around Roswell, Artesia and Carlsbad in the period when Alderson Laboratories anthropomorphic dummies were being dropped by high-altitude balloon and recovered by uniformed teams, and concludes he probably described one or more of nine documented dummy recoveries near there.',
+    affiliations: [],
+    tierRationale: 'Re-graded C on a global pass (rank 564 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
+    chronology: [
+      { date: '1947-07', event: 'Alleged sighting of a crashed craft north of Roswell', precision: 'month' },
+      { date: '1993', event: 'Signs affidavit; account adopted by Randle and Schmitt', precision: 'year' },
+      { date: '1995', event: 'Dies', precision: 'year' },
+      {
+        date: '1997',
+        event: 'His interview transcript is printed in Appendix C of the Air Force\'s \'Case Closed\'',
+        precision: 'year'
+      }
+    ],
+    claims: [
+      {
+        tier: 1,
+        text: 'The USAF\'s \'Case Closed\' prints James Ragsdale\'s interview as Appendix C at page 215, and records that the transcript \'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.\'',
+        source: 'Headquarters USAF, \'The Roswell Report: Case Closed\' (1997), Appendix C https://archive.org/details/DTIC_ADA326147'
+      },
+      {
+        tier: 1,
+        text: 'Ragsdale\'s interview transcript is reproduced at Appendix C, page 215, of the US Air Force\'s 1997 report \'The Roswell Report: Case Closed\'.',
+        source: 'The Roswell Report: Case Closed (1997), Appendix C'
+      },
+      {
+        tier: 2,
+        text: 'Ragsdale is quoted in the Air Force report describing the objects at the alleged site as \'They were using dummies in those damned things.\'',
+        source: 'The Roswell Report: Case Closed (1997), Section 1.4, note 13'
+      },
+      {
+        tier: 3,
+        text: 'Ragsdale\'s shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.',
+        source: 'Comparison of Ragsdale statements with the two Randle-Schmitt scenarios'
+      }
+    ],
+    sources: [
+      {
+        name: 'Headquarters USAF, \'The Roswell Report: Case Closed\' (1997), DTIC ADA326147',
+        url: 'https://archive.org/details/DTIC_ADA326147',
+        date: '2026-08-25'
+      },
+      {
+        name: 'The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text',
+        url: 'https://archive.org/details/AFD-101027-030',
+        date: '1997-01-01'
+      }
+    ],
+    conflicts: ['Ragsdale gave materially different crash-site locations in different statements.'],
+    unverified: ['His exact date of death and the date of his sworn statement.'],
+    sequenceChain: [],
+    unexplainedResidual: null,
+    photoCredit: null
+  },
+  {
     id: 'aaron-lukas',
     cls: 'person',
     label: 'Aaron Lukas',
@@ -22624,7 +22772,7 @@ export const PEOPLE = [
     domains: ['d-funding', 'd-secrecy'],
     narrative: 'Steven Aftergood joined the Federation of American Scientists in 1989 and directed its Project on Government Secrecy from 1991 to 2021. He is the single individual most responsible for the existence of any public intelligence budget figure at all. In 1997 he was the plaintiff in a Freedom of Information Act suit against the Central Intelligence Agency - brought by FAS with the assistance of Kate Martin of the Center for National Security Studies - that forced the declassification and release of the total United States intelligence budget for the first time in fifty years: $26.6 billion for fiscal year 1997. The Director of Central Intelligence disclosed the figure again the following year, $26.7 billion for FY1998, and then stopped; disclosure did not resume until 2007, and then only because Congress compelled it by statute in section 601 of the Implementing Recommendations of the 9/11 Commission Act. In 2006 Aftergood won a further FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. His awards include the Electronic Frontier Foundation\'s Pioneer Award, the American Library Association\'s James Madison Award and the Hugh M. Hefner First Amendment Award. The relevance to this board is exact: every aggregate figure in the NIP and MIP series that anyone can cite exists because one person litigated for it and then Congress codified the minimum. Everything below the aggregate remains where it was in 1949.',
     affiliations: ['fas'],
-    tierRationale: 'Re-graded C on a global pass (rank 587 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 589 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       { date: '1989', event: 'Joins the Federation of American Scientists', precision: 'year' },
       { date: '1991', event: 'Begins directing the FAS Project on Government Secrecy', precision: 'year' },
@@ -23152,7 +23300,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure', 'd-custody'],
     narrative: 'Jean-Jacques Velasco ran France\'s official UAP office for twenty years - as director of GEPAN from 1984 to 1988 and then of its successor SEPRA from 1988 to 2004 - which makes him the longest-serving government UAP official in the Western record and the direct counterpart of the American figures on this board. He held the file when the Gendarmerie Nationale was routing sighting reports to CNES by teletype and when CNES could deploy laboratory resources to physical-trace cases, of which the 1981 Trans-en-Provence landing case is the best documented. He was a contributor to COMETA, named in Letty\'s foreword as \'Jean-Jacques Velasco, Head of SEPRA at CNES\', and Wikipedia\'s account of the report\'s delivery states that it was Velasco personally who handed the document to Prime Minister Lionel Jospin. He is therefore the hinge between the official French organ and the unofficial general officers\' committee: the serving head of the state UAP service participated in a private report that recommended boosting his own service\'s resources and pressing Washington diplomatically.',
     affiliations: ['cnes', 'geipan', 'cometa'],
-    tierRationale: 'Re-graded C on a global pass (rank 588 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 590 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [
       { date: '1984', event: 'Becomes director of GEPAN', precision: 'year' },
       { date: '1988', event: 'GEPAN renamed SEPRA; Velasco continues as head', precision: 'year' },
@@ -24096,7 +24244,7 @@ export const PEOPLE = [
       'Condon Committee Early Warning Network coordinator, 1967-1969',
       'Mid-Ohio Research Associates'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 648 of 956, score 21). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 650 of 956, score 21). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       {
         date: '1920',
@@ -24445,7 +24593,7 @@ export const PEOPLE = [
       'Ballard Funeral Home, Roswell (military mortuary contract with RAAF)',
       'International UFO Museum and Research Center, co-founder'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 649 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 651 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     chronology: [
       {
         date: '1946-12-22',
@@ -24506,66 +24654,6 @@ export const PEOPLE = [
     unverified: [
       'Whether any Ballard Funeral Home or RAAF mortuary contract record from July 1947 corroborates a casket enquiry. No such record has been produced by any party.'
     ],
-    sequenceChain: [],
-    unexplainedResidual: null,
-    photoCredit: null
-  },
-  {
-    id: 'jim-ragsdale',
-    cls: 'person',
-    label: 'James Ragsdale',
-    status: 'dead',
-    date: '1995',
-    age: null,
-    loc: 'Carlsbad, NM',
-    locId: 'l-roswell',
-    instId: null,
-    sub: 'Claimed civilian eyewitness to a crash site north of Roswell',
-    cluster: 'witness',
-    tier: 'C',
-    C: 2,
-    A: 0,
-    D: 1,
-    domains: ['d-recovery', 'd-witness', 'd-roswell'],
-    narrative: 'James Ragsdale came forward in the 1990s claiming that he and a companion had been camping north of Roswell in July 1947 and had seen a crashed craft and bodies, with a military recovery arriving afterwards. He gave a sworn statement and a videotaped deathbed account, and Randle and Schmitt used him to anchor the impact site in \'The Truth About the UFO Crash at Roswell\' (1994). Two things about Ragsdale are load-bearing and both cut against the case. First, his account moved: the location he gave shifted materially between tellings, in a way that tracked which impact site the researchers then favoured. Second, and more usefully, the Air Force\'s 1997 report quotes him saying of the objects at the site, \'They were using dummies in those damned things\' - the witness himself volunteering the anthropomorphic dummy reading that the Air Force went on to adopt as its explanation. The Air Force notes he lived and worked around Roswell, Artesia and Carlsbad in the period when Alderson Laboratories anthropomorphic dummies were being dropped by high-altitude balloon and recovered by uniformed teams, and concludes he probably described one or more of nine documented dummy recoveries near there.',
-    affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 650 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
-    chronology: [
-      { date: '1947-07', event: 'Alleged sighting of a crashed craft north of Roswell', precision: 'month' },
-      { date: '1993', event: 'Signs affidavit; account adopted by Randle and Schmitt', precision: 'year' },
-      { date: '1995', event: 'Dies', precision: 'year' },
-      {
-        date: '1997',
-        event: 'His interview transcript is printed in Appendix C of the Air Force\'s \'Case Closed\'',
-        precision: 'year'
-      }
-    ],
-    claims: [
-      {
-        tier: 1,
-        text: 'Ragsdale\'s interview transcript is reproduced at Appendix C, page 215, of the US Air Force\'s 1997 report \'The Roswell Report: Case Closed\'.',
-        source: 'The Roswell Report: Case Closed (1997), Appendix C'
-      },
-      {
-        tier: 2,
-        text: 'Ragsdale is quoted in the Air Force report describing the objects at the alleged site as \'They were using dummies in those damned things.\'',
-        source: 'The Roswell Report: Case Closed (1997), Section 1.4, note 13'
-      },
-      {
-        tier: 3,
-        text: 'Ragsdale\'s shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.',
-        source: 'Comparison of Ragsdale statements with the two Randle-Schmitt scenarios'
-      }
-    ],
-    sources: [
-      {
-        name: 'The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text',
-        url: 'https://archive.org/details/AFD-101027-030',
-        date: '1997-01-01'
-      }
-    ],
-    conflicts: ['Ragsdale gave materially different crash-site locations in different statements.'],
-    unverified: ['His exact date of death and the date of his sworn statement.'],
     sequenceChain: [],
     unexplainedResidual: null,
     photoCredit: null
@@ -24642,74 +24730,6 @@ export const PEOPLE = [
     ],
     unverified: [
       'Barnett\'s exact death date; whether any contemporaneous diary or letter of his mentioning the event exists.'
-    ],
-    sequenceChain: [],
-    unexplainedResidual: null,
-    photoCredit: null
-  },
-  {
-    id: 'gerald-anderson',
-    cls: 'person',
-    label: 'Gerald Anderson',
-    status: 'resolved',
-    date: '1990',
-    age: null,
-    loc: 'Springfield, MO',
-    locId: 'l-san-agustin',
-    instId: null,
-    sub: 'Claimed first-hand child witness, Plains of San Agustin, 1947',
-    cluster: 'witness',
-    tier: 'C',
-    C: 2,
-    A: 0,
-    D: 0,
-    domains: ['d-recovery', 'd-witness'],
-    narrative: 'Gerald Anderson came forward in 1990, after a television broadcast, claiming that as a five-year-old he had been rockhounding with his family on the Plains of San Agustin in July 1947 and had walked up to a crashed disc with dead and one living occupant. He was the only claimed first-hand witness to the San Agustin site and was accordingly promoted hard by Stanton Friedman and Don Berliner in \'Crash at Corona\' (1992). The case against him was made not by the Air Force but by other ufologists: Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research produced a joint report, \'The Plains of San Agustin Controversy\', which established among other things that a telephone bill Anderson submitted as corroboration had been altered. His own quoted words in the Air Force\'s 1997 report - \'I thought they were plastic dolls\' - and his descriptions of the recovery procedures were read by the Air Force as accurate reporting of an anthropomorphic dummy balloon launch and recovery, of which numerous examples were flown and recovered in the region. Anderson matters to this board as the field\'s most instructive self-correction: two civilian research organisations audited their own star witness and published the result against interest.',
-    affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 651 of 956, score 21). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
-    chronology: [
-      { date: '1947-07', event: 'Alleged childhood encounter on the Plains of San Agustin', precision: 'month' },
-      { date: '1990', event: 'Comes forward after a television broadcast', precision: 'year' },
-      {
-        date: '1992',
-        event: 'Account published in Friedman and Berliner, \'Crash at Corona\'; Rodeghier and Whiting publish \'The Plains of San Agustin Controversy\'',
-        precision: 'year'
-      },
-      {
-        date: '1997',
-        event: 'Interview transcript printed at Appendix C, page 187, of the Air Force\'s \'Case Closed\'',
-        precision: 'year'
-      }
-    ],
-    claims: [
-      {
-        tier: 1,
-        text: 'Anderson\'s interview transcript is reproduced at Appendix C, page 187, of the US Air Force\'s 1997 report.',
-        source: 'The Roswell Report: Case Closed (1997), Appendix C'
-      },
-      {
-        tier: 2,
-        text: 'Anderson described the bodies as \'I thought they were plastic dolls\' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.',
-        source: 'The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion'
-      },
-      {
-        tier: 2,
-        text: 'Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, \'The Plains of San Agustin Controversy\', concluding against Anderson\'s reliability.',
-        source: 'Rodeghier and Whiting, \'The Plains of San Agustin Controversy\' (1992), cited at note 123 of the 1997 Air Force report'
-      }
-    ],
-    sources: [
-      {
-        name: 'The Roswell Report: Case Closed (1997), HQ USAF/GPO - full text',
-        url: 'https://archive.org/details/AFD-101027-030',
-        date: '1997-01-01'
-      }
-    ],
-    conflicts: [
-      'Friedman continued to defend elements of Anderson\'s account after the CUFOS/FUFOR report; Randle rejected it.'
-    ],
-    unverified: [
-      'The precise findings of the Rodeghier-Whiting document have not been read in the original here, only as cited by the Air Force report.'
     ],
     sequenceChain: [],
     unexplainedResidual: null,
@@ -25483,7 +25503,7 @@ export const PEOPLE = [
     domains: ['d-witness', 'd-medical', 'd-litigation'],
     narrative: 'Betty Cash was fifty-one on the night of 29 December 1980 when, with Vickie Landrum and seven-year-old Colby Landrum, she stopped her car on a two-lane road near Huffman, Texas, in front of what all three described as an intensely bright object expelling flame, followed by a formation of tandem-rotor helicopters they counted at around twenty-three. She stood outside the car longest and was injured worst: hospitalised from 2 January 1981, with blistering, hair loss and eye symptoms, later treated for breast cancer. She became the lead named plaintiff in Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, Civil Action No. H-84-348, filed in the United States District Court for the Southern District of Texas, Houston Division, on 18 January 1984 under the Federal Tort Claims Act, 28 U.S.C. 1346(b) and 2671 et seq. Her attorney in charge was Peter A. Gersten of Gagliardi, Torpes & Gersten, Tarrytown, New York, with William C. Shead as local co-counsel. On 21 August 1986 Judge Ross N. Sterling granted the government\'s motion and entered an Order of Dismissal under Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56. This board records Cash at tier A not because the object is identified - it is not - but because she is the only UFO witness in the United States to have forced the government to appear in a federal court and answer, on the record, whether an object and aircraft of that description were its own.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 589 of 956, score 23). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 591 of 956, score 23). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     chronology: [
       { date: '1980-12-29', event: 'The encounter near Huffman, Texas, at about 9pm', precision: 'day' },
       {
@@ -26127,7 +26147,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Leonhardt wrote the lowest-numbered DIRD in the released set. The cover page of \'Invisibility Cloaking: Theory and Experiments\' carries DIA-08-1003-001, publication date 2 March 2010 and an Intelligence Cut-Off Date of 1 December 2009 - the first document out of the FY2009 \'Acquisition Threat Support\' pipeline. Entry 7 on the DIA list to the Senate Armed Services Committee reads \'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.\' He is the one AAWSAP author whom even the programme\'s harshest mainstream critic treated as unimpeachable: The War Zone\'s January 2019 audit of the list, which characterised several of the deliverables as junk science, singled Leonhardt out as a case where the title \'may sound particularly fanciful\' but the work \'is grounded in real science to do with quantum physics and the behavior of light.\' Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by 2009, one of two or three names internationally associated with the field. His presence is evidence for the interpretation that AAWSAP\'s commissioning was not indiscriminate. It also positions the cloaking paper as the signature-reduction leg of the survey. Puthoff\'s Broad Area Announcement account lists the twelve threat areas DIA wanted evaluated as including \'lift, propulsion, signature reduction, human effects and so on\', and named invisibility cloaking explicitly among the papers he commissioned. The DIRD is therefore the direct answer to the signature-reduction question: if an object is observed on some sensors and not others, what does the physics of cloaking say about how that could be engineered, and where would it be by 2050. Knapp released a copy in February 2019, making it the fourth DIRD to reach the public before the March 2022 bulk FOIA release.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 624 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 626 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -26199,7 +26219,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Towe is one of only four authors to write more than one DIRD, and the only one whose pair sits entirely on the biological side of the survey. The DIA list to the Senate Armed Services Committee names him at entry 6, \'Biosensors and BioMEMS\', and entry 17, \'Biomaterials\', both attributed to \'Univ of Arizona\'. The released \'Biosensors and BioMEMS: A Survey of the Present Field\' carries DIA-08-1003-020, publication date 31 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. There is a documentable discrepancy worth flagging rather than smoothing: every located institutional record for Bruce Towe places him at Arizona State University\'s School of Biological and Health Systems Engineering, not the University of Arizona. The DIA list appears to have recorded the affiliation loosely; both the KLAS transcription and the 9 January 2018 letter carry the same \'Univ of Arizona\' wording, so the error, if it is one, originates upstream in DIA\'s own list rather than in transcription. His documented field - implantable microelectronic biosensors, neurostimulation, brain-machine electrode fabrication - maps precisely onto the DIRD\'s contents, which run through brain-implanted BioMEMS neuroelectrodes, microelectrode array fabrication, retinal devices and therapeutic neurostimulation. Towe\'s papers matter to the board because they anchor the biomedical leg of AAWSAP alongside Kit Green\'s \'Field Effects on Biological Tissues\' and Richard Genik\'s three neuro-interface deliverables. Puthoff\'s account of the Broad Area Announcement lists \'human effects\' among the twelve threat areas DIA specified. Read together, the Towe, Green and Genik papers are the programme asking two questions at once: what does proximity to the phenomenon do to a human body, and what would a human-machine interface capable of flying such a vehicle have to look like.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 625 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 627 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -27209,7 +27229,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Collins occupies the Senate Appropriations chair, one of the six chairmanships that generate a 10 U.S.C. 119(e)(2) entitlement. Her presence in the group illustrates why the Gang of Eight comparison misleads: appropriators are inside the waived-SAP circle and outside the covert-action circle, while the party leaders are the reverse. Collins is the money side of the entitlement. A waived special access program still has to be paid for, and the appropriations leadership sees the classified annex material that the authorising committees do not necessarily see in the same form. In 2023 Collins held two of the twelve seats simultaneously - ranking member of the full Appropriations Committee and ranking member of its Defense Subcommittee - which is a recurring feature of the group worth flagging: because the same senator often occupies both the full-committee and subcommittee seat, the twelve statutory seats are frequently filled by fewer than twelve distinct people. In the 118th Congress the Senate side of the 119(e)(2) group comprised only five individuals rather than six for exactly this reason. Collins has no publicly documented UAP-specific record. As with the other holders, the absence is notable rather than exculpatory: the statute gives her sight of waived programme material and gives her no mechanism to disclose it.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 563 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 565 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -27265,7 +27285,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Murray holds the ranking minority position on the Senate Appropriations Committee, which that committee styles Vice Chair rather than Ranking Member. The title difference does not affect the statutory entitlement: 10 U.S.C. 119(e)(2) speaks of \'the ranking minority member of each of the defense committees,\' and Murray is the senior member of the minority on the Senate Appropriations Committee, so the waived-SAP notification runs to her jointly with Chair Collins. A board rendering the group should be careful not to omit her on the ground that the Senate Appropriations minority leader is not called a ranking member. Murray and Collins have traded the chair and vice chair positions between the 118th and 119th Congresses, so both have held a 119(e)(2) seat continuously since at least January 2023 - Murray as chairman in 2023, vice chair thereafter. That means Murray held a seat entitling her to waived special access program notification at the time of the July 2023 Grusch testimony and at the time of the fiscal 2024 Unidentified Anomalous Phenomena Disclosure Act debate. She has no publicly documented UAP-specific record, and her committee has no public UAP jurisdiction, but the appropriations channel is where a waived programme\'s funding would necessarily surface in some form.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 564 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 566 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -27321,7 +27341,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Coons is the ranking minority member of the Senate Appropriations Defense Subcommittee and therefore the twelfth-listed of the twelve statutory recipients on the Senate side. His entitlement under 10 U.S.C. 119(e)(2) is identical in scope to the chairman\'s: the withheld report information and the Secretary of Defense\'s justification for the waiver go to chair and ranking jointly, not to the chair alone. The joint character of the notification is a deliberate anti-capture feature of the statute and should be represented on the board as such - a waived-SAP notification cannot lawfully be given to one party\'s leadership only. What Coons does not have is any statutory right to widen the circle. Nothing in section 119 permits him to brief the rest of his subcommittee, and unlike his counterparts on the intelligence committees under 50 U.S.C. 3093(g), he has no assurance that his non-leadership colleagues will even be told that a limited notification occurred. Coons has no publicly documented UAP-specific record. His subcommittee\'s jurisdiction, as published by the Senate Appropriations Committee, extends across the Central Intelligence Agency, the National Reconnaissance Office, the National Security Agency, the Defense Intelligence Agency and the National Geospatial-Intelligence Agency in addition to the military departments, which makes the Defense Subcommittee seats unusually broad in practice relative to their narrow statutory description.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 565 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 567 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -27377,7 +27397,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Rogers has chaired the House Armed Services Committee since the start of the 118th Congress and holds that chair in August 2026, which places him in the 10 U.S.C. 119(e)(2) group continuously across the 2023 Grusch testimony and everything since. He must be distinguished on the board from Mike Rogers of Michigan, a different member who chaired the House Permanent Select Committee on Intelligence - a committee with no entitlement whatsoever under section 119. Conflating the two would put the wrong person in the group and attach the wrong committee to the wrong statute. The Rogers seat is the House authorising counterpart to Wicker\'s. It carries the same joint entitlement with the ranking member to receive waived special access program information and the waiver justification, the same 119(f) thirty-day pre-initiation notification, and the same absence of any statutory route to share what is received. Rogers\'s committee is also the vehicle through which the annual National Defense Authorization Act and its classified annex are produced, which is the practical mechanism by which Congress has repeatedly attempted to legislate visibility into UAP-related programmes. That gives the House Armed Services chairmanship a dual character on this board: a statutory recipient seat under section 119, and the drafting seat for the legislation that has sought to widen section 119-style access.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 566 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 568 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -27494,7 +27514,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'DeLauro has been the ranking minority member of the House Appropriations Committee across the 118th and 119th Congresses, which places her in the 10 U.S.C. 119(e)(2) group continuously from January 2023 through August 2026, including the period of the July 2023 Grusch testimony. Her seat is one of the four appropriations seats in the group - full committee chair and ranking in each chamber - that have no analogue in the Gang of Eight. She was ranking member opposite Chairwoman Kay Granger in the 118th Congress and opposite Chairman Tom Cole in the 119th. Her continuity through a change of chairman is the House appropriations equivalent of the Reed and Smith pattern on the armed services side. DeLauro has no publicly documented UAP-specific record. Her entitlement under section 119 is to receive, jointly with the chairman, whatever the Secretary of Defense withholds from a section 119 report plus the justification for the waiver. As with every other member of the group, that entitlement comes with no staff-sharing right, no disclosure route, and no sunset that would eventually force the material into wider committee view. In the intelligence context an equivalent limitation would expire after 180 days under 50 U.S.C. 3093(c)(5)(B). In the DoD SAP context it does not expire at all.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 590 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 592 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {

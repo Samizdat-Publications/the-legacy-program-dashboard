@@ -874,6 +874,16 @@ def integrity(people, entities, edges, timeline):
     for p in people.values():
         if len(p["sources"]) < 2:
             problems["person_thin_sourcing"].append({"id": p["id"], "sources": len(p["sources"])})
+            # A node resting on one primary record and a node resting on one blog post
+            # are not the same risk, and counting them together made the queue useless:
+            # of the 26 that were thin after the w16 pass, nine already stood on govinfo,
+            # lanl.gov, The Black Vault, doi.org or Chile's DGAC, and none stood on an
+            # encyclopedic source at all. This is the number actually worth working.
+            urls = " ".join(s.get("url") or "" for s in p["sources"])
+            if not PRIMARY_URL_PAT.search(urls):
+                problems["person_single_nonprimary_source"].append(
+                    {"id": p["id"], "source": (p["sources"][0].get("url")
+                                               if p["sources"] else None)})
         if not p["narrative"]:
             problems["person_without_narrative"].append(p["id"])
         if not p["tierRationale"]:
