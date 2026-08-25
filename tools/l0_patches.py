@@ -139,11 +139,57 @@ const L0_CLS = {
    edge types' own dashes become selection-only. */
 const L0_TIER = { 1:{c:'#5ed4e6',d:[]}, 2:{c:'#efb555',d:[6,4]}, 3:{c:'#8d97a4',d:[2,3]} };
 const L0_LABEL_DROP = 0.62;      /* inherited LOD rule, unchanged */
-const L0_MARK = 13;
+const L0_MARK = 13;              /* legacy point-cloud glyph. Still used by the
+                                    FULL GRAPH fallback; the packed map draws chips. */
+/* ---- packed-cell palette -------------------------------------------------
+   Taken from the comp Stewart signed off (tools/l0_comp.html), which took them
+   from this file in the first place. Chip fill is flat and identical for every
+   node: SIZE AND FILL ARE NOT CHANNELS on this board, and the largest node is
+   AARO, which it treats as implicated rather than authoritative. */
+const L0_PACK = {
+  chipFill:'#12171d', chipLine:'#3b444f', chipLineA:'#4a6b8f', chipLineFlag:'#efb555',
+  bandFill:'#141920', bandAlt:'#12161c', bandLabel:'#5c6672', bandN:'#3b444f',
+  colHead:'#8d97a4', colNote:'#5c6672', colRule:'#262e36',
+  restLine:'#2f3a45', restAnchor:'#2a3b44', restDenial:'#5a3f3c',
+  pointer:'#efb555', iso:'#e8705f', ink:'#e6e9ee', ink2:'#b9c2cd',
+};
+/* Three view options, all ON by default. Stewart's call, 25 August 2026, having
+   looked at the comp with all three on: "want all 3 options turned on". They are
+   controls rather than constants because each one answers a different question and
+   a reader who wants the arrangement alone should be able to get it. */
+const L0_OPT = { rest:true, flags:true, labels:true };
 
 function mountL0(host){
   const D = L0DATA, byId = {};
   for (const n of D.l0) byId[n.id] = n;
+  /* The packed-cell layout, merged into the model at build time by
+     l0_patches.merge_packed. There is no fallback branch: if this is missing the
+     map has no geometry and the honest thing is to say so on the surface rather
+     than draw 110 chips in a heap at 0,0. */
+  const PK = D.packed;
+  if (!PK || !PK.worldW){
+    host.appendChild(el('div','l0meta'))
+        .textContent = 'PROGRAM MAP UNAVAILABLE — no packed layout in the model. '
+                     + 'Run node tools/build_l0_layout.mjs, then rebuild.';
+    return { repaint(){}, pairs: [], destroy(){}, fitScale(){ return 1; }, view:{k:1,ox:0,oy:0} };
+  }
+  /* FROZEN CHROME. The model reserves geo.gutter (148) on the left and
+     geo.headRow (46) on top for the row and column labels, and the packed cells
+     start outside both. Those two strips are held in SCREEN space here rather
+     than world space, and the map is clipped and pan-clamped to what is left.
+
+     This is a divergence from tools/l0_comp.html, and it exists because the comp
+     is one static full-view and the map pans. The first cut drew the labels
+     pinned but not clipped, and tools/test_packed_layout.js caught six chips
+     rendering UNDER the column-head plate at 12% opacity -- readable as a smear,
+     invisible as a defect to anyone reading the source. Freezing the strips means
+     no chip can ever be beneath them, and pan-clamping means the reader can never
+     scroll the map off into empty world either. */
+  const PAD = { l: (PK.geo||{}).gutter || 148, t: (PK.geo||{}).headRow || 46 };
+  const REST = new Set(PK.rest || []);
+  const FLAG = new Set(PK.flags || []);
+  const opt = Object.assign({}, L0_OPT);
+  const ekey = (e, s) => e.a + '|' + e.b + '|' + (s ? 'shared' : 'direct');
   const cvs = document.createElement('canvas');
   host.appendChild(cvs);
   const ctx = cvs.getContext('2d');
@@ -159,56 +205,167 @@ function mountL0(host){
     cvs.width = W*dpr; cvs.height = H*dpr;
     ctx.setTransform(dpr,0,0,dpr,0,0);
   }
-  /* SPEC 7. Opening fitted is only correct if labels survive the fit. At this
-     node count the fit lands within a few hundredths of the 0.62 drop threshold,
-     so it is MEASURED here rather than decided at build time: if the fit keeps
-     labels we open fitted, and if it does not we open at 1.0 and the reader pans.
-     Either way OVERVIEW is an explicit control. */
+  /* SPEC 7, re-derived for the packed grid. The point cloud had to guess its own
+     extent from node positions plus constants for label width and the label line.
+     A grid knows its extent: the model states worldW and worldH, and the chip is
+     inside it. So the two constants are gone rather than merely unused -- on a grid
+     they were wrong, not redundant. */
   function fitScale(){
-    const xs = D.l0.map(n=>n.x), ys = D.l0.map(n=>n.y);
-    const w = Math.max(...xs)-Math.min(...xs) + 132;   /* label max-width  */
-    const h = Math.max(...ys)-Math.min(...ys) + 46;    /* mark + label line */
-    return Math.min((W-48)/w, (H-48)/h);
+    /* Fit the CELLS into the space left after the chrome, not the whole world
+       into the whole canvas. Fitting the world would scale the reserved strips
+       down along with everything else and then reserve them again at full size
+       on top, which loses a chip row at every viewport size. */
+    return Math.min((W - PAD.l - 16) / (PK.worldW - PAD.l),
+                    (H - PAD.t - 16) / (PK.worldH - PAD.t));
+  }
+  /* Pan is clamped so the cells always fill the content rect: no scrolling the
+     map away into blank world, and no cell ever hiding under the frozen chrome.
+     Called from every place the camera moves -- drag, wheel, fit, focus, resize.
+     Miss one and the map opens correctly and then drifts, which is worse than
+     never clamping at all because it only shows up after an interaction. */
+  function clampView(){
+    const k = view.k;
+    const cw = W - PAD.l, ch = H - PAD.t;              /* content rect */
+    const ww = (PK.worldW - PAD.l) * k, wh = (PK.worldH - PAD.t) * k;
+    const maxOx = PAD.l - PAD.l * k, maxOy = PAD.t - PAD.t * k;
+    view.ox = ww <= cw ? maxOx : Math.min(maxOx, Math.max(W - PK.worldW * k, view.ox));
+    view.oy = wh <= ch ? maxOy : Math.min(maxOy, Math.max(H - PK.worldH * k, view.oy));
   }
   function centreOn(k){
-    const xs = D.l0.map(n=>n.x), ys = D.l0.map(n=>n.y);
-    const cx = (Math.max(...xs)+Math.min(...xs))/2, cy = (Math.max(...ys)+Math.min(...ys))/2;
-    view.k = k; view.ox = W/2 - cx*k; view.oy = H/2 - cy*k;
+    view.k = k;
+    view.ox = W/2 - (PK.worldW/2)*k; view.oy = H/2 - (PK.worldH/2)*k;
+    clampView();
+  }
+  /* A grid does not want to open on its middle. The bands are ordered by measured
+     mean custody proximity, descending, and THAT ORDER IS THE ARGUMENT -- so when
+     the whole world does not fit, the map opens on the top-left corner where the
+     argument starts, with the gutter and the column heads in view. */
+  function cornerOn(k){
+    view.k = k; view.ox = 0; view.oy = 0; clampView();
   }
   const SX = x => x*view.k + view.ox, SY = y => y*view.k + view.oy;
+  /* Chip centre. Model positions are TOP-LEFT; edges, ledgers and focus all want
+     the middle, and mixing the two is the whole bug class this comment prevents. */
+  const CX = n => SX(n.x + n.w/2), CY = n => SY(n.y + n.h/2);
 
-  /* ---- marks ---------------------------------------------------------- */
-  function mark(x, y, cls, colour, on){
-    const s = L0_MARK, h = s/2;
+  /* ---- chips ---------------------------------------------------------- */
+  /* ONE chip size for every node, 205 x 20, straight from the model. This is the
+     load-bearing rule of the whole layout and the reason position can mean
+     something: with size neutralised, the only things left saying anything are
+     which column a node is in (era) and which row (band). Class keeps a channel --
+     a 3px rule down the left edge, the same device the document mark used along
+     its top -- because dropping it would lose information the board deliberately
+     added, and a hue stripe is not a size. */
+  function chip(n, on, lit){
+    const x = SX(n.x), y = SY(n.y), w = n.w*view.k, h = n.h*view.k;
+    ctx.fillStyle = L0_PACK.chipFill;
+    ctx.fillRect(x, y, w, h);
     ctx.lineWidth = 1;
-    ctx.strokeStyle = on ? colour : '#3b444f';
-    ctx.fillStyle = '#12171d';
-    const m = (L0_CLS[cls]||L0_CLS.person).mark;
-    ctx.beginPath();
-    if (m === 'circle'){ ctx.arc(x, y, h, 0, Math.PI*2); }
-    else if (m === 'diamond'){
-      const r = h*0.92*Math.SQRT2;
-      ctx.moveTo(x, y-r); ctx.lineTo(x+r, y); ctx.lineTo(x, y+r); ctx.lineTo(x-r, y);
-      ctx.closePath();
+    ctx.strokeStyle = on ? '#5ed4e6'
+                    : (FLAG.has(n.id) && opt.flags) ? L0_PACK.chipLineFlag
+                    : n.tier === 'A' ? L0_PACK.chipLineA : L0_PACK.chipLine;
+    ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
+    ctx.fillStyle = (L0_CLS[n.cls]||L0_CLS.person).c;   /* class rule, left edge */
+    ctx.fillRect(x, y, Math.max(1, 3*view.k), h);
+    if (opt.labels && view.k >= L0_LABEL_DROP){
+      ctx.font = "400 " + (9.5*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+      ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
+      const room = w - 12*view.k;
+      let t = n.short || n.label || n.id;
+      if (ctx.measureText(t).width > room){
+        while (t.length > 2 && ctx.measureText(t + '\u2026').width > room) t = t.slice(0, -1);
+        t += '\u2026';
+      }
+      ctx.fillStyle = on ? L0_PACK.ink : (n.tier === 'A' ? L0_PACK.ink : L0_PACK.ink2);
+      ctx.fillText(t, x + 7*view.k, y + h/2 + 0.5);
     }
-    else if (m === 'bar'){ ctx.rect(x-3, y-7, 6, 14); }
-    else { ctx.rect(x-h, y-h, s, s); }
-    ctx.fill(); ctx.stroke();
-    if (m === 'doc'){                       /* 3px top rule, the document tell */
-      ctx.fillStyle = colour;
-      ctx.fillRect(x-h, y-h, s, 3);
+    /* Absent prints as absent. Three nodes clear the connectivity floor on the
+       full board and still have no link to any other node ON THE MAP, which is a
+       finding about the map's own threshold rather than about them. */
+    if (n.iso){
+      const cx = x + w - 9*view.k, cy = y + h/2, r = 3.5*view.k;
+      ctx.strokeStyle = L0_PACK.iso; ctx.lineWidth = 1.4;
+      ctx.beginPath();
+      ctx.moveTo(cx-r, cy-r); ctx.lineTo(cx+r, cy+r);
+      ctx.moveTo(cx-r, cy+r); ctx.lineTo(cx+r, cy-r);
+      ctx.stroke();
     }
   }
-  /* Aggregate affordance: a FIXED stack, two offset copies behind the mark. It
-     does not grow with the count, because a geometric channel that scaled with
-     member count would read as authority — and on this board the biggest node is
-     AARO, which is implicated rather than authoritative. */
-  function stack(x, y, cls){
-    for (const [d, col] of [[6,'#333c47'],[3,'#3b444f']]){
-      ctx.strokeStyle = col; ctx.fillStyle = '#12171d'; ctx.lineWidth = 1;
-      const h = L0_MARK/2;
-      ctx.beginPath(); ctx.rect(x-h+d, y-h+d, L0_MARK, L0_MARK); ctx.fill(); ctx.stroke();
-    }
+  /* The start-here layer, drawn as an OFFSET pointer beside the chip and never as
+     a property of it. That separation is the point: it can never be mistaken for a
+     tier, and AARO cannot be promoted by being pointed at. */
+  function pointer(n){
+    const x = SX(n.x) - 4*view.k, y = CY(n);
+    ctx.strokeStyle = L0_PACK.pointer; ctx.lineWidth = 1.5;
+    ctx.beginPath(); ctx.moveTo(x - 9*view.k, y); ctx.lineTo(x, y); ctx.stroke();
+    ctx.fillStyle = L0_PACK.pointer;
+    ctx.beginPath(); ctx.arc(x - 11.5*view.k, y, Math.max(1.2, 2.2*view.k), 0, Math.PI*2);
+    ctx.fill();
+  }
+  /* Band rows and era columns. Both are labelled, because in this layout the rows
+     and columns ARE the claim -- an unlabelled grid is just a nicer hairball.
+     DIVERGENCE from the comp, which is a single static full-view: here the labels
+     are PINNED to the viewport edges rather than drawn at world x=10 / y=18, so
+     they stay readable at any pan. geo.gutter (148) and geo.headRow (46) reserve
+     exactly that space in the model, which is what makes pinning safe. */
+  function bands(){
+    (PK.bands||[]).forEach((b, i) => {
+      const y = SY(b.y), h = b.h*view.k;
+      if (y > H || y + h < 0) return;
+      ctx.fillStyle = i % 2 ? L0_PACK.bandAlt : L0_PACK.bandFill;
+      /* Full width including the gutter, so the row striping runs behind its own
+         label and a reader can see which row a label belongs to. */
+      ctx.fillRect(0, y, W, h);
+    });
+  }
+  function bandLabels(){
+    ctx.save();
+    ctx.beginPath(); ctx.rect(0, PAD.t, PAD.l, H - PAD.t); ctx.clip();
+    ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+    (PK.bands||[]).forEach(b => {
+      const y = SY(b.y), h = b.h*view.k;
+      if (y > H || y + h < PAD.t) return;
+      const ty = Math.max(y, PAD.t);      /* a row scrolled half off still names itself */
+      ctx.font = "600 9px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = L0_PACK.bandLabel;
+      ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
+      ctx.font = "400 9px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = L0_PACK.bandN;
+      ctx.fillText(b.n + ' \u00b7 mean C ' + b.meanC, 10, ty + 25);
+    });
+    ctx.restore();
+  }
+  function columns(){
+    ctx.strokeStyle = L0_PACK.colRule; ctx.lineWidth = 1;
+    (PK.eras||[]).forEach(c => {
+      if (!(c.x > 0)) return;
+      const x = SX(c.x) - 5;
+      if (x < 0 || x > W) return;
+      ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
+    });
+  }
+  function columnHeads(){
+    ctx.save();
+    ctx.beginPath(); ctx.rect(0, 0, W, PAD.t); ctx.clip();
+    ctx.fillStyle = '#11141a';                       /* the strip is chrome, opaque */
+    ctx.fillRect(0, 0, W, PAD.t);
+    ctx.strokeStyle = L0_PACK.colRule; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(0, PAD.t - 0.5); ctx.lineTo(W, PAD.t - 0.5); ctx.stroke();
+    ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
+    (PK.eras||[]).forEach(c => {
+      const x = SX(c.x);
+      if (x > W || x + c.w*view.k < PAD.l) return;
+      const cx = Math.max(PAD.l, Math.min(W - 150, x));
+      ctx.font = "600 9px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = L0_PACK.colHead;
+      ctx.fillText(c.label, cx, 20);
+      if (c.note){
+        ctx.font = "400 8.5px 'IBM Plex Mono',monospace";
+        ctx.fillStyle = L0_PACK.colNote;
+        ctx.fillText(c.note, cx, 33);
+      }
+    });
+    ctx.restore();
   }
 
   /* ---- traces --------------------------------------------------------- */
@@ -219,7 +376,7 @@ function mountL0(host){
   function trace(e, summarised){
     const a = byId[e.a], b = byId[e.b];
     if (!a || !b) return;
-    const x1=SX(a.x), y1=SY(a.y), x2=SX(b.x), y2=SY(b.y);
+    const x1=CX(a), y1=CY(a), x2=CX(b), y2=CY(b);
     const t = L0_TIER[e.tier] || L0_TIER[3];
     const w = e.n || 1;
     /* MULTIPLY by the caller's alpha, do not overwrite it. The caller sets the
@@ -273,7 +430,7 @@ function mountL0(host){
       const ang = Math.atan2(y2-cy, x2-cx);
       const hx = x2 - Math.cos(ang)*10, hy = y2 - Math.sin(ang)*10;
       ctx.beginPath();
-      ctx.moveTo(x2 - Math.cos(ang)*L0_MARK*0.8, y2 - Math.sin(ang)*L0_MARK*0.8);
+      ctx.moveTo(x2 - Math.cos(ang)*11*view.k, y2 - Math.sin(ang)*11*view.k);
       ctx.lineTo(hx - Math.sin(ang)*3.2, hy + Math.cos(ang)*3.2);
       ctx.lineTo(hx + Math.sin(ang)*3.2, hy - Math.cos(ang)*3.2);
       ctx.closePath(); ctx.fill();
@@ -285,83 +442,76 @@ function mountL0(host){
     raf = null;
     if (dead) return;
     ctx.clearRect(0,0,W,H);
-    /* grid */
-    ctx.strokeStyle = 'rgba(59,68,79,0.18)'; ctx.lineWidth = 1;
-    const g = 44*view.k;
-    if (g > 6){
-      ctx.beginPath();
-      for (let x = view.ox % g; x < W; x += g){ ctx.moveTo(x,0); ctx.lineTo(x,H); }
-      for (let y = view.oy % g; y < H; y += g){ ctx.moveTo(0,y); ctx.lineTo(W,y); }
-      ctx.stroke();
-    }
+    ctx.save();
+    ctx.beginPath(); ctx.rect(PAD.l, PAD.t, W - PAD.l, H - PAD.t); ctx.clip();
+    bands();
+    columns();
+
     const dim = S.l0open.length ? 0.16 : 1;
     const lit = new Set(S.l0open);
     for (const id of S.l0open){
       const n = byId[id];
       if (n) for (const m of n.direct) lit.add(m);
     }
-    /* weakest first, so the strong claims land on top */
+    const idle = !S.l0open.length && !focus;
+
+    /* THE EDGE BUDGET. 103 of 326 draw at rest, chosen by the model's own rule
+       (db>=2 && de>=1, plus one anchor per node) rather than by thinning here --
+       so what a reader sees is auditable against data/l0-layout-model.json instead
+       of being an artefact of the renderer. Selecting a node lifts the budget for
+       that node's own edges: the budget governs the RESTING surface, and hiding an
+       edge from someone who has asked for it would make the map lie. */
     const es = D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
-    es.sort((p,q)=>(p.e.n||1)-(q.e.n||1));
-    for (const {e,s} of es){
-      const on = (!S.l0open.length && !focus) || lit.has(e.a) || lit.has(e.b);
-      ctx.globalAlpha = on ? 1 : dim;
-      trace(e, s);
+    es.sort((p,q)=>(p.e.n||1)-(q.e.n||1));   /* weakest first, strong claims on top */
+    for (const {e,s:sm} of es){
+      const touched = lit.has(e.a) || lit.has(e.b);
+      const atRest = opt.rest && REST.has(ekey(e, sm));
+      if (idle ? !atRest : !(touched || atRest)) continue;
+      ctx.globalAlpha = (idle || touched) ? 1 : dim;
+      trace(e, sm);
     }
     ctx.globalAlpha = 1;
-    const showLabels = view.k >= L0_LABEL_DROP;
+
     for (const n of D.l0){
       const x = SX(n.x), y = SY(n.y);
-      if (x < -80 || x > W+80 || y < -60 || y > H+60) continue;
-      const on = (!S.l0open.length && !focus) || lit.has(n.id);
-      ctx.globalAlpha = on ? 1 : dim;
-      const col = (L0_CLS[n.cls]||L0_CLS.person).c;
-      const mem = n.direct.length + n.routed.length;
-      const active = hover === n.id || S.l0open.indexOf(n.id) >= 0;
-      if (mem >= 2) stack(x, y, n.cls);
-      mark(x, y, n.cls, col, active);
-      if (showLabels){
-        ctx.font = "500 9px 'IBM Plex Mono',monospace";
-        ctx.textAlign = 'center'; ctx.textBaseline = 'top';
-        let s = n.short, wpx = ctx.measureText(s).width;
-        while (wpx > 132 && s.length > 4){ s = s.slice(0,-2); wpx = ctx.measureText(s+'…').width; }
-        if (s !== n.short) s += '…';
-        const ty = y + L0_MARK/2 + 5;
-        ctx.fillStyle = 'rgba(15,18,22,0.88)';
-        ctx.fillRect(x - wpx/2 - 3, ty - 1, wpx + 6, 12);
-        ctx.fillStyle = active ? '#e6e9ee' : '#b9c2cd';
-        ctx.fillText(s, x, ty);
-        if (mem >= 2) drawLedgerBar(x, ty + 13, n);
-      }
+      if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
+      ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
+      chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
+      if (opt.flags && FLAG.has(n.id)) pointer(n);
       ctx.globalAlpha = 1;
     }
+    ctx.restore();
+    /* Pinned last, so the furniture that says what the rows and columns MEAN is
+       never painted over by a chip that happens to sit under it. */
+    ctx.save();
+    ctx.beginPath(); ctx.rect(0, PAD.t, PAD.l, H - PAD.t); ctx.clip();
+    ctx.fillStyle = '#11141a';
+    ctx.fillRect(0, PAD.t, PAD.l, H - PAD.t);
+    ctx.strokeStyle = L0_PACK.colRule; ctx.lineWidth = 1;
+    ctx.beginPath(); ctx.moveTo(PAD.l - 0.5, PAD.t); ctx.lineTo(PAD.l - 0.5, H); ctx.stroke();
+    ctx.restore();
+    bandLabels();
+    columnHeads();
   }
-  /* D2, recorded as a rule BENT rather than met: the class mix is carried in hue
-     alone. The design system forbids that. The tooltip names every segment, which
-     mitigates it; it does not make it compliant. */
-  function drawLedgerBar(x, y, n){
-    const total = n.direct.length + n.routed.length;
-    if (!total) return;
-    const keys = Object.keys(n.mix);
-    let px = x - 74/2;
-    for (const k of keys){
-      const w = Math.max(1, (n.mix[k]/total)*74 - 1);
-      ctx.fillStyle = (L0_CLS[k]||L0_CLS.person).c;
-      ctx.fillRect(px, y, w, 2);
-      px += w + 1;
-    }
-    ctx.font = "500 9px 'IBM Plex Mono',monospace";
-    ctx.textAlign = 'left'; ctx.fillStyle = '#8d97a4';
-    ctx.fillText(String(total), x + 74/2 + 5, y - 3);
-  }
+  /* D2 is no longer bent, and it was the packed layout that unbent it. The point
+     cloud drew each node's member class mix as a 74px hue-only bar under its label,
+     which the design system forbids and which the old comment here recorded as a
+     rule broken rather than met. A chip has no room under it and does not want one:
+     the mix is named in words in the tooltip and grouped by class in the ledger,
+     both of which carry the same information without asking hue to do it alone. */
   const paintMap = () => { if (!raf) raf = requestAnimationFrame(draw); };
 
   /* ---- hit test ------------------------------------------------------- */
+  /* The chip IS the hit target, so this is a rect test against the drawn bounds
+     rather than a radius around a point. The two must not drift: a target that is
+     not the thing you can see is the class of defect where the map looks right and
+     does not respond where the reader clicks. Cells are packed and never overlap,
+     so first hit wins and order does not matter. */
   function at(mx, my){
+    if (mx < PAD.l || my < PAD.t) return null;   /* the chrome is not the map */
     for (let i = D.l0.length-1; i >= 0; i--){
-      const n = D.l0[i];
-      const dx = mx - SX(n.x), dy = my - SY(n.y);
-      if (Math.abs(dx) <= 11 && Math.abs(dy) <= 11) return n;
+      const n = D.l0[i], x = SX(n.x), y = SY(n.y);
+      if (mx >= x && mx <= x + n.w*view.k && my >= y && my <= y + n.h*view.k) return n;
     }
     return null;
   }
@@ -380,14 +530,22 @@ function mountL0(host){
     }
     if (S.l0full) h += '<span class="l0chip" data-full="0">FULL GRAPH <span class="x">&times;</span></span>';
     if (S.l0open.length) h += '<span class="l0chip" data-clear="1">CLEAR</span>';
-    h += '<span class="l0meta">' + (D.counts.l0 + D.counts.directEdges + D.counts.summarisedEdges)
-       + ' objects · ' + view.k.toFixed(2) + 'x</span>';
+    h += '<span class="l0meta">' + D.counts.l0 + ' nodes · '
+       + (opt.rest ? (PK.rest||[]).length : 0) + ' of '
+       + (D.counts.directEdges + D.counts.summarisedEdges) + ' links at rest · '
+       + view.k.toFixed(2) + 'x</span>';
     c.innerHTML = h;
 
     let z = host.querySelector('.l0ctl');
     if (!z){ z = el('div','l0ctl'); host.appendChild(z); }
+    /* Three options, all on by default, each with a control -- so a reader who
+       wants the bare arrangement can get it and, per the "drive the whole app from
+       the chat input" requirement, the analyst can operate them too (CMD.l0opt). */
     z.innerHTML = '<button class="hopb" data-fit="1">OVERVIEW</button>'
-                + '<button class="hopb" data-one="1">1:1 READ</button>';
+                + '<button class="hopb" data-one="1">1:1 READ</button>'
+                + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
+                + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
+                + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>';
   }
 
   function renderLedgers(){
@@ -437,8 +595,8 @@ function mountL0(host){
          "PERSON - 6" could render one row with no scrollbar and no "+5 more":
          the count and the content disagreed and the reader had no way to tell. */
       const CARD_H = Math.min(430, H - 24);
-      const sx = Math.max(8, Math.min(W - 314, SX(n.x) + 18));
-      const sy = Math.max(8, Math.min(H - CARD_H - 8, SY(n.y) - 40));
+      const sx = Math.max(PAD.l + 6, Math.min(W - 314, SX(n.x) + n.w*view.k + 10));
+      const sy = Math.max(PAD.t + 6, Math.min(H - CARD_H - 8, CY(n) - 40));
       p.style.maxHeight = CARD_H + 'px';
       p.style.display = 'flex';
       p.style.flexDirection = 'column';
@@ -512,6 +670,7 @@ function mountL0(host){
       const dx = ev.clientX-drag.x, dy = ev.clientY-drag.y;
       if (Math.abs(dx)+Math.abs(dy) > 3) moved = true;
       view.ox = drag.ox+dx; view.oy = drag.oy+dy;
+      clampView();
       paintMap(); renderChrome(); renderLedgers();
       return;
     }
@@ -534,14 +693,16 @@ function mountL0(host){
     const b = host.getBoundingClientRect(), mx = ev.clientX-b.left, my = ev.clientY-b.top;
     const k2 = Math.max(0.18, Math.min(2.2, view.k * (ev.deltaY < 0 ? 1.12 : 1/1.12)));
     view.ox = mx - (mx-view.ox)*(k2/view.k); view.oy = my - (my-view.oy)*(k2/view.k);
-    view.k = k2; repaint();
+    view.k = k2; clampView(); repaint();
   }, { passive:false });
   host.addEventListener('click', ev => {
     const c = ev.target.closest('[data-close]');
     if (c) return CMD.collapse(c.getAttribute('data-close'));
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
     if (ev.target.closest('[data-fit]')){ centreOn(fitScale()); repaint(); return; }
-    if (ev.target.closest('[data-one]')){ centreOn(1); repaint(); return; }
+    if (ev.target.closest('[data-one]')){ cornerOn(1); repaint(); return; }
+    const o = ev.target.closest('[data-opt]');
+    if (o){ const k = o.getAttribute('data-opt'); opt[k] = !opt[k]; repaint(); return; }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
     const f = ev.target.closest('[data-full]');
@@ -553,12 +714,17 @@ function mountL0(host){
 
   measure();
   const fk = fitScale();
-  centreOn(fk >= L0_LABEL_DROP ? fk : 1);
+  /* Fitted if the fit keeps labels; otherwise the top-left corner at 1:1, because
+     on a banded grid the first band is where the argument starts. The old code
+     centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
+     funding band with no column head and no band label in view. */
+  if (fk >= L0_LABEL_DROP) centreOn(fk); else cornerOn(1);
   repaint();
-  const ro = new ResizeObserver(() => { measure(); repaint(); });
+  const ro = new ResizeObserver(() => { measure(); clampView(); repaint(); });
   ro.observe(host);
   return {
     repaint, pairs: [],   /* INSIGHTS() reaches for this; see renderNetworkChrome */
+    opt,
     destroy(){ dead = true; ro.disconnect(); if (raf) cancelAnimationFrame(raf); },
     fitScale, view,
   };
@@ -607,14 +773,93 @@ L0_CMD = r"""
 
 
 # ---------------------------------------------------------------------- apply
-def apply(s, model, must_replace):
+# ------------------------------------------------------------- packed geometry
+def merge_packed(model, layout):
+    """Fold the packed-cell layout into the L0 model, in place.
+
+    Design's layout (`tools/build_l0_layout.mjs` -> `data/l0-layout-model.json`)
+    is the arrangement that ships. build_l0.py's force layout is kept alongside as
+    `fx`/`fy` rather than thrown away, because build_l0.py still reports on it and a
+    number that describes a layout nobody draws is exactly the kind of quiet lie
+    CLAUDE.md section 5 is about. Nothing reads `fx`/`fy` at runtime.
+
+    Every id must be present on both sides. A partial merge would put some chips on
+    the grid and leave the rest at force coordinates, which renders as a plausible
+    mess rather than an error -- so this raises instead.
+    """
+    cur = layout.get("current") or {}
+    lay = {n["id"]: n for n in cur.get("nodes", [])}
+    ids = {n["id"] for n in model.get("l0", [])}
+    missing = sorted(ids - set(lay))
+    extra = sorted(set(lay) - ids)
+    if missing or extra:
+        raise SystemExit(
+            "l0_patches.merge_packed: the layout model and the L0 model disagree "
+            "on which nodes are on the map.\n"
+            f"  missing from the layout: {missing[:8]}\n"
+            f"  absent from the L0 model: {extra[:8]}\n"
+            "  Re-run tools/build_l0.py then node tools/build_l0_layout.mjs.")
+
+    for n in model["l0"]:
+        L = lay[n["id"]]
+        n["fx"], n["fy"] = n["x"], n["y"]      # force layout, kept, not drawn
+        n["x"], n["y"] = L["x"], L["y"]        # packed chip, TOP-LEFT not centre
+        n["w"], n["h"] = L["w"], L["h"]
+        n["band"], n["col"] = L["band"], L["col"]
+        n["iso"] = bool(L.get("isolated"))
+
+    # Edge budget. `rest` says which edges draw with nothing selected; `role` says
+    # why each one earned the space. Keyed a|b|kind because a pair can carry both a
+    # direct edge and a summarised one and they are different objects.
+    rest, roles = [], {}
+    for e in cur.get("edges", []):
+        k = e["a"] + "|" + e["b"] + "|" + ("direct" if e["kind"] == "direct" else "shared")
+        if e.get("rest"):
+            rest.append(k)
+        if e.get("role"):
+            roles[k] = e["role"]
+
+    flags = [f["id"] for f in sorted(
+        (cur.get("highlights") or {}).get("flags", []),
+        key=lambda f: f.get("rank", 999))]
+
+    model["packed"] = {
+        "worldW": cur.get("worldW"), "worldH": cur.get("worldH"),
+        "geo": (cur.get("config") or {}).get("geo", {}),
+        "bands": [{k: b[k] for k in ("id", "y", "h", "rows", "n", "meanC", "residual")
+                   if k in b} for b in cur.get("bands", [])],
+        "eras": [{k: c[k] for k in ("id", "label", "note", "kind", "x", "w") if k in c}
+                 for c in cur.get("eras", [])],
+        "flags": flags,
+        "rest": rest,
+        "roles": roles,
+        "bandOrder": (cur.get("config") or {}).get("bandOrder"),
+        "edgeRule": (cur.get("config") or {}).get("edgeRule"),
+    }
+    # The analyst's "where do I start" already reached for L0DATA.highlights.flags
+    # and got nothing, because build_l0.py never wrote it. It is written here.
+    model["highlights"] = cur.get("highlights") or {}
+    return model
+
+
+def apply(s, model, must_replace, layout=None):
     """Splice the L0 map into the built dashboard.
 
     `must_replace` is build_dashboard's own helper, passed in so a failed anchor
     reports through the same channel as every other patch and the build says
-    "SOME PATCHES FAILED" rather than emitting a quietly broken file."""
+    "SOME PATCHES FAILED" rather than emitting a quietly broken file.
+
+    `layout` is data/l0-layout-model.json. It is not optional in the build -- the
+    default exists so a caller in a test can splice the module without it -- and
+    when it is absent the map has no geometry to draw, so say so and stop."""
     import json as _json
     ok = True
+
+    if layout is not None:
+        merge_packed(model, layout)
+    elif "packed" not in model:
+        raise SystemExit("l0_patches.apply: no packed layout. mountL0 draws chips "
+                         "at model positions and there are none.")
 
     # -- the model. Serialised compactly: it is ~500KB and every byte of it is
     #    parsed at load, which is the cost the dossier-payload item is about.
@@ -740,7 +985,14 @@ def apply(s, model, must_replace):
         "       centre it. The reader asked for the node they clicked, not a\n"
         "       field of 96. */\n"
         "    view.k = Math.max(view.k, 1.15);\n"
-        "    view.ox = W/2 - n.x*view.k; view.oy = H/2 - n.y*view.k;\n"
+        "    /* n.x/n.y are the chip TOP-LEFT in the packed layout, so centring on\n"
+        "       them would put the chip down-right of the middle by half its size --\n"
+        "       102px of a 205px chip, which reads as the camera missing. */\n"
+        "    view.ox = W/2 - (n.x + n.w/2)*view.k;\n"
+        "    view.oy = H/2 - (n.y + n.h/2)*view.k;\n"
+        "    clampView();   /* a node near an edge of the world must not drag the\n"
+        "                      camera off it -- the clamp is what keeps the cells\n"
+        "                      filling the content rect. */\n"
         "    repaint();\n"
         "  }\n"
         "  return {\n    repaint, focus, pairs: [],",
@@ -1112,6 +1364,19 @@ L0_CMD2 = r"""
     S.l0panel = null;
     if (MAP && MAP.focus) MAP.focus(id);
   },
+  /* The three packed-layout options, drivable from the chat input. Every control
+     on this surface must have a CMD entry or the "drive the whole app from the
+     chat input" requirement is broken for it -- the same rule the five original L0
+     actions were written to. All three ship ON. */
+  l0opt(which, on){
+    if (!MAP || !MAP.opt) return warn('the program map is not mounted');
+    const K = { rest:'lines at rest', flags:'start-here pointers', labels:'chip labels' };
+    if (!K[which]) return warn('l0opt("'+which+'") — options are: '+Object.keys(K).join(', '));
+    MAP.opt[which] = (on === undefined) ? !MAP.opt[which] : !!on;
+    MAP.repaint();
+    pushTurn({ role:'ANALYST',
+               text: K[which] + ' ' + (MAP.opt[which] ? 'on' : 'off') + '.' });
+  },
 """
 
 
@@ -1124,10 +1389,11 @@ L0_CMD2 = r"""
 # information: x and y are force-layout output, so every node looks equally
 # important and arrives in no order.
 #
-# The real fix is a layout where position means something, which is out with
-# Claude Design (notes/DESIGN-BRIEF-LAYOUT-2026-08-14.md) because it changes the
-# bake. These two are the parts that need no design decision and fix the worst
-# of it now:
+# The real fix is a layout where position means something. It is BUILT, as of
+# 25 August 2026: Design's packed-cell layout, signed off by Stewart from the comp
+# and drawn by mountL0 above -- eras across, bands down, one chip size for
+# everything. These two came first because they needed no design decision, and
+# they still earn their place:
 #
 #   C  an entry surface with six curated ways in, so a stranger lands on a
 #      question rather than a hairball

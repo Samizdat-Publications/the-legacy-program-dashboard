@@ -66,6 +66,48 @@ Two things worth knowing before you start:
 
 ## 1. Network map — the highest-risk surface
 
+**Read this before the list.** NETWORK has two maps. Its **rest state** is the L0 program
+map, which since 25 August 2026 draws Design's packed cells: 110 chips at one size, eras
+across, bands down. The inherited force-layout map is the **FULL GRAPH fallback**, and it
+mounts only while a path or a frame is active. §1a is the one that ships to a reader; §1b is
+the fallback. Both need a pass.
+
+### 1a. The packed program map (the rest state)
+
+Machine checks already cover chip positions, non-overlap, the class colours, the edge
+budget, the pinned furniture and the three option defaults — `node tools/test_packed_layout.js`,
+11 assertions, all self-tested. **Do not re-do those by eye.** What follows is only what a
+check cannot answer.
+
+- [ ] **Can you read the labels?** They truncate at about 37 characters on a board whose
+      node labels are legal citations and document titles. This is the known worst problem
+      and the reason this section exists. Log the worst five by name.
+- [ ] **Does position mean anything to you?** Columns are eras, left to right. Rows are
+      bands, ordered by measured mean custody proximity, descending. If a stranger could not
+      tell that from the screen, the row and column labels are not doing their job.
+- [ ] The `disclosure` band holds **3** nodes and will look thin. Design predicted this and
+      read it as the structure appearing rather than a fault. Say whether you agree.
+- [ ] **Lines at rest**: 103 of 326. Are they too faint against the band fills, or about
+      right? Pixel polish, but it is the difference between a lattice and a smudge.
+- [ ] Toggle **LINES AT REST**, **START HERE** and **LABELS**. All three ship on. Each should
+      change the surface and none should throw. Try all eight combinations.
+- [ ] **START HERE pointers**: 14 amber pointers, each offset to the LEFT of its chip and
+      never touching it. If one reads as a property of the chip, that is a defect — it can
+      then be mistaken for a tier.
+- [ ] Three chips carry a red **×** (`university-at-albany`, `nip`,
+      `roswell-report-case-closed`). Is "no link to anything else on this map" legible from
+      that mark, or does it read as an error?
+- [ ] **Drag** to pan and **wheel** to zoom. You should NOT be able to drag the map off into
+      empty space, and no chip should ever slide under the row or column labels.
+- [ ] **OVERVIEW** shows the whole grid; labels drop below 0.62 scale, which is expected.
+      **1:1 READ** returns to the top-left corner, where the argument starts.
+- [ ] **Click** a chip: the member ledger opens beside it and the rest of the map dims. The
+      selected node's own links should appear even if they were not in the resting budget.
+- [ ] Ask the analyst `l0opt("labels")`. Every control on this surface must be drivable from
+      the chat input.
+
+### 1b. The FULL GRAPH fallback (force layout, reached via a path or a frame)
+
 - [ ] Node plates are readable and **do not overlap each other**. Overlapping plates is the
       one thing the eye cannot forgive; log any you find with names.
 - [ ] Labels on non-person nodes are truncated to ~24 chars. Full name should appear on

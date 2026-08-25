@@ -14,10 +14,12 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-25-audit.md` after this.
-`notes/HANDOFF-2026-08-25-claude-code.md` is the earlier one from the same day and is
-**superseded** -- it says 18 verify checks when there are 38, and lists finished work as
-pending.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-packed.md` after this. It is
+the current one. Two earlier handoffs from 25 August are **superseded** and should be read
+as record only: `notes/HANDOFF-2026-08-25-audit.md` (still accurate on the source audit, but
+its open list is stale -- the packed layout is built and the highlights are signed off) and
+`notes/HANDOFF-2026-08-25-claude-code.md` (says 18 verify checks when there are 38, and
+lists finished work as pending).
 
 ---
 
@@ -36,8 +38,10 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | dead citations | 0 |
 | timeline events | 858 |
 | program map (L0) | 110 nodes, all with dossiers |
+| map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
+| links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 38 verify checks, every one self-tested |
+| gate | 38 verify checks + 40 audit re-derivations + 11 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -82,19 +86,31 @@ python3 tools/build_dashboard.py
 Then the gate:
 
 ```
-python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
-python3 tools/verify.py                 # 36 checks
-python3 tools/verify.py --self-test     # every check shown rejecting bad input
-node    tools/capture_strip.js          # writes tools/runtime-strip.txt from a real DOM
-python3 tools/audit_independent.py      # 38 checks, deliberately independent
-node    tools/runtime_check.js          # 16 DOM assertions in a real browser
-node    tools/test_scripted_analyst.mjs # 15 branch assertions
-python3 tools/verify.py --idempotent    # slow: builds twice, requires identical output
+python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
+python3 tools/verify.py                      # 38 checks
+python3 tools/verify.py --self-test          # every check shown rejecting bad input
+node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
+python3 tools/audit_independent.py           # 40 checks, deliberately independent
+node    tools/runtime_check.js               # 16 DOM assertions in a real browser
+node    tools/test_packed_layout.js          # 11 assertions read back out of the canvas
+node    tools/test_packed_layout.js --self-test
+node    tools/test_scripted_analyst.mjs      # 15 branch assertions
+python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
 ```
 
-The two `node` steps need the board served over HTTP -- `file://` does not work for a
+The four browser steps need the board served over HTTP -- `file://` does not work for a
 13MB page. Run `node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899
---silent &` first, or point `BOARD_URL` at wherever you are serving it.
+--silent &` first, or point `BOARD_URL` at wherever you are serving it. `--gate` checks
+whether anything is serving it and **names the skip** rather than reporting a failure that
+has nothing to do with the board.
+
+**`test_packed_layout.js` reads the canvas, and that is the point.** The map is drawn with
+`ctx.` calls, so for six sessions the standing assumption was that a cloud session could not
+verify it -- `runtime_check.js` asserts through text nodes and there are none. `getImageData`
+has no such problem. The check aims the camera at each of the 110 chips in turn and samples
+the pixel at that chip's own class rule, against coordinates `data/l0-layout-model.json`
+states independently. It found two defects on the day it was written that reading the source
+did not: see `notes/PACKED-LAYOUT-BUILD-2026-08-25.md`.
 
 **Run `capture_strip.js` BEFORE `audit_independent.py`, every time.** Six of the audit's
 checks compare the figures a reader actually sees against an independent re-derivation, and
@@ -179,12 +195,25 @@ Concrete instances, all real:
   wrong branch, because it asserted only that a long answer came back with valid commands.
   A check that cannot name the branch it expected cannot detect a wrong one.
 
+- The packed layout's first cut pinned the band and column labels to the viewport and did
+  not clip the map out from under them. Six chips rendered *beneath* the column-head plate
+  at about 12% opacity. Nothing in the source said so; the pixels did.
+
 **Therefore: every check you add must be demonstrated rejecting the input it must reject.**
 `verify.py --self-test` enforces this and will flag any check that lacks a poison.
 
-And its sibling rule: **reading the source is not verification.** Three times this session a
+**And poison the page, not just the predicate.** Nine of `test_packed_layout.js`'s poisons
+corrupt the probe object, which proves each predicate rejects bad input and nothing more --
+a probe that always returned the expected colour would pass all nine. The tenth moves every
+chip 60px on the real page while the expectation stays put, and requires the match to
+collapse. It does: 29 of 110. That is the difference between a check that is self-tested and
+a check that is *known to be looking at the thing*.
+
+And its sibling rule: **reading the source is not verification.** Three times on 25 August a
 check agreed with the implementation and a screenshot disagreed. For anything visual, look
-at it.
+at it -- and where you cannot look, find the channel that reads what actually rendered. On
+this board that turned out to be `getImageData`, and the assumption that it was impossible
+survived six sessions unexamined.
 
 ---
 
@@ -252,6 +281,15 @@ Two were found on 24 August by accident, while looking for something else.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
+> **TOP OF THE LIST, and it is not a build task: LOOK AT THE MAP.**
+> The packed-cell layout shipped on 25 August and **no human being has seen it rendered.**
+> Eleven canvas assertions say the chips are where the model puts them, that none overlap,
+> that the labels and pointers draw and the furniture survives a pan. None of them can say
+> whether it reads. Two things the comp already flagged are still true and still unsettled:
+> labels truncate to about 37 characters on a board whose labels are legal citations, and
+> the `disclosure` band holds 3 nodes and looks thin. Open `dist/the-program.html`, go to
+> NETWORK, and say what is wrong with it. That is worth more than any further check.
+
 
 1. ~~**The COVER-UP view still carries the sibling board's skeptical record.**~~ **DONE,
    25 August 2026.** Three inherited surfaces found and removed, only one of which was
@@ -294,24 +332,32 @@ Two were found on 24 August by accident, while looking for something else.
    all answer. `dia.mil` and `aaro.mil` refuse curl but serve WebFetch. The govinfo
    search API answers with `DEMO_KEY` and rate-limits after roughly a dozen queries.
 
-4. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
-   stated reason. Cap is 16, so there are 2 slots. **The table is built and waiting for
-   him:** https://claude.ai/code/artifact/ecc7053d-63f5-4d6b-9de4-8e101048671e — all
-   fourteen with their reasoning, tier, and node id, in reading order, with keep/cut
-   marks he can set as he goes. His marks live in his browser only; he reads the summary
-   line back and someone edits the JSON. Do not rebuild this table from scratch; if the
-   flags change, republish that same artifact URL.
-5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
-   **Cost analysed and a comp built, 25 August:** `notes/PACKED-LAYOUT-COST-2026-08-25.md`.
-   The model is finished and all nine of Design's checks guard it. The work left is a
-   canvas rewrite of `mountL0` (421 lines, 80 `ctx.` calls) whose geometry assumes a
-   point cloud. **See the comp before building:**
-   https://claude.ai/code/artifact/afb7293f-6051-4686-b308-b68996f50ce9 — 110 chips,
-   zero overlaps, measured. It answers whether position means something; it does not
-   answer whether the canvas implementation will hold, and nothing in a cloud session
-   can. Stewart's call.
-   Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
-   build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
+4. ~~**`data/l0-highlights.json` needs Stewart's sign-off.**~~ **DONE, 25 August 2026.**
+   He kept all fourteen and cut none. `_status` in the file records it. The cap is 16, so
+   two slots remain. The table stays live at
+   https://claude.ai/code/artifact/ecc7053d-63f5-4d6b-9de4-8e101048671e — if the flags ever
+   change, republish that same URL rather than building a new one. The flags now reach the
+   built page as well: `L0DATA.highlights` was read by the analyst's "where do I start"
+   branch and had never been written, and `merge_packed` writes it.
+5. ~~**Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.~~
+   **DONE, 25 August 2026.** Stewart approved the comp and asked for the build with all
+   three options on. `notes/PACKED-LAYOUT-BUILD-2026-08-25.md` is the record.
+
+   110 chips at one size, 7 bands by measured mean C, 4 eras plus NO DATE, 103 of 326 links
+   at rest, 14 start-here pointers, 3 absent-link crosses. Everything already on the surface
+   stayed: tier dashes, directional denials, tick counts, the ledger, both registers, the
+   FULL GRAPH fallback. **The one thing nobody has done is look at it on a screen.**
+
+   Two things to know before touching it again:
+
+   - **The geometry is merged in `build_dashboard.py`, not `build_l0.py`**, because
+     `build_l0_layout.mjs` runs between them. Merging it upstream would read a later stage's
+     output from the *previous* build — the exact bug `--idempotent` exists to catch, and it
+     would pass on build one.
+   - **The gutter and head row are frozen chrome**, held in screen space and pan-clamped,
+     not drawn in world space like the comp. The comp is one static full-view; the map pans.
+     `clampView()` must be called from every place the camera moves. Miss one and the map
+     opens right and then drifts, which is worse than never clamping.
 6. ~~**Add Design's nine checks** from §5 of their response, each self-tested.~~ **DONE,
    25 August 2026.** All nine, each demonstrated rejecting the exact input Design named
    in the "must reject" column. They assert against `data/l0-layout-model.json`, which

@@ -155,3 +155,24 @@ It is SVG. The real map is canvas, and a canvas rewrite of `mountL0` is still 42
 with its own hit-testing, panning, zoom and label-drop logic. The comp proves the
 **arrangement** is sound. It does not prove the **implementation** will be, and nothing
 available to this session would.
+
+---
+
+## OUTCOME: built, 25 August 2026
+
+Stewart signed the comp off and asked for the build with all three options on. It is done
+and the whole gate is green -- `notes/PACKED-LAYOUT-BUILD-2026-08-25.md`.
+
+**The "who could catch it" table above was wrong in its bottom half, and this is the useful
+correction.** It said nothing in a cloud session could catch chips overlapping, a band
+clipping, or the map opening on empty space, because the renderer is canvas and
+`runtime_check.js` reads the DOM. `runtime_check.js` cannot, but `getImageData` can, in the
+same headless browser. `tools/test_packed_layout.js` reads the pixels back and checks all
+110 chips against the coordinates `data/l0-layout-model.json` states independently.
+
+It found two real defects that reading the source would not have: the pinned column head
+painting over six chips at 12% opacity, and a map you could pan off into empty world.
+
+What genuinely remains out of reach is narrower than the table claimed: **whether a
+truncated label is still a useful label, and whether it looks good.** Those need eyes, and
+nobody has looked at this on a screen.
