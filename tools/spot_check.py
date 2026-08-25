@@ -289,12 +289,71 @@ def collect(board):
     return items
 
 
+def all_source_urls(board):
+    """Every URL the board cites, from node sources, claim sources and edge sources.
+
+    The quote check only ever visits URLs attached to a claim that quotes something.
+    That is most of the interesting ones and none of the rest, and link rot does not
+    respect the distinction: the Arquivo Nacional citations died on a `copy_of_noticias`
+    staging path that the board carried in eight places, and 46 DIA reading-room ids
+    stopped resolving without a single 404 to show for it.
+    """
+    seen = {}
+    def add(u, where):
+        u = u.rstrip(".,;")
+        seen.setdefault(u, set()).add(where)
+    for n in board["people"] + board["entities"]:
+        for s in n.get("sources") or []:
+            if s.get("url"):
+                add(s["url"], n["id"])
+        for c in n.get("claims") or []:
+            for u in URL_PAT.findall(c.get("source") or ""):
+                add(u, n["id"])
+    for e in board.get("edges") or []:
+        for s in e.get("sources") or []:
+            if s.get("url"):
+                add(s["url"], f"{e['a']}->{e['b']}")
+    return seen
+
+
+def link_sweep(board, host=None):
+    """Report which cited URLs this environment cannot open, and why.
+
+    A 403 is this network vantage, not a defect. A 404 is a dead citation and is the
+    only class here that is unambiguously the board's problem.
+    """
+    urls = all_source_urls(board)
+    if host:
+        urls = {u: w for u, w in urls.items() if host in u}
+    print(f"=== link sweep — {len(urls)} distinct cited URLs ===\n")
+    from collections import Counter, defaultdict
+    tally, dead = Counter(), defaultdict(list)
+    for i, (u, where) in enumerate(sorted(urls.items()), 1):
+        kind, _ = fetch(u)
+        tally[kind if kind == "ok" else kind.split(" (")[0]] += 1
+        if kind.startswith("HTTP 4") or kind.startswith("HTTP 5"):
+            dead[kind].append((u, sorted(where)[:3]))
+        if i % 100 == 0:
+            print(f"  ... {i}/{len(urls)}", file=sys.stderr)
+    for k, c in tally.most_common():
+        print(f"  {c:5d}  {k}")
+    if dead:
+        print("\n  DEAD CITATIONS — a 4xx/5xx is the board's problem, unlike a 403 block:")
+        for k in sorted(dead):
+            for u, where in sorted(dead[k]):
+                print(f"    {k}  {u[:104]}")
+                print(f"           cited by {', '.join(where)}")
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", type=int, default=0, help="check a seeded random subset")
     ap.add_argument("--seed", type=int, default=20260825)
     ap.add_argument("--host", help="only claims citing this host")
     ap.add_argument("--json", help="write the full result set here")
+    ap.add_argument("--links", action="store_true",
+                    help="sweep every cited URL for reachability instead of checking quotes")
     ap.add_argument("--retry-errors", action="store_true",
                     help="ignore remembered fetch failures (403s are often rate limits)")
     a = ap.parse_args()
@@ -302,6 +361,8 @@ def main():
     RETRY_ERRORS = a.retry_errors
 
     board = json.load(open(BOARD, encoding="utf-8"))
+    if a.links:
+        return link_sweep(board, a.host)
     items = collect(board)
     if a.host:
         items = [i for i in items if any(a.host in u for u in i["urls"])]
