@@ -344,19 +344,22 @@ Two were found on 24 August by accident, while looking for something else.
    depends on the network, and a check that fails because a host is throttling is a
    check people learn to ignore.
 
-10. ~~**181 claims cite a DIA reading-room URL that no longer resolves.**~~ **43 of 46
+10. ~~**181 claims cite a DIA reading-room URL that no longer resolves.**~~ **ALL 46
     REPAIRED, 25 August 2026.** DIA renumbered its reading room and the old
     `FileId/1700xx/` ids now render the INDEX rather than a document -- `FileId/999999999/`
     returns the same page, so DIA falls back silently and a stale citation looks live.
     Every repair was verified by opening the document and reading its own title page,
     document number and page count, never by trusting a listing.
 
-    **Three are deliberately still on the dead id and should stay there until someone
-    can settle them:** `170051` (its quote is the header common to all four Contract
-    Status Briefs), `170052` (its quote appears in two of them), and `170018` (carries
-    no quoted claim to match on). Guessing between near-identical briefs would put a
-    citation on the board that nobody could re-derive.
+    **The last three were settled by the board's own claims rather than by their quoted
+    text**, which is worth remembering next time: matching on the quote was hopeless
+    because `170051`'s quote is the header common to all four Contract Status Briefs.
+    The claims date the briefings, and only one brief bears each date. `170052` needed a
+    further step because DIA released the 8 May 2009 briefing twice; the board cites
+    `237616`, the fuller of the two at 12 pages against 11. `170018` was never a document
+    citation at all -- its Tier 2 claim is about what the reading room LISTS, so it now
+    points at the reading room.
 
-    `tools/spot_cache_put.py` is the tool for this: it puts a WebFetch-obtained file
-    into `spot_check.py`'s cache so verification stays a substring test rather than a
-    model's opinion. See `notes/SPOT-CHECK-2026-08-25.md`.
+    `tools/spot_cache_put.py` is the tool for this class: it puts a WebFetch-obtained
+    file into `spot_check.py`'s cache so verification stays a substring test rather than
+    a model's opinion. See `notes/SPOT-CHECK-2026-08-25.md`.

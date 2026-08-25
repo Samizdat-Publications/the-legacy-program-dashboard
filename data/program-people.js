@@ -151,27 +151,27 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)',
-        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
+        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
         date: '2025-03-13'
       },
       {
         name: 'Archived: USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release) (Wayback 2026-04-11)',
-        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
+        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
         date: '2026-04-11'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
         date: '2025-03-17'
       },
       {
         name: 'Archived: DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)',
-        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
+        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
         date: '2025-03-10'
       },
       {
         name: 'Archived: DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
+        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
         date: '2025-03-19'
       },
       {
@@ -343,7 +343,7 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: DIRD inside-cover boilerplate naming the (redacted) AAWSA Program Manager (Wayback 2025-07-25)',
-        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
+        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
         date: '2025-07-25'
       },
       {
@@ -661,12 +661,12 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: DIRD DIA-08-1003-015, \'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering\' (DIA FOIA release, author redacted) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312054359/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
+        url: 'https://web.archive.org/web/20250312054359/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
         date: '2025-03-12'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
         date: '2025-03-17'
       },
       {
@@ -1054,12 +1054,12 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: DIRD DIA-08-1004-004, \'Traversable Wormholes, Stargates, and Negative Energy\' (DIA FOIA release, author redacted) (Wayback 2025-07-25)',
-        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
+        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
         date: '2025-07-25'
       },
       {
         name: 'Archived: DIRD DIA-08-1004-001, \'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\' (Wayback 2026-04-28)',
-        url: 'https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
+        url: 'https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
         date: '2026-04-28'
       },
       {
@@ -1385,12 +1385,12 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: DIRD \'Anomalous Acute and Subacute Field Effects on Human Biological Tissues\' (DIA FOIA release, author redacted) (Wayback 2026-01-28)',
-        url: 'https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
+        url: 'https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
         date: '2026-01-28'
       },
       {
         name: 'Archived: DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)',
-        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
+        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
         date: '2025-05-16'
       },
       {

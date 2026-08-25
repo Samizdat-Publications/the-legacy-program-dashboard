@@ -149,16 +149,63 @@ index listing. Examples of what "verified" meant in practice:
 - `170017` -> `237652` because that is the only document of the fourteen that contains
   BAASS's street address, which is what the board quotes from it.
 
-**Three are deliberately left on the dead id**, because they cannot be settled:
+**The last three were settled the next morning**, and the thing that settled them was
+in the board all along. The first pass tried to match them on their quoted text, which
+is why they looked hopeless: the quote on `170051` is the header common to all four
+Contract Status Briefs. But the board's *claims* date the briefings.
 
-| board id | why not |
-|---|---|
-| `170051` | the quote is the header "Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072", which is common to all four Contract Status Briefs |
-| `170052` | its one quote, "SCI clearance processing has been successfully completed for all key personnel", appears in two of the briefs |
-| `170018` | carries no quoted claim, so there is nothing to match it on |
+| board id | what the board says it is | the document |
+|---|---|---|
+| `170051` | "DIA's own **16 December 2008** status briefing" | `237613` is the only brief bearing that date, and carries both of the board's quotes including "Advanced (unconventional) aerospace weapon" |
+| `170052` | "DIA **8 May 2009** status briefing" | `237616` — see below |
+| `170018` | not a document at all | the reading room's own index |
 
-Guessing between four near-identical briefs would put a citation on the board that
-nobody could re-derive, which is the thing this whole pass exists to prevent.
+`170052` needed one more step, because DIA released the 8 May 2009 briefing **twice**.
+`237616` and `237625` are the same briefing at 83% textual similarity, identical slide
+structure, and both contain the board's quote. `237616` is the fuller release: 12 pages
+against 11, and it carries a slide the other lacks — *"The Immediate Way Ahead: begin
+publishing the 24 technical report deliverables"*. The board now cites the more complete
+of the two, and this paragraph exists so nobody re-opens the question.
+
+`170018` was never broken in the way the other 45 were. Its claim is Tier 2 and is
+*about the listing*: "A DIA FOIA Electronic Reading Room item is titled 'Advanced
+Aerospace Weapon System Applications Contract'". The index is what that URL renders, and
+the index does carry that section — so the destination was right and only the
+per-record `FileId` was misleading, implying a specific document that no longer exists
+under that id. It now points at the reading room itself.
+
+**All 46 are repaired. No DIA citation on the board is now dead.**
+
+### The mistake the remap made, and how it was caught
+
+Applying the remap as a string replace across `research/` rewrote 116 URLs it had no
+business touching. A Wayback capture URL **contains** its target:
+
+```
+https://web.archive.org/web/20250309023844/https://www.dia.mil/.../FileId/170054/
+```
+
+Replacing `FileId/170054/` with `FileId/237615/` there does not update a citation. It
+asserts that Wayback holds a capture, taken at that instant, of a page that did not
+carry that id at that instant. That is a fabricated citation in the precise sense §2 of
+CLAUDE.md forbids, and it was self-inflicted by the pass that existed to remove
+fabricated citations.
+
+It surfaced because the golden manifest moved by one URL and the number did not have an
+obvious explanation. **Chasing an unexplained count of one is what found 116 bad URLs.**
+The lesson is the general one, not the specific one: `--update-golden` is for counts you
+can explain, and a drift you cannot explain is a finding, not a formality.
+
+The repair used the **capture timestamp as the key** — whatever Wayback archived at that
+instant is what the URL denotes, so the original inner path was restored from the
+pre-remap file for each timestamp. All 116 now match the file as it stood before any of
+this, verified by diffing timestamp-to-path against `git show`. The live URLs stay
+remapped, which is correct: the document moved, and the capture is of where it used to
+be.
+
+Note for whoever runs the next bulk repoint: `web.archive.org` is unreachable from this
+environment, so none of these captures can be verified from here either way. They were
+on the board before this pass and are now exactly as they were.
 
 After the remap **156 claims are unreachable, down from 281, and 362 verify, up from
 278.** All 50 remaining `dia.mil` misses are OCR damage: every single one is a

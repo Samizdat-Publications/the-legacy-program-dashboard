@@ -265,7 +265,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'DIA FOIA Electronic Reading Room — Advanced Aerospace Weapon System Applications Contract',
-      url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/',
+      url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
       date: '2022-10-13'
     },
     {
