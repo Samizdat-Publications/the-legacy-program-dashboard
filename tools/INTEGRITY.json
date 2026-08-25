@@ -1,14 +1,11 @@
 {
  "edge_without_source": [
-  "peru-uap-office->cefaa (institutional)",
-  "peru-uap-office->geipan (institutional)",
   "setka-program->izmiran (institutional)",
   "setka-program->l-moscow (geographic)",
   "enigma-labs->aaro (institutional)",
   "john-greenewald->enigma-labs (investigative)",
   "sheffield-hallam->rendlesham-1980 (custody)",
   "compass-rose-legal-group->david-grusch (institutional)",
-  "compass-rose-legal-group->odni (institutional)",
   "newsnation->david-grusch (investigative)",
   "newsnation->skywatcher (investigative)",
   "newsnation->immaculate-constellation (investigative)",

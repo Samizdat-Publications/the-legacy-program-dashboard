@@ -23541,7 +23541,13 @@ export const PROGRAM_EDGES = [
     dateStart: '2013-10-18',
     dateEnd: null,
     note: 'COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA\'s reopening brought Peru level with, and reports Peru\'s stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile\'s civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.',
-    sources: []
+    sources: [
+      {
+        name: 'Andina (Agencia Peruana de Noticias), \'Fenomenos aereos anomalos en Peru podran reportarse a la FAP\', 18 October 2013',
+        url: 'https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        date: '2013-10-18'
+      }
+    ]
   },
   {
     a: 'peru-uap-office',
@@ -23552,7 +23558,14 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: \'a country has an office\' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA\'s founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.',
-    sources: []
+    sources: [
+      {
+        name: 'Andina, \'Fenomenos aereos anomalos en Peru podran reportarse a la FAP\', 18 October 2013',
+        url: 'https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        date: '2013-10-18'
+      },
+      { name: 'CNES, GEIPAN project page', url: 'https://www.cnes.fr/en/projects/geipan', date: '2026-08-25' }
+    ]
   },
   {
     a: 'dod-sapco',
@@ -30660,6 +30673,23 @@ export const PROGRAM_EDGES = [
     note: 'The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper \'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security\', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation\'s public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.',
     sources: [
       { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-25' }
+    ]
+  },
+  {
+    a: 'compass-rose-legal-group',
+    b: 'odni',
+    type: 'institutional',
+    label: 'Senior partner was ODNI\'s Intelligence Community Inspector General',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: \'to consider the President\'s nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.\' McCullough told the Committee he was then \'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence\', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch\'s complaint later ran through.',
+    sources: [
+      {
+        name: 'S. Hrg. 112-309, \'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community\', Senate Select Committee on Intelligence, 22 September 2011',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm',
+        date: '2011-09-22'
+      }
     ]
   },
   {
@@ -39723,17 +39753,6 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch\'s public crash-retrieval claims were always outside the scope of that representation.',
-    sources: []
-  },
-  {
-    a: 'compass-rose-legal-group',
-    b: 'odni',
-    type: 'institutional',
-    label: 'Senior partner was ODNI\'s Intelligence Community Inspector General',
-    claimTier: 1,
-    dateStart: null,
-    dateEnd: null,
-    note: 'Compass Rose senior partner I. Charles McCullough III was the Presidentially appointed, Senate-confirmed Inspector General of the Intelligence Community, reporting directly to DNI James Clapper and responsible for inquiries involving ODNI and the wider IC. That ICIG channel is the mechanism through which Grusch\'s complaint was routed.',
     sources: []
   },
   {

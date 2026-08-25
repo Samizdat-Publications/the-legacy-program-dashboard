@@ -1,0 +1,29 @@
+{
+ "domain": "w14-odni-peru-edges",
+ "_why": "Three edges. One is a clean primary source; two are comparison edges that needed their tiers separated, because one of them has a source naming both ends and the other does not.\n\nCompass Rose's own site could not be used - compassrosepllc.com returns 403 to this environment - so the ODNI edge is sourced instead to the Senate record of McCullough's confirmation, which is stronger anyway: S. Hrg. 112-309 before the Select Committee on Intelligence, 22 September 2011.\n\nThe Peru pair matters for a reason beyond these two edges. Both were written as COMPARISON EDGES, asserting no contact. The Andina article that underpins them names Chile explicitly among the regional peers DIFAA's reopening brought Peru level with - 'el Peru se coloca a la paridad de paises de la region como Chile, Argentina, Uruguay, Brasil y Ecuador'. It does not name France, GEIPAN, or any European body. So the two edges are not equivalent: one is a comparison the source itself draws, and the other is a comparison the board draws. They are now tiered 2 and 3 to say so. A comparison edge is still an assertion about the world, and it still needs to be clear whose comparison it is.\n\nAlso left open: compass-rose-legal-group -> david-grusch, for the same 403.",
+
+ "edges": [
+  {
+   "a": "compass-rose-legal-group", "b": "odni", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "S. Hrg. 112-309, 'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community', Senate Select Committee on Intelligence, 22 September 2011", "url": "https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm", "date": "2011-09-22"}
+   ],
+   "note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through."
+  },
+  {
+   "a": "peru-uap-office", "b": "cefaa", "type": "institutional", "claimTier": 2,
+   "sources": [
+    {"name": "Andina (Agencia Peruana de Noticias), 'Fenomenos aereos anomalos en Peru podran reportarse a la FAP', 18 October 2013", "url": "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx", "date": "2013-10-18"}
+   ],
+   "note": "COMPARISON EDGE - no joint work is claimed, and the comparison is the source's own rather than the board's. Andina reports the reopening of the Departamento de Investigacion de Fenomenos Aereos Anomalos after five years closed for administrative reasons, and states that with it 'el Peru se coloca a la paridad de paises de la region como Chile, Argentina, Uruguay, Brasil y Ecuador'. Chile is named; the parity is what the edge records."
+  },
+  {
+   "a": "peru-uap-office", "b": "geipan", "type": "institutional", "claimTier": 3,
+   "sources": [
+    {"name": "Andina, 'Fenomenos aereos anomalos en Peru podran reportarse a la FAP', 18 October 2013", "url": "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx", "date": "2013-10-18"},
+    {"name": "CNES, GEIPAN project page", "url": "https://www.cnes.fr/en/projects/geipan", "date": "2026-08-25"}
+   ],
+   "note": "TIER 3, and the contrast with the Chile edge is the point. No contact is claimed and none was found, but here the comparison is the board's own: the Andina report naming Peru's regional peers lists Chile, Argentina, Uruguay, Brazil and Ecuador, and names no European body at all. What the two sources support structurally is a real difference in hosting - DIFAA sits inside an air force, GEIPAN inside a civil space agency, which publishes its case database - and that difference is the whole content of this edge."
+  }
+ ]
+}
