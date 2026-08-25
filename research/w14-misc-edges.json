@@ -1,0 +1,28 @@
+{
+ "domain": "w14-misc-edges",
+ "_why": "Three edges, plus two negative findings worth recording so the next pass does not repeat the work.\n\nNEGATIVE 1: Project Condign cannot source the Setka edges. Volume 3 of 'Unidentified Aerial Phenomena in the UK Air Defence Region' (Scientific and Technical Memorandum 55/2/00, December 2000) was retrieved from archive.org and searched in full. It has an entire chapter on UAP work in other countries whose first section is FORMER SOVIET UNION, so it looked like the obvious source. It is not: 'Setka', 'IZMIRAN' and 'Migulin' each appear zero times. What Condign names is a different and later apparatus - a UFO Commission created under the USSR Union of Scientific and Engineering Societies in 1989 and an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) in 1990, headed by V. G. Azhazha. The Setka edges stay unsourced.\n\nNEGATIVE 2: the Setka source the board already cites cannot be reached from here at all. aforteanosla.com.ar does not resolve in DNS, and its Wayback copy is unreachable because web.archive.org is blocked to this environment entirely. archive.org proper DOES work, with redirects followed, which is how Condign was obtained - the two hosts behave differently and it is worth knowing which is which.\n\nAlso checked and negative: geipan.fr/fr/node/58787, cited on the GEIPAN node, is the classification-methodology guide and contains nothing about the 11 November 2014 Chilean Navy footage, CEFAA or Francois Louange. The geipan -> cefaa edge is not sourced by it and stays open.",
+
+ "edges": [
+  {
+   "a": "pogo", "b": "house-oversight-committee", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44", "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm", "date": "2025-09-09"}
+   ],
+   "note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon."
+  },
+  {
+   "a": "vanderbilt-university", "b": "aatip", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "Vanderbilt Health News, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it', 7 May 2026", "url": "https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/", "date": "2026-05-07"}
+   ],
+   "note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'"
+  },
+  {
+   "a": "enigma-labs", "b": "pursue-releases", "type": "investigative", "claimTier": 2,
+   "sources": [
+    {"name": "U.S. Department of War, 'Presidential Unsealing and Reporting System for UAP Encounters' (PURSUE)", "url": "https://www.war.gov/UFO/", "date": "2026-08-25"}
+   ],
+   "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries."
+  }
+ ]
+}

@@ -104388,9 +104388,16 @@
    "dateStart": "2013-10-18",
    "dateEnd": null,
    "note": "COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA's reopening brought Peru level with, and reports Peru's stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile's civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "Andina (Agencia Peruana de Noticias), 'Fenomenos aereos anomalos en Peru podran reportarse a la FAP', 18 October 2013",
+     "url": "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx",
+     "date": "2013-10-18"
+    }
+   ],
    "_domains": [
-    "w10-brazil"
+    "w10-brazil",
+    "w14-odni-peru-edges"
    ]
   },
   {
@@ -104402,9 +104409,21 @@
    "dateStart": null,
    "dateEnd": null,
    "note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
-   "sources": [],
+   "sources": [
+    {
+     "name": "Andina, 'Fenomenos aereos anomalos en Peru podran reportarse a la FAP', 18 October 2013",
+     "url": "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx",
+     "date": "2013-10-18"
+    },
+    {
+     "name": "CNES, GEIPAN project page",
+     "url": "https://www.cnes.fr/en/projects/geipan",
+     "date": "2026-08-25"
+    }
+   ],
    "_domains": [
-    "w10-brazil"
+    "w10-brazil",
+    "w14-odni-peru-edges"
    ]
   },
   {
@@ -111903,6 +111922,1112 @@
    ],
    "_domains": [
     "w13-research-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "l-aztec",
+   "type": "geographic",
+   "label": "alleged crash site",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
+   "sources": [
+    {
+     "name": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'",
+     "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-aztec-enigma-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "enigma-labs",
+   "b": "aaro",
+   "type": "institutional",
+   "label": "Documented AARO contact with Enigma Labs, released heavily redacted",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former.",
+   "sources": [
+    {
+     "name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' (DoD FOIA case 23-F-0711, 50 pages, finalized 3 July 2025)",
+     "url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/",
+     "date": "2025-07-03"
+    }
+   ],
+   "_domains": [
+    "w14-aztec-enigma-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "john-greenewald",
+   "b": "enigma-labs",
+   "type": "investigative",
+   "label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
+   "sources": [
+    {
+     "name": "The Black Vault, FOIA case 23-F-0711 release and reporting",
+     "url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/",
+     "date": "2025-07-03"
+    }
+   ],
+   "_domains": [
+    "w14-aztec-enigma-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "harvard-cfa",
+   "b": "avi-loeb",
+   "type": "institutional",
+   "label": "Loeb directs the Institute for Theory and Computation at the CfA",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
+   "sources": [
+    {
+     "name": "Domine et al., 'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects', Sensors 2025, arXiv:2411.07956, author affiliations",
+     "url": "https://arxiv.org/abs/2411.07956",
+     "date": "2025-01-28"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "harvard-cfa",
+   "b": "galileo-project",
+   "type": "institutional",
+   "label": "Host institution of the Galileo Project",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
+   "sources": [
+    {
+     "name": "Domine et al., Sensors 2025, arXiv:2411.07956, author affiliations",
+     "url": "https://arxiv.org/abs/2411.07956",
+     "date": "2025-01-28"
+    },
+    {
+     "name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1",
+     "url": "https://arxiv.org/abs/2209.02479",
+     "date": "2022-09-02"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "raytheon",
+   "b": "nimitz-2004",
+   "type": "custody",
+   "label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+   "sources": [
+    {
+     "name": "U.S. Navy, 'NAVSUP Weapon Systems Support Awards $325 Million ATFLIR Contract to Raytheon', 20 May 2020",
+     "url": "https://www.navy.mil/Press-Office/News-Stories/Article/2283958/navsup-weapon-systems-support-awards-325-million-atflir-contract-to-raytheon/",
+     "date": "2020-05-20"
+    },
+    {
+     "name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+     "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+     "date": "2020-04-27"
+    }
+   ],
+   "_domains": [
+    "w14-harvard-raytheon-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "andy-biggs",
+   "b": "david-grusch",
+   "type": "investigative",
+   "label": "pressed Grusch on Phoenix Lights and withheld information",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
+   "sources": [
+    {
+     "name": "House Oversight and Accountability Committee hearing, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "andy-biggs",
+   "b": "uap-task-force",
+   "type": "investigative",
+   "label": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.",
+   "sources": [
+    {
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "maxwell-frost",
+   "b": "nasa",
+   "type": "investigative",
+   "label": "questioned Administrator Nelson on UAP; pressed NASA's role at hearing",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.",
+   "sources": [
+    {
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "maxwell-frost",
+   "b": "ryan-graves",
+   "type": "investigative",
+   "label": "questioned Graves on scientific advisory board and NASA reporting",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
+   "sources": [
+    {
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "andy-biggs",
+   "b": "hearing-2023-07-26",
+   "type": "legislative",
+   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
+   "sources": [
+    {
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "maxwell-frost",
+   "b": "hearing-2023-07-26",
+   "type": "legislative",
+   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
+   "sources": [
+    {
+     "name": "House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "hearing-2025-09-09",
+   "type": "witness-chain",
+   "label": "Knapp testified as KLAS-TV chief investigative reporter",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "pogo",
+   "b": "hearing-2025-09-09",
+   "type": "investigative",
+   "label": "POGO counsel testified at the UAP transparency hearing",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The transcript lists 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'. His statement opens 'Chairwoman Luna, Ranking Member Crockett, and Task Force members' and describes POGO as 'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "pogo",
+   "b": "anna-paulina-luna",
+   "type": "legislative",
+   "label": "POGO recommendations delivered to Luna's task force",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "james-lacatski",
+   "type": "research",
+   "label": "Knapp co-authored two books with the AAWSAP originator",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "harry-reid",
+   "type": "investigative",
+   "label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "klas-tv",
+   "b": "aawsap",
+   "type": "custody",
+   "label": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
+   "sources": [
+    {
+     "name": "House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "public-substack",
+   "b": "hearing-2024-11-13",
+   "type": "witness-chain",
+   "label": "Founder Shellenberger testified as a hearing witness",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
+   "sources": [
+    {
+     "name": "Joint House Oversight subcommittee hearing, 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "public-substack",
+   "b": "immaculate-constellation",
+   "type": "investigative",
+   "label": "Published the whistleblower brief naming the program",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+   "sources": [
+    {
+     "name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "public-substack",
+   "b": "nancy-mace",
+   "type": "investigative",
+   "label": "Immaculate Constellation document hosted on Mace's House site",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+   "sources": [
+    {
+     "name": "Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
+     "date": "2024-11-13"
+    }
+   ],
+   "_domains": [
+    "w14-hearing-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "aaro",
+   "type": "legislative",
+   "label": "AARO reporting change and UAP funding limitation",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, Division G (Intelligence Authorization Act for Fiscal Year 2024), secs. 7341 and 7343",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "ndaa-fy2024",
+   "type": "legislative",
+   "label": "enacted as Division G of the FY2024 NDAA",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, table of contents and Division G heading",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "iaa-2024",
+   "b": "iaa-fy2024-sec-1102",
+   "type": "legislative",
+   "label": "section node of this act (section number needs verification)",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, full enacted text, searched for the turn-in language",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    }
+   ],
+   "_domains": [
+    "w14-iaa-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "cia",
+   "type": "institutional",
+   "label": "CIA officer detailed to NRO advanced systems",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "nasa",
+   "type": "institutional",
+   "label": "Staff Director, House Space and Aeronautics Subcommittee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "nro",
+   "type": "institutional",
+   "label": "Principal Deputy Director, then Acting Director, NRO",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "harry-reid",
+   "b": "reid-dia-meetings-2008-2009",
+   "type": "institutional",
+   "label": "Reid is the principal behind the 2008-2009 DIA engagements",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+   "sources": [
+    {
+     "name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "date": "2024-03-08"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "geipan",
+   "b": "cometa",
+   "type": "institutional",
+   "label": "shared IHEDN lineage; SEPRA head contributed",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
+   "sources": [
+    {
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Introduction",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+     "date": "1999-07-01"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "l-paris",
+   "type": "institutional",
+   "label": "IHEDN origin; delivered to the Prime Minister",
+   "claimTier": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+   "sources": [
+    {
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, foreword by General Bernard Norlain",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+     "date": "1999-07-01"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "cefaa",
+   "b": "dgac-chile",
+   "type": "institutional",
+   "label": "created and housed by the DGAC",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+   "sources": [
+    {
+     "name": "DGAC Chile / SEFAA, Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "the-intercept",
+   "b": "luis-elizondo",
+   "type": "investigative",
+   "label": "First major press challenge to Elizondo's AATIP leadership claim",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
+   "sources": [
+    {
+     "name": "Keith Kloor, 'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?', The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "date": "2019-06-01"
+    }
+   ],
+   "_domains": [
+    "w14-intercept-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "the-intercept",
+   "b": "aatip",
+   "type": "investigative",
+   "label": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
+   "sources": [
+    {
+     "name": "Keith Kloor, The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "date": "2019-06-01"
+    }
+   ],
+   "_domains": [
+    "w14-intercept-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "the-intercept",
+   "b": "ttsa",
+   "type": "investigative",
+   "label": "Scrutiny of To The Stars Academy's media apparatus and financing",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
+   "sources": [
+    {
+     "name": "Keith Kloor, The Intercept, 1 June 2019",
+     "url": "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/",
+     "date": "2019-06-01"
+    }
+   ],
+   "_domains": [
+    "w14-intercept-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "the-intercept",
+   "b": "david-grusch",
+   "type": "investigative",
+   "label": "FOIA'd police records on Grusch published weeks after his testimony",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
+   "sources": [
+    {
+     "name": "Ken Klippenstein, 'UFO Whistleblower Kept Security Clearance After Psychiatric Detention', The Intercept, 9 August 2023",
+     "url": "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/",
+     "date": "2023-08-09"
+    }
+   ],
+   "_domains": [
+    "w14-intercept-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "l-lasvegas",
+   "b": "aawsap",
+   "type": "geographic",
+   "label": "AAWSAP contract performed from Las Vegas",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
+   "sources": [
+    {
+     "name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC (NNH13CH31C, NNH15CN82C), recipient location NORTH LAS VEGAS, NV",
+     "url": "https://www.usaspending.gov/search",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)",
+     "url": "https://bigelowaerospace.com/pages/contact/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-lasvegas-wayne-edges",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "l-lasvegas",
+   "b": "nids",
+   "type": "geographic",
+   "label": "NIDS headquarters 1995-2004",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
+   "sources": [
+    {
+     "name": "Deseret News, 'Private UFO study takes a public turn', 10 August 1998",
+     "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn",
+     "date": "1998-08-10"
+    }
+   ],
+   "_domains": [
+    "w14-lasvegas-wayne-edges",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "l-lasvegas",
+   "b": "harry-reid",
+   "type": "geographic",
+   "label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+   "claimTier": 2,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+   "sources": [
+    {
+     "name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV",
+     "url": "https://www.usaspending.gov/search",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-lasvegas-wayne-edges",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "william-culbreth",
+   "b": "baass",
+   "type": "geographic",
+   "label": "UNLV academic in the prime contractor's home city",
+   "claimTier": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves.",
+   "sources": [
+    {
+     "name": "DIRD, 'Aneutronic Fusion Propulsion II', 1 November 2010 (DIA FOIA release)",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
+     "date": "2010-11-01"
+    },
+    {
+     "name": "DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities', 20 November 2010, DIA-08-1012-001 (DIA FOIA release)",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf",
+     "date": "2010-11-20"
+    }
+   ],
+   "_domains": [
+    "w14-lasvegas-wayne-edges",
+    "w7-dirds-1"
+   ]
+  },
+  {
+   "a": "wayne-state-university",
+   "b": "kit-green",
+   "type": "institutional",
+   "label": "Green's academic base for UAP-injury neuroimaging work",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
+   "sources": [
+    {
+     "name": "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor', 2 April 2009",
+     "url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+     "date": "2009-04-02"
+    }
+   ],
+   "_domains": [
+    "w14-lasvegas-wayne-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "pogo",
+   "b": "house-oversight-committee",
+   "type": "institutional",
+   "label": "Outside watchdog seated as witness before Oversight's declassification task force",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+   "sources": [
+    {
+     "name": "'Restoring Public Trust Through UAP Transparency and Whistleblower Protection', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm",
+     "date": "2025-09-09"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "vanderbilt-university",
+   "b": "aatip",
+   "type": "research",
+   "label": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
+   "sources": [
+    {
+     "name": "Vanderbilt Health News, 'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it', 7 May 2026",
+     "url": "https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/",
+     "date": "2026-05-07"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "enigma-labs",
+   "b": "pursue-releases",
+   "type": "investigative",
+   "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
+   "sources": [
+    {
+     "name": "U.S. Department of War, 'Presidential Unsealing and Reporting System for UAP Encounters' (PURSUE)",
+     "url": "https://www.war.gov/UFO/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-misc-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "us-navy",
+   "b": "nimitz-2004",
+   "type": "institutional",
+   "label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+   "sources": [
+    {
+     "name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+     "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+     "date": "2020-04-27"
+    }
+   ],
+   "_domains": [
+    "w14-navy-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "us-navy",
+   "b": "roosevelt-2014-2015",
+   "type": "institutional",
+   "label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+   "sources": [
+    {
+     "name": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020",
+     "url": "https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+     "date": "2020-04-27"
+    },
+    {
+     "name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+     "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-navy-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "us-navy",
+   "b": "uap-task-force",
+   "type": "institutional",
+   "label": "Navy designated lead service for the UAP Task Force",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up.",
+   "sources": [
+    {
+     "name": "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020",
+     "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/",
+     "date": "2020-08-14"
+    }
+   ],
+   "_domains": [
+    "w14-navy-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "us-navy",
+   "b": "ryan-graves",
+   "type": "witness-chain",
+   "label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
+   "sources": [
+    {
+     "name": "Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023",
+     "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf",
+     "date": "2023-07-26"
+    }
+   ],
+   "_domains": [
+    "w14-navy-edges",
+    "w6-edges-inst-a"
+   ]
+  },
+  {
+   "a": "marik-von-rennenkampff",
+   "b": "sol-foundation",
+   "type": "institutional",
+   "label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+   "sources": [
+    {
+     "name": "The Sol Foundation",
+     "url": "https://www.thesolfoundation.org/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-navy-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "compass-rose-legal-group",
+   "b": "odni",
+   "type": "institutional",
+   "label": "Senior partner was ODNI's Intelligence Community Inspector General",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
+   "sources": [
+    {
+     "name": "S. Hrg. 112-309, 'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community', Senate Select Committee on Intelligence, 22 September 2011",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm",
+     "date": "2011-09-22"
+    }
+   ],
+   "_domains": [
+    "w14-odni-peru-edges",
+    "w6-edges-inst-b"
+   ]
+  },
+  {
+   "a": "l-san-agustin",
+   "b": "roswell-1947",
+   "type": "geographic",
+   "label": "alleged second recovery site (Barnett account)",
+   "claimTier": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand and published in Berlitz and Moore's 'The Roswell Incident' (1980). The Air Force's own 1995 records review corroborates the route the story travelled - it records that in 1978 'a UFO researcher, Stanton Friedman, met with Marcel and began investigating', and that Moore and Berlitz 'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses'. It does not corroborate the site: 'San Agustin', 'Barnett' and 'Maltais' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, has argued the site has no connection to Roswell at all.",
+   "sources": [
+    {
+     "name": "USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), searched in full",
+     "url": "https://archive.org/details/DTIC_ADA326148",
+     "date": "1995-01-01"
+    }
+   ],
+   "_domains": [
+    "w14-roswell-clarke-edges",
+    "w6-edges-locations"
+   ]
+  },
+  {
+   "a": "sheffield-hallam",
+   "b": "rendlesham-1980",
+   "type": "custody",
+   "label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
+   "sources": [
+    {
+     "name": "Sheffield Hallam University, C3RI Impact blog, 'Dr David Clarke presents UFO files at The National Archives', 8 March 2018",
+     "url": "https://blogs.shu.ac.uk/c3riimpact/david-clarke-ufo-files-national-archives/",
+     "date": "2018-03-08"
+    },
+    {
+     "name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide",
+     "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf",
+     "date": "2013-01-01"
+    }
+   ],
+   "_domains": [
+    "w14-roswell-clarke-edges",
     "w6-edges-inst-a"
    ]
   },
@@ -122755,244 +123880,6 @@
    ]
   },
   {
-   "a": "pogo",
-   "b": "hearing-2025-09-09",
-   "type": "investigative",
-   "label": "POGO counsel testified at the UAP transparency hearing",
-   "claimTier": 1,
-   "dateStart": "2025-09-09",
-   "dateEnd": null,
-   "note": "Joe Spielberger, senior policy counsel at the Project On Government Oversight, was a witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.' His written testimony argued that national security whistleblowers -- the category David Grusch and the military witnesses fall into -- lack an independent enforcement mechanism and are uniquely exposed to clearance-based retaliation.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "pogo",
-   "b": "house-oversight-committee",
-   "type": "institutional",
-   "label": "Outside watchdog seated as witness before Oversight's declassification task force",
-   "claimTier": 1,
-   "dateStart": "2025-09-09",
-   "dateEnd": null,
-   "note": "POGO appeared before the House Committee on Oversight and Government Reform's Task Force on the Declassification of Federal Secrets, and used the appearance to recommend statutory changes (overturning Navy v. Egan, independent adjudication for IC and military whistleblowers) that bear directly on the committee's UAP inquiry.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "pogo",
-   "b": "anna-paulina-luna",
-   "type": "legislative",
-   "label": "POGO recommendations delivered to Luna's task force",
-   "claimTier": 2,
-   "dateStart": "2025-09-09",
-   "dateEnd": null,
-   "note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "the-intercept",
-   "b": "luis-elizondo",
-   "type": "investigative",
-   "label": "First major press challenge to Elizondo's AATIP leadership claim",
-   "claimTier": 1,
-   "dateStart": "2019-06-01",
-   "dateEnd": null,
-   "note": "Keith Kloor reported for The Intercept that 'there is no discernible evidence that he ever worked for a government UFO program, much less led one,' and obtained a Pentagon statement from spokesperson Christopher Sherwood that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI ... up until the time he resigned effective 10/4/2017.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "the-intercept",
-   "b": "aatip",
-   "type": "investigative",
-   "label": "Pentagon confirmation of AATIP's existence obtained by The Intercept",
-   "claimTier": 1,
-   "dateStart": "2019-06-01",
-   "dateEnd": null,
-   "note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "the-intercept",
-   "b": "ttsa",
-   "type": "investigative",
-   "label": "Scrutiny of To The Stars Academy's media apparatus and financing",
-   "claimTier": 1,
-   "dateStart": "2019-06-01",
-   "dateEnd": null,
-   "note": "The Intercept documented TTSA's SEC filing identifying it as a 'Motion Picture & Video Tape Production' concern, the undisclosed employment relationship between TTSA staff and the History Channel series 'Unidentified,' and reporter George Knapp's purchase of 400 shares of TTSA stock, which Knapp confirmed to The Intercept.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "the-intercept",
-   "b": "david-grusch",
-   "type": "investigative",
-   "label": "FOIA'd police records on Grusch published weeks after his testimony",
-   "claimTier": 1,
-   "dateStart": "2023-08-09",
-   "dateEnd": null,
-   "note": "Ken Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia FOIA showing Grusch was placed under an emergency custody order in October 2018 and retained his clearance afterward. Grusch's advocates publicly claimed the records were leaked medical files; The Intercept published its FOIA correspondence to rebut that.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "us-navy",
-   "b": "uap-task-force",
-   "type": "institutional",
-   "label": "Navy designated lead service for the UAP Task Force",
-   "claimTier": 1,
-   "dateStart": "2020-08-04",
-   "dateEnd": null,
-   "note": "Deputy Secretary of Defense David L. Norquist approved establishment of the UAP Task Force on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Under Secretary of Defense for Intelligence and Security. The Navy therefore owned the institutional predecessor to AOIMSG and AARO.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "us-navy",
-   "b": "nimitz-2004",
-   "type": "institutional",
-   "label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
-   "claimTier": 1,
-   "dateStart": "2004-11-14",
-   "dateEnd": null,
-   "note": "The November 2004 encounters involved aircrew and sensors of the USS Nimitz Carrier Strike Group. DoD authorized release of the unclassified Navy video 'taken in November 2004' through the Naval Air Systems Command FOIA reading room on 27 April 2020, stating the aerial phenomena in the videos 'remain characterized as unidentified.' The DoD statement itself dates the video but does not name the strike group.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "us-navy",
-   "b": "roosevelt-2014-2015",
-   "type": "institutional",
-   "label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
-   "claimTier": 1,
-   "dateStart": "2014-01-01",
-   "dateEnd": null,
-   "note": "The 2014-2015 Atlantic training-range encounters were reported by U.S. Navy F/A-18F aircrew from squadrons working up with and deployed aboard the USS Theodore Roosevelt, as described in Ryan Graves' congressional testimony. DoD separately authorized release of two unclassified Navy videos 'taken in January 2015' via the NAVAIR FOIA reading room on 27 April 2020, stating the phenomena 'remain characterized as unidentified.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "us-navy",
-   "b": "ryan-graves",
-   "type": "witness-chain",
-   "label": "Navy F/A-18F pilot turned first active-duty-era witness before Congress",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Graves is a former U.S. Navy F/A-18F pilot whose squadron logged repeated UAP encounters on the Atlantic training ranges; he carried that service experience into congressional testimony and into founding Americans for Safe Aerospace as a reporting channel for military and commercial aircrew.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "enigma-labs",
-   "b": "pursue-releases",
-   "type": "investigative",
-   "label": "Enigma cross-referencing PURSUE files against its civilian sighting database",
-   "claimTier": 1,
-   "dateStart": "2026-05-08",
-   "dateEnd": null,
-   "note": "After the first PURSUE tranche (roughly 160 files) posted to war.gov/ufo on 8 May 2026, Enigma Labs consultant Alejandro Rojas said the team was adding PURSUE elements to Enigma's maps and app so official cases could be cross-referenced 'against our database of over 200,000 public sightings.' He also criticised the drop for lacking coordinates, sensor parameters and altitude data.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "enigma-labs",
-   "b": "aaro",
-   "type": "institutional",
-   "label": "Documented AARO contact with Enigma Labs, released heavily redacted",
-   "claimTier": 2,
-   "dateStart": "2025-07-03",
-   "dateEnd": null,
-   "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with most content withheld under exemptions (b)(5) and (b)(6). Enigma Labs states on its own FAQ that it has 'no signed partnerships or collaborations to date' with any government. The edge records documented contact, not a contractual relationship.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "john-greenewald",
-   "b": "enigma-labs",
-   "type": "investigative",
-   "label": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
-   "claimTier": 1,
-   "dateStart": "2023-01-01",
-   "dateEnd": null,
-   "note": "Greenewald filed the January 2023 FOIA request that eventually produced the AARO-Enigma Labs email set in July 2025, making The Black Vault the origin point for public knowledge of contact between the Pentagon's UAP office and a private UAP data company.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "wayne-state-university",
-   "b": "kit-green",
-   "type": "institutional",
-   "label": "Green's academic base for UAP-injury neuroimaging work",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Christopher 'Kit' Green, MD, PhD, former CIA life sciences analyst, is professor in the Departments of Diagnostic Radiology and of Psychiatry and Behavioral Neurosciences at Wayne State University School of Medicine, where he ran the Emergent Technology Research Division. Wayne State is the institutional address for the clinical neuroimaging he applied to patients reporting injury after anomalous encounters.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "vanderbilt-university",
-   "b": "aatip",
-   "type": "research",
-   "label": "AATIP's 2017 disclosure pulled a Vanderbilt lab into UAP research",
-   "claimTier": 2,
-   "dateStart": "2017-12-16",
-   "dateEnd": null,
-   "note": "Bruehl told VUMC that the December 2017 New York Times report revealing AATIP is what restarted his interest and led him to conclude 'nobody's really studying this scientifically'; his Anesthesiology chair then authorized him to publish UAP work under the Vanderbilt name. His 2025 papers with Beatriz Villarroel in PASP and Scientific Reports followed.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
-   "a": "sheffield-hallam",
-   "b": "rendlesham-1980",
-   "type": "custody",
-   "label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
-   "claimTier": 1,
-   "dateStart": "2008-01-01",
-   "dateEnd": null,
-   "note": "Dr David Clarke, associate professor at Sheffield Hallam University, first obtained MoD documents on the 1980 Rendlesham Forest incident in May 2001 under the Code of Practice for Access to Government Information, then served 2008-2013 as consultant and curator for the MoD/National Archives UFO files project that transferred and opened more than 60,000 pages, including the Rendlesham file at TNA reference DEFE 24/1948.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-a"
-   ]
-  },
-  {
    "a": "compass-rose-legal-group",
    "b": "david-grusch",
    "type": "institutional",
@@ -123001,20 +123888,6 @@
    "dateStart": null,
    "dateEnd": null,
    "note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "compass-rose-legal-group",
-   "b": "odni",
-   "type": "institutional",
-   "label": "Senior partner was ODNI's Intelligence Community Inspector General",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Compass Rose senior partner I. Charles McCullough III was the Presidentially appointed, Senate-confirmed Inspector General of the Intelligence Community, reporting directly to DNI James Clapper and responsible for inquiries involving ODNI and the wider IC. That ICIG channel is the mechanism through which Grusch's complaint was routed.",
    "sources": [],
    "_domains": [
     "w6-edges-inst-b"
@@ -123057,104 +123930,6 @@
    "dateStart": null,
    "dateEnd": null,
    "note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "public-substack",
-   "b": "immaculate-constellation",
-   "type": "investigative",
-   "label": "Published the whistleblower brief naming the program",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Public, Michael Shellenberger's Substack news outlet, published the story alleging the DoD runs an 'active and highly secretive Unacknowledged Special Access Program' called Immaculate Constellation, based on a whistleblower brief supplied to the House Oversight Committee. NPR's contemporaneous hearing report links directly to the Public story.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "public-substack",
-   "b": "hearing-2024-11-13",
-   "type": "witness-chain",
-   "label": "Founder Shellenberger testified as a hearing witness",
-   "claimTier": 1,
-   "dateStart": "2024-11-13",
-   "dateEnd": null,
-   "note": "Michael Shellenberger, founder of Public, was one of four witnesses at the 13 November 2024 joint House Oversight subcommittee hearing 'Unidentified Anomalous Phenomena: Exposing the Truth'. His written testimony ran to roughly 214 pages and pressed for UAP transparency legislation and defunding of undisclosed programs.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "public-substack",
-   "b": "nancy-mace",
-   "type": "investigative",
-   "label": "Immaculate Constellation document hosted on Mace's House site",
-   "claimTier": 1,
-   "dateStart": "2024-11-13",
-   "dateEnd": null,
-   "note": "Shellenberger shared the Immaculate Constellation whistleblower document with lawmakers at the hearing chaired by Rep. Nancy Mace; the document was posted at mace.house.gov/immaculateconstellation. Mace questioned witnesses about the program by name during the hearing.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "klas-tv",
-   "b": "hearing-2025-09-09",
-   "type": "witness-chain",
-   "label": "Knapp testified as KLAS-TV chief investigative reporter",
-   "claimTier": 1,
-   "dateStart": "2025-09-09",
-   "dateEnd": null,
-   "note": "George Knapp, identifying himself in his statement for the record as 'Chief Investigative Reporter for KLAS-TV in Las Vegas', testified under oath before the House Committee on Oversight and Accountability UAP Task Force hearing of 9 September 2025 chaired by Rep. Luna.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "klas-tv",
-   "b": "harry-reid",
-   "type": "investigative",
-   "label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
-   "claimTier": 2,
-   "dateStart": "1989-01-01",
-   "dateEnd": null,
-   "note": "In sworn testimony Knapp states that the first person he told outside the KLAS newsroom about the 1989 Bob Lazar / S-4 story was Senator Harry Reid, beginning 'a private collaboration and conversation that continued for the rest of his life'. This rests on Knapp's own account, though it is given under oath.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "klas-tv",
-   "b": "aawsap",
-   "type": "custody",
-   "label": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
-   "claimTier": 2,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Knapp testified that he was asked to share the most important papers he obtained from the Russian Ministry of Defense in the 1990s with BAASS and the DIA and did so, and that AAWSAP assembled a team to translate and analyse them; the resulting full report remains unreleased at DIA, with only a brief synopsis published.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "klas-tv",
-   "b": "james-lacatski",
-   "type": "research",
-   "label": "Knapp co-authored two books with the AAWSAP originator",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Knapp disclosed in his congressional statement that he is co-author of two books written primarily by Dr James Lacatski (the DIA officer who conceived AAWSAP) and Dr Colm Kelleher, the BAASS programme manager.",
    "sources": [],
    "_domains": [
     "w6-edges-inst-b"
@@ -123217,48 +123992,6 @@
    ]
   },
   {
-   "a": "harvard-cfa",
-   "b": "galileo-project",
-   "type": "institutional",
-   "label": "Host institution of the Galileo Project",
-   "claimTier": 1,
-   "dateStart": "2021-07-26",
-   "dateEnd": null,
-   "note": "The Galileo Project is listed as a research programme of the Center for Astrophysics | Harvard & Smithsonian and is hosted on Harvard infrastructure; its first observatory was built on the roof of the Harvard College Observatory. Start date is the project's public launch in July 2021.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "harvard-cfa",
-   "b": "avi-loeb",
-   "type": "institutional",
-   "label": "Loeb directs the Institute for Theory and Computation at the CfA",
-   "claimTier": 1,
-   "dateStart": null,
-   "dateEnd": null,
-   "note": "Avi Loeb, head of the Galileo Project, is Director of the Institute for Theory and Computation at the Harvard-Smithsonian Center for Astrophysics and former chair of Harvard's Astronomy Department; his CfA position is the institutional base from which the Galileo Project operates.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
-   "a": "raytheon",
-   "b": "nimitz-2004",
-   "type": "custody",
-   "label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
-   "claimTier": 1,
-   "dateStart": "2004-11-14",
-   "dateEnd": null,
-   "note": "The AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) pod is developed and manufactured by Raytheon. The FLIR1 'Tic Tac' video, the primary sensor artefact of the 2004 Nimitz encounter and later released by DoD, was recorded on an ATFLIR pod operated by a VFA-41 weapons systems officer. This is the only UAP-specific Raytheon link found: the company's role is as the builder of the sensor of record, not as a programme participant.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-inst-b"
-   ]
-  },
-  {
    "a": "l-langley-afb",
    "b": "langley-2023-incursions",
    "type": "geographic",
@@ -123273,188 +124006,6 @@
    ]
   },
   {
-   "a": "l-san-agustin",
-   "b": "roswell-1947",
-   "type": "geographic",
-   "label": "alleged second recovery site (Barnett account)",
-   "claimTier": 3,
-   "dateStart": "1947-07-01",
-   "dateEnd": null,
-   "note": "The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand via Vern and Jean Maltais to Stanton Friedman in October 1978 and published in Berlitz and Moore's 'The Roswell Incident' (1980). The claim is contested by Kevin Randle, who argues the site has no connection to Roswell, and no primary document supports it.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
-   "a": "l-lasvegas",
-   "b": "aawsap",
-   "type": "geographic",
-   "label": "AAWSAP contract performed from Las Vegas",
-   "claimTier": 1,
-   "dateStart": "2008-09-22",
-   "dateEnd": null,
-   "note": "Performance on DIA contract HHM402-08-C-0072 began 22 September 2008 with an initial value of $10 million; the work was carried out by BAASS in Nevada, making Las Vegas the operational centre of the AAWSAP effort rather than Washington.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
-   "a": "l-lasvegas",
-   "b": "nids",
-   "type": "geographic",
-   "label": "NIDS headquarters 1995-2004",
-   "claimTier": 1,
-   "dateStart": "1995-01-01",
-   "dateEnd": null,
-   "note": "The National Institute for Discovery Science was a privately financed research organisation based in Las Vegas, Nevada, founded by Robert Bigelow in 1995 and disbanded in October 2004. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
-   "a": "l-lasvegas",
-   "b": "harry-reid",
-   "type": "geographic",
-   "label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
-   "claimTier": 2,
-   "dateStart": "2007-01-01",
-   "dateEnd": null,
-   "note": "This is not merely a home-town link: Senator Harry Reid of Nevada secured the appropriation with Senators Inouye and Stevens, and the money was performed by Robert Bigelow, a Las Vegas constituent. The constituent relationship is the reported mechanism connecting the earmark to the contractor.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-locations"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "nro",
-   "type": "institutional",
-   "label": "Principal Deputy Director, then Acting Director, NRO",
-   "claimTier": 1,
-   "dateStart": "2026-01-12",
-   "dateEnd": null,
-   "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "cia",
-   "type": "institutional",
-   "label": "CIA officer detailed to NRO advanced systems",
-   "claimTier": 1,
-   "dateStart": "1997-01-01",
-   "dateEnd": null,
-   "note": "Per his NRO bio: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "nasa",
-   "type": "institutional",
-   "label": "Staff Director, House Space and Aeronautics Subcommittee",
-   "claimTier": 1,
-   "dateStart": "2001-01-01",
-   "dateEnd": null,
-   "note": "From 2000 to 2006 Adkins served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, leading legislative and oversight activity over NASA and other civilian space agencies.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "andy-biggs",
-   "b": "hearing-2023-07-26",
-   "type": "legislative",
-   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor about 'misdirection by official U.S. Government with regard to UAPs,' the 1997 Phoenix Lights, training-range impacts and over-classification.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "andy-biggs",
-   "b": "david-grusch",
-   "type": "investigative",
-   "label": "pressed Grusch on Phoenix Lights and withheld information",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Biggs asked Grusch about the 1997 Phoenix Lights case ('Only what is in the public vernacular about it. That was outside the scope of my duties') and asked whether DoD or intelligence agencies are 'keeping this information from the American people or even from Congress.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "andy-biggs",
-   "b": "uap-task-force",
-   "type": "investigative",
-   "label": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Asked by Biggs whether the 2019 UAP classification guidelines impede transparency, Grusch answered: 'I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs replied, 'Uh-oh. You got a bias then.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "maxwell-frost",
-   "b": "hearing-2023-07-26",
-   "type": "legislative",
-   "label": "questioned witnesses at the 26 July 2023 UAP hearing",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Frost used his round to question Ryan Graves and David Fravor on NASA's independent study team, stigma reduction and how Congress can 'facilitate partnerships between the scientific community and the UAP focus groups within government.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "maxwell-frost",
-   "b": "ryan-graves",
-   "type": "investigative",
-   "label": "questioned Graves on scientific advisory board and NASA reporting",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Frost asked Graves how NASA research might influence commercial aviation safety and about 'the importance of seeking scientists to sit on your advisory board'; Graves pointed to NASA's Aviation Safety Reporting System as a near-term reporting platform.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "maxwell-frost",
-   "b": "nasa",
-   "type": "investigative",
-   "label": "questioned Administrator Nelson on UAP; pressed NASA's role at hearing",
-   "claimTier": 1,
-   "dateStart": "2023-07-26",
-   "dateEnd": null,
-   "note": "Frost told the hearing he sits on the Science, Space and Technology Committee and that when questioning NASA Administrator Bill Nelson about full funding, one of the reasons given 'had to do with UAPs.' He framed his questions around NASA's UAP independent study team.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
    "a": "marik-von-rennenkampff",
    "b": "sol-briefing-3-2026",
    "type": "research",
@@ -123463,20 +124014,6 @@
    "dateStart": "2026-04-30",
    "dateEnd": null,
    "note": "Von Rennenkampff is the named author of 'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,' The Sol Foundation Science and Policy Briefings No. 3, April 2026.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "marik-von-rennenkampff",
-   "b": "sol-foundation",
-   "type": "institutional",
-   "label": "delivers the monthly Sol Briefing; authors Sol policy briefings",
-   "claimTier": 1,
-   "dateStart": "2026-01-01",
-   "dateEnd": null,
-   "note": "His Sol Foundation author note states: 'He delivers the Sol Briefing, the Sol Foundation's monthly update on UAP news, and has been a regular contributor to The Hill.' He wrote Sol briefings No. 1 (January 2026) and No. 3 (April 2026).",
    "sources": [],
    "_domains": [
     "w6-edges-people"
@@ -123525,62 +124062,6 @@
    ]
   },
   {
-   "a": "iaa-2024",
-   "b": "ndaa-fy2024",
-   "type": "legislative",
-   "label": "enacted as Division G of the FY2024 NDAA",
-   "claimTier": 1,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "The Senate Select Committee on Intelligence publishes the enacted text as 'Intelligence Authorization Act for Fiscal Year 2024, Division G of the National Defense Authorization Act for Fiscal Year 2024' (P.L. 118-31, 22 December 2023).",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "iaa-2024",
-   "b": "aaro",
-   "type": "legislative",
-   "label": "AARO reporting change and UAP funding limitation",
-   "claimTier": 1,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "Division G contains Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office,' and Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena' - the provision barring funds for UAP activity not disclosed to the AARO Director and congressional leadership.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "iaa-2024",
-   "b": "iaa-fy2024-sec-1102",
-   "type": "legislative",
-   "label": "section node of this act (section number needs verification)",
-   "claimTier": 2,
-   "dateStart": "2023-12-22",
-   "dateEnd": null,
-   "note": "The board's section node is filed under this act. Caution: the contractor turn-in language (persons holding UAP material or 'non-earth origin or exotic' material to notify AARO and make it available within 180 days) is Sec. 1104 of S.2103 as reported by SSCI on 22 June 2023; the enacted Division G UAP sections are numbered 7341 and 7343. The '1102' designation in the node id is not confirmed against either text.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "harry-reid",
-   "b": "reid-dia-meetings-2008-2009",
-   "type": "institutional",
-   "label": "Reid is the principal behind the 2008-2009 DIA engagements",
-   "claimTier": 1,
-   "dateStart": "2008-01-01",
-   "dateEnd": null,
-   "note": "AARO's Historical Record Report Volume 1 states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
    "a": "sol-foundation",
    "b": "sol-briefing-3-2026",
    "type": "institutional",
@@ -123610,20 +124091,6 @@
   },
   {
    "a": "aztec-1948",
-   "b": "l-aztec",
-   "type": "geographic",
-   "label": "alleged crash site",
-   "claimTier": 1,
-   "dateStart": "1948-03",
-   "dateEnd": null,
-   "note": "Scully's account placed the landing in Hart Canyon, roughly twelve miles northeast of the city of Aztec, San Juan County, New Mexico. The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a commemorative plaque around.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "aztec-1948",
    "b": "roswell-1947",
    "type": "behavioral",
    "label": "detail donor to later Roswell accounts",
@@ -123631,20 +124098,6 @@
    "dateStart": "1974",
    "dateEnd": null,
    "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "geipan",
-   "b": "cometa",
-   "type": "institutional",
-   "label": "shared IHEDN lineage; SEPRA head contributed",
-   "claimTier": 1,
-   "dateStart": "1976",
-   "dateEnd": "1999-07",
-   "note": "COMETA's introduction states that GEPAN was created on the recommendations of a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale, and Jean-Jacques Velasco, then head of SEPRA at CNES, is named among the report's contributors. COMETA also recommended 'developing the actions of SEPRA'.",
    "sources": [],
    "_domains": [
     "w6-international"
@@ -123665,34 +124118,6 @@
    ]
   },
   {
-   "a": "cometa",
-   "b": "l-paris",
-   "type": "institutional",
-   "label": "IHEDN origin; delivered to the Prime Minister",
-   "claimTier": 3,
-   "dateStart": "1995-03",
-   "dateEnd": "1999",
-   "note": "General Letty took the project to General Norlain at his IHEDN office in March 1995, and the report was subsequently delivered to the head of the French government. Robert Roussel, citing Jospin's chief of staff Olivier Schrameck, states the Prime Minister read and annotated it 'to mark his interest'. The handover route is not established from any primary document, hence tier 3.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "cefaa",
-   "b": "dgac-chile",
-   "type": "institutional",
-   "label": "created and housed by the DGAC",
-   "claimTier": 1,
-   "dateStart": "1997-10-03",
-   "dateEnd": null,
-   "note": "Created by DGAC Resolución Exenta N° 01599 of 3 October 1997, signed by Director General Gonzalo Miranda Aguirre; reorganised under the Secretaría General from 1 January 2010 by Resolución N° 02/0/01937; renamed SEFAA and moved under the Subdepartamento Comunicacional on 18 October 2021 by Resolución Exenta N° 04/3/0113/1385.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
    "a": "vincent-teofilo",
    "b": "lockheed-martin",
    "type": "institutional",
@@ -123701,20 +124126,6 @@
    "dateStart": null,
    "dateEnd": null,
    "note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
-   "sources": [],
-   "_domains": [
-    "w7-dirds-1"
-   ]
-  },
-  {
-   "a": "william-culbreth",
-   "b": "baass",
-   "type": "geographic",
-   "label": "UNLV academic in the prime contractor's home city",
-   "claimTier": 3,
-   "dateStart": "2010",
-   "dateEnd": "2010",
-   "note": "TIER 3, INFERENTIAL. AAWSAP was executed by Bigelow Aerospace Advanced Space Studies out of Las Vegas under DIA contract HHM402-08-C-0072, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas nuclear engineering faculty member who received two deliverables. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one.",
    "sources": [],
    "_domains": [
     "w7-dirds-1"

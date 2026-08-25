@@ -1,0 +1,56 @@
+{
+ "domain": "w14-institutional-edges",
+ "_why": "Seven edges. Every source was opened and read in this pass.\n\nThe clean set is William B. Adkins. All three of his edges quote the NRO's own leadership biography, and all three quotes are verbatim: the CIA assignment ('From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate'), the House Science Committee years, and the appointment as Principal Deputy Director on 12 January 2026.\n\nTwo notes were overstating their sources and are corrected here.\n\ncometa -> l-paris said the COMETA report 'was subsequently delivered to the head of the French government'. It does not say that. What the report says is that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information' - a statement of intent, not a record of delivery. The Norlain foreword's account of General Letty arriving at his IHEDN office in March 1995 is verbatim and stands. Paris itself is nowhere in the report: IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than taken from it, so the edge is tier 3 and says so. ihedn.fr timed out on the one attempt made.\n\ncefaa -> dgac-chile asserted 'DGAC Resolucion Exenta N 01599 of 3 October 1997, signed by Director General Gonzalo Miranda Aguirre'. The DGAC page I read gives the 3 October 1997 date and the DGAC relationship, and does not give the resolution number or the signatory. Both unverified specifics are removed rather than carried on a source that does not support them. A later pass with the page reachable can put them back with a citation; sefaa.dgac.gob.cl returned 503 on the re-check, which is rate limiting I caused myself earlier in the session.\n\nBlocked this pass and deliberately left unsourced rather than sourced weakly: harvard-cfa -> avi-loeb and harvard-cfa -> galileo-project. cfa.harvard.edu returns 403 here. The Galileo Project overview paper gives Loeb's affiliation as 'Astronomy Department, Harvard University', which is Harvard but is not the Center for Astrophysics, and attaching it would be sourcing a relationship the document does not establish. Also blocked: med.wayne.edu, 503, which holds the Green and Genik edges.",
+
+ "edges": [
+  {
+   "a": "william-b-adkins", "b": "cia", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "National Reconnaissance Office, leadership biography of William B. Adkins", "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/", "date": "2026-08-25"}
+   ],
+   "note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years."
+  },
+  {
+   "a": "william-b-adkins", "b": "nasa", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "National Reconnaissance Office, leadership biography of William B. Adkins", "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/", "date": "2026-08-25"}
+   ],
+   "note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it."
+  },
+  {
+   "a": "william-b-adkins", "b": "nro", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "National Reconnaissance Office, leadership biography of William B. Adkins", "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/", "date": "2026-08-25"}
+   ],
+   "note": "NRO's leadership page gives Adkins as 'Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026'. He had been assigned to the NRO once before, from the CIA, between 1997 and 2000."
+  },
+  {
+   "a": "harry-reid", "b": "reid-dia-meetings-2008-2009", "type": "institutional", "claimTier": 2,
+   "sources": [
+    {"name": "AARO, Historical Record Report Volume 1, 8 March 2024", "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf", "date": "2024-03-08"}
+   ],
+   "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history."
+  },
+  {
+   "a": "geipan", "b": "cometa", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Introduction", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name."
+  },
+  {
+   "a": "cometa", "b": "l-paris", "type": "institutional", "claimTier": 3,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, foreword by General Bernard Norlain", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'"
+  },
+  {
+   "a": "cefaa", "b": "dgac-chile", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "DGAC Chile / SEFAA, Historia", "url": "https://sefaa.dgac.gob.cl/historia/", "date": "2026-08-25"}
+   ],
+   "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016."
+  }
+ ]
+}

@@ -264,16 +264,25 @@ Two were found on 24 August by accident, while looking for something else.
    change to `ref/`** -- it is four lines of Python and it found what six sessions of
    reading did not.
 
-3. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
+3. **The last 23 unsourced edges are an ACCESS problem, not a research problem.**
+   `edge_without_source` went 117 to 23 on 25 August; 98.9% of edges now carry a source.
+   What remains is blocked by which hosts answer this environment, and the table in
+   `notes/SOURCING-2026-08-25.md` says which. **Read that table before planning a
+   sourcing pass** - most importantly, `web.archive.org` is unreachable from here
+   entirely, so the board's many Wayback source URLs cannot be verified from this
+   environment and the usual fallback for a 403 does not exist. A session on a
+   different network vantage would clear most of the 23 in an hour.
+
+4. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
    stated reason. Show him a table; he cannot read JSON. Cap is 16, so there are 2 slots.
-4. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
+5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
    Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
    build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
-5. **Add Design's nine checks** from §5 of their response, each self-tested.
-6. **The image sourcing pass** for `data/l0-images.json`. Federal works are the strongest
+6. **Add Design's nine checks** from §5 of their response, each self-tested.
+7. **The image sourcing pass** for `data/l0-images.json`. Federal works are the strongest
    candidates (17 U.S.C. 105) but must trace to a `.gov` original, not an aggregator.
    Witnesses default to the class letter — a private person who testified has not licensed
    their likeness.
-7. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
-8. **TESTING-CHECKLIST.md §12 source spot-checks** — never started. 25 spot-checks have been
+8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
+9. **TESTING-CHECKLIST.md §12 source spot-checks** — never started. 25 spot-checks have been
    done ad hoc with zero fabricated sources found, but the systematic pass is outstanding.

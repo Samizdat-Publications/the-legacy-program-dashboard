@@ -1,0 +1,45 @@
+{
+ "domain": "w14-lasvegas-wayne-edges",
+ "_why": "Five edges: the Las Vegas cluster, Culbreth, and Kit Green at Wayne State.\n\nThe Las Vegas edges are tier 2 rather than tier 1, and the reason is a finding in itself. USASpending.gov carries federal award records for BIGELOW AEROSPACE LLC at NORTH LAS VEGAS, NV - two NASA contracts, NNH13CH31C and NNH15CN82C. It carries nothing at all for 'Bigelow Aerospace Advanced Space Studies' or 'BAASS': both searches return zero results. The DIA AAWSAP contract is not in the public federal award system under either name. So the Las Vegas tie is established for Bigelow's company and inferred for the contracting entity, and the notes say which is which. It is also North Las Vegas, a separate municipality, not Las Vegas.\n\nThe Kit Green edge is corrected against Wayne State's own words. The note had him as 'professor in the Departments of Diagnostic Radiology and of Psychiatry and Behavioral Neurosciences'. The university's School of Medicine news describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in those two departments as 'an adjunct professor and Fellow in Clinical Neuroimaging'. Adjunct is not professor, and the note now says what the university says.\n\nThat same item raises a question the board should settle rather than inherit. It describes Green as having been 'executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology'. The board's note on richard-genik -> wayne-state-university attributes the directorship of that division to Genik. Both can be true at different times and neither is confirmed against the other, so the Genik edges are left unsourced this pass rather than guessed at. med.wayne.edu returns 503 to this environment, which is what blocked the direct profile pages.",
+
+ "edges": [
+  {
+   "a": "l-lasvegas", "b": "aawsap", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC (NNH13CH31C, NNH15CN82C), recipient location NORTH LAS VEGAS, NV", "url": "https://www.usaspending.gov/search", "date": "2026-08-25"},
+    {"name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)", "url": "https://bigelowaerospace.com/pages/contact/", "date": "2026-08-25"}
+   ],
+   "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name."
+  },
+  {
+   "a": "l-lasvegas", "b": "nids", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "Deseret News, 'Private UFO study takes a public turn', 10 August 1998", "url": "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn", "date": "1998-08-10"}
+   ],
+   "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address."
+  },
+  {
+   "a": "l-lasvegas", "b": "harry-reid", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "AARO, Historical Record Report Volume 1, 8 March 2024", "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf", "date": "2024-03-08"},
+    {"name": "USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV", "url": "https://www.usaspending.gov/search", "date": "2026-08-25"}
+   ],
+   "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states."
+  },
+  {
+   "a": "william-culbreth", "b": "baass", "type": "geographic", "claimTier": 3,
+   "sources": [
+    {"name": "DIRD, 'Aneutronic Fusion Propulsion II', 1 November 2010 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf", "date": "2010-11-01"},
+    {"name": "DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities', 20 November 2010, DIA-08-1012-001 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf", "date": "2010-11-20"}
+   ],
+   "note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves."
+  },
+  {
+   "a": "wayne-state-university", "b": "kit-green", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "Wayne State University School of Medicine news, 'Chinese Academy of Sciences appoints Dr. Green as professor', 2 April 2009", "url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373", "date": "2009-04-02"}
+   ],
+   "note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all."
+  }
+ ]
+}
