@@ -14,7 +14,10 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-25-claude-code.md` after this.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-25-audit.md` after this.
+`notes/HANDOFF-2026-08-25-claude-code.md` is the earlier one from the same day and is
+**superseded** -- it says 18 verify checks when there are 38, and lists finished work as
+pending.
 
 ---
 
@@ -25,13 +28,16 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 
 | | |
 |---|---|
-| nodes | 968 (279 people · 689 entities) |
-| hand-written sourced edges | 2,160 |
-| tiered claims | 4,431 — T1 2,596 · T2 1,342 · T3 493 |
-| unique source URLs | 2,825 |
+| nodes | 956 (278 people · 678 entities) |
+| hand-written sourced edges | 2,159 |
+| tiered claims | 4,513 — T1 2,772 · T2 1,246 · T3 495 |
+| edge tiers | T1 1,385 · T2 575 · T3 199 |
+| unique source URLs | 2,888 |
+| dead citations | 0 |
 | timeline events | 858 |
 | program map (L0) | 110 nodes, all with dossiers |
-| built artifact | `dist/the-program.html`, 13.2 MB |
+| built artifact | `dist/the-program.html`, 13.8 MB |
+| gate | 38 verify checks, every one self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
