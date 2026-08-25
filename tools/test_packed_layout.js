@@ -146,6 +146,37 @@ const CHECKS = [
     poison: p => ({ ...p, flagHits: 0 }),
   },
   {
+    id: 'overview-is-never-anonymous',
+    label: 'below the label threshold every occupied cell prints its count',
+    /* The state this replaces drew 110 rectangles with nothing in them: no
+       identity, and it hid the one thing still legible at that size. */
+    test: p => p.denseCells > 0 && p.denseCellsWithInk === p.denseCells,
+    detail: p => `${p.denseCellsWithInk}/${p.denseCells} occupied cells carry ink at their centre`,
+    poison: p => ({ ...p, denseCellsWithInk: p.denseCells - 1 }),
+  },
+  {
+    id: 'overview-draws-no-orphan-edges',
+    label: 'the edge layer is switched off below the label threshold',
+    /* Lines are anchored to chip coordinates, so with the chips gone they
+       terminate at nothing and lattice over the counts the mode exists to show.
+       Tested by difference: toggling LINES AT REST cannot change a single pixel
+       in dense mode, and must change many at a scale where chips draw. */
+    test: p => p.denseEdgeToggleInert === true && p.chipEdgeToggleLive === true,
+    detail: p => `toggling LINES AT REST changes nothing in dense mode (${p.denseEdgeToggleInert})`
+               + ` and does change the map where chips draw (${p.chipEdgeToggleLive})`,
+    poison: p => ({ ...p, denseEdgeToggleInert: false }),
+  },
+  {
+    id: 'axis-type-readable-at-every-scale',
+    label: 'the gutter labels do not scale away with the world',
+    /* Axis chrome is drawn at an authored px size positioned at world x scale.
+       Counter-scaling by 1/k is the tempting wrong fix: it inflates type against
+       containers that stay at model dimensions, so it overflows its own box. */
+    test: p => p.denseAxisInkRows >= 5 && p.denseAxisInkRows <= 40,
+    detail: p => `the first band label's ink runs ${p.denseAxisInkRows} contiguous pixel rows at k=0.45`,
+    poison: p => ({ ...p, denseAxisInkRows: 2 }),
+  },
+  {
     id: 'labels-truncate-in-the-middle',
     label: 'no chip label is cut off at its end',
     /* An end ellipsis loses the tail, and the tail is the distinguishing token on
@@ -182,6 +213,7 @@ async function probe(page, opts = {}) {
             b = parseInt(hex.slice(5, 7), 16);
       return Math.abs(px[0] - r) + Math.abs(px[1] - g) + Math.abs(px[2] - b);
     };
+    const STRIP_BG0 = '#11141a';
     const CLS = {
       institution: '#a795e8', document: '#f0d264', program: '#66d69f',
       event: '#7fb4e8', legislation: '#e08ad0', person: '#c9d2dd',
@@ -359,7 +391,7 @@ async function probe(page, opts = {}) {
        What must be true is that TEXT is on them, so this counts only pixels that
        differ from the strip's own ground, and stays clear of the two 1px rules at
        the strip borders so a rule alone cannot carry the check. */
-    const STRIP_BG = '#11141a';
+    const STRIP_BG = STRIP_BG0;
     const strip = (x0, y0, x1, y1) => {
       let n = 0;
       for (let y = y0; y < y1; y += 2)
@@ -413,6 +445,97 @@ async function probe(page, opts = {}) {
     out.headStrip = PADT;
     out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);
     out.eraHeads = (PK.eras || []).length;
+
+    /* DENSE MODE. Drive the real camera below the label threshold, repaint, and
+       measure what actually landed on the canvas. Design's answer to 110 anonymous
+       rectangles is that the chips collapse and every occupied cell prints its
+       count, with the edge layer switched off entirely -- so there are three things
+       to see: the counts are there, the lattice is not, and the axis type survived. */
+    {
+      const k0 = v.k, ox0 = v.ox, oy0 = v.oy;
+      v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const rowsN = (PK.bands || []).length;
+      const rowH = (PK.worldH - PADT - 10) / rowsN;
+      const occ = {};
+      for (const n of D.l0) occ[n.band + '|' + n.col] = (occ[n.band + '|' + n.col] || 0) + 1;
+      let cells = 0, cellsWithInk = 0;
+      (PK.bands || []).forEach((b, i) => {
+        for (const c of (PK.eras || [])) {
+          if (!occ[b.id + '|' + c.id]) continue;
+          cells++;
+          const by = PADT + i*rowH;
+          const cx = Math.round((c.x + c.w/2)*v.k + v.ox);
+          const cy = Math.round((by + b.h/2 >= 0 ? by + rowH/2 : by)*v.k + v.oy);
+          /* a box at the cell centre, where the numeral is */
+          let ink = 0;
+          for (let dy = -9; dy <= 9; dy += 2)
+            for (let dx = -12; dx <= 12; dx += 2)
+              if (dist(px(cx + dx, cy + dy), CHIP_FILL) > 26) ink++;
+          if (ink >= 3) cellsWithInk++;
+        }
+      });
+      out.denseCells = cells;
+      out.denseCellsWithInk = cellsWithInk;
+      /* THE EDGE LAYER, tested by difference rather than by counting ink.
+         A first attempt counted non-ground pixels across the canvas and reported
+         35% in dense mode against 8% with chips -- because at k=0.45 the whole
+         world is on screen and the band STRIPING fills it, which is background,
+         not edges. It was measuring the thing it was not looking for, loudly.
+         So: toggle LINES AT REST, which is the control that governs the edge
+         layer, and require the canvas to be BYTE-IDENTICAL either way. If the
+         edges are genuinely not drawn, the toggle cannot change a pixel. */
+      const hashCanvas = () => {
+        const d = ctx.getImageData(0, 0, cvs.width, cvs.height).data;
+        let h = 0;
+        for (let i = 0; i < d.length; i += 4*29) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+        return h;
+      };
+      const rest0 = MAP.opt.rest;
+      MAP.opt.rest = true;  B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const hOn = hashCanvas();
+      MAP.opt.rest = false; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const hOff = hashCanvas();
+      MAP.opt.rest = rest0;
+      out.denseEdgeToggleInert = hOn === hOff;
+      /* And the control is proved live at a scale where chips DO draw, so an
+         inert toggle cannot pass by being broken everywhere. */
+      v.k = 1; v.ox = 0; v.oy = 0; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      MAP.opt.rest = true;  B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const cOn = hashCanvas();
+      MAP.opt.rest = false; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const cOff = hashCanvas();
+      MAP.opt.rest = rest0;
+      out.chipEdgeToggleLive = cOn !== cOff;
+      v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      /* Axis type must survive: it is drawn at an authored px size positioned at
+         world x scale, never scaled with the world. Measure the ink height of the
+         first band label in the gutter -- 9px type leaves at least 5 rows of it. */
+      const inked = y => {
+        for (let x = 8; x < PADL - 14; x += 2) if (dist(px(x, y), STRIP_BG0) > 26) return true;
+        return false;
+      };
+      let first = -1;
+      for (let y = PADT; y < Hc && first < 0; y++) if (inked(y)) first = y;
+      /* The CONTIGUOUS run from the first inked row, which is one label's cap
+         height. A first attempt took topmost-to-bottommost across the whole gutter
+         and got 337, i.e. the span of all seven labels, which would have passed
+         while the type rendered at 2px. */
+      let run = 0;
+      if (first >= 0) { let y = first; while (y < Hc && inked(y)) { run++; y++; } }
+      out.denseAxisInkRows = run;
+      v.k = k0; v.ox = ox0; v.oy = oy0;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    }
 
     if (o.shiftX) {           /* put the board back the way it was found */
       for (const n of D.l0) n.x = ORIG[n.id].x;

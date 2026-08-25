@@ -31,9 +31,36 @@ revision). **Batch 1 is built:**
 Gate: **40 verify checks, 13 canvas assertions**, all self-tested. New: `a denial that is
 not a directed act carries no denial styling`, `no chip label is cut off at its end`.
 
-Still open: the dense occupancy mode below 0.63 scale, the start-here legend and breath,
-motion, and the search grammar. Design specified all of them in the answer revision, with
-seven further checks.
+**Batch 2 is built: the dense occupancy mode.** Below the label threshold the chips
+collapse and every occupied cell prints its count. The edge layer is switched off
+entirely, the rows go equal-height, and the axis type stays at its authored size. The
+rendered matrix matches the model exactly, 110 of 110, and the structural claims Design
+named read straight off the screen: retrieval has nothing in 2000-2016, oversight is 13
+of 17 in the last era, disclosure is 3.
+
+Design also caught two bugs in its own comp after the first download and both are
+recorded here because one of them applies to any reimplementation:
+
+- **One row set, computed before anything consumes it.** Deriving the equal-height rows
+  for some consumers and leaving others on the model's chip-derived bands puts two
+  contradictory geometries on the same canvas. This build routes stripes, gutter labels
+  and cells through a single memoised `bandRows()`, so it never had the bug, and the
+  memoisation now makes that explicit.
+- **The start-here wash is fit-width only.** In dense mode the flagged cell already
+  carries its own amber background, so a wash would be a duplicate mark. **Gate the wash
+  on `!dense` when it is built** (task 5).
+
+One defect the dense mode exposed and that Design's answer already covers: at 0.23x the
+era column heads collided with each other, because the head is drawn at an authored size
+while the column shrinks with the world. They now budget against the smaller of the
+column's rendered width and the gap to the next head.
+
+Gate: **40 verify checks, 16 canvas assertions.** New: `overview_is_never_anonymous`,
+`overview_draws_no_orphan_edges` (tested by difference -- toggling LINES AT REST cannot
+change a pixel in dense mode, and must change many where chips draw),
+`axis_type_readable_at_every_scale`.
+
+Still open: the start-here legend, cell wash and breath, motion, and the search grammar.
 
 ---
 

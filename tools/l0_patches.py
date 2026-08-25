@@ -365,6 +365,48 @@ function mountL0(host){
       ctx.stroke();
     }
   }
+  /* One occupancy cell. Type here is sized in WORLD units but must be judged in
+     RENDERED ones, which is the distinction that makes a "roomy" test against world
+     height admit a sub-label that renders at 4px. Both the floor and the fit are
+     computed through the scale: 9px rendered is the floor, and the annotation is
+     dropped whenever the cell cannot hold the numeral plus 9px of it. The count is
+     the statement; the annotation is not.
+
+     `floor` is a LOWER bound and nothing else. Passing it through Math.min would
+     make it a ceiling, which pins every numeral to 9px and leaves a tall cell
+     rendering its digit at the floor. The numeral is sized from the CELL and only
+     lifted to the floor when the cell is too short to reach it. */
+  function cell(b, c, ids){
+    const n = ids.length;
+    if (!n) return;
+    const x = SX(c.x + 10), y = SY(b.y + 10);
+    const w = (c.w - 20)*view.k, h = (b.h - 20)*view.k;
+    if (x + w < PAD.l || x > W || y + h < PAD.t || y > H) return;
+    const flg = opt.flags ? ids.filter(id => FLAG.has(id)).length : 0;
+    ctx.fillStyle   = flg ? 'rgba(239,181,85,0.06)' : L0_PACK.chipFill;
+    ctx.strokeStyle = flg ? L0_PACK.pointer : L0_PACK.chipLine;
+    ctx.lineWidth = 1;
+    ctx.fillRect(x, y, w, h);
+    ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
+    /* Rendered sizes throughout. The cell bound divides by the font's box ratio
+       rather than subtracting a constant: an IBM Plex Mono glyph box runs about 15%
+       past its line box, so a 22px numeral needs 25px of room. */
+    const ch = h, floor = 9;
+    const fs = Math.min((ch - 4)/1.2, Math.max(floor, Math.min(44, ch*0.45)));
+    const roomy = fs >= floor*1.6 && fs + floor + 6 <= ch;
+    const sub = roomy && flg ? flg + ' flagged' : '';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    const cy = y + h/2 - (sub ? (floor + 3)/2 : 0);
+    ctx.font = "400 " + fs.toFixed(1) + "px 'IBM Plex Mono',monospace";
+    ctx.fillStyle = flg ? L0_PACK.pointer : L0_PACK.bandLabel;
+    ctx.fillText(String(n), x + w/2, cy);
+    if (sub){
+      ctx.font = "400 " + floor + "px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = L0_PACK.colNote;
+      ctx.fillText(sub, x + w/2, cy + fs/2 + 3 + floor/2);
+    }
+  }
   /* The start-here layer, drawn as an OFFSET pointer beside the chip and never as
      a property of it. That separation is the point: it can never be mistaken for a
      tier, and AARO cannot be promoted by being pointed at. */
@@ -382,8 +424,40 @@ function mountL0(host){
      are PINNED to the viewport edges rather than drawn at world x=10 / y=18, so
      they stay readable at any pan. geo.gutter (148) and geo.headRow (46) reserve
      exactly that space in the model, which is what makes pinning safe. */
+  /* DENSE MODE. Below the label threshold a 9.5px chip label renders under 6px and
+     the map was drawing 110 anonymous rectangles: no identity, AND they hid the one
+     thing still legible at that size, which is how many nodes sit in each cell. So
+     the chips collapse and every cell prints its COUNT -- the occupancy matrix, in
+     place, at the size where it is the only honest statement.
+
+     DENSE ROWS ARE EQUAL HEIGHT, and that is the fix rather than a workaround. A
+     band's height is derived from how many chip rows its busiest cell needs, which
+     is meaningful when chips render and meaningless when they do not: it left the
+     single-row disclosure band 9px tall on screen. Dividing the same world height
+     equally keeps the scale and the band order identical and removes an accidental
+     channel.
+
+     The start-here wash is deliberately NOT reused for this. It means "an editor
+     pointed here", and a channel that also meant "too small to label" would stop
+     meaning either. */
+  const dense = () => view.k < L0_LABEL_DROP;
+  /* ONE row set per camera state, consumed by everything that draws a row: the
+     stripes, the gutter labels and the count cells. Design hit the alternative and
+     named it -- deriving the equal-height rows for some consumers and leaving the
+     others on the model's chip-derived bands puts two contradictory geometries on
+     the same canvas, and the visible symptom is fringes half a row above their
+     cells. Memoised on view.k so a frame cannot disagree with itself. */
+  let _rows = null, _rowsAt = NaN;
+  function bandRows(){
+    if (_rows && _rowsAt === view.k) return _rows;
+    const bs = PK.bands || [];
+    _rowsAt = view.k;
+    if (!dense() || !bs.length) return (_rows = bs);
+    const rowH = (PK.worldH - PAD.t - 10) / bs.length;
+    return (_rows = bs.map((b, i) => ({ ...b, y: PAD.t + i*rowH, h: rowH })));
+  }
   function bands(){
-    (PK.bands||[]).forEach((b, i) => {
+    bandRows().forEach((b, i) => {
       const y = SY(b.y), h = b.h*view.k;
       if (y > H || y + h < 0) return;
       ctx.fillStyle = i % 2 ? L0_PACK.bandAlt : L0_PACK.bandFill;
@@ -396,16 +470,27 @@ function mountL0(host){
     ctx.save();
     ctx.beginPath(); ctx.rect(0, PAD.t, PAD.l, H - PAD.t); ctx.clip();
     ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
-    (PK.bands||[]).forEach(b => {
+    /* AXIS TYPE IS NEVER SCALED. These are already drawn at an authored px size and
+       positioned at world x scale, which is what "outside the world transform"
+       means on a canvas. Counter-scaling by 1/k would be the wrong fix: it inflates
+       type against the 148px gutter and the band heights, which stay at model
+       dimensions computed for authored type, so it overflows and collides with the
+       row below. In dense mode the meta line is DROPPED rather than shrunk -- the
+       count it carried is printed inside every cell now, so repeating it in the
+       gutter buys nothing and costs the only vertical room a short row has. */
+    const dn = dense();
+    bandRows().forEach(b => {
       const y = SY(b.y), h = b.h*view.k;
       if (y > H || y + h < PAD.t) return;
       const ty = Math.max(y, PAD.t);      /* a row scrolled half off still names itself */
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = L0_PACK.bandLabel;
       ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
-      ctx.font = "400 9px 'IBM Plex Mono',monospace";
-      ctx.fillStyle = L0_PACK.bandN;
-      ctx.fillText(b.n + ' \u00b7 mean C ' + b.meanC, 10, ty + 25);
+      if (!dn){
+        ctx.font = "400 9px 'IBM Plex Mono',monospace";
+        ctx.fillStyle = L0_PACK.bandN;
+        ctx.fillText(b.n + ' \u00b7 mean C ' + b.meanC, 10, ty + 25);
+      }
     });
     ctx.restore();
   }
@@ -426,21 +511,33 @@ function mountL0(host){
     ctx.strokeStyle = L0_PACK.colRule; ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(0, PAD.t - 0.5); ctx.lineTo(W, PAD.t - 0.5); ctx.stroke();
     ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
-    (PK.eras||[]).forEach(c => {
+    const eras = PK.eras || [];
+    eras.forEach((c, i) => {
       const x = SX(c.x);
       if (x > W || x + c.w*view.k < PAD.l) return;
       const cx = Math.max(PAD.l, Math.min(W - 150, x));
+      /* BUDGET THE HEAD TO THE ROOM THAT EXISTS. The head is drawn at an authored
+         px size and never scaled, which is right, but the COLUMN shrinks with the
+         world: at 0.23x the columns are ~200px apart on screen while the head text
+         still wants its full width, so "Estimate through Blue Book" ran straight
+         into "Post-Blue Book". Budget against the smaller of this column's own
+         rendered width and the gap to where the next head will actually be drawn,
+         so two heads can never overlap however far the map is zoomed out. */
+      const nx = i + 1 < eras.length
+        ? Math.max(PAD.l, Math.min(W - 150, SX(eras[i+1].x)))
+        : W;
+      const budget = Math.max(28, Math.min(c.w*view.k, nx - cx) - 10);
       /* Baselines sit in the LOWER part of the strip, below the DOM control row
          that overlays it at top:10px. Derived from PAD.t rather than written as
          constants, so a future change to geo.headRow moves the text with it
          instead of quietly re-creating the overprint. */
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = L0_PACK.colHead;
-      ctx.fillText(c.label, cx, PAD.t - 22);
+      ctx.fillText(l0Fit(ctx, c.label, budget), cx, PAD.t - 22);
       if (c.note){
         ctx.font = "400 8.5px 'IBM Plex Mono',monospace";
         ctx.fillStyle = L0_PACK.colNote;
-        ctx.fillText(c.note, cx, PAD.t - 9);
+        ctx.fillText(l0Fit(ctx, c.note, budget), cx, PAD.t - 9);
       }
     });
     ctx.restore();
@@ -573,7 +670,13 @@ function mountL0(host){
        of being an artefact of the renderer. Selecting a node lifts the budget for
        that node's own edges: the budget governs the RESTING surface, and hiding an
        edge from someone who has asked for it would make the map lie. */
-    const es = D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
+    /* NO EDGE LAYER BELOW THE THRESHOLD. Every line, bar and numeral chip is
+       anchored to chip coordinates, so with the chips gone they terminate at
+       nothing and lattice straight over the counts the mode exists to show. An
+       edge pointing at an unrendered node is not a weaker version of the occupancy
+       statement, it is noise on top of it. */
+    const es = dense() ? []
+      : D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
     es.sort((p,q)=>(p.e.n||1)-(q.e.n||1));   /* weakest first, strong claims on top */
     for (const {e,s:sm} of es){
       const touched = lit.has(e.a) || lit.has(e.b);
@@ -584,13 +687,27 @@ function mountL0(host){
     }
     ctx.globalAlpha = 1;
 
-    for (const n of D.l0){
-      const x = SX(n.x), y = SY(n.y);
-      if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
-      ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
-      chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
-      if (opt.flags && FLAG.has(n.id)) pointer(n);
-      ctx.globalAlpha = 1;
+    if (dense()){
+      /* Cells, not chips. Same numbers as the occupancy table in the design note,
+         printed on the map itself. */
+      const rows = bandRows();
+      const byCell = {};
+      for (const n of D.l0){
+        const k = n.band + '|' + n.col;
+        (byCell[k] || (byCell[k] = [])).push(n.id);
+      }
+      for (const b of rows)
+        for (const c of (PK.eras||[]))
+          cell(b, c, byCell[b.id + '|' + c.id] || []);
+    } else {
+      for (const n of D.l0){
+        const x = SX(n.x), y = SY(n.y);
+        if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
+        ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
+        chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
+        if (opt.flags && FLAG.has(n.id)) pointer(n);
+        ctx.globalAlpha = 1;
+      }
     }
     ctx.restore();
     /* Pinned last, so the furniture that says what the rows and columns MEAN is

@@ -933,6 +933,23 @@ class Component extends DCLogic {
        here", and a channel that also means "too small to label" would stop meaning
        either. */
     const labelsReadable = sc >= 0.63;
+    /* DENSE ROWS ARE EQUAL HEIGHT, and that is the fix rather than a workaround.
+       A band's height is derived from how many chip rows its busiest cell needs —
+       meaningful when chips render, meaningless when they do not. It left the
+       single-row disclosure band 9px tall on screen: too short for a floor-height
+       numeral, too short for a legible label, and quietly encoding "rows of chips"
+       as row height in a view that has no chips. Dividing the same world height
+       equally keeps the scale and the band order identical and removes an
+       accidental channel.
+
+       ONE row set, computed here, consumed by everything that draws a row —
+       stripes, gutter boxes, count cells, overlay labels. Deriving them separately
+       is what put two contradictory geometries on the same canvas. */
+    const rows = labelsReadable ? M.bands : (() => {
+      const rowH = (M.worldH - GEO_HEAD - 10) / M.bands.length;
+      return M.bands.map((b, i) => ({ ...b, y: GEO_HEAD + i * rowH, h: rowH }));
+    })();
+    const rowById = new Map(rows.map(r => [r.id, r]));
     /* Axis chrome in dense mode lives OUTSIDE the world transform, in an unscaled
        overlay positioned at world × scale. Counter-scaling font-size inside the
        transform was the wrong fix: it inflates type against containers — the 148px
@@ -1050,14 +1067,18 @@ class Component extends DCLogic {
       : attn === 'breath'
         ? `l0breathChip ${BREATH} ease-in-out infinite`
         : `l0once 1.1s ease-out ${(fl.rank * 0.13).toFixed(2)}s both`;
+    /* The wash is a fit-width device only. In dense mode the flagged cell already
+       carries its own amber background at exactly the right position, so a second
+       mark would be a duplicate — and duplicating it through the band geometry is
+       what put fringes half a row above their cells. */
     const flagCells = [];
-    if (showFlags) {
+    if (showFlags && labelsReadable) {
       const seen = new Set();
       for (const fl of flags) {
         const n = N.get(fl.id); if (!n) continue;
         const key = n.band + '/' + n.col; if (seen.has(key)) continue;
         seen.add(key);
-        const band = M.bands.find(b => b.id === n.band);
+        const band = rowById.get(n.band);
         const col = M.eras.find(c => String(c.id) === String(n.col));
         if (band && col) flagCells.push({
           x: col.x, y: band.y, w: col.w, h: band.h,
@@ -1135,7 +1156,7 @@ class Component extends DCLogic {
       };
     });
 
-    const bandRows = M.bands.map((b, i) => ({
+    const bandRows = rows.map((b, i) => ({
       y: b.y, h: b.h, name: BANDLBL[b.id] || b.id, n: b.n,
       // mean C where the axis exists; otherwise say what the order actually is
       meanC: (b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2)) +
@@ -1151,28 +1172,13 @@ class Component extends DCLogic {
        dropped, not shrunk: the count it carried is already printed inside every
        cell, so repeating it in the gutter buys nothing and costs the only vertical
        room a 17px-rendered band has. */
-    /* DENSE ROWS ARE EQUAL HEIGHT, and that is the fix rather than a workaround.
-       A band's height is derived from how many chip rows its busiest cell needs —
-       which is meaningful when chips render and meaningless when they do not. It
-       left the single-row disclosure band 9px tall on screen: too short for a
-       floor-height numeral, too short for a legible label, and quietly encoding
-       "rows of chips" as row height in a view that has no chips. Dividing the same
-       world height equally among the bands keeps the scale and the band order
-       identical, removes an accidental channel, and gives every cell the same room
-       to state its count. */
-    const denseBands = labelsReadable ? [] : (() => {
-      const rowH = (M.worldH - GEO_HEAD - 10) / M.bands.length;
-      return M.bands.map((b, i) => ({
-        ...b, y: GEO_HEAD + i * rowH, h: rowH,
-      }));
-    })();
     const gutterPx = Math.round(148 * sc);
     /* The overlay sits outside the transform, so it is not bound by the 148px
        world gutter — only by what fits on screen. Two lines at 9.5px need ~24px
        and every equal-height row renders well past that, so the label wraps
        instead of truncating: "Reverse engineering" over two lines is row identity,
        "REVE…NG" is not. */
-    const axisRows = labelsReadable ? [] : denseBands.map(b => ({
+    const axisRows = labelsReadable ? [] : rows.map(b => ({
       y: Math.round(b.y * sc), h: Math.round(b.h * sc),
       w: Math.max(gutterPx - 6, 76),
       label: (BANDLBL[b.id] || b.id).toUpperCase(),
@@ -1359,7 +1365,7 @@ class Component extends DCLogic {
     return {
       labelsReadable, dense: !labelsReadable, axisRows, axisCols,
       axisHeadH: Math.max(15, Math.round(GEO_HEAD * sc)),
-      denseCells: labelsReadable ? [] : denseBands.flatMap(b => M.eras.map(c => {
+      denseCells: labelsReadable ? [] : rows.flatMap(b => M.eras.map(c => {
         const inCell = M.nodes.filter(n => n.band === b.id && String(n.col) === String(c.id));
         if (!inCell.length) return null;
         const hit = searching ? inCell.filter(n => hitIds.has(n.id)).length : 0;
