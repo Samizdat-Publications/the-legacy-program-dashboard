@@ -554,7 +554,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'Wikipedia — To The Stars Inc.',
-      url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+      url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
       date: '2026-08-12'
     }
   ],
@@ -1100,7 +1100,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'Wikipedia: To The Stars Inc.',
-      url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+      url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
       date: '2026-08-12'
     },
     {

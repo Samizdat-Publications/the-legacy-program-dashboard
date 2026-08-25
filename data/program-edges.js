@@ -9101,7 +9101,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -9668,7 +9668,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Wikipedia — To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       },
       {
@@ -10102,7 +10102,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'Wikipedia — To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -20558,7 +20558,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       },
       {
@@ -20597,7 +20597,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -20614,7 +20614,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -21636,8 +21636,13 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -21724,7 +21729,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -30744,11 +30749,6 @@ export const PROGRAM_EDGES = [
         name: 'https://cufos.org/resources/project-blue-book/',
         url: 'https://cufos.org/resources/project-blue-book/',
         date: null
-      },
-      {
-        name: 'https://www.isaackoi.com/ufo/19550505-bluebook-special-report-14.html',
-        url: 'https://www.isaackoi.com/ufo/19550505-bluebook-special-report-14.html',
-        date: null
       }
     ]
   },
@@ -37730,8 +37730,13 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -37747,8 +37752,13 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -37764,8 +37774,13 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -37781,8 +37796,13 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -38061,8 +38081,13 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
