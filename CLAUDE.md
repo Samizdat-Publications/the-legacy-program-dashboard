@@ -335,16 +335,19 @@ Two were found on 24 August by accident, while looking for something else.
    depends on the network, and a check that fails because a host is throttling is a
    check people learn to ignore.
 
-10. **181 claims cite a DIA reading-room URL that no longer resolves.** 46 distinct
-    `dia.mil/.../FileId/1700xx/` URLs render the reading room's INDEX, not a document --
-    `FileId/999999999/` returns the same page, so DIA falls back silently and a stale
-    citation looks live. No affected claim cites a second copy. `baass`, `aawsap`,
-    `harry-reid`, `reid-letter-2009-06-24`, `dia-sap-denial-2009` and every DIRD node
-    are affected. The documents exist under a renumbered `2376xx` range. Two are
-    repaired, each verified by opening it: `170016` -> `237659` (Reid's 24 June 2009
-    letter) and `170058` -> `237611` (INFO MEMO U-09-2660). **The other 44 need the same
-    treatment and it is the most valuable mechanical work outstanding.** Do NOT remap
-    from a listing -- documents overlap, `Final_Packet_Presented_To_DepSecDef` contains
-    several, and the contract status brief exists as (1) through (4). Open each one.
-    `tools/spot_cache_put.py` puts a WebFetch-obtained file into `spot_check.py`'s cache
-    so the verification stays a substring test. See `notes/SPOT-CHECK-2026-08-25.md`.
+10. ~~**181 claims cite a DIA reading-room URL that no longer resolves.**~~ **43 of 46
+    REPAIRED, 25 August 2026.** DIA renumbered its reading room and the old
+    `FileId/1700xx/` ids now render the INDEX rather than a document -- `FileId/999999999/`
+    returns the same page, so DIA falls back silently and a stale citation looks live.
+    Every repair was verified by opening the document and reading its own title page,
+    document number and page count, never by trusting a listing.
+
+    **Three are deliberately still on the dead id and should stay there until someone
+    can settle them:** `170051` (its quote is the header common to all four Contract
+    Status Briefs), `170052` (its quote appears in two of them), and `170018` (carries
+    no quoted claim to match on). Guessing between near-identical briefs would put a
+    citation on the board that nobody could re-derive.
+
+    `tools/spot_cache_put.py` is the tool for this: it puts a WebFetch-obtained file
+    into `spot_check.py`'s cache so verification stays a substring test rather than a
+    model's opinion. See `notes/SPOT-CHECK-2026-08-25.md`.

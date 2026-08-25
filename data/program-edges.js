@@ -419,7 +419,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       }
     ]
@@ -441,7 +441,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       }
     ]
@@ -463,7 +463,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       }
     ]
@@ -480,12 +480,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       }
     ]
@@ -502,12 +502,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'DIA briefing \'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/',
         date: '2009'
       }
     ]
@@ -524,12 +524,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       }
     ]
@@ -585,12 +585,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       }
     ]
@@ -612,7 +612,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2026-08-22'
       }
     ]
@@ -634,7 +634,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2026-08-22'
       }
     ]
@@ -656,7 +656,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2026-08-22'
       }
     ]
@@ -678,7 +678,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2026-08-22'
       }
     ]
@@ -700,7 +700,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2026-08-22'
       }
     ]
@@ -722,7 +722,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2026-08-22'
       }
     ]
@@ -744,7 +744,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2026-08-22'
       }
     ]
@@ -766,7 +766,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2026-08-22'
       }
     ]
@@ -788,7 +788,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2026-08-22'
       }
     ]
@@ -810,7 +810,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2026-08-22'
       }
     ]
@@ -832,7 +832,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2026-08-22'
       }
     ]
@@ -854,7 +854,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2026-08-22'
       }
     ]
@@ -876,7 +876,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2026-08-22'
       }
     ]
@@ -898,7 +898,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2026-08-22'
       }
     ]
@@ -920,7 +920,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2026-08-22'
       }
     ]
@@ -942,7 +942,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2026-08-22'
       }
     ]
@@ -964,7 +964,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2026-08-22'
       }
     ]
@@ -986,7 +986,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2026-08-22'
       }
     ]
@@ -1008,7 +1008,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2026-08-22'
       }
     ]
@@ -1030,7 +1030,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2026-08-22'
       }
     ]
@@ -1052,7 +1052,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2026-08-22'
       }
     ]
@@ -1074,7 +1074,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/',
         date: '2026-08-22'
       }
     ]
@@ -1096,7 +1096,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2026-08-22'
       }
     ]
@@ -1118,7 +1118,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2026-08-22'
       }
     ]
@@ -1140,7 +1140,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2026-08-22'
       }
     ]
@@ -1162,7 +1162,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/',
         date: '2026-08-22'
       }
     ]
@@ -1184,7 +1184,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2026-08-22'
       }
     ]
@@ -1206,7 +1206,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2026-08-22'
       }
     ]
@@ -1228,7 +1228,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2026-08-22'
       }
     ]
@@ -1250,7 +1250,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2026-08-22'
       }
     ]
@@ -1272,7 +1272,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2026-08-22'
       }
     ]
@@ -1294,7 +1294,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room, AAWSAP/AATIP reference-document entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2026-08-22'
       }
     ]
@@ -24047,12 +24047,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       }
     ]
@@ -25007,12 +25007,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       }
     ]
@@ -25051,12 +25051,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       }
     ]
@@ -26028,7 +26028,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2026-08-22'
       },
       {
@@ -26061,7 +26061,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2026-08-22'
       }
     ]
@@ -26083,11 +26083,11 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
-        name: 'Defense Intelligence Agency FOIA Electronic Reading Room, \'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues\' -- https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        name: 'Defense Intelligence Agency FOIA Electronic Reading Room, \'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues\' -- https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         url: '',
         date: null
       },
@@ -26115,7 +26115,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2026-08-22'
       },
       {
@@ -26148,7 +26148,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2026-08-22'
       },
       {
@@ -26186,7 +26186,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2026-08-22'
       },
       {
@@ -26218,7 +26218,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2026-08-22'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -26241,7 +26241,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/',
         date: '2026-08-22'
       },
       {
@@ -26274,7 +26274,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2026-08-22'
       },
       { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
@@ -26297,7 +26297,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2026-08-22'
       },
       {
@@ -26334,7 +26334,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2026-08-22'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -26357,7 +26357,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2026-08-22'
       },
       {
@@ -26384,7 +26384,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2026-08-22'
       },
       {
@@ -26417,7 +26417,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2026-08-22'
       },
       {
@@ -26445,7 +26445,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2026-08-22'
       },
       {
@@ -26478,7 +26478,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2026-08-22'
       },
       {
@@ -26511,7 +26511,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2026-08-22'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -26534,7 +26534,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2026-08-22'
       },
       {
@@ -26567,7 +26567,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2026-08-22'
       },
       {
@@ -26605,7 +26605,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2026-08-22'
       },
       {
@@ -26633,7 +26633,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2026-08-22'
       },
       {
@@ -26671,7 +26671,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2026-08-22'
       },
       {
@@ -26699,7 +26699,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2026-08-22'
       },
       {
@@ -26731,7 +26731,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2026-08-22'
       },
       { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
@@ -26764,7 +26764,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2026-08-22'
       },
       {
@@ -26797,7 +26797,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/',
         date: '2026-08-22'
       },
       {
@@ -26835,7 +26835,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2026-08-22'
       },
       { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
@@ -26863,7 +26863,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2026-08-22'
       },
       {
@@ -26901,7 +26901,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2026-08-22'
       },
       {
@@ -26929,7 +26929,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2026-08-22'
       },
       {
@@ -26962,7 +26962,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2026-08-22'
       },
       {
@@ -27000,7 +27000,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2026-08-22'
       },
       {
@@ -27028,7 +27028,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2026-08-22'
       },
       {
@@ -27061,7 +27061,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2026-08-22'
       },
       {
@@ -27094,7 +27094,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2026-08-22'
       },
       {
@@ -27123,7 +27123,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2026-08-22'
       }
     ]
@@ -27145,7 +27145,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2026-08-22'
       },
       {
@@ -27173,7 +27173,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2026-08-22'
       },
       {
@@ -27211,7 +27211,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2026-08-22'
       },
       {
@@ -27238,7 +27238,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2026-08-22'
       },
       {
@@ -27266,7 +27266,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2026-08-22'
       },
       {
@@ -27294,7 +27294,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2026-08-22'
       },
       {
@@ -27327,7 +27327,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2026-08-22'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
@@ -27355,7 +27355,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2026-08-22'
       },
       {
@@ -27393,7 +27393,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2026-08-22'
       },
       { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
@@ -27416,7 +27416,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2026-08-22'
       },
       {
@@ -27453,7 +27453,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2026-08-22'
       },
       {
@@ -27486,7 +27486,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2026-08-22'
       },
       {
@@ -27513,7 +27513,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2026-08-22'
       }
     ]
@@ -27535,7 +27535,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2026-08-22'
       },
       {
@@ -27562,7 +27562,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2026-08-22'
       },
       {
@@ -27596,7 +27596,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2026-08-22'
       },
       {
@@ -27624,7 +27624,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2026-08-22'
       },
       {
@@ -27651,7 +27651,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2026-08-22'
       },
       {
@@ -27684,7 +27684,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2026-08-22'
       },
       {
@@ -27717,7 +27717,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2026-08-22'
       },
       {
@@ -27750,7 +27750,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2026-08-22'
       }
     ]
@@ -27772,7 +27772,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2026-08-22'
       }
     ]
@@ -27794,7 +27794,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2026-08-22'
       },
       {
@@ -27832,7 +27832,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2026-08-22'
       },
       {
@@ -27870,7 +27870,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2026-08-22'
       },
       {
@@ -27957,7 +27957,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2010-04-02'
       },
       {
@@ -27984,7 +27984,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Biosensors and BioMEMS: A Survey of the Present Field (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2010-03-31'
       },
       {
@@ -28011,7 +28011,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2010-03-29'
       }
     ]
@@ -28033,7 +28033,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2010-04-06'
       },
       { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
@@ -28061,7 +28061,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Concepts for Extracting Energy From the Quantum Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2010-04-06'
       },
       { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
@@ -28084,7 +28084,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Negative Mass Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2011-01-03'
       }
     ]
@@ -28106,7 +28106,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2010-11-01'
       }
     ]
@@ -28128,7 +28128,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Invisibility Cloaking: Theory and Experiments (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2010-03-02'
       },
       {
@@ -28160,7 +28160,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Quantum Computing and Utilizing Organic Molecules in Automation Technology (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2010-12-10'
       }
     ]
@@ -28182,7 +28182,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2010-11-01'
       }
     ]
@@ -28204,7 +28204,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2010-03-11'
       }
     ]
@@ -28226,7 +28226,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2010-03-30'
       }
     ]
@@ -28248,7 +28248,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2010-03-23'
       }
     ]
@@ -28270,7 +28270,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2010-11-01'
       }
     ]
@@ -28292,7 +28292,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2009-12-14'
       }
     ]
@@ -28314,7 +28314,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2010-03-11'
       }
     ]
@@ -28336,7 +28336,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2010-11-21'
       }
     ]
@@ -28358,7 +28358,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2010-11-20'
       },
       {
@@ -28385,7 +28385,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2010-03-29'
       }
     ]
@@ -28407,7 +28407,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Positron Aerospace Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2010-03-02'
       },
       {
@@ -28434,7 +28434,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2010-11-01'
       },
       {
@@ -28461,7 +28461,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Quantum Tomography of Negative Energy States in the Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2011-01-11'
       },
       {
@@ -28488,7 +28488,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2010-11-01'
       }
     ]
@@ -28510,7 +28510,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2010-11-01'
       }
     ]
@@ -28532,7 +28532,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2010-03-11'
       }
     ]
@@ -28554,7 +28554,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2010-03-11'
       }
     ]
@@ -28576,7 +28576,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Space Access: Where We\'ve Been and Where We Could Go (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2010-03-08'
       }
     ]
@@ -28598,7 +28598,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2009-12-14'
       }
     ]
@@ -28620,7 +28620,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2010-03-23'
       }
     ]
@@ -28642,7 +28642,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2010-03-30'
       }
     ]
@@ -28664,7 +28664,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2010-04-02'
       },
       { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
@@ -28687,7 +28687,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Negative Mass Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2011-01-03'
       }
     ]
@@ -28709,13 +28709,8 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
-        date: '2010-03-23'
-      },
-      {
-        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
-        date: null
+        date: '2010-03-23'
       }
     ]
   },
@@ -28736,7 +28731,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — High-Frequency Gravitational Wave Communications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2010-04-06'
       },
       {
@@ -28768,7 +28763,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2010-03-11'
       }
     ]
@@ -28790,7 +28785,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2010-03-11'
       }
     ]
@@ -28812,7 +28807,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Inertial Electrostatic Confinement Fusion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2010-03-10'
       },
       {
@@ -28844,7 +28839,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2010-12-15'
       },
       {
@@ -28871,7 +28866,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Space Access: Where We\'ve Been and Where We Could Go (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2010-03-08'
       }
     ]
@@ -28893,7 +28888,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2010-04-06'
       },
       { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
@@ -28916,7 +28911,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2010-03-23'
       }
     ]
@@ -28938,7 +28933,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2010-11-01'
       }
     ]
@@ -28960,7 +28955,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2010-11-01'
       },
       { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
@@ -28983,7 +28978,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2010-03-30'
       }
     ]
@@ -29005,7 +29000,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2010-03-30'
       }
     ]
@@ -29076,7 +29071,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2010-03-30'
       }
     ]
@@ -29211,12 +29206,12 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2009-05-04'
       },
       {
@@ -30265,7 +30260,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2010-03-29'
       },
       {
@@ -30325,7 +30320,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2022-03-25'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -30371,7 +30366,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2022-03-25'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -30394,7 +30389,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room entry',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2022-03-25'
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
@@ -42522,12 +42517,12 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       }
     ]

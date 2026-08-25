@@ -134,19 +134,35 @@ opening the document and reading it rather than by trusting a listing:
 | `reid-letter-2009-06-24`, `harry-reid` | `FileId/170016/` | **`FileId/237659/`** | letterhead "HARRY REID NEVADA", addressed to Deputy Secretary William Lynn III, dated June 24, 2009 |
 | `dia-sap-denial-2009`, `baass` | `FileId/170058/` | **`FileId/237611/`** | "INFO MEMO / NOV I 3 2009 / SUBJECT: (U) Review of Special Access Program Request" |
 
-The other 44 are **not** repaired, deliberately. A model's reading of the index page
-offers a full old-to-new mapping, and that is exactly the kind of thing this note
-exists to refuse: a mapping nobody has verified, written into the board's citations.
-Several documents also overlap — `Final_Packet_Presented_To_DepSecDef` contains the
-Reid letter *and* eleven quotes attributed to a different old id, and the contract
-status brief exists as `(1)` through `(4)` — so a correct remap needs each document
-opened, not each title matched.
+**43 of the 46 are now repaired**, each one verified by opening the document and
+reading its own title page, document number and page count — never by trusting the
+index listing. Examples of what "verified" meant in practice:
 
-**This is the single most valuable outstanding piece of work on the board.** It is
-mechanical, it is verifiable, and 181 claims currently point a reader at a directory
-rather than at the record. `tools/spot_cache_put.py` exists for it: fetch by whatever
-route the host allows, drop the file in, and the quote comparison stays a substring
-test rather than a model's opinion.
+- `170024` -> `237658` because the document's cover reads `DIA-08-1011-003` and it is
+  50 pages, and the board's own claim says this DIRD is DIA-08-1011-003 and 50 pages.
+  Its sibling `170025` -> `237644` is `DIA-08-1011-004` at 36 pages, matching the
+  board's record of the second one.
+- `170054` -> `237615` and `170055` -> `237614` because the board records the Talking
+  Paper numbers U-326-09 and U-973-09, and the two documents carry exactly those.
+  Without that the two are nearly interchangeable: both are titled "Senator Reid
+  Visit", both open with the same Inouye/Reid appropriations paragraph.
+- `170017` -> `237652` because that is the only document of the fourteen that contains
+  BAASS's street address, which is what the board quotes from it.
+
+**Three are deliberately left on the dead id**, because they cannot be settled:
+
+| board id | why not |
+|---|---|
+| `170051` | the quote is the header "Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072", which is common to all four Contract Status Briefs |
+| `170052` | its one quote, "SCI clearance processing has been successfully completed for all key personnel", appears in two of the briefs |
+| `170018` | carries no quoted claim, so there is nothing to match it on |
+
+Guessing between four near-identical briefs would put a citation on the board that
+nobody could re-derive, which is the thing this whole pass exists to prevent.
+
+After the remap **156 claims are unreachable, down from 281, and 362 verify, up from
+278.** All 50 remaining `dia.mil` misses are OCR damage: every single one is a
+*partial* match that breaks mid-word, none is a quote the document does not contain.
 
 A note on what the DIA scans do to quotation checking. They are OCR'd photocopies and
 they mangle exactly the things a quote turns on: Reid's letter reads "tar-term" where

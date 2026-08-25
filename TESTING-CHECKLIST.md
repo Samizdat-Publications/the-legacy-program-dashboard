@@ -219,12 +219,17 @@ Two things worth knowing before you start:
 > See `notes/SPOT-CHECK-2026-08-25.md`, which also records the four bugs the check
 > found in itself before it could be trusted.
 >
-> **It does not replace the rows below.** It cannot check paraphrase, it cannot read
-> scanned FOIA PDFs (41 DIRD quotes are OCR-degraded past matching, and the board is
-> quoting them correctly), and 281 claims sit on hosts this environment cannot open --
-> `dia.mil` and `aaro.mil` between them hold 129 of those and serve WebFetch but refuse
-> curl, which is the obvious next pass. It is deliberately NOT in the build gate: it
-> depends on the network, and a check that fails because a host is throttling is a
+> **Updated the same day:** `dia.mil` and `aaro.mil` refuse curl but serve WebFetch, so
+> `tools/spot_cache_put.py` was written to put a file fetched by any route into the
+> cache. All 24 aaro.mil quotes verify. The dia.mil pass then found that 46
+> reading-room URLs no longer reach a document at all; 43 are repaired. Verified quotes
+> are now **362**, unreachable **156**.
+>
+> **It does not replace the rows below.** It cannot check paraphrase, and it cannot read
+> scanned FOIA PDFs -- 80 DIRD quotes are OCR-degraded past matching and the board is
+> quoting every one of them correctly, which you can see from the fact that they all
+> break mid-word rather than missing entirely. It is deliberately NOT in the build gate:
+> it depends on the network, and a check that fails because a host is throttling is a
 > check people learn to ignore.
 
 Pick five claims at random from five different views and verify against the source. You are

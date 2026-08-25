@@ -349,7 +349,7 @@ def main():
         print("\n  NOT FOUND by host — read this before treating any of it as a finding:")
         for h, c in by_host.most_common():
             note = ""
-            if "theblackvault" in h:
+            if "theblackvault" in h or "dia.mil" in h:
                 note = "  <- scanned FOIA PDFs, OCR-degraded, not adjudicable"
             elif "burlison.house.gov" in h:
                 note = "  <- image-only PDF; no text layer to search"

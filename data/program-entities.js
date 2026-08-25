@@ -267,27 +267,27 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'Contract modification P00001 (effective SEP 02 2009) to contract HHM402-08-C-0072 names the contractor as \'BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC\', address \'1E199 W BROOKS AVE, NORTH LAS VEGAS NV 890323671\' (OCR-degraded; street number reads as 1899/1E199 W Brooks Ave), with DUNS shown as 37/0377613 (OCR-degraded) and CAGE code 54JU7 (OCR-degraded). Original contract dated SEP 22, 2008.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       },
       {
         tier: 1,
         text: 'DIA briefing: \'Performance by Bigelow Aerospace Advanced Space Studies (BAASS) has been excellent and they are in full compliance with aerospace contract HHM402-08-C-0072: extensive monthly status reports received; 12 project management plans received and executed; 26 detailed research reports (twice minimum requirement) received by 30 June 2009. Reviews of reports have been overwhelmingly positive.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/'
       },
       {
         tier: 1,
         text: 'Same briefing: \'Recommend that DIA should go forward with option year 1 with BAASS, subject to available funding. $12 million for the continuation of this contract by DIA/DI has been submitted in the FY10 defense budget; funding likely to be approved.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/'
       },
       {
         tier: 1,
         text: 'DIA Talking Paper U-326-09: \'BAASS submitted the 12 technical area program management plans (PMPs) on 21 November 2008... reviewed the PMPs and rated them as very good to excellent... BAASS will deliver to DIA approximately two detailed reports per technical area. The goal is for [DIA] to have all reports by the end of July 2009.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: 'Same paper: \'The Defense Security Service conducted a site inspection on the BAASS facility on 17 December 2008. The inspection was completed satisfactorily and the facility clearance process is expected to be completed shortly.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
@@ -302,7 +302,7 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-429-09: \'Each research report ... was written by world-class technical experts in industry and/or academia\', with reviews performed by \'other authors listed in the table\' and by \'outside reviewers including three research staff members at Sandia National Laboratories\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 3,
@@ -338,12 +338,12 @@ export const INSTITUTIONS = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'DIA briefing \'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/',
         date: '2009'
       },
       {
@@ -353,27 +353,27 @@ export const INSTITUTIONS = [
       },
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
         name: 'Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)',
-        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2025-05-15'
       },
       {
         name: 'Archived: DIA briefing \'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)\' (DIA FOIA release) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131233/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/',
+        url: 'https://web.archive.org/web/20250311131233/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/',
         date: '2025-03-11'
       },
       {
@@ -383,17 +383,17 @@ export const INSTITUTIONS = [
       },
       {
         name: 'Archived: DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release) (Wayback 2025-03-09)',
-        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2025-03-09'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
       {
         name: 'Archived: DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)',
-        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2025-05-16'
       },
       {
@@ -445,12 +445,12 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'USD(I) memorandum to DEPSECDEF: \'The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552: \'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
@@ -486,32 +486,32 @@ export const INSTITUTIONS = [
     sources: [
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'Archived: USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release) (Wayback 2026-04-11)',
-        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2026-04-11'
       },
       {
         name: 'Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)',
-        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2025-05-15'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
       {
@@ -10080,27 +10080,27 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'DIA published solicitation HHM402-08-R-0211, \'ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM\', as a Combined Synopsis/Solicitation on FedBizOpps, original posted date 18 August 2008, response date 05 September 2008 4:00pm Eastern, original archive date 31 October 2008. Set aside: Total Small Business. Classification Code \'B -- Special studies and analysis - not R&D\'. NAICS 541330 Engineering Services, size standard $25 million. Issued by the Virginia Contracting Activity for \'engineering services in the Washington DC area\'. \'One firm fixed price contract is anticipated to be awarded as a result of this\' solicitation.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/'
       },
       {
         tier: 1,
         text: 'DIA Talking Paper U-973-09 states the RFP broke the work into twelve technical areas: Lift; Propulsion; Control; Armament (radio-frequency and directed-energy weapons); Spatial/temporal Translation; Signature Reduction; Materials; Configuration/structure; Power Generation; Human Effects (of advanced tech on operators); Human Interface (i.e. pilot controls); Technology Integration.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/'
       },
       {
         tier: 1,
         text: '\'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive and the contract signed on 22 September 2008.\' (DIA Talking Paper U-326-09, 02 January 2009)',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552 to USD(AT&L): \'The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add. The purpose of this congressional add was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years and to build an infrastructure to house a center of expertise on advanced aerospace technologies.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
         text: 'Same memo: \'The FY 2010 Defense Appropriations Act included a $12 million add for the project. Twelve additional reports were produced and delivered.\' Total across FY08 supplemental ($10M) and FY10 ($12M) = $22M.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
@@ -10110,22 +10110,22 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'USD(I) memorandum to the Deputy Secretary of Defense states plainly: \'The AAITP that SEN Reid refers to is officially the Advanced Aerospace Weapon System Application Program (AAWSAP) contract managed by DIA. Its primary purpose is to investigate revolutionary advances in future aerospace technologies with emphasis on research of unconventional and revolutionary technologies. The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'Same USD(I) memo: \'The resulting contract was for multiple sub-contractors to perform unclassified research in 11 technical areas and deliver technical reports on those areas by July 31 2009.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIRD inside covers name the program \'Advanced Aerospace Weapon System Applications (AAWSA) Program\' and reference an \'AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\'. The program manager\'s name is redacted under (b)(3) 10 USC 424 and (b)(6) throughout the release.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 3,
         text: 'The solicitation was issued through the Virginia Contracting Activity (VCA), DIA\'s contracting arm, and coded \'B -- Special studies and analysis - not R&D\' rather than as R&D. Combined with the Total Small Business set-aside on a $10M congressional add, this is a procurement structure that minimises public visibility: VCA awards are largely absent from public FPDS/USAspending data (confirmed: FPDS ATOM query for PIID HHM402-08-C-0072 returns an empty feed).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/'
       },
       {
         tier: 1,
@@ -10161,27 +10161,27 @@ export const PROGRAMS = [
     sources: [
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2009-05-04'
       },
       {
@@ -10196,27 +10196,27 @@ export const PROGRAMS = [
       },
       {
         name: 'Archived: FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release) (Wayback 2026-05-09)',
-        url: 'https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2026-05-09'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
       {
         name: 'Archived: DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)',
-        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2025-05-16'
       },
       {
         name: 'Archived: USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release) (Wayback 2026-04-11)',
-        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2026-04-11'
       },
       {
         name: 'Archived: DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2025-03-19'
       },
       {
@@ -10254,8 +10254,8 @@ export const PROGRAMS = [
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/',
         date: '2023-09-01'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/', date: null },
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/', date: null }
     ]
   },
   {
@@ -10283,12 +10283,12 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'The DIA release consistently spells it \'AAITP\' (Advanced Aerospace Threat and Identification Program) in 2009 documents, not the later-familiar \'AATIP\'. The USD(I) memorandum subject line reads: \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: \'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/'
       },
       {
         tier: 1,
@@ -10364,7 +10364,7 @@ export const PROGRAMS = [
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
@@ -10374,12 +10374,12 @@ export const PROGRAMS = [
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
@@ -10394,7 +10394,7 @@ export const PROGRAMS = [
       },
       {
         name: 'Archived: USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release) (Wayback 2026-04-11)',
-        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2026-04-11'
       },
       {
@@ -10404,12 +10404,12 @@ export const PROGRAMS = [
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
       {
         name: 'Archived: DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)',
-        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2025-03-10'
       },
       {
@@ -26614,7 +26614,7 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'The DIRDs fall into two DIA series banners printed on the cover: \'Acquisition Threat Support\' (the FY2009 tranche, ICOD 1 December 2009, published Dec 2009 - Apr 2010) and \'Defense Futures\' (the FY2010 tranche, ICOD Jul-Dec 2010, published Nov 2010 - Jan 2011).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
@@ -26624,17 +26624,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-429-09 Enclosure 1 lists the 26 FY2009 technical reports by working title (not final DIRD title), including several never released as DIRDs under those names: \'Pulse-Power-Based Weaponry\', \'Space-Time Modifications for Spaceflight Applications\', \'Novel MEMS-Based Biosensors\', \'Metamaterials for Aerospace Applications\', \'Metallic Glasses\', \'Metallic Spintronics\', \'Materials for Advanced Aerospace Platforms\', \'Wormholes in Space Time\', \'Gravity Wave Communication\', \'Vacuum Energy Applications\', \'Improved Statistical Approach to Drake Equation\', \'Maverick vs. Corporate Research Cultures\', \'Warp Drives\', \'Controlling Devices Without Limb-Operated Interfaces\', \'Field Effects on Biological Tissues\', \'High-Energy Laser Weapon\', \'Quantum Entanglement Communications\', \'Space Access: Where Been, Where Go\', \'Advanced Nuclear Propulsion for Deep Space\', \'Inertial Electrostatic Confinement Fusion\', \'Theory and Experiments of Invisibility Cloaking\', \'Superconductors in Gravity Research\', \'Antigravity for Aerospace Applications\', \'Positron Aerospace Propulsion\', \'Biosensors and BioMEMS\', \'Programmable Matter\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
         text: 'In the DIA-released copies every DIRD author is withheld under FOIA exemption (b)(6) and the \'Prepared by\' office under (b)(3) 10 USC 424. Two author surnames survive uncensored inside the review excerpts of Info Memo U-429-09: \'Hathaway\' (The Role of Superconductors in Gravity Research) and \'Tsoi\' (Metallic Spintronics).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 3,
         text: 'That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA\'s own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
@@ -26650,12 +26650,12 @@ export const DOCUMENTS = [
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -26665,15 +26665,15 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release) (Wayback 2025-05-16)',
-        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://web.archive.org/web/20250516033517/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2025-05-16'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/', date: null }
     ]
   },
   {
@@ -26696,7 +26696,7 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       },
       {
         tier: 1,
@@ -26711,18 +26711,18 @@ export const DOCUMENTS = [
       {
         tier: 3,
         text: 'Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       }
     ],
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
@@ -26732,17 +26732,17 @@ export const DOCUMENTS = [
       },
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'Archived: Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release) (Wayback 2025-05-15)',
-        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://web.archive.org/web/20250515030045/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2025-05-15'
       },
       {
         name: 'Archived: FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release) (Wayback 2026-05-09)',
-        url: 'https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://web.archive.org/web/20260509235856/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2026-05-09'
       },
       {
@@ -26752,7 +26752,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release) (Wayback 2025-03-09)',
-        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2025-03-09'
       },
       {
@@ -26802,7 +26802,7 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'The USD(I) memorandum to DEPSECDEF confirms receipt and framing: \'Senator Harry Reid sent a letter to you on June 24, 2009 requesting the Department of Defense put the AAITP under "Restricted Special Access Protection" (Tab A).\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 2,
@@ -26818,7 +26818,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
@@ -26833,7 +26833,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release) (Wayback 2026-04-11)',
-        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://web.archive.org/web/20260411145317/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2026-04-11'
       },
       {
@@ -26873,12 +26873,12 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: \'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 3,
         text: 'The explicit suggestion that \'the project could be transitioned to another agency or component better suited to oversee the project\' is the documented hinge between AAWSAP\'s DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       }
     ],
     sources: [
@@ -26889,12 +26889,12 @@ export const DOCUMENTS = [
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -26904,12 +26904,12 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)',
-        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2025-03-10'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       }
     ]
@@ -26934,22 +26934,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Advanced Nuclear Propulsion for Manned Deep Space Missions", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Released PDF is 37 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
@@ -26970,7 +26970,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2010-03-11'
       },
       {
@@ -26980,7 +26980,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072644/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://web.archive.org/web/20250319072644/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2025-03-19'
       },
       {
@@ -27021,22 +27021,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering", series "Acquisition Threat Support", published 2010-03-29 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-015. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Released PDF is 17 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
@@ -27062,7 +27062,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2010-03-29'
       },
       {
@@ -27072,7 +27072,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312054359/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://web.archive.org/web/20250312054359/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2025-03-12'
       },
       {
@@ -27108,22 +27108,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aerospace Applications of Programmable Matter", series "Acquisition Threat Support", published 2009-12-14 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0911-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Released PDF is 20 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
@@ -27138,13 +27138,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'DIA released the document in its FOIA Electronic Reading Room as a 20-page PDF; it discusses programmable material whose effective atoms can be changed on demand, permitting a bounded but very large range of material properties to be summoned or dismissed at will.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2009-12-14'
       },
       {
@@ -27154,7 +27154,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312120212/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://web.archive.org/web/20250312120212/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2025-03-12'
       },
       {
@@ -27190,22 +27190,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "An Introduction to the Statistical Drake Equation", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Released PDF is 55 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
@@ -27231,7 +27231,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2010-03-11'
       },
       {
@@ -27241,7 +27241,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF) (Wayback 2026-01-12)',
-        url: 'https://web.archive.org/web/20260112201531/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://web.archive.org/web/20260112201531/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2026-01-12'
       },
       {
@@ -27282,22 +27282,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aneutronic Fusion Propulsion", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-003. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Released PDF is 50 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
@@ -27318,7 +27318,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2010-11-01'
       },
       {
@@ -27328,7 +27328,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312054401/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://web.archive.org/web/20250312054401/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2025-03-12'
       },
       {
@@ -27364,22 +27364,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aneutronic Fusion Propulsion", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Released PDF is 36 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
@@ -27405,7 +27405,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2010-11-01'
       },
       {
@@ -27415,7 +27415,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF) (Wayback 2025-12-22)',
-        url: 'https://web.archive.org/web/20251222054116/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://web.archive.org/web/20251222054116/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2025-12-22'
       },
       {
@@ -27451,22 +27451,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Anomalous Acute and Subacute Field Effects on Human Biological Tissues", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Released PDF is 38 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
@@ -27492,7 +27492,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2010-03-11'
       },
       {
@@ -27502,7 +27502,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF) (Wayback 2026-01-28)',
-        url: 'https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2026-01-28'
       },
       {
@@ -27543,22 +27543,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Antigravity for Aerospace Applications", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Released PDF is 44 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
@@ -27584,7 +27584,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2010-03-30'
       },
       {
@@ -27594,7 +27594,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF) (Wayback 2025-12-05)',
-        url: 'https://web.archive.org/web/20251205153535/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://web.archive.org/web/20251205153535/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2025-12-05'
       },
       {
@@ -27635,22 +27635,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Biosensors and BioMEMS: A Survey of the Present Field", series "Acquisition Threat Support", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Released PDF is 45 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
@@ -27681,7 +27681,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Biosensors and BioMEMS: A Survey of the Present Field (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2010-03-31'
       },
       {
@@ -27691,7 +27691,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Biosensors and BioMEMS: A Survey of the Present Field (PDF) (Wayback 2025-03-13)',
-        url: 'https://web.archive.org/web/20250313031210/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://web.archive.org/web/20250313031210/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2025-03-13'
       },
       {
@@ -27742,22 +27742,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Cockpits in the Era of Breakthrough Flight", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-08, DIA document number DIA-08-1011-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
@@ -27783,7 +27783,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2010-11-01'
       },
       {
@@ -27793,7 +27793,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131322/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://web.archive.org/web/20250311131322/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2025-03-11'
       },
       {
@@ -27844,22 +27844,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft", series "Defense Futures", published 2010-12-15 with an Intelligence Cut-Off Date (ICOD) of 2010-09-08, DIA document number DIA-08-1101-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Released PDF is 31 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
@@ -27885,7 +27885,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2010-12-15'
       },
       {
@@ -27895,7 +27895,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072648/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://web.archive.org/web/20250319072648/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2025-03-19'
       },
       {
@@ -27946,22 +27946,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Concepts for Extracting Energy From the Quantum Vacuum", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
@@ -27987,7 +27987,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Concepts for Extracting Energy From the Quantum Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2010-04-06'
       },
       {
@@ -27997,7 +27997,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Concepts for Extracting Energy From the Quantum Vacuum (PDF) (Wayback 2025-12-22)',
-        url: 'https://web.archive.org/web/20251222010232/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://web.archive.org/web/20251222010232/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2025-12-22'
       },
       {
@@ -28044,22 +28044,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities", series "Defense Futures", published 2010-11-20 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1012-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Released PDF is 46 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
@@ -28085,7 +28085,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2010-11-20'
       },
       {
@@ -28095,7 +28095,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (PDF) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131326/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://web.archive.org/web/20250311131326/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2025-03-11'
       },
       {
@@ -28146,22 +28146,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "High-Frequency Gravitational Wave Communications", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
@@ -28192,7 +28192,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — High-Frequency Gravitational Wave Communications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2010-04-06'
       },
       {
@@ -28202,7 +28202,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — High-Frequency Gravitational Wave Communications (PDF) (Wayback 2025-05-15)',
-        url: 'https://web.archive.org/web/20250515125210/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://web.archive.org/web/20250515125210/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2025-05-15'
       },
       {
@@ -28258,22 +28258,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Inertial Electrostatic Confinement Fusion", series "Acquisition Threat Support", published 2010-03-10 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Released PDF is 72 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
@@ -28299,7 +28299,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Inertial Electrostatic Confinement Fusion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2010-03-10'
       },
       {
@@ -28309,7 +28309,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Inertial Electrostatic Confinement Fusion (PDF) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081346/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://web.archive.org/web/20250317081346/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2025-03-17'
       },
       {
@@ -28360,22 +28360,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Invisibility Cloaking: Theory and Experiments", series "Acquisition Threat Support", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Released PDF is 29 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
@@ -28401,7 +28401,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Invisibility Cloaking: Theory and Experiments (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2010-03-02'
       },
       {
@@ -28411,7 +28411,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Invisibility Cloaking: Theory and Experiments (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072654/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://web.archive.org/web/20250319072654/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2025-03-19'
       },
       {
@@ -28462,22 +28462,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Laser Lightcraft Nanosatellites", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1011-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Released PDF is 77 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
@@ -28498,7 +28498,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2010-11-01'
       },
       {
@@ -28508,7 +28508,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF) (Wayback 2025-10-22)',
-        url: 'https://web.archive.org/web/20251022195407/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://web.archive.org/web/20251022195407/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2025-10-22'
       },
       {
@@ -28549,17 +28549,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-017. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
@@ -28580,7 +28580,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2010-03-30'
       },
       {
@@ -28590,7 +28590,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072658/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://web.archive.org/web/20250319072658/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2025-03-19'
       },
       {
@@ -28631,17 +28631,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "MHD Air Breathing Propulsion and Power for Aerospace Applications", series "Defense Futures", published 2010-11-21 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
@@ -28656,13 +28656,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Also held in the DIA FOIA Electronic Reading Room as a 32-page released document.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2010-11-21'
       },
       {
@@ -28672,7 +28672,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF) (Wayback 2026-01-16)',
-        url: 'https://web.archive.org/web/20260116164255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://web.archive.org/web/20260116164255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2026-01-16'
       },
       {
@@ -28708,17 +28708,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Negative Mass Propulsion", series "Defense Futures", published 2011-01-03 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1101-023. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
@@ -28733,13 +28733,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Administrative note: \'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\' Held in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — Negative Mass Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2011-01-03'
       },
       {
@@ -28749,7 +28749,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Negative Mass Propulsion (PDF) (Wayback 2025-03-27)',
-        url: 'https://web.archive.org/web/20250327231922/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://web.archive.org/web/20250327231922/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2025-03-27'
       },
       {
@@ -28785,17 +28785,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Positron Aerospace Propulsion", series "Acquisition Threat Support", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
@@ -28816,7 +28816,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Positron Aerospace Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2010-03-02'
       },
       {
@@ -28826,7 +28826,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Positron Aerospace Propulsion (PDF) (Wayback 2025-11-15)',
-        url: 'https://web.archive.org/web/20251115121023/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://web.archive.org/web/20251115121023/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2025-11-15'
       },
       {
@@ -28867,17 +28867,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Pulsed High-Power Microwave Source Technology", series "Acquisition Threat Support", published 2010-01-28 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0912-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
@@ -28903,7 +28903,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Pulsed High-Power Microwave Source Technology (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/',
         date: '2010-01-28'
       },
       {
@@ -28913,7 +28913,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Pulsed High-Power Microwave Source Technology (PDF) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312120226/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/',
+        url: 'https://web.archive.org/web/20250312120226/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/',
         date: '2025-03-12'
       },
       {
@@ -28959,17 +28959,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Quantum Computing and Utilizing Organic Molecules in Automation Technology", series "Defense Futures", published 2010-12-10 with an Intelligence Cut-Off Date (ICOD) of 2010-12-10, DIA document number DIA-08-1102-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
@@ -28990,7 +28990,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Quantum Computing and Utilizing Organic Molecules in Automation Technology (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2010-12-10'
       },
       {
@@ -29000,7 +29000,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Quantum Computing and Utilizing Organic Molecules in Automation Technology (PDF) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081439/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://web.archive.org/web/20250317081439/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2025-03-17'
       },
       {
@@ -29041,17 +29041,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Quantum Tomography of Negative Energy States in the Vacuum", series "Defense Futures", published 2011-01-11 with an Intelligence Cut-Off Date (ICOD) of 2010-08-10, DIA document number DIA-08-1102-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
@@ -29072,7 +29072,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Quantum Tomography of Negative Energy States in the Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2011-01-11'
       },
       {
@@ -29082,7 +29082,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Quantum Tomography of Negative Energy States in the Vacuum (PDF) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081444/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://web.archive.org/web/20250317081444/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2025-03-17'
       },
       {
@@ -29093,11 +29093,6 @@ export const DOCUMENTS = [
       {
         name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
-        date: null
-      },
-      {
-        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: null
       },
       { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
@@ -29128,17 +29123,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Space Access: Where We\'ve Been and Where We Could Go", series "Acquisition Threat Support", published 2010-03-08 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1001-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 2,
@@ -29164,7 +29159,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Space Access: Where We\'ve Been and Where We Could Go (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2010-03-08'
       },
       {
@@ -29174,7 +29169,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Space Access: Where We\'ve Been and Where We Could Go (PDF) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131330/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://web.archive.org/web/20250311131330/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2025-03-11'
       },
       {
@@ -29214,17 +29209,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "State of the Art and Evolution of High-Energy Laser Weapons", series "Acquisition Threat Support", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 2,
@@ -29250,7 +29245,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — State of the Art and Evolution of High-Energy Laser Weapons (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/',
         date: '2010-03-31'
       },
       {
@@ -29260,7 +29255,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — State of the Art and Evolution of High-Energy Laser Weapons (PDF) (Wayback 2025-03-12)',
-        url: 'https://web.archive.org/web/20250312120228/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/',
+        url: 'https://web.archive.org/web/20250312120228/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/',
         date: '2025-03-12'
       },
       {
@@ -29305,17 +29300,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "The Role of Superconductors in Gravity Research", series "Acquisition Threat Support", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2010-12-01, DIA document number DIA-08-1003-013. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 2,
@@ -29341,7 +29336,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2010-03-23'
       },
       {
@@ -29351,7 +29346,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF) (Wayback 2025-07-10)',
-        url: 'https://web.archive.org/web/20250710022522/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://web.archive.org/web/20250710022522/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2025-07-10'
       },
       {
@@ -29362,11 +29357,6 @@ export const DOCUMENTS = [
       {
         name: 'Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf',
-        date: '2010-03-23'
-      },
-      {
-        name: 'DIA FOIA Electronic Reading Room — The Role of Superconductors in Gravity Research',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2010-03-23'
       },
       {
@@ -29401,17 +29391,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "The Space-Communication Implications of Quantum Entanglement and Nonlocality", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 2,
@@ -29432,7 +29422,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2010-03-30'
       },
       {
@@ -29442,7 +29432,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072822/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://web.archive.org/web/20250319072822/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2025-03-19'
       },
       {
@@ -29482,17 +29472,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Traversable Wormholes, Stargates, and Negative Energy", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 2,
@@ -29518,7 +29508,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2010-04-06'
       },
       {
@@ -29528,7 +29518,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF) (Wayback 2025-07-25)',
-        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://web.archive.org/web/20250725033255/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2025-07-25'
       },
       {
@@ -29578,17 +29568,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 2,
@@ -29614,7 +29604,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2010-11-01'
       },
       {
@@ -29624,7 +29614,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications (PDF) (Wayback 2025-05-15)',
-        url: 'https://web.archive.org/web/20250515130039/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://web.archive.org/web/20250515130039/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2025-05-15'
       },
       {
@@ -29664,17 +29654,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions", series "Acquisition Threat Support", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 2,
@@ -29700,7 +29690,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2010-04-02'
       },
       {
@@ -29710,7 +29700,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF) (Wayback 2026-04-28)',
-        url: 'https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://web.archive.org/web/20260428015146/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2026-04-28'
       },
       {
@@ -29765,17 +29755,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces", series "Acquisition Threat Support", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-012. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 2,
@@ -29801,7 +29791,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2010-03-23'
       },
       {
@@ -29811,7 +29801,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072706/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://web.archive.org/web/20250319072706/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2025-03-19'
       },
       {
@@ -38054,66 +38044,66 @@ export const EVENTS = [
       {
         tier: 1,
         text: '13 November 2008: DIA Talking Paper U-326-09 references \'the Director\'s meeting with Senator Reid on 13 November 2008\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: '05 January 2009: Talking Paper U-326-09 (dated 02 January 2009) prepared for \'Senator Reid Visit to [DIA], 05 January 2009\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: '15 May 2009: DIA Info Memo U-429-09 states the review of deliverables was requested \'during a 15 May 2009 meeting with you after your meeting with Senator Harry Reid\'. Talking Paper U-973-09 dated 04 May 2009 prepared for \'Senator Reid Visit to Director, DIA\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
         text: '19 November 2009: DIA Read Ahead for \'DIA visit with Senator Harry Reid\', 19 Nov 09, 1645, \'Capitol, Senate Visitor Center, SVC-217\', attendees including DEPSECDEF. Purpose: to address Reid\'s SAP request and \'the quality and value of the products produced thus far under the current contract\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/'
       }
     ],
     sources: [
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2009-05-04'
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'Archived: DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release) (Wayback 2025-03-09)',
-        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://web.archive.org/web/20250309023844/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2025-03-09'
       },
       {
         name: 'Archived: DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release) (Wayback 2025-03-19)',
-        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://web.archive.org/web/20250319072831/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2025-03-19'
       },
       {
         name: 'Archived: DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release) (Wayback 2025-03-10)',
-        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://web.archive.org/web/20250310024204/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2025-03-10'
       },
       {
         name: 'Archived: DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release) (Wayback 2025-03-17)',
-        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2025-03-17'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/', date: null }
     ]
   },
   {
