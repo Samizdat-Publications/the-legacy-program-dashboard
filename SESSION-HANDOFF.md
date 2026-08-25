@@ -1,5 +1,9 @@
 # Session handoff — The Program
 
+> **SUPERSEDED, 24 August 2026.** Read `CLAUDE.md` first — it is the authoritative entry
+> point and carries current counts, the build order, the gate and the priority queue.
+> This file is preserved as the record of the 13 August handoff. Its counts are stale.
+
 **Updated 13 August 2026.** Supersedes the cloud-session handoff of 12 August, which is
 preserved as `notes/SESSION-HANDOFF-2026-08-12-cloud.md`. Its counts are stale; ignore them.
 

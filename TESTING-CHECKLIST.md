@@ -1,10 +1,19 @@
 # The Program — QA pass
 
-**This is the first job of the local session.** Open `dist/the-program.html` by
+**Historical framing, still-useful checklist.** Written as the first job of the 13 August
+local session; §12 source spot-checks were never started and remain outstanding.
+Open `dist/the-program.html` by
 double-clicking it. Work through this in a real browser. Click real things.
 
-Skip everything marked **[ANALYST]** — no API key yet, and the scripted no-key mode is
-already working as designed.
+Skip everything marked **[ANALYST]** — no API key yet.
+
+> **CORRECTION, 24 August 2026.** This section used to say the scripted no-key mode was
+> "already working as designed". It was not. `scriptedReply()` had been inherited from the
+> sibling board with a single string swapped, so a reader with no API key was answered
+> about JPL headcount and two missing scientists — confidently, at length, with real
+> figures, from a different project. Rewritten and now covered by
+> `tools/test_scripted_analyst.mjs`. **Do not skip the analyst rows on the assumption they
+> are fine.** See `notes/ANALYST-NOKEY-2026-08-24.md`.
 
 Log findings as: **`#n · severity · view · what you did · what happened · what should have
 happened`**. Severity is `BROKEN` (unusable or wrong data) · `UGLY` (works, looks bad) ·

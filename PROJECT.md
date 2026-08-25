@@ -6,7 +6,11 @@ disclosure movement. 1940s through August 2026.
 
 **Started:** 12 August 2026, in a Cowork cloud session
 **Owner:** Stewart
-**Repo:** sits inside `Samizdat-Publications/the-vanishing` (branch `master`) as `the-program/`
+**Repo:** `Samizdat-Publications/the-legacy-program-dashboard` (private), branch `master`.
+Its own repository since 13 August 2026. It no longer sits inside `the-vanishing`.
+
+> **This file is historical.** It records how the project started. For current state,
+> rules and priorities read `CLAUDE.md`, which is authoritative where the two disagree.
 
 ---
 
