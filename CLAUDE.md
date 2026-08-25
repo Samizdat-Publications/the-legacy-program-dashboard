@@ -264,14 +264,29 @@ Two were found on 24 August by accident, while looking for something else.
    change to `ref/`** -- it is four lines of Python and it found what six sessions of
    reading did not.
 
-3. **The last 23 unsourced edges are an ACCESS problem, not a research problem.**
-   `edge_without_source` went 117 to 23 on 25 August; 98.9% of edges now carry a source.
-   What remains is blocked by which hosts answer this environment, and the table in
-   `notes/SOURCING-2026-08-25.md` says which. **Read that table before planning a
-   sourcing pass** - most importantly, `web.archive.org` is unreachable from here
-   entirely, so the board's many Wayback source URLs cannot be verified from this
-   environment and the usual fallback for a 403 does not exist. A session on a
-   different network vantage would clear most of the 23 in an hour.
+3. ~~**The last 23 unsourced edges are an ACCESS problem, not a research problem.**~~
+   **DONE, 25 August 2026, and the diagnosis was wrong.** They were not an access
+   problem. `norm_source()` in `merge.py` silently discarded any source written as a
+   bare string, and 732 sources across `research/` went that way -- 236 unique URLs, 76
+   of which reached the board by no other route. Several sat on exactly those 23 edges,
+   so a previous pass recorded them as UNSOURCED and went hunting for citations that
+   were already in the file. **All 2,159 edges now carry a source.**
+
+   That fix then exposed something worse, and it is the reason to read
+   `notes/EDGE-TIERS-2026-08-25.md` before touching tiers: `remediate_tiers()` walks
+   people and entities, and **edges were never in it**. Edge `claimTier` was whatever
+   the research authored, merged by `min()`, audited by nothing, while rendering to the
+   reader as "Tier 1 - documented". 93 edges held that grade on a Wikipedia article, a
+   YouTube video or a blogspot post. 91 are now Tier 2; two gained the real document.
+   A self-tested gate check and `edge_tiers` in the golden manifest stop it recurring.
+
+   **The access facts in `notes/SOURCING-2026-08-25.md` still hold and still matter.**
+   `web.archive.org` is unreachable from this environment entirely, so the board's many
+   Wayback URLs cannot be verified from here and the usual fallback for a 403 does not
+   exist. `govinfo.gov`, `archive.org` (including `archive.org/details/DTIC_*`, the
+   Defense Technical Information Center mirror), `theblackvault.com` and `irp.fas.org`
+   all answer. `dia.mil` and `aaro.mil` refuse curl but serve WebFetch. The govinfo
+   search API answers with `DEMO_KEY` and rate-limits after roughly a dozen queries.
 
 4. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
    stated reason. Cap is 16, so there are 2 slots. **The table is built and waiting for

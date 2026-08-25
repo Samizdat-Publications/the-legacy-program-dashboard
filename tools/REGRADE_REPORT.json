@@ -17,7 +17,7 @@
    "from": "B",
    "to": "A",
    "score": 79.0,
-   "rank": 45,
+   "rank": 46,
    "degree": 13,
    "program_edges": 1,
    "denials": 4
@@ -71,8 +71,8 @@
    "cls": "person",
    "from": "B",
    "to": "A",
-   "score": 49.0,
-   "rank": 132,
+   "score": 53.0,
+   "rank": 123,
    "degree": 5,
    "program_edges": 0,
    "denials": 0

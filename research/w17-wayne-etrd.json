@@ -1,0 +1,43 @@
+{
+ "domain": "w17-wayne-etrd",
+ "_why": "Settles the open question w14-lasvegas-wayne-edges.json raised: whether Kit Green or Richard Genik directed Wayne State's Emergent Technology Research Division. It was never a conflict. The two men held DIFFERENT titles in SEQUENCE, and Wayne State's own School of Medicine news office says both, in two items the board already cites.\n\nGreen, 2 April 2009: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' His current assignment at that date is given in the same item: 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine'.\n\nGenik, 13 July 2009: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine, was one of 15 experts selected by the U.S. Army...'\n\nSo: Green was EXECUTIVE DIRECTOR and had already left the role by April 2009; Genik was DIRECTOR by July 2009. The w7-wayne-state dossier's reading -- 'Genik directed the Emergent Technology Research Division that Green's role had seeded' -- is correct and is now sourced on both ends.\n\nACCESS NOTE, because it contradicts an earlier session. today.wayne.edu answers this environment now; it did not on an earlier pass and was recorded as blocked. med.wayne.edu still fails, but on a certificate mismatch rather than a 503 -- 'no alternative certificate subject name matches target host name'. Both pages here were opened and read in full.\n\nWhat is still NOT established, and stays an open question: the dates Green held the executive directorship, and whether either man's AAWSAP work ran through the division's budget rather than as private consulting.",
+ "people": [
+  {
+   "id": "kit-green",
+   "sources": [
+    {
+     "name": "Wayne State University School of Medicine News, 'Chinese Academy of Sciences apppoints Dr. Green as professor', 2 April 2009",
+     "url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
+     "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+    },
+    {
+     "tier": 2,
+     "text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
+     "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+    }
+   ]
+  },
+  {
+   "id": "richard-genik",
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
+     "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 2,
+     "text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
+     "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    }
+   ]
+  }
+ ]
+}

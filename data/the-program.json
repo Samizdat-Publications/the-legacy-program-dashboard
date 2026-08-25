@@ -1334,7 +1334,7 @@
     "Wayne State University School of Medicine, Departments of Diagnostic Radiology and Psychiatry & Behavioral Neurosciences",
     "Institute for Advanced Studies at Austin / AAWSAP DIRD author (2009-2010)"
    ],
-   "tierRationale": "Re-graded A on a global pass (rank 46 of 956, score 78). 12 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 40 of 956, score 82). 12 connections, 4 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
    "chronology": [
     {
      "date": "1969",
@@ -1487,6 +1487,16 @@
      "tier": 2,
      "text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
      "source": "Christopher Green to Tim McMillan, Popular Mechanics, 14 February 2020"
+    },
+    {
+     "tier": 2,
+     "text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
+     "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+    },
+    {
+     "tier": 2,
+     "text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
+     "source": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
     }
    ],
    "sources": [
@@ -1564,6 +1574,11 @@
      "name": "DIA letter to Steven Aftergood listing 38 AATIP reference products",
      "url": "https://irp.fas.org/dia/aatip-list.pdf",
      "date": "2019-01-16"
+    },
+    {
+     "name": "Wayne State University School of Medicine News, 'Chinese Academy of Sciences apppoints Dr. Green as professor', 2 April 2009",
+     "url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+     "date": "2026-08-25"
     }
    ],
    "conflicts": [
@@ -1588,7 +1603,8 @@
     "aawsap-aatip",
     "history-1970s-2000s",
     "primes-custody",
-    "scientists-technical"
+    "scientists-technical",
+    "w17-wayne-etrd"
    ]
   },
   {
@@ -25455,6 +25471,148 @@
    ]
   },
   {
+   "id": "richard-genik",
+   "cls": "person",
+   "label": "Richard J. Genik II",
+   "status": "active",
+   "date": "2010-12-15",
+   "age": null,
+   "loc": null,
+   "locId": null,
+   "instId": null,
+   "sub": "Wayne State University School of Medicine; author of three DIRDs including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft' (DIA-08-1101-001)",
+   "cluster": "other",
+   "tier": "A",
+   "C": 1,
+   "A": 2,
+   "D": 3,
+   "domains": [],
+   "narrative": "Richard Genik wrote three of the thirty-eight DIRDs, more than anyone except Eric Davis, and all three are human-factors papers rather than physics papers. The DIA list credits him with \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (item 20, released as \"Technological Approaches to...\"), \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\" (item 28), and \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\" (item 33). His affiliation on the list is Wayne State University, which is where the human-effects strand of AAWSAP concentrated.\n\nThat concentration is the reason he matters to this board. Wayne State is also the institution the DIA list gives for Christopher \"Kit\" Green, author of the field-effects-on-biological-tissues DIRD. Two of the thirty-eight papers, and three counting Genik's second and third, were written inside one medical school, and the human-effects line of AAWSAP inquiry runs through it. Genik is a physicist by training, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State, working in a psychiatry and behavioural neurosciences department on functional MRI measurement of cognitive workload in naturalistic multitasking environments. He directs Wayne State's Emergent Technology Research Division. He was one of fifteen experts selected by the US Army to advise on how the service should direct its neuroscience research funding over a twenty-year horizon.\n\nHis DIRD on limb-independent device control is DIA-08-1003-012, dated 23 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. In substance it is a brain-machine interface survey; the KLAS-TV list of the same document, published July 2018, titles it simply \"Brain-Machine Interfaces.\" That is the shortest description of what AAWSAP wanted from Wayne State: a forecast of how a pilot might fly something without hands.\n\nGenik has no documented custody proximity and no documented special access. He is wired here as an author and as the connective tissue between the DIRD series and the Wayne State human-effects cluster.",
+   "affiliations": [],
+   "tierRationale": "Re-graded A on a global pass (rank 123 of 956, score 53). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+   "chronology": [],
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
+     "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 2,
+     "text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
+     "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 1,
+     "text": "The DIA letter of 9 January 2018 attributes three DIRDs to 'Dr R Genik, Wayne State Univ', including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft.'",
+     "source": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The released DIRD bears document number DIA-08-1101-001, publication date 15 December 2010 and Intelligence Cut-Off Date 8 September 2010, in the 'Defense Futures' series.",
+     "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Richard J. Genik II, Ph.D., was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army to advise on two decades of neuroscience research funding.",
+     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 2,
+     "text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
+     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
+    },
+    {
+     "tier": 1,
+     "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', affiliation Wayne State University.",
+     "source": "https://irp.fas.org/dia/aatip-list.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Named on the same DIA list as author of item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces', affiliation Wayne State University — making him a multi-deliverable AAWSAP contributor.",
+     "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+    },
+    {
+     "tier": 2,
+     "text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
+     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 2,
+     "text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
+     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
+    },
+    {
+     "tier": 2,
+     "text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
+     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
+    },
+    {
+     "tier": 2,
+     "text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
+     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+    },
+    {
+     "tier": 1,
+     "text": "The released DIRD cover page carries \"Author: [redacted (b)(6)]\" and the administrative note \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency Advanced Aerospace Weapon System Applications (AAWSA) Program.\"",
+     "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "https://irp.fas.org/dia/aatip-list.pdf",
+     "url": "https://irp.fas.org/dia/aatip-list.pdf",
+     "date": null
+    },
+    {
+     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+     "date": null
+    },
+    {
+     "name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
+     "date": null
+    },
+    {
+     "name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+     "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+     "date": null
+    },
+    {
+     "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
+     "date": null
+    },
+    {
+     "name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
+     "date": null
+    },
+    {
+     "name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+     "url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+     "date": null
+    },
+    {
+     "name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
+     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
+     "date": "2010-03-23"
+    }
+   ],
+   "conflicts": [],
+   "unverified": [],
+   "sequenceChain": [],
+   "unexplainedResidual": null,
+   "photoCredit": null,
+   "_domains": [
+    "w17-wayne-etrd",
+    "w7-dirds-2",
+    "w7-dirds-3",
+    "w7-dirds-4"
+   ]
+  },
+  {
    "id": "aaron-lukas",
    "cls": "person",
    "label": "Aaron Lukas",
@@ -30236,137 +30394,6 @@
    ]
   },
   {
-   "id": "richard-genik",
-   "cls": "person",
-   "label": "Richard J. Genik II",
-   "status": "active",
-   "date": "2010-12-15",
-   "age": null,
-   "loc": null,
-   "locId": null,
-   "instId": null,
-   "sub": "Wayne State University School of Medicine; author of three DIRDs including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft' (DIA-08-1101-001)",
-   "cluster": "research",
-   "tier": "A",
-   "C": 1,
-   "A": 2,
-   "D": 3,
-   "domains": [],
-   "narrative": "Richard Genik wrote three of the thirty-eight DIRDs, more than anyone except Eric Davis, and all three are human-factors papers rather than physics papers. The DIA list credits him with \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (item 20, released as \"Technological Approaches to...\"), \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft\" (item 28), and \"Quantum Computing and Utilizing Organic Molecules in Automation Technology\" (item 33). His affiliation on the list is Wayne State University, which is where the human-effects strand of AAWSAP concentrated.\n\nThat concentration is the reason he matters to this board. Wayne State is also the institution the DIA list gives for Christopher \"Kit\" Green, author of the field-effects-on-biological-tissues DIRD. Two of the thirty-eight papers, and three counting Genik's second and third, were written inside one medical school, and the human-effects line of AAWSAP inquiry runs through it. Genik is a physicist by training, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State, working in a psychiatry and behavioural neurosciences department on functional MRI measurement of cognitive workload in naturalistic multitasking environments. He directs Wayne State's Emergent Technology Research Division. He was one of fifteen experts selected by the US Army to advise on how the service should direct its neuroscience research funding over a twenty-year horizon.\n\nHis DIRD on limb-independent device control is DIA-08-1003-012, dated 23 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. In substance it is a brain-machine interface survey; the KLAS-TV list of the same document, published July 2018, titles it simply \"Brain-Machine Interfaces.\" That is the shortest description of what AAWSAP wanted from Wayne State: a forecast of how a pilot might fly something without hands.\n\nGenik has no documented custody proximity and no documented special access. He is wired here as an author and as the connective tissue between the DIRD series and the Wayne State human-effects cluster.",
-   "affiliations": [],
-   "tierRationale": "Re-graded A on a global pass (rank 132 of 956, score 49). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
-   "chronology": [],
-   "claims": [
-    {
-     "tier": 1,
-     "text": "The DIA letter of 9 January 2018 attributes three DIRDs to 'Dr R Genik, Wayne State Univ', including 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft.'",
-     "source": "https://irp.fas.org/dia/aatip-list.pdf"
-    },
-    {
-     "tier": 1,
-     "text": "The released DIRD bears document number DIA-08-1101-001, publication date 15 December 2010 and Intelligence Cut-Off Date 8 September 2010, in the 'Defense Futures' series.",
-     "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf"
-    },
-    {
-     "tier": 1,
-     "text": "Richard J. Genik II, Ph.D., was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine, and was one of fifteen experts selected by the US Army to advise on two decades of neuroscience research funding.",
-     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
-    },
-    {
-     "tier": 2,
-     "text": "Wayne State University accounts for four of the thirty-eight DIRDs across two authors - Genik's three and Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International.",
-     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
-    },
-    {
-     "tier": 1,
-     "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of 'Quantum Computing and Utilizing Organic Molecules in Automation Technology', affiliation Wayne State University.",
-     "source": "https://irp.fas.org/dia/aatip-list.pdf"
-    },
-    {
-     "tier": 1,
-     "text": "Named on the same DIA list as author of item 20, 'Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces', affiliation Wayne State University — making him a multi-deliverable AAWSAP contributor.",
-     "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
-    },
-    {
-     "tier": 2,
-     "text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
-     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
-    },
-    {
-     "tier": 2,
-     "text": "The DIA letter of 9 January 2018 lists item 20 as \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\"",
-     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
-    },
-    {
-     "tier": 2,
-     "text": "The same DIA list credits Genik with two further DIRDs: item 28, \"Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft,\" and item 33, \"Quantum Computing and Utilizing Organic Molecules in Automation Technology.\" Three of the thirty-eight DIRDs are his.",
-     "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
-    },
-    {
-     "tier": 2,
-     "text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
-     "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
-    },
-    {
-     "tier": 1,
-     "text": "The released DIRD cover page carries \"Author: [redacted (b)(6)]\" and the administrative note \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency Advanced Aerospace Weapon System Applications (AAWSA) Program.\"",
-     "source": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf"
-    }
-   ],
-   "sources": [
-    {
-     "name": "https://irp.fas.org/dia/aatip-list.pdf",
-     "url": "https://irp.fas.org/dia/aatip-list.pdf",
-     "date": null
-    },
-    {
-     "name": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
-     "url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
-     "date": null
-    },
-    {
-     "name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
-     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf",
-     "date": null
-    },
-    {
-     "name": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
-     "url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
-     "date": null
-    },
-    {
-     "name": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
-     "url": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
-     "date": null
-    },
-    {
-     "name": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
-     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf",
-     "date": null
-    },
-    {
-     "name": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
-     "url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
-     "date": null
-    },
-    {
-     "name": "Defense Intelligence Reference Document, \"Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces\" (The Black Vault FOIA release)",
-     "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf",
-     "date": "2010-03-23"
-    }
-   ],
-   "conflicts": [],
-   "unverified": [],
-   "sequenceChain": [],
-   "unexplainedResidual": null,
-   "photoCredit": null,
-   "_domains": [
-    "w7-dirds-2",
-    "w7-dirds-3",
-    "w7-dirds-4"
-   ]
-  },
-  {
    "id": "george-hathaway",
    "cls": "person",
    "label": "George D. Hathaway",
@@ -31990,7 +32017,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 44 of 956, score 79). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 45 of 956, score 79). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.",
    "claims": [
     {
      "tier": 2,
@@ -33392,7 +33419,7 @@
    "dateEnd": "2023",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 45 of 956, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 46 of 956, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -40930,7 +40957,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 40 of 956, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
+   "tierRationale": "Re-graded A on a global pass (rank 41 of 956, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.",
    "claims": [
     {
      "tier": 1,
@@ -42082,7 +42109,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 41 of 956, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 42 of 956, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.",
    "claims": [
     {
      "tier": 1,
@@ -44167,7 +44194,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 43 of 956, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 44 of 956, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -46114,7 +46141,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 124 of 956, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
+   "tierRationale": "Re-graded A on a global pass (rank 125 of 956, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -49992,7 +50019,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 125 of 956, score 51). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 126 of 956, score 51). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -50078,7 +50105,7 @@
    "dateEnd": "2024",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 128 of 956, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+   "tierRationale": "Re-graded A on a global pass (rank 129 of 956, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -51543,7 +51570,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 42 of 956, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 43 of 956, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -53939,7 +53966,7 @@
    "dateEnd": "2013",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 126 of 956, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 127 of 956, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -54548,7 +54575,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 129 of 956, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+   "tierRationale": "Re-graded A on a global pass (rank 130 of 956, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -54752,7 +54779,7 @@
    "dateEnd": "2021",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 123 of 956, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 124 of 956, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
    "claims": [
     {
      "tier": 2,
@@ -61564,7 +61591,7 @@
    "dateEnd": "1975",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 130 of 956, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 131 of 956, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -61654,7 +61681,7 @@
    "dateEnd": "1981",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 131 of 956, score 50). 9 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+   "tierRationale": "Re-graded A on a global pass (rank 132 of 956, score 50). 9 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
    "claims": [
     {
      "tier": 1,
@@ -68633,7 +68660,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded A on a global pass (rank 127 of 956, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
+   "tierRationale": "Re-graded A on a global pass (rank 128 of 956, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.",
    "claims": [
     {
      "tier": 1,
