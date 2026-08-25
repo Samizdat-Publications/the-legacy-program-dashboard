@@ -237,6 +237,31 @@ def _chain_shape(b, html):
     return bad[:40]
 
 
+@check("no edge note leaks build bookkeeping")
+def _edge_note_bookkeeping(b, html):
+    """An edge note renders in the dock. A reader gets it as the board's statement of
+    what the edge asserts, so it must say only that.
+
+    Collapse re-pointing wrote its own provenance into the notes it re-pointed --
+    "[Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]" and similar.
+    That is editing history, not an assertion about the world, and twelve of them
+    shipped to readers. They were stripped by hand once before and came back,
+    because two of the three collapse files were missed and nothing looked again.
+
+    The provenance is not lost: it lives in research/*-collapse.json and in
+    notes/DUPLICATES-2026-08-22.md, which is where a reader who wants the editing
+    history should find it."""
+    pat = re.compile(r"\[Re-pointed from|collapsed duplicate|Board bookkeeping", re.I)
+    bad = []
+    for e in b["edges"]:
+        note = e.get("note") or ""
+        m = pat.search(note)
+        if m:
+            bad.append(f"edge {e.get('a')}->{e.get('b')} ({e.get('type')}) "
+                       f"note carries build bookkeeping: {m.group(0)!r}")
+    return bad[:40]
+
+
 @check("claim tiers are valid and Tier 1 is sourced")
 def _claims(b, html):
     """Credibility rule: no claim renders without a confidence treatment, and Tier 1
@@ -708,6 +733,9 @@ def self_test():
             b["entities"].append({"id": "e-twin", "cls": b["entities"][0]["cls"],
                                   "label": "Twin Report", "claims": [],
                                   "sources": [{"url": "https://example.gov/twin.pdf"}]}))),
+        "no edge note leaks build bookkeeping": mut(lambda b: b["edges"].append(
+            {"a": "a-b", "b": "a-b", "type": "custody",
+             "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
         "UI copy agrees with the data": base,   # paired with a poisoned html below
