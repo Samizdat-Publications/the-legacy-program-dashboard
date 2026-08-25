@@ -30307,6 +30307,92 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'us-navy',
+    b: 'nimitz-2004',
+    type: 'institutional',
+    label: 'Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that \'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos\' and releasing them \'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real\'. The Department\'s own characterisation of what they show has not moved: \'The aerial phenomena observed in the videos remain characterized as unidentified.\'',
+    sources: [
+      {
+        name: 'Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020',
+        url: 'https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
+        date: '2020-04-27'
+      }
+    ]
+  },
+  {
+    a: 'us-navy',
+    b: 'roosevelt-2014-2015',
+    type: 'institutional',
+    label: 'East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Two of the three videos the Department released in April 2020 are dated January 2015, and Graves\'s testimony places his squadron\'s encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: \'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis\'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.',
+    sources: [
+      {
+        name: 'Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020',
+        url: 'https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
+        date: '2020-04-27'
+      },
+      {
+        name: 'Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023',
+        url: 'https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'us-navy',
+    b: 'uap-task-force',
+    type: 'institutional',
+    label: 'Navy designated lead service for the UAP Task Force',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: '\'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)\' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was \'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security\'. The task force was disestablished two years later on the Deputy Secretary\'s direction when AARO stood up.',
+    sources: [
+      {
+        name: 'U.S. Navy press release, \'Establishment of Unidentified Aerial Phenomena Task Force\', 14 August 2020',
+        url: 'https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/',
+        date: '2020-08-14'
+      }
+    ]
+  },
+  {
+    a: 'us-navy',
+    b: 'ryan-graves',
+    type: 'witness-chain',
+    label: 'Navy F/A-18F pilot turned first active-duty-era witness before Congress',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'In his own words: \'My name is Ryan "FOBS" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.\' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states \'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters\', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.',
+    sources: [
+      {
+        name: 'Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023',
+        url: 'https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'marik-von-rennenkampff',
+    b: 'sol-foundation',
+    type: 'institutional',
+    label: 'delivers the monthly Sol Briefing; authors Sol policy briefings',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper \'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security\', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation\'s public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.',
+    sources: [
+      { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-25' }
+    ]
+  },
+  {
     a: 'trump-truth-social-post-2026-02-20',
     b: 'pete-hegseth',
     type: 'programmatic',
@@ -39381,50 +39467,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'us-navy',
-    b: 'uap-task-force',
-    type: 'institutional',
-    label: 'Navy designated lead service for the UAP Task Force',
-    claimTier: 1,
-    dateStart: '2020-08-04',
-    dateEnd: null,
-    note: 'Deputy Secretary of Defense David L. Norquist approved establishment of the UAP Task Force on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Under Secretary of Defense for Intelligence and Security. The Navy therefore owned the institutional predecessor to AOIMSG and AARO.',
-    sources: []
-  },
-  {
-    a: 'us-navy',
-    b: 'nimitz-2004',
-    type: 'institutional',
-    label: 'Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video',
-    claimTier: 1,
-    dateStart: '2004-11-14',
-    dateEnd: null,
-    note: 'The November 2004 encounters involved aircrew and sensors of the USS Nimitz Carrier Strike Group. DoD authorized release of the unclassified Navy video \'taken in November 2004\' through the Naval Air Systems Command FOIA reading room on 27 April 2020, stating the aerial phenomena in the videos \'remain characterized as unidentified.\' The DoD statement itself dates the video but does not name the strike group.',
-    sources: []
-  },
-  {
-    a: 'us-navy',
-    b: 'roosevelt-2014-2015',
-    type: 'institutional',
-    label: 'East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew',
-    claimTier: 1,
-    dateStart: '2014-01-01',
-    dateEnd: null,
-    note: 'The 2014-2015 Atlantic training-range encounters were reported by U.S. Navy F/A-18F aircrew from squadrons working up with and deployed aboard the USS Theodore Roosevelt, as described in Ryan Graves\' congressional testimony. DoD separately authorized release of two unclassified Navy videos \'taken in January 2015\' via the NAVAIR FOIA reading room on 27 April 2020, stating the phenomena \'remain characterized as unidentified.\'',
-    sources: []
-  },
-  {
-    a: 'us-navy',
-    b: 'ryan-graves',
-    type: 'witness-chain',
-    label: 'Navy F/A-18F pilot turned first active-duty-era witness before Congress',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Graves is a former U.S. Navy F/A-18F pilot whose squadron logged repeated UAP encounters on the Atlantic training ranges; he carried that service experience into congressional testimony and into founding Americans for Safe Aerospace as a reporting channel for military and commercial aircrew.',
-    sources: []
-  },
-  {
     a: 'enigma-labs',
     b: 'pursue-releases',
     type: 'investigative',
@@ -39686,17 +39728,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2026-04-30',
     dateEnd: null,
     note: 'Von Rennenkampff is the named author of \'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,\' The Sol Foundation Science and Policy Briefings No. 3, April 2026.',
-    sources: []
-  },
-  {
-    a: 'marik-von-rennenkampff',
-    b: 'sol-foundation',
-    type: 'institutional',
-    label: 'delivers the monthly Sol Briefing; authors Sol policy briefings',
-    claimTier: 1,
-    dateStart: '2026-01-01',
-    dateEnd: null,
-    note: 'His Sol Foundation author note states: \'He delivers the Sol Briefing, the Sol Foundation\'s monthly update on UAP news, and has been a regular contributor to The Hill.\' He wrote Sol briefings No. 1 (January 2026) and No. 3 (April 2026).',
     sources: []
   },
   {
