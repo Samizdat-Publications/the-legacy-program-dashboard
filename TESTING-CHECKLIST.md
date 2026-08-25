@@ -2,6 +2,16 @@
 
 **Historical framing, still-useful checklist.** Written as the first job of the 13 August
 local session; §12 source spot-checks were never started and remain outstanding.
+
+> **CORRECTION, 25 August 2026.** §0 used to assert the stats strip reads "ENTITIES 976 /
+> SOURCED LINKS 1788 / TIER A 146 / DOCUMENTED 59% of 4037 claims / DENIALS 172 / CUSTODY
+> 102", and told the tester that anything else means the build is wrong. Every one of those
+> six figures was stale, and the board is correct. A tester following the row would have
+> rebuilt a good board and then gone looking for a fault that was in this file. The row now
+> points at `tools/state_snapshot.py` and `tools/capture_strip.js`, which derive the
+> figures instead of remembering them. **This is the same class of defect as the inherited
+> analyst: a document that reads as authoritative and is answering about a board that no
+> longer exists.**
 Open `dist/the-program.html` by
 double-clicking it. Work through this in a real browser. Click real things.
 
@@ -24,9 +34,10 @@ Two things worth knowing before you start:
 - The board was verified headless at 1600×1000 and 2550×1465. **Anything a person does that
   a screenshot script does not — hovering, dragging, resizing, scrolling a long list,
   clicking twice, using the keyboard — is untested.** That is where the bugs are.
-- The board was ported from a design tuned for **52 nodes**. It now carries **976**. Where
-  something looks wrong, ask whether it is broken or merely never designed for this scale.
-  Both are worth logging; they get fixed differently.
+- The board was ported from a design tuned for **52 nodes**. It now carries roughly a
+  thousand — run `python3 tools/state_snapshot.py` for the current count rather than
+  trusting this sentence. Where something looks wrong, ask whether it is broken or merely
+  never designed for this scale. Both are worth logging; they get fixed differently.
 
 ---
 
@@ -36,9 +47,20 @@ Two things worth knowing before you start:
       failure if offline. Open devtools and check.
 - [ ] Time from open to a settled map. Note it. It runs 1,600 layout steps before first paint.
 - [ ] Top bar reads `The Program`, `Program map live`, `PURSUE release 5 · 2026.08.07`.
-- [ ] Stats strip: ENTITIES 976 / SOURCED LINKS 1788 / TIER A 146 / DOCUMENTED 59% of 4037
-      claims / DENIALS 172 / CUSTODY 102. Anything else means the merge and the build
-      disagree — rebuild.
+- [ ] Stats strip agrees with the data. **Do not compare it against a number written in
+      this file.** Every figure here went stale within days the last time they were typed
+      in, and because the row above told the tester that a mismatch means "rebuild", a
+      stale checklist sends them to rebuild a board that was already correct. Instead:
+
+      ```
+      python3 tools/state_snapshot.py     # derives every figure from source
+      node    tools/capture_strip.js      # writes what the browser actually renders
+      cat     tools/runtime-strip.txt
+      ```
+
+      The two must agree with each other and with the screen. `tools/audit_independent.py`
+      asserts exactly this and will fail if they do not, so a green gate means this row is
+      already covered — check it by eye anyway, because that is what this file is for.
 - [ ] Resize the window from wide to ~900px and back. The four-row shell should never
       scroll as a whole; only the view surface scrolls.
 
