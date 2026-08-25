@@ -29937,6 +29937,261 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'andy-biggs',
+    b: 'david-grusch',
+    type: 'investigative',
+    label: 'pressed Grusch on Phoenix Lights and withheld information',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Biggs put the 1997 Phoenix Lights case to Grusch directly - \'I am going to take you to specific instances around the Phoenix Valley because that is where I live\' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: \'Only what is in the public vernacular about it. That was outside the scope of my duties.\'',
+    sources: [
+      {
+        name: 'House Oversight and Accountability Committee hearing, \'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency\', 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'andy-biggs',
+    b: 'uap-task-force',
+    type: 'investigative',
+    label: 'elicited Grusch\'s authorship of the UAPTF 2019 classification guide',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Asked by Biggs whether the 2019 classification guidelines interfere with the government\'s ability to be transparent, Grusch answered: \'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.\' Biggs: \'Uh-oh. You got a bias then.\' Grusch then characterised the practice rather than the guide - \'I will call it a lazy attitude about declassifying videos\'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.',
+    sources: [
+      {
+        name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'maxwell-frost',
+    b: 'nasa',
+    type: 'investigative',
+    label: 'questioned Administrator Nelson on UAP; pressed NASA\'s role at hearing',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Frost told the hearing: \'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.\' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.',
+    sources: [
+      {
+        name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'maxwell-frost',
+    b: 'ryan-graves',
+    type: 'investigative',
+    label: 'questioned Graves on scientific advisory board and NASA reporting',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Frost asked Graves two questions: \'can you discuss the importance of seeking scientists to sit on your advisory board?\' and \'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?\' Graves answered that this \'is going to be a scientific problem, and not only that, it is also an engineering problem\', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.',
+    sources: [
+      {
+        name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'andy-biggs',
+    b: 'hearing-2023-07-26',
+    type: 'legislative',
+    label: 'questioned witnesses at the 26 July 2023 UAP hearing',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.',
+    sources: [
+      {
+        name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'maxwell-frost',
+    b: 'hearing-2023-07-26',
+    type: 'legislative',
+    label: 'questioned witnesses at the 26 July 2023 UAP hearing',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Frost used his round on the scientific and stigma dimension: NASA\'s independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government\'s UAP work. He closed: \'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.\'',
+    sources: [
+      {
+        name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
+        date: '2023-07-26'
+      }
+    ]
+  },
+  {
+    a: 'klas-tv',
+    b: 'hearing-2025-09-09',
+    type: 'witness-chain',
+    label: 'Knapp testified as KLAS-TV chief investigative reporter',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Knapp opened his sworn statement: \'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.\' The witness list gives him as \'Mr. George Knapp, UAP Journalist\'; Chairwoman Luna\'s introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.',
+    sources: [
+      {
+        name: 'House Oversight Task Force on the Declassification of Federal Secrets hearing, \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection\', 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'pogo',
+    b: 'hearing-2025-09-09',
+    type: 'investigative',
+    label: 'POGO counsel testified at the UAP transparency hearing',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The transcript lists \'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight\'. His statement opens \'Chairwoman Luna, Ranking Member Crockett, and Task Force members\' and describes POGO as \'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.\' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.',
+    sources: [
+      {
+        name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'pogo',
+    b: 'anna-paulina-luna',
+    type: 'legislative',
+    label: 'POGO recommendations delivered to Luna\'s task force',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Spielberger\'s testimony is addressed to \'Chairwoman Luna, Ranking Member Crockett, and task force members\' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.',
+    sources: [
+      {
+        name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'klas-tv',
+    b: 'james-lacatski',
+    type: 'research',
+    label: 'Knapp co-authored two books with the AAWSAP originator',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Knapp named Lacatski on the record as one of the people he has interviewed: \'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.\'',
+    sources: [
+      {
+        name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'klas-tv',
+    b: 'harry-reid',
+    type: 'investigative',
+    label: 'Knapp\'s Lazar/S-4 reporting opened a private channel to Reid',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he \'interviewed dozens of other people\' over the years, and named the list: \'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O\'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.\' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.',
+    sources: [
+      {
+        name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'klas-tv',
+    b: 'aawsap',
+    type: 'custody',
+    label: 'Knapp\'s Russian MoD documents handed to BAASS/DIA for AAWSAP analysis',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Knapp\'s custody allegation, made under oath: \'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow\'s company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.\' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has \'now shared with this Task Force\' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.',
+    sources: [
+      {
+        name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
+        date: '2025-09-09'
+      }
+    ]
+  },
+  {
+    a: 'public-substack',
+    b: 'hearing-2024-11-13',
+    type: 'witness-chain',
+    label: 'Founder Shellenberger testified as a hearing witness',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The transcript lists \'Mr. Michael Shellenberger, Founder of Public\' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens \'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees\' - a joint sitting of two subcommittees.',
+    sources: [
+      {
+        name: 'Joint House Oversight subcommittee hearing, \'Unidentified Anomalous Phenomena: Exposing the Truth\', 13 November 2024 (CHRG-118hhrg57440)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
+        date: '2024-11-13'
+      }
+    ]
+  },
+  {
+    a: 'public-substack',
+    b: 'immaculate-constellation',
+    type: 'investigative',
+    label: 'Published the whistleblower brief naming the program',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Shellenberger brought the Immaculate Constellation allegation to Congress, arguing \'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.\' The name appears seventeen times across the printed hearing.',
+    sources: [
+      {
+        name: 'Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
+        date: '2024-11-13'
+      }
+    ]
+  },
+  {
+    a: 'public-substack',
+    b: 'nancy-mace',
+    type: 'investigative',
+    label: 'Immaculate Constellation document hosted on Mace\'s House site',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The hearing\'s own index of documents records the route the material took into the record: \'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.\' Mace chaired the sitting - Shellenberger\'s statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.',
+    sources: [
+      {
+        name: 'Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
+        date: '2024-11-13'
+      }
+    ]
+  },
+  {
     a: 'william-b-adkins',
     b: 'cia',
     type: 'institutional',
@@ -39072,17 +39327,6 @@ export const PROGRAM_EDGES = [
   },
   {
     a: 'pogo',
-    b: 'hearing-2025-09-09',
-    type: 'investigative',
-    label: 'POGO counsel testified at the UAP transparency hearing',
-    claimTier: 1,
-    dateStart: '2025-09-09',
-    dateEnd: null,
-    note: 'Joe Spielberger, senior policy counsel at the Project On Government Oversight, was a witness at the 9 September 2025 hearing \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.\' His written testimony argued that national security whistleblowers -- the category David Grusch and the military witnesses fall into -- lack an independent enforcement mechanism and are uniquely exposed to clearance-based retaliation.',
-    sources: []
-  },
-  {
-    a: 'pogo',
     b: 'house-oversight-committee',
     type: 'institutional',
     label: 'Outside watchdog seated as witness before Oversight\'s declassification task force',
@@ -39090,17 +39334,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2025-09-09',
     dateEnd: null,
     note: 'POGO appeared before the House Committee on Oversight and Government Reform\'s Task Force on the Declassification of Federal Secrets, and used the appearance to recommend statutory changes (overturning Navy v. Egan, independent adjudication for IC and military whistleblowers) that bear directly on the committee\'s UAP inquiry.',
-    sources: []
-  },
-  {
-    a: 'pogo',
-    b: 'anna-paulina-luna',
-    type: 'legislative',
-    label: 'POGO recommendations delivered to Luna\'s task force',
-    claimTier: 2,
-    dateStart: '2025-09-09',
-    dateEnd: null,
-    note: 'Spielberger\'s testimony is addressed to \'Chairwoman Luna, Ranking Member Crockett, and task force members\' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.',
     sources: []
   },
   {
@@ -39313,83 +39546,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'public-substack',
-    b: 'immaculate-constellation',
-    type: 'investigative',
-    label: 'Published the whistleblower brief naming the program',
-    claimTier: 1,
-    dateStart: null,
-    dateEnd: null,
-    note: 'Public, Michael Shellenberger\'s Substack news outlet, published the story alleging the DoD runs an \'active and highly secretive Unacknowledged Special Access Program\' called Immaculate Constellation, based on a whistleblower brief supplied to the House Oversight Committee. NPR\'s contemporaneous hearing report links directly to the Public story.',
-    sources: []
-  },
-  {
-    a: 'public-substack',
-    b: 'hearing-2024-11-13',
-    type: 'witness-chain',
-    label: 'Founder Shellenberger testified as a hearing witness',
-    claimTier: 1,
-    dateStart: '2024-11-13',
-    dateEnd: null,
-    note: 'Michael Shellenberger, founder of Public, was one of four witnesses at the 13 November 2024 joint House Oversight subcommittee hearing \'Unidentified Anomalous Phenomena: Exposing the Truth\'. His written testimony ran to roughly 214 pages and pressed for UAP transparency legislation and defunding of undisclosed programs.',
-    sources: []
-  },
-  {
-    a: 'public-substack',
-    b: 'nancy-mace',
-    type: 'investigative',
-    label: 'Immaculate Constellation document hosted on Mace\'s House site',
-    claimTier: 1,
-    dateStart: '2024-11-13',
-    dateEnd: null,
-    note: 'Shellenberger shared the Immaculate Constellation whistleblower document with lawmakers at the hearing chaired by Rep. Nancy Mace; the document was posted at mace.house.gov/immaculateconstellation. Mace questioned witnesses about the program by name during the hearing.',
-    sources: []
-  },
-  {
-    a: 'klas-tv',
-    b: 'hearing-2025-09-09',
-    type: 'witness-chain',
-    label: 'Knapp testified as KLAS-TV chief investigative reporter',
-    claimTier: 1,
-    dateStart: '2025-09-09',
-    dateEnd: null,
-    note: 'George Knapp, identifying himself in his statement for the record as \'Chief Investigative Reporter for KLAS-TV in Las Vegas\', testified under oath before the House Committee on Oversight and Accountability UAP Task Force hearing of 9 September 2025 chaired by Rep. Luna.',
-    sources: []
-  },
-  {
-    a: 'klas-tv',
-    b: 'harry-reid',
-    type: 'investigative',
-    label: 'Knapp\'s Lazar/S-4 reporting opened a private channel to Reid',
-    claimTier: 2,
-    dateStart: '1989-01-01',
-    dateEnd: null,
-    note: 'In sworn testimony Knapp states that the first person he told outside the KLAS newsroom about the 1989 Bob Lazar / S-4 story was Senator Harry Reid, beginning \'a private collaboration and conversation that continued for the rest of his life\'. This rests on Knapp\'s own account, though it is given under oath.',
-    sources: []
-  },
-  {
-    a: 'klas-tv',
-    b: 'aawsap',
-    type: 'custody',
-    label: 'Knapp\'s Russian MoD documents handed to BAASS/DIA for AAWSAP analysis',
-    claimTier: 2,
-    dateStart: null,
-    dateEnd: null,
-    note: 'Knapp testified that he was asked to share the most important papers he obtained from the Russian Ministry of Defense in the 1990s with BAASS and the DIA and did so, and that AAWSAP assembled a team to translate and analyse them; the resulting full report remains unreleased at DIA, with only a brief synopsis published.',
-    sources: []
-  },
-  {
-    a: 'klas-tv',
-    b: 'james-lacatski',
-    type: 'research',
-    label: 'Knapp co-authored two books with the AAWSAP originator',
-    claimTier: 1,
-    dateStart: null,
-    dateEnd: null,
-    note: 'Knapp disclosed in his congressional statement that he is co-author of two books written primarily by Dr James Lacatski (the DIA officer who conceived AAWSAP) and Dr Colm Kelleher, the BAASS programme manager.',
-    sources: []
-  },
-  {
     a: 'the-hill',
     b: 'hearing-2024-11-13',
     type: 'investigative',
@@ -39519,72 +39675,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2007-01-01',
     dateEnd: null,
     note: 'This is not merely a home-town link: Senator Harry Reid of Nevada secured the appropriation with Senators Inouye and Stevens, and the money was performed by Robert Bigelow, a Las Vegas constituent. The constituent relationship is the reported mechanism connecting the earmark to the contractor.',
-    sources: []
-  },
-  {
-    a: 'andy-biggs',
-    b: 'hearing-2023-07-26',
-    type: 'legislative',
-    label: 'questioned witnesses at the 26 July 2023 UAP hearing',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor about \'misdirection by official U.S. Government with regard to UAPs,\' the 1997 Phoenix Lights, training-range impacts and over-classification.',
-    sources: []
-  },
-  {
-    a: 'andy-biggs',
-    b: 'david-grusch',
-    type: 'investigative',
-    label: 'pressed Grusch on Phoenix Lights and withheld information',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Biggs asked Grusch about the 1997 Phoenix Lights case (\'Only what is in the public vernacular about it. That was outside the scope of my duties\') and asked whether DoD or intelligence agencies are \'keeping this information from the American people or even from Congress.\'',
-    sources: []
-  },
-  {
-    a: 'andy-biggs',
-    b: 'uap-task-force',
-    type: 'investigative',
-    label: 'elicited Grusch\'s authorship of the UAPTF 2019 classification guide',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Asked by Biggs whether the 2019 UAP classification guidelines impede transparency, Grusch answered: \'I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.\' Biggs replied, \'Uh-oh. You got a bias then.\'',
-    sources: []
-  },
-  {
-    a: 'maxwell-frost',
-    b: 'hearing-2023-07-26',
-    type: 'legislative',
-    label: 'questioned witnesses at the 26 July 2023 UAP hearing',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Frost used his round to question Ryan Graves and David Fravor on NASA\'s independent study team, stigma reduction and how Congress can \'facilitate partnerships between the scientific community and the UAP focus groups within government.\'',
-    sources: []
-  },
-  {
-    a: 'maxwell-frost',
-    b: 'ryan-graves',
-    type: 'investigative',
-    label: 'questioned Graves on scientific advisory board and NASA reporting',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Frost asked Graves how NASA research might influence commercial aviation safety and about \'the importance of seeking scientists to sit on your advisory board\'; Graves pointed to NASA\'s Aviation Safety Reporting System as a near-term reporting platform.',
-    sources: []
-  },
-  {
-    a: 'maxwell-frost',
-    b: 'nasa',
-    type: 'investigative',
-    label: 'questioned Administrator Nelson on UAP; pressed NASA\'s role at hearing',
-    claimTier: 1,
-    dateStart: '2023-07-26',
-    dateEnd: null,
-    note: 'Frost told the hearing he sits on the Science, Space and Technology Committee and that when questioning NASA Administrator Bill Nelson about full funding, one of the reasons given \'had to do with UAPs.\' He framed his questions around NASA\'s UAP independent study team.',
     sources: []
   },
   {
