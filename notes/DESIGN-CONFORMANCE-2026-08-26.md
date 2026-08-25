@@ -10,6 +10,33 @@ not exercise it.
 
 ---
 
+## 0. Progress since this audit was written
+
+Design answered the four open questions (`notes/design-2026-08-24/`, synced to that
+revision). **Batch 1 is built:**
+
+- **Middle truncation**, head 62% / tail rest, never end truncation. 50 labels fit whole,
+  60 middle-truncate, 0 end-truncate. The distinguishing tails survive: `AARO Historical
+  Re…, Volume II`, `Sec. 6802, James M…L. 117-263)`, `STAR GATE and pred…, 1970-1995`.
+- **The class glyph**, 11px, `I P E L D p`, in the slot an image will take.
+- **The start-here rank numeral**, amber, 1 to 14.
+- **Denial three states.** Design's correction to my "switch it off": arrowhead where the
+  denier is named, a **perpendicular red bar** at the midpoint where it is an act with no
+  established direction, and no denial styling at all for an association. `denialKind` is
+  plumbed end to end and degrades to `undirected`, which claims the least.
+- **Design corrected its own channel table**: class keeps the left rule and tier keeps the
+  stroke, which is what the build already did. No change needed. The reason is the image
+  slot: once a node carries a photo the glyph is gone, so class needs the rule.
+
+Gate: **40 verify checks, 13 canvas assertions**, all self-tested. New: `a denial that is
+not a directed act carries no denial styling`, `no chip label is cut off at its end`.
+
+Still open: the dense occupancy mode below 0.63 scale, the start-here legend and breath,
+motion, and the search grammar. Design specified all of them in the answer revision, with
+seven further checks.
+
+---
+
 ## 1. Layout and edge budget — done
 
 | Design item | state | how |

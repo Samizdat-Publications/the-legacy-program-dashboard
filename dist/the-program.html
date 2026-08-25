@@ -119643,6 +119643,31 @@ const L0_LABEL_DROP = 0.62;      /* inherited LOD rule, unchanged */
    issued/received split derived from the edge's a/b order, which does not encode
    who denied whom. See notes/DENIAL-DIRECTION-2026-08-26.md. Until `denier` is
    authored, a denial is an undirected link and the board says so. */
+/* One character, because the chip has room for one. The image takes this slot when
+   a node has one; the letter is the fallback, so class is readable on every chip at
+   every zoom. Class keeps the LEFT RULE and tier keeps the stroke: Design's channel
+   table originally said the reverse and corrected itself, because once a node
+   carries a photo the glyph is gone and class would have nowhere persistent to
+   live. Tier is three values and prints as text in the dossier; class is five and
+   must survive on the chip. */
+const L0_GLYPH = { institution:'I', program:'P', event:'E', legislation:'L',
+                   document:'D', person:'p' };
+/* Middle truncation, never end truncation. "AARO Historical Record Volume 1" and
+   "... Volume 2" are identical under an end ellipsis, and the tail is exactly where
+   this corpus puts its distinguishing token: volume numbers, years, Roman numerals,
+   Sec. references. Head takes 62% of the budget, the tail takes the rest. */
+function l0Fit(ctx, s, room){
+  if (ctx.measureText(s).width <= room) return s;
+  let lo = 1, hi = s.length;
+  while (lo < hi){
+    const mid = Math.ceil((lo + hi) / 2);
+    const head = Math.ceil(mid * 0.62), tail = mid - head;
+    const t = s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+    if (ctx.measureText(t).width <= room) lo = mid; else hi = mid - 1;
+  }
+  const head = Math.ceil(lo * 0.62), tail = lo - head;
+  return s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+}
 function l0Denials(n){
   if ((n.di||0) + (n.dr||0) > 0) return 'denials ' + (n.di||0) + ' issued \u00b7 ' + (n.dr||0) + ' received';
   const u = n.dnu || 0;
@@ -119659,9 +119684,9 @@ const L0_MARK = 13;              /* legacy point-cloud glyph. Still used by the
 const L0_PACK = {
   chipFill:'#12171d', chipLine:'#3b444f', chipLineA:'#4a6b8f', chipLineFlag:'#efb555',
   bandFill:'#141920', bandAlt:'#12161c', bandLabel:'#5c6672', bandN:'#3b444f',
-  colHead:'#8d97a4', colNote:'#5c6672', colRule:'#262e36',
+  colHead:'#8d97a4', colNote:'#5c6672', colRule:'#262e36', glyph:'#4f5964',
   restLine:'#2f3a45', restAnchor:'#2a3b44', restDenial:'#5a3f3c',
-  pointer:'#efb555', iso:'#e8705f', ink:'#e6e9ee', ink2:'#b9c2cd',
+  pointer:'#efb555', iso:'#e8705f', denial:'#e8705f', ink:'#e6e9ee', ink2:'#b9c2cd',
 };
 /* Three view options, all ON by default. Stewart's call, 25 August 2026, having
    looked at the comp with all three on: "want all 3 options turned on". They are
@@ -119704,6 +119729,9 @@ function mountL0(host){
   const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
+  /* PK.flags is already rank-ordered by merge_packed, so rank is position + 1. */
+  const FLAGRANK = {};
+  (PK.flags || []).forEach((id, i) => { FLAGRANK[id] = i + 1; });
   const opt = Object.assign({}, L0_OPT);
   const ekey = (e, s) => e.a + '|' + e.b + '|' + (s ? 'shared' : 'direct');
   const cvs = document.createElement('canvas');
@@ -119784,21 +119812,41 @@ function mountL0(host){
     ctx.fillStyle = (L0_CLS[n.cls]||L0_CLS.person).c;   /* class rule, left edge */
     ctx.fillRect(x, y, Math.max(1, 3*view.k), h);
     if (opt.labels && view.k >= L0_LABEL_DROP){
+      /* Design's chip is [rule][image|glyph 11px][label][rank][mark], gaps of 5.
+         Everything to the right of the label is reserved BEFORE the label is fitted,
+         which is the bug the cross found: room used to be w-12 regardless of what
+         else was going to be drawn inside the same chip, so the mark landed on top
+         of the label and took its ellipsis with it. */
+      const gap = 5*view.k;
+      const rank = (opt.flags && FLAGRANK[n.id]) ? String(FLAGRANK[n.id]) : '';
+      let right = 5*view.k;                                  /* padding-right */
+      if (n.iso)  right += 8*view.k + gap;                   /* the absent-link mark */
+      if (rank)   right += 8*view.k + gap;                   /* the start-here rank */
+      const glyphW = 11*view.k;
+      const lx = x + 7*view.k;                               /* content starts here */
+      /* The class letter. An image will take this slot when data/l0-images.json is
+         populated; the letter is the fallback and says what the node IS rather than
+         implying a face nobody found. */
+      ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+      ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+      ctx.fillStyle = on ? L0_PACK.ink2 : L0_PACK.glyph;
+      ctx.fillText(L0_GLYPH[n.cls] || '\u00b7', lx + glyphW/2, y + h/2 + 0.5);
+
       ctx.font = "400 " + (9.5*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
       ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
-      /* The cross below is drawn INSIDE the chip at a fixed right inset, so the
-         label's room has to account for it or the two land on top of each other.
-         They did: "University at Albany (SUNY), Dep" lost its ellipsis to the
-         mark and read as if the cross were part of the name. Reserve the cross's
-         own width plus a gap, and only when there is a cross to reserve for. */
-      const room = w - 12*view.k - (n.iso ? 11*view.k : 0);
-      let t = n.short || n.label || n.id;
-      if (ctx.measureText(t).width > room){
-        while (t.length > 2 && ctx.measureText(t + '\u2026').width > room) t = t.slice(0, -1);
-        t += '\u2026';
-      }
+      const tx = lx + glyphW + gap;
+      const room = (x + w - right) - tx;
       ctx.fillStyle = on ? L0_PACK.ink : (n.tier === 'A' ? L0_PACK.ink : L0_PACK.ink2);
-      ctx.fillText(t, x + 7*view.k, y + h/2 + 0.5);
+      ctx.fillText(l0Fit(ctx, n.short || n.label || n.id, room), tx, y + h/2 + 0.5);
+
+      /* The rank numeral, amber, right-aligned before the mark. Design: the set has
+         to be enumerable, and the legend carries the reason for each. */
+      if (rank){
+        ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+        ctx.textAlign = 'right'; ctx.textBaseline = 'middle';
+        ctx.fillStyle = L0_PACK.pointer;
+        ctx.fillText(rank, x + w - (n.iso ? 13*view.k + gap : 5*view.k), y + h/2 + 0.5);
+      }
     }
     /* Absent prints as absent. Three nodes clear the connectivity floor on the
        full board and still have no link to any other node ON THE MAP, which is a
@@ -119947,24 +119995,47 @@ function mountL0(host){
       ctx.fillStyle = t.c;
       ctx.fillText(label, cx, cy);
     }
-    /* D3: denial edges are the first asymmetric edge the engine has had, and
-       direction is the whole instrument. Undirected, AARO's own historical record
-       and Grusch look alike.
+    /* D3, and Design's correction to it: a denial has THREE states because the data
+       has three, not one.
 
-       Which is exactly why it may not be guessed. This head used to draw on EVERY
-       denial edge, pointing at `e.b`, where a/b comes from [a,b].sort() in the
-       generator. Alphabetical order. It disagreed with the board's own records on
-       22 of 47, and the records do not carry a consistent issuer-first convention
-       either. So the head now draws only where an edge NAMES its denier, and it
-       points at the OTHER end, the subject. No edge names one yet, so none draw.
-       Author `denier` and the instrument comes back. */
+         directed     issuer named        arrowhead (and, later, a particle)
+         undirected   an act, no issuer   a perpendicular BAR at the midpoint
+         association  not a directed act  no denial styling at all
+
+       The head used to draw on every denial edge, pointing at `e.b`, where a/b is
+       [a,b].sort() in the generator. Alphabetical order rendered as attribution: it
+       disagreed with the board's own records on 22 of 47, and the records carry no
+       consistent issuer-first convention either. Switching the channel off entirely
+       was the safe move and it overpaid, because it lost the ones that ARE attested
+       and made a denial indistinguishable from an ordinary link. A bar is not a
+       vector. It reads as contested, which is exactly what the record supports.
+
+       Degrades to `undirected` when neither `denier` nor `denialKind` is present,
+       because that claims the least. */
+    const isDenial = !summarised && (e.types||[]).indexOf('denial') >= 0
+                     && e.denialKind !== 'association';
     const dnr = e.denier;
-    if (!summarised && (e.types||[]).indexOf('denial') >= 0 && dnr &&
-        (dnr === e.a || dnr === e.b)){
+    if (isDenial && !(dnr === e.a || dnr === e.b)){
+      /* Undirected: a bar across the line at its midpoint, square to it. */
+      const bx = (x1 + x2)/2, by = (y1 + y2)/2;
+      const ang = Math.atan2(y2 - y1, x2 - x1) + Math.PI/2;
+      const r = 4.5*view.k;
+      /* Red is reserved for something somebody did, so the bar takes it and an
+         `association` never reaches here. The line itself stays tier-coloured. */
+      ctx.strokeStyle = L0_PACK.denial;
+      ctx.lineWidth = 1.6;
+      ctx.setLineDash([]);
+      ctx.beginPath();
+      ctx.moveTo(bx - Math.cos(ang)*r, by - Math.sin(ang)*r);
+      ctx.lineTo(bx + Math.cos(ang)*r, by + Math.sin(ang)*r);
+      ctx.stroke();
+    }
+    if (isDenial && dnr && (dnr === e.a || dnr === e.b)){
       const tx = dnr === e.a ? x2 : x1, ty = dnr === e.a ? y2 : y1;
       const fx = dnr === e.a ? cx : x2, fy = dnr === e.a ? cy : y2;
       const ang = Math.atan2(ty-fy, tx-fx);
       const hx = tx - Math.cos(ang)*10, hy = ty - Math.sin(ang)*10;
+      ctx.fillStyle = L0_PACK.denial;
       ctx.beginPath();
       ctx.moveTo(tx - Math.cos(ang)*11*view.k, ty - Math.sin(ang)*11*view.k);
       ctx.lineTo(hx - Math.sin(ang)*3.2, hy + Math.cos(ang)*3.2);
@@ -123567,7 +123638,7 @@ S.turns.push({
 
 preloadPhotos(() => { if (MAP) { /* plates pick the image up on the next frame */ } });
 paint({ full:true });
-window.__board = { CMD, S, L0DATA, mountL0, NODES, PEOPLE, EDGES, PROGRAM_EDGES, TIMELINE,
+window.__board = { CMD, S, L0DATA, mountL0, l0Fit, NODES, PEOPLE, EDGES, PROGRAM_EDGES, TIMELINE,
                    VIEWS, INSIGHTS, get MAP(){ return MAP; },
                    get PLATE_DEGREE(){ return PLATE_DEGREE; },
                    setPlateDegree(n){ PLATE_DEGREE = n; for (const x of NODES)

@@ -31,6 +31,16 @@ left bare, a highlight naming an id not on the map, more than 15% of the map fla
 or a model over the ~1MB read cap. It reports `rarityDrift` when the board's tag counts
 disagree with the pinned rarity order — that is a decision to make, not a failure.
 
+## Answered since v1
+
+- **Patch question** — closed. `mountL0` is yours end to end.
+- **Pin the rarity rank?** — pinned AND recomputed; drift is reported, never obeyed.
+- **disclosure at 3?** — accept. It is a residual, not a category, and now labelled as one.
+- **Denial direction** — three states, not one. Arrowhead only where the issuer is named.
+- **Chip left rule** — your build was right: class on the rule, tier on the stroke.
+- **Overview under the label threshold** — cells carry counts; chips do not draw.
+- **Label overflow** — middle truncation shipped; authored `short` values are the real fix.
+
 ## The two things to do next
 
 Patch question is closed — `mountL0` is yours end to end, so the packed-cell layout can

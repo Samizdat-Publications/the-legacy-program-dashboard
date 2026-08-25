@@ -1018,6 +1018,41 @@ def _dz_deterministic(b, html):
     return bad[:40]
 
 
+@check("a denial that is not a directed act carries no denial styling")
+def _dz_denialkind(b, html):
+    """Design, answering the implementation session: a denial has three states
+    because the data has three, and one undifferentiated red line was not.
+
+        directed     issuer named        arrowhead, and later a particle
+        undirected   an act, no issuer   a perpendicular bar at the midpoint
+        association  not a directed act  no denial styling at all
+
+    Eleven of thirty adjudicated edges are the third kind -- `roswell ->
+    official-denial`, "four official explanations for one event"; a person and their
+    own bylined article. Red is reserved for something somebody did.
+
+    Asserts `denialKind` is only ever the string 'association' or absent, and that an
+    association never also names a denier, which would be a directed act and an
+    association at once. Absent means `undirected`, which is the correct default
+    because it claims the least."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        for e in d.get("edges") or []:
+            k = e.get("denialKind")
+            if k is None:
+                continue
+            if k != "association":
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} has denialKind {k!r}; "
+                           f"the only named state is 'association'")
+            elif e.get("denier"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is an association and "
+                           f"also names a denier {e.get('denier')!r}")
+    return bad
+
+
 @check("denial direction is published only where the record names a denier")
 def _dz_denier(b, html):
     """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
@@ -1561,6 +1596,10 @@ def self_test():
         # which is what publishing a direction derived from [a,b].sort() amounts to
         "denial direction is published only where the record names a denier":
             lay(lambda m: [e.update(denier="not-an-end-of-this-edge")
+                           for e in m["current"]["edges"] if e.get("denial")]),
+        # a third denial state invented, or an association that also claims a denier
+        "a denial that is not a directed act carries no denial styling":
+            lay(lambda m: [e.update(denialKind="probably-a-denial")
                            for e in m["current"]["edges"] if e.get("denial")]),
         # a flag naming an id the floor excluded
         "highlights are a pointer, not a promotion":

@@ -98,9 +98,11 @@ def load_board(path=BOARD):
         })
     edges = [{"a": e["a"], "b": e["b"], "t": e["type"], "ct": e["claimTier"],
               "label": e.get("label") or "", "note": e.get("note") or "",
-              # Who issued the denial, when the record says. Absent on every edge
-              # today; see the note at the denial-direction block below.
-              "denier": e.get("denier")}
+              # Who issued the denial, when the record says, and which of the
+              # three denial states this is. Both absent on every edge today; see
+              # the denial-direction block below.
+              "denier": e.get("denier"),
+              "denialKind": e.get("denialKind")}
              for e in b["edges"]]
     return nodes, edges
 
@@ -583,6 +585,10 @@ def build(path=BOARD):
     issued, received, undirected = Counter(), Counter(), Counter()
     for e in edges:
         if e["t"] != "denial":
+            continue
+        # An association is not a denial act, so it counts as neither issued,
+        # received, nor an undirected denial link.
+        if e.get("denialKind") == "association":
             continue
         d = e.get("denier")
         if d and d in (e["a"], e["b"]):

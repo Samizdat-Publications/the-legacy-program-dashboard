@@ -146,6 +146,17 @@ const CHECKS = [
     poison: p => ({ ...p, flagHits: 0 }),
   },
   {
+    id: 'labels-truncate-in-the-middle',
+    label: 'no chip label is cut off at its end',
+    /* An end ellipsis loses the tail, and the tail is the distinguishing token on
+       this board: volume numbers, years, Roman numerals, Sec. references. */
+    test: p => p.endTrunc === 0 && p.midTrunc > 0,
+    detail: p => `${p.fittedLabels} fit whole \u00b7 ${p.midTrunc} middle-truncated \u00b7 `
+               + `${p.endTrunc} end-truncated`
+               + (p.endTruncEx && p.endTruncEx.length ? ' :: ' + p.endTruncEx.join(' | ') : ''),
+    poison: p => ({ ...p, endTrunc: 4 }),
+  },
+  {
     id: 'head-row-clear',
     label: 'no era column head is painted under the map controls',
     /* The eras are the horizontal argument exactly as the bands are the vertical
@@ -374,6 +385,30 @@ async function probe(page, opts = {}) {
       if (!r.width || !r.height) continue;
       ctlBottom = Math.max(ctlBottom, r.bottom - wrTop);
     }
+    /* LABEL TRUNCATION. Design: middle, never end. "AARO Historical Record Volume 1"
+       and "... Volume 2" are identical under an end ellipsis, and the tail is where
+       this corpus keeps its distinguishing token. Recompute each chip's rendered
+       label through the page's own l0Fit and the same font the renderer uses, then
+       assert none of them ENDS in an ellipsis. */
+    const probe = document.createElement('canvas').getContext('2d');
+    probe.font = "400 9.5px 'IBM Plex Mono',monospace";
+    let endTrunc = 0, midTrunc = 0, fitted = 0;
+    const endTruncEx = [];
+    const fit = B.l0Fit;
+    if (typeof fit === 'function') {
+      for (const n of (D.l0 || [])) {
+        const raw = n.short || n.label || n.id;
+        /* the room the renderer gives a label at k=1: chip minus rule, glyph, gaps
+           and whatever is reserved on the right */
+        let right = 5; if (n.iso) right += 13;
+        const t = fit(probe, raw, (n.w - right) - (7 + 11 + 5));
+        if (t === raw) fitted++;
+        else if (t.endsWith('\u2026')) { endTrunc++; if (endTruncEx.length < 3) endTruncEx.push(raw); }
+        else if (t.indexOf('\u2026') > 0) midTrunc++;
+      }
+    } else { endTrunc = -1; }
+    out.endTrunc = endTrunc; out.midTrunc = midTrunc; out.fittedLabels = fitted;
+    out.endTruncEx = endTruncEx;
     out.ctlBottom = Math.round(ctlBottom);
     out.headStrip = PADT;
     out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);

@@ -201,6 +201,10 @@ export function normaliseCurrent(dx) {
       types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
       dn: ds.map(d => [d.a, d.b]),
       denier: (named.length === 1 && ds.every(d => d.denier)) ? named[0] : null,
+      /* `association` only when EVERY underlying record is one. A pair carrying
+         one real denial and one association is still a denial. */
+      denialKind: (ds.length && ds.every(d => d.denialKind === 'association'))
+        ? 'association' : null,
     };
   });
   const summarised = dx.summarised.map(e => ({
@@ -308,6 +312,10 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
         const dn = es.filter(e => e.t === 'denial');
         const named = [...new Set(dn.map(e => e.denier).filter(Boolean))];
         return (dn.length && named.length === 1 && dn.every(e => e.denier)) ? named[0] : null;
+      })(),
+      denialKind: (() => {
+        const dn = es.filter(e => e.t === 'denial');
+        return (dn.length && dn.every(e => e.denialKind === 'association')) ? 'association' : null;
       })(),
     });
   }

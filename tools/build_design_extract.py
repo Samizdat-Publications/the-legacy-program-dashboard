@@ -125,6 +125,7 @@ def main():
         # not at all, and the arrowhead stays off until it is authored.
         "denialPairs": [{"a": e["a"], "b": e["b"], "tier": e["claimTier"],
                          "denier": e.get("denier"),
+                         "denialKind": e.get("denialKind"),
                          "label": e.get("label") or ""}
                         for e in b["edges"] if e["type"] == "denial"
                         and e["a"] in {x["id"] for x in m["l0"]}

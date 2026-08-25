@@ -188,20 +188,33 @@ sharing 18 is in this data and renders correctly.
 |---|---|---|
 | **position** | era × function band | anything else |
 | **size** | nothing | importance, degree, claims, members — §4, non-negotiable |
-| chip left rule | entity tier A/B/C | |
-| chip glyph / image slot | class, or the node's image | |
-| line colour | relationship kind — cyan structural, grey anchor, violet shared, red denial | |
+| chip left rule | **class** | — |
+| chip stroke | entity tier A/B/C | |
+| chip glyph / image slot | the node's image, or the class letter as fallback | |
+| line colour | relationship kind — cyan structural, grey anchor, violet shared, red denial **act** | red on an association that is not an act |
 | line dash | claim tier (divergence D1) | anything else |
 | line width | structural vs anchor, two steps only | any weight-by-count |
-| arrowhead | denial direction (divergence D3) | |
+| arrowhead | denial direction **where the denier is named** (divergence D3) | a direction the record does not establish |
+| perpendicular bar | denial act, direction not established | |
 | numeral chip | shared-member count | |
 | **motion** | **attested direction only** | a time-direction flow |
-| **amber, offset** | the start-here pointer | anything that means credibility |
+| **amber, offset** | the start-here pointer | anything that means credibility, and "too small to label" |
+| cell count numeral | occupancy, below the label threshold | |
+
+**Two corrections to my own table, both from the implementation session:**
+
+**Class takes the left rule, tier takes the stroke** — the build was right and I was
+wrong. The image slot decides it: once a node carries a photo the glyph slot is gone, so
+class has nowhere persistent to live unless it holds the rule. Tier is three values and
+appears as text in the dossier, so it survives being a stroke; class is five values and
+must be readable on every chip at every zoom, images included.
+
+**Denial has three states, not one.** See below.
 
 ### Motion — and the two treatments rejected
 
 Motion is the last unused channel, which makes it the easiest to spend badly. It carries
-direction the record establishes: denials (`a` issued it, `b` is the subject) and, on
+direction the record establishes: denials **whose denier the record names**, and on
 selection, which end of an edge you are standing on. **If something moves, the direction
 is attested.**
 
@@ -218,6 +231,30 @@ is attested.**
   and he was right.
 
 All motion stops dead under `prefers-reduced-motion`.
+
+### Denial — three states, because the data has three
+
+I wrote "`a` issued it, `b` is the subject" as though the board held that. **It does not,**
+and the implementation session caught it: of 30 adjudicated, 12 run issuer→subject, 7 run
+the other way, and 11 are not a directed denial act at all (`roswell → official-denial`,
+"four official explanations for one event"; a person and their own bylined article). The
+arrowhead was asserting a direction the record does not establish on more than half the
+edges it was drawn on.
+
+Switching the channel off is the safe move but it overpays — it loses the 12 that *are*
+attested and makes a denial link indistinguishable from an ordinary one. So:
+
+| state | treatment | why |
+|---|---|---|
+| **directed** — issuer named | arrowhead + travelling particle | the full claim, drawn only where sourced |
+| **undirected** — act, denier not established | **perpendicular bar** at the midpoint, no arrowhead, no particle | a bar is not a vector: it reads as *contested*, which is what the record supports |
+| **association** — not a directed act | no denial styling, grey like any edge | red is reserved for something somebody did |
+
+The three are distinct at a glance, which one undifferentiated "denial-ish" red line was
+not. **Backfill:** add `denialKind: "association"` to the 11, and the `a`/`b` pair to the
+12 — the model reads `e.dn` for direction and `e.denialKind` for the third state, and
+degrades to `undirected` when neither is present. That degradation is the correct default:
+it claims the least.
 
 ### The start-here layer
 
@@ -251,7 +288,6 @@ the map — a pointer at everything points at nothing. Absent, it derives a clea
 **placeholder** set by a stated rule so the design language has something real to draw.
 
 ### Search
-
 One field, space-separated tokens ANDed. A bare token is free text over label, id, roles,
 cluster and class. `key:value` filters: `band: era: cls: tier: cluster: role: id: flag:
 isolated:` and numeric `deg: claims: denials:` with `>` or `<`. **`via:` reaches the
@@ -293,6 +329,72 @@ literal unresolved hole text once per placeholder row. Compute the whole
 `background-image` value instead — an unresolved style hole renders nothing and requests
 nothing, and `background-size: cover|contain` maps one-to-one onto the portrait/mark rule.
 
+### Reading the map below the label threshold
+
+A 9.5px chip label stops being readable under about 6px rendered, so below **0.63 scale**
+— roughly any viewport under 1400px at fit-width — the map was drawing 110 anonymous
+rectangles. Anonymous rectangles are the worst of both outcomes: no identity, *and* they
+hide the one thing still legible at that size, which is how many nodes sit in each cell.
+
+So below the threshold the chips collapse and **each cell draws its count** — the
+occupancy matrix, in place, at the size where it is the only honest statement. Same
+numbers as §1's table, on the map itself. A search dims non-matching cells and prints
+`n of m` in the ones that hit, so a result set still reads as a shape. Flagged cells keep
+their amber count.
+
+**The edge layer does not draw in this mode.** Every line, bar and numeral chip is anchored
+to chip coordinates, so with the chips gone they terminate at nothing and lattice straight
+over the counts. An edge pointing at an unrendered node is not a weaker version of the
+occupancy statement — it is noise on top of it.
+
+**Numeral size derives from the cell**, never fixed. A single-row band is 24px tall and a
+hardcoded numeral clips inside it; below 40px the sub-label is dropped rather than squeezed,
+because the count is the statement and the annotation is not. **Axis chrome moves outside the world
+transform** in this mode — an unscaled overlay positioned at world × scale, type at its
+authored size. An occupancy matrix with no readable row or column identity is not an
+occupancy matrix.
+
+*The wrong fix, recorded because it is the tempting one:* counter-scaling `font-size` by
+1/scale inside the transform. It inflates type against containers — the 148px gutter, the
+band heights, the 46px header row — that stay at model dimensions computed for authored
+type, so content overflows its own box and collides with the band below. Outside the
+transform there is no box to outgrow. The overlay is also deliberately spare, one line per
+axis: the gutter renders at 148 × scale, so band names middle-truncate to the space that
+exists rather than wrapping, and the meta line is dropped rather than shrunk because the
+count it carried is already printed inside every cell. When the overlay took over, the
+in-world copy had to be gated off — two copies of the same label, one at 4px, is dirt
+around the good one rather than a fallback beneath it.
+
+**Dense rows are equal height.** A band's height is derived from how many chip rows its
+busiest cell needs — meaningful when chips render, meaningless when they do not. It left the
+single-row disclosure band 9px tall on screen: too short for a floor-height numeral, too
+short for a legible label, and quietly encoding "rows of chips" as row height in a view with
+no chips. Dividing the same world height equally keeps the scale and the band order
+identical, removes an accidental channel, and lets every gutter label wrap to two lines
+instead of truncating to `REVE…NG`.
+
+*One more unit trap in the same mode:* dense-cell type is sized in world units but must be
+judged in rendered ones. A 40-world-unit cell is 15px on screen at 0.39 scale, so a "roomy"
+test against world height admits a sub-label that renders at 4px. Both the 9px floor and
+the fit are computed through the scale.
+
+**The start-here wash is deliberately NOT reused for this.** It means "an editor pointed
+here"; a channel that also meant "too small to label" would stop meaning either.
+
+### Label truncation
+
+46 of 110 `short` values exceed the ~37 characters a 205px chip allows. Not a smaller face
+(it is already at the floor for a 20px chip) and not a second line (that breaks the uniform
+chip, which is the size channel returning through the back door). Two parts:
+
+1. **Render fallback: middle truncation, never end truncation.** "AARO Historical Record
+   Volume 1" and "...Volume 2" are *identical* under an end ellipsis, and the tail is
+   exactly where this corpus puts its distinguishing token — volume numbers, years, Roman
+   numerals, `Sec.` references. Head gets 62% of the budget, tail the rest, full label on
+   hover. Shipped.
+2. **Real fix: author the `short` values to a ≤37-character budget.** Truncation is a
+   safety net, not a design. A backfill row is below.
+
 ---
 
 ## 4. Backfill queue — what to pull
@@ -308,6 +410,8 @@ Each row is a task. The design degrades honestly until it lands rather than gues
 | denial `a`/`b` | which end issued it | the merged board's edge records; aggregating a pair loses it, so carry the pairs for denial edges | motion carries attested direction and nothing else, so the particle layer has nothing it may say at rest |
 | `dateEnd` | the end of a span where the record has one | the same node documents `dateStart` comes from | brief question 2 — how many nodes could carry an extent at all |
 | `photo` / `photoCredit` / `photoKind` | one image per node | `data/l0-images.json` keyed by node id, per §3 above; only `clears` and `ask` ship, and `ask` carries its reason | the chip slot and dossier tile are built and waiting |
+| `denialKind` + denial `a`/`b` | which of the three denial states each edge is | the 11 non-acts get `denialKind: "association"`; the 12 directed ones carry the issuer/subject pair | the arrowhead and the particle. Absent, every denial degrades to `undirected` — the bar — which claims the least and is the correct default |
+| `short` ≤ 37 chars | a chip-length label per node | author them; 46 of 110 currently overflow. Drop the leading org when the band already says it, drop parenthetical glosses, keep the distinguishing tail | middle truncation is a safety net, not a design — authored shorts are the fix |
 
 **Standing rule:** any new field the design reads gets a row here stating what to pull and
 where from, so this session never has to re-derive the ask.
@@ -332,6 +436,13 @@ A check that has never failed is indistinguishable from a broken one.
 | `no_size_channel` | every chip is 205×20 | any model where the set of distinct chip widths or heights has more than one member |
 | `layout_is_deterministic` | two runs over identical inputs give byte-identical positions | a re-introduced force pass |
 | `rarity_order_matches_the_pin` | the rank the board's tag counts imply equals `RARITY_PIN` | a research pass that inverts a near-tie — legacy data drifts on oversight/disclosure and the check fires |
+| `no_unsourced_arrowhead` | an arrowhead is drawn only where the denial edge names its issuer | the old spec — it drew one on all 30, asserting a direction the record establishes for 12 |
+| `overview_is_never_anonymous` | below 0.63 scale, cells carry counts and no unlabelled chip is drawn | the fit-width state that drew 110 blank rectangles |
+| `overview_draws_no_orphan_edges` | in dense mode the edge layer is empty | edges gated on chip render — 97 traces and 20 numeral chips anchored to unrendered nodes |
+| `no_two_channels_on_one_property` | the breath keyframe touches no property that carries data | the bloom on `box-shadow`, which wiped the tier stroke it now shares |
+| `queue_covers_every_field_read` | every field the design reads appears in `gaps` | this doc and the page disagreeing — the same drift class §0 corrected once already |
+| `axis_type_readable_at_every_scale` | gutter and header type renders ≥9px at any scale | axis text scaling with the world into 4px smudges |
+| `labels_truncate_in_the_middle` | no rendered chip label ends in an ellipsis | end truncation — it collides "...Volume 1" with "...Volume 2" |
 | `motion_only_where_attested` | a path carries a particle only if it is a denial or belongs to the selected node | a time-direction flow on every line |
 | `highlights_are_a_pointer` | flags name ids on the map, stay under 15%, and change no channel that means credibility | a flag naming an id the floor excluded; flagging more than 16 of 110 |
 | `model_under_read_cap` | the emitted model is under ~1MB | the thing this whole correction was about — the generator exits non-zero |
