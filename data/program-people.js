@@ -12977,17 +12977,17 @@ export const PEOPLE = [
         date: '2023-07-27'
       },
       {
-        name: 'armed-services.senate.gov',
+        name: 'https://www.armed-services.senate.gov/about/membership',
         url: 'https://www.armed-services.senate.gov/about/membership',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
         url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
         date: null
       }
@@ -13079,13 +13079,18 @@ export const PEOPLE = [
         date: '2026-06-15'
       },
       {
-        name: 'armed-services.senate.gov',
+        name: 'https://www.armed-services.senate.gov/about/membership',
         url: 'https://www.armed-services.senate.gov/about/membership',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
     ],
@@ -13248,12 +13253,12 @@ export const PEOPLE = [
         date: '2023-07-27'
       },
       {
-        name: 'appropriations.senate.gov',
+        name: 'https://www.appropriations.senate.gov/subcommittees/defense',
         url: 'https://www.appropriations.senate.gov/subcommittees/defense',
         date: null
       },
       {
-        name: 'uscode.house.gov',
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
@@ -21724,18 +21729,23 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'democrats-armedservices.house.gov',
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
         url: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
         date: null
       },
       {
-        name: 'democrats-armedservices.house.gov',
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
         url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
         date: null
       },
       {
-        name: 'army.mil',
+        name: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
         url: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
     ],
@@ -21785,17 +21795,17 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'democrats-armedservices.house.gov',
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
         url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
         url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
         date: null
       },
       {
-        name: 'uscode.house.gov',
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
@@ -21851,17 +21861,17 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
         url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
         date: null
       },
       {
-        name: 'uscode.house.gov',
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
@@ -21927,22 +21937,27 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'cole.house.gov',
+        name: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
         url: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
         date: null
       },
       {
-        name: 'cole.house.gov',
+        name: 'https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee',
         url: 'https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee',
         date: null
       },
       {
-        name: 'appropriations.house.gov',
+        name: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
         url: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
         date: null
       },
       {
-        name: 'appropriations.house.gov',
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://appropriations.house.gov/about/chairman-tom-cole',
         url: 'https://appropriations.house.gov/about/chairman-tom-cole',
         date: null
       }
@@ -25565,25 +25580,45 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'unr.edu',
+        name: 'https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community',
         url: 'https://www.unr.edu/nevada-today/news/2009/physicists-findings-attract-notice-in-scientific-community',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Friedwardt_Winterberg',
+        url: 'https://en.wikipedia.org/wiki/Friedwardt_Winterberg',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        date: null
+      },
+      {
+        name: 'https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract',
+        url: 'https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract',
         date: null
       },
       {
         name: 'theblackvault.com',
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
-        date: null
-      },
-      {
-        name: 'ui.adsabs.harvard.edu',
-        url: 'https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract',
         date: null
       }
     ],
@@ -25632,9 +25667,27 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'en.wikipedia.org', url: 'https://en.wikipedia.org/wiki/Wil_McCarthy', date: null },
-      { name: 'en.wikipedia.org', url: 'https://en.wikipedia.org/wiki/Hacking_Matter', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://en.wikipedia.org/wiki/Wil_McCarthy',
+        url: 'https://en.wikipedia.org/wiki/Wil_McCarthy',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Hacking_Matter',
+        url: 'https://en.wikipedia.org/wiki/Hacking_Matter',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        date: null
+      }
     ],
     conflicts: [],
     unverified: [],
@@ -25686,15 +25739,24 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://www.seti.org/news/claudio-maccone/',
+        url: 'https://www.seti.org/news/claudio-maccone/',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Claudio_Maccone',
+        url: 'https://en.wikipedia.org/wiki/Claudio_Maccone',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
         date: null
       },
-      { name: 'seti.org', url: 'https://www.seti.org/news/claudio-maccone/', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         date: null
       }
@@ -25744,15 +25806,20 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'legacy.com',
+        name: 'https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077',
         url: 'https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
         date: null
       }
     ],
@@ -25821,28 +25888,37 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'unlv.edu',
+        name: 'https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab',
         url: 'https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab',
         date: null
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         date: null
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         url: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         date: null
       },
-      { name: 'unlv.edu', url: 'https://www.unlv.edu/people/william-culbreth', date: null }
+      {
+        name: 'https://www.unlv.edu/people/william-culbreth',
+        url: 'https://www.unlv.edu/people/william-culbreth',
+        date: null
+      }
     ],
     conflicts: [],
     unverified: [],
@@ -25889,13 +25965,32 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         date: null
       },
-      { name: 'link.springer.com', url: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9', date: null }
+      {
+        name: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        url: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
+      }
     ],
     conflicts: [],
     unverified: [],
@@ -25947,19 +26042,24 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         date: null
       }
@@ -26009,17 +26109,23 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         date: null
       },
       {
-        name: 'sbhse.engineering.asu.edu',
+        name: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
         url: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
         date: null
-      }
+      },
+      { name: 'https://search.asu.edu/profile/43292', url: 'https://search.asu.edu/profile/43292', date: null }
     ],
     conflicts: [],
     unverified: [],
@@ -26081,22 +26187,36 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf', date: null },
-      { name: 'earthtech.org', url: 'https://earthtech.org/pubs/davis/', date: null },
       {
-        name: 'drrobertbaker.com',
+        name: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        date: null
+      },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
+      {
+        name: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
         url: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
         date: null
       }
     ],
@@ -26155,16 +26275,31 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         date: null
       },
-      { name: 'earthtech.org', url: 'https://earthtech.org/pubs/davis/', date: null },
-      { name: 'jbis.org.uk', url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278', date: null },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
       {
-        name: 'twz.com',
+        name: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        date: null
+      },
+      { name: 'https://tauzero.aero/who-we-are/', url: 'https://tauzero.aero/who-we-are/', date: null },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       }
@@ -26254,31 +26389,41 @@ export const PEOPLE = [
       }
     ],
     sources: [
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'Keith Basterfield, "Back to those 38 Defense Intelligence Reference Documents (DIRDs)" — verbatim transcription of the DIA letter of 9 January 2018',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
-        date: '2019-01-17'
+        date: null
       },
       {
-        name: 'Wayne State University School of Medicine news profile, "Richard Genik, Ph.D."',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
         url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
-        date: '2009-07-13'
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
       },
       {
         name: 'Defense Intelligence Reference Document, "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces" (The Black Vault FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_12-DIRD_Technological_Approaches_to_Controlling_External_Devices.pdf',
         date: '2010-03-23'
-      },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      {
-        name: 'documents2.theblackvault.com',
-        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
-        date: null
-      },
-      {
-        name: 'theblackvault.com',
-        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
-        date: null
       }
     ],
     conflicts: [],
@@ -26346,10 +26491,26 @@ export const PEOPLE = [
       }
     ],
     sources: [
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'Keith Basterfield, "Back to those 38 Defense Intelligence Reference Documents (DIRDs)" — verbatim transcription of the DIA letter of 9 January 2018',
+        name: 'https://fas.org/publication/aatip-list/',
+        url: 'https://fas.org/publication/aatip-list/',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
-        date: '2019-01-17'
+        date: null
       },
       {
         name: 'Hathaway Research International, principal scientist and staff biographies',
@@ -26365,12 +26526,6 @@ export const PEOPLE = [
         name: 'Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf',
         date: '2010-03-23'
-      },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      {
-        name: 'theblackvault.com',
-        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
-        date: null
       }
     ],
     conflicts: [],
@@ -26418,10 +26573,29 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'en.wikipedia.org', url: 'https://en.wikipedia.org/wiki/Sergey_Macheret', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'digitwin2024.polytechnic.purdue.edu',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        url: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        date: null
+      },
+      {
+        name: 'https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award',
         url: 'https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award',
         date: null
       }
@@ -26471,15 +26645,30 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         date: null
       },
       {
-        name: 'niac.usra.edu',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf',
         url: 'https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.niac.usra.edu/files/studies/abstracts/1147Smith.pdf',
+        url: 'https://www.niac.usra.edu/files/studies/abstracts/1147Smith.pdf',
         date: null
       }
     ],
@@ -26528,14 +26717,24 @@ export const PEOPLE = [
       }
     ],
     sources: [
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         date: null
       }
@@ -26920,9 +27119,13 @@ export const PEOPLE = [
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
       },
-      { name: 'appropriations.senate.gov', url: 'https://www.appropriations.senate.gov/about/members', date: null },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.appropriations.senate.gov/about/members',
+        url: 'https://www.appropriations.senate.gov/about/members',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         date: null
       }
@@ -26972,9 +27175,13 @@ export const PEOPLE = [
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
       },
-      { name: 'appropriations.senate.gov', url: 'https://www.appropriations.senate.gov/about/members', date: null },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.appropriations.senate.gov/about/members',
+        url: 'https://www.appropriations.senate.gov/about/members',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         date: null
       }
@@ -27025,8 +27232,13 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'appropriations.senate.gov',
+        name: 'https://www.appropriations.senate.gov/subcommittees/defense',
         url: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: null
       }
     ],
@@ -27075,9 +27287,13 @@ export const PEOPLE = [
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
       },
-      { name: 'armedservices.house.gov', url: 'https://armedservices.house.gov/about/members.htm', date: null },
       {
-        name: 'armedservices.house.gov',
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
+      },
+      {
+        name: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
         url: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
         date: null
       }
@@ -27127,10 +27343,19 @@ export const PEOPLE = [
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
       },
-      { name: 'armedservices.house.gov', url: 'https://armedservices.house.gov/about/members.htm', date: null },
       {
-        name: 'govinfo.gov',
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
         url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
+        url: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
         date: null
       }
     ],
@@ -27180,13 +27405,18 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro',
         url: 'https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro',
         date: null
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career',
         url: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career',
+        date: null
+      },
+      {
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
+        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
         date: null
       }
     ],
@@ -27241,18 +27471,23 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
         url: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
         date: null
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
         url: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
         url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
+        url: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
         date: null
       }
     ],
@@ -27307,17 +27542,17 @@ export const PEOPLE = [
         date: '2026-08-22'
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
         url: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
         date: null
       },
       {
-        name: 'democrats-appropriations.house.gov',
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
         url: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
         date: null
       },
       {
-        name: 'govinfo.gov',
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
         url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
         date: null
       }

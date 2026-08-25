@@ -1,29 +1,4 @@
 {
- "edge_without_source": [
-  "setka-program->izmiran (institutional)",
-  "setka-program->l-moscow (geographic)",
-  "compass-rose-legal-group->david-grusch (institutional)",
-  "newsnation->david-grusch (investigative)",
-  "newsnation->skywatcher (investigative)",
-  "newsnation->immaculate-constellation (investigative)",
-  "the-hill->hearing-2024-11-13 (investigative)",
-  "the-hill->uapda-2023 (investigative)",
-  "the-hill->david-grusch (investigative)",
-  "cseti->cia (institutional)",
-  "l-langley-afb->langley-2023-incursions (geographic)",
-  "marik-von-rennenkampff->sol-briefing-3-2026 (research)",
-  "marik-von-rennenkampff->sean-kirkpatrick (investigative)",
-  "bryce-zabel->david-grusch (investigative)",
-  "bryce-zabel->luis-elizondo (investigative)",
-  "sol-foundation->sol-briefing-3-2026 (institutional)",
-  "sol-briefing-3-2026->garry-nolan (research)",
-  "aztec-1948->roswell-1947 (behavioral)",
-  "geipan->cefaa (investigative)",
-  "vincent-teofilo->lockheed-martin (institutional)",
-  "sergey-macheret->lockheed-martin (institutional)",
-  "richard-genik->wayne-state-university (institutional)",
-  "richard-genik->kit-green (institutional)"
- ],
  "person_thin_sourcing": [
   {
    "id": "jason-turner",

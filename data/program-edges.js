@@ -2404,7 +2404,7 @@ export const PROGRAM_EDGES = [
     b: 'nids',
     type: 'funding',
     label: 'founded and privately funded NIDS 1995-2004',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1995',
     dateEnd: '2004',
     note: 'NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.',
@@ -2935,7 +2935,7 @@ export const PROGRAM_EDGES = [
     b: 'lacatski-book-series',
     type: 'behavioral',
     label: 'releasing AAWSAP material through trade publication',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023',
     dateEnd: '2026',
     note: 'Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.',
@@ -3163,7 +3163,7 @@ export const PROGRAM_EDGES = [
     b: 'aawsap-contract',
     type: 'denial',
     label: 'withheld the contract for eleven years',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2011',
     dateEnd: '2022',
     note: 'DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.',
@@ -10560,7 +10560,7 @@ export const PROGRAM_EDGES = [
     b: 'uap-gerb-mitre-investigation',
     type: 'investigative',
     label: 'Author and publisher of the 7 August 2026 MITRE investigation',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: null,
     note: 'Published with a researcher using the handle \'Kerberos\'; explicitly framed as aid to Burlison\'s inquiry.',
@@ -10600,7 +10600,7 @@ export const PROGRAM_EDGES = [
     b: 'burlison-mitre-letter-2026',
     type: 'temporal',
     label: 'Published as declared support for the congressional inquiry opened 11 weeks earlier',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: null,
     note: 'Burlison\'s letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.',
@@ -12017,7 +12017,7 @@ export const PROGRAM_EDGES = [
     b: 'kona-blue',
     type: 'programmatic',
     label: 'Report offers KONA BLUE as the explanation for the reverse-engineering allegations',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2024',
     dateEnd: '2024',
     note: 'AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed material existed. The proposal\'s own premise - consolidating alleged concealed holdings under DHS for proper oversight - presupposes the thing AARO says does not exist.',
@@ -15620,7 +15620,7 @@ export const PROGRAM_EDGES = [
     b: 'uap-gerb',
     type: 'investigative',
     label: 'Michels platformed UAP Gerb twice for multi-hour structural interviews',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: '2026',
     note: 'Michels published \'UAPGerb: The New Area51 Is HERE in Utah!\' on 21 February 2025 (450,091 views) and the three-hour structural episode \'The Pentagon\'s UFO Program Is Real [Here\'s How It Works!]\' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb\'s structural model.',
@@ -15642,7 +15642,7 @@ export const PROGRAM_EDGES = [
     b: 'michels-gerb-structural-episode',
     type: 'investigative',
     label: 'Michels produced and hosted the structural episode',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Michels is host and publisher of the 11 January 2026 episode whose description states the effort is \'not one program\' but \'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.\'',
@@ -15759,7 +15759,7 @@ export const PROGRAM_EDGES = [
     b: 'gerb-mitre-investigation',
     type: 'investigative',
     label: 'Gerb authored and published the MITRE investigation',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.',
@@ -15810,7 +15810,7 @@ export const PROGRAM_EDGES = [
     b: 'rand-corporation',
     type: 'institutional',
     label: 'MITRE founded as the Air Force\'s successor to RAND',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1958',
     dateEnd: '1958',
     note: 'The investigation restates the documented history that MITRE was established in 1958 as the Air Force\'s spiritual successor to RAND, tasked with systems engineering for SAGE.',
@@ -15966,7 +15966,7 @@ export const PROGRAM_EDGES = [
     b: 'gerb-nro-investigation',
     type: 'investigative',
     label: 'Gerb authored the NRO investigation',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: '2025',
     note: 'Published 13 December 2025; 141,122 views; nearly three hours.',
@@ -16017,7 +16017,7 @@ export const PROGRAM_EDGES = [
     b: 'david-grusch',
     type: 'witness-chain',
     label: 'Built around Grusch\'s NRO and NGA service and UAPTF liaison role',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023',
     dateEnd: '2026',
     note: 'Gerb frames the NRO\'s entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.',
@@ -16051,7 +16051,7 @@ export const PROGRAM_EDGES = [
     b: 'michael-shellenberger',
     type: 'investigative',
     label: 'Michels interviewed Shellenberger the day after the hearing',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2024',
     dateEnd: '2024',
     note: 'Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger\'s account of the document.',
@@ -16085,7 +16085,7 @@ export const PROGRAM_EDGES = [
     b: 'uap-gerb',
     type: 'investigative',
     label: 'Coulthart platformed Gerb on Reality Check and endorsed his claims on air',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'NewsNation published \'Ross Coulthart on UAP Gerb\'s claims: I think he\'s on the money\' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.',
@@ -16107,7 +16107,7 @@ export const PROGRAM_EDGES = [
     b: 'newsnation-reality-check',
     type: 'institutional',
     label: 'Coulthart hosts Reality Check',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2021',
     dateEnd: '2026',
     note: 'Coulthart is host and NewsNation\'s senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.',
@@ -16124,7 +16124,7 @@ export const PROGRAM_EDGES = [
     b: 'ffrdc-mechanism',
     type: 'investigative',
     label: 'Dedicated segment \'FFRDCs, U-Arcs, and GOCOs\' at 17:00',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.',
@@ -16209,7 +16209,7 @@ export const PROGRAM_EDGES = [
     b: 'newsnation-reality-check',
     type: 'institutional',
     label: 'Credited research producer',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Named in the on-screen credits of the 4 August 2026 episode.',
@@ -16226,7 +16226,7 @@ export const PROGRAM_EDGES = [
     b: 'gerb-hidden-wing',
     type: 'investigative',
     label: 'Gerb authored the USAF structural map',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ.',
@@ -16277,7 +16277,7 @@ export const PROGRAM_EDGES = [
     b: 'gerb-northrop-trw-investigation',
     type: 'investigative',
     label: 'Gerb authored the Northrop/TRW breakaway analysis',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.',
@@ -16345,7 +16345,7 @@ export const PROGRAM_EDGES = [
     b: 'gerb-battelle-investigation',
     type: 'investigative',
     label: 'Gerb\'s first corporate investigation, with full primary citations',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2024',
     dateEnd: '2024',
     note: 'Published 18 February 2024 with a published citation list including CUFON\'s Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript.',
@@ -16413,7 +16413,7 @@ export const PROGRAM_EDGES = [
     b: 'project-blue-book',
     type: 'programmatic',
     label: 'Battelle\'s Project Stork produced Special Report No. 14',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1952',
     dateEnd: '1955',
     note: 'Project Stork was Battelle\'s contract supporting the Air Force UFO effort; it produced the statistical study issued as Special Report No. 14, a document available in the CIA reading room.',
@@ -16464,7 +16464,7 @@ export const PROGRAM_EDGES = [
     b: 'ralph-blumenthal',
     type: 'investigative',
     label: 'Co-authors of both defining stories, 2017 and 2023',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2017',
     dateEnd: '2023',
     note: 'The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.',
@@ -16477,7 +16477,7 @@ export const PROGRAM_EDGES = [
     b: 'david-grusch',
     type: 'investigative',
     label: 'Kean and Blumenthal broke Grusch\'s crash-retrieval claims',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023',
     dateEnd: '2023',
     note: 'On 5 June 2023 they reported Grusch\'s claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.',
@@ -16754,7 +16754,7 @@ export const PROGRAM_EDGES = [
     b: 'robert-bigelow',
     type: 'behavioral',
     label: 'Knapp introduced Harry Reid to Robert Bigelow',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1996',
     dateEnd: '2007',
     note: 'The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.',
@@ -16771,7 +16771,7 @@ export const PROGRAM_EDGES = [
     b: 'harry-reid',
     type: 'behavioral',
     label: 'Knapp is credited with the Reid-Bigelow introduction',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1996',
     dateEnd: '2007',
     note: 'Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.',
@@ -16788,7 +16788,7 @@ export const PROGRAM_EDGES = [
     b: 'nids',
     type: 'institutional',
     label: 'Worked with Bigelow\'s NIDS alongside Colm Kelleher',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1996',
     dateEnd: '2004',
     note: 'Knapp\'s NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.',
@@ -16805,7 +16805,7 @@ export const PROGRAM_EDGES = [
     b: 'jeremy-corbell',
     type: 'institutional',
     label: 'Co-hosts the Weaponized podcast',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2022',
     dateEnd: '2026',
     note: 'Pairs Knapp\'s four decades of sourcing with Corbell\'s leak pipeline.',
@@ -16822,7 +16822,7 @@ export const PROGRAM_EDGES = [
     b: 'weaponized-podcast',
     type: 'institutional',
     label: 'Co-host',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2022',
     dateEnd: '2026',
     note: 'The primary channel through which leaked Navy imagery has entered the public record.',
@@ -16852,7 +16852,7 @@ export const PROGRAM_EDGES = [
     b: 'luis-elizondo',
     type: 'institutional',
     label: 'Represents Elizondo in litigation against DoD',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023',
     dateEnd: '2026',
     note: 'The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.',
@@ -16882,7 +16882,7 @@ export const PROGRAM_EDGES = [
     b: 'steven-greer',
     type: 'institutional',
     label: 'Sheehan served as counsel to Greer\'s Disclosure Project',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1993',
     dateEnd: '2010',
     note: 'Recorded because it links the movement\'s current legal strategist to its most contested figure, a connection hostile reviewers will use.',
@@ -16933,7 +16933,7 @@ export const PROGRAM_EDGES = [
     b: 'american-alchemy',
     type: 'institutional',
     label: 'Creator and host',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2021',
     dateEnd: '2026',
     note: 'American Alchemy is Michels\' series and the venue for every episode in this domain.',
@@ -16950,7 +16950,7 @@ export const PROGRAM_EDGES = [
     b: 'eric-davis',
     type: 'investigative',
     label: 'Michels put Eric Davis on record with Eric Weinstein, 8 March 2026',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval program structure (2:28:43) and the legacy program (2:35:09); 766,314 views.',
@@ -17139,7 +17139,7 @@ export const PROGRAM_EDGES = [
     b: 'mitre-corporation',
     type: 'institutional',
     label: 'MITRE is the exemplar instance of the mechanism',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1958',
     dateEnd: '2026',
     note: 'MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.',
@@ -17244,7 +17244,7 @@ export const PROGRAM_EDGES = [
     b: 'jake-barber',
     type: 'witness-chain',
     label: 'Michels published Barber\'s crash-retrieval account',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: '2025',
     note: 'Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.',
@@ -17283,7 +17283,7 @@ export const PROGRAM_EDGES = [
     b: 'dylan-borland',
     type: 'institutional',
     label: 'Borland spoke at the 2025 Sol Foundation Symposium',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: '2025',
     note: 'Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.',
@@ -17305,7 +17305,7 @@ export const PROGRAM_EDGES = [
     b: 'dylan-borland',
     type: 'witness-chain',
     label: 'Michels ran a three-episode Borland sequence, August 2026',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: '2026',
     note: 'Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include \'ODNI and the leaked program name\'.',
@@ -20932,7 +20932,7 @@ export const PROGRAM_EDGES = [
     b: 'uap-science-advisory-council',
     type: 'institutional',
     label: 'Chair, appointed June 2026',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: null,
     note: 'DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.',
@@ -21157,7 +21157,7 @@ export const PROGRAM_EDGES = [
     b: 'im1-pacific-expedition-2023',
     type: 'investigative',
     label: 'Siraj\'s interstellar-velocity and seismic localisation determined the search site',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2022',
     dateEnd: '2023',
     note: 'The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.',
@@ -21551,7 +21551,7 @@ export const PROGRAM_EDGES = [
     b: 'harold-puthoff',
     type: 'behavioral',
     label: 'Puthoff among 34 on-camera interviewees',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: null,
     note: 'The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.',
@@ -21568,7 +21568,7 @@ export const PROGRAM_EDGES = [
     b: 'eric-davis',
     type: 'behavioral',
     label: 'Davis among the interviewees',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2025',
     dateEnd: null,
     note: 'Davis\'s participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.',
@@ -22192,7 +22192,12 @@ export const PROGRAM_EDGES = [
         url: 'https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30',
         date: '2024-03-08'
       },
-      { name: 'Wikipedia - Yankee Blue', url: 'https://en.wikipedia.org/wiki/Yankee_Blue', date: '2026-08-12' }
+      { name: 'Wikipedia - Yankee Blue', url: 'https://en.wikipedia.org/wiki/Yankee_Blue', date: '2026-08-12' },
+      {
+        name: 'AARO Historical Record Report Volume I (DOPSR-cleared PDF)',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
+        date: '2024-03-08'
+      }
     ]
   },
   {
@@ -22708,7 +22713,7 @@ export const PROGRAM_EDGES = [
     b: 'aaro',
     type: 'legislative',
     label: 'would abolish AARO outright and bar any successor entity',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026',
     dateEnd: null,
     note: 'The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.',
@@ -22909,6 +22914,11 @@ export const PROGRAM_EDGES = [
         name: 'AARO Historical Record Report Volume I, p.30',
         url: 'https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30',
         date: '2024-03-08'
+      },
+      {
+        name: 'AARO Historical Record Report Volume I (DOPSR-cleared PDF)',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
+        date: '2024-03-08'
       }
     ]
   },
@@ -22940,6 +22950,16 @@ export const PROGRAM_EDGES = [
     note: 'Operação Prato was run by the Força Aérea Brasileira out of the Belém air base in Pará, with the SNI, after mayors in the Colares area formally asked for help. The Brazilian Senate\'s own Requerimento 193/2022 lists it among the official Aeronáutica UAP programmes: \'Desde 1954, o Governo Brasileiro, por meio de sua Aeronáutica, já criou vários programas oficiais de pesquisas dos OVNIs, como em 1977, quando ocorreu a chamada Operação Prato\'. Bob Pratt\'s file records that the operation was staffed by \'Captain Uyrangê Hollanda and six sergeants\' and was shut down after four months by Brigadier Protázio Lopes de Oliveira, the base commander in Belém. This is the base institutional fact the whole Brazilian cluster hangs from and it was previously unwired. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -22961,6 +22981,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '1986-05-19',
     note: 'The 19 May 1986 engagement was executed by the FAB: fighters launched from Santa Cruz and Anápolis against radar plots held by the CINDACTA network. RQS 193/2022 describes it in the Senate\'s own words as the night \'quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato\'. The event node previously connected only to the minister and to the report, not to the service that flew the sorties. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
       {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
@@ -22984,6 +23014,16 @@ export const PROGRAM_EDGES = [
     note: 'Uyrangê Hollanda commanded Operação Prato as a captain of the Brazilian Air Force and retired as a lieutenant colonel. Pratt\'s file: \'In 1997, long after he had retired as a lieutenant colonel, Hollanda decided he was no longer obligated to remain silent about Operação Prato and publicly discussed Operação Prato.\' The institutional tie matters because his later account contradicts the service\'s official negative finding — the contradiction is internal to the FAB, not between the FAB and outsiders.',
     sources: [
       {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -23005,6 +23045,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1990',
     note: 'Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.',
     sources: [
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
       {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
@@ -23028,6 +23073,16 @@ export const PROGRAM_EDGES = [
     note: 'José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.',
     sources: [
       {
+        name: 'Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -23045,6 +23100,16 @@ export const PROGRAM_EDGES = [
     note: 'The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command\'s own occurrence report on them fourteen days later. He is the officer who converted the night into a document.',
     sources: [
       {
+        name: 'Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -23061,6 +23126,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '1986-06-02',
     note: 'Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command\'s CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.',
     sources: [
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)',
+        url: '',
+        date: null
+      },
       {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
@@ -23084,6 +23159,11 @@ export const PROGRAM_EDGES = [
     note: 'The facility registered in CNES as the Hospital Regional do Sul de Minas is the hospital named in the Varginha literature as a place to which an injured being was reportedly taken. Tier 2: the facility and its registry entry are verified fact, the custody sequence rests on witness testimony and journalism and on no hospital record obtained in this pass. The hospital node carried edges to the US congressional side of the story but, oddly, not to the 1996 event itself.',
     sources: [
       {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
         date: '2026-08-12'
@@ -23105,6 +23185,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Structural containment edge. Both nodes stood at degree 0. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
       {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
@@ -23129,6 +23214,11 @@ export const PROGRAM_EDGES = [
     note: 'Basic containment edge; the FAB is the institution that makes Brazil the board\'s counter-example. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -23145,11 +23235,16 @@ export const PROGRAM_EDGES = [
     b: 'operacao-prato',
     type: 'geographic',
     label: 'Operação Prato was run on Colares, Pará, in northern Brazil',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1977-10-20',
     dateEnd: '1978',
     note: 'Pratt\'s file: intelligence agents \'from the Air Force base in Belém in northern Brazil interviewed hundreds of witnesses in Colares and about thirty other villages north of Belém\'.',
     sources: [
+      {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
       {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
@@ -23167,6 +23262,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '1986-05-19',
     note: 'São Paulo, Rio de Janeiro, Minas Gerais and Goiás. A national-scale event, which is why it reads as a state posture rather than a local incident. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
       {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
@@ -23190,6 +23295,16 @@ export const PROGRAM_EDGES = [
     note: 'The Arquivo Nacional\'s own notice identifies the holding as \'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)\', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional\'s Brasília unit. RQS 193/2022 states the transfer route directly: \'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.\' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -23207,11 +23322,21 @@ export const PROGRAM_EDGES = [
     b: 'doc-fab-1986-report',
     type: 'geographic',
     label: 'The report is dated at Brasília, 2 June 1986',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1986-06-02',
     dateEnd: '1986-06-02',
     note: 'The document\'s own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.',
     sources: [
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)',
+        url: '',
+        date: null
+      },
       { name: 'Wikipedia - Brasilia', url: 'https://en.wikipedia.org/wiki/Bras%C3%ADlia', date: '2026-08-12' }
     ]
   },
@@ -23225,6 +23350,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1986-05-23',
     note: 'Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.',
     sources: [
+      {
+        name: 'Correio Braziliense, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\' — https://www.correiobraziliense.com.br/mundo/2026/05/7421517-a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: '',
+        date: null
+      },
       {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
@@ -23249,6 +23379,11 @@ export const PROGRAM_EDGES = [
     note: 'RQS 193/2022 also records the 2005 visit by ufologists to CINDACTA and COMDABRA \'em Brasília\' to inspect the documents — the capital is where both the archive and the legislature that pressed on it are located. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -23271,6 +23406,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '2022-06-24',
     note: 'RQS 193/2022 recites the transfer route from 2007 onward, \'somando-se hoje mais de 20 mil páginas de arquivos liberados\', names Brigadeiro Junichi Saito\'s August 2010 decree in the Diário Oficial da União directing that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional, and gives the archive\'s own search behaviour: \'quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.\' A national legislature citing archival reference codes in a legislative instrument is the specific thing the US board has no equivalent of. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
       {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
@@ -23299,6 +23444,16 @@ export const PROGRAM_EDGES = [
     note: 'RQS 193/2022 names the event: \'em 1986, quando ocorreu a hoje conhecida como "Noite Oficial dos UFOs no Brasil", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.\' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal, Notas Taquigráficas da sessão especial de 24/06/2022 — https://legis.senado.leg.br/escriba-servicosweb/sessao/pdf/25017',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -23326,6 +23481,11 @@ export const PROGRAM_EDGES = [
     note: 'RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist — the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke — lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica \'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida\'. It also records that the Army and Navy did not transfer their holdings — a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
         date: '2026-08-23'
@@ -23347,11 +23507,16 @@ export const PROGRAM_EDGES = [
     b: 'the-black-vault',
     type: 'custody',
     label: 'The American reporter\'s Prato dossier sits in Greenewald\'s archive',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'A file titled \'Operação Prato\', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: \'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78\'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.',
     sources: [
+      {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
       {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
@@ -23370,6 +23535,16 @@ export const PROGRAM_EDGES = [
     note: 'Basterfield records that Pratt \'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.\' Hollanda told him his team \'took about three hundred photos and we photographed eight different types of UFOs.\' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt\'s 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.',
     sources: [
       {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
+      {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
         date: '2026-01-01'
@@ -23386,6 +23561,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '1988-07',
     note: 'From Vallee\'s Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, \'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: "...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato."\' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.',
     sources: [
+      {
+        name: 'Jacques Vallee, \'Forbidden Science Volume Three\' (diary of the July 1988 Brazil trip), quoted in Basterfield, \'Investigative adventures in Brazil\'',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
       {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
@@ -23404,6 +23589,16 @@ export const PROGRAM_EDGES = [
     note: 'The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer\'s access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield\'s account names only Ademar Gevaerd and Helio Loyola as the BAASS teams\' Brazilian contacts.',
     sources: [
       {
+        name: 'Jacques Vallee, \'Forbidden Science Volume Three\' (diary of the July 1988 Brazil trip), quoted in Basterfield, \'Investigative adventures in Brazil\'',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
         date: '2026-01-01'
@@ -23420,6 +23615,21 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Chapter fifteen of Lacatski, Kelleher and Knapp\'s \'Inside the U.S. Government Covert UFO Program: Initial Revelations\' describes the Project Colares database as a \'Data base containing all UAP sighting events related to the 1977-1978, Colares, Brazil, UAP flap. Total records 346. Event timeline 1977-1978.\' The CAPELLA data warehouse, conceived by Jacques Vallee, held eleven data sets of which one was titled \'Brazil\'. Tier 2: book-sourced, quoted by a named researcher; no contract document or DIA record obtained in this pass. This is the strongest outward link the Brazilian cluster has — the American programme did not ignore the Brazilian record, it ingested it.',
     sources: [
+      {
+        name: 'James T. Lacatski, Colm A. Kelleher and George Knapp, \'Inside the U.S. Government Covert UFO Program: Initial Revelations\' (RTMA LLC, Henderson, Nevada, 2023), chapter fifteen',
+        url: '',
+        date: null
+      },
+      {
+        name: 'James T. Lacatski, Colm A. Kelleher and George Knapp, \'Skinwalkers at the Pentagon\' (RTMA LLC, Henderson, Nevada, 2021), list of AAWSAP products',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
       {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
@@ -23438,6 +23648,26 @@ export const PROGRAM_EDGES = [
     note: 'Basterfield and Cecotti\'s reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in \'Skinwalkers at the Pentagon\' includes the BAASS March 2009 monthly report \'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler\', the August 2009 monthly report \'Relations with South American organizations\', and a July 2009 report \'Project Colares/Brazil, Outreach to South America\'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said \'They wanted artifacts from UFOs, such as metamaterials\'; Fortaleza researcher Helio Loyola said \'Here in Brazil they didn\'t do any research. They took and photographed what the ufologists saw and documented.\' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.',
     sources: [
       {
+        name: 'James T. Lacatski, Colm A. Kelleher and George Knapp, \'Skinwalkers at the Pentagon\' (RTMA LLC, Henderson, Nevada, 2021), list of AAWSAP products',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield and Marc Cecotti, \'BAASS team visited Brazil\', 7 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/baass-team-visited-brazil.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield and Marc Cecotti, \'Further insights into BAASS in Brazil\', 17 April 2020 — https://ufos-scientificresearch.blogspot.com/2020/04/further-insights-into-baass-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Keith Basterfield, \'Investigative adventures in Brazil\', Unidentified Anomalous Phenomena – scientific research, 22 July 2024, with update of 16 February 2025 — https://ufos-scientificresearch.blogspot.com/2024/07/investigative-adventures-in-brazil.html',
+        url: '',
+        date: null
+      },
+      {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
         date: '2026-01-01'
@@ -23454,6 +23684,21 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'FY2024 National Defense Authorization Act, Public Law 118-31, sections 1841–1843 (Unidentified Anomalous Phenomena Records Collection at NARA)',
+        url: '',
+        date: null
+      },
       {
         name: 'Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa \'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia\', 16 March 2022, Sen. Eduardo Girão and seven co-signers',
         url: 'https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022',
@@ -23478,6 +23723,11 @@ export const PROGRAM_EDGES = [
     note: 'COMPARISON EDGE, and a sourced negative. Section V.A of AARO\'s FY2025 Consolidated Annual Report is two sentences in full: \'During the reporting period, AARO continued to engage with international partners to exchange information and best practices for UAP reporting, analysis, and response. AARO\'s deputy director presented a mission briefing to the Defense Geospatial Intelligence conference in London, United Kingdom.\' No foreign office, no foreign air force and no foreign archive is named anywhere in the document except that one London conference. Brazil, the FAB and the Arquivo Nacional — the largest declassified military UAP holding in the Americas — do not appear. The task asked what the section actually names: it names one conference in London and nothing else.',
     sources: [
       {
+        name: 'All-domain Anomaly Resolution Office, \'Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena\', document 26-P-0880, section V.A \'Foreign Partner Engagement\' — https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
+        url: '',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -23494,6 +23744,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '2025-06',
     note: 'COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined \'the management of UAP reporting in several countries\' and concluded that \'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches\'. Its recommendation 13 tells the future Canadian lead organisation to \'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).\' The word \'Brazil\' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.',
     sources: [
+      {
+        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
+      },
       { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' }
     ]
   },
@@ -23507,6 +23762,16 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.',
     sources: [
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
+      },
       {
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
@@ -23526,6 +23791,11 @@ export const PROGRAM_EDGES = [
     note: 'COMPARISON EDGE — no institutional contact between the FAP and the FAB is claimed. Peru\'s state news agency Andina, reporting the reopening on 18 October 2013, closes: \'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.\' Brazil is named by a Peruvian government outlet as the regional benchmark. The same report establishes the office\'s identity that the peru-uap-office node lacked: the Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA), sitting under the Dirección de Intereses Aéreos Espaciales (DINAE), whose head Coronel FAP Julio Vucetich Abanto announced the public reporting channel, the office having been closed for five years \'a causa de problemas administrativos\'. The reopening was announced at an FAP-hosted \'Encuentro sobre Fenómenos Aéreos Anómalos\' addressing the Nazca Lines question.',
     sources: [
       {
+        name: 'Agencia Peruana de Noticias Andina (Editora Perú), \'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP\', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        url: '',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -23543,6 +23813,11 @@ export const PROGRAM_EDGES = [
     note: 'COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA\'s reopening brought Peru level with, and reports Peru\'s stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile\'s civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.',
     sources: [
       {
+        name: 'Agencia Peruana de Noticias Andina (Editora Perú), \'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP\', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        url: '',
+        date: null
+      },
+      {
         name: 'Andina (Agencia Peruana de Noticias), \'Fenomenos aereos anomalos en Peru podran reportarse a la FAP\', 18 October 2013',
         url: 'https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
         date: '2013-10-18'
@@ -23559,6 +23834,16 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: \'a country has an office\' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA\'s founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.',
     sources: [
+      {
+        name: 'Agencia Peruana de Noticias Andina (Editora Perú), \'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP\', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\' (Sky Canada Project, 2025) — https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
+      },
       {
         name: 'Andina, \'Fenomenos aereos anomalos en Peru podran reportarse a la FAP\', 18 October 2013',
         url: 'https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
@@ -24083,7 +24368,7 @@ export const PROGRAM_EDGES = [
     b: 'd-media',
     type: 'investigative',
     label: 'the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2021',
     dateEnd: null,
     note: 'NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.',
@@ -24237,7 +24522,7 @@ export const PROGRAM_EDGES = [
     b: 'd-media',
     type: 'investigative',
     label: 'the most detailed structural reconstruction in circulation, published on a YouTube channel',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2026-01-11',
     dateEnd: null,
     note: 'A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain\'s defining fact.',
@@ -24781,7 +25066,7 @@ export const PROGRAM_EDGES = [
     b: 'd-contracting',
     type: 'institutional',
     label: 'a non-FAR instrument binding the Army to a private claimant of recovered material',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2019-10-10',
     dateEnd: null,
     note: 'Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party\'s proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner\'s own contemporaneous FAQ.',
@@ -24831,6 +25116,16 @@ export const PROGRAM_EDGES = [
     note: 'Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman\'s 2 June 2009 statement records that McHugh \'took the reins as Ranking Member ... in January\'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.',
     sources: [
       {
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
+        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
+        date: null
+      },
+      {
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: '2026-08-22'
@@ -24853,14 +25148,19 @@ export const PROGRAM_EDGES = [
     note: 'McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.',
     sources: [
       {
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
+        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
+        date: null
+      },
+      {
+        name: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
+        url: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
+        date: null
+      },
+      {
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
-      },
-      {
-        name: 'democrats-armedservices.house.gov',
-        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army',
-        date: null
       }
     ]
   },
@@ -24875,19 +25175,24 @@ export const PROGRAM_EDGES = [
     note: 'Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board\'s current-holder roster does not cover.',
     sources: [
       {
-        name: '10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: '2026-08-22'
+        date: null
       },
       {
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
-      },
-      {
-        name: 'democrats-armedservices.house.gov',
-        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
-        date: null
       }
     ]
   },
@@ -24902,14 +25207,14 @@ export const PROGRAM_EDGES = [
     note: 'Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.',
     sources: [
       {
+        name: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: '2026-08-22'
-      },
-      {
-        name: 'democrats-armedservices.house.gov',
-        url: 'https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member',
-        date: null
       }
     ]
   },
@@ -24923,6 +25228,16 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed \'Chairman Inouye, Ranking Member Cochran,\' which resolves the board\'s earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.',
     sources: [
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-111shrg48290/html/CHRG-111shrg48290.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        date: null
+      },
       {
         name: '10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
@@ -24946,9 +25261,14 @@ export const PROGRAM_EDGES = [
     note: 'The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.',
     sources: [
       {
-        name: '10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: '2026-08-22'
+        date: null
       },
       {
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)',
@@ -24968,6 +25288,16 @@ export const PROGRAM_EDGES = [
     note: 'Start date corrected from the board\'s earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.',
     sources: [
       {
+        name: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
+        url: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
+        date: null
+      },
+      {
+        name: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
+        url: 'https://appropriations.house.gov/news/press-releases/cole-calvert-statement-white-house-defense-supplemental-request',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: '2026-08-22'
@@ -24976,11 +25306,6 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
-      },
-      {
-        name: 'cole.house.gov',
-        url: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
-        date: null
       }
     ]
   },
@@ -24995,7 +25320,7 @@ export const PROGRAM_EDGES = [
     note: 'The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.',
     sources: [
       {
-        name: 'cole.house.gov',
+        name: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
         url: 'https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations',
         date: null
       },
@@ -25022,6 +25347,11 @@ export const PROGRAM_EDGES = [
     note: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs,\' effective 12 September 2024, para. 7.2.a(3): \'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee\'s respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.\' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction \'except for waived programs.\'',
     sources: [
       {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: '2026-08-22'
@@ -25030,6 +25360,11 @@ export const PROGRAM_EDGES = [
         name: 'Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)',
         url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
         date: '2026-05-18'
+      },
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        date: null
       }
     ]
   },
@@ -25043,6 +25378,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: \'The Secretary of Defense may designate select unacknowledged SAPs as "waived" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.\' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as \'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.\' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee\'s annual review to assess \'All waived DoD SAPs to determine the need for continued waived status\' - an internal executive-branch review with no congressional trigger and no analogue in section 119.',
     sources: [
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        date: null
+      },
       {
         name: 'DoD Directive 5205.07, Special Access Program (SAP) Policy',
         url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
@@ -25060,6 +25400,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'DoDI 5205.11 para. 7.2.h, \'Congressional Budget Justification Materials\': \'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.\' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.',
     sources: [
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        date: null
+      },
       {
         name: 'DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm',
@@ -25083,6 +25428,21 @@ export const PROGRAM_EDGES = [
     note: 'Art. 3 mandates periodic transfer of originals, which is why the fund has no terminal year. Published DOU 10 Aug 2010, Seção 1, p. 101. Revoked Nota C-002/MIN/ADM (13 Apr 1978) and Aviso S-001/MIN (28 Feb 1989). Successive accessions are documented at least to a \'terceiro recolhimento\' covering 1981, with CENDOC\'s bulk remittance to COREG scheduled to close 31 Aug 2010; FAB states coverage now runs 1952-2025.',
     sources: [
       {
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        date: null
+      },
+      {
+        name: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -25100,6 +25460,16 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Arquivo Nacional\'s own answer to a litigant, quoted in the 2023 federal judgment. Contrasts with the 2011 parliamentary finding that hundreds of photographs (of 500+) and hours of super 8 / super 16mm film were never transferred from I COMAR. The court found insufficient evidence that the audiovisual files exist; the parliamentary record asserts they did. Both positions are on the record and are not reconciled.',
     sources: [
+      {
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        date: null
+      },
       {
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
@@ -25405,6 +25775,16 @@ export const PROGRAM_EDGES = [
         name: 'Operação Prato - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
         date: '2026-01-01'
+      },
+      {
+        name: 'Bob Pratt, \'Operação Prato\', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
       }
     ]
   },
@@ -25434,7 +25814,13 @@ export const PROGRAM_EDGES = [
     dateStart: '1978',
     dateEnd: '1990',
     note: 'Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme\'s published account.',
-    sources: []
+    sources: [
+      {
+        name: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        url: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        date: null
+      }
+    ]
   },
   {
     a: 'setka-program',
@@ -25445,7 +25831,13 @@ export const PROGRAM_EDGES = [
     dateStart: '1977-10',
     dateEnd: '1990',
     note: 'The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was \'one of the central military research institutes in the Moscow region\'; and the academic branch was run from IZMIRAN, also in the Moscow region.',
-    sources: []
+    sources: [
+      {
+        name: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        url: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        date: null
+      }
+    ]
   },
   {
     a: 'setka-program',
@@ -25466,6 +25858,11 @@ export const PROGRAM_EDGES = [
         name: 'Project Condign Volume 3 (UK MoD assessment of FSU activity)',
         url: 'https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt',
         date: '2006-05-15'
+      },
+      {
+        name: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        url: 'http://www.debunker.com/historical/HistoryRussianUFOlogy.html',
+        date: null
       }
     ]
   },
@@ -25488,6 +25885,16 @@ export const PROGRAM_EDGES = [
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        url: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        date: null
+      },
+      {
+        name: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        url: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        date: null
       }
     ]
   },
@@ -25510,6 +25917,16 @@ export const PROGRAM_EDGES = [
         name: 'Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)',
         url: 'https://legis.senado.leg.br/dadosabertos/senador/lista/atual',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        date: null
+      },
+      {
+        name: 'https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis',
+        url: 'https://www12.senado.leg.br/noticias/materias/2022/06/24/em-homenagem-no-plenario-ufologos-cobram-liberacao-de-documentos-sobre-ovnis',
+        date: null
       }
     ]
   },
@@ -25527,6 +25944,16 @@ export const PROGRAM_EDGES = [
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        url: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        date: null
+      },
+      {
+        name: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        url: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        date: null
       }
     ]
   },
@@ -25544,6 +25971,16 @@ export const PROGRAM_EDGES = [
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        url: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        date: null
+      },
+      {
+        name: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        url: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        date: null
       }
     ]
   },
@@ -25561,6 +25998,16 @@ export const PROGRAM_EDGES = [
         name: 'CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)',
         url: 'https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        url: 'https://thedebrief.org/caso-historico-de-ovni-no-brasil-chega-ao-capitolio-enquanto-o-incidente-de-varginha-completa-30-anos/',
+        date: null
+      },
+      {
+        name: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        url: 'https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/',
+        date: null
       }
     ]
   },
@@ -25583,6 +26030,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -25627,6 +26085,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
         date: '2009-10-30'
+      },
+      {
+        name: 'Defense Intelligence Agency FOIA Electronic Reading Room, \'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues\' -- https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'The Black Vault, \'The Advanced Aerospace Weapon System Applications Program (AAWSAP) Documentation\' (DIA FOIA-0159-2018, 37 of 38 DIRDs released March 25, 2022) -- https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -25654,7 +26122,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -25681,6 +26155,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -25703,6 +26188,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
         date: '2026-08-22'
+      },
+      {
+        name: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
+        url: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -25725,7 +26220,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
         date: '2026-08-22'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -25752,7 +26248,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -25774,7 +26276,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
         date: '2026-08-22'
-      }
+      },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -25801,6 +26304,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        date: null
       }
     ]
   },
@@ -25823,7 +26336,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
         date: '2026-08-22'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -25845,6 +26359,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
         date: '2026-08-22'
+      },
+      {
+        name: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        date: null
       }
     ]
   },
@@ -25872,6 +26391,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -25899,7 +26424,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -25926,6 +26452,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -25953,6 +26485,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
       }
     ]
   },
@@ -25975,7 +26513,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
         date: '2026-08-22'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26002,6 +26541,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26029,6 +26574,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        date: null
       }
     ]
   },
@@ -26056,7 +26612,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26083,6 +26640,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        url: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        date: null
       }
     ]
   },
@@ -26110,7 +26678,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26132,6 +26701,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
+      },
+      {
+        name: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        date: null
       }
     ]
   },
@@ -26154,6 +26733,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
         date: '2026-08-22'
+      },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -26181,6 +26771,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26208,6 +26804,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
       }
     ]
   },
@@ -26230,6 +26837,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
         date: '2026-08-22'
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26257,6 +26870,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      },
+      {
+        name: 'https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf',
+        url: 'https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf',
+        date: null
       }
     ]
   },
@@ -26284,7 +26908,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26311,7 +26936,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26338,6 +26969,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        date: null
       }
     ]
   },
@@ -26365,7 +27007,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26392,6 +27035,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -26419,7 +27068,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26446,7 +27101,9 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -26495,7 +27152,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26522,6 +27180,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
+      {
+        name: 'https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/',
+        url: 'https://uapedia.ai/wiki/origins-of-aatip-aawsap-programs-dirds/',
+        date: null
       }
     ]
   },
@@ -26544,6 +27213,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -26571,7 +27245,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26598,7 +27273,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26625,6 +27301,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26647,6 +27329,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
         date: '2026-08-22'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26674,6 +27362,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract',
+        url: 'https://ui.adsabs.harvard.edu/abs/2011JBIS...64....3W/abstract',
+        date: null
       }
     ]
   },
@@ -26696,7 +27395,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
         date: '2026-08-22'
-      }
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -26723,6 +27423,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        date: null
       }
     ]
   },
@@ -26750,6 +27460,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26772,6 +27488,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -26816,6 +27537,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
       }
     ]
   },
@@ -26843,7 +27569,14 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26870,7 +27603,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26892,6 +27626,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry for this reference document',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -26919,6 +27658,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -26946,7 +27691,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -26973,7 +27724,13 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
-      }
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -27044,6 +27801,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
+        url: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
+        date: null
+      },
+      {
+        name: 'https://www.unlv.edu/people/william-culbreth',
+        url: 'https://www.unlv.edu/people/william-culbreth',
+        date: null
       }
     ]
   },
@@ -27071,6 +27839,17 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        url: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -27098,6 +27877,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee, listing the 38 AAWSAP/AATIP reference products and their authors and affiliations',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
       }
     ]
   },
@@ -27120,6 +27905,11 @@ export const PROGRAM_EDGES = [
         name: 'The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/',
         date: '2022-03-31'
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
       }
     ]
   },
@@ -27141,6 +27931,11 @@ export const PROGRAM_EDGES = [
       {
         name: 'theblackvault.com',
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       }
     ]
@@ -27164,6 +27959,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
         date: '2010-04-02'
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        date: null
       }
     ]
   },
@@ -27186,6 +27986,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Biosensors and BioMEMS: A Survey of the Present Field (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
         date: '2010-03-31'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
       }
     ]
   },
@@ -27230,6 +28035,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
         date: '2010-04-06'
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html',
+        date: null
       }
     ]
   },
@@ -27252,7 +28063,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Concepts for Extracting Energy From the Quantum Vacuum (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
         date: '2010-04-06'
-      }
+      },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -27323,6 +28135,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee listing 38 AAWSAP/AATIP reference products (FAS Intelligence Resource Program)',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
       }
     ]
   },
@@ -27543,6 +28360,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
         date: '2010-11-20'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
       }
     ]
   },
@@ -27641,6 +28463,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Quantum Tomography of Negative Energy States in the Vacuum (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
         date: '2011-01-11'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -27839,7 +28666,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
         date: '2010-04-02'
-      }
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -27883,6 +28711,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
         date: '2010-03-23'
+      },
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
+        date: null
       }
     ]
   },
@@ -27910,6 +28743,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA letter of 9 January 2018 to the Senate Armed Services Committee listing 38 AAWSAP/AATIP reference products (FAS Intelligence Resource Program)',
         url: 'https://fas.org/publication/aatip-list/',
         date: '2026-08-23'
+      },
+      {
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
       }
     ]
   },
@@ -27976,6 +28814,16 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Inertial Electrostatic Confinement Fusion (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
         date: '2010-03-10'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
       }
     ]
   },
@@ -27998,6 +28846,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
         date: '2010-12-15'
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
       }
     ]
   },
@@ -28042,7 +28895,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
         date: '2010-04-06'
-      }
+      },
+      { name: 'http://earthtech.org/pubs/davis/', url: 'http://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -28108,7 +28962,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
         date: '2010-11-01'
-      }
+      },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null }
     ]
   },
   {
@@ -28245,6 +29100,16 @@ export const PROGRAM_EDGES = [
         name: 'Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)',
         url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
         date: '2026-05-18'
+      },
+      {
+        name: 'https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/',
+        url: 'https://defensescoop.com/2025/03/14/stephen-feinberg-deputy-secretary-defense-senate-confirmed-trump/',
+        date: null
+      },
+      {
+        name: 'https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense',
+        url: 'https://www.armed-services.senate.gov/hearings/to-consider-the-nomination-of-mr-stephen-a-feinberg-to-be-deputy-secretary-of-defense',
+        date: null
       }
     ]
   },
@@ -28272,6 +29137,16 @@ export const PROGRAM_EDGES = [
         name: 'Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)',
         url: 'https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/',
         date: '2026-01-13'
+      },
+      {
+        name: 'https://msutoday.msu.edu/news/2017/12/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct',
+        url: 'https://msutoday.msu.edu/news/2017/12/msu-scholars-find-21-trillion-in-unauthorized-government-spending-defense-department-to-conduct',
+        date: null
+      },
+      {
+        name: 'https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/',
+        url: 'https://www.forbes.com/sites/kotlikoff/2017/12/08/has-our-government-spent-21-trillion-of-our-money-without-telling-us/',
+        date: null
       }
     ]
   },
@@ -28294,6 +29169,11 @@ export const PROGRAM_EDGES = [
         name: 'The Hill - \'Shocking UFO allegations make the case for the Disclosure Act\'',
         url: 'https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/',
         date: '2024-01-01'
+      },
+      {
+        name: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        url: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        date: null
       }
     ]
   },
@@ -28311,6 +29191,11 @@ export const PROGRAM_EDGES = [
         name: 'Archived: NORAD Newsroom (Wayback 2026-05-18)',
         url: 'https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/',
         date: '2026-05-18'
+      },
+      {
+        name: 'https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions',
+        url: 'https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions',
+        date: null
       }
     ]
   },
@@ -28333,6 +29218,11 @@ export const PROGRAM_EDGES = [
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
         date: '2009-05-04'
+      },
+      {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: null
       }
     ]
   },
@@ -28355,6 +29245,16 @@ export const PROGRAM_EDGES = [
         name: 'FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950',
         url: 'https://vault.fbi.gov/',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        date: null
+      },
+      {
+        name: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        url: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        date: null
       }
     ]
   },
@@ -28377,6 +29277,16 @@ export const PROGRAM_EDGES = [
         name: 'Same paper, publisher record with author affiliations',
         url: 'https://www.nature.com/articles/s41598-025-21620-3',
         date: '2025-10-20'
+      },
+      {
+        name: 'Paul Govern, \'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it,\' Vanderbilt Health News (VUMC), May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Stephen Bruehl, cluster-analysis study of 216 UAP cases, World Futures, published online October 1, 2025 (title not given in the VUMC source) -- https://www.tandfonline.com/doi/full/10.1080/02604027.2025.2561724',
+        url: '',
+        date: null
       }
     ]
   },
@@ -28394,7 +29304,13 @@ export const PROGRAM_EDGES = [
         name: 'Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive',
         url: 'https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf',
         date: '2014-02-18'
-      }
+      },
+      {
+        name: 'Air Force Policy Directive 16-7, \'Special Access Programs,\' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf',
+        url: '',
+        date: null
+      },
+      { name: 'https://fas.org/publication/usaf_sap/', url: 'https://fas.org/publication/usaf_sap/', date: null }
     ]
   },
   {
@@ -28416,6 +29332,11 @@ export const PROGRAM_EDGES = [
         name: 'National Reconnaissance Office - About NRO',
         url: 'https://www.nro.gov/About-NRO/',
         date: '2026-08-12'
+      },
+      {
+        name: 'https://www.nro.gov/About-NRO/Leadership/leadership-adkins/',
+        url: 'https://www.nro.gov/About-NRO/Leadership/leadership-adkins/',
+        date: null
       }
     ]
   },
@@ -28438,6 +29359,11 @@ export const PROGRAM_EDGES = [
         name: 'GAO/NSIAD-95-187, full report (PDF)',
         url: 'https://www.gao.gov/assets/nsiad-95-187.pdf',
         date: '1995-07-28'
+      },
+      {
+        name: 'GAO/NSIAD-95-187, report to the Honorable Steven H. Schiff, House of Representatives, July 28, 1995 -- https://sgp.fas.org/othergov/roswell.html',
+        url: '',
+        date: null
       }
     ]
   },
@@ -28455,6 +29381,16 @@ export const PROGRAM_EDGES = [
         name: 'Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive',
         url: 'https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf',
         date: '2014-02-18'
+      },
+      {
+        name: 'Air Force Policy Directive 16-7, \'Special Access Programs,\' December 29, 2010 -- https://irp.fas.org/doddir/usaf/afpd16-7.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Steven Aftergood, \'Air Force SAP Policy Limits Congressional Contacts,\' Federation of American Scientists, January 4, 2011 -- https://fas.org/publication/usaf_sap/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -28499,6 +29435,21 @@ export const PROGRAM_EDGES = [
         name: 'Archived: DoD FOIA 23-F-0946 - Grusch DOPSR request records (Wayback 2026-06-12)',
         url: 'https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf',
         date: '2026-06-12'
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        date: null
+      },
+      {
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
+        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
+        date: null
+      },
+      {
+        name: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
+        url: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
+        date: null
       }
     ]
   },
@@ -28521,6 +29472,11 @@ export const PROGRAM_EDGES = [
         name: 'Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)',
         url: 'https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
         date: '2026-05-18'
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        date: null
       }
     ]
   },
@@ -28543,6 +29499,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
       }
     ]
   },
@@ -28587,6 +29548,16 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
+        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
       }
     ]
   },
@@ -28631,6 +29602,16 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.appropriations.senate.gov/about/members',
+        url: 'https://www.appropriations.senate.gov/about/members',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        date: null
       }
     ]
   },
@@ -28663,6 +29644,11 @@ export const PROGRAM_EDGES = [
         name: 'The Debrief — UAP Disclosure Act receives pushback from lawmakers',
         url: 'https://thedebrief.org/uap-disclosure-act-receives-pushback-from-lawmakers-on-capitol-hill-as-bipartisan-fight-for-transparency-continues/',
         date: '2023-11-27'
+      },
+      {
+        name: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        url: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        date: null
       }
     ]
   },
@@ -28690,6 +29676,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. GPO, Hearing transcript, Serial No. 118-53 (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
+      },
+      {
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
       }
     ]
   },
@@ -28717,6 +29708,11 @@ export const PROGRAM_EDGES = [
         name: 'Archived: Department of War - PURSUE portal (war.gov/UFO) (Wayback 2026-08-10)',
         url: 'https://web.archive.org/web/20260810202017/https://www.war.gov/UFO/',
         date: '2026-08-10'
+      },
+      {
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
       }
     ]
   },
@@ -28761,6 +29757,16 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
+        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-119th-congress',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
       }
     ]
   },
@@ -28805,6 +29811,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro',
+        url: 'https://democrats-appropriations.house.gov/about/ranking-member-rosa-l-delauro',
+        date: null
       }
     ]
   },
@@ -28827,6 +29838,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://www.appropriations.senate.gov/about/members',
+        url: 'https://www.appropriations.senate.gov/about/members',
+        date: null
       }
     ]
   },
@@ -28849,6 +29865,16 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Senate, Dates of Sessions of the Congress (convening dates used to date each seat)',
         url: 'https://www.senate.gov/legislative/DatesofSessionsofCongress.htm',
         date: '2026-08-22'
+      },
+      {
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
       }
     ]
   },
@@ -28876,6 +29902,11 @@ export const PROGRAM_EDGES = [
         name: 'CHRG-118hhrg57440, printed hearing transcript, \'Unidentified Anomalous Phenomena: Exposing the Truth\', Serial No. 118-135',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf',
         date: '2024-11-13'
+      },
+      {
+        name: 'https://armedservices.house.gov/about/members.htm',
+        url: 'https://armedservices.house.gov/about/members.htm',
+        date: null
       }
     ]
   },
@@ -28898,6 +29929,11 @@ export const PROGRAM_EDGES = [
         name: 'DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm',
         date: '2026-02-03'
+      },
+      {
+        name: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        url: 'https://www.appropriations.senate.gov/subcommittees/defense',
+        date: null
       }
     ]
   },
@@ -28925,6 +29961,11 @@ export const PROGRAM_EDGES = [
         name: 'S. 4784 (Reported in Senate), FY2027 NDAA — GPO',
         url: 'https://www.govinfo.gov/content/pkg/BILLS-119s4784rs/html/BILLS-119s4784rs.htm',
         date: '2026-06-15'
+      },
+      {
+        name: 'https://www.armed-services.senate.gov/about/membership',
+        url: 'https://www.armed-services.senate.gov/about/membership',
+        date: null
       }
     ]
   },
@@ -29001,6 +30042,11 @@ export const PROGRAM_EDGES = [
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
         date: '2009-06-24'
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        date: null
       }
     ]
   },
@@ -29050,6 +30096,21 @@ export const PROGRAM_EDGES = [
         name: 'Congress.gov — S. 2226',
         url: 'https://www.congress.gov/bill/118th-congress/senate-bill/2226',
         date: '2023-07-11'
+      },
+      {
+        name: 'https://www.armed-services.senate.gov/about/membership',
+        url: 'https://www.armed-services.senate.gov/about/membership',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        date: null
       }
     ]
   },
@@ -29211,6 +30272,12 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2022-03'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
+        date: null
       }
     ]
   },
@@ -29233,6 +30300,11 @@ export const PROGRAM_EDGES = [
         name: 'Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)',
         url: 'https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
         date: '2026-05-08'
+      },
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        date: null
       }
     ]
   },
@@ -29255,7 +30327,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
         date: '2022-03-25'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -29277,7 +30350,8 @@ export const PROGRAM_EDGES = [
         name: 'DIRD, \'Negative Mass Propulsion\', 3 January 2011, 44 pp., DIA-08-1101-023 (DIA FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
         date: '2011-01-03'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -29299,7 +30373,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
         date: '2022-03-25'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -29321,7 +30396,8 @@ export const PROGRAM_EDGES = [
         name: 'DIA FOIA Electronic Reading Room entry',
         url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
         date: '2022-03-25'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -29343,7 +30419,8 @@ export const PROGRAM_EDGES = [
         name: 'DIRD, \'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\', 20 November 2010, 47 pp., DIA-08-1012-001 (DIA FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         date: '2010-11-20'
-      }
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -29360,6 +30437,11 @@ export const PROGRAM_EDGES = [
         name: 'AARO, The Department of Defense All-domain Anomaly Resolution Office Historical Record Report Volume 1, 8 March 2024',
         url: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
         date: '2024-03-08'
+      },
+      {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: null
       }
     ]
   },
@@ -29377,6 +30459,11 @@ export const PROGRAM_EDGES = [
         name: 'AARO, Historical Record Report Volume 1, 8 March 2024',
         url: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
         date: '2024-03-08'
+      },
+      {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: null
       }
     ]
   },
@@ -29445,6 +30532,16 @@ export const PROGRAM_EDGES = [
         name: 'Public Law 117-81, National Defense Authorization Act for Fiscal Year 2022, sec. 1683',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm',
         date: '2021-12-27'
+      },
+      {
+        name: 'https://www.govinfo.gov/app/details/PLAW-117publ81',
+        url: 'https://www.govinfo.gov/app/details/PLAW-117publ81',
+        date: null
+      },
+      {
+        name: 'https://www.acq.osd.mil/dpap/dars/docs/early_engagement_opportunity/PubL117-81_NDAA_FY2022.pdf',
+        url: 'https://www.acq.osd.mil/dpap/dars/docs/early_engagement_opportunity/PubL117-81_NDAA_FY2022.pdf',
+        date: null
       }
     ]
   },
@@ -29462,6 +30559,16 @@ export const PROGRAM_EDGES = [
         name: 'GAO/NSIAD-95-187, \'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico\', 28 July 1995',
         url: 'https://www.gao.gov/assets/nsiad-95-187.pdf',
         date: '1995-07-28'
+      },
+      {
+        name: 'GAO/NSIAD-95-187, \'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico,\' July 28, 1995 -- https://sgp.fas.org/othergov/roswell.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://sgp.fas.org/othergov/roswell.html',
+        url: 'https://sgp.fas.org/othergov/roswell.html',
+        date: null
       }
     ]
   },
@@ -29484,6 +30591,11 @@ export const PROGRAM_EDGES = [
         name: 'NSF NCSES Master Government List of FFRDCs',
         url: 'https://ncses.nsf.gov/resource/master-gov-lists-ffrdc',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Mitre_Corporation',
+        url: 'https://en.wikipedia.org/wiki/Mitre_Corporation',
+        date: null
       }
     ]
   },
@@ -29506,6 +30618,16 @@ export const PROGRAM_EDGES = [
         name: 'NSF NCSES Master Government List of FFRDCs',
         url: 'https://ncses.nsf.gov/resource/master-gov-lists-ffrdc',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Mitre_Corporation',
+        url: 'https://en.wikipedia.org/wiki/Mitre_Corporation',
+        date: null
+      },
+      {
+        name: 'https://clui.org/ludb/site/mitre-corporation-bedford-headquarters',
+        url: 'https://clui.org/ludb/site/mitre-corporation-bedford-headquarters',
+        date: null
       }
     ]
   },
@@ -29523,6 +30645,11 @@ export const PROGRAM_EDGES = [
         name: 'Public Law 105-272, sec. 309 (Intelligence Authorization Act for FY1999)',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-105publ272/html/PLAW-105publ272.htm',
         date: '1998-10-20'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Central_Intelligence_Agency',
+        url: 'https://en.wikipedia.org/wiki/Central_Intelligence_Agency',
+        date: null
       }
     ]
   },
@@ -29540,6 +30667,11 @@ export const PROGRAM_EDGES = [
         name: 'Compilation of Presidential Documents, DCPD-202100617, \'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia\'',
         url: 'https://www.govinfo.gov/app/details/DCPD-202100617',
         date: '2021-07-27'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/National_Counterterrorism_Center',
+        url: 'https://en.wikipedia.org/wiki/National_Counterterrorism_Center',
+        date: null
       }
     ]
   },
@@ -29557,7 +30689,13 @@ export const PROGRAM_EDGES = [
         name: 'NSF NCSES Master Government List of FFRDCs',
         url: 'https://ncses.nsf.gov/resource/master-gov-lists-ffrdc',
         date: '2026-08-25'
-      }
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/RAND_Corporation',
+        url: 'https://en.wikipedia.org/wiki/RAND_Corporation',
+        date: null
+      },
+      { name: 'https://www.rand.org/about.html', url: 'https://www.rand.org/about.html', date: null }
     ]
   },
   {
@@ -29579,6 +30717,11 @@ export const PROGRAM_EDGES = [
         name: 'NSF NCSES Master Government List of FFRDCs',
         url: 'https://ncses.nsf.gov/resource/master-gov-lists-ffrdc',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://cufos.org/resources/project-blue-book/',
+        url: 'https://cufos.org/resources/project-blue-book/',
+        date: null
       }
     ]
   },
@@ -29596,6 +30739,21 @@ export const PROGRAM_EDGES = [
         name: 'Project Blue Book Special Report No. 14, 5 May 1955 (CIA-RDP81R00560R000100060001-5, released copy, 313 pp.)',
         url: 'https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf',
         date: '1955-05-05'
+      },
+      {
+        name: 'https://archive.org/details/ProjectBlueBookSpecialReport14',
+        url: 'https://archive.org/details/ProjectBlueBookSpecialReport14',
+        date: null
+      },
+      {
+        name: 'https://cufos.org/resources/project-blue-book/',
+        url: 'https://cufos.org/resources/project-blue-book/',
+        date: null
+      },
+      {
+        name: 'https://www.isaackoi.com/ufo/19550505-bluebook-special-report-14.html',
+        url: 'https://www.isaackoi.com/ufo/19550505-bluebook-special-report-14.html',
+        date: null
       }
     ]
   },
@@ -29604,7 +30762,7 @@ export const PROGRAM_EDGES = [
     b: 'nro',
     type: 'geographic',
     label: 'NRO headquarters, Westfields, Chantilly',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.',
@@ -29613,6 +30771,11 @@ export const PROGRAM_EDGES = [
         name: 'National Reconnaissance Office, Contact Us (14675 Lee Road, Chantilly, VA 20151-1715)',
         url: 'https://www.nro.gov/Contact-Us/',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/National_Reconnaissance_Office',
+        url: 'https://en.wikipedia.org/wiki/National_Reconnaissance_Office',
+        date: null
       }
     ]
   },
@@ -29626,7 +30789,12 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'NASA describes Ames as \'one of ten NASA field centers ... located in the heart of California\'s Silicon Valley\', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958.',
     sources: [
-      { name: 'NASA Ames Research Center', url: 'https://www.nasa.gov/ames/', date: '2026-08-25' }
+      { name: 'NASA Ames Research Center', url: 'https://www.nasa.gov/ames/', date: '2026-08-25' },
+      {
+        name: 'https://en.wikipedia.org/wiki/Ames_Research_Center',
+        url: 'https://en.wikipedia.org/wiki/Ames_Research_Center',
+        date: null
+      }
     ]
   },
   {
@@ -29634,7 +30802,7 @@ export const PROGRAM_EDGES = [
     b: 'galileo-project',
     type: 'geographic',
     label: 'first Galileo Observatory, Harvard College Observatory roof',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'Figure 1 of the project\'s own overview paper captions the \'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)\'. This is the physical instrument site for the instrumented search, not merely an administrative address.',
@@ -29643,6 +30811,12 @@ export const PROGRAM_EDGES = [
         name: 'Loeb and Laukien, \'Overview of the Galileo Project\', arXiv:2209.02479, Figure 1 caption',
         url: 'https://arxiv.org/abs/2209.02479',
         date: '2022-09-02'
+      },
+      { name: 'https://galileo.hsites.harvard.edu/', url: 'https://galileo.hsites.harvard.edu/', date: null },
+      {
+        name: 'https://en.wikipedia.org/wiki/The_Galileo_Project',
+        url: 'https://en.wikipedia.org/wiki/The_Galileo_Project',
+        date: null
       }
     ]
   },
@@ -29660,6 +30834,12 @@ export const PROGRAM_EDGES = [
         name: 'Loeb and Laukien, \'Overview of the Galileo Project\', arXiv:2209.02479, author affiliations',
         url: 'https://arxiv.org/abs/2209.02479',
         date: '2022-09-02'
+      },
+      { name: 'https://galileo.hsites.harvard.edu/', url: 'https://galileo.hsites.harvard.edu/', date: null },
+      {
+        name: 'https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/',
+        url: 'https://www.scientificamerican.com/article/avi-loebs-galileo-project-will-search-for-evidence-of-alien-visitation/',
+        date: null
       }
     ]
   },
@@ -29677,6 +30857,16 @@ export const PROGRAM_EDGES = [
         name: 'Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025 (Cat. No. Iu37-59/2025E-PDF)',
         url: 'https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf',
         date: '2025-06-01'
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project',
+        url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project',
+        date: null
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf',
+        url: 'https://ised-isde.canada.ca/site/science/sites/default/files/documents/Sky-Canada-Preview-January-2025.pdf',
+        date: null
       }
     ]
   },
@@ -29690,7 +30880,13 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'CNES describes GEIPAN as \'the French UAP research and information group created by CNES in 1977\', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status \'In operation\' and an indefinite lifetime.',
     sources: [
-      { name: 'CNES, GEIPAN project page', url: 'https://www.cnes.fr/en/projects/geipan', date: '2026-08-25' }
+      { name: 'CNES, GEIPAN project page', url: 'https://www.cnes.fr/en/projects/geipan', date: '2026-08-25' },
+      { name: 'https://cnes.fr/en/projects/geipan', url: 'https://cnes.fr/en/projects/geipan', date: null },
+      {
+        name: 'https://cnes-geipan.fr/en/histoire-du-geipan',
+        url: 'https://cnes-geipan.fr/en/histoire-du-geipan',
+        date: null
+      }
     ]
   },
   {
@@ -29703,7 +30899,12 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Chile\'s DGAC dates CEFAA\'s establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.',
     sources: [
-      { name: 'DGAC Chile / SEFAA, Historia', url: 'https://sefaa.dgac.gob.cl/historia/', date: '2026-08-25' }
+      { name: 'DGAC Chile / SEFAA, Historia', url: 'https://sefaa.dgac.gob.cl/historia/', date: '2026-08-25' },
+      {
+        name: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        url: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        date: null
+      }
     ]
   },
   {
@@ -29720,6 +30921,16 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Rendlesham_Forest_incident',
+        url: 'https://en.wikipedia.org/wiki/Rendlesham_Forest_incident',
+        date: null
+      },
+      {
+        name: 'https://www.nbcnews.com/id/wbna32451823',
+        url: 'https://www.nbcnews.com/id/wbna32451823',
+        date: null
       }
     ]
   },
@@ -29737,6 +30948,16 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'https://www.nbcnews.com/id/wbna32451823',
+        url: 'https://www.nbcnews.com/id/wbna32451823',
+        date: null
+      },
+      {
+        name: 'https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf',
+        date: null
       }
     ]
   },
@@ -29754,6 +30975,11 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Project_Condign',
+        url: 'https://en.wikipedia.org/wiki/Project_Condign',
+        date: null
       }
     ]
   },
@@ -29771,6 +30997,16 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Project_Condign',
+        url: 'https://en.wikipedia.org/wiki/Project_Condign',
+        date: null
+      },
+      {
+        name: 'https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt',
+        url: 'https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt',
+        date: null
       }
     ]
   },
@@ -29788,6 +31024,16 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Project_Condign',
+        url: 'https://en.wikipedia.org/wiki/Project_Condign',
+        date: null
+      },
+      {
+        name: 'https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-files-reveal-behind-the-scenes-of-the-ufo-desk.pdf',
+        date: null
       }
     ]
   },
@@ -29805,6 +31051,16 @@ export const PROGRAM_EDGES = [
         name: 'Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)',
         url: 'https://bigelowaerospace.com/pages/contact/',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/',
+        url: 'https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/',
+        url: 'https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/',
+        date: null
       }
     ]
   },
@@ -29822,6 +31078,11 @@ export const PROGRAM_EDGES = [
         name: 'Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025',
         url: 'https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf',
         date: '2025-06-01'
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
       }
     ]
   },
@@ -29839,7 +31100,13 @@ export const PROGRAM_EDGES = [
         name: 'Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025',
         url: 'https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf',
         date: '2025-06-01'
-      }
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, sections \'Chile\' and Recommendation 13 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
+      },
+      { name: 'SEFAA / DGAC Chile -- https://sefaa.dgac.gob.cl/', url: '', date: null }
     ]
   },
   {
@@ -29856,6 +31123,11 @@ export const PROGRAM_EDGES = [
         name: 'Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025',
         url: 'https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf',
         date: '2025-06-01'
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025, Recommendation 13 and references -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
       }
     ]
   },
@@ -29873,6 +31145,11 @@ export const PROGRAM_EDGES = [
         name: 'Report of the Sky Canada Project, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\', June 2025',
         url: 'https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf',
         date: '2025-06-01'
+      },
+      {
+        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\' (Sky Canada Project), 2025 -- https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: '',
+        date: null
       }
     ]
   },
@@ -29915,7 +31192,7 @@ export const PROGRAM_EDGES = [
     b: 'l-france',
     type: 'geographic',
     label: 'French private defence committee',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'The report states its own legal status on its title page: \'COMETA, an association governed by the Law of July 1, 1901\', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.',
@@ -29924,6 +31201,11 @@ export const PROGRAM_EDGES = [
         name: 'COMETA, \'UFOs and Defense: What Should We Prepare For?\', 1999, title page and foreword',
         url: 'https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf',
         date: '1999-07-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/COMETA_report',
+        url: 'https://en.wikipedia.org/wiki/COMETA_report',
+        date: null
       }
     ]
   },
@@ -29946,6 +31228,11 @@ export const PROGRAM_EDGES = [
         name: 'NASA Unidentified Anomalous Phenomena Independent Study Team Report, September 2023',
         url: 'https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf',
         date: '2023-09-14'
+      },
+      {
+        name: 'NASA, \'NASA Announces Unidentified Aerial Phenomena Study Team Members,\' October 21, 2022 -- https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -29954,7 +31241,7 @@ export const PROGRAM_EDGES = [
     b: 'l-aztec',
     type: 'geographic',
     label: 'alleged crash site',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as \'Mr. X\', claimed to have seen two saucers held by the government, one of which \'crashed near Aztec, New Mexico\'; Frank Scully\'s \'Behind the Flying Saucers\' (1950) carried the account, and Newton took Scully touring \'the area where the Aztec saucer ostensibly crashed\'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a \'magnetic doodlebug\' that cost roughly $3.50 to build, and the \'indestructible\' metal was ordinary aluminium.',
@@ -29963,6 +31250,11 @@ export const PROGRAM_EDGES = [
         name: 'Denver Public Library, Western History, \'Flying Saucers and Fraud: the Silas M. Newton story\'',
         url: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        date: null
       }
     ]
   },
@@ -29980,6 +31272,11 @@ export const PROGRAM_EDGES = [
         name: 'The Black Vault, \'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted\' (DoD FOIA case 23-F-0711, 50 pages, finalized 3 July 2025)',
         url: 'https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/',
         date: '2025-07-03'
+      },
+      {
+        name: 'The Black Vault, \'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted\' (DoD FOIA case 23-F-0711, response finalized July 3, 2025) -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -29997,6 +31294,11 @@ export const PROGRAM_EDGES = [
         name: 'The Black Vault, FOIA case 23-F-0711 release and reporting',
         url: 'https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/',
         date: '2025-07-03'
+      },
+      {
+        name: 'The Black Vault, \'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted\' -- https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30014,6 +31316,16 @@ export const PROGRAM_EDGES = [
         name: 'Domine et al., \'Commissioning an All-Sky Infrared Camera Array for Detection of Airborne Objects\', Sensors 2025, arXiv:2411.07956, author affiliations',
         url: 'https://arxiv.org/abs/2411.07956',
         date: '2025-01-28'
+      },
+      {
+        name: 'https://galileo.hsites.harvard.edu/people/avi-loeb',
+        url: 'https://galileo.hsites.harvard.edu/people/avi-loeb',
+        date: null
+      },
+      {
+        name: 'https://www.cfa.harvard.edu/research/galileo-project',
+        url: 'https://www.cfa.harvard.edu/research/galileo-project',
+        date: null
       }
     ]
   },
@@ -30036,6 +31348,16 @@ export const PROGRAM_EDGES = [
         name: 'Loeb and Laukien, \'Overview of the Galileo Project\', arXiv:2209.02479, Figure 1',
         url: 'https://arxiv.org/abs/2209.02479',
         date: '2022-09-02'
+      },
+      {
+        name: 'https://www.cfa.harvard.edu/research/galileo-project',
+        url: 'https://www.cfa.harvard.edu/research/galileo-project',
+        date: null
+      },
+      {
+        name: 'https://galileo.hsites.harvard.edu/about',
+        url: 'https://galileo.hsites.harvard.edu/about',
+        date: null
       }
     ]
   },
@@ -30058,6 +31380,16 @@ export const PROGRAM_EDGES = [
         name: 'Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020',
         url: 'https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
         date: '2020-04-27'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR',
+        url: 'https://en.wikipedia.org/wiki/AN/ASQ-228_ATFLIR',
+        date: null
+      },
+      {
+        name: 'https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/',
+        url: 'https://uapedia.ai/wiki/uss-nimitz-uap-encounters-case-file-2004/',
+        date: null
       }
     ]
   },
@@ -30143,6 +31475,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
+      },
+      {
+        name: 'https://www.congress.gov/event/118th-congress/house-event/116282/text',
+        url: 'https://www.congress.gov/event/118th-congress/house-event/116282/text',
+        date: null
       }
     ]
   },
@@ -30160,6 +31497,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight hearing, 26 July 2023 (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
+      },
+      {
+        name: 'https://www.congress.gov/event/118th-congress/house-event/116282/text',
+        url: 'https://www.congress.gov/event/118th-congress/house-event/116282/text',
+        date: null
       }
     ]
   },
@@ -30177,6 +31519,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force on the Declassification of Federal Secrets hearing, \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection\', 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        date: null
       }
     ]
   },
@@ -30194,6 +31541,16 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'Testimony of Joe Spielberger, Senior Policy Counsel, Project On Government Oversight, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, \'Restoring Public Trust Through UAP Transparency and Whistleblower Protection,\' September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf',
+        url: 'https://www.congress.gov/119/chrg/CHRG-119hhrg61718/CHRG-119hhrg61718.pdf',
+        date: null
       }
     ]
   },
@@ -30211,6 +31568,16 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf',
+        date: null
+      },
+      {
+        name: 'House Committee on Oversight and Government Reform press release, \'Luna Opens Hearing on Restoring Public Trust Through UAP Transparency,\' September 9, 2025 -- https://oversight.house.gov/release/luna-opens-hearing-on-restoring-public-trust-through-uap-transparency',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30228,6 +31595,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        date: null
       }
     ]
   },
@@ -30245,6 +31617,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        date: null
       }
     ]
   },
@@ -30262,6 +31639,11 @@ export const PROGRAM_EDGES = [
         name: 'House Oversight Task Force hearing, 9 September 2025 (CHRG-119hhrg61718)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf',
+        date: null
       }
     ]
   },
@@ -30279,6 +31661,16 @@ export const PROGRAM_EDGES = [
         name: 'Joint House Oversight subcommittee hearing, \'Unidentified Anomalous Phenomena: Exposing the Truth\', 13 November 2024 (CHRG-118hhrg57440)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
         date: '2024-11-13'
+      },
+      {
+        name: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        url: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        date: null
+      },
+      {
+        name: 'https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf',
+        url: 'https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf',
+        date: null
       }
     ]
   },
@@ -30296,6 +31688,16 @@ export const PROGRAM_EDGES = [
         name: 'Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
         date: '2024-11-13'
+      },
+      {
+        name: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        url: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        date: null
+      },
+      {
+        name: 'https://www.public.news/p/pentagon-is-illegally-hiding-secret',
+        url: 'https://www.public.news/p/pentagon-is-illegally-hiding-secret',
+        date: null
       }
     ]
   },
@@ -30313,6 +31715,16 @@ export const PROGRAM_EDGES = [
         name: 'Joint House Oversight subcommittee hearing, 13 November 2024 (CHRG-118hhrg57440)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
         date: '2024-11-13'
+      },
+      {
+        name: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        url: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        date: null
+      },
+      {
+        name: 'https://mace.house.gov/immaculateconstellation',
+        url: 'https://mace.house.gov/immaculateconstellation',
+        date: null
       }
     ]
   },
@@ -30330,6 +31742,11 @@ export const PROGRAM_EDGES = [
         name: 'Public Law 118-31, Division G (Intelligence Authorization Act for Fiscal Year 2024), secs. 7341 and 7343',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
         date: '2023-12-22'
+      },
+      {
+        name: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        url: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        date: null
       }
     ]
   },
@@ -30347,6 +31764,16 @@ export const PROGRAM_EDGES = [
         name: 'Public Law 118-31, table of contents and Division G heading',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
         date: '2023-12-22'
+      },
+      {
+        name: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        url: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf',
+        url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/pdf/PLAW-118publ31.pdf',
+        date: null
       }
     ]
   },
@@ -30364,6 +31791,21 @@ export const PROGRAM_EDGES = [
         name: 'Public Law 118-31, full enacted text, searched for the turn-in language',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm',
         date: '2023-12-22'
+      },
+      {
+        name: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        url: 'https://www.intelligence.senate.gov/legislation/intelligence-authorization-act-fiscal-year-2024-division-g-national-defense',
+        date: null
+      },
+      {
+        name: 'https://www.intelligence.senate.gov/2023/06/22/legislation-intelligence-authorization-act-fiscal-year-2024-reported-june-22-2023/',
+        url: 'https://www.intelligence.senate.gov/2023/06/22/legislation-intelligence-authorization-act-fiscal-year-2024-reported-june-22-2023/',
+        date: null
+      },
+      {
+        name: 'https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/',
+        url: 'https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/',
+        date: null
       }
     ]
   },
@@ -30398,6 +31840,11 @@ export const PROGRAM_EDGES = [
         name: 'National Reconnaissance Office, leadership biography of William B. Adkins',
         url: 'https://www.nro.gov/About-NRO/Leadership/leadership-adkins/',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/',
+        url: 'https://spacenews.com/william-adkins-named-staff-director-of-house-committee-on-sciences-space-and-aeronautics-subcommittee/',
+        date: null
       }
     ]
   },
@@ -30415,6 +31862,11 @@ export const PROGRAM_EDGES = [
         name: 'National Reconnaissance Office, leadership biography of William B. Adkins',
         url: 'https://www.nro.gov/About-NRO/Leadership/leadership-adkins/',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf',
+        url: 'https://www.nro.gov/Portals/135/Documents/about/leadership/bios/2026_Adkins_Bio_Final.pdf',
+        date: null
       }
     ]
   },
@@ -30432,6 +31884,11 @@ export const PROGRAM_EDGES = [
         name: 'AARO, Historical Record Report Volume 1, 8 March 2024',
         url: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
         date: '2024-03-08'
+      },
+      {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
+        date: null
       }
     ]
   },
@@ -30466,6 +31923,11 @@ export const PROGRAM_EDGES = [
         name: 'COMETA, \'UFOs and Defense: What Should We Prepare For?\', 1999, foreword by General Bernard Norlain',
         url: 'https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf',
         date: '1999-07-01'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/COMETA_report citing Robert Roussel, \'Ovnis 1947-2017. Le choix du déni\', L\'Harmattan, 2018, p. 214',
+        url: 'https://en.wikipedia.org/wiki/COMETA_report citing Robert Roussel, \'Ovnis 1947-2017. Le choix du déni\', L\'Harmattan, 2018, p. 214',
+        date: null
       }
     ]
   },
@@ -30479,7 +31941,17 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Chile\'s Direccion General de Aeronautica Civil dates CEFAA\'s establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA \'operates within the General Directorate of Civil Aeronautics\', as Canada\'s Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.',
     sources: [
-      { name: 'DGAC Chile / SEFAA, Historia', url: 'https://sefaa.dgac.gob.cl/historia/', date: '2026-08-25' }
+      { name: 'DGAC Chile / SEFAA, Historia', url: 'https://sefaa.dgac.gob.cl/historia/', date: '2026-08-25' },
+      {
+        name: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        url: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        date: null
+      },
+      {
+        name: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
+        url: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
+        date: null
+      }
     ]
   },
   {
@@ -30496,6 +31968,11 @@ export const PROGRAM_EDGES = [
         name: 'Keith Kloor, \'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?\', The Intercept, 1 June 2019',
         url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
         date: '2019-06-01'
+      },
+      {
+        name: 'Keith Kloor, \'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?\', The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30513,6 +31990,11 @@ export const PROGRAM_EDGES = [
         name: 'Keith Kloor, The Intercept, 1 June 2019',
         url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
         date: '2019-06-01'
+      },
+      {
+        name: 'Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30530,6 +32012,11 @@ export const PROGRAM_EDGES = [
         name: 'Keith Kloor, The Intercept, 1 June 2019',
         url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
         date: '2019-06-01'
+      },
+      {
+        name: 'Keith Kloor, The Intercept, June 1, 2019 -- https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30547,6 +32034,11 @@ export const PROGRAM_EDGES = [
         name: 'Ken Klippenstein, \'UFO Whistleblower Kept Security Clearance After Psychiatric Detention\', The Intercept, 9 August 2023',
         url: 'https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/',
         date: '2023-08-09'
+      },
+      {
+        name: 'Ken Klippenstein, \'UFO Whistleblower Kept Security Clearance After Psychiatric Detention,\' The Intercept, August 9, 2023 -- https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30569,6 +32061,11 @@ export const PROGRAM_EDGES = [
         name: 'Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)',
         url: 'https://bigelowaerospace.com/pages/contact/',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/',
+        url: 'https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/',
+        date: null
       }
     ]
   },
@@ -30577,7 +32074,7 @@ export const PROGRAM_EDGES = [
     b: 'nids',
     type: 'geographic',
     label: 'NIDS headquarters 1995-2004',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS\'s own registered address.',
@@ -30586,6 +32083,16 @@ export const PROGRAM_EDGES = [
         name: 'Deseret News, \'Private UFO study takes a public turn\', 10 August 1998',
         url: 'https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn',
         date: '1998-08-10'
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science',
+        url: 'https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science',
+        date: null
+      },
+      {
+        name: 'https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/',
+        url: 'https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/',
+        date: null
       }
     ]
   },
@@ -30608,6 +32115,16 @@ export const PROGRAM_EDGES = [
         name: 'USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV',
         url: 'https://www.usaspending.gov/search',
         date: '2026-08-25'
+      },
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/',
+        url: 'https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/',
+        date: null
       }
     ]
   },
@@ -30630,6 +32147,12 @@ export const PROGRAM_EDGES = [
         name: 'DIRD, \'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\', 20 November 2010, DIA-08-1012-001 (DIA FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         date: '2010-11-20'
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab',
+        url: 'https://www.unlv.edu/news/article/inside-unlv-nuclear-engineering-lab',
+        date: null
       }
     ]
   },
@@ -30647,6 +32170,21 @@ export const PROGRAM_EDGES = [
         name: 'Wayne State University School of Medicine news, \'Chinese Academy of Sciences appoints Dr. Green as professor\', 2 April 2009',
         url: 'https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373',
         date: '2009-04-02'
+      },
+      {
+        name: 'Wayne State University School of Medicine news, \'Chinese Academy of Sciences appoints Dr. Green as professor,\' April 2, 2009 -- https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Wayne State University, Department of Psychiatry and Behavioral Neurosciences -- https://psychiatry.med.wayne.edu/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Bulletin of the Atomic Scientists biography, Christopher Green -- https://thebulletin.org/biography/christopher-green/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30664,6 +32202,11 @@ export const PROGRAM_EDGES = [
         name: '\'Restoring Public Trust Through UAP Transparency and Whistleblower Protection\', hearing before the Task Force on the Declassification of Federal Secrets of the Committee on Oversight and Government Reform, 9 September 2025, Serial No. 119-44',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-119hhrg61718/html/CHRG-119hhrg61718.htm',
         date: '2025-09-09'
+      },
+      {
+        name: 'Testimony of Joe Spielberger, POGO, before the House Committee on Oversight and Government Reform, Task Force on the Declassification of Federal Secrets, September 9, 2025 -- https://oversight.house.gov/wp-content/uploads/2025/09/Spielberger-Written-Testimony.pdf',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30681,6 +32224,16 @@ export const PROGRAM_EDGES = [
         name: 'Vanderbilt Health News, \'The truth is out there, and Stephen Bruehl is bringing the scientific method to finding it\', 7 May 2026',
         url: 'https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/',
         date: '2026-05-07'
+      },
+      {
+        name: 'Vanderbilt Health News, May 7, 2026 -- https://news.vumc.org/2026/05/07/the-truth-is-out-there-and-stephen-bruehl-is-bringing-the-scientific-method-to-finding-it/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Bruehl and Villarroel, \'Transients in the Palomar Observatory Sky Survey may be Associated with Nuclear Testing and Reports of Unidentified Anomalous Phenomena,\' Scientific Reports, October 20, 2025 -- https://www.nature.com/articles/s41598-025-21620-3',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30698,6 +32251,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Department of War, \'Presidential Unsealing and Reporting System for UAP Encounters\' (PURSUE)',
         url: 'https://www.war.gov/UFO/',
         date: '2026-08-25'
+      },
+      {
+        name: 'Brandi Vincent, \'\'Data alone is not disclosure\': UAP research community reacts to Trump\'s first PURSUE file drop,\' DefenseScoop, May 14, 2026 -- https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30715,6 +32273,16 @@ export const PROGRAM_EDGES = [
         name: 'Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020',
         url: 'https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
         date: '2020-04-27'
+      },
+      {
+        name: 'Department of Defense, \'Statement by the Department of Defense on the Release of Historical Navy Videos,\' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/',
+        url: 'https://www.theblackvault.com/documentarchive/navy-officially-releases-ufo-uap-videos-calls-them-historical/',
+        date: null
       }
     ]
   },
@@ -30737,6 +32305,16 @@ export const PROGRAM_EDGES = [
         name: 'Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023',
         url: 'https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf',
         date: '2023-07-26'
+      },
+      {
+        name: 'Department of Defense, \'Statement by the Department of Defense on the Release of Historical Navy Videos,\' April 27, 2020 -- https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30754,6 +32332,11 @@ export const PROGRAM_EDGES = [
         name: 'U.S. Navy press release, \'Establishment of Unidentified Aerial Phenomena Task Force\', 14 August 2020',
         url: 'https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/',
         date: '2020-08-14'
+      },
+      {
+        name: 'U.S. Navy press release, \'Establishment of Unidentified Aerial Phenomena Task Force,\' August 14, 2020 -- https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30771,6 +32354,11 @@ export const PROGRAM_EDGES = [
         name: 'Ryan Graves, written testimony to the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs, 26 July 2023',
         url: 'https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf',
         date: '2023-07-26'
+      },
+      {
+        name: 'Ryan Graves written testimony, House Oversight and Accountability Subcommittee on National Security, the Border, and Foreign Affairs, July 26, 2023 -- https://www.congress.gov/118/meeting/house/116282/witnesses/HHRG-118-GO06-Wstate-GravesR-20230726.pdf',
+        url: '',
+        date: null
       }
     ]
   },
@@ -30784,7 +32372,17 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper \'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security\', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation\'s public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.',
     sources: [
-      { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-25' }
+      { name: 'The Sol Foundation', url: 'https://www.thesolfoundation.org/', date: '2026-08-25' },
+      {
+        name: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        url: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        date: null
+      },
+      {
+        name: 'https://thesolfoundation.org/white-papers/',
+        url: 'https://thesolfoundation.org/white-papers/',
+        date: null
+      }
     ]
   },
   {
@@ -30801,6 +32399,16 @@ export const PROGRAM_EDGES = [
         name: 'S. Hrg. 112-309, \'Nomination of Irvin Charles McCullough III to be Inspector General of the Intelligence Community\', Senate Select Committee on Intelligence, 22 September 2011',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-112shrg72745/html/CHRG-112shrg72745.htm',
         date: '2011-09-22'
+      },
+      {
+        name: 'https://compassrosepllc.com/mccullough/',
+        url: 'https://compassrosepllc.com/mccullough/',
+        date: null
+      },
+      {
+        name: 'https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/',
+        url: 'https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/',
+        date: null
       }
     ]
   },
@@ -30818,6 +32426,16 @@ export const PROGRAM_EDGES = [
         name: 'USAF, \'The Roswell Report: Fact versus Fiction in the New Mexico Desert\' (1995), searched in full',
         url: 'https://archive.org/details/DTIC_ADA326148',
         date: '1995-01-01'
+      },
+      {
+        name: 'https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin.html',
+        url: 'https://kevinrandle.blogspot.com/2015/02/the-plains-of-san-agustin.html',
+        date: null
+      },
+      {
+        name: 'https://ufologie.patrickgross.org/rw/w/fleckdanley.htm',
+        url: 'https://ufologie.patrickgross.org/rw/w/fleckdanley.htm',
+        date: null
       }
     ]
   },
@@ -30840,6 +32458,21 @@ export const PROGRAM_EDGES = [
         name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
         url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
         date: '2013-01-01'
+      },
+      {
+        name: 'Dr David Clarke, \'National Archives UFO Files\' -- https://drdavidclarke.co.uk/national-archives-ufo-files-7/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Sheffield Hallam University Research Archive (SHURA), \'National Archives Podcasts and Media - MoD UFO archives project 2008-2013\' -- https://shura.shu.ac.uk/35070/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'The National Archives UFO records podcast transcript, August 2009 -- https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf',
+        url: '',
+        date: null
       }
     ]
   },
@@ -31423,7 +33056,7 @@ export const PROGRAM_EDGES = [
     b: 'oak-ridge-national-laboratory',
     type: 'institutional',
     label: 'chief technology officer for defense and intelligence programs',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023-12',
     dateEnd: null,
     note: 'The first AARO director joined Oak Ridge National Laboratory in December 2023 - the laboratory that performed both of AARO\'s published specimen analyses.',
@@ -34908,6 +36541,11 @@ export const PROGRAM_EDGES = [
         name: 'Sky Canada Project report',
         url: 'https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: '2025-06-01'
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        date: null
       }
     ]
   },
@@ -34925,6 +36563,11 @@ export const PROGRAM_EDGES = [
         name: 'Sky Canada Project report',
         url: 'https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: '2025-06-01'
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
+        date: null
       }
     ]
   },
@@ -35164,7 +36807,7 @@ export const PROGRAM_EDGES = [
     b: 'l-wright-patterson',
     type: 'geographic',
     label: 'ATIC and its successors were and are headquartered at Wright-Patterson',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1951',
     dateEnd: null,
     note: 'The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command\'s T-2 intelligence organisation at Wright Field, became the Foreign Technology Division in 1961 and NASIC in 1993, which remains at the base. Attested by USAF unit histories.',
@@ -35181,7 +36824,7 @@ export const PROGRAM_EDGES = [
     b: 'l-wright-patterson',
     type: 'institutional',
     label: 'NASIC is the current tenant institution at Wright-Patterson',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1993',
     dateEnd: null,
     note: 'The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD\'s foreign materiel exploitation mission.',
@@ -35198,7 +36841,7 @@ export const PROGRAM_EDGES = [
     b: 'l-wright-patterson',
     type: 'programmatic',
     label: 'Blue Book was hosted at Wright-Patterson from 1952 to 1969',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1952',
     dateEnd: '1969',
     note: 'Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings studied, 701 remained unexplained at closure. Attested by USAF fact sheets.',
@@ -35215,7 +36858,7 @@ export const PROGRAM_EDGES = [
     b: 'l-wright-patterson',
     type: 'institutional',
     label: 'Twining wrote the 1947 AMC assessment from this command',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947',
     dateEnd: '1947',
     note: 'Lt. Gen. Nathan Twining signed \'AMC Opinion Concerning Flying Discs\' on 23 September 1947 as commander of Air Materiel Command, headquartered at Wright Field.',
@@ -35232,7 +36875,7 @@ export const PROGRAM_EDGES = [
     b: 'l-wright-patterson',
     type: 'denial',
     label: 'The Bolender memo closed the base\'s public reporting channel while conceding another existed',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1969',
     dateEnd: '1969',
     note: 'Brig. Gen. Carroll Bolender\'s 1969 memorandum recommended Blue Book\'s termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base\'s own reporting architecture.',
@@ -35249,7 +36892,7 @@ export const PROGRAM_EDGES = [
     b: 'l-kirtland',
     type: 'witness-chain',
     label: 'Bennewitz\'s 1979-1980 observations were of the Manzano area of Kirtland AFB',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1979',
     dateEnd: '1980',
     note: 'Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.',
@@ -35300,7 +36943,7 @@ export const PROGRAM_EDGES = [
     b: 'l-kirtland',
     type: 'custody',
     label: 'The AFOSI Kirtland file is the documentary residue of the Bennewitz operation',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1980',
     dateEnd: '1981',
     note: 'The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.',
@@ -35317,7 +36960,7 @@ export const PROGRAM_EDGES = [
     b: 'l-kirtland',
     type: 'geographic',
     label: 'Sandia National Laboratories is adjacent to Kirtland AFB',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1949',
     dateEnd: null,
     note: 'Sandia, descended from the Manhattan Project\'s Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.',
@@ -35339,7 +36982,7 @@ export const PROGRAM_EDGES = [
     b: 'l-albuquerque',
     type: 'geographic',
     label: 'Kirtland AFB lies inside the Albuquerque city limits',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1941',
     dateEnd: null,
     note: 'The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.',
@@ -35386,7 +37029,7 @@ export const PROGRAM_EDGES = [
     b: 'l-roswell',
     type: 'geographic',
     label: 'The 1947 recovery was executed by Roswell Army Air Field',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947',
     dateEnd: '1947',
     note: 'Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force\'s own reports.',
@@ -35403,7 +37046,7 @@ export const PROGRAM_EDGES = [
     b: 'roswell-1947',
     type: 'witness-chain',
     label: 'Haut issued the 8 July 1947 \'flying disc\' press release',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947-07-08',
     dateEnd: '1947-07-08',
     note: '1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th\'s intelligence office had gained possession of a disc.',
@@ -35420,7 +37063,7 @@ export const PROGRAM_EDGES = [
     b: 'roswell-1947',
     type: 'denial',
     label: 'Ramey retracted the RAAF statement the same day at Fort Worth',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947-07-08',
     dateEnd: '1947-07-08',
     note: 'Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.',
@@ -35437,7 +37080,7 @@ export const PROGRAM_EDGES = [
     b: 'roswell-1947',
     type: 'witness-chain',
     label: 'Marcel was the 509th intelligence officer who recovered the debris',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947-07',
     dateEnd: '1947-07',
     note: 'Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.',
@@ -35454,7 +37097,7 @@ export const PROGRAM_EDGES = [
     b: 'roswell-1947',
     type: 'denial',
     label: 'Mogul is the Air Force\'s 1994 identification of the debris',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1994',
     dateEnd: '1994',
     note: 'The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.',
@@ -35488,7 +37131,7 @@ export const PROGRAM_EDGES = [
     b: 'l-groom-lake',
     type: 'geographic',
     label: 'Area 51 is the named facility on the Groom Lake shore',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1955',
     dateEnd: null,
     note: 'The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.',
@@ -35501,7 +37144,7 @@ export const PROGRAM_EDGES = [
     b: 'l-nellis',
     type: 'institutional',
     label: 'Groom Lake was administratively carried as part of the Nellis complex',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1955',
     dateEnd: '1995',
     note: 'Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.',
@@ -35514,7 +37157,7 @@ export const PROGRAM_EDGES = [
     b: 'l-tonopah',
     type: 'programmatic',
     label: 'Programmes matured from Groom Lake to operational basing at Tonopah',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1973',
     dateEnd: '1982',
     note: 'HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.',
@@ -35527,7 +37170,7 @@ export const PROGRAM_EDGES = [
     b: 'l-groom-lake',
     type: 'programmatic',
     label: 'Skunk Works aircraft were tested at Groom Lake because they could not be tested at Edwards',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1955',
     dateEnd: '1982',
     note: 'The CIA\'s own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.',
@@ -35540,7 +37183,7 @@ export const PROGRAM_EDGES = [
     b: 'l-groom-lake',
     type: 'institutional',
     label: 'Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1955',
     dateEnd: null,
     note: 'Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.',
@@ -35657,7 +37300,7 @@ export const PROGRAM_EDGES = [
     b: 'l-utah',
     type: 'geographic',
     label: 'The ranch sits inside the Uintah Basin reporting region',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1970',
     dateEnd: null,
     note: 'The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.',
@@ -35978,7 +37621,7 @@ export const PROGRAM_EDGES = [
     b: 'sri-international',
     type: 'research',
     label: 'SRI held the science half of the remote viewing effort from 1972',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1972',
     dateEnd: '1986',
     note: 'Puthoff and Targ began CIA-sponsored work at SRI\'s Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.',
@@ -36000,7 +37643,7 @@ export const PROGRAM_EDGES = [
     b: 'l-sri',
     type: 'geographic',
     label: 'The research was conducted at Menlo Park, California',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1972',
     dateEnd: '1986',
     note: 'SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.',
@@ -36017,7 +37660,7 @@ export const PROGRAM_EDGES = [
     b: 'stargate-program',
     type: 'research',
     label: 'Puthoff was principal investigator and project director',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1972',
     dateEnd: '1985',
     note: 'Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.',
@@ -36034,7 +37677,7 @@ export const PROGRAM_EDGES = [
     b: 'stargate-program',
     type: 'research',
     label: 'Targ co-founded the SRI remote viewing research',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1972',
     dateEnd: '1982',
     note: 'Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.',
@@ -36051,7 +37694,7 @@ export const PROGRAM_EDGES = [
     b: 'stargate-program',
     type: 'institutional',
     label: 'Clapper led the programme in the 1990s before becoming DNI',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1991',
     dateEnd: '1995',
     note: 'Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.',
@@ -36068,7 +37711,7 @@ export const PROGRAM_EDGES = [
     b: 'dia',
     type: 'institutional',
     label: 'DIA held the programme from 1985 as SUN STREAK and STAR GATE',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1985',
     dateEnd: '1995',
     note: 'The effort moved to DIA\'s Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.',
@@ -36153,7 +37796,7 @@ export const PROGRAM_EDGES = [
     b: 'l-boulder-co',
     type: 'institutional',
     label: 'The Condon Committee was hosted by the University of Colorado at Boulder',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1966',
     dateEnd: '1969',
     note: 'The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.',
@@ -36170,7 +37813,7 @@ export const PROGRAM_EDGES = [
     b: 'l-boulder-co',
     type: 'denial',
     label: 'The Low memo shows the conclusion was framed before the study began',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1966-08-09',
     dateEnd: '1967-07',
     note: 'Low\'s 9 August 1966 memorandum proposed a study \'conducted almost entirely by non-believers\' with \'almost zero expectation of finding a saucer\'. James E. McDonald found it in the project files in July 1967.',
@@ -36187,7 +37830,7 @@ export const PROGRAM_EDGES = [
     b: 'project-blue-book',
     type: 'denial',
     label: 'The Condon report was the stated basis for terminating Blue Book',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1969-01',
     dateEnd: '1969-12-17',
     note: 'The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having received the report in November 1968.',
@@ -36382,7 +38025,7 @@ export const PROGRAM_EDGES = [
     b: 'l-white-sands',
     type: 'geographic',
     label: 'Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1948',
     dateEnd: '1951',
     note: 'The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.',
@@ -36399,7 +38042,7 @@ export const PROGRAM_EDGES = [
     b: 'l-los-alamos',
     type: 'research',
     label: 'The green fireballs conference was convened at Los Alamos',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1949-02-16',
     dateEnd: '1949-02-16',
     note: 'Edward Teller and Lincoln LaPaz were among the attendees; the laboratory\'s own account records that the phenomenon was ultimately dismissed as a national security threat.',
@@ -36681,7 +38324,7 @@ export const PROGRAM_EDGES = [
     b: 'behind-the-flying-saucers',
     type: 'research',
     label: 'Wrote the first crashed-saucer book',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1950',
     dateEnd: '1950',
     note: 'Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.',
@@ -36694,7 +38337,7 @@ export const PROGRAM_EDGES = [
     b: 'aztec-1948',
     type: 'research',
     label: 'The book is the sole origin of the Aztec claim',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1949',
     dateEnd: '1950',
     note: 'No account of an Aztec crash predates Scully\'s 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.',
@@ -37427,7 +39070,7 @@ export const PROGRAM_EDGES = [
     b: 'kecksburg-1965',
     type: 'temporal',
     label: 'Two documented official responses to undocumented objects, twenty-two months apart',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1965-12-09',
     dateEnd: '1967-10-04',
     note: 'At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.',
@@ -37500,7 +39143,7 @@ export const PROGRAM_EDGES = [
     b: 'l-kecksburg',
     type: 'geographic',
     label: 'Event and site',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1965-12-09',
     dateEnd: '1965-12-10',
     note: 'The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.',
@@ -39871,29 +41514,67 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch\'s public crash-retrieval claims were always outside the scope of that representation.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/',
+        url: 'https://thedebrief.org/compass-rose-attorneys-formally-end-association-with-uap-whistleblower-david-grusch/',
+        date: null
+      },
+      {
+        name: 'https://compassrosepllc.com/mccullough/',
+        url: 'https://compassrosepllc.com/mccullough/',
+        date: null
+      }
+    ]
   },
   {
     a: 'newsnation',
     b: 'david-grusch',
     type: 'investigative',
     label: 'Broke Grusch\'s first on-camera whistleblower interview',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '2023-06-11',
     dateEnd: null,
     note: 'NewsNation published/aired \'We are not alone: The UFO whistleblower speaks\' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation\'s senior special investigations correspondent.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/',
+        url: 'https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Ross_Coulthart',
+        url: 'https://en.wikipedia.org/wiki/Ross_Coulthart',
+        date: null
+      }
+    ]
   },
   {
     a: 'newsnation',
     b: 'skywatcher',
     type: 'investigative',
     label: 'Aired the Jake Barber / Skywatcher \'psionic retrieval\' special',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: null,
     dateEnd: null,
     note: 'In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation\'s Reality Check; the special introduced Barber\'s Skywatcher team and its claimed psionic \'summoning\' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber\'s claims remain unverified by official sources.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/',
+        url: 'https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/',
+        date: null
+      },
+      {
+        name: 'https://en.wikipedia.org/wiki/Ross_Coulthart',
+        url: 'https://en.wikipedia.org/wiki/Ross_Coulthart',
+        date: null
+      },
+      {
+        name: 'https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/',
+        url: 'https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/',
+        date: null
+      }
+    ]
   },
   {
     a: 'newsnation',
@@ -39904,7 +41585,18 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.newsnationnow.com/space/ufo/report-immaculate-constellation-uap-journalist/',
+        url: 'https://www.newsnationnow.com/space/ufo/report-immaculate-constellation-uap-journalist/',
+        date: null
+      },
+      {
+        name: 'https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/',
+        url: 'https://www.newsnationnow.com/space/ufo/what-is-immaculate-constellation/',
+        date: null
+      }
+    ]
   },
   {
     a: 'the-hill',
@@ -39915,7 +41607,23 @@ export const PROGRAM_EDGES = [
     dateStart: '2024-11-13',
     dateEnd: null,
     note: 'The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline \'House panel hears of hidden UAP trove, secretive arms race\', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR\'s same-day report.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thehill.com/homenews/house/4989539-house-uap-secrecy-hearing/',
+        url: 'https://thehill.com/homenews/house/4989539-house-uap-secrecy-hearing/',
+        date: null
+      },
+      {
+        name: 'https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/',
+        url: 'https://thehill.com/video-clips/4988090-watch-live-house-convenes-hearing-on-ufos/',
+        date: null
+      },
+      {
+        name: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        url: 'https://www.npr.org/2024/11/13/nx-s1-5189426/ufo-uap-hearing-congress-2024',
+        date: null
+      }
+    ]
   },
   {
     a: 'the-hill',
@@ -39926,7 +41634,13 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/',
+        url: 'https://thehill.com/policy/defense/4337149-house-lawmakers-demand-transparency-from-leaders-on-uap-amendments-inclusion-in-defense-bill/',
+        date: null
+      }
+    ]
   },
   {
     a: 'the-hill',
@@ -39937,7 +41651,18 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'The Hill has carried repeated reporting on Grusch\'s claims and on lawmakers\' efforts to get him into a classified setting, including \'Congress continues to seek answers on UFOs\' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/',
+        url: 'https://thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparency/',
+        date: null
+      },
+      {
+        name: 'https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/',
+        url: 'https://thehill.com/homenews/administration/5916231-government-aware-of-several-kinds-of-aliens-ufo-whistleblower/',
+        date: null
+      }
+    ]
   },
   {
     a: 'cseti',
@@ -39948,7 +41673,18 @@ export const PROGRAM_EDGES = [
     dateStart: '1993-12-13',
     dateEnd: null,
     note: 'CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of \'Project Starlight\', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer\'s published account was distorted. Both accounts are on the record; the relationship is contested.',
-    sources: []
+    sources: [
+      {
+        name: 'https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/',
+        url: 'https://drstevengreer.com/document/dr-greers-response-to-former-cia-director-woolseys-denial-of-meeting-1999/',
+        date: null
+      },
+      {
+        name: 'https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf',
+        url: 'https://drstevengreer.com/wp-content/uploads/2013/03/1999-Woolsey-Petersen-letter.pdf',
+        date: null
+      }
+    ]
   },
   {
     a: 'l-langley-afb',
@@ -39959,7 +41695,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2023-12-06',
     dateEnd: null,
     note: 'Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location\'s whole reason for being on this board.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks',
+        url: 'https://www.twz.com/air/mysterious-drones-swarmed-langley-afb-for-weeks',
+        date: null
+      },
+      {
+        name: 'https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions',
+        url: 'https://www.twz.com/air/heres-what-norads-commander-just-told-us-about-the-langley-afb-drone-incursions',
+        date: null
+      }
+    ]
   },
   {
     a: 'marik-von-rennenkampff',
@@ -39970,7 +41717,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2026-04-30',
     dateEnd: null,
     note: 'Von Rennenkampff is the named author of \'First Peer-Reviewed Scientific Analysis of Possible UAP Materials Employs State-of-the-Art Technologies,\' The Sol Foundation Science and Policy Briefings No. 3, April 2026.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/',
+        url: 'https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/',
+        date: null
+      },
+      {
+        name: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        url: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        date: null
+      }
+    ]
   },
   {
     a: 'marik-von-rennenkampff',
@@ -39981,7 +41739,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2024-01-01',
     dateEnd: null,
     note: 'After Kirkpatrick attributed tic-tac-shaped sightings to a Florida company\'s escaped helium balloons, von Rennenkampff wrote in The Hill: \'After calling the company, I found Kirkpatrick\'s statement to be implausible.\' The Debrief quotes the op-ed and identifies him as a former State Department Bureau of International Security and Nonproliferation analyst.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/',
+        url: 'https://thedebrief.org/the-pentagons-former-chief-ufo-hunter-speaks-out-but-some-of-his-arguments-dont-hit-the-mark/',
+        date: null
+      },
+      {
+        name: 'https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/',
+        url: 'https://thehill.com/opinion/technology/4432225-what-has-happened-to-the-pentagons-former-ufo-hunter/',
+        date: null
+      }
+    ]
   },
   {
     a: 'bryce-zabel',
@@ -39992,7 +41761,13 @@ export const PROGRAM_EDGES = [
     dateStart: '2023-06-24',
     dateEnd: null,
     note: 'In the Need To Know episode \'David Grusch: He\'s Still Here\' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: \'And Bryce adds: there\'s a second interview - actually the pre-interview - that Need to Know controls.\'',
-    sources: []
+    sources: [
+      {
+        name: 'https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003',
+        url: 'https://podcasts.apple.com/us/podcast/david-grusch-hes-still-here/id1600409359?i=1000618172003',
+        date: null
+      }
+    ]
   },
   {
     a: 'bryce-zabel',
@@ -40003,7 +41778,13 @@ export const PROGRAM_EDGES = [
     dateStart: '2024-09-13',
     dateEnd: null,
     note: 'Elizondo appeared with Coulthart and Zabel on the Need To Know episode \'Elizondo Unplugged\' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.',
-    sources: []
+    sources: [
+      {
+        name: 'https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895',
+        url: 'https://podcasts.apple.com/us/podcast/elizondo-unplugged/id1600409359?i=1000669382895',
+        date: null
+      }
+    ]
   },
   {
     a: 'sol-foundation',
@@ -40014,7 +41795,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2026-04-30',
     dateEnd: null,
     note: 'The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation\'s imprint and cofounders Garry Nolan and Peter Skafish on the colophon.',
-    sources: []
+    sources: [
+      {
+        name: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        url: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        date: null
+      },
+      {
+        name: 'https://thesolfoundation.org/white-papers/',
+        url: 'https://thesolfoundation.org/white-papers/',
+        date: null
+      }
+    ]
   },
   {
     a: 'sol-briefing-3-2026',
@@ -40025,7 +41817,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2026-04-30',
     dateEnd: null,
     note: 'The briefing\'s subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).',
-    sources: []
+    sources: [
+      {
+        name: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        url: 'https://thesolfoundation.org/wp-content/uploads/2026/04/Sol_Policy_Briefing_Number_3-1.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907',
+        url: 'https://www.sciencedirect.com/science/article/abs/pii/S0376042121000907',
+        date: null
+      }
+    ]
   },
   {
     a: 'aztec-1948',
@@ -40036,7 +41839,18 @@ export const PROGRAM_EDGES = [
     dateStart: '1974',
     dateEnd: null,
     note: 'After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.',
-    sources: []
+    sources: [
+      {
+        name: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        date: null
+      },
+      {
+        name: 'John Michael Greer, \'The UFO Phenomenon: Fact, Fantasy and Disinformation\', Llewellyn Worldwide, 2009, pp. 119ff - https://archive.org/details/ufophenomenonfac0000gree',
+        url: '',
+        date: null
+      }
+    ]
   },
   {
     a: 'geipan',
@@ -40047,7 +41861,18 @@ export const PROGRAM_EDGES = [
     dateStart: '2014-11-11',
     dateEnd: '2017-01',
     note: 'Photo and video analysts in France, including François Louange, were brought into CEFAA\'s investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN\'s analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b',
+        url: 'https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b',
+        date: null
+      },
+      {
+        name: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
+        url: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
+        date: null
+      }
+    ]
   },
   {
     a: 'vincent-teofilo',
@@ -40058,7 +41883,14 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.',
-    sources: []
+    sources: [
+      {
+        name: 'https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077',
+        url: 'https://www.legacy.com/us/obituaries/name/vincent-teofilo-obituary?id=60785077',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+    ]
   },
   {
     a: 'sergey-macheret',
@@ -40069,7 +41901,19 @@ export const PROGRAM_EDGES = [
     dateStart: '2006-01-01',
     dateEnd: '2014-12-31',
     note: 'Macheret held a senior staff engineer post at Lockheed Martin Aeronautics Company, Skunk Works, from 2006 to 2014, working on advanced aerospace plasma applications, before joining Purdue University as professor of aeronautics and astronautics in 2014. Lockheed Martin is the affiliation DIA recorded for him on the congressional list.',
-    sources: []
+    sources: [
+      {
+        name: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        url: 'https://en.wikipedia.org/wiki/Sergey_Macheret',
+        date: null
+      },
+      {
+        name: 'https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award',
+        url: 'https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+    ]
   },
   {
     a: 'richard-genik',
@@ -40080,7 +41924,14 @@ export const PROGRAM_EDGES = [
     dateStart: '2009-07-13',
     dateEnd: null,
     note: 'Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.',
-    sources: []
+    sources: [
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+    ]
   },
   {
     a: 'richard-genik',
@@ -40091,7 +41942,19 @@ export const PROGRAM_EDGES = [
     dateStart: '2009-01-01',
     dateEnd: '2011-01-01',
     note: 'The DIA congressional list records Wayne State University as the affiliation for both Genik\'s deliverables and for Kit Green\'s human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.',
-    sources: []
+    sources: [
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      }
+    ]
   },
   {
     a: 'baass',
@@ -41112,7 +42975,7 @@ export const PROGRAM_EDGES = [
     b: 'jesse-marcel',
     type: 'institutional',
     label: 'Haut\'s 8 July 1947 press release named Marcel as the recovering officer',
-    claimTier: 1,
+    claimTier: 2,
     dateStart: '1947-07-08',
     dateEnd: '1947-07-08',
     note: 'The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard\'s order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.',

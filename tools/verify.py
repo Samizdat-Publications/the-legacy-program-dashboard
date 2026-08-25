@@ -296,6 +296,54 @@ def _explain_edge_covers(b, html):
     return bad
 
 
+@check("no Tier 1 edge rests only on a secondary source")
+def _edge_tier_sourcing(b, html):
+    """An edge's claimTier renders in the dock as "Tier 1 - documented", and the
+    board's own copy calls Tier 1 "what survives a hostile audit". That is the
+    same promise a claim's Tier 1 makes, and it was audited on one of the two.
+
+    merge.py's remediate_tiers() walks people and entities. Edge claimTier was
+    whatever the research authored, merged across duplicates by min() and checked
+    by nothing -- so 93 edges shipped labelled "documented" whose only support was
+    a Wikipedia article, a YouTube video or a blogspot post. George Knapp to Harry
+    Reid, Leslie Kean to David Grusch, every UAP Gerb investigation edge on the
+    board. One thread a hostile reader pulls and the grade means nothing anywhere.
+
+    This asserts the rule the claims pass already enforces: an edge may hold Tier 1
+    only if some source on it is a primary record, or if none of its sources is
+    encyclopedic. It does NOT assert the interested-party rule, which does not
+    survive the move from claim text to an edge note -- see remediate_edge_tiers()
+    in merge.py for why that one stays a research question."""
+    import re as _re
+    SECONDARY = _re.compile(r"wikipedia|britannica|\bwiki\b|reddit|substack|medium\.com|"
+                            r"youtube|podcast|blog|fandom", _re.I)
+    PRIMARY = _re.compile(
+        r"congress\.gov|govinfo\.gov|federalregister\.gov|whitehouse\.gov|"
+        r"archives\.gov|presidentiallibraries\.us|ecfr\.gov|acquisition\.gov|"
+        r"law\.cornell\.edu|courtlistener|\.uscourts\.gov|"
+        r"gao\.gov|oversight\.house\.gov|\.senate\.gov|\.house\.gov|docs\.house\.gov|"
+        r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
+        r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
+        r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
+        r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+        r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
+        r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
+        r"theblackvault\.com|irp\.fas\.org", _re.I)
+    bad = []
+    for e in b["edges"]:
+        if e.get("claimTier") != 1:
+            continue
+        srcs = e.get("sources") or []
+        urls = " ".join(s.get("url") or "" for s in srcs)
+        named = " ".join(((s.get("name") or "") + " " + (s.get("url") or "")) for s in srcs)
+        if PRIMARY.search(urls) or not SECONDARY.search(named):
+            continue
+        m = SECONDARY.search(named)
+        bad.append(f"edge {e.get('a')}->{e.get('b')} ({e.get('type')}) is Tier 1 on "
+                   f"{m.group(0)!r} with no primary record")
+    return bad[:40]
+
+
 @check("no parent-board editorial content ships")
 def _no_parent_editorial(b, html):
     """This board was built by porting a shell from a sibling project, The Vanishing,
@@ -731,6 +779,11 @@ def measure(b):
         "entity_classes": dict(sorted(cls.items())),
         "entity_tiers": dict(sorted(tier.items())),
         "claim_tiers": {str(k): v for k, v in sorted(ctier.items())},
+        # Edge tiers were never in this manifest, which is part of why nobody
+        # noticed they were never audited either: 93 edges printed "Tier 1 -
+        # documented" on a Wikipedia article and no count moved when they did.
+        "edge_tiers": {str(k): sum(1 for e in b["edges"] if e.get("claimTier") == k)
+                       for k in (1, 2, 3)},
         "unique_source_urls": len(urls),
         **_l0_golden(),
         "people_with_date": sum(1 for p in b["people"] if p.get("date")),
@@ -1250,6 +1303,10 @@ def self_test():
             b["entities"].append({"id": "e-twin", "cls": b["entities"][0]["cls"],
                                   "label": "Twin Report", "claims": [],
                                   "sources": [{"url": "https://example.gov/twin.pdf"}]}))),
+        "no Tier 1 edge rests only on a secondary source": mut(lambda b: b["edges"].append(
+            {"a": "a-b", "b": "a-b", "type": "institutional", "claimTier": 1, "note": "x",
+             "sources": [{"name": "Wikipedia - Something",
+                          "url": "https://en.wikipedia.org/wiki/Something"}]})),
         "no edge note leaks build bookkeeping": mut(lambda b: b["edges"].append(
             {"a": "a-b", "b": "a-b", "type": "custody",
              "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),

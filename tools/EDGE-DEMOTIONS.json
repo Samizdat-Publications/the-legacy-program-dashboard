@@ -1,0 +1,943 @@
+[
+ {
+  "a": "robert-bigelow",
+  "b": "nids",
+  "type": "funding",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations",
+  "sources": [
+   "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
+   "https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously",
+   "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"
+  ]
+ },
+ {
+  "a": "james-lacatski",
+  "b": "lacatski-book-series",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be release",
+  "sources": [
+   "https://ufos-disclosure.blogspot.com/2026/04/dr-james-lacatski-this-is-ufo.html"
+  ]
+ },
+ {
+  "a": "dia",
+  "b": "aawsap-contract",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contrac",
+  "sources": [
+   "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "uap-gerb-mitre-investigation",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published with a researcher using the handle 'Kerberos'; explicitly framed as aid to Burlison's inquiry.",
+  "sources": [
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "uap-gerb-mitre-investigation",
+  "b": "burlison-mitre-letter-2026",
+  "type": "temporal",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to d",
+  "sources": [
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "aaro-historical-record-vol1",
+  "b": "kona-blue",
+  "type": "programmatic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed m",
+  "sources": [
+   "https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/35"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "uap-gerb",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three",
+  "sources": [
+   "https://www.youtube.com/watch?v=u7g5Sn1DJF4",
+   "https://www.youtube.com/watch?v=nTiFs8LudUo"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "michels-gerb-structural-episode",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one p",
+  "sources": [
+   "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "gerb-mitre-investigation",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building expli",
+  "sources": [
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "gerb-mitre-investigation",
+  "b": "rand-corporation",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spirit",
+  "sources": [
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "gerb-nro-investigation",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 13 December 2025; 141,122 views; nearly three hours.",
+  "sources": [
+   "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+  ]
+ },
+ {
+  "a": "gerb-nro-investigation",
+  "b": "david-grusch",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted a",
+  "sources": [
+   "https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "michael-shellenberger",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the",
+  "sources": [
+   "https://www.youtube.com/watch?v=DPmO-2E7Ayg"
+  ]
+ },
+ {
+  "a": "ross-coulthart",
+  "b": "uap-gerb",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a ",
+  "sources": [
+   "https://www.youtube.com/watch?v=F2NfXgv8x1E",
+   "https://www.youtube.com/watch?v=z4tCLZc37cg"
+  ]
+ },
+ {
+  "a": "ross-coulthart",
+  "b": "newsnation-reality-check",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle t",
+  "sources": [
+   "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+  ]
+ },
+ {
+  "a": "newsnation-reality-check",
+  "b": "ffrdc-mechanism",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the co",
+  "sources": [
+   "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+  ]
+ },
+ {
+  "a": "rob-jones",
+  "b": "newsnation-reality-check",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Named in the on-screen credits of the 4 August 2026 episode.",
+  "sources": [
+   "https://www.youtube.com/watch?v=F2NfXgv8x1E"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "gerb-hidden-wing",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ",
+  "sources": [
+   "https://www.youtube.com/watch?v=-IXSZe4xVv4"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "gerb-northrop-trw-investigation",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.",
+  "sources": [
+   "https://www.youtube.com/watch?v=0kLSp0lH-JQ"
+  ]
+ },
+ {
+  "a": "uap-gerb",
+  "b": "gerb-battelle-investigation",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA rea",
+  "sources": [
+   "https://www.youtube.com/watch?v=tISTJRPOqFo"
+  ]
+ },
+ {
+  "a": "gerb-battelle-investigation",
+  "b": "project-blue-book",
+  "type": "programmatic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Project Stork was Battelle's contract supporting the Air Force UFO effort; it produced the statistical study i",
+  "sources": [
+   "https://www.youtube.com/watch?v=tISTJRPOqFo"
+  ]
+ },
+ {
+  "a": "leslie-kean",
+  "b": "ralph-blumenthal",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Ke",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leslie_Kean"
+  ]
+ },
+ {
+  "a": "leslie-kean",
+  "b": "david-grusch",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple v",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Leslie_Kean"
+  ]
+ },
+ {
+  "a": "george-knapp",
+  "b": "robert-bigelow",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NI",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+  ]
+ },
+ {
+  "a": "george-knapp",
+  "b": "harry-reid",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal a",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+  ]
+ },
+ {
+  "a": "george-knapp",
+  "b": "nids",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+  ]
+ },
+ {
+  "a": "george-knapp",
+  "b": "jeremy-corbell",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+  ]
+ },
+ {
+  "a": "jeremy-corbell",
+  "b": "weaponized-podcast",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The primary channel through which leaked Navy imagery has entered the public record.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"
+  ]
+ },
+ {
+  "a": "daniel-sheehan",
+  "b": "luis-elizondo",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme dir",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+  ]
+ },
+ {
+  "a": "daniel-sheehan",
+  "b": "steven-greer",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection h",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "american-alchemy",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+  "sources": [
+   "https://www.youtube.com/watch?v=u7g5Sn1DJF4"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "eric-davis",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "A four-hour session covering the Wilson-Davis memo (37:56), the count of crashes (48:00), crash retrieval prog",
+  "sources": [
+   "https://www.youtube.com/watch?v=xnxasfyHtfo"
+  ]
+ },
+ {
+  "a": "ffrdc-mechanism",
+  "b": "mitre-corporation",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to g",
+  "sources": [
+   "https://www.mitre.org/",
+   "https://www.youtube.com/watch?v=107BtDYhTkA"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "jake-barber",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-born",
+  "sources": [
+   "https://www.youtube.com/watch?v=dnnpyNuPdXs",
+   "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/"
+  ]
+ },
+ {
+  "a": "sol-foundation",
+  "b": "dylan-borland",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium pr",
+  "sources": [
+   "https://thesolfoundation.org/events/the-2025-sol-foundation-symposium/",
+   "https://www.youtube.com/watch?v=K4gYHs84BIc"
+  ]
+ },
+ {
+  "a": "jesse-michels",
+  "b": "dylan-borland",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describe",
+  "sources": [
+   "https://www.youtube.com/watch?v=K4gYHs84BIc"
+  ]
+ },
+ {
+  "a": "avi-loeb",
+  "b": "uap-science-advisory-council",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with ",
+  "sources": [
+   "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/",
+   "https://avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df",
+   "https://apnews.com/article/trump-ufo-council-avi-loeb-science-uaps-5798dd793b77aeb2d9baa99586ad8a85",
+   "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
+   "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
+  ]
+ },
+ {
+  "a": "amir-siraj",
+  "b": "im1-pacific-expedition-2023",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the S",
+  "sources": [
+   "https://en.wikipedia.org/wiki/CNEOS_2014-01-08"
+  ]
+ },
+ {
+  "a": "age-of-disclosure-2025",
+  "b": "harold-puthoff",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force ch",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+  ]
+ },
+ {
+  "a": "age-of-disclosure-2025",
+  "b": "eric-davis",
+  "type": "behavioral",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitti",
+  "sources": [
+   "https://en.wikipedia.org/wiki/The_Age_of_Disclosure"
+  ]
+ },
+ {
+  "a": "hr-8197",
+  "b": "aaro",
+  "type": "legislative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of con",
+  "sources": [
+   "https://politicalsaucer.substack.com/p/all-domain-anomaly-resolution-office"
+  ]
+ },
+ {
+  "a": "l-brazil",
+  "b": "operacao-prato",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Pratt's file: intelligence agents 'from the Air Force base in Belém in northern Brazil interviewed hundreds of",
+  "sources": [
+   "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+   "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+  ]
+ },
+ {
+  "a": "l-brasilia",
+  "b": "doc-fab-1986-report",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-",
+  "sources": [
+   "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+   "Arquivo Nacional, Fundo Objeto Voador Não Identificado – OVNI, reference BR DFANBSB ARX; the 1986 Air Defence Command report carries the item reference BR_DFANBSB_ARX_0_0_0249 (board node doc-fab-1986-report)",
+   "https://en.wikipedia.org/wiki/Bras%C3%ADlia"
+  ]
+ },
+ {
+  "a": "operacao-prato",
+  "b": "the-black-vault",
+  "type": "custody",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt ",
+  "sources": [
+   "Bob Pratt, 'Operação Prato', MUFON/Pratt document set hosted by The Black Vault — https://documents.theblackvault.com/documents/MUFON/Pratt/prato.pdf",
+   "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"
+  ]
+ },
+ {
+  "a": "newsnation",
+  "b": "d-media",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built ar",
+  "sources": [
+   "https://www.newsnationnow.com/author/ross-coulthart/",
+   "https://www.newsnationnow.com/podcasts-newsnation/reality-check/"
+  ]
+ },
+ {
+  "a": "michels-gerb-structural-episode",
+  "b": "d-media",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels thr",
+  "sources": [
+   "https://www.youtube.com/watch?v=u7g5Sn1DJF4",
+   "https://podcasts.apple.com/us/podcast/the-hidden-ufo-program-is-real-heres-how-it-works-ft-uapgerb/id1771917740?i=1000744706983"
+  ]
+ },
+ {
+  "a": "ttsa-army-crada",
+  "b": "d-contracting",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019",
+  "sources": [
+   "https://web.archive.org/web/20191115181458/https://dpo.tothestarsacademy.com/blog/crada-faq",
+   "https://web.archive.org/web/20211024221658/https://dpo.tothestarsacademy.com/blog/crada-faq"
+  ]
+ },
+ {
+  "a": "l-virginia",
+  "b": "nro",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International ",
+  "sources": [
+   "https://www.nro.gov/Contact-Us/",
+   "https://en.wikipedia.org/wiki/National_Reconnaissance_Office"
+  ]
+ },
+ {
+  "a": "l-cambridge-ma",
+  "b": "galileo-project",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the ro",
+  "sources": [
+   "https://arxiv.org/abs/2209.02479",
+   "https://galileo.hsites.harvard.edu/",
+   "https://en.wikipedia.org/wiki/The_Galileo_Project"
+  ]
+ },
+ {
+  "a": "cometa",
+  "b": "l-france",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July ",
+  "sources": [
+   "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+   "https://en.wikipedia.org/wiki/COMETA_report"
+  ]
+ },
+ {
+  "a": "aztec-1948",
+  "b": "l-aztec",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a sy",
+  "sources": [
+   "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
+   "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax"
+  ]
+ },
+ {
+  "a": "l-lasvegas",
+  "b": "nids",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contem",
+  "sources": [
+   "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn",
+   "https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science",
+   "https://www.8newsnow.com/mystery-wire/las-vegas-group-set-the-bar-for-ufo-investigations-30-years-ago/"
+  ]
+ },
+ {
+  "a": "sean-kirkpatrick",
+  "b": "oak-ridge-national-laboratory",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The first AARO director joined Oak Ridge National Laboratory in December 2023 - the laboratory that performed ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office"
+  ]
+ },
+ {
+  "a": "atic",
+  "b": "l-wright-patterson",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The Air Technical Intelligence Center, formed in 1951 from Air Materiel Command's T-2 intelligence organisatio",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "nasic",
+  "b": "l-wright-patterson",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "project-blue-book",
+  "b": "l-wright-patterson",
+  "type": "programmatic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Project Blue Book, like SIGN and GRUDGE before it, was hosted at this base under ATIC. Of 12,618 sightings stu",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "nathan-twining",
+  "b": "l-wright-patterson",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Lt. Gen. Nathan Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "bolender-memo",
+  "b": "l-wright-patterson",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports whic",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Wright-Patterson_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "paul-bennewitz",
+  "b": "l-kirtland",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, co",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+  ]
+ },
+ {
+  "a": "afosi-kirtland-file",
+  "b": "l-kirtland",
+  "type": "custody",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of th",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "sandia",
+  "b": "l-kirtland",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his h",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base",
+   "https://en.wikipedia.org/wiki/Paul_Bennewitz"
+  ]
+ },
+ {
+  "a": "l-kirtland",
+  "b": "l-albuquerque",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerqu",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "roswell-1947",
+  "b": "l-roswell",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelli",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roswell_incident"
+  ]
+ },
+ {
+  "a": "walter-haut",
+  "b": "roswell-1947",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence offi",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roswell_incident"
+  ]
+ },
+ {
+  "a": "roger-ramey",
+  "b": "roswell-1947",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar ta",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roswell_incident"
+  ]
+ },
+ {
+  "a": "jesse-marcel",
+  "b": "roswell-1947",
+  "type": "witness-chain",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported i",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roswell_incident"
+  ]
+ },
+ {
+  "a": "project-mogul",
+  "b": "roswell-1947",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Roswell_incident"
+  ]
+ },
+ {
+  "a": "l-area51",
+  "b": "l-groom-lake",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Area_51"
+  ]
+ },
+ {
+  "a": "l-groom-lake",
+  "b": "l-nellis",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part o",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Area_51"
+  ]
+ },
+ {
+  "a": "l-groom-lake",
+  "b": "l-tonopah",
+  "type": "programmatic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 1",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Area_51"
+  ]
+ },
+ {
+  "a": "lockheed-skunk-works",
+  "b": "l-groom-lake",
+  "type": "programmatic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Pal",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Area_51"
+  ]
+ },
+ {
+  "a": "l-edwards-afb",
+  "b": "l-groom-lake",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Area_51",
+   "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
+  ]
+ },
+ {
+  "a": "l-skinwalker",
+  "b": "l-utah",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, insi",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
+  ]
+ },
+ {
+  "a": "stargate-program",
+  "b": "sri-international",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with i",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SRI_International",
+   "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+  ]
+ },
+ {
+  "a": "stargate-program",
+  "b": "l-sri",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the wor",
+  "sources": [
+   "https://en.wikipedia.org/wiki/SRI_International"
+  ]
+ },
+ {
+  "a": "harold-puthoff",
+  "b": "stargate-program",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+  ]
+ },
+ {
+  "a": "russell-targ",
+  "b": "stargate-program",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+  ]
+ },
+ {
+  "a": "james-clapper",
+  "b": "stargate-program",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+  ]
+ },
+ {
+  "a": "stargate-program",
+  "b": "dia",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"
+  ]
+ },
+ {
+  "a": "condon-committee",
+  "b": "l-boulder-co",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon a",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Condon_Committee"
+  ]
+ },
+ {
+  "a": "low-memo",
+  "b": "l-boulder-co",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Condon_Committee"
+  ]
+ },
+ {
+  "a": "condon-committee",
+  "b": "project-blue-book",
+  "type": "denial",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The Air Force terminated Project Blue Book on 17 December 1969 in response to the Condon findings, having rece",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Condon_Committee"
+  ]
+ },
+ {
+  "a": "l-los-alamos",
+  "b": "l-white-sands",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in south",
+  "sources": [
+   "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+  ]
+ },
+ {
+  "a": "green-fireballs-conference-1949",
+  "b": "l-los-alamos",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenom",
+  "sources": [
+   "https://en.wikipedia.org/wiki/White_Sands_Missile_Range"
+  ]
+ },
+ {
+  "a": "frank-scully",
+  "b": "behind-the-flying-saucers",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Scully"
+  ]
+ },
+ {
+  "a": "behind-the-flying-saucers",
+  "b": "aztec-1948",
+  "type": "research",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident"
+  ]
+ },
+ {
+  "a": "shag-harbour-1967",
+  "b": "kecksburg-1965",
+  "type": "temporal",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RC",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident"
+  ]
+ },
+ {
+  "a": "kecksburg-1965",
+  "b": "l-kecksburg",
+  "type": "geographic",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident"
+  ]
+ },
+ {
+  "a": "newsnation",
+  "b": "david-grusch",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first televis",
+  "sources": [
+   "https://www.newsnationnow.com/space/ufo/we-are-not-alone-the-ufo-whistleblower-speaks/",
+   "https://en.wikipedia.org/wiki/Ross_Coulthart"
+  ]
+ },
+ {
+  "a": "newsnation",
+  "b": "skywatcher",
+  "type": "investigative",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Realit",
+  "sources": [
+   "https://www.newsnationnow.com/space/ufo/hfr-uap-recovery-video-egg-shaped-object-exclusive/",
+   "https://en.wikipedia.org/wiki/Ross_Coulthart",
+   "https://www.newsnationnow.com/space/ufo/ross-coulthart-qa-skywatcher-didnt-disappear-it-went-government/"
+  ]
+ },
+ {
+  "a": "walter-haut",
+  "b": "jesse-marcel",
+  "type": "institutional",
+  "why": "cited to a secondary/encyclopedic source with no primary record",
+  "note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intel",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Walter_Haut"
+  ]
+ }
+]

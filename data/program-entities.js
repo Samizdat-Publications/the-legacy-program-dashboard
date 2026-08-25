@@ -7748,6 +7748,11 @@ export const INSTITUTIONS = [
     ],
     sources: [
       {
+        name: 'Agencia Peruana de Noticias Andina (Editora Perú), \'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP\', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        url: '',
+        date: null
+      },
+      {
         name: 'BBC Mundo - Por qué Perú reabrió la oficina de búsqueda de ovnis',
         url: 'https://www.bbc.com/mundo',
         date: '2014-02-05'
@@ -7838,22 +7843,47 @@ export const INSTITUTIONS = [
       }
     ],
     sources: [
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        date: null
+      },
+      {
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        date: null
+      },
+      {
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        date: null
+      },
+      {
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        date: null
+      },
+      {
+        name: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        date: null
+      },
       { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' },
       { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' },
       {
         name: 'SIAN image server - 1986 report',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
-      },
-      {
-        name: 'Arquivo Nacional, \'Conheça o fundo sobre OVNIs do Arquivo Nacional\', published 13/09/2018 ()',
-        url: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
-        date: null
-      },
-      {
-        name: 'André Rigue and Lauryn Amaral, CNN Brasil, \'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025\', 12 August 2026, updated 14 August 2026 ()',
-        url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
-        date: null
       }
     ]
   },
@@ -7912,31 +7942,31 @@ export const INSTITUTIONS = [
     ],
     sources: [
       {
-        name: 'Relatório de Ocorrências (Arquivo Nacional)',
-        url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
-        date: '1986-06-02'
-      },
-      { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' },
-      {
-        name: 'Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ()',
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ()',
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, CREDN, \'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito\', 24/10/2012 (); contrasted with Senado Federal RQS 193/2022',
+        name: 'https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito',
         url: 'https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito',
         date: null
       },
       {
-        name: 'Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 ()',
+        name: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
         url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
         date: null
-      }
+      },
+      {
+        name: 'Relatório de Ocorrências (Arquivo Nacional)',
+        url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
+        date: '1986-06-02'
+      },
+      { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' }
     ]
   },
   {
@@ -8165,8 +8195,68 @@ export const INSTITUTIONS = [
     ],
     sources: [
       {
-        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - ; and DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release',
+        name: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         date: null
       },
       {
@@ -8180,53 +8270,13 @@ export const INSTITUTIONS = [
         date: null
       },
       {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
-        date: null
-      },
-      {
         name: 'armed-services.senate.gov',
         url: 'https://www.armed-services.senate.gov/about/membership',
         date: null
       },
       {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
-        date: null
-      },
-      {
         name: 'army.mil',
         url: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
         date: null
       },
       {
@@ -8242,11 +8292,6 @@ export const INSTITUTIONS = [
       {
         name: 'democrats-appropriations.house.gov',
         url: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career',
-        date: null
-      },
-      {
-        name: 'esd.whs.mil',
-        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
         date: null
       }
     ]
@@ -9187,7 +9232,17 @@ export const INSTITUTIONS = [
         url: 'https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf',
         date: '1999-07-01'
       },
-      { name: 'COMETA report - Wikipedia', url: 'https://en.wikipedia.org/wiki/COMETA_report', date: '2026-01-01' }
+      { name: 'COMETA report - Wikipedia', url: 'https://en.wikipedia.org/wiki/COMETA_report', date: '2026-01-01' },
+      {
+        name: 'COMETA, \'Les OVNI et la Défense - À quoi doit-on se préparer ?\', Éditions du Rocher, 2003, ISBN 2-268-04592-7',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://cnes-geipan.fr/en/documentation',
+        url: 'https://cnes-geipan.fr/en/documentation',
+        date: null
+      }
     ]
   },
   {
@@ -9322,21 +9377,26 @@ export const INSTITUTIONS = [
       { name: 'GEIPAN - Statistiques', url: 'https://www.geipan.fr/fr/stats', date: '2026-08-11' },
       { name: 'GEIPAN - accueil et actualités', url: 'https://www.geipan.fr/', date: '2026-08-12' },
       { name: 'GEIPAN - Wikipedia', url: 'https://en.wikipedia.org/wiki/GEIPAN', date: '2026-01-01' },
-      { name: 'cnes-geipan.fr', url: 'https://cnes-geipan.fr/en/histoire-du-geipan', date: null },
-      { name: 'cnes-geipan.fr', url: 'https://cnes-geipan.fr/en/stats', date: null },
-      { name: 'cnes.fr', url: 'https://cnes.fr/en/projects/geipan', date: null },
       {
-        name: '\'French Government UFO Study\', contemporaneous English-language summary submitted by Ron Westrum, held in the NSA public document collection',
-        url: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        name: 'https://cnes-geipan.fr/en/histoire-du-geipan',
+        url: 'https://cnes-geipan.fr/en/histoire-du-geipan',
         date: null
       },
+      { name: 'https://cnes-geipan.fr/en/stats', url: 'https://cnes-geipan.fr/en/stats', date: null },
+      { name: 'https://cnes-geipan.fr/en/search/cas', url: 'https://cnes-geipan.fr/en/search/cas', date: null },
+      { name: 'https://cnes.fr/en/projects/geipan', url: 'https://cnes.fr/en/projects/geipan', date: null },
       {
-        name: 'cnes-geipan.fr',
+        name: 'https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf',
         url: 'https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf',
         date: null
       },
       {
-        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\', 2025',
+        name: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        url: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        date: null
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: null
       }
@@ -9550,31 +9610,44 @@ export const INSTITUTIONS = [
         url: 'https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: '2025-06-01'
       },
-      { name: 'sefaa.dgac.gob.cl', url: 'https://sefaa.dgac.gob.cl/quienes-somos/', date: null },
       {
-        name: 'dgac.gob.cl',
+        name: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        url: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        date: null
+      },
+      {
+        name: 'https://sefaa.dgac.gob.cl/reportar-un-caso/',
+        url: 'https://sefaa.dgac.gob.cl/reportar-un-caso/',
+        date: null
+      },
+      {
+        name: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
         url: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
         date: null
       },
-      { name: 'dgac.gob.cl', url: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/', date: null },
       {
-        name: 'ised-isde.canada.ca',
+        name: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/',
+        url: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/',
+        date: null
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: null
       },
       {
-        name: 'Newsweek, \'Chilean Navy Can\'t Identify Mysterious Aircraft Caught on Video\' - ; Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017',
+        name: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
         url: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
+        date: null
+      },
+      {
+        name: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
+        url: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
         date: null
       },
       {
         name: 'Newsweek, \'Chilean Navy Can\'t Identify Mysterious Aircraft Caught on Video\' - ; Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017',
         url: 'https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b',
-        date: null
-      },
-      {
-        name: 'Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017 - ; Metabunk, \'Explained: Chilean Navy "UFO" video - Aerodynamic Contrails, Flight IB6830\'',
-        url: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
         date: null
       }
     ]
@@ -11787,6 +11860,36 @@ export const PROGRAMS = [
         date: '2024-01-05'
       },
       {
+        name: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'DoD Directive 5205.07, \'Special Access Program Policy\', effective 12 September 2024, cleared for public release - https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-93-78, \'Defense Acquisition: Oversight of Special Access Programs Has Increased\', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-89-133, \'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements\', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
         name: 'DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018',
         url: 'https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
         date: '2018-08-31'
@@ -13544,26 +13647,26 @@ export const PROGRAMS = [
     ],
     sources: [
       {
-        name: 'Operação Prato - Wikipedia',
-        url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
-        date: '2026-01-01'
-      },
-      { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' },
-      {
-        name: 'Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 ()',
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 ()',
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         date: null
       },
       {
-        name: 'Senado Federal, Requerimento nº 193, de 2022 (RQS 193/2022), Sen. Eduardo Girão et al., justificação; Diário do Senado Federal nº 32 de 2022; approved in plenary 24/06/2022 ()',
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
         url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
         date: null
-      }
+      },
+      {
+        name: 'Operação Prato - Wikipedia',
+        url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
+        date: '2026-01-01'
+      },
+      { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' }
     ]
   },
   {
@@ -22217,9 +22320,14 @@ export const LEGISLATION = [
     ],
     sources: [
       {
-        name: 'S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015',
+        name: 'https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
         url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
-        date: '2023-07-27'
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        date: null
       },
       {
         name: 'Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)',
@@ -22227,8 +22335,53 @@ export const LEGISLATION = [
         date: '2023-12-22'
       },
       {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103 as reported, Senate Intelligence Committee posted PDF - https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2103rs.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Engrossed S. 2226, govinfo HTML - https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991 - https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents - https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senate Report 118-59, Select Committee on Intelligence, to accompany S. 2103, 13 July 2023 - https://www.govinfo.gov/content/pkg/CRPT-118srpt59/html/CRPT-118srpt59.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Brandi Vincent, \'Senate\'s intelligence authorization bill questions reverse engineering of government-recovered UAPs\', DefenseScoop, 27 June 2023 - https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/',
+        url: '',
         date: null
       },
       {
@@ -23000,6 +23153,11 @@ export const LEGISLATION = [
     ],
     sources: [
       {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)',
         url: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm',
         date: '2024-01-05'
@@ -23010,14 +23168,19 @@ export const LEGISLATION = [
         date: '2026-08-12'
       },
       {
-        name: '10 U.S.C. Sec. 119, Special access programs: congressional oversight',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: '2024-01-01'
-      },
-      {
         name: 'House Oversight hearing transcript, \'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency\' (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        url: '',
+        date: null
       },
       {
         name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - ; and S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023',
@@ -25180,6 +25343,11 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        date: null
+      },
+      {
         name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
         url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
         date: '2024-03-08'
@@ -25309,11 +25477,6 @@ export const DOCUMENTS = [
         name: 'New Paradigm Institute - AARO Report on the Historical Record, Volume I',
         url: 'https://newparadigminstitute.org/learn/library/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap-volume-i/',
         date: '2024-03-08'
-      },
-      {
-        name: 'media.defense.gov',
-        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
-        date: null
       }
     ]
   },
@@ -26142,9 +26305,9 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
-        name: 'Fiscal Year 2025 Consolidated Annual Report on UAP (aaro.mil Portals/136, FY25 UAP Annual Report folder)',
+        name: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
         url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
+        date: null
       },
       {
         name: 'Wayback snapshot of the FY2025 Consolidated Annual Report PDF',
@@ -26820,10 +26983,15 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
     ]
@@ -26907,9 +27075,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         date: null
       }
@@ -26989,9 +27157,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
         date: null
       }
@@ -27076,10 +27244,15 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.seti.org/news/claudio-maccone/',
+        url: 'https://www.seti.org/news/claudio-maccone/',
         date: null
       }
     ]
@@ -27158,9 +27331,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         date: null
       }
@@ -27245,8 +27418,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
         date: null
       }
@@ -27331,14 +27505,14 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
@@ -27423,14 +27597,14 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
@@ -27520,15 +27694,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
+        url: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
         date: null
       }
     ]
@@ -27612,13 +27796,27 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         date: null
       },
-      { name: 'jbis.org.uk', url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278', date: null }
+      {
+        name: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      }
     ]
   },
   {
@@ -27700,20 +27898,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
         date: null
       }
     ]
@@ -27797,11 +28000,21 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'earthtech.org', url: 'https://earthtech.org/pubs/davis/', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       }
     ]
@@ -27885,20 +28098,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         url: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://www.unlv.edu/people/william-culbreth',
+        url: 'https://www.unlv.edu/people/william-culbreth',
         date: null
       }
     ]
@@ -27987,21 +28205,30 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf', date: null },
       {
-        name: 'drrobertbaker.com',
+        name: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        date: null
+      },
+      {
+        name: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
         url: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
         date: null
       }
     ]
@@ -28085,20 +28312,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        url: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
         date: null
       }
     ]
@@ -28182,15 +28414,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       }
     ]
@@ -28270,11 +28512,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      }
     ]
   },
   {
@@ -28347,11 +28594,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -28424,11 +28676,11 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -28501,11 +28753,11 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -28578,11 +28830,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -28660,18 +28917,18 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'theblackvault.com',
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         date: null
       }
@@ -28747,11 +29004,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      }
     ]
   },
   {
@@ -28824,12 +29086,21 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/', date: null }
+      {
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
+        date: null
+      },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -37074,6 +37345,11 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
+        name: 'Project Condign, \'Unidentified Aerial Phenomena in the UK Air Defence Region\', UK Defence Intelligence Staff; released 15 May 2006',
+        url: '',
+        date: null
+      },
+      {
         name: 'Project Condign - Volumes 1-3 (Internet Archive)',
         url: 'https://archive.org/details/condign-vol-2-1-258',
         date: '2006-05-15'
@@ -40862,6 +41138,16 @@ export const EVENTS = [
     ],
     sources: [
       {
+        name: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        date: null
+      },
+      {
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -40871,11 +41157,6 @@ export const EVENTS = [
         name: '1986 Brazilian UFO incident - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident',
         date: '2026-01-01'
-      },
-      {
-        name: 'André Bernardo, BBC Brasil, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\', published 14 January 2022, republished 17 May 2026 ()',
-        url: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
-        date: null
       }
     ]
   },
@@ -41008,25 +41289,39 @@ export const EVENTS = [
         url: 'https://vault.fbi.gov/',
         date: '2026-08-12'
       },
-      { name: 'en.wikipedia.org', url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax', date: null },
       {
-        name: 'Denver Public Library Special Collections and Archives, Chris Root, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021',
+        name: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
         url: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
         date: null
       },
       {
-        name: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at and',
+        name: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        url: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        date: null
+      },
+      { name: 'https://vault.fbi.gov/hottel_guy', url: 'https://vault.fbi.gov/hottel_guy', date: null },
+      {
+        name: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        date: null
+      },
+      {
+        name: 'https://archive.org/details/behindflyingsauc00scul',
+        url: 'https://archive.org/details/behindflyingsauc00scul',
+        date: null
+      },
+      {
+        name: 'https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
         url: 'https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
         date: null
       },
       {
-        name: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at and',
+        name: 'https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
         url: 'https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
         date: null
       },
-      { name: 'fbi.gov', url: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo', date: null },
       {
-        name: 'books.google.com',
+        name: 'https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ',
         url: 'https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ',
         date: null
       }
