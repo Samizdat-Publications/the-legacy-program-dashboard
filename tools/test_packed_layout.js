@@ -234,12 +234,12 @@ async function probe(page, opts = {}) {
        itself out of them, so a "visible" chip means visible in the CONTENT rect.
        Counting the chrome as map is how the first cut of this file managed to
        probe six chips that the renderer had correctly refused to draw there. */
-    /* geo is published at PK.config.geo. This file read PK.geo -- undefined --
-       and fell through to the literals below, which happened to match while the
-       renderer had the same bug. When geo.headRow moved from 46 to 76 the check
-       went on measuring a 46px strip and agreed with a renderer it was no longer
-       describing. A check that shares the implementation's mistake cannot see it. */
-    const geo0 = (PK.config || {}).geo || PK.geo || { gutter: 148, headRow: 46 };
+    /* PK.geo is populated by merge_packed, so this tracks the renderer's own PAD
+       rather than restating it. The literals are the degenerate-model fallback and
+       must never be relied on: if they ever diverge from geo, this check measures
+       a different strip from the one the renderer draws and agrees with a renderer
+       it is no longer describing. */
+    const geo0 = PK.geo || { gutter: 148, headRow: 46 };
     const PADL = geo0.gutter, PADT = geo0.headRow;
     const rect = n => { const g = ORIG[n.id] || n;
       return { x: g.x * v.k + v.ox, y: g.y * v.k + v.oy,

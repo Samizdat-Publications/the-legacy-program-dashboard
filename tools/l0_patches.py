@@ -201,11 +201,11 @@ function mountL0(host){
      no chip can ever be beneath them, and pan-clamping means the reader can never
      scroll the map off into empty world either.
 
-     geo lives at PK.config.geo. It was read as PK.geo for the whole of the first
-     build, which is undefined, so every value below came from the fallback. That
-     went unnoticed because the fallbacks matched -- a coincidence, not a design.
-     Read the model first and keep the fallbacks for the degenerate model only. */
-  const GEO = (PK.config||{}).geo || PK.geo || {};
+     geo comes from the model: merge_packed copies config.geo onto L0DATA.packed,
+     so PK.geo is populated and PAD tracks it. The fallbacks below are for the
+     degenerate model only. headRow was 46 and that was simply too short -- see
+     the note in tools/build_l0_layout.mjs. */
+  const GEO = PK.geo || {};
   const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
