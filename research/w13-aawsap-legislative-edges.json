@@ -1,0 +1,96 @@
+{
+ "domain": "w13-aawsap-legislative-edges",
+ "_why": "Twelve edges: the five AAWSAP deliverable-author links, the two Reid-DIA links, the four FY2022 NDAA links, and the 509th Bomb Group custody link. Every document cited here was downloaded and read in this pass.\n\nThe find is in the deliverable-author edges. The board credits five named people with specific Defense Intelligence Reference Documents. I pulled all seven relevant DIRDs from the Black Vault mirrors recorded in research/_dird-verification.json and read them. Every one of them has its 'Author:' field REDACTED under FOIA exemption (b)(6), personal privacy - and 'Prepared by:' redacted under (b)(3):10 USC 424, the DIA organisational exemption. The documents themselves do not name their authors.\n\nThe attribution the board carries comes from a different document: the list of 38 deliverables DIA transmitted to Congress, released to The Black Vault under FOIA-0033-2019. That list pairs each title with an author and affiliation. I could not obtain it in a readable form this pass - irp.fas.org/dia/aatip-list.pdf returns HTTP 202 with an empty body, which its Wayback capture also recorded, and The Black Vault's AAWSAP page hosts the 37 released reports but not the listing breakdown.\n\nSo these five edges are tier 2, and each note now states the position honestly: the DIRD is primary evidence that the document exists with that title, date and DIA document number, and the authorship rests on DIA's separate list, not on the document itself. Counting name occurrences in the body is not a substitute - Winterberg appears nine times in Advanced Nuclear Propulsion and once in Aneutronic Fusion Propulsion, which he did not write, because prior work gets cited.\n\nThe AARO Historical Record Report quotes in the two Reid notes were checked against the report and are verbatim. AARO is an interested party in its own history, so these stay tier 2 under the board's own rule even though the notes attribute.\n\nThe FY2022 NDAA edges are the cleanest in this batch. All three quotes in those notes appear word for word in the Deputy Secretary of Defense memorandum of 15 July 2022, which I read in full.",
+
+ "edges": [
+  {
+   "a": "claudio-maccone", "b": "aawsap", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "DIRD, 'An Introduction to the Statistical Drake Equation', 11 March 2010, 56 pp. (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf", "date": "2010-03-11"},
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/", "date": "2022-03-25"}
+   ],
+   "note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself."
+  },
+  {
+   "a": "friedwardt-winterberg", "b": "aawsap", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "DIRD, 'Advanced Nuclear Propulsion for Manned Deep Space Missions', 11 March 2010, 38 pp. (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf", "date": "2010-03-11"},
+    {"name": "DIRD, 'Negative Mass Propulsion', 3 January 2011, 44 pp., DIA-08-1101-023 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf", "date": "2011-01-03"}
+   ],
+   "note": "Credited with two of the 38 AAWSAP deliverables: 'Advanced Nuclear Propulsion for Manned Deep Space Missions' (11 March 2010) and 'Negative Mass Propulsion' (3 January 2011, DIA-08-1101-023). Both released texts name AAWSAP. The work was contracted through the DIA/BAASS chain, not performed as a DIA employee. Tier 2: both documents have their 'Author' field redacted under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables."
+  },
+  {
+   "a": "vincent-teofilo", "b": "aawsap", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "DIRD, 'Aneutronic Fusion Propulsion', 1 November 2010, 50 pp., DIA-08-1011-003 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf", "date": "2010-11-01"},
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/", "date": "2022-03-25"}
+   ],
+   "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either."
+  },
+  {
+   "a": "wil-mccarthy", "b": "aawsap", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "DIRD, 'Aerospace Applications of Programmable Matter', 14 December 2009, 21 pp., DIA-08-0911-016 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf", "date": "2009-12-14"},
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/", "date": "2022-03-25"}
+   ],
+   "note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list."
+  },
+  {
+   "a": "william-culbreth", "b": "aawsap", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "DIRD, 'Aneutronic Fusion Propulsion II', 1 November 2010, 37 pp. (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf", "date": "2010-11-01"},
+    {"name": "DIRD, 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities', 20 November 2010, 47 pp., DIA-08-1012-001 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf", "date": "2010-11-20"}
+   ],
+   "note": "Credited with two of the 38 AAWSAP deliverables: 'Aneutronic Fusion Propulsion II' (1 November 2010) and 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (20 November 2010, DIA-08-1012-001). Both released texts name AAWSAP. Culbreth was based at the University of Nevada, Las Vegas, the same city as the prime contractor BAASS. Tier 2: both documents redact their 'Author' field under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables."
+  },
+  {
+   "a": "reid-dia-meetings-2008-2009", "b": "dia", "type": "funding", "claimTier": 2,
+   "sources": [
+    {"name": "AARO, The Department of Defense All-domain Anomaly Resolution Office Historical Record Report Volume 1, 8 March 2024", "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf", "date": "2024-03-08"}
+   ],
+   "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009... The contract for this DIA-managed program was awarded to a private sector organization.' AARO is an interested party in its own institutional history, which is why this is tier 2."
+  },
+  {
+   "a": "reid-dia-meetings-2008-2009", "b": "aawsap", "type": "programmatic", "claimTier": 2,
+   "sources": [
+    {"name": "AARO, Historical Record Report Volume 1, 8 March 2024", "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf", "date": "2024-03-08"}
+   ],
+   "note": "AARO's official history places AAWSAP (2009-2012), also known as AATIP, directly downstream of Reid's direction and the resulting DIA appropriation, and records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program - a request Lynn declined on the recommendation of Under Secretary of Defense for Intelligence James R. Clapper, Jr. Tier 2: AARO is an interested party in its own history."
+  },
+  {
+   "a": "ndaa-fy2022", "b": "aaro", "type": "legislative", "claimTier": 1,
+   "sources": [
+    {"name": "Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022", "url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF", "date": "2022-07-15"}
+   ],
+   "note": "The Deputy Secretary of Defense approved amendments to the AOIMSG direction 'to meet the DoD requirements in section 1683 of the NDAA for FY 2022', establishing AARO 'to carry out the duties that were to be fulfilled by the AOIMSG'. The memorandum also renames the AOIMEXEC as the AARO Executive Council and makes AARO 'the authoritative office of the Unidentified Aerial Phenomena (UAP) and UAP-related activities for the DoD'."
+  },
+  {
+   "a": "ndaa-fy2022", "b": "odni", "type": "legislative", "claimTier": 1,
+   "sources": [
+    {"name": "Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022", "url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF", "date": "2022-07-15"}
+   ],
+   "note": "The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary."
+  },
+  {
+   "a": "ndaa-fy2022", "b": "uap-task-force", "type": "legislative", "claimTier": 1,
+   "sources": [
+    {"name": "Deputy Secretary of Defense memorandum, 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022", "url": "https://media.defense.gov/2022/Jul/20/2003039074/-1/-1/1/ESTABLISHMENT-OF-THE-ALL-DOMAIN-ANOMALY-RESOLUTION-OFFICE.PDF", "date": "2022-07-15"}
+   ],
+   "note": "'Consistent with section 1683 of the NDAA for FY 2022, I also direct the Secretary of the Navy to disestablish the Unidentified Aerial Phenomena Task Force (UAPTF) no later than the date the AARO is established, and to support the orderly transition of the UAPTF, including the transfer of any data, analysis, or other relevant material, to the AARO.' The statute did not abolish the task force directly; it required an office whose establishment the Deputy Secretary made the trigger for disestablishment."
+  },
+  {
+   "a": "ndaa-fy2022", "b": "ndaa-fy2022-sec-1683", "type": "legislative", "claimTier": 1,
+   "sources": [
+    {"name": "Public Law 117-81, National Defense Authorization Act for Fiscal Year 2022, sec. 1683", "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ81/html/PLAW-117publ81.htm", "date": "2021-12-27"}
+   ],
+   "note": "Section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81, enacted 27 December 2021) is titled 'Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena', and sits in Title XVI, Subtitle E. It is the provision the board's section node is filed under."
+  },
+  {
+   "a": "509th-bomb-group", "b": "roswell-1947", "type": "custody", "claimTier": 1,
+   "sources": [
+    {"name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico', 28 July 1995", "url": "https://www.gao.gov/assets/nsiad-95-187.pdf", "date": "1995-07-28"}
+   ],
+   "note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947."
+  }
+ ]
+}
