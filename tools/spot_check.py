@@ -338,39 +338,80 @@ def link_sweep(board, host=None):
     # waiting on hosts that block this environment anyway. A HEAD with a short
     # deadline answers the only question being asked, and answers it in parallel.
     def probe(u):
+        # A ranged GET, not a HEAD. The first version asked HEAD and believed it, which
+        # is wrong in both directions: cnes.fr answers HEAD with 400 and GET with 200,
+        # and a deleted blogspot post answers HEAD with 200 and GET with 404. Only the
+        # second of those is dangerous -- it hides a dead citation behind a healthy
+        # status line -- and no amount of retrying HEAD finds it. Asking for the first
+        # 2KB costs about what a HEAD costs and answers the question the reader cares
+        # about: does following this link reach the page.
         r = subprocess.run(
-            ["curl", "-sSL", "-I", "-o", "/dev/null", "-w", "%{http_code}",
-             "--max-time", "20", "-A", UA, u],
+            ["curl", "-sSL", "-o", "/dev/null", "-w", "%{http_code}", "-r", "0-2047",
+             "--max-time", "25", "-A", UA, u],
             capture_output=True, text=True)
         if r.returncode != 0:
             return u, f"curl failed ({r.returncode})"
         code = r.stdout.strip()[-3:]
-        # Some hosts refuse HEAD but serve GET. Only a 4xx is worth the second call,
-        # and only for the codes that HEAD-hostile servers actually emit.
-        # cnes.fr answers HEAD with 400 and GET with 200, so a bare status code is not
-        # the last word; 400 belongs in this list beside the more usual refusals.
-        if code in ("400", "403", "404", "405", "501"):
-            r2 = subprocess.run(
-                ["curl", "-sSL", "-o", "/dev/null", "-w", "%{http_code}", "-r", "0-2047",
-                 "--max-time", "25", "-A", UA, u],
-                capture_output=True, text=True)
-            if r2.returncode == 0 and r2.stdout.strip()[-3:] in ("200", "206"):
-                return u, "ok"
         return u, ("ok" if code in ("200", "206") else f"HTTP {code}")
 
-    tally, dead = Counter(), defaultdict(list)
-    items = sorted(urls.items())
+    tally, dead, retry = Counter(), defaultdict(list), []
+
+    # Interleave by host. Sorted order groups every URL of a host together, so a dozen
+    # workers hit one site simultaneously and it starts answering 429 -- 37 of them on
+    # one run, all self-inflicted, which is noise in a report whose whole value is that
+    # a non-200 means something. Round-robining the hosts spreads those requests out.
+    by_host = defaultdict(list)
+    for u, where in sorted(urls.items()):
+        by_host[re.sub(r"^https?://(www\.)?", "", u).split("/")[0]].append((u, where))
+    items, queues = [], list(by_host.values())
+    while queues:
+        for q in list(queues):
+            items.append(q.pop(0))
+            if not q:
+                queues.remove(q)
+    results = {}
     with ThreadPoolExecutor(max_workers=12) as pool:
         for i, (u, kind) in enumerate(pool.map(lambda kv: probe(kv[0]), items), 1):
-            tally[kind.split(" (")[0]] += 1
-            if kind.startswith("HTTP 4") or kind.startswith("HTTP 5"):
-                dead[kind].append((u, sorted(urls[u])[:3]))
+            results[u] = kind
+            if kind == "HTTP 429":
+                retry.append(u)
             if i % 200 == 0:
                 print(f"  ... {i}/{len(items)}", file=sys.stderr)
+
+    # A serial re-ask with a short pause was tried here and removed: it does not clear
+    # a rate-limit window, so it cost time and changed nothing. The 429s are labelled
+    # in the summary instead, which is the honest thing rather than a mechanism that
+    # looks like it handles them and does not.
+    del retry
+
+    # Only 404 and 410 mean the document is gone. Everything else in the 4xx/5xx range
+    # that this board actually hits is the host refusing THIS caller: 403 blocks, 405
+    # and 406 method and user-agent filtering, 429 rate limiting, and a 503 from a
+    # patent search that refuses automated access. Listing those as dead citations
+    # buries the two codes that mean something under forty that do not.
+    GONE = ("HTTP 404", "HTTP 410")
+    for u, kind in results.items():
+        tally[kind.split(" (")[0]] += 1
+        if kind in GONE:
+            dead[kind].append((u, sorted(urls[u])[:3]))
     for k, c in tally.most_common():
-        print(f"  {c:5d}  {k}")
+        why = ""
+        if k == "HTTP 429":
+            why = "  <- this crawl, not the board; these answer 200 when asked once"
+        elif k == "HTTP 403":
+            why = "  <- this environment; mostly .mil and war.gov"
+        elif k == "curl failed":
+            why = "  <- unreachable from here; almost all web.archive.org"
+        elif k == "HTTP 202":
+            why = "  <- irp.fas.org bot challenge"
+        elif k in ("HTTP 406", "HTTP 405"):
+            why = "  <- user-agent or method filtering"
+        elif k == "HTTP 503":
+            why = "  <- patents.google refusing automated access"
+        print(f"  {c:5d}  {k}{why}")
     if dead:
-        print("\n  DEAD CITATIONS — a 4xx/5xx is the board's problem, unlike a 403 block:")
+        print("\n  DEAD CITATIONS — the document is gone. Everything above this line is a"
+              "\n  host refusing this caller, which is not the board's problem:")
         for k in sorted(dead):
             for u, where in sorted(dead[k]):
                 print(f"    {k}  {u[:104]}")
