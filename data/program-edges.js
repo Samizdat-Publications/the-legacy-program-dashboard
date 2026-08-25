@@ -30358,6 +30358,74 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'the-intercept',
+    b: 'luis-elizondo',
+    type: 'investigative',
+    label: 'First major press challenge to Elizondo\'s AATIP leadership claim',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Kloor\'s finding: \'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.\' He obtained a statement from Pentagon spokesperson Christopher Sherwood: \'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.\' The piece is the origin of the documented dispute over Elizondo\'s role, and the Pentagon\'s position in it has been restated since.',
+    sources: [
+      {
+        name: 'Keith Kloor, \'The Media Loves This UFO Expert Who Says He Worked for an Obscure Pentagon Program. Did He?\', The Intercept, 1 June 2019',
+        url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        date: '2019-06-01'
+      }
+    ]
+  },
+  {
+    a: 'the-intercept',
+    b: 'aatip',
+    type: 'investigative',
+    label: 'Pentagon confirmation of AATIP\'s existence obtained by The Intercept',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'In the same piece the Pentagon confirmed to The Intercept that AATIP existed and \'did pursue research and investigation into unidentified aerial phenomena,\' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD\'s public position and the TTSA account of AATIP\'s chain of command.',
+    sources: [
+      {
+        name: 'Keith Kloor, The Intercept, 1 June 2019',
+        url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        date: '2019-06-01'
+      }
+    ]
+  },
+  {
+    a: 'the-intercept',
+    b: 'ttsa',
+    type: 'investigative',
+    label: 'Scrutiny of To The Stars Academy\'s media apparatus and financing',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The piece documents what To The Stars Academy\'s own regulatory filings say it is: a \'Motion Picture & Video Tape Production\' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel\'s \'Unidentified\', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.',
+    sources: [
+      {
+        name: 'Keith Kloor, The Intercept, 1 June 2019',
+        url: 'https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/',
+        date: '2019-06-01'
+      }
+    ]
+  },
+  {
+    a: 'the-intercept',
+    b: 'david-grusch',
+    type: 'investigative',
+    label: 'FOIA\'d police records on Grusch published weeks after his testimony',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Klippenstein obtained Loudoun County Sheriff\'s Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: \'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff\'s Office.\' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.',
+    sources: [
+      {
+        name: 'Ken Klippenstein, \'UFO Whistleblower Kept Security Clearance After Psychiatric Detention\', The Intercept, 9 August 2023',
+        url: 'https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/',
+        date: '2023-08-09'
+      }
+    ]
+  },
+  {
     a: 'us-navy',
     b: 'nimitz-2004',
     type: 'institutional',
@@ -39471,50 +39539,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2025-09-09',
     dateEnd: null,
     note: 'POGO appeared before the House Committee on Oversight and Government Reform\'s Task Force on the Declassification of Federal Secrets, and used the appearance to recommend statutory changes (overturning Navy v. Egan, independent adjudication for IC and military whistleblowers) that bear directly on the committee\'s UAP inquiry.',
-    sources: []
-  },
-  {
-    a: 'the-intercept',
-    b: 'luis-elizondo',
-    type: 'investigative',
-    label: 'First major press challenge to Elizondo\'s AATIP leadership claim',
-    claimTier: 1,
-    dateStart: '2019-06-01',
-    dateEnd: null,
-    note: 'Keith Kloor reported for The Intercept that \'there is no discernible evidence that he ever worked for a government UFO program, much less led one,\' and obtained a Pentagon statement from spokesperson Christopher Sherwood that Elizondo \'had no responsibilities with regard to the AATIP program while he worked in OUSDI ... up until the time he resigned effective 10/4/2017.\'',
-    sources: []
-  },
-  {
-    a: 'the-intercept',
-    b: 'aatip',
-    type: 'investigative',
-    label: 'Pentagon confirmation of AATIP\'s existence obtained by The Intercept',
-    claimTier: 1,
-    dateStart: '2019-06-01',
-    dateEnd: null,
-    note: 'In the same piece the Pentagon confirmed to The Intercept that AATIP existed and \'did pursue research and investigation into unidentified aerial phenomena,\' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD\'s public position and the TTSA account of AATIP\'s chain of command.',
-    sources: []
-  },
-  {
-    a: 'the-intercept',
-    b: 'ttsa',
-    type: 'investigative',
-    label: 'Scrutiny of To The Stars Academy\'s media apparatus and financing',
-    claimTier: 1,
-    dateStart: '2019-06-01',
-    dateEnd: null,
-    note: 'The Intercept documented TTSA\'s SEC filing identifying it as a \'Motion Picture & Video Tape Production\' concern, the undisclosed employment relationship between TTSA staff and the History Channel series \'Unidentified,\' and reporter George Knapp\'s purchase of 400 shares of TTSA stock, which Knapp confirmed to The Intercept.',
-    sources: []
-  },
-  {
-    a: 'the-intercept',
-    b: 'david-grusch',
-    type: 'investigative',
-    label: 'FOIA\'d police records on Grusch published weeks after his testimony',
-    claimTier: 1,
-    dateStart: '2023-08-09',
-    dateEnd: null,
-    note: 'Ken Klippenstein obtained Loudoun County Sheriff\'s Office incident reports under the Virginia FOIA showing Grusch was placed under an emergency custody order in October 2018 and retained his clearance afterward. Grusch\'s advocates publicly claimed the records were leaked medical files; The Intercept published its FOIA correspondence to rebut that.',
     sources: []
   },
   {
