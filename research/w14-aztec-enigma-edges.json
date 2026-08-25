@@ -1,0 +1,28 @@
+{
+ "domain": "w14-aztec-enigma-edges",
+ "_why": "Three edges.\n\nThe Aztec note is trimmed to its source. It had the landing 'in Hart Canyon, roughly twelve miles northeast of the city of Aztec, San Juan County, New Mexico'. Denver Public Library's account, which is the source available here, places the claim near Aztec and records Newton touring Scully around 'the area where the Aztec saucer ostensibly crashed', without the canyon or the distance. Both specifics are removed rather than carried on a source that does not give them.\n\nWhat that source does give is worth more than the geography, and it is now in the note: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost about $3.50 to build, and the 'indestructible' metal from the crash was ordinary aluminium. The board carries Aztec as a documented fraud, and the documentation is a criminal conviction.\n\nThe Enigma pair is unusually clean because the primary document and the company's public position contradict each other, and both are quotable. The DoD released 50 pages under FOIA 23-F-0711 showing meetings between AARO - including then-Director Sean Kirkpatrick - and Enigma Labs, most of it redacted under exemptions (b)(5) and (b)(6). Enigma Labs' own statement is: 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact and partnership are different things and the note keeps them apart rather than resolving the tension in either direction.",
+
+ "edges": [
+  {
+   "a": "aztec-1948", "b": "l-aztec", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "Denver Public Library, Western History, 'Flying Saucers and Fraud: the Silas M. Newton story'", "url": "https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story", "date": "2026-08-25"}
+   ],
+   "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium."
+  },
+  {
+   "a": "enigma-labs", "b": "aaro", "type": "institutional", "claimTier": 1,
+   "sources": [
+    {"name": "The Black Vault, 'FOIA Response Reveals Contact Between AARO and Enigma Labs; Details Remain Largely Redacted' (DoD FOIA case 23-F-0711, 50 pages, finalized 3 July 2025)", "url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/", "date": "2025-07-03"}
+   ],
+   "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former."
+  },
+  {
+   "a": "john-greenewald", "b": "enigma-labs", "type": "investigative", "claimTier": 1,
+   "sources": [
+    {"name": "The Black Vault, FOIA case 23-F-0711 release and reporting", "url": "https://www.theblackvault.com/documentarchive/foia-response-reveals-contact-between-aaro-and-enigma-labs-details-remain-largely-redacted/", "date": "2025-07-03"}
+   ],
+   "note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie."
+  }
+ ]
+}
