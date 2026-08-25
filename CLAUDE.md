@@ -41,7 +41,7 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 38 verify checks + 40 audit re-derivations + 11 canvas assertions, all self-tested |
+| gate | 38 verify checks + 40 audit re-derivations + 12 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -92,10 +92,16 @@ python3 tools/verify.py --self-test          # every check shown rejecting bad i
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
 node    tools/runtime_check.js               # 16 DOM assertions in a real browser
-node    tools/test_packed_layout.js          # 11 assertions read back out of the canvas
+node    tools/test_packed_layout.js          # 12 assertions read back out of the canvas
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
+```
+
+And, separately, because it asserts nothing and cannot fail:
+
+```
+node    tools/look.js                        # screenshots the map -> dist/shots/
 ```
 
 The four browser steps need the board served over HTTP -- `file://` does not work for a
@@ -124,20 +130,40 @@ whole class of bug: any pass that reads its own previous output back in.
 
 ### Where you are running
 
-This project is worked on from three places and they are not interchangeable:
+This project is worked on from three places:
 
 | | can build & test | can push | can **look** at the dashboard |
 |---|---|---|---|
-| **cloud session** (web) | yes | yes, via the GitHub connection | **no** |
+| **cloud session** (web) | yes | yes, via the GitHub connection | **yes — `node tools/look.js`** |
 | **local Claude Code** | yes | yes | yes |
 | Stewart, by hand | yes | yes | yes |
 
-**If you are a cloud session, you cannot see the rendered output.** That matters more here
-than in most projects, because §5 below is a list of times a check said one thing and the
-screen said another. Ship visual work, but **never report a visual property as verified**.
-Say "built, gate green, unverified on screen" and hand Stewart the thing to look at. Writing
-"confirmed the labels no longer overlap" when nothing rendered is the same failure as the
-checks that passed while broken.
+**That row said "no" until 26 August 2026, and it was wrong.** Chromium is installed,
+the board serves over HTTP, `page.screenshot()` writes a PNG and a session can open a
+PNG. `notes/PACKED-LAYOUT-COST-2026-08-25.md` built a whole cost argument on the "no",
+and `CLAUDE.md` §9 carried "no human being has seen it rendered" as the top priority for
+a day while the means to look sat installed. It is the same shape as the `getImageData`
+assumption in §5, one rung further out.
+
+```
+node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+node tools/look.js                 # sweeps four viewport sizes -> dist/shots/
+```
+
+`tools/look.js` is a **camera, not a check**. It asserts nothing and cannot fail. It
+sweeps sizes because the map has two opening states and which one you get depends on how
+much room it has, so one screenshot at one size is not a look at the map.
+
+**What is still true is the discipline.** Looking is now available, so use it — but
+report what you actually saw and nothing more. Two limits worth naming:
+
+- The captures are taken at `deviceScaleFactor: 2` and a PNG viewed scaled-to-fit shows
+  small text **larger** than a 1x monitor does. Judge arrangement freely; do not certify
+  the legibility of the smallest labels from a screenshot.
+- A screenshot is one state. "The labels no longer overlap" is a claim about every state,
+  and writing it from one capture is the same failure as a check that passes while broken.
+
+Where you have not looked, still say "built, gate green, unverified on screen".
 
 ### Windows notes — for commands you hand Stewart, not for your own shell
 
@@ -265,6 +291,9 @@ Fixed on 24 August but listed so you know the pattern:
   Superseded by this file plus `notes/ANALYST-NOKEY-2026-08-24.md`.
 - `WAVE3_QUEUE.md`, `CLAUDE-DESIGN-PROMPT.md` — historical. Useful as record, not as
   instruction.
+- `notes/PACKED-LAYOUT-COST-2026-08-25.md` — **superseded in part, 26 August 2026.** Its
+  layout description holds; its "what I cannot verify" table does not. It assumed a cloud
+  session could not see the rendered board, which was the same wrong belief §3 carried.
 
 **General principle: this board was built by porting a shell from a sibling project. Assume
 every inherited surface is answering about the wrong project until someone has read it.**
@@ -281,14 +310,27 @@ Two were found on 24 August by accident, while looking for something else.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
-> **TOP OF THE LIST, and it is not a build task: LOOK AT THE MAP.**
-> The packed-cell layout shipped on 25 August and **no human being has seen it rendered.**
-> Eleven canvas assertions say the chips are where the model puts them, that none overlap,
-> that the labels and pointers draw and the furniture survives a pan. None of them can say
-> whether it reads. Two things the comp already flagged are still true and still unsettled:
-> labels truncate to about 37 characters on a board whose labels are legal citations, and
-> the `disclosure` band holds 3 nodes and looks thin. Open `dist/the-program.html`, go to
-> NETWORK, and say what is wrong with it. That is worth more than any further check.
+> **TOP OF THE LIST: two editorial decisions, both of them from having looked at the map.**
+> ~~LOOK AT THE MAP~~ **DONE, 26 August 2026** — and the reason it sat undone is that §3's
+> table said a cloud session could not. It can. `notes/LOOKING-2026-08-26.md` is the record.
+> Four defects were found and fixed in the first pass, two of which no check could have
+> stated: two of the five era column heads drawn underneath the DOM control row at every
+> viewport size, and the absent-link cross printed on top of its own chip's label. A
+> twelfth canvas assertion, `head-row-clear`, guards the first; its page poison moves the
+> real control row back onto the labels and requires the clearance to collapse.
+>
+> **What is left is not a build task. Two questions for Stewart:**
+>
+> 1. **The whole map fits with labels only above about 1944px of window width.** On a
+>    1920 screen it misses by 24px, opens at 1:1 showing three of seven bands, and the one
+>    control that shows the whole map (OVERVIEW) is below the label threshold and so draws
+>    110 anonymous rectangles. Reclaiming 24px from `geo.gutter` flips it. Lowering
+>    `L0_LABEL_DROP` does not, honestly: 0.62 already admits a 5.9px label.
+> 2. **Label truncation at ~37 characters**, as the comp predicted. The model already reads
+>    and prefers `n.short`, and nobody has populated it. That is the cheap route.
+>
+> `disclosure` holding 3 nodes reads as deliberate on screen rather than broken — it is the
+> last row of a descending order. Worth Stewart's eye, not a change from here.
 
 
 1. ~~**The COVER-UP view still carries the sibling board's skeptical record.**~~ **DONE,

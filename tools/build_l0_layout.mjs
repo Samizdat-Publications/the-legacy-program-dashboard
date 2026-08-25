@@ -103,7 +103,18 @@ const RARITY_PIN = ['retrieval', 'reverse-engineering', 'funding', 'research',
 const RARITY_PIN_DATE = '2026-08-24';
 
 const GEO = {
-  gutter: 148, headRow: 46, colGap: 10, bandGap: 8,
+  /* headRow was 46 and that was too short by exactly the height of the map's own
+     DOM control row. .l0crumb and .l0ctl are absolutely positioned at top:10px
+     INSIDE .l0wrap, over the canvas, and occupy y 10..33; the frozen head strip
+     drew its era label at baseline 20 and its note at 33. So the first column
+     head and the last one -- the two the controls sit above -- were painted
+     underneath PROGRAM MAP / START and LINES AT REST at every viewport size, and
+     rendered as an unreadable smear. Nothing in the source said so; the pixels
+     did, on the first day anybody looked. See notes/LOOKING-2026-08-26.md.
+     76 clears the control row with the label and note below it. It costs 30px of
+     reserved top strip and changes no opening fit: at every size the sweep in
+     tools/look.js covers, the fit is bound by WIDTH, not height. */
+  gutter: 148, headRow: 76, colGap: 10, bandGap: 8,
   /* One chip size for the whole map. Not a layout convenience: §4 says size must
      not encode importance, and letting a sparse cell stretch its chips would make
      width a channel by accident. Columns per cell fall out of the fixed width. */
@@ -491,7 +502,10 @@ export function layout(src, supplied, images) {
   const undated = N.filter(n => n.era == null);
   const cols = [
     ...ERAS.map(e => ({ ...e, kind: 'era' })),
-    ...(undated.length ? [{ id: 'nd', label: 'NO DATE', note: 'dateStart absent', kind: 'nodate' }] : []),
+    /* The note is reader-facing copy sitting beside 'Post-Blue Book' and
+       'Post-disclosure'. It read 'dateStart absent', which is the name of a JSON
+       field, not a thing to tell a reader. */
+    ...(undated.length ? [{ id: 'nd', label: 'NO DATE', note: 'no start date recorded', kind: 'nodate' }] : []),
   ];
   const colOf = n => n.era == null ? 'nd' : n.era;
   const cellOf = (b, c) => N.filter(n => n.band === b && colOf(n) === c)

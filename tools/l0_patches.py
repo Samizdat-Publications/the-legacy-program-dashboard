@@ -49,8 +49,12 @@ L0_CSS = """
 .l0wrap{position:absolute;inset:0;overflow:hidden;
   background:linear-gradient(160deg,#161a20 0%,#11141a 100%)}
 .l0wrap canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
-.l0crumb{position:absolute;left:12px;top:10px;z-index:4;display:flex;flex-wrap:wrap;
-  gap:6px;align-items:center;max-width:calc(100% - 24px);pointer-events:auto}
+.l0crumb{position:absolute;left:12px;top:10px;z-index:4;display:flex;flex-wrap:nowrap;
+  gap:6px;align-items:center;max-width:calc(100% - 24px);pointer-events:auto;
+  /* nowrap, not wrap: the head strip reserves ONE control row. A breadcrumb that
+     wrapped to two would drop straight back onto the era labels. */
+  overflow:hidden}
+.l0crumb .l0meta{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .l0chip{display:inline-flex;align-items:center;gap:6px;height:22px;padding:0 8px;
   background:#141920;border:1px solid #262e36;color:#b9c2cd;
   font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;text-transform:uppercase;
@@ -184,8 +188,14 @@ function mountL0(host){
      rendering UNDER the column-head plate at 12% opacity -- readable as a smear,
      invisible as a defect to anyone reading the source. Freezing the strips means
      no chip can ever be beneath them, and pan-clamping means the reader can never
-     scroll the map off into empty world either. */
-  const PAD = { l: (PK.geo||{}).gutter || 148, t: (PK.geo||{}).headRow || 46 };
+     scroll the map off into empty world either.
+
+     geo lives at PK.config.geo. It was read as PK.geo for the whole of the first
+     build, which is undefined, so every value below came from the fallback. That
+     went unnoticed because the fallbacks matched -- a coincidence, not a design.
+     Read the model first and keep the fallbacks for the degenerate model only. */
+  const GEO = (PK.config||{}).geo || PK.geo || {};
+  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
   const opt = Object.assign({}, L0_OPT);
@@ -270,7 +280,12 @@ function mountL0(host){
     if (opt.labels && view.k >= L0_LABEL_DROP){
       ctx.font = "400 " + (9.5*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
       ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
-      const room = w - 12*view.k;
+      /* The cross below is drawn INSIDE the chip at a fixed right inset, so the
+         label's room has to account for it or the two land on top of each other.
+         They did: "University at Albany (SUNY), Dep" lost its ellipsis to the
+         mark and read as if the cross were part of the name. Reserve the cross's
+         own width plus a gap, and only when there is a cross to reserve for. */
+      const room = w - 12*view.k - (n.iso ? 11*view.k : 0);
       let t = n.short || n.label || n.id;
       if (ctx.measureText(t).width > room){
         while (t.length > 2 && ctx.measureText(t + '\u2026').width > room) t = t.slice(0, -1);
@@ -356,13 +371,17 @@ function mountL0(host){
       const x = SX(c.x);
       if (x > W || x + c.w*view.k < PAD.l) return;
       const cx = Math.max(PAD.l, Math.min(W - 150, x));
+      /* Baselines sit in the LOWER part of the strip, below the DOM control row
+         that overlays it at top:10px. Derived from PAD.t rather than written as
+         constants, so a future change to geo.headRow moves the text with it
+         instead of quietly re-creating the overprint. */
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = L0_PACK.colHead;
-      ctx.fillText(c.label, cx, 20);
+      ctx.fillText(c.label, cx, PAD.t - 22);
       if (c.note){
         ctx.font = "400 8.5px 'IBM Plex Mono',monospace";
         ctx.fillStyle = L0_PACK.colNote;
-        ctx.fillText(c.note, cx, 33);
+        ctx.fillText(c.note, cx, PAD.t - 9);
       }
     });
     ctx.restore();

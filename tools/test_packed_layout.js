@@ -145,6 +145,16 @@ const CHECKS = [
                + (p.flagMiss.length ? ' · no pointer on ' + p.flagMiss.join(' ') : ''),
     poison: p => ({ ...p, flagHits: 0 }),
   },
+  {
+    id: 'head-row-clear',
+    label: 'no era column head is painted under the map controls',
+    /* The eras are the horizontal argument exactly as the bands are the vertical
+       one, and a head a reader cannot read takes its column's claim with it. */
+    test: p => p.eraHeads >= 2 && p.headClear >= 0,
+    detail: p => `${p.eraHeads} era heads · text starts ${p.headClear}px below the`
+               + ` control row (strip ${p.headStrip}px, controls end at ${p.ctlBottom}px)`,
+    poison: p => ({ ...p, headClear: -12 }),
+  },
 ];
 
 /* ---- probing the page ------------------------------------------------------ */
@@ -224,7 +234,12 @@ async function probe(page, opts = {}) {
        itself out of them, so a "visible" chip means visible in the CONTENT rect.
        Counting the chrome as map is how the first cut of this file managed to
        probe six chips that the renderer had correctly refused to draw there. */
-    const geo0 = PK.geo || { gutter: 148, headRow: 46 };
+    /* geo is published at PK.config.geo. This file read PK.geo -- undefined --
+       and fell through to the literals below, which happened to match while the
+       renderer had the same bug. When geo.headRow moved from 46 to 76 the check
+       went on measuring a 46px strip and agreed with a renderer it was no longer
+       describing. A check that shares the implementation's mistake cannot see it. */
+    const geo0 = (PK.config || {}).geo || PK.geo || { gutter: 148, headRow: 46 };
     const PADL = geo0.gutter, PADT = geo0.headRow;
     const rect = n => { const g = ORIG[n.id] || n;
       return { x: g.x * v.k + v.ox, y: g.y * v.k + v.oy,
@@ -343,6 +358,27 @@ async function probe(page, opts = {}) {
     out.gutterInkPanned = strip(6, PADT + 2, PADL - 14, Hc - 2) > 20;
     out.headInkPanned = strip(PADL + 2, 4, Wc - 2, PADT - 14) > 20;
 
+    /* The head strip is shared: the canvas paints the era labels on it and the
+       map's own DOM controls (.l0crumb, .l0ctl) are positioned on top of it. Ink
+       alone cannot see the difference -- headInkPanned above passed happily for
+       the whole of the first build, while two of the five era heads were drawn
+       underneath PROGRAM MAP and LINES AT REST and rendered as a smear. So
+       measure the CLEARANCE: the lowest pixel any control occupies, against the
+       highest pixel the era label reaches. mountL0 draws that label on the
+       baseline PAD.t - 22, and 9px covers the cap height of its 9px face. */
+    const wrapEl = document.querySelector('.l0wrap');
+    const wrTop = wrapEl.getBoundingClientRect().top;
+    let ctlBottom = 0;
+    for (const el of document.querySelectorAll('.l0crumb, .l0crumb *, .l0ctl, .l0ctl *')) {
+      const r = el.getBoundingClientRect();
+      if (!r.width || !r.height) continue;
+      ctlBottom = Math.max(ctlBottom, r.bottom - wrTop);
+    }
+    out.ctlBottom = Math.round(ctlBottom);
+    out.headStrip = PADT;
+    out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);
+    out.eraHeads = (PK.eras || []).length;
+
     if (o.shiftX) {           /* put the board back the way it was found */
       for (const n of D.l0) n.x = ORIG[n.id].x;
       if (B.MAP) B.MAP.repaint();
@@ -420,6 +456,18 @@ async function probe(page, opts = {}) {
     console.log(`${noticed ? 'ok    ' : 'BROKEN'}  the probe reads the canvas`
       + ` :: ${shifted.classHits}/${shifted.classProbes} still matched after a 60px shift`);
     if (!noticed) bad++;
+
+    /* And the head strip, poisoned on the page rather than in the object: put the
+       control row back where it used to sit relative to the labels and require the
+       clearance check to collapse. This is the defect itself, reproduced. */
+    console.log('\n--- self-test: the head strip against a control row moved onto it ---');
+    await page.addStyleTag({ content: '.l0ctl{top:44px !important}' });
+    await page.waitForTimeout(400);
+    const collided = await probe(page, { restDrawnFigure });
+    const caught = !CHECKS.find(c => c.id === 'head-row-clear').test(collided);
+    console.log(`${caught ? 'ok    ' : 'BROKEN'}  the clearance check sees a control row on the labels`
+      + ` :: clearance became ${collided.headClear}px`);
+    if (!caught) bad++;
 
     if (bad) { console.error(`\n${bad} check(s) accept input they must reject`); process.exit(1); }
     console.log('all checks reject their poison');
