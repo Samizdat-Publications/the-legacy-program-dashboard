@@ -593,8 +593,18 @@ PRIMARY_URL_PAT = re.compile(
     # other governments, all of them already cited on this board
     r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
     r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
-    # third-party hosts of released government documents
-    r"theblackvault\.com|irp\.fas\.org", re.I)
+    # third-party hosts of released government documents.
+    #
+    # archive.org is NOT a primary host in general -- it serves commercially
+    # published books too, and this board cites some. But archive.org/details/DTIC_*
+    # is the Defense Technical Information Center archive mirror: every item there
+    # carries creator "Defense Technical Information Center" and sits in the
+    # `dticarchive` and `government-documents` collections. A DTIC accession scan is
+    # the released document, and the rule this pattern already states is that primacy
+    # belongs to the document rather than to who serves it. Without this, the USAF's
+    # own 1995 Roswell report (DTIC ADA326148) and all three volumes of the Condon
+    # Report (DTIC AD0680975-7) count as no primary record at all.
+    r"theblackvault\.com|irp\.fas\.org|archive\.org/details/DTIC_", re.I)
 
 demotions = []
 

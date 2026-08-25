@@ -328,7 +328,7 @@ def _edge_tier_sourcing(b, html):
         r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
         r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
         r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
-        r"theblackvault\.com|irp\.fas\.org", _re.I)
+        r"theblackvault\.com|irp\.fas\.org|archive\.org/details/DTIC_", _re.I)
     bad = []
     for e in b["edges"]:
         if e.get("claimTier") != 1:

@@ -150,6 +150,11 @@
   "claim": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025."
  },
  {
+  "id": "stanton-friedman",
+  "why": "cited to a secondary/encyclopedic source",
+  "claim": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westi"
+ },
+ {
   "id": "denis-letty",
   "why": "node carries no primary-record URL",
   "claim": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consid"
@@ -173,11 +178,6 @@
   "id": "leonard-stringfield",
   "why": "node carries no primary-record URL",
   "claim": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Str"
- },
- {
-  "id": "stanton-friedman",
-  "why": "cited to a secondary/encyclopedic source",
-  "claim": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westi"
  },
  {
   "id": "kevin-randle",
@@ -1118,21 +1118,6 @@
   "id": "stringfield-status-reports",
   "why": "node carries no primary-record URL",
   "claim": "Status Report VII acknowledges past funding from the Fund for UFO Research and the cooperation of MUFON, the J"
- },
- {
-  "id": "roswell-report-1995",
-  "why": "node carries no primary-record URL",
-  "claim": "The report was written as a result of Col. Weaver's and Lt. McAndrew's efforts to locate the records explainin"
- },
- {
-  "id": "roswell-report-1995",
-  "why": "node carries no primary-record URL",
-  "claim": "Attachment 32, Lt. McAndrew's synopsis, describes Project Mogul, 'the top-priority classified project of ballo"
- },
- {
-  "id": "roswell-report-1995",
-  "why": "node carries no primary-record URL",
-  "claim": "The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and ali"
  },
  {
   "id": "shag-harbour-1967",

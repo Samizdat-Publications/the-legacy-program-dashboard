@@ -1,0 +1,158 @@
+{
+ "domain": "w16-thin-people",
+ "_why": "Phase 5, the three Wikipedia-only people. w13-thin-people.json recorded all three as NOT LANDED and named the dead ends it hit: washingtontimes.com 403 for Milley, cbc.ca 403 for Friedman, and the Navy FOIA reading room rejecting the request for Corbell. Those dead ends are all still dead. This pass landed all three anyway, by going at a different fact rather than a different host.\n\nThe move that worked: stop looking for a second copy of the fact the Wikipedia article was carrying, and look for a primary record that attests something the node actually asserts.\n\nSTANTON FRIEDMAN. The USAF's own 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) states that 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board carried that as claim 2 sourced to 'Friedman's own account, repeated in his books and in the standard Roswell literature'. It is now attested by the Air Force. The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the works it reviewed. Friedman's own 'Top Secret/MAJIC' (1996), which claim 3 cited by title with no URL, is a full scan on archive.org.\n\nJEREMY CORBELL. Not the USS Omaha confirmation, which is still unreachable. The 26 July 2023 House Oversight hearing record carries, in its Index of Documents, 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett', and Burchett on the floor: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' That is a congressional primary for the structural role the narrative claims for him.\n\nMARK MILLEY. The 6 August 2023 remark is still unsourceable from here: it was a Washington Times exclusive interview, washingtontimes.com returns 403, and web.archive.org is unreachable from this session entirely. The claim keeps its existing description and stays Tier 2. What is now sourced is the structural fact the narrative rests on -- that he was Chairman of the Joint Chiefs across the period. He testified as Chairman before House Armed Services on 29 March 2023; the transcript lists him as 'Milley, General Mark A., USA, Chairman, Joint Chiefs of Staff' and carries his prepared statement in the Appendix at page 122.\n\nWILLIAM L. MOORE. Same 1995 USAF report, which reviewed 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' as part of its records search. His node rested on a scan of the book itself; it now also rests on the Air Force's account of it.\n\nNEGATIVE FINDING, recorded so nobody re-runs it. The 1995 report does NOT name James Ragsdale or Gerald Anderson -- zero occurrences of either across 1.4MB of text. Both are named extensively in the 1997 'Case Closed' (Ragsdale 49 times, including a full interview transcript at page 215; Gerald Anderson 10), which is already their source. That is consistent with both men coming forward after the 1995 report, and it means there is no second USAF document to find for them. They stay at one source, and the single source is a US Air Force report that devotes a transcript to one of them, which is not thin in substance.\n\nALSO CHECKED AND ABSENT. Of the 32 thin-sourced people, only Corbell, Ryder, Raskin and Higgins appear in the three House UAP hearing transcripts at all. Gradisher, Garrity, Crosson, Langhout, Kerr, McCasland, Rich, Teller, McDonald, Low, Moore, Ragsdale, Anderson, Cameron, Rojas, McMillan, Jiang, Norlain, Lebeau, Platov, Girao and Venturelli appear in none of them. OSTI holds nothing under Friedman's name from his industrial period, and NASA NTRS returned nothing.\n\nTIERING. The Friedman, Corbell, Moore and Milley claims below are written Tier 1 and should stay there: govinfo.gov is a primary-record host and the USAF report is a released government document. The archive.org book scans are written Tier 2, because archive.org is a host of record for a commercially published book rather than a government repository, and PRIMARY_URL_PAT is deliberately narrow.\n\nROUND 2, after widening PRIMARY_URL_PAT. archive.org/details/DTIC_* is the Defense Technical Information Center archive mirror -- every item carries creator 'Defense Technical Information Center' and sits in the dticarchive and government-documents collections. Adding it to PRIMARY_URL_PAT is the same reasoning the pattern already applies to The Black Vault and irp.fas.org: primacy belongs to the document, not to who serves it. Without it the USAF's own 1995 Roswell report and all three volumes of the Condon Report counted as no primary record at all, and the Friedman claims above were demoted on a node that had just gained an Air Force document.\n\nThat unlocked two more. ROBERT LOW: the Condon Report says verbatim 'Assistant Dean Robert J. Low of the Graduate School was appointed project coordinator', and its own index carries 'Low, Robert J., 915-917 / appointed to Colorado project, viii / quoted on Fuller article, 915'. JAMES McDONALD: 'The help of Dr. McDonald, Institute for Atmospheric Physics, University of Arizona, who conducted a study of UFO phenomena concurrently with this study, was invaluable in bringing a number of cases to our attention.'\n\nThe 1968 House Symposium on Unidentified Flying Objects, McDonald's other venue, is NOT on govinfo -- the search returns nothing for it or for any Committee on Science and Astronautics UFO print. His nicap.org copy stays as the source for that.",
+ "people": [
+  {
+   "id": "stanton-friedman",
+   "sources": [
+    {
+     "name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+     "url": "https://archive.org/details/DTIC_ADA326148",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Stanton T. Friedman, 'Top Secret/MAJIC' (New York: Marlowe & Co., 1996), ISBN 1569248303",
+     "url": "https://archive.org/details/topsecretmajic0000frie",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
+     "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148"
+    },
+    {
+     "tier": 1,
+     "text": "The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the major works its records search reviewed, placing Friedman's authorship in the Air Force's own bibliography of the case.",
+     "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), review of the popular literature https://archive.org/details/DTIC_ADA326148"
+    },
+    {
+     "tier": 2,
+     "text": "Friedman's 'Top Secret/MAJIC' was published by Marlowe & Co. in 1996, ISBN 1569248303, and is available as a full scan. The board's claim about his Hillenkoetter-memo analysis cited this book by title with no locator.",
+     "source": "Stanton T. Friedman, 'Top Secret/MAJIC' (Marlowe & Co., 1996) https://archive.org/details/topsecretmajic0000frie"
+    }
+   ]
+  },
+  {
+   "id": "jeremy-corbell",
+   "sources": [
+    {
+     "name": "U.S. House Committee on Oversight and Accountability, 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', 26 July 2023 (CHRG-118hhrg53022)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Corbell's report 'The UAP Puzzle' was entered into the record of the 26 July 2023 House Oversight hearing by Rep. Tim Burchett, and appears in the hearing's Index of Documents as 'Report, Jeremy Corbell, ``The UAP Puzzle''; submitted by Rep. Burchett.'",
+     "source": "CHRG-118hhrg53022, Index of Documents https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Burchett on the record at that hearing: 'I know I saw out in the crowd there George Knapp, my buddy, Jeremy Corbell. They are not witnesses, but they have provided some statements on this subject, and I seek unanimous consent to enter those statements into the record.' The unanimous consent was granted without objection.",
+     "source": "CHRG-118hhrg53022, Rep. Burchett https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+    }
+   ]
+  },
+  {
+   "id": "mark-milley",
+   "sources": [
+    {
+     "name": "U.S. House Committee on Armed Services, 'Fiscal Year 2024 Defense Budget Request' [H.A.S.C. No. 118-20], hearing held 29 March 2023 (CHRG-118hhrg54637)",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg54637/html/CHRG-118hhrg54637.htm",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Milley testified as Chairman of the Joint Chiefs of Staff before House Armed Services on 29 March 2023, listed in the transcript as 'Milley, General Mark A., USA, Chairman, Joint Chiefs of Staff' with his prepared statement printed in the Appendix at page 122. This is the primary record of the office he held across the period Grusch served on the UAP Task Force.",
+     "source": "CHRG-118hhrg54637 [H.A.S.C. No. 118-20], 29 March 2023 https://www.govinfo.gov/content/pkg/CHRG-118hhrg54637/html/CHRG-118hhrg54637.htm"
+    }
+   ]
+  },
+  {
+   "id": "william-l-moore",
+   "sources": [
+    {
+     "name": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995), DTIC ADA326148",
+     "url": "https://archive.org/details/DTIC_ADA326148",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
+     "source": "Headquarters USAF, 'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995) https://archive.org/details/DTIC_ADA326148"
+    }
+   ]
+  },
+  {
+   "id": "robert-low",
+   "sources": [
+    {
+     "name": "Edward U. Condon (dir.), 'Scientific Study of Unidentified Flying Objects' (the Condon Report), Volume 1, University of Colorado for USAF/AFOSR, 1968 — DTIC AD0680975",
+     "url": "https://archive.org/details/DTIC_AD0680975",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Condon Report, Volume 3 (index) — DTIC AD0680977",
+     "url": "https://archive.org/details/DTIC_AD0680977",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Condon Report states verbatim: 'Assistant Dean Robert J. Low of the Graduate School was appointed project coordinator.' The same passage names Condon as scientific director and Stuart Cook and Franklin E. Roach as principal investigators, placing Low's role in the project's own account of its structure.",
+     "source": "Condon Report, Volume 1, introductory account of the project's formation https://archive.org/details/DTIC_AD0680975"
+    },
+    {
+     "tier": 1,
+     "text": "The Condon Report's index carries the entry 'Low, Robert J., 915-917', with subheadings 'appointed to Colorado project, viii' and 'quoted on Fuller article, 915' — the report itself indexes the controversy over Low's role.",
+     "source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977"
+    }
+   ]
+  },
+  {
+   "id": "james-mcdonald",
+   "sources": [
+    {
+     "name": "Edward U. Condon (dir.), 'Scientific Study of Unidentified Flying Objects' (the Condon Report), Volume 1, University of Colorado for USAF/AFOSR, 1968 — DTIC AD0680975",
+     "url": "https://archive.org/details/DTIC_AD0680975",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Condon Report, Volume 2 — DTIC AD0680976",
+     "url": "https://archive.org/details/DTIC_AD0680976",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Condon Report, Volume 3 (index) — DTIC AD0680977",
+     "url": "https://archive.org/details/DTIC_AD0680977",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Condon Report acknowledges McDonald directly: 'The help of Dr. McDonald, Institute for Atmospheric Physics, University of Arizona, who conducted a study of UFO phenomena concurrently with this study, was invaluable in bringing a number of cases to our attention.' The board's description of him as a senior atmospheric physicist is the project's own.",
+     "source": "Condon Report, Volume 1, acknowledgements https://archive.org/details/DTIC_AD0680975"
+    },
+    {
+     "tier": 1,
+     "text": "The report records that 'in August 1967 Prof. James McDonald of Arizona made a 20-day trip to Australia, Tasmania and New Zealand in the course of which he interviewed some 80 persons who had made UFO reports there', and that on his return he briefed the Colorado project on what he found.",
+     "source": "Condon Report, Volume 1 https://archive.org/details/DTIC_AD0680975"
+    },
+    {
+     "tier": 1,
+     "text": "McDonald is indexed in the Condon Report at pages 927 and 928, and separately for his part in Case 50 (657-662), Case 52 (683-684, 690, 692), his views on future research (1269), the northeast power outage (167) and the extraterrestrial hypothesis (34). He is the most heavily indexed outside critic in the study that was meant to close the question.",
+     "source": "Condon Report, Volume 3, index https://archive.org/details/DTIC_AD0680977"
+    }
+   ]
+  }
+ ]
+}
