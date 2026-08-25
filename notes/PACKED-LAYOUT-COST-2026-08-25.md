@@ -103,3 +103,55 @@ The decision is Stewart's and it is a small one to make:
 
 I would do the comp. It is the same drawing code either way, and it gets a look at the
 thing before it replaces the map.
+
+
+---
+
+## The comp exists. Here it is.
+
+**https://claude.ai/code/artifact/afb7293f-6051-4686-b308-b68996f50ce9**
+
+Rendered from `data/l0-layout-model.json` as generated, with no position adjusted.
+Source kept at `tools/l0_comp.html`. The live map is untouched.
+
+It is drawn as **SVG rather than canvas**, which matters for more than convenience: it
+means the geometry could actually be verified from this session, where the real canvas
+renderer could not be. Measured headless at 1600x1000:
+
+| property | result |
+|---|---|
+| chips rendered | 110 |
+| **chips overlapping another chip** | **0** |
+| chips outside the world bounds | 0 |
+| distinct chip sizes | **1** (205 x 20) |
+| labelled chips | 110 |
+| lines drawn at rest | 103 — matches `figures.restDrawn` |
+| start-here pointers | 14 |
+| nodes marked with an absent-link cross | 3 |
+| band rows / column headers | 7 / 5 |
+| page scrolls sideways | no |
+| JavaScript errors | none |
+
+Zero overlapping plates is the single property the eye cannot forgive, and it is the one
+the QA checklist puts first. On this layout it is structurally guaranteed rather than
+hoped for, because cells are packed rather than settled.
+
+### What I can see in it, having looked
+
+- **Position does mean something.** The 2017-2026 column is dense and THROUGH 1969 is
+  sparse, which is the disclosure record showing up as shape — the same point the
+  timeline's standing caveat makes in words.
+- **The `disclosure` band draws 3.** Design predicted this in §6 and read it as the
+  structure appearing rather than a fault. It is visible and it does look thin.
+- **Labels truncate hard.** At 205px with 9.5px mono a label gets about 37 characters, so
+  most read like "Advanced Aerospace Weapon System Ap…". Faithful to Design's chip size,
+  and the full name is on hover, but on a board whose node labels are legal citations and
+  document titles it is the first thing worth arguing about.
+- **The lines at rest are very faint** against the band fills. Pixel polish, not layout.
+
+### The one thing this comp does NOT settle
+
+It is SVG. The real map is canvas, and a canvas rewrite of `mountL0` is still 421 lines
+with its own hit-testing, panning, zoom and label-drop logic. The comp proves the
+**arrangement** is sound. It does not prove the **implementation** will be, and nothing
+available to this session would.

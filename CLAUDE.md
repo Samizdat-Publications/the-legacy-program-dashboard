@@ -281,6 +281,14 @@ Two were found on 24 August by accident, while looking for something else.
    line back and someone edits the JSON. Do not rebuild this table from scratch; if the
    flags change, republish that same artifact URL.
 5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
+   **Cost analysed and a comp built, 25 August:** `notes/PACKED-LAYOUT-COST-2026-08-25.md`.
+   The model is finished and all nine of Design's checks guard it. The work left is a
+   canvas rewrite of `mountL0` (421 lines, 80 `ctx.` calls) whose geometry assumes a
+   point cloud. **See the comp before building:**
+   https://claude.ai/code/artifact/afb7293f-6051-4686-b308-b68996f50ce9 — 110 chips,
+   zero overlaps, measured. It answers whether position means something; it does not
+   answer whether the canvas implementation will hold, and nothing in a cloud session
+   can. Stewart's call.
    Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
    build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
 6. ~~**Add Design's nine checks** from §5 of their response, each self-tested.~~ **DONE,
