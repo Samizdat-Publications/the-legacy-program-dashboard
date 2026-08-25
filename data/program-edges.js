@@ -30426,6 +30426,106 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'l-lasvegas',
+    b: 'aawsap',
+    type: 'geographic',
+    label: 'AAWSAP contract performed from Las Vegas',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'AAWSAP was performed by BAASS out of Robert Bigelow\'s Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for \'Bigelow Aerospace Advanced Space Studies\' and for \'BAASS\' both return nothing, so the AAWSAP contract is not in the public award record under either name.',
+    sources: [
+      {
+        name: 'USASpending.gov federal award records for BIGELOW AEROSPACE LLC (NNH13CH31C, NNH15CN82C), recipient location NORTH LAS VEGAS, NV',
+        url: 'https://www.usaspending.gov/search',
+        date: '2026-08-25'
+      },
+      {
+        name: 'Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)',
+        url: 'https://bigelowaerospace.com/pages/contact/',
+        date: '2026-08-25'
+      }
+    ]
+  },
+  {
+    a: 'l-lasvegas',
+    b: 'nids',
+    type: 'geographic',
+    label: 'NIDS headquarters 1995-2004',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS\'s own registered address.',
+    sources: [
+      {
+        name: 'Deseret News, \'Private UFO study takes a public turn\', 10 August 1998',
+        url: 'https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn',
+        date: '1998-08-10'
+      }
+    ]
+  },
+  {
+    a: 'l-lasvegas',
+    b: 'harry-reid',
+    type: 'geographic',
+    label: 'Reid\'s Nevada base; earmark performed by a Las Vegas constituent',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'This is not merely a home-town link. AARO\'s official history names \'Senate Majority Leader Harry Reid (D-NV)\' as having directed the appropriation, and the federal award record places Bigelow\'s company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.',
+    sources: [
+      {
+        name: 'AARO, Historical Record Report Volume 1, 8 March 2024',
+        url: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        date: '2024-03-08'
+      },
+      {
+        name: 'USASpending.gov federal award records for BIGELOW AEROSPACE LLC, recipient location NORTH LAS VEGAS, NV',
+        url: 'https://www.usaspending.gov/search',
+        date: '2026-08-25'
+      }
+    ]
+  },
+  {
+    a: 'william-culbreth',
+    b: 'baass',
+    type: 'geographic',
+    label: 'UNLV academic in the prime contractor\'s home city',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA\'s separate list of deliverables rather than on the documents themselves.',
+    sources: [
+      {
+        name: 'DIRD, \'Aneutronic Fusion Propulsion II\', 1 November 2010 (DIA FOIA release)',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
+        date: '2010-11-01'
+      },
+      {
+        name: 'DIRD, \'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities\', 20 November 2010, DIA-08-1012-001 (DIA FOIA release)',
+        url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
+        date: '2010-11-20'
+      }
+    ]
+  },
+  {
+    a: 'wayne-state-university',
+    b: 'kit-green',
+    type: 'institutional',
+    label: 'Green\'s academic base for UAP-injury neuroimaging work',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Wayne State describes him as \'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine\', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as \'an adjunct professor and Fellow in Clinical Neuroimaging\'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.',
+    sources: [
+      {
+        name: 'Wayne State University School of Medicine news, \'Chinese Academy of Sciences appoints Dr. Green as professor\', 2 April 2009',
+        url: 'https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373',
+        date: '2009-04-02'
+      }
+    ]
+  },
+  {
     a: 'us-navy',
     b: 'nimitz-2004',
     type: 'institutional',
@@ -39575,17 +39675,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'wayne-state-university',
-    b: 'kit-green',
-    type: 'institutional',
-    label: 'Green\'s academic base for UAP-injury neuroimaging work',
-    claimTier: 1,
-    dateStart: null,
-    dateEnd: null,
-    note: 'Christopher \'Kit\' Green, MD, PhD, former CIA life sciences analyst, is professor in the Departments of Diagnostic Radiology and of Psychiatry and Behavioral Neurosciences at Wayne State University School of Medicine, where he ran the Emergent Technology Research Division. Wayne State is the institutional address for the clinical neuroimaging he applied to patients reporting injury after anomalous encounters.',
-    sources: []
-  },
-  {
     a: 'vanderbilt-university',
     b: 'aatip',
     type: 'research',
@@ -39762,39 +39851,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'l-lasvegas',
-    b: 'aawsap',
-    type: 'geographic',
-    label: 'AAWSAP contract performed from Las Vegas',
-    claimTier: 1,
-    dateStart: '2008-09-22',
-    dateEnd: null,
-    note: 'Performance on DIA contract HHM402-08-C-0072 began 22 September 2008 with an initial value of $10 million; the work was carried out by BAASS in Nevada, making Las Vegas the operational centre of the AAWSAP effort rather than Washington.',
-    sources: []
-  },
-  {
-    a: 'l-lasvegas',
-    b: 'nids',
-    type: 'geographic',
-    label: 'NIDS headquarters 1995-2004',
-    claimTier: 1,
-    dateStart: '1995-01-01',
-    dateEnd: null,
-    note: 'The National Institute for Discovery Science was a privately financed research organisation based in Las Vegas, Nevada, founded by Robert Bigelow in 1995 and disbanded in October 2004. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP.',
-    sources: []
-  },
-  {
-    a: 'l-lasvegas',
-    b: 'harry-reid',
-    type: 'geographic',
-    label: 'Reid\'s Nevada base; earmark performed by a Las Vegas constituent',
-    claimTier: 2,
-    dateStart: '2007-01-01',
-    dateEnd: null,
-    note: 'This is not merely a home-town link: Senator Harry Reid of Nevada secured the appropriation with Senators Inouye and Stevens, and the money was performed by Robert Bigelow, a Las Vegas constituent. The constituent relationship is the reported mechanism connecting the earmark to the contractor.',
-    sources: []
-  },
-  {
     a: 'marik-von-rennenkampff',
     b: 'sol-briefing-3-2026',
     type: 'research',
@@ -39902,17 +39958,6 @@ export const PROGRAM_EDGES = [
     dateStart: null,
     dateEnd: null,
     note: 'Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.',
-    sources: []
-  },
-  {
-    a: 'william-culbreth',
-    b: 'baass',
-    type: 'geographic',
-    label: 'UNLV academic in the prime contractor\'s home city',
-    claimTier: 3,
-    dateStart: '2010',
-    dateEnd: '2010',
-    note: 'TIER 3, INFERENTIAL. AAWSAP was executed by Bigelow Aerospace Advanced Space Studies out of Las Vegas under DIA contract HHM402-08-C-0072, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas nuclear engineering faculty member who received two deliverables. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one.',
     sources: []
   },
   {
