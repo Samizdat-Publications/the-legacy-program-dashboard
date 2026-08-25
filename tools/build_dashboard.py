@@ -1673,6 +1673,173 @@ def main():
     print("  ok    parent board's \"Left behind\" analysis section and helper removed")
 
 
+    # ---- 4l4. the systematic sweep -------------------------------------------
+    # Found by diffing prose literals between ref/the-vanishing-v2.html and the built
+    # file: 177 string literals survived the port verbatim. Most are UI chrome and are
+    # fine. These five are subject-specific and were false here, and all five render.
+    #
+    # This is the sweep CLAUDE.md section 9 item 2 asked for, done by construction
+    # rather than by grepping for strings someone already happened to notice.
+    for old, new, what in [
+
+        # 1. The first sentence of the SEARCH view, and a hardcoded count from the
+        #    parent's dataset. This board carries 956 nodes across 8 classes, not 52
+        #    across 5. Computed now, per the analyst rewrite's rule 1: a typed figure
+        #    is a claim that goes stale the next time research lands, silently.
+        ("<h2>Search</h2><p>Fifty-two entities across five classes. Query and filter "
+         "state live in the URL, so any view is shareable.</p>",
+         "<h2>Search</h2><p>' + NODES.length + ' entities across ' + "
+         "new Set(NODES.map(n => n.cls)).size + ' classes. Query and filter "
+         "state live in the URL, so any view is shareable.</p>",
+         "SEARCH header count computed, was 'Fifty-two ... five classes'"),
+
+        # 2. The artifacts empty-state example question. "who disappeared within three
+        #    months of McCasland" is the parent's question -- McCasland is on this
+        #    board, but he did not disappear from it, and the board holds no
+        #    disappearance dates to compute against.
+        ('"who disappeared within three months of McCasland, plot them on a timeline, '
+         'and show me who they are on the map". ',
+         '"chart the custody chain from the 2004 Nimitz encounter and show me who '
+         'handled the sensor record". ',
+         "artifacts example question rewritten for this board"),
+
+        # 3 and 4. The class notes in the dock. Both said connections of that class are
+        #    derived automatically "from the case records". That is half true and the
+        #    misleading half: this board carries 61 hand-written geographic edges and
+        #    138 hand-written research edges, every one of them sourced, ALONGSIDE the
+        #    edges derived from a person's location and domains. Telling a reader the
+        #    connection was produced by rule when it was researched and cited
+        #    misrepresents the work, in the one place the reader goes to find out how
+        #    a connection got there. No count is written into the copy.
+        ("Locations are derived from the case records. A shared cluster produces a "
+         "geographic connection automatically.",
+         "Locations of record. Geographic connections here are both hand-written and "
+         "sourced, and derived automatically for any person whose location of record "
+         "is set. The dossier says which.",
+         "location class note corrected"),
+
+        ("Research domains are derived from the case records. A shared domain produces "
+         "a research connection automatically.",
+         "Research domains. A shared domain produces a research connection "
+         "automatically, and hand-written research edges are sourced individually "
+         "on top of that.",
+         "domain class note corrected"),
+
+        # 5. The timeline's standing caveat, which is the parent board's story: a
+        #    press break in April 2026 pulling five years of quiet accumulation into
+        #    four months of coverage. This board runs 1944 to 2029. The reporting
+        #    -attention point is real here too, but for a different reason, so it is
+        #    restated rather than deleted.
+        ("The density of entries after April 2026 is a fact about reporting attention, "
+         "not about events. Cases that occurred in 2021 through 2025 entered the "
+         "public record only once the story broke, so the axis compresses five years "
+         "of quiet accumulation against four months of coverage. Do not read the shape",
+         "The density of entries in recent years is a fact about reporting attention "
+         "as much as about events. Material from the 1940s through the 1980s reaches "
+         "this timeline only when it is declassified, released under FOIA or entered "
+         "into a hearing record, so the early decades are thin by construction rather "
+         "than by quiet. Do not read the shape",
+         "timeline caveat rewritten for a 1944-2029 board"),
+    ]:
+        if old in s:
+            s = s.replace(old, new, 1)
+            print("  ok    " + what)
+        else:
+            print("  MISS  " + what + " -- anchor not found, NOT applied")
+            ok_all = False
+
+
+    # ---- 4l5. THE ANALYST SYSTEM PROMPT --------------------------------------
+    # The largest inherited surface on the board, and the one with the most leverage,
+    # because it is what the model is TOLD IT IS before it answers anything.
+    #
+    # It opened: "You are the analyst inside The Program, a research dashboard tracking
+    # deaths and disappearances of US scientists and defense-connected individuals
+    # since 2021." That is The Vanishing's mission statement with the board name
+    # swapped -- the identical one-string-swap bug as the scripted analyst, in the
+    # API-key path, which nobody looked at because the scripted path got the attention.
+    #
+    # Worse than the mission line: HARD RULE 4 told the model "the three axes S, P and
+    # I are never summed". This board's axes are C, A and D -- custody proximity,
+    # access level, disclosure role. The model was being handed the wrong names for
+    # the board's primary scoring scheme, in a numbered hard rule, and every answer it
+    # gave about scoring was reasoning over letters that do not exist here.
+    #
+    # Also inherited: a worked example computing "who disappeared within three months
+    # of McCasland" and emitting a chart of "Disappearances" with dates for two people
+    # that are not in this data; selectNode("leblanc"); the parent's three geographic
+    # clusters; a scatter example plotting S against P; and a rule about families of
+    # the dead.
+    for old, new, what in [
+        ('a research dashboard tracking deaths and disappearances of US scientists '
+         'and defense-connected individuals since 2021.',
+         'a research dashboard mapping the legacy US programme for recovering and '
+         'reverse-engineering non-human craft, and the custody, access and disclosure '
+         'structures around it, from 1944 to the present.',
+         "system prompt mission line"),
+
+        ('4. The three axes S, P and I are never summed. A case can be extraordinary '
+         'on one and unremarkable on another.',
+         '4. The three axes are C (custody proximity), A (access level) and D '
+         '(disclosure role), and they are never summed. An entity can sit at the '
+         'centre of the custody chain and be entirely absent from the disclosure '
+         'fight. Collapsing that into one number destroys the information.',
+         "system prompt HARD RULE 4, was the parent's S/P/I axes"),
+
+        ('6. These are real deaths and real missing people, and several families have '
+         'publicly asked not to have their losses treated as conspiracy material. Do '
+         'not editorialise against them.',
+         '6. These are real people, many of them living, several still serving or '
+         'still in litigation. Attribute an allegation to whoever made it and date it. '
+         'Never promote a claim to a finding because it fits the shape of the board, '
+         'and never imply someone has admitted something they have not.',
+         "system prompt HARD RULE 6"),
+
+        (':: selectNode("leblanc")\n:: setView("CASES")',
+         ':: selectNode("aawsap")\n:: setView("CASES")',
+         "system prompt action example node id"),
+
+        ('focusCluster("california"|"new-mexico"|"huntsville")',
+         'focusCluster("legacy"|"contractor"|"ffrdc"|"ic"|"oversight"|"witness"'
+         '|"research"|"media"|"other")',
+         "system prompt cluster list"),
+
+        ('Use for two axes against each other, for example S against P.',
+         'Use for two axes against each other, for example C against A.',
+         "system prompt scatter axis example"),
+    ]:
+        if old in s:
+            s = s.replace(old, new, 1)
+            print("  ok    " + what)
+        else:
+            print("  MISS  " + what + " -- anchor not found, NOT applied")
+            ok_all = False
+
+    # The worked example, replaced whole. The new one uses only entities and dates
+    # that are on this board and sourced: the November 2009 refusal of Reid's request
+    # to make AAWSAP a Special Access Program, which AARO's own historical record
+    # dates and attributes.
+    _we_a = s.index("WORKED EXAMPLE. If asked who disappeared")
+    _we_b = s.index("CURRENT STATE. view=", _we_a)
+    s = s[:_we_a] + (
+        'WORKED EXAMPLE. If asked how the SAP request was refused and to chart it, you '
+        'would find the records in the case file, then emit, in this order:\n'
+        ':: renderChart({"type":"timeline","title":"The 2009 request to make AAWSAP a '
+        'Special Access Program, and its refusal","points":[{"id":"harry-reid","label":'
+        '"Reid writes to DEPSECDEF Lynn requesting restricted SAP status","date":'
+        '"2009-06-24"},{"id":"dia","label":"DIA finds insufficient grounds to classify",'
+        '"date":"2009-11-13"},{"id":"william-lynn","label":"Decision packet presented to '
+        'Lynn; the request is declined","date":"2009-11-17"}],"note":"Dates and '
+        'attribution follow AARO\'s Historical Record Report Volume I. AARO is an '
+        'interested party in its own institutional history, which is why the board '
+        'grades these Tier 2."})\n'
+        ':: frameNodes(["harry-reid","dia","william-lynn"])\n'
+        'and then write the prose answer, which must state plainly what the records '
+        'establish and what they do not.\n\n'
+    ) + s[_we_b:]
+    print("  ok    system prompt WORKED EXAMPLE rewritten with entities on this board")
+
+
     # ---- 4m. THE REAL RENDER PATH ----------------------------------------
     # The live map is the three-layer host (base canvas / GPU edge layer / 2D node
     # layer), and every edge it draws comes through edgeInstances(). At 3,711 edges

@@ -102,3 +102,79 @@ Nobody had read them.
 
 The remaining candidates named in §9 item 2 — the system prompt, the report view, the
 insight strings — are still unread.
+
+---
+
+# The systematic sweep, and the two it found that reading did not
+
+Added later the same day, after the three above were fixed. `CLAUDE.md` §9 item 2 asked
+for the sweep to be done "systematically rather than by accident". The method that
+worked is four lines:
+
+```python
+pat  = re.compile(r"'((?:[^'\\\n]|\\.){40,400})'")   # JS string literals, prose-length
+refs  = {m.group(1) for m in pat.finditer(open('ref/the-vanishing-v2.html').read())}
+dists = {m.group(1) for m in pat.finditer(open('dist/the-program.html').read())}
+survived = sorted(refs & dists, key=len, reverse=True)   # 177 of them
+```
+
+Any prose literal present in both files survived the port unmodified. Most of the 177
+are UI chrome and are fine. Sorting by length puts the subject-specific ones near the
+top, where they are obvious on sight.
+
+## Five that rendered as false copy
+
+| surface | what it said | why it is wrong here |
+|---|---|---|
+| SEARCH view header | "Fifty-two entities across five classes." | 956 nodes across 8 classes. A hardcoded count from the parent's dataset, and the first sentence of the view. Computed now. |
+| Artifacts empty state | example question: "who disappeared within three months of McCasland" | McCasland is on this board but did not disappear from it, and there are no disappearance dates to compute against |
+| `location` class note | "Locations are derived from the case records. A shared cluster produces a geographic connection automatically." | half true, and the misleading half. This board carries 61 hand-written geographic edges, every one sourced, alongside the derived ones. It told readers researched work was produced by rule. |
+| `domain` class note | same claim for research domains | same: 138 hand-written research edges |
+| TIMELINE standing caveat | "The density of entries after April 2026... Cases that occurred in 2021 through 2025 entered the public record only once the story broke... five years of quiet accumulation against four months of coverage." | the parent's press-break story. This board runs 1944 to 2029. Restated rather than deleted, because the reporting-attention point is real here too, for a different reason. |
+
+## And the system prompt, which is the one that matters
+
+`SYSTEM_PROMPT()` is what the model is told it is before it answers anything, and
+nothing had ever checked it. `test_scripted_analyst.mjs` covers the no-key path only,
+so the path that runs when a reader supplies an API key was the untested one.
+
+It opened:
+
+> "You are the analyst inside The Program, a research dashboard **tracking deaths and
+> disappearances of US scientists and defense-connected individuals since 2021**."
+
+That is the sibling board's mission statement with the name swapped. The same fault as
+the scripted analyst, one path over, and missed precisely because the scripted path had
+just been fixed and looked like the whole problem.
+
+The expensive line was numbered:
+
+> **HARD RULE 4.** "The three axes S, P and I are never summed."
+
+This board scores every entity on **C** (custody proximity), **A** (access level) and
+**D** (disclosure role). The model was holding the wrong names for the board's primary
+scoring scheme, as a hard rule, so every answer it gave about scoring was fluent
+reasoning over letters that do not exist here. A wrong axis name cannot throw.
+
+Also inherited: `selectNode("leblanc")`; the parent's three geographic clusters in
+`focusCluster`; a scatter example plotting S against P; a rule about the families of
+the dead; and a WORKED EXAMPLE instructing the model to chart "Disappearances within
+three months of McCasland" with dates for two people who are not in this data — that
+is, an instruction to fabricate, sitting inside a prompt whose HARD RULE 2 is "never
+invent a fact, a date, a source or a person."
+
+All rewritten. The worked example now walks the November 2009 refusal of Reid's request
+to make AAWSAP a Special Access Program, using only entities and dates that are on this
+board and sourced, and it carries the AARO interested-party caveat so the model sees
+the grading convention demonstrated rather than described.
+
+## One mistake worth recording
+
+The first poison written for the new system-prompt check appended a second
+`SYSTEM_PROMPT` to the clean fixture. The check reads the first one in the file, so the
+clean prompt stayed in front of the poisoned one and the check passed on poisoned input
+— reported by `--self-test` as "did NOT reject poisoned input, this check is dead".
+
+That is the duplicate-`L0DATA` trap the fixture's own comment warns about, hit again,
+about forty lines below the warning. The poison now replaces rather than appends.
+`--self-test` caught it immediately, which is the entire argument for having it.

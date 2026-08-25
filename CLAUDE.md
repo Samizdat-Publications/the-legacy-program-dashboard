@@ -77,7 +77,7 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
-python3 tools/verify.py                 # 26 checks
+python3 tools/verify.py                 # 27 checks
 python3 tools/verify.py --self-test     # every check shown rejecting bad input
 node    tools/capture_strip.js          # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py      # 38 checks, deliberately independent
@@ -253,9 +253,17 @@ Two were found on 24 August by accident, while looking for something else.
    guard the class: `every edge type has a caption written for this board` and
    `no parent-board editorial content ships`.
 
-2. **Sweep every remaining inherited surface** for the same problem, systematically rather
-   than by accident. The system prompt, the report view, and the insight strings are the
-   likely candidates.
+2. ~~**Sweep every remaining inherited surface.**~~ **DONE, 25 August 2026.** Done by
+   construction rather than by grep: diffing prose string literals between
+   `ref/the-vanishing-v2.html` and the built file showed 177 that survived the port
+   verbatim. Five rendered as false copy, and the analyst system prompt was inherited
+   whole -- including a HARD RULE naming the axes **S, P and I** when this board scores
+   on **C, A and D**. All fixed; `notes/INHERITED-SURFACES-2026-08-25.md` has the list.
+   Three gate checks guard the class now, the third being
+   `the analyst system prompt describes this board`. **Re-run the literal diff after any
+   change to `ref/`** -- it is four lines of Python and it found what six sessions of
+   reading did not.
+
 3. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
    stated reason. Show him a table; he cannot read JSON. Cap is 16, so there are 2 slots.
 4. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.

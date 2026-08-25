@@ -118013,7 +118013,7 @@ function viewTimeline(v){
 
   h += '<div class="block b-open" style="margin-top:20px;background:var(--panel-2);padding:11px 13px">'
     + '<span class="eyebrow">Open question</span>'
-    + 'The density of entries after April 2026 is a fact about reporting attention, not about events. Cases that occurred in 2021 through 2025 entered the public record only once the story broke, so the axis compresses five years of quiet accumulation against four months of coverage. Do not read the shape of this chart as the shape of the phenomenon.</div>';
+    + 'The density of entries in recent years is a fact about reporting attention as much as about events. Material from the 1940s through the 1980s reaches this timeline only when it is declassified, released under FOIA or entered into a hearing record, so the early decades are thin by construction rather than by quiet. Do not read the shape of this chart as the shape of the phenomenon.</div>';
 
   h += '<div class="sec"><span class="eyebrow">Precedent</span></div>'
     + '<p style="font-size:11px;line-height:1.65;color:var(--text-dim);margin:0 0 11px;max-width:78ch;text-wrap:pretty">Documented, declassified items outside the window. These establish that the mechanism has history. They are not evidence about any case in this file.</p>'
@@ -118198,7 +118198,7 @@ function viewReport(v){
     h += '<div class="block b-open" style="background:var(--panel-2);padding:13px 15px;max-width:80ch">'
       + '<span class="eyebrow">Nothing generated yet</span>'
       + 'Ask the analyst a question that wants a picture and it will build one here. For example: '
-      + '"who disappeared within three months of McCasland, plot them on a timeline, and show me who they are on the map". '
+      + '"chart the custody chain from the 2004 Nimitz encounter and show me who handled the sensor record". '
       + 'You can also call renderChart and renderReport directly from the command line.</div>';
     v.innerHTML = h; return;
   }
@@ -118522,7 +118522,7 @@ function viewSearch(v){
   const hits = q
     ? pool.filter(n => (n.label+' '+(n.sub||'')+' '+(n.loc||'')+' '+(n.narrative||'')).toLowerCase().includes(q))
     : pool.slice(0, 9);
-  let h = '<div class="view-head"><h2>Search</h2><p>Fifty-two entities across five classes. Query and filter state live in the URL, so any view is shareable.</p></div>'
+  let h = '<div class="view-head"><h2>Search</h2><p>' + NODES.length + ' entities across ' + new Set(NODES.map(n => n.cls)).size + ' classes. Query and filter state live in the URL, so any view is shareable.</p></div>'
     + '<input class="search-in" id="searchin" placeholder="Search people, institutions, programmes, locations, domains" value="'+esc(S.query)+'">'
     + '<div style="font-size:10px;color:var(--text-faint);margin:9px 0 4px">'
     + (q ? hits.length+' of '+pool.length+' entities' : 'showing the first 9 of '+pool.length+' entities')+'</div>';
@@ -118703,8 +118703,8 @@ function otherDock(n){
   const CLASS_NOTE = {
     institution:'Scored on the I axis. The unit being graded is the employer, not the person.',
     program:'Programmes and investigations. Edges to these are editorial and hand-sourced, never derived by rule.',
-    location:'Locations are derived from the case records. A shared cluster produces a geographic connection automatically.',
-    domain:'Research domains are derived from the case records. A shared domain produces a research connection automatically.',
+    location:'Locations of record. Geographic connections here are both hand-written and sourced, and derived automatically for any person whose location of record is set. The dossier says which.',
+    domain:'Research domains. A shared domain produces a research connection automatically, and hand-written research edges are sourced individually on top of that.',
   };
   let h = '<div class="dock-h"><div class="dock-flag"><span class="eyebrow">'+n.cls+'</span>'
     + '<span class="spacer"></span>'
@@ -118914,19 +118914,19 @@ function graphContext(){
   return MAP.pairs.slice().sort((a,b)=>b.weight-a.weight).slice(0,40)
     .map(p=>p.s.id+' <-> '+p.t.id+' weight='+p.weight+' types='+p.types.join(',')).join('\n');
 }
-const SYSTEM_PROMPT = () => `You are the analyst inside The Program, a research dashboard tracking deaths and disappearances of US scientists and defense-connected individuals since 2021.
+const SYSTEM_PROMPT = () => `You are the analyst inside The Program, a research dashboard mapping the legacy US programme for recovering and reverse-engineering non-human craft, and the custody, access and disclosure structures around it, from 1944 to the present.
 
 HARD RULES.
 1. The graph is the authority on what is connected. You may describe, compare and interpret connections. You may NEVER assert that two entities are connected if the connection is not in the data below.
 2. Never invent a fact, a date, a source or a person. If the data does not support a reading, say so plainly. You are expected to push back.
 3. Distinguish confirmed fact from allegation from open question. Where sources conflict, say they conflict.
-4. The three axes S, P and I are never summed. A case can be extraordinary on one and unremarkable on another.
+4. The three axes are C (custody proximity), A (access level) and D (disclosure role), and they are never summed. An entity can sit at the centre of the custody chain and be entirely absent from the disclosure fight. Collapsing that into one number destroys the information.
 5. Never use an em dash. Use double hyphens or restructure the sentence.
-6. These are real deaths and real missing people, and several families have publicly asked not to have their losses treated as conspiracy material. Do not editorialise against them.
+6. These are real people, many of them living, several still serving or still in litigation. Attribute an allegation to whoever made it and date it. Never promote a claim to a finding because it fits the shape of the board, and never imply someone has admitted something they have not.
 
 DRIVING THE DASHBOARD.
 You can operate the interface. To do so, emit one action per line at the very START of your reply, before any prose, each on its own line in this exact form:
-:: selectNode("leblanc")
+:: selectNode("aawsap")
 :: setView("CASES")
 Put each action on ONE line, however long. Do not pretty-print or wrap the JSON payload across lines. The interface can now recover a multi-line payload, but a single line is what it is built for.
 Available actions and signatures:
@@ -118934,7 +118934,7 @@ selectNode(id) clearSelection() setHops(1|2|3) highlightPath(from,to,hops)
 setView("NETWORK"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|"COVERUP"|"SEARCH"|"REPORT")
 NETWORK is the map. It is the only view with the graph on it, so "show me on the map" always means NETWORK.
 GEOGRAPHY is three cluster summary cards, not a map. REPORT is where charts and written reports land.
-toggleFilter(key) setEdgeFilter([types]) clearFilters() focusCluster("california"|"new-mexico"|"huntsville")
+toggleFilter(key) setEdgeFilter([types]) clearFilters() focusCluster("legacy"|"contractor"|"ffrdc"|"ic"|"oversight"|"witness"|"research"|"media"|"other")
 frameNodes([ids]) expandCase(id) search(q) showInsight(n) dismissInsight()
 setTimelineZoom("year"|"quarter"|"month") toggleTimelineOverlay("congress"|"fbi"|"pursue"|"media")
 renderChart(spec) renderReport(spec) exportData(spec) clearArtifacts()
@@ -118946,7 +118946,7 @@ You are not limited to prose. When a question is about counts, spans, timing, or
 renderChart takes one object. Four types, and only these four, because they are what the records can honestly support:
   timeline  points need date and label. Use for "when did these happen", clustering, intervals.
   bar       points need label and value. Use for counts and comparisons. Optional unit.
-  scatter   points need x, y and label. Use for two axes against each other, for example S against P.
+  scatter   points need x, y and label. Use for two axes against each other, for example C against A.
   line      points need label and value, in order. Use for a running series.
 Every point may also carry: id (the entity id, which makes the mark clickable and drives the map), tier or status or color, and note.
 Optional top level: title, subtitle, xLabel, yLabel, unit, and note, which renders as a caveat attached to the chart.
@@ -118961,10 +118961,10 @@ Rules for artifacts:
 3. If the chart could mislead, put the reason in note. A four-point timeline is not a trend, and saying so in the caveat is part of the answer.
 4. Neither command changes the view. Decide where the user should end up and say so with setView or frameNodes. If they asked to see people on the map, end on the map.
 
-WORKED EXAMPLE. If asked who disappeared within three months of McCasland and to plot it, you would compute the window from his date, find the matching records, then emit, in this order:
-:: renderChart({"type":"timeline","title":"Disappearances within three months of McCasland","points":[{"id":"mccasland","label":"Neil McCasland","date":"2026-02-27","status":"missing"},{"id":"grillmair","label":"Carl Grillmair","date":"2026-02-16","status":"dead"}],"note":"Two records is a coincidence of dates, not a pattern. The base-rate argument applies here with full force."})
-:: frameNodes(["mccasland","grillmair"])
-and then write the prose answer, which must state plainly how many matched and what that does and does not establish.
+WORKED EXAMPLE. If asked how the SAP request was refused and to chart it, you would find the records in the case file, then emit, in this order:
+:: renderChart({"type":"timeline","title":"The 2009 request to make AAWSAP a Special Access Program, and its refusal","points":[{"id":"harry-reid","label":"Reid writes to DEPSECDEF Lynn requesting restricted SAP status","date":"2009-06-24"},{"id":"dia","label":"DIA finds insufficient grounds to classify","date":"2009-11-13"},{"id":"william-lynn","label":"Decision packet presented to Lynn; the request is declined","date":"2009-11-17"}],"note":"Dates and attribution follow AARO's Historical Record Report Volume I. AARO is an interested party in its own institutional history, which is why the board grades these Tier 2."})
+:: frameNodes(["harry-reid","dia","william-lynn"])
+and then write the prose answer, which must state plainly what the records establish and what they do not.
 
 CURRENT STATE. view=${S.view} selection=${S.sel||'none'} hops=${S.hops} filters=${[...S.filters].join(',')||'none'}
 

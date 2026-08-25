@@ -308,14 +308,59 @@ def _no_parent_editorial(b, html):
 
     None of it could throw. All of it renders, or reads, as confident and finished.
 
+    The list grew on 25 August after a systematic sweep: diffing prose string
+    literals between ref/the-vanishing-v2.html and the built file showed 177 that
+    survived the port verbatim, of which five rendered as false copy -- a hardcoded
+    "Fifty-two entities across five classes" heading the SEARCH view of a 956-node
+    board among them.
+
     These strings are specific to the sibling board's subject matter and have no
     legitimate use here. Note what is deliberately NOT listed: 'Ning Li' and 'JPL'
     both appear on this board for real reasons -- the AAWSAP superconductor DIRD
     reviews Ning Li's work -- so screening on them would fire on good content."""
     banned = ("NeuroLogica", "matched denominator", "left everything behind",
-              "departure kit", "the leftBehind array")
+              "departure kit", "the leftBehind array",
+              # found by diffing prose literals against ref/the-vanishing-v2.html:
+              # 177 survived the port verbatim and these five rendered as false copy
+              "Fifty-two entities", "who disappeared within three months",
+              "derived from the case records",
+              "after April 2026 is a fact about reporting attention")
     return [f"the built file carries the parent board's {p!r}"
             for p in banned if p in html]
+
+
+@check("the analyst system prompt describes this board")
+def _system_prompt_is_ours(b, html):
+    """SYSTEM_PROMPT() is what the model is told it is before it answers anything, and
+    until 25 August it had never been checked by anything.
+
+    It was inherited whole. It opened by calling this 'a research dashboard tracking
+    deaths and disappearances of US scientists and defense-connected individuals since
+    2021', which is the sibling board's mission with the name swapped -- the identical
+    fault as the scripted analyst, one path over, missed because the scripted path got
+    the attention.
+
+    The costly line was HARD RULE 4: 'The three axes S, P and I are never summed.'
+    This board scores every entity on C, A and D. The model held the wrong names for
+    the board's primary scoring scheme, stated as a numbered hard rule, so any answer
+    it gave about scoring reasoned over letters that are not here. A wrong axis name
+    cannot throw; it produces fluent analysis of nothing.
+
+    Asserts the prompt names this board's axes, and carries none of the parent's."""
+    import re as _re
+    m = _re.search(r"const SYSTEM_PROMPT = \(\) => `(.*?)`;", html, _re.S)
+    if not m:
+        return ["SYSTEM_PROMPT() is not in the built file"]
+    p = m.group(1)
+    bad = []
+    for need in ("C (custody proximity)", "A (access level)", "D (disclosure role)"):
+        if need not in p:
+            bad.append(f"the system prompt never names the axis {need!r}")
+    for wrong in ("axes S, P and I", "deaths and disappearances",
+                  "real missing people", "who disappeared"):
+        if wrong in p:
+            bad.append(f"the system prompt still carries the parent board's {wrong!r}")
+    return bad
 
 
 @check("claim tiers are valid and Tier 1 is sourced")
@@ -896,7 +941,14 @@ def self_test():
                              "legislative"))
                   + "    default:\n      return 'Connected.';\n  }\n}\n")
 
-    good_html = wrap(L0(), EXPLAIN_OK)
+    # Same reason as EXPLAIN_OK: the system-prompt check reads the prompt out of the
+    # built file, so the CLEAN fixture needs a valid one or the check false-positives
+    # on good input.
+    SYSPROMPT_OK = ("\nconst SYSTEM_PROMPT = () => `You are the analyst. The three axes "
+                    "are C (custody proximity), A (access level) and D (disclosure role), "
+                    "and they are never summed.`;\n")
+
+    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK)
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
@@ -918,6 +970,14 @@ def self_test():
                 "dossier": {"narrative": "why e0 is on the map",
                             "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
     poison_html.update({
+        # REPLACE the good prompt, never append a second one: the check reads the
+        # first SYSTEM_PROMPT in the file, so an appended poison leaves the clean
+        # one in front of it and the check passes while asserting nothing. That is
+        # the duplicate-L0DATA trap this fixture already warns about, hit again.
+        "the analyst system prompt describes this board":
+            good_html.replace(SYSPROMPT_OK,
+                "\nconst SYSTEM_PROMPT = () => `You are the analyst. The three "
+                "axes S, P and I are never summed.`;\n"),
         "no parent-board editorial content ships":
             good_html + " NeuroLogica (Novella) on the matched denominator ",
         "every edge type has a caption written for this board":
