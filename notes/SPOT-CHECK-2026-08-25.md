@@ -108,6 +108,52 @@ letters through a list the board quotes as running text; an ODNI cover page is
 quoted as two lines joined; and one citation points at a Google Books *about* page,
 which never contains the book's text and is a weak citation on its own terms.
 
+## The largest finding: 181 claims cite a DIA reading-room URL that no longer resolves
+
+`spot_check.py` reported every `dia.mil` citation as unreachable, because curl gets a
+403. Going after them with WebFetch turned up something worse than a 403.
+
+**46 distinct `dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/1700xx/` URLs on this
+board no longer reach a document.** They render the reading room's index page instead.
+The proof is simple: `FileId/999999999/` — an id that cannot exist — returns the same
+index. DIA falls back silently for any unrecognised id, so a stale citation looks like
+a live one.
+
+**181 claims cite one of those URLs, and not one of them cites a second copy of the
+document.** Among the nodes affected: `baass`, `aawsap`, `harry-reid`,
+`reid-letter-2009-06-24`, `dia-sap-denial-2009`, `reid-dia-meetings-2008-2009`, and
+every DIRD node on the board.
+
+The documents are not lost. DIA renumbered the reading room into a `2376xx` range —
+the PDFs carry `OmniPage CSDK 18` OCR metadata last modified 28 April 2025, which is
+about when the renumbering must have happened. Two are repaired here, each verified by
+opening the document and reading it rather than by trusting a listing:
+
+| board node | was | is | verified by |
+|---|---|---|---|
+| `reid-letter-2009-06-24`, `harry-reid` | `FileId/170016/` | **`FileId/237659/`** | letterhead "HARRY REID NEVADA", addressed to Deputy Secretary William Lynn III, dated June 24, 2009 |
+| `dia-sap-denial-2009`, `baass` | `FileId/170058/` | **`FileId/237611/`** | "INFO MEMO / NOV I 3 2009 / SUBJECT: (U) Review of Special Access Program Request" |
+
+The other 44 are **not** repaired, deliberately. A model's reading of the index page
+offers a full old-to-new mapping, and that is exactly the kind of thing this note
+exists to refuse: a mapping nobody has verified, written into the board's citations.
+Several documents also overlap — `Final_Packet_Presented_To_DepSecDef` contains the
+Reid letter *and* eleven quotes attributed to a different old id, and the contract
+status brief exists as `(1)` through `(4)` — so a correct remap needs each document
+opened, not each title matched.
+
+**This is the single most valuable outstanding piece of work on the board.** It is
+mechanical, it is verifiable, and 181 claims currently point a reader at a directory
+rather than at the record. `tools/spot_cache_put.py` exists for it: fetch by whatever
+route the host allows, drop the file in, and the quote comparison stays a substring
+test rather than a model's opinion.
+
+A note on what the DIA scans do to quotation checking. They are OCR'd photocopies and
+they mangle exactly the things a quote turns on: Reid's letter reads "tar-term" where
+he wrote "far-term", the INFO MEMO's date comes out "NOV I 3 2009", and "FY 2010"
+becomes "FY 20 I 0". Every one of those reported as a missing quote and every one was
+the board transcribing correctly.
+
 ## Access, which changed under me during the run
 
 **281 of 604 claims could not be checked at all**, and that is a fact about this

@@ -414,7 +414,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -436,7 +436,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -458,7 +458,7 @@ export const PROGRAM_EDGES = [
     sources: [
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
@@ -30040,7 +30040,7 @@ export const PROGRAM_EDGES = [
       },
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -32117,8 +32117,8 @@ export const PROGRAM_EDGES = [
         date: '2026-08-25'
       },
       {
-        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        name: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: null
       },
       {

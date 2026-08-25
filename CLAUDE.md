@@ -324,8 +324,27 @@ Two were found on 24 August by accident, while looking for something else.
    **No fabricated source was found.** 278 of the 283 adjudicable claims quote their
    source correctly; five real citation defects were found and fixed and eight rotted
    `gov.br` URLs repointed. `notes/SPOT-CHECK-2026-08-25.md`.
-   **What is left is the part a script cannot do here:** 281 claims sit on hosts this
-   environment cannot open, and `dia.mil` and `aaro.mil` hold 129 of them. Both serve
-   WebFetch and refuse curl, so those are checkable by hand from this session and are
-   the largest block of unverified quotation on the board. The tool is deliberately not
-   in the build gate -- it depends on the network.
+   **The aaro.mil block is now done too:** all 24 quotes against the FY2025 and FY2023
+   annual reports and HRR Volume I verify, fetched with WebFetch and adjudicated
+   mechanically via `tools/spot_cache_put.py`. Two misquotes were found there and fixed,
+   one of which mattered -- AAWSAP's purpose was quoted as assessing "long-range
+   aerospace threats" where the HRR says "long-term and over-the-horizon foreign
+   advanced aerospace threats".
+
+   **What is left is item 10.** The tool is deliberately not in the build gate -- it
+   depends on the network, and a check that fails because a host is throttling is a
+   check people learn to ignore.
+
+10. **181 claims cite a DIA reading-room URL that no longer resolves.** 46 distinct
+    `dia.mil/.../FileId/1700xx/` URLs render the reading room's INDEX, not a document --
+    `FileId/999999999/` returns the same page, so DIA falls back silently and a stale
+    citation looks live. No affected claim cites a second copy. `baass`, `aawsap`,
+    `harry-reid`, `reid-letter-2009-06-24`, `dia-sap-denial-2009` and every DIRD node
+    are affected. The documents exist under a renumbered `2376xx` range. Two are
+    repaired, each verified by opening it: `170016` -> `237659` (Reid's 24 June 2009
+    letter) and `170058` -> `237611` (INFO MEMO U-09-2660). **The other 44 need the same
+    treatment and it is the most valuable mechanical work outstanding.** Do NOT remap
+    from a listing -- documents overlap, `Final_Packet_Presented_To_DepSecDef` contains
+    several, and the contract status brief exists as (1) through (4). Open each one.
+    `tools/spot_cache_put.py` puts a WebFetch-obtained file into `spot_check.py`'s cache
+    so the verification stays a substring test. See `notes/SPOT-CHECK-2026-08-25.md`.

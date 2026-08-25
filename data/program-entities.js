@@ -297,7 +297,7 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-09-2660 (13 Nov 2009): \'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -307,7 +307,7 @@ export const INSTITUTIONS = [
       {
         tier: 3,
         text: 'The FY2010 pivot described in U-09-2660 — \'four to six of the original technical reports will be expanded to include classified data\', focused on \'foreign research in a particular technology area\' — is the point at which the publicly-visible DIRD series stops and the record goes dark. The 37-38 released DIRDs are, by DIA\'s own account, the unclassified subset.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -422,7 +422,7 @@ export const INSTITUTIONS = [
         date: '2011-03-01'
       },
       { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170052/', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/', date: null }
     ]
   },
   {
@@ -10104,7 +10104,7 @@ export const PROGRAMS = [
       },
       {
         tier: 1,
-        text: 'AARO Historical Record Report Vol. I: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-range aerospace threats.\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
+        text: 'AARO Historical Record Report Vol. I: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
@@ -10278,7 +10278,7 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-09-2660 (13 Nov 2009) frames the two names as the same thing: it evaluates \'a request from Senator Harry Reid (enclosure 1) to establish a restricted special access program (SAP) for the Advanced Aerospace Weapon System Application Program Contract, referred to in Senator Reid\'s letter as the Advanced Aerospace Threat and Identification Program (AAITP).\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -10298,7 +10298,7 @@ export const PROGRAMS = [
       {
         tier: 3,
         text: 'The concealment-relevant fact is not that AATIP was fake but that it was administratively real and deliberately kept out of SAP channels. DIA\'s own recommendation against a SAP (Nov 2009) is what later allowed officials to characterise AATIP as low-significance: a program denied special protection leaves no SAP paper trail to point at.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -10307,7 +10307,7 @@ export const PROGRAMS = [
       },
       {
         tier: 3,
-        text: 'AARO\'s formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA\'s own 2009 correspondence uses \'AAITP\' and \'AAWSAP\' interchangeably for the same contract, so the \'never an official program\' line depends entirely on which of the two names is treated as canonical.',
+        text: 'AARO\'s formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA\'s own 2009 correspondence uses \'AAITP\' and \'AAWSAP\' interchangeably for the same contract, so the \'never an official DoD program\' line depends entirely on which of the two names is treated as canonical.',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
@@ -10359,7 +10359,7 @@ export const PROGRAMS = [
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -10369,7 +10369,7 @@ export const PROGRAMS = [
       },
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
@@ -10389,7 +10389,7 @@ export const PROGRAMS = [
       },
       {
         name: 'Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)',
-        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2025-03-13'
       },
       {
@@ -10399,7 +10399,7 @@ export const PROGRAMS = [
       },
       {
         name: 'Archived: DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2025-03-11'
       },
       {
@@ -25162,7 +25162,7 @@ export const DOCUMENTS = [
       },
       {
         tier: 1,
-        text: 'States: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-range aerospace threats\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
+        text: 'States: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
@@ -26782,22 +26782,22 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Letterhead: \'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510\'. Dated June 24, 2009. Addressed to \'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010\'. Salutation: \'Dear Secretary Lynn:\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
@@ -26807,13 +26807,13 @@ export const DOCUMENTS = [
       {
         tier: 2,
         text: 'Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced \'several highly sensitive, unconventional aerospace-related findings\' warranting \'extraordinary protection\' — a claim made in writing to the Deputy Secretary of Defense, not to the press.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       }
     ],
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -26823,12 +26823,12 @@ export const DOCUMENTS = [
       },
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
         name: 'Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)',
-        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2025-03-13'
       },
       {
@@ -26838,7 +26838,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2025-03-11'
       }
     ]
@@ -26863,12 +26863,12 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Memo header: \'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
         text: 'Finding: \'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -26884,7 +26884,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
@@ -26899,7 +26899,7 @@ export const DOCUMENTS = [
       },
       {
         name: 'Archived: DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release) (Wayback 2025-03-11)',
-        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://web.archive.org/web/20250311131406/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2025-03-11'
       },
       {

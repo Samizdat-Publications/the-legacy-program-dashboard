@@ -118,6 +118,12 @@ def contains(doc, quote):
     """
     # " / " is how the board joins two lines of a title page or masthead into one
     # quotation. Like an ellipsis it marks a deliberate join, not a contiguous run.
+    # Square brackets mark an editorial insertion, so their contents are by
+    # definition NOT in the source. AARO's HRR prints "which was also known AATIP",
+    # dropping the "as"; the board quotes it "was also known [as] AATIP", which is
+    # the correct convention and more careful than the document. Matching the
+    # brackets literally would report that carefulness as a misquote.
+    quote = re.sub(r"\[[^\]]{0,40}\]", " ", quote)
     parts = [fold(p).strip() for p in re.split(r"\.\.\.|…|\s+/\s+", quote)]
     parts = [p for p in parts if len(p) >= 8]
     if not parts:
@@ -126,8 +132,39 @@ def contains(doc, quote):
     for p in parts:
         at = doc.find(p, at)
         if at < 0:
-            return False
+            return _contains_squashed(doc, parts)
         at += len(p)
+    return True
+
+
+def _squash(s):
+    return re.sub(r"\s+", "", s)
+
+
+def _contains_squashed(doc, parts):
+    """Second pass with every space removed.
+
+    PDF text extraction does not reliably preserve word boundaries. AARO's FY2025
+    report comes out of pypdf as "Fis cal Year 2025", "ALL-D OMAIN ANOMALY
+    RESOLUTION OFFIC E" -- spaces inserted inside words -- and renders the
+    line-broken compound "UAP-related" such that de-hyphenating it yields
+    "uaprelated" while the correct reading is "uap related". Both are the extractor
+    mangling the document, not the board misquoting it, and both are invisible to a
+    space-sensitive comparison.
+
+    Removing every space from both sides makes the test blind to that whole class.
+    It is only reached after the faithful comparison has failed, and the quotes here
+    are 25 characters or longer, so a spurious match across word boundaries is not a
+    practical risk.
+    """
+    at = 0
+    sdoc = _squash(doc)
+    for p in parts:
+        sp = _squash(p)
+        at = sdoc.find(sp, at)
+        if at < 0:
+            return False
+        at += len(sp)
     return True
 
 

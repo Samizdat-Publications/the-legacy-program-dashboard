@@ -60,7 +60,7 @@ export const PEOPLE = [
       {
         tier: 1,
         text: 'Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under \'Restricted Special Access Protection\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
@@ -121,7 +121,7 @@ export const PEOPLE = [
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
@@ -151,7 +151,7 @@ export const PEOPLE = [
       },
       {
         name: 'Archived: Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release) (Wayback 2025-03-13)',
-        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2025-03-13'
       },
       {
