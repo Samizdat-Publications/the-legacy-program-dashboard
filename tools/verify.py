@@ -564,11 +564,18 @@ def check_idempotent():
                                capture_output=True, cwd=ROOT)
             if r.returncode != 0:
                 return None, f"{cmd[0]} exited {r.returncode}: {r.stderr.decode()[:400]}"
+        # Both artifacts carry a "generated":"YYYY-MM-DD" stamp. Hashing it makes
+        # this check fail for a build that straddles midnight UTC -- a real, rare,
+        # maximally confusing false failure, since nothing is actually
+        # non-deterministic and a re-run passes. Neutralise the stamp and hash
+        # everything else. Verified 25 Aug: two consecutive runs are byte-identical
+        # apart from this field.
+        stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
         h = hashlib.sha256()
-        h.update(open(DIST, "rb").read())
+        h.update(stamp.sub(b'"generated":"<stamped>"', open(DIST, "rb").read()))
         lm = os.path.join(ROOT, "data", "l0-layout-model.json")
         if os.path.exists(lm):
-            h.update(open(lm, "rb").read())
+            h.update(stamp.sub(b'"generated":"<stamped>"', open(lm, "rb").read()))
         return h.hexdigest(), None
 
     h1, err = build_once()
