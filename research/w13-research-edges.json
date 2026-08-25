@@ -1,0 +1,71 @@
+{
+ "domain": "w13-research-edges",
+ "_why": "Nine edges resting on three documents, all downloaded and read in full this pass: the Sky Canada report, the COMETA report, and NASA's UAP independent study material.\n\nTwo corrections came out of the reading.\n\nThe Sky Canada report's title is 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada'. The note on ocsa-canada -> canada-dot had it as 'Unidentified Anomalous Phenomena'. Corrected.\n\nThe Blue Marble edge is the more interesting one. The note quotes NASA describing Anamaria Berea as 'a research investigator with Blue Marble Space Institute of Science in Seattle', and that quote is exact - but it is from NASA's team announcement of 21 October 2022, not from the study team's final report. The final report of September 2023 lists her affiliation as George Mason University alone, with no mention of Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's. The note now cites the announcement, which is what it actually quotes, and says which document carries which affiliation.\n\nOne thing the COMETA reading confirmed rather than changed. The passage the cometa -> setka-program edge rests on says 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' It does not name the Setka programme. The edge's existing note already said the identification is inference rather than citation and tiered it 3, and the primary text bears that out exactly.\n\nThe COMETA report also states its own legal status on its title page - 'COMETA, an association governed by the Law of July 1, 1901' - which settles cometa -> l-france, one of the nine geographic edges left open in the previous batch.",
+
+ "edges": [
+  {
+   "a": "ocsa-canada", "b": "aaro", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025", "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf", "date": "2025-06-01"}
+   ],
+   "note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'"
+  },
+  {
+   "a": "ocsa-canada", "b": "dgac-chile", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025", "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf", "date": "2025-06-01"}
+   ],
+   "note": "The report singles out Chile alongside the United States and France as providing 'interesting examples of coordinated, transparent, and scientifically driven approaches to UAP reporting', and describes SEFAA as 'the official body responsible for collecting, analyzing and scientifically studying UAPs', which 'operates within the General Directorate of Civil Aeronautics'."
+  },
+  {
+   "a": "ocsa-canada", "b": "nasa", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025", "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf", "date": "2025-06-01"}
+   ],
+   "note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization."
+  },
+  {
+   "a": "ocsa-canada", "b": "canada-dot", "type": "investigative", "claimTier": 1,
+   "sources": [
+    {"name": "Report of the Sky Canada Project, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', June 2025", "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf", "date": "2025-06-01"}
+   ],
+   "note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'."
+  },
+  {
+   "a": "cometa", "b": "project-blue-book", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.2", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records."
+  },
+  {
+   "a": "cometa", "b": "roswell-1947", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Appendix 5", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence."
+  },
+  {
+   "a": "cometa", "b": "setka-program", "type": "research", "claimTier": 3,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, chapter 7.3", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "TIER 3, INFERENTIAL. COMETA records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' The report does not name the Setka programme, or any Soviet programme, anywhere in that passage. That the studies it refers to are Setka's is inference from the period and the scale, not citation, and this edge should not be read as COMETA citing Setka."
+  },
+  {
+   "a": "cometa", "b": "l-france", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, title page and foreword", "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf", "date": "1999-07-01"}
+   ],
+   "note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995."
+  },
+  {
+   "a": "blue-marble-space-institute", "b": "nasa", "type": "research", "claimTier": 1,
+   "sources": [
+    {"name": "NASA, 'NASA Announces Unidentified Aerial Phenomena Study Team Members', 21 October 2022", "url": "https://www.nasa.gov/general/nasa-announces-unidentified-aerial-phenomena-study-team-members/", "date": "2022-10-21"},
+    {"name": "NASA Unidentified Anomalous Phenomena Independent Study Team Report, September 2023", "url": "https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf", "date": "2023-09-14"}
+   ],
+   "note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report."
+  }
+ ]
+}
