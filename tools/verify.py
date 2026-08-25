@@ -262,6 +262,62 @@ def _edge_note_bookkeeping(b, html):
     return bad[:40]
 
 
+@check("every edge type has a caption written for this board")
+def _explain_edge_covers(b, html):
+    """explainEdge() writes the caption under every connection in every node dock.
+    A type with no case falls through to 'Connected.', which reads as a caption
+    rather than as a gap, so nothing looks broken and nobody goes looking.
+
+    That is how four of this board's twelve types -- legislative, denial, custody
+    and funding, 554 edges between them -- were explained with one word for as long
+    as the board has existed. Custody is one of the three axes the board scores on.
+
+    The same surface carried the parent board's meanings for two types it does
+    share: behavioral was 'Both left the same category of personal item behind',
+    which is a missing-person fact, and temporal was a sixty-day proximity rule.
+    Both rendered confidently over edges that mean something else entirely.
+
+    This asserts coverage, not wording: every type present in the data must have
+    its own case, and no case may still carry the parent's vocabulary."""
+    import re as _re
+    types = {e.get("type") for e in b["edges"] if e.get("type")}
+    m = _re.search(r"function explainEdge\(type, a, b\) \{.*?\n\}", html, _re.S)
+    if not m:
+        return ["explainEdge() is not in the built file at all"]
+    blk = m.group(0)
+    cases = set(_re.findall(r"case '([^']+)':", blk))
+    bad = [f"edge type {t!r} has no explainEdge case, so its caption is 'Connected.'"
+           for t in sorted(types - cases)]
+    # the parent board's vocabulary, which must not survive here
+    for phrase in ("personal item behind", "sixty days", "left everything behind",
+                   "departure kit"):
+        if phrase in blk:
+            bad.append(f"explainEdge still carries the parent board's wording: {phrase!r}")
+    return bad
+
+
+@check("no parent-board editorial content ships")
+def _no_parent_editorial(b, html):
+    """This board was built by porting a shell from a sibling project, The Vanishing,
+    which is about a cluster of missing and dead scientists. Its vocabulary kept
+    surviving the port in surfaces nobody had read: the scripted analyst answered
+    about JPL headcount, explainEdge captioned this board's behavioral edges with a
+    fact about personal effects, and a 3KB COUNTERS array of skeptical commentary on
+    that dataset shipped inside the published file, declared and referenced by
+    nothing.
+
+    None of it could throw. All of it renders, or reads, as confident and finished.
+
+    These strings are specific to the sibling board's subject matter and have no
+    legitimate use here. Note what is deliberately NOT listed: 'Ning Li' and 'JPL'
+    both appear on this board for real reasons -- the AAWSAP superconductor DIRD
+    reviews Ning Li's work -- so screening on them would fire on good content."""
+    banned = ("NeuroLogica", "matched denominator", "left everything behind",
+              "departure kit", "the leftBehind array")
+    return [f"the built file carries the parent board's {p!r}"
+            for p in banned if p in html]
+
+
 @check("claim tiers are valid and Tier 1 is sourced")
 def _claims(b, html):
     """Credibility rule: no claim renders without a confidence treatment, and Tier 1
@@ -829,7 +885,18 @@ def self_test():
                 + ' L0DATA.counts.pathOnly L0DATA.counts.unattached ' + extra
                 + "\nconst L0DATA = " + json.dumps(model) + ";\n")
 
-    good_html = wrap(L0())
+    # The caption check reads explainEdge() out of the built file, so the CLEAN
+    # fixture has to contain a real one or the check reports a false positive on
+    # good input -- which is what it did the first time it ran.
+    EXPLAIN_OK = ("\nfunction explainEdge(type, a, b) {\n  switch (type) {\n"
+                  + "".join("    case '%s':\n      return 'x';\n" % t for t in
+                            ("institutional", "geographic", "research", "temporal",
+                             "behavioral", "programmatic", "investigative",
+                             "witness-chain", "custody", "funding", "denial",
+                             "legislative"))
+                  + "    default:\n      return 'Connected.';\n  }\n}\n")
+
+    good_html = wrap(L0(), EXPLAIN_OK)
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
@@ -841,6 +908,8 @@ def self_test():
               {"id": "e1", "direct": ["a-b", "e2"], "routed": [], "mix": {"person": 1, "institution": 1}}]
 
     poisons.update({
+        # a board carrying custody edges, against html whose explainEdge lost that case
+        "every edge type has a caption written for this board": l0board,
         # a summarised edge printing Tier 3 over two Tier 1 links
         "summarised edge tier is the strongest of its underlying links": l0board,
         "the shared-member gate holds and only hand-written edges are summarised": l0board,
@@ -849,6 +918,10 @@ def self_test():
                 "dossier": {"narrative": "why e0 is on the map",
                             "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
     poison_html.update({
+        "no parent-board editorial content ships":
+            good_html + " NeuroLogica (Novella) on the matched denominator ",
+        "every edge type has a caption written for this board":
+            good_html.replace("    case 'custody':\n      return 'x';\n", "", 1),
         # a node on the map with no argument for why it is there
         "every L0 node carries an entity dossier":
             wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),

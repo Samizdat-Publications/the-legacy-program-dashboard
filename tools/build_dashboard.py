@@ -1552,6 +1552,127 @@ def main():
 """ + s[b:]
 
 
+    # ---- 4l. explainEdge -----------------------------------------------------
+    # The parent board's explainEdge shipped here unpatched, and it is the caption
+    # under every connection in every node dock -- the single most-read sentence on
+    # the board after the labels themselves.
+    #
+    # It was wrong in two different ways at once.
+    #
+    # 1. `behavioral` returned "Both left the same category of personal item behind."
+    #    That is The Vanishing's meaning: a missing person who left a phone and a
+    #    wallet. On this board a behavioral edge records how a party CONDUCTED itself
+    #    -- DIA redacting a name it had already published, a solicitation written to
+    #    a capability one bidder held. 77 edges were captioned with a sentence about
+    #    personal effects. `temporal` was the same class of error: "Dates fall within
+    #    sixty days of each other" is the parent's proximity heuristic, where here a
+    #    temporal edge is a succession between documents -- Volume I defining what
+    #    Volume II must contain.
+    #
+    # 2. Four of this board's twelve types had no case at all and fell through to
+    #    "Connected." -- legislative (192), denial (174), custody (119), funding (69).
+    #    Custody is one of the three axes this board is scored on. 554 edges, a
+    #    quarter of the board, explained with a word that says nothing.
+    #
+    # Neither failure could produce an error. Both render as a confident, well-set
+    # caption, which is the same failure mode as the inherited scripted analyst.
+    a = s.index("function explainEdge(type, a, b) {")
+    b = s.index("\n}", a) + 2
+    s = s[:a] + """function explainEdge(type, a, b) {
+  const pp = a.cls === 'person' && b.cls === 'person';
+  switch (type) {
+    case 'institutional':
+      return pp ? 'Both held a post in the same institution.'
+                : 'Employment or formal affiliation of record.';
+    case 'geographic':
+      return pp ? 'Both are placed at the same location of record.'
+                : 'Location of record for this party or event.';
+    case 'research':
+      return pp ? 'Overlapping research domain.'
+                : 'Documented research relationship.';
+    case 'temporal':
+      return 'One document or programme succeeds the other in sequence.';
+    case 'behavioral':
+      return 'Conduct of one party toward the other, recorded and dated.';
+    case 'programmatic':
+      return 'Named on the same government programme, contract or deliverable.';
+    case 'investigative':
+      return 'Named in the same review, inquiry or hearing.';
+    case 'witness-chain':
+      return 'Testimony passes from one to the other, and is sourced.';
+    case 'custody':
+      return 'Possession or control of material, records or sensor data.';
+    case 'funding':
+      return 'Money, or the authority that moved it.';
+    case 'denial':
+      return 'A dated, attributable refusal or denial on the record.';
+    case 'legislative':
+      return 'A statutory relationship between instruments.';
+    default:
+      return 'Connected.';
+  }
+}
+""" + s[b:]
+    print("  ok    explainEdge rewritten for this board's twelve edge types")
+
+
+    # ---- 4l2. the dead COUNTERS array ---------------------------------------
+    # viewCounterargs was rebuilt from this board's own denials in 4k, which left the
+    # parent board's COUNTERS array declared and referenced by nothing. Dead code is
+    # usually harmless; this is not, because it is 3KB of another project's editorial
+    # judgement -- Novella on JPL headcount, Shermer on excluded cells, corrections
+    # about Casias and Chavez and Grillmair -- shipping inside a published artifact
+    # about the UAP legacy programme. Anyone who opens the source, or any indexer that
+    # reads it, finds a confident skeptical record for a dataset that is not here.
+    #
+    # Removed rather than left in place. The requirement it served is met by 4k.
+    a = s.index("/* --- 6.7 COUNTERARGUMENTS")
+    b = s.index("];", s.index("const COUNTERS = [", a)) + 2
+    assert "COUNTERS" not in s[b:], "COUNTERS is referenced after its declaration -- do not remove it"
+    s = s[:a] + "/* The parent board's COUNTERS array was removed here; viewCounterargs is\n" \
+                "   built from this board's own denial edges. See build_dashboard.py 4l2. */" + s[b:]
+    print("  ok    parent board's COUNTERS array removed (%d chars of another project)" % (b - a))
+
+
+    # ---- 4l3. the "Left behind" section of THE ANALYSIS ----------------------
+    # The last live surface still answering about the sibling board, and the only one
+    # of the three a reader could actually see rendered.
+    #
+    # THE ANALYSIS view printed a section headed "Left behind", which on this board
+    # reads NOTHING RECORDED because no person here has a leftBehind list -- and then
+    # printed a confident definitional paragraph underneath it: that the thread means
+    # a record left BOTH the phone and the wallet and carried no departure kit, that
+    # this excludes Chavez who owned no cell phone and McCasland who took a wallet,
+    # boots, a .38 revolver and a red backpack, and that there are "0 clean members: ".
+    #
+    # Every word of that is The Vanishing's. It is a missing-persons methodology note
+    # standing under an empty section, naming two people, on a board about a recovery
+    # and reverse-engineering programme. Nothing errored, and the block is well set,
+    # so it reads as a finding rather than as leftover furniture.
+    #
+    # The section and its helper both go. leftEverythingBehind() was already stubbed
+    # to return [] by a previous pass -- honestly, with a comment saying the fields do
+    # not exist here -- but a stub whose only caller is being removed is just the
+    # parent's shape kept warm, and its comment is itself parent vocabulary shipping
+    # in the artifact.
+    a = s.index("  const lb = {};")
+    b = s.index("'.</div>';", a) + len("'.</div>';")
+    s = s[:a] + "  /* THE ANALYSIS carried a \"Left behind\" section here. It was the parent\n" \
+                "     board's missing-persons thread and does not apply. See 4l3. */" + s[b:]
+    c = s.index("function leftEverythingBehind() {")
+    # take the explanatory comment block above it too -- it is four lines of the
+    # parent board's vocabulary (phones, wallets, departure kits, Chavez, McCasland)
+    # and removing the function while leaving its comment orphans the vocabulary in
+    # the shipped file, which is the whole thing being fixed here.
+    lead = s.rfind('// The "left everything behind" thread', 0, c)
+    if lead != -1:
+        c = lead
+    d = s.index("\n}", s.index("function leftEverythingBehind() {")) + 2
+    assert "leftEverythingBehind" not in s[d:], "leftEverythingBehind still has a caller"
+    s = s[:c] + s[d:]
+    print("  ok    parent board's \"Left behind\" analysis section and helper removed")
+
+
     # ---- 4m. THE REAL RENDER PATH ----------------------------------------
     # The live map is the three-layer host (base canvas / GPU edge layer / 2D node
     # layer), and every edge it draws comes through edgeInstances(). At 3,711 edges

@@ -106325,46 +106325,42 @@ const STATUS_LABEL = {
 
 
 function explainEdge(type, a, b) {
-  const other = (n) => (n.cls === 'person' ? n.label : n.label);
+  const pp = a.cls === 'person' && b.cls === 'person';
   switch (type) {
     case 'institutional':
-      return a.cls === 'person' && b.cls === 'person'
-        ? 'Both employed by the same institution.'
-        : 'Employment or formal affiliation.';
+      return pp ? 'Both held a post in the same institution.'
+                : 'Employment or formal affiliation of record.';
     case 'geographic':
-      return a.cls === 'person' && b.cls === 'person'
-        ? 'Both fall inside the same geographic cluster.'
-        : 'Physical location of record.';
+      return pp ? 'Both are placed at the same location of record.'
+                : 'Location of record for this party or event.';
     case 'research':
-      return a.cls === 'person' && b.cls === 'person'
-        ? 'Overlapping research domain.'
-        : 'Documented research area.';
+      return pp ? 'Overlapping research domain.'
+                : 'Documented research relationship.';
     case 'temporal':
-      return 'Dates fall within sixty days of each other.';
+      return 'One document or programme succeeds the other in sequence.';
     case 'behavioral':
-      return 'Both left the same category of personal item behind.';
+      return 'Conduct of one party toward the other, recorded and dated.';
     case 'programmatic':
-      return 'Named on the same government programme or product.';
+      return 'Named on the same government programme, contract or deliverable.';
     case 'investigative':
-      return 'Named in the same federal review.';
+      return 'Named in the same review, inquiry or hearing.';
     case 'witness-chain':
-      return 'Sourced testimony chain.';
+      return 'Testimony passes from one to the other, and is sourced.';
+    case 'custody':
+      return 'Possession or control of material, records or sensor data.';
+    case 'funding':
+      return 'Money, or the authority that moved it.';
+    case 'denial':
+      return 'A dated, attributable refusal or denial on the record.';
+    case 'legislative':
+      return 'A statutory relationship between instruments.';
     default:
       return 'Connected.';
   }
 }
 
-// The "left everything behind" thread has a definition, and it is narrower than
-// "the leftBehind array is non-empty". A member left BOTH the phone and the
-// wallet and did not carry a departure kit. That rule excludes Chavez, who owned
-// no cell phone, and McCasland, who deliberately took wallet, boots, a revolver
-// and a backpack. Four clean members, per DESIGN-ADDENDUM-2026-08-07 change 5.
-function leftEverythingBehind() {
-  /* This board does not record what a person left behind; that was a
-     missing-persons question. Returns empty rather than being deleted so
-     the derivation stays intact if the fields are ever added. */
-  return [];
-}
+
+
 
 
 function nodeColor(n) {
@@ -118438,34 +118434,13 @@ function viewAnalysis(v){
           + '<span class="bar-n">'+n+'</span></div>';
       }).join('') + '</div>';
 
-  const lb = {};
-  for (const p of PEOPLE) for (const item of p.leftBehind) lb[item] = (lb[item]||0)+1;
-  const lrows = Object.entries(lb).sort((a,b)=>b[1]-a[1]);
-  h += '<div class="sec"><span class="eyebrow">Left behind</span></div><div class="leader">'
-    + (lrows.length ? lrows.map(([k,n])=>leader(k, String(n)+' of '+PEOPLE.length, 52)).join('<br>')
-                    : '<span class="na">NOTHING RECORDED</span>') + '</div>';
-
-  const lbe = leftEverythingBehind();
-  h += '<div class="block b-conf" style="margin-top:14px;background:var(--panel-2);padding:11px 13px;max-width:82ch">'
-    + '<span class="eyebrow">Definition, stated because it matters</span>'
-    + 'The "left everything behind" thread means a record left BOTH the phone and the wallet and did not carry a departure kit. That is narrower than a non-empty list, and it excludes Chavez, who owned no cell phone at all, and McCasland, who deliberately took a wallet, boots, a .38 revolver and a distinctive red backpack. '
-    + lbe.length+' clean members: '+lbe.map(p=>p.label).join(', ')+'.</div>';
+  /* THE ANALYSIS carried a "Left behind" section here. It was the parent
+     board's missing-persons thread and does not apply. See 4l3. */
   v.innerHTML = h;
 }
 
-/* --- 6.7 COUNTERARGUMENTS --------------------------------------------------- */
-const COUNTERS = [
-  { who:'Scientific American', when:'2026-05-07', title:'Random events clump if the numbers are big enough',
-    text:'David Hand’s argument is that with roughly 200,000 adults reported missing annually in the United States, apparent clusters are the expected output of a large sample rather than a signal in it. The piece also concedes its own gap explicitly: it states that it is impossible to find statistics on the expected number of scientists and science-related people who were shot or disappeared within a given period. The argument is heuristic, not a calculation.' },
-  { who:'NeuroLogica (Novella)', when:'2026-04-21', title:'The matched denominator',
-    text:'The strongest entry in the skeptical record, because it supplies what Scientific American concedes it lacks. JPL at roughly 4,500 employees would expect about 164 all-cause deaths over four years; this list has five. Los Alamos at roughly 18,000 would expect about 657; this list has two to three. This is the argument that produced most of the Tier C assignments in the file, and it is used here as a grading instrument rather than answered.' },
-  { who:'Skeptic Magazine (Shermer)', when:'2026-04-25', title:'The excluded cells',
-    text:'The narrative examines only defense-linked scientists who died, and leaves three cells of the table unexamined: defense-linked scientists who lived, non-defense scientists who died, and non-defense scientists who lived. Logged against it: Shermer compresses the Ning Li facts, presenting the 2014 collision and the Alzheimer’s death as unrelated when the reporting says the collision caused the brain damage that led to the diagnosis. And his figure of more than 500,000 missing yearly is the all-ages NCIC number, heavily juvenile and mostly resolved within days, deployed in an argument about adult professionals.' },
-  { who:'Bartholomew', when:'2026-04-22', title:'Apophenia and confirmation bias',
-    text:'The tendency to perceive meaningful connections between unrelated events, compounded by a search process that stops when it finds a match. This is the strongest available account of how a list like this one gets built, and it is the reason the tracker scores sequence separately from proximity rather than merging them into a single impression.' },
-  { who:'PolitiFact and Snopes', when:'2026-04-28', title:'Not all of them were scientists',
-    text:'PolitiFact tracked fourteen people and found the claim that nearly all worked together unsupported: employers spanned NASA, LANL, USAF, MIT, Caltech and private firms, and no public confirmation exists that any accessed classified UAP or nuclear-weapons programmes. Specific corrections adopted into this file: Casias was an administrative assistant, Chavez was retired, Hicks studied comets and asteroids, Grillmair studied dark matter and exoplanets. Snopes called the conspiracy framing purely conjecture.' },
-];
+/* The parent board's COUNTERS array was removed here; viewCounterargs is
+   built from this board's own denial edges. See build_dashboard.py 4l2. */
 function viewCounterargs(v){
   const den = PROGRAM_EDGES.filter(e => e.type === 'denial');
   const cov = TIMELINE.filter(t => t.strand === 'coverup')
