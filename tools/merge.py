@@ -589,10 +589,10 @@ PRIMARY_URL_PAT = re.compile(
     r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
     r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
     r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
-    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+    r"nsf\.gov|nasa\.gov|cnes\.fr|patents\.google|uspto\.gov|doi\.org|"
     # other governments, all of them already cited on this board
     r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
-    r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
+    r"leg\.br|\.gouv\.fr|legifrance|assemblee-nationale\.fr|senat\.fr|europa\.eu|"
     # third-party hosts of released government documents.
     #
     # archive.org is NOT a primary host in general -- it serves commercially

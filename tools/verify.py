@@ -325,9 +325,9 @@ def _edge_tier_sourcing(b, html):
         r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
         r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
         r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
-        r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+        r"nsf\.gov|nasa\.gov|cnes\.fr|patents\.google|uspto\.gov|doi\.org|"
         r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
-        r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
+        r"leg\.br|\.gouv\.fr|legifrance|assemblee-nationale\.fr|senat\.fr|europa\.eu|"
         r"theblackvault\.com|irp\.fas\.org|archive\.org/details/DTIC_", _re.I)
     bad = []
     for e in b["edges"]:
