@@ -8122,7 +8122,7 @@
     "Senate Majority Leader (2021-2025)",
     "Senate Minority Leader (2025- )"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 204 of 956, score 40). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 205 of 956, score 40). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
    "chronology": [
     {
      "date": "2023-07-13",
@@ -14610,7 +14610,7 @@
     "U.S. Senate, Mississippi (2007- )",
     "Chairman, Senate Armed Services Committee (2025- )"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 227 of 956, score 38). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 228 of 956, score 38). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
    "chronology": [
     {
      "date": "2025-12-18",
@@ -14833,7 +14833,7 @@
     "U.S. Senate, Kentucky (1985- )",
     "Senate Republican Leader (2007-2025)"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 205 of 956, score 40). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 206 of 956, score 40). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.",
    "chronology": [
     {
      "date": "2023-11-27",
@@ -19086,7 +19086,7 @@
     "Commanding General, Eighth Air Force (1947-1948)",
     "US Air Force, later Lieutenant General"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 218 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 219 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.",
    "chronology": [
     {
      "date": "1947-07-08",
@@ -19170,7 +19170,7 @@
     "House Science Committee",
     "US House of Representatives, New Mexico 1st district (1989-1998)"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 228 of 956, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 229 of 956, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
    "chronology": [
     {
      "date": "1993-01-01",
@@ -19747,7 +19747,7 @@
     "Northwestern University, Department of Astronomy chair (1960-1978)",
     "Center for UFO Studies, founder (1973)"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 219 of 956, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 220 of 956, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.",
    "chronology": [
     {
      "date": "1948-01-01",
@@ -25074,7 +25074,7 @@
     "TRW Systems (1969-1970)",
     "McDonnell Douglas"
    ],
-   "tierRationale": "Re-graded B on a global pass (rank 229 of 956, score 38). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 182 of 956, score 42). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
    "chronology": [
     {
      "date": "1934-07-29",
@@ -25135,6 +25135,16 @@
     },
     {
      "tier": 2,
+     "text": "CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as 'a nuclear physicist by training' who 'had devoted his life to researching and investigating UFOs since the late 1960s'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day.",
+     "source": "CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588"
+    },
+    {
+     "tier": 2,
+     "text": "Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online.",
+     "source": "CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664"
+    },
+    {
+     "tier": 2,
      "text": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power.",
      "source": "Wikipedia biography, sourced to Friedman's own published CV and obituaries — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement"
     },
@@ -25163,6 +25173,16 @@
     {
      "name": "Stanton T. Friedman, 'Top Secret/MAJIC' (New York: Marlowe & Co., 1996), ISBN 1569248303",
      "url": "https://archive.org/details/topsecretmajic0000frie",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "CBC News, 'Stanton Friedman, famed UFO researcher, dead at 84', 14 May 2019",
+     "url": "https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "CBC News, 'Archivist delighted to comb through mountain of late UFO researcher's records', 13 October 2019",
+     "url": "https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664",
      "date": "2026-08-25"
     },
     {
@@ -33590,7 +33610,7 @@
     },
     {
      "tier": 1,
-     "text": "Sec. 6802(j)(1)(B)(i) fixes the period of inquiry: the report 'shall focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection'.",
+     "text": "Sec. 6802(j)(1)(B)(i) fixes the period of inquiry: the report shall 'focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection'.",
      "source": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
     },
     {
@@ -33621,7 +33641,7 @@
     {
      "tier": 3,
      "text": "The statute requires ONE Historical Record Report, not a series. The division into 'Volume I' and 'Volume II' is AARO's own construction, and AARO tied Volume II to 'the date established in Section 6802' - which is the same 540-day date, 15 June 2024. On the statute's own terms the Historical Record Report requirement has been only partially discharged since 15 June 2024. Reasoning: Sec. 6802(j)(1)(A) text compared against HRR Vol I pp. 6 and 45.",
-     "source": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm"
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm ; phrase quoted is AARO's, from HRR Volume I pp. 6 and 45 — https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
     },
     {
      "tier": 3,
@@ -33669,6 +33689,11 @@
      "name": "Wayback capture of the govinfo PLAW-117publ263 text",
      "url": "https://web.archive.org/web/2024/https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm",
      "date": "2024-01-01"
+    },
+    {
+     "name": "phrase quoted is AARO's, from HRR Volume I pp. 6 and 45",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+     "date": null
     }
    ],
    "_domains": [
@@ -34963,7 +34988,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 182 of 956, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 183 of 956, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -36200,7 +36225,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 183 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 184 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.",
    "claims": [
     {
      "tier": 1,
@@ -39078,7 +39103,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 194 of 956, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+   "tierRationale": "Re-graded B on a global pass (rank 195 of 956, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -39174,7 +39199,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 206 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+   "tierRationale": "Re-graded B on a global pass (rank 207 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -39601,7 +39626,7 @@
    "dateEnd": "2012",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 220 of 956, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 221 of 956, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -40721,7 +40746,7 @@
    "dateEnd": "2020",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 184 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 185 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -41319,7 +41344,7 @@
    "dateEnd": "1949",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 221 of 956, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 222 of 956, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -41379,7 +41404,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 185 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 186 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -41599,7 +41624,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 207 of 956, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 208 of 956, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
    "claims": [
     {
      "tier": 1,
@@ -41804,7 +41829,7 @@
    "dateEnd": "1949",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 186 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 187 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.",
    "claims": [
     {
      "tier": 1,
@@ -41934,7 +41959,7 @@
    "dateEnd": "1983",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 187 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 188 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -42423,7 +42448,7 @@
    "dateEnd": "2026",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 188 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 189 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
    "claims": [
     {
      "tier": 2,
@@ -44969,7 +44994,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 208 of 956, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 209 of 956, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -45495,7 +45520,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 189 of 956, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 190 of 956, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
    "claims": [
     {
      "tier": 2,
@@ -46796,7 +46821,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 195 of 956, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 196 of 956, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.",
    "claims": [
     {
      "tier": 2,
@@ -46861,7 +46886,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 209 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 210 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -48145,7 +48170,7 @@
    "dateEnd": "2023",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 196 of 956, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 197 of 956, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -49954,7 +49979,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 197 of 956, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 198 of 956, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -50971,7 +50996,7 @@
    "claims": [
     {
      "tier": 1,
-     "text": "Section title and scope: '50 U.S.C. 3348. Reports relating to certain special access programs and similar programs.' Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.",
+     "text": "Section title and scope: 50 U.S.C. 3348, 'Reports relating to certain special access programs and similar programs'. Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.",
      "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm"
     },
     {
@@ -51223,7 +51248,7 @@
     },
     {
      "tier": 1,
-     "text": "32 CFR 117.3(b) defines SAP verbatim: 'Special access program (SAP) means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.'",
+     "text": "32 CFR 117.3(b) defines SAP verbatim: 'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.'",
      "source": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3"
     },
     {
@@ -51792,7 +51817,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 198 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 199 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -52680,7 +52705,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 210 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 211 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -52766,12 +52791,12 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 199 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 200 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
    "claims": [
     {
      "tier": 1,
      "text": "The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to 'the chairman and ranking minority member of each of the defense committees' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.",
-     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm"
+     "source": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm ; quoted words are 10 U.S.C. 119(e)(2) — https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm"
     },
     {
      "tier": 1,
@@ -55437,7 +55462,7 @@
    "dateEnd": "2023",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 200 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 201 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -55810,7 +55835,7 @@
    "dateEnd": "2015",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 201 of 956, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 202 of 956, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.",
    "claims": [
     {
      "tier": 2,
@@ -56895,7 +56920,7 @@
     },
     {
      "tier": 3,
-     "text": "The demand covers 'records transfers, destruction, or withholding' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.",
+     "text": "The demand reaches records MITRE has 'created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.",
      "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"
     }
    ],
@@ -57546,7 +57571,7 @@
    "dateEnd": "2024",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 211 of 956, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 212 of 956, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -59362,7 +59387,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 222 of 956, score 39). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 223 of 956, score 39). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -59549,7 +59574,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 223 of 956, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+   "tierRationale": "Re-graded B on a global pass (rank 224 of 956, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -60626,7 +60651,7 @@
    "dateEnd": "1947",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 190 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 191 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -60744,7 +60769,7 @@
    "dateEnd": "1948",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 212 of 956, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 213 of 956, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -62005,7 +62030,7 @@
    "dateEnd": "1982",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 224 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 225 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -62862,7 +62887,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 213 of 956, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 214 of 956, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
    "claims": [
     {
      "tier": 2,
@@ -63014,7 +63039,7 @@
    "dateEnd": "2026",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 202 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 203 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.",
    "claims": [
     {
      "tier": 2,
@@ -63947,7 +63972,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 225 of 956, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+   "tierRationale": "Re-graded B on a global pass (rank 226 of 956, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
    "claims": [
     {
      "tier": 1,
@@ -64657,7 +64682,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 214 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 215 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -66682,7 +66707,7 @@
     {
      "tier": 1,
      "text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
-     "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)"
+     "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)"
     },
     {
      "tier": 1,
@@ -66737,7 +66762,7 @@
    ],
    "sources": [
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },
@@ -66747,8 +66772,8 @@
      "date": null
     },
     {
-     "name": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
-     "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "date": null
     },
     {
@@ -67286,7 +67311,7 @@
     },
     {
      "tier": 2,
-     "text": "Because 119(e)(1) reaches only 'a requirement under subsection (a), (b), or (c),' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.",
+     "text": "Because 119(e)(1) reaches only 'any requirement under subsection (a), (b), or (c)' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.",
      "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
     },
     {
@@ -68827,7 +68852,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 215 of 956, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 216 of 956, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
    "claims": [
     {
      "tier": 1,
@@ -69485,7 +69510,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 216 of 956, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 217 of 956, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
    "claims": [
     {
      "tier": 1,
@@ -71297,7 +71322,7 @@
    "dateEnd": "1996-01-20",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 191 of 956, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.",
+   "tierRationale": "Re-graded B on a global pass (rank 192 of 956, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.",
    "claims": [
     {
      "tier": 2,
@@ -72490,7 +72515,7 @@
     -104.523
    ],
    "locLabel": "Roswell, New Mexico, USA",
-   "tierRationale": "Re-graded B on a global pass (rank 226 of 956, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 227 of 956, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.",
    "claims": [
     {
      "tier": 1,
@@ -73573,7 +73598,7 @@
    "dateEnd": "1995",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 217 of 956, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 218 of 956, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
    "claims": [
     {
      "tier": 2,
@@ -73799,7 +73824,7 @@
    "dateEnd": "1997",
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 192 of 956, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.",
+   "tierRationale": "Re-graded B on a global pass (rank 193 of 956, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.",
    "claims": [
     {
      "tier": 1,
@@ -75384,7 +75409,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 193 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+   "tierRationale": "Re-graded B on a global pass (rank 194 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
    "claims": [
     {
      "tier": 1,
@@ -75620,7 +75645,7 @@
    "dateEnd": null,
    "coords": null,
    "locLabel": null,
-   "tierRationale": "Re-graded B on a global pass (rank 203 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
+   "tierRationale": "Re-graded B on a global pass (rank 204 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.",
    "claims": [
     {
      "tier": 1,
@@ -104980,7 +105005,7 @@
    "note": "The Arquivo Nacional's own notice identifies the holding as 'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional's Brasília unit. RQS 193/2022 states the transfer route directly: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
    "sources": [
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },
@@ -105021,7 +105046,7 @@
    "note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.",
    "sources": [
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },
@@ -105129,7 +105154,7 @@
      "date": null
     },
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },
@@ -105438,7 +105463,7 @@
    "note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
    "sources": [
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },
@@ -105536,7 +105561,7 @@
    "note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
    "sources": [
     {
-     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
+     "name": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional",
      "url": "",
      "date": null
     },

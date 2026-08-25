@@ -210,6 +210,23 @@ Two things worth knowing before you start:
 
 ## 12. Data spot-checks — do at least five
 
+> **PARTLY AUTOMATED, 25 August 2026.** `python3 tools/spot_check.py` now runs the
+> mechanical half of this section at full scale instead of five at random: every claim
+> that quotes a phrase of four or more words and cites a URL must have that phrase in
+> the document it cites. 604 claims qualify. **No fabricated source was found.** Of the
+> 283 this environment could adjudicate, 278 quote their source correctly; five real
+> citation defects were found and fixed, and eight rotted `gov.br` URLs repointed.
+> See `notes/SPOT-CHECK-2026-08-25.md`, which also records the four bugs the check
+> found in itself before it could be trusted.
+>
+> **It does not replace the rows below.** It cannot check paraphrase, it cannot read
+> scanned FOIA PDFs (41 DIRD quotes are OCR-degraded past matching, and the board is
+> quoting them correctly), and 281 claims sit on hosts this environment cannot open --
+> `dia.mil` and `aaro.mil` between them hold 129 of those and serve WebFetch but refuse
+> curl, which is the obvious next pass. It is deliberately NOT in the build gate: it
+> depends on the network, and a check that fails because a host is throttling is a
+> check people learn to ignore.
+
 Pick five claims at random from five different views and verify against the source. You are
 checking two things: that the URL resolves, and that the claim says what the source says.
 

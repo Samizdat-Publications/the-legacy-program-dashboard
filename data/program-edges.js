@@ -23295,7 +23295,7 @@ export const PROGRAM_EDGES = [
     note: 'The Arquivo Nacional\'s own notice identifies the holding as \'o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)\', produced by the Comando da Aeronáutica and held by the Arquivo Nacional, comprising 743 registros. DFANBSB is the archival code for the Arquivo Nacional\'s Brasília unit. RQS 193/2022 states the transfer route directly: \'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília.\' [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
-        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
         url: '',
         date: null
       },
@@ -23328,7 +23328,7 @@ export const PROGRAM_EDGES = [
     note: 'The document\'s own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.',
     sources: [
       {
-        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
         url: '',
         date: null
       },
@@ -23412,7 +23412,7 @@ export const PROGRAM_EDGES = [
         date: null
       },
       {
-        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
         url: '',
         date: null
       },
@@ -23685,7 +23685,7 @@ export const PROGRAM_EDGES = [
     note: 'COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]',
     sources: [
       {
-        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
         url: '',
         date: null
       },
@@ -23763,7 +23763,7 @@ export const PROGRAM_EDGES = [
     note: 'COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.',
     sources: [
       {
-        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
         url: '',
         date: null
       },

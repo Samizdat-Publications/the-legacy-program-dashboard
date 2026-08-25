@@ -318,5 +318,14 @@ Two were found on 24 August by accident, while looking for something else.
    Witnesses default to the class letter — a private person who testified has not licensed
    their likeness.
 8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
-9. **TESTING-CHECKLIST.md §12 source spot-checks** — never started. 25 spot-checks have been
-   done ad hoc with zero fabricated sources found, but the systematic pass is outstanding.
+9. ~~**TESTING-CHECKLIST.md §12 source spot-checks**~~ **DONE for the mechanical half,
+   25 August 2026.** `tools/spot_check.py` asserts that every claim quoting a phrase of
+   four or more words has that phrase in the document it cites -- 604 claims qualify.
+   **No fabricated source was found.** 278 of the 283 adjudicable claims quote their
+   source correctly; five real citation defects were found and fixed and eight rotted
+   `gov.br` URLs repointed. `notes/SPOT-CHECK-2026-08-25.md`.
+   **What is left is the part a script cannot do here:** 281 claims sit on hosts this
+   environment cannot open, and `dia.mil` and `aaro.mil` hold 129 of them. Both serve
+   WebFetch and refuse curl, so those are checkable by hand from this session and are
+   the largest block of unverified quotation on the board. The tool is deliberately not
+   in the build gate -- it depends on the network.

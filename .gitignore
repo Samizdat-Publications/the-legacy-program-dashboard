@@ -7,3 +7,6 @@ tools/_pristine-board.json
 # Local GitHub credential. Never commit.
 .gh-token
 .gh-token.txt
+
+# spot_check.py fetch cache — network artefacts, not board state
+tools/.spot-cache/

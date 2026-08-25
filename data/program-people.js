@@ -7267,7 +7267,7 @@ export const PEOPLE = [
       'Senate Majority Leader (2021-2025)',
       'Senate Minority Leader (2025- )'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 204 of 956, score 40). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 205 of 956, score 40). 5 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     chronology: [
       {
         date: '2023-07-13',
@@ -13032,7 +13032,7 @@ export const PEOPLE = [
     domains: ['d-legislative', 'd-oversight', 'd-records'],
     narrative: 'Wicker holds the senior of the twelve seats that 10 U.S.C. 119(e)(2) designates. As chairman of the Senate Armed Services Committee he is entitled, jointly with his ranking member, to receive any special access program information the Secretary of Defense withholds from a section 119 report under the waiver authority, together with the Secretary\'s written justification for withholding it. He is also among the members entitled to the notification required by 119(f) before any SAP may be initiated, and to the classification-change reports required by 119(c) - the one category of report to which the waiver still attaches after the 2021 termination of subsections (a) and (b). Wicker is on the board for a structural reason rather than a UAP-specific one, and the absence of a UAP record is itself the point: he occupies one of only twelve offices in the United States government with a statutory entitlement to see inside a waived DoD special access program, and there is no public record of him having stated what he has or has not been shown. He was in the same twelve-member set during the 118th Congress, when he sat as ranking member opposite Jack Reed - meaning he held a 119(e)(2) seat at the time of the July 2023 Grusch testimony before the House Oversight Committee, a committee that has no entitlement under section 119 at all. His continuity across both configurations, ranking member then chairman, makes him the longest-serving current occupant of a 119(e)(2) seat on the Senate armed services side.',
     affiliations: ['U.S. Senate, Mississippi (2007- )', 'Chairman, Senate Armed Services Committee (2025- )'],
-    tierRationale: 'Re-graded B on a global pass (rank 227 of 956, score 38). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 228 of 956, score 38). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     chronology: [
       {
         date: '2025-12-18',
@@ -13226,7 +13226,7 @@ export const PEOPLE = [
     domains: ['d-legislative', 'd-oversight', 'd-records'],
     narrative: 'McConnell chairs the Senate Appropriations Defense Subcommittee, a body that 10 U.S.C. 119(g)(1) names explicitly as one of the six defense committees. This is the seat that distinguishes the section 119 group from the 10 U.S.C. 101(a)(16) definition of congressional defense committees, which does not reach the Defense Subcommittees. McConnell is in the waived-SAP circle because section 119 uses its own broader definition. McConnell is also the clearest illustration of how the two small groups diverge over time for the same person. As Senate majority leader and later minority leader he was a member of the Gang of Eight under 50 U.S.C. 3093(c)(2) by virtue of his leadership office, seeing covert action findings the armed services committees never saw. He now sits in the 119(e)(2) group by virtue of a subcommittee gavel, seeing waived DoD special access program material that the intelligence committees have no statutory entitlement to. The two entitlements are disjoint and neither implies the other. For a board arguing that a waived programme can be concealed from Congress, McConnell is the counter-example worth naming: a single member who has occupied seats in both restricted-notification regimes, and whose combined sight lines are still bounded by whether the activity in question was characterised as a DoD special access program at all.',
     affiliations: ['U.S. Senate, Kentucky (1985- )', 'Senate Republican Leader (2007-2025)'],
-    tierRationale: 'Re-graded B on a global pass (rank 205 of 956, score 40). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 206 of 956, score 40). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     chronology: [
       {
         date: '2023-11-27',
@@ -16910,7 +16910,7 @@ export const PEOPLE = [
     domains: ['d-legacy', 'd-coverup', 'd-recovery'],
     narrative: 'Brigadier General Roger Ramey commanded the Eighth Air Force at Fort Worth Army Air Field and executed the retraction. Within hours of the RAAF press release he convened press at his office, displayed weather balloon and radar target material with Col. Thomas DuBose and weather officer Irving Newton, and killed the story nationally. The speed matters: a general officer commanding a numbered air force personally fronted a same-day correction of a subordinate unit\'s announcement, which is not routine public affairs practice — it is damage control at a level authorised from above. The Ramey office photographs taken by J. Bond Johnson of the Fort Worth Star-Telegram are the only contemporaneous images in the case, and one of them shows a sheet of paper in Ramey\'s hand whose partially legible text has been the subject of decades of imaging analysis without resolution. Ramey\'s counterpart action is the model for every later official retraction on this subject: assert a mundane explanation quickly, at a high enough rank that the press treats it as settled, and never revisit it.',
     affiliations: ['Commanding General, Eighth Air Force (1947-1948)', 'US Air Force, later Lieutenant General'],
-    tierRationale: 'Re-graded B on a global pass (rank 218 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 219 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D0.',
     chronology: [
       {
         date: '1947-07-08',
@@ -16982,7 +16982,7 @@ export const PEOPLE = [
       'House Science Committee',
       'US House of Representatives, New Mexico 1st district (1989-1998)'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 228 of 956, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 229 of 956, score 38). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1993-01-01',
@@ -17469,7 +17469,7 @@ export const PEOPLE = [
       'Northwestern University, Department of Astronomy chair (1960-1978)',
       'Center for UFO Studies, founder (1973)'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 219 of 956, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 220 of 956, score 39). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     chronology: [
       { date: '1948-01-01', event: 'Retained as scientific consultant to Project SIGN', precision: 'year' },
       {
@@ -22145,7 +22145,7 @@ export const PEOPLE = [
       'TRW Systems (1969-1970)',
       'McDonnell Douglas'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 229 of 956, score 38). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 182 of 956, score 42). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     chronology: [
       { date: '1934-07-29', event: 'Born in Elizabeth, New Jersey', precision: 'day' },
       {
@@ -22198,6 +22198,16 @@ export const PEOPLE = [
       },
       {
         tier: 2,
+        text: 'CBC News reports that Friedman died suddenly at Toronto Pearson Airport on the Monday night of 13 May 2019, aged 84, while returning from a speaking engagement in Columbus, Ohio, and describes him as \'a nuclear physicist by training\' who \'had devoted his life to researching and investigating UFOs since the late 1960s\'. The City of Fredericton declared 27 August 2007 Stanton Friedman Day.',
+        source: 'CBC News, 14 May 2019 https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588'
+      },
+      {
+        tier: 2,
+        text: 'Friedman began donating his research collection to the Provincial Archives of New Brunswick in the months before his death. Archivist Joanna Aiton-Kerr told CBC the archives had received about 300 boxes -- roughly 60 metres laid end to end -- and expected several more cargo vans. This is where the primary material behind his Roswell and MJ-12 work now sits, and it is not online.',
+        source: 'CBC News, 13 October 2019 https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664'
+      },
+      {
+        tier: 2,
         text: 'Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power.',
         source: 'Wikipedia biography, sourced to Friedman\'s own published CV and obituaries — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement'
       },
@@ -22226,6 +22236,16 @@ export const PEOPLE = [
       {
         name: 'Stanton T. Friedman, \'Top Secret/MAJIC\' (New York: Marlowe & Co., 1996), ISBN 1569248303',
         url: 'https://archive.org/details/topsecretmajic0000frie',
+        date: '2026-08-25'
+      },
+      {
+        name: 'CBC News, \'Stanton Friedman, famed UFO researcher, dead at 84\', 14 May 2019',
+        url: 'https://www.cbc.ca/news/canada/new-brunswick/stanton-friedman-ufologist-dead-1.5135588',
+        date: '2026-08-25'
+      },
+      {
+        name: 'CBC News, \'Archivist delighted to comb through mountain of late UFO researcher\'s records\', 13 October 2019',
+        url: 'https://www.cbc.ca/news/canada/new-brunswick/provincial-archives-stanton-friedman-records-1.5315664',
         date: '2026-08-25'
       },
       {
