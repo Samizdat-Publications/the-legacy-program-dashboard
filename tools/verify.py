@@ -37,7 +37,7 @@ Usage:
     python3 tools/verify.py --update-golden  # deliberately accept new counts
 """
 
-import json, os, re, sys, subprocess, hashlib
+import json, os, re, sys, subprocess, hashlib, copy
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools"))
@@ -738,6 +738,335 @@ def measure(b):
     }
 
 
+# ---------------------------------------------------------------------------
+# Design's nine checks, from notes/design-2026-08-24/DESIGN-RESPONSE-LAYOUT §5.
+#
+# They assert against data/l0-layout-model.json, which is a build product on disk
+# rather than something embedded in the built page -- the packed-cell layout is
+# generated but not yet rendered. So these need their own poison channel, the way
+# the scripted-analyst check needs BREAK=1: _LAYOUT_OVERRIDE, set by self_test().
+# ---------------------------------------------------------------------------
+
+LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
+_LAYOUT_OVERRIDE = None
+
+
+def _layout():
+    """The layout model, or the poisoned stand-in during --self-test."""
+    if _LAYOUT_OVERRIDE is not None:
+        return _LAYOUT_OVERRIDE
+    if not os.path.exists(LAYOUT):
+        return None
+    with open(LAYOUT, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _datasets(m):
+    """Both baked datasets. `current` is authoritative; `legacy` is the superseded
+    96-node snapshot, kept so the editorial layer cannot be silently trimmed to the
+    intersection of the two."""
+    return [(k, m[k]) for k in ("current", "legacy") if isinstance(m.get(k), dict)]
+
+
+@check("L0 degree is distinct neighbours, not edge instances")
+def _dz_degree(b, html):
+    """Design: `degree_is_distinct_neighbours`. Must reject a model baked from the
+    extract's `deg` field, which counts edge INSTANCES.
+
+    This is trap #2 in the handoff and it has already cost a session: 94 node pairs
+    on this board carry more than one hand-written edge, so counting instances
+    published '107 L0 nodes' when the answer was 96. A floor of 6 applied to the
+    wrong quantity admits nodes that do not belong on the map at all.
+
+    Asserts two things: every shipped node's `deg` equals the distinct-neighbour
+    count recomputed from the board, and every shipped node clears the stated floor.
+    It does NOT assert set equality with a naive recomputation -- build_l0 excludes
+    routed and path-only entities, so the derived superset is legitimately larger."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    nb = {}
+    for e in b["edges"]:
+        a, z = e.get("a"), e.get("b")
+        if a and z and a != z:
+            nb.setdefault(a, set()).add(z)
+            nb.setdefault(z, set()).add(a)
+    bad = []
+    for key, d in _datasets(m):
+        if key != "current":
+            continue            # only `current` is derived from the shipped board
+        floor = (d.get("config") or {}).get("floor")
+        if floor is None:
+            bad.append("the layout model states no floor")
+            continue
+        for n in d.get("nodes") or []:
+            actual = len(nb.get(n["id"], ()))
+            if n.get("deg") != actual:
+                bad.append(f"{n['id']}: model deg {n.get('deg')} but {actual} distinct "
+                           f"neighbours on the board -- looks like edge instances")
+            if actual < floor:
+                bad.append(f"{n['id']} is on the map with {actual} distinct neighbours, "
+                           f"below the floor of {floor}")
+    return bad[:40]
+
+
+@check("every layout figure recomputes from the model")
+def _dz_figures(b, html):
+    """Design: `figures_match_model`. Must reject any hand-edited figure.
+
+    Every number quoted in the design write-up is supposed to be read out of the
+    model rather than typed. A typed figure is a claim that goes stale silently --
+    the same fault that put 'ENTITIES 976' in the QA checklist and sent testers to
+    rebuild a board that was already correct."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        f, nodes, edges = d.get("figures") or {}, d.get("nodes") or [], d.get("edges") or []
+        want = {
+            "l0": len(nodes),
+            "directEdges": sum(1 for e in edges if e.get("kind") == "direct"),
+            "summarisedEdges": sum(1 for e in edges if e.get("kind") == "shared"),
+            "drawnBeforeBudget": len(edges),
+            "restDrawn": sum(1 for e in edges if e.get("rest")),
+            "isolated": sum(1 for n in nodes if n.get("isolated")),
+        }
+        for k, v in want.items():
+            if k in f and f[k] != v:
+                bad.append(f"{key}.figures.{k} says {f[k]}, the model itself gives {v}")
+    return bad[:40]
+
+
+@check("no L0 node with a link is left without a line")
+def _dz_no_bare(b, html):
+    """Design: `no_node_without_a_line`. Must reject clause 1 shipped without clause
+    2, which reaches 50 of 110 nodes and leaves 60 bare.
+
+    The edge budget exists to stop the map being a hairball. The failure mode it
+    introduces is the opposite one: a node drawn with no line at all, which reads as
+    'unconnected' when it means 'its lines lost the budget'."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        for n in d.get("nodes") or []:
+            if (n.get("allEdges") or 0) > 0 and (n.get("restEdges") or 0) == 0:
+                bad.append(f"{key}: {n['id']} has {n['allEdges']} L0-level edges and none "
+                           f"drawn at rest -- it renders bare and reads as unconnected")
+    return bad[:40]
+
+
+@check("absent prints as absent")
+def _dz_absent(b, html):
+    """Design: `absent_prints_as_absent`. Must reject placing an undated node in an
+    era column, or an `isolated` count dropping to 0 without those nodes gaining a
+    real edge.
+
+    A node with no date and a node with no link are both facts. Hiding either one --
+    by parking it in the nearest era, or by quietly reclassifying it -- turns a gap
+    into a false positive."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        eras = d.get("eras") or []
+        nodate = [e for e in eras if e.get("kind") == "nodate"]
+        if not nodate:
+            bad.append(f"{key}: no NO DATE column -- undated nodes have nowhere honest to go")
+        elif not (nodate[0].get("label") or "").strip():
+            bad.append(f"{key}: the NO DATE column carries no label")
+        # Placement is `col`, not `era`: an undated node has era None and col "nd".
+        # Asserting on `era` reads the absence of an era as a missing placement and
+        # false-positives on five correctly placed nodes -- which is what the first
+        # version of this check did.
+        nd_ids = {e.get("id") for e in nodate}
+        nd_span = {e.get("id"): (e.get("x"), (e.get("x") or 0) + (e.get("w") or 0))
+                   for e in nodate}
+        for n in d.get("nodes") or []:
+            undated = n.get("y0") in (None, "")
+            col = n.get("col")
+            in_nd = col in nd_ids
+            if undated and not in_nd:
+                bad.append(f"{key}: {n['id']} has no dateStart but sits in column "
+                           f"{col!r} rather than NO DATE")
+            if in_nd and not undated:
+                bad.append(f"{key}: {n['id']} is dated {n.get('y0')} but sits in NO DATE")
+            if in_nd and isinstance(n.get("x"), int):
+                lo, hi = nd_span.get(col, (None, None))
+                if lo is not None and not (lo <= n["x"] <= hi):
+                    bad.append(f"{key}: {n['id']} is assigned to NO DATE but sits at "
+                               f"x={n['x']}, outside that column's {lo}-{hi}")
+            if bool(n.get("isolated")) != ((n.get("allEdges") or 0) == 0):
+                bad.append(f"{key}: {n['id']} isolated={n.get('isolated')} but carries "
+                           f"{n.get('allEdges')} L0-level edges -- the marker and the data disagree")
+    return bad[:40]
+
+
+@check("chip size is not a channel")
+def _dz_no_size(b, html):
+    """Design: `no_size_channel`. Must reject any model where the set of distinct chip
+    widths or heights has more than one member.
+
+    Size is the channel a reader reads as importance without being told to. This map
+    scores entities on three axes that are deliberately never summed, so a single
+    size channel would collapse exactly what the axes keep apart. Every chip is the
+    same size on purpose."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        nodes = d.get("nodes") or []
+        if not nodes:
+            continue
+        ws = {n.get("w") for n in nodes}
+        hs = {n.get("h") for n in nodes}
+        if len(ws) != 1 or len(hs) != 1:
+            bad.append(f"{key}: chips come in {len(ws)} widths and {len(hs)} heights "
+                       f"({sorted(ws)[:4]} x {sorted(hs)[:4]}) -- size has become a channel")
+            continue
+        geo = (d.get("config") or {}).get("geo") or {}
+        if geo.get("chipW") is not None and ws != {geo["chipW"]}:
+            bad.append(f"{key}: chips are {ws.pop()} wide, config says {geo['chipW']}")
+        if geo.get("chipH") is not None and hs != {geo["chipH"]}:
+            bad.append(f"{key}: chips are {hs.pop()} tall, config says {geo['chipH']}")
+    return bad[:40]
+
+
+@check("layout positions are grid-derived, not force-derived")
+def _dz_deterministic(b, html):
+    """Design: `layout_is_deterministic`. Must reject a re-introduced force pass.
+
+    `--idempotent` already builds twice and requires byte-identical output, which
+    catches non-determinism across runs. This catches its cause in a single run: a
+    force simulation settles on fractional coordinates and drifts outside the cell
+    grid, where a packed layout emits integers inside declared bounds."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        ww, wh = d.get("worldW"), d.get("worldH")
+        if not isinstance(ww, int) or not isinstance(wh, int):
+            bad.append(f"{key}: world bounds are not integers ({ww}x{wh})")
+            continue
+        for n in d.get("nodes") or []:
+            x, y = n.get("x"), n.get("y")
+            if not isinstance(x, int) or not isinstance(y, int):
+                bad.append(f"{key}: {n['id']} sits at ({x}, {y}) -- fractional coordinates "
+                           f"mean something is settling, not packing")
+            elif not (0 <= x <= ww and 0 <= y <= wh):
+                bad.append(f"{key}: {n['id']} at ({x}, {y}) is outside the world {ww}x{wh}")
+    return bad[:40]
+
+
+@check("motion is attested, not decorative")
+def _dz_motion(b, html):
+    """Design: `motion_only_where_attested`. Must reject a time-direction flow on
+    every line.
+
+    A particle travelling along a path reads as a claim that something moved that
+    way. The board can attest exactly one such claim -- a denial, which has a
+    direction because someone denied something to someone -- plus the selection
+    highlight, which is the reader's own act rather than an assertion.
+
+    Asserts the model marks denials explicitly and consistently with the edge's own
+    types, and carries no second, undirected motion flag for a renderer to key on."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    banned = ("flow", "particle", "animate", "direction", "pulse")
+    bad = []
+    for key, d in _datasets(m):
+        for e in d.get("edges") or []:
+            # A summarised (`shared`) edge is a rollup of members two nodes have in
+            # common. It has no relationship type of its own, so it cannot be a
+            # denial and correctly carries no flag. Only typed direct edges can.
+            if e.get("kind") != "direct":
+                if e.get("denial"):
+                    bad.append(f"{key}: summarised edge {e.get('a')}->{e.get('b')} is "
+                               f"marked as a denial -- a rollup asserts no relationship")
+                continue
+            if "denial" not in e:
+                bad.append(f"{key}: direct edge {e.get('a')}->{e.get('b')} carries no "
+                           f"explicit denial flag, so a renderer cannot tell what may move")
+                continue
+            if bool(e["denial"]) != ("denial" in (e.get("types") or [])):
+                bad.append(f"{key}: edge {e.get('a')}->{e.get('b')} is marked "
+                           f"denial={e['denial']} but its types are {e.get('types')}")
+            for k in banned:
+                if k in e:
+                    bad.append(f"{key}: edge {e.get('a')}->{e.get('b')} carries a {k!r} "
+                               f"field -- motion on every line is decoration, not evidence")
+    return bad[:40]
+
+
+@check("highlights are a pointer, not a promotion")
+def _dz_highlights(b, html):
+    """Design: `highlights_are_a_pointer`. Must reject a flag naming an id the floor
+    excluded, or flagging more than 16 of 110.
+
+    The start-here layer is editorial. It is drawn as an offset pointer and is
+    deliberately NOT a property of the record, so that pointing at AARO can never be
+    mistaken for grading AARO. Two things keep that true: a flag may not carry a
+    credibility field, and the layer may not grow large enough to become the map.
+
+    The cap is 15% of the map. Unknown ids are FATAL on the dataset the flags were
+    authored for and merely reported on any other, so the superseded `legacy`
+    snapshot cannot kill the build and nobody is tempted to trim the editorial list
+    down to the intersection of the two."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    credibility = {"tier", "C", "A", "D", "claims", "t1"}
+    bad = []
+    for key, d in _datasets(m):
+        hl = d.get("highlights") or {}
+        flags = hl.get("flags") or []
+        nodes = d.get("nodes") or []
+        ids = {n["id"] for n in nodes}
+        cap = int(len(nodes) * 0.15)
+        if len(flags) > cap:
+            bad.append(f"{key}: {len(flags)} flags on a {len(nodes)}-node map exceeds the "
+                       f"15% cap of {cap} -- the pointer has become the map")
+        authored_for = m.get("default") or "current"
+        for f in flags:
+            stray = credibility & set(f)
+            if stray:
+                bad.append(f"{key}: flag {f.get('id')} carries {sorted(stray)} -- a flag that "
+                           f"sets a credibility field is a promotion, not a pointer")
+            if key == authored_for and f.get("id") not in ids:
+                bad.append(f"{key}: flag names {f.get('id')!r}, which is not on the map")
+    return bad[:40]
+
+
+@check("the layout model stays under the read cap")
+def _dz_read_cap(b, html):
+    """Design: `model_under_read_cap`. Must reject the thing this whole correction was
+    about.
+
+    A tracked, pushed, present file over ~1MB reads as ABSENT over the GitHub read
+    API. That is how a design brief came to cite figures nobody could reproduce, and
+    how Claude Design correctly refused to reproduce them. The model exists at this
+    size so it can be read."""
+    if _LAYOUT_OVERRIDE is not None:
+        raw = json.dumps(_LAYOUT_OVERRIDE)
+        size = len(raw.encode("utf-8"))
+    elif os.path.exists(LAYOUT):
+        size = os.path.getsize(LAYOUT)
+    else:
+        return ["data/l0-layout-model.json is missing"]
+    cap = 1_000_000
+    if size > cap:
+        return [f"the layout model is {size/1e6:.2f}MB, over the ~1MB read cap -- it will "
+                f"read as ABSENT over the GitHub API, which is the failure this file exists "
+                f"to avoid"]
+    return []
+
+
 @check("counts match the golden manifest")
 def _golden(b, html):
     now = measure(b)
@@ -1026,6 +1355,73 @@ def self_test():
                          "routed": [{"id": "e4", "depth": 2, "via": ["ghost"]}]}])),
     })
 
+    # ---- Design's nine, from DESIGN-RESPONSE-LAYOUT-2026-08-24 section 5 ----------
+    # Each poison is the specific input Design named in the "must reject" column.
+    # These checks read a build product on disk rather than the html fixture, so
+    # they get their own channel: _LAYOUT_OVERRIDE, set around the call below.
+    _real = _layout()
+    # Design's checks compare the MODEL against the board it was built from, so the
+    # synthetic fixture is the wrong input for them -- every L0 node would show zero
+    # neighbours and the degree check would false-positive on clean data. It did,
+    # the first time this ran. Give them the real board on both the poisoned and the
+    # clean call; what varies between the two is the model, which is the thing under
+    # test.
+    _real_board = None
+    if os.path.exists(BOARD):
+        with open(BOARD, encoding="utf-8") as fh:
+            _real_board = json.load(fh)
+
+    def lay(mut):
+        """Deep-copy the real layout model and break it one way."""
+        m = copy.deepcopy(_real)
+        mut(m)
+        return m
+
+    def _bloat(m):
+        # the failure this whole correction was about: a model over the read cap
+        m["_bloat"] = ["x" * 4096 for _ in range(300)]
+
+    def _undated_into_an_era(m):
+        for n in m["current"]["nodes"]:
+            if n.get("y0") in (None, ""):
+                n["col"] = 3          # parked in a real era column
+                return
+
+    def _bare_node(m):
+        for n in m["current"]["nodes"]:
+            if (n.get("allEdges") or 0) > 0:
+                n["restEdges"] = 0    # clause 1 without clause 2
+                return
+
+    poison_layout = {} if _real is None else {
+        # a model baked from the extract's `deg` field, which counts edge INSTANCES
+        "L0 degree is distinct neighbours, not edge instances":
+            lay(lambda m: m["current"]["nodes"][0].update(
+                deg=(m["current"]["nodes"][0].get("deg") or 0) + 40)),
+        # a hand-edited figure in the write-up
+        "every layout figure recomputes from the model":
+            lay(lambda m: m["current"]["figures"].update(l0=107)),
+        # clause 1 shipped without clause 2 -- nodes drawn with no line at all
+        "no L0 node with a link is left without a line": lay(_bare_node),
+        # an undated node placed in an era column
+        "absent prints as absent": lay(_undated_into_an_era),
+        # more than one distinct chip size
+        "chip size is not a channel":
+            lay(lambda m: m["current"]["nodes"][0].update(w=260)),
+        # a re-introduced force pass, which settles on fractional coordinates
+        "layout positions are grid-derived, not force-derived":
+            lay(lambda m: m["current"]["nodes"][0].update(x=418.37)),
+        # a time-direction flow on every line
+        "motion is attested, not decorative":
+            lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
+        # a flag naming an id the floor excluded
+        "highlights are a pointer, not a promotion":
+            lay(lambda m: m["current"]["highlights"]["flags"].append(
+                {"id": "not-on-this-map", "why": "x"})),
+        # the model over the ~1MB read cap
+        "the layout model stays under the read cap": lay(_bloat),
+    }
+
     print("self-test — each check must REJECT poisoned input\n")
     ok = True
     for name, fn in CHECKS_RUN:
@@ -1044,6 +1440,15 @@ def self_test():
             finally:
                 os.environ.pop("BREAK", None)
             clean = fn(base, good_html)
+        elif name in poison_layout:
+            global _LAYOUT_OVERRIDE
+            lb = _real_board if _real_board is not None else base
+            _LAYOUT_OVERRIDE = poison_layout[name]
+            try:
+                caught = fn(lb, good_html)
+            finally:
+                _LAYOUT_OVERRIDE = None
+            clean = fn(lb, good_html)
         else:
             b = poisons.get(name, base)
             html = poison_html.get(name, good_html)

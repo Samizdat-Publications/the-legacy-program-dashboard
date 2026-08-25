@@ -77,7 +77,7 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
-python3 tools/verify.py                 # 27 checks
+python3 tools/verify.py                 # 36 checks
 python3 tools/verify.py --self-test     # every check shown rejecting bad input
 node    tools/capture_strip.js          # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py      # 38 checks, deliberately independent
@@ -283,7 +283,13 @@ Two were found on 24 August by accident, while looking for something else.
 5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
    Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
    build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
-6. **Add Design's nine checks** from §5 of their response, each self-tested.
+6. ~~**Add Design's nine checks** from §5 of their response, each self-tested.~~ **DONE,
+   25 August 2026.** All nine, each demonstrated rejecting the exact input Design named
+   in the "must reject" column. They assert against `data/l0-layout-model.json`, which
+   is a build product on disk rather than something embedded in the page, so they get
+   their own poison channel in `--self-test`: `_LAYOUT_OVERRIDE`, the same pattern as
+   the analyst check's `BREAK=1`. Note the model is generated but **not yet rendered** -
+   the checks guard the spec, and item 5 is still to build against it.
 7. **The image sourcing pass** for `data/l0-images.json`. Federal works are the strongest
    candidates (17 U.S.C. 105) but must trace to a `.gov` original, not an aggregator.
    Witnesses default to the class letter — a private person who testified has not licensed
