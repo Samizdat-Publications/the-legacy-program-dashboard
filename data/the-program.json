@@ -111907,6 +111907,153 @@
    ]
   },
   {
+   "a": "william-b-adkins",
+   "b": "cia",
+   "type": "institutional",
+   "label": "CIA officer detailed to NRO advanced systems",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "The NRO's own biography states: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.' The CIA employment and the NRO assignment are the same three years.",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "nasa",
+   "type": "institutional",
+   "label": "Staff Director, House Space and Aeronautics Subcommittee",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "nro",
+   "type": "institutional",
+   "label": "Principal Deputy Director, then Acting Director, NRO",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
+   "sources": [
+    {
+     "name": "National Reconnaissance Office, leadership biography of William B. Adkins",
+     "url": "https://www.nro.gov/About-NRO/Leadership/leadership-adkins/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "harry-reid",
+   "b": "reid-dia-meetings-2008-2009",
+   "type": "institutional",
+   "label": "Reid is the principal behind the 2008-2009 DIA engagements",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+   "sources": [
+    {
+     "name": "AARO, Historical Record Report Volume 1, 8 March 2024",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "date": "2024-03-08"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-edges-people"
+   ]
+  },
+  {
+   "a": "geipan",
+   "b": "cometa",
+   "type": "institutional",
+   "label": "shared IHEDN lineage; SEPRA head contributed",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
+   "sources": [
+    {
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, Introduction",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+     "date": "1999-07-01"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "cometa",
+   "b": "l-paris",
+   "type": "institutional",
+   "label": "IHEDN origin; delivered to the Prime Minister",
+   "claimTier": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+   "sources": [
+    {
+     "name": "COMETA, 'UFOs and Defense: What Should We Prepare For?', 1999, foreword by General Bernard Norlain",
+     "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf",
+     "date": "1999-07-01"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
+   "a": "cefaa",
+   "b": "dgac-chile",
+   "type": "institutional",
+   "label": "created and housed by the DGAC",
+   "claimTier": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+   "sources": [
+    {
+     "name": "DGAC Chile / SEFAA, Historia",
+     "url": "https://sefaa.dgac.gob.cl/historia/",
+     "date": "2026-08-25"
+    }
+   ],
+   "_domains": [
+    "w14-institutional-edges",
+    "w6-international"
+   ]
+  },
+  {
    "a": "trump-truth-social-post-2026-02-20",
    "b": "pete-hegseth",
    "type": "programmatic",
@@ -123329,48 +123476,6 @@
    ]
   },
   {
-   "a": "william-b-adkins",
-   "b": "nro",
-   "type": "institutional",
-   "label": "Principal Deputy Director, then Acting Director, NRO",
-   "claimTier": 1,
-   "dateStart": "2026-01-12",
-   "dateEnd": null,
-   "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "cia",
-   "type": "institutional",
-   "label": "CIA officer detailed to NRO advanced systems",
-   "claimTier": 1,
-   "dateStart": "1997-01-01",
-   "dateEnd": null,
-   "note": "Per his NRO bio: 'From 1997 to 2000, Mr. Adkins worked for the Central Intelligence Agency and was assigned to the NRO in the Advanced Systems and Technology Directorate, where he managed several technology development projects.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
-   "a": "william-b-adkins",
-   "b": "nasa",
-   "type": "institutional",
-   "label": "Staff Director, House Space and Aeronautics Subcommittee",
-   "claimTier": 1,
-   "dateStart": "2001-01-01",
-   "dateEnd": null,
-   "note": "From 2000 to 2006 Adkins served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, leading legislative and oversight activity over NASA and other civilian space agencies.",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
    "a": "andy-biggs",
    "b": "hearing-2023-07-26",
    "type": "legislative",
@@ -123567,20 +123672,6 @@
    ]
   },
   {
-   "a": "harry-reid",
-   "b": "reid-dia-meetings-2008-2009",
-   "type": "institutional",
-   "label": "Reid is the principal behind the 2008-2009 DIA engagements",
-   "claimTier": 1,
-   "dateStart": "2008-01-01",
-   "dateEnd": null,
-   "note": "AARO's Historical Record Report Volume 1 states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.'",
-   "sources": [],
-   "_domains": [
-    "w6-edges-people"
-   ]
-  },
-  {
    "a": "sol-foundation",
    "b": "sol-briefing-3-2026",
    "type": "institutional",
@@ -123638,20 +123729,6 @@
   },
   {
    "a": "geipan",
-   "b": "cometa",
-   "type": "institutional",
-   "label": "shared IHEDN lineage; SEPRA head contributed",
-   "claimTier": 1,
-   "dateStart": "1976",
-   "dateEnd": "1999-07",
-   "note": "COMETA's introduction states that GEPAN was created on the recommendations of a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale, and Jean-Jacques Velasco, then head of SEPRA at CNES, is named among the report's contributors. COMETA also recommended 'developing the actions of SEPRA'.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "geipan",
    "b": "cefaa",
    "type": "investigative",
    "label": "French analysts worked the Chilean Navy FLIR case",
@@ -123659,34 +123736,6 @@
    "dateStart": "2014-11-11",
    "dateEnd": "2017-01",
    "note": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "cometa",
-   "b": "l-paris",
-   "type": "institutional",
-   "label": "IHEDN origin; delivered to the Prime Minister",
-   "claimTier": 3,
-   "dateStart": "1995-03",
-   "dateEnd": "1999",
-   "note": "General Letty took the project to General Norlain at his IHEDN office in March 1995, and the report was subsequently delivered to the head of the French government. Robert Roussel, citing Jospin's chief of staff Olivier Schrameck, states the Prime Minister read and annotated it 'to mark his interest'. The handover route is not established from any primary document, hence tier 3.",
-   "sources": [],
-   "_domains": [
-    "w6-international"
-   ]
-  },
-  {
-   "a": "cefaa",
-   "b": "dgac-chile",
-   "type": "institutional",
-   "label": "created and housed by the DGAC",
-   "claimTier": 1,
-   "dateStart": "1997-10-03",
-   "dateEnd": null,
-   "note": "Created by DGAC Resolución Exenta N° 01599 of 3 October 1997, signed by Director General Gonzalo Miranda Aguirre; reorganised under the Secretaría General from 1 January 2010 by Resolución N° 02/0/01937; renamed SEFAA and moved under the Subdepartamento Comunicacional on 18 October 2021 by Resolución Exenta N° 04/3/0113/1385.",
    "sources": [],
    "_domains": [
     "w6-international"
