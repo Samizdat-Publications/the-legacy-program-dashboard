@@ -274,7 +274,12 @@ Two were found on 24 August by accident, while looking for something else.
    different network vantage would clear most of the 23 in an hour.
 
 4. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
-   stated reason. Show him a table; he cannot read JSON. Cap is 16, so there are 2 slots.
+   stated reason. Cap is 16, so there are 2 slots. **The table is built and waiting for
+   him:** https://claude.ai/code/artifact/ecc7053d-63f5-4d6b-9de4-8e101048671e — all
+   fourteen with their reasoning, tier, and node id, in reading order, with keep/cut
+   marks he can set as he goes. His marks live in his browser only; he reads the summary
+   line back and someone edits the JSON. Do not rebuild this table from scratch; if the
+   flags change, republish that same artifact URL.
 5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
    Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
    build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
