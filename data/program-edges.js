@@ -30754,6 +30754,45 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'l-san-agustin',
+    b: 'roswell-1947',
+    type: 'geographic',
+    label: 'alleged second recovery site (Barnett account)',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady \'Barney\' Barnett\'s reported account, transmitted second-hand and published in Berlitz and Moore\'s \'The Roswell Incident\' (1980). The Air Force\'s own 1995 records review corroborates the route the story travelled - it records that in 1978 \'a UFO researcher, Stanton Friedman, met with Marcel and began investigating\', and that Moore and Berlitz \'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses\'. It does not corroborate the site: \'San Agustin\', \'Barnett\' and \'Maltais\' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, has argued the site has no connection to Roswell at all.',
+    sources: [
+      {
+        name: 'USAF, \'The Roswell Report: Fact versus Fiction in the New Mexico Desert\' (1995), searched in full',
+        url: 'https://archive.org/details/DTIC_ADA326148',
+        date: '1995-01-01'
+      }
+    ]
+  },
+  {
+    a: 'sheffield-hallam',
+    b: 'rendlesham-1980',
+    type: 'custody',
+    label: 'Sheffield Hallam academic curated the MoD file release containing Rendlesham',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Sheffield Hallam describes Clarke as its Journalism Reader and as \'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive\' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as \'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001\'. The custody relationship is documented in the archive\'s own catalogue entry, under his name.',
+    sources: [
+      {
+        name: 'Sheffield Hallam University, C3RI Impact blog, \'Dr David Clarke presents UFO files at The National Archives\', 8 March 2018',
+        url: 'https://blogs.shu.ac.uk/c3riimpact/david-clarke-ufo-files-national-archives/',
+        date: '2018-03-08'
+      },
+      {
+        name: 'The National Archives, \'Unidentified Flying Objects (UFOs)\' research guide',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf',
+        date: '2013-01-01'
+      }
+    ]
+  },
+  {
     a: 'trump-truth-social-post-2026-02-20',
     b: 'pete-hegseth',
     type: 'programmatic',
@@ -39795,17 +39834,6 @@ export const PROGRAM_EDGES = [
     sources: []
   },
   {
-    a: 'sheffield-hallam',
-    b: 'rendlesham-1980',
-    type: 'custody',
-    label: 'Sheffield Hallam academic curated the MoD file release containing Rendlesham',
-    claimTier: 1,
-    dateStart: '2008-01-01',
-    dateEnd: null,
-    note: 'Dr David Clarke, associate professor at Sheffield Hallam University, first obtained MoD documents on the 1980 Rendlesham Forest incident in May 2001 under the Code of Practice for Access to Government Information, then served 2008-2013 as consultant and curator for the MoD/National Archives UFO files project that transferred and opened more than 60,000 pages, including the Rendlesham file at TNA reference DEFE 24/1948.',
-    sources: []
-  },
-  {
     a: 'compass-rose-legal-group',
     b: 'david-grusch',
     type: 'institutional',
@@ -39902,17 +39930,6 @@ export const PROGRAM_EDGES = [
     dateStart: '2023-12-06',
     dateEnd: null,
     note: 'Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location\'s whole reason for being on this board.',
-    sources: []
-  },
-  {
-    a: 'l-san-agustin',
-    b: 'roswell-1947',
-    type: 'geographic',
-    label: 'alleged second recovery site (Barnett account)',
-    claimTier: 3,
-    dateStart: '1947-07-01',
-    dateEnd: null,
-    note: 'The Plains of San Agustin entered the Roswell corpus through Grady \'Barney\' Barnett\'s reported account, transmitted second-hand via Vern and Jean Maltais to Stanton Friedman in October 1978 and published in Berlitz and Moore\'s \'The Roswell Incident\' (1980). The claim is contested by Kevin Randle, who argues the site has no connection to Roswell, and no primary document supports it.',
     sources: []
   },
   {
