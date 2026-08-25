@@ -8,7 +8,13 @@ stale — several of them are, and they are named in §8.
 It is its own repository. `PROJECT.md` says it lives inside the-vanishing; that is no
 longer true.
 
-**Owner:** Stewart. **Last verified state:** 24 August 2026, commit `ad110d7`.
+**Owner:** Stewart.
+
+**Do not trust any figure in this file, or in any other document here.** Run
+`python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
+the gate. The counts below are a sanity anchor, not a source of truth.
+
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-25-claude-code.md` after this.
 
 ---
 
@@ -27,7 +33,8 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | program map (L0) | 110 nodes, all with dossiers |
 | built artifact | `dist/the-program.html`, 13.2 MB |
 
-Regenerate these numbers rather than trusting them; they move every research pass.
+Regenerate these numbers rather than trusting them; they move every research pass:
+`python3 tools/state_snapshot.py`.
 
 ---
 
@@ -69,6 +76,7 @@ python3 tools/build_dashboard.py
 Then the gate:
 
 ```
+python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
 python3 tools/verify.py                 # 18 checks
 python3 tools/verify.py --self-test     # every check shown rejecting bad input
 python3 tools/audit_independent.py      # 38 checks, deliberately independent
@@ -79,9 +87,28 @@ python3 tools/verify.py --idempotent    # slow: builds twice, requires identical
 **All of these must be green before a push.** `--idempotent` is the one that catches a
 whole class of bug: any pass that reads its own previous output back in.
 
-### Windows notes
+### Where you are running
 
-Stewart runs **PowerShell 5.1**. When you hand him a command:
+This project is worked on from three places and they are not interchangeable:
+
+| | can build & test | can push | can **look** at the dashboard |
+|---|---|---|---|
+| **cloud session** (web) | yes | yes, via the GitHub connection | **no** |
+| **local Claude Code** | yes | yes | yes |
+| Stewart, by hand | yes | yes | yes |
+
+**If you are a cloud session, you cannot see the rendered output.** That matters more here
+than in most projects, because §5 below is a list of times a check said one thing and the
+screen said another. Ship visual work, but **never report a visual property as verified**.
+Say "built, gate green, unverified on screen" and hand Stewart the thing to look at. Writing
+"confirmed the labels no longer overlap" when nothing rendered is the same failure as the
+checks that passed while broken.
+
+### Windows notes — for commands you hand Stewart, not for your own shell
+
+A cloud session runs Linux and should use `python3` and forward slashes for itself.
+This section applies only to commands written **for Stewart to paste**. He runs
+**PowerShell 5.1**:
 
 - `&&` is a **syntax error**. One command per line.
 - Always include the `cd`, quoted, so the block is copy-pasteable:
@@ -198,6 +225,16 @@ Two were found on 24 August by accident, while looking for something else.
 ---
 
 ## 9. What is next, in priority order
+
+> **0. FIRST: there is an unmerged branch, `origin/claude/status-update-bewtdk`, carrying
+> 19 commits of data-integrity and sourcing work that never reached `master`** — 88 broken
+> references fixed, 90 unsourced Tier 1 claims cleared, nine duplicate groups collapsed, a
+> 1,198-URL link sweep, ~250 edges sourced, and browser runtime verification. Neither side
+> is a superset. A test merge produces only three conflicts, two of them generated files
+> that resolve by rebuilding. `research/` does not conflict. Full analysis and the two
+> genuine audit failures it exposes: `notes/HANDOFF-2026-08-25-claude-code.md` §2b.
+> **Do not force-push. Do not resolve generated files by picking a side.**
+
 
 1. **The COVER-UP view still carries the sibling board's skeptical record** — the JPL
    matched-denominator argument, the NeuroLogica entry. Same class of bug as the scripted
