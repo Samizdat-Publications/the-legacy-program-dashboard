@@ -331,6 +331,15 @@ Two were found on 24 August by accident, while looking for something else.
    aerospace threats" where the HRR says "long-term and over-the-horizon foreign
    advanced aerospace threats".
 
+   **`python3 tools/spot_check.py --links` is the other half:** a parallel HEAD sweep of
+   every cited URL, 1,324 of them, in minutes. It asks whether the citation still
+   reaches a document at all rather than whether the quote is right. **The board now
+   has zero 4xx and zero 5xx citations.** Three were found dead and repaired on 25
+   August; everything still non-200 is this environment (403 on `.mil`, `web.archive.org`
+   unreachable, 202 bot challenges from `irp.fas.org`) or this crawl rate-limiting
+   itself. Re-run it after any research wave -- link rot is silent and the board carries
+   a lot of it.
+
    **What is left is item 10.** The tool is deliberately not in the build gate -- it
    depends on the network, and a check that fails because a host is throttling is a
    check people learn to ignore.

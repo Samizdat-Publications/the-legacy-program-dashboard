@@ -193,6 +193,46 @@ fetch cache no longer treats a remembered failure as permanent (`--retry-errors`
 respectively are checkable by hand and not by this script. That is the largest
 single block of unverified quotation on the board and the obvious next pass.
 
+## The link sweep, which asks a different question
+
+`--links` does not check quotes. It checks whether a citation still reaches a document
+at all, across **every** cited URL rather than only those attached to a quoting claim.
+Link rot does not respect that distinction: the Arquivo Nacional citations died on a
+staging path the board carried in eight places, and 46 DIA ids stopped resolving
+without producing a single 404 between them.
+
+The first version reused the quote checker's `fetch`, which downloads bodies and
+extracts PDF text on a 90-second deadline. Over 1,324 URLs that is hours, nearly all
+of it spent waiting on hosts that block this environment anyway. Link health is a
+question about the status line, so it is now a parallel HEAD on a 20-second deadline
+with a browser user agent, falling back to a ranged GET for the codes HEAD-hostile
+servers actually emit — `cnes.fr` answers HEAD with 400 and GET with 200, which is why
+400 sits in that list beside the usual refusals. Minutes, not hours.
+
+**Three dead citations, all repaired.** The Black Vault renamed its Army/TTSA CRADA
+item; the three edges that cited it now also carry the released instrument itself, 27
+pages, *"CCDC Ground Vehicle Systems Center CRADA No. 19-15"*, naming Dr. Joseph Cannon
+at Warren, Michigan — which matters because `jeffery-langhout -> l-detroit-arsenal`
+says in its own note that "the signature block is the documentary anchor: an executed
+federal instrument, not a press release", and until now it cited the press release.
+Wikipedia moved `To_The_Stars_Inc`, 15 references repointed. And isaackoi.com's Blue
+Book Special Report 14 page is gone and was redundant, since the edge citing it already
+carried the released document.
+
+One URL returned 500 on the sweep and 200 on a retry and was left alone. A transient
+server error is not a dead citation, and repointing on one bad response would have been
+the mistake.
+
+**The board now has zero 4xx and zero 5xx citations.**
+
+| what remains | count | whose problem |
+|---|---|---|
+| HTTP 403 | 254 | this environment — mostly `.mil` and `war.gov` |
+| unreachable | 178 | `web.archive.org`, which does not answer here at all |
+| HTTP 429 | 15 | this crawl; 13 of them are one host I hammered |
+| HTTP 202 | 11 | `irp.fas.org` bot challenge |
+| HTTP 406 / 405 / 503 | 4 | user-agent filtering and one blocked host |
+
 ## Running it
 
 ```
