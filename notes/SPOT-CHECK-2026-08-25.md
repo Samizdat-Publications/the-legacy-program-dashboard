@@ -270,7 +270,48 @@ One URL returned 500 on the sweep and 200 on a retry and was left alone. A trans
 server error is not a dead citation, and repointing on one bad response would have been
 the mistake.
 
-**The board now has zero 4xx and zero 5xx citations.**
+**The board now has zero dead citations.**
+
+### The HEAD request that hid a dead link
+
+A later sweep reported a new 404 on a Kevin Randle blogspot post. It was not new. It
+had been dead the whole time and the probe could not see it, because that host answers
+**HEAD with 200 and GET with 404** — consistently, on three tries.
+
+The first probe asked HEAD and believed it, falling back to a GET only for the codes a
+HEAD-hostile server emits. That catches `cnes.fr`, which refuses HEAD and serves GET.
+It cannot catch the reverse, and the reverse is the dangerous direction: a dead
+citation sitting behind a healthy status line. The probe is now a ranged GET for the
+first 2KB, which costs about what a HEAD costs and answers the question the reader
+actually has — does following this link reach the page.
+
+The citation then needed two fixes rather than one. The post is live at a slightly
+different slug. But reading it showed the board had **mischaracterised Randle**: the
+note said he "has argued the site has no connection to Roswell at all", and the phrase
+closest to that on the page is a *reader comment by someone else*. His own conclusion
+is narrower and better evidenced:
+
+> It is for these reasons, that is the lack of first-hand corroboration of the Barnett
+> tale, the inability of the first people to talk of what Barnett said to provide a
+> location and date and that the only source of the information is Barnett that I say,
+> with confidence, that nothing happened there in July 1947.
+
+Roswell is July 1947, so that severs the link by dating rather than by geography, and
+the note now says so in his words. Attributing a commenter's sentence to the author
+would have been the same class of error as everything else this pass exists to fix.
+
+### Not crying wolf
+
+Only **404 and 410** count as dead citations now. The rest of the 4xx/5xx this board
+hits is the host refusing *this caller* — 403 blocks, 405 and 406 method and user-agent
+filtering, 429 rate limits, and a 503 from a patent search that declines automated
+access. Listing forty of those as dead citations buries the two that mean something.
+Each class is labelled in the summary with whose problem it is.
+
+A serial re-ask for the 429s was written and then removed rather than kept: a
+one-second pause does not clear a rate-limit window, so it cost time and changed
+nothing. A mechanism that looks like it handles something and does not is worse than an
+honest label.
 
 | what remains | count | whose problem |
 |---|---|---|
