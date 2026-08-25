@@ -7,7 +7,7 @@
    "a": "claudio-maccone", "b": "aawsap", "type": "funding", "claimTier": 2,
    "sources": [
     {"name": "DIRD, 'An Introduction to the Statistical Drake Equation', 11 March 2010, 56 pp. (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf", "date": "2010-03-11"},
-    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/", "date": "2022-03-25"}
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/", "date": "2022-03-25"}
    ],
    "note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself."
   },
@@ -23,7 +23,7 @@
    "a": "vincent-teofilo", "b": "aawsap", "type": "funding", "claimTier": 2,
    "sources": [
     {"name": "DIRD, 'Aneutronic Fusion Propulsion', 1 November 2010, 50 pp., DIA-08-1011-003 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf", "date": "2010-11-01"},
-    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/", "date": "2022-03-25"}
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/", "date": "2022-03-25"}
    ],
    "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either."
   },
@@ -31,7 +31,7 @@
    "a": "wil-mccarthy", "b": "aawsap", "type": "funding", "claimTier": 2,
    "sources": [
     {"name": "DIRD, 'Aerospace Applications of Programmable Matter', 14 December 2009, 21 pp., DIA-08-0911-016 (DIA FOIA release)", "url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf", "date": "2009-12-14"},
-    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/", "date": "2022-03-25"}
+    {"name": "DIA FOIA Electronic Reading Room entry", "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/", "date": "2022-03-25"}
    ],
    "note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list."
   },

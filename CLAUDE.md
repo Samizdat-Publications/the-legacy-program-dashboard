@@ -14,7 +14,12 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-25-claude-code.md` after this.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-packed.md` after this. It is
+the current one. Two earlier handoffs from 25 August are **superseded** and should be read
+as record only: `notes/HANDOFF-2026-08-25-audit.md` (still accurate on the source audit, but
+its open list is stale -- the packed layout is built and the highlights are signed off) and
+`notes/HANDOFF-2026-08-25-claude-code.md` (says 18 verify checks when there are 38, and
+lists finished work as pending).
 
 ---
 
@@ -25,13 +30,18 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 
 | | |
 |---|---|
-| nodes | 968 (279 people · 689 entities) |
-| hand-written sourced edges | 2,160 |
-| tiered claims | 4,431 — T1 2,596 · T2 1,342 · T3 493 |
-| unique source URLs | 2,825 |
+| nodes | 956 (278 people · 678 entities) |
+| hand-written sourced edges | 2,159 |
+| tiered claims | 4,513 — T1 2,772 · T2 1,246 · T3 495 |
+| edge tiers | T1 1,385 · T2 575 · T3 199 |
+| unique source URLs | 2,888 |
+| dead citations | 0 |
 | timeline events | 858 |
 | program map (L0) | 110 nodes, all with dossiers |
-| built artifact | `dist/the-program.html`, 13.2 MB |
+| map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
+| links drawn at rest | 103 of 326, by the model's own budget |
+| built artifact | `dist/the-program.html`, 13.8 MB |
+| gate | 38 verify checks + 40 audit re-derivations + 11 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -76,19 +86,31 @@ python3 tools/build_dashboard.py
 Then the gate:
 
 ```
-python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
-python3 tools/verify.py                 # 27 checks
-python3 tools/verify.py --self-test     # every check shown rejecting bad input
-node    tools/capture_strip.js          # writes tools/runtime-strip.txt from a real DOM
-python3 tools/audit_independent.py      # 38 checks, deliberately independent
-node    tools/runtime_check.js          # 16 DOM assertions in a real browser
-node    tools/test_scripted_analyst.mjs # 15 branch assertions
-python3 tools/verify.py --idempotent    # slow: builds twice, requires identical output
+python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
+python3 tools/verify.py                      # 38 checks
+python3 tools/verify.py --self-test          # every check shown rejecting bad input
+node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
+python3 tools/audit_independent.py           # 40 checks, deliberately independent
+node    tools/runtime_check.js               # 16 DOM assertions in a real browser
+node    tools/test_packed_layout.js          # 11 assertions read back out of the canvas
+node    tools/test_packed_layout.js --self-test
+node    tools/test_scripted_analyst.mjs      # 15 branch assertions
+python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
 ```
 
-The two `node` steps need the board served over HTTP -- `file://` does not work for a
+The four browser steps need the board served over HTTP -- `file://` does not work for a
 13MB page. Run `node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899
---silent &` first, or point `BOARD_URL` at wherever you are serving it.
+--silent &` first, or point `BOARD_URL` at wherever you are serving it. `--gate` checks
+whether anything is serving it and **names the skip** rather than reporting a failure that
+has nothing to do with the board.
+
+**`test_packed_layout.js` reads the canvas, and that is the point.** The map is drawn with
+`ctx.` calls, so for six sessions the standing assumption was that a cloud session could not
+verify it -- `runtime_check.js` asserts through text nodes and there are none. `getImageData`
+has no such problem. The check aims the camera at each of the 110 chips in turn and samples
+the pixel at that chip's own class rule, against coordinates `data/l0-layout-model.json`
+states independently. It found two defects on the day it was written that reading the source
+did not: see `notes/PACKED-LAYOUT-BUILD-2026-08-25.md`.
 
 **Run `capture_strip.js` BEFORE `audit_independent.py`, every time.** Six of the audit's
 checks compare the figures a reader actually sees against an independent re-derivation, and
@@ -173,12 +195,25 @@ Concrete instances, all real:
   wrong branch, because it asserted only that a long answer came back with valid commands.
   A check that cannot name the branch it expected cannot detect a wrong one.
 
+- The packed layout's first cut pinned the band and column labels to the viewport and did
+  not clip the map out from under them. Six chips rendered *beneath* the column-head plate
+  at about 12% opacity. Nothing in the source said so; the pixels did.
+
 **Therefore: every check you add must be demonstrated rejecting the input it must reject.**
 `verify.py --self-test` enforces this and will flag any check that lacks a poison.
 
-And its sibling rule: **reading the source is not verification.** Three times this session a
+**And poison the page, not just the predicate.** Nine of `test_packed_layout.js`'s poisons
+corrupt the probe object, which proves each predicate rejects bad input and nothing more --
+a probe that always returned the expected colour would pass all nine. The tenth moves every
+chip 60px on the real page while the expectation stays put, and requires the match to
+collapse. It does: 29 of 110. That is the difference between a check that is self-tested and
+a check that is *known to be looking at the thing*.
+
+And its sibling rule: **reading the source is not verification.** Three times on 25 August a
 check agreed with the implementation and a screenshot disagreed. For anything visual, look
-at it.
+at it -- and where you cannot look, find the channel that reads what actually rendered. On
+this board that turned out to be `getImageData`, and the assumption that it was impossible
+survived six sessions unexamined.
 
 ---
 
@@ -246,6 +281,15 @@ Two were found on 24 August by accident, while looking for something else.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
+> **TOP OF THE LIST, and it is not a build task: LOOK AT THE MAP.**
+> The packed-cell layout shipped on 25 August and **no human being has seen it rendered.**
+> Eleven canvas assertions say the chips are where the model puts them, that none overlap,
+> that the labels and pointers draw and the furniture survives a pan. None of them can say
+> whether it reads. Two things the comp already flagged are still true and still unsettled:
+> labels truncate to about 37 characters on a board whose labels are legal citations, and
+> the `disclosure` band holds 3 nodes and looks thin. Open `dist/the-program.html`, go to
+> NETWORK, and say what is wrong with it. That is worth more than any further check.
+
 
 1. ~~**The COVER-UP view still carries the sibling board's skeptical record.**~~ **DONE,
    25 August 2026.** Three inherited surfaces found and removed, only one of which was
@@ -264,25 +308,111 @@ Two were found on 24 August by accident, while looking for something else.
    change to `ref/`** -- it is four lines of Python and it found what six sessions of
    reading did not.
 
-3. **The last 23 unsourced edges are an ACCESS problem, not a research problem.**
-   `edge_without_source` went 117 to 23 on 25 August; 98.9% of edges now carry a source.
-   What remains is blocked by which hosts answer this environment, and the table in
-   `notes/SOURCING-2026-08-25.md` says which. **Read that table before planning a
-   sourcing pass** - most importantly, `web.archive.org` is unreachable from here
-   entirely, so the board's many Wayback source URLs cannot be verified from this
-   environment and the usual fallback for a 403 does not exist. A session on a
-   different network vantage would clear most of the 23 in an hour.
+3. ~~**The last 23 unsourced edges are an ACCESS problem, not a research problem.**~~
+   **DONE, 25 August 2026, and the diagnosis was wrong.** They were not an access
+   problem. `norm_source()` in `merge.py` silently discarded any source written as a
+   bare string, and 732 sources across `research/` went that way -- 236 unique URLs, 76
+   of which reached the board by no other route. Several sat on exactly those 23 edges,
+   so a previous pass recorded them as UNSOURCED and went hunting for citations that
+   were already in the file. **All 2,159 edges now carry a source.**
 
-4. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
-   stated reason. Show him a table; he cannot read JSON. Cap is 16, so there are 2 slots.
-5. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.
-   Design's response of 24 August confirms `mountL0` is ours end to end, so this is a direct
-   build and not a patch against the parent renderer. Package in `notes/design-2026-08-24/`.
-6. **Add Design's nine checks** from §5 of their response, each self-tested.
+   That fix then exposed something worse, and it is the reason to read
+   `notes/EDGE-TIERS-2026-08-25.md` before touching tiers: `remediate_tiers()` walks
+   people and entities, and **edges were never in it**. Edge `claimTier` was whatever
+   the research authored, merged by `min()`, audited by nothing, while rendering to the
+   reader as "Tier 1 - documented". 93 edges held that grade on a Wikipedia article, a
+   YouTube video or a blogspot post. 91 are now Tier 2; two gained the real document.
+   A self-tested gate check and `edge_tiers` in the golden manifest stop it recurring.
+
+   **The access facts in `notes/SOURCING-2026-08-25.md` still hold and still matter.**
+   `web.archive.org` is unreachable from this environment entirely, so the board's many
+   Wayback URLs cannot be verified from here and the usual fallback for a 403 does not
+   exist. `govinfo.gov`, `archive.org` (including `archive.org/details/DTIC_*`, the
+   Defense Technical Information Center mirror), `theblackvault.com` and `irp.fas.org`
+   all answer. `dia.mil` and `aaro.mil` refuse curl but serve WebFetch. The govinfo
+   search API answers with `DEMO_KEY` and rate-limits after roughly a dozen queries.
+
+4. ~~**`data/l0-highlights.json` needs Stewart's sign-off.**~~ **DONE, 25 August 2026.**
+   He kept all fourteen and cut none. `_status` in the file records it. The cap is 16, so
+   two slots remain. The table stays live at
+   https://claude.ai/code/artifact/ecc7053d-63f5-4d6b-9de4-8e101048671e — if the flags ever
+   change, republish that same URL rather than building a new one. The flags now reach the
+   built page as well: `L0DATA.highlights` was read by the analyst's "where do I start"
+   branch and had never been written, and `merge_packed` writes it.
+5. ~~**Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.~~
+   **DONE, 25 August 2026.** Stewart approved the comp and asked for the build with all
+   three options on. `notes/PACKED-LAYOUT-BUILD-2026-08-25.md` is the record.
+
+   110 chips at one size, 7 bands by measured mean C, 4 eras plus NO DATE, 103 of 326 links
+   at rest, 14 start-here pointers, 3 absent-link crosses. Everything already on the surface
+   stayed: tier dashes, directional denials, tick counts, the ledger, both registers, the
+   FULL GRAPH fallback. **The one thing nobody has done is look at it on a screen.**
+
+   Two things to know before touching it again:
+
+   - **The geometry is merged in `build_dashboard.py`, not `build_l0.py`**, because
+     `build_l0_layout.mjs` runs between them. Merging it upstream would read a later stage's
+     output from the *previous* build — the exact bug `--idempotent` exists to catch, and it
+     would pass on build one.
+   - **The gutter and head row are frozen chrome**, held in screen space and pan-clamped,
+     not drawn in world space like the comp. The comp is one static full-view; the map pans.
+     `clampView()` must be called from every place the camera moves. Miss one and the map
+     opens right and then drifts, which is worse than never clamping.
+6. ~~**Add Design's nine checks** from §5 of their response, each self-tested.~~ **DONE,
+   25 August 2026.** All nine, each demonstrated rejecting the exact input Design named
+   in the "must reject" column. They assert against `data/l0-layout-model.json`, which
+   is a build product on disk rather than something embedded in the page, so they get
+   their own poison channel in `--self-test`: `_LAYOUT_OVERRIDE`, the same pattern as
+   the analyst check's `BREAK=1`. Note the model is generated but **not yet rendered** -
+   the checks guard the spec, and item 5 is still to build against it.
 7. **The image sourcing pass** for `data/l0-images.json`. Federal works are the strongest
    candidates (17 U.S.C. 105) but must trace to a `.gov` original, not an aggregator.
    Witnesses default to the class letter — a private person who testified has not licensed
    their likeness.
 8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
-9. **TESTING-CHECKLIST.md §12 source spot-checks** — never started. 25 spot-checks have been
-   done ad hoc with zero fabricated sources found, but the systematic pass is outstanding.
+9. ~~**TESTING-CHECKLIST.md §12 source spot-checks**~~ **DONE for the mechanical half,
+   25 August 2026.** `tools/spot_check.py` asserts that every claim quoting a phrase of
+   four or more words has that phrase in the document it cites -- 604 claims qualify.
+   **No fabricated source was found.** 278 of the 283 adjudicable claims quote their
+   source correctly; five real citation defects were found and fixed and eight rotted
+   `gov.br` URLs repointed. `notes/SPOT-CHECK-2026-08-25.md`.
+   **The aaro.mil block is now done too:** all 24 quotes against the FY2025 and FY2023
+   annual reports and HRR Volume I verify, fetched with WebFetch and adjudicated
+   mechanically via `tools/spot_cache_put.py`. Two misquotes were found there and fixed,
+   one of which mattered -- AAWSAP's purpose was quoted as assessing "long-range
+   aerospace threats" where the HRR says "long-term and over-the-horizon foreign
+   advanced aerospace threats".
+
+   **`python3 tools/spot_check.py --links` is the other half:** a parallel HEAD sweep of
+   every cited URL, 1,324 of them, in minutes. It asks whether the citation still
+   reaches a document at all rather than whether the quote is right. **The board now
+   has zero dead citations.** Four were found dead and repaired on 25 August. Only 404
+   and 410 count as dead; everything else non-200 is the host refusing this caller and
+   is labelled as such in the output. **The probe is a ranged GET, not a HEAD, and must
+   stay that way** -- a blogspot post that answers HEAD with 200 and GET with 404 sat
+   undetected until it was changed. Re-run it after any research wave -- link rot is silent and the board carries
+   a lot of it.
+
+   **What is left is item 10.** The tool is deliberately not in the build gate -- it
+   depends on the network, and a check that fails because a host is throttling is a
+   check people learn to ignore.
+
+10. ~~**181 claims cite a DIA reading-room URL that no longer resolves.**~~ **ALL 46
+    REPAIRED, 25 August 2026.** DIA renumbered its reading room and the old
+    `FileId/1700xx/` ids now render the INDEX rather than a document -- `FileId/999999999/`
+    returns the same page, so DIA falls back silently and a stale citation looks live.
+    Every repair was verified by opening the document and reading its own title page,
+    document number and page count, never by trusting a listing.
+
+    **The last three were settled by the board's own claims rather than by their quoted
+    text**, which is worth remembering next time: matching on the quote was hopeless
+    because `170051`'s quote is the header common to all four Contract Status Briefs.
+    The claims date the briefings, and only one brief bears each date. `170052` needed a
+    further step because DIA released the 8 May 2009 briefing twice; the board cites
+    `237616`, the fuller of the two at 12 pages against 11. `170018` was never a document
+    citation at all -- its Tier 2 claim is about what the reading room LISTS, so it now
+    points at the reading room.
+
+    `tools/spot_cache_put.py` is the tool for this class: it puts a WebFetch-obtained
+    file into `spot_check.py`'s cache so verification stays a substring test rather than
+    a model's opinion. See `notes/SPOT-CHECK-2026-08-25.md`.

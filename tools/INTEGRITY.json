@@ -1,29 +1,4 @@
 {
- "edge_without_source": [
-  "setka-program->izmiran (institutional)",
-  "setka-program->l-moscow (geographic)",
-  "compass-rose-legal-group->david-grusch (institutional)",
-  "newsnation->david-grusch (investigative)",
-  "newsnation->skywatcher (investigative)",
-  "newsnation->immaculate-constellation (investigative)",
-  "the-hill->hearing-2024-11-13 (investigative)",
-  "the-hill->uapda-2023 (investigative)",
-  "the-hill->david-grusch (investigative)",
-  "cseti->cia (institutional)",
-  "l-langley-afb->langley-2023-incursions (geographic)",
-  "marik-von-rennenkampff->sol-briefing-3-2026 (research)",
-  "marik-von-rennenkampff->sean-kirkpatrick (investigative)",
-  "bryce-zabel->david-grusch (investigative)",
-  "bryce-zabel->luis-elizondo (investigative)",
-  "sol-foundation->sol-briefing-3-2026 (institutional)",
-  "sol-briefing-3-2026->garry-nolan (research)",
-  "aztec-1948->roswell-1947 (behavioral)",
-  "geipan->cefaa (investigative)",
-  "vincent-teofilo->lockheed-martin (institutional)",
-  "sergey-macheret->lockheed-martin (institutional)",
-  "richard-genik->wayne-state-university (institutional)",
-  "richard-genik->kit-green (institutional)"
- ],
  "person_thin_sourcing": [
   {
    "id": "jason-turner",
@@ -42,10 +17,6 @@
    "sources": 1
   },
   {
-   "id": "william-mccasland",
-   "sources": 1
-  },
-  {
    "id": "thomas-crosson",
    "sources": 1
   },
@@ -58,35 +29,11 @@
    "sources": 1
   },
   {
-   "id": "jeffery-langhout",
-   "sources": 1
-  },
-  {
-   "id": "donald-kerr",
-   "sources": 1
-  },
-  {
    "id": "edward-teller",
    "sources": 1
   },
   {
    "id": "jonathan-grey",
-   "sources": 1
-  },
-  {
-   "id": "mark-milley",
-   "sources": 1
-  },
-  {
-   "id": "robert-low",
-   "sources": 1
-  },
-  {
-   "id": "james-mcdonald",
-   "sources": 1
-  },
-  {
-   "id": "jeremy-corbell",
    "sources": 1
   },
   {
@@ -110,14 +57,6 @@
    "sources": 1
   },
   {
-   "id": "bernard-norlain",
-   "sources": 1
-  },
-  {
-   "id": "andre-lebeau",
-   "sources": 1
-  },
-  {
    "id": "sergio-bravo-flores",
    "sources": 1
   },
@@ -126,32 +65,50 @@
    "sources": 1
   },
   {
-   "id": "eduardo-girao",
-   "sources": 1
-  },
-  {
    "id": "italo-venturelli",
-   "sources": 1
-  },
-  {
-   "id": "stanton-friedman",
-   "sources": 1
-  },
-  {
-   "id": "jim-ragsdale",
-   "sources": 1
-  },
-  {
-   "id": "gerald-anderson",
    "sources": 1
   },
   {
    "id": "grant-cameron",
    "sources": 1
+  }
+ ],
+ "person_single_nonprimary_source": [
+  {
+   "id": "jason-turner",
+   "source": "https://www.twz.com/tic-tac-uap-incident-included-in-72-newly-released-range-incursion-reports"
   },
   {
-   "id": "william-l-moore",
-   "sources": 1
+   "id": "thomas-crosson",
+   "source": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+  },
+  {
+   "id": "jonathan-grey",
+   "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+  },
+  {
+   "id": "tim-mcmillan",
+   "source": "https://thedebrief.org/about/"
+  },
+  {
+   "id": "ben-rich",
+   "source": "https://archive.org/details/skunkworks00benr"
+  },
+  {
+   "id": "alejandro-rojas",
+   "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+  },
+  {
+   "id": "yury-platov",
+   "source": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
+  },
+  {
+   "id": "italo-venturelli",
+   "source": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/"
+  },
+  {
+   "id": "grant-cameron",
+   "source": "https://www.presidentialufo.com/"
   }
  ],
  "probable_duplicate_node": [

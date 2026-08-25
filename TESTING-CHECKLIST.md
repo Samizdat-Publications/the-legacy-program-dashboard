@@ -2,6 +2,16 @@
 
 **Historical framing, still-useful checklist.** Written as the first job of the 13 August
 local session; §12 source spot-checks were never started and remain outstanding.
+
+> **CORRECTION, 25 August 2026.** §0 used to assert the stats strip reads "ENTITIES 976 /
+> SOURCED LINKS 1788 / TIER A 146 / DOCUMENTED 59% of 4037 claims / DENIALS 172 / CUSTODY
+> 102", and told the tester that anything else means the build is wrong. Every one of those
+> six figures was stale, and the board is correct. A tester following the row would have
+> rebuilt a good board and then gone looking for a fault that was in this file. The row now
+> points at `tools/state_snapshot.py` and `tools/capture_strip.js`, which derive the
+> figures instead of remembering them. **This is the same class of defect as the inherited
+> analyst: a document that reads as authoritative and is answering about a board that no
+> longer exists.**
 Open `dist/the-program.html` by
 double-clicking it. Work through this in a real browser. Click real things.
 
@@ -24,9 +34,10 @@ Two things worth knowing before you start:
 - The board was verified headless at 1600×1000 and 2550×1465. **Anything a person does that
   a screenshot script does not — hovering, dragging, resizing, scrolling a long list,
   clicking twice, using the keyboard — is untested.** That is where the bugs are.
-- The board was ported from a design tuned for **52 nodes**. It now carries **976**. Where
-  something looks wrong, ask whether it is broken or merely never designed for this scale.
-  Both are worth logging; they get fixed differently.
+- The board was ported from a design tuned for **52 nodes**. It now carries roughly a
+  thousand — run `python3 tools/state_snapshot.py` for the current count rather than
+  trusting this sentence. Where something looks wrong, ask whether it is broken or merely
+  never designed for this scale. Both are worth logging; they get fixed differently.
 
 ---
 
@@ -36,13 +47,66 @@ Two things worth knowing before you start:
       failure if offline. Open devtools and check.
 - [ ] Time from open to a settled map. Note it. It runs 1,600 layout steps before first paint.
 - [ ] Top bar reads `The Program`, `Program map live`, `PURSUE release 5 · 2026.08.07`.
-- [ ] Stats strip: ENTITIES 976 / SOURCED LINKS 1788 / TIER A 146 / DOCUMENTED 59% of 4037
-      claims / DENIALS 172 / CUSTODY 102. Anything else means the merge and the build
-      disagree — rebuild.
+- [ ] Stats strip agrees with the data. **Do not compare it against a number written in
+      this file.** Every figure here went stale within days the last time they were typed
+      in, and because the row above told the tester that a mismatch means "rebuild", a
+      stale checklist sends them to rebuild a board that was already correct. Instead:
+
+      ```
+      python3 tools/state_snapshot.py     # derives every figure from source
+      node    tools/capture_strip.js      # writes what the browser actually renders
+      cat     tools/runtime-strip.txt
+      ```
+
+      The two must agree with each other and with the screen. `tools/audit_independent.py`
+      asserts exactly this and will fail if they do not, so a green gate means this row is
+      already covered — check it by eye anyway, because that is what this file is for.
 - [ ] Resize the window from wide to ~900px and back. The four-row shell should never
       scroll as a whole; only the view surface scrolls.
 
 ## 1. Network map — the highest-risk surface
+
+**Read this before the list.** NETWORK has two maps. Its **rest state** is the L0 program
+map, which since 25 August 2026 draws Design's packed cells: 110 chips at one size, eras
+across, bands down. The inherited force-layout map is the **FULL GRAPH fallback**, and it
+mounts only while a path or a frame is active. §1a is the one that ships to a reader; §1b is
+the fallback. Both need a pass.
+
+### 1a. The packed program map (the rest state)
+
+Machine checks already cover chip positions, non-overlap, the class colours, the edge
+budget, the pinned furniture and the three option defaults — `node tools/test_packed_layout.js`,
+11 assertions, all self-tested. **Do not re-do those by eye.** What follows is only what a
+check cannot answer.
+
+- [ ] **Can you read the labels?** They truncate at about 37 characters on a board whose
+      node labels are legal citations and document titles. This is the known worst problem
+      and the reason this section exists. Log the worst five by name.
+- [ ] **Does position mean anything to you?** Columns are eras, left to right. Rows are
+      bands, ordered by measured mean custody proximity, descending. If a stranger could not
+      tell that from the screen, the row and column labels are not doing their job.
+- [ ] The `disclosure` band holds **3** nodes and will look thin. Design predicted this and
+      read it as the structure appearing rather than a fault. Say whether you agree.
+- [ ] **Lines at rest**: 103 of 326. Are they too faint against the band fills, or about
+      right? Pixel polish, but it is the difference between a lattice and a smudge.
+- [ ] Toggle **LINES AT REST**, **START HERE** and **LABELS**. All three ship on. Each should
+      change the surface and none should throw. Try all eight combinations.
+- [ ] **START HERE pointers**: 14 amber pointers, each offset to the LEFT of its chip and
+      never touching it. If one reads as a property of the chip, that is a defect — it can
+      then be mistaken for a tier.
+- [ ] Three chips carry a red **×** (`university-at-albany`, `nip`,
+      `roswell-report-case-closed`). Is "no link to anything else on this map" legible from
+      that mark, or does it read as an error?
+- [ ] **Drag** to pan and **wheel** to zoom. You should NOT be able to drag the map off into
+      empty space, and no chip should ever slide under the row or column labels.
+- [ ] **OVERVIEW** shows the whole grid; labels drop below 0.62 scale, which is expected.
+      **1:1 READ** returns to the top-left corner, where the argument starts.
+- [ ] **Click** a chip: the member ledger opens beside it and the rest of the map dims. The
+      selected node's own links should appear even if they were not in the resting budget.
+- [ ] Ask the analyst `l0opt("labels")`. Every control on this surface must be drivable from
+      the chat input.
+
+### 1b. The FULL GRAPH fallback (force layout, reached via a path or a frame)
 
 - [ ] Node plates are readable and **do not overlap each other**. Overlapping plates is the
       one thing the eye cannot forgive; log any you find with names.
@@ -187,6 +251,28 @@ Two things worth knowing before you start:
       caret blink should stop; state transitions should shorten to ~100ms.
 
 ## 12. Data spot-checks — do at least five
+
+> **PARTLY AUTOMATED, 25 August 2026.** `python3 tools/spot_check.py` now runs the
+> mechanical half of this section at full scale instead of five at random: every claim
+> that quotes a phrase of four or more words and cites a URL must have that phrase in
+> the document it cites. 604 claims qualify. **No fabricated source was found.** Of the
+> 283 this environment could adjudicate, 278 quote their source correctly; five real
+> citation defects were found and fixed, and eight rotted `gov.br` URLs repointed.
+> See `notes/SPOT-CHECK-2026-08-25.md`, which also records the four bugs the check
+> found in itself before it could be trusted.
+>
+> **Updated the same day:** `dia.mil` and `aaro.mil` refuse curl but serve WebFetch, so
+> `tools/spot_cache_put.py` was written to put a file fetched by any route into the
+> cache. All 24 aaro.mil quotes verify. The dia.mil pass then found that 46
+> reading-room URLs no longer reach a document at all; 43 are repaired. Verified quotes
+> are now **362**, unreachable **156**.
+>
+> **It does not replace the rows below.** It cannot check paraphrase, and it cannot read
+> scanned FOIA PDFs -- 80 DIRD quotes are OCR-degraded past matching and the board is
+> quoting every one of them correctly, which you can see from the fact that they all
+> break mid-word rather than missing entirely. It is deliberately NOT in the build gate:
+> it depends on the network, and a check that fails because a host is throttling is a
+> check people learn to ignore.
 
 Pick five claims at random from five different views and verify against the source. You are
 checking two things: that the URL resolves, and that the claim says what the source says.

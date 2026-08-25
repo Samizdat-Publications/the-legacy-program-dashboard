@@ -265,7 +265,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'DIA FOIA Electronic Reading Room — Advanced Aerospace Weapon System Applications Contract',
-      url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/',
+      url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
       date: '2022-10-13'
     },
     {
@@ -554,7 +554,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'Wikipedia — To The Stars Inc.',
-      url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+      url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
       date: '2026-08-12'
     }
   ],
@@ -1100,7 +1100,7 @@ export const ENTITY_SOURCES = {
     },
     {
       name: 'Wikipedia: To The Stars Inc.',
-      url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+      url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
       date: '2026-08-12'
     },
     {

@@ -26,7 +26,10 @@ const { chromium } = require('/opt/node22/lib/node_modules/playwright');
 const fs = require('fs');
 const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
-const URL = process.argv[2] || 'http://127.0.0.1:8899/the-program.html';
+// argv wins over the env so a one-off can be pointed anywhere; BOARD_URL is
+// what the gate runner sets, and capture_strip.js already read it.
+const URL = process.argv[2] || process.env.BOARD_URL
+          || 'http://127.0.0.1:8899/the-program.html';
 const SHOTS = process.env.RUNTIME_SHOTS || '';
 
 const fails = [], ok = [];

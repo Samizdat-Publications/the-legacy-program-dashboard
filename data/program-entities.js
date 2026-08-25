@@ -267,47 +267,47 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'Contract modification P00001 (effective SEP 02 2009) to contract HHM402-08-C-0072 names the contractor as \'BIGELOW AEROSPACE ADVANCED SPACE STUDIES, LLC\', address \'1E199 W BROOKS AVE, NORTH LAS VEGAS NV 890323671\' (OCR-degraded; street number reads as 1899/1E199 W Brooks Ave), with DUNS shown as 37/0377613 (OCR-degraded) and CAGE code 54JU7 (OCR-degraded). Original contract dated SEP 22, 2008.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       },
       {
         tier: 1,
         text: 'DIA briefing: \'Performance by Bigelow Aerospace Advanced Space Studies (BAASS) has been excellent and they are in full compliance with aerospace contract HHM402-08-C-0072: extensive monthly status reports received; 12 project management plans received and executed; 26 detailed research reports (twice minimum requirement) received by 30 June 2009. Reviews of reports have been overwhelmingly positive.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/'
       },
       {
         tier: 1,
         text: 'Same briefing: \'Recommend that DIA should go forward with option year 1 with BAASS, subject to available funding. $12 million for the continuation of this contract by DIA/DI has been submitted in the FY10 defense budget; funding likely to be approved.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/'
       },
       {
         tier: 1,
         text: 'DIA Talking Paper U-326-09: \'BAASS submitted the 12 technical area program management plans (PMPs) on 21 November 2008... reviewed the PMPs and rated them as very good to excellent... BAASS will deliver to DIA approximately two detailed reports per technical area. The goal is for [DIA] to have all reports by the end of July 2009.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: 'Same paper: \'The Defense Security Service conducted a site inspection on the BAASS facility on 17 December 2008. The inspection was completed satisfactorily and the facility clearance process is expected to be completed shortly.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: 'DIA 8 May 2009 status briefing: \'SCI clearance processing has been successfully completed for all key personnel.\' — i.e. BAASS staff were cleared to Sensitive Compartmented Information level under this contract.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170052/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-09-2660 (13 Nov 2009): \'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-429-09: \'Each research report ... was written by world-class technical experts in industry and/or academia\', with reviews performed by \'other authors listed in the table\' and by \'outside reviewers including three research staff members at Sandia National Laboratories\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 3,
         text: 'The FY2010 pivot described in U-09-2660 — \'four to six of the original technical reports will be expanded to include classified data\', focused on \'foreign research in a particular technology area\' — is the point at which the publicly-visible DIRD series stops and the record goes dark. The 37-38 released DIRDs are, by DIA\'s own account, the unclassified subset.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -338,32 +338,32 @@ export const INSTITUTIONS = [
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'DIA briefing \'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237642/',
         date: '2009'
       },
       {
         name: 'DIA briefing \'Advanced Aerospace Weapon System Applications Contract Status\', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/',
         date: '2008-12-16'
       },
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
@@ -421,8 +421,8 @@ export const INSTITUTIONS = [
         url: 'https://www.theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html',
         date: '2011-03-01'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170052/', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237616/', date: null },
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/', date: null }
     ]
   },
   {
@@ -445,12 +445,12 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'USD(I) memorandum to DEPSECDEF: \'The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552: \'DIA awarded a contract to the Bigelow Aerospace Advanced Space Studies LLC (BAASS), the only bid, headquartered in North Las Vegas, Nevada.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
@@ -486,17 +486,17 @@ export const INSTITUTIONS = [
     sources: [
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -657,7 +657,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 194 of 956, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 195 of 956, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -748,7 +748,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 206 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 207 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -824,7 +824,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 275 of 956, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 277 of 956, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -936,7 +936,7 @@ export const INSTITUTIONS = [
       },
       {
         name: 'DIA FOIA Electronic Reading Room — Advanced Aerospace Weapon System Applications Contract',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2022-10-13'
       },
       {
@@ -971,7 +971,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 566 of 956, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 569 of 956, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -1022,7 +1022,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 296 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 299 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -1098,7 +1098,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 39 of 956, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 41 of 956, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -1290,7 +1290,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 346 of 956, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 350 of 956, score 32). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -1336,7 +1336,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 207 of 956, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 208 of 956, score 40). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -1443,7 +1443,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 40 of 956, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 42 of 956, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -1640,7 +1640,7 @@ export const INSTITUTIONS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 590 of 956, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 595 of 956, score 23). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -1686,7 +1686,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 397 of 956, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 400 of 956, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -1750,7 +1750,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 869 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 870 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -1873,7 +1873,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 43 of 956, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 44 of 956, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2076,7 +2076,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 277 of 956, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 279 of 956, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2137,7 +2137,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 482 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 485 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2193,7 +2193,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 298 of 956, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 301 of 956, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2493,7 +2493,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 416 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 419 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 2,
@@ -2544,7 +2544,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 693 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 698 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -2596,7 +2596,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 208 of 956, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 209 of 956, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2662,7 +2662,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 349 of 956, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 353 of 956, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2721,20 +2721,25 @@ export const INSTITUTIONS = [
   {
     id: 'nara-uap-collection',
     cls: 'institution',
-    label: 'National Archives Unidentified Anomalous Phenomena Records Collection (Record Group 615)',
+    label: 'National Archives Unidentified Anomalous Phenomena Records Collection',
     cluster: 'other',
-    sub: 'Statutory records collection under sections 1841-1843 of Public Law 118-31',
+    sub: 'Statutory collection under 2024 NDAA secs. 1841-1843',
     desc: 'The UAP Records Collection is what survived the Unidentified Anomalous Phenomena Disclosure Act. Sections 1841 to 1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, directed the creation at the National Archives of a collection of United States Government records relating to unidentified anomalous phenomena, modelled on the JFK Assassination Records Collection - but stripped in conference of the independent review board with subpoena power and of the eminent domain provision that would have compelled private holders of recovered material to surrender it. NARA established the collection as Record Group 615 and announced on 24 April 2025 that it had released records transferred from four agencies - the Office of the Director of National Intelligence, the Office of the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission - and that it \'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis\'. The composition of that first transfer is itself evidence: two of the four contributing agencies are civilian regulators. Absent from the transfer are CIA, NSA, NRO, NGA, DIA, DOE, DHS and the military departments - that is, every agency with custody proximity. The collection is nonetheless the correct measurable for this board, because it is the one place where a statutory obligation to produce records collides with the agencies alleged to be holding them, and because any presidential declassification directive must eventually deposit here.',
     tier: 'A',
     C: 0,
     A: 1,
     D: 3,
-    dateStart: '2023-12-22',
+    dateStart: '2024',
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 81 of 956, score 66). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 74 of 956, score 69). 13 connections, 2 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
+      {
+        tier: 1,
+        text: 'NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.',
+        source: 'National Archives press release nr25-07, 24 April 2025'
+      },
       {
         tier: 1,
         text: 'NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.',
@@ -2765,6 +2770,11 @@ export const INSTITUTIONS = [
       {
         name: 'National Archives press release nr25-07',
         url: 'https://www.archives.gov/press/press-releases/2025/nr25-07',
+        date: '2025-04-24'
+      },
+      {
+        name: 'National Archives News - RFK files and UAP records, April 2025',
+        url: 'https://www.archives.gov/news/articles/rfk-files-uap-records-april-2025',
         date: '2025-04-24'
       },
       {
@@ -2799,7 +2809,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 323 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 326 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2856,7 +2866,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 483 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 486 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -2898,7 +2908,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 398 of 956, score 30). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 401 of 956, score 30). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -2954,7 +2964,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 505 of 956, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 508 of 956, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -3000,7 +3010,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 627 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 632 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3097,6 +3107,11 @@ export const INSTITUTIONS = [
         date: '2024-12-19'
       },
       {
+        name: 'ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026',
+        url: 'https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2026-08-25'
+      },
+      {
         name: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5 Edition 1 (v5.1), Controlled Access Program Coordination Office',
         url: 'https://web.archive.org/web/20241230231438/https://www.dni.gov/files/documents/FOIA/Public_CAPCO_Register%20and%20Manual%20v5.1.pdf',
         date: '2012-03-30'
@@ -3118,7 +3133,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 300 of 956, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 303 of 956, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3179,12 +3194,12 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 199 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 200 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
         text: 'The Gang of Eight is a creature of 50 U.S.C. 3093(c)(2) governing COVERT ACTION findings, not special access programs. The parallel narrowing for DoD SAPs is a different provision with a different membership: 10 U.S.C. 119(e)(2) sends waived-SAP information to \'the chairman and ranking minority member of each of the defense committees\' -- the six units defined in 119(g), not the intelligence committees and not congressional leadership.',
-        source: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm'
+        source: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3093.htm ; quoted words are 10 U.S.C. 119(e)(2) — https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm'
       },
       {
         tier: 1,
@@ -3311,7 +3326,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 852 of 956, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 853 of 956, score 13). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3353,7 +3368,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 810 of 956, score 15). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 813 of 956, score 15). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3493,7 +3508,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 728 of 956, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 733 of 956, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3554,7 +3569,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 871 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 872 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3610,7 +3625,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 853 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 854 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3666,7 +3681,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 779 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 783 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3722,7 +3737,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 697 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 702 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3765,6 +3780,11 @@ export const INSTITUTIONS = [
         name: 'Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive',
         url: 'https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf',
         date: '2014-02-18'
+      },
+      {
+        name: 'AFI 16-701, \'Management, Administration and Oversight of Special Access Programs\', 18 February 2014, OPR SAF/AAZE, certified by SAF/AAZ - live original, retrieved 25 Aug 2026 (48 pp.)',
+        url: 'https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf',
+        date: '2014-02-18'
       }
     ]
   },
@@ -3783,7 +3803,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 811 of 956, score 15). 7 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 814 of 956, score 15). 7 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3881,7 +3901,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 812 of 956, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 815 of 956, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -3988,7 +4008,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 629 of 956, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 634 of 956, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4064,7 +4084,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 594 of 956, score 23). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 599 of 956, score 23). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -4120,7 +4140,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 77 of 956, score 68). 14 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 78 of 956, score 68). 14 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -4221,7 +4241,7 @@ export const INSTITUTIONS = [
       },
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       }
     ]
@@ -4241,7 +4261,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 129 of 956, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 130 of 956, score 50). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -4388,7 +4408,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 301 of 956, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 304 of 956, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -4434,7 +4454,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 670 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 675 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4475,7 +4495,7 @@ export const INSTITUTIONS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 780 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 784 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4516,7 +4536,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 369 of 956, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 373 of 956, score 31). 6 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -4567,7 +4587,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 630 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 635 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -4613,7 +4633,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 830 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 832 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -4715,7 +4735,7 @@ export const INSTITUTIONS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 783 of 956, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 787 of 956, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4756,7 +4776,7 @@ export const INSTITUTIONS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 854 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 855 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -4792,7 +4812,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 508 of 956, score 26). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 511 of 956, score 26). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -4939,7 +4959,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 419 of 956, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 422 of 956, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -4986,7 +5006,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 326 of 956, score 33). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 329 of 956, score 33). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5032,7 +5052,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 303 of 956, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 306 of 956, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5083,7 +5103,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 457 of 956, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 461 of 956, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5134,7 +5154,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 598 of 956, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 603 of 956, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5175,7 +5195,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 510 of 956, score 26). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 513 of 956, score 26). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -5273,7 +5293,7 @@ export const INSTITUTIONS = [
       },
       {
         name: 'Wikipedia — To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       },
       {
@@ -5318,7 +5338,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 458 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 462 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -5359,7 +5379,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 700 of 956, score 19). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 705 of 956, score 19). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -5390,7 +5410,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 31 of 956, score 91). 28 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 33 of 956, score 91). 28 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5655,7 +5675,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 222 of 956, score 39). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 223 of 956, score 39). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5721,7 +5741,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 371 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 375 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5783,7 +5803,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 223 of 956, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 224 of 956, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5849,7 +5869,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 405 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 408 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5895,7 +5915,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 731 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 736 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -5936,7 +5956,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 570 of 956, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 573 of 956, score 24). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -5987,7 +6007,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 571 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 574 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -6018,7 +6038,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 872 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 873 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -6080,7 +6100,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 285 of 956, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 287 of 956, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -6141,7 +6161,7 @@ export const INSTITUTIONS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 753 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 757 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6248,7 +6268,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 374 of 956, score 31). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 378 of 956, score 31). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -6294,7 +6314,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 732 of 956, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 737 of 956, score 18). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6482,7 +6502,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 856 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 857 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -6514,7 +6534,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 873 of 956, score 12). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 874 of 956, score 12). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -6545,7 +6565,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 816 of 956, score 15). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 819 of 956, score 15). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -6576,7 +6596,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 755 of 956, score 17). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 759 of 956, score 17). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -6700,7 +6720,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 25 of 956, score 100). 25 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded A on a global pass (rank 26 of 956, score 100). 25 connections, 10 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6771,7 +6791,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 225 of 956, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 226 of 956, score 39). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6817,7 +6837,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 376 of 956, score 31). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 380 of 956, score 31). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6868,7 +6888,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 633 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 638 of 956, score 22). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -6909,7 +6929,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 330 of 956, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 333 of 956, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -6960,7 +6980,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 704 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 709 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 2,
@@ -7062,7 +7082,7 @@ export const INSTITUTIONS = [
     dateEnd: '2006',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 601 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 606 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7103,7 +7123,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 490 of 956, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 493 of 956, score 27). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7149,7 +7169,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 602 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 607 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7190,7 +7210,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 705 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 710 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -7236,7 +7256,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 674 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 679 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7282,7 +7302,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 733 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 738 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7323,7 +7343,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 756 of 956, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 760 of 956, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -7354,7 +7374,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 574 of 956, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 577 of 956, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -7400,7 +7420,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 655 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 658 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7447,7 +7467,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 603 of 956, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 608 of 956, score 23). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -7505,7 +7525,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 706 of 956, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 711 of 956, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7580,7 +7600,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 379 of 956, score 31). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 383 of 956, score 31). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7698,7 +7718,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 634 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 639 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -7727,6 +7747,11 @@ export const INSTITUTIONS = [
       }
     ],
     sources: [
+      {
+        name: 'Agencia Peruana de Noticias Andina (Editora Perú), \'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP\', 18 October 2013 — https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx',
+        url: '',
+        date: null
+      },
       {
         name: 'BBC Mundo - Por qué Perú reabrió la oficina de búsqueda de ovnis',
         url: 'https://www.bbc.com/mundo',
@@ -7764,7 +7789,7 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional\'s own statement - \'Ele é composto de 743 registros\' and \'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016\' - appears on an institutional news item carrying the byline \'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27\'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.',
-        source: 'Arquivo Nacional, \'Conheça o fundo sobre OVNIs do Arquivo Nacional\', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)'
+        source: 'Arquivo Nacional, \'Conheça o fundo sobre OVNIs do Arquivo Nacional\', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)'
       },
       {
         tier: 1,
@@ -7818,22 +7843,47 @@ export const INSTITUTIONS = [
       }
     ],
     sources: [
+      {
+        name: 'Arquivo Nacional (Brasil), \'Conheça o fundo sobre OVNIs do Arquivo Nacional\' — https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia — https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        url: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
+        date: null
+      },
+      {
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
+        date: null
+      },
+      {
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        date: null
+      },
+      {
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
+        date: null
+      },
+      {
+        name: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
+        date: null
+      },
       { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' },
       { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' },
       {
         name: 'SIAN image server - 1986 report',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
-      },
-      {
-        name: 'Arquivo Nacional, \'Conheça o fundo sobre OVNIs do Arquivo Nacional\', published 13/09/2018 ()',
-        url: 'https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional',
-        date: null
-      },
-      {
-        name: 'André Rigue and Lauryn Amaral, CNN Brasil, \'Pilotos e controladores relataram 18 casos de OVNIs no Brasil em 2025\', 12 August 2026, updated 14 August 2026 ()',
-        url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
-        date: null
       }
     ]
   },
@@ -7892,31 +7942,31 @@ export const INSTITUTIONS = [
     ],
     sources: [
       {
-        name: 'Relatório de Ocorrências (Arquivo Nacional)',
-        url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
-        date: '1986-06-02'
-      },
-      { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' },
-      {
-        name: 'Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ()',
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ()',
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, CREDN, \'Pronunciamento do Comandante da Aeronáutica, Tenente-Brigadeiro-do-Ar Juniti Saito\', 24/10/2012 (); contrasted with Senado Federal RQS 193/2022',
+        name: 'https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito',
         url: 'https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-permanentes/credn/noticias/pronunciamento-do-comandante-da-aeronautica-tenente-brigadeiro-do-ar-juniti-saito',
         date: null
       },
       {
-        name: 'Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 ()',
+        name: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
         url: 'https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/',
         date: null
-      }
+      },
+      {
+        name: 'Relatório de Ocorrências (Arquivo Nacional)',
+        url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
+        date: '1986-06-02'
+      },
+      { name: 'BBC Brasil', url: 'https://www.bbc.com/portuguese/brasil-59953278', date: '2022-01-14' }
     ]
   },
   {
@@ -7934,7 +7984,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 707 of 956, score 19). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 712 of 956, score 19). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -7981,6 +8031,272 @@ export const INSTITUTIONS = [
     ]
   },
   {
+    id: 'waived-sap-notification-group',
+    cls: 'institution',
+    label: 'Waived SAP Notification Group',
+    cluster: 'other',
+    sub: 'The persons entitled to notice of, and access to, a waived DoD special access program',
+    desc: 'The group that receives notification of a WAIVED Department of Defense special access program is not the Gang of Eight, and conflating the two is the single most common error in public argument about how a legacy programme could be hidden. The waived-SAP channel is created by 10 U.S.C. 119(e). Subsection (e)(1) provides: \'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.\' Subsection (e)(2) then specifies where the withheld material goes instead: \'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.\' The term \'defense committees\' is defined not by the general Title 10 definition but by section 119\'s own subsection (g): \'the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate\' and \'the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.\' Six bodies, each contributing a chairman and a ranking minority member: twelve members of Congress. This is deliberately narrower than a full committee and deliberately wider than eight. Note that 10 U.S.C. 101(a)(16) defines a different, similar-sounding term, \'congressional defense committees,\' as only the Armed Services and Appropriations Committees of the two chambers - four bodies, eight chairs and rankings. Section 119 does not use that definition; it uses its own, which adds the two Defense Appropriations Subcommittees. A board that cites 101(a)(16) for the waived-SAP group would be naming the wrong set. The Gang of Eight is a separate creature governing covert action, not DoD SAPs. Under 50 U.S.C. 3093(c)(2), where the President determines that it is essential to limit access to a covert action finding to meet extraordinary circumstances affecting vital interests of the United States, \'the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.\' Different committees (intelligence, not armed services or appropriations), different people (the four party leaders sit in the Gang of Eight and are absent from the 119(e) group; the appropriators sit in the 119(e) group and are absent from the Gang of Eight), and different subject matter. The structural comparison is where the argument actually lives, and it cuts against the covert-action statute being the tighter one. Title 50 contains two escape valves that Title 10 does not. First, 50 U.S.C. 3093(c)(5)(B) imposes a 180-day clock: within 180 days of a statement of reasons for limiting access, the President must either give all members of the intelligence committees access to the finding or submit a fresh statement of reasons for continuing to withhold. Section 119(e) contains no sunset, no periodic re-justification, and no mechanism that ever widens the circle. A waiver, once made, is permanent as to that report. Second, 50 U.S.C. 3093(g)(1)-(2) requires the President to tell all members of the intelligence committee that a limited notification occurred and to give them a general description of it. Section 119 has no analogue: the members of the Armed Services and Appropriations Committees who are not chair or ranking are never told that a waiver happened at all. They cannot ask about what they do not know exists. That asymmetry - no sunset, no notice of bypass - is the load-bearing limit on congressional oversight of a waived programme, and it is a limit written into the statute rather than an abuse of it. What the twelve can see is also bounded. They receive the withheld report content and the Secretary\'s justification. They do not thereby acquire subpoena power over the programme, staff who can read the material, or any statutory right to share it with colleagues. What they cannot see is anything the Department declines to characterise as a DoD special access program at all - the recurring allegation in the UAP context being that recovery and reverse-engineering activity was moved into contractor-held or non-DoD structures where section 119 does not reach. Finally, the mechanism\'s present scope is narrower than it was. Pub. L. 114-328 section 1061(c)(4) lists \'Section 119(a) and (b)\' among the reporting requirements it terminates, and section 1061(b)(1) provides that each such report still required as of December 31, 2021 \'shall no longer be required to be submitted to Congress after that date.\' The Office of the Law Revision Counsel carries this as a Termination of Reporting Requirements note under section 119. The annual SAP budget report and the annual new-SAP designation-and-justification report are therefore gone. Because 119(e)(1) can only waive a requirement \'under subsection (a), (b), or (c),\' the waiver authority now has live operation only as to subsection (c), the report on a planned change in classification or a planned declassification and public announcement. Subsections (d), (f) and (g) survive and are not waivable at all - notably 119(f), which bars initiating any SAP until the defense committees are notified and thirty days elapse.',
+    tier: 'A',
+    C: 3,
+    A: 1,
+    D: 3,
+    dateStart: null,
+    dateEnd: null,
+    coords: null,
+    locLabel: null,
+    tierRationale: 'Re-graded A on a global pass (rank 24 of 956, score 103). 31 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
+    claims: [
+      {
+        tier: 1,
+        text: 'THE STATUTORY GROUP AND THE DEPARTMENT\'S GROUP ARE NOT THE SAME, AND THE DEPARTMENT\'S IS WIDER. The statute, 10 U.S.C. 119(e)(2), names only \'the chairman and ranking minority member of each of the defense committees\' - twelve seats across six committee entities, and no staff. DoD Instruction 5205.11, paragraph 7.2.a.(3), states verbatim: \'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee\'s respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.\' The Department therefore adds two staff categories the statute does not name, and extends the group to the two intelligence committees, which Section 119(g) does not include. Whether that is a lawful gloss or an administrative expansion is a live question the board can put on the record.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'The exclusion of ordinary committee members from waived programs is stated flatly. DoDI 5205.11 paragraph 7.2.b reads verbatim: \'Members of Congress assigned to the defense and intelligence committees are authorized access to all DoD SAPs within the respective committee\'s SAP oversight jurisdiction, except for waived programs as described previously. The intelligence committees are authorized access only to those DoD SAPs designated by the Secretary of Defense or Deputy Secretary of Defense as intelligence or intelligence related.\'',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'Professional staff members are cut out of waived programs entirely. DoDI 5205.11 paragraph 7.2.c.(1) reads verbatim: \'One professional staff member for both the majority and the minority party of the defense and intelligence committees may be granted access to all non-waived SAPs within the respective committee\'s SAP oversight jurisdiction.\' Paragraph 7.2.d applies the same limit to non-committee members: \'Members of Congress and professional staff members not assigned to the defense or intelligence committees may be granted access to non-waived DoD SAPs by the Director, DoD SAPCO following consultation with the respective chamber of Congress chair and ranking defense committee members.\'',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'THE BUDGET PAPER FOR A WAIVED PROGRAM GOES TO STAFF, NOT TO MEMBERS. DoDI 5205.11 paragraph 7.2.h reads verbatim: \'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.\' This is a distinct and narrower channel than the 119(e)(2) delivery to chairs and ranking members, and it means the written justification material for a waived program is routed to two staff directors per committee rather than to the twelve statutory seats.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'Umbrella access does not carry down into waived compartments. DoDI 5205.11 paragraph 7.2.a.(2) reads verbatim: \'When a member of Congress or a professional staff member is given access to a SAP umbrella, that member of Congress or professional staff member will also be given access to all compartments and sub-compartments that fall under the respective SAP umbrella, with the exception of waived sub-compartments as described in Paragraph 7.2.a.(3).\' A waived sub-compartment can therefore sit inside an umbrella a member is fully read into, invisibly to that member.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'GAO\'s own access is gated through the same two seats. DoDI 5205.11 paragraph 7.2.g provides that GAO access runs through \'the chairman and ranking defense committee members, unless the GAO is already tasked with a SAP-related action in existing legislation.\' This is the structural reason GAO\'s published special access program work has never been able to report on the waiver\'s use.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'The historical practice of the notification was oral. The Moynihan Commission recorded in 1997 that for waived programs \'the chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.\' If that practice persisted, then the 119(e)(2) delivery of \'the information ... and the justification for the waiver\' generates no artefact that can later be produced, subpoenaed, archived or discovered - which is the single most consequential fact on this node.',
+        source: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html'
+      },
+      {
+        tier: 1,
+        text: '10 U.S.C. 119(e)(2) directs waived-SAP information and the waiver justification \'jointly to the chairman and ranking minority member of each of the defense committees\' - twelve members, given the six bodies listed in 119(g).',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: '10 U.S.C. 119(g) defines \'defense committees\' for this section as the Senate Armed Services Committee, Senate Appropriations Committee, Senate Appropriations Defense Subcommittee, House Armed Services Committee, House Appropriations Committee, and House Appropriations Defense Subcommittee.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: '10 U.S.C. 101(a)(16) defines the different term \'congressional defense committees\' as only \'(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives\' - four bodies, not the six used by section 119.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'The Gang of Eight under 50 U.S.C. 3093(c)(2) consists of \'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.\' It governs covert action findings, not DoD special access programs.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: '50 U.S.C. 3093(c)(5)(B) forces re-justification or widened access within 180 days of a limited covert-action notification. 10 U.S.C. 119(e) contains no sunset and no re-justification requirement, so a SAP reporting waiver is permanent as to that report.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: '50 U.S.C. 3093(g)(1)-(2) requires that all members of the intelligence committee be told a limited notification occurred and be given a general description of it. Section 119 imposes no equivalent duty, so non-leadership members of the defense committees are never informed that a waiver has been exercised.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'Pub. L. 114-328 sec. 1061(c)(4) lists \'Section 119(a) and (b)\' among terminated reporting requirements, and sec. 1061(b)(1) ends them after 31 December 2021. The OLRC note under section 119 records the termination as effective 31 December 2021.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim'
+      },
+      {
+        tier: 2,
+        text: 'Because 119(e)(1) reaches only \'any requirement under subsection (a), (b), or (c)\' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: '10 U.S.C. 119(f) bars initiating a special access program until the defense committees are notified and thirty days elapse. Subsection (f) is outside the reach of the 119(e)(1) waiver, which by its terms covers only subsections (a), (b) and (c).',
+        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'August 2026 holders of the twelve offices: Roger F. Wicker (SASC Chairman) and Jack Reed (SASC Ranking Member); Susan Collins (SAC Chair) and Patty Murray (SAC Vice Chair); Mitch McConnell (SAC Defense Subcommittee Chair) and Christopher A. Coons (SAC Defense Subcommittee Ranking Member); Mike Rogers of Alabama (HASC Chairman) and Adam Smith (HASC Ranking Member); Tom Cole (HAC Chairman) and Rosa L. DeLauro (HAC Ranking Member); Ken Calvert (HAC Defense Subcommittee Chair) and Betty McCollum (HAC Defense Subcommittee Ranking Member).',
+        source: 'https://www.armed-services.senate.gov/about/membership'
+      },
+      {
+        tier: 1,
+        text: '2009 holders (111th Congress): SASC Chairman Carl Levin, Ranking Member John McCain; SAC Chairman Daniel K. Inouye, Ranking Member Thad Cochran; SAC Defense Subcommittee Chairman Daniel K. Inouye, Ranking Member Thad Cochran; HASC Chairman Ike Skelton, senior Republican Howard P. \'Buck\' McKeon; HAC Chairman David R. Obey, Ranking Member Jerry Lewis; HAC Defense Subcommittee Chairman John P. Murtha, Ranking Member C. W. Bill Young.',
+        source: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm'
+      },
+      {
+        tier: 1,
+        text: 'The December 2009 Congressional Directory records Ike Skelton as HASC Chairman and Howard P. \'Buck\' McKeon as senior Republican, David R. Obey as HAC Chairman with Jerry Lewis senior Republican, and John P. Murtha as HAC Defense Subcommittee Chairman with C. W. Bill Young senior Republican.',
+        source: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm'
+      },
+      {
+        tier: 2,
+        text: 'John M. McHugh, who had been the senior House Armed Services Republican before McKeon, took office as Secretary of the Army in 2009, which is why the December 2009 directory shows McKeon in the ranking seat.',
+        source: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army'
+      },
+      {
+        tier: 1,
+        text: '2020 holders (116th Congress): SASC Chairman James M. Inhofe, Ranking Member Jack Reed; SAC Chairman Richard C. Shelby, senior Democrat Patrick J. Leahy; SAC Defense Subcommittee Chairman Richard C. Shelby, Ranking Member Richard J. Durbin.',
+        source: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm'
+      },
+      {
+        tier: 1,
+        text: '2020 holders (116th Congress), House: HASC Chairman Adam Smith, Ranking Member Mac Thornberry; HAC Chair Nita M. Lowey, Ranking Member Kay Granger; HAC Defense Subcommittee Chairman Peter J. Visclosky, Ranking Member Ken Calvert.',
+        source: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm'
+      },
+      {
+        tier: 1,
+        text: '2023 holders (118th Congress), Senate: SASC Chairman Jack Reed, Ranking Member Roger F. Wicker; SAC Chairman Patty Murray, Ranking Member Susan M. Collins; SAC Defense Subcommittee Chairman Jon Tester, Ranking Member Susan M. Collins.',
+        source: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm'
+      },
+      {
+        tier: 1,
+        text: '2023 holders (118th Congress), House Appropriations Defense Subcommittee: Chair Ken Calvert, Ranking Member Betty McCollum.',
+        source: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress'
+      },
+      {
+        tier: 1,
+        text: '2023 holders (118th Congress), House Armed Services: Chairman Mike Rogers and Ranking Member Adam Smith jointly announced the committee\'s subcommittee rosters for the 118th Congress.',
+        source: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress'
+      },
+      {
+        tier: 2,
+        text: '2023 holders (118th Congress), House Appropriations: Chairwoman Kay Granger and Ranking Member Rosa DeLauro.',
+        source: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career'
+      },
+      {
+        tier: 1,
+        text: 'DoD Directive 5205.07, reissued 12 September 2024, sets DoD special access program policy and its glossary defines SAP, SAP umbrella, SAP compartment, Joint Force Integration SAP and Strategic Enabler SAP. It does not define or use the terms \'acknowledged\', \'unacknowledged\' or \'waived\' SAP, which appeared in the superseded July 2010 version.',
+        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'DoDD 5205.07 para. 3.1.g requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO through their cognizant authority SAPCO when briefing or providing DoD SAP material to any member of Congress or their staff, and bars any DoD contractor entity, employee, representative or consultant from providing SAP material to members of Congress or their staff without Director, DoD SAPCO approval.',
+        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congressional SAP facilities and to maintain records of DoD SAP information provided to Congress.',
+        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
+      }
+    ],
+    sources: [
+      {
+        name: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
+        date: null
+      },
+      {
+        name: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
+        date: null
+      },
+      {
+        name: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - ; and DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists',
+        url: 'https://sgp.fas.org/library/moynihan/chap2.html',
+        date: null
+      },
+      {
+        name: 'armed-services.senate.gov',
+        url: 'https://www.armed-services.senate.gov/about/membership',
+        date: null
+      },
+      {
+        name: 'army.mil',
+        url: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
+        date: null
+      },
+      {
+        name: 'democrats-appropriations.house.gov',
+        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
+        date: null
+      },
+      {
+        name: 'armedservices.house.gov',
+        url: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
+        date: null
+      },
+      {
+        name: 'democrats-appropriations.house.gov',
+        url: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career',
+        date: null
+      }
+    ]
+  },
+  {
     id: 'uap-governance-board',
     cls: 'institution',
     label: 'UAP Governance Board',
@@ -7995,7 +8311,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 788 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 792 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -8031,7 +8347,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 658 of 956, score 21). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 661 of 956, score 21). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8087,7 +8403,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 332 of 956, score 33). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 335 of 956, score 33). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -8153,7 +8469,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 288 of 956, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 290 of 956, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -8255,7 +8571,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 127 of 956, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 128 of 956, score 51). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -8362,7 +8678,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 576 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 579 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -8413,7 +8729,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 215 of 956, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 216 of 956, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -8469,7 +8785,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 466 of 956, score 28). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 470 of 956, score 28). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -8510,7 +8826,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 791 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 795 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8556,7 +8872,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 875 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 876 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -8584,7 +8900,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 734 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 739 of 956, score 18). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -8725,7 +9041,7 @@ export const INSTITUTIONS = [
     dateEnd: '2009-12-01',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 676 of 956, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 681 of 956, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -8776,7 +9092,7 @@ export const INSTITUTIONS = [
     dateEnd: '2000',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 467 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 471 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -8916,7 +9232,17 @@ export const INSTITUTIONS = [
         url: 'https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf',
         date: '1999-07-01'
       },
-      { name: 'COMETA report - Wikipedia', url: 'https://en.wikipedia.org/wiki/COMETA_report', date: '2026-01-01' }
+      { name: 'COMETA report - Wikipedia', url: 'https://en.wikipedia.org/wiki/COMETA_report', date: '2026-01-01' },
+      {
+        name: 'COMETA, \'Les OVNI et la Défense - À quoi doit-on se préparer ?\', Éditions du Rocher, 2003, ISBN 2-268-04592-7',
+        url: '',
+        date: null
+      },
+      {
+        name: 'https://cnes-geipan.fr/en/documentation',
+        url: 'https://cnes-geipan.fr/en/documentation',
+        date: null
+      }
     ]
   },
   {
@@ -8934,7 +9260,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 78 of 956, score 68). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 79 of 956, score 68). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -9051,21 +9377,26 @@ export const INSTITUTIONS = [
       { name: 'GEIPAN - Statistiques', url: 'https://www.geipan.fr/fr/stats', date: '2026-08-11' },
       { name: 'GEIPAN - accueil et actualités', url: 'https://www.geipan.fr/', date: '2026-08-12' },
       { name: 'GEIPAN - Wikipedia', url: 'https://en.wikipedia.org/wiki/GEIPAN', date: '2026-01-01' },
-      { name: 'cnes-geipan.fr', url: 'https://cnes-geipan.fr/en/histoire-du-geipan', date: null },
-      { name: 'cnes-geipan.fr', url: 'https://cnes-geipan.fr/en/stats', date: null },
-      { name: 'cnes.fr', url: 'https://cnes.fr/en/projects/geipan', date: null },
       {
-        name: '\'French Government UFO Study\', contemporaneous English-language summary submitted by Ron Westrum, held in the NSA public document collection',
-        url: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        name: 'https://cnes-geipan.fr/en/histoire-du-geipan',
+        url: 'https://cnes-geipan.fr/en/histoire-du-geipan',
         date: null
       },
+      { name: 'https://cnes-geipan.fr/en/stats', url: 'https://cnes-geipan.fr/en/stats', date: null },
+      { name: 'https://cnes-geipan.fr/en/search/cas', url: 'https://cnes-geipan.fr/en/search/cas', date: null },
+      { name: 'https://cnes.fr/en/projects/geipan', url: 'https://cnes.fr/en/projects/geipan', date: null },
       {
-        name: 'cnes-geipan.fr',
+        name: 'https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf',
         url: 'https://www.cnes-geipan.fr/sites/default/files/note_tech_16.pdf',
         date: null
       },
       {
-        name: 'Office of the Chief Science Advisor of Canada, \'Management of Public Reporting of Unidentified Aerial Phenomena in Canada\', 2025',
+        name: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        url: 'https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/french_gov_ufo_study.pdf',
+        date: null
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: null
       }
@@ -9086,7 +9417,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 832 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 834 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -9122,7 +9453,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 607 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 612 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -9178,7 +9509,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 80 of 956, score 67). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 81 of 956, score 67). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -9279,31 +9610,44 @@ export const INSTITUTIONS = [
         url: 'https://science.gc.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: '2025-06-01'
       },
-      { name: 'sefaa.dgac.gob.cl', url: 'https://sefaa.dgac.gob.cl/quienes-somos/', date: null },
       {
-        name: 'dgac.gob.cl',
+        name: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        url: 'https://sefaa.dgac.gob.cl/quienes-somos/',
+        date: null
+      },
+      {
+        name: 'https://sefaa.dgac.gob.cl/reportar-un-caso/',
+        url: 'https://sefaa.dgac.gob.cl/reportar-un-caso/',
+        date: null
+      },
+      {
+        name: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
         url: 'https://www.dgac.gob.cl/cefaa-un-modelo-investigativo-de-fenomenos-aereos-anomalos/',
         date: null
       },
-      { name: 'dgac.gob.cl', url: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/', date: null },
       {
-        name: 'ised-isde.canada.ca',
+        name: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/',
+        url: 'https://www.dgac.gob.cl/cefaa-celebra-21-anos-de-vida/',
+        date: null
+      },
+      {
+        name: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         url: 'https://ised-isde.canada.ca/site/science/en/office-chief-science-advisor/sky-canada-project/management-public-reporting-unidentified-aerial-phenomena-canada',
         date: null
       },
       {
-        name: 'Newsweek, \'Chilean Navy Can\'t Identify Mysterious Aircraft Caught on Video\' - ; Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017',
+        name: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
         url: 'https://www.newsweek.com/chilean-navy-id-mysterious-aircraft-caught-video-539786',
+        date: null
+      },
+      {
+        name: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
+        url: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
         date: null
       },
       {
         name: 'Newsweek, \'Chilean Navy Can\'t Identify Mysterious Aircraft Caught on Video\' - ; Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017',
         url: 'https://www.huffpost.com/entry/groundbreaking-ufo-video-just-released-from-chilean_b_586d37bce4b014e7c72ee56b',
-        date: null
-      },
-      {
-        name: 'Huffington Post, \'Groundbreaking UFO Video Just Released By Chilean Navy\', 4 January 2017 - ; Metabunk, \'Explained: Chilean Navy "UFO" video - Aerodynamic Contrails, Flight IB6830\'',
-        url: 'https://www.metabunk.org/threads/explained-chilean-navy-ufo-video-aerodynamic-contrails-flight-ib6830.8306/',
         date: null
       }
     ]
@@ -9323,7 +9667,7 @@ export const INSTITUTIONS = [
     dateEnd: '1991',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 877 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 878 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -9360,7 +9704,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 426 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 429 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -9401,7 +9745,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 677 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 682 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -9443,7 +9787,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 762 of 956, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 766 of 956, score 17). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9489,7 +9833,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 861 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 862 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9540,7 +9884,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 838 of 956, score 14). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 840 of 956, score 14). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -9570,212 +9914,6 @@ export const INSTITUTIONS = [
         date: '2019-10-03'
       }
     ]
-  },
-  {
-    id: 'waived-sap-notification-group',
-    cls: 'institution',
-    label: 'Waived SAP Notification Group',
-    cluster: 'oversight',
-    sub: '10 U.S.C. 119(e)(2) - the chairman and ranking minority member of each defense committee; twelve members, not the Gang of Eight',
-    desc: 'The group that receives notification of a WAIVED Department of Defense special access program is not the Gang of Eight, and conflating the two is the single most common error in public argument about how a legacy programme could be hidden. The waived-SAP channel is created by 10 U.S.C. 119(e). Subsection (e)(1) provides: \'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis.\' Subsection (e)(2) then specifies where the withheld material goes instead: \'If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.\' The term \'defense committees\' is defined not by the general Title 10 definition but by section 119\'s own subsection (g): \'the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate\' and \'the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.\' Six bodies, each contributing a chairman and a ranking minority member: twelve members of Congress. This is deliberately narrower than a full committee and deliberately wider than eight. Note that 10 U.S.C. 101(a)(16) defines a different, similar-sounding term, \'congressional defense committees,\' as only the Armed Services and Appropriations Committees of the two chambers - four bodies, eight chairs and rankings. Section 119 does not use that definition; it uses its own, which adds the two Defense Appropriations Subcommittees. A board that cites 101(a)(16) for the waived-SAP group would be naming the wrong set. The Gang of Eight is a separate creature governing covert action, not DoD SAPs. Under 50 U.S.C. 3093(c)(2), where the President determines that it is essential to limit access to a covert action finding to meet extraordinary circumstances affecting vital interests of the United States, \'the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.\' Different committees (intelligence, not armed services or appropriations), different people (the four party leaders sit in the Gang of Eight and are absent from the 119(e) group; the appropriators sit in the 119(e) group and are absent from the Gang of Eight), and different subject matter. The structural comparison is where the argument actually lives, and it cuts against the covert-action statute being the tighter one. Title 50 contains two escape valves that Title 10 does not. First, 50 U.S.C. 3093(c)(5)(B) imposes a 180-day clock: within 180 days of a statement of reasons for limiting access, the President must either give all members of the intelligence committees access to the finding or submit a fresh statement of reasons for continuing to withhold. Section 119(e) contains no sunset, no periodic re-justification, and no mechanism that ever widens the circle. A waiver, once made, is permanent as to that report. Second, 50 U.S.C. 3093(g)(1)-(2) requires the President to tell all members of the intelligence committee that a limited notification occurred and to give them a general description of it. Section 119 has no analogue: the members of the Armed Services and Appropriations Committees who are not chair or ranking are never told that a waiver happened at all. They cannot ask about what they do not know exists. That asymmetry - no sunset, no notice of bypass - is the load-bearing limit on congressional oversight of a waived programme, and it is a limit written into the statute rather than an abuse of it. What the twelve can see is also bounded. They receive the withheld report content and the Secretary\'s justification. They do not thereby acquire subpoena power over the programme, staff who can read the material, or any statutory right to share it with colleagues. What they cannot see is anything the Department declines to characterise as a DoD special access program at all - the recurring allegation in the UAP context being that recovery and reverse-engineering activity was moved into contractor-held or non-DoD structures where section 119 does not reach. Finally, the mechanism\'s present scope is narrower than it was. Pub. L. 114-328 section 1061(c)(4) lists \'Section 119(a) and (b)\' among the reporting requirements it terminates, and section 1061(b)(1) provides that each such report still required as of December 31, 2021 \'shall no longer be required to be submitted to Congress after that date.\' The Office of the Law Revision Counsel carries this as a Termination of Reporting Requirements note under section 119. The annual SAP budget report and the annual new-SAP designation-and-justification report are therefore gone. Because 119(e)(1) can only waive a requirement \'under subsection (a), (b), or (c),\' the waiver authority now has live operation only as to subsection (c), the report on a planned change in classification or a planned declassification and public announcement. Subsections (d), (f) and (g) survive and are not waivable at all - notably 119(f), which bars initiating any SAP until the defense committees are notified and thirty days elapse.',
-    tier: 'A',
-    C: 3,
-    A: 1,
-    D: 3,
-    dateStart: null,
-    dateEnd: null,
-    coords: null,
-    locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 23 of 956, score 103). 31 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A1/D3.',
-    claims: [
-      {
-        tier: 1,
-        text: '10 U.S.C. 119(e)(2) directs waived-SAP information and the waiver justification \'jointly to the chairman and ranking minority member of each of the defense committees\' - twelve members, given the six bodies listed in 119(g).',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: '10 U.S.C. 119(g) defines \'defense committees\' for this section as the Senate Armed Services Committee, Senate Appropriations Committee, Senate Appropriations Defense Subcommittee, House Armed Services Committee, House Appropriations Committee, and House Appropriations Defense Subcommittee.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: '10 U.S.C. 101(a)(16) defines the different term \'congressional defense committees\' as only \'(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and (B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives\' - four bodies, not the six used by section 119.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: 'The Gang of Eight under 50 U.S.C. 3093(c)(2) consists of \'the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.\' It governs covert action findings, not DoD special access programs.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: '50 U.S.C. 3093(c)(5)(B) forces re-justification or widened access within 180 days of a limited covert-action notification. 10 U.S.C. 119(e) contains no sunset and no re-justification requirement, so a SAP reporting waiver is permanent as to that report.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: '50 U.S.C. 3093(g)(1)-(2) requires that all members of the intelligence committee be told a limited notification occurred and be given a general description of it. Section 119 imposes no equivalent duty, so non-leadership members of the defense committees are never informed that a waiver has been exercised.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: 'Pub. L. 114-328 sec. 1061(c)(4) lists \'Section 119(a) and (b)\' among terminated reporting requirements, and sec. 1061(b)(1) ends them after 31 December 2021. The OLRC note under section 119 records the termination as effective 31 December 2021.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim'
-      },
-      {
-        tier: 2,
-        text: 'Because 119(e)(1) reaches only \'a requirement under subsection (a), (b), or (c),\' and (a) and (b) terminated on 31 December 2021, the waiver authority retains live operation only as to subsection (c) - reports of a planned classification change or declassification. This is an inference from the statutory text, not a statement carried in the statute itself.',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: '10 U.S.C. 119(f) bars initiating a special access program until the defense committees are notified and thirty days elapse. Subsection (f) is outside the reach of the 119(e)(1) waiver, which by its terms covers only subsections (a), (b) and (c).',
-        source: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
-      },
-      {
-        tier: 1,
-        text: 'August 2026 holders of the twelve offices: Roger F. Wicker (SASC Chairman) and Jack Reed (SASC Ranking Member); Susan Collins (SAC Chair) and Patty Murray (SAC Vice Chair); Mitch McConnell (SAC Defense Subcommittee Chair) and Christopher A. Coons (SAC Defense Subcommittee Ranking Member); Mike Rogers of Alabama (HASC Chairman) and Adam Smith (HASC Ranking Member); Tom Cole (HAC Chairman) and Rosa L. DeLauro (HAC Ranking Member); Ken Calvert (HAC Defense Subcommittee Chair) and Betty McCollum (HAC Defense Subcommittee Ranking Member).',
-        source: 'https://www.armed-services.senate.gov/about/membership'
-      },
-      {
-        tier: 1,
-        text: '2009 holders (111th Congress): SASC Chairman Carl Levin, Ranking Member John McCain; SAC Chairman Daniel K. Inouye, Ranking Member Thad Cochran; SAC Defense Subcommittee Chairman Daniel K. Inouye, Ranking Member Thad Cochran; HASC Chairman Ike Skelton, senior Republican Howard P. \'Buck\' McKeon; HAC Chairman David R. Obey, Ranking Member Jerry Lewis; HAC Defense Subcommittee Chairman John P. Murtha, Ranking Member C. W. Bill Young.',
-        source: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm'
-      },
-      {
-        tier: 1,
-        text: 'The December 2009 Congressional Directory records Ike Skelton as HASC Chairman and Howard P. \'Buck\' McKeon as senior Republican, David R. Obey as HAC Chairman with Jerry Lewis senior Republican, and John P. Murtha as HAC Defense Subcommittee Chairman with C. W. Bill Young senior Republican.',
-        source: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm'
-      },
-      {
-        tier: 2,
-        text: 'John M. McHugh, who had been the senior House Armed Services Republican before McKeon, took office as Secretary of the Army in 2009, which is why the December 2009 directory shows McKeon in the ranking seat.',
-        source: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army'
-      },
-      {
-        tier: 1,
-        text: '2020 holders (116th Congress): SASC Chairman James M. Inhofe, Ranking Member Jack Reed; SAC Chairman Richard C. Shelby, senior Democrat Patrick J. Leahy; SAC Defense Subcommittee Chairman Richard C. Shelby, Ranking Member Richard J. Durbin.',
-        source: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm'
-      },
-      {
-        tier: 1,
-        text: '2020 holders (116th Congress), House: HASC Chairman Adam Smith, Ranking Member Mac Thornberry; HAC Chair Nita M. Lowey, Ranking Member Kay Granger; HAC Defense Subcommittee Chairman Peter J. Visclosky, Ranking Member Ken Calvert.',
-        source: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm'
-      },
-      {
-        tier: 1,
-        text: '2023 holders (118th Congress), Senate: SASC Chairman Jack Reed, Ranking Member Roger F. Wicker; SAC Chairman Patty Murray, Ranking Member Susan M. Collins; SAC Defense Subcommittee Chairman Jon Tester, Ranking Member Susan M. Collins.',
-        source: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm'
-      },
-      {
-        tier: 1,
-        text: '2023 holders (118th Congress), House Appropriations Defense Subcommittee: Chair Ken Calvert, Ranking Member Betty McCollum.',
-        source: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress'
-      },
-      {
-        tier: 1,
-        text: '2023 holders (118th Congress), House Armed Services: Chairman Mike Rogers and Ranking Member Adam Smith jointly announced the committee\'s subcommittee rosters for the 118th Congress.',
-        source: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress'
-      },
-      {
-        tier: 2,
-        text: '2023 holders (118th Congress), House Appropriations: Chairwoman Kay Granger and Ranking Member Rosa DeLauro.',
-        source: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career'
-      },
-      {
-        tier: 1,
-        text: 'DoD Directive 5205.07, reissued 12 September 2024, sets DoD special access program policy and its glossary defines SAP, SAP umbrella, SAP compartment, Joint Force Integration SAP and Strategic Enabler SAP. It does not define or use the terms \'acknowledged\', \'unacknowledged\' or \'waived\' SAP, which appeared in the superseded July 2010 version.',
-        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
-      },
-      {
-        tier: 1,
-        text: 'DoDD 5205.07 para. 3.1.g requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO through their cognizant authority SAPCO when briefing or providing DoD SAP material to any member of Congress or their staff, and bars any DoD contractor entity, employee, representative or consultant from providing SAP material to members of Congress or their staff without Director, DoD SAPCO approval.',
-        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
-      },
-      {
-        tier: 1,
-        text: 'DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congressional SAP facilities and to maintain records of DoD SAP information provided to Congress.',
-        source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf'
-      }
-    ],
-    sources: [
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim',
-        date: null
-      },
-      {
-        name: 'armed-services.senate.gov',
-        url: 'https://www.armed-services.senate.gov/about/membership',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-111spub13/html/GPO-CPUB-111spub13.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2009-12-01/html/CDIR-2009-12-01-HOUSECOMMITTEES.htm',
-        date: null
-      },
-      {
-        name: 'army.mil',
-        url: 'https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-SENATECOMMITTEES.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/CDIR-2020-07-22/html/CDIR-2020-07-22-HOUSECOMMITTEES.htm',
-        date: null
-      },
-      {
-        name: 'govinfo.gov',
-        url: 'https://www.govinfo.gov/content/pkg/GPO-CPUB-118spub3/html/GPO-CPUB-118spub3.htm',
-        date: null
-      },
-      {
-        name: 'democrats-appropriations.house.gov',
-        url: 'https://democrats-appropriations.house.gov/subcommittees/defense-118th-congress',
-        date: null
-      },
-      {
-        name: 'armedservices.house.gov',
-        url: 'https://armedservices.house.gov/news/press-releases/rogers-smith-announce-subcommittee-rosters-118th-congress',
-        date: null
-      },
-      {
-        name: 'democrats-appropriations.house.gov',
-        url: 'https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career',
-        date: null
-      },
-      {
-        name: 'esd.whs.mil',
-        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf',
-        date: null
-      }
-    ]
   }
 ];
 
@@ -9795,7 +9933,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 45 of 956, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 46 of 956, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9942,52 +10080,52 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'DIA published solicitation HHM402-08-R-0211, \'ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM\', as a Combined Synopsis/Solicitation on FedBizOpps, original posted date 18 August 2008, response date 05 September 2008 4:00pm Eastern, original archive date 31 October 2008. Set aside: Total Small Business. Classification Code \'B -- Special studies and analysis - not R&D\'. NAICS 541330 Engineering Services, size standard $25 million. Issued by the Virginia Contracting Activity for \'engineering services in the Washington DC area\'. \'One firm fixed price contract is anticipated to be awarded as a result of this\' solicitation.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/'
       },
       {
         tier: 1,
         text: 'DIA Talking Paper U-973-09 states the RFP broke the work into twelve technical areas: Lift; Propulsion; Control; Armament (radio-frequency and directed-energy weapons); Spatial/temporal Translation; Signature Reduction; Materials; Configuration/structure; Power Generation; Human Effects (of advanced tech on operators); Human Interface (i.e. pilot controls); Technology Integration.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/'
       },
       {
         tier: 1,
         text: '\'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive and the contract signed on 22 September 2008.\' (DIA Talking Paper U-326-09, 02 January 2009)',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552 to USD(AT&L): \'The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add. The purpose of this congressional add was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years and to build an infrastructure to house a center of expertise on advanced aerospace technologies.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
         text: 'Same memo: \'The FY 2010 Defense Appropriations Act included a $12 million add for the project. Twelve additional reports were produced and delivered.\' Total across FY08 supplemental ($10M) and FY10 ($12M) = $22M.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 1,
-        text: 'AARO Historical Record Report Vol. I: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-range aerospace threats.\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
+        text: 'AARO Historical Record Report Vol. I: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
         tier: 1,
         text: 'USD(I) memorandum to the Deputy Secretary of Defense states plainly: \'The AAITP that SEN Reid refers to is officially the Advanced Aerospace Weapon System Application Program (AAWSAP) contract managed by DIA. Its primary purpose is to investigate revolutionary advances in future aerospace technologies with emphasis on research of unconventional and revolutionary technologies. The sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas, NV.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'Same USD(I) memo: \'The resulting contract was for multiple sub-contractors to perform unclassified research in 11 technical areas and deliver technical reports on those areas by July 31 2009.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIRD inside covers name the program \'Advanced Aerospace Weapon System Applications (AAWSA) Program\' and reference an \'AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\'. The program manager\'s name is redacted under (b)(3) 10 USC 424 and (b)(6) throughout the release.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 3,
         text: 'The solicitation was issued through the Virginia Contracting Activity (VCA), DIA\'s contracting arm, and coded \'B -- Special studies and analysis - not R&D\' rather than as R&D. Combined with the Total Small Business set-aside on a $10M congressional add, this is a procurement structure that minimises public visibility: VCA awards are largely absent from public FPDS/USAspending data (confirmed: FPDS ATOM query for PIID HHM402-08-C-0072 returns an empty feed).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/'
       },
       {
         tier: 1,
@@ -10023,27 +10161,27 @@ export const PROGRAMS = [
     sources: [
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2009-05-04'
       },
       {
@@ -10116,8 +10254,8 @@ export const PROGRAMS = [
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/',
         date: '2023-09-01'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/', date: null },
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/', date: null }
     ]
   },
   {
@@ -10140,17 +10278,17 @@ export const PROGRAMS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-09-2660 (13 Nov 2009) frames the two names as the same thing: it evaluates \'a request from Senator Harry Reid (enclosure 1) to establish a restricted special access program (SAP) for the Advanced Aerospace Weapon System Application Program Contract, referred to in Senator Reid\'s letter as the Advanced Aerospace Threat and Identification Program (AAITP).\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
         text: 'The DIA release consistently spells it \'AAITP\' (Advanced Aerospace Threat and Identification Program) in 2009 documents, not the later-familiar \'AATIP\'. The USD(I) memorandum subject line reads: \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 1,
         text: 'DIA Read Ahead for the 19 Nov 2009 meeting states the DIA position: \'the content of the deliverables from the Advanced Aerospace Weapon System Application Program contract, referred to by Senator Reid as the AATIP, for FY09 and those expected in FY10, do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/'
       },
       {
         tier: 1,
@@ -10160,7 +10298,7 @@ export const PROGRAMS = [
       {
         tier: 3,
         text: 'The concealment-relevant fact is not that AATIP was fake but that it was administratively real and deliberately kept out of SAP channels. DIA\'s own recommendation against a SAP (Nov 2009) is what later allowed officials to characterise AATIP as low-significance: a program denied special protection leaves no SAP paper trail to point at.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
@@ -10169,7 +10307,7 @@ export const PROGRAMS = [
       },
       {
         tier: 3,
-        text: 'AARO\'s formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA\'s own 2009 correspondence uses \'AAITP\' and \'AAWSAP\' interchangeably for the same contract, so the \'never an official program\' line depends entirely on which of the two names is treated as canonical.',
+        text: 'AARO\'s formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA\'s own 2009 correspondence uses \'AAITP\' and \'AAWSAP\' interchangeably for the same contract, so the \'never an official DoD program\' line depends entirely on which of the two names is treated as canonical.',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
@@ -10221,27 +10359,27 @@ export const PROGRAMS = [
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
@@ -10336,7 +10474,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 30 of 956, score 91). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 32 of 956, score 91). 12 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -10921,7 +11059,7 @@ export const PROGRAMS = [
       },
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       },
       {
@@ -10951,7 +11089,7 @@ export const PROGRAMS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 21 of 956, score 104). 26 connections, 11 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 22 of 956, score 104). 26 connections, 11 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -11083,7 +11221,7 @@ export const PROGRAMS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 186 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 187 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -11144,7 +11282,7 @@ export const PROGRAMS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 395 of 956, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 398 of 956, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -11205,7 +11343,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 240 of 956, score 37). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 241 of 956, score 37). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -11353,7 +11491,7 @@ export const PROGRAMS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 651 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 654 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11404,7 +11542,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 531 of 956, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 533 of 956, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -11531,7 +11669,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 189 of 956, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 190 of 956, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -11617,7 +11755,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 41 of 956, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 21 of 956, score 107). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -11633,6 +11771,56 @@ export const PROGRAMS = [
         tier: 3,
         text: 'The combination that produces a genuinely invisible program is not one provision but three stacked: 119(e) removes the content from the written record; the sec. 1061 Pub. L. 114-328 sunset (eff. 31 Dec 2021) removed the annual census that would otherwise show a count; and the DoDD 5205.07 carve-out provision (see 32 CFR 117.6) removes DCSA from the contractor facility where the work is performed. Each layer is individually lawful and documented; the stack is what defeats discovery. Reasoning stated.',
         source: 'https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6'
+      },
+      {
+        tier: 1,
+        text: 'VERDICT ON THE BOARD\'S QUESTION: the waiver has been exercised, and the Department of Defense says so in a currently effective, publicly released instruction - but no public document identifies a single specific instance, a count, a date, a program, or any connection to unidentified anomalous phenomena. DoD Instruction 5205.11, effective 12 September 2024, paragraph 1.2.f, states verbatim: \'The Secretary of Defense may designate select unacknowledged SAPs as "waived" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.\' This is not a hypothetical authority described in the abstract; the rest of the instruction is written around an existing population of such programs.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'THE STRONGEST SINGLE PIECE OF EVIDENCE THAT THE POPULATION IS NON-EMPTY IS A RECURRING REVIEW REQUIREMENT. DoDI 5205.11 requires that in its annual review the Special Access Program Oversight Committee - chaired by the Deputy Secretary of Defense - shall assess, among four listed items, \'(d) All waived DoD SAPs to determine the need for continued waived status.\' A standing annual agenda item to decide whether waived programs should REMAIN waived is only drafted if waived programs exist. This is a 2024 document, so the finding is current, not historical.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'The Department\'s own definition, from the DoDI 5205.11 glossary, verbatim: \'waived SAP - A SAP for which the Secretary of Defense has waived applicable reporting following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.\' And, adjacent to it: \'unacknowledged SAP - A SAP having enhanced security measures, ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.\' A waived SAP is therefore a proper subset of the unacknowledged SAPs, distinguished precisely by the exercise of the Section 119(e)(1) waiver.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'Administrative plumbing specific to waived programs exists in the same instruction, which again indicates live use rather than dormant authority. Footnote 5 reads verbatim: \'CA and OA SAPCO Directors may delegate AAA for non-waived SAPs to the DoD Component\'s SAPCO staff. AAA for waived SAPs may be delegated to the SAPCO Deputy Director or alternate designee.\' Footnote 6 reads verbatim: \'DoD SAPCO will coordinate on PARs for judicial and other federal agency personnel for waived programs.\' A department does not write delegation rules and a judicial-access coordination rule for an empty set.',
+        source: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'THE PUBLIC TAXONOMY HAS BEEN NARROWING. DoD Directive 5205.07, \'Special Access Program Policy\', was reissued effective 12 September 2024 and cancels the 1 July 2010 version. The full public text of the 2024 directive - purpose, applicability, policy, all thirteen responsibility assignments, the governance section, the complete glossary and the reference list - contains no occurrence of the words \'waived\' or \'unacknowledged\' at all. The directive that used to define the waived category no longer mentions it; the taxonomy now survives publicly only in the subordinate instruction, DoDI 5205.11. Anyone checking only the directive would conclude the category no longer exists.',
+        source: 'DoD Directive 5205.07, \'Special Access Program Policy\', effective 12 September 2024, cleared for public release - https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'HISTORICAL CORROBORATION FROM A CONGRESSIONALLY CHARTERED COMMISSION. The Report of the Commission on Protecting and Reducing Government Secrecy (1997), Chapter II, states verbatim: \'Among black programs, further distinction is made for "waived" programs, considered to be so sensitive that they are exempt from standard reporting requirements to the Congress. The chairperson, ranking member, and, on occasion, other members and staff of relevant Congressional committees are notified only orally of the existence of these programs.\' The same passage gives the surrounding population: \'There are approximately 150 DoD-approved SAPs (the exact number is classified and others have been created but not yet formally approved), down from 200 in the late 1980s, and roughly 300 SCI compartments, compared with an estimated 800 in the late 1980s.\' The Commission gives no number for the waived subset. The phrase \'notified only orally\' is the operationally important one: it describes a practice under which the 119(e)(2) delivery leaves no paper.',
+        source: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html'
+      },
+      {
+        tier: 1,
+        text: 'GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: \'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.\' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - \'DOD used waivers and exemptions to limit review, documentation, and reporting requirements\' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of \'waiver\' be conflated on the board.',
+        source: 'GAO/NSIAD-93-78, \'Defense Acquisition: Oversight of Special Access Programs Has Increased\', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf'
+      },
+      {
+        tier: 1,
+        text: 'The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7\'s January 1989 revision requiring \'listings by the responsible program officer of all DOD regulations for which compliance has been waived\' - again a different mechanism.',
+        source: 'GAO/NSIAD-89-133, \'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements\', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf'
+      },
+      {
+        tier: 1,
+        text: 'WHAT SHOULD EXIST IF THE WAIVER WERE BEING USED, AND WHY NONE OF IT IS PUBLIC. Four artefacts are implied by the statute and the DoD instruction: (i) the underlying 119(a), (b) or (c) report itself, which is classified and, for (a) and (b), no longer statutorily required after 31 December 2021; (ii) the Secretary\'s case-by-case determination that inclusion would adversely affect national security, which 119(e)(1) requires to be made but does not require to be recorded in any publicly indexed form; (iii) the withheld information plus a written justification delivered jointly to twelve named members, which by the Moynihan Commission\'s account has historically been delivered orally; and (iv) the SAPOC annual review record of whether each waived program should retain that status, which is internal to the Department. None of the four is a public document class. There is no statutory requirement anywhere in Section 119 to report the NUMBER of waivers exercised, the fact that any waiver was exercised, or an aggregate count, to anyone outside those twelve seats. The absence of a public instance is therefore fully explained by the design of the mechanism and is NOT evidence of concealment beyond what the statute itself authorises.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf ; Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html'
+      },
+      {
+        tier: 2,
+        text: 'NO UAP-SPECIFIC EXERCISE OF THE 119(e)(1) WAIVER WAS FOUND IN ANY PUBLIC DOCUMENT. Searches across GAO\'s special access program series, DoD Inspector General audits and evaluations, Congressional Research Service products, and the Senate and House Armed Services Committee document sets returned no document in which a waived special access program is linked to unidentified anomalous phenomena, and no document in which any specific exercise of the Section 119(e)(1) waiver - UAP or otherwise - is identified, dated, counted or described. The DoD Inspector General\'s public catalogue for special access programs consists of external peer reviews and quality control reviews of the service audit agencies\' SAP audit work, plus a series of entries titled only \'CLASSIFIED REPORT (Classified)\'; none addresses congressional reporting under Section 119.',
+        source: 'Negative result of searches restricted to gao.gov, dodig.mil, crsreports.congress.gov, armed-services.senate.gov, armedservices.house.gov and govinfo.gov during this pass'
       },
       {
         tier: 1,
@@ -11672,6 +11860,36 @@ export const PROGRAMS = [
         date: '2024-01-05'
       },
       {
+        name: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release - https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'DoD Directive 5205.07, \'Special Access Program Policy\', effective 12 September 2024, cleared for public release - https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists - https://sgp.fas.org/library/moynihan/chap2.html',
+        url: '',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-93-78, \'Defense Acquisition: Oversight of Special Access Programs Has Increased\', 21 December 1992 - https://www.gao.gov/assets/nsiad-93-78.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-89-133, \'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements\', 4 May 1989 - https://www.gao.gov/assets/nsiad-89-133.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
         name: 'DoD Instruction 5205.11, Management, Administration, and Oversight of DoD Special Access Programs (SAPs), 6 February 2013, incorporating Change 1, 31 August 2018',
         url: 'https://web.archive.org/web/20190916023050/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
         date: '2018-08-31'
@@ -11690,6 +11908,31 @@ export const PROGRAMS = [
         name: '32 CFR 117.6, Responsibilities (eCFR, current)',
         url: 'https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.6',
         date: '2026-08-12'
+      },
+      {
+        name: 'DoD Instruction 5205.11, \'Management, Administration, and Oversight of DoD Special Access Programs\', 12 September 2024, cleared for public release',
+        url: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf',
+        date: null
+      },
+      {
+        name: 'DoD Directive 5205.07, \'Special Access Program Policy\', effective 12 September 2024, cleared for public release',
+        url: 'https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf',
+        date: null
+      },
+      {
+        name: 'Report of the Commission on Protecting and Reducing Government Secrecy (the Moynihan Commission), S. Doc. 105-2, 1997, Chapter II, as mirrored by the Federation of American Scientists',
+        url: 'https://sgp.fas.org/library/moynihan/chap2.html',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-93-78, \'Defense Acquisition: Oversight of Special Access Programs Has Increased\', 21 December 1992',
+        url: 'https://www.gao.gov/assets/nsiad-93-78.pdf',
+        date: null
+      },
+      {
+        name: 'GAO/NSIAD-89-133, \'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements\', 4 May 1989',
+        url: 'https://www.gao.gov/assets/nsiad-89-133.pdf',
+        date: null
       }
     ]
   },
@@ -11860,7 +12103,7 @@ export const PROGRAMS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 698 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 703 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -11906,7 +12149,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 280 of 956, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 282 of 956, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -11958,7 +12201,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 595 of 956, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 600 of 956, score 23). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -12019,7 +12262,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 632 of 956, score 22). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 637 of 956, score 22). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -12111,7 +12354,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 281 of 956, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 283 of 956, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -12167,7 +12410,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 539 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 541 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -12213,7 +12456,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 814 of 956, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 817 of 956, score 15). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -12250,7 +12493,7 @@ export const PROGRAMS = [
     dateEnd: '1952',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 653 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 656 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -12286,7 +12529,7 @@ export const PROGRAMS = [
     dateEnd: '1955',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 304 of 956, score 34). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 307 of 956, score 34). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -12383,7 +12626,7 @@ export const PROGRAMS = [
     dateEnd: '1951',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 511 of 956, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 514 of 956, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -12542,7 +12785,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 306 of 956, score 34). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 309 of 956, score 34). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -12583,7 +12826,7 @@ export const PROGRAMS = [
     dateEnd: '1989',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 572 of 956, score 24). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 575 of 956, score 24). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -12629,7 +12872,7 @@ export const PROGRAMS = [
     dateEnd: '1983',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 544 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 546 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -12675,7 +12918,7 @@ export const PROGRAMS = [
     dateEnd: '1986',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 702 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 707 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -12711,7 +12954,7 @@ export const PROGRAMS = [
     dateEnd: '1991',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 600 of 956, score 23). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 605 of 956, score 23). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -12752,7 +12995,7 @@ export const PROGRAMS = [
     dateEnd: '1996',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 513 of 956, score 26). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 516 of 956, score 26). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -12808,7 +13051,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 815 of 956, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 818 of 956, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -12951,7 +13194,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 786 of 956, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 790 of 956, score 16). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -13033,7 +13276,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 375 of 956, score 31). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 379 of 956, score 31). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -13069,7 +13312,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 463 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 467 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -13100,7 +13343,7 @@ export const PROGRAMS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 245 of 956, score 37). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 246 of 956, score 37). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -13171,7 +13414,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 331 of 956, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 334 of 956, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -13237,7 +13480,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 604 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 609 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -13303,7 +13546,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 657 of 956, score 21). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 660 of 956, score 21). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -13404,26 +13647,26 @@ export const PROGRAMS = [
     ],
     sources: [
       {
-        name: 'Operação Prato - Wikipedia',
-        url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
-        date: '2026-01-01'
-      },
-      { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' },
-      {
-        name: 'Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 ()',
+        name: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         url: 'https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf',
         date: null
       },
       {
-        name: 'Câmara dos Deputados, Requerimento de Informações (RIC) 679/2011, Dep. Chico Alencar (PSOL/RJ), 22 June 2011, item 1.2 ()',
+        name: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         url: 'https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=891762&filename=RIC+679%2F2011',
         date: null
       },
       {
-        name: 'Senado Federal, Requerimento nº 193, de 2022 (RQS 193/2022), Sen. Eduardo Girão et al., justificação; Diário do Senado Federal nº 32 de 2022; approved in plenary 24/06/2022 ()',
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
         url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
         date: null
-      }
+      },
+      {
+        name: 'Operação Prato - Wikipedia',
+        url: 'https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato',
+        date: '2026-01-01'
+      },
+      { name: 'Arquivo Nacional - portal', url: 'https://www.gov.br/arquivonacional/pt-br', date: '2026-08-12' }
     ]
   },
   {
@@ -13441,7 +13684,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 517 of 956, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 520 of 956, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -13538,7 +13781,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 247 of 956, score 37). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 248 of 956, score 37). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -13584,7 +13827,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 216 of 956, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 217 of 956, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -13625,7 +13868,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 876 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 877 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -13661,7 +13904,7 @@ export const PROGRAMS = [
     dateEnd: '2000',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 333 of 956, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 336 of 956, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -13717,7 +13960,7 @@ export const PROGRAMS = [
     dateEnd: '2013-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 548 of 956, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 550 of 956, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -13788,7 +14031,7 @@ export const PROGRAMS = [
     dateEnd: '1951-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 860 of 956, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 861 of 956, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -13819,7 +14062,7 @@ export const PROGRAMS = [
     dateEnd: '1988',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 494 of 956, score 27). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 497 of 956, score 27). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -13871,7 +14114,7 @@ export const PROGRAMS = [
     dateEnd: '2004',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 735 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 740 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -13908,7 +14151,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 262 of 956, score 36). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 264 of 956, score 36). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -13974,7 +14217,7 @@ export const PROGRAMS = [
     dateEnd: '1954',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 606 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 611 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14030,7 +14273,7 @@ export const PROGRAMS = [
     dateEnd: '2025-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 425 of 956, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 428 of 956, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -14157,7 +14400,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 837 of 956, score 14). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 839 of 956, score 14). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -14317,7 +14560,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 480 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 483 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -14366,7 +14609,7 @@ export const LOCATIONS = [
       -104.8214
     ],
     locLabel: 'Colorado Springs, Colorado, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 652 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 655 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -14460,7 +14703,7 @@ export const LOCATIONS = [
       -76.7713
     ],
     locLabel: 'Fort Meade, Maryland, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 592 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 597 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -14512,7 +14755,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 726 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 731 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -14598,7 +14841,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 870 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 871 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [],
     sources: [
       {
@@ -14633,7 +14876,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 631 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 636 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -14684,7 +14927,7 @@ export const LOCATIONS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 829 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 831 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -14720,7 +14963,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 781 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 785 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14761,7 +15004,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 782 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 786 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14802,7 +15045,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 370 of 956, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 374 of 956, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14879,7 +15122,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 784 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 788 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 1,
@@ -14937,7 +15180,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 785 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 789 of 956, score 16). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D0.',
     claims: [
       {
         tier: 1,
@@ -15002,7 +15245,7 @@ export const LOCATIONS = [
       -106.3031
     ],
     locLabel: 'Los Alamos, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 459 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 463 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -15048,7 +15291,7 @@ export const LOCATIONS = [
     dateEnd: '1993',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 460 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 464 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -15094,7 +15337,7 @@ export const LOCATIONS = [
     dateEnd: '1975',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 673 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 678 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -15130,7 +15373,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 514 of 956, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 517 of 956, score 26). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -15171,7 +15414,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 260 of 956, score 36). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 262 of 956, score 36). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -15207,7 +15450,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 515 of 956, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 518 of 956, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -15253,7 +15496,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 757 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 761 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -15405,7 +15648,7 @@ export const LOCATIONS = [
       -106.6504
     ],
     locLabel: 'Albuquerque, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 380 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 384 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -15455,7 +15698,7 @@ export const LOCATIONS = [
       -104.523
     ],
     locLabel: 'Roswell, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 226 of 956, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 227 of 956, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -15570,7 +15813,7 @@ export const LOCATIONS = [
       -115.8111
     ],
     locLabel: 'Groom Lake, Nevada, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 381 of 956, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 385 of 956, score 31). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -15615,7 +15858,7 @@ export const LOCATIONS = [
       -115.0343
     ],
     locLabel: 'Nellis AFB, Nevada, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 760 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 764 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -15650,7 +15893,7 @@ export const LOCATIONS = [
       -116.7817
     ],
     locLabel: 'Tonopah Test Range, Nevada, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 579 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 582 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -15690,7 +15933,7 @@ export const LOCATIONS = [
       -106.4757
     ],
     locLabel: 'White Sands, New Mexico, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 608 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 613 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 2,
@@ -15734,7 +15977,7 @@ export const LOCATIONS = [
       -117.8837
     ],
     locLabel: 'Edwards AFB, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 794 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 798 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D0.',
     claims: [
       {
         tier: 2,
@@ -15815,7 +16058,7 @@ export const LOCATIONS = [
       -120.5724
     ],
     locLabel: 'Vandenberg SFB, California, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 427 of 956, score 29). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 430 of 956, score 29). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -15869,7 +16112,7 @@ export const LOCATIONS = [
       -105.2705
     ],
     locLabel: 'Boulder, Colorado, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 761 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 765 of 956, score 17). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -15919,7 +16162,7 @@ export const LOCATIONS = [
       -83.0413
     ],
     locLabel: 'Detroit Arsenal, Michigan, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 356 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 360 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -15945,8 +16188,13 @@ export const LOCATIONS = [
     sources: [
       {
         name: 'The Black Vault - Army/TTSA CRADA and FOIA records',
-        url: 'https://www.theblackvault.com/documentarchive/u-s-army-and-to-the-stars-academy-crada/',
+        url: 'https://www.theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-academy-of-arts-science/',
         date: '2019-10-18'
+      },
+      {
+        name: 'CRADA between CCDC Ground Vehicle Systems Center and To The Stars Academy, CRADA No. 19-15 (released PDF)',
+        url: 'https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -15968,7 +16216,7 @@ export const LOCATIONS = [
       -83.0458
     ],
     locLabel: 'Detroit, Michigan, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 835 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 837 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 3,
@@ -15998,7 +16246,7 @@ export const LOCATIONS = [
       -77.0364
     ],
     locLabel: 'Washington, DC, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 336 of 956, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 339 of 956, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -16072,7 +16320,7 @@ export const LOCATIONS = [
       -74.006
     ],
     locLabel: 'New York, New York, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 836 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 838 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -16116,7 +16364,7 @@ export const LOCATIONS = [
       -118.2437
     ],
     locLabel: 'Los Angeles, California, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 428 of 956, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 431 of 956, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -16161,7 +16409,7 @@ export const LOCATIONS = [
       -115.1398
     ],
     locLabel: 'Las Vegas, Nevada, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 495 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 498 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -16210,7 +16458,7 @@ export const LOCATIONS = [
       -122.176
     ],
     locLabel: 'Menlo Park, California, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 609 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 614 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -16303,7 +16551,7 @@ export const LOCATIONS = [
       -86.5861
     ],
     locLabel: 'Huntsville, Alabama, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 660 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 663 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -16345,7 +16593,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 738 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 743 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -16384,7 +16632,7 @@ export const LOCATIONS = [
       -107.75
     ],
     locLabel: 'Plains of San Agustin, New Mexico, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 862 of 956, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 863 of 956, score 13). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D1.',
     claims: [
       {
         tier: 3,
@@ -16473,7 +16721,7 @@ export const LOCATIONS = [
       -45.43
     ],
     locLabel: 'Varginha, Minas Gerais, Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 796 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 800 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -16518,7 +16766,7 @@ export const LOCATIONS = [
       -0.1265
     ],
     locLabel: 'Whitehall, London, United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 680 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 684 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -16562,7 +16810,7 @@ export const LOCATIONS = [
       -95.0966
     ],
     locLabel: 'Huffman, Texas, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 797 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 801 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -16611,7 +16859,7 @@ export const LOCATIONS = [
       1.4442
     ],
     locLabel: 'Toulouse, France',
-    tierRationale: 'Re-graded C on a global pass (rank 764 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 768 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -16648,7 +16896,7 @@ export const LOCATIONS = [
       -47.8828
     ],
     locLabel: 'Brasilia, Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 610 of 956, score 23). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 616 of 956, score 23). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -16689,7 +16937,7 @@ export const LOCATIONS = [
       -93.6319
     ],
     locLabel: 'Ames, Iowa, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 879 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 880 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -16774,7 +17022,7 @@ export const LOCATIONS = [
       -97.3308
     ],
     locLabel: 'Fort Worth, Texas, USA',
-    tierRationale: 'Re-graded C on a global pass (rank 553 of 956, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 555 of 956, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -16815,7 +17063,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 880 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 881 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [],
     sources: [
       { name: 'Wikipedia - Virginia', url: 'https://en.wikipedia.org/wiki/Virginia', date: '2026-08-12' },
@@ -16844,7 +17092,7 @@ export const LOCATIONS = [
       -2.0
     ],
     locLabel: 'United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 637 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 642 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -16888,7 +17136,7 @@ export const LOCATIONS = [
       1.8883
     ],
     locLabel: 'France',
-    tierRationale: 'Re-graded C on a global pass (rank 710 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 715 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 3,
@@ -16920,7 +17168,7 @@ export const LOCATIONS = [
       -51.9253
     ],
     locLabel: 'Brazil',
-    tierRationale: 'Re-graded C on a global pass (rank 638 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 643 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 3,
@@ -16960,7 +17208,7 @@ export const LOCATIONS = [
       2.3522
     ],
     locLabel: 'Paris, France',
-    tierRationale: 'Re-graded C on a global pass (rank 881 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 882 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 3,
@@ -16991,7 +17239,7 @@ export const LOCATIONS = [
       -0.1278
     ],
     locLabel: 'London, United Kingdom',
-    tierRationale: 'Re-graded C on a global pass (rank 839 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 841 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 3,
@@ -17026,7 +17274,7 @@ export const LOCATIONS = [
       -75.6972
     ],
     locLabel: 'Ottawa, Ontario, Canada',
-    tierRationale: 'Re-graded C on a global pass (rank 711 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 716 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -17148,7 +17396,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 611 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 617 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 3,
@@ -17180,7 +17428,7 @@ export const LOCATIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 863 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 864 of 956, score 13). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -17482,7 +17730,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 124 of 956, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 125 of 956, score 51). 5 connections, 3 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -17548,7 +17796,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 451 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 455 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -17604,7 +17852,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 506 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 509 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -17660,7 +17908,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 484 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 487 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -17716,7 +17964,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 241 of 956, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 242 of 956, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -17772,7 +18020,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 532 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 534 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -17824,7 +18072,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 399 of 956, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 402 of 956, score 30). 6 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -17890,7 +18138,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 628 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 633 of 956, score 22). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -17966,7 +18214,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 725 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 730 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18022,7 +18270,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 695 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 700 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -18093,7 +18341,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 195 of 956, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 196 of 956, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -18154,7 +18402,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 209 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 210 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18215,7 +18463,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 231 of 956, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 232 of 956, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -18276,7 +18524,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 452 of 956, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 456 of 956, score 28). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -18337,7 +18585,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 827 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 829 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -18398,7 +18646,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 696 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 701 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -18465,7 +18713,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 299 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 302 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -18527,7 +18775,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 485 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 488 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -18585,7 +18833,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 278 of 956, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 280 of 956, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -18657,7 +18905,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 486 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 489 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -18734,7 +18982,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 232 of 956, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 233 of 956, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -18806,7 +19054,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 533 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 535 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -19019,6 +19267,11 @@ export const DOMAINS = [
         date: '2024-12-19'
       },
       {
+        name: 'ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026',
+        url: 'https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2026-08-25'
+      },
+      {
         name: '10 U.S.C. 119',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
         date: '2026-08-12'
@@ -19055,7 +19308,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 255 of 956, score 36). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 257 of 956, score 36). 8 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -19172,7 +19425,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 213 of 956, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 214 of 956, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -19224,7 +19477,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 754 of 956, score 17). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 758 of 956, score 17). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 3,
@@ -19255,7 +19508,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 703 of 956, score 19). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 708 of 956, score 19). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -19337,7 +19590,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 817 of 956, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 820 of 956, score 15). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -19373,7 +19626,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 430 of 956, score 29). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 433 of 956, score 29). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -19429,7 +19682,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 679 of 956, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 683 of 956, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -19481,7 +19734,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 357 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 361 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -19547,7 +19800,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 468 of 956, score 28). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 472 of 956, score 28). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -19609,7 +19862,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 818 of 956, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 821 of 956, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -19660,7 +19913,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 431 of 956, score 29). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 434 of 956, score 29). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -19726,7 +19979,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 497 of 956, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 500 of 956, score 27). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -19777,7 +20030,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 193 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 194 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -19833,7 +20086,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 358 of 956, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 362 of 956, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -19894,7 +20147,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 550 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 552 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -19950,7 +20203,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 311 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 314 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20001,7 +20254,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 203 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 204 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20052,7 +20305,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 248 of 956, score 37). 10 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 249 of 956, score 37). 10 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20108,7 +20361,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 498 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 501 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20159,7 +20412,7 @@ export const DOMAINS = [
     dateEnd: '1997-06-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 249 of 956, score 37). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 250 of 956, score 37). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -20225,7 +20478,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 763 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 767 of 956, score 17). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     claims: [
       {
         tier: 1,
@@ -20277,7 +20530,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 580 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 583 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -20344,7 +20597,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 408 of 956, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 411 of 956, score 30). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20401,7 +20654,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 359 of 956, score 32). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 363 of 956, score 32). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20467,7 +20720,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 663 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 666 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20518,7 +20771,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 312 of 956, score 34). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 315 of 956, score 34). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -20574,7 +20827,7 @@ export const DOMAINS = [
     dateEnd: '1995-11-28',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 551 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 553 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20631,7 +20884,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 709 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 714 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20682,7 +20935,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 499 of 956, score 27). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 502 of 956, score 27). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -20744,7 +20997,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 552 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 554 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -20820,7 +21073,7 @@ export const LEGISLATION = [
       },
       {
         tier: 1,
-        text: 'Sec. 6802(j)(1)(B)(i) fixes the period of inquiry: the report \'shall focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection\'.',
+        text: 'Sec. 6802(j)(1)(B)(i) fixes the period of inquiry: the report shall \'focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection\'.',
         source: 'https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm'
       },
       {
@@ -20851,7 +21104,7 @@ export const LEGISLATION = [
       {
         tier: 3,
         text: 'The statute requires ONE Historical Record Report, not a series. The division into \'Volume I\' and \'Volume II\' is AARO\'s own construction, and AARO tied Volume II to \'the date established in Section 6802\' - which is the same 540-day date, 15 June 2024. On the statute\'s own terms the Historical Record Report requirement has been only partially discharged since 15 June 2024. Reasoning: Sec. 6802(j)(1)(A) text compared against HRR Vol I pp. 6 and 45.',
-        source: 'https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm'
+        source: 'https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm ; phrase quoted is AARO\'s, from HRR Volume I pp. 6 and 45 — https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF'
       },
       {
         tier: 3,
@@ -20899,6 +21152,11 @@ export const LEGISLATION = [
         name: 'Wayback capture of the govinfo PLAW-117publ263 text',
         url: 'https://web.archive.org/web/2024/https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm',
         date: '2024-01-01'
+      },
+      {
+        name: 'phrase quoted is AARO\'s, from HRR Volume I pp. 6 and 45',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF',
+        date: null
       }
     ]
   },
@@ -20917,7 +21175,7 @@ export const LEGISLATION = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 220 of 956, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 221 of 956, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -21160,7 +21418,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 534 of 956, score 25). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 536 of 956, score 25). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -21217,7 +21475,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 778 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 782 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -21381,7 +21639,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 33 of 956, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 35 of 956, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -21728,7 +21986,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 828 of 956, score 14). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 830 of 956, score 14). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -21962,7 +22220,7 @@ export const LEGISLATION = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 34 of 956, score 87). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 29 of 956, score 94). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22028,13 +22286,58 @@ export const LEGISLATION = [
         tier: 1,
         text: 'The enacted counterpart, Sec. 7343 of P.L. 118-31, retains only the generic funding limitation and a truncated independent research and development clause; subsections (b), (d), (e) and (g) have no enacted counterpart.',
         source: 'P.L. 118-31, Sec. 7343, compared with S. 2226 Division M Sec. 1102, GPO'
+      },
+      {
+        tier: 1,
+        text: 'The operative body of Sec. 1102 was NOT retrieved and remains unread. Six independent primary vehicles for the text were attempted and every one of them was defeated by the same failure mode - the fetch tool\'s extraction ceiling, which lands somewhere between roughly 92,000 and 145,000 characters depending on the density of the document, and which always truncates from the start of the file forward. The attempts and the exact point each one died: (1) govinfo HTML of the engrossed bill, BILLS-118s2226es.htm, cut at 129,012 characters, still inside Division A; (2) the Senate Intelligence Committee\'s own posted PDF of the engrossed bill, cut at 103,001 characters, still inside the bill\'s table of contents, with the Sec. 1102 TOC line reached but no body; (3) the Senate Intelligence Committee\'s HTML rendering of Division M, cut at 122,645 characters at Title VIII, Sec. 801; (4) govinfo HTML of S. 2103 as reported, cut at 144,209 characters mid-sentence in Title VII; (5) the govinfo PDF of S. 2103 as reported, cut at 91,997 characters at page 67 of the print; (6) the Congressional Record granule containing the full Division M text as SA 1053, PDF cut at 132,368 characters at Sec. 804 and the HTML twin of the same granule cut at 138,797 characters inside Title IX, roughly two printed pages short of Title XI. There is no page-range or byte-range access to any of these, and the Congressional Record link service resolves every page from S3628 through S3642 to the same single granule, so no later starting point exists.',
+        source: 'Retrieval log of this pass; the six URLs are listed in the sources array of this entity'
+      },
+      {
+        tier: 1,
+        text: 'The section number and the shape of Title XI in the engrossed division are now confirmed against TWO independent primary copies rather than one. Both the Senate Intelligence Committee\'s posting of the engrossed text and the Congressional Record print of SA 1053 carry the identical Title XI table of contents, and Title XI--Other Matters of Division M contains exactly two sections and no others: \'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.\' and \'Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.\'',
+        source: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)'
+      },
+      {
+        tier: 1,
+        text: 'NEW PRIMARY VEHICLE. The text of Division M was submitted on the Senate floor by Sen. Mark Warner as amendment SA 1053 to S. 2226 and printed in full in the Congressional Record for 26 July 2023 at pages S3628-S3642. The internal table of contents of the SA 1053 print uses Division M section numbering - Sec. 1101 and Sec. 1102 - not the S. 2103 reported numbering, which means the Congressional Record print of SA 1053 is a page-addressable primary copy of the same text the board node cites. This is a better citation vehicle than the 2,400-page engrossed bill and it is where a future retrieval attempt with page-level access should be pointed. The govinfo granule is CREC-2023-07-26-pt1-PgS3627-2.',
+        source: 'Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)'
+      },
+      {
+        tier: 1,
+        text: 'RENUMBERING AND ATTRITION BETWEEN COMMITTEE AND FLOOR. In S. 2103 as reported by the Senate Select Committee on Intelligence on 22 June 2023, Title XI--Other Matters contained four sections: \'Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office.\'; \'Sec. 1102. Modifications to notification on the provision of defense sensitive [support]\'; \'Sec. 1103. Modification of congressional oversight of special access programs.\'; and \'Sec. 1104. Funding limitations relating to unidentified anomalous phenomena.\' The engrossed Division M carries only the first and the last of these, renumbered 1101 and 1102. Two provisions were therefore dropped between committee and the Senate-passed text, and one of the two dropped provisions was a direct amendment to the congressional oversight regime for special access programs. That is a soft joint the board did not previously have: the same intelligence committee that wrote the UAP funding limitation also wrote a special access program oversight amendment alongside it, and only the funding limitation survived to the floor text.',
+        source: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm (table of contents, Title XI) ; compared against Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)'
+      },
+      {
+        tier: 3,
+        text: 'Because the engrossed body was never read, the specific elements the board attributes to Sec. 1102 - a 60-day contractor notification deadline running to the Director of AARO, a 180-day deadline to make material available, the phrase \'non-earth origin or exotic\', and the phrase \'assessment, analysis, and inspection\' - remain corroborated ONLY by DefenseScoop\'s 27 June 2023 report, and that report is describing Sec. 1104 of S. 2103 as reported, not Sec. 1102 of Division M as engrossed. The reporter quotes the following fragments inside quotation marks: a mandate on any person currently or formerly under contract with the federal government that \'has in their possession material or information provided by or derived from the\' government relating to UAP \'that formerly or currently is protected by any form of special access or restricted access\' to notify the AARO Director within 60 days of enactment; and, no later than 180 days after passage, to make \'all such material and information\' and \'a comprehensive list of all non-earth origin or exotic [UAP] material\' available to AARO for \'assessment, analysis, and inspection\'. The bracketed [UAP] is the reporter\'s insertion, which is itself a sign that the quoted string is being edited. Treat these as reported fragments of the REPORTED text, not as verified text of the ENGROSSED section.',
+        source: 'Brandi Vincent, \'Senate\'s intelligence authorization bill questions reverse engineering of government-recovered UAPs\', DefenseScoop, 27 June 2023 - https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/'
+      },
+      {
+        tier: 1,
+        text: 'ENACTED SUCCESSOR IDENTIFIED AND CONFIRMED FROM A PRIMARY SOURCE. The provision was enacted as Section 7343 of Division G of the National Defense Authorization Act for Fiscal Year 2024, Pub. L. 118-31. The Explanatory Statement to accompany the Intelligence Authorization Act for Fiscal Year 2024, printed in the Congressional Record by Sen. Warner on 14 December 2023 and given the same effect as a joint explanatory statement of a conference committee, states verbatim: \'Section 7343 of the Act provides for funding limitations relating to unidentified anomalous phenomena because of perceptions of insufficient transparency in this area. Section 7343 is also intended to avoid technology and security stovepipes and expand awareness regarding any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes if they are shown to exist. Section 7343 further provides a limitation regarding independent research and development funding to ensure that certain indirect expenses are prohibited.\' The explanatory statement says nothing whatever about a 60-day contractor turn-in, a list of non-earth origin material, or a make-available mandate to AARO.',
+        source: 'Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991 - https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm'
+      },
+      {
+        tier: 1,
+        text: 'A SECOND, PARALLEL ENACTED PROVISION EXISTS IN DIVISION A. The table of contents of the statute compilation of Pub. L. 118-31 shows \'Sec. 1687. Limitation on use of funds for certain unreported programs.\' in Division A, Title XVI, distinct from and in addition to Sec. 7343 in Division G. The board should carry both: the FY2024 NDAA enacted two separate UAP funding-limitation provisions, one in the defence division and one in the intelligence division.',
+        source: 'Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents - https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf'
+      },
+      {
+        tier: 1,
+        text: 'THE ONLY PART OF THE ENACTED FAMILY THAT COULD BE READ VERBATIM CONTAINS NONE OF THE THREE DISPUTED ELEMENTS. The Office of the Law Revision Counsel sets out subsections (b) and (c) of Pub. L. 118-31, div. A, title XVI, Sec. 1687 as a statutory note under 50 U.S.C. 3373, under the heading \'Limitation Regarding Independent Research and Development\'. The full text of subsection (b) as set out reads: \'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.\' Subsection (c) then defines \'appropriate congressional committees\' as the congressional defense committees plus the two intelligence committees, and \'congressional leadership\' as the Senate majority and minority leaders and the Speaker and House minority leader. There is no 60-day deadline, no 180-day deadline, no \'non-earth origin or exotic\' language, and no reference to AARO anywhere in the enacted text that OLRC chose to print. The sentence also carries a drafting error that survived into law - \'is made available the appropriate congressional committees\', with the preposition \'to\' missing - which is itself evidence that this is the enacted text and not a paraphrase. NOTE THE LIMIT OF THIS FINDING: it establishes what is in Sec. 1687(b)-(c), not what is in Sec. 7343, whose body was not retrieved. OLRC set out only subsections (b) and (c) of Sec. 1687 and set out no part of Sec. 7343 as a note anywhere the board has checked.',
+        source: 'Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim'
       }
     ],
     sources: [
       {
-        name: 'S. 2226, 118th Congress, Engrossed in Senate (BILLS-118s2226es) - contains DIVISION G, UAP Disclosure Act of 2023, secs. 9001-9015',
+        name: 'https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
         url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
-        date: '2023-07-27'
+        date: null
+      },
+      {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        date: null
       },
       {
         name: 'Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)',
@@ -22042,8 +22345,98 @@ export const LEGISLATION = [
         date: '2023-12-22'
       },
       {
-        name: 'uscode.house.gov',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/ (posted PDF: https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service https://www.govinfo.gov/link/crec/169/s/3628 which resolves to https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf (HTML twin: https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm)',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103 as reported, Senate Intelligence Committee posted PDF - https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2103rs.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Engrossed S. 2226, govinfo HTML - https://www.govinfo.gov/content/pkg/BILLS-118s2226es/html/BILLS-118s2226es.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991 - https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 50 U.S.C. 3373, statutory notes (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3373&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents - https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senate Report 118-59, Select Committee on Intelligence, to accompany S. 2103, 13 July 2023 - https://www.govinfo.gov/content/pkg/CRPT-118srpt59/html/CRPT-118srpt59.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Brandi Vincent, \'Senate\'s intelligence authorization bill questions reverse engineering of government-recovered UAPs\', DefenseScoop, 27 June 2023 - https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: ) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service which resolves to (HTML twin: )',
+        url: 'https://www.intelligence.senate.gov/2023/08/09/legislation-intelligence-authorization-act-fiscal-year-2024-division-m-national-defense/',
+        date: null
+      },
+      {
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: ) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service which resolves to (HTML twin: )',
+        url: 'https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-legislation-bills-118s2226es.pdf',
+        date: null
+      },
+      {
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: ) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service which resolves to (HTML twin: )',
+        url: 'https://www.govinfo.gov/link/crec/169/s/3628',
+        date: null
+      },
+      {
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: ) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service which resolves to (HTML twin: )',
+        url: 'https://www.govinfo.gov/content/pkg/CREC-2023-07-26/pdf/CREC-2023-07-26-pt1-PgS3627-2.pdf',
+        date: null
+      },
+      {
+        name: 'Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: ) ; and Congressional Record, Vol. 169, No. 129 (26 July 2023), Senate, granule CREC-2023-07-26-pt1-PgS3627-2, retrieved via the govinfo link service which resolves to (HTML twin: )',
+        url: 'https://www.govinfo.gov/content/pkg/CREC-2023-07-26/html/CREC-2023-07-26-pt1-PgS3627-2.htm',
+        date: null
+      },
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - (table of contents, Title XI) ; compared against Senate Select Committee on Intelligence, \'Intelligence Authorization Act for Fiscal Year 2024, Division M of the National Defense Authorization Act for Fiscal Year 2024, as passed by the Senate on July 27, 2023\', 9 August 2023 - (posted PDF: )',
+        url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        date: null
+      },
+      {
+        name: 'Brandi Vincent, \'Senate\'s intelligence authorization bill questions reverse engineering of government-recovered UAPs\', DefenseScoop, 27 June 2023',
+        url: 'https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/',
+        date: null
+      },
+      {
+        name: 'Explanatory Statement on the Intelligence Authorization Act for Fiscal Year 2024, printed by Sen. Warner, Congressional Record, Vol. 169, No. 206 (14 December 2023), pp. S5990-S5991',
+        url: 'https://www.govinfo.gov/content/pkg/CREC-2023-12-14/html/CREC-2023-12-14-pt1-PgS5990.htm',
+        date: null
+      },
+      {
+        name: 'Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents',
+        url: 'https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf',
         date: null
       }
     ]
@@ -22063,7 +22456,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 242 of 956, score 37). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 243 of 956, score 37). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -22124,7 +22517,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 197 of 956, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 198 of 956, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22185,7 +22578,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 125 of 956, score 51). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 126 of 956, score 51). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22266,7 +22659,7 @@ export const LEGISLATION = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 128 of 956, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 129 of 956, score 50). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -22337,7 +22730,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 37 of 956, score 84). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 38 of 956, score 84). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22463,7 +22856,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 453 of 956, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 457 of 956, score 28). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -22650,7 +23043,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 29 of 956, score 92). 19 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 31 of 956, score 92). 19 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22719,6 +23112,31 @@ export const LEGISLATION = [
       },
       {
         tier: 1,
+        text: 'The waiver authority reads verbatim, as in effect on 20 August 2026: \'(e)(1) The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security. Any such waiver shall be made on a case-by-case basis. (2) If the Secretary exercises the authority provided under paragraph (1), the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.\' The waiver is a waiver of INCLUSION IN A REPORT, not a waiver of disclosure - the withheld information and a written justification must still travel to twelve named seats.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'The recipient set is fixed by subsection (g) verbatim: \'In this section, the term "defense committees" means- (1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.\' Six committee entities, each contributing a chairman and a ranking minority member, gives the twelve-seat notification group the board already tracks.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'MATERIAL NEW FINDING - THE REPORTS THE WAIVER ATTACHES TO HAVE LARGELY SUNSET. The Office of the Law Revision Counsel carries a statutory note under 10 U.S.C. 119 headed \'Termination of Reporting Requirements\' which reads verbatim: \'For termination, effective Dec. 31, 2021, of provisions in subsecs. (a) and (b) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114-328, set out as a note under section 111 of this title.\' The annual special access program report under 119(a) and the new-program notice and justification report under 119(b) therefore terminated as statutory requirements on 31 December 2021. After that date the only report to which the 119(e)(1) waiver can attach is the 119(c) report on a planned classification change or public declassification announcement. This reshapes the board\'s question: for activity after 31 December 2021 there may be no 119(a) or 119(b) report in existence to waive information out of, which would make the absence of any 119(e)(2) delivery unsurprising rather than suspicious for that window - while for the period 1988 through 2021 the reports were mandatory and the waiver machinery was live.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
+        text: 'Section 119 has not been amended since 2001. The source credit runs Pub. L. 100-180 (1987), Pub. L. 101-510 (1990), Pub. L. 104-106 (1996), Pub. L. 106-65 (1999), Pub. L. 107-107 (2001), and stops. The Senate Intelligence Committee\'s Sec. 1103 of S. 2103 as reported in June 2023, \'Modification of congressional oversight of special access programs\', would have been the first amendment in twenty-two years; it does not appear in the Senate-passed Division M and Section 119 as it stands today shows no 2023 or 2024 amendment.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim ; and S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm'
+      },
+      {
+        tier: 1,
+        text: 'Neither Sec. 1687 nor Sec. 7343 of Pub. L. 118-31 is set out as a statutory note under 10 U.S.C. 119. The notes carried under Section 119 are limited to the 1990 effective-date note, the termination-of-reporting note, and the 1987 initial-reports note. Whatever the FY2024 NDAA did to UAP funding, it did not attach itself to the Section 119 oversight architecture in the U.S. Code.',
+        source: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
+      },
+      {
+        tier: 1,
         text: '10 U.S.C. 119 makes no cross-reference to 50 U.S.C. 3348. The traffic runs one way: 3348 names 119 in order to exclude the Department of Defense from itself, and 119 does not name 3348 at all. The only external statute 119 cites is 31 U.S.C. 1105, on the President\'s budget submission.',
         source: 'Full text of 10 U.S.C. 119, OLRC prelim, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim'
       },
@@ -22745,6 +23163,11 @@ export const LEGISLATION = [
     ],
     sources: [
       {
+        name: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        date: null
+      },
+      {
         name: '10 U.S.C. 119 — Special access programs: congressional oversight (full text, U.S. Code 2023 Edition, GPO)',
         url: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm',
         date: '2024-01-05'
@@ -22755,14 +23178,24 @@ export const LEGISLATION = [
         date: '2026-08-12'
       },
       {
-        name: '10 U.S.C. Sec. 119, Special access programs: congressional oversight',
-        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
-        date: '2024-01-01'
-      },
-      {
         name: 'House Oversight hearing transcript, \'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency\' (CHRG-118hhrg53022)',
         url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm',
         date: '2023-07-26'
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim',
+        url: '',
+        date: null
+      },
+      {
+        name: 'S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023 - https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        url: '',
+        date: null
+      },
+      {
+        name: 'Office of the Law Revision Counsel, 10 U.S.C. 119, \'Special access programs: congressional oversight\' (text in effect on 20 August 2026) - ; and S. 2103, Intelligence Authorization Act for Fiscal Year 2024, as reported 22 June 2023',
+        url: 'https://www.govinfo.gov/content/pkg/BILLS-118s2103rs/html/BILLS-118s2103rs.htm',
+        date: null
       }
     ]
   },
@@ -22861,7 +23294,7 @@ export const LEGISLATION = [
     claims: [
       {
         tier: 1,
-        text: 'Section title and scope: \'50 U.S.C. 3348. Reports relating to certain special access programs and similar programs.\' Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.',
+        text: 'Section title and scope: 50 U.S.C. 3348, \'Reports relating to certain special access programs and similar programs\'. Codified from Pub. L. 103-160, div. A, title XI, sec. 1152, Nov. 30, 1993, 107 Stat. 1758; formerly classified as a note under 50 U.S.C. 435 before editorial reclassification.',
         source: 'https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap45-subchapIII-sec3348.htm'
       },
       {
@@ -23103,7 +23536,7 @@ export const LEGISLATION = [
       },
       {
         tier: 1,
-        text: '32 CFR 117.3(b) defines SAP verbatim: \'Special access program (SAP) means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.\'',
+        text: '32 CFR 117.3(b) defines SAP verbatim: \'SAP means any program that is established to control access and distribution and to provide protection for particularly sensitive classified information beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information.\'',
         source: 'https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3'
       },
       {
@@ -23336,7 +23769,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 324 of 956, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 327 of 956, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -23483,7 +23916,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 454 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 458 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -23534,7 +23967,7 @@ export const LEGISLATION = [
     dateEnd: '1987-12-04',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 593 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 598 of 956, score 23). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -23590,7 +24023,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 210 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 211 of 956, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23640,6 +24073,11 @@ export const LEGISLATION = [
         date: '2024-01-05'
       },
       {
+        name: 'ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026',
+        url: 'https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2026-08-25'
+      },
+      {
         name: '50 U.S.C. 3093, Presidential approval and reporting of covert actions',
         url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3093&num=0&edition=prelim',
         date: '2026-08-12'
@@ -23666,7 +24104,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 507 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 510 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -23722,7 +24160,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 727 of 956, score 18). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 732 of 956, score 18). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -23804,7 +24242,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 699 of 956, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 704 of 956, score 19). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -23927,7 +24365,7 @@ export const LEGISLATION = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 813 of 956, score 15). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 816 of 956, score 15). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -23973,7 +24411,7 @@ export const LEGISLATION = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 211 of 956, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 212 of 956, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -24029,7 +24467,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 730 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 735 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -24085,7 +24523,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 489 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 492 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -24126,7 +24564,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 752 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 756 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -24172,7 +24610,7 @@ export const LEGISLATION = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 573 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 576 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -24223,7 +24661,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 787 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 791 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -24274,7 +24712,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 758 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 762 of 956, score 17). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -24320,7 +24758,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 287 of 956, score 35). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 289 of 956, score 35). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -24401,7 +24839,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 424 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 427 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -24457,7 +24895,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 491 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 494 of 956, score 27). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -24508,7 +24946,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 355 of 956, score 32). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 359 of 956, score 32). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -24544,7 +24982,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 605 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 610 of 956, score 23). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -24600,7 +25038,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 577 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 580 of 956, score 24). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -24636,7 +25074,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 492 of 956, score 27). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 495 of 956, score 27). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -24729,7 +25167,7 @@ export const DOCUMENTS = [
       },
       {
         tier: 1,
-        text: 'States: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-range aerospace threats\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
+        text: 'States: \'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States\' and \'DIA established AAWSAP in 2009, which was also known [as] AATIP.\'',
         source: 'https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf'
       },
       {
@@ -24915,6 +25353,11 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
+        name: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
+        date: null
+      },
+      {
         name: 'AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov',
         url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF',
         date: '2024-03-08'
@@ -25044,11 +25487,6 @@ export const DOCUMENTS = [
         name: 'New Paradigm Institute - AARO Report on the Historical Record, Volume I',
         url: 'https://newparadigminstitute.org/learn/library/aaro-report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap-volume-i/',
         date: '2024-03-08'
-      },
-      {
-        name: 'media.defense.gov',
-        url: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf',
-        date: null
       }
     ]
   },
@@ -25067,7 +25505,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 44 of 956, score 79). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 45 of 956, score 79). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -25349,7 +25787,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 825 of 956, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 827 of 956, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -25397,6 +25835,11 @@ export const DOCUMENTS = [
         name: 'Archived: AARO Congressional/Press Products index entry for the 2022 ODNI Annual Report (Wayback 2026-07-14)',
         url: 'https://web.archive.org/web/20260714193029/https://www.aaro.mil/Congressional-Press-Products/',
         date: '2026-07-14'
+      },
+      {
+        name: 'ODNI, 2022 Annual Report on Unidentified Aerial Phenomena - live original on odni.gov, retrieved 25 Aug 2026 (564 KB)',
+        url: 'https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -25415,7 +25858,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 229 of 956, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 230 of 956, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -25516,7 +25959,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 75 of 956, score 68). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 76 of 956, score 68). 8 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -25872,9 +26315,9 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
-        name: 'Fiscal Year 2025 Consolidated Annual Report on UAP (aaro.mil Portals/136, FY25 UAP Annual Report folder)',
+        name: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
         url: 'https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf',
-        date: '2026-07-20'
+        date: null
       },
       {
         name: 'Wayback snapshot of the FY2025 Consolidated Annual Report PDF',
@@ -26090,7 +26533,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 624 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 629 of 956, score 22). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -26176,7 +26619,7 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'The DIRDs fall into two DIA series banners printed on the cover: \'Acquisition Threat Support\' (the FY2009 tranche, ICOD 1 December 2009, published Dec 2009 - Apr 2010) and \'Defense Futures\' (the FY2010 tranche, ICOD Jul-Dec 2010, published Nov 2010 - Jan 2011).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
@@ -26186,17 +26629,17 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'DIA Info Memo U-429-09 Enclosure 1 lists the 26 FY2009 technical reports by working title (not final DIRD title), including several never released as DIRDs under those names: \'Pulse-Power-Based Weaponry\', \'Space-Time Modifications for Spaceflight Applications\', \'Novel MEMS-Based Biosensors\', \'Metamaterials for Aerospace Applications\', \'Metallic Glasses\', \'Metallic Spintronics\', \'Materials for Advanced Aerospace Platforms\', \'Wormholes in Space Time\', \'Gravity Wave Communication\', \'Vacuum Energy Applications\', \'Improved Statistical Approach to Drake Equation\', \'Maverick vs. Corporate Research Cultures\', \'Warp Drives\', \'Controlling Devices Without Limb-Operated Interfaces\', \'Field Effects on Biological Tissues\', \'High-Energy Laser Weapon\', \'Quantum Entanglement Communications\', \'Space Access: Where Been, Where Go\', \'Advanced Nuclear Propulsion for Deep Space\', \'Inertial Electrostatic Confinement Fusion\', \'Theory and Experiments of Invisibility Cloaking\', \'Superconductors in Gravity Research\', \'Antigravity for Aerospace Applications\', \'Positron Aerospace Propulsion\', \'Biosensors and BioMEMS\', \'Programmable Matter\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
         text: 'In the DIA-released copies every DIRD author is withheld under FOIA exemption (b)(6) and the \'Prepared by\' office under (b)(3) 10 USC 424. Two author surnames survive uncensored inside the review excerpts of Info Memo U-429-09: \'Hathaway\' (The Role of Superconductors in Gravity Research) and \'Tsoi\' (Metallic Spintronics).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 3,
         text: 'That two surnames survive the redaction pass in U-429-09 while every cover page is scrubbed indicates redaction was applied by template rather than by review, and that DIA\'s own reviewers wrote about these authors by name in internal correspondence. Author identities are therefore recoverable from the released corpus itself, not only from leaks.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
@@ -26212,12 +26655,12 @@ export const DOCUMENTS = [
       },
       {
         name: 'DIA Info Memo U-429-09, \'Review of Advanced Aerospace Contract Deliverables\', 30 Oct 2009, w/ Enclosure 1 list of 26 FY2009 technical reports (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/',
         date: '2009-10-30'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -26235,7 +26678,7 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
         date: '2025-03-17'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/', date: null }
     ]
   },
   {
@@ -26253,17 +26696,17 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 692 of 956, score 19). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 697 of 956, score 19). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Contract number HHM402-08-C-0072; contract signed 22 September 2008; awarded off solicitation HHM402-08-R-0211 (posted 18 Aug 2008, responses due 5 Sep 2008). Modification P00001 effective 02 September 2009 exercised/continued the effort.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       },
       {
         tier: 1,
         text: 'DIA\'s own 16 December 2008 status briefing is headed \'Advanced Aerospace Weapon System Applications Contract Status — Contract HHM402-08-C-0072\' and describes the contract focus as \'Advanced (unconventional) aerospace weapon\' technologies.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/'
       },
       {
         tier: 1,
@@ -26273,28 +26716,28 @@ export const DOCUMENTS = [
       {
         tier: 3,
         text: 'Absence from FPDS/USAspending is expected for DIA Virginia Contracting Activity awards (intelligence-community contracting is generally excluded from public reporting), but it means the only public award record for a $22M program is the FOIA-released paper. Dollar-value line items on the modification are illegible/redacted in the released scan.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/'
       }
     ],
     sources: [
       {
         name: 'Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/',
         date: '2009-09-02'
       },
       {
         name: 'FedBizOpps notice: ADVANCED AEROSPACE WEAPON SYSTEM APPLICATIONS PROGRAM, Solicitation HHM40208R0211 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170057/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/',
         date: '2008-08-18'
       },
       {
         name: 'DIA briefing \'Advanced Aerospace Weapon System Applications Contract Status\', Contract HHM402-08-C-0072, 16 Dec 2008 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170051/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237613/',
         date: '2008-12-16'
       },
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
@@ -26339,53 +26782,53 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 529 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 531 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Letterhead: \'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510\'. Dated June 24, 2009. Addressed to \'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010\'. Salutation: \'Dear Secretary Lynn:\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'Text: \'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       },
       {
         tier: 1,
         text: 'The USD(I) memorandum to DEPSECDEF confirms receipt and framing: \'Senator Harry Reid sent a letter to you on June 24, 2009 requesting the Department of Defense put the AAITP under "Restricted Special Access Protection" (Tab A).\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/'
       },
       {
         tier: 2,
         text: 'Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced \'several highly sensitive, unconventional aerospace-related findings\' warranting \'extraordinary protection\' — a claim made in writing to the Deputy Secretary of Defense, not to the press.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/'
       }
     ],
     sources: [
       {
         name: 'Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/',
         date: '2009-06-24'
       },
       {
         name: 'USD(I) Memorandum for the Deputy Secretary of Defense, \'Senator Harry Reid\'s Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170015/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/',
         date: '2009'
       },
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
@@ -26420,43 +26863,43 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 826 of 956, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 828 of 956, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Memo header: \'DEFENSE INTELLIGENCE AGENCY, WASHINGTON, D.C. 20340-5100 — INFO MEMO, U-09-2660, NOV 13 2009. FOR: DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE. SUBJECT: (U) Review of Special Access Program Request.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
         text: 'Finding: \'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/'
       },
       {
         tier: 1,
         text: 'DIA Info Memo U-10-2552 records the outcome of the follow-on meeting: \'In November, 2009, Deputy Secretary of Defense Lynn and I met with Senator Reid to discuss this program. At that time, we determined the reports were of limited value to DIA. However, I did suggest they could be of merit to other organizations and, that upon the completion of the DIA contract, the project could be transitioned to another agency or component better suited to oversee the project.\'',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       },
       {
         tier: 3,
         text: 'The explicit suggestion that \'the project could be transitioned to another agency or component better suited to oversee the project\' is the documented hinge between AAWSAP\'s DIA phase and whatever followed it — the same transition path AARO later describes ending in the rejected KONA BLUE proposal to DHS.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/'
       }
     ],
     sources: [
       {
         name: 'DIA Info Memo U-09-2660, \'Review of Special Access Program Request\', 13 Nov 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170058/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/',
         date: '2009-11-13'
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -26491,27 +26934,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 292 of 956, score 34). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 295 of 956, score 34). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Advanced Nuclear Propulsion for Manned Deep Space Missions", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
         text: 'Released PDF is 37 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/'
       },
       {
         tier: 1,
@@ -26532,7 +26975,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Advanced Nuclear Propulsion for Manned Deep Space Missions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170020/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237657/',
         date: '2010-03-11'
       },
       {
@@ -26550,10 +26993,15 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_11-DIRD_Advanced_Nuclear_Propulsion_for_Manned_Deep_Space_Missions.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
     ]
@@ -26573,27 +27021,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 182 of 956, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 183 of 956, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering", series "Acquisition Threat Support", published 2010-03-29 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-015. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
         text: 'Released PDF is 17 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/'
       },
       {
         tier: 1,
@@ -26619,7 +27067,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/',
         date: '2010-03-29'
       },
       {
@@ -26637,9 +27085,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf',
         date: null
       }
@@ -26660,27 +27108,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 269 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 271 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aerospace Applications of Programmable Matter", series "Acquisition Threat Support", published 2009-12-14 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0911-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
         text: 'Released PDF is 20 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       },
       {
         tier: 1,
@@ -26695,13 +27143,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'DIA released the document in its FOIA Electronic Reading Room as a 20-page PDF; it discusses programmable material whose effective atoms can be changed on demand, permitting a bounded but very large range of material properties to be summoned or dismissed at will.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aerospace Applications of Programmable Matter (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170022/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237656/',
         date: '2009-12-14'
       },
       {
@@ -26719,9 +27167,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_02-DIRD_Aerospace_Applications_of_Programmable_Matter.pdf',
         date: null
       }
@@ -26742,27 +27190,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 270 of 956, score 35). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 272 of 956, score 35). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "An Introduction to the Statistical Drake Equation", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
         text: 'Released PDF is 55 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/'
       },
       {
         tier: 1,
@@ -26788,7 +27236,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — An Introduction to the Statistical Drake Equation (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/',
         date: '2010-03-11'
       },
       {
@@ -26806,10 +27254,15 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf',
+        date: null
+      },
+      {
+        name: 'https://www.seti.org/news/claudio-maccone/',
+        url: 'https://www.seti.org/news/claudio-maccone/',
         date: null
       }
     ]
@@ -26829,27 +27282,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 318 of 956, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 321 of 956, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aneutronic Fusion Propulsion", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-003. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
         text: 'Released PDF is 50 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/'
       },
       {
         tier: 1,
@@ -26870,7 +27323,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170024/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237658/',
         date: '2010-11-01'
       },
       {
@@ -26888,9 +27341,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_30-DIRD_Aneutronic_Fusion_Propulsion.pdf',
         date: null
       }
@@ -26911,27 +27364,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 237 of 956, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 238 of 956, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Aneutronic Fusion Propulsion", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
         text: 'Released PDF is 36 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/'
       },
       {
         tier: 1,
@@ -26957,7 +27410,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Aneutronic Fusion Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170025/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237644/',
         date: '2010-11-01'
       },
       {
@@ -26975,8 +27428,9 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf',
         date: null
       }
@@ -26997,27 +27451,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 271 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 273 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Anomalous Acute and Subacute Field Effects on Human Biological Tissues", series "Acquisition Threat Support", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
         text: 'Released PDF is 38 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/'
       },
       {
         tier: 1,
@@ -27043,7 +27497,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/',
         date: '2010-03-11'
       },
       {
@@ -27061,14 +27515,14 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
@@ -27089,27 +27543,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 238 of 956, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 239 of 956, score 37). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Antigravity for Aerospace Applications", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
         text: 'Released PDF is 44 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/'
       },
       {
         tier: 1,
@@ -27135,7 +27589,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237651/',
         date: '2010-03-30'
       },
       {
@@ -27153,14 +27607,14 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       }
@@ -27181,27 +27635,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 253 of 956, score 36). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 255 of 956, score 36). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Biosensors and BioMEMS: A Survey of the Present Field", series "Acquisition Threat Support", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-020. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
         text: 'Released PDF is 45 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/'
       },
       {
         tier: 1,
@@ -27232,7 +27686,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Biosensors and BioMEMS: A Survey of the Present Field (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170028/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237638/',
         date: '2010-03-31'
       },
       {
@@ -27250,15 +27704,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_20-DIRD_Biosensors_and_BioMEMS-A_Survey_of_the_Present_Field.pdf',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
+        url: 'https://sbhse.engineering.asu.edu/2019/08/bruce-towe/',
         date: null
       }
     ]
@@ -27278,27 +27742,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 293 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 296 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Cockpits in the Era of Breakthrough Flight", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-08, DIA document number DIA-08-1011-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/'
       },
       {
         tier: 1,
@@ -27324,7 +27788,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Cockpits in the Era of Breakthrough Flight (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170029/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237653/',
         date: '2010-11-01'
       },
       {
@@ -27342,13 +27806,27 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_28-DIRD_Cockpits_in_the_Era_of_Breakthrough_Flight.pdf',
         date: null
       },
-      { name: 'jbis.org.uk', url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278', date: null }
+      {
+        name: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        url: 'http://www.jbis.org.uk/paper.php?p=2013.66.278',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      }
     ]
   },
   {
@@ -27366,27 +27844,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 319 of 956, score 33). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 322 of 956, score 33). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft", series "Defense Futures", published 2010-12-15 with an Intelligence Cut-Off Date (ICOD) of 2010-09-08, DIA document number DIA-08-1101-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
         text: 'Released PDF is 31 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/'
       },
       {
         tier: 1,
@@ -27412,7 +27890,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170030/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237649/',
         date: '2010-12-15'
       },
       {
@@ -27430,20 +27908,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_34-DIRD_Cognitive_Limits_on_Simultaneous_Control_of_Multiple_Unmanned_Spacecraft.pdf',
         date: null
       },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        date: null
+      },
+      {
+        name: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
+        url: 'https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514',
         date: null
       }
     ]
@@ -27463,27 +27946,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 272 of 956, score 35). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 274 of 956, score 35). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Concepts for Extracting Energy From the Quantum Vacuum", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/'
       },
       {
         tier: 1,
@@ -27509,7 +27992,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Concepts for Extracting Energy From the Quantum Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237645/',
         date: '2010-04-06'
       },
       {
@@ -27527,11 +28010,21 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'earthtech.org', url: 'https://earthtech.org/pubs/davis/', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://earthtech.org/pubs/davis/', url: 'https://earthtech.org/pubs/davis/', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_24-DIRD_Concepts_for_Extracting_Energy_from_the_Quantum_Vacuum.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       }
     ]
@@ -27551,27 +28044,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 294 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 297 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities", series "Defense Futures", published 2010-11-20 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1012-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
         text: 'Released PDF is 46 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/'
       },
       {
         tier: 1,
@@ -27597,7 +28090,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170032/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237635/',
         date: '2010-11-20'
       },
       {
@@ -27615,20 +28108,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_31-DIRD_Detection_and_High_Resolution_Tracking_of_Vehicles_at_Hypersonic_Velocities.pdf',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         url: 'https://silvarecord.com/2019/08/01/5th-aawsap-d-i-r-d-released-by-george-knapp-covers-detection-of-hypersonic-vehicles/',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://www.unlv.edu/people/william-culbreth',
+        url: 'https://www.unlv.edu/people/william-culbreth',
         date: null
       }
     ]
@@ -27648,27 +28146,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 183 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 184 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "High-Frequency Gravitational Wave Communications", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
         text: 'Released PDF is 57 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/'
       },
       {
         tier: 1,
@@ -27699,7 +28197,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — High-Frequency Gravitational Wave Communications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170033/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237646/',
         date: '2010-04-06'
       },
       {
@@ -27717,21 +28215,30 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf', date: null },
       {
-        name: 'drrobertbaker.com',
+        name: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        url: 'https://irp.fas.org/agency/dod/jason/gravwaves.pdf',
+        date: null
+      },
+      {
+        name: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
         url: 'http://www.drrobertbaker.com/docs/Aerospace%20HFGW%20Applications.pdf',
+        date: null
+      },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html',
         date: null
       }
     ]
@@ -27751,27 +28258,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 320 of 956, score 33). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 323 of 956, score 33). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Inertial Electrostatic Confinement Fusion", series "Acquisition Threat Support", published 2010-03-10 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
         text: 'Released PDF is 72 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/'
       },
       {
         tier: 1,
@@ -27797,7 +28304,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Inertial Electrostatic Confinement Fusion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170034/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237663/',
         date: '2010-03-10'
       },
       {
@@ -27815,20 +28322,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_09-DIRD_Inertial_Electrostatic_Confinement_Fusion.pdf',
         date: null
       },
       {
-        name: 'uap-blog.com',
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       },
       {
-        name: 'silvarecord.com',
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
         url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
+        url: 'https://link.springer.com/book/10.1007/978-1-4614-9338-9',
         date: null
       }
     ]
@@ -27848,27 +28360,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 295 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 298 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Invisibility Cloaking: Theory and Experiments", series "Acquisition Threat Support", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
         text: 'Released PDF is 29 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/'
       },
       {
         tier: 1,
@@ -27894,7 +28406,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Invisibility Cloaking: Theory and Experiments (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170035/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237639/',
         date: '2010-03-02'
       },
       {
@@ -27912,15 +28424,25 @@ export const DOCUMENTS = [
         url: 'https://web.archive.org/web/20260611124158/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/',
         date: '2026-06-11'
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_07-DIRD_Invisibility_Cloaking-Theory_and_Experiments.pdf',
         date: null
       },
       {
-        name: 'twz.com',
+        name: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
         url: 'https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk',
+        date: null
+      },
+      {
+        name: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        url: 'https://silvarecord.com/2019/01/17/38th-dird-title-surfaces-with-letter-addressed-to-mccain-armed-services-committee/',
+        date: null
+      },
+      {
+        name: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
+        url: 'https://uap-blog.com/wordpress/wp-content/uploads/2022/04/FOIA-00159-2018-2.pdf',
         date: null
       }
     ]
@@ -27940,27 +28462,27 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 273 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 275 of 956, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Laser Lightcraft Nanosatellites", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1011-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
         text: 'Released PDF is 77 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/'
       },
       {
         tier: 1,
@@ -27981,7 +28503,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Laser Lightcraft Nanosatellites (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170036/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237641/',
         date: '2010-11-01'
       },
       {
@@ -28000,11 +28522,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_27-DIRD_Laser_Lightcraft_Nanosatellites.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      }
     ]
   },
   {
@@ -28022,22 +28549,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 366 of 956, score 31). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 370 of 956, score 31). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-017. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/'
       },
       {
         tier: 1,
@@ -28058,7 +28585,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise? (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170037/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237624/',
         date: '2010-03-30'
       },
       {
@@ -28077,11 +28604,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_17-DIRD_Maverick_Inventor_Versus_Corporate_Inventor-Where_Will_the_Next_major_Innovations_Arise.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -28099,22 +28631,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 445 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 449 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "MHD Air Breathing Propulsion and Power for Aerospace Applications", series "Defense Futures", published 2010-11-21 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       },
       {
         tier: 1,
@@ -28129,13 +28661,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Also held in the DIA FOIA Electronic Reading Room as a 32-page released document.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — MHD Air Breathing Propulsion and Power for Aerospace Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170038/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237629/',
         date: '2010-11-21'
       },
       {
@@ -28154,11 +28686,11 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_33-DIRD_MHD_Air_Breathing_Propulsion_and_Power_for_Aerospace_Applications.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -28176,22 +28708,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 274 of 956, score 35). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 276 of 956, score 35). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Negative Mass Propulsion", series "Defense Futures", published 2011-01-03 with an Intelligence Cut-Off Date (ICOD) of 2010-08-30, DIA document number DIA-08-1101-023. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       },
       {
         tier: 1,
@@ -28206,13 +28738,13 @@ export const DOCUMENTS = [
       {
         tier: 1,
         text: 'Administrative note: \'This product is one in a series of advanced technology reports produced in FY 2010 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program.\' Held in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/'
       }
     ],
     sources: [
       {
         name: 'DIA FOIA Reading Room — Negative Mass Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170039/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237637/',
         date: '2011-01-03'
       },
       {
@@ -28231,11 +28763,11 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_29-DIRD_Negative_mass_Propulsion.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
     ]
   },
   {
@@ -28253,22 +28785,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 367 of 956, score 31). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 371 of 956, score 31). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Positron Aerospace Propulsion", series "Acquisition Threat Support", published 2010-03-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-002. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/'
       },
       {
         tier: 1,
@@ -28289,7 +28821,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Positron Aerospace Propulsion (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170040/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237633/',
         date: '2010-03-02'
       },
       {
@@ -28308,11 +28840,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_08-DIRD_Positron_Aerospace_Propulsion.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -28330,22 +28867,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 321 of 956, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 324 of 956, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Pulsed High-Power Microwave Source Technology", series "Acquisition Threat Support", published 2010-01-28 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0912-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/'
       },
       {
         tier: 1,
@@ -28371,7 +28908,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Pulsed High-Power Microwave Source Technology (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/',
         date: '2010-01-28'
       },
       {
@@ -28390,18 +28927,18 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
       {
-        name: 'ufos-scientificresearch.blogspot.com',
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
         date: null
       },
       {
-        name: 'theblackvault.com',
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
         date: null
       }
@@ -28422,22 +28959,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 446 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 450 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Quantum Computing and Utilizing Organic Molecules in Automation Technology", series "Defense Futures", published 2010-12-10 with an Intelligence Cut-Off Date (ICOD) of 2010-12-10, DIA document number DIA-08-1102-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/'
       },
       {
         tier: 1,
@@ -28458,7 +28995,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Quantum Computing and Utilizing Organic Molecules in Automation Technology (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170042/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237618/',
         date: '2010-12-10'
       },
       {
@@ -28477,11 +29014,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_35-DIRD_Quantum_Computing_and_Utilizing_Organic_Molecules_in_Automation_Technology.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        url: 'https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html',
+        date: null
+      }
     ]
   },
   {
@@ -28499,22 +29041,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 447 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 451 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Quantum Tomography of Negative Energy States in the Vacuum", series "Defense Futures", published 2011-01-11 with an Intelligence Cut-Off Date (ICOD) of 2010-08-10, DIA document number DIA-08-1102-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/'
       },
       {
         tier: 1,
@@ -28535,7 +29077,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Quantum Tomography of Negative Energy States in the Vacuum (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/',
         date: '2011-01-11'
       },
       {
@@ -28554,12 +29096,16 @@ export const DOCUMENTS = [
         date: '2026-06-11'
       },
       {
-        name: 'documents2.theblackvault.com',
+        name: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf',
         date: null
       },
-      { name: 'irp.fas.org', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/', date: null }
+      { name: 'https://irp.fas.org/dia/aatip-list.pdf', url: 'https://irp.fas.org/dia/aatip-list.pdf', date: null },
+      {
+        name: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        url: 'https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/',
+        date: null
+      }
     ]
   },
   {
@@ -28577,22 +29123,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 389 of 956, score 30). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 392 of 956, score 30). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Space Access: Where We\'ve Been and Where We Could Go", series "Acquisition Threat Support", published 2010-03-08 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1001-006. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/'
       },
       {
         tier: 2,
@@ -28618,7 +29164,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Space Access: Where We\'ve Been and Where We Could Go (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170044/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237648/',
         date: '2010-03-08'
       },
       {
@@ -28663,22 +29209,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 448 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 452 of 956, score 28). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "State of the Art and Evolution of High-Energy Laser Weapons", series "Acquisition Threat Support", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/'
       },
       {
         tier: 2,
@@ -28704,7 +29250,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — State of the Art and Evolution of High-Energy Laser Weapons (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170045/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237622/',
         date: '2010-03-31'
       },
       {
@@ -28754,22 +29300,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 390 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 393 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "The Role of Superconductors in Gravity Research", series "Acquisition Threat Support", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2010-12-01, DIA document number DIA-08-1003-013. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/'
       },
       {
         tier: 2,
@@ -28795,7 +29341,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — The Role of Superconductors in Gravity Research (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170046/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2010-03-23'
       },
       {
@@ -28816,11 +29362,6 @@ export const DOCUMENTS = [
       {
         name: 'Defense Intelligence Reference Document, "The Role of Superconductors in Gravity Research" (The Black Vault FOIA release)',
         url: 'https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_14-DIRD_The_Role_of_Superconductors_in_Gravity_Research.pdf',
-        date: '2010-03-23'
-      },
-      {
-        name: 'DIA FOIA Electronic Reading Room — The Role of Superconductors in Gravity Research',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237631/',
         date: '2010-03-23'
       },
       {
@@ -28850,22 +29391,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 504 of 956, score 26). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 507 of 956, score 26). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "The Space-Communication Implications of Quantum Entanglement and Nonlocality", series "Acquisition Threat Support", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-016. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/'
       },
       {
         tier: 2,
@@ -28886,7 +29427,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — The Space-Communication Implications of Quantum Entanglement and Nonlocality (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170047/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237623/',
         date: '2010-03-30'
       },
       {
@@ -28931,22 +29472,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 391 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 394 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Traversable Wormholes, Stargates, and Negative Energy", series "Acquisition Threat Support", published 2010-04-06 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-004. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/'
       },
       {
         tier: 2,
@@ -28972,7 +29513,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/',
         date: '2010-04-06'
       },
       {
@@ -29027,22 +29568,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 392 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 395 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications", series "Defense Futures", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/'
       },
       {
         tier: 2,
@@ -29068,7 +29609,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/',
         date: '2010-11-01'
       },
       {
@@ -29113,22 +29654,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 393 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 396 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions", series "Acquisition Threat Support", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/'
       },
       {
         tier: 2,
@@ -29154,7 +29695,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/',
         date: '2010-04-02'
       },
       {
@@ -29214,22 +29755,22 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 411 of 956, score 29). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 414 of 956, score 29). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: 'Defense Intelligence Reference Document titled "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces", series "Acquisition Threat Support", published 2010-03-23 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-012. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 1,
         text: 'Inside cover reads: "This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program" and directs questions to the "AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100".',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 1,
         text: 'Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the "Prepared by:" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/'
       },
       {
         tier: 2,
@@ -29255,7 +29796,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'DIA FOIA Reading Room — Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (PDF)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170071/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237621/',
         date: '2010-03-23'
       },
       {
@@ -29305,7 +29846,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 79 of 956, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 80 of 956, score 67). 5 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -29663,7 +30204,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 479 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 482 of 956, score 27). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -29719,7 +30260,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 239 of 956, score 37). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 240 of 956, score 37). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29775,7 +30316,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 589 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 594 of 956, score 23). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29826,7 +30367,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 276 of 956, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 278 of 956, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -29984,7 +30525,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 412 of 956, score 29). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 415 of 956, score 29). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -30081,7 +30622,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 530 of 956, score 25). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 532 of 956, score 25). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30127,7 +30668,7 @@ export const DOCUMENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 184 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 185 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30183,7 +30724,7 @@ export const DOCUMENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 669 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 674 of 956, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -30320,7 +30861,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 368 of 956, score 31). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 372 of 956, score 31). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -30376,7 +30917,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 185 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 186 of 956, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -30432,7 +30973,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 481 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 484 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30483,7 +31024,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 449 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 453 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30595,7 +31136,7 @@ export const DOCUMENTS = [
     dateEnd: '1983',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 187 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 188 of 956, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30651,7 +31192,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 76 of 956, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 77 of 956, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -30712,7 +31253,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 413 of 956, score 29). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 416 of 956, score 29). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -30763,7 +31304,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 626 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 631 of 956, score 22). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -30824,7 +31365,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 347 of 956, score 32). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 351 of 956, score 32). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -30885,7 +31426,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 414 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 417 of 956, score 29). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -30952,7 +31493,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 415 of 956, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 418 of 956, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31014,7 +31555,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 297 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 300 of 956, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31096,7 +31637,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 723 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 728 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -31153,7 +31694,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 322 of 956, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 325 of 956, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -31209,7 +31750,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 396 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 399 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -31265,7 +31806,7 @@ export const DOCUMENTS = [
     dateEnd: '2022',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 348 of 956, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 352 of 956, score 32). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -31316,7 +31857,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 450 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 454 of 956, score 28). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31372,7 +31913,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-08-07',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 809 of 956, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 812 of 956, score 15). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -31418,7 +31959,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 777 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 781 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -31469,7 +32010,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 724 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 729 of 956, score 18). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -31525,7 +32066,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 567 of 956, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 570 of 956, score 24). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -31586,7 +32127,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 196 of 956, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 197 of 956, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31945,7 +32486,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 42 of 956, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 43 of 956, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32063,6 +32604,11 @@ export const DOCUMENTS = [
         name: 'ICD 906, \'Controlled Access Programs\', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)',
         url: 'https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf',
         date: '2015-10-17'
+      },
+      {
+        name: 'ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026 (379 KB)',
+        url: 'https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2026-08-25'
       }
     ]
   },
@@ -32081,7 +32627,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 198 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 199 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -32126,6 +32672,11 @@ export const DOCUMENTS = [
         date: '2024-12-19'
       },
       {
+        name: 'ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026',
+        url: 'https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf',
+        date: '2026-08-25'
+      },
+      {
         name: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5 Edition 1 (v5.1), Controlled Access Program Coordination Office',
         url: 'https://web.archive.org/web/20241230231438/https://www.dni.gov/files/documents/FOIA/Public_CAPCO_Register%20and%20Manual%20v5.1.pdf',
         date: '2012-03-30'
@@ -32147,7 +32698,7 @@ export const DOCUMENTS = [
     dateEnd: '2004-03-03',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 401 of 956, score 30). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 404 of 956, score 30). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -32294,7 +32845,7 @@ export const DOCUMENTS = [
     dateEnd: '2008',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 279 of 956, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 281 of 956, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32350,7 +32901,7 @@ export const DOCUMENTS = [
     dateEnd: '2013',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 126 of 956, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 127 of 956, score 51). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32472,7 +33023,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 417 of 956, score 29). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 420 of 956, score 29). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -32518,7 +33069,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 243 of 956, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 244 of 956, score 37). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -32564,7 +33115,7 @@ export const DOCUMENTS = [
     dateEnd: '2010',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 244 of 956, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 245 of 956, score 37). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -32615,7 +33166,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 325 of 956, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 328 of 956, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -32671,7 +33222,7 @@ export const DOCUMENTS = [
     dateEnd: '2018',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 455 of 956, score 28). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 459 of 956, score 28). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32723,7 +33274,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 123 of 956, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 124 of 956, score 53). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32779,7 +33330,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 254 of 956, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 256 of 956, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32840,7 +33391,7 @@ export const DOCUMENTS = [
     dateEnd: '2021',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 350 of 956, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 354 of 956, score 32). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32886,7 +33437,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 568 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 571 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -32927,7 +33478,7 @@ export const DOCUMENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 201 of 956, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 202 of 956, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32978,7 +33529,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 38 of 956, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 39 of 956, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -33143,7 +33694,7 @@ export const DOCUMENTS = [
       },
       {
         tier: 3,
-        text: 'The demand covers \'records transfers, destruction, or withholding\' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.',
+        text: 'The demand reaches records MITRE has \'created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled\' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.',
         source: 'https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/'
       }
     ],
@@ -33185,7 +33736,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 509 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 512 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33226,7 +33777,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 488 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 491 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33272,7 +33823,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 672 of 956, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 677 of 956, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -33308,7 +33859,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 855 of 956, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 856 of 956, score 13). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -33344,7 +33895,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 256 of 956, score 36). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 258 of 956, score 36). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33390,7 +33941,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 537 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 539 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33426,7 +33977,7 @@ export const DOCUMENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 351 of 956, score 32). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 355 of 956, score 32). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33518,7 +34069,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 404 of 956, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 407 of 956, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33569,7 +34120,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 327 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 330 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -33611,7 +34162,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 569 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 572 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -33652,7 +34203,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 282 of 956, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 284 of 956, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33698,7 +34249,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 257 of 956, score 36). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 259 of 956, score 36). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -33754,7 +34305,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 599 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 604 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -33806,7 +34357,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 372 of 956, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 376 of 956, score 31). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33893,7 +34444,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 540 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 542 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -33929,7 +34480,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 701 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 706 of 956, score 19). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33965,7 +34516,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 233 of 956, score 38). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 234 of 956, score 38). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -34021,7 +34572,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 190 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 191 of 956, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34077,7 +34628,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 328 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 331 of 956, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -34133,7 +34684,7 @@ export const DOCUMENTS = [
     dateEnd: '1948',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 212 of 956, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 213 of 956, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34184,7 +34735,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 284 of 956, score 35). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 286 of 956, score 35). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -34235,7 +34786,7 @@ export const DOCUMENTS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 420 of 956, score 29). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 423 of 956, score 29). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -34286,7 +34837,7 @@ export const DOCUMENTS = [
     dateEnd: '1966',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 512 of 956, score 26). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 515 of 956, score 26). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34398,7 +34949,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 352 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 356 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -34454,7 +35005,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 305 of 956, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 308 of 956, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -34506,7 +35057,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 258 of 956, score 36). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 260 of 956, score 36). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -34562,7 +35113,7 @@ export const DOCUMENTS = [
     dateEnd: '1981',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 421 of 956, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 424 of 956, score 29). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34603,7 +35154,7 @@ export const DOCUMENTS = [
     dateEnd: '1990',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 234 of 956, score 38). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 235 of 956, score 38). 4 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -34664,7 +35215,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 373 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 377 of 956, score 31). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -34741,7 +35292,7 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 545 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 547 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -34787,7 +35338,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 259 of 956, score 36). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 261 of 956, score 36). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -34869,7 +35420,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 546 of 956, score 25). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 548 of 956, score 25). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -34910,7 +35461,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 329 of 956, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 332 of 956, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -34962,7 +35513,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 307 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 310 of 956, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -35008,7 +35559,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 353 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 357 of 956, score 32). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -35049,7 +35600,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 202 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 203 of 956, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -35100,7 +35651,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 461 of 956, score 28). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 465 of 956, score 28). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35146,7 +35697,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 547 of 956, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 549 of 956, score 25). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -35192,7 +35743,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 462 of 956, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 466 of 956, score 28). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -35233,7 +35784,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 214 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 215 of 956, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -35279,7 +35830,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 377 of 956, score 31). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 381 of 956, score 31). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -35325,7 +35876,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 261 of 956, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 263 of 956, score 36). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -35376,7 +35927,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 406 of 956, score 30). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 409 of 956, score 30). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -35432,7 +35983,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 286 of 956, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 288 of 956, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -35544,7 +36095,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 654 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 657 of 956, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -35585,7 +36136,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 464 of 956, score 28). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 468 of 956, score 28). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35606,7 +36157,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'Wikipedia: To The Stars Inc.',
-        url: 'https://en.wikipedia.org/wiki/To_The_Stars_Inc.',
+        url: 'https://en.wikipedia.org/wiki/To_the_Stars_(company).',
         date: '2026-08-12'
       },
       {
@@ -35631,7 +36182,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 422 of 956, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 425 of 956, score 29). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35677,7 +36228,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 675 of 956, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 680 of 956, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35723,7 +36274,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 874 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 875 of 956, score 12). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -35764,7 +36315,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 857 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 858 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35805,7 +36356,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 858 of 956, score 13). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 859 of 956, score 13). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -35867,7 +36418,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 309 of 956, score 34). 6 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 312 of 956, score 34). 6 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -35923,7 +36474,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 859 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 860 of 956, score 13). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -36072,7 +36623,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 790 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 794 of 956, score 16). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -36108,7 +36659,7 @@ export const DOCUMENTS = [
     dateEnd: '2026-08-07',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 246 of 956, score 37). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 247 of 956, score 37). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36159,7 +36710,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 354 of 956, score 32). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 358 of 956, score 32). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -36205,7 +36756,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 423 of 956, score 29). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 426 of 956, score 29). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -36378,7 +36929,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 792 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 796 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -36617,7 +37168,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 493 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 496 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -36683,7 +37234,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 310 of 956, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 313 of 956, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -36794,6 +37345,11 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
+        name: 'Project Condign, \'Unidentified Aerial Phenomena in the UK Air Defence Region\', UK Defence Intelligence Staff; released 15 May 2006',
+        url: '',
+        date: null
+      },
+      {
         name: 'Project Condign - Volumes 1-3 (Internet Archive)',
         url: 'https://archive.org/details/condign-vol-2-1-258',
         date: '2006-05-15'
@@ -36886,7 +37442,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 793 of 956, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 797 of 956, score 16). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -36927,7 +37483,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 334 of 956, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 337 of 956, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -36999,7 +37555,7 @@ export const DOCUMENTS = [
     dateEnd: '2009-09-25',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 235 of 956, score 38). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 236 of 956, score 38). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -37072,7 +37628,7 @@ export const DOCUMENTS = [
     dateEnd: '1994-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 635 of 956, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 640 of 956, score 22). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -37133,22 +37689,22 @@ export const DOCUMENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 678 of 956, score 20). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 615 of 956, score 23). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D1.',
     claims: [
       {
-        tier: 2,
+        tier: 1,
         text: 'The report was written as a result of Col. Weaver\'s and Lt. McAndrew\'s efforts to locate the records explaining the events of July 1947, duplicates the information provided to the Secretary of the Air Force and the General Accounting Office, and adds only a photograph section.',
-        source: 'DTIC ADA326148 abstract and the report\'s publisher\'s note — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement'
+        source: 'DTIC ADA326148 abstract and the report\'s publisher\'s note'
       },
       {
-        tier: 2,
+        tier: 1,
         text: 'Attachment 32, Lt. McAndrew\'s synopsis, describes Project Mogul, \'the top-priority classified project of balloon-borne experiments, which provides the explanation for the Roswell Incident.\'',
-        source: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement'
+        source: 'The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32'
       },
       {
-        tier: 2,
+        tier: 1,
         text: 'The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and alien crew, based on review of classified and unclassified holdings at record depositories, archives, libraries and research facilities nationwide, and stated that of the millions of pages reviewed there was no mention of any activity tangentially suggesting such an event.',
-        source: 'Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement'
+        source: 'Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1'
       }
     ],
     sources: [
@@ -37184,7 +37740,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 192 of 956, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 193 of 956, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -37351,7 +37907,7 @@ export const DOCUMENTS = [
     dateEnd: '1980',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 795 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 799 of 956, score 16). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -37393,7 +37949,7 @@ export const DOCUMENTS = [
     dateEnd: '1992',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 737 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 742 of 956, score 18). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -37439,7 +37995,7 @@ export const DOCUMENTS = [
     dateEnd: '1950-03-22',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 708 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 713 of 956, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -37488,48 +38044,48 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 625 of 956, score 22). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 630 of 956, score 22). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
         text: '13 November 2008: DIA Talking Paper U-326-09 references \'the Director\'s meeting with Senator Reid on 13 November 2008\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: '05 January 2009: Talking Paper U-326-09 (dated 02 January 2009) prepared for \'Senator Reid Visit to [DIA], 05 January 2009\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/'
       },
       {
         tier: 1,
         text: '15 May 2009: DIA Info Memo U-429-09 states the review of deliverables was requested \'during a 15 May 2009 meeting with you after your meeting with Senator Harry Reid\'. Talking Paper U-973-09 dated 04 May 2009 prepared for \'Senator Reid Visit to Director, DIA\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/'
       },
       {
         tier: 1,
         text: '19 November 2009: DIA Read Ahead for \'DIA visit with Senator Harry Reid\', 19 Nov 09, 1645, \'Capitol, Senate Visitor Center, SVC-217\', attendees including DEPSECDEF. Purpose: to address Reid\'s SAP request and \'the quality and value of the products produced thus far under the current contract\'.',
-        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/'
+        source: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/'
       }
     ],
     sources: [
       {
         name: 'DIA Talking Paper U-326-09, \'Senator Reid Visit\', 02 Jan 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/',
         date: '2009-01-02'
       },
       {
         name: 'DIA Talking Paper U-973-09, \'Senator Reid Visit to Director, DIA\', 04 May 2009 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237614/',
         date: '2009-05-04'
       },
       {
         name: 'DIA Read Ahead, \'DIA visit with Senator Harry Reid\', 19 Nov 09, Capitol SVC-217 (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170056/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237628/',
         date: '2009-11-19'
       },
       {
         name: 'DIA Info Memo U-10-2552 to USD(AT&L), \'Advanced Aerospace Threat and Identification Program\' (DIA FOIA release)',
-        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
+        url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/',
         date: '2010'
       },
       {
@@ -37552,7 +38108,7 @@ export const EVENTS = [
         url: 'https://web.archive.org/web/20250317081516/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170059/',
         date: '2025-03-17'
       },
-      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170060/', date: null }
+      { name: 'dia.mil', url: 'https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237617/', date: null }
     ]
   },
   {
@@ -37791,7 +38347,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 668 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 673 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -37842,7 +38398,7 @@ export const EVENTS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 221 of 956, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 222 of 956, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -37898,7 +38454,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 188 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 189 of 956, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -38096,7 +38652,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 394 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 397 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38218,7 +38774,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 230 of 956, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 231 of 956, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -38289,7 +38845,7 @@ export const EVENTS = [
     dateEnd: '2026-05-13',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 591 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 596 of 956, score 23). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -38350,7 +38906,7 @@ export const EVENTS = [
     dateEnd: '2017-01',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 694 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 699 of 956, score 19). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -38890,7 +39446,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 400 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 403 of 956, score 30). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38956,7 +39512,7 @@ export const EVENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 302 of 956, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 305 of 956, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -39007,7 +39563,7 @@ export const EVENTS = [
     dateEnd: '2019',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 456 of 956, score 28). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 460 of 956, score 28). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39063,7 +39619,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 402 of 956, score 30). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 405 of 956, score 30). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39124,7 +39680,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 403 of 956, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 406 of 956, score 30). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39180,7 +39736,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 535 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 537 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39236,7 +39792,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 200 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 201 of 956, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39307,7 +39863,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 487 of 956, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 490 of 956, score 27). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39358,7 +39914,7 @@ export const EVENTS = [
     dateEnd: '2004',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 671 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 676 of 956, score 20). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -39399,7 +39955,7 @@ export const EVENTS = [
     dateEnd: '2005',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 536 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 538 of 956, score 25). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -39445,7 +40001,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 596 of 956, score 23). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 601 of 956, score 23). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -39491,7 +40047,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 597 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 602 of 956, score 23). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39532,7 +40088,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 729 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 734 of 956, score 18). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39568,7 +40124,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 418 of 956, score 29). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 421 of 956, score 29). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39726,7 +40282,7 @@ export const EVENTS = [
     dateEnd: '2017',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 538 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 540 of 956, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -39808,7 +40364,7 @@ export const EVENTS = [
     dateEnd: '1980',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 283 of 956, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 285 of 956, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -39854,7 +40410,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 541 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 543 of 956, score 25). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -39905,7 +40461,7 @@ export const EVENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 27 of 956, score 99). 17 connections, 5 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 28 of 956, score 99). 17 connections, 5 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40012,7 +40568,7 @@ export const EVENTS = [
     dateEnd: '1952',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 542 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 544 of 956, score 25). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -40064,7 +40620,7 @@ export const EVENTS = [
     dateEnd: '1966',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 543 of 956, score 25). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 545 of 956, score 25). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -40115,7 +40671,7 @@ export const EVENTS = [
     dateEnd: '1975',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 130 of 956, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 131 of 956, score 50). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40201,7 +40757,7 @@ export const EVENTS = [
     dateEnd: '1981',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 131 of 956, score 50). 9 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 132 of 956, score 50). 9 connections, 4 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -40252,7 +40808,7 @@ export const EVENTS = [
     dateEnd: '1982',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 224 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 225 of 956, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -40303,7 +40859,7 @@ export const EVENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 308 of 956, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 311 of 956, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -40354,7 +40910,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 656 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A0/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 659 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A0/D1.',
     claims: [
       {
         tier: 1,
@@ -40400,7 +40956,7 @@ export const EVENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 378 of 956, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 382 of 956, score 31). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -40476,7 +41032,7 @@ export const EVENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 516 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 519 of 956, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -40582,6 +41138,16 @@ export const EVENTS = [
     ],
     sources: [
       {
+        name: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        url: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        date: null
+      },
+      {
+        name: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        url: 'https://legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&disposition=inline',
+        date: null
+      },
+      {
         name: 'Relatório de Ocorrências (Arquivo Nacional PDF)',
         url: 'http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf',
         date: '1986-06-02'
@@ -40591,10 +41157,172 @@ export const EVENTS = [
         name: '1986 Brazilian UFO incident - Wikipedia',
         url: 'https://en.wikipedia.org/wiki/1986_Brazilian_UFO_incident',
         date: '2026-01-01'
+      }
+    ]
+  },
+  {
+    id: 'aztec-1948',
+    cls: 'event',
+    label: 'Aztec, New Mexico claim, March 1948',
+    cluster: 'other',
+    sub: 'Claimed 99-foot disc recovery, Hart Canyon; sourced to convicted fraudsters',
+    desc: 'Aztec is on this board for one reason, and it is not that a saucer came down in Hart Canyon. It is the earliest fully traceable example of a crash-retrieval narrative whose entire provenance can be reconstructed end to end - source, motive, transmission, monetisation, exposure, conviction, and revival - and that makes it the control case against which every other retrieval claim on this board has to be measured. Everything the story needed to survive it had: named military witnesses, a specific canyon, a specific craft diameter, a specific body count, a bestselling book, a metal sample, and a federal-sounding cover-up. What it did not have was a crash.  The chain begins with Silas Mason Newton, a Denver oil promoter whose name first reached the FBI on 24 September 1938 on a suspected wire-fraud referral, and Leo (Leonard) A. GeBauer, a Phoenix electronics merchant who appears in the literature under the pseudonym \'Dr. Gee\', the \'magnetologist\'. On 8 March 1950 Newton, billed only as \'Mr. X\' or \'Scientist X\', lectured a room of science students at the University of Denver. He told them he had seen two recovered flying saucers held in a secret government facility; one had come down near Aztec, New Mexico, brought down by a \'magnetic fault line\', the other near Durango, Colorado. The occupants of the first had been burned dark brown when a porthole blew out; the crew of the second had suffocated from a change in atmosphere. He described the beings as between 38 and 42 inches tall, dressed in cloth that could not be torn, probably from Venus, flying on magnetic propulsion at twice the speed of light.  Frank Scully, a Variety columnist, had already begun retailing the story in his 1949 columns. In 1950 Henry Holt published \'Behind the Flying Saucers\', which turned Newton\'s lecture into a bestseller and into the template. Scully\'s version put the event in March 1948, a 99-foot craft - the largest UFO reported to that date - containing sixteen humanoid bodies, recovered by the military after a controlled landing in Hart Canyon roughly twelve miles northeast of Aztec, and hauled away for secret research. Scully added that the craft ran on \'magnetic principles\', that the crew carried concentrated food wafers and heavy water, and that every dimension of the vehicle was divisible by nine. Martin Gardner, in \'Fads and Fallacies in the Name of Science\', took the book apart as \'wild imaginings\' and \'scientific howlers\'.  The monetisation is the part that matters. Through the late 1940s and early 1950s Newton and GeBauer were travelling the Four Corners selling \'doodlebugs\' - devices that in the oil business claim to locate deposits by remote sensing - and their sales pitch was that the doodlebug was built from, or reverse-engineered out of, the alien technology recovered at Aztec. Herman A. Flader, a Denver industrialist, put in $50,000 for a partnership in GeBauer\'s Colorado Geophysics & Development company, on the represented understanding that each unit cost around $800,000 to build. Dr. Alfred D. Kleyhauer, a Denver optometrist, lost $15,000. When investigators opened the devices they found surplus military radio parts; the estimated build cost was about $3.50 each. When J. P. Cahn of the San Francisco Chronicle demanded a sample of the miracle metal, the sample tested as ordinary aluminium. Cahn published the exposure in True magazine in September 1952 and returned in August 1956 with a second piece cataloguing further victims. Flader pressed charges. Newton and GeBauer were convicted of fraud in 1953 and also faced federal charges for moving the proceeds across state lines. Neither did jail time; the Denver Public Library\'s account records Newton still on probation and in violation of its terms by June 1955, and on 30 April 1969 he pleaded guilty again, this time to salting the Buckhorn Mine at Silver City, New Mexico. He died in 1972, probably still on probation.  The story should have died in 1956 and did, for about fifteen years - through the mid-1950s to the early 1970s most ufologists treated it as radioactive. It came back because the surrounding mythology gave it somewhere to live. In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were held at \'Hangar 18\' at Wright-Patterson Air Force Base, drawing official Air Force denials. Leonard Stringfield in the late 1970s went further, arguing the craft was one of many the US military had captured and stored. From there the Aztec details - the small burned bodies, the intact hull, the fast military sanitisation of the site - migrated wholesale into later allegedly first-hand accounts of Roswell, which is the single most important structural fact in this dossier: a documented hoax became a donor of detail to the case that the modern disclosure argument rests on.  It also acquired a paper artefact that will not go away. On 22 March 1950, two weeks after Newton\'s Denver lecture, Guy Hottel, special agent in charge of the FBI\'s Washington Field Office, filed a one-page memo relaying a third-party account of three recovered circular craft in New Mexico, \'approximately 50 feet in diameter\', each holding three bodies \'only three feet tall\' in \'metallic cloth\', allegedly downed by high-powered radar. The memo ends \'No further evaluation was attempted\'. When the FBI launched The Vault in April 2011 the Hottel memo became its most-viewed document, and in March 2013 the Bureau published a statement that it \'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated\', adding that some believe it simply repeats a hoax then in circulation.  Revisionism continues. Aztec\'s public library ran an annual UFO Symposium as a library fundraiser from 1997 to 2011. Scott and Suzanne Ramsey, with journalism professor Frank Thayer, spent three decades on the case and published \'The Aztec Incident: Recovery at Hart Canyon\' (2012) and \'The Aztec UFO Incident\' (2016), arguing the crash was real and independently witnessed; Ramsey placed a commemorative plaque at the canyon site in 2007. Nothing in that body of work has displaced the trial record. Tier it accordingly: the fraud is documented, the retrieval is not.',
+    tier: 'A',
+    C: 3,
+    A: 0,
+    D: 2,
+    dateStart: '1948-03',
+    dateEnd: '1953',
+    coords: null,
+    locLabel: null,
+    tierRationale: 'Re-graded A on a global pass (rank 57 of 956, score 74). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.',
+    claims: [
+      {
+        tier: 1,
+        text: 'Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 over \'doodlebug\' devices they claimed were based on recovered alien technology.',
+        source: 'Court record as reported by J. P. Cahn, True magazine, 1952 and 1956'
       },
       {
-        name: 'André Bernardo, BBC Brasil, \'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB\', published 14 January 2022, republished 17 May 2026 ()',
-        url: 'https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html',
+        tier: 2,
+        text: 'Scully\'s account, published in Variety in 1949 and in \'Behind the Flying Saucers\' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.',
+        source: 'Scully, \'Behind the Flying Saucers\' (1950)'
+      },
+      {
+        tier: 1,
+        text: 'A one-page memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the FBI\'s Washington Field Office, relays a third-party account of three circular craft recovered in New Mexico, approximately 50 feet in diameter, each containing three humanoid bodies three feet tall in metallic cloth, attributing the recovery to interference from a high-powered radar installation, and closing \'No further evaluation was attempted.\' The FBI has described it as a second- or third-hand claim it never investigated.',
+        source: 'FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault'
+      },
+      {
+        tier: 3,
+        text: 'Aztec is best treated as the domain\'s contamination event rather than as a case: a fraud that supplied specific physical details - craft dimensions, body height and weight, heat-proof material - which then reappeared in later first-hand testimony about entirely different sites. Reasoning: the details predate the accounts that repeat them and have a documented fraudulent origin.',
+        source: 'Comparison of the 1950 Scully descriptions with later Roswell-era testimony'
+      },
+      {
+        tier: 2,
+        text: 'The story \'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.\'',
+        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement'
+      },
+      {
+        tier: 2,
+        text: 'Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and \'the military had taken the craft for secret research\'.',
+        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement'
+      },
+      {
+        tier: 1,
+        text: 'Newton, \'initially known only as the mysterious “Mr. X”\', \'notoriously gave a lecture to a host of science students at Denver University on March 8, 1950\', claiming he had seen two saucers held by the government, one crashed near Aztec and one near Durango, Colorado.',
+        source: 'Denver Public Library Special Collections and Archives, Chris Root, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: 'Newton claimed the beings were \'probably from Venus\', \'between 38 and 42 inches tall\', wore cloth \'that could not be torn\', and that their magnetic propulsion allowed travel \'at twice the speed of light\'.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: 'Leonard GeBauer, \'a Phoenix electronics merchant\', is identified as \'likely “Dr. Gee,” the “magnetologist” featured prominently in Scully\'s book\'.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: 'Newton and GeBauer \'were charged with swindling Herman A. Flader to the tune of $50,000\'; the device sold was the \'magnetic doodlebug\', pitched as based on or reconstructed from alien technology. Denver optometrist Dr. Alfred D. Kleyhauer lost a further $15,000.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: '\'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800,000 price tag, the estimated cost for each useless device was roughly $3.50.\'',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: '\'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, with no unusual properties.\' The sample was supplied to J. P. Cahn of the San Francisco Chronicle.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: 'The exposure was published by J. P. Cahn as \'The Flying Saucers and the Mysterious Little Men\', True, September 1952, with a follow-up, \'Flying Saucer Swindlers\', True, August 1956, presenting further victims.',
+        source: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf and https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf'
+      },
+      {
+        tier: 1,
+        text: '\'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten gains across state lines.\' A 1955 newspaper article shows Newton on probation, unpaid on his fines, and out of state in violation of its terms.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: '\'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine in Silver City, New Mexico.\' He died in 1972.',
+        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
+      },
+      {
+        tier: 1,
+        text: 'The FBI\'s own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it \'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated. Some people believe the memo repeats a hoax that was circulating at that time, but the Bureau\'s files have no information to verify that theory.\'',
+        source: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo'
+      },
+      {
+        tier: 2,
+        text: 'In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at \'Hangar 18\' at Wright-Patterson AFB, \'prompting official denials from the Air Force\'; in later years \'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story\'.',
+        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, \'Little Gray Men\', p. 84, and John Michael Greer, \'The UFO Phenomenon\' (2009)'
+      },
+      {
+        tier: 2,
+        text: '\'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.\' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as \'The Aztec Incident: Recovery at Hart Canyon\' and \'The Aztec UFO Incident\'.',
+        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ'
+      }
+    ],
+    sources: [
+      {
+        name: 'J. P. Cahn, True magazine, September 1952 - live scan, retrieved 25 Aug 2026',
+        url: 'http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
+        date: '2026-08-25'
+      },
+      {
+        name: 'J. P. Cahn, True magazine, August 1956 - live scan, retrieved 25 Aug 2026',
+        url: 'http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
+        date: '2026-08-25'
+      },
+      {
+        name: 'Aztec crashed saucer hoax - Wikipedia',
+        url: 'https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident',
+        date: '2026-08-12'
+      },
+      {
+        name: 'FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950',
+        url: 'https://vault.fbi.gov/',
+        date: '2026-08-12'
+      },
+      {
+        name: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
+        url: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
+        date: null
+      },
+      {
+        name: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        url: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo',
+        date: null
+      },
+      { name: 'https://vault.fbi.gov/hottel_guy', url: 'https://vault.fbi.gov/hottel_guy', date: null },
+      {
+        name: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax',
+        date: null
+      },
+      {
+        name: 'https://archive.org/details/behindflyingsauc00scul',
+        url: 'https://archive.org/details/behindflyingsauc00scul',
+        date: null
+      },
+      {
+        name: 'https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
+        url: 'https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
+        date: null
+      },
+      {
+        name: 'https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
+        url: 'https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
+        date: null
+      },
+      {
+        name: 'https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ',
+        url: 'https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ',
         date: null
       }
     ]
@@ -40614,7 +41342,7 @@ export const EVENTS = [
     dateEnd: '2025-08',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 831 of 956, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 833 of 956, score 14). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -40655,7 +41383,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 789 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 793 of 956, score 16). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -40696,7 +41424,7 @@ export const EVENTS = [
     dateEnd: '2026-02-23',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 575 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 578 of 956, score 24). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -40747,7 +41475,7 @@ export const EVENTS = [
     dateEnd: '2025-09-09',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 465 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 469 of 956, score 28). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -40905,7 +41633,7 @@ export const EVENTS = [
     dateEnd: '2009-12',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 659 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 662 of 956, score 21). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -40956,7 +41684,7 @@ export const EVENTS = [
     dateEnd: '1996-01-20',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 191 of 956, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 192 of 956, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -41007,7 +41735,7 @@ export const EVENTS = [
     dateEnd: '2026-07-15',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 335 of 956, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 338 of 956, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -41068,7 +41796,7 @@ export const EVENTS = [
     dateEnd: '1978-12-30',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 759 of 956, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 763 of 956, score 17). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -41114,7 +41842,7 @@ export const EVENTS = [
     dateEnd: '2026-05-08',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 833 of 956, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 835 of 956, score 14). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -41160,7 +41888,7 @@ export const EVENTS = [
     dateEnd: '2026-05-13',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 834 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 836 of 956, score 14). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -41206,7 +41934,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 578 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 581 of 956, score 24). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -41252,7 +41980,7 @@ export const EVENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 26 of 956, score 100). 19 connections, 5 of them custody/witness/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 27 of 956, score 100). 19 connections, 5 of them custody/witness/funding/programmatic, 6 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -41343,7 +42071,7 @@ export const EVENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 217 of 956, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 218 of 956, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -41441,7 +42169,7 @@ export const EVENTS = [
     dateEnd: '2009-08-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 549 of 956, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 551 of 956, score 25). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -41497,7 +42225,7 @@ export const EVENTS = [
     dateEnd: '1986-08-21',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 636 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 641 of 956, score 22). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.',
     claims: [
       {
         tier: 1,
@@ -41553,7 +42281,7 @@ export const EVENTS = [
     dateEnd: '1965-12-10',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 429 of 956, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 432 of 956, score 29). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -41609,7 +42337,7 @@ export const EVENTS = [
     dateEnd: '1967-10-09',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 661 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 664 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D2.',
     claims: [
       {
         tier: 2,
@@ -41641,149 +42369,6 @@ export const EVENTS = [
     ]
   },
   {
-    id: 'aztec-1948',
-    cls: 'event',
-    label: 'Aztec, New Mexico claim, March 1948',
-    cluster: 'witness',
-    sub: 'Claimed 99-foot disc recovery, Hart Canyon; sourced to convicted fraudsters',
-    desc: 'Aztec is on this board for one reason, and it is not that a saucer came down in Hart Canyon. It is the earliest fully traceable example of a crash-retrieval narrative whose entire provenance can be reconstructed end to end - source, motive, transmission, monetisation, exposure, conviction, and revival - and that makes it the control case against which every other retrieval claim on this board has to be measured. Everything the story needed to survive it had: named military witnesses, a specific canyon, a specific craft diameter, a specific body count, a bestselling book, a metal sample, and a federal-sounding cover-up. What it did not have was a crash.  The chain begins with Silas Mason Newton, a Denver oil promoter whose name first reached the FBI on 24 September 1938 on a suspected wire-fraud referral, and Leo (Leonard) A. GeBauer, a Phoenix electronics merchant who appears in the literature under the pseudonym \'Dr. Gee\', the \'magnetologist\'. On 8 March 1950 Newton, billed only as \'Mr. X\' or \'Scientist X\', lectured a room of science students at the University of Denver. He told them he had seen two recovered flying saucers held in a secret government facility; one had come down near Aztec, New Mexico, brought down by a \'magnetic fault line\', the other near Durango, Colorado. The occupants of the first had been burned dark brown when a porthole blew out; the crew of the second had suffocated from a change in atmosphere. He described the beings as between 38 and 42 inches tall, dressed in cloth that could not be torn, probably from Venus, flying on magnetic propulsion at twice the speed of light.  Frank Scully, a Variety columnist, had already begun retailing the story in his 1949 columns. In 1950 Henry Holt published \'Behind the Flying Saucers\', which turned Newton\'s lecture into a bestseller and into the template. Scully\'s version put the event in March 1948, a 99-foot craft - the largest UFO reported to that date - containing sixteen humanoid bodies, recovered by the military after a controlled landing in Hart Canyon roughly twelve miles northeast of Aztec, and hauled away for secret research. Scully added that the craft ran on \'magnetic principles\', that the crew carried concentrated food wafers and heavy water, and that every dimension of the vehicle was divisible by nine. Martin Gardner, in \'Fads and Fallacies in the Name of Science\', took the book apart as \'wild imaginings\' and \'scientific howlers\'.  The monetisation is the part that matters. Through the late 1940s and early 1950s Newton and GeBauer were travelling the Four Corners selling \'doodlebugs\' - devices that in the oil business claim to locate deposits by remote sensing - and their sales pitch was that the doodlebug was built from, or reverse-engineered out of, the alien technology recovered at Aztec. Herman A. Flader, a Denver industrialist, put in $50,000 for a partnership in GeBauer\'s Colorado Geophysics & Development company, on the represented understanding that each unit cost around $800,000 to build. Dr. Alfred D. Kleyhauer, a Denver optometrist, lost $15,000. When investigators opened the devices they found surplus military radio parts; the estimated build cost was about $3.50 each. When J. P. Cahn of the San Francisco Chronicle demanded a sample of the miracle metal, the sample tested as ordinary aluminium. Cahn published the exposure in True magazine in September 1952 and returned in August 1956 with a second piece cataloguing further victims. Flader pressed charges. Newton and GeBauer were convicted of fraud in 1953 and also faced federal charges for moving the proceeds across state lines. Neither did jail time; the Denver Public Library\'s account records Newton still on probation and in violation of its terms by June 1955, and on 30 April 1969 he pleaded guilty again, this time to salting the Buckhorn Mine at Silver City, New Mexico. He died in 1972, probably still on probation.  The story should have died in 1956 and did, for about fifteen years - through the mid-1950s to the early 1970s most ufologists treated it as radioactive. It came back because the surrounding mythology gave it somewhere to live. In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were held at \'Hangar 18\' at Wright-Patterson Air Force Base, drawing official Air Force denials. Leonard Stringfield in the late 1970s went further, arguing the craft was one of many the US military had captured and stored. From there the Aztec details - the small burned bodies, the intact hull, the fast military sanitisation of the site - migrated wholesale into later allegedly first-hand accounts of Roswell, which is the single most important structural fact in this dossier: a documented hoax became a donor of detail to the case that the modern disclosure argument rests on.  It also acquired a paper artefact that will not go away. On 22 March 1950, two weeks after Newton\'s Denver lecture, Guy Hottel, special agent in charge of the FBI\'s Washington Field Office, filed a one-page memo relaying a third-party account of three recovered circular craft in New Mexico, \'approximately 50 feet in diameter\', each holding three bodies \'only three feet tall\' in \'metallic cloth\', allegedly downed by high-powered radar. The memo ends \'No further evaluation was attempted\'. When the FBI launched The Vault in April 2011 the Hottel memo became its most-viewed document, and in March 2013 the Bureau published a statement that it \'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated\', adding that some believe it simply repeats a hoax then in circulation.  Revisionism continues. Aztec\'s public library ran an annual UFO Symposium as a library fundraiser from 1997 to 2011. Scott and Suzanne Ramsey, with journalism professor Frank Thayer, spent three decades on the case and published \'The Aztec Incident: Recovery at Hart Canyon\' (2012) and \'The Aztec UFO Incident\' (2016), arguing the crash was real and independently witnessed; Ramsey placed a commemorative plaque at the canyon site in 2007. Nothing in that body of work has displaced the trial record. Tier it accordingly: the fraud is documented, the retrieval is not.',
-    tier: 'A',
-    C: 3,
-    A: 0,
-    D: 2,
-    dateStart: '1948-03',
-    dateEnd: '1953',
-    coords: null,
-    locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 57 of 956, score 74). 6 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A0/D2.',
-    claims: [
-      {
-        tier: 1,
-        text: 'Silas M. Newton and Leo A. Gebauer were convicted of fraud in 1953 over \'doodlebug\' devices they claimed were based on recovered alien technology.',
-        source: 'Court record as reported by J. P. Cahn, True magazine, 1952 and 1956'
-      },
-      {
-        tier: 2,
-        text: 'Scully\'s account, published in Variety in 1949 and in \'Behind the Flying Saucers\' in 1950, placed the crash in March 1948 in Hart Canyon twelve miles northeast of Aztec, with a 99-foot craft and sixteen bodies.',
-        source: 'Scully, \'Behind the Flying Saucers\' (1950)'
-      },
-      {
-        tier: 1,
-        text: 'A one-page memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the FBI\'s Washington Field Office, relays a third-party account of three circular craft recovered in New Mexico, approximately 50 feet in diameter, each containing three humanoid bodies three feet tall in metallic cloth, attributing the recovery to interference from a high-powered radar installation, and closing \'No further evaluation was attempted.\' The FBI has described it as a second- or third-hand claim it never investigated.',
-        source: 'FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault'
-      },
-      {
-        tier: 3,
-        text: 'Aztec is best treated as the domain\'s contamination event rather than as a case: a fraud that supplied specific physical details - craft dimensions, body height and weight, heat-proof material - which then reappeared in later first-hand testimony about entirely different sites. Reasoning: the details predate the accounts that repeat them and have a documented fraudulent origin.',
-        source: 'Comparison of the 1950 Scully descriptions with later Roswell-era testimony'
-      },
-      {
-        tier: 2,
-        text: 'The story \'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.\'',
-        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement'
-      },
-      {
-        tier: 2,
-        text: 'Per Scully, in March 1948 an unidentified craft 99 feet in diameter containing sixteen humanoid bodies was recovered by the military after a controlled landing in Hart Canyon, 12 miles northeast of Aztec, and \'the military had taken the craft for secret research\'.',
-        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement'
-      },
-      {
-        tier: 1,
-        text: 'Newton, \'initially known only as the mysterious “Mr. X”\', \'notoriously gave a lecture to a host of science students at Denver University on March 8, 1950\', claiming he had seen two saucers held by the government, one crashed near Aztec and one near Durango, Colorado.',
-        source: 'Denver Public Library Special Collections and Archives, Chris Root, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: 'Newton claimed the beings were \'probably from Venus\', \'between 38 and 42 inches tall\', wore cloth \'that could not be torn\', and that their magnetic propulsion allowed travel \'at twice the speed of light\'.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: 'Leonard GeBauer, \'a Phoenix electronics merchant\', is identified as \'likely “Dr. Gee,” the “magnetologist” featured prominently in Scully\'s book\'.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: 'Newton and GeBauer \'were charged with swindling Herman A. Flader to the tune of $50,000\'; the device sold was the \'magnetic doodlebug\', pitched as based on or reconstructed from alien technology. Denver optometrist Dr. Alfred D. Kleyhauer lost a further $15,000.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: '\'The Doodlebugs were determined to be constructed of surplus military radio parts. Far from the professed $800,000 price tag, the estimated cost for each useless device was roughly $3.50.\'',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: '\'The “mystery metal,” which he claimed was indestructible, was identified as nothing but ordinary aluminum, with no unusual properties.\' The sample was supplied to J. P. Cahn of the San Francisco Chronicle.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: 'The exposure was published by J. P. Cahn as \'The Flying Saucers and the Mysterious Little Men\', True, September 1952, with a follow-up, \'Flying Saucer Swindlers\', True, August 1956, presenting further victims.',
-        source: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf and https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf'
-      },
-      {
-        tier: 1,
-        text: '\'The pair were convicted of fraud in 1953, as well as facing federal charges for transporting their ill-gotten gains across state lines.\' A 1955 newspaper article shows Newton on probation, unpaid on his fines, and out of state in violation of its terms.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: '\'On April 30, 1969, Newton pled guilty to further fraud charges relating to the “salting” of the Buckhorn Mine in Silver City, New Mexico.\' He died in 1972.',
-        source: 'Denver Public Library Special Collections and Archives, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story'
-      },
-      {
-        tier: 1,
-        text: 'The FBI\'s own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it \'does not prove the existence of UFOs; it is simply a second- or third-hand claim that we never investigated. Some people believe the memo repeats a hoax that was circulating at that time, but the Bureau\'s files have no information to verify that theory.\'',
-        source: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo'
-      },
-      {
-        tier: 2,
-        text: 'In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at \'Hangar 18\' at Wright-Patterson AFB, \'prompting official denials from the Air Force\'; in later years \'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story\'.',
-        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, \'Little Gray Men\', p. 84, and John Michael Greer, \'The UFO Phenomenon\' (2009)'
-      },
-      {
-        tier: 2,
-        text: '\'The incident gave birth to the Aztec UFO Symposium, which was run by the Aztec, New Mexico, library as a fundraiser from 1997 until 2011.\' Revisionist defences were published by Scott Ramsey, Suzanne Ramsey and Frank Thayer as \'The Aztec Incident: Recovery at Hart Canyon\' and \'The Aztec UFO Incident\'.',
-        source: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax and https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ'
-      }
-    ],
-    sources: [
-      {
-        name: 'Aztec crashed saucer hoax - Wikipedia',
-        url: 'https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident',
-        date: '2026-08-12'
-      },
-      {
-        name: 'FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950',
-        url: 'https://vault.fbi.gov/',
-        date: '2026-08-12'
-      },
-      { name: 'en.wikipedia.org', url: 'https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax', date: null },
-      {
-        name: 'Denver Public Library Special Collections and Archives, Chris Root, \'Of Flying Saucers and Fraud: The Silas M. Newton Story\', 16 July 2021',
-        url: 'https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story',
-        date: null
-      },
-      {
-        name: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at and',
-        url: 'https://web.archive.org/web/20230622091542/http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf',
-        date: null
-      },
-      {
-        name: 'J. P. Cahn, True magazine, Sept. 1952 and Aug. 1956; archived scans at and',
-        url: 'https://web.archive.org/web/20230622101940/http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf',
-        date: null
-      },
-      { name: 'fbi.gov', url: 'https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo', date: null },
-      {
-        name: 'books.google.com',
-        url: 'https://books.google.com/books/about/The_Aztec_UFO_Incident.html?id=x99EDwAAQBAJ',
-        date: null
-      }
-    ]
-  },
-  {
     id: 'plains-san-agustin-1947',
     cls: 'event',
     label: 'Plains of San Agustin claim, July 1947',
@@ -41798,7 +42383,7 @@ export const EVENTS = [
     dateEnd: '1992',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 382 of 956, score 31). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 386 of 956, score 31). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.',
     claims: [
       {
         tier: 2,
@@ -41854,7 +42439,7 @@ export const EVENTS = [
     dateEnd: '1980-09-02',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 662 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 665 of 956, score 21). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
     claims: [
       {
         tier: 2,
@@ -41900,7 +42485,7 @@ export const EVENTS = [
     dateEnd: '1950',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 878 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 879 of 956, score 12). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A0/D0.',
     claims: [
       {
         tier: 2,
@@ -41936,7 +42521,7 @@ export const EVENTS = [
     dateEnd: '1967-03-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 407 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 410 of 956, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -41988,7 +42573,7 @@ export const EVENTS = [
     dateEnd: '1966-12-06',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 736 of 956, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 741 of 956, score 18). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -42024,7 +42609,7 @@ export const EVENTS = [
     dateEnd: '1968-10-24',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 496 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 499 of 956, score 27). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -42080,7 +42665,7 @@ export const EVENTS = [
     dateEnd: '2010-09-27',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded C on a global pass (rank 518 of 956, score 26). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 521 of 956, score 26). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,

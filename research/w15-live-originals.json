@@ -1,0 +1,99 @@
+{
+ "domain": "w15-live-originals",
+ "_why": "An audit of the board's dependence on the Internet Archive, and the five documents that no longer need it.\n\nWhy this matters here and not elsewhere: web.archive.org is unreachable from the cloud session this board is currently worked from - WebFetch refuses it and curl gets a connection reset. So a claim whose ONLY citation is a Wayback capture cannot be checked from here at all. That is not a defect in the board; it is a fact about the environment. But where the original is alive, citing only the archive gives up a live link for nothing.\n\nThe audit, over all 1,227 unique source URLs on the board:\n\n  164 are web.archive.org captures (13.4%)\n  138 of those already cite the live original alongside the capture - correct, and the common case\n   26 are Wayback-only\n\nOf the 26, twenty-one are Wayback doing exactly its job: collectionscanada.ca returns 503 across five URLs (the domain is retired in favour of bac-lac.gc.ca), mod.uk returns 410 GONE on two (the MoD moved to gov.uk), nationalarchives.gov.uk/ufos/ returns 404 on seven (the microsite was retired), two dni.gov PDFs and three esd.whs.mil DoDM 5205.07 volume URLs return 404, and aforteanosla.com.ar no longer resolves in DNS at all. For those the capture IS the record and should stay the citation.\n\nFive have live originals, verified by retrieving each one in this pass. They are added here alongside the existing captures rather than replacing them - the capture stays, because a live URL can die and the whole point of the archive is that the board does not lose the document when it does.\n\nA correction to my own method, recorded because it nearly produced a false finding. The first run of this audit reported 29 Wayback-only URLs and flagged the DoDD 5205.07 directive among them. It is not: the board cites both the capture and the live URL, but with different path casing - /portals/54/documents/ against /Portals/54/Documents/. Case-sensitive normalisation read one URL as two and manufactured a gap that was not there. Folding case on the whole URL, not just the host, drops the count from 29 to 26.\n\nOne genuine find surfaced while checking, and the board already handles it correctly, which is worth saying: the live esd.whs.mil URL for DoDD 5205.07 now serves the 12 September 2024 reissue, whose header states it 'Reissues and Cancels' the 1 July 2010 directive and 'Incorporates and Cancels' the Deputy Secretary's SAP Enterprise Reform memorandum of 11 July 2023. Anyone following that live link gets a different document from the 2010 one several claims rest on. The board already carries dodd-5205-07-2024 as its own node and distinguishes 'DoDD 5205.07 (2010) Glossary' where it means the older text. No change needed; noted so the next pass does not 'fix' it.",
+ "entities": [
+  {
+   "id": "icd-906",
+   "sources": [
+    {
+     "name": "ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026 (379 KB)",
+     "url": "https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "document"
+  },
+  {
+   "id": "odni-capco",
+   "sources": [
+    {
+     "name": "ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026",
+     "url": "https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "institution"
+  },
+  {
+   "id": "capco-register",
+   "sources": [
+    {
+     "name": "ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026",
+     "url": "https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "document"
+  },
+  {
+   "id": "four-regime-map",
+   "sources": [
+    {
+     "name": "ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026",
+     "url": "https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "domain"
+  },
+  {
+   "id": "usc-50-3093",
+   "sources": [
+    {
+     "name": "ICD 906, Controlled Access Programs (ODNI) - live original, retrieved 25 Aug 2026",
+     "url": "https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "legislation"
+  },
+  {
+   "id": "odni-2022-annual-report",
+   "sources": [
+    {
+     "name": "ODNI, 2022 Annual Report on Unidentified Aerial Phenomena - live original on odni.gov, retrieved 25 Aug 2026 (564 KB)",
+     "url": "https://www.odni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "document"
+  },
+  {
+   "id": "aztec-1948",
+   "sources": [
+    {
+     "name": "J. P. Cahn, True magazine, September 1952 - live scan, retrieved 25 Aug 2026",
+     "url": "http://www.physics.smu.edu/~pseudo/UFOs/Scully/Cahn1.pdf",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "J. P. Cahn, True magazine, August 1956 - live scan, retrieved 25 Aug 2026",
+     "url": "http://www.physics.smu.edu/pseudo/UFOs/Scully/Cahn2.pdf",
+     "date": "2026-08-25"
+    }
+   ],
+   "cls": "event"
+  },
+  {
+   "id": "saf-aaz",
+   "sources": [
+    {
+     "name": "AFI 16-701, 'Management, Administration and Oversight of Special Access Programs', 18 February 2014, OPR SAF/AAZE, certified by SAF/AAZ - live original, retrieved 25 Aug 2026 (48 pp.)",
+     "url": "https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ],
+   "cls": "institution"
+  }
+ ]
+}

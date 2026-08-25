@@ -160,19 +160,52 @@ def collect():
     return out
 
 
+BOARD_URL = os.environ.get("BOARD_URL", "http://127.0.0.1:8899/the-program.html")
+
+
+def _board_served():
+    """Is the built board reachable over HTTP right now?
+
+    The three browser steps cannot run against file:// -- a 13MB document served
+    that way never finishes parsing in this container. Rather than let them fail
+    for a reason that has nothing to do with the board, this asks first and the
+    gate reports SKIPPED with the reason NAMED. A skip you can read is fine; a
+    silent one is how a check sits dead for weeks.
+    """
+    try:
+        import urllib.request
+        with urllib.request.urlopen(BOARD_URL, timeout=4) as r:
+            return r.status == 200
+    except Exception:
+        return False
+
+
 def run_gate():
     """Run the gate and report per-command. Slow; --idempotent builds twice."""
     cmds = [
-        ("verify", [sys.executable, _p("tools", "verify.py")]),
-        ("verify --self-test", [sys.executable, _p("tools", "verify.py"), "--self-test"]),
-        ("audit_independent", [sys.executable, _p("tools", "audit_independent.py")]),
-        ("test_scripted_analyst", ["node", _p("tools", "test_scripted_analyst.mjs")]),
-        ("verify --idempotent", [sys.executable, _p("tools", "verify.py"), "--idempotent"]),
+        ("verify", [sys.executable, _p("tools", "verify.py")], False),
+        ("verify --self-test", [sys.executable, _p("tools", "verify.py"), "--self-test"], False),
+        ("capture_strip", ["node", _p("tools", "capture_strip.js")], True),
+        ("audit_independent", [sys.executable, _p("tools", "audit_independent.py")], False),
+        ("runtime_check", ["node", _p("tools", "runtime_check.js")], True),
+        # The packed-cell layout, read back out of the canvas it drew.
+        ("test_packed_layout", ["node", _p("tools", "test_packed_layout.js")], True),
+        ("test_packed_layout --self-test",
+         ["node", _p("tools", "test_packed_layout.js"), "--self-test"], True),
+        ("test_scripted_analyst", ["node", _p("tools", "test_scripted_analyst.mjs")], False),
+        ("verify --idempotent", [sys.executable, _p("tools", "verify.py"), "--idempotent"], False),
     ]
+    served = _board_served()
     results = {}
-    for name, cmd in cmds:
+    for name, cmd, needs_browser in cmds:
+        if needs_browser and not served:
+            results[name] = ("SKIPPED -- nothing serving %s. Run: node "
+                             "/opt/node22/lib/node_modules/http-server/bin/"
+                             "http-server dist -p 8899 --silent &" % BOARD_URL)
+            continue
         try:
-            r = subprocess.run(cmd, capture_output=True, cwd=ROOT)
+            env = dict(os.environ, BOARD_URL=BOARD_URL)
+            r = subprocess.run(cmd, capture_output=True, cwd=ROOT, env=env)
             results[name] = "PASS" if r.returncode == 0 else "FAIL(%d)" % r.returncode
         except FileNotFoundError as exc:
             results[name] = "COULD NOT RUN: %s" % exc

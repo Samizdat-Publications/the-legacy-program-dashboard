@@ -228,13 +228,30 @@ def main():
     if tr:
         ck("stats strip TIER A", int(tr),
            sum(1 for n in nodes if n.get("tier") == "A"))
-    # the crumb renders as "PROGRAM MAPSTART436 objects · 1.00x" -- the label between
-    # "MAP" and the count is part of the breadcrumb, not whitespace.
-    mo = (rendered(r"PROGRAM MAP\D{0,12}?(\d{2,5})\s*objects", "PROGRAM MAP objects")
+    # The crumb renders as "PROGRAM MAPSTART110 nodes · 103 of 326 links at rest
+    # · 1.00x" -- the label between "MAP" and the count is part of the breadcrumb,
+    # not whitespace. It used to read "436 objects", one number covering nodes and
+    # both edge kinds. The packed layout draws only the budgeted edges at rest, so
+    # a single total would have told the reader they were looking at 326 links when
+    # 103 are on the screen. Three figures now, and all three are checked.
+    mo = (rendered(r"PROGRAM MAP\D{0,12}?(\d{2,5})\s*nodes", "PROGRAM MAP nodes")
           if strip else None)
     if mo:
-        ck("breadcrumb object count", int(mo),
-           c["l0"] + c["directEdges"] + c["summarisedEdges"])
+        ck("breadcrumb node count", int(mo), c["l0"])
+    mr = (rendered(r"(\d{1,5})\s*of\s*\d{1,5}\s*links at rest", "links at rest")
+          if strip else None)
+    if mr:
+        # Re-derived from the layout model rather than from the number the model
+        # states about itself: count the edges actually flagged `rest`.
+        lay = json.load(open(os.path.join(ROOT, "data", "l0-layout-model.json"),
+                             encoding="utf-8"))["current"]
+        ck("breadcrumb links at rest", int(mr),
+           sum(1 for e in lay["edges"] if e.get("rest")))
+    mt = (rendered(r"\d{1,5}\s*of\s*(\d{1,5})\s*links at rest", "links total")
+          if strip else None)
+    if mt:
+        ck("breadcrumb links total", int(mt),
+           c["directEdges"] + c["summarisedEdges"])
 
     # entity class count stated in UI copy
     ncls = len({n["cls"] for n in nodes})

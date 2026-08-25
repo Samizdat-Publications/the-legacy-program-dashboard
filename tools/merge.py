@@ -80,6 +80,20 @@ def reject(kind, obj, why):
 
 
 def norm_source(s):
+    # Tolerate a bare URL string. This function already accepts `label` and `title`
+    # as aliases for name and `verified` as an alias for date, and load() already
+    # tolerates entityInfo written as a plain string -- a source written as just its
+    # URL is the same shape of agent slip and there is no reason to discard it.
+    #
+    # Discarding it is what happened: 732 sources across research/ were written as
+    # bare strings and dropped here without a word, 76 of them URLs that reached the
+    # board by no other route. Several sat on edges a later pass then recorded as
+    # UNSOURCED and went looking for citations that were already in the file.
+    if isinstance(s, str):
+        s = s.strip()
+        if not s:
+            return None
+        s = {"url": s} if s.startswith("http") else {"name": s}
     if not isinstance(s, dict):
         return None
     name = s.get("name") or s.get("label") or s.get("title")
@@ -575,12 +589,22 @@ PRIMARY_URL_PAT = re.compile(
     r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
     r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
     r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
-    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+    r"nsf\.gov|nasa\.gov|cnes\.fr|patents\.google|uspto\.gov|doi\.org|"
     # other governments, all of them already cited on this board
     r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
-    r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
-    # third-party hosts of released government documents
-    r"theblackvault\.com|irp\.fas\.org", re.I)
+    r"leg\.br|\.gouv\.fr|legifrance|assemblee-nationale\.fr|senat\.fr|europa\.eu|"
+    # third-party hosts of released government documents.
+    #
+    # archive.org is NOT a primary host in general -- it serves commercially
+    # published books too, and this board cites some. But archive.org/details/DTIC_*
+    # is the Defense Technical Information Center archive mirror: every item there
+    # carries creator "Defense Technical Information Center" and sits in the
+    # `dticarchive` and `government-documents` collections. A DTIC accession scan is
+    # the released document, and the rule this pattern already states is that primacy
+    # belongs to the document rather than to who serves it. Without this, the USAF's
+    # own 1995 Roswell report (DTIC ADA326148) and all three volumes of the Condon
+    # Report (DTIC AD0680975-7) count as no primary record at all.
+    r"theblackvault\.com|irp\.fas\.org|archive\.org/details/DTIC_", re.I)
 
 demotions = []
 
@@ -701,6 +725,63 @@ def remediate_tiers(people, entities):
     return demotions
 
 
+edge_demotions = []
+
+
+def remediate_edge_tiers(edges):
+    """Apply the honesty pass to edges, which it never covered.
+
+    An edge's claimTier renders on the board as "Tier 1 - documented" and the
+    board's own copy calls Tier 1 "what survives a hostile audit". That is the
+    same promise a claim's Tier 1 makes. But remediate_tiers() above walks
+    people and entities only: edge claimTier is whatever the research authored,
+    merged across duplicates by min() and audited by nothing. So 93 edges shipped
+    labelled "documented" on the strength of a Wikipedia article, a YouTube video
+    or a blogspot post and no primary record anywhere -- among them George Knapp
+    to Harry Reid, Leslie Kean to David Grusch, and every UAP Gerb investigation
+    edge on the board.
+
+    Only the secondary-source rule is carried over, and deliberately so:
+
+    - SECONDARY_PAT with no primary URL anywhere on the edge is unambiguous. An
+      encyclopedia entry is not a primary record whatever it says, and this is
+      exactly the rule the claims pass already enforces.
+
+    - The interested-party rule is NOT carried over. It works on claims because
+      claim text is a single assertion, so ATTRIBUTION_PAT can ask whether the
+      claim is about what the interested party said. An edge's note is a
+      summary of a relationship, and the same test misreads it: it would demote
+      `aaro -> aaro-fy2023-annual-report`, which is an office publishing its own
+      report and is a primary record by definition, along with notes phrased
+      "AARO disclosed", "AARO confirms" and "AARO's own words" that are
+      attribution the verb list happens not to name. 49 edges would be demoted
+      that way and most of them wrongly. Capping them needs a per-edge reading,
+      not a regex, so it stays a research question rather than a build rule.
+
+    Demoted edges land in tools/EDGE-DEMOTIONS.json, beside DEMOTIONS.json, so the
+    re-sourcing queue is a file rather than an annotation. The claims pass writes
+    its flag into claim.source; the edge analogue would be the note, and the gate
+    already holds that an edge note carries only what the edge asserts -- a
+    demotion is editing history, the same category as the collapse provenance
+    that was stripped out of twelve notes.
+    """
+    for e in edges.values():
+        if e.get("claimTier") != 1:
+            continue
+        srcs = e.get("sources") or []
+        urls = " ".join(s.get("url") or "" for s in srcs)
+        named = " ".join(((s.get("name") or "") + " " + (s.get("url") or "")) for s in srcs)
+        if PRIMARY_URL_PAT.search(urls) or not SECONDARY_PAT.search(named):
+            continue
+        why = "cited to a secondary/encyclopedic source with no primary record"
+        e["claimTier"] = 2
+        edge_demotions.append({"a": e["a"], "b": e["b"], "type": e["type"], "why": why,
+                               "note": (e.get("note") or "")[:110],
+                               "sources": [s.get("url") or s.get("name") or ""
+                                           for s in e.get("sources") or []]})
+    return edge_demotions
+
+
 DUP_STOP = {"the", "of", "a", "an", "and", "for", "to", "on", "in", "act", "section",
             "sec", "us", "u", "s", "united", "states", "department", "office",
             "program", "programme", "inc", "llc", "corporation"}
@@ -793,6 +874,16 @@ def integrity(people, entities, edges, timeline):
     for p in people.values():
         if len(p["sources"]) < 2:
             problems["person_thin_sourcing"].append({"id": p["id"], "sources": len(p["sources"])})
+            # A node resting on one primary record and a node resting on one blog post
+            # are not the same risk, and counting them together made the queue useless:
+            # of the 26 that were thin after the w16 pass, nine already stood on govinfo,
+            # lanl.gov, The Black Vault, doi.org or Chile's DGAC, and none stood on an
+            # encyclopedic source at all. This is the number actually worth working.
+            urls = " ".join(s.get("url") or "" for s in p["sources"])
+            if not PRIMARY_URL_PAT.search(urls):
+                problems["person_single_nonprimary_source"].append(
+                    {"id": p["id"], "source": (p["sources"][0].get("url")
+                                               if p["sources"] else None)})
         if not p["narrative"]:
             problems["person_without_narrative"].append(p["id"])
         if not p["tierRationale"]:
@@ -965,7 +1056,8 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
                    "timeline": tl, "entityInfo": entity_info}, f, indent=1, ensure_ascii=False)
 
     for fn, obj in (("INTEGRITY.json", dict(problems)), ("REJECTS.json", rejects),
-                    ("GAPS.json", gaps), ("DEMOTIONS.json", demotions)):
+                    ("GAPS.json", gaps), ("DEMOTIONS.json", demotions),
+                    ("EDGE-DEMOTIONS.json", edge_demotions)):
         with open(os.path.join(OUT, fn), "w", encoding="utf-8") as f:
             json.dump(obj, f, indent=1, ensure_ascii=False)
     return today
@@ -975,6 +1067,7 @@ def main():
     people, entities, edges, timeline, entity_info, gaps = load()
     hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
+    remediate_edge_tiers(edges)
     problems, deg = integrity(people, entities, edges, timeline)
     today = emit(people, entities, edges, timeline, entity_info, gaps, problems)
 

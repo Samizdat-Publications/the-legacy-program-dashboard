@@ -14,9 +14,20 @@ Its own repository since 13 August 2026. It no longer sits inside `the-vanishing
 
 ---
 
-## State
+## State as it stood on 13 August 2026
 
-| | |
+**These figures are a snapshot, not a status.** They are kept because this file
+records how the project started, and they were accurate when written. They are not
+accurate now and are not maintained. For current state run:
+
+```
+python3 tools/state_snapshot.py
+```
+
+which derives every figure from source. Nothing in this table should be quoted
+anywhere, and a check that disagrees with it is right.
+
+| | as of 13 Aug 2026 |
 |---|---|
 | Nodes | **976** |
 | People | 251 |
@@ -33,7 +44,7 @@ Its own repository since 13 August 2026. It no longer sits inside `the-vanishing
 | Unique source URLs | **954** |
 | Dangling references | **0** |
 
-Tier distribution: **A 146 · B 341 · C 488** (15 / 35 / 50).
+Tier distribution as of 13 August 2026: **A 146 · B 341 · C 488** (15 / 35 / 50).
 
 ---
 
