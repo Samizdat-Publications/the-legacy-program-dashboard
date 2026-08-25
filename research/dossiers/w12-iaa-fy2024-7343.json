@@ -1,0 +1,53 @@
+[
+ {
+  "id": "iaa-fy2024-7343",
+  "entityDossier": {
+   "whatItIs": "Section 7343 of the Intelligence Authorization Act for Fiscal Year 2024, enacted as division G of Pub. L. 118-31, 137 Stat. 1064, titled 'Funding Limitations Relating to Unidentified Anomalous Phenomena'. Subsection (b) bars obligation or expenditure of funds authorised by that division 'in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' that has not been reported to Congress. Subsection (c) makes UAP-related independent research and development unallowable as an indirect expense. Subsection (a)(1) defines 'appropriate committees of Congress' as SSCI, SASC and Senate Appropriations, plus HPSCI, HASC and House Appropriations; (a)(2) adds the four congressional leaders.",
+   "whyImplicated": "7343 is the intelligence-community half of a matched pair. NDAA sec. 1687 imposes the same two limitations on defence funds through the Secretary of Defense; 7343 imposes them on intelligence funds through the Director of National Intelligence. Congress wrote the prohibition twice because the money and the authority run through two different chains, and a limitation binding only one of them would leave the other open. That is a legislative judgement about where UAP work could be hidden, expressed in enacted law rather than in testimony.\n\nIt is also the surviving fragment of something larger. 7343 is the truncated successor of sec. 1102 of the Senate-passed IAA division of S. 2226, which carried a contractor turn-in obligation, a list of non-earth-origin materials and a liability provision. None of that survived to enactment.",
+   "roles": [
+    "funding",
+    "oversight",
+    "concealment"
+   ],
+   "narrative": "The pairing is the point. Section 1687 addresses the Secretary of Defense and binds funds authorised by the NDAA; section 7343 addresses the Director of National Intelligence and binds funds authorised by the intelligence division. Read against 50 U.S.C. 3348(g)(2)(B), which excludes the Department of Defense, the NNSA and IC agencies from the general SAP-reporting statute and routes each to its own regime, the pair looks less like duplication and more like Congress closing both sides of a seam it had itself created.\n\nNeither text cites the other, and 3348 makes no reference to 7343. That was checked directly against the statutory text on 22 August 2026 rather than assumed, which is why the structural edges from this node are graded Tier 3.",
+   "claims": [
+    {
+     "text": "Enacted text, PL 118-31 sec. 7343(b), 137 Stat. 1064: 'None of the funds authorized to be appropriated or otherwise made available by this division may be obligated or expended in support of any activity involving unidentified anomalous phenomena protected under any form of special access or restricted access limitation' that has not been reported to the appropriate committees of Congress and congressional leadership.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Sec. 7343(c): 'Independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by' the relevant instruction, unless the material and information is made available.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' as the Senate Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the Senate, and the House Permanent Select Committee on Intelligence, the Committee on Armed Services and the Committee on Appropriations of the House.",
+     "tier": 1,
+     "source": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "text": "Sec. 7343 is the truncated survivor of sec. 1102 of the Senate-passed IAA division of S. 2226. The contractor turn-in obligation, the non-earth-origin materials list and the liability provision in that earlier text did not survive to enactment.",
+     "tier": 2,
+     "source": "Comparison of the enacted division G text against the Senate-passed S.2226 division; the engrossed Sec. 1102 text itself has never been retrieved, per the 21 August research note"
+    },
+    {
+     "text": "10 U.S.C. 119 makes no cross-reference to 50 U.S.C. 3348, and 50 U.S.C. 3348 makes no reference to section 7343. The relationship between these instruments is structural rather than textual.",
+     "tier": 1,
+     "source": "Full text of 10 U.S.C. 119 and 50 U.S.C. 3348, OLRC prelim, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim"
+    }
+   ],
+   "denialPosture": "No denial attaches to the section. The informative absence is that no intelligence element has publicly identified a UAP-related programme reported under it, and that the turn-in obligation which would have forced the question out of the reporting frame and into physical custody was removed before enactment.",
+   "connections": [
+    "NDAA FY2024 sec. 1687 is its defence-side twin, imposing the same two limitations through the Secretary of Defense.",
+    "50 U.S.C. 3348(g)(2)(B) excludes DoD, the NNSA and IC agencies from the general SAP-reporting regime, which is the seam this pair straddles.",
+    "ICD 906 is the ODNI controlled-access-programme directive on the IC side of that seam."
+   ],
+   "openQuestions": [
+    "Whether any intelligence element has reported a UAP-related special or restricted access activity under 7343(b), and to which of the six named committees.",
+    "Whether the IR&D allowability bar in (c) has ever been applied to a specific contract.",
+    "The verbatim text of engrossed Sec. 1102, which remains unretrieved: every primary vehicle tried so far dies at the same extraction ceiling."
+   ]
+  }
+ }
+]

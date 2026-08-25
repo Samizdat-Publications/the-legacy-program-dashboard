@@ -125,7 +125,242 @@ def _dangling(b, html):
     for t in b.get("timeline", []):
         if t.get("node") and t["node"] not in ids:
             bad.append(f"timeline {t.get('id')} references missing node {t['node']!r}")
+        if t.get("ref") and t["ref"] not in ids:
+            bad.append(f"timeline {t.get('id')}.ref references missing {t['ref']!r}")
+        for f in ("entities", "nodes", "refs"):
+            for x in t.get(f) or []:
+                if x not in ids:
+                    bad.append(f"timeline {t.get('id')}.{f} references missing {x!r}")
     return bad[:40]
+
+
+@check("every person back-reference resolves")
+def _person_refs(b, html):
+    """A person points at nodes through locId, instId and domains, and deriveEdges()
+    turns each one into a live edge at runtime. These are references exactly as much
+    as an edge endpoint is, and until this check existed nothing walked them.
+
+    That gap shipped. When 30 location nodes were removed under the approved
+    deletion list, the removal dropped the edges that touched them -- because the
+    dangling check walked edge endpoints, and satisfying the gate defined the scope
+    of the fix. The 31 person.locId back-references pointing at those same nodes
+    survived, and the board emitted 31 geographic edges to locations that no longer
+    existed. Nothing threw, and 'no dangling references' reported ok on every run."""
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    bad = []
+    for p in b["people"]:
+        for f in ("locId", "instId"):
+            if p.get(f) and p[f] not in ids:
+                bad.append(f"person {p['id']}.{f} references missing {p[f]!r}")
+        for d in p.get("domains") or []:
+            if d not in ids:
+                bad.append(f"person {p['id']}.domains references missing {d!r}")
+    return bad[:40]
+
+
+@check("no unapproved duplicate nodes")
+def _duplicates(b, html):
+    """One object recorded twice is worse than one recorded not at all: both copies
+    look sourced, each holds a fraction of the evidence, and they can carry
+    different tiers, so the board grades the same thing two ways at once.
+
+    Five people were on this board twice in August. That was fixed by unifying the
+    id rules for people, and nothing ever checked the entities. On 22 August the
+    FY2024 NDAA sec. 1687 was here three times, the AARO FY2025 annual report three
+    times, and Jesse Marcel twice -- nine groups, 19 nodes, splitting about 70 edges
+    and 130 claims.
+
+    This computes the groups from the board itself rather than reading merge.py's
+    INTEGRITY.json, so it is a property of what shipped and can be self-tested.
+    Pairs that genuinely are not duplicates go in tools/DUPLICATES_ACCEPTED.json
+    with a reason saying what distinguishes them -- the same deliberate-acceptance
+    pattern as the golden manifest. Anything unlisted fails."""
+    from merge import duplicate_groups
+    from collections import OrderedDict
+    people = OrderedDict((n["id"], n) for n in b["people"])
+    ents = OrderedDict((n["id"], n) for n in b["entities"])
+    acc = os.path.join(ROOT, "tools", "DUPLICATES_ACCEPTED.json")
+    ok = set()
+    if os.path.exists(acc):
+        for row in json.load(open(acc, encoding="utf-8")).get("accepted", []):
+            ok.add(tuple(sorted([row["a"], row["b"]])))
+    bad = []
+    for g in duplicate_groups(people, ents):
+        if tuple(sorted([g["a"], g["b"]])) not in ok:
+            bad.append(f"{g['a']} and {g['b']} look like one {g.get('cls')} recorded twice "
+                       f"(label overlap {g.get('overlap')}); collapse it, or record why it is "
+                       f"not a duplicate in tools/DUPLICATES_ACCEPTED.json")
+    return bad[:40]
+
+
+@check("affiliations render as names, not ids")
+def _affiliations(b, html):
+    """affiliations is a prose field upstream and is printed verbatim. The research
+    here writes node ids into it, so 54 entries reached the dossier as raw slugs:
+    a reader saw 'dod-sapco' and 'skidmore-fitts-report' where a name belonged.
+
+    The renderer now resolves an id-shaped entry to that node's label and links it,
+    which keeps the graph link instead of throwing it away by rewriting to prose.
+    That fix only holds for entries that name a REAL node -- an id-shaped string
+    matching nothing falls through to esc() and prints the slug. So the property
+    worth asserting is not 'no ids here', it is: every id-shaped entry resolves."""
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    slug = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+    bad = []
+    for p in b["people"]:
+        for a in p.get("affiliations") or []:
+            if isinstance(a, str) and slug.match(a) and a not in ids:
+                bad.append(f"{p['id']}: affiliation {a!r} is id-shaped but names no node, "
+                           f"so it prints as the raw slug")
+    return bad[:40]
+
+
+@check("sequence chains are renderable")
+def _chain_shape(b, html):
+    """chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every step.
+    All 11 chains on this board held bare node-id strings instead of step objects,
+    so every one of them rendered an undefined event under an undefined date --
+    including Grusch, Elizondo, Davis and Marcel, which are the most-read dossiers
+    here. Nothing threw, and no count moved.
+
+    The renderer is inherited from The Vanishing, where a chain step is an ordered,
+    dated, individually sourced link. The research wrote program lineages into the
+    same field. Both are legitimate objects; only one of them is what this field
+    renders, and the field has to hold what the renderer reads."""
+    bad = []
+    for p in b["people"]:
+        for i, s in enumerate(p.get("sequenceChain") or []):
+            if not isinstance(s, dict):
+                bad.append(f"{p['id']}: chain step {i} is a {type(s).__name__}, not a step object")
+            elif not (s.get("date") and s.get("event")):
+                bad.append(f"{p['id']}: chain step {i} has no date or no event")
+    return bad[:40]
+
+
+@check("no edge note leaks build bookkeeping")
+def _edge_note_bookkeeping(b, html):
+    """An edge note renders in the dock. A reader gets it as the board's statement of
+    what the edge asserts, so it must say only that.
+
+    Collapse re-pointing wrote its own provenance into the notes it re-pointed --
+    "[Re-pointed from the collapsed duplicate `setka`, 14 Aug 2026.]" and similar.
+    That is editing history, not an assertion about the world, and twelve of them
+    shipped to readers. They were stripped by hand once before and came back,
+    because two of the three collapse files were missed and nothing looked again.
+
+    The provenance is not lost: it lives in research/*-collapse.json and in
+    notes/DUPLICATES-2026-08-22.md, which is where a reader who wants the editing
+    history should find it."""
+    pat = re.compile(r"\[Re-pointed from|collapsed duplicate|Board bookkeeping", re.I)
+    bad = []
+    for e in b["edges"]:
+        note = e.get("note") or ""
+        m = pat.search(note)
+        if m:
+            bad.append(f"edge {e.get('a')}->{e.get('b')} ({e.get('type')}) "
+                       f"note carries build bookkeeping: {m.group(0)!r}")
+    return bad[:40]
+
+
+@check("every edge type has a caption written for this board")
+def _explain_edge_covers(b, html):
+    """explainEdge() writes the caption under every connection in every node dock.
+    A type with no case falls through to 'Connected.', which reads as a caption
+    rather than as a gap, so nothing looks broken and nobody goes looking.
+
+    That is how four of this board's twelve types -- legislative, denial, custody
+    and funding, 554 edges between them -- were explained with one word for as long
+    as the board has existed. Custody is one of the three axes the board scores on.
+
+    The same surface carried the parent board's meanings for two types it does
+    share: behavioral was 'Both left the same category of personal item behind',
+    which is a missing-person fact, and temporal was a sixty-day proximity rule.
+    Both rendered confidently over edges that mean something else entirely.
+
+    This asserts coverage, not wording: every type present in the data must have
+    its own case, and no case may still carry the parent's vocabulary."""
+    import re as _re
+    types = {e.get("type") for e in b["edges"] if e.get("type")}
+    m = _re.search(r"function explainEdge\(type, a, b\) \{.*?\n\}", html, _re.S)
+    if not m:
+        return ["explainEdge() is not in the built file at all"]
+    blk = m.group(0)
+    cases = set(_re.findall(r"case '([^']+)':", blk))
+    bad = [f"edge type {t!r} has no explainEdge case, so its caption is 'Connected.'"
+           for t in sorted(types - cases)]
+    # the parent board's vocabulary, which must not survive here
+    for phrase in ("personal item behind", "sixty days", "left everything behind",
+                   "departure kit"):
+        if phrase in blk:
+            bad.append(f"explainEdge still carries the parent board's wording: {phrase!r}")
+    return bad
+
+
+@check("no parent-board editorial content ships")
+def _no_parent_editorial(b, html):
+    """This board was built by porting a shell from a sibling project, The Vanishing,
+    which is about a cluster of missing and dead scientists. Its vocabulary kept
+    surviving the port in surfaces nobody had read: the scripted analyst answered
+    about JPL headcount, explainEdge captioned this board's behavioral edges with a
+    fact about personal effects, and a 3KB COUNTERS array of skeptical commentary on
+    that dataset shipped inside the published file, declared and referenced by
+    nothing.
+
+    None of it could throw. All of it renders, or reads, as confident and finished.
+
+    The list grew on 25 August after a systematic sweep: diffing prose string
+    literals between ref/the-vanishing-v2.html and the built file showed 177 that
+    survived the port verbatim, of which five rendered as false copy -- a hardcoded
+    "Fifty-two entities across five classes" heading the SEARCH view of a 956-node
+    board among them.
+
+    These strings are specific to the sibling board's subject matter and have no
+    legitimate use here. Note what is deliberately NOT listed: 'Ning Li' and 'JPL'
+    both appear on this board for real reasons -- the AAWSAP superconductor DIRD
+    reviews Ning Li's work -- so screening on them would fire on good content."""
+    banned = ("NeuroLogica", "matched denominator", "left everything behind",
+              "departure kit", "the leftBehind array",
+              # found by diffing prose literals against ref/the-vanishing-v2.html:
+              # 177 survived the port verbatim and these five rendered as false copy
+              "Fifty-two entities", "who disappeared within three months",
+              "derived from the case records",
+              "after April 2026 is a fact about reporting attention")
+    return [f"the built file carries the parent board's {p!r}"
+            for p in banned if p in html]
+
+
+@check("the analyst system prompt describes this board")
+def _system_prompt_is_ours(b, html):
+    """SYSTEM_PROMPT() is what the model is told it is before it answers anything, and
+    until 25 August it had never been checked by anything.
+
+    It was inherited whole. It opened by calling this 'a research dashboard tracking
+    deaths and disappearances of US scientists and defense-connected individuals since
+    2021', which is the sibling board's mission with the name swapped -- the identical
+    fault as the scripted analyst, one path over, missed because the scripted path got
+    the attention.
+
+    The costly line was HARD RULE 4: 'The three axes S, P and I are never summed.'
+    This board scores every entity on C, A and D. The model held the wrong names for
+    the board's primary scoring scheme, stated as a numbered hard rule, so any answer
+    it gave about scoring reasoned over letters that are not here. A wrong axis name
+    cannot throw; it produces fluent analysis of nothing.
+
+    Asserts the prompt names this board's axes, and carries none of the parent's."""
+    import re as _re
+    m = _re.search(r"const SYSTEM_PROMPT = \(\) => `(.*?)`;", html, _re.S)
+    if not m:
+        return ["SYSTEM_PROMPT() is not in the built file"]
+    p = m.group(1)
+    bad = []
+    for need in ("C (custody proximity)", "A (access level)", "D (disclosure role)"):
+        if need not in p:
+            bad.append(f"the system prompt never names the axis {need!r}")
+    for wrong in ("axes S, P and I", "deaths and disappearances",
+                  "real missing people", "who disappeared"):
+        if wrong in p:
+            bad.append(f"the system prompt still carries the parent board's {wrong!r}")
+    return bad
 
 
 @check("claim tiers are valid and Tier 1 is sourced")
@@ -478,8 +713,18 @@ def measure(b):
     cls = Counter(n["cls"] for n in b["entities"])
     tier = Counter(n.get("tier") for n in b["people"] + b["entities"])
     ctier = Counter(c["tier"] for n in b["people"] + b["entities"] for c in n.get("claims", []))
-    urls = {c["source"] for n in b["people"] + b["entities"]
-            for c in n.get("claims", []) if c.get("source")}
+    # This counted the whole annotated source STRING, so appending a demotion note
+    # to a claim minted a new "unique source URL" and the number drifted upward on
+    # a pass that added no sourcing at all. Count the URLs, from the claim sources
+    # and the node sources alike, which is what the name has always promised.
+    urlpat = re.compile(r"https?://[^\s,;)\]<>\"]+")
+    urls = set()
+    for n in b["people"] + b["entities"]:
+        for c in n.get("claims", []):
+            urls.update(u.rstrip(".,;") for u in urlpat.findall(c.get("source") or ""))
+        for sc in n.get("sources", []) or []:
+            if sc.get("url"):
+                urls.add(sc["url"].rstrip(".,;"))
     return {
         "people": len(b["people"]), "entities": len(b["entities"]),
         "edges": len(b["edges"]), "timeline": len(b.get("timeline", [])),
@@ -626,6 +871,21 @@ def self_test():
             label="James R. Clapper Jr.") or b["people"][0].update(label="Jr.")),
         "no dangling references": mut(lambda b: b["edges"].append(
             {"a": "a-b", "b": "ghost", "type": "custody"})),
+        "every person back-reference resolves": mut(
+            lambda b: b["people"][0].update(locId="l-ghost")),
+        "sequence chains are renderable": mut(
+            lambda b: b["people"][0].update(sequenceChain=["a-node-id"])),
+        "affiliations render as names, not ids": mut(
+            lambda b: b["people"][0].update(affiliations=["some-ghost-org"])),
+        "no unapproved duplicate nodes": mut(lambda b: (
+            b["entities"][0].update(label="Twin Report",
+                                    sources=[{"url": "https://example.gov/twin.pdf"}]),
+            b["entities"].append({"id": "e-twin", "cls": b["entities"][0]["cls"],
+                                  "label": "Twin Report", "claims": [],
+                                  "sources": [{"url": "https://example.gov/twin.pdf"}]}))),
+        "no edge note leaks build bookkeeping": mut(lambda b: b["edges"].append(
+            {"a": "a-b", "b": "a-b", "type": "custody",
+             "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
         "UI copy agrees with the data": base,   # paired with a poisoned html below
@@ -670,7 +930,25 @@ def self_test():
                 + ' L0DATA.counts.pathOnly L0DATA.counts.unattached ' + extra
                 + "\nconst L0DATA = " + json.dumps(model) + ";\n")
 
-    good_html = wrap(L0())
+    # The caption check reads explainEdge() out of the built file, so the CLEAN
+    # fixture has to contain a real one or the check reports a false positive on
+    # good input -- which is what it did the first time it ran.
+    EXPLAIN_OK = ("\nfunction explainEdge(type, a, b) {\n  switch (type) {\n"
+                  + "".join("    case '%s':\n      return 'x';\n" % t for t in
+                            ("institutional", "geographic", "research", "temporal",
+                             "behavioral", "programmatic", "investigative",
+                             "witness-chain", "custody", "funding", "denial",
+                             "legislative"))
+                  + "    default:\n      return 'Connected.';\n  }\n}\n")
+
+    # Same reason as EXPLAIN_OK: the system-prompt check reads the prompt out of the
+    # built file, so the CLEAN fixture needs a valid one or the check false-positives
+    # on good input.
+    SYSPROMPT_OK = ("\nconst SYSTEM_PROMPT = () => `You are the analyst. The three axes "
+                    "are C (custody proximity), A (access level) and D (disclosure role), "
+                    "and they are never summed.`;\n")
+
+    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK)
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
@@ -682,6 +960,8 @@ def self_test():
               {"id": "e1", "direct": ["a-b", "e2"], "routed": [], "mix": {"person": 1, "institution": 1}}]
 
     poisons.update({
+        # a board carrying custody edges, against html whose explainEdge lost that case
+        "every edge type has a caption written for this board": l0board,
         # a summarised edge printing Tier 3 over two Tier 1 links
         "summarised edge tier is the strongest of its underlying links": l0board,
         "the shared-member gate holds and only hand-written edges are summarised": l0board,
@@ -690,6 +970,18 @@ def self_test():
                 "dossier": {"narrative": "why e0 is on the map",
                             "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
     poison_html.update({
+        # REPLACE the good prompt, never append a second one: the check reads the
+        # first SYSTEM_PROMPT in the file, so an appended poison leaves the clean
+        # one in front of it and the check passes while asserting nothing. That is
+        # the duplicate-L0DATA trap this fixture already warns about, hit again.
+        "the analyst system prompt describes this board":
+            good_html.replace(SYSPROMPT_OK,
+                "\nconst SYSTEM_PROMPT = () => `You are the analyst. The three "
+                "axes S, P and I are never summed.`;\n"),
+        "no parent-board editorial content ships":
+            good_html + " NeuroLogica (Novella) on the matched denominator ",
+        "every edge type has a caption written for this board":
+            good_html.replace("    case 'custody':\n      return 'x';\n", "", 1),
         # a node on the map with no argument for why it is there
         "every L0 node carries an entity dossier":
             wrap(L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),

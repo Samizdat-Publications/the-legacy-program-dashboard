@@ -1,0 +1,645 @@
+{
+ "domain": "w12-brazil-edges",
+ "_why": "Thirty-six edges across the Brazilian cluster - the FAB, Operação Prato, the Arquivo Nacional fund, the 1986 Noite dos Óvnis, Varginha, the Senate and the Câmara. Each already carried a precise note naming the instrument it rests on; each now cites it.\n\nOne genuinely new primary source. RQS 193/2022 was retrieved live today from the Senate's own open-data service, and it confirms the correction the 21 August pass made rather than overturning it. The official record, Código 152222, gives the ementa as 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia' and the date as 16 March 2022 - so it is a commemorative special-session request, not a records-seeking instrument, exactly as the board already says. It also names all eight signatories: Girão, Paulo Rocha, Izalci Lucas, Reguffe, Jorge Kajuru, Marcos do Val, Alessandro Vieira and Eliziane Gama, which answers an open question the w10 dossier had left standing about who the co-signatories were.\n\nSources are matched to what each note actually invokes: the federal court judgment in Recurso Cível 5002417-48.2022.4.04.7200/SC where the note turns on the Justiça Federal record, Câmara RIC 679/2011 where it turns on the parliamentary requirement, the SIAN image-server Relatório de Ocorrências for the 1986 engagement, and the CNES establishment record for the Hospital Regional de Varginha.\n\nNo SIAN item numbers are asserted anywhere here, because none were ever obtained. That remains blocked: sian.an.gov.br returns anti-bot pages and consultation needs gov.br authentication.",
+ "edges": [
+  {
+   "a": "otavio-moreira-lima",
+   "b": "doc-fab-1986-report",
+   "type": "institutional",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+     "url": "https://www.bbc.com/portuguese/brasil-59953278",
+     "date": "2022-01-14"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "aaro-fy2025-annual-report",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "senado-brasil",
+   "b": "hospital-regional-varginha",
+   "type": "investigative",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "senado-brasil",
+   "b": "odni",
+   "type": "legislative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "l-brazil",
+   "b": "l-brasilia",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "sky-canada-project",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Arquivo Nacional - portal",
+     "url": "https://www.gov.br/arquivonacional/pt-br",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "baass",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "senado-brasil",
+   "b": "fab",
+   "type": "legislative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "pessoa-cavalcanti",
+   "b": "ev-noite-ovnis-1986",
+   "type": "investigative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "l-brazil",
+   "b": "ev-noite-ovnis-1986",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "aawsap",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "senado-brasil",
+   "b": "ev-noite-ovnis-1986",
+   "type": "legislative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "uyrange-hollanda",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "l-brasilia",
+   "b": "arquivo-nacional-ufo",
+   "type": "custody",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "uyrange-hollanda",
+   "b": "the-black-vault",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "hospital-regional-varginha",
+   "b": "anna-paulina-luna",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "peru-uap-office",
+   "b": "fab",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "l-brazil",
+   "b": "operacao-prato",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "hospital-regional-varginha",
+   "b": "aaro",
+   "type": "investigative",
+   "claimTier": 3,
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "ev-noite-ovnis-1986",
+   "type": "programmatic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "l-brazil",
+   "b": "fab",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "hospital-regional-varginha",
+   "b": "eric-burlison",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "otavio-moreira-lima",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+     "url": "https://www.bbc.com/portuguese/brasil-59953278",
+     "date": "2022-01-14"
+    }
+   ]
+  },
+  {
+   "a": "l-brasilia",
+   "b": "doc-fab-1986-report",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "l-brasilia",
+   "b": "senado-brasil",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "nara-rg615",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Arquivo Nacional - portal",
+     "url": "https://www.gov.br/arquivonacional/pt-br",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "jacques-vallee",
+   "type": "investigative",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "hospital-regional-varginha",
+   "b": "ev-varginha-1996",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "The Debrief - Landmark Brazilian UFO Case Reaches Capitol Hill",
+     "url": "https://thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-incident-turns-30/",
+     "date": "2026-01-30"
+    }
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "setka-program",
+   "type": "programmatic",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "senado-brasil",
+   "b": "arquivo-nacional-ufo",
+   "type": "legislative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)",
+     "url": "https://legis.senado.leg.br/dadosabertos/senador/lista/atual",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "operacao-prato",
+   "b": "the-black-vault",
+   "type": "custody",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "pessoa-cavalcanti",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "fab",
+   "b": "operacao-prato",
+   "type": "programmatic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022 (Código 152222): ementa 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia', 16 March 2022, Sen. Eduardo Girão and seven co-signers",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    },
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    }
+   ]
+  },
+  {
+   "a": "l-brasilia",
+   "b": "otavio-moreira-lima",
+   "type": "geographic",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional PDF)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "Wikipedia - Brasilia",
+     "url": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "BBC Brasil - 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro'",
+     "url": "https://www.bbc.com/portuguese/brasil-59953278",
+     "date": "2022-01-14"
+    }
+   ]
+  },
+  {
+   "a": "uyrange-hollanda",
+   "b": "jacques-vallee",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    }
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "geipan",
+   "type": "institutional",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
+     "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Arquivo Nacional - portal",
+     "url": "https://www.gov.br/arquivonacional/pt-br",
+     "date": "2026-08-12"
+    }
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "senado-brasil",
+   "cls": "institution",
+   "label": "Senado Federal (Brazil)",
+   "sources": [
+    {
+     "name": "Senado Federal, Dados Abertos — official record of RQS 193/2022, Código 152222 (retrieved 23 August 2026)",
+     "url": "https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022",
+     "date": "2026-08-23"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Senate's own open-data record for RQS 193/2022 (Código 152222, processo 8224484) gives the ementa verbatim as 'Sessão especial destinada a comemorar os 75 anos do Dia Mundial da Ufologia' and the date as 16 March 2022. The instrument is a request for a commemorative special session, not a records-seeking one, confirmed from the Senate's own data service rather than from secondary description.",
+     "source": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    },
+    {
+     "tier": 1,
+     "text": "The same record names all eight signatories: Senador Eduardo Girão (PODEMOS/CE), Paulo Rocha (PT/PA), Izalci Lucas (PSDB/DF), Reguffe (PODEMOS/DF), Jorge Kajuru (PODEMOS/GO), Marcos do Val (PODEMOS/ES), Alessandro Vieira (CIDADANIA/SE) and Eliziane Gama (CIDADANIA/MA). The board previously recorded the co-signatories as an open question.",
+     "source": "Senado Federal, Dados Abertos, RQS 193/2022, retrieved 23 August 2026, https://legis.senado.leg.br/dadosabertos/materia/pesquisa/lista?sigla=RQS&numero=193&ano=2022"
+    }
+   ]
+  }
+ ]
+}

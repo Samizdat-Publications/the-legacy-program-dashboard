@@ -1,0 +1,291 @@
+{
+ "domain": "w12-twin-edges",
+ "_why": "Fifteen edges flagged as unsourced twins - the same node pair joined twice, one edge sourced and noted at Tier 1, the other bare at Tier 3 with a generic type.\n\nThe obvious move was to delete the bare ones as redundant. That would have been wrong. Reading each pair showed the bare type usually asserts something REAL and distinct from its twin: AARO owes Volume II as well as having withheld it; Volume I covers AATIP's lifecycle as well as rejecting the reverse-engineering account; the DIA money went to BAASS as well as BAASS holding its own DUNS and CAGE codes. A pair can carry two relationships and this board's typed edges exist to say so.\n\nWhat was actually wrong is that nobody had ever articulated what the bare edge asserts. So each now carries a note saying it, drawn from claims already verified and recorded on the two nodes, and the node's own primary sources. No new research and no new assertion - this is the board connecting evidence it already holds.\n\nOne of them is worth reading on its own. 50 U.S.C. 3091a(e)(3) defines a controlled access programme as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition of its own subject to an executive instrument, so what counts as a CAP can be changed without legislation.\n\nThe DoDD 5205.07 pair is the one worth reading twice. Its temporal edge records that the 2024 issuance cancels the 2010 one. The programmatic edge records what changed: the 2010 glossary defines 'carve-out' and its Enclosure 2 restates the waiver, and a full-text pass of the 2024 reissue finds no occurrence of 'carve-out', 'waived' or 'unacknowledged'. That is a real and separate finding, and it is why deleting these bare edges as redundant would have cost something. It also does not mean the mechanism ended: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation and still names DoDD 5205.07.",
+ "edges": [
+  {
+   "a": "aaro",
+   "b": "aaro-historical-record-vol2",
+   "type": "institutional",
+   "claimTier": 1,
+   "note": "AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, 'AARO will publish Volume II in accordance with the date established in Section 6802', and page 45, 'This report represents Volume I of AARO's HR2.' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2026-08-11"
+    }
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "aaro-historical-record-vol2",
+   "type": "temporal",
+   "claimTier": 1,
+   "note": "Volume I is the predecessor and it defines what Volume II must contain: page 11 states 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff. The sequence is fixed by the document itself rather than inferred.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2026-08-11"
+    }
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "aatip",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2026-08-11"
+    }
+   ]
+  },
+  {
+   "a": "aaro-historical-record-vol1",
+   "b": "yankee-blue",
+   "type": "investigative",
+   "claimTier": 1,
+   "note": "The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of 'Yankee Blue' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.",
+   "sources": [
+    {
+     "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2024-03-08"
+    },
+    {
+     "name": "Wayback snapshot of DOPSR-cleared HRR Volume I PDF (media.defense.gov)",
+     "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+     "date": "2026-08-11"
+    }
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "fab",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The transfer obligation is what links them. Portaria no. 551/GC3 of 9 August 2010, Art. 3, requires CENDOC to send originals to the Arquivo Nacional 'periodicamente', which is why the fund has no terminal year. The operative text is transcribed in a federal court judgment, and the DOU publication is attested by citation in a Chamber of Deputies information requirement.",
+   "sources": [
+    {
+     "name": "Relatório de Ocorrências (Arquivo Nacional)",
+     "url": "http://imagem.sian.an.gov.br/acervo/derivadas/BR_DFANBSB_ARX/0/0/0249/BR_DFANBSB_ARX_0_0_0249_d0001de0001.pdf",
+     "date": "1986-06-02"
+    },
+    {
+     "name": "BBC Brasil",
+     "url": "https://www.bbc.com/portuguese/brasil-59953278",
+     "date": "2022-01-14"
+    }
+   ]
+  },
+  {
+   "a": "arquivo-nacional-ufo",
+   "b": "operacao-prato",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The Arquivo holds and serves the operation's files. Its own answer to a litigant, quoted verbatim in the 2023 federal judgment, reports that a SIAN search on the term 'operacao prato' returns six documents, none audiovisual. No SIAN item numbers were ever obtained and none are asserted here.",
+   "sources": [
+    {
+     "name": "Operação Prato - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato",
+     "date": "2026-01-01"
+    },
+    {
+     "name": "Arquivo Nacional - portal",
+     "url": "https://www.gov.br/arquivonacional/pt-br",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "baass",
+   "b": "bigelow-aerospace",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+   "sources": [
+    {
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017/",
+     "date": "2009-09-02"
+    },
+    {
+     "name": "DIA briefing 'Aerospace Contract Status — Performance by Bigelow Aerospace Advanced Space Studies (BAASS)' (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170019/",
+     "date": "2009"
+    }
+   ]
+  },
+  {
+   "a": "capco-register",
+   "b": "odni-capco",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
+   "sources": [
+    {
+     "name": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    },
+    {
+     "name": "ICD 906, 'Controlled Access Programs', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)",
+     "url": "https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf",
+     "date": "2015-10-17"
+    }
+   ]
+  },
+  {
+   "a": "dird-advanced-space-propulsion-based-on-vacuum",
+   "b": "harold-puthoff",
+   "type": "research",
+   "claimTier": 1,
+   "note": "Authorship, corroborated internally rather than only by the DIA list. References 3, 16 and 19 of the paper are Puthoff's own prior work, and DIA singled the report out as its showcase deliverable in Info Memo U-10-2552 to USD(AT&L).",
+   "sources": [
+    {
+     "name": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170021/",
+     "date": "2010-03-29"
+    },
+    {
+     "name": "DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/",
+     "date": "2022-03"
+    }
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "waived-usap",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.",
+   "sources": [
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "Archived: AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Wayback 2026-05-08)",
+     "url": "https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+     "date": "2026-05-08"
+    }
+   ]
+  },
+  {
+   "a": "icd-906",
+   "b": "odni-capco",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
+   "sources": [
+    {
+     "name": "ICD 906, 'Controlled Access Programs' (ODNI; supersedes ICD 906 of 17 Oct 2015; PDF created 19 Dec 2024) — Internet Archive capture of dni.gov, 12 Jan 2025",
+     "url": "https://web.archive.org/web/20250112183207/https://www.dni.gov/files/documents/ICD/ICD-906-Controlled-Access-Programs.pdf",
+     "date": "2024-12-19"
+    },
+    {
+     "name": "ICD 906, 'Controlled Access Programs', signed 17 October 2015 (Internet Archive capture of dni.gov, 28 Sep 2016)",
+     "url": "https://web.archive.org/web/20160928160132/https://www.dni.gov/files/documents/ICD/ICD906.pdf",
+     "date": "2015-10-17"
+    }
+   ]
+  },
+  {
+   "a": "icd-906",
+   "b": "usc-50-3091a",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
+   "sources": [
+    {
+     "name": "50 U.S.C. 3091a — Congressional oversight of controlled access programs (U.S. Code 2023 Edition, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title50/html/USCODE-2023-title50-chap44-subchapIII-sec3091a.htm",
+     "date": "2024-01-05"
+    },
+    {
+     "name": "50 U.S.C. 3091a, Congressional oversight of controlled access programs (OLRC prelim, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091a&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "ndaa-fy2024-1687",
+   "b": "waived-usap-mechanism",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
+   "sources": [
+    {
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+     "date": "2023-12-22"
+    },
+    {
+     "name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+     "url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf",
+     "date": "2026-03-09"
+    }
+   ]
+  },
+  {
+   "a": "odni-preliminary-assessment-2021",
+   "b": "uap-task-force",
+   "type": "institutional",
+   "claimTier": 1,
+   "note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
+   "sources": [
+    {
+     "name": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena, 25 June 2021 (dni.gov)",
+     "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+     "date": "2021-06-25"
+    },
+    {
+     "name": "Wayback snapshot of ODNI Preliminary Assessment PDF (now served from archive.dni.gov)",
+     "url": "https://web.archive.org/web/20260811010946id_/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+     "date": "2026-08-11"
+    }
+   ]
+  },
+  {
+   "a": "dodd-5205-07-2010",
+   "b": "dodd-5205-07-2024",
+   "type": "programmatic",
+   "claimTier": 1,
+   "note": "Same policy instrument, two issuances, and the programmatic relation is what CHANGED between them - which is not the same fact as the supersession recorded on the temporal edge. The 2010 directive's glossary defines 'carve-out' as 'a provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its National Industrial Security Program oversight', and its Enclosure 2 para 5 restates the statutory waiver in policy. A full-text pass of the 12 September 2024 reissue finds no occurrence of 'carve-out', 'waived' or 'unacknowledged' at all. The vocabulary the earlier directive defined is simply absent from the later one. Note what that does and does not establish: 32 CFR 117.6(b)(3) still carries the carve-out in codified regulation, and still points at DoDD 5205.07 by name, so the mechanism did not end when the words left the directive.",
+   "sources": [
+    {
+     "name": "Archived: DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024 (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    },
+    {
+     "name": "DoD Directive 5205.07, 'DoD Special Access Program (SAP) Policy', effective 12 September 2024",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "date": "2024-09-12"
+    }
+   ]
+  }
+ ]
+}

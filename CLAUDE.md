@@ -77,12 +77,25 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate  # state + the whole gate below, in one command
-python3 tools/verify.py                 # 18 checks
+python3 tools/verify.py                 # 27 checks
 python3 tools/verify.py --self-test     # every check shown rejecting bad input
+node    tools/capture_strip.js          # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py      # 38 checks, deliberately independent
+node    tools/runtime_check.js          # 16 DOM assertions in a real browser
 node    tools/test_scripted_analyst.mjs # 15 branch assertions
 python3 tools/verify.py --idempotent    # slow: builds twice, requires identical output
 ```
+
+The two `node` steps need the board served over HTTP -- `file://` does not work for a
+13MB page. Run `node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899
+--silent &` first, or point `BOARD_URL` at wherever you are serving it.
+
+**Run `capture_strip.js` BEFORE `audit_independent.py`, every time.** Six of the audit's
+checks compare the figures a reader actually sees against an independent re-derivation, and
+they read those figures out of `tools/runtime-strip.txt`. That file is a capture, not a
+source. A stale one makes the audit report a defect that is not there: on 25 August a
+capture left over from a different build reported the duplicate collapse as two count
+errors, and cost a handoff two findings that did not exist.
 
 **All of these must be green before a push.** `--idempotent` is the one that catches a
 whole class of bug: any pass that reads its own previous output back in.
@@ -226,22 +239,31 @@ Two were found on 24 August by accident, while looking for something else.
 
 ## 9. What is next, in priority order
 
-> **0. FIRST: there is an unmerged branch, `origin/claude/status-update-bewtdk`, carrying
-> 19 commits of data-integrity and sourcing work that never reached `master`** — 88 broken
-> references fixed, 90 unsourced Tier 1 claims cleared, nine duplicate groups collapsed, a
-> 1,198-URL link sweep, ~250 edges sourced, and browser runtime verification. Neither side
-> is a superset. A test merge produces only three conflicts, two of them generated files
-> that resolve by rebuilding. `research/` does not conflict. Full analysis and the two
-> genuine audit failures it exposes: `notes/HANDOFF-2026-08-25-claude-code.md` §2b.
-> **Do not force-push. Do not resolve generated files by picking a side.**
+> **0. DONE, 25 August 2026.** `origin/claude/status-update-bewtdk` was merged into this
+> line with Stewart's approval. `research/` did not conflict; both hand-edited tools
+> auto-merged; every generated file was resolved by rebuilding. The two "genuine audit
+> failures" the handoff reported were neither genuine nor failures -- both came from a
+> stale `tools/runtime-strip.txt` captured off a different build. See
+> `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
 
-1. **The COVER-UP view still carries the sibling board's skeptical record** — the JPL
-   matched-denominator argument, the NeuroLogica entry. Same class of bug as the scripted
-   analyst, different surface, not yet touched. **Start here.**
-2. **Sweep every remaining inherited surface** for the same problem, systematically rather
-   than by accident. The system prompt, the report view, and the insight strings are the
-   likely candidates.
+1. ~~**The COVER-UP view still carries the sibling board's skeptical record.**~~ **DONE,
+   25 August 2026.** Three inherited surfaces found and removed, only one of which was
+   the COVER-UP view. See `notes/INHERITED-SURFACES-2026-08-25.md`. Two gate checks now
+   guard the class: `every edge type has a caption written for this board` and
+   `no parent-board editorial content ships`.
+
+2. ~~**Sweep every remaining inherited surface.**~~ **DONE, 25 August 2026.** Done by
+   construction rather than by grep: diffing prose string literals between
+   `ref/the-vanishing-v2.html` and the built file showed 177 that survived the port
+   verbatim. Five rendered as false copy, and the analyst system prompt was inherited
+   whole -- including a HARD RULE naming the axes **S, P and I** when this board scores
+   on **C, A and D**. All fixed; `notes/INHERITED-SURFACES-2026-08-25.md` has the list.
+   Three gate checks guard the class now, the third being
+   `the analyst system prompt describes this board`. **Re-run the literal diff after any
+   change to `ref/`** -- it is four lines of Python and it found what six sessions of
+   reading did not.
+
 3. **`data/l0-highlights.json` needs Stewart's sign-off.** 14 draft flags, each with a
    stated reason. Show him a table; he cannot read JSON. Cap is 16, so there are 2 slots.
 4. **Implement Design's packed-cell layout and edge budget** in `tools/l0_patches.py`.

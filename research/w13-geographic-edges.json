@@ -1,0 +1,150 @@
+{
+ "domain": "w13-geographic-edges",
+ "_why": "Twenty of the twenty-nine unsourced geographic edges. Every source here was opened and read in the course of this pass; nothing is cited from memory, and no edge is sourced by the fact that its two endpoints happen to share a URL.\n\nThree notes were rewritten because the source disagreed with them, or because the note asserted more than any source I could reach establishes.\n\nThe first is l-columbus-oh -> project-blue-book, and it is the substantive find of this batch. The note said Blue Book 'contracted the Battelle Memorial Institute of Columbus, Ohio' to produce Special Report No. 14. I obtained the CIA's released copy of that report (CIA-RDP81R00560R000100060001-5, 313 pages) and scanned the full text. The title page attributes it to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. The words 'Battelle', 'Columbus' and 'Memorial Institute' do not appear anywhere in the document. The summary says only that the study 'was prepared by a panel of scientists both in and out of the Air Force'. The Battelle attribution is standard in the secondary literature, and it may well be right, but the primary record does not make it and the released copy is written so as not to. The edge is now tier 3 and says so.\n\nThe second is cefaa -> l-santiago. Chile's DGAC dates CEFAA to 3 October 1997 and traces the reporting lineage to 1968 at the Oficina Meteorologica in the Quinta Normal complex at Avenida Diego Portales 3450. The note had asserted a '1968-1975' predecessor commission; the DGAC page gives 1968 but no closing year, so the range is gone.\n\nThe third is l-mclean -> odni. The federal record I can reach establishes that the Liberty Crossing campus is in McLean, Virginia - it is the title of the President's 27 July 2021 remarks in the Compilation of Presidential Documents - but not that ODNI's headquarters is designated there. Tier 2, and the note says which half is documented.\n\nTwo smaller corrections. The MITRE notes previously carried founding details (Bedford 1958 as a Lincoln Laboratory spin-off, McLean office 1963) that mitre.org's locations page does not support; the notes now assert only what the cited pages state. And Bigelow Aerospace's own address is North Las Vegas, not Las Vegas, and the page does not name BAASS - so l-lasvegas -> baass is tier 2 with the gap stated.\n\nStill unsourced after this batch, and left that way rather than filled with something weak: setka-program -> l-moscow, l-langley-afb -> langley-2023-incursions, l-san-agustin -> roswell-1947, l-lasvegas -> aawsap, l-lasvegas -> nids, l-lasvegas -> harry-reid, aztec-1948 -> l-aztec, cometa -> l-france, william-culbreth -> baass.\n\nOne access note. www.dia.mil and www.aaro.mil both refuse curl at the edge but serve WebFetch, so the DIA reading-room contract PDFs could not be pulled down and searched this pass. The AARO Historical Record Report Vol 1 could be, and it turns out to contain no occurrence of 'Las Vegas', 'NIDS' or 'HHM402' - which is why the Las Vegas cluster is not sourced to it.",
+
+ "edges": [
+  {
+   "a": "l-mclean", "b": "mitre-corporation", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "MITRE, Locations ('MITRE has principal locations in Bedford, Massachusetts, and McLean, Virginia')", "url": "https://www.mitre.org/locations", "date": "2026-08-25"},
+    {"name": "NSF NCSES Master Government List of FFRDCs", "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc", "date": "2026-08-25"}
+   ],
+   "note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean."
+  },
+  {
+   "a": "l-bedford-ma", "b": "mitre-corporation", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "MITRE, Locations (202 Burlington Road, Bedford, MA 01730-1420)", "url": "https://www.mitre.org/locations", "date": "2026-08-25"},
+    {"name": "NSF NCSES Master Government List of FFRDCs", "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc", "date": "2026-08-25"}
+   ],
+   "note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual."
+  },
+  {
+   "a": "l-mclean", "b": "cia", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "Public Law 105-272, sec. 309 (Intelligence Authorization Act for FY1999)", "url": "https://www.govinfo.gov/content/pkg/PLAW-105publ272/html/PLAW-105publ272.htm", "date": "1998-10-20"}
+   ],
+   "note": "Congress fixed this in statute. Public Law 105-272 sec. 309 provides that 'the headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the George Bush Center for Intelligence'. Langley is a neighbourhood of McLean in Fairfax County, and is a different place from Langley Air Force Base at Hampton, Virginia."
+  },
+  {
+   "a": "l-mclean", "b": "odni", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "Compilation of Presidential Documents, DCPD-202100617, 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia'", "url": "https://www.govinfo.gov/app/details/DCPD-202100617", "date": "2021-07-27"}
+   ],
+   "note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2."
+  },
+  {
+   "a": "l-santa-monica", "b": "rand-corporation", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "NSF NCSES Master Government List of FFRDCs", "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc", "date": "2026-08-25"}
+   ],
+   "note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented."
+  },
+  {
+   "a": "l-columbus-oh", "b": "battelle", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "Battelle Memorial Institute IRS Form 990 filings, EIN 31-4379427 (ProPublica Nonprofit Explorer)", "url": "https://projects.propublica.org/nonprofits/organizations/314379427", "date": "2026-08-25"},
+    {"name": "NSF NCSES Master Government List of FFRDCs", "url": "https://ncses.nsf.gov/resource/master-gov-lists-ffrdc", "date": "2026-08-25"}
+   ],
+   "note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site."
+  },
+  {
+   "a": "l-columbus-oh", "b": "project-blue-book", "type": "geographic", "claimTier": 3,
+   "sources": [
+    {"name": "Project Blue Book Special Report No. 14, 5 May 1955 (CIA-RDP81R00560R000100060001-5, released copy, 313 pp.)", "url": "https://documents2.theblackvault.com/documents/ufos/CIA-RDP81R00560R000100060001-5.pdf", "date": "1955-05-05"}
+   ],
+   "note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make."
+  },
+  {
+   "a": "l-virginia", "b": "nro", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "National Reconnaissance Office, Contact Us (14675 Lee Road, Chantilly, VA 20151-1715)", "url": "https://www.nro.gov/Contact-Us/", "date": "2026-08-25"}
+   ],
+   "note": "The National Reconnaissance Office gives its own address as 14675 Lee Road, Chantilly, Virginia 20151-1715, in the Northern Virginia intelligence corridor this node stands for."
+  },
+  {
+   "a": "l-ames", "b": "nasa", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "NASA Ames Research Center", "url": "https://www.nasa.gov/ames/", "date": "2026-08-25"}
+   ],
+   "note": "NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958."
+  },
+  {
+   "a": "l-cambridge-ma", "b": "galileo-project", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, Figure 1 caption", "url": "https://arxiv.org/abs/2209.02479", "date": "2022-09-02"}
+   ],
+   "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address."
+  },
+  {
+   "a": "l-cambridge-ma", "b": "avi-loeb", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "Loeb and Laukien, 'Overview of the Galileo Project', arXiv:2209.02479, author affiliations", "url": "https://arxiv.org/abs/2209.02479", "date": "2022-09-02"}
+   ],
+   "note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022."
+  },
+  {
+   "a": "l-ottawa", "b": "sky-canada-project", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025 (Cat. No. Iu37-59/2025E-PDF)", "url": "https://science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.pdf", "date": "2025-06-01"}
+   ],
+   "note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada."
+  },
+  {
+   "a": "geipan", "b": "l-france", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "CNES, GEIPAN project page", "url": "https://www.cnes.fr/en/projects/geipan", "date": "2026-08-25"}
+   ],
+   "note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime."
+  },
+  {
+   "a": "cefaa", "b": "l-santiago", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "DGAC Chile / SEFAA, Historia", "url": "https://sefaa.dgac.gob.cl/historia/", "date": "2026-08-25"}
+   ],
+   "note": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago."
+  },
+  {
+   "a": "l-uk", "b": "rendlesham-1980", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide", "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf", "date": "2013-01-01"}
+   ],
+   "note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved."
+  },
+  {
+   "a": "l-uk-mod-whitehall", "b": "rendlesham-1980", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide", "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf", "date": "2013-01-01"}
+   ],
+   "note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo."
+  },
+  {
+   "a": "l-uk", "b": "doc-condign-report", "type": "geographic", "claimTier": 1,
+   "sources": [
+    {"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide", "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf", "date": "2013-01-01"}
+   ],
+   "note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public."
+  },
+  {
+   "a": "l-uk-mod-whitehall", "b": "doc-condign-report", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide", "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf", "date": "2013-01-01"}
+   ],
+   "note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report."
+  },
+  {
+   "a": "l-london", "b": "doc-condign-report", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "The National Archives, 'Unidentified Flying Objects (UFOs)' research guide", "url": "https://cdn.nationalarchives.gov.uk/documents/ufo-research-guide-2013.pdf", "date": "2013-01-01"}
+   ],
+   "note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here."
+  },
+  {
+   "a": "l-lasvegas", "b": "baass", "type": "geographic", "claimTier": 2,
+   "sources": [
+    {"name": "Bigelow Aerospace, Contact (1899 W. Brooks Ave., North Las Vegas, NV 89032)", "url": "https://bigelowaerospace.com/pages/contact/", "date": "2026-08-25"}
+   ],
+   "note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's."
+  }
+ ]
+}

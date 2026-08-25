@@ -1,0 +1,326 @@
+{
+ "domain": "w12-dod-house-sources",
+ "_why": "Eighteen institutional edges around DoD, the House, the congressional oversight mechanism and DoD SAPCO. Each already carried a precise note; each is now given the source that note actually rests on, chosen per edge rather than by rule - the Skidmore aggregation for the Michigan State edge, NORAD's own release for Langley, the DIA reading-room files for the Reid meetings, GAO/NSIAD-95-187 for the 509th, AFPD 16-7 for SAF/AAZ.\n\nOne of them needed more than a source. dod-sapco -> sap-annual-report carried the note '[Re-pointed from a collapsed duplicate, 14 Aug 2026.]', which records where the edge came from rather than what it asserts. Rewritten: 10 U.S.C. 119(a)(1) puts the annual SAP report on the Secretary of Defense, and DoDD 5205.07 vests central management of the enterprise in DoD SAPCO under the Deputy Secretary, which is the office it is compiled through. Worth checking whether other collapse placeholders survive elsewhere.\n\nNote hygiene: my first version of the sap-annual-report note quoted the placeholder it replaced, to explain the rewrite. That is the same fault in a different form - an edge note renders in the dock, and a reader should get what the edge asserts, not a narration of its editing history. The explanation belongs here.",
+ "edges": [
+  {
+   "a": "steve-feinberg",
+   "b": "dod",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Archived: Department of War (Department of Defense) - About (Wayback 2026-08-10)",
+     "url": "https://web.archive.org/web/20260810202005/https://www.war.gov/About/",
+     "date": "2026-08-10"
+    },
+    {
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "l-michigan-state",
+   "b": "dod",
+   "type": "geographic",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Summary Report on Unsupported Journal Voucher Adjustments (PDF)",
+     "url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+     "date": "2017-09-01"
+    },
+    {
+     "name": "Missing Money supporting documentation index",
+     "url": "https://missingmoney.solari.com/dod-and-hud-missing-money-supporting-documentation/",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "Archived: DoD OIG report DODIG-2016-113 (Wayback 2026-01-13)",
+     "url": "https://web.archive.org/web/20260113163643/https://www.dodig.mil/reports.html/Article/1119298/army-general-fund-adjustments-not-adequately-documented-or-supported/",
+     "date": "2026-01-13"
+    }
+   ]
+  },
+  {
+   "a": "marik-von-rennenkampff",
+   "b": "dod",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "The Hill - 'Did the Pentagon spread false UFO stories? We're skeptical.'",
+     "url": "https://thehill.com/opinion/national-security/5381851-did-the-pentagon-spread-false-ufo-stories-were-skeptical/",
+     "date": "2025-01-01"
+    },
+    {
+     "name": "The Hill - 'Shocking UFO allegations make the case for the Disclosure Act'",
+     "url": "https://thehill.com/opinion/technology/4962650-shocking-ufo-allegations-make-the-case-for-the-disclosure-act/",
+     "date": "2024-01-01"
+    }
+   ]
+  },
+  {
+   "a": "l-langley-afb",
+   "b": "dod",
+   "type": "geographic",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Archived: NORAD Newsroom (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518213308/https://www.norad.mil/Newsroom/Press-Releases/",
+     "date": "2026-05-18"
+    }
+   ]
+  },
+  {
+   "a": "reid-dia-meetings-2008-2009",
+   "b": "dod",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "DIA Talking Paper U-326-09, 'Senator Reid Visit', 02 Jan 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170054/",
+     "date": "2009-01-02"
+    },
+    {
+     "name": "DIA Talking Paper U-973-09, 'Senator Reid Visit to Director, DIA', 04 May 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170055/",
+     "date": "2009-05-04"
+    }
+   ]
+  },
+  {
+   "a": "aztec-1948",
+   "b": "dod",
+   "type": "denial",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Aztec crashed saucer hoax - Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aztec,_New_Mexico_UFO_incident",
+     "date": "2026-08-12"
+    },
+    {
+     "name": "FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950",
+     "url": "https://vault.fbi.gov/",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "vanderbilt-university",
+   "b": "dod",
+   "type": "research",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "Bruehl S. & Villarroel B., 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports (Nature Portfolio)",
+     "url": "https://doi.org/10.1038/s41598-025-21620-3",
+     "date": "2025-10-20"
+    },
+    {
+     "name": "Same paper, publisher record with author affiliations",
+     "url": "https://www.nature.com/articles/s41598-025-21620-3",
+     "date": "2025-10-20"
+    }
+   ]
+  },
+  {
+   "a": "setka-program",
+   "b": "dod",
+   "type": "behavioral",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Stonehill & Mantle - Setka: A Secret Soviet UFO Research Program",
+     "url": "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf",
+     "date": "2010-11-19"
+    },
+    {
+     "name": "Project Condign Volume 3 (UK MoD assessment of FSU activity)",
+     "url": "https://archive.org/download/condign-vol-2-1-258/Condign_Vol_3_1-48_djvu.txt",
+     "date": "2006-05-15"
+    }
+   ]
+  },
+  {
+   "a": "saf-aaz",
+   "b": "dod",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ]
+  },
+  {
+   "a": "tom-cole",
+   "b": "us-house",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-conference-ratifies-cole-chairman-house-appropriations",
+     "date": null
+    },
+    {
+     "name": "cole.house.gov",
+     "url": "https://cole.house.gov/media/press-releases/house-republican-steering-committee-elects-cole-be-appropriations-committee",
+     "date": null
+    },
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "john-mchugh",
+   "b": "us-house",
+   "type": "institutional",
+   "claimTier": 2,
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-commends-mchugh-nomination-as-secretary-of-the-army",
+     "date": null
+    }
+   ]
+  },
+  {
+   "a": "william-b-adkins",
+   "b": "us-house",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Archived: ODNI, Preliminary Assessment: Unidentified Aerial Phenomena (Wayback 2026-08-11)",
+     "url": "https://web.archive.org/web/20260811010946/https://archive.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+     "date": "2026-08-11"
+    },
+    {
+     "name": "National Reconnaissance Office - About NRO",
+     "url": "https://www.nro.gov/About-NRO/",
+     "date": "2026-08-12"
+    }
+   ]
+  },
+  {
+   "a": "us-house",
+   "b": "509th-bomb-group",
+   "type": "investigative",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "GAO/NSIAD-95-187, 'Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico' (report landing page)",
+     "url": "https://www.gao.gov/products/nsiad-95-187",
+     "date": "1995-07-28"
+    },
+    {
+     "name": "GAO/NSIAD-95-187, full report (PDF)",
+     "url": "https://www.gao.gov/assets/nsiad-95-187.pdf",
+     "date": "1995-07-28"
+    }
+   ]
+  },
+  {
+   "a": "saf-aaz",
+   "b": "us-house",
+   "type": "behavioral",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
+     "url": "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf",
+     "date": "2014-02-18"
+    }
+   ]
+  },
+  {
+   "a": "thad-cochran",
+   "b": "oversight-congress",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "a": "buck-mckeon",
+   "b": "oversight-congress",
+   "type": "institutional",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "democrats-armedservices.house.gov",
+     "url": "https://democrats-armedservices.house.gov/2009/6/skelton-congratulates-congressman-mckeon--new-hasc-ranking-member",
+     "date": null
+    }
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "classified-annex",
+   "type": "funding",
+   "claimTier": 1,
+   "sources": [
+    {
+     "name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+     "date": "2026-02-03"
+    },
+    {
+     "name": "NDAA FY2026 (P.L. 119-60), Secs. 4, 5, 1001, 4001",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+     "date": "2025-12-18"
+    }
+   ]
+  },
+  {
+   "a": "dod-sapco",
+   "b": "sap-annual-report",
+   "type": "programmatic",
+   "claimTier": 3,
+   "sources": [
+    {
+     "name": "10 U.S.C. 119(e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
+     "date": "2026-08-22"
+    },
+    {
+     "name": "10 U.S.C. 119 (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title10/html/USCODE-2023-title10-subtitleA-partI-chap2-sec119.htm",
+     "date": "2024-01-05"
+    }
+   ],
+   "note": "DoD SAPCO is the office this report is compiled through. 10 U.S.C. 119(a)(1) puts the obligation on the Secretary of Defense - 'not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs' - and DoDD 5205.07 vests central management of the SAP enterprise in DoD SAPCO under the Deputy Secretary of Defense. The statute names the Secretary; the directive names the office that does the work."
+  }
+ ]
+}

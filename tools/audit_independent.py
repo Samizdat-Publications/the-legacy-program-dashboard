@@ -171,19 +171,34 @@ def main():
         FAIL.append("stats strip: tools/runtime-strip.txt absent, so the figures a "
                     "reader actually sees were NOT verified. Run the browser pass.")
 
-    def rendered(pat):
+    def rendered(pat, what=None):
+        """Pull one figure out of the captured DOM text.
+
+        If the strip was captured but the figure is NOT in it, that is a FAILURE, not a
+        skip. Every caller below used to guard with `if value:` and fall through in
+        silence when the pattern missed, so a check could sit dead for weeks while the
+        number it guarded was wrong. That is exactly what happened to
+        `breadcrumb object count`: the L0 breadcrumb renders as "PROGRAM MAPSTART436
+        objects", the pattern expected whitespace where "START" is, it never matched,
+        and the audit reported 37 of its 38 checks as a clean run.
+        """
         if strip is None:
             return None
         m = re.search(pat, strip)
-        return m.group(1) if m else None
+        if not m:
+            if what:
+                FAIL.append(f"stats strip: captured, but the {what} figure is not in it "
+                            f"-- the check that depends on it did not run")
+            return None
+        return m.group(1)
 
-    ent_rendered = rendered(r"ENTITIES\s*(\d{3,4})")
+    ent_rendered = rendered(r"ENTITIES\s*(\d{3,4})", "ENTITIES")
     if ent_rendered:
         ck("stats strip ENTITIES", int(ent_rendered), len(nodes))
     else:
         FAIL.append("stats strip: could not locate the ENTITIES figure in the built file")
 
-    links_rendered = rendered(r"SOURCED LINKS\s*(\d{3,5})")
+    links_rendered = rendered(r"SOURCED LINKS\s*(\d{3,5})", "SOURCED LINKS")
     if links_rendered:
         ck("stats strip SOURCED LINKS", int(links_rendered), len(edges))
 
@@ -193,7 +208,7 @@ def main():
        sorted({cl.get("tier") for cl in claims}), [1, 2, 3])
     t1 = sum(1 for cl in claims if cl.get("tier") == 1)
     documented = round(t1 / len(claims) * 100)
-    dr = rendered(r"(\d{1,3})%\s*(?:</[^>]+>\s*)?of\s*(\d{3,5})\s*claims")
+    dr = rendered(r"(\d{1,3})%\s*(?:</[^>]+>\s*)?of\s*(\d{3,5})\s*claims", "DOCUMENTED")
     if dr:
         m = re.search(r"(\d{1,3})%\s*(?:</[^>]+>\s*)?of\s*(\d{3,5})\s*claims", strip)
         ck("stats strip DOCUMENTED denominator", int(m.group(2)), len(claims))
@@ -201,19 +216,22 @@ def main():
            f"{t1} tier-1 of {len(claims)}")
 
     den = sum(1 for e in edges if e["type"] == "denial")
-    dnr = rendered(r"DENIALS\s*(\d{1,4})")
+    dnr = rendered(r"DENIALS\s*(\d{1,4})", "DENIALS")
     if dnr:
         ck("stats strip DENIALS", int(dnr), den)
     cus = sum(1 for e in edges if e["type"] == "custody")
-    cur = rendered(r"CUSTODY\s*(\d{1,4})")
+    cur = rendered(r"CUSTODY\s*(\d{1,4})", "CUSTODY")
     if cur:
         ck("stats strip CUSTODY", int(cur), cus)
 
-    tr = rendered(r"TIER A\s*(\d{1,4})")
+    tr = rendered(r"TIER A\s*(\d{1,4})", "TIER A")
     if tr:
         ck("stats strip TIER A", int(tr),
            sum(1 for n in nodes if n.get("tier") == "A"))
-    mo = rendered(r"PROGRAM MAP\s*(\d{2,5})\s*objects") if strip else None
+    # the crumb renders as "PROGRAM MAPSTART436 objects · 1.00x" -- the label between
+    # "MAP" and the count is part of the breadcrumb, not whitespace.
+    mo = (rendered(r"PROGRAM MAP\D{0,12}?(\d{2,5})\s*objects", "PROGRAM MAP objects")
+          if strip else None)
     if mo:
         ck("breadcrumb object count", int(mo),
            c["l0"] + c["directEdges"] + c["summarisedEdges"])

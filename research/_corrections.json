@@ -1,6 +1,659 @@
 {
  "domain": "_corrections",
- "people": [],
+ "people": [
+  {
+   "id": "jesse-marcel",
+   "sequenceChain": [
+    {
+     "date": "1947-07-07",
+     "event": "Travels to the Foster ranch with CIC Capt. Sheridan Cavitt and collects debris",
+     "isAnomalous": false,
+     "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+    },
+    {
+     "date": "1947-07-08",
+     "event": "Photographed in Gen. Roger Ramey's Fort Worth office with balloon and radar-target debris",
+     "isAnomalous": false,
+     "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview"
+    },
+    {
+     "date": "1978-02-20",
+     "event": "Tells Stanton Friedman the balloon story was a cover and the material was unidentifiable",
+     "isAnomalous": true,
+     "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978"
+    }
+   ]
+  },
+  {
+   "id": "steven-schiff",
+   "sequenceChain": [
+    {
+     "date": "1993-01-01",
+     "event": "Begins seeking Roswell records from the Department of Defense after constituent inquiries",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1994-03-01",
+     "event": "Directs GAO to conduct a records search; GAO work begins",
+     "isAnomalous": false,
+     "source": "GAO/NSIAD-95-187, letter of transmittal and scope section"
+    },
+    {
+     "date": "1994-09-08",
+     "event": "Air Force issues its report attributing the Roswell debris to Project MOGUL",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1995-07-28",
+     "event": "GAO/NSIAD-95-187 issued, reporting the destruction of RAAF records without disposition authority",
+     "isAnomalous": true,
+     "source": "GAO/NSIAD-95-187, p.3"
+    }
+   ]
+  },
+  {
+   "id": "howard-c-cross",
+   "sequenceChain": [
+    {
+     "date": "1952-01-01",
+     "event": "Battelle running Project Stork analytical work for the Air Force on Blue Book data",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1953-01-09",
+     "event": "Writes the memorandum to Miles E. Goll at Wright-Patterson AFB, ref. G-1579-4, classified SECRET",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    },
+    {
+     "date": "1953-01-14",
+     "event": "Robertson Panel convenes; per Vallee, it is not briefed on the Pentacle proposals",
+     "isAnomalous": true,
+     "source": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON"
+    },
+    {
+     "date": "1967-06-18",
+     "event": "Jacques Vallee finds the memo among J. Allen Hynek's papers and records it in his journal",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    },
+    {
+     "date": "1992-01-01",
+     "event": "Vallee publishes an account in Forbidden Science, using the codename 'Pentacle'",
+     "isAnomalous": false,
+     "source": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science"
+    }
+   ]
+  },
+  {
+   "id": "tim-gallaudet",
+   "sequenceChain": [
+    {
+     "date": "2015-01-01",
+     "event": "Receives the 'URGENT SAFETY OF FLIGHT ISSUE' email from the Fleet Forces Command operations officer carrying the GO FAST video",
+     "isAnomalous": false,
+     "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+    },
+    {
+     "date": "2015-01-02",
+     "event": "Says the email vanished from his and other recipients' accounts the following day",
+     "isAnomalous": true,
+     "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024"
+    },
+    {
+     "date": "2024-11-13",
+     "event": "Testifies to House Oversight joint subcommittees about the recalled email",
+     "isAnomalous": false,
+     "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024"
+    }
+   ]
+  },
+  {
+   "id": "harold-puthoff",
+   "sequenceChain": [
+    {
+     "date": "1972",
+     "event": "Begins SRI International remote-viewing/psychoenergetics programme with Russell Targ under CIA and later DIA sponsorship.",
+     "isAnomalous": false,
+     "source": "CIA STARGATE declassified collection"
+    },
+    {
+     "date": "1978-01-01",
+     "event": "Army/DIA effort formalised as GRILL FLAME.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "1995-01-01",
+     "event": "CIA declassifies and releases the STARGATE corpus following the AIR evaluation; programme terminated.",
+     "isAnomalous": false,
+     "source": "CIA STARGATE declassified collection"
+    },
+    {
+     "date": "1995-01-01",
+     "event": "Becomes a consultant to Robert Bigelow's newly founded National Institute for Discovery Science.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2008-01-01",
+     "event": "Principal investigator on Defense Intelligence Agency-funded advanced aerospace work through Bigelow's BAASS under AAWSAP.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2017-10-11",
+     "event": "Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice.",
+     "isAnomalous": false,
+     "source": null
+    }
+   ]
+  },
+  {
+   "id": "eric-davis",
+   "sequenceChain": [
+    {
+     "date": "1996-01-01",
+     "event": "Works with NIDS as a staff scientist under Bigelow.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2002-10-16",
+     "event": "Date attributed to the meeting with Vice Adm. Thomas R. Wilson recorded in the notes later known as the Wilson-Davis memo.",
+     "isAnomalous": true,
+     "source": "House Permanent Select Committee on Intelligence, Counterterrorism, Counterintelligence and Counterproliferation Subcommittee hearing, 17 May 2022; contemporaneous reporting"
+    },
+    {
+     "date": "2008-01-01",
+     "event": "Authors Defense Intelligence Reference Documents for the DIA-funded AAWSAP effort through BAASS.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2019-10-21",
+     "event": "Gives a classified briefing on retrievals of unexplained objects to Senate Armed Services Committee staff.",
+     "isAnomalous": false,
+     "source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record"
+    }
+   ]
+  },
+  {
+   "id": "robert-bigelow",
+   "sequenceChain": [
+    {
+     "date": "1995-01-01",
+     "event": "Founds the National Institute for Discovery Science",
+     "isAnomalous": false,
+     "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+    },
+    {
+     "date": "1996-01-01",
+     "event": "Purchases the 480-acre Sherman ranch in Uintah County, Utah, with non-disclosure conditions on the sellers.",
+     "isAnomalous": false,
+     "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description"
+    },
+    {
+     "date": "2008-09-22",
+     "event": "BAASS awarded DIA contract HHM402-08-C-0072",
+     "isAnomalous": false,
+     "source": "DIA contract release FOIA-00349-2018, released 13 Oct 2022"
+    },
+    {
+     "date": "2009-07-01",
+     "event": "BAASS delivers the 494-page Ten Month Report to DIA",
+     "isAnomalous": false,
+     "source": null
+    }
+   ]
+  },
+  {
+   "id": "david-grusch",
+   "sequenceChain": [
+    {
+     "date": "2021-07-01",
+     "event": "First protected disclosure of classified UAP concealment information to the DoD Inspector General",
+     "isAnomalous": false,
+     "source": "House Oversight hearing transcript, 26 July 2023"
+    },
+    {
+     "date": "2022-05-25",
+     "event": "PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2022-07-01",
+     "event": "ICIG finds the complaint credible and urgent",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2023-04-04",
+     "event": "DOPSR clears first submission for open publication",
+     "isAnomalous": false,
+     "source": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault"
+    },
+    {
+     "date": "2023-06-05",
+     "event": "The Debrief publishes Kean and Blumenthal's account of his allegations",
+     "isAnomalous": false,
+     "source": "Kean and Blumenthal, The Debrief, 5 June 2023"
+    },
+    {
+     "date": "2023-07-26",
+     "event": "Testifies under oath before the House Oversight Committee",
+     "isAnomalous": false,
+     "source": "CHRG-118hhrg53022 CONTENTS; docs.house.gov EventID 116282"
+    },
+    {
+     "date": "2023-08-09",
+     "event": "The Intercept publishes his 2014 and 2018 police and psychiatric records obtained by FOIA from Loudoun County",
+     "isAnomalous": true,
+     "source": null
+    },
+    {
+     "date": "2025-07-24",
+     "event": "Rep. Eli Crane writes DoD on his behalf citing clearance removal, denied promotion, lost medical retirement",
+     "isAnomalous": true,
+     "source": "Rep. Eli Crane, letter to the Department of Defense dated 24 July 2025, entered into the record of the 9 September 2025 Task Force hearing"
+    },
+    {
+     "date": "2026-06-09",
+     "event": "Speaks at a Capitol-steps press conference organised with Rep. Luna; describes a continuum of alleged non-human life and references four species",
+     "isAnomalous": false,
+     "source": "Grusch at the Capitol press conference hosted by the House Task Force on the Declassification of Federal Secrets, 9 June 2026; Fox News, 10 June 2026"
+    }
+   ]
+  },
+  {
+   "id": "luis-elizondo",
+   "sequenceChain": [
+    {
+     "date": "2017-08-09",
+     "event": "Submits DD Form 1910 seeking public-release clearance for three .mpg files: 'GoFast', 'Gimbal' and 'FLIR'.",
+     "isAnomalous": false,
+     "source": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019"
+    },
+    {
+     "date": "2017-08-24",
+     "event": "DD Form 1910 approved.",
+     "isAnomalous": false,
+     "source": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019"
+    },
+    {
+     "date": "2017-10-03",
+     "event": "Submits first resignation letter as Director, National Programs Special Management Staff, requesting deferred retirement.",
+     "isAnomalous": false,
+     "source": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)"
+    },
+    {
+     "date": "2017-10-04",
+     "event": "Resignation effective; hand-delivers second letter addressed 'Mr. Secretary' protesting Departmental inaction on UAP.",
+     "isAnomalous": false,
+     "source": "Elizondo resignation letter dated 3 October 2017, released in OSD/JS FOIA case 18-F-0324 (final response 17 August 2022)"
+    },
+    {
+     "date": "2017-10-11",
+     "event": "Announced as Director of Global Security & Special Programs at To The Stars Academy launch.",
+     "isAnomalous": false,
+     "source": null
+    },
+    {
+     "date": "2017-12-16",
+     "event": "Named in the New York Times 'Glowing Auras and Black Money' as the official who ran AATIP.",
+     "isAnomalous": false,
+     "source": "Elizondo statements to the New York Times, 16 December 2017, and subsequently"
+    }
+   ]
+  },
+  {
+   "id": "colm-kelleher",
+   "sequenceChain": [
+    {
+     "date": "1996-01-01",
+     "event": "Begins leading the NIDS science team at Skinwalker Ranch",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    },
+    {
+     "date": "2005",
+     "event": "Publishes 'Hunt for the Skinwalker' with George Knapp.",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    },
+    {
+     "date": "2008-09-01",
+     "event": "AAWSAP contract awarded to Bigelow Aerospace Advanced Space Studies; Kelleher serves as deputy administrator.",
+     "isAnomalous": false,
+     "source": "Reported consistently in the AAWSAP record and in Kelleher's own co-authored account with the programme manager"
+    },
+    {
+     "date": "2021",
+     "event": "Publishes 'Skinwalkers at the Pentagon' with James Lacatski and George Knapp.",
+     "isAnomalous": false,
+     "source": "Kelleher's own accounts in 'Hunt for the Skinwalker' (2005) and 'Skinwalkers at the Pentagon' (2021)"
+    }
+   ]
+  },
+  {
+   "id": "uap-gerb",
+   "sequenceChain": []
+  },
+  {
+   "id": "david-clarke-uk",
+   "affiliations": [
+    "sheffield-hallam",
+    "The National Archives, Kew"
+   ]
+  },
+  {
+   "id": "gary-anthony-uk",
+   "affiliations": [
+    "British UFO Research Association (BUFORA)"
+   ]
+  },
+  {
+   "id": "denis-letty",
+   "affiliations": [
+    "cometa",
+    "ihedn",
+    "Armée de l'Air (French Air Force)"
+   ]
+  },
+  {
+   "id": "bernard-norlain",
+   "affiliations": [
+    "ihedn",
+    "cometa",
+    "Armée de l'Air (French Air Force)"
+   ]
+  },
+  {
+   "id": "uyrange-hollanda",
+   "affiliations": [
+    "fab",
+    "Serviço Nacional de Informações (SNI)"
+   ]
+  },
+  {
+   "id": "otavio-moreira-lima",
+   "affiliations": [
+    "fab",
+    "Ministério da Aeronáutica"
+   ]
+  },
+  {
+   "id": "pessoa-cavalcanti",
+   "affiliations": [
+    "fab",
+    "Brazilian Air Defence Command (COMDA)"
+   ]
+  },
+  {
+   "id": "ricardo-bermudez",
+   "affiliations": [
+    "cefaa",
+    "dgac-chile",
+    "Fuerza Aérea de Chile (FACh)"
+   ]
+  },
+  {
+   "id": "bruce-towe",
+   "date": "2010-03-31"
+  },
+  {
+   "id": "george-miley",
+   "date": "2010-03-10"
+  },
+  {
+   "id": "marc-millis",
+   "date": "2010-11-01"
+  },
+  {
+   "id": "richard-genik",
+   "date": "2010-12-15"
+  },
+  {
+   "id": "robert-baker",
+   "date": "2010-04-06"
+  },
+  {
+   "id": "ulf-leonhardt",
+   "date": "2010-03-02"
+  },
+  {
+   "id": "william-culbreth",
+   "date": "2010-11-20"
+  },
+  {
+   "id": "claudio-maccone",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "friedwardt-winterberg",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "george-hathaway",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "gerald-smith",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "j-golightly",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "james-wells",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "john-albertine",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "john-cramer",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "paul-czysz",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "richard-obousy",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "sergey-macheret",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "vincent-teofilo",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "wil-mccarthy",
+   "date": "2010-01-01"
+  },
+  {
+   "id": "buck-mckeon",
+   "date": "2009-06-16"
+  },
+  {
+   "id": "tom-cole",
+   "date": "2024-04-10"
+  },
+  {
+   "id": "adam-smith",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "betty-mccollum",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "ken-calvert",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "mike-rogers-alabama",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "patty-murray",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "rosa-delauro",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "susan-collins",
+   "date": "2023-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "chris-coons",
+   "date": "2025-01-03",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "john-mchugh",
+   "date": "2009-01-06",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "thad-cochran",
+   "date": "2009-01-06",
+   "sources": [
+    {
+     "name": "U.S. Senate, Dates of Sessions of the Congress (convening dates: 111th 6 Jan 2009, 118th 3 Jan 2023, 119th 3 Jan 2025)",
+     "url": "https://www.senate.gov/legislative/DatesofSessionsofCongress.htm",
+     "date": "2026-08-22"
+    }
+   ]
+  },
+  {
+   "id": "michael-powers-comptroller",
+   "date": "2026-05-20",
+   "sources": [
+    {
+     "name": "OSD Historical Office, 'Department of Defense Key Officials, September 1947 - July 2026' (7 July 2026), Under Secretaries of Defense (Comptroller)",
+     "url": "https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+     "date": "2026-07-07"
+    },
+    {
+     "name": "Department of War, official biography of Michael T. Powers",
+     "url": "https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/",
+     "date": "2026-08-22"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
+     "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
+     "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
+     "source": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026"
+    }
+   ]
+  },
+  {
+   "id": "cecilia-levy",
+   "date": "2025-06-01"
+  },
+  {
+   "id": "sean-parnell",
+   "sources": [
+    {
+     "name": "Department of War release, 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’', 18 March 2026",
+     "url": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+     "date": "2026-03-18"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
+     "source": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/"
+    }
+   ]
+  }
+ ],
  "entities": [
   {
    "id": "yankee-blue",
@@ -9,7 +662,7 @@
    "cluster": "ic",
    "sub": "Alleged USAF/AFOSI program",
    "tier": "B",
-   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel \u2014 briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports \u2014 which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment \u2014 but it is a finding about the absence of a record, not a record.",
+   "desc": "YANKEE BLUE is the allegation that the US Air Force ran a fake UFO reverse-engineering programme on its own personnel — briefing officers in classified units into believing they had been read on to a recovery effort, using fabricated material, as a counterintelligence or hazing exercise. If documented it would be the strongest single item in the coverup strand, because it is the government generating false UAP belief inside its own ranks. It is not documented. A full-text search of the released AARO Historical Record Report Volume I (63 pp., March 2024) finds no occurrence of the term, and it appears in none of the FY2023, FY2024 or FY2025 consolidated annual reports — which corrects a widely repeated claim, including one this board previously made, that AARO conceded the programme in Volume I. Two FOIA cases have returned negative: OSD case 25-F-3514 (September 2025) reported no responsive records after searches of the electronic and paper holdings, and AFOSI case 2025-06002-F reported no investigative reports, summaries or closure memoranda. On 1 October 2025 Pentagon spokesperson Susan Gough stated she could not confirm the alleged memorandum. The Department reportedly reopened the search in December 2025 with no published result. The programme is retained on the board at Tier B with the allegation graded Tier 3 and the negative FOIA findings graded Tier 1. A negative primary finding is itself a documented fact and belongs on a board about concealment — but it is a finding about the absence of a record, not a record.",
    "sources": [
     {
      "name": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (March 2024)",
@@ -38,8 +691,8 @@
   {
    "id": "iaa-fy2024-sec-1102",
    "cls": "legislation",
-   "label": "IAA FY2024 Sec. 1102 \u2014 contractor turn-in of 'non-earth origin or exotic' UAP material",
-   "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 \u2014 a funding limitation only.",
+   "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 — a funding limitation only.",
    "claims": [
     {
      "text": "The turn-in provision is Sec. 1102 of Division M of S. 2226 as passed by the Senate on 27 July 2023. The Division M table of contents reads 'TITLE XI--OTHER MATTERS Sec. 1101. Modification of reporting requirement for All-domain Anomaly Resolution Office. Sec. 1102. Funding limitations relating to unidentified anomalous phenomena.' The same text appears as Sec. 1104 of S. 2103 as reported by SSCI on 22 June 2023; both citations are correct, to different vehicles.",
@@ -132,7 +785,7 @@
    "id": "dird-series",
    "cls": "document",
    "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
-   "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme \u2014 the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
+   "sub": "AAWSAP contract deliverable set, 2008-2010. A DOCUMENT SERIES, not a programme — the individual papers are wired to their authors and to AAWSAP, and this node is the shelf they sit on. Absorbed the duplicate node dird-collection on 14 Aug 2026.",
    "claims": [
     {
      "text": "The board formerly carried two nodes for this object, dird-series and dird-collection, describing the same AAWSAP deliverable set. They were collapsed on 14 August 2026 and dird-collection's seven edges re-pointed here.",
@@ -179,6 +832,16 @@
    "sources": [
     "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006"
    ]
+  },
+  {
+   "id": "dird-aneutronic-fusion-propulsion",
+   "cls": "document",
+   "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)"
+  },
+  {
+   "id": "dird-aneutronic-fusion-propulsion-2",
+   "cls": "document",
+   "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)"
   }
  ],
  "edges": [],
@@ -187,5 +850,12 @@
  "gaps": [
   "Yankee Blue: the alleged AFOSI memorandum remains unreleased. Wave 4 targets are the DoD FOIA case file for the reopened December 2025 search, AFOSI FOIA logs at osi.af.mil, and any SASC or House Oversight correspondence naming the programme.",
   "Sec. 1102 of S.2226 Div M: the section HEADING and placement are verified against the govinfo engrossed text, but web_fetch caps extraction at ~118,600 characters and the engrossed body (pages 2368-2374) could not be read verbatim. The make-available-to-AARO mandate is corroborated by a contemporaneous section-by-section locator, not read directly. This is the soft joint in the citation and should be closed with a direct read of the printed bill."
- ]
+ ],
+ "_sequence_chain_why": "chainHtml() reads s.date, s.event, s.source and s.isAnomalous off every chain step. All 11 sequenceChains on this board held bare node-id strings or free prose instead, so every one rendered an undefined event under an undefined date - on Grusch, Elizondo, Davis and Marcel among others. Nothing threw and no count moved, so nothing caught it. The renderer is inherited from The Vanishing, where a chain step is an ordered, dated, individually sourced link; the research wrote program lineages and shorthand labels into the same field. Each chain below is rebuilt from that person's own on-board chronology, and each step's source is the claim on the same person that covers it. Steps the old chain asserted but the record here does not carry were dropped rather than written from memory. Where no claim on the node covers a step, the source is null and the dock prints 'No attributed source on file', which is the true statement. uap-gerb is set empty: its old chain pointed at Burlison letters that are not on that node, and it has no ordered chain of individually documented links. The dock prints the 'No sequence chain' block, which says that is a finding rather than a gap.",
+ "_affiliations_why": "affiliations is a PROSE field upstream: The Vanishing writes 'NASA Jet Propulsion Laboratory (1998-2022)' into it and renders it verbatim. The research on this board wrote node ids into it instead, so 54 entries reached the dossier as raw slugs - a reader saw 'dod-sapco', 'uk-mod-ufo-desk' and 'skidmore-fitts-report' where a name belonged. 46 of them name a real node and the renderer now resolves those to the node's label and makes them navigable, which keeps the link rather than throwing it away. The eight below name an institution that is not on the board, so they are written out as the prose this field has always held, using the name each person's own sub field already gives.",
+ "_dates_why": "34 people carried no date. An undated person is invisible to the timeline and to the temporal edge derivation, so the board simply did not connect them. 20 are settled here from the board's own sourced claims. Seven AAWSAP DIRD authors get the exact publication date their own Tier 1 claim states - Towe 31 Mar 2010, Miley 10 Mar 2010, Baker 6 Apr 2010, Leonhardt 2 Mar 2010, Millis 1 Nov 2010, Culbreth 20 Nov 2010, Genik 15 Dec 2010. Thirteen more are DIRD authors whose delivery date this board has not established; they take 2010-01-01, which is the marker already used on Puthoff, Davis and Green for precisely that. It denotes the AAWSAP delivery period and is not a claim about a known day. McKeon and Cole take the seat dates their own claims state. NOT set here: the DIA list date of 9 January 2018 was rejected as a date for these authors. It is when DIA transmitted the title list to the Senate Armed Services Committee, eight years after the work, and using it would place every DIRD author in 2018 and cluster them temporally with the disclosure fight rather than with the programme that commissioned them.",
+ "_dates_congress_why": "Ten members of the 10 U.S.C. 119(e)(2) notification group carried no date, so the board could not place them in time at all. Each takes the convening date of the Congress in which that member first held the seat their own sub and Tier 1 claims name - not a date invented for them, and not the date a committee web page was read. Convening dates verified against the Senate's own table: 111th 6 January 2009, 118th 3 January 2023, 119th 3 January 2025. That table is added as a source on each of the ten, because it is what the date rests on.",
+ "_dates_researched_why": "Two dates could not be derived from the board and were researched. Levy takes 2025-06-01, the publication month of the UAPx field-expedition paper in Progress in Aerospace Sciences 156:101099 - the same date her first author Szydagis already carries on this board for the same paper. Powers takes 2026-05-20, the date the OSD Historical Office's Key Officials list of 7 July 2026 gives for his assumption of the acting Comptroller role. Checking it turned up a live contradiction between two Department pages: the comptroller site's leadership page still names Hurst, while war.gov's biography of Powers says Powers. The Historical Office list dates the handover and settles it, and the contradiction is recorded as a claim rather than quietly resolved.",
+ "_dird_label_why": "Two distinct DIRDs carried the identical label 'Aneutronic Fusion Propulsion', so the board showed a reader two nodes it could not tell apart. They are genuinely different documents and both were downloaded and their covers read on 22 August 2026: DIA-08-1011-003 at 50 pages, authored by Culbreth, and DIA-08-1011-004 at 37 pages, authored by Teofilo, both dated 1 November 2010. Both cover pages carry the same title, so the ambiguity is in the source documents, not in this board's transcription of them. The document number is appended to each label because that is what actually distinguishes them and it was read directly off the covers. NOT asserted: which of the two the DIA's 9 January 2018 list calls 'Aneutronic Fusion Propulsion II'. Culbreth's own claim on this board says list item 30 carries that title and is credited to him, which would make DIA-08-1011-003 the 'II' despite the lower document number. The list itself could not be retrieved to check - irp.fas.org returns HTTP 202 with an empty body - so the roman numeral is left off both labels rather than guessed onto one.",
+ "_thin_sourcing_why": "The thin-sourcing backlog is worked source by source, and a source is not added here unless it was opened. Parnell is done: the Department's own release of 18 March 2026 carries the attribution 'Chief Pentagon Spokesman Sean Parnell', which is the Department attributing the role to him rather than a report of it. The rest stalled on retrieval, not on effort. The natural second source for the congressional figures is the Congressional Directory or a member biography, and congress.gov and bioguide.congress.gov both refuse this session; for the historical committee roles - Raskin as Oversight ranking member in the 118th, Gallagher's select-committee chair - the tool is an archived committee page, and web.archive.org is blocked outright here. What IS reachable is recorded in notes/LINK-HEALTH-2026-08-22.md: govinfo.gov, oversight.house.gov, the committee sites, war.gov and theblackvault.com all answer, so this work is resumable rather than blocked, and the route is written down. One note on phrasing. The first draft of the Parnell claim was demoted by the interested-party rule, because it said the Department 'issues releases under his name' and the attribution vocabulary does not contain 'issues' or 'titled'. The fix was to phrase the claim as the attribution it actually is - the release NAMES him - rather than to widen the rule again to fit one sentence. Widening a check until it accepts your own prose is fitting the test to the answer."
 }

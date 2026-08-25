@@ -1,0 +1,38 @@
+{
+ "domain": "w13-thin-people",
+ "_why": "Phase 4c, the four Wikipedia-only people, attempted. One landed properly and three did not, and the three are worth recording so the next pass does not repeat the same dead ends.\n\nLANDED. bryce-zabel now rests on two Television Academy pages rather than on Wikipedia. The Academy's own bio gives him as 'chairman/CEO of the Academy of Television Arts & Sciences from 2002 to 2003, the first writer in that position since Rod Serling' and credits him with creating the 'Emmy-winning Dark Skies (NBC)'. Its Presidents and Chairs list carries the entry '2002-2003 Bryce Zabel Chair/CEO' independently. Sources go from one to three, and the two facts the board cared about are now primary. The A.D. (After Disclosure) co-authorship with Richard Dolan is NOT in either Academy page - neither 'A.D. After Disclosure' nor 'Richard Dolan' appears anywhere in the bio - so that claim stays where it was.\n\nNOT LANDED, and why.\n\nmark-milley. The board sources his denial to the Wikipedia article on Grusch's claims and describes it as 'public remarks, 6 August 2023'. The description looks wrong: the remarks were given in an exclusive interview with The Washington Times, published that date. I did not change the claim, because washingtontimes.com returns 403 to this environment and I will not cite a document I have not opened. Recorded here so the next pass can go straight at it. The Pentagon transcript archive was searched and holds no 6 August 2023 Milley item, so there is probably no .mil primary to find.\n\nstanton-friedman. CBC's obituary is the obvious replacement for the Wikipedia biography behind three of his four claims. cbc.ca returns 403 here. The Provincial Archives of New Brunswick holds his records, per CBC's own reporting, but its collections search surfaced no Friedman fonds through the searches available to me.\n\njeremy-corbell. The USS Omaha claim needs the Pentagon's confirmation that the footage was taken by Navy personnel. The DoD release that exists on war.gov covers the three 2020 Navy videos, not the Omaha imagery, and the Navy FOIA reading room's PAO briefing card returns 'Request Rejected'.\n\nENVIRONMENTAL NOTE, and it matters for future passes. web.archive.org is unreachable from this session entirely - WebFetch refuses it and curl gets a connection reset. The usual fallback for a 403 is therefore not available, and any pass that needs an archived capture will have to be run somewhere else. The board carries many web.archive.org source URLs; they are not verifiable from here.\n\nTIERING NOTE. I wrote the two Television Academy claims as tier 1 and the build demoted both, with the reason 'node carries no primary-record URL'. The machinery is right and I was wrong. televisionacademy.com is a trade body's own website, not a government or statutory record, and PRIMARY_URL_PAT is deliberately narrow about what counts. Tier 2 - sourced, checkable, self-published by the organisation the claim is about - is the correct grade, and the research file now says 2 so it matches what ships instead of recording an override that never took.",
+ "people": [
+  {
+   "id": "bryce-zabel",
+   "sources": [
+    {
+     "name": "Television Academy, Bryce Zabel bio",
+     "url": "https://www.televisionacademy.com/bios/bryce-zabel",
+     "date": "2026-08-25"
+    },
+    {
+     "name": "Television Academy, Presidents and Chairs of the Television Academy",
+     "url": "https://www.televisionacademy.com/academy/about/presidents",
+     "date": "2026-08-25"
+    }
+   ],
+   "claims": [
+    {
+     "tier": 2,
+     "text": "The Television Academy's own biography describes Zabel as 'chairman/CEO of the Academy of Television Arts & Sciences from 2002 to 2003, the first writer in that position since Rod Serling.' Its separate list of Presidents and Chairs carries the entry '2002-2003 Bryce Zabel Chair/CEO' independently.",
+     "source": "Television Academy, Bryce Zabel bio and Presidents and Chairs list"
+    },
+    {
+     "tier": 2,
+     "text": "The Television Academy credits Zabel with creating five primetime network series including the 'Emmy-winning Dark Skies (NBC)', alongside Kay O'Brien, M.A.N.T.I.S., The Crow: Stairway to Heaven and E.N.G.",
+     "source": "Television Academy, Bryce Zabel bio"
+    },
+    {
+     "tier": 2,
+     "text": "Neither Television Academy page mentions A.D. (After Disclosure) or Richard Dolan. The co-authorship claim on this board rests on the encyclopedic source alone and has not been replaced with a primary one.",
+     "source": "Absence checked against both Television Academy pages, 25 August 2026"
+    }
+   ]
+  }
+ ]
+}

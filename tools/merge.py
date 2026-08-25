@@ -10,7 +10,7 @@ Conservative by design: duplicate ids MERGE rather than overwrite, and nothing
 is dropped silently. Unplaceable records land in tools/REJECTS.json with a reason.
 """
 
-import json, os, re, sys, glob
+import json, os, re, sys, glob, unicodedata
 from collections import defaultdict, OrderedDict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -285,7 +285,30 @@ def load():
                 "photoCredit": p.get("photoCredit"),
                 "_domains": [slug],
             }
-            if slug == "_remediation" and pid in people:
+            if slug == "_corrections" and pid in people:
+                # The entity side of this overlay has existed since the Condign
+                # corrections. People needed it for the same reason and did not
+                # have it: merge_person UNIONS domains, affiliations and
+                # sequenceChain, so a wrong value cannot be removed by editing the
+                # research file that introduced it -- the union pulls it back from
+                # whichever other file also declares it. A correction has to be
+                # able to say "this field is now exactly this", so on the
+                # reference fields this overlay REPLACES rather than merges.
+                tgt = people[pid]
+                for f in ("label", "sub", "cluster", "tier", "status", "loc",
+                          "date", "narrative", "unexplainedResidual"):
+                    if p.get(f) is not None:
+                        tgt[f] = p[f]
+                # membership test, not truthiness: an explicit null or [] is the
+                # correction in every case where the old value should simply go.
+                for f in ("locId", "instId", "domains", "affiliations", "sequenceChain"):
+                    if f in p:
+                        tgt[f] = rec[f]
+                if p.get("sources"):
+                    tgt["sources"] = norm_sources(list(p["sources"]) + tgt.get("sources", []))
+                if p.get("claims"):
+                    tgt["claims"] = norm_claims(p["claims"]) + tgt.get("claims", [])
+            elif slug == "_remediation" and pid in people:
                 tgt = people[pid]
                 for f in ("tier", "tierRationale", "date", "coords"):
                     if p.get(f) is not None:
@@ -433,9 +456,73 @@ def load():
                 if isinstance(t.get(f), list) and any(x in alias for x in t[f]):
                     t[f] = [alias.get(x, x) for x in t[f]]
                     repointed += 1
+        # An edge touching a COLLAPSED node is not garbage: it is a real
+        # relationship recorded against the wrong copy of a node. Re-point it at the
+        # survivor first, exactly as the timeline and the person back-references are
+        # re-pointed, and only then drop what is left. Without this a collapse
+        # silently deletes the loser's edges, which is how a duplicate ends up
+        # costing evidence instead of just tidiness.
+        repointed_edges = 0
+        for key in list(edges.keys()):
+            e = edges[key]
+            na, nb = alias.get(e["a"], e["a"]), alias.get(e["b"], e["b"])
+            if (na, nb) == (e["a"], e["b"]):
+                continue
+            edges.pop(key)
+            if na == nb:
+                # the collapse made both ends the same node; a self-edge is noise
+                repointed_edges += 1
+                continue
+            e["a"], e["b"] = na, nb
+            nk, rk = f"{na}|{nb}|{e['type']}", f"{nb}|{na}|{e['type']}"
+            tgt = rk if rk in edges else nk
+            if tgt in edges:
+                old_e = edges[tgt]
+                if len(e["note"]) > len(old_e["note"]):
+                    old_e["note"] = e["note"]
+                if not old_e["label"]:
+                    old_e["label"] = e["label"]
+                old_e["claimTier"] = min(old_e["claimTier"], e["claimTier"])
+                old_e["sources"] = norm_sources(old_e["sources"] + e["sources"])
+                for dm in e["_domains"]:
+                    if dm not in old_e["_domains"]:
+                        old_e["_domains"].append(dm)
+            else:
+                edges[nk] = e
+            repointed_edges += 1
+        if repointed_edges:
+            print(f"  re-pointed {repointed_edges} edge(s) onto collapse survivors",
+                  file=sys.stderr)
+
         dropped = [k for k, e in edges.items() if e["a"] in rm or e["b"] in rm]
         for k in dropped:
             edges.pop(k)
+
+        # Dropping the edges is not the whole job. A person points at nodes through
+        # locId, instId and domains as well, and deriveEdges() turns every one of
+        # those into a live edge at runtime -- so a back-reference to a removed node
+        # is a phantom edge, not merely untidy data.
+        #
+        # The first version of this block swept edges only, because verify.py's
+        # dangling check walked edge endpoints only. Satisfying the gate defined the
+        # scope of the fix, and 31 people kept pointing at 30 removed locations while
+        # the gate reported ok. The gate now walks these fields too; this sweep is
+        # what keeps them clean, and an alias re-points rather than orphans exactly
+        # as it does for the timeline above.
+        swept = 0
+        for p_ in people.values():
+            for f in ("locId", "instId"):
+                if p_.get(f) in rm:
+                    p_[f] = alias.get(p_[f])
+                    swept += 1
+            doms = [alias.get(d, d) for d in p_.get("domains") or []]
+            doms = [d for i, d in enumerate(doms) if d not in rm and d not in doms[:i]]
+            if doms != (p_.get("domains") or []):
+                p_["domains"] = doms
+                swept += 1
+        if swept:
+            print(f"  swept {swept} person back-reference(s) to removed nodes",
+                  file=sys.stderr)
         if repointed:
             print(f"  re-pointed {repointed} reference(s) to a collapsed node",
                   file=sys.stderr)
@@ -453,17 +540,47 @@ def load():
 # A Tier 1 claim asserts a primary record exists. These patterns identify sources
 # that are NOT primary records, however reliable they may be as reporting.
 SECONDARY_PAT = re.compile(
+    # 'blog' without \b: the word boundary meant this missed 'blogspot.com', and
+    # 29 Tier 1 claims were cited to one blogspot host alone.
     r"wikipedia|britannica|\bwiki\b|reddit|substack|medium\.com|youtube|"
-    r"podcast|blog\b|fandom", re.I)
+    r"podcast|blog|fandom", re.I)
 
 # A URL that would justify Tier 1: statute, regulation, agency policy, court
 # record, congressional record, archive, or an agency's own document repository.
+#
+# This pattern was written against the US federal record and silently treated
+# every other government on earth as unsourceable. The board now carries the UK
+# National Archives, Canada, Chile's DGAC, Brazil's Arquivo Nacional, the Senado
+# and the Camara -- 16, 17, 13, 10 and 6 citations respectively -- and none of
+# them counted. It also only credited a .mil URL when it ended in .pdf, so
+# dia.mil and aaro.mil (248 and 154 citations) did not register as primary
+# records even of their own statements.
+#
+# Two non-government hosts are included deliberately: The Black Vault and the
+# FAS Intelligence Resource Program host the released FOIA PDFs themselves --
+# the DIRDs and the DIA's 9 January 2018 AATIP list among them. Primacy belongs
+# to the document, not to who serves it, and the alternative is that 118
+# citations of actual released government records count as no source at all.
+#
+# Whether a URL is a primary record is a SEPARATE question from whether the body
+# publishing it is disinterested. aaro.mil is a primary record OF ITS OWN
+# STATEMENT and nothing more, and INTERESTED_PARTY_PAT below is what enforces
+# that. Widening this pattern does not loosen that rule.
 PRIMARY_URL_PAT = re.compile(
-    r"congress\.gov|govinfo\.gov|federalregister\.gov|whitehouse\.gov/presidential-actions|"
-    r"archives\.gov|ecfr\.gov|law\.cornell\.edu|courtlistener|\.uscourts\.gov|"
-    r"gao\.gov|oversight\.house\.gov|\.senate\.gov|\.house\.gov|dodig\.mil|"
-    r"esd\.whs\.mil|\.mil/.*\.pdf|dni\.gov|cia\.gov/readingroom|foia|"
-    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org", re.I)
+    # US federal
+    r"congress\.gov|govinfo\.gov|federalregister\.gov|whitehouse\.gov|"
+    r"archives\.gov|presidentiallibraries\.us|ecfr\.gov|acquisition\.gov|"
+    r"law\.cornell\.edu|courtlistener|\.uscourts\.gov|"
+    r"gao\.gov|oversight\.house\.gov|\.senate\.gov|\.house\.gov|docs\.house\.gov|"
+    r"\.mil\b|defense\.gov|war\.gov|dni\.gov|odni\.gov|cia\.gov|\.fbi\.gov|"
+    r"nsa\.gov|dhs\.gov|energy\.gov|osti\.gov|lanl\.gov|sec\.gov|"
+    r"usaspending\.gov|sam\.gov|fpds\.gov|fasab\.gov|foia|"
+    r"nsf\.gov|nasa\.gov|patents\.google|uspto\.gov|doi\.org|"
+    # other governments, all of them already cited on this board
+    r"nationalarchives\.gov\.uk|\.gov\.uk|\.gc\.ca|\.gob\.cl|\.gov\.br|"
+    r"leg\.br|\.gouv\.fr|legifrance|europa\.eu|"
+    # third-party hosts of released government documents
+    r"theblackvault\.com|irp\.fas\.org", re.I)
 
 demotions = []
 
@@ -488,11 +605,65 @@ INTERESTED_PARTY_PAT = re.compile(
 # A claim ABOUT what an interested party said is legitimately Tier 1 from that
 # party's own publication — there, the statement IS the fact. Only claims that use
 # the interested party as an authority for an external fact get capped.
+# The interested-party rule caps an AARO/DoD-sourced claim at Tier 2 UNLESS the
+# claim is about what they said -- because publishing a document makes it a primary
+# record OF THE STATEMENT. That exemption is only as wide as this verb list, and the
+# list held speech verbs only. So a claim reporting what a document LISTS, CONTAINS,
+# READS or PUBLISHES did not read as attribution and was demoted anyway.
+#
+# 47 claims were caught that way, and they included the strongest evidence on the
+# board: that HRR Volume I contains zero occurrences of the name 'Wilson' across all
+# 63 pages, what its title page reads verbatim, and the file manifest of every PURSUE
+# release. A full-text negative finding about a document, sourced to that document,
+# is exactly what Tier 1 is for.
 ATTRIBUTION_PAT = re.compile(
     r"\b(denie[ds]|denial|declined|stated|states|said|asserts?|asserted|claims|"
     r"claimed|announced|acknowledg|concluded|reported that|wrote|testified|"
-    r"responded|maintains?|characteri[sz]ed|according to (?:aaro|the )?(?:dod|"
+    r"responded|maintains?|characteri[sz]ed|"
+    r"attributes?|attributed|credits?|credited|lists?|listed|identifies|identified|"
+    r"names|named|reads|contains?|describes?|described|prints?|printed|publishes|"
+    r"published|records?|recorded|shows?|gives?|hosts?|"
+    r"according to (?:aaro|the )?(?:dod|"
     r"department of defense|pentagon))\b", re.I)
+
+
+URL_IN_SOURCE = re.compile(r"https?://[^\s,;)\]<>\"]+")
+DEMOTION_NOTE = re.compile(r"\s*[-\u2014]+\s*DEMOTED from Tier 1.*$", re.I)
+
+
+def hoist_claim_urls(people, entities):
+    """Make node.sources[] reflect the URLs the node's own claims already cite.
+
+    The research writes the primary record straight into claim.source and often
+    leaves node.sources[] empty. Everything downstream reads node.sources[]: the
+    demotion pass computes has_primary from it, and the integrity report counts
+    it. So 26 nodes carrying 90 Tier 1 claims registered as completely unsourced
+    while every one of those 90 claims cited a real primary URL - the DIA 9 Jan
+    2018 AATIP list, 10 U.S.C. 119 on uscode.house.gov, the released DIRD PDFs,
+    committee pages on house.gov and senate.gov.
+
+    Nothing here is new research and no claim gains a source it did not already
+    cite. This only stops the node from disclaiming what it is standing on.
+    """
+    hoisted = 0
+    for n in list(people.values()) + list(entities.values()):
+        have = {s.get("url") for s in n.get("sources") or [] if s.get("url")}
+        for c in n.get("claims") or []:
+            raw = c.get("source") or ""
+            for u in URL_IN_SOURCE.findall(raw):
+                u = u.rstrip(".,;")
+                if u in have:
+                    continue
+                have.add(u)
+                # the source string minus its URLs and minus any demotion note is
+                # the human name for the record; fall back to the host.
+                name = DEMOTION_NOTE.sub("", URL_IN_SOURCE.sub("", raw))
+                name = re.sub(r"\s+", " ", name).strip(" ,;-\u2014")
+                if len(name) < 8:
+                    name = re.sub(r"^https?://(www\.)?", "", u).split("/")[0]
+                n.setdefault("sources", []).append({"name": name, "url": u, "date": None})
+                hoisted += 1
+    return hoisted
 
 
 def remediate_tiers(people, entities):
@@ -528,6 +699,76 @@ def remediate_tiers(people, entities):
                     c["source"] = f"{c['source']} — DEMOTED from Tier 1 ({why}); needs primary replacement"
                 demotions.append({"id": n["id"], "why": why, "claim": c["text"][:110]})
     return demotions
+
+
+DUP_STOP = {"the", "of", "a", "an", "and", "for", "to", "on", "in", "act", "section",
+            "sec", "us", "u", "s", "united", "states", "department", "office",
+            "program", "programme", "inc", "llc", "corporation"}
+
+
+def _dup_key(label):
+    t = unicodedata.normalize("NFKD", label or "").lower()
+    t = re.sub(r"[^a-z0-9 ]+", " ", t)
+    return frozenset(w for w in t.split() if w and w not in DUP_STOP)
+
+
+def duplicate_groups(people, entities):
+    """Find nodes that are probably the same thing recorded twice.
+
+    Five people were once on this board twice, splitting their edges and their
+    sources, and nothing detected it. The same failure is back in the entities:
+    the FY2024 NDAA sec. 1687 is here three times, the AARO FY2025 annual report
+    three times, and Jesse Marcel twice. A duplicate is worse than a missing node,
+    because both copies look sourced and each carries a fraction of the evidence
+    under a different tier.
+
+    The test is deliberately narrow, to stay useful rather than noisy: same class,
+    at least one shared source URL, and label token-sets that overlap by 60% after
+    dropping structural words. Two genuinely distinct documents that share a title
+    -- DIA-08-1011-003 and -004 are both called 'Aneutronic Fusion Propulsion' --
+    will show up here, which is correct: a reader cannot tell them apart either.
+    """
+    import itertools
+    from collections import defaultdict
+    nodes = list(people.values()) + list(entities.values())
+    byurl = defaultdict(list)
+    for n in nodes:
+        for src in n.get("sources") or []:
+            if src.get("url"):
+                byurl[src["url"]].append(n)
+    seen, groups = set(), []
+    for url, grp in byurl.items():
+        if not 2 <= len(grp) <= 40:
+            continue
+        for a, b in itertools.combinations(grp, 2):
+            if a["id"] == b["id"] or a.get("cls") != b.get("cls"):
+                continue
+            pair = tuple(sorted([a["id"], b["id"]]))
+            if pair in seen:
+                continue
+            ka, kb = _dup_key(a["label"]), _dup_key(b["label"])
+            if not ka or not kb:
+                continue
+            # A detector that cries wolf gets ignored, and then it is no detector.
+            # Two labels that both carry an identifier and carry DIFFERENT ones are
+            # different things, however alike the surrounding words are. That covers
+            # the AARO consolidated annual reports, which are near-identical by title
+            # and share a source but are three real reports (FY2023/FY2024/FY2025),
+            # and the two DIRDs both titled 'Aneutronic Fusion Propulsion', which are
+            # distinguished only by DIA-08-1011-003 vs -004.
+            # Match bare digit runs, not \b\d{4}\b: "FY2023" has no word boundary
+            # before its digits, which is exactly the case this needs to catch.
+            ia = set(re.findall(r"\d{3,}", a["label"] or ""))
+            ib = set(re.findall(r"\d{3,}", b["label"] or ""))
+            if ia and ib and ia != ib:
+                continue
+            overlap = len(ka & kb) / len(ka | kb)
+            if overlap >= 0.6:
+                seen.add(pair)
+                groups.append({"a": pair[0], "b": pair[1], "cls": a.get("cls"),
+                               "overlap": round(overlap, 2), "shared_url": url})
+    groups.sort(key=lambda g: (-g["overlap"], g["a"]))
+    return groups
 
 
 def integrity(people, entities, edges, timeline):
@@ -582,6 +823,29 @@ def integrity(people, entities, edges, timeline):
             for c in n.get("claims", []):
                 if c["tier"] == 1 and not urls:
                     problems["tier1_claim_no_url"].append({"id": n["id"], "claim": c["text"][:90]})
+
+    for g in duplicate_groups(people, entities):
+        problems["probable_duplicate_node"].append(g)
+
+    # Parallel edges: the same node pair joined more than once under different
+    # types. An edge key is (a, b, type), so two passes describing one relationship
+    # with different vocabulary each get their own edge. Where one twin is sourced
+    # and noted at Tier 1 and the other sits unsourced at Tier 3, the unsourced one
+    # is redundancy rather than missing research, and it inflates
+    # edge_without_source with work that is already done.
+    bypair = defaultdict(list)
+    for e in edges.values():
+        bypair[tuple(sorted([e["a"], e["b"]]))].append(e)
+    for pair, group in sorted(bypair.items()):
+        if len(group) < 2:
+            continue
+        sourced = [e for e in group if e["sources"]]
+        bare = [e for e in group if not e["sources"]]
+        if sourced and bare:
+            problems["unsourced_edge_with_sourced_twin"].append({
+                "a": pair[0], "b": pair[1],
+                "unsourced": [e["type"] for e in bare],
+                "sourced": [e["type"] for e in sourced]})
 
     deg = defaultdict(int)
     for e in edges.values():
@@ -709,6 +973,7 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
 
 def main():
     people, entities, edges, timeline, entity_info, gaps = load()
+    hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
     problems, deg = integrity(people, entities, edges, timeline)
     today = emit(people, entities, edges, timeline, entity_info, gaps, problems)
@@ -743,6 +1008,7 @@ def main():
     print(f"unique source URLs  {len(srcs)}")
     print(f"timeline  {len(timeline)}")
     print(f"gaps      {len(gaps)}   rejects {len(rejects)}")
+    print(f"hoisted URLs      {hoisted}  (claim.source -> node.sources)")
     print(f"tier-1 demotions  {len(demotions)}  (tools/DEMOTIONS.json)")
     print("\n--- integrity ---")
     for k in sorted(problems, key=lambda x: -len(problems[x])):
