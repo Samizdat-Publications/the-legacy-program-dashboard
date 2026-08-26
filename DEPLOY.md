@@ -29,11 +29,29 @@ git pull origin claude/claud-md-compacting-vs9o9j
 ```
 cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 python tools\build_site.py
-npx wrangler pages deploy site --project-name the-program
+npx wrangler pages deploy site --project-name the-program --branch master
 ```
 
-The first deploy asks to create the project and to log in through the browser. It
-prints the live URL when it finishes. Every later deploy is the same three lines.
+### The two prompts on the first deploy
+
+| prompt | answer |
+|---|---|
+| *"The project you specified does not exist: the-program. Would you like to create it?"* | **Create a new project.** Expected — the project does not exist on Cloudflare until this makes it. |
+| *"Enter the production branch name"* | **`master`.** |
+
+**`--branch master` is not optional, and this is the trap.** On a direct upload the
+branch defaults to the **current git branch**, and Cloudflare treats any branch that
+is not the project's production branch as a **preview**. Work here happens on feature
+branches, so without the flag the deploy succeeds, reports a URL, and that URL is a
+hashed preview subdomain — while `the-program.pages.dev`, the link you actually send
+people, keeps serving whatever was deployed last. A deploy that looks completely
+successful and does not update the live board.
+
+The Pages branch is a label on an upload, not a claim about git: pinning it to
+`master` means every deploy lands on the clean URL no matter which branch is checked
+out. `tools\build_site.py` prints the command with the flag already in it.
+
+It prints the live URL when it finishes. Every later deploy is the same three lines.
 
 Deep links work immediately: `/node/aawsap`, `/path/aawsap/aaro`, `/band/custody`,
 `/era/nd`, `/q/via:bigelow`. `site/_redirects` is what stops those 404ing, and it

@@ -67,7 +67,14 @@ def main():
     print("       _redirects %d routes" % sum(1 for l in REDIRECTS.splitlines()
                                               if l and not l.startswith("#")))
     print("       _headers")
-    print("\ndeploy:  npx wrangler pages deploy site --project-name the-program")
+    # --branch is not optional in practice. On a direct upload it defaults to the
+    # CURRENT GIT BRANCH, and Pages treats any branch that is not the project's
+    # production branch as a PREVIEW: the deploy succeeds, reports a URL, and that
+    # URL is a hashed preview subdomain rather than the-program.pages.dev. Work
+    # happens on feature branches here, so without this flag the clean URL would
+    # silently keep serving whatever was deployed from master last.
+    print("\ndeploy:  npx wrangler pages deploy site --project-name the-program"
+          " --branch master")
 
 
 if __name__ == "__main__":
