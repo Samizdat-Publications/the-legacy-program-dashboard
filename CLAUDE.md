@@ -44,7 +44,7 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 44 verify checks + 40 audit re-derivations + 26 runtime + 18 canvas assertions, all self-tested |
+| gate | 45 verify checks + 40 audit re-derivations + 26 runtime + 23 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -90,12 +90,12 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
-python3 tools/verify.py                      # 44 checks
+python3 tools/verify.py                      # 45 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
 node    tools/runtime_check.js               # 26 DOM assertions in a real browser
-node    tools/test_packed_layout.js          # 18 assertions read back out of the canvas
+node    tools/test_packed_layout.js          # 23 assertions read back out of the canvas
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
@@ -432,6 +432,21 @@ surface" includes markup, not just copy.
    candidates (17 U.S.C. 105) but must trace to a `.gov` original, not an aggregator.
    Witnesses default to the class letter — a private person who testified has not licensed
    their likeness.
+
+   **The RENDER half is built and tested, 26 August 2026** — it was being deferred under the
+   same heading for no reason that survived examination. The stated reason, "a render branch
+   with no data is untested code", is the argument for testing it, not for leaving it
+   unwritten; leaving it unwritten meant whoever finally populated the register, after the
+   hardest and least reversible research on this board, would be the one to find out whether
+   the renderer worked. Five canvas assertions now exercise it against injected fixtures,
+   including **the two treatments swapped**, because `photoKind` is load-bearing: a portrait
+   may be cropped to a circle and **a seal may not** — a cropped seal is a different mark,
+   and several carry statutory restrictions on alteration stricter than copyright. A verify
+   check guards the register itself, because a malformed record does not error, it simply
+   fails to clear and falls back to the class letter, which looks exactly like never having
+   tried. `notes/IMAGE-TILE-2026-08-26.md`.
+
+   **What is left here is judgement about real people's faces and must not run unattended.**
 8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
 9. ~~**TESTING-CHECKLIST.md §12 source spot-checks**~~ **DONE for the mechanical half,
    25 August 2026.** `tools/spot_check.py` asserts that every claim quoting a phrase of

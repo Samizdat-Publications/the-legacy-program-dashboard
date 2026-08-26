@@ -37,6 +37,7 @@
  */
 const { chromium } = require('/opt/node22/lib/node_modules/playwright');
 const fs = require('fs');
+const zlib = require('zlib');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
@@ -632,6 +633,170 @@ async function probe(page, opts = {}) {
   }, opts);
 }
 
+/* ---- the image tile -------------------------------------------------------
+ *
+ * data/l0-images.json is deliberately empty, so the real page draws 110 class
+ * letters and there is no image anywhere to read pixels off. That is exactly the
+ * condition under which a render branch rots: it ships, nothing exercises it, and
+ * the first person to populate the register finds out whether it works.
+ *
+ * So the fixtures are injected. Two 16x16 PNGs in colours that appear nowhere in
+ * the palette, assigned to two real map nodes, and the pixels read back:
+ *
+ *   the tile replaces the letter   the slot carries the fixture colour, and did
+ *                                  not before injection
+ *   a MARK is not cropped          this is the load-bearing one. A portrait may be
+ *                                  cropped to a circle; an institutional seal may
+ *                                  not, because a cropped seal is a different mark
+ *                                  and several carry statutory restrictions on
+ *                                  alteration stricter than copyright. Read the
+ *                                  slot's CORNERS: square for a mark, empty for a
+ *                                  portrait. Nothing else distinguishes them.
+ *   a dead URL falls back          not a broken-image box. The class letter is a
+ *                                  supported state; a grey box is not.
+ *
+ * Fixtures are marked as fixtures and are not sourcing claims: they are generated
+ * bytes, not a photograph of anyone, and they never reach the register. */
+function pngFixture(r, g, b) {
+  const W = 16, H = 16;
+  const raw = Buffer.alloc(H * (1 + W * 3));
+  for (let y = 0; y < H; y++) {
+    const row = y * (1 + W * 3);
+    raw[row] = 0;
+    for (let x = 0; x < W; x++) {
+      raw[row + 1 + x * 3] = r; raw[row + 2 + x * 3] = g; raw[row + 3 + x * 3] = b;
+    }
+  }
+  const chunk = (type, data) => {
+    const len = Buffer.alloc(4); len.writeUInt32BE(data.length);
+    const body = Buffer.concat([Buffer.from(type, 'ascii'), data]);
+    const crc = Buffer.alloc(4); crc.writeUInt32BE(zlib.crc32
+      ? zlib.crc32(body) >>> 0 : crc32(body) >>> 0);
+    return Buffer.concat([len, body, crc]);
+  };
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(W, 0); ihdr.writeUInt32BE(H, 4);
+  ihdr[8] = 8; ihdr[9] = 2; ihdr[10] = 0; ihdr[11] = 0; ihdr[12] = 0;
+  const png = Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    chunk('IHDR', ihdr),
+    chunk('IDAT', zlib.deflateSync(raw)),
+    chunk('IEND', Buffer.alloc(0)),
+  ]);
+  return 'data:image/png;base64,' + png.toString('base64');
+}
+let _crcTable = null;
+function crc32(buf) {
+  if (!_crcTable) {
+    _crcTable = new Int32Array(256);
+    for (let n = 0; n < 256; n++) {
+      let c = n;
+      for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+      _crcTable[n] = c;
+    }
+  }
+  let c = -1;
+  for (let i = 0; i < buf.length; i++) c = _crcTable[(c ^ buf[i]) & 0xff] ^ (c >>> 8);
+  return (c ^ -1) >>> 0;
+}
+
+async function probeImages(page, fixtures, opts) {
+  return await page.evaluate(async (F) => {
+    const B = window.__board, D = B.L0DATA, MAP = B.MAP, PK = D.packed || {};
+    const cvs = document.querySelector('.l0wrap canvas');
+    if (!cvs || !MAP) return { ok: false, why: 'no canvas' };
+    const ctx = cvs.getContext('2d');
+    const dpr = cvs.width / cvs.getBoundingClientRect().width;
+    const px = (x, y) => ctx.getImageData(Math.round(x * dpr), Math.round(y * dpr), 1, 1).data;
+    const near = (p, hex, tol) => {
+      const r = parseInt(hex.slice(1, 3), 16), g = parseInt(hex.slice(3, 5), 16),
+            b = parseInt(hex.slice(5, 7), 16);
+      return Math.abs(p[0]-r) + Math.abs(p[1]-g) + Math.abs(p[2]-b) <= (tol || 40);
+    };
+    const geo = PK.geo || { gutter: 148, headRow: 76 };
+    const settle = () => new Promise(r =>
+      requestAnimationFrame(() => requestAnimationFrame(r)));
+    const wait = ms => new Promise(r => setTimeout(r, ms));
+
+    const v = MAP.view;
+    const k0 = v.k, ox0 = v.ox, oy0 = v.oy;
+    const node = D.l0[0];
+    const saved = { photo: node.photo, kind: node.photoKind, cl: node.photoClearance };
+
+    /* Park the chip at a known screen position, blown up so the 11px slot is 22px
+       and its corners are addressable. The whole point is to read the SHAPE of the
+       drawn tile, and at the opening scale the slot is five pixels wide. */
+    const K = 2, SX = geo.gutter + 30, SY = geo.headRow + 30;
+    const place = () => { v.k = K; v.ox = SX - node.x*K; v.oy = SY - node.y*K; };
+    const slot = () => {
+      const size = 11*K, h = node.h*K;
+      return { x: SX + 7*K, y: SY + (h - size)/2, size };
+    };
+
+    const read = async () => {
+      place(); MAP.repaint(); await settle();
+      await wait(450);                 /* the image loads and repaints itself */
+      place(); MAP.repaint(); await settle();
+      const s = slot();
+      /* A signature of the whole slot, not two samples. The glyph is thin type and
+         a single pixel through it is luck; what the fallback claim actually needs
+         is that the slot comes back to EXACTLY the state it was in with no image
+         at all, which a byte sum states and a sampled pixel does not. */
+      const d = ctx.getImageData(Math.round(s.x*dpr), Math.round(s.y*dpr),
+                                 Math.round(s.size*dpr), Math.round(s.size*dpr)).data;
+      let sig = 0, ink = 0;
+      for (let i = 0; i < d.length; i += 4){
+        sig = (sig + d[i]*7 + d[i+1]*13 + d[i+2]*17) % 2147483647;
+        if (!near([d[i], d[i+1], d[i+2]], '#12171d', 18)) ink++;
+      }
+      return {
+        centre: [...px(s.x + s.size/2, s.y + s.size/2)],
+        corner: [...px(s.x + 2, s.y + 2)],
+        sig, ink,
+      };
+    };
+
+    const out = { ok: true, id: node.id };
+    /* before: the class letter, no image anywhere near the slot */
+    node.photo = null; node.photoKind = null; node.photoClearance = null;
+    let r = await read();
+    out.beforeCentreIsFixture = near(r.centre, F.portraitHex) || near(r.centre, F.markHex);
+    const glyphSig = r.sig, glyphInk = r.ink;
+    out.glyphInk = glyphInk;
+
+    node.photo = F.portrait;
+    node.photoKind = F.swapKinds ? 'mark' : 'portrait';
+    node.photoClearance = 'clears';
+    r = await read();
+    out.portraitCentre = near(r.centre, F.portraitHex);
+    out.portraitCorner = near(r.corner, F.portraitHex);
+
+    node.photo = F.mark;
+    node.photoKind = F.swapKinds ? 'portrait' : 'mark';
+    node.photoClearance = 'clears';
+    r = await read();
+    out.markCentre = near(r.centre, F.markHex);
+    out.markCorner = near(r.corner, F.markHex);
+
+    /* A URL that cannot resolve. The class letter is a supported state; a broken
+       image box is not, and neither is an empty slot. */
+    node.photo = F.deadUrl || 'https://127.0.0.1:9/there-is-no-such-image.png';
+    node.photoKind = 'portrait'; node.photoClearance = 'clears';
+    r = await read();
+    out.deadUrlDrawsNoTile = !near(r.centre, F.portraitHex) && !near(r.centre, F.markHex);
+    /* Identical to the no-image state, pixel for pixel, and carrying the letter's
+       ink rather than an empty box. */
+    out.deadUrlSigMatchesGlyph = r.sig === glyphSig;
+    out.deadUrlInk = r.ink;
+    out.deadUrlKeepsGlyph = r.sig === glyphSig && glyphInk > 0 && r.ink === glyphInk;
+
+    node.photo = saved.photo; node.photoKind = saved.kind; node.photoClearance = saved.cl;
+    v.k = k0; v.ox = ox0; v.oy = oy0;
+    MAP.repaint(); await settle();
+    return out;
+  }, { ...fixtures, ...(opts || {}) });
+}
+
 (async () => {
   const layout = JSON.parse(fs.readFileSync(
     path.join(ROOT, 'data', 'l0-layout-model.json'), 'utf8'));
@@ -677,6 +842,35 @@ async function probe(page, opts = {}) {
          hard.slice(0, 2).join(' | '));
   for (const c of CHECKS) record(c.test(p), c.label, c.detail(p));
 
+  /* The image tile, against injected fixtures -- see probeImages. */
+  const FIX = { portrait: pngFixture(0xff, 0x00, 0xff), portraitHex: '#ff00ff',
+                mark:     pngFixture(0x00, 0xff, 0x00), markHex:     '#00ff00' };
+  const im = await probeImages(page, FIX);
+  const imgChecks = i => [
+    { id: 'img-letter-is-default',
+      label: 'the class letter is what draws when no image clears',
+      pass: i.ok && i.beforeCentreIsFixture === false,
+      detail: 'slot carries no fixture colour before injection' },
+    { id: 'img-tile-replaces-letter',
+      label: 'a cleared image replaces the class letter in the chip slot',
+      pass: i.ok && i.portraitCentre === true,
+      detail: `centre carries the fixture (${i.portraitCentre})` },
+    { id: 'img-portrait-cropped',
+      label: 'a portrait is cropped to a circle',
+      pass: i.ok && i.portraitCentre === true && i.portraitCorner === false,
+      detail: `centre=${i.portraitCentre} corner=${i.portraitCorner} (corner must be empty)` },
+    { id: 'img-mark-not-cropped',
+      label: 'a mark is never cropped to a circle',
+      pass: i.ok && i.markCentre === true && i.markCorner === true,
+      detail: `centre=${i.markCentre} corner=${i.markCorner} (corner must carry the mark)` },
+    { id: 'img-dead-url-falls-back',
+      label: 'an image that will not load falls back to the class letter',
+      pass: i.ok && i.deadUrlDrawsNoTile === true && i.deadUrlKeepsGlyph === true,
+      detail: `slot is byte-identical to the no-image state (${i.deadUrlSigMatchesGlyph}),`
+            + ` carrying the letter's ${i.glyphInk} inked px, not an empty box` },
+  ];
+  for (const c of imgChecks(im)) record(c.pass, c.label, c.detail);
+
   console.log(lines.join('\n'));
 
   if (SELFTEST) {
@@ -714,6 +908,33 @@ async function probe(page, opts = {}) {
       + ` :: clearance became ${collided.headClear}px`);
     if (!caught) bad++;
 
+    /* The image tile, poisoned ON THE PAGE. Hand each fixture the OTHER treatment
+       -- the portrait drawn by the mark path and the mark by the portrait path --
+       and require the two shape checks to collapse. Nothing else in the render
+       distinguishes them, so a check that survives this is not reading the shape,
+       and the shape is the whole licensing claim: a seal cropped to a circle is a
+       different mark. */
+    console.log('\n--- self-test: the image tile with the two treatments swapped ---');
+    const swapped = await probeImages(page, FIX, { swapKinds: true });
+    for (const id of ['img-portrait-cropped', 'img-mark-not-cropped']) {
+      const c = imgChecks(swapped).find(x => x.id === id);
+      console.log(`${c.pass ? 'BROKEN' : 'ok    '}  ${id} rejects the swapped treatment`
+        + ` :: ${c.detail}`);
+      if (c.pass) bad++;
+    }
+    /* And a "dead" URL that in fact resolves. The fallback claim is that the slot
+       returns to exactly its no-image state; an image that loads must break that. */
+    console.log('\n--- self-test: the fallback against a URL that does resolve ---');
+    const alive = await probeImages(page, FIX, { deadUrl: FIX.portrait });
+    const fb = imgChecks(alive).find(x => x.id === 'img-dead-url-falls-back');
+    console.log(`${fb.pass ? 'BROKEN' : 'ok    '}  img-dead-url-falls-back rejects a live URL`
+      + ` :: ${fb.detail}`);
+    if (fb.pass) bad++;
+    /* img-letter-is-default and img-tile-replaces-letter are each other's poison:
+       the first asserts the slot carries no fixture colour BEFORE injection and the
+       second that it does after, both read from the same run on the same chip. If
+       the probe were not reading the slot, one of the two would have to fail. */
+
     if (bad) { console.error(`\n${bad} check(s) accept input they must reject`); process.exit(1); }
     console.log('all checks reject their poison');
   }
@@ -723,5 +944,5 @@ async function probe(page, opts = {}) {
     console.error(`\n${fails.length} FAILED: ${fails.join(' | ')}`);
     process.exit(1);
   }
-  console.log(`\nPACKED LAYOUT CHECK PASSED — ${CHECKS.length + 1} assertions`);
+  console.log(`\nPACKED LAYOUT CHECK PASSED — ${lines.length} assertions`);
 })().catch(e => { console.error(e); process.exit(1); });

@@ -877,6 +877,18 @@ LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
 REJECTS = os.path.join(ROOT, "tools", "REJECTS.json")
 _LAYOUT_OVERRIDE = None
 _REJECTS_OVERRIDE = None
+IMAGES = os.path.join(ROOT, "data", "l0-images.json")
+_IMAGES_OVERRIDE = None
+
+
+def _images():
+    """The image register, or the poisoned stand-in during --self-test."""
+    if _IMAGES_OVERRIDE is not None:
+        return _IMAGES_OVERRIDE
+    if not os.path.exists(IMAGES):
+        return None
+    with open(IMAGES, encoding="utf-8") as fh:
+        return json.load(fh)
 
 
 def _layout():
@@ -894,6 +906,69 @@ def _datasets(m):
     96-node snapshot, kept so the editorial layer cannot be silently trimmed to the
     intersection of the two."""
     return [(k, m[k]) for k in ("current", "legacy") if isinstance(m.get(k), dict)]
+
+
+@check("nothing in the image register fails silently")
+def _image_register(b, html):
+    """`data/l0-images.json` is empty on purpose -- a record there asserts that a
+    specific image exists at a specific URL under a specific licence, which is a
+    sourcing claim like any other. But the register is PLUMBED, and the failure mode
+    of a plumbed-and-empty channel is that the first person to fill it gets no
+    feedback: `build_l0_layout.mjs` draws an image only when a record clears, and a
+    record that is malformed simply does not clear. The node falls back to its class
+    letter, which is a supported state and looks identical to never having tried.
+
+    So a record that was MEANT to ship an image and does not must fail here rather
+    than disappear into a legitimate-looking fallback. Every rule below is a way of
+    intending to publish an image and silently not doing it -- except the credit
+    rule, which is the other direction: attribution is the condition most of these
+    licences are granted on, and an image that ships without it is a licensing
+    problem rather than a rendering one.
+
+    `no` and `none` records are welcome and assert nothing: recording that an image
+    was found and does NOT clear is research, and deleting it means the next pass
+    re-does the work."""
+    reg = _images()
+    if reg is None:
+        return ["data/l0-images.json is missing -- the register is plumbed and must exist"]
+    imgs = reg.get("images")
+    if not isinstance(imgs, dict):
+        return ["data/l0-images.json has no `images` object"]
+    m = _layout()
+    ids = set()
+    if isinstance(m, dict):
+        for _, ds in _datasets(m):
+            for n in (ds.get("nodes") or []):
+                if n.get("id"):
+                    ids.add(n["id"])
+    bad = []
+    OKC = ("clears", "ask", "no", "none")
+    for nid, r in sorted(imgs.items()):
+        if not isinstance(r, dict):
+            bad.append(f"{nid}: record is not an object")
+            continue
+        cl = r.get("clearance")
+        if cl not in OKC:
+            bad.append(f"{nid}: clearance {cl!r} is not one of {OKC} -- "
+                       f"an unrecognised value never draws, and never says so")
+            continue
+        if ids and nid not in ids:
+            bad.append(f"{nid}: not a node on the map, so this record can never draw")
+        if cl in ("clears", "ask"):
+            if not (r.get("photo") or "").strip():
+                bad.append(f"{nid}: clearance {cl!r} with no `photo` -- "
+                           f"claims to ship an image and has none")
+            if not (r.get("photoCredit") or "").strip():
+                bad.append(f"{nid}: clearance {cl!r} with no `photoCredit` -- "
+                           f"attribution is the condition the licence is granted on")
+        if cl == "ask" and not (r.get("note") or "").strip():
+            bad.append(f"{nid}: clearance 'ask' with no `note` -- ask ships WITH its "
+                       f"reason, or the doubt is resolved silently in its own favour")
+        pk = r.get("photoKind")
+        if pk is not None and pk not in ("portrait", "mark"):
+            bad.append(f"{nid}: photoKind {pk!r} is neither 'portrait' nor 'mark' -- "
+                       f"the renderer crops a portrait and must not crop a mark")
+    return bad[:40]
 
 
 @check("L0 degree is distinct neighbours, not edge instances")
@@ -1745,6 +1820,25 @@ def self_test():
             [{"kind": "entity", "id": "usc-10-119", "why": "bad cls 'statute'"}],
     }
 
+    # The register is empty, so the check passes on an empty dict and the poison has
+    # to be a record. Four ways to intend an image and silently not publish one, plus
+    # the credit rule, which is a licensing failure rather than a rendering one.
+    poison_images = {
+        "nothing in the image register fails silently": {"images": {
+            # clears, and nothing to draw
+            "a-b": {"clearance": "clears", "photo": "", "photoCredit": "x"},
+            # ask, with the reason dropped
+            "e0": {"clearance": "ask", "photo": "p.jpg", "photoCredit": "x"},
+            # a seal that the renderer would be free to crop to a circle
+            "e1": {"clearance": "clears", "photo": "p.jpg", "photoCredit": "x",
+                   "photoKind": "logo"},
+            # published with no attribution
+            "e2": {"clearance": "clears", "photo": "p.jpg"},
+            # a clearance word the renderer has never heard of
+            "e3": {"clearance": "probably fine", "photo": "p.jpg", "photoCredit": "x"},
+        }},
+    }
+
     poison_layout = {} if _real is None else {
         # a model baked from the extract's `deg` field, which counts edge INSTANCES
         "L0 degree is distinct neighbours, not edge instances":
@@ -1818,6 +1912,14 @@ def self_test():
                 _REJECTS_OVERRIDE = []
             clean = fn(base, good_html)
             _REJECTS_OVERRIDE = None
+        elif name in poison_images:
+            global _IMAGES_OVERRIDE
+            _IMAGES_OVERRIDE = poison_images[name]
+            try:
+                caught = fn(base, good_html)
+            finally:
+                _IMAGES_OVERRIDE = None
+            clean = fn(base, good_html)
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE
             lb = _real_board if _real_board is not None else base

@@ -241,6 +241,19 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
   border-left:2px solid #5ed4e6;font:400 11px/1.65 'IBM Plex Mono',monospace;
   color:#dfe4ea}
 .edoss .roles{display:flex;flex-wrap:wrap;gap:4px;margin:0 0 10px}
+/* The image block. A portrait crops to a circle; a MARK does not -- it is
+   contain-fitted in a square with a hairline, because an institutional seal
+   cropped to a circle is a different mark and several carry statutory
+   restrictions on alteration stricter than copyright. Same rule as the chip. */
+.edoss .edossimg{margin:0 0 12px;display:flex;align-items:flex-start;gap:10px}
+.edoss .edossimg img{width:72px;height:72px;flex:0 0 72px;object-fit:cover;
+  border-radius:50%;border:1px solid #333c47;background:#141920}
+.edoss .edossimg.mark img{object-fit:contain;border-radius:2px;padding:4px}
+.edoss .edossimg figcaption{font:400 9px/1.55 'IBM Plex Mono',monospace;
+  color:#8d97a4;letter-spacing:.04em;padding-top:2px}
+.edoss .edossimg .ask{margin-top:6px;padding:6px 8px;border:1px solid #4a3c1c;
+  background:#1a1710;font:400 9.5px/1.6 'IBM Plex Mono',monospace;color:#c9b880}
+.edoss .edossimg .ask .eyebrow{color:#efb555}
 .edoss .role{padding:2px 6px;border:1px solid #333c47;color:#8d97a4;
   font:500 8.5px/1.5 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase}
 .edoss .narr{font:400 11.5px/1.75 'IBM Plex Mono',monospace;color:#b9c2cd;
@@ -764,6 +777,19 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
   border-left:2px solid #5ed4e6;font:400 11px/1.65 'IBM Plex Mono',monospace;
   color:#dfe4ea}
 .edoss .roles{display:flex;flex-wrap:wrap;gap:4px;margin:0 0 10px}
+/* The image block. A portrait crops to a circle; a MARK does not -- it is
+   contain-fitted in a square with a hairline, because an institutional seal
+   cropped to a circle is a different mark and several carry statutory
+   restrictions on alteration stricter than copyright. Same rule as the chip. */
+.edoss .edossimg{margin:0 0 12px;display:flex;align-items:flex-start;gap:10px}
+.edoss .edossimg img{width:72px;height:72px;flex:0 0 72px;object-fit:cover;
+  border-radius:50%;border:1px solid #333c47;background:#141920}
+.edoss .edossimg.mark img{object-fit:contain;border-radius:2px;padding:4px}
+.edoss .edossimg figcaption{font:400 9px/1.55 'IBM Plex Mono',monospace;
+  color:#8d97a4;letter-spacing:.04em;padding-top:2px}
+.edoss .edossimg .ask{margin-top:6px;padding:6px 8px;border:1px solid #4a3c1c;
+  background:#1a1710;font:400 9.5px/1.6 'IBM Plex Mono',monospace;color:#c9b880}
+.edoss .edossimg .ask .eyebrow{color:#efb555}
 .edoss .role{padding:2px 6px;border:1px solid #333c47;color:#8d97a4;
   font:500 8.5px/1.5 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase}
 .edoss .narr{font:400 11.5px/1.75 'IBM Plex Mono',monospace;color:#b9c2cd;
@@ -119809,6 +119835,71 @@ function l0Breath(ms){
   return 1 - (p - 0.40) / 0.24;
 }
 
+/* ---- the image tile ------------------------------------------------------
+
+   The chip's third slot is [rule][image|glyph][label][rank][mark]. Until now it
+   always drew the class letter, because data/l0-images.json is deliberately empty
+   -- a record there asserts that a specific image exists at a specific URL under a
+   specific licence, which is a sourcing claim like any other and needs a research
+   pass, not a plausible guess.
+
+   The RENDER half does not need the data to exist, and leaving it unbuilt meant the
+   sourcing pass would have landed on an untested branch. It is built and tested
+   here against injected fixtures; the register stays empty until someone verifies
+   real images.
+
+   Three things the layout stage has already decided by the time we get here, and
+   which this must not re-decide:
+     - only `clears` and `ask` reach the model at all. An image that does not clear
+       is not drawn, exactly as an unsourced claim is not printed.
+     - `photoKind` is load-bearing. A portrait may be cropped to a circle. A MARK
+       MAY NOT -- an institutional seal cropped to a circle is a different mark, and
+       several of them carry statutory restrictions on alteration that are stricter
+       than copyright. Marks are contain-fitted inside the slot, never cover-cropped.
+     - `ask` ships WITH its reason. The reason is prose and belongs in the dossier;
+       what the chip can carry is an amber ring, so the doubt is visible at a glance
+       rather than only to a reader who opens the panel. */
+const L0IMG = new Map();          /* url -> HTMLImageElement | 'failed' */
+function l0Img(url, onLoad){
+  if (!url) return null;
+  const hit = L0IMG.get(url);
+  if (hit) return hit === 'failed' ? null : (hit.complete && hit.naturalWidth ? hit : null);
+  const im = new Image();
+  im.decoding = 'async';
+  /* A load failure is permanent and silent: the chip falls back to the class
+     letter, which is a supported state and says what the node IS. A broken-image
+     box would be worse than the letter it replaced. */
+  im.onerror = () => { L0IMG.set(url, 'failed'); };
+  im.onload  = () => { if (onLoad) onLoad(); };
+  L0IMG.set(url, im);
+  im.src = url;
+  return null;
+}
+function l0DrawTile(ctx, im, n, x, y, size){
+  const r = size/2, cx = x + r, cy = y + r;
+  ctx.save();
+  if (n.photoKind === 'mark'){
+    /* contain: the whole mark, undistorted, inside the slot. No clip. */
+    const sc = Math.min(size/im.naturalWidth, size/im.naturalHeight);
+    const dw = im.naturalWidth*sc, dh = im.naturalHeight*sc;
+    ctx.drawImage(im, cx-dw/2, cy-dh/2, dw, dh);
+  } else {
+    /* cover, circular: a portrait may be cropped. */
+    ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI*2); ctx.clip();
+    const sc = Math.max(size/im.naturalWidth, size/im.naturalHeight);
+    const dw = im.naturalWidth*sc, dh = im.naturalHeight*sc;
+    ctx.drawImage(im, cx-dw/2, cy-dh/2, dw, dh);
+  }
+  ctx.restore();
+  if (n.photoClearance === 'ask'){
+    ctx.strokeStyle = L0_PACK.pointer; ctx.lineWidth = 1;
+    ctx.beginPath();
+    if (n.photoKind === 'mark') ctx.rect(x+0.5, y+0.5, size-1, size-1);
+    else ctx.arc(cx, cy, r-0.5, 0, Math.PI*2);
+    ctx.stroke();
+  }
+}
+
 function mountL0(host){
   const D = L0DATA, byId = {};
   for (const n of D.l0) byId[n.id] = n;
@@ -119982,10 +120073,15 @@ function mountL0(host){
       /* The class letter. An image will take this slot when data/l0-images.json is
          populated; the letter is the fallback and says what the node IS rather than
          implying a face nobody found. */
-      ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
-      ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
-      ctx.fillStyle = on ? L0_PACK.ink2 : L0_PACK.glyph;
-      ctx.fillText(L0_GLYPH[n.cls] || '\u00b7', lx + glyphW/2, y + h/2 + 0.5);
+      const tile = n.photo ? l0Img(n.photo, () => { if (!dead) paintMap(); }) : null;
+      if (tile){
+        l0DrawTile(ctx, tile, n, lx, y + (h-glyphW)/2, glyphW);
+      } else {
+        ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+        ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+        ctx.fillStyle = on ? L0_PACK.ink2 : L0_PACK.glyph;
+        ctx.fillText(L0_GLYPH[n.cls] || '\u00b7', lx + glyphW/2, y + h/2 + 0.5);
+      }
 
       ctx.font = "400 " + (9.5*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
       ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
@@ -120863,6 +120959,22 @@ function renderEntityDossier(id){
   if (!d) return '<div class="edoss">' + renderAuthority(id) + renderConnections(id) + '</div>';
   const T = t => '<span class="t t'+t+'">TIER '+t+'</span>';
   let h = '<div class="edoss">' + renderAuthority(id);
+  /* The image, and everything the reader is owed about it. Credit is not optional
+     decoration -- it is the attribution the licence is conditional on. And an `ask`
+     image ships with the specific reason it is ambiguous, printed here rather than
+     dropped, so the doubt travels with the picture instead of being resolved
+     silently in its favour. The chip carries an amber ring for the same state; this
+     is where the sentence lives. */
+  if (n && n.photo){
+    h += '<figure class="edossimg' + (n.photoKind === 'mark' ? ' mark' : '') + '">'
+       + '<img src="' + esc(n.photo) + '" alt="' + esc(n.label || id) + '">'
+       + (n.photoCredit ? '<figcaption>' + esc(n.photoCredit) + '</figcaption>' : '')
+       + (n.photoClearance === 'ask'
+            ? '<div class="ask"><span class="eyebrow">CLEARANCE: ASK</span><br>'
+              + esc(n.photoNote || 'clearance ambiguous') + '</div>'
+            : '')
+       + '</figure>';
+  }
   if (d.whatItIs) h += '<div class="narr">'+esc(d.whatItIs)+'</div>';
   if (d.whyImplicated) h += '<div class="why">'+esc(d.whyImplicated)+'</div>';
   if (d.roles && d.roles.length)

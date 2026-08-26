@@ -1,17 +1,13 @@
 {
-  "_what": "The image register. Keyed by node id. Read by tools/build_l0_layout.mjs, which draws a chip image only when a record CLEARS or is marked ASK, and otherwise falls back to the class letter.",
-
+  "_what": "The image register. Keyed by node id. Read by tools/build_l0_layout.mjs, which puts a record on the model only when it CLEARS or is marked ASK, and otherwise leaves the node to its class letter.",
   "_fallback_order": "Confirmed by Stewart, 24 August: a real photograph first, an institutional logo or mark second, and the class letter when there is nothing. The class letter is not a failure state -- it says what the node IS rather than implying an unknown face.",
-
   "_why_this_is_empty": "Deliberately. The register is plumbed, validated and building; it holds no records because a record here asserts that a specific image exists at a specific URL under a specific licence, and that is a sourcing claim like any other. The one rule that never bends applies to image URLs exactly as it applies to document numbers. Filling this is a research pass with verification, not a guess. Every node currently draws its class letter, which is a supported state.",
-
   "clearanceVocabulary": {
     "clears": "Public domain or an explicit licence that permits this use. Ships.",
     "ask": "Probably fine, but something is unresolved. Ships WITH the reason shown, so the doubt travels with the image instead of being quietly dropped.",
     "no": "Does not clear. Never drawn.",
     "none": "No image found. Never drawn. This is the default for every node."
   },
-
   "recordShape": {
     "photo": "path or URL to the image",
     "photoCredit": "attribution string, shown with the image",
@@ -19,14 +15,13 @@
     "clearance": "one of the four above",
     "note": "required when clearance is ask -- the specific reason it is ambiguous"
   },
-
   "images": {},
-
   "_where_to_look_first": {
     "_caution": "A list of where a clearing image is LIKELY to exist. Nothing here asserts that one does, and no URL appears until it has been opened and checked.",
     "federal_works_public_domain": "Works prepared by US government officers in the course of their duties are not under copyright (17 U.S.C. 105). Official portraits of confirmed DoD and IC officials are the strongest candidates on this board -- but the exemption covers the federal work itself, not a wire-service photograph of the same person, so each one has to be traced to a .gov original rather than to an aggregator.",
     "institutional_marks": "Agency seals and service marks are usually reproducible for identification, but several carry statutory restrictions on use that are stricter than copyright (misuse-of-seal provisions). Treat a seal as ask until the specific restriction has been read.",
     "contractors_and_private_bodies": "Corporate logos are trademarks. Nominative identification is generally defensible, but this board is adversarial toward several of these organisations, so these should default to ask with the reason recorded.",
     "witnesses_and_private_individuals": "Hardest category and the one where getting it wrong matters most. A private person who gave testimony has not thereby licensed their likeness. Default to the class letter unless there is a clear release."
-  }
+  },
+  "_render_half_is_built": "26 August 2026. The renderer no longer waits on this file. mountL0 draws the tile in the chip's glyph slot -- portrait cover-cropped to a circle, mark contain-fitted and never cropped -- and the dossier prints the credit and, for ASK, the specific reason. Five canvas assertions in tools/test_packed_layout.js exercise all of it against injected fixtures, including the two treatments swapped, because a render branch nothing exercises is where the first real record would have found out whether it worked. tools/verify.py asserts this file's records are well-formed: the failure mode of a plumbed-and-empty channel is that a malformed record simply does not clear, the node falls back to its letter, and that looks exactly like never having tried."
 }
