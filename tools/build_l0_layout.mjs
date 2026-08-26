@@ -161,11 +161,25 @@ export function buildDates(docs) {
    what the source could not supply; the comp reads it to say so out loud. */
 
 export function normaliseCurrent(dx) {
-  const nodes = dx.l0.map(n => ({
+  const nodes = dx.l0.map(n => {
+    const ys = yearOf(n.dateStart), ye = yearOf(n.dateEnd);
+    return ({
     id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
     cluster: n.cluster, tier: n.tier, deg: n.deg, claims: n.claims, t1: n.t1,
-    roles: n.roles || [], y0: yearOf(n.dateStart), span: 0,
-    era: eraIndex(yearOf(n.dateStart)),
+    roles: n.roles || [],
+    y0: ys,
+    /* span was the literal 0. Not "no node has an extent" -- the LITERAL ZERO,
+       while normaliseLegacy two hundred lines down computed the same field
+       properly from the same pair of years. dateEnd reaches this projection fine
+       (46 of 110 arrive, as y1); it was the subtraction that never happened.
+
+       So the backfill queue's row 6 -- "dateEnd ... unlocks: how many nodes could
+       carry an extent at all" -- had an answer the whole time and the pipeline
+       was reporting 0 to it. It is 24: yankee-blue runs 1980-2023, AAWSAP
+       2007-2012, KONA BLUE 2011-2012. A hardcoded zero is indistinguishable from
+       a measured one, which is this repo's own rule about checks applied to
+       data. */
+    era: eraIndex(ys),
     di: n.di || 0, dr: n.dr || 0,
     /* Backfilled into design-extract.json on 24 Aug. Design's baseline nulled
        these because the extract did not carry them at pin time; it does now, so
@@ -174,11 +188,18 @@ export function normaliseCurrent(dx) {
        the class of silent degradation this package is built to prevent. */
     C: n.C != null ? n.C : null, A: n.A != null ? n.A : null,
     D: n.D != null ? n.D : null,
-    y1: yearOf(n.dateEnd),
+    y1: ye,
+    span: (ys != null && ye != null && ye > ys) ? ye - ys : 0,
     memberCount: n.members || 0, mix: n.mix || {},
+    /* The P1 split. build_l0.py computes members.direct and members.routed
+       separately and design-extract.json carries both counts; this projection
+       flattened them into memberCount and dropped the split, so "5 on the map,
+       14 held back" could not be made to sum to the degree. */
+    membersDirect: n.membersDirect != null ? n.membersDirect : null,
+    membersRouted: n.membersRouted != null ? n.membersRouted : null,
     members: Array.isArray(n.direct) ? n.direct : null,
     why: n.whyImplicated || '',
-  }));
+  });});
   /* denialPairs carries the raw, UNSORTED ends of every denial link on the map,
      plus `denier` where the record names who issued it. The generator used to
      record only that the array was non-empty (see figures.denialDir) and never
@@ -755,24 +776,31 @@ export function buildAll(inputs) {
        instructions rather than complaints: each row is a task, and the design
        degrades honestly until it lands rather than guessing. */
     gaps: [
-      ['via[]', 'which members each summarised pair shares',
-        'tools/build_l0.py P3 already builds it as `via` on each summarised edge — emit the id array, not just the count',
-        'a shared-member line can name "Puthoff · Bigelow" instead of printing 2'],
-      ['members[]', 'the off-map neighbours of each L0 node',
-        'the board’s own edges: for each L0 node, its adjacent non-L0 nodes with label, class, connection type and claim tier. build_l0.py has this as members.direct',
-        'the dossier can answer "which people?" — a count and a class mix state the arithmetic but not the names'],
-      ['members direct/routed', 'the P1 split',
-        'build_l0.py computes members.direct and members.routed separately; the extract flattens them into one count',
-        'without the split `members` is a roll-up to depth 3, so "5 on the map, 14 held back" cannot be made to sum to the degree'],
-      ['C / A / D', 'the three scored axes per node',
-        'straight off the board records — every node already carries C, A and D',
-        'band order is the measured mean C, which is what makes the vertical axis mean distance from the material'],
+      /* RETIRED 26 August 2026, after auditing every row against the data rather
+         than against the row. Three were describing gaps that had already been
+         filled -- via[] (109 of 109 shared edges carry the id array), members[]
+         (110 of 110 carry full member records) and C/A/D (110 of 110) -- and the
+         queue went on listing them because nothing ever asked whether a queued
+         field was still missing. A stale backfill row is not harmless: it is a
+         standing instruction to redo finished work, and it made this file and the
+         data disagree, which is the exact drift the row-count check was written
+         for. verify.py now asserts the queue in BOTH directions. */
       ['denial a/b', 'which end of a denial edge issued it',
         'the merged board’s edge records: `a` issued it, `b` is the subject. Aggregating a pair loses it, so carry the pairs for denial edges',
         'motion carries attested direction and nothing else, so without it the particle layer has nothing it may say at rest'],
-      ['dateEnd', 'the end of a node’s span where the record has one',
-        'the same node documents dateStart comes from',
-        'brief question 2 — how many nodes could carry an extent at all'],
+      ['members direct/routed', 'the P1 split, on the MODEL rather than the extract',
+        'design-extract.json already carries membersDirect and membersRouted; normaliseCurrent flattened them into memberCount. Now projected through — this row stays only until a consumer reads them',
+        'without the split `members` is a roll-up to depth 3, so "5 on the map, 14 held back" cannot be made to sum to the degree'],
+      /* REWRITTEN 26 August 2026. The old row said dateEnd was not carried. It
+         is -- 46 of 110 arrive as y1 -- and the thing that was actually broken was
+         `span`, a hardcoded literal 0 in normaliseCurrent while normaliseLegacy
+         computed the same field properly two hundred lines below. So this row's
+         own question, "how many nodes could carry an extent at all", had an
+         answer the whole time and the pipeline was reporting 0 to it. It is 24.
+         What is left here is research, not plumbing. */
+      ['dateEnd coverage', 'an end year for the 64 nodes that have none',
+        'the same node documents dateStart comes from. 46 of 110 carry one today and 24 of those describe a real extent; the rest are open-ended or undated in the record, which for a programme that has never been acknowledged to have ended is itself a finding rather than a hole',
+        'a node with no end year cannot be drawn as a span, so the era column is the only time signal it has'],
       ['photo / photoCredit / photoKind', 'one image per node',
         'the convention is already set on the sibling board: save to assets/photos/<id>.jpg, add `photo` and `photoCredit` to the record, and follow PHOTOS.md’s four-state clearance. This board needs one addition — photoKind: "portrait" for a person, "mark" for an institutional logo, because a logo must not be cropped. Emit as data/l0-images.json keyed by node id; only CLEARS and ASK ship, and ASK carries the reason',
         'the chip glyph slot and the dossier tile are built and waiting — see §H'],

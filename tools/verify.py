@@ -1240,6 +1240,36 @@ def _dz_queue(b, html):
         if key not in blob and alt.replace(" ", "") not in blob.replace(" ", ""):
             bad.append(f"the design reads `{key}` ({why}) and the data does not carry it, "
                        f"but no backfill row names it")
+
+    # ---- and the other direction, which is how three rows went stale ---------
+    # This check asserted only that a MISSING field is queued. It never asked
+    # whether a QUEUED field is still missing, so via[], members[] and C/A/D sat
+    # in the queue for two days after the pipeline started supplying them, and
+    # the check passed the whole time because the rows were present.
+    #
+    # A stale row is not harmless. It is a standing instruction to redo finished
+    # work, and it makes this file and the data disagree -- the same drift class
+    # the row-shape half was written for. So: any row whose field the data now
+    # supplies for EVERY node must be retired.
+    ds = None
+    for _, d in _datasets(m):
+        ds = d
+        break
+    if ds:
+        nodes = ds.get("nodes") or []
+        edges = ds.get("edges") or []
+        shared = [e for e in edges if e.get("kind") == "shared"]
+        supplied = {
+            "via[]": bool(shared) and all(e.get("via") for e in shared),
+            "members[]": bool(nodes) and all(n.get("members") for n in nodes),
+            "c / a / d": bool(nodes) and all(n.get("C") is not None for n in nodes),
+        }
+        for r in rows:
+            name = str(r[0]).strip().lower()
+            if supplied.get(name):
+                bad.append(f"backfill row `{r[0]}` is stale: every node or edge now "
+                           f"carries it. Retire the row -- a queue that lists finished "
+                           f"work is an instruction to do it again")
     return bad
 
 
@@ -1861,9 +1891,15 @@ def self_test():
         "motion is attested, not decorative":
             lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
         # a queue that has stopped naming a field the renderer reads
-        "every field the design reads but the data withholds is in the backfill queue":
+        # Two poisons, one per direction. A field the data withholds and the
+        # queue does not name; and a row naming work the data has already done.
+        "every field the design reads but the data withholds is in the backfill queue": [
             lay(lambda m: m.__setitem__(
                 "gaps", [r for r in m["gaps"] if "denialKind" not in str(r[0])])),
+            lay(lambda m: m["gaps"].append(
+                ["C / A / D", "the three scored axes per node",
+                 "straight off the board records", "band order is the measured mean C"])),
+        ],
         # a research pass that inverts a near-tie on the shipping dataset
         "the rarity order the board implies still matches the pin":
             lay(lambda m: m["current"]["figures"].update(
@@ -1923,11 +1959,27 @@ def self_test():
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE
             lb = _real_board if _real_board is not None else base
-            _LAYOUT_OVERRIDE = poison_layout[name]
-            try:
-                caught = fn(lb, good_html)
-            finally:
-                _LAYOUT_OVERRIDE = None
+            # A check may carry SEVERAL poisons, and every one must be rejected.
+            # One poison per check is only enough when the check asserts one
+            # thing. The backfill-queue check asserts two opposite things -- that
+            # a missing field is queued, and that a queued field is still
+            # missing -- and a single poison would leave whichever half it did
+            # not touch untested. That is how the second half came to be absent
+            # for two days in the first place.
+            ps = poison_layout[name]
+            if not isinstance(ps, list):
+                ps = [ps]
+            caught = []
+            for pz in ps:
+                _LAYOUT_OVERRIDE = pz
+                try:
+                    got = fn(lb, good_html)
+                finally:
+                    _LAYOUT_OVERRIDE = None
+                if not got:
+                    caught = []          # one poison slipped through: the check is dead
+                    break
+                caught = caught + got
             clean = fn(lb, good_html)
         else:
             b = poisons.get(name, base)
