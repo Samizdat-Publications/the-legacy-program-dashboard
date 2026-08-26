@@ -120289,9 +120289,27 @@ function mountL0(host){
     const w = (c.w - 20)*view.k, h = (b.h - 20)*view.k;
     if (x + w < PAD.l || x > W || y + h < PAD.t || y > H) return;
     const flg = opt.flags ? ids.filter(id => FLAG.has(id)).length : 0;
-    ctx.fillStyle   = flg ? 'rgba(239,181,85,0.06)' : L0_PACK.chipFill;
-    ctx.strokeStyle = flg ? L0_PACK.pointer : L0_PACK.chipLine;
-    ctx.lineWidth = 1;
+    /* THE SELECTION SURVIVES CELL MODE. Below the label threshold there are no
+       chips, so a fit used to lose the selected node outright: the reader picks a
+       node, the map re-fits, and the thing they picked is simply not on screen any
+       more. The cell it lives in now says "your node is in here, with N others".
+
+       Design asked for the amber outline and an amber numeral. AMBER IS ALREADY
+       TAKEN in this view -- it is the start-here flag, and a flagged cell already
+       draws exactly that outline and numeral. Reusing it would have made a
+       selected cell and a flagged cell indistinguishable, which is worse than not
+       marking the selection at all: it would put a false start-here pointer on the
+       board, and pointers here are editorial claims.
+       So the selection uses #5ed4e6, which is what selection means everywhere else
+       on this board -- the chip stroke, the crumb count, the lit controls. Same
+       treatment as Design specified, in the colour this board already reserves for
+       it, and it composes with the flag rather than overwriting it. */
+    const selHere = S.sel && ids.indexOf(S.sel) >= 0;
+    ctx.fillStyle   = selHere ? 'rgba(94,212,230,0.08)'
+                    : flg ? 'rgba(239,181,85,0.06)' : L0_PACK.chipFill;
+    ctx.strokeStyle = selHere ? '#5ed4e6'
+                    : flg ? L0_PACK.pointer : L0_PACK.chipLine;
+    ctx.lineWidth = selHere ? 2 : 1;
     ctx.fillRect(x, y, w, h);
     ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
     /* Rendered sizes throughout. The cell bound divides by the font's box ratio
@@ -120300,12 +120318,16 @@ function mountL0(host){
     const ch = h, floor = 9;
     const fs = Math.min((ch - 4)/1.2, Math.max(floor, Math.min(44, ch*0.45)));
     const roomy = fs >= floor*1.6 && fs + floor + 6 <= ch;
-    const sub = roomy && flg ? flg + ' flagged' : '';
+    /* The sub-line names the selection when there is one, and falls back to the
+       flag count. "1 of these is open" is the sentence the reader needs; the flag
+       count is still on the outline colour when the cell is also flagged. */
+    const sub = roomy ? (selHere ? 'selection in here'
+                       : flg ? flg + ' flagged' : '') : '';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     const cy = y + h/2 - (sub ? (floor + 3)/2 : 0);
     ctx.font = "400 " + fs.toFixed(1) + "px 'IBM Plex Mono',monospace";
-    ctx.fillStyle = flg ? L0_PACK.pointer : L0_PACK.bandLabel;
+    ctx.fillStyle = selHere ? '#5ed4e6' : flg ? L0_PACK.pointer : L0_PACK.bandLabel;
     ctx.fillText(String(n), x + w/2, cy);
     if (sub){
       ctx.font = "400 " + floor + "px 'IBM Plex Mono',monospace";
@@ -120389,14 +120411,30 @@ function mountL0(host){
       const y = SY(b.y), h = b.h*view.k;
       if (y > H || y + h < PAD.t) return;
       const ty = Math.max(y, PAD.t);      /* a row scrolled half off still names itself */
+      /* Design's answer to the disclosure-band question Stewart was holding: keep
+         the band, do not merge it and do not pad it, but MAKE THINNESS LEGIBLE.
+         Every band prints its count, and under five it prints amber. "DISCLOSURE ·
+         3 nodes" in amber is an argument -- the board saying the record is thin
+         there. "DISCLOSURE" alone beside a nearly empty row is just a layout that
+         looks broken, which is exactly how it read on screen.
+
+         The count goes on the SECOND line, not appended to the name: Design's own
+         example runs the two together, but "REVERSE-ENGINEERING · 15 nodes" is
+         about 162px of 9px mono and the gutter holds 138. Appending it would have
+         truncated the longest band names to make room for a number.
+
+         And the second line now draws in dense mode too. It used to be suppressed
+         there to save vertical room -- which meant the occupancy view, the one that
+         exists to show the shape of the board, was the one view that would not say
+         a band was nearly empty. */
+      const thin = b.n < 5;
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
-      ctx.fillStyle = L0_PACK.bandLabel;
+      ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandLabel;
       ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
-      if (!dn){
-        ctx.font = "400 9px 'IBM Plex Mono',monospace";
-        ctx.fillStyle = L0_PACK.bandN;
-        ctx.fillText(b.n + ' \u00b7 mean C ' + b.meanC, 10, ty + 25);
-      }
+      ctx.font = "400 9px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandN;
+      ctx.fillText(b.n + (b.n === 1 ? ' node' : ' nodes')
+                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), 10, ty + 25);
     });
     ctx.restore();
   }

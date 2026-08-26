@@ -186,6 +186,26 @@ const CHECKS = [
     poison: p => ({ ...p, denseEdgeToggleInert: false }),
   },
   {
+    id: 'selection-survives-cell-mode',
+    label: 'in cell mode the selected node still says which cell it is in',
+    test: p => p.selCellHit === true && p.selCellStray === 0,
+    detail: p => `${p.selCellId} · marked in its own cell=${p.selCellHit}`
+               + ` · other cells marked=${p.selCellStray} (must be 0)`,
+    poison: p => ({ ...p, selCellHit: false, selCellStray: 3 }),
+  },
+  {
+    id: 'thin-bands-print-amber',
+    label: 'a band under five nodes says so in amber, and a full one does not',
+    test: p => p.thinTotal > 0 && p.thinAmber === p.thinTotal && p.fullAmber === 0,
+    detail: p => `${p.thinAmber}/${p.thinTotal} thin bands amber · `
+               + `${p.fullAmber}/${p.fullTotal} full bands amber (must be 0)`
+               + ` · ${(p.bandsInfo||[]).map(b => b.id + ':' + b.n).join(' ')}`,
+    /* Poison both halves: a thin band that stayed grey, and amber bleeding onto
+       a band that is not thin. One alone would pass on a gutter painted amber
+       from top to bottom. */
+    poison: p => ({ ...p, thinAmber: p.thinTotal - 1, fullAmber: 1 }),
+  },
+  {
     id: 'axis-type-readable-at-every-scale',
     label: 'the gutter labels do not scale away with the world',
     /* Axis chrome is drawn at an authored px size positioned at world x scale.
@@ -632,6 +652,81 @@ async function probe(page, opts = {}) {
       let run = 0;
       if (first >= 0) { let y = first; while (y < Hc && inked(y)) { run++; y++; } }
       out.denseAxisInkRows = run;
+      /* THIN BANDS PRINT AMBER. Design: keep the disclosure band, do not merge or
+         pad it, but make thinness legible -- every band prints its count and under
+         five prints amber, so a nearly empty row reads as an argument about the
+         record rather than as a broken layout.
+         Read it where it is drawn: amber ink in the gutter beside a band with
+         fewer than five nodes, and NO amber beside a band with five or more. The
+         second half is what makes this a check rather than a colour swatch -- an
+         amber gutter everywhere would satisfy the first half alone. */
+      const BB = PK.bands || [];
+      const bandsInfo = BB.map(b => ({ id: b.id, n: b.n }));
+      let thinAmber = 0, thinTotal = 0, fullAmber = 0, fullTotal = 0;
+      /* Rows derived from the MODEL, not read off the band records: in dense mode
+         -- which is where this probe runs, at k = 0.45 -- the renderer recomputes
+         equal-height rows and the y/h on PK.bands are the non-dense ones. Reading
+         them here put every band rectangle in the wrong place, and the check
+         reported 0 of 1 thin bands amber while the amber was plainly on screen.
+         worldH and the band count are both stated by the model, so this stays an
+         independent statement of where a row is rather than the renderer's. */
+      const bandRowH = (PK.worldH - PADT - 10) / (BB.length || 1);
+      for (let bi = 0; bi < BB.length; bi++) {
+        const b = BB[bi];
+        const wy = PADT + bi * bandRowH;
+        const y0 = Math.round(wy * v.k + v.oy),
+              y1 = Math.round((wy + bandRowH) * v.k + v.oy);
+        if (y1 < PADT || y0 > Hc) continue;
+        let amber = false;
+        for (let y = Math.max(PADT + 1, y0); y < Math.min(Hc, y1) && !amber; y++)
+          for (let x = 8; x < PADL - 14; x += 2)
+            if (near(px(x, y), AMBER, 100)) { amber = true; break; }
+        if (b.n < 5) { thinTotal++; if (amber) thinAmber++; }
+        else { fullTotal++; if (amber) fullAmber++; }
+      }
+      /* THE SELECTION SURVIVES CELL MODE. Select a node, stay in cell mode, and
+         require cyan ink in the cell that node belongs to AND in no other cell.
+         The second half is the check: cyan somewhere on a grid of 27 occupied
+         cells proves nothing, and "the selection is visible" is a claim about
+         WHICH cell it is in. The target cell is computed from the model's own
+         band/col for the node, never from where the renderer put the ink. */
+      {
+        const pick = (D.l0 || []).find(n => n.band && n.col != null);
+        if (pick) {
+          B.S.sel = pick.id;
+          MAP.repaint();
+          await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+          const CYAN = '#5ed4e6';
+          const bIdx = BB.findIndex(bb => bb.id === pick.band);
+          let inTarget = false, inOthers = 0;
+          for (let bi = 0; bi < BB.length; bi++) {
+            for (const c of (PK.eras || [])) {
+              const wy = PADT + bi * bandRowH;
+              const x0 = Math.round((c.x + 10) * v.k + v.ox);
+              const x1 = Math.round((c.x + c.w - 10) * v.k + v.ox);
+              const yy0 = Math.round((wy + 10) * v.k + v.oy);
+              const yy1 = Math.round((wy + bandRowH - 10) * v.k + v.oy);
+              if (x1 < PADL || x0 > Wc || yy1 < PADT || yy0 > Hc) continue;
+              let cyan = false;
+              for (let y = Math.max(PADT + 1, yy0); y < Math.min(Hc, yy1) && !cyan; y += 2)
+                for (let x = Math.max(PADL + 1, x0); x < Math.min(Wc, x1); x += 2)
+                  if (near(px(x, y), CYAN, 60)) { cyan = true; break; }
+              if (!cyan) continue;
+              if (bi === bIdx && String(c.id) === String(pick.col)) inTarget = true;
+              else inOthers++;
+            }
+          }
+          out.selCellHit = inTarget;
+          out.selCellStray = inOthers;
+          out.selCellId = pick.id + '@' + pick.band + '/' + pick.col;
+          B.S.sel = null;
+          MAP.repaint();
+          await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+        }
+      }
+      out.thinAmber = thinAmber; out.thinTotal = thinTotal;
+      out.fullAmber = fullAmber; out.fullTotal = fullTotal;
+      out.bandsInfo = bandsInfo;
       v.k = k0; v.ox = ox0; v.oy = oy0;
       B.MAP.repaint();
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
