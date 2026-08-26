@@ -132,6 +132,61 @@ const check = (c, label, detail = '') => {
     await page.screenshot({ path: SHOTS + '/network.png' });
   }
 
+  /* ---- THE SEARCH GRAMMAR ---------------------------------------------------
+     Design specified key:value filters and `via:`; the parent board shipped a
+     plain substring match, so `via:bigelow` returned "0 of 956 entities". That is
+     an answer about the board rather than about the query, and the only way to
+     tell the difference is to run one and count.
+
+     Every expectation below is derived INDEPENDENTLY from the layout model on
+     disk, never from the page, so agreeing with the renderer is not enough. */
+  try {
+    const M = JSON.parse(fs.readFileSync(
+      path.join(ROOT, 'data', 'l0-layout-model.json'), 'utf8')).current;
+    const L0 = M.nodes || [];
+    const want = {
+      'band:custody':  L0.filter(n => n.band === 'custody').length,
+      'era:nd':        L0.filter(n => String(n.col) === 'nd').length,
+      'isolated:1':    L0.filter(n => n.isolated).length,
+      'flag:1':        (((M.highlights || {}).flags) || []).length,
+      'role:oversight': L0.filter(n => (n.roles || []).indexOf('oversight') >= 0).length,
+    };
+    /* via: reaches the shared members who are NOT on the map, which is the case
+       Design called out by name. Derive the expected set the same way. */
+    const viaHits = new Set();
+    for (const e of (M.edges || [])) {
+      if (!(e.via || []).some(m => String(m).toLowerCase().indexOf('bigelow') >= 0)) continue;
+      viaHits.add(e.a); viaHits.add(e.b);
+    }
+    want['via:bigelow'] = viaHits.size;
+
+    await page.click('[data-view="SEARCH"]');
+    await page.waitForTimeout(700);
+    for (const q of Object.keys(want)) {
+      const got = await page.evaluate(async x => {
+        window.__board.S.query = x;
+        window.__board.CMD.setView('SEARCH');
+        await new Promise(r => setTimeout(r, 250));
+        return document.querySelectorAll('.res').length;
+      }, q);
+      check(got === want[q], `search grammar: ${q}`, `${got} rows, model says ${want[q]}`);
+    }
+    /* And the no-result state must say what it did NOT search. It used to say
+       only "No entity matches that query", which reads as a fact about the board. */
+    const nores = await page.evaluate(async () => {
+      window.__board.S.query = 'zzzznotathing';
+      window.__board.CMD.setView('SEARCH');
+      await new Promise(r => setTimeout(r, 250));
+      return document.body.innerText;
+    });
+    check(/Searched all \d+ entities/.test(nores) && /connectivity floor/.test(nores),
+          'the no-result state names what it did not search',
+          (nores.match(/Searched all[^\n]*/) || ['(nothing)'])[0].slice(0, 110));
+    await page.evaluate(() => { window.__board.S.query = ''; });
+  } catch (e) {
+    check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
+  }
+
   await browser.close();
   ok.forEach(l => console.log('  ' + l));
   fails.forEach(l => console.log('  ' + l));

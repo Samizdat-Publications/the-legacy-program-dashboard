@@ -1,3 +1,5 @@
+L0_SEARCH_JS = '\n/* ---- the search grammar ---------------------------------------------------\n   Design specified one field, space-separated tokens ANDed, a bare token as free\n   text, and a set of key:value filters. What shipped was the parent board\'s plain\n   substring match, so `via:bigelow` returned "0 of 956 entities" -- read as free\n   text and found nowhere, which is the worst kind of nothing: it looks like an\n   answer about the board rather than about the query.\n\n   `via:` is the one Design called out, because it reaches the shared members who\n   are NOT on the map: `via:bigelow` returns the map nodes joined by Robert Bigelow\n   without him ever being drawn. */\nfunction l0SearchIndex(){\n  const D = window.L0DATA || (window.__board && window.__board.L0DATA) || {};\n  const byId = {};\n  for (const n of (D.l0 || [])) byId[n.id] = n;\n  const flags = new Set(((D.packed || {}).flags) || []);\n  /* via: the summarised edges name the off-map members they route through. */\n  const via = {};\n  for (const e of (D.summarised || [])){\n    for (const m of (e.via || [])){\n      const k = String(m).toLowerCase();\n      (via[k] || (via[k] = new Set())).add(e.a);\n      via[k].add(e.b);\n    }\n  }\n  const viaLabel = {};\n  for (const k of Object.keys(via)){\n    const meta = (D.nodes || {})[k];\n    viaLabel[k] = ((meta && meta.label) || k).toLowerCase();\n  }\n  return { byId, flags, via, viaLabel, l0n: (D.l0 || []).length };\n}\nfunction l0ParseQuery(q){\n  const out = { free: [], f: [] };\n  for (const t of String(q).trim().split(/\s+/)){\n    if (!t) continue;\n    const m = t.match(/^([a-z]+):(.*)$/i);\n    if (m && m[2] !== \'\') out.f.push({ k: m[1].toLowerCase(), v: m[2].toLowerCase() });\n    else out.free.push(t.toLowerCase());\n  }\n  return out;\n}\nfunction l0Search(pool, q){\n  const Q = l0ParseQuery(q);\n  if (!Q.free.length && !Q.f.length) return [];\n  const IX = l0SearchIndex();\n  const NUM = { deg:\'deg\', claims:\'claims\', denials:\'dnu\' };\n  const num = (n, key, v) => {\n    const L = IX.byId[n.id]; if (!L) return false;\n    let got = L[NUM[key]];\n    if (key === \'denials\') got = (L.di||0) + (L.dr||0) + (L.dnu||0);\n    got = Number(got || 0);\n    const m = v.match(/^([<>]=?)?\s*(-?\d+(?:\.\d+)?)$/);\n    if (!m) return false;\n    const want = parseFloat(m[2]);\n    switch (m[1]){\n      case \'>\':  return got >  want;\n      case \'>=\': return got >= want;\n      case \'<\':  return got <  want;\n      case \'<=\': return got <= want;\n      default:   return got === want;\n    }\n  };\n  const has = (s, v) => String(s || \'\').toLowerCase().indexOf(v) >= 0;\n  return pool.filter(n => {\n    const L = IX.byId[n.id];\n    for (const {k, v} of Q.f){\n      switch (k){\n        case \'id\':       if (!has(n.id, v)) return false; break;\n        case \'cls\':      if (!has(n.cls, v)) return false; break;\n        case \'cluster\':  if (!has(n.cluster, v)) return false; break;\n        case \'tier\':     if (!L || !has(L.tier, v)) return false; break;\n        case \'band\':     if (!L || !has(L.band, v)) return false; break;\n        case \'era\':      if (!L || !has(L.col, v)) return false; break;\n        case \'role\':     if (!L || !(L.roles || []).some(r => has(r, v))) return false; break;\n        case \'flag\':     if (!IX.flags.has(n.id)) return false; break;\n        case \'isolated\': if (!L || !L.iso) return false; break;\n        case \'via\': {\n          /* match the MEMBER by id or label, then keep the map nodes they join */\n          let ok = false;\n          for (const key of Object.keys(IX.via)){\n            if (key.indexOf(v) < 0 && (IX.viaLabel[key] || \'\').indexOf(v) < 0) continue;\n            if (IX.via[key].has(n.id)) { ok = true; break; }\n          }\n          if (!ok) return false;\n          break;\n        }\n        case \'deg\': case \'claims\': case \'denials\':\n          if (!num(n, k, v)) return false; break;\n        default:\n          /* an unknown key is not silently ignored: it becomes free text, so a\n             typo narrows the result rather than quietly widening it */\n          if (!has(n.label + \' \' + n.id, k + \':\' + v)) return false;\n      }\n    }\n    if (!Q.free.length) return true;\n    const hay = (n.label + \' \' + n.id + \' \' + (n.cls||\'\') + \' \' + (n.cluster||\'\') + \' \'\n      + (n.sub||\'\') + \' \' + (n.loc||\'\') + \' \' + (n.narrative||\'\') + \' \'\n      + ((L && (L.roles||[]).join(\' \')) || \'\')).toLowerCase();\n    return Q.free.every(t => hay.indexOf(t) >= 0);\n  });\n}\n'
+
 #!/usr/bin/env python3
 """
 l0_patches.py — the L0 program map, as injected JS and CSS.
@@ -1243,6 +1245,10 @@ def merge_packed(model, layout):
         n["w"], n["h"] = L["w"], L["h"]
         n["band"], n["col"] = L["band"], L["col"]
         n["iso"] = bool(L.get("isolated"))
+        # role tags, for the search grammar's `role:` filter. They are the basis
+        # for band assignment, so a reader who can see the band should be able to
+        # ask for the tag behind it.
+        n["roles"] = L.get("roles") or []
 
     # Edge budget. `rest` says which edges draw with nothing selected; `role` says
     # why each one earned the space. Keyed a|b|kind because a pair can carry both a
@@ -1611,6 +1617,33 @@ def apply(s, model, must_replace, layout=None):
         "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){\n"
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
+    # -- THE SEARCH GRAMMAR. Design specified key:value filters and `via:`; the
+    #    parent board shipped a plain substring match, so `via:bigelow` came back
+    #    "0 of 956 entities" -- an answer about the board rather than about the
+    #    query. The no-result state also never said what it had NOT searched.
+    s, o = must_replace(s, "function viewSearch(v){",
+        L0_SEARCH_JS + "function viewSearch(v){",
+        "search grammar helper", 1); ok &= o
+    s, o = must_replace(s,
+        "  const hits = q\n"
+        "    ? pool.filter(n => (n.label+' '+(n.sub||'')+' '+(n.loc||'')+' '+"
+        "(n.narrative||'')).toLowerCase().includes(q))\n"
+        "    : pool.slice(0, 9);",
+        "  const hits = q ? l0Search(pool, S.query.trim()) : pool.slice(0, 9);",
+        "search uses the grammar", 1); ok &= o
+    s, o = must_replace(s,
+        "'<div style=\"font-size:11.5px;color:var(--text-dim);padding:14px 0\">"
+        "No entity matches that query.</div>'",
+        "'<div style=\"font-size:11.5px;color:var(--text-dim);padding:14px 0\">"
+        "No entity matches that query.<br><span style=\"color:var(--text-faint)\">"
+        "Searched all ' + pool.length + ' entities. '"
+        " + ((((window.__board&&window.__board.L0DATA)||{}).l0||[]).length"
+        "     ? 'Filters that name a place on the map \u2014 band: era: flag: isolated: role: '"
+        "     + '\u2014 only reach the ' + (((window.__board&&window.__board.L0DATA)||{}).l0||[]).length"
+        "     + ' nodes above the connectivity floor, not the '"
+        "     + (pool.length - (((window.__board&&window.__board.L0DATA)||{}).l0||[]).length) + ' below it.' : '')"
+        " + '</span></div>'",
+        "no-result state names what it did not search", 1); ok &= o
     return s, ok
 
 
