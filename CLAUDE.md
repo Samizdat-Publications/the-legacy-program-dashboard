@@ -193,14 +193,21 @@ This section applies only to commands written **for Stewart to paste**. He runs
 
 ## 4. Working agreements with Stewart
 
+- **EVERY terminal command he is asked to run must be a complete copy-paste block that starts
+  with its own `cd`.** He does not read terminal commands and should not have to. Never write
+  "from the repo root", never assume the previous block's directory, never hand him a bare
+  command. One block, `cd` first, one command per line, nothing to work out. This has been
+  corrected three times — 26 August 2026 — and each time it was in CHAT rather than in a
+  document, which is why §3's version was not enough on its own.
 - **Clamp responses.** What you did, why, what you need from him. Detail goes in a repo note,
   not in chat.
 - **No em dashes** in prose written for him. Tables are preferred over long lists. Charts get
   data labels.
-- **Adversarial review is opt-in.** When a deliverable is finished, ask *"Do you want to run
-  adversarial review audit?"* and then **wait**. Do not run it unprompted; it burns context.
-  When he says yes, act like his managers — hostile management reading it cold — and
-  actually look at the output rather than reasoning about it.
+- **Adversarial review does NOT apply to this project. Stop offering it here.** It exists for
+  Stewart's employer work products — it recreates handing a deliverable to a reviewer, who looks for
+  certain things, then to JD, who looks for others. This board has no Jess and no JD; its
+  equivalent is the gate, which already runs every time. Offering the audit here reads as not
+  understanding what the audit is for. (Told twice: 26 August 2026.)
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat
   and let him edit by line.
 - **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
