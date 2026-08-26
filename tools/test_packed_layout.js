@@ -364,6 +364,17 @@ async function probe(page, opts = {}) {
        once the frozen chrome narrowed the content rect -- and a check that quietly
        skips the far column is worse than no check, because the far column is
        2017-2026, the densest part of the board. */
+    /* Unit scale for this pass, and say why rather than inherit it.
+       The class rule is 3 * view.k pixels wide and the probe samples 1.5px in from
+       the chip's left edge -- geometry that only lands inside the rule at k = 1.
+       It used to get k = 1 for free, because the map opened at the top-left corner
+       at 1:1 below the label threshold. The map now opens FITTED at every width,
+       so at this viewport it opens near 0.63, the rule is under 2px wide, the
+       sample falls on its antialiased edge and 90 of 110 chips "missed" their own
+       colour. Nothing was wrong with the renderer; the probe was carrying an
+       assumption it had never had to state. */
+    const kProbe = v.k;
+    v.k = 1;
     for (const target of D.l0) {
       if (seen.has(target.id)) continue;
       v.ox = Math.round((PADL + Wc) / 2 - (target.x + target.w / 2) * v.k);
@@ -394,6 +405,7 @@ async function probe(page, opts = {}) {
       }
     }
     out.classUnprobed = D.l0.length - seen.size;
+    v.k = kProbe;                       /* hand the camera back as it was found */
 
     /* The start-here pointer sits in the gap to the LEFT of the chip, between
        9 and 14px out. Amber there and nowhere on the chip is the separation. */
@@ -806,7 +818,20 @@ async function probeImages(page, fixtures, opts) {
     executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
   });
-  const page = await browser.newPage({ viewport: { width: 1600, height: 1000 } });
+  /* 2000x1150, not 1600x1000, and the size is load-bearing.
+     Most of the assertions below read CHIPS -- their coordinates, their class
+     colours, their labels, their flag pointers. Chips only exist above the label
+     threshold. The map now opens FITTED at every width (Design's comp states
+     `zoom: 'fit'`; this build used to fall back to the corner at 1:1), so at
+     1600x1000 it opens at 0.45 in occupancy mode, every chip probe finds nothing,
+     and five checks went red the moment the default changed.
+     They were not wrong about the board. They were measuring a state the board no
+     longer opens in. The fit clears the threshold from about 1977px of window --
+     0.62 * (worldW - gutter) + gutter + 16 = 1436px of map host, and the rail and
+     dock take roughly 541px -- so this is the smallest round size where the
+     opening state is the one these assertions describe. The dense-mode checks set
+     `v.k = 0.45` explicitly and are unaffected. */
+  const page = await browser.newPage({ viewport: { width: 2000, height: 1150 } });
   const errs = [];
   page.on('pageerror', e => errs.push('PAGEERROR: ' + e.message.slice(0, 200)));
 
@@ -900,7 +925,13 @@ async function probeImages(page, fixtures, opts) {
        control row back where it used to sit relative to the labels and require the
        clearance check to collapse. This is the defect itself, reproduced. */
     console.log('\n--- self-test: the head strip against a control row moved onto it ---');
-    await page.addStyleTag({ content: '.l0ctl{top:44px !important}' });
+    /* Targets .l0head, not .l0ctl. The control row used to be its own absolutely
+       positioned box and this poison moved it by setting `top`; it now sits inside
+       the .l0head flex row, so `top` on it does nothing and this poison silently
+       stopped poisoning -- the check went on passing while proving nothing, which
+       is the exact failure this whole file exists to prevent. It was caught by the
+       self-test going BROKEN, which is the self-test doing its job. */
+    await page.addStyleTag({ content: '.l0head{top:44px !important}' });
     await page.waitForTimeout(400);
     const collided = await probe(page, { restDrawnFigure });
     const caught = !CHECKS.find(c => c.id === 'head-row-clear').test(collided);

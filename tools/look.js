@@ -113,7 +113,15 @@ const clickCtl = async (page, label) => {
        branch rather than leaving the reader to infer it from the screenshot. */
     const fit = Math.min((d.mapW - GEO.gutter - 16) / (GEO.worldW - GEO.gutter),
                          (d.mapH - GEO.headRow - 16) / (GEO.worldH - GEO.headRow));
-    const branch = fit >= LABEL_DROP ? 'fitted, labels kept' : 'corner at 1:1, labels only where you pan';
+    /* The map now opens FITTED at every width -- Design's comp states `zoom: 'fit'`
+       as the root state and this build used to fall back to the top-left corner at
+       1:1 below the label threshold. This line described that old branch and kept
+       printing "corner at 1:1" after the behaviour changed, which is a camera
+       reporting something the page is not doing. What still varies is whether the
+       fit clears the label threshold, so say THAT. */
+    const branch = fit >= LABEL_DROP
+      ? 'fitted, labels kept'
+      : 'fitted, below the label threshold so cells print counts';
 
     const tag = `${w}x${h}`;
     const wrap = await page.$('.l0wrap');

@@ -120038,6 +120038,11 @@ function mountL0(host){
      A grid knows its extent: the model states worldW and worldH, and the chip is
      inside it. So the two constants are gone rather than merely unused -- on a grid
      they were wrong, not redundant. */
+  /* Which zoom the reader is in, so FIT and 1:1 can show it. Cleared to null by
+     any manual pan or wheel: once the camera has been moved by hand, neither
+     button describes where you are, and lighting one up would be a claim the
+     board cannot support. */
+  let zoom = 'fit';
   function fitScale(){
     /* Fit the CELLS into the space left after the chrome, not the whole world
        into the whole canvas. Fitting the world would scale the reserved strips
@@ -120651,8 +120656,12 @@ function mountL0(host){
     /* Three options, all on by default, each with a control -- so a reader who
        wants the bare arrangement can get it and, per the "drive the whole app from
        the chat input" requirement, the analyst can operate them too (CMD.l0opt). */
-    z.innerHTML = '<button class="hopb" data-fit="1">OVERVIEW</button>'
-                + '<button class="hopb" data-one="1">1:1 READ</button>'
+    /* FIT / 1:1 as a pair, which is Design's own grouping and its own labels.
+       They were OVERVIEW and 1:1 READ, and OVERVIEW read as a separate mode
+       rather than as the zoom it is -- CLAUDE.md recorded a reader finding "the
+       one control that shows the whole map" hard to identify. */
+    z.innerHTML = '<button class="hopb'+(zoom==='fit'?' on':'')+'" data-fit="1">FIT</button>'
+                + '<button class="hopb'+(zoom==='one'?' on':'')+'" data-one="1">1:1</button>'
                 + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
                 + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
                 + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>'
@@ -120821,6 +120830,7 @@ function mountL0(host){
       const dx = ev.clientX-drag.x, dy = ev.clientY-drag.y;
       if (Math.abs(dx)+Math.abs(dy) > 3) moved = true;
       view.ox = drag.ox+dx; view.oy = drag.oy+dy;
+      if (moved) zoom = null;      /* moved by hand: neither button describes this */
       clampView();
       paintMap(); renderChrome(); renderLedgers();
       return;
@@ -120853,7 +120863,7 @@ function mountL0(host){
     const b = host.getBoundingClientRect(), mx = ev.clientX-b.left, my = ev.clientY-b.top;
     const k2 = Math.max(0.18, Math.min(2.2, view.k * (ev.deltaY < 0 ? 1.12 : 1/1.12)));
     view.ox = mx - (mx-view.ox)*(k2/view.k); view.oy = my - (my-view.oy)*(k2/view.k);
-    view.k = k2; clampView(); repaint();
+    view.k = k2; zoom = null; clampView(); repaint();
   }, { passive:false });
   host.addEventListener('click', ev => {
     const pc = ev.target.closest('[data-path]');
@@ -120864,8 +120874,8 @@ function mountL0(host){
     if (ev.target.closest('[data-clearpath]')) return CMD.clearPath();
     if (ev.target.closest('[data-entry]')) return CMD.showEntry();
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
-    if (ev.target.closest('[data-fit]')){ centreOn(fitScale()); repaint(); return; }
-    if (ev.target.closest('[data-one]')){ cornerOn(1); repaint(); return; }
+    if (ev.target.closest('[data-fit]')){ zoom='fit'; centreOn(fitScale()); repaint(); return; }
+    if (ev.target.closest('[data-one]')){ zoom='one'; cornerOn(1); repaint(); return; }
     if (ev.target.closest('[data-legend]')){
       legendOpen = !legendOpen; renderLegend(); return;
     }
@@ -120898,7 +120908,20 @@ function mountL0(host){
      on a banded grid the first band is where the argument starts. The old code
      centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
      funding band with no column head and no band label in view. */
-  if (fk >= L0_LABEL_DROP) centreOn(fk); else cornerOn(1);
+  /* Open FITTED, at every width. Design's comp states this outright -- its root
+     state is `zoom: 'fit'` -- and this build diverged from it: below the label
+     threshold it gave up on fitting and opened at 1:1 in the top-left corner,
+     which on any screen under about 1944px is three of seven bands.
+
+     That divergence had a reason once. Below the threshold the chips used to draw
+     as 110 anonymous rectangles, so a fitted opening showed the reader an
+     unreadable grid and the corner at least showed real labels. The dense
+     occupancy mode killed that reason -- every cell now prints its count, so the
+     fitted view is the occupancy matrix and states the shape of the board -- and
+     nobody came back to the default. Reported from a real screen as "the map is
+     never able to fit", which is exactly what it was. */
+  centreOn(fk);
+  zoom = 'fit';
   repaint();
   startLoop();
   const ro = new ResizeObserver(() => { measure(); clampView(); repaint(); });
