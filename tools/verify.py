@@ -377,6 +377,79 @@ def _no_parent_editorial(b, html):
             for p in banned if p in html]
 
 
+_M = re.match(r'(x)', 'x')   # a never-None match, so the fallbacks above read
+                              # 'unknown' rather than raising inside a check
+
+@check("the built page fetches nothing at runtime")
+def _no_runtime_fetch(b, html):
+    """CLAUDE.md's first line about this artifact is "single self-contained HTML
+    file, no server, no runtime deps". Until 26 August 2026 that was not true, and
+    the way it was untrue is the exact shape of §8's inherited-surface trap: three
+    <link> tags to fonts.googleapis.com came over verbatim from
+    ref/the-vanishing-v2.html, and the third of them is a stylesheet.
+
+    A stylesheet blocks first paint. So the whole board -- 956 nodes, 4,513 claims,
+    a canvas map -- waited on a Google server before drawing one pixel, and in a
+    network that stalls that request it drew nothing for as long as the stall
+    lasted. Measured in the build container: 12,452ms to first contentful paint with
+    the link present, 132ms with it blocked. Nothing in the source said so and no
+    check could fail; the fonts always arrived eventually, so it looked like the
+    page was simply heavy.
+
+    This screens the RESOURCE-LOADING positions only. The page also carries 2,888
+    citation URLs as data, and every one of them is supposed to be there -- a check
+    that grepped for 'https://' would fire on the entire point of the board. So it
+    parses href/src attributes and CSS url() functions, and asks whether any of them
+    names a host. data:, blob:, # and same-document fragments are all fine."""
+    bad = []
+    # <link href>, <script src>, <img src>, <iframe src>, <use href> ... anything
+    # in an attribute the browser will go and fetch.
+    for m in re.finditer(r"<(link|script|img|iframe|video|audio|source|embed|object|use)\b[^>]*?>",
+                         html, re.I):
+        tag = m.group(0)
+        for am in re.finditer(r'\b(href|src|data|srcset)\s*=\s*"([^"]*)"', tag, re.I):
+            for u in am.group(2).split(","):
+                u = u.strip().split(" ")[0]
+                if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
+                   not u.lower().startswith(("data:", "blob:", "about:")):
+                    bad.append(f"<{m.group(1).lower()}> loads {u[:80]!r}")
+    # CSS url(...) in any <style> block or style= attribute
+    for m in re.finditer(r"url\(\s*['\"]?([^'\")]+)", html, re.I):
+        u = m.group(1).strip()
+        if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
+           not u.lower().startswith(("data:", "blob:", "about:")):
+            bad.append(f"css url() loads {u[:80]!r}")
+    return sorted(set(bad))[:20]
+
+
+@check("the typeface ships with the page, at every weight it draws")
+def _fonts_embedded(b, html):
+    """The map is drawn with ctx.measureText, so the geometry depends on which font
+    resolves. Three weights are declared across the CSS and the canvas -- 400, 500
+    and 600 -- and a missing face does not error, it silently substitutes and every
+    label is fitted against different metrics.
+
+    Two subsets, latin and latin-ext, because the board carries names that need
+    them. Six faces, therefore. This asserts the count and the form: a face served
+    from a URL rather than embedded would satisfy a naive @font-face count while
+    reintroducing exactly the dependency the check above exists to forbid."""
+    faces = re.findall(r"@font-face\{([^}]*)\}", html)
+    plex = [f for f in faces if "IBM Plex Mono" in f]
+    bad = []
+    if len(plex) != 6:
+        bad.append(f"expected 6 embedded IBM Plex Mono faces, found {len(plex)}")
+    weights = sorted({(re.search(r"font-weight:(\d+)", f) or _M).group(1) for f in plex
+                      if re.search(r"font-weight:(\d+)", f)})
+    for w in ("400", "500", "600"):
+        if w not in weights:
+            bad.append(f"no embedded face at weight {w}; the page draws at it")
+    for f in plex:
+        if "url(data:font/woff2;base64," not in f:
+            src = (re.search(r"src:([^;]*)", f) or _M).group(1)[:60]
+            bad.append(f"a face is not embedded: src is {src!r}")
+    return bad
+
+
 @check("the analyst system prompt describes this board")
 def _system_prompt_is_ours(b, html):
     """SYSTEM_PROMPT() is what the model is told it is before it answers anything, and
@@ -1527,7 +1600,19 @@ def self_test():
                     "are C (custody proximity), A (access level) and D (disclosure role), "
                     "and they are never summed.`;\n")
 
-    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK)
+    # Six embedded faces, for the same reason as EXPLAIN_OK and SYSPROMPT_OK: the
+    # typeface check reads them out of the built file, so a fixture without them
+    # false-positives on good input. The base64 here is a placeholder marker, not a
+    # font -- the check asserts the src FORM (embedded, not fetched), which is the
+    # property that matters, and a real woff2 in a test fixture would assert nothing
+    # extra while adding 86KB to this file.
+    FONTS_OK = "<style>" + "".join(
+        "@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:%s;"
+        "font-display:swap;src:url(data:font/woff2;base64,NOT-A-FONT-FIXTURE-ONLY) "
+        "format('woff2');unicode-range:U+%s}" % (w, r)
+        for w in ("400", "500", "600") for r in ("0000-00FF", "0100-02AF")) + "</style>"
+
+    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK + FONTS_OK)
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
@@ -1559,6 +1644,16 @@ def self_test():
                 "axes S, P and I are never summed.`;\n"),
         "no parent-board editorial content ships":
             good_html + " NeuroLogica (Novella) on the matched denominator ",
+        # The exact three tags that shipped for six sessions. Reintroducing them is
+        # the failure this check exists for, so the poison IS the historical bug.
+        "the built page fetches nothing at runtime":
+            '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono'
+            ':wght@400;500;600&display=swap" rel="stylesheet">\n' + good_html,
+        # One weight dropped. The page still renders, still has @font-face rules,
+        # and every 600-weight label is quietly fitted against the wrong metrics --
+        # which is why counting faces is not enough on its own.
+        "the typeface ships with the page, at every weight it draws":
+            re.sub(r"@font-face\{[^}]*font-weight:600[^}]*\}", "", good_html),
         "every edge type has a caption written for this board":
             good_html.replace("    case 'custody':\n      return 'x';\n", "", 1),
         # a node on the map with no argument for why it is there

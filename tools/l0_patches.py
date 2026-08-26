@@ -1083,6 +1083,17 @@ function mountL0(host){
   }
   function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); renderLegend(); startLoop(); }
 
+  /* Chip labels are fitted with ctx.measureText, so the geometry the map draws
+     depends on which font is actually resolved at draw time. The faces are
+     inlined as data: URIs and so resolve without a network round trip, but
+     decode is still asynchronous: a first paint can land against the fallback
+     metrics and then never be corrected, which shows up as labels truncated
+     harder than they need to be. One repaint when the real font is ready costs
+     nothing and closes the window. */
+  if (document.fonts && document.fonts.ready){
+    document.fonts.ready.then(() => { if (!dead) repaint(); });
+  }
+
   /* ---- events --------------------------------------------------------- */
   host.addEventListener('mousedown', ev => {
     if (ev.target !== cvs) return;

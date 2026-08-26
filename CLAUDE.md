@@ -27,6 +27,9 @@ lists finished work as pending).
 
 A research board mapping the alleged legacy UAP recovery and reverse-engineering
 programme, 1944–2026. Single self-contained HTML file, no server, no runtime deps.
+**Self-contained is now literally true and was not before 26 August 2026** — the
+typeface came from `fonts.googleapis.com` on a render-blocking `<link>` inherited from
+the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md`.
 
 | | |
 |---|---|
@@ -41,7 +44,7 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 42 verify checks + 40 audit re-derivations + 26 runtime + 18 canvas assertions, all self-tested |
+| gate | 44 verify checks + 40 audit re-derivations + 26 runtime + 18 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -87,7 +90,7 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
-python3 tools/verify.py                      # 42 checks
+python3 tools/verify.py                      # 44 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
@@ -298,6 +301,13 @@ Fixed on 24 August but listed so you know the pattern:
 **General principle: this board was built by porting a shell from a sibling project. Assume
 every inherited surface is answering about the wrong project until someone has read it.**
 Two were found on 24 August by accident, while looking for something else.
+
+**And the sweep has a blind spot: it only ever looked at prose.** The 25 August pass
+diffed prose string literals and found 177 survivors. It never read `<head>`, where three
+inherited `<link>` tags sat pointing at Google — one of them render-blocking. Anything the
+browser FETCHES is an inherited surface too. `verify.py` now asserts the built page fetches
+nothing at runtime, so that specific hole is closed; the general lesson is that "inherited
+surface" includes markup, not just copy.
 
 ---
 
