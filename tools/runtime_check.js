@@ -316,6 +316,8 @@ const check = (c, label, detail = '') => {
     await page.evaluate(() => {
       const B = window.__board;
       B.CMD.selectNode((B.L0DATA.l0 || [])[3].id);
+      /* A selection is required, not incidental: it is what brings the selection
+         bar onto the surface at all. */
       const d = document.getElementById('dock');
       if (d) {
         const w = Math.max(560, Math.round(innerWidth * 0.5));
@@ -361,13 +363,25 @@ const check = (c, label, detail = '') => {
       return new Promise(r => setTimeout(() => {
         const crumb = document.querySelector('.l0crumb');
         const cr = crumb ? crumb.getBoundingClientRect() : null;
-        const btns = [...document.querySelectorAll('.l0ctl button')];
+        /* EVERY control on the map surface, not just the head row. This started as
+           a check on .l0ctl after the breadcrumb overlapped it. The selection bar
+           then shipped and four of its five buttons hit-tested to the ledger panel
+           sitting on top of them -- a check scoped to one container could not see
+           it, and the same collision has now happened four times in this file in
+           four different places. So the scope is the surface. */
+        const btns = [...document.querySelectorAll(
+          '.l0ctl button, .l0selbar button, .l0legend [data-legend], .l0crumb [data-close]')];
         const hit = (a, b) => a.x < b.x + b.width && b.x < a.x + a.width
                            && a.y < b.y + b.height && b.y < a.y + a.height;
         let overlapped = 0, unreachable = 0;
         for (const el of btns) {
           const r2 = el.getBoundingClientRect();
-          if (cr && hit(cr, r2)) overlapped++;
+          /* The crumb's own controls are inside it and overlap it by definition.
+             Counting them made the widened button set report 1 of 14 overlapping
+             the moment reachability grew past .l0ctl -- a false positive that says
+             nothing about the defect this half guards, which is the crumb running
+             UNDER controls that are not its own. */
+          if (cr && !crumb.contains(el) && hit(cr, r2)) overlapped++;
           /* Across the whole button, not just its centre: the first probe of this
              only sampled the middle and would have passed with the left half
              buried. */

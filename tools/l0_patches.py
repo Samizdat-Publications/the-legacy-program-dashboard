@@ -113,13 +113,53 @@ L0_CSS = """
   writing-mode:vertical-rl;white-space:nowrap;
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#8d97a4}
 #dock.dock-spine:hover::after{color:#5ed4e6}
+/* THE SELECTION BAR. Design §7 puts SHOW ON MAP and CLEAR on a bar "inset by the
+   panel width and above both the dossier and the dim", because in their study the
+   panels OVERLAY a full-width canvas and an un-inset bar would sit under one.
+   Here the panels are grid columns and the map never extends beneath them, so the
+   inset is unnecessary and the bar simply pins to the bottom of the map. Same
+   intent -- the controls for the selected node stay visible while you read its
+   dossier -- without carrying across an offset that would only push it off-centre.
+   It appears only when something is selected: a permanent empty bar would spend
+   map height on nothing. */
+/* ONE BOTTOM COLUMN. The selection bar and the start-here legend were both
+   position:absolute at bottom:12px, and they overlapped: every one of the bar's
+   five buttons hit-tested to the legend instead of to itself. Measured -- SHOW ON
+   MAP, CEDE, PORTHOLE, TETHER and CLEAR, all five dead.
+
+   That is the FOURTH time this file has put two absolutely positioned things on
+   one edge and let arithmetic decide whether they clear each other: `w - 12*k`
+   reserving chip room whether or not a mark was drawn, the crumb's
+   max-width:calc(100% - 24px) running under the control row, geo.headRow as a
+   constant for a row whose width varies, and now this. Stacking them by hand --
+   bumping the legend to bottom:68px -- would have been the fifth, because the bar
+   is 44px only until someone changes it.
+   So they share a flex column and the layout does it. */
+.l0foot{position:absolute;left:12px;right:12px;bottom:12px;z-index:5;display:flex;
+  flex-direction:column;align-items:flex-end;gap:8px;pointer-events:none}
+.l0foot > *{pointer-events:auto}
+.l0selbar{width:100%;box-sizing:border-box;height:44px;
+  display:flex;align-items:center;gap:10px;padding:0 12px;
+  background:rgba(15,18,22,0.94);border:1px solid #262e36}
+.l0selbar .nm{flex:1 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;
+  white-space:nowrap;font:500 10.5px/1 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0selbar .nm .cl{color:#5c6672;letter-spacing:.13em;font-size:8.5px;margin-right:8px}
+.l0selbar button{flex:0 0 auto;height:25px;padding:0 11px;background:transparent;
+  border:1px solid #262e36;color:#8d97a4;cursor:pointer;
+  font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em}
+.l0selbar button.pri{border-color:#5ed4e6;color:#5ed4e6}
+.l0selbar button:hover{color:#e6e9ee}
+.l0selbar .cho{display:flex;gap:0;margin-left:2px}
+.l0selbar .cho button{border-left-width:0}
+.l0selbar .cho button:first-child{border-left-width:1px}
+.l0selbar .cho button.on{border-color:#5ed4e6;color:#5ed4e6;background:#12171d}
 /* DIVERGENCE from the comp, and the reason is space. Design's legend sits in a
    panel beside the canvas; this board's map fills its host, so an always-open
    legend covered the NO DATE column and a third of 2017-2026. It is collapsible
    and starts collapsed: the rank numerals on the chips already make the set
    enumerable, and one click puts every reason on screen. A reason one click away
    is not the same as no reason, which is what shipped before today. */
-.l0legend{position:absolute;z-index:5;right:12px;bottom:12px;width:330px;
+.l0legend{width:330px;flex:0 0 auto;
   background:rgba(20,25,32,0.96);border:1px solid #3a2f1c}
 .l0legend.open{max-height:52%;overflow:auto}
 .l0legend:not(.open) .l0lg{display:none}
@@ -483,7 +523,11 @@ function mountL0(host){
      narrowed the map and left the camera exactly where it was, now showing less
      of the board than a moment earlier. */
   let camMode = 'auto';
-  function hold(){ camMode = 'held'; }
+  /* The node the camera is holding, if any. Set by focus(), cleared by a
+     drag, a wheel or a cleared selection -- the three ways a reader says
+     they are done looking at that node. */
+  let focusId = null;
+  function hold(){ camMode = 'held'; focusId = null; }
 
   /* Design asks for two fit buttons, each printing the scale it would produce, so
      the cost of an open dossier is a number on screen rather than a feeling.
@@ -1311,7 +1355,8 @@ function mountL0(host){
      pointed at. Ranked, clickable, and gone when START HERE is off. */
   let legendOpen = false;
   function renderLegend(){
-    const old = host.querySelector('.l0legend');
+    const f = foot();
+    const old = f.querySelector('.l0legend');
     if (old) old.remove();
     if (!opt.flags || !FLAGSET.length) return;
     const p = el('div','l0legend' + (legendOpen ? ' open' : ''));
@@ -1328,8 +1373,97 @@ function mountL0(host){
          + '</span></div>';
     });
     p.innerHTML = h;
-    host.appendChild(p);
+    /* First in the column, so the legend sits ABOVE the selection bar: the bar is
+       the control for what you just picked and belongs nearest the thumb. */
+    f.insertBefore(p, f.firstChild);
   }
+  /* SHOW ON MAP. Design gives three choreographies and recommends CEDE as the
+     default, with the choice a PREFERENCE rather than a mode -- so the reader is
+     never in a state they have to get out of.
+
+       CEDE      panels fold to labelled spines, the map re-fits to the room it
+                 gains, the target arrives outlined. For a first look at where a
+                 node sits.
+       PORTHOLE  nothing moves but light: the layout holds and the camera does not
+                 move, so the paragraph you are reading stays where it is.
+       TETHER    camera only: the target is panned into the room there is. For
+                 scanning several nodes in a row.
+
+     Stored per reader, defaulting to CEDE. */
+  const CHO = ['cede', 'porthole', 'tether'];
+  let choreo = 'cede';
+  try { const v = localStorage.getItem('program.choreo');
+        if (CHO.indexOf(v) >= 0) choreo = v; } catch(e){}
+
+  function showOnMap(){
+    const id = S.sel; if (!id || !byId[id]) return;
+    if (choreo === 'cede'){
+      /* Fold, then let the box change do the fit -- one path for the camera, the
+         same reason foldPanels() does not fit for FIT ALL. The selection stays
+         outlined by the chip and cell renderers, so "the target arrives outlined"
+         needs no extra drawing. */
+      focusId = null; camMode = 'auto'; zoom = 'all';
+      foldPanels();
+      repaint();
+    } else if (choreo === 'porthole'){
+      /* Layout holds and the camera stays put. The board is already dimmed to the
+         selection's thread by the focus layer, so what porthole guarantees is the
+         thing the reader asked for: nothing moves. */
+      repaint();
+    } else {
+      focus(id);
+    }
+  }
+
+  /* The column both bottom overlays live in. Created on demand and reused, so the
+     legend and the bar never race to append themselves to the host. */
+  function foot(){
+    let f = host.querySelector('.l0foot');
+    if (!f){ f = el('div','l0foot'); host.appendChild(f); }
+    /* INSET BY WHATEVER OVERLAYS THE MAP'S RIGHT SIDE, MEASURED.
+       Design §7 says to inset the selection bar by the panel width. I skipped it
+       on the reasoning that this board's dossier is a grid column and never covers
+       the map -- true of the dossier, and wrong: .l0ledger is z-index 6, position
+       absolute, and sits ON the map. Four of the bar's five buttons hit-tested to
+       .l0row inside it. Design was right and the reasoning that dismissed them was
+       checking the wrong panel.
+       Measured rather than given the ledger's 306px, because that width is a CSS
+       constant that has already changed once and this file has been bitten four
+       times by exactly that. */
+    let inset = 0;
+    for (const el2 of host.querySelectorAll('.l0ledger, .l0reg')){
+      const r = el2.getBoundingClientRect();
+      if (!r.width) continue;
+      const hb = host.getBoundingClientRect();
+      /* only what actually overlaps the foot's own band, at the bottom */
+      if (r.bottom < hb.bottom - 120) continue;
+      inset = Math.max(inset, Math.ceil(hb.right - r.left) + 10);
+    }
+    f.style.right = (12 + inset) + 'px';
+    return f;
+  }
+  function renderSelBar(){
+    const f = foot();
+    let bar = f.querySelector('.l0selbar');
+    const n = S.sel && byId[S.sel];
+    if (!n){ if (bar) bar.remove(); return; }
+    if (!bar){ bar = el('div','l0selbar'); f.appendChild(bar); }
+    const lbl = n.short || n.label || n.id;
+    bar.innerHTML = '<div class="nm"><span class="cl">'
+      + esc(String(n.cls||'').toUpperCase()) + '</span>' + esc(lbl) + '</div>'
+      + '<button class="pri" data-showmap="1">SHOW ON MAP</button>'
+      + '<span class="cho">'
+      + CHO.map(k => '<button class="'+(choreo===k?'on':'')+'" data-choreo="'+k+'" '
+                   + 'title="' + (k === 'cede'
+                        ? 'Fold the panels and fit the whole board, with this node outlined.'
+                        : k === 'porthole'
+                        ? 'Change nothing -- keep this paragraph and its node where they are.'
+                        : 'Pan this node into the room there is, without folding anything.')
+                   + '">' + k.toUpperCase() + '</button>').join('')
+      + '</span>'
+      + '<button data-selclear="1">CLEAR</button>';
+  }
+
   function repaint(){
     /* renderChrome first, then measure what it produced, and only then paint the
        map -- the map's top reserve depends on the height the control row actually
@@ -1339,7 +1473,8 @@ function mountL0(host){
     const t0 = PAD.t;
     measureHead();
     if (PAD.t !== t0) clampView();
-    paintMap(); renderLedgers(); renderRegister(); renderLegend(); startLoop();
+    paintMap(); renderLedgers(); renderRegister(); renderLegend();
+    renderSelBar(); startLoop();
   }
 
   /* FIT ALL folds the rail and the dossier to spines and lets the box change do
@@ -1432,6 +1567,16 @@ function mountL0(host){
       camMode='auto'; zoom='all'; foldPanels(); return; }
     if (ev.target.closest('[data-one]')){
       hold(); zoom='one'; cornerOn(1); repaint(); return; }
+    if (ev.target.closest('[data-showmap]')){ showOnMap(); return; }
+    const ch = ev.target.closest('[data-choreo]');
+    if (ch){
+      choreo = ch.getAttribute('data-choreo');
+      try { localStorage.setItem('program.choreo', choreo); } catch(e){}
+      /* A preference, not a mode: picking one runs it straight away rather than
+         arming it for next time, so the reader sees what they chose. */
+      renderSelBar(); showOnMap(); return;
+    }
+    if (ev.target.closest('[data-selclear]')){ CMD.clearSelection(); return; }
     if (ev.target.closest('[data-legend]')){
       legendOpen = !legendOpen; renderLegend(); return;
     }
@@ -1489,7 +1634,17 @@ function mountL0(host){
      failure mode of this file. */
   function boxChanged(){
     measure();
-    if (camMode === 'auto'){ centreOn(zoom === 'all' ? allScale() : roomScale()); }
+    if (camMode === 'auto'){
+      centreOn(zoom === 'all' ? allScale() : roomScale());
+    } else if (focusId && byId[focusId]){
+      /* HELD on a node: keep THAT node centred in whatever box there now is,
+         rather than re-fitting the board or leaving the camera where a smaller
+         box put it. Selecting a node opens the dossier, which changes the box a
+         frame later, so this is the common path and not an edge case. */
+      const n = byId[focusId];
+      view.ox = W/2 - (n.x + n.w/2)*view.k;
+      view.oy = H/2 - (n.y + n.h/2)*view.k;
+    }
     clampView();
     repaint();
   }
@@ -1759,6 +1914,17 @@ def apply(s, model, must_replace, layout=None):
         "  function focus(id){\n"
         "    const n = byId[id];\n"
         "    if (!n) return;\n"
+        "    /* A PICK TAKES THE CAMERA. Design lists drag, wheel and pick as the\n"
+        "       gestures that flip AUTO to HELD, and pick is the one that is easy\n"
+        "       to miss: without it, selecting a node zoomed to 1.15 and then the\n"
+        "       dossier opened, the box changed, and the AUTO re-fit threw the\n"
+        "       focus away. Measured before this line existed: pick a node at a\n"
+        "       1920 window and the map settled at k=0.289 with the node nominally\n"
+        "       on screen and nothing on it readable.\n"
+        "       focusId is remembered so a later box change RE-CENTRES on the node\n"
+        "       instead of re-fitting the board -- the dossier opening must not\n"
+        "       lose the thing the dossier is about. */\n"
+        "    focusId = id; camMode = 'held'; zoom = null;\n"
         "    /* zoom in enough that the node and its label are readable, then\n"
         "       centre it. The reader asked for the node they clicked, not a\n"
         "       field of 96. */\n"
@@ -1875,9 +2041,8 @@ def apply(s, model, must_replace, layout=None):
         "  renderL0Entry(host);\n  measure();\n  const fk = fitScale();",
         "mount the entry surface", 1); ok &= o
     s, o = must_replace(s,
-        "    paintMap(); renderLedgers(); renderRegister(); renderLegend(); startLoop();",
-        "    paintMap(); renderLedgers(); renderRegister(); renderLegend();\n"
-        "    renderL0Entry(host); startLoop();",
+        "    renderSelBar(); startLoop();",
+        "    renderSelBar(); renderL0Entry(host); startLoop();",
         "repaint includes the entry surface", 1); ok &= o
 
     # card + skip clicks
