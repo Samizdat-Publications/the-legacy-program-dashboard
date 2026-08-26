@@ -99,9 +99,31 @@ assertions.** Nine of nine steps green.
 | the photo tile itself | the register is empty on purpose, and a render branch with no data to exercise it is untested code. The **slot is reserved** and the class letter fills it |
 | image sourcing | licensing judgement about real people's faces. Must not run unattended |
 
-One thing remains unresolved rather than deferred: the inherited `mountNetwork` renderer
-carries a time-direction particle flow, the exact treatment Design rejected. It mounts on
-`S.l0full`, and three attempts to reach that state failed.
+### The inherited full-graph renderer — RESOLVED, and it was shipping the rejected treatment
+
+Three earlier attempts to reach `mountNetwork` failed, and the reason was a mistake in the
+attempts rather than a property of the board: `S.l0full` is computed inside `viewNetwork()`,
+which only runs when the NETWORK view is **constructed**. Calling `frameNodes` while already
+on NETWORK repaints through `MAP.repaint()` and never rebuilds the view, so the flag stayed
+false. From any other view it flips immediately.
+
+So it is reachable — by `frameNodes`, `focusCluster`, `highlightPath` or `showInsight` — and
+it was drawing a particle on **every visible edge**, flipped by
+`new Date(s.date) > new Date(t.date)`. A time-direction flow on every line, which Design
+named and rejected: *"It states that the relationship runs from the earlier node to the
+later one, and for most of these edges the board makes no such claim. A moving dot is a far
+stronger implication than a static line."*
+
+Now the same rule as the L0 map: a particle only where the direction is attested, which on
+the full graph means an edge of the **selected** node, running away from the end the reader
+is standing on. No selection, no motion. Verified on the canvas: 1 distinct frame at rest
+where there were 5, and 5 with a node selected.
+
+`mountMap`, the other renderer carrying a bundled particle layer, is **dead code** — defined
+and never called.
+
+Three runtime assertions guard it, including one that the renderer can be reached at all,
+so a future refactor cannot make the other two vacuously true by hiding the view.
 
 ---
 

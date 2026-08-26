@@ -1617,6 +1617,41 @@ def apply(s, model, must_replace, layout=None):
         "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){\n"
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
+    # -- THE FULL GRAPH'S PARTICLE LAYER, which is an inherited surface asserting
+    #    something this board does not claim. mountNetwork mounts when S.path or
+    #    S.frame is set and the NETWORK view is CONSTRUCTED -- reachable from any
+    #    other view via highlightPath, focusCluster, frameNodes or showInsight --
+    #    and it drew a particle on every visible edge, flipped by
+    #    `new Date(s.date) > new Date(t.date)`.
+    #
+    #    That is a time-direction flow on every line, the exact treatment Claude
+    #    Design named and rejected: "It states that the relationship runs from the
+    #    earlier node to the later one, and for most of these edges the board makes
+    #    no such claim. A moving dot is a far stronger implication than a static
+    #    line." The L0 map was built to that rule; the inherited renderer never was.
+    #
+    #    Same rule as mountL0 now: a particle only where the direction is attested.
+    #    On the full graph the one attested case is an edge of the SELECTED node,
+    #    running away from the end the reader is standing on. No selection, no
+    #    motion.
+    s, o = must_replace(s,
+        "function drawParticle2D(ctx, e, t){\n"
+        "  if (e.alpha < 0.25) return;",
+        "function drawParticle2D(ctx, e, t){\n"
+        "  if (e.alpha < 0.25) return;\n"
+        "  /* MOTION ONLY WHERE ATTESTED. See tools/l0_patches.py. */\n"
+        "  const sel = S.sel;\n"
+        "  if (!sel) return;\n"
+        "  const pa = e.pair && e.pair.s && e.pair.s.id, pb = e.pair && e.pair.t && e.pair.t.id;\n"
+        "  if (pa !== sel && pb !== sel) return;",
+        "full graph: particles only on the selected node's edges", 1); ok &= o
+    s, o = must_replace(s,
+        "  const [px,py] = walk(e.pts, e.pair.flip ? 1-u : u);",
+        "  /* Away from the reader, never along the time axis. e.pair.flip is left\n"
+        "     in place for the tick layer but must never steer a particle. */\n"
+        "  const [px,py] = walk(e.pts, pa === sel ? u : 1-u);",
+        "full graph: particle direction is the reader's end, not the date", 1); ok &= o
+
     # -- THE SEARCH GRAMMAR. Design specified key:value filters and `via:`; the
     #    parent board shipped a plain substring match, so `via:bigelow` came back
     #    "0 of 956 entities" -- an answer about the board rather than about the

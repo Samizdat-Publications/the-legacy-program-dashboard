@@ -187,6 +187,57 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
+  /* ---- THE FULL GRAPH'S PARTICLE LAYER --------------------------------------
+     mountNetwork is the inherited parent-board renderer. It mounts when S.path or
+     S.frame is set AND the NETWORK view is constructed -- so it is reachable from
+     any other view via frameNodes, focusCluster, highlightPath or showInsight, and
+     three earlier attempts to reach it failed only because they called those
+     commands while already on NETWORK, where no view is rebuilt.
+
+     It drew a particle on every visible edge, flipped by comparing the two nodes'
+     dates. That is a time-direction flow on every line, which Design named and
+     rejected: it states the relationship runs from the earlier node to the later
+     one, and for most of these edges the board makes no such claim. */
+  try {
+    await page.evaluate(() => window.__board.CMD.setView('CASES'));
+    await page.waitForTimeout(900);
+    await page.evaluate(() => {
+      const B = window.__board;
+      B.CMD.frameNodes((B.L0DATA.l0 || []).slice(0, 10).map(n => n.id));
+    });
+    await page.waitForTimeout(6000);
+    const isFull = await page.evaluate(() => !!window.__board.S.l0full);
+    check(isFull, 'the full-graph renderer can be reached at all',
+          'S.l0full=' + isFull + ' after frameNodes from another view');
+    const frames = async () => await page.evaluate(async () => {
+      const cs = [...document.querySelectorAll('canvas')].filter(c => c.width > 200);
+      let best = 0;
+      for (const c of cs) {
+        let cx; try { cx = c.getContext('2d'); } catch (e) { continue; }
+        if (!cx) continue;
+        const g = () => { const d = cx.getImageData(0, 0, c.width, c.height).data; let h = 0;
+          for (let i = 0; i < d.length; i += 4*53) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+          return h; };
+        const hs = []; for (let i = 0; i < 5; i++) { hs.push(g()); await new Promise(r => setTimeout(r, 380)); }
+        best = Math.max(best, new Set(hs).size);
+      }
+      return best;
+    });
+    const atRest = await frames();
+    check(atRest === 1, 'the full graph asserts no time direction at rest',
+          `${atRest} distinct frame(s) with nothing selected`);
+    await page.evaluate(() => {
+      const B = window.__board; B.S.sel = (B.L0DATA.l0 || [])[0].id;
+    });
+    await page.waitForTimeout(1400);
+    const onSel = await frames();
+    check(onSel > 1, "the full graph moves on the selected node's edges",
+          `${onSel} distinct frame(s) with a node selected`);
+    await page.evaluate(() => { window.__board.CMD.clearSelection(); });
+  } catch (e) {
+    check(false, 'the full-graph particle layer could be exercised', e.message.slice(0, 120));
+  }
+
   await browser.close();
   ok.forEach(l => console.log('  ' + l));
   fails.forEach(l => console.log('  ' + l));

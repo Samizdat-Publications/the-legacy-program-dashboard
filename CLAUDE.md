@@ -41,7 +41,7 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 42 verify checks + 40 audit re-derivations + 23 runtime + 18 canvas assertions, all self-tested |
+| gate | 42 verify checks + 40 audit re-derivations + 26 runtime + 18 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -91,7 +91,7 @@ python3 tools/verify.py                      # 42 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
-node    tools/runtime_check.js               # 23 DOM assertions in a real browser
+node    tools/runtime_check.js               # 26 DOM assertions in a real browser
 node    tools/test_packed_layout.js          # 18 assertions read back out of the canvas
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions

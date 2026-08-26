@@ -121294,9 +121294,16 @@ function drawTicks2D(ctx, e){
 }
 function drawParticle2D(ctx, e, t){
   if (e.alpha < 0.25) return;
+  /* MOTION ONLY WHERE ATTESTED. See tools/l0_patches.py. */
+  const sel = S.sel;
+  if (!sel) return;
+  const pa = e.pair && e.pair.s && e.pair.s.id, pb = e.pair && e.pair.t && e.pair.t.id;
+  if (pa !== sel && pb !== sel) return;
   const speed = 0.00006 + e.weight*0.00002;
   const u = ((t*speed) + (e.pair.phase||0)) % 1;
-  const [px,py] = walk(e.pts, e.pair.flip ? 1-u : u);
+  /* Away from the reader, never along the time axis. e.pair.flip is left
+     in place for the tick layer but must never steer a particle. */
+  const [px,py] = walk(e.pts, pa === sel ? u : 1-u);
   ctx.save();
   ctx.globalAlpha = Math.min(1, e.alpha);
   ctx.fillStyle = e.color; ctx.shadowColor = e.color;
