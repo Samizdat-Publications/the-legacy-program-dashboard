@@ -271,6 +271,131 @@ const check = (c, label, detail = '') => {
     check(false, 'the full-graph particle layer could be exercised', e.message.slice(0, 120));
   }
 
+  /* ---- the head strip, at the width where it used to break ---------------
+   *
+   * .l0crumb and .l0ctl were two absolutely positioned boxes on the same line at
+   * the same z-index, and the crumb's max-width was calc(100% - 24px) -- the full
+   * width. So the moment the dock opened and took half the window, the crumb ran
+   * straight under the control row and printed on top of it. Six buttons, every
+   * one overlapped, at every viewport size where a reader had a node selected.
+   *
+   * NOTHING IN THE GATE COULD SEE IT. runtime_check asserts through text nodes and
+   * every one of them was present and correct. test_packed_layout reads the canvas
+   * and this is DOM. head-row-clear measures the control row against the ERA
+   * LABELS and never asked whether the crumb and the controls clear EACH OTHER.
+   *
+   * Two assertions, because the report was two things and only one of them was
+   * true: the overlap was real, and the buttons were NOT dead -- they hit-test and
+   * fire, they just looked inert because the map they affect was 798px wide and
+   * dimmed to 16%. Assert both, so a regression in either is named for what it is. */
+  try {
+    /* Back to the map. The block above exercises the full-graph renderer, which is
+       only reachable from a NON-network view, so the packed map is not mounted at
+       this point -- the first cut of this check measured 0 buttons on a 0px canvas
+       and reported success-shaped nonsense until it was made to fail loudly. */
+    await page.evaluate(() => {
+      const B = window.__board;
+      B.S.l0full = false;            /* the packed map, not the full graph */
+      B.S.sel = null;
+      B.S.l0open = [];
+    });
+    await page.click('[data-view="CASES"]');
+    await page.waitForTimeout(800);
+    await page.click('[data-view="NETWORK"]');
+    await page.waitForTimeout(2500);
+    const skip2 = await page.$('.l0entry [data-entry-skip], .l0entry [data-skip]');
+    if (skip2) { await skip2.click(); await page.waitForTimeout(1000); }
+    await page.waitForSelector('.l0wrap canvas', { timeout: 30000 });
+    await page.waitForTimeout(1500);
+    /* Reproduce the reported state FIRST -- a node selected and the dock at its
+       open width, which is where the map gets narrow enough for the strip to
+       break. The poisons below then apply to the layout as it finally sits; the
+       first cut applied POISON=clicks to the pre-dock positions and the overlay
+       landed 400px from the buttons it was meant to cover, so the check passed and
+       proved nothing. */
+    await page.evaluate(() => {
+      const B = window.__board;
+      B.CMD.selectNode((B.L0DATA.l0 || [])[3].id);
+      const d = document.getElementById('dock');
+      if (d) {
+        const w = Math.max(560, Math.round(innerWidth * 0.5));
+        d.style.width = w + 'px';
+        d.classList.add('open', 'dock-wide');
+        document.documentElement.style.setProperty('--dock-w', w + 'px');
+      }
+    });
+    await page.waitForTimeout(1600);
+
+    /* POISON=head restores the exact CSS that shipped: two absolutely positioned
+       boxes on one line, the crumb allowed the full width. Both assertions must go
+       red. A check never shown failing is indistinguishable from a broken one, and
+       this one guards a defect that four other check families could not see. */
+    if (process.env.POISON === 'head') {
+      await page.addStyleTag({ content:
+        '.l0head{display:block !important;pointer-events:auto !important}'
+      + '.l0crumb{position:absolute !important;left:12px;top:10px;z-index:4;'
+      + 'max-width:calc(100% - 24px) !important;width:calc(100% - 24px) !important;'
+      + 'pointer-events:auto !important;background:#141920 !important}'
+      + '.l0ctl{position:absolute !important;right:12px;top:10px;z-index:4}' });
+      await page.waitForTimeout(500);
+    }
+    /* And a SECOND poison, because the two assertions guard different properties
+       and POISON=head only breaks one of them. That is the point: in the real
+       defect the crumb overlapped the buttons and they stayed clickable, so a
+       single poison proving "something went red" would leave the reachability
+       check untested. This one puts a transparent sheet over the control row --
+       nothing looks different, every button is dead. */
+    if (process.env.POISON === 'clicks') {
+      await page.evaluate(() => {
+        const z = document.querySelector('.l0ctl');
+        if (!z) return;
+        const r = z.getBoundingClientRect();
+        const v = document.createElement('div');
+        v.style.cssText = 'position:fixed;z-index:99;pointer-events:auto;background:transparent;'
+          + 'left:' + r.x + 'px;top:' + r.y + 'px;width:' + r.width + 'px;height:' + r.height + 'px';
+        document.body.appendChild(v);
+      });
+      await page.waitForTimeout(400);
+    }
+    const geom = await page.evaluate(() => {
+      return new Promise(r => setTimeout(() => {
+        const crumb = document.querySelector('.l0crumb');
+        const cr = crumb ? crumb.getBoundingClientRect() : null;
+        const btns = [...document.querySelectorAll('.l0ctl button')];
+        const hit = (a, b) => a.x < b.x + b.width && b.x < a.x + a.width
+                           && a.y < b.y + b.height && b.y < a.y + a.height;
+        let overlapped = 0, unreachable = 0;
+        for (const el of btns) {
+          const r2 = el.getBoundingClientRect();
+          if (cr && hit(cr, r2)) overlapped++;
+          /* Across the whole button, not just its centre: the first probe of this
+             only sampled the middle and would have passed with the left half
+             buried. */
+          for (let fx = 0.08; fx <= 0.92; fx += 0.12)
+            for (let fy = 0.2; fy <= 0.8; fy += 0.3) {
+              const t = document.elementFromPoint(
+                Math.round(r2.x + r2.width * fx), Math.round(r2.y + r2.height * fy));
+              if (!(t && (t === el || el.contains(t)))) { unreachable++; }
+            }
+        }
+        const cvs = document.querySelector('.l0wrap canvas');
+        r({ buttons: btns.length, overlapped, unreachable,
+            mapW: cvs ? Math.round(cvs.parentElement.getBoundingClientRect().width) : 0 });
+      }, 1600));
+    });
+    check(geom.buttons > 0 && geom.overlapped === 0,
+          'the breadcrumb never prints on the map controls',
+          `${geom.overlapped} of ${geom.buttons} buttons overlapped at ${geom.mapW}px of map`);
+    check(geom.buttons > 0 && geom.unreachable === 0,
+          'every map control is clickable across its whole face',
+          geom.unreachable === 0
+            ? `${geom.buttons} buttons, every sample point reaches its own button`
+            : `${geom.unreachable} sample points hit something else`);
+    await page.evaluate(() => { window.__board.CMD.clearSelection(); });
+  } catch (e) {
+    check(false, 'the head strip could be measured with the dock open', e.message.slice(0, 120));
+  }
+
   await browser.close();
   ok.forEach(l => console.log('  ' + l));
   fails.forEach(l => console.log('  ' + l));
