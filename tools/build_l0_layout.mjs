@@ -828,22 +828,31 @@ export function buildAll(inputs) {
          standing instruction to redo finished work, and it made this file and the
          data disagree, which is the exact drift the row-count check was written
          for. verify.py now asserts the queue in BOTH directions. */
-      ['members direct/routed', 'the P1 split, on the MODEL rather than the extract',
-        'design-extract.json already carries membersDirect and membersRouted; normaliseCurrent flattened them into memberCount. Now projected through — this row stays only until a consumer reads them',
-        'without the split `members` is a roll-up to depth 3, so "5 on the map, 14 held back" cannot be made to sum to the degree'],
-      /* REWRITTEN 26 August 2026. The old row said dateEnd was not carried. It
-         is -- 46 of 110 arrive as y1 -- and the thing that was actually broken was
-         `span`, a hardcoded literal 0 in normaliseCurrent while normaliseLegacy
-         computed the same field properly two hundred lines below. So this row's
-         own question, "how many nodes could carry an extent at all", had an
-         answer the whole time and the pipeline was reporting 0 to it. It is 24.
-         What is left here is research, not plumbing. */
-      ['dateEnd coverage', 'an end year for the 64 nodes that have none',
-        'the same node documents dateStart comes from. 46 of 110 carry one today and 24 of those describe a real extent; the rest are open-ended or undated in the record, which for a programme that has never been acknowledged to have ended is itself a finding rather than a hole',
-        'a node with no end year cannot be drawn as a span, so the era column is the only time signal it has'],
-      ['photo / photoCredit / photoKind', 'one image per node',
-        'the convention is already set on the sibling board: save to assets/photos/<id>.jpg, add `photo` and `photoCredit` to the record, and follow PHOTOS.md’s four-state clearance. This board needs one addition — photoKind: "portrait" for a person, "mark" for an institutional logo, because a logo must not be cropped. Emit as data/l0-images.json keyed by node id; only CLEARS and ASK ship, and ASK carries the reason',
-        'the chip glyph slot and the dossier tile are built and waiting — see §H'],
+      /* RETIRED 26 August 2026. membersDirect and membersRouted are now projected
+         onto every one of the 110 nodes. Nothing CONSUMES them yet, but an unused
+         field is not a backfill gap -- the queue lists data the design reads and
+         the data withholds, and leaving a supplied field in it is the staleness
+         verify.py now checks for in both directions. */
+      /* RETIRED 26 August 2026, as a CATEGORY ERROR rather than as work done.
+         The row asked for an end year for the 64 nodes without one. Audited, they
+         overwhelmingly SHOULD NOT HAVE ONE: 37 are institutions that still exist
+         (CIA, DIA, NASA, DoD, the House), 8 are statutes that have not been
+         repealed, 9 are documents and 1 an event -- point-in-time by nature -- and
+         all 9 programmes are ongoing or alleged with no attested end. Absence is
+         the correct value, not a hole.
+
+         Searching their own records for end-language returned 10 hits and NOT ONE
+         was an end for that node: AARO disestablished AOIMSG; CIA, DIA and the FAB
+         each terminated something else; TTSA RENAMED itself in 2022; 10 U.S.C.
+         119's subsection (a)/(b) reporting terminated in 2021 while the statute
+         remains law. Pattern-matching would have written ten false end dates, each
+         one asserting that a live body had ceased to exist.
+
+         And the field is not rendered: y0/y1/span reach the layout model and
+         Design's brief figures, never the page. notes/DATE-EXTENT-2026-08-26.md */
+      ['photo / photoCredit / photoKind', 'a mark for the 101 nodes that have none',
+        'REWRITTEN 26 August 2026 after the sourcing pass; 9 of 110 now carry one. What is left is NOT one task. 30 institutions have no free-licensed mark of their OWN that survives an 11px square -- a parent body\u2019s seal asserts a false identity, a wide wordmark becomes a 2px sliver, CC BY-SA carries share-alike, and several are foreign-state or trademarked. The other 71 nodes are documents, programmes, legislation and events, which mostly have no mark to find at all. notes/IMAGE-SOURCING-2026-08-26.md has the per-node reasons',
+        'the chip glyph slot and the dossier tile are built, tested and now populated for 9; the class letter is a supported state for the rest and is not a failure'],
       /* Added 26 August 2026, both from the implementation session. The standing
          rule is that any new field the design reads gets a row here saying what to
          pull and where from, so nobody has to re-derive the ask. */
