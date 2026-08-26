@@ -53,6 +53,18 @@ out. `tools\build_site.py` prints the command with the flag already in it.
 
 It prints the live URL when it finishes. Every later deploy is the same three lines.
 
+**The live board is https://the-program-zxz.pages.dev** — first deployed 26 August
+2026. Cloudflare appended `-zxz` because `the-program.pages.dev` was already taken by
+someone else's project; the `pages.dev` namespace is global, not per-account. The
+project itself is still named `the-program`, which is what `--project-name` refers to.
+A cleaner address is a custom domain (Workers & Pages -> the-program -> Custom
+domains), not a rename.
+
+Each deploy also prints a `<hash>.the-program-zxz.pages.dev` alias. That is the
+immutable snapshot of that one upload — useful for checking a deploy before it
+matters, but **never the link to send anyone**, because it will not move when the
+board is updated.
+
 Deep links work immediately: `/node/aawsap`, `/path/aawsap/aaro`, `/band/custody`,
 `/era/nd`, `/q/via:bigelow`. `site/_redirects` is what stops those 404ing, and it
 names the routes rather than blanket-rewriting `/*`, so the data files stay
