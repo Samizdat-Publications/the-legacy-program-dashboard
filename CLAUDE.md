@@ -175,7 +175,12 @@ This section applies only to commands written **for Stewart to paste**. He runs
 **PowerShell 5.1**:
 
 - `&&` is a **syntax error**. One command per line.
-- Always include the `cd`, quoted, so the block is copy-pasteable:
+- **Always include the `cd`, quoted, in EVERY block — not just the first one on the
+  page, and not just in documents.** This applies to commands written in chat as much
+  as to `DEPLOY.md`. He pastes one block into whatever terminal is open; a block that
+  assumes the previous block's working directory is a block that fails. It has already
+  cost a session: `npx wrangler secret put` run from `C:\Users\stewa`, no config in
+  scope, nothing to attach a secret to, and the error message named none of that.
   ```
   cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
   python tools\verify.py

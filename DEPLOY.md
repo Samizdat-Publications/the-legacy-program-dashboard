@@ -7,9 +7,14 @@ just falls back to its scripted replies, exactly as it does from a local file.
 Everything below is PowerShell 5.1, one command per line. `&&` is a syntax error in
 PowerShell, and the repo path has three spaces in it, so keep the quotes.
 
+**Every block below starts with its own `cd`, deliberately.** You should be able to
+paste any one of them into a cold terminal without reading the ones above it. The
+`wrangler secret put` failure on 26 August was exactly this: run from
+`C:\Users\stewa`, no config in scope, nothing to attach a secret to.
+
 ---
 
-## 0. Once
+## 0. Get the latest
 
 ```
 cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
@@ -22,26 +27,26 @@ git pull origin claude/claud-md-compacting-vs9o9j
 `site/` is a build product and is gitignored, so regenerate it after every pull:
 
 ```
+cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 python tools\build_site.py
 npx wrangler pages deploy site --project-name the-program
 ```
 
 The first deploy asks to create the project and to log in through the browser. It
-prints the live URL when it finishes. Every later deploy is the same two lines.
+prints the live URL when it finishes. Every later deploy is the same three lines.
 
 Deep links work immediately: `/node/aawsap`, `/path/aawsap/aaro`, `/band/custody`,
 `/era/nd`, `/q/via:bigelow`. `site/_redirects` is what stops those 404ing, and it
 names the routes rather than blanket-rewriting `/*`, so the data files stay
-reachable when the payload split lands.
+reachable if a payload split ever lands.
 
 ## 2. The worker, and the API key
 
-**Deploy the worker first.** A secret cannot be attached to a worker that does not
-exist yet, which is why `wrangler secret put` failed from the home directory: there
-was no config in scope and no worker to attach to.
+**Deploy the worker before putting the secret.** A secret cannot be attached to a
+worker that does not exist yet.
 
 ```
-cd worker
+cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
 npm install
 npx wrangler deploy
 npx wrangler secret put ANTHROPIC_API_KEY
@@ -51,14 +56,15 @@ The last line prompts for the value and sends it straight to Cloudflare. **The k
 never touches this repo, this chat, or your disk.** Get one at
 console.anthropic.com under API Keys.
 
-Then route the site's `/api/*` at the worker, so the board can reach it on its own
+Then route the site's `/api/*` at the worker, so the board reaches it on its own
 origin and no CORS is involved. In the Cloudflare dashboard: Workers & Pages ->
-the-program -> Settings -> Functions -> or simply add a route on the worker for
+the-program -> Settings -> Functions, or simply add a route on the worker for
 `<your-pages-domain>/api/*`.
 
 Check it:
 
 ```
+cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 curl https://<your-domain>/api/analyst/health
 ```
 
