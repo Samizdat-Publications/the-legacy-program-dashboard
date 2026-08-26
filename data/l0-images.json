@@ -1,5 +1,5 @@
 {
-  "_what": "The image register. Keyed by node id. Read by tools/build_l0_layout.mjs, which puts a record on the model only when it CLEARS or is marked ASK, and otherwise leaves the node to its class letter.",
+  "_what": "The image register. Keyed by node id. Read by tools/build_l0_layout.mjs, which puts a record on the model only when it CLEARS or is marked ASK. `photo` is a REPO PATH, not a URL: the build inlines the file as a data: URI, because `the built page fetches nothing at runtime` is a gate check and a remote image would break it.",
   "_fallback_order": "Confirmed by Stewart, 24 August: a real photograph first, an institutional logo or mark second, and the class letter when there is nothing. The class letter is not a failure state -- it says what the node IS rather than implying an unknown face.",
   "_why_this_is_empty": "Deliberately. The register is plumbed, validated and building; it holds no records because a record here asserts that a specific image exists at a specific URL under a specific licence, and that is a sourcing claim like any other. The one rule that never bends applies to image URLs exactly as it applies to document numbers. Filling this is a research pass with verification, not a guess. Every node currently draws its class letter, which is a supported state.",
   "clearanceVocabulary": {
@@ -15,7 +15,81 @@
     "clearance": "one of the four above",
     "note": "required when clearance is ask -- the specific reason it is ambiguous"
   },
-  "images": {},
+  "images": {
+    "cia": {
+      "photo": "assets/marks/cia.png",
+      "photoCredit": "Seal of the Central Intelligence Agency. Public domain (US federal work). 50 U.S.C. 3513 restricts use only in connection with merchandise, impersonation, solicitation or commercial activity conveying endorsement; identification on a research board is outside that. Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Central_Intelligence_Agency.svg",
+      "licence": "Public domain"
+    },
+    "dia": {
+      "photo": "assets/marks/dia.png",
+      "photoCredit": "Seal of the Defense Intelligence Agency. Public domain (US federal work). 10 U.S.C. 425, same narrow scope. Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_U.S._Defense_Intelligence_Agency.svg",
+      "licence": "Public domain"
+    },
+    "dod": {
+      "photo": "assets/marks/dod.png",
+      "photoCredit": "Seal of the U.S. Department of Defense. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_Defense.svg",
+      "licence": "Public domain"
+    },
+    "doe": {
+      "photo": "assets/marks/doe.png",
+      "photoCredit": "Seal of the U.S. Department of Energy. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Department_of_Energy.svg",
+      "licence": "Public domain"
+    },
+    "nasa": {
+      "photo": "assets/marks/nasa.png",
+      "photoCredit": "Seal of NASA. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:NASA_seal.svg",
+      "licence": "Public domain"
+    },
+    "odni": {
+      "photo": "assets/marks/odni.png",
+      "photoCredit": "Seal of the Office of the Director of National Intelligence. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Office_of_the_Director_of_National_Intelligence.svg",
+      "licence": "Public domain"
+    },
+    "nara-uap-collection": {
+      "photo": "assets/marks/nara-uap-collection.png",
+      "photoCredit": "Seal of the U.S. National Archives and Records Administration, the collection's custodian. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_National_Archives_and_Records_Administration.svg",
+      "licence": "Public domain"
+    },
+    "us-house": {
+      "photo": "assets/marks/us-house.png",
+      "photoCredit": "Seal of the U.S. House of Representatives. Public domain (US federal work). Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_House_of_Representatives.svg",
+      "licence": "Public domain"
+    },
+    "rand-corporation": {
+      "photo": "assets/marks/rand-corporation.png",
+      "photoCredit": "RAND Corporation logo. Public domain (below the threshold of originality) but TRADEMARKED. Same reasoning as Lockheed.",
+      "photoKind": "mark",
+      "clearance": "ask",
+      "note": "RAND Corporation logo. Public domain (below the threshold of originality) but TRADEMARKED. Same reasoning as Lockheed.",
+      "source": "https://commons.wikimedia.org/wiki/File:Rand_Corporation_logo.svg",
+      "licence": "Public domain"
+    }
+  },
   "_where_to_look_first": {
     "_caution": "A list of where a clearing image is LIKELY to exist. Nothing here asserts that one does, and no URL appears until it has been opened and checked.",
     "federal_works_public_domain": "Works prepared by US government officers in the course of their duties are not under copyright (17 U.S.C. 105). Official portraits of confirmed DoD and IC officials are the strongest candidates on this board -- but the exemption covers the federal work itself, not a wire-service photograph of the same person, so each one has to be traced to a .gov original rather than to an aggregator.",
@@ -23,5 +97,7 @@
     "contractors_and_private_bodies": "Corporate logos are trademarks. Nominative identification is generally defensible, but this board is adversarial toward several of these organisations, so these should default to ask with the reason recorded.",
     "witnesses_and_private_individuals": "Hardest category and the one where getting it wrong matters most. A private person who gave testimony has not thereby licensed their likeness. Default to the class letter unless there is a clear release."
   },
-  "_render_half_is_built": "26 August 2026. The renderer no longer waits on this file. mountL0 draws the tile in the chip's glyph slot -- portrait cover-cropped to a circle, mark contain-fitted and never cropped -- and the dossier prints the credit and, for ASK, the specific reason. Five canvas assertions in tools/test_packed_layout.js exercise all of it against injected fixtures, including the two treatments swapped, because a render branch nothing exercises is where the first real record would have found out whether it worked. tools/verify.py asserts this file's records are well-formed: the failure mode of a plumbed-and-empty channel is that a malformed record simply does not clear, the node falls back to its letter, and that looks exactly like never having tried."
+  "_render_half_is_built": "26 August 2026. The renderer no longer waits on this file. mountL0 draws the tile in the chip's glyph slot -- portrait cover-cropped to a circle, mark contain-fitted and never cropped -- and the dossier prints the credit and, for ASK, the specific reason. Five canvas assertions in tools/test_packed_layout.js exercise all of it against injected fixtures, including the two treatments swapped, because a render branch nothing exercises is where the first real record would have found out whether it worked. tools/verify.py asserts this file's records are well-formed: the failure mode of a plumbed-and-empty channel is that a malformed record simply does not clear, the node falls back to its letter, and that looks exactly like never having tried.",
+  "_populated": "26 August 2026. 11 of 39 institutions. NOT 39, and the gap is the finding rather than a shortfall -- see notes/IMAGE-SOURCING-2026-08-26.md. There are no PERSON nodes on this map at all, so the category the rules below worry about most never arose.",
+  "_dropped_after_looking": "lockheed-martin and geipan were sourced, verified and then REMOVED after seeing them on a real chip. Both are wide wordmarks (250x38 and 250x54); the slot is an 11px square and a mark is contain-fitted, never cropped, so each became a 2px sliver -- Lockheed rendered as an empty amber ring, which says less than the class letter it replaced. battelle was dropped earlier for the same class of reason: black on transparent is invisible on a dark board. A mark whose aspect ratio or contrast defeats the slot does not belong in the slot."
 }

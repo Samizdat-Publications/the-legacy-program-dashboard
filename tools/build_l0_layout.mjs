@@ -880,7 +880,7 @@ async function main() {
     .filter(f => f.endsWith('.json')).sort().map(f => rd(path.join(d, f)));
 
   const highlightsFile = has('data/l0-highlights.json') ? rd('data/l0-highlights.json') : null;
-  const out = buildAll({
+  const inputs = {
     design: rd('data/design-extract.json'),
     extract: has('data/l0-extract.json') ? rd('data/l0-extract.json') : null,
     dossiers: has('research/dossiers') ? glob('research/dossiers').flat() : [],
@@ -888,7 +888,18 @@ async function main() {
     highlights: highlightsFile,
     images: has('data/l0-images.json') ? rd('data/l0-images.json') : null,
     shorts: has('data/l0-shorts.json') ? rd('data/l0-shorts.json') : null,
-  });
+  };
+
+  /* The marks are NOT inlined here. `photo` stays a repo path in this model.
+     Inlining them here put ~695KB of base64 into the file TWICE -- `current` and
+     `legacy` both carry nodes -- and took it from 490KB to 1836KB, straight
+     through the ~1MB GitHub API read cap this file exists to stay under. The
+     build's own guard caught it.
+     The bytes belong in the page, not in the description of the page, so
+     l0_patches.merge_packed does the inlining at dashboard-build time where
+     700KB against 14MB is noise. */
+
+  const out = buildAll(inputs);
 
   const json = JSON.stringify(out);
   fs.writeFileSync(path.join(root, 'data/l0-layout-model.json'), json);

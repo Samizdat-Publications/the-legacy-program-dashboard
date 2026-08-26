@@ -1703,6 +1703,13 @@ L0_CMD = r"""
 
 # ---------------------------------------------------------------------- apply
 # ------------------------------------------------------------- packed geometry
+def _repo_root():
+    """The repo root, derived from this file rather than from the caller's cwd —
+    build_dashboard.py may be invoked from anywhere."""
+    import os
+    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
 def merge_packed(model, layout):
     """Fold the packed-cell layout into the L0 model, in place.
 
@@ -1740,6 +1747,16 @@ def merge_packed(model, layout):
         # for band assignment, so a reader who can see the band should be able to
         # ask for the tag behind it.
         n["roles"] = L.get("roles") or []
+        # The mark, if this node has one. Set on the LAYOUT's nodes by
+        # build_l0_layout.mjs from data/l0-images.json, and copied here because
+        # the renderer reads model["l0"]. Without this the register populated
+        # cleanly, the layout model carried all eleven records, and the page drew
+        # 110 class letters -- the register working and the board not showing it,
+        # which is the same shape as the denial verdicts stopping at the layout
+        # model earlier today.
+        for k in ("photo", "photoCredit", "photoKind", "photoClearance", "photoNote"):
+            if L.get(k):
+                n[k] = L[k]
 
     # Edge budget. `rest` says which edges draw with nothing selected; `role` says
     # why each one earned the space. Keyed a|b|kind because a pair can carry both a
@@ -1767,6 +1784,36 @@ def merge_packed(model, layout):
                 "denier": e.get("denier"),
                 "dn": e.get("dn") or [],
             }
+    # ---- the marks, inlined -------------------------------------------
+    # data/l0-images.json holds a repo PATH in `photo`; the page needs bytes.
+    # Inlining happens HERE and not in build_l0_layout.mjs because that file is
+    # read through the GitHub API and has a ~1MB cap: putting 695KB of base64
+    # into it -- twice, since `current` and `legacy` both carry nodes -- took it
+    # from 490KB to 1836KB and its own guard refused the build. The description
+    # of the page stays small; the page carries the bytes, where 520KB against
+    # 14MB is noise.
+    #
+    # And it MUST be bytes rather than a URL: `the built page fetches nothing at
+    # runtime` is a gate check, and a remote mark would break it while making
+    # first paint depend on someone else's server.
+    import base64, os
+    _MIME = {".svg": "image/svg+xml", ".webp": "image/webp", ".jpg": "image/jpeg",
+             ".jpeg": "image/jpeg", ".png": "image/png"}
+    for n in model.get("l0", []):
+        rel = n.get("photo")
+        if not rel or str(rel).startswith("data:"):
+            continue
+        abs_ = os.path.join(_repo_root(), rel)
+        if not os.path.exists(abs_):
+            raise SystemExit(
+                f"data/l0-images.json: {n['id']} points at {rel}, which does not "
+                f"exist. Add the file or remove the record -- a missing mark must "
+                f"not degrade silently into the class letter.")
+        ext = os.path.splitext(abs_)[1].lower()
+        with open(abs_, "rb") as fh:
+            n["photo"] = ("data:" + _MIME.get(ext, "image/png") + ";base64,"
+                          + base64.b64encode(fh.read()).decode("ascii"))
+
     for e in model.get("directEdges", []):
         r = dn_by_pair.get("|".join(sorted((e["a"], e["b"]))))
         if not r:
