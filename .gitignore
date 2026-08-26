@@ -10,3 +10,8 @@ tools/_pristine-board.json
 
 # spot_check.py fetch cache — network artefacts, not board state
 tools/.spot-cache/
+
+# Cloudflare Pages output, rebuilt by tools/build_site.py from dist/
+site/
+worker/node_modules/
+worker/.wrangler/

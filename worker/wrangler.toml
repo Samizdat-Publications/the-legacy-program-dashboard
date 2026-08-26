@@ -1,0 +1,11 @@
+name = "the-program-analyst"
+main = "src/index.ts"
+compatibility_date = "2026-08-26"
+compatibility_flags = ["nodejs_compat"]
+
+# The key is NEVER in this file and never in the repo. Set it with:
+#   npx wrangler secret put ANTHROPIC_API_KEY
+# which prompts for the value and sends it straight to Cloudflare.
+
+[observability]
+enabled = true

@@ -119578,6 +119578,29 @@ let urlLock = false;
    the whole dashboard stops updating after the first interaction. Try once,
    and if the document cannot take it, drop URL syncing for the session and
    carry on. Shareable URLs are a convenience; rendering is not. */
+
+/* ---- deep links -----------------------------------------------------------
+   Query params already carried the whole state (`?sel=aawsap`), which was enough
+   for a file nobody could share. On a host the URL is the product: a path is what
+   you paste into a message, and `/node/aawsap` survives being read aloud where
+   `?sel=aawsap&v=NETWORK` does not.
+
+   Read accepts BOTH forms, so every link ever copied from the query-param era
+   keeps working. Write prefers the path form only for the plain single-selection
+   case -- the moment the state carries filters, a query, a traced path or a
+   non-default view, it falls back to query params, because a path that silently
+   drops half the state is worse than an ugly URL that keeps it. */
+const L0_ROUTES = { node: 'sel', band: 'band', era: 'era', q: 'q' };
+function l0ReadPath(){
+  let segs;
+  try { segs = location.pathname.split('/').filter(Boolean).map(decodeURIComponent); }
+  catch (e) { return null; }
+  if (!segs.length) return null;
+  const [head, ...rest] = segs;
+  if (head === 'path' && rest.length === 2) return { kind: 'path', from: rest[0], to: rest[1] };
+  if (L0_ROUTES[head] && rest.length >= 1) return { kind: head, value: rest.join('/') };
+  return null;
+}
 let urlSyncable = true;
 function writeUrl(){
   if (urlLock || !urlSyncable) return;
@@ -119591,8 +119614,14 @@ function writeUrl(){
   if (S.tab !== 'DOSSIER') q.set('tab', S.tab);
   if (S.path) q.set('p', S.path.from + '>' + S.path.to);
   const s = q.toString();
+  /* The plain single-selection case, and only that one. */
+  const bare = S.sel && S.view === 'NETWORK' && !S.query && !S.path
+    && S.hops === 1 && !S.filters.size && S.tab === 'DOSSIER'
+    && S.edgeTypes.size === ALL_EDGE_TYPES.length;
   try {
-    history.replaceState(null, '', s ? '?' + s : location.pathname);
+    history.replaceState(null, '',
+      bare ? '/node/' + encodeURIComponent(S.sel)
+           : (s ? '/?' + s : '/'));
   } catch (e) {
     urlSyncable = false;
   }
@@ -119613,6 +119642,22 @@ function readUrl(){
   if (p && p.includes('>')){
     const [a,b] = p.split('>');
     if (NODES.some(n=>n.id===a) && NODES.some(n=>n.id===b)) S.path = computePath(a,b,4);
+  }
+  /* A path segment is more explicit than a query param, so it wins. */
+  const R = l0ReadPath();
+  if (R){
+    if (R.kind === 'path'){
+      if (NODES.some(n=>n.id===R.from) && NODES.some(n=>n.id===R.to))
+        S.path = computePath(R.from, R.to, 4);
+    } else if (R.kind === 'node'){
+      if (NODES.some(n=>n.id===R.value)){ S.sel = R.value; S.view = 'NETWORK'; }
+    } else if (R.kind === 'q'){
+      S.query = R.value; S.view = 'SEARCH';
+    } else {
+      /* band: and era: are search filters, so route them through the grammar
+         rather than inventing a second way to express the same thing. */
+      S.query = R.kind + ':' + R.value; S.view = 'SEARCH';
+    }
   }
   urlLock = false;
 }
@@ -123146,7 +123191,9 @@ function renderAnalystChrome(){
   if (S.anBusy){ st.textContent = 'thinking'; }
   else if (!S.hasKey){
     st.classList.add('warn');
-    st.textContent = 'no API key configured -- running scripted replies. The dashboard stays fully usable by hand.';
+    st.textContent = S.analystEndpoint
+      ? 'analyst live on this deployment. No key needed.'
+      : 'no API key configured -- running scripted replies. The dashboard stays fully usable by hand.';
   } else {
     st.textContent = 'ready · key stored in this browser · ' + S.model + (modelCaps(S.model).effort ? ' · ' + S.effort : ' · effort not supported');
   }
@@ -123316,7 +123363,7 @@ async function askAnalyst(text){
     return;
   }
   const key = store.get('program.apiKey');
-  if (!key){ scriptedReply(text); return; }
+  if (!key && !S.analystEndpoint){ scriptedReply(text); return; }
   S.anBusy = true; renderAnalystChrome();
   const turn = { role:'ANALYST', text:'', thinking:true, actions:[], cites:[] };
   S.turns.push(turn); renderTranscript();
@@ -123329,12 +123376,21 @@ async function askAnalyst(text){
   };
   applyEffort(body, S.model, S.effort);
   try {
-    const r = await fetch('https://api.anthropic.com/v1/messages', {
-      method:'POST',
-      headers:{ 'content-type':'application/json', 'x-api-key':key,
-                'anthropic-version':'2023-06-01', 'anthropic-dangerous-direct-browser-access':'true' },
-      body: JSON.stringify(body),
-    });
+    /* The Worker pins the model, the ceiling and the effort itself, so it
+       is sent only what it needs and cannot be talked into more. */
+    const viaWorker = !key && S.analystEndpoint;
+    const r = viaWorker
+      ? await fetch(S.analystEndpoint, {
+          method:'POST',
+          headers:{ 'content-type':'application/json' },
+          body: JSON.stringify({ system: body.system, messages: body.messages }),
+        })
+      : await fetch('https://api.anthropic.com/v1/messages', {
+          method:'POST',
+          headers:{ 'content-type':'application/json', 'x-api-key':key,
+                    'anthropic-version':'2023-06-01', 'anthropic-dangerous-direct-browser-access':'true' },
+          body: JSON.stringify(body),
+        });
     if (r.status === 429){
       turn.thinking = false; turn.text = 'Rate limited by the API. Wait a moment and send again; the dashboard stays usable by hand meanwhile.';
       S.anBusy = false; renderAnalystChrome(); return;
@@ -124068,6 +124124,16 @@ if (typeof ResizeObserver !== 'undefined'){
 
 /* --- boot ------------------------------------------------------------------ */
 S.hasKey = !!store.get('program.apiKey');
+/* Ask once whether this deployment has a live analyst. A file opened from
+   disk has no origin to ask, so this fails fast and the board keeps its
+   scripted behaviour -- the offline artifact must never regress. */
+S.analystEndpoint = null;
+if (location.protocol === 'http:' || location.protocol === 'https:'){
+  fetch('/api/analyst/health').then(r => r.ok ? r.json() : null).then(j => {
+    if (j && j.live){ S.analystEndpoint = '/api/analyst';
+      if (typeof renderAnalystChrome === 'function') renderAnalystChrome(); }
+  }).catch(() => {});
+}
 S.model  = store.get('program.model')  || 'claude-sonnet-5';
 S.effort = store.get('program.effort') || 'balanced';
 S.railOpen = store.get('program.rail') !== '0';

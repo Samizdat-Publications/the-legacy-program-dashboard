@@ -209,30 +209,63 @@ const check = (c, label, detail = '') => {
     const isFull = await page.evaluate(() => !!window.__board.S.l0full);
     check(isFull, 'the full-graph renderer can be reached at all',
           'S.l0full=' + isFull + ' after frameNodes from another view');
-    const frames = async () => await page.evaluate(async () => {
+    /* SETTLE FIRST, THEN MEASURE. The first cut of this counted distinct frames in
+       a fixed window and read 1. That was luck: this renderer eases its camera on
+       a reframe (`cam.k += (camTo.k - cam.k) * 0.12`), so for the first second or
+       two the canvas changes for reasons that have nothing to do with motion. The
+       moment anything shifted the boot timing it read 2 and failed, and the trace
+       was 330, 32, 310, 310, 310, 310 -- a settle, not a flow.
+       So: wait for the canvas to go quiet, THEN require it to stay quiet. This is
+       strictly stronger than the original, because a time-direction flow never
+       goes quiet and now fails on the settle timeout instead of passing on a
+       lucky sample. */
+    const hashOnce = async () => await page.evaluate(() => {
       const cs = [...document.querySelectorAll('canvas')].filter(c => c.width > 200);
-      let best = 0;
+      const hs = [];
       for (const c of cs) {
         let cx; try { cx = c.getContext('2d'); } catch (e) { continue; }
         if (!cx) continue;
-        const g = () => { const d = cx.getImageData(0, 0, c.width, c.height).data; let h = 0;
-          for (let i = 0; i < d.length; i += 4*53) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
-          return h; };
-        const hs = []; for (let i = 0; i < 5; i++) { hs.push(g()); await new Promise(r => setTimeout(r, 380)); }
-        best = Math.max(best, new Set(hs).size);
+        const d = cx.getImageData(0, 0, c.width, c.height).data;
+        let h = 0;
+        for (let i = 0; i < d.length; i += 4*53) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+        hs.push(h);
       }
-      return best;
+      return hs.join('|');
     });
-    const atRest = await frames();
-    check(atRest === 1, 'the full graph asserts no time direction at rest',
-          `${atRest} distinct frame(s) with nothing selected`);
+    const settle = async (tries = 30) => {
+      let prev = await hashOnce();
+      for (let i = 0; i < tries; i++) {
+        await page.waitForTimeout(400);
+        const now = await hashOnce();
+        if (now === prev) return true;
+        prev = now;
+      }
+      return false;
+    };
+    const holdsStill = async (n = 5) => {
+      const first = await hashOnce();
+      for (let i = 0; i < n; i++) {
+        await page.waitForTimeout(400);
+        if (await hashOnce() !== first) return false;
+      }
+      return true;
+    };
+    const settled = await settle();
+    const still = settled && await holdsStill();
+    check(settled && still, 'the full graph asserts no time direction at rest',
+          settled ? (still ? 'settled, then held still for 2s'
+                           : 'settled and then started moving again')
+                  : 'never settled within 12s, which is what a flow on every line looks like');
     await page.evaluate(() => {
       const B = window.__board; B.S.sel = (B.L0DATA.l0 || [])[0].id;
     });
     await page.waitForTimeout(1400);
-    const onSel = await frames();
-    check(onSel > 1, "the full graph moves on the selected node's edges",
-          `${onSel} distinct frame(s) with a node selected`);
+    /* And the other half: with a node selected it must NOT hold still, or the
+       particle layer has been switched off rather than made honest. */
+    const movesOnSelect = !(await holdsStill(4));
+    check(movesOnSelect, "the full graph moves on the selected node's edges",
+          movesOnSelect ? 'canvas keeps changing while a node is selected'
+                        : 'canvas held still, so no particle is running at all');
     await page.evaluate(() => { window.__board.CMD.clearSelection(); });
   } catch (e) {
     check(false, 'the full-graph particle layer could be exercised', e.message.slice(0, 120));

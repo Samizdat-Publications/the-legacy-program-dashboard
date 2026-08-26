@@ -1,3 +1,5 @@
+L0_DEEPLINK_JS = '\n/* ---- deep links -----------------------------------------------------------\n   Query params already carried the whole state (`?sel=aawsap`), which was enough\n   for a file nobody could share. On a host the URL is the product: a path is what\n   you paste into a message, and `/node/aawsap` survives being read aloud where\n   `?sel=aawsap&v=NETWORK` does not.\n\n   Read accepts BOTH forms, so every link ever copied from the query-param era\n   keeps working. Write prefers the path form only for the plain single-selection\n   case -- the moment the state carries filters, a query, a traced path or a\n   non-default view, it falls back to query params, because a path that silently\n   drops half the state is worse than an ugly URL that keeps it. */\nconst L0_ROUTES = { node: \'sel\', band: \'band\', era: \'era\', q: \'q\' };\nfunction l0ReadPath(){\n  let segs;\n  try { segs = location.pathname.split(\'/\').filter(Boolean).map(decodeURIComponent); }\n  catch (e) { return null; }\n  if (!segs.length) return null;\n  const [head, ...rest] = segs;\n  if (head === \'path\' && rest.length === 2) return { kind: \'path\', from: rest[0], to: rest[1] };\n  if (L0_ROUTES[head] && rest.length >= 1) return { kind: head, value: rest.join(\'/\') };\n  return null;\n}\n'
+
 L0_SEARCH_JS = '\n/* ---- the search grammar ---------------------------------------------------\n   Design specified one field, space-separated tokens ANDed, a bare token as free\n   text, and a set of key:value filters. What shipped was the parent board\'s plain\n   substring match, so `via:bigelow` returned "0 of 956 entities" -- read as free\n   text and found nowhere, which is the worst kind of nothing: it looks like an\n   answer about the board rather than about the query.\n\n   `via:` is the one Design called out, because it reaches the shared members who\n   are NOT on the map: `via:bigelow` returns the map nodes joined by Robert Bigelow\n   without him ever being drawn. */\nfunction l0SearchIndex(){\n  const D = window.L0DATA || (window.__board && window.__board.L0DATA) || {};\n  const byId = {};\n  for (const n of (D.l0 || [])) byId[n.id] = n;\n  const flags = new Set(((D.packed || {}).flags) || []);\n  /* via: the summarised edges name the off-map members they route through. */\n  const via = {};\n  for (const e of (D.summarised || [])){\n    for (const m of (e.via || [])){\n      const k = String(m).toLowerCase();\n      (via[k] || (via[k] = new Set())).add(e.a);\n      via[k].add(e.b);\n    }\n  }\n  const viaLabel = {};\n  for (const k of Object.keys(via)){\n    const meta = (D.nodes || {})[k];\n    viaLabel[k] = ((meta && meta.label) || k).toLowerCase();\n  }\n  return { byId, flags, via, viaLabel, l0n: (D.l0 || []).length };\n}\nfunction l0ParseQuery(q){\n  const out = { free: [], f: [] };\n  for (const t of String(q).trim().split(/\s+/)){\n    if (!t) continue;\n    const m = t.match(/^([a-z]+):(.*)$/i);\n    if (m && m[2] !== \'\') out.f.push({ k: m[1].toLowerCase(), v: m[2].toLowerCase() });\n    else out.free.push(t.toLowerCase());\n  }\n  return out;\n}\nfunction l0Search(pool, q){\n  const Q = l0ParseQuery(q);\n  if (!Q.free.length && !Q.f.length) return [];\n  const IX = l0SearchIndex();\n  const NUM = { deg:\'deg\', claims:\'claims\', denials:\'dnu\' };\n  const num = (n, key, v) => {\n    const L = IX.byId[n.id]; if (!L) return false;\n    let got = L[NUM[key]];\n    if (key === \'denials\') got = (L.di||0) + (L.dr||0) + (L.dnu||0);\n    got = Number(got || 0);\n    const m = v.match(/^([<>]=?)?\s*(-?\d+(?:\.\d+)?)$/);\n    if (!m) return false;\n    const want = parseFloat(m[2]);\n    switch (m[1]){\n      case \'>\':  return got >  want;\n      case \'>=\': return got >= want;\n      case \'<\':  return got <  want;\n      case \'<=\': return got <= want;\n      default:   return got === want;\n    }\n  };\n  const has = (s, v) => String(s || \'\').toLowerCase().indexOf(v) >= 0;\n  return pool.filter(n => {\n    const L = IX.byId[n.id];\n    for (const {k, v} of Q.f){\n      switch (k){\n        case \'id\':       if (!has(n.id, v)) return false; break;\n        case \'cls\':      if (!has(n.cls, v)) return false; break;\n        case \'cluster\':  if (!has(n.cluster, v)) return false; break;\n        case \'tier\':     if (!L || !has(L.tier, v)) return false; break;\n        case \'band\':     if (!L || !has(L.band, v)) return false; break;\n        case \'era\':      if (!L || !has(L.col, v)) return false; break;\n        case \'role\':     if (!L || !(L.roles || []).some(r => has(r, v))) return false; break;\n        case \'flag\':     if (!IX.flags.has(n.id)) return false; break;\n        case \'isolated\': if (!L || !L.iso) return false; break;\n        case \'via\': {\n          /* match the MEMBER by id or label, then keep the map nodes they join */\n          let ok = false;\n          for (const key of Object.keys(IX.via)){\n            if (key.indexOf(v) < 0 && (IX.viaLabel[key] || \'\').indexOf(v) < 0) continue;\n            if (IX.via[key].has(n.id)) { ok = true; break; }\n          }\n          if (!ok) return false;\n          break;\n        }\n        case \'deg\': case \'claims\': case \'denials\':\n          if (!num(n, k, v)) return false; break;\n        default:\n          /* an unknown key is not silently ignored: it becomes free text, so a\n             typo narrows the result rather than quietly widening it */\n          if (!has(n.label + \' \' + n.id, k + \':\' + v)) return false;\n      }\n    }\n    if (!Q.free.length) return true;\n    const hay = (n.label + \' \' + n.id + \' \' + (n.cls||\'\') + \' \' + (n.cluster||\'\') + \' \'\n      + (n.sub||\'\') + \' \' + (n.loc||\'\') + \' \' + (n.narrative||\'\') + \' \'\n      + ((L && (L.roles||[]).join(\' \')) || \'\')).toLowerCase();\n    return Q.free.every(t => hay.indexOf(t) >= 0);\n  });\n}\n'
 
 #!/usr/bin/env python3
@@ -1679,6 +1681,121 @@ def apply(s, model, must_replace, layout=None):
         "     + (pool.length - (((window.__board&&window.__board.L0DATA)||{}).l0||[]).length) + ' below it.' : '')"
         " + '</span></div>'",
         "no-result state names what it did not search", 1); ok &= o
+    # -- DEEP LINKS. `?sel=aawsap` already carried the state; a path is what
+    #    survives being pasted into a message. Read accepts both so nothing that
+    #    was ever copied breaks; write prefers the path only when the state is a
+    #    plain single selection, because a path that drops half the state is
+    #    worse than an ugly URL that keeps it.
+    s, o = must_replace(s, "let urlSyncable = true;",
+        L0_DEEPLINK_JS + "let urlSyncable = true;",
+        "deep link helpers", 1); ok &= o
+    s, o = must_replace(s,
+        "  const s = q.toString();\n"
+        "  try {\n"
+        "    history.replaceState(null, \'\', s ? \'?\' + s : location.pathname);",
+        "  const s = q.toString();\n"
+        "  /* The plain single-selection case, and only that one. */\n"
+        "  const bare = S.sel && S.view === \'NETWORK\' && !S.query && !S.path\n"
+        "    && S.hops === 1 && !S.filters.size && S.tab === \'DOSSIER\'\n"
+        "    && S.edgeTypes.size === ALL_EDGE_TYPES.length;\n"
+        "  try {\n"
+        "    history.replaceState(null, \'\',\n"
+        "      bare ? \'/node/\' + encodeURIComponent(S.sel)\n"
+        "           : (s ? \'/?\' + s : \'/\'));",
+        "writeUrl emits a path for a bare selection", 1); ok &= o
+    s, o = must_replace(s,
+        "  const p = q.get(\'p\');\n"
+        "  if (p && p.includes(\'>\')){\n"
+        "    const [a,b] = p.split(\'>\');\n"
+        "    if (NODES.some(n=>n.id===a) && NODES.some(n=>n.id===b)) S.path = computePath(a,b,4);\n"
+        "  }\n"
+        "  urlLock = false;",
+        "  const p = q.get(\'p\');\n"
+        "  if (p && p.includes(\'>\')){\n"
+        "    const [a,b] = p.split(\'>\');\n"
+        "    if (NODES.some(n=>n.id===a) && NODES.some(n=>n.id===b)) S.path = computePath(a,b,4);\n"
+        "  }\n"
+        "  /* A path segment is more explicit than a query param, so it wins. */\n"
+        "  const R = l0ReadPath();\n"
+        "  if (R){\n"
+        "    if (R.kind === \'path\'){\n"
+        "      if (NODES.some(n=>n.id===R.from) && NODES.some(n=>n.id===R.to))\n"
+        "        S.path = computePath(R.from, R.to, 4);\n"
+        "    } else if (R.kind === \'node\'){\n"
+        "      if (NODES.some(n=>n.id===R.value)){ S.sel = R.value; S.view = \'NETWORK\'; }\n"
+        "    } else if (R.kind === \'q\'){\n"
+        "      S.query = R.value; S.view = \'SEARCH\';\n"
+        "    } else {\n"
+        "      /* band: and era: are search filters, so route them through the grammar\n"
+        "         rather than inventing a second way to express the same thing. */\n"
+        "      S.query = R.kind + \':\' + R.value; S.view = \'SEARCH\';\n"
+        "    }\n"
+        "  }\n"
+        "  urlLock = false;",
+        "readUrl accepts path segments", 1); ok &= o
+    # -- THE ANALYST, VIA THE WORKER. The board called api.anthropic.com straight
+    #    from the browser with the reader's own key in localStorage, which is right
+    #    for a file you double-click and wrong for a URL you send to someone: none
+    #    of them has a Console key, so every one of them gets the scripted branches
+    #    and the line "no API key configured".
+    #
+    #    So: a reader's own key still wins where they have set one, because it is
+    #    their key and their choice. Otherwise the board asks the same origin, and
+    #    only falls back to scripted replies when there is no endpoint either.
+    s, o = must_replace(s,
+        "  const key = store.get('program.apiKey');\n"
+        "  if (!key){ scriptedReply(text); return; }",
+        "  const key = store.get('program.apiKey');\n"
+        "  if (!key && !S.analystEndpoint){ scriptedReply(text); return; }",
+        "analyst falls back to scripted only when there is no endpoint either", 1); ok &= o
+    s, o = must_replace(s,
+        "    const r = await fetch('https://api.anthropic.com/v1/messages', {\n"
+        "      method:'POST',\n"
+        "      headers:{ 'content-type':'application/json', 'x-api-key':key,\n"
+        "                'anthropic-version':'2023-06-01', "
+        "'anthropic-dangerous-direct-browser-access':'true' },\n"
+        "      body: JSON.stringify(body),\n"
+        "    });",
+        "    /* The Worker pins the model, the ceiling and the effort itself, so it\n"
+        "       is sent only what it needs and cannot be talked into more. */\n"
+        "    const viaWorker = !key && S.analystEndpoint;\n"
+        "    const r = viaWorker\n"
+        "      ? await fetch(S.analystEndpoint, {\n"
+        "          method:'POST',\n"
+        "          headers:{ 'content-type':'application/json' },\n"
+        "          body: JSON.stringify({ system: body.system, messages: body.messages }),\n"
+        "        })\n"
+        "      : await fetch('https://api.anthropic.com/v1/messages', {\n"
+        "          method:'POST',\n"
+        "          headers:{ 'content-type':'application/json', 'x-api-key':key,\n"
+        "                    'anthropic-version':'2023-06-01', "
+        "'anthropic-dangerous-direct-browser-access':'true' },\n"
+        "          body: JSON.stringify(body),\n"
+        "        });",
+        "analyst routes through the Worker when the reader has no key", 1); ok &= o
+    # discover the endpoint once, on load, so the status line tells the truth
+    s, o = must_replace(s,
+        "S.hasKey = !!store.get('program.apiKey');",
+        "S.hasKey = !!store.get('program.apiKey');\n"
+        "/* Ask once whether this deployment has a live analyst. A file opened from\n"
+        "   disk has no origin to ask, so this fails fast and the board keeps its\n"
+        "   scripted behaviour -- the offline artifact must never regress. */\n"
+        "S.analystEndpoint = null;\n"
+        "if (location.protocol === 'http:' || location.protocol === 'https:'){\n"
+        "  fetch('/api/analyst/health').then(r => r.ok ? r.json() : null).then(j => {\n"
+        "    if (j && j.live){ S.analystEndpoint = '/api/analyst';\n"
+        "      if (typeof renderAnalystChrome === 'function') renderAnalystChrome(); }\n"
+        "  }).catch(() => {});\n"
+        "}",
+        "discover the analyst endpoint on load", 1); ok &= o
+    s, o = must_replace(s,
+        "    st.textContent = 'no API key configured -- running scripted replies. "
+        "The dashboard stays fully usable by hand.';",
+        "    st.textContent = S.analystEndpoint\n"
+        "      ? 'analyst live on this deployment. No key needed.'\n"
+        "      : 'no API key configured -- running scripted replies. "
+        "The dashboard stays fully usable by hand.';",
+        "status line reflects a live endpoint", 1); ok &= o
     return s, ok
 
 
