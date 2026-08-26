@@ -47,7 +47,7 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | program map (L0) | 110 nodes, all with dossiers |
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
-| built artifact | `dist/the-program.html`, 13.8 MB |
+| built artifact | `dist/the-program.html`, 14.7 MB |
 | gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 26 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
