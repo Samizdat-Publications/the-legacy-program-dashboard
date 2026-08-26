@@ -186,6 +186,18 @@ const CHECKS = [
     poison: p => ({ ...p, denseEdgeToggleInert: false }),
   },
   {
+    id: 'denial-marks-follow-the-adjudication',
+    label: 'the denial layer is drawn from the adjudication, not from edge order',
+    test: p => p.denyDirected > 0 && p.denyMarksOn > 0
+               && p.denyMarksAllAssoc < p.denyMarksOn * 0.25,
+    detail: p => `${p.denyDirected} directed · ${p.denyUndirected} undirected · `
+               + `${p.denyAssoc} association :: ${p.denyMarksOn} denial marks drawn, `
+               + `${p.denyMarksAllAssoc} once every edge is told it is an association`,
+    /* Poison both halves: a board with no directed denials at all, and a renderer
+       that keeps drawing them after the adjudication says not to. */
+    poison: p => ({ ...p, denyDirected: 0, denyMarksAllAssoc: p.denyMarksOn }),
+  },
+  {
     id: 'selection-survives-cell-mode',
     label: 'in cell mode the selected node still says which cell it is in',
     test: p => p.selCellHit === true && p.selCellStray === 0,
@@ -723,6 +735,64 @@ async function probe(page, opts = {}) {
           MAP.repaint();
           await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
         }
+      }
+      /* THE DENIAL MARKS ARE DRIVEN BY THE ADJUDICATION.
+         All 174 denial edges were read one at a time and given one of three
+         states; 38 of the 47 on the map are directed, 5 undirected, 4 association.
+         The map's job is to draw exactly that: an arrowhead where an issuer is
+         named, a perpendicular bar where the act has no named issuer, and NOTHING
+         where the edge is not a denial act.
+
+         THIS COUNTS DRAW CALLS, NOT PIXELS, and that is a deliberate step down
+         which is worth naming. Everything else in this file reads getImageData,
+         because pixels are what a reader sees. Here that failed for a reason no
+         amount of settling fixed: an arrowhead is a ~7px triangle at fit scale,
+         the map redraws continuously, and the denial red (#e8705f) is also the
+         absent-link cross colour -- so a whole-canvas colour count was dominated
+         by crosses and never moved. Instrumenting ctx.fill during one repaint
+         showed 1188 denial-coloured fills arriving while the pixel count sat at
+         25 and called the layer dead.
+         So: what this proves is that the RENDERER EMITTED the marks and that the
+         adjudication is what drives them. What it does NOT prove is that they are
+         visible or correctly placed -- `pointers-offset` and the screenshots carry
+         that. Stated here so nobody reads more into it than it can support. */
+      {
+        const DENY = '#e8705f';
+        const rest0 = MAP.opt.rest, lab0 = MAP.opt.labels;
+        const sel0 = B.S.sel, open0 = B.S.l0open;
+        const k1 = v.k, ox1 = v.ox, oy1 = v.oy;
+        MAP.opt.rest = true; MAP.opt.labels = true;
+        B.S.sel = null; B.S.l0open = [];
+        v.k = Math.max(0.63, MAP.fitScale());
+        v.ox = PADL - PADL * v.k; v.oy = PADT - PADT * v.k;
+
+        let fills = 0, strokes = 0;
+        const of = ctx.fill.bind(ctx), os = ctx.stroke.bind(ctx);
+        ctx.fill = function(){ if (String(ctx.fillStyle).toLowerCase() === DENY) fills++;
+                               return of.apply(ctx, arguments); };
+        ctx.stroke = function(){ if (String(ctx.strokeStyle).toLowerCase() === DENY) strokes++;
+                                 return os.apply(ctx, arguments); };
+        const settleMs = ms => new Promise(r => setTimeout(r, ms));
+        MAP.repaint(); await settleMs(700);
+        out.denyMarksOn = fills + strokes;
+
+        const isDn = e => (e.types || []).indexOf('denial') >= 0;
+        const saved = (D.directEdges || []).map(e => e.denialKind);
+        (D.directEdges || []).forEach(e => { if (isDn(e)) e.denialKind = 'association'; });
+        fills = 0; strokes = 0;
+        MAP.repaint(); await settleMs(700);
+        out.denyMarksAllAssoc = fills + strokes;
+
+        ctx.fill = of; ctx.stroke = os;
+        (D.directEdges || []).forEach((e, i) => { e.denialKind = saved[i]; });
+        const dn = (D.directEdges || []).filter(isDn);
+        out.denyDirected = dn.filter(e => e.denialKind === 'directed').length;
+        out.denyUndirected = dn.filter(e => e.denialKind === 'undirected').length;
+        out.denyAssoc = dn.filter(e => e.denialKind === 'association').length;
+        MAP.opt.rest = rest0; MAP.opt.labels = lab0;
+        B.S.sel = sel0; B.S.l0open = open0;
+        v.k = k1; v.ox = ox1; v.oy = oy1;
+        MAP.repaint(); await settleMs(300);
       }
       out.thinAmber = thinAmber; out.thinTotal = thinTotal;
       out.fullAmber = fullAmber; out.fullTotal = fullTotal;

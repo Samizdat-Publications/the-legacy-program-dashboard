@@ -908,6 +908,42 @@ def _datasets(m):
     return [(k, m[k]) for k in ("current", "legacy") if isinstance(m.get(k), dict)]
 
 
+@check("every chip label fits the chip it is drawn in")
+def _shorts_fit(b, html):
+    """A 205px chip at 1.0x holds about 37 monospace characters. Beyond that the
+    renderer middle-truncates, which Design called a safety net rather than a
+    design: `l0Fit` cannot know which half of a label matters, and it dropped the
+    citation from "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263)" --
+    the half that identifies the statute.
+
+    46 of 110 overflowed. They are authored in data/l0-shorts.json now, and this
+    keeps them that way: a node added later with a long label fails here rather
+    than quietly losing its distinguishing tail on the map.
+
+    Two nodes sharing a short is the other failure, and it is worse than a long
+    one -- "AARO Historical Record" for both Volume I and Volume II is a chip that
+    names the wrong document half the time."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad, seen = [], {}
+    for _, ds in _datasets(m):
+        for n in (ds.get("nodes") or []):
+            sh = (n.get("short") or "").strip()
+            if not sh:
+                bad.append(f"{n.get('id')}: no short at all")
+                continue
+            if len(sh) > 37:
+                bad.append(f"{n.get('id')}: short is {len(sh)} chars, over the 37 the chip "
+                           f"holds -- author one in data/l0-shorts.json: {sh[:50]!r}")
+            if sh in seen and seen[sh] != n.get("id"):
+                bad.append(f"{n.get('id')} and {seen[sh]} share the short {sh!r}; a chip that "
+                           f"names two nodes names the wrong one half the time")
+            seen[sh] = n.get("id")
+        break        # `current` is authoritative; legacy is a superseded snapshot
+    return bad[:40]
+
+
 @check("nothing in the image register fails silently")
 def _image_register(b, html):
     """`data/l0-images.json` is empty on purpose -- a record there asserts that a
@@ -1179,10 +1215,18 @@ def _dz_denialkind(b, html):
     official-denial`, "four official explanations for one event"; a person and their
     own bylined article. Red is reserved for something somebody did.
 
-    Asserts `denialKind` is only ever the string 'association' or absent, and that an
-    association never also names a denier, which would be a directed act and an
-    association at once. Absent means `undirected`, which is the correct default
-    because it claims the least."""
+    UPDATED 26 August 2026, when all 174 were adjudicated. This asserted that
+    denialKind was only ever 'association' or absent -- true while `association`
+    was the only verdict anyone had recorded, and false the moment the other two
+    were. A check that hardcodes the state of the data rather than the RULE about
+    it goes red on the work it was written to protect.
+
+    The rule is the vocabulary and its internal consistency:
+      association  not a directed act, so it must NOT name a denier
+      directed     a named issuer, so it MUST name one, and that denier must be
+                   one of the edge's own two ends
+      undirected   an act with no attributable issuer, so it must NOT name one
+    Absent still means undirected, which claims the least."""
     m = _layout()
     if not m:
         return ["data/l0-layout-model.json is missing"]
@@ -1192,10 +1236,21 @@ def _dz_denialkind(b, html):
             k = e.get("denialKind")
             if k is None:
                 continue
-            if k != "association":
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} has denialKind {k!r}; "
-                           f"the only named state is 'association'")
-            elif e.get("denier"):
+            if k not in ("association", "directed", "undirected"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} has denialKind {k!r}, "
+                           f"which is not one of the three states")
+            elif k == "directed":
+                dn = e.get("denier")
+                if not dn:
+                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'directed' and names "
+                               f"no denier -- a direction with nobody at the sharp end")
+                elif dn not in (e.get("a"), e.get("b")):
+                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dn!r}, "
+                               f"which is neither of its own two ends")
+            elif k == "undirected" and e.get("denier"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'undirected' and names a "
+                           f"denier -- if the issuer is known it is directed")
+            elif k == "association" and e.get("denier"):
                 bad.append(f"{key}: {e.get('a')}->{e.get('b')} is an association and "
                            f"also names a denier {e.get('denier')!r}")
     return bad
@@ -1226,16 +1281,39 @@ def _dz_queue(b, html):
         if not isinstance(r, list) or len(r) != 4 or not all(str(c).strip() for c in r):
             bad.append(f"queue row {r[0] if r else r!r} is not four filled columns: "
                        "field, what it is, where to pull it, what the design cannot say")
-    # every field the renderer reads and the data withholds today
-    need = {
-        "denialkind": "the three denial states",
-        "denier": "which end issued a denial",
-        "short": "a chip-length label",
-        "photo": "the chip glyph slot's image",
-        "dateend": "the end of a span",
-        "members": "the off-map neighbours",
+    # ---- which fields the data withholds, MEASURED ---------------------------
+    # This was a hardcoded list of six field names asserted to be missing. It went
+    # red the moment any of them was supplied -- denialKind, denier and short all
+    # landed on 26 August and the check complained about the rows being retired,
+    # which is the work it exists to protect. A check that hardcodes the STATE of
+    # the data rather than the RULE about it is a check with an expiry date.
+    #
+    # So: measure. A field is withheld when no node or edge carries it, and only
+    # then does it need a row.
+    ds0 = None
+    for _, d0 in _datasets(m):
+        ds0 = d0
+        break
+    nodes0 = (ds0 or {}).get("nodes") or []
+    edges0 = (ds0 or {}).get("edges") or []
+    dn0 = [e for e in edges0 if e.get("denial")]
+    READS = {
+        "denialkind": ("the three denial states",
+                       any(e.get("denialKind") for e in dn0)),
+        "denier":     ("which end issued a denial",
+                       any(e.get("denier") for e in dn0)),
+        "short":      ("a chip-length label",
+                       bool(nodes0) and all((n.get("short") or "") for n in nodes0)),
+        "photo":      ("the chip glyph slot's image",
+                       any(n.get("photo") for n in nodes0)),
+        "dateend":    ("the end of a span",
+                       any(n.get("y1") is not None for n in nodes0)),
+        "members":    ("the off-map neighbours",
+                       bool(nodes0) and all(n.get("members") for n in nodes0)),
     }
-    for key, why in need.items():
+    for key, (why, supplied) in READS.items():
+        if supplied:
+            continue
         alt = {"denier": "denial a/b", "dateend": "dateend"}.get(key, key)
         if key not in blob and alt.replace(" ", "") not in blob.replace(" ", ""):
             bad.append(f"the design reads `{key}` ({why}) and the data does not carry it, "
@@ -1853,6 +1931,17 @@ def self_test():
     # The register is empty, so the check passes on an empty dict and the poison has
     # to be a record. Four ways to intend an image and silently not publish one, plus
     # the credit rule, which is a licensing failure rather than a rendering one.
+    poison_shorts = {
+        # Two ways a chip lies: a label too long for it, and a label shared with
+        # another node. Both, so neither half of the check goes untested.
+        "every chip label fits the chip it is drawn in": [
+            lay(lambda m: m["current"]["nodes"][0].update(
+                short="A label far longer than the thirty-seven characters a chip can hold")),
+            lay(lambda m: m["current"]["nodes"][1].update(
+                short=m["current"]["nodes"][0]["short"])),
+        ],
+    }
+
     poison_images = {
         "nothing in the image register fails silently": {"images": {
             # clears, and nothing to draw
@@ -1894,8 +1983,14 @@ def self_test():
         # Two poisons, one per direction. A field the data withholds and the
         # queue does not name; and a row naming work the data has already done.
         "every field the design reads but the data withholds is in the backfill queue": [
+            # Aimed at `photo`, which the register keeps deliberately empty, so
+            # this poison stays valid for as long as that is true. It used to drop
+            # the denialKind row -- and when the 174 denials were adjudicated on
+            # 26 August, dropping that row became the CORRECT state and the poison
+            # silently stopped poisoning. A poison aimed at a field that might get
+            # filled has the same expiry date as the check it guards.
             lay(lambda m: m.__setitem__(
-                "gaps", [r for r in m["gaps"] if "denialKind" not in str(r[0])])),
+                "gaps", [r for r in m["gaps"] if "photo" not in str(r[0])])),
             lay(lambda m: m["gaps"].append(
                 ["C / A / D", "the three scored axes per node",
                  "straight off the board records", "band order is the measured mean C"])),
@@ -1923,6 +2018,8 @@ def self_test():
 
     print("self-test — each check must REJECT poisoned input\n")
     ok = True
+    poison_layout.update(poison_shorts)
+
     for name, fn in CHECKS_RUN:
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")

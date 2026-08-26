@@ -997,6 +997,40 @@ HEADER = """/* THE PROGRAM — {name}
 
 def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     os.makedirs(DATA, exist_ok=True)
+    # ---- the denial adjudication ------------------------------------------
+    # data/denial-adjudication.json carries a verdict for every denial edge:
+    # which of the three states it is, and where the record names an issuer,
+    # which END issued it. Stamped on here so every downstream stage -- build_l0,
+    # the extract, the layout model, the renderer -- reads one adjudicated
+    # record rather than re-deriving direction from [a,b].sort(), which is what
+    # put 22 of the 47 arrowheads on the map the wrong way round.
+    #
+    # Keyed on the edge's own two ends in record order. A verdict whose key
+    # matches no edge is an error, not a no-op: it means the research moved and
+    # the adjudication did not follow, and a silently ignored verdict would leave
+    # that edge reading as undirected for ever.
+    adj_path = os.path.join(ROOT, "data", "denial-adjudication.json")
+    if os.path.exists(adj_path):
+        with open(adj_path, encoding="utf-8") as fh:
+            adj = (json.load(fh) or {}).get("edges") or {}
+        matched = set()
+        for e in edges.values():
+            if e["type"] != "denial":
+                continue
+            r = adj.get(f"{e['a']}|{e['b']}") or adj.get(f"{e['b']}|{e['a']}")
+            if not r:
+                continue
+            matched.add(f"{e['a']}|{e['b']}")
+            e["denialKind"] = r.get("denialKind")
+            if r.get("denier"):
+                e["denier"] = r["denier"]
+        stray = [k for k in adj if k not in matched
+                 and "|".join(reversed(k.split("|"))) not in matched]
+        if stray:
+            print(f"  !! {len(stray)} denial verdict(s) match no edge on the board: "
+                  f"{stray[:4]} — the research moved and the adjudication did not follow",
+                  file=sys.stderr)
+
     os.makedirs(OUT, exist_ok=True)
     from datetime import date as _d
     today = _d.today().isoformat()

@@ -549,6 +549,26 @@ def short_label(s):
     return s.strip()
 
 
+# Authored chip labels. data/l0-shorts.json carries one for every node whose
+# derived short overflowed the 205px chip; the derivation stays as the fallback.
+# Both this file and tools/build_l0_layout.mjs read the same register, so a chip
+# never disagrees with itself depending on which stage drew it.
+_SHORTS = None
+
+
+def short_of(node_id, label):
+    global _SHORTS
+    if _SHORTS is None:
+        p = os.path.join(ROOT, "data", "l0-shorts.json")
+        try:
+            with open(p, encoding="utf-8") as fh:
+                _SHORTS = (json.load(fh) or {}).get("shorts") or {}
+        except FileNotFoundError:
+            _SHORTS = {}
+    a = _SHORTS.get(node_id)
+    return a.strip() if isinstance(a, str) and a.strip() else short_label(label)
+
+
 def build(path=BOARD):
     nodes, edges = load_board(path)
     adj, pair, dangling = adjacency(nodes, edges)
@@ -611,7 +631,7 @@ def build(path=BOARD):
                       for x in m["direct"] + [r["id"] for r in m["routed"]])
         x, y = pos[i]
         l0.append({
-            "id": i, "label": n["label"], "short": short_label(n["label"]),
+            "id": i, "label": n["label"], "short": short_of(i, n["label"]),
             "cls": n["cls"], "cluster": n["cluster"], "tier": n["tier"],
             "C": n["C"], "A": n["A"], "D": n["D"], "deg": deg[i],
             "claims": n["claims"], "t1": n["t1"], "x": x, "y": y,

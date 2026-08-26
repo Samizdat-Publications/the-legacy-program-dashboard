@@ -124,8 +124,19 @@ const GEO = {
   mapW: 2200,
 };
 
+/* Authored chip labels win over the derived ones. data/l0-shorts.json carries 46,
+   one for every node whose derived short overflowed the 205px chip -- see that
+   file for the rules. The derivation stays as the fallback for the other 64 and
+   for any node added later, so an unauthored node still gets a usable label
+   rather than nothing. */
+let AUTHORED_SHORTS = {};
+export function setAuthoredShorts(m){ AUTHORED_SHORTS = (m && m.shorts) || m || {}; }
 function shortLabel(s) {
   return s.replace(/\s*\([^)]*\)\s*$/, '').replace(/\s*[-\u2014\u2013:]\s.*$/, '').trim();
+}
+function shortOf(n) {
+  const a = AUTHORED_SHORTS[n.id];
+  return (typeof a === 'string' && a.trim()) ? a.trim() : shortLabel(n.label);
 }
 const yearOf = s => (s ? parseInt(String(s).slice(0, 4), 10) : null);
 const eraIndex = y => y == null ? null
@@ -164,7 +175,7 @@ export function normaliseCurrent(dx) {
   const nodes = dx.l0.map(n => {
     const ys = yearOf(n.dateStart), ye = yearOf(n.dateEnd);
     return ({
-    id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
+    id: n.id, label: n.label, short: shortOf(n), cls: n.cls,
     cluster: n.cluster, tier: n.tier, deg: n.deg, claims: n.claims, t1: n.t1,
     roles: n.roles || [],
     y0: ys,
@@ -216,16 +227,29 @@ export function normaliseCurrent(dx) {
   }
   const direct = dx.directEdges.map(e => {
     const ds = dnByPair.get([e.a, e.b].sort().join('|')) || [];
-    const named = [...new Set(ds.map(d => d.denier).filter(Boolean))];
+    /* Association links carry no denier by definition, so they are excluded from
+       the direction vote -- counting them would veto a direction every actual
+       denial act in the bundle agrees on. */
+    const acts = ds.filter(d => d.denialKind !== 'association');
+    const named = [...new Set(acts.map(d => d.denier).filter(Boolean))];
+    const directed = acts.length > 0 && named.length === 1 && acts.every(d => d.denier);
     return {
       a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
       types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
       dn: ds.map(d => [d.a, d.b]),
-      denier: (named.length === 1 && ds.every(d => d.denier)) ? named[0] : null,
-      /* `association` only when EVERY underlying record is one. A pair carrying
-         one real denial and one association is still a denial. */
-      denialKind: (ds.length && ds.every(d => d.denialKind === 'association'))
-        ? 'association' : null,
+      denier: directed ? named[0] : null,
+      /* ALL THREE STATES, not just one of them. This returned 'association' or
+         null, so an edge with a known issuer came through with denialKind null
+         and `denier` set beside it -- the pair contradicting itself, and the
+         renderer reading the null as "no adjudication yet".
+           association  only when EVERY underlying record is one. A pair carrying
+                        one real denial and one association is still a denial.
+           directed     when the denial acts all name the SAME issuer. Two ends
+                        denying each other is not a direction.
+           undirected   otherwise. Claims the least, which is the right default. */
+      denialKind: !ds.length ? null
+        : ds.every(d => d.denialKind === 'association') ? 'association'
+        : directed ? 'directed' : 'undirected',
     };
   });
   const summarised = dx.summarised.map(e => ({
@@ -304,7 +328,7 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
     }
     rows.sort((x, y) => x[4] - y[4] || (x[3] < y[3] ? -1 : x[3] > y[3] ? 1 : 0) || (x[1] < y[1] ? -1 : 1));
     return {
-      id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
+      id: n.id, label: n.label, short: shortOf(n), cls: n.cls,
       cluster: n.cluster, tier: n.tier, deg: deg(n.id), claims: n.claims, t1: n.t1,
       roles: roles.get(n.id) || [], y0: ys, y1: ye,
       span: (ys != null && ye != null && ye > ys) ? ye - ys : 0,
@@ -330,13 +354,31 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
       /* Same rule as the current path: a/b is not a denier, so direction is
          attested only where the record names one. */
       denier: (() => {
-        const dn = es.filter(e => e.t === 'denial');
-        const named = [...new Set(dn.map(e => e.denier).filter(Boolean))];
-        return (dn.length && named.length === 1 && dn.every(e => e.denier)) ? named[0] : null;
+        /* Association links carry no denier by definition, so counting them in
+           `every(e => e.denier)` would veto a direction that every actual denial
+           act in the bundle agrees on. */
+        const acts = es.filter(e => e.t === 'denial' && e.denialKind !== 'association');
+        const named = [...new Set(acts.map(e => e.denier).filter(Boolean))];
+        return (acts.length && named.length === 1 && acts.every(e => e.denier)) ? named[0] : null;
       })(),
+      /* All three states, not just the one. This used to return 'association' or
+         null, so a map edge with a known issuer came through with denialKind
+         null while `denier` was set beside it -- the pair contradicting itself.
+         An aggregated edge stands for several underlying links, so:
+           association  only if EVERY link is an association. One real denial in
+                        the bundle means the pair carries a denial.
+           directed     if the links that are denial acts all name the SAME
+                        issuer. Two ends denying each other is not a direction.
+           undirected   otherwise: an act, no single attributable issuer. It
+                        claims the least, which is the right default. */
       denialKind: (() => {
         const dn = es.filter(e => e.t === 'denial');
-        return (dn.length && dn.every(e => e.denialKind === 'association')) ? 'association' : null;
+        if (!dn.length) return null;
+        if (dn.every(e => e.denialKind === 'association')) return 'association';
+        const acts = dn.filter(e => e.denialKind !== 'association');
+        const named = [...new Set(acts.map(e => e.denier).filter(Boolean))];
+        return (acts.length && named.length === 1 && acts.every(e => e.denier))
+          ? 'directed' : 'undirected';
       })(),
     });
   }
@@ -749,6 +791,7 @@ export function layout(src, supplied, images) {
 }
 
 export function buildAll(inputs) {
+  setAuthoredShorts(inputs.shorts);
   const current = layout(normaliseCurrent(inputs.design), inputs.highlights, inputs.images);
   const legacy = inputs.extract
     ? layout(normaliseLegacy(inputs.extract, inputs.dossiers, inputs.docs), inputs.highlights, inputs.images)
@@ -785,9 +828,6 @@ export function buildAll(inputs) {
          standing instruction to redo finished work, and it made this file and the
          data disagree, which is the exact drift the row-count check was written
          for. verify.py now asserts the queue in BOTH directions. */
-      ['denial a/b', 'which end of a denial edge issued it',
-        'the merged board’s edge records: `a` issued it, `b` is the subject. Aggregating a pair loses it, so carry the pairs for denial edges',
-        'motion carries attested direction and nothing else, so without it the particle layer has nothing it may say at rest'],
       ['members direct/routed', 'the P1 split, on the MODEL rather than the extract',
         'design-extract.json already carries membersDirect and membersRouted; normaliseCurrent flattened them into memberCount. Now projected through — this row stays only until a consumer reads them',
         'without the split `members` is a roll-up to depth 3, so "5 on the map, 14 held back" cannot be made to sum to the degree'],
@@ -807,12 +847,16 @@ export function buildAll(inputs) {
       /* Added 26 August 2026, both from the implementation session. The standing
          rule is that any new field the design reads gets a row here saying what to
          pull and where from, so nobody has to re-derive the ask. */
-      ['denialKind + denial a/b', 'which of the three denial states each edge is',
-        'the 11 adjudicated non-acts get denialKind: "association"; the 12 directed ones carry the issuer/subject pair as `denier`. Read the labels one at a time — deriving them from the label text automatically is the same move as the convention that was "CONFIRMED" against a single agreeing sample. notes/DENIAL-DIRECTION-2026-08-26.md',
-        'the arrowhead and the particle. Absent, every denial degrades to the undirected bar, which claims the least and is the correct default'],
-      ['short ≤ 37 chars', 'a chip-length label per node',
-        'author them: 46 of 110 currently overflow the 205px chip. Drop the leading org where the band already says it, drop parenthetical glosses, keep the distinguishing tail',
-        'middle truncation is a safety net, not a design — authored shorts are the fix'],
+      /* RETIRED 26 August 2026. All 174 denial edges adjudicated one at a time
+         against a rule fixed before reading any of them: 124 directed, 36
+         association, 14 undirected. data/denial-adjudication.json is the record
+         and merge.py stamps it onto the edges. The shipped convention -- `a`
+         always issues -- was wrong on 34 of the 124.
+         notes/DENIAL-ADJUDICATION-2026-08-26.md */
+      /* RETIRED 26 August 2026. All 46 overlong labels authored in
+         data/l0-shorts.json; 0 of 110 now exceed the 37 characters the chip
+         holds, and `every chip label fits the chip it is drawn in` keeps it
+         that way. Middle truncation stays as the safety net it was meant to be. */
     ],
     current, legacy,
   };
@@ -843,6 +887,7 @@ async function main() {
     docs: has('research') ? glob('research') : [],
     highlights: highlightsFile,
     images: has('data/l0-images.json') ? rd('data/l0-images.json') : null,
+    shorts: has('data/l0-shorts.json') ? rd('data/l0-shorts.json') : null,
   });
 
   const json = JSON.stringify(out);

@@ -1745,12 +1745,38 @@ def merge_packed(model, layout):
     # why each one earned the space. Keyed a|b|kind because a pair can carry both a
     # direct edge and a summarised one and they are different objects.
     rest, roles = [], {}
+    # The adjudication travels with the edge. data/denial-adjudication.json is
+    # stamped onto the board by merge.py and aggregated per pair by
+    # build_l0_layout.mjs, but the page reads model["directEdges"], which is
+    # built by build_l0.py and carries only a/b/n/tier/types. So the verdicts
+    # reached the layout model and stopped there: the renderer read e.denialKind
+    # and got undefined for all 47, and every denial on the map drew as
+    # undirected -- the bar -- no matter what the record said. That is a quieter
+    # failure than the arrowheads it replaced, and it would have looked like the
+    # adjudication was simply cautious rather than not arriving at all.
+    dn_by_pair = {}
     for e in cur.get("edges", []):
         k = e["a"] + "|" + e["b"] + "|" + ("direct" if e["kind"] == "direct" else "shared")
         if e.get("rest"):
             rest.append(k)
         if e.get("role"):
             roles[k] = e["role"]
+        if e.get("denialKind") or e.get("denier") or e.get("dn"):
+            dn_by_pair["|".join(sorted((e["a"], e["b"])))] = {
+                "denialKind": e.get("denialKind"),
+                "denier": e.get("denier"),
+                "dn": e.get("dn") or [],
+            }
+    for e in model.get("directEdges", []):
+        r = dn_by_pair.get("|".join(sorted((e["a"], e["b"]))))
+        if not r:
+            continue
+        if r["denialKind"]:
+            e["denialKind"] = r["denialKind"]
+        if r["denier"]:
+            e["denier"] = r["denier"]
+        if r["dn"]:
+            e["dn"] = r["dn"]
 
     flags = [f["id"] for f in sorted(
         (cur.get("highlights") or {}).get("flags", []),
