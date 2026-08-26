@@ -146,6 +146,14 @@ const CHECKS = [
     poison: p => ({ ...p, flagHits: 0 }),
   },
   {
+    id: 'motion-only-where-attested',
+    label: 'nothing moves at rest, and the selected node\u2019s edges do',
+    test: p => p.stillFrames === 1 && p.selectedFrames > 1,
+    detail: p => `${p.stillFrames} distinct frame(s) at ${p.attnState} with nothing`
+               + ` selected, ${p.selectedFrames} with a node selected`,
+    poison: p => ({ ...p, stillFrames: 4 }),
+  },
+  {
     id: 'breath-touches-no-data-channel',
     label: 'the start-here breath never touches the chip stroke, which carries tier',
     /* Two channels on one property is the failure. The bloom must be able to run
@@ -474,6 +482,51 @@ async function probe(page, opts = {}) {
         out.breathStrokeStates = strokeSeen.size;
         out.breathOutlineStates = outSeen.size;
       } else { out.breathStrokeStates = -1; out.breathOutlineStates = -1; }
+    }
+    /* MOTION ONLY WHERE ATTESTED, tested on the rendered canvas rather than on the
+       model's flags. Design's own `motion_only_where_attested` guards the FLAGS and
+       passed for the whole of the first build while nothing moved at all -- a check
+       that cannot tell a still canvas from a moving one cannot police motion.
+       Two cases may move: a directed denial (none authored yet) and the selected
+       node's own edges, which assert nothing because the reader chose the end.
+       So with the breath off and nothing selected the canvas must be FROZEN, and
+       selecting a node must make it move. */
+    {
+      const hashC = () => {
+        const d = ctx.getImageData(0, 0, cvs.width, cvs.height).data;
+        let h = 0;
+        for (let i = 0; i < d.length; i += 4*53) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+        return h;
+      };
+      const St = B.S;
+      const open0 = St.l0open.slice();
+      St.l0open = [];
+      /* Re-query every time: renderChrome() rebuilds the control row on each click,
+         so a handle taken once goes stale and its textContent stops tracking. */
+      const attnBtn = () => [...document.querySelectorAll('.l0ctl button')]
+        .find(x => /BREATH|ONCE|STILL/.test(x.textContent));
+      for (let i = 0; i < 4; i++) {
+        const bt = attnBtn();
+        if (!bt || /STILL/.test(bt.textContent)) break;
+        bt.click();
+        await new Promise(r => setTimeout(r, 120));
+      }
+      out.attnState = (attnBtn() || {}).textContent || '(no control)';
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 900));
+      const q = new Set();
+      for (let i = 0; i < 4; i++) { q.add(hashC()); await new Promise(r => setTimeout(r, 400)); }
+      out.stillFrames = q.size;
+      const first = (D.l0 || []).find(n => (n.direct || []).length > 2) || (D.l0 || [])[0];
+      St.l0open = first ? [first.id] : [];
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 700));
+      const q2 = new Set();
+      for (let i = 0; i < 5; i++) { q2.add(hashC()); await new Promise(r => setTimeout(r, 350)); }
+      out.selectedFrames = q2.size;
+      St.l0open = open0;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
     }
     out.ctlBottom = Math.round(ctlBottom);
     out.headStrip = PADT;

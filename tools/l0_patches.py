@@ -291,7 +291,13 @@ function mountL0(host){
     && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
   let attn = REDUCED ? 'still' : 'breath';
   let loop = null, tStart = 0;
-  const animating = () => attn !== 'still' && !REDUCED && FLAGSET.length > 0 && opt.flags;
+  /* Motion runs for the breath OR for a selection. The selection case is not an
+     assertion about the record -- it is the reader's own act, showing which end of
+     each edge they are standing on -- so it does not need an attested direction
+     the way a denial does. */
+  const animating = () => !REDUCED && (
+       (attn !== 'still' && FLAGSET.length > 0 && opt.flags)
+    || S.l0open.length > 0);
   function stopLoop(){ if (loop) { cancelAnimationFrame(loop); loop = null; } }
   function startLoop(){
     if (loop || !animating()) return;
@@ -304,12 +310,13 @@ function mountL0(host){
       draw();
       /* ONCE runs a single pass and then leaves the flags at rest, which is the
          whole difference between it and BREATH. */
-      if (attn === 'once' && animT > 1400 + 14*130) return;
+      if (attn === 'once' && !S.l0open.length && animT > 1400 + 14*130) return;
       loop = requestAnimationFrame(step);
     };
     loop = requestAnimationFrame(step);
   }
   let animT = 0;
+  let lit0 = new Set();
   const ekey = (e, s) => e.a + '|' + e.b + '|' + (s ? 'shared' : 'direct');
   const cvs = document.createElement('canvas');
   host.appendChild(cvs);
@@ -716,6 +723,47 @@ function mountL0(host){
       ctx.lineTo(hx + Math.sin(ang)*3.2, hy - Math.cos(ang)*3.2);
       ctx.closePath(); ctx.fill();
     }
+    /* THE PARTICLE LAYER. Design: if something moves, the direction is attested.
+       Two cases qualify and no others. A directed denial, where the record names
+       the issuer -- none yet, so none draw. And an edge of the SELECTED node,
+       running outward from the node the reader is standing on, which asserts
+       nothing about the record because the reader chose the end.
+
+       A time-direction flow on every line is the treatment Design rejected, and
+       the inherited parent-board renderer still carries it: it flips by comparing
+       node dates, which states that the relationship runs from the earlier node to
+       the later one. For most of these edges the board makes no such claim. */
+    if (!REDUCED && S.l0open.length && (lit0.has(e.a) || lit0.has(e.b))){
+      const selA = S.l0open.indexOf(e.a) >= 0;
+      const selB = S.l0open.indexOf(e.b) >= 0;
+      if (selA || selB){
+        const P = [[x1,y1],[cx,cy],[x2,y2]];
+        const segs = [Math.hypot(cx-x1, cy-y1), Math.hypot(x2-cx, y2-cy)];
+        const len = segs[0] + segs[1];
+        if (len > 6){
+          const vel = 74 * view.k;                  /* px per second, Design's default */
+          const dur = Math.max(1600, len / Math.max(1, vel) * 1000);
+          /* Deterministic per-edge phase, so nothing about a line depends on draw
+             order and two runs of the same frame look identical. */
+          let hsh = 0;
+          const kstr = e.a + '|' + e.b;
+          for (let i = 0; i < kstr.length; i++) hsh = (hsh*31 + kstr.charCodeAt(i)) >>> 0;
+          let u = ((animT + (hsh % 100)/100 * dur) % dur) / dur;
+          if (!selA) u = 1 - u;                     /* always outward from the reader */
+          const d = u * len;
+          const i2 = d <= segs[0] ? 0 : 1;
+          const t2 = i2 === 0 ? (segs[0] ? d/segs[0] : 0)
+                              : (segs[1] ? (d - segs[0])/segs[1] : 0);
+          const px0 = P[i2][0] + (P[i2+1][0] - P[i2][0]) * t2;
+          const py0 = P[i2][1] + (P[i2+1][1] - P[i2][1]) * t2;
+          ctx.globalAlpha = base * 0.75;
+          ctx.fillStyle = summarised ? '#a795e8' : '#5ed4e6';
+          ctx.beginPath();
+          ctx.arc(px0, py0, Math.max(1.1, 1.6*view.k), 0, Math.PI*2);
+          ctx.fill();
+        }
+      }
+    }
     ctx.globalAlpha = base;
   }
 
@@ -760,6 +808,7 @@ function mountL0(host){
 
     const dim = S.l0open.length ? 0.16 : 1;
     const lit = new Set(S.l0open);
+    lit0 = lit;
     for (const id of S.l0open){
       const n = byId[id];
       if (n) for (const m of n.direct) lit.add(m);
@@ -1028,7 +1077,7 @@ function mountL0(host){
     p.innerHTML = h;
     host.appendChild(p);
   }
-  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); renderLegend(); }
+  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); renderLegend(); startLoop(); }
 
   /* ---- events --------------------------------------------------------- */
   host.addEventListener('mousedown', ev => {
@@ -1485,9 +1534,9 @@ def apply(s, model, must_replace, layout=None):
         "mount the entry surface", 1); ok &= o
     s, o = must_replace(s,
         "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); "
-        "renderRegister(); renderLegend(); }",
+        "renderRegister(); renderLegend(); startLoop(); }",
         "  function repaint(){ paintMap(); renderChrome(); renderLedgers();\n"
-        "    renderRegister(); renderLegend(); renderL0Entry(host); }",
+        "    renderRegister(); renderLegend(); renderL0Entry(host); startLoop(); }",
         "repaint includes the entry surface", 1); ok &= o
 
     # card + skip clicks
