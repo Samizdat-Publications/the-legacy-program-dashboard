@@ -1053,6 +1053,43 @@ def _dz_denialkind(b, html):
     return bad
 
 
+@check("the rarity order the board implies still matches the pin")
+def _dz_rarity(b, html):
+    """Design's `rarity_order_matches_the_pin`, the one named check that was never
+    built as a gate step. The generator has always REPORTED drift in
+    `figures.rarityDrift` and `state_snapshot.py` prints it; nothing failed on it.
+
+    Two tags with near-equal counts can swap rarity rank between research passes and
+    take every node carrying both with them, which moves them between BANDS -- and
+    the band order is the vertical argument. `oversight` (64) and `disclosure` (61)
+    are within 10% and are INVERTED on the legacy snapshot, which is the pin doing
+    its job rather than failing.
+
+    So this asserts the pin holds on the dataset that SHIPS, and that drift is
+    reported rather than silently obeyed. Legacy drift is expected and is not a
+    failure: CLAUDE.md is explicit that editing RARITY_PIN to silence it is wrong."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    cur = m.get("current") or {}
+    f = cur.get("figures") or {}
+    pin, obs = f.get("rarityPin"), f.get("rarityObserved")
+    bad = []
+    if not pin or not obs:
+        return ["current/figures is missing rarityPin or rarityObserved"]
+    if list(pin) != list(obs):
+        bad.append("the shipping dataset's tag counts imply "
+                   f"{list(obs)} against the pin {list(pin)} -- decide it, do not "
+                   "edit RARITY_PIN to silence it")
+    if f.get("rarityDrift"):
+        bad.append("current reports rarityDrift " + str(f["rarityDrift"]))
+    # and the drift channel itself must exist, or the report is not being made
+    for key, d in _datasets(m):
+        if "rarityDrift" not in (d.get("figures") or {}):
+            bad.append(f"{key}: figures carries no rarityDrift, so drift is not reported at all")
+    return bad
+
+
 @check("denial direction is published only where the record names a denier")
 def _dz_denier(b, html):
     """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
@@ -1592,6 +1629,10 @@ def self_test():
         # a time-direction flow on every line
         "motion is attested, not decorative":
             lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
+        # a research pass that inverts a near-tie on the shipping dataset
+        "the rarity order the board implies still matches the pin":
+            lay(lambda m: m["current"]["figures"].update(
+                rarityObserved=list(reversed(m["current"]["figures"]["rarityPin"])))),
         # a denier invented for an edge, naming a node that is not even on it --
         # which is what publishing a direction derived from [a,b].sort() amounts to
         "denial direction is published only where the record names a denier":

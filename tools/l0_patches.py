@@ -66,6 +66,27 @@ L0_CSS = """
 .l0meta{color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;
   background:rgba(15,18,22,0.88);padding:5px 7px;border:1px solid #1d242b}
 .l0ctl{position:absolute;right:12px;top:10px;z-index:4;display:flex;gap:6px}
+/* DIVERGENCE from the comp, and the reason is space. Design's legend sits in a
+   panel beside the canvas; this board's map fills its host, so an always-open
+   legend covered the NO DATE column and a third of 2017-2026. It is collapsible
+   and starts collapsed: the rank numerals on the chips already make the set
+   enumerable, and one click puts every reason on screen. A reason one click away
+   is not the same as no reason, which is what shipped before today. */
+.l0legend{position:absolute;z-index:5;right:12px;bottom:12px;width:330px;
+  background:rgba(20,25,32,0.96);border:1px solid #3a2f1c}
+.l0legend.open{max-height:52%;overflow:auto}
+.l0legend:not(.open) .l0lg{display:none}
+.l0legend h5{margin:0;padding:8px 10px;cursor:pointer;
+  border-bottom:1px solid #3a2f1c;
+  font:600 8.5px/1.3 'IBM Plex Mono',monospace;letter-spacing:.13em;
+  text-transform:uppercase;color:#efb555;display:flex;justify-content:space-between}
+.l0legend h5 .x{cursor:pointer;color:#5c6672;font-size:11px}
+.l0lg{display:flex;gap:8px;padding:7px 10px;border-bottom:1px solid #22282f;cursor:pointer}
+.l0lg:last-child{border-bottom:0}
+.l0lg:hover{background:#182029}
+.l0lg .r{flex:0 0 18px;font:600 9px/1.4 'IBM Plex Mono',monospace;color:#efb555}
+.l0lg .t{font:500 9.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0lg .w{font:400 9px/1.5 'IBM Plex Mono',monospace;color:#8d97a4;margin-top:3px}
 .l0ledger{position:absolute;z-index:6;width:306px;background:#141920;
   border:1px solid #262e36;box-shadow:0 10px 30px rgba(0,0,0,.6)}
 .l0lh{display:flex;align-items:flex-start;gap:8px;padding:9px 10px;
@@ -198,6 +219,24 @@ const L0_PACK = {
    controls rather than constants because each one answers a different question and
    a reader who wants the arrangement alone should be able to get it. */
 const L0_OPT = { rest:true, flags:true, labels:true };
+/* BREATH / ONCE / STILL, per Design's start-here layer. At rest the flagged set
+   surfaces together over about a second, holds, fades, and the board sits clean
+   before the next: the board raising its hand ONCE reads better than fourteen
+   separate events, so they are in sync, not staggered. ONCE does it a single time
+   on load in rank order. Between breaths only the rank numeral stays, so the set
+   is findable and the highlight is never permanently on the map. */
+const L0_ATTN = ['breath', 'once', 'still'];
+const L0_BREATH_MS = 7000;
+/* The keyframe, restated as a function of time because this is a canvas: off
+   until 12%, up to full by 40%, back to nothing by 64%, clean until the cycle
+   turns over. */
+function l0Breath(ms){
+  const p = (ms % L0_BREATH_MS) / L0_BREATH_MS;
+  if (p >= 0.64) return 0;
+  if (p <= 0.12) return p / 0.12;
+  if (p <= 0.40) return 1;
+  return 1 - (p - 0.40) / 0.24;
+}
 
 function mountL0(host){
   const D = L0DATA, byId = {};
@@ -237,7 +276,40 @@ function mountL0(host){
   /* PK.flags is already rank-ordered by merge_packed, so rank is position + 1. */
   const FLAGRANK = {};
   (PK.flags || []).forEach((id, i) => { FLAGRANK[id] = i + 1; });
+  const FLAGSET = PK.flags || [];
+  /* The reasons. Design: "A pointer without its reason is the thing this board
+     exists not to do." All fourteen are authored in data/l0-highlights.json and
+     until now reached the analyst's "where do I start" branch and nothing else. */
+  const FLAGWHY = {};
+  for (const f of ((D.highlights || {}).flags || [])) FLAGWHY[f.id] = f.why || '';
   const opt = Object.assign({}, L0_OPT);
+  /* ALL MOTION STOPS DEAD under prefers-reduced-motion. Read once and treated as
+     a hard override: the attention control cannot turn it back on, because a
+     reader who has asked the operating system for no motion has not asked this
+     board for an exception. */
+  const REDUCED = !!(window.matchMedia
+    && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  let attn = REDUCED ? 'still' : 'breath';
+  let loop = null, tStart = 0;
+  const animating = () => attn !== 'still' && !REDUCED && FLAGSET.length > 0 && opt.flags;
+  function stopLoop(){ if (loop) { cancelAnimationFrame(loop); loop = null; } }
+  function startLoop(){
+    if (loop || !animating()) return;
+    tStart = 0;
+    const step = ts => {
+      loop = null;
+      if (dead || !animating()) return;
+      if (!tStart) tStart = ts;
+      animT = ts - tStart;
+      draw();
+      /* ONCE runs a single pass and then leaves the flags at rest, which is the
+         whole difference between it and BREATH. */
+      if (attn === 'once' && animT > 1400 + 14*130) return;
+      loop = requestAnimationFrame(step);
+    };
+    loop = requestAnimationFrame(step);
+  }
+  let animT = 0;
   const ekey = (e, s) => e.a + '|' + e.b + '|' + (s ? 'shared' : 'direct');
   const cvs = document.createElement('canvas');
   host.appendChild(cvs);
@@ -656,6 +728,36 @@ function mountL0(host){
     bands();
     columns();
 
+    /* THE START-HERE WASH. A fit-width device only: in dense mode the flagged cell
+       already carries its own amber background at exactly the right position, so a
+       second mark would be a duplicate, and routing it through a second band
+       geometry is what put fringes half a row above their cells in Design's own
+       comp. Deduped by cell, because two flags in one cell is one region. */
+    const bAlpha = attn === 'still' || REDUCED ? 0
+                 : attn === 'once' ? Math.min(1, animT / 1100)
+                 : l0Breath(animT);
+    if (opt.flags && !dense() && bAlpha > 0.01){
+      const rows = bandRows(), seen = {};
+      for (const id of FLAGSET){
+        const n = byId[id];
+        if (!n) continue;
+        const key = n.band + '|' + n.col;
+        if (seen[key]) continue;
+        seen[key] = 1;
+        const b = rows.find(r => r.id === n.band);
+        const c = (PK.eras||[]).find(e => String(e.id) === String(n.col));
+        if (!b || !c) continue;
+        const x = SX(c.x), y = SY(b.y), w = c.w*view.k, h = b.h*view.k;
+        ctx.globalAlpha = bAlpha;
+        ctx.fillStyle = 'rgba(239,181,85,0.045)';
+        ctx.fillRect(x, y, w, h);
+        ctx.strokeStyle = 'rgba(239,181,85,0.14)';
+        ctx.lineWidth = 1;
+        ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
+        ctx.globalAlpha = 1;
+      }
+    }
+
     const dim = S.l0open.length ? 0.16 : 1;
     const lit = new Set(S.l0open);
     for (const id of S.l0open){
@@ -705,7 +807,19 @@ function mountL0(host){
         if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
         ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
         chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
-        if (opt.flags && FLAG.has(n.id)) pointer(n);
+        if (opt.flags && FLAG.has(n.id)){
+        pointer(n);
+        /* The bloom rides an OUTLINE drawn outside the chip, never the chip's own
+           stroke: the stroke carries entity tier, and a keyframe touching it would
+           wipe that channel for most of the cycle. Two channels on one property is
+           the failure Design named. */
+        if (bAlpha > 0.01){
+          ctx.globalAlpha = bAlpha * 0.95;
+          ctx.strokeStyle = L0_PACK.pointer; ctx.lineWidth = 1;
+          ctx.strokeRect(SX(n.x) - 1.5, SY(n.y) - 1.5, n.w*view.k + 3, n.h*view.k + 3);
+          ctx.globalAlpha = 1;
+        }
+      }
         ctx.globalAlpha = 1;
       }
     }
@@ -774,7 +888,10 @@ function mountL0(host){
                 + '<button class="hopb" data-one="1">1:1 READ</button>'
                 + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
                 + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
-                + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>';
+                + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>'
+                + '<button class="hopb'+(attn!=='still'?' on':'')+'" data-attn="1" title="'
+                + (REDUCED ? 'the system asks for reduced motion' : 'start-here attention')
+                + '">' + (REDUCED ? 'STILL (SYSTEM)' : attn.toUpperCase()) + '</button>';
   }
 
   function renderLedgers(){
@@ -885,7 +1002,33 @@ function mountL0(host){
     t.style.top  = Math.min(H-110, my+14)+'px';
   }
 
-  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); }
+  /* THE LEGEND. Design: "A pointer without its reason is the thing this board
+     exists not to do." Fourteen reasons are authored in data/l0-highlights.json
+     and until now reached the analyst's scripted branch and nothing else, so the
+     map carried fourteen amber pointers and no account of why any of them was
+     pointed at. Ranked, clickable, and gone when START HERE is off. */
+  let legendOpen = false;
+  function renderLegend(){
+    const old = host.querySelector('.l0legend');
+    if (old) old.remove();
+    if (!opt.flags || !FLAGSET.length) return;
+    const p = el('div','l0legend' + (legendOpen ? ' open' : ''));
+    let h = '<h5 data-legend="toggle"><span>' + (legendOpen ? '\u25be' : '\u25b8')
+          + ' START HERE \u00b7 ' + FLAGSET.length + (legendOpen ? '' : ' \u00b7 why')
+          + '</span><span class="x" data-opt="flags">&times;</span></h5>';
+    FLAGSET.forEach((id, i) => {
+      const n = byId[id];
+      if (!n) return;
+      h += '<div class="l0lg" data-node="'+esc(id)+'">'
+         + '<span class="r">'+String(i+1).padStart(2,'0')+'</span>'
+         + '<span><span class="t">'+esc(n.short || n.label || id)+'</span>'
+         + '<div class="w">'+esc(FLAGWHY[id] || 'no reason given in the highlights file')+'</div>'
+         + '</span></div>';
+    });
+    p.innerHTML = h;
+    host.appendChild(p);
+  }
+  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); renderLegend(); }
 
   /* ---- events --------------------------------------------------------- */
   host.addEventListener('mousedown', ev => {
@@ -930,8 +1073,22 @@ function mountL0(host){
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
     if (ev.target.closest('[data-fit]')){ centreOn(fitScale()); repaint(); return; }
     if (ev.target.closest('[data-one]')){ cornerOn(1); repaint(); return; }
+    if (ev.target.closest('[data-legend]')){
+      legendOpen = !legendOpen; renderLegend(); return;
+    }
+    if (ev.target.closest('[data-attn]')){
+      if (REDUCED) return;                      /* the override is not negotiable */
+      attn = L0_ATTN[(L0_ATTN.indexOf(attn) + 1) % L0_ATTN.length];
+      stopLoop(); animT = 0;
+      renderChrome(); startLoop(); repaint();
+      return;
+    }
     const o = ev.target.closest('[data-opt]');
-    if (o){ const k = o.getAttribute('data-opt'); opt[k] = !opt[k]; repaint(); return; }
+    if (o){
+      const k = o.getAttribute('data-opt'); opt[k] = !opt[k];
+      if (k === 'flags'){ stopLoop(); animT = 0; startLoop(); }
+      renderChrome(); repaint(); return;
+    }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
     const f = ev.target.closest('[data-full]');
@@ -949,12 +1106,13 @@ function mountL0(host){
      funding band with no column head and no band label in view. */
   if (fk >= L0_LABEL_DROP) centreOn(fk); else cornerOn(1);
   repaint();
+  startLoop();
   const ro = new ResizeObserver(() => { measure(); clampView(); repaint(); });
   ro.observe(host);
   return {
     repaint, pairs: [],   /* INSIGHTS() reaches for this; see renderNetworkChrome */
     opt,
-    destroy(){ dead = true; ro.disconnect(); if (raf) cancelAnimationFrame(raf); },
+    destroy(){ dead = true; ro.disconnect(); stopLoop(); if (raf) cancelAnimationFrame(raf); },
     fitScale, view,
   };
 }
@@ -1326,9 +1484,10 @@ def apply(s, model, must_replace, layout=None):
         "  renderL0Entry(host);\n  measure();\n  const fk = fitScale();",
         "mount the entry surface", 1); ok &= o
     s, o = must_replace(s,
-        "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); }",
+        "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); "
+        "renderRegister(); renderLegend(); }",
         "  function repaint(){ paintMap(); renderChrome(); renderLedgers();\n"
-        "    renderRegister(); renderL0Entry(host); }",
+        "    renderRegister(); renderLegend(); renderL0Entry(host); }",
         "repaint includes the entry surface", 1); ok &= o
 
     # card + skip clicks

@@ -146,6 +146,16 @@ const CHECKS = [
     poison: p => ({ ...p, flagHits: 0 }),
   },
   {
+    id: 'breath-touches-no-data-channel',
+    label: 'the start-here breath never touches the chip stroke, which carries tier',
+    /* Two channels on one property is the failure. The bloom must be able to run
+       its whole cycle without the tier stroke changing colour once. */
+    test: p => p.breathStrokeStates === 1 && p.breathOutlineStates > 1,
+    detail: p => `over 7s the chip stroke held ${p.breathStrokeStates} colour(s) while the`
+               + ` bloom outside it took ${p.breathOutlineStates}`,
+    poison: p => ({ ...p, breathStrokeStates: 3 }),
+  },
+  {
     id: 'overview-is-never-anonymous',
     label: 'below the label threshold every occupied cell prints its count',
     /* The state this replaces drew 110 rectangles with nothing in them: no
@@ -441,6 +451,30 @@ async function probe(page, opts = {}) {
     } else { endTrunc = -1; }
     out.endTrunc = endTrunc; out.midTrunc = midTrunc; out.fittedLabels = fitted;
     out.endTruncEx = endTruncEx;
+    /* THE BREATH MUST NOT TOUCH A PROPERTY THAT CARRIES DATA. Design named the
+       failure: putting the bloom on box-shadow wiped the entity-tier stroke it
+       shares. Here the bloom rides an outline drawn OUTSIDE the chip, so the
+       chip's own stroke -- which carries tier -- can never be part of the
+       animation. Tested over a full cycle rather than at one instant: sample the
+       stroke pixel and a pixel just outside it many times across 7 seconds, and
+       require the stroke to be CONSTANT while the outside pixel VARIES. */
+    {
+      const fl = (D.l0 || []).find(n => (PK.flags || []).indexOf(n.id) >= 0);
+      if (fl) {
+        const r = { x: fl.x*v.k + v.ox, y: fl.y*v.k + v.oy, w: fl.w*v.k, h: fl.h*v.k };
+        const sx = Math.round(r.x + r.w - 1), sy = Math.round(r.y + r.h/2);  /* on the stroke */
+        const ox = Math.round(r.x + r.w + 2), oy = sy;                       /* just outside */
+        const key = (x, y) => { const q = px(x, y); return q[0]+','+q[1]+','+q[2]; };
+        const strokeSeen = new Set(), outSeen = new Set();
+        for (let i = 0; i < 26; i++) {
+          strokeSeen.add(key(sx, sy));
+          outSeen.add(key(ox, oy));
+          await new Promise(r2 => setTimeout(r2, 300));
+        }
+        out.breathStrokeStates = strokeSeen.size;
+        out.breathOutlineStates = outSeen.size;
+      } else { out.breathStrokeStates = -1; out.breathOutlineStates = -1; }
+    }
     out.ctlBottom = Math.round(ctlBottom);
     out.headStrip = PADT;
     out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);
