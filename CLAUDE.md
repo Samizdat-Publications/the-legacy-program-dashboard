@@ -14,8 +14,12 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-packed.md` after this. It is
-the current one. Two earlier handoffs from 25 August are **superseded** and should be read
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-UX.md` after this. **It is the
+current one**, and what it says is that the data work is done and gated and the SHELL is now
+the problem: FIT shows the count matrix instead of the map, the dossier dock takes half the
+window, and a START HERE pick zooms in rather than fitting. §9 carries the located causes.
+`notes/HANDOFF-2026-08-26-packed.md` is the previous one and is still accurate on the packed
+layout and the pipeline. Two earlier handoffs from 25 August are **superseded** and should be read
 as record only: `notes/HANDOFF-2026-08-25-audit.md` (still accurate on the source audit, but
 its open list is stale -- the packed layout is built and the highlights are signed off) and
 `notes/HANDOFF-2026-08-25-claude-code.md` (says 18 verify checks when there are 38, and
@@ -332,7 +336,39 @@ surface" includes markup, not just copy.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
-> **TOP OF THE LIST: two editorial decisions, both of them from having looked at the map.**
+> **TOP OF THE LIST: THE SHELL, NOT THE DATA. Read `notes/HANDOFF-2026-08-26-UX.md` first.**
+> The data work is done and gated. What is left is that **the board is hard to use**, reported
+> by Stewart from the live site on 26 August 2026 with screenshots. He is right on every point,
+> and the four causes are located in the source, not guessed:
+>
+> | | where | what |
+> |---|---|---|
+> | **A** | `tools/l0_patches.py:253` | `L0_LABEL_DROP = 0.62` does **two jobs**: "labels off" AND "collapse to counts". Fit at 1920 lands at 0.608, so **FIT shows the count matrix instead of the map**. Split it: keep 0.62 for labels, add `L0_CELL_MODE = 0.30` for the collapse |
+> | **B** | `tools/l0_patches.py:2568` | the dossier dock is `innerWidth * 0.5`. At 1920 the map gets under 40% of the window, so AUTO correctly re-fits it to 0.29x, which reads as broken |
+> | **C** | `tools/l0_patches.py:2004` | `focus()` forces `view.k >= 1.15`, so a START HERE pick drops a first-time reader **inside** the map. It should CEDE and fit -- `showOnMap()` already does exactly that |
+> | **D** | `.l0panel` | the node popover has no awareness of the measured `PAD.t`, so it prints over the crumb and the era heads |
+>
+> **A is the smallest change with the biggest effect and should go first.** When you split the
+> constant, **re-read** the five canvas checks that drive `v.k = 0.45` to reach dense mode --
+> at 0.45 that is no longer dense and they will pass while testing nothing. Aim them at
+> `L0_CELL_MODE`, not at a literal.
+>
+> **Stewart proposed swapping the analyst and dossier docks** (analyst to the right rail,
+> dossier to the full-width bottom strip). Endorsed, and for shape as much as for space: the
+> dossier is prose and wants width, the analyst is a transcript and wants a column.
+> **Do not build it without a mockup screenshotted at 1366 / 1920 / 2560 and shown to Stewart.**
+> The last three layout changes built directly were all wrong on the first cut.
+>
+> **The tooling answer is `tools/walk.js`**, not a download: Playwright and Chromium are
+> already installed. A camera, not a check, on the `look.js` contract -- click every control,
+> screenshot each state, and record console errors, overlapping interactive rects, clipped
+> text, map scale and map share of window into `dist/shots/walk/REPORT.md`. The overlap and
+> occupancy records are the two that catch what Stewart is seeing, and no current check looks
+> at more than the one state it was written for.
+
+> **DONE, 26 August 2026: the two editorial decisions are answered and built.** Kept as
+> record. Note that the answer to question 1 is what created UX defect A above -- cell mode
+> and label-drop were answered with the same constant.
 > ~~LOOK AT THE MAP~~ **DONE, 26 August 2026** — and the reason it sat undone is that §3's
 > table said a cloud session could not. It can. `notes/LOOKING-2026-08-26.md` is the record.
 > Four defects were found and fixed in the first pass, two of which no check could have
