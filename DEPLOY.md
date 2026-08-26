@@ -51,7 +51,31 @@ The Pages branch is a label on an upload, not a claim about git: pinning it to
 `master` means every deploy lands on the clean URL no matter which branch is checked
 out. `tools\build_site.py` prints the command with the flag already in it.
 
-It prints the live URL when it finishes. Every later deploy is the same three lines.
+### Three lines in the output that look wrong and are not
+
+Every later deploy is the same three lines of command. Three lines of *output* have
+each raised a false alarm already:
+
+| what it prints | what it means |
+|---|---|
+| `Warning: Your working directory is a git repo and has uncommitted changes` | Wrangler stamps the deployment with the current commit and says this whenever anything is modified. It does not stop or change the upload. `site/` is gitignored, so it is never the cause. |
+| `Success! Uploaded 0 files (1 already uploaded)` | Cloudflare already holds that exact file, so there was nothing new to send. Two deploys of the same build in a row produce this on the second. It is a successful deploy, not a skipped one. |
+| `Deployment complete! Take a peek over at https://<hash>.the-program-zxz.pages.dev` | The per-deployment alias. Wrangler prints one for **every** deploy, production included. Seeing a hashed address here does **not** mean the upload went to preview. |
+
+Because of that last row the printed URL cannot tell you whether production moved.
+**The only reliable check is to fetch the production hostname and compare it to the
+build**, which is a job for a session rather than for you:
+
+```
+curl -sS -L https://the-program-zxz.pages.dev/the-program.html | tr -d '\r' | sha256sum
+sha256sum site/index.html
+```
+
+`tr -d '\r'` is not optional. A build made on Windows carries CRLF line endings, so the
+live file is larger than the local one by exactly its line count and hashes differently
+while being the same page. On 26 August that difference was 124,802 bytes against
+124,802 lines, and the two matched once the carriage returns were stripped.
+
 
 **The live board is https://the-program-zxz.pages.dev** — first deployed 26 August
 2026. Cloudflare appended `-zxz` because `the-program.pages.dev` was already taken by
