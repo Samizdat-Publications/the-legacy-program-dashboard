@@ -776,6 +776,15 @@ export function buildAll(inputs) {
       ['photo / photoCredit / photoKind', 'one image per node',
         'the convention is already set on the sibling board: save to assets/photos/<id>.jpg, add `photo` and `photoCredit` to the record, and follow PHOTOS.md’s four-state clearance. This board needs one addition — photoKind: "portrait" for a person, "mark" for an institutional logo, because a logo must not be cropped. Emit as data/l0-images.json keyed by node id; only CLEARS and ASK ship, and ASK carries the reason',
         'the chip glyph slot and the dossier tile are built and waiting — see §H'],
+      /* Added 26 August 2026, both from the implementation session. The standing
+         rule is that any new field the design reads gets a row here saying what to
+         pull and where from, so nobody has to re-derive the ask. */
+      ['denialKind + denial a/b', 'which of the three denial states each edge is',
+        'the 11 adjudicated non-acts get denialKind: "association"; the 12 directed ones carry the issuer/subject pair as `denier`. Read the labels one at a time — deriving them from the label text automatically is the same move as the convention that was "CONFIRMED" against a single agreeing sample. notes/DENIAL-DIRECTION-2026-08-26.md',
+        'the arrowhead and the particle. Absent, every denial degrades to the undirected bar, which claims the least and is the correct default'],
+      ['short ≤ 37 chars', 'a chip-length label per node',
+        'author them: 46 of 110 currently overflow the 205px chip. Drop the leading org where the band already says it, drop parenthetical glosses, keep the distinguishing tail',
+        'middle truncation is a safety net, not a design — authored shorts are the fix'],
     ],
     current, legacy,
   };

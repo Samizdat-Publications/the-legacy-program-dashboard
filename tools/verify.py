@@ -1053,6 +1053,48 @@ def _dz_denialkind(b, html):
     return bad
 
 
+@check("every field the design reads but the data withholds is in the backfill queue")
+def _dz_queue(b, html):
+    """Design's `queue_covers_every_field_read`. Must reject "this doc and the page
+    disagreeing" -- the same drift class the reproduction correction fixed once.
+
+    The queue is how the design degrades honestly instead of guessing: a field the
+    renderer reads and the data does not supply has to be a NAMED TASK with a place
+    to pull it from, or it is just a silent hole. Two rows were added on 26 August
+    (`denialKind` and the `short` budget) because the standing rule is that any new
+    field the design reads gets a row.
+
+    Asserts every field this build reads and does not yet have is named in `gaps`,
+    and that each row carries all four columns."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    rows = m.get("gaps") or []
+    if not rows:
+        return ["the model carries no backfill queue at all"]
+    blob = " ".join(str(c) for r in rows for c in r).lower()
+    bad = []
+    for r in rows:
+        if not isinstance(r, list) or len(r) != 4 or not all(str(c).strip() for c in r):
+            bad.append(f"queue row {r[0] if r else r!r} is not four filled columns: "
+                       "field, what it is, where to pull it, what the design cannot say")
+    # every field the renderer reads and the data withholds today
+    need = {
+        "denialkind": "the three denial states",
+        "denier": "which end issued a denial",
+        "short": "a chip-length label",
+        "photo": "the chip glyph slot's image",
+        "dateend": "the end of a span",
+        "members": "the off-map neighbours",
+    }
+    for key, why in need.items():
+        alt = {"denier": "denial a/b", "dateend": "dateend"}.get(key, key)
+        if key not in blob and alt.replace(" ", "") not in blob.replace(" ", ""):
+            bad.append(f"the design reads `{key}` ({why}) and the data does not carry it, "
+                       f"but no backfill row names it")
+    return bad
+
+
 @check("the rarity order the board implies still matches the pin")
 def _dz_rarity(b, html):
     """Design's `rarity_order_matches_the_pin`, the one named check that was never
@@ -1629,6 +1671,10 @@ def self_test():
         # a time-direction flow on every line
         "motion is attested, not decorative":
             lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
+        # a queue that has stopped naming a field the renderer reads
+        "every field the design reads but the data withholds is in the backfill queue":
+            lay(lambda m: m.__setitem__(
+                "gaps", [r for r in m["gaps"] if "denialKind" not in str(r[0])])),
         # a research pass that inverts a near-tie on the shipping dataset
         "the rarity order the board implies still matches the pin":
             lay(lambda m: m["current"]["figures"].update(

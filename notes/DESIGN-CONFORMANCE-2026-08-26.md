@@ -60,7 +60,48 @@ Gate: **40 verify checks, 16 canvas assertions.** New: `overview_is_never_anonym
 change a pixel in dense mode, and must change many where chips draw),
 `axis_type_readable_at_every_scale`.
 
-Still open: the start-here legend, cell wash and breath, motion, and the search grammar.
+**Batches 3 and 4 are built, and every item that does not need research is now done.**
+
+- **The start-here legend**, ranked, with each flag's reason. Collapsible and collapsed
+  by default, which is a divergence: Design's legend sits beside the canvas and this
+  board's map fills its host, so an always-open one covered the NO DATE column.
+- **The cell wash**, fit-width only, deduped by cell.
+- **The breath cycle**, 7s, in sync rather than staggered. BREATH / ONCE / STILL.
+- **`prefers-reduced-motion`** as a hard override the control cannot undo.
+- **Selection particles**, outward from the node the reader is standing on, 74px/s,
+  deterministic per-edge phase. Denial particles remain blocked on authoring `denier`.
+- **The search grammar**, all of it, `via:` included. The no-result state names what it
+  did not search.
+- **The backfill queue** grew to Design's nine rows.
+
+### All seventeen of Design's checks now exist
+
+| | |
+|---|---|
+| built before this session | 9 |
+| built this session | 8: `no_unsourced_arrowhead`, `overview_is_never_anonymous`, `overview_draws_no_orphan_edges`, `axis_type_readable_at_every_scale`, `labels_truncate_in_the_middle`, `no_two_channels_on_one_property`, `rarity_order_matches_the_pin`, `queue_covers_every_field_read` |
+
+Plus four this build added that Design did not name: `head-row-clear`, `denial direction
+is published only where the record names a denier`, `a denial that is not a directed act
+carries no denial styling`, and a **render-level** `motion_only_where_attested` (Design's
+own guards the model's flags and passed for the whole first build while nothing moved).
+
+**Gate: 42 verify checks · 40 audit re-derivations · 23 runtime assertions · 18 canvas
+assertions.** Nine of nine steps green.
+
+## 10. What is genuinely left, and none of it is code
+
+| | why it is not code |
+|---|---|
+| `denialKind` on the 11 non-acts, `denier` on the 12 directed denials | reading 174 labels one at a time. Deriving them from the label text automatically is the same move as the convention that was "CONFIRMED" against one agreeing sample |
+| 46 `short` values over 37 characters | authoring |
+| `members[]`, the direct/routed split, `dateEnd` | pipeline backfill |
+| the photo tile itself | the register is empty on purpose, and a render branch with no data to exercise it is untested code. The **slot is reserved** and the class letter fills it |
+| image sourcing | licensing judgement about real people's faces. Must not run unattended |
+
+One thing remains unresolved rather than deferred: the inherited `mountNetwork` renderer
+carries a time-direction particle flow, the exact treatment Design rejected. It mounts on
+`S.l0full`, and three attempts to reach that state failed.
 
 ---
 
