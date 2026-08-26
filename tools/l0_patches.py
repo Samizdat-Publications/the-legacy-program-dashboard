@@ -87,8 +87,32 @@ L0_CSS = """
 .l0chip:hover .x{color:#e8705f}
 .l0meta{color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;
   background:rgba(15,18,22,0.88);padding:5px 7px;border:1px solid #1d242b}
-.l0ctl{flex:0 0 auto;margin-left:auto;display:flex;gap:6px;flex-wrap:wrap;
-  justify-content:flex-end}
+.l0ctl{flex:0 1 auto;min-width:0;margin-left:auto;display:flex;gap:6px;
+  flex-wrap:wrap;justify-content:flex-end}
+/* The scale a fit button would produce, printed on the button. Dimmer than the
+   label: it is the consequence, not the action. */
+.l0ctl .hopb .sc{color:#5c6672;margin-left:5px;font-weight:400}
+.l0ctl .hopb.on .sc{color:#5ed4e6}
+/* AUTO / HELD. Not a button -- it reports which of the two the camera is in, and
+   the way back to AUTO is to press a fit button, which is what its title says. */
+.l0cam{align-self:center;padding:0 8px;font:500 8.5px/1 'IBM Plex Mono',monospace;
+  letter-spacing:.13em;color:#5c6672;border:1px solid #262e36;height:25px;
+  display:inline-flex;align-items:center;cursor:help}
+/* A FOLDED PANEL IS A SPINE, NOT A NARROW PANEL. The first cut of FIT ALL simply
+   set the dossier to 30px and left its contents in place, so the board grew a
+   column of single letters stacked down the right edge -- unreadable, and it read
+   as damage rather than as a folded panel. Design: "a folded panel keeps its label
+   and one click restores it."
+   So: hide the contents outright and print one rotated label that is the restore
+   control. Nothing about the panel's state is lost, and the way back is the thing
+   you are looking at. */
+#dock.dock-spine{overflow:hidden;cursor:pointer;position:relative}
+#dock.dock-spine > *{display:none}
+#dock.dock-spine::after{content:'DOSSIER \2014 CLICK TO OPEN';position:absolute;
+  left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);
+  writing-mode:vertical-rl;white-space:nowrap;
+  font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#8d97a4}
+#dock.dock-spine:hover::after{color:#5ed4e6}
 /* DIVERGENCE from the comp, and the reason is space. Design's legend sits in a
    panel beside the canvas; this board's map fills its host, so an always-open
    legend covered the NO DATE column and a third of 2017-2026. It is collapsible
@@ -359,6 +383,26 @@ function mountL0(host){
      the note in tools/build_l0_layout.mjs. */
   const GEO = PK.geo || {};
   const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
+  /* PAD.t IS MEASURED, not trusted. geo.headRow is a constant in the model -- 76,
+     chosen when the control row was one line of six buttons -- and the era heads
+     are drawn immediately below it. Adding the two fit scales and the AUTO/HELD
+     chip made the row wider than the map at narrow widths, where it either
+     overflowed under the dossier (measured: the BREATH button, 15 dead sample
+     points, blocked by .dock-grip and .edoss) or, once allowed to wrap, would have
+     dropped its second line straight onto the era labels.
+
+     Both failures are the same mistake -- a constant standing in for something
+     that varies -- and it is the `w - 12*k` chip bug for the third time in this
+     file. So the strip reserves what the row actually occupies. Any future control
+     can be added without anyone remembering to retune a number, and head-row-clear
+     keeps guarding the result. */
+  const HEAD_MIN = GEO.headRow || 46;
+  function measureHead(){
+    const el = host.querySelector('.l0head');
+    if (!el) { PAD.t = HEAD_MIN; return; }
+    const h = el.getBoundingClientRect().height;
+    PAD.t = Math.max(HEAD_MIN, Math.ceil(h) + 20);
+  }
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
   /* PK.flags is already rank-ordered by merge_packed, so rank is position + 1. */
@@ -426,11 +470,60 @@ function mountL0(host){
      A grid knows its extent: the model states worldW and worldH, and the chip is
      inside it. So the two constants are gone rather than merely unused -- on a grid
      they were wrong, not redundant. */
-  /* Which zoom the reader is in, so FIT and 1:1 can show it. Cleared to null by
-     any manual pan or wheel: once the camera has been moved by hand, neither
+  /* Which zoom the reader is in, so the fit buttons can show it. Cleared to null
+     by any manual pan or wheel: once the camera has been moved by hand, neither
      button describes where you are, and lighting one up would be a claim the
      board cannot support. */
   let zoom = 'fit';
+  /* AUTO until the reader's first gesture, then HELD. Design: "never move the
+     camera under a hand that is already moving it". While AUTO, every change to
+     the box -- a resize, the dossier opening, the rail folding -- re-fits. That
+     was the real defect behind "the map is never able to fit": the ResizeObserver
+     called measure() and clampView() and never re-fitted, so opening the dossier
+     narrowed the map and left the camera exactly where it was, now showing less
+     of the board than a moment earlier. */
+  let camMode = 'auto';
+  function hold(){ camMode = 'held'; }
+
+  /* Design asks for two fit buttons, each printing the scale it would produce, so
+     the cost of an open dossier is a number on screen rather than a feeling.
+     Their study overlays the panels on a full-width canvas, so their pair is "fit
+     what is left" against "fit everything and let the panels cover the overlap".
+
+     THIS BOARD IS BUILT DIFFERENTLY and the pair has to be re-derived rather than
+     copied. The shell is `grid-template-columns: var(--rail-w) minmax(0,1fr)
+     var(--dock-w)`, so the panels are grid COLUMNS: they take the map's width
+     rather than covering it. There is no overlap here to fit under. Copying the
+     labels would have shipped a FIT ALL that did the same thing as FIT ROOM and
+     printed a second identical number for ever.
+
+     Same information, honest for this layout: FIT fits the room there is, FIT ALL
+     folds the panels away and fits the width that frees. The difference between
+     the two numbers is still exactly the price of what is open. */
+  function panelPx(){
+    const cs = getComputedStyle(document.documentElement);
+    const n = v => parseFloat(cs.getPropertyValue(v)) || 0;
+    const app = document.getElementById('app');
+    const railOff = !!(app && app.classList.contains('rail-off'));
+    const dock = document.getElementById('dock');
+    const dockW = dock ? dock.getBoundingClientRect().width : n('--dock-w');
+    return { rail: railOff ? 0 : n('--rail-w'), dock: dockW };
+  }
+  /* The scale a given content width would produce. fitScale() is this at the
+     width the map actually has. */
+  function scaleFor(w, h){
+    return Math.min((w - PAD.l - 16) / (PK.worldW - PAD.l),
+                    (h - PAD.t - 16) / (PK.worldH - PAD.t));
+  }
+  function roomScale(){ return scaleFor(W, H); }
+  function allScale(){
+    const p = panelPx();
+    /* Folding leaves a labelled spine, not nothing -- a panel that vanishes
+       cannot be got back. */
+    const SPINE = 30;
+    const freed = Math.max(0, p.dock - SPINE) + Math.max(0, p.rail - SPINE);
+    return scaleFor(W + freed, H);
+  }
   function fitScale(){
     /* Fit the CELLS into the space left after the chrome, not the whole world
        into the whole canvas. Fitting the world would scale the reserved strips
@@ -1037,8 +1130,26 @@ function mountL0(host){
        They were OVERVIEW and 1:1 READ, and OVERVIEW read as a separate mode
        rather than as the zoom it is -- CLAUDE.md recorded a reader finding "the
        one control that shows the whole map" hard to identify. */
-    z.innerHTML = '<button class="hopb'+(zoom==='fit'?' on':'')+'" data-fit="1">FIT</button>'
+    /* Each fit button prints the scale it would produce. With nothing open the two
+       numbers are identical, and that is the point: the difference IS the cost of
+       the dossier. The state chip says whether the camera is still following the
+       box or has been taken over by hand. */
+    const rs = roomScale(), as = allScale();
+    const x2 = v => v.toFixed(2) + '\u00d7';
+    z.innerHTML = '<button class="hopb'+(zoom==='fit'?' on':'')+'" data-fit="1">'
+                +   'FIT <span class="sc">'+x2(rs)+'</span></button>'
+                + '<button class="hopb'+(zoom==='all'?' on':'')+'" data-fitall="1" '
+                +   'title="Fold the rail and the dossier to labelled spines and fit '
+                +   'the width that frees. One click restores them.">'
+                +   'FIT ALL <span class="sc">'+x2(as)+'</span></button>'
                 + '<button class="hopb'+(zoom==='one'?' on':'')+'" data-one="1">1:1</button>'
+                + '<span class="l0cam" title="'
+                +   (camMode === 'auto'
+                       ? 'The map re-fits whenever the box changes -- a resize, the '
+                         + 'dossier opening, the rail folding.'
+                       : 'You have moved the camera, so nothing moves it under you. '
+                         + 'Press a fit button to re-arm.')
+                +   '">' + (camMode === 'auto' ? 'AUTO' : 'HELD') + '</span>'
                 + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
                 + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
                 + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>'
@@ -1181,7 +1292,46 @@ function mountL0(host){
     p.innerHTML = h;
     host.appendChild(p);
   }
-  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); renderLegend(); startLoop(); }
+  function repaint(){
+    /* renderChrome first, then measure what it produced, and only then paint the
+       map -- the map's top reserve depends on the height the control row actually
+       took. Painting first would draw one frame against the previous reserve, and
+       on a width change that frame is the one the reader sees. */
+    renderChrome();
+    const t0 = PAD.t;
+    measureHead();
+    if (PAD.t !== t0) clampView();
+    paintMap(); renderLedgers(); renderRegister(); renderLegend(); startLoop();
+  }
+
+  /* FIT ALL folds the rail and the dossier to spines and lets the box change do
+     the work: the ResizeObserver is already the one path that reacts to the box,
+     so this deliberately does NOT fit here. Fitting here as well would run two
+     fits against two different measurements of the same moment, which is the
+     drift clampView() exists to prevent. */
+  function foldPanels(){
+    const app = document.getElementById('app');
+    if (app) app.classList.add('rail-off');
+    if (typeof S !== 'undefined') S.railOpen = false;
+    if (typeof setDockOpen === 'function') setDockOpen(false);
+    const dock = document.getElementById('dock');
+    if (dock){
+      dock.classList.add('dock-spine');
+      dock.classList.remove('dock-wide');
+      dock.style.width = '30px';
+      document.documentElement.style.setProperty('--dock-w', '30px');
+    }
+  }
+  /* One click anywhere on the spine puts it back. Bound on the document rather
+     than on the element because renderDock rebuilds the dock's insides. */
+  document.addEventListener('click', ev => {
+    const sp = ev.target.closest('#dock.dock-spine');
+    if (!sp) return;
+    sp.classList.remove('dock-spine');
+    sp.style.width = '';
+    document.documentElement.style.removeProperty('--dock-w');
+    if (typeof setDockOpen === 'function') setDockOpen(!!(typeof S !== 'undefined' && S.sel));
+  });
 
   /* Chip labels are fitted with ctx.measureText, so the geometry the map draws
      depends on which font is actually resolved at draw time. The faces are
@@ -1206,7 +1356,7 @@ function mountL0(host){
       const dx = ev.clientX-drag.x, dy = ev.clientY-drag.y;
       if (Math.abs(dx)+Math.abs(dy) > 3) moved = true;
       view.ox = drag.ox+dx; view.oy = drag.oy+dy;
-      if (moved) zoom = null;      /* moved by hand: neither button describes this */
+      if (moved){ zoom = null; hold(); }   /* taken by hand */
       clampView();
       paintMap(); renderChrome(); renderLedgers();
       return;
@@ -1230,14 +1380,20 @@ function mountL0(host){
     const b = host.getBoundingClientRect(), mx = ev.clientX-b.left, my = ev.clientY-b.top;
     const k2 = Math.max(0.18, Math.min(2.2, view.k * (ev.deltaY < 0 ? 1.12 : 1/1.12)));
     view.ox = mx - (mx-view.ox)*(k2/view.k); view.oy = my - (my-view.oy)*(k2/view.k);
-    view.k = k2; zoom = null; clampView(); repaint();
+    view.k = k2; zoom = null; hold(); clampView(); repaint();
   }, { passive:false });
   host.addEventListener('click', ev => {
     const c = ev.target.closest('[data-close]');
     if (c) return CMD.collapse(c.getAttribute('data-close'));
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
-    if (ev.target.closest('[data-fit]')){ zoom='fit'; centreOn(fitScale()); repaint(); return; }
-    if (ev.target.closest('[data-one]')){ zoom='one'; cornerOn(1); repaint(); return; }
+    /* A fit button RE-ARMS the camera. That is the way back from HELD, and it is
+       the only one: nothing else silently takes the camera off the reader. */
+    if (ev.target.closest('[data-fit]')){
+      camMode='auto'; zoom='fit'; centreOn(roomScale()); repaint(); return; }
+    if (ev.target.closest('[data-fitall]')){
+      camMode='auto'; zoom='all'; foldPanels(); return; }
+    if (ev.target.closest('[data-one]')){
+      hold(); zoom='one'; cornerOn(1); repaint(); return; }
     if (ev.target.closest('[data-legend]')){
       legendOpen = !legendOpen; renderLegend(); return;
     }
@@ -1285,8 +1441,23 @@ function mountL0(host){
   zoom = 'fit';
   repaint();
   startLoop();
-  const ro = new ResizeObserver(() => { measure(); clampView(); repaint(); });
+  /* One path for every change to the box, and while AUTO it RE-FITS rather than
+     merely clamping. Clamping alone was the defect behind "the map is never able
+     to fit": open the dossier, the map narrows, the camera stays put and shows
+     less of the board than it did a second earlier.
+     The window listener is a fallback -- ResizeObserver covers the element, but a
+     zoom change or a devicePixelRatio flip can move the box without the observer
+     firing on some engines, and a fit that silently stops fitting is the whole
+     failure mode of this file. */
+  function boxChanged(){
+    measure();
+    if (camMode === 'auto'){ centreOn(zoom === 'all' ? allScale() : roomScale()); }
+    clampView();
+    repaint();
+  }
+  const ro = new ResizeObserver(boxChanged);
   ro.observe(host);
+  window.addEventListener('resize', boxChanged);
   return {
     repaint, pairs: [],   /* INSIGHTS() reaches for this; see renderNetworkChrome */
     opt,
@@ -1666,10 +1837,9 @@ def apply(s, model, must_replace, layout=None):
         "  renderL0Entry(host);\n  measure();\n  const fk = fitScale();",
         "mount the entry surface", 1); ok &= o
     s, o = must_replace(s,
-        "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); "
-        "renderRegister(); renderLegend(); startLoop(); }",
-        "  function repaint(){ paintMap(); renderChrome(); renderLedgers();\n"
-        "    renderRegister(); renderLegend(); renderL0Entry(host); startLoop(); }",
+        "    paintMap(); renderLedgers(); renderRegister(); renderLegend(); startLoop();",
+        "    paintMap(); renderLedgers(); renderRegister(); renderLegend();\n"
+        "    renderL0Entry(host); startLoop();",
         "repaint includes the entry surface", 1); ok &= o
 
     # card + skip clicks

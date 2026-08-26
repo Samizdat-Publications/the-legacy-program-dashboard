@@ -375,11 +375,14 @@ const check = (c, label, detail = '') => {
             for (let fy = 0.2; fy <= 0.8; fy += 0.3) {
               const t = document.elementFromPoint(
                 Math.round(r2.x + r2.width * fx), Math.round(r2.y + r2.height * fy));
-              if (!(t && (t === el || el.contains(t)))) { unreachable++; }
+              if (!(t && (t === el || el.contains(t)))) { unreachable++;
+                if (!window.__deadWhy) window.__deadWhy = [];
+                window.__deadWhy.push(el.textContent.trim().slice(0,14) + ' @' + fx.toFixed(2)
+                  + ' blocked by ' + (t ? (t.className || t.tagName) : 'nothing')); }
             }
         }
         const cvs = document.querySelector('.l0wrap canvas');
-        r({ buttons: btns.length, overlapped, unreachable,
+        r({ buttons: btns.length, overlapped, unreachable, why: (window.__deadWhy||[]).slice(0,6),
             mapW: cvs ? Math.round(cvs.parentElement.getBoundingClientRect().width) : 0 });
       }, 1600));
     });
@@ -390,7 +393,7 @@ const check = (c, label, detail = '') => {
           'every map control is clickable across its whole face',
           geom.unreachable === 0
             ? `${geom.buttons} buttons, every sample point reaches its own button`
-            : `${geom.unreachable} sample points hit something else`);
+            : `${geom.unreachable} sample points hit something else :: ${(geom.why||[]).join(' | ')}`);
     await page.evaluate(() => { window.__board.CMD.clearSelection(); });
   } catch (e) {
     check(false, 'the head strip could be measured with the dock open', e.message.slice(0, 120));
