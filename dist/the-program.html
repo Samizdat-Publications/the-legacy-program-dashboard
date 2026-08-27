@@ -121722,8 +121722,29 @@ function renderEntityDossier(id){
 }
 
 /* The dock is a 306px strip at rest and a reading measure when something is
-   selected. Half the viewport, floored at 560px so it does not collapse on a
-   laptop, and animated on the shell's own curve rather than snapping. */
+   selected. Floored at 560px so it does not collapse on a laptop, CAPPED at 640
+   so it stays a measure, and animated on the shell's own curve rather than
+   snapping.
+
+   THE CAP IS THE 27 AUGUST FIX AND HALF THE VIEWPORT WAS NEVER RIGHT.
+   Measured, at 11.5px IBM Plex Mono with a 6.9px advance, the running prose ran:
+
+     window   dock    chars/line   map share
+     1366     683      95           37%
+     1600     800     112           37%
+     1920     960     135           39%
+     2560    1280     182           42%
+
+   Comfortable measure is 45-75 characters and about 90 is the ceiling for
+   sustained reading, so every size busted it and the BIGGER the monitor the
+   worse the dossier read -- a proportional width doing the job of a measure.
+   That is also the whole of Stewart's "the right bar expands to half the screen
+   and you never get to see the full map": the panel was not wide because the
+   prose needed it.
+
+   Capping at 640 holds the measure at about 89 characters everywhere and gives
+   the map back 40 / 47 / 56 / 67 percent at the four sizes. Both surfaces win,
+   which is why this is not the analyst/dossier swap and does not need it. */
 function setDockOpen(open){
   const d = document.getElementById('dock');
   if (!d) return;
@@ -121732,7 +121753,7 @@ function setDockOpen(open){
      declarations of the same custom property through different owners is how the
      first attempt at this silently did nothing: the class landed, the width did
      not move, and nothing errored. */
-  const wide = Math.max(560, Math.round(window.innerWidth * 0.5));
+  const wide = Math.min(640, Math.max(560, Math.round(window.innerWidth * 0.5)));
   /* The shell is a CSS GRID and the dock is a grid child whose track is sized by
      --dock-w. Setting width on the ELEMENT makes it wider than its track, so it
      overflows to the right and off-screen: the panel looked wide but every line

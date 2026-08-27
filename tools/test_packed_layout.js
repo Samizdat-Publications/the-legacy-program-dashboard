@@ -330,6 +330,31 @@ const CHECKS = [
                + ` · ${p.regOverlapPoison}px with the old top:44px constant put back`,
     poison: p => ({ ...p, regOverlapMax: 12 }),
   },
+  {
+    id: 'dossier-measure-capped',
+    label: 'the dossier stays a reading measure at every window size',
+    /* The dock was `innerWidth * 0.5`, which made the panel wider the bigger the
+       monitor got. Measured, the running prose ran 95 / 112 / 135 / 182 characters
+       at 1366 / 1600 / 1920 / 2560, against a 45-75 comfortable band and about 90
+       as the ceiling for sustained reading. So the widest monitor read worst, and
+       the panel was not wide because the prose needed it -- it was wide because a
+       proportion was doing a measure's job.
+
+       This is also the measurable half of Stewart's "the right bar expands to half
+       the screen, you never actually get to see the full map". Capping the dock at
+       640px holds ~89 characters everywhere and returns the map to 40 / 47 / 56 /
+       67 percent of the window.
+
+       The floor matters as much as the cap: a dock that collapsed to nothing would
+       pass a cap-only check while making the dossier unreadable, so the minimum is
+       asserted too. The poison restores half-the-viewport on the live page and
+       requires the measure to bust the ceiling. */
+    test: p => p.proseCharsMax > 0 && p.proseCharsMax <= 92 && p.proseCharsMin >= 60
+               && p.proseCharsPoison > 92,
+    detail: p => `${(p.proseChars||[]).join('/')} chars per line`
+               + ` at 1366/1600/1920/2560 · ${p.proseCharsPoison} with half-the-viewport put back`,
+    poison: p => ({ ...p, proseCharsMax: 135 }),
+  },
 ];
 
 /* ---- the fit sweep ----------------------------------------------------------
@@ -523,9 +548,33 @@ async function overlayOverlap(page) {
   });
 }
 
+/* The dossier's reading measure, in characters rather than pixels, because
+   characters are what the rule is about. Half the viewport made the panel WIDER
+   the bigger the monitor got, which is backwards: measured at 11.5px IBM Plex
+   Mono, running prose ran 95 / 112 / 135 / 182 characters at 1366 / 1600 / 1920 /
+   2560 against a 45-75 comfortable band and a ~90 ceiling. The advance is
+   measured off the resolved face rather than assumed, because the whole point of
+   a monospace measure is that it is knowable and this file has been bitten by
+   assumed metrics before. */
+async function dossierMeasure(page) {
+  return await page.evaluate(() => {
+    const d = document.getElementById('dock');
+    if (!d) return -1;
+    const ps = [...d.querySelectorAll('p')].filter(e => (e.textContent || '').length > 200);
+    let widest = 0, el = null;
+    for (const e of ps) { const r = e.getBoundingClientRect(); if (r.width > widest) { widest = r.width; el = e; } }
+    if (!el) return -1;
+    const cs = getComputedStyle(el);
+    const cv = document.createElement('canvas').getContext('2d');
+    cv.font = cs.fontSize + ' ' + cs.fontFamily;
+    const adv = cv.measureText('M'.repeat(100)).width / 100;
+    return adv > 0 ? Math.round(widest / adv) : -1;
+  });
+}
+
 async function overlaySweep(page) {
   const SIZES = [[1366, 768], [1600, 900], [1920, 1080], [2560, 1440]];
-  const regOverlaps = [], regHeadH = [];
+  const regOverlaps = [], regHeadH = [], proseChars = [];
 
   await page.evaluate(() => { window.__board.CMD.openPath('money'); });
   await page.waitForTimeout(1200);
@@ -539,6 +588,7 @@ async function overlaySweep(page) {
     await page.waitForTimeout(900);
     const r = await overlayOverlap(page);
     regOverlaps.push(r.overlap); regHeadH.push(r.headH);
+    proseChars.push(await dossierMeasure(page));
   }
 
   /* PAGE POISON: restore the pre-fix constant and require the overlap back. */
@@ -550,7 +600,18 @@ async function overlaySweep(page) {
   });
   await page.waitForTimeout(500);
   const poisoned = await overlayOverlap(page);
+  /* SECOND PAGE POISON, for the measure rather than the overlap: put the old
+     half-the-viewport width back and require the line length to bust the ceiling.
+     Two poisons because the two assertions guard different properties, and one
+     poison proving "something went red" would leave the other untested. */
   await page.evaluate(() => {
+    document.documentElement.style.setProperty('--dock-w',
+      Math.round(window.innerWidth * 0.5) + 'px');
+  });
+  await page.waitForTimeout(500);
+  const proseCharsPoison = await dossierMeasure(page);
+  await page.evaluate(() => {
+    document.documentElement.style.removeProperty('--dock-w');
     const host = document.querySelector('.l0wrap');
     if (host) host.style.removeProperty('--l0-ctl');
     window.__board.CMD.clearSelection && window.__board.CMD.clearSelection();
@@ -559,9 +620,12 @@ async function overlaySweep(page) {
   await page.setViewportSize({ width: 2000, height: 1150 });
   await page.waitForTimeout(900);
 
-  return { regOverlaps, regHeadH,
+  return { regOverlaps, regHeadH, proseChars,
            regOverlapMax: Math.max.apply(null, regOverlaps),
-           regOverlapPoison: poisoned.overlap };
+           regOverlapPoison: poisoned.overlap,
+           proseCharsMax: Math.max.apply(null, proseChars),
+           proseCharsMin: Math.min.apply(null, proseChars),
+           proseCharsPoison };
 }
 
 /* ---- probing the page ------------------------------------------------------ */
