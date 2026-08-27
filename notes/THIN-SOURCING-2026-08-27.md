@@ -4,8 +4,9 @@
 raw thin-sourcing count on purpose: a node resting on one primary record and a node resting
 on one blog post are not the same risk, and counting them together made the queue useless.
 
-Nine at the start of this pass. **Seven now.** The two that cleared did so on sources that
-were opened and read, not on sources that looked plausible.
+Nine at the start of this pass. **Five now.** The four that cleared did so on sources that
+were opened and read, not on sources that looked plausible. Two candidates were rejected
+after being opened, and those are the more useful entries.
 
 ---
 
@@ -40,6 +41,35 @@ Note the golden manifest moved **1221 -> 1223** and not 1224 for three added sou
 entries: `war.gov/UFO` was already cited by twenty-five other nodes, so Rojas's entry adds
 a citation and no new unique URL. Checked rather than assumed, per the standing caution.
 
+**`thomas-crosson`** — rested on a NICAP PDF scan of the 16 December 2017 New York Times
+story. Government Executive / Nextgov carried the same statement independently and answers
+this caller: *"there were other, higher priority issues that merited funding"*, 18 December
+2017. The New York Times original was the obvious target and was not used: **CNN returned
+451 and the NYT is paywalled**, and a citation nobody could open is not a citation.
+
+**`grant-cameron`** — rested on his own site. HuffPost, 9 March 2013, independently
+describes the method the board's T2 claim asserts: *"Using the Freedom of Information Act to
+obtain documents and information, and traveling to many presidential libraries, Cameron
+became focused on the relationship of American presidents and UFOs."*
+
+---
+
+## Two rejected after opening them
+
+**`italo-venturelli`** — IBTimes UK covers his Washington appearance and looked like a clean
+second source. Opened, it carries **no direct quote from Venturelli at all**: the only
+verbatim material is filmmaker James Fox's characterisation, and Fox is also the origin of
+The Debrief account already cited. Two outlets that both trace to the same interviewer are
+not two sources — that is the "two agents agreeing is not corroboration when they share a
+method" rule from `CLAUDE.md` §2, and it is the same family of error as attributing a
+commenter's words to Kevin Randle. It also introduces a detail the board does not carry
+(telepathic communication), so citing it would have widened the claim as well as faking the
+corroboration.
+
+**The National Press Club coverage** (The Well News) would have been genuinely independent —
+Venturelli spoke there on the record, not through Fox. The host returns **403** to this
+caller, so it could not be read and was not cited.
+
 ---
 
 ## Still thin, and why
@@ -54,16 +84,10 @@ re-deriving it.
 | `jonathan-grey` | A pseudonym. The Debrief article is where the statement was made, so it is the primary by construction. A second source can only be someone quoting the first. |
 | `tim-mcmillan` | The claim is that he co-founded The Debrief and the source is The Debrief's own masthead. That is the right source for that claim; it just does not match the primary-URL pattern. |
 | `yury-platov` | The only cited copy is a `web.archive.org` capture, and **Wayback is unreachable from this environment entirely** (`notes/SOURCING-2026-08-25.md`). Cannot be re-verified from here at all, let alone thickened. Needs a session with Wayback access or a different host for the Stonehill/Mantle SETKA article. |
-| `grant-cameron` | Rests on his own site. His underlying material is presidential-library FOIA correspondence, which would be the real primary — `presidentiallibraries.us` and `archives.gov` are both in the pattern. **This one is genuinely workable and is the best next target.** |
+| `italo-venturelli` | See above. The 15 January 2026 meeting was a **closed-door** session in Rep. Burchett's office, not a hearing, so no `.house.gov` record will exist. The Press Club appearance is the workable route and its coverage 403s here. |
 
-`thomas-crosson` and `italo-venturelli` are also workable and were not reached in this pass:
-
-- **`thomas-crosson`** — currently a NICAP PDF scan of the 16 December 2017 New York Times
-  story. The NYT original is the better citation; it is paywalled, which is why the scan
-  was used. Worth one attempt at the canonical URL.
-- **`italo-venturelli`** — his account was given to three members of Congress on
-  15 January 2026. If that event produced any congressional record, `.house.gov` is in the
-  pattern and would be a real primary.
+The one still genuinely open is `yury-platov`, and it needs an environment with Wayback
+access rather than more searching.
 
 ---
 
