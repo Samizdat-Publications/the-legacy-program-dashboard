@@ -1375,21 +1375,25 @@ def main():
   'Export every Tier A node to a spreadsheet with its axes and sources',
 ];""" + s[b:]
 
-    # Opening scripted turn
+    # NO OPENING TURN. There used to be one: four paragraphs on how the board was
+    # built, what the tiers mean and how to drive the dashboard. All of it true and
+    # none of it worth the room -- `.an-scroll` caps at 208px, the wall filled the
+    # cap exactly, and so the analyst console opened at its maximum height on a
+    # board whose whole problem was that nobody could see the map.
+    #
+    # Stewart, 27 August: "it takes up way too much of the screen with all that text
+    # disclaimer about how the data was put together, remove all that text and just
+    # leave the suggested/canned questions ... It should scale with output, if we are
+    # having a big convo then the size ... is acceptable, but not just default on
+    # open."
+    #
+    # Excising the push is the whole change: `.an-scroll` is already auto-height to
+    # a 208px cap, so with no turns it collapses to nothing and grows back as the
+    # conversation does. The orientation the wall carried is not lost -- it is what
+    # the suggestion chips ask for, and the analyst answers every one of them.
     a = s.index("S.turns.push({")
     b = s.index("});", a) + 3
-    s = s[:a] + """S.turns.push({
-  role:'ANALYST',
-  text: NODES.length+' entities across eight classes, '+PROGRAM_EDGES.length+' hand-written connections, and '
-    + (()=>{ const t={1:0,2:0,3:0}; for (const n of NODES) for (const c of (n.claims||[])) if(t[c.tier]!==undefined) t[c.tier]++;
-             return (t[1]+t[2]+t[3])+' graded claims \u2014 '+t[1]+' documented, '+t[2]+' sourced to a named person on the record, '+t[3]+' stated inference'; })()
-    + '. This board is built from the premise that the program exists and has been concealed. The question it asks is who, where, under what authority, and paid for how.'
-    + '\\n\\nOfficial denials are recorded in full and sourced \u2014 as artifacts of the concealment effort, not as counterweights. A denial is a dated, signed, attributable statement, which makes it evidence about the denier. THE COVER-UP view is where they live.'
-    + '\\n\\nThe tiers are ammunition grading, not hedging. Tier 1 is what survives a hostile audit; Tier 3 is where the research goes next. Four of the twelve connection types are derived by rule; the other eight are hand-written and individually sourced, and that split is what stops the graph inventing a relationship.'
-    + '\\n\\nYou can drive the whole dashboard from this line. Press / to focus it, or 1 through 8 to switch views.',
-  actions:[],
-  cites:[['david-grusch','David Grusch'],['aaro','AARO'],['pursue-releases','PURSUE releases']],
-});""" + s[b:]
+    s = s[:a] + s[b:]
 
     # ---- 4g. map legibility ----------------------------------------------
     # 678 non-person nodes all printing their label at once is what turns the map
