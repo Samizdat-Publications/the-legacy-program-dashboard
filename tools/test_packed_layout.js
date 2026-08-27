@@ -124,15 +124,49 @@ const CHECKS = [
   },
   {
     id: 'options-on',
-    label: 'all three view options ship on, each with a control',
+    label: 'the view options ship in the state Stewart signed off, each with a control',
     /* Stewart's call, 25 August 2026, having looked at the comp with all three
        on. If a later change flips a default this says so rather than letting the
        board quietly ship a different reading surface than the one signed off. */
-    test: p => p.optRest && p.optFlags && p.optLabels && p.optControls === 3
-               && p.controlsOn === 3,
+    /* Four controls, three lit. CELLS is the fourth and it must ship OFF: it is the
+       count matrix, and the whole point of 27 August is that nothing puts a reader
+       there without asking. A default flip here is exactly the silent regression
+       this check exists to catch. */
+    test: p => p.optRest && p.optFlags && p.optLabels && p.optCells === false
+               && p.optControls === 4 && p.controlsOn === 3,
     detail: p => `rest=${p.optRest} flags=${p.optFlags} labels=${p.optLabels}`
+               + ` cells=${p.optCells}`
                + ` · ${p.controlsOn}/${p.optControls} controls lit`,
-    poison: p => ({ ...p, optRest: false }),
+    poison: p => ({ ...p, optCells: true }),
+  },
+  {
+    id: 'no-fit-lands-in-cells',
+    label: 'no fit at any window size lands the reader in the count matrix',
+    /* THE 27 AUGUST REGRESSION, NAILED DOWN. dense() was `view.k < 0.62` and every
+       fit at a normal window lands below it, so FIT and FIT ALL both handed the
+       reader a grid of numerals instead of the map. Stewart hit it on the live
+       deploy twice.
+
+       Splitting the constant would not have been enough and that is why this check
+       sweeps WIDTHS rather than asserting one threshold: at 1366 the fit is 0.222,
+       so a 0.30 cell-mode threshold still ambushes a laptop while looking fixed on
+       a 2560 monitor. Eight states -- FIT and FIT ALL at four widths -- and cell
+       mode must be off in all eight.
+
+       `cellInkRatio` is the pixel half: bright ink at the centre of occupied cells,
+       which is what a printed count looks like and what a chip row does not. The
+       self-test forces cell mode on the real page and requires it to rise, so this
+       is a measure demonstrated to tell the two modes apart rather than a number
+       that happens to be small. */
+    test: p => p.fitCellModes.length === 8
+               && p.fitCellModes.every(m => m === false)
+               && p.fitChipInk === true,
+    detail: p => `${p.fitCellModes.filter(m => m === false).length}/8 fits drew chips`
+               + ` · win ${(p.fitWinW||[]).join('/')}`
+               + ` · host ${(p.fitHostW||[]).join('/')}`
+               + ` · scales ${p.fitScales.map(x => x.toFixed(2)).join(' ')}`
+               + ` · class-ink chips ${p.cellInkChips} vs cells ${p.cellInkCells}`,
+    poison: p => ({ ...p, fitCellModes: p.fitCellModes.map((m, i) => i === 3 ? true : m) }),
   },
   {
     id: 'pointers-offset',
@@ -240,15 +274,201 @@ const CHECKS = [
   },
   {
     id: 'head-row-clear',
-    label: 'no era column head is painted under the map controls',
+    label: 'no era column head is painted under the map controls, at any width',
     /* The eras are the horizontal argument exactly as the bands are the vertical
-       one, and a head a reader cannot read takes its column's claim with it. */
-    test: p => p.eraHeads >= 2 && p.headClear >= 0,
-    detail: p => `${p.eraHeads} era heads · text starts ${p.headClear}px below the`
-               + ` control row (strip ${p.headStrip}px, controls end at ${p.ctlBottom}px)`,
-    poison: p => ({ ...p, headClear: -12 }),
+       one, and a head a reader cannot read takes its column's claim with it.
+
+       THIS USED TO BE ARITHMETIC AND THE ARITHMETIC WAS WRONG.
+       It compared `geo.headRow - 22 - 9` against the control row's bottom, which
+       reproduced neither what the renderer reserved nor where it drew. It passed
+       throughout, at one width, on a build that was overprinting: `.l0head` is
+       pinned at top:10px and its height h gave a reserve of h + 20 with the label
+       drawn at reserve - 22, i.e. 12px above the buttons -- but HEAD_MIN's 76px
+       floor dominated whenever the row was a single line and bought accidental
+       clearance. Widen the left group with an entry-path chip and open the dossier
+       and the row wraps: measured, `.l0head` goes 25px -> 56 -> 87 -> 118 -> 180 ->
+       255 as the window narrows. The floor stops dominating and the heads print
+       through the buttons. That is the screenshot Stewart sent.
+
+       So it reads PIXELS now, under the buttons' own rects, at four widths, with a
+       path open and the dossier out -- the state that wraps hardest. `eraInkPoison`
+       is the page-level half: the control row is translated 22px down onto the band
+       while the canvas holds still, and the count must rise. 0 against 91 when it
+       was written. */
+    test: p => p.eraHeads >= 2 && p.eraInkMax === 0 && p.eraInkPoison > 0,
+    detail: p => `${p.eraHeads} era heads · era ink under the controls`
+               + ` ${(p.eraInkWidths||[]).join('/')} at ${(p.eraInkAt||[]).join('/')}`
+               + ` · control row ${(p.eraHeadH||[]).join('/')}px tall`
+               + ` · ${p.eraInkPoison} when the row is moved onto the band`,
+    poison: p => ({ ...p, eraInkMax: 3 }),
   },
 ];
+
+/* ---- the fit sweep ----------------------------------------------------------
+ * Its own pass, because it is the only thing here that RESIZES the window, and a
+ * resize invalidates every rect the main probe measured. Runs after it.
+ *
+ * Two halves. The first drives FIT and FIT ALL at four widths and asks the page
+ * whether it ended up in cell mode -- eight states, because one threshold cannot
+ * be checked at one width: 1366 fits at 0.222 and 2560 at 0.920, and a rule that
+ * looks right on the second ambushes the first.
+ *
+ * The second is the pixel half, and it is deliberately geometry-free. Rather than
+ * computing where a cell centre lands -- which would mean agreeing with the
+ * renderer about PAD.t, the exact dependence the geo comment above warns off --
+ * it counts pixels near one of the five saturated CLASS colours. Only chips draw
+ * those; cells draw neutral plates and grey numerals, and the edge layer is off in
+ * cell mode entirely. So the count collapsing when cell mode is forced ON is proof
+ * the measure is reading the chip renderer and not a constant. */
+async function fitSweep(page) {
+  /* REAL ASPECT RATIOS, not four widths at one height. The first cut held height
+     at 900 and the fit scale froze at 0.41 across 1600/1920/2560, because the fit
+     is bound by the SHORTER axis and the height never moved -- eight states that
+     were really two. These are the four common panel sizes, and their fits span
+     roughly 0.33 to 0.75, which is the range that actually straddles the old 0.62
+     threshold. */
+  const SIZES = [[1366, 768], [1600, 900], [1920, 1080], [2560, 1440]];
+  const fitCellModes = [], fitScales = [], fitHostW = [], fitWinW = [];
+  for (const [w, h] of SIZES) {
+    await page.setViewportSize({ width: w, height: h });
+    await page.waitForTimeout(800);
+    for (const sel of ['[data-fit]', '[data-fitall]']) {
+      const btn = await page.$('.l0ctl ' + sel);
+      if (btn) { await btn.click({ force: true }).catch(() => {}); }
+      await page.waitForTimeout(600);
+      const r = await page.evaluate(() => {
+        const c = document.querySelector('.l0wrap');
+        return { cells: !!window.__board.MAP.opt.cells,
+                 k: window.__board.MAP.view.k,
+                 hostW: c ? Math.round(c.getBoundingClientRect().width) : -1,
+                 winW: window.innerWidth };
+      });
+      fitCellModes.push(r.cells); fitScales.push(r.k);
+      fitHostW.push(r.hostW); fitWinW.push(r.winW);
+    }
+  }
+
+  await page.setViewportSize({ width: 2000, height: 1150 });
+  await page.waitForTimeout(800);
+  const classInk = want => page.evaluate(async (cells) => {
+    const MAP = window.__board.MAP;
+    MAP.opt.cells = cells; MAP.repaint();
+    await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    const cvs = document.querySelector('.l0wrap canvas');
+    const d = cvs.getContext('2d').getImageData(0, 0, cvs.width, cvs.height).data;
+    /* institution, document, programme, event/location, legislation/domain.
+       The person grey is left out on purpose: it is close enough to antialiased
+       type that cell numerals would score on it. */
+    const CLSC = [[167,149,232],[240,210,100],[102,214,159],[127,180,232],[224,138,208]];
+    let hit = 0, tot = 0;
+    for (let i = 0; i < d.length; i += 4 * 29) {
+      tot++;
+      const r = d[i], g = d[i+1], b = d[i+2];
+      for (const c of CLSC) {
+        if (Math.abs(r-c[0]) + Math.abs(g-c[1]) + Math.abs(b-c[2]) <= 60) { hit++; break; }
+      }
+    }
+    return tot ? Math.round(10000 * hit / tot) : -1;
+  }, want);
+
+  const cellInkChips = await classInk(false);
+  const cellInkCells = await classInk(true);
+  await page.evaluate(() => {
+    window.__board.MAP.opt.cells = false; window.__board.MAP.repaint();
+  });
+  await page.waitForTimeout(400);
+
+  return { fitCellModes, fitScales, fitHostW, fitWinW, cellInkChips, cellInkCells,
+           /* A RATIO, not a floor. Cell mode does not fall to zero class-coloured
+              ink -- measured at 25 per ten-thousand with chips against 9 without --
+              because some chrome on the canvas sits inside the same tolerance. The
+              claim being made is the one the numbers support: forcing cell mode on
+              the real page costs most of the chip ink. A renderer that had stopped
+              drawing chips entirely would flatten the two and fail here. */
+           fitChipInk: cellInkChips > 0 && cellInkCells * 2 < cellInkChips };
+}
+
+/* THE MEASURE, at module scope so headSweep and the self-test run the SAME code.
+ * Reads the canvas under each control's own rect. Optional shiftY translates the
+ * real control row down onto the era band without repainting, which is the page
+ * poison: a probe that reported 0 regardless would sail through a predicate poison
+ * and fail this. */
+async function eraInkUnderControls(page, shiftY) {
+  return await page.evaluate(sy => {
+    const ctl = document.querySelector('.l0ctl');
+    const prev = ctl ? ctl.style.transform : '';
+    /* PAGE POISON: move the real control row down onto the band while the canvas
+       holds still. A probe that reported 0 regardless would pass the predicate
+       poison below and fail this. */
+    if (sy && ctl) ctl.style.transform = 'translateY(' + sy + 'px)';
+    const cvs = document.querySelector('.l0wrap canvas');
+    if (!cvs) return { ink: -1, headH: -1 };
+    const ctx = cvs.getContext('2d');
+    const hb = cvs.getBoundingClientRect();
+    const dpr = cvs.width / hb.width;
+    const HEAD = [141,151,164], NOTE = [92,102,114];   /* colHead, colNote */
+    const near = (r,g,b,c) => Math.abs(r-c[0]) + Math.abs(g-c[1]) + Math.abs(b-c[2]) <= 26;
+    let ink = 0;
+    for (const el of document.querySelectorAll('.l0head button, .l0head .l0chip, .l0head .l0cam')) {
+      const r = el.getBoundingClientRect();
+      if (!r.width || !r.height) continue;
+      const x0 = Math.max(0, Math.round((r.left - hb.left) * dpr));
+      const y0 = Math.max(0, Math.round((r.top  - hb.top ) * dpr));
+      const w  = Math.min(cvs.width  - x0, Math.round(r.width  * dpr));
+      const h  = Math.min(cvs.height - y0, Math.round(r.height * dpr));
+      if (w <= 0 || h <= 0) continue;
+      const d = ctx.getImageData(x0, y0, w, h).data;
+      for (let i = 0; i < d.length; i += 4)
+        if (near(d[i],d[i+1],d[i+2],HEAD) || near(d[i],d[i+1],d[i+2],NOTE)) ink++;
+    }
+    const hr = document.querySelector('.l0head').getBoundingClientRect();
+    if (ctl) ctl.style.transform = prev;
+    return { ink, headH: Math.round(hr.height) };
+  }, shiftY || 0);
+}
+
+/* ---- the head sweep ---------------------------------------------------------
+ * The worst case for the control row, held for four widths: an entry path open
+ * (its chip widens the left group) and a node selected (the dossier takes half the
+ * window). That is the state that wraps `.l0ctl` onto two and three lines, and the
+ * state Stewart was in when he screenshotted the era heads printing through the
+ * buttons.
+ *
+ * Reads the canvas UNDER each control's own rect. The controls are DOM painted over
+ * the canvas, so the map's ink is still there to find underneath -- which is exactly
+ * what the reader sees through a semi-transparent button. */
+async function headSweep(page) {
+  const SIZES = [[1366, 768], [1600, 900], [1920, 1080], [2560, 1440]];
+  const eraInkWidths = [], eraInkAt = [], eraHeadH = [];
+  const measure = shiftY => eraInkUnderControls(page, shiftY);
+
+  await page.evaluate(() => { window.__board.CMD.openPath('money'); });
+  await page.waitForTimeout(1500);
+  await page.evaluate(() => { window.__board.CMD.selectNode('aawsap'); });
+  await page.waitForTimeout(1500);
+
+  for (const [w, h] of SIZES) {
+    await page.setViewportSize({ width: w, height: h });
+    await page.waitForTimeout(900);
+    const r = await measure(0);
+    eraInkWidths.push(r.ink); eraInkAt.push(w); eraHeadH.push(r.headH);
+  }
+  /* The poison at the width that wrapped hardest of the four. */
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.waitForTimeout(900);
+  const poisoned = await measure(22);
+
+  await page.evaluate(() => {
+    window.__board.CMD.clearSelection && window.__board.CMD.clearSelection();
+    window.__board.CMD.clearPath && window.__board.CMD.clearPath();
+  });
+  await page.setViewportSize({ width: 2000, height: 1150 });
+  await page.waitForTimeout(900);
+
+  return { eraInkWidths, eraInkAt, eraHeadH,
+           eraInkMax: Math.max.apply(null, eraInkWidths),
+           eraInkPoison: poisoned.ink };
+}
 
 /* ---- probing the page ------------------------------------------------------ */
 async function probe(page, opts = {}) {
@@ -302,8 +522,11 @@ async function probe(page, opts = {}) {
       restCount: (PK.rest || []).length,
       restDrawnFigure: o.restDrawnFigure,
       allEdges: (D.directEdges || []).length + (D.summarised || []).length,
-      optRest: false, optFlags: false, optLabels: false,
+      optRest: false, optFlags: false, optLabels: false, optCells: null,
       optControls: 0, controlsOn: 0,
+      fitCellModes: [], fitScales: [], fitChipInk: false,
+      cellInkChips: -1, cellInkCells: -1,
+      eraInkMax: -1, eraInkWidths: [], eraInkAt: [], eraHeadH: [], eraInkPoison: -1,
     };
     if (!cvs || !MAP) return out;
 
@@ -317,7 +540,7 @@ async function probe(page, opts = {}) {
     const v = MAP.view;
     out.k = Math.round(v.k * 100) / 100;
     out.optRest = !!MAP.opt.rest; out.optFlags = !!MAP.opt.flags;
-    out.optLabels = !!MAP.opt.labels;
+    out.optLabels = !!MAP.opt.labels; out.optCells = !!MAP.opt.cells;
     const ctrls = [...document.querySelectorAll('.l0ctl [data-opt]')];
     out.optControls = ctrls.length;
     out.controlsOn = ctrls.filter(b => b.className.indexOf('on') >= 0).length;
@@ -578,13 +801,22 @@ async function probe(page, opts = {}) {
     out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);
     out.eraHeads = (PK.eras || []).length;
 
-    /* DENSE MODE. Drive the real camera below the label threshold, repaint, and
-       measure what actually landed on the canvas. Design's answer to 110 anonymous
-       rectangles is that the chips collapse and every occupied cell prints its
-       count, with the edge layer switched off entirely -- so there are three things
-       to see: the counts are there, the lattice is not, and the axis type survived. */
+    /* DENSE MODE. Design's answer to 110 anonymous rectangles is that the chips
+       collapse and every occupied cell prints its count, with the edge layer
+       switched off entirely -- so there are three things to see: the counts are
+       there, the lattice is not, and the axis type survived.
+
+       THESE PROBES USED TO REACH DENSE MODE BY SETTING `v.k = 0.45`, because
+       dense() was `view.k < L0_LABEL_DROP`. On 27 August cell mode became an
+       explicit opt flag that no scale can turn on, and at that moment every one
+       of these checks would have gone on passing while measuring the CHIP
+       renderer -- five checks silently testing nothing, which is CLAUDE.md
+       section 5's whole subject. They set the flag now. The camera still drops to
+       0.45 because the cell geometry is scale-dependent and the axis-type check
+       needs a small scale to be worth anything. */
     {
-      const k0 = v.k, ox0 = v.ox, oy0 = v.oy;
+      const k0 = v.k, ox0 = v.ox, oy0 = v.oy, cells0 = MAP.opt.cells;
+      MAP.opt.cells = true;
       v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
       B.MAP.repaint();
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
@@ -635,6 +867,7 @@ async function probe(page, opts = {}) {
       out.denseEdgeToggleInert = hOn === hOff;
       /* And the control is proved live at a scale where chips DO draw, so an
          inert toggle cannot pass by being broken everywhere. */
+      MAP.opt.cells = false;   /* chips, genuinely -- the control is proved live here */
       v.k = 1; v.ox = 0; v.oy = 0; B.MAP.repaint();
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
       MAP.opt.rest = true;  B.MAP.repaint();
@@ -645,6 +878,7 @@ async function probe(page, opts = {}) {
       const cOff = hashCanvas();
       MAP.opt.rest = rest0;
       out.chipEdgeToggleLive = cOn !== cOff;
+      MAP.opt.cells = true;
       v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
       B.MAP.repaint();
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
@@ -758,9 +992,15 @@ async function probe(page, opts = {}) {
          that. Stated here so nobody reads more into it than it can support. */
       {
         const DENY = '#e8705f';
-        const rest0 = MAP.opt.rest, lab0 = MAP.opt.labels;
+        const rest0 = MAP.opt.rest, lab0 = MAP.opt.labels, cells1 = MAP.opt.cells;
         const sel0 = B.S.sel, open0 = B.S.l0open;
         const k1 = v.k, ox1 = v.ox, oy1 = v.oy;
+        /* CHIPS, not cells. This probe counts denial marks on EDGES, and the edge
+           layer is switched off entirely in cell mode. It used to leave dense mode
+           for free by raising v.k above 0.62; once cell mode stopped being a
+           function of the camera that stopped working, and this check would have
+           read 0 marks and called the adjudication dead. */
+        MAP.opt.cells = false;
         MAP.opt.rest = true; MAP.opt.labels = true;
         B.S.sel = null; B.S.l0open = [];
         v.k = Math.max(0.63, MAP.fitScale());
@@ -789,7 +1029,7 @@ async function probe(page, opts = {}) {
         out.denyDirected = dn.filter(e => e.denialKind === 'directed').length;
         out.denyUndirected = dn.filter(e => e.denialKind === 'undirected').length;
         out.denyAssoc = dn.filter(e => e.denialKind === 'association').length;
-        MAP.opt.rest = rest0; MAP.opt.labels = lab0;
+        MAP.opt.rest = rest0; MAP.opt.labels = lab0; MAP.opt.cells = cells1;
         B.S.sel = sel0; B.S.l0open = open0;
         v.k = k1; v.ox = ox1; v.oy = oy1;
         MAP.repaint(); await settleMs(300);
@@ -797,6 +1037,7 @@ async function probe(page, opts = {}) {
       out.thinAmber = thinAmber; out.thinTotal = thinTotal;
       out.fullAmber = fullAmber; out.fullTotal = fullTotal;
       out.bandsInfo = bandsInfo;
+      MAP.opt.cells = cells0;
       v.k = k0; v.ox = ox0; v.oy = oy0;
       B.MAP.repaint();
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
@@ -983,19 +1224,20 @@ async function probeImages(page, fixtures, opts) {
     executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
   });
-  /* 2000x1150, not 1600x1000, and the size is load-bearing.
-     Most of the assertions below read CHIPS -- their coordinates, their class
-     colours, their labels, their flag pointers. Chips only exist above the label
-     threshold. The map now opens FITTED at every width (Design's comp states
-     `zoom: 'fit'`; this build used to fall back to the corner at 1:1), so at
-     1600x1000 it opens at 0.45 in occupancy mode, every chip probe finds nothing,
-     and five checks went red the moment the default changed.
-     They were not wrong about the board. They were measuring a state the board no
-     longer opens in. The fit clears the threshold from about 1977px of window --
-     0.62 * (worldW - gutter) + gutter + 16 = 1436px of map host, and the rail and
-     dock take roughly 541px -- so this is the smallest round size where the
-     opening state is the one these assertions describe. The dense-mode checks set
-     `v.k = 0.45` explicitly and are unaffected. */
+  /* 2000x1150. The REASON for this size changed on 27 August and the old one is
+     recorded here because it explains the shape of the file.
+
+     It used to be load-bearing. Chips only existed above `view.k >= 0.62`, the map
+     opens fitted, and a 1600x1000 window fits at 0.45 -- so the board opened as a
+     grid of counts, every chip probe found nothing, and five checks went red the
+     moment the fitted default landed. 2000px was the smallest round window whose
+     fit cleared the threshold.
+
+     Cell mode is now an explicit opt flag that no scale turns on, so chips draw at
+     every width and none of that applies: `no-fit-lands-in-cells` asserts exactly
+     that, at 1366 through 2560. The size is kept because a larger window puts more
+     chips fully on screen, which the coordinate and colour probes want, not
+     because anything breaks below it. */
   const page = await browser.newPage({ viewport: { width: 2000, height: 1150 } });
   const errs = [];
   page.on('pageerror', e => errs.push('PAGEERROR: ' + e.message.slice(0, 200)));
@@ -1021,6 +1263,17 @@ async function probeImages(page, fixtures, opts) {
   await page.waitForTimeout(1500);
 
   const p = await probe(page, { restDrawnFigure });
+  Object.assign(p, await fitSweep(page));
+  /* The image tile is measured BEFORE headSweep, and the order is load-bearing.
+     probeImages parks a chip at a known screen position and sets the camera by
+     hand; headSweep resizes the window four times, and every resize fires the
+     ResizeObserver that re-fits the map, which throws that camera away. Measured
+     the wrong way round: three image checks went red reporting an empty chip slot
+     that was in fact simply somewhere else. Every resizing pass runs last. */
+  const FIX = { portrait: pngFixture(0xff, 0x00, 0xff), portraitHex: '#ff00ff',
+                mark:     pngFixture(0x00, 0xff, 0x00), markHex:     '#00ff00' };
+  const im = await probeImages(page, FIX);
+  Object.assign(p, await headSweep(page));
 
   const hard = errs.filter(e => !/font|ERR_CONNECTION_RESET|404|favicon/i.test(e));
   const lines = [], fails = [];
@@ -1032,10 +1285,8 @@ async function probeImages(page, fixtures, opts) {
          hard.slice(0, 2).join(' | '));
   for (const c of CHECKS) record(c.test(p), c.label, c.detail(p));
 
-  /* The image tile, against injected fixtures -- see probeImages. */
-  const FIX = { portrait: pngFixture(0xff, 0x00, 0xff), portraitHex: '#ff00ff',
-                mark:     pngFixture(0x00, 0xff, 0x00), markHex:     '#00ff00' };
-  const im = await probeImages(page, FIX);
+  /* The image tile, against injected fixtures -- measured above, before any pass
+     that resizes the window. */
   const imgChecks = i => [
     { id: 'img-letter-is-default',
       label: 'the class letter is what draws when no image clears',
@@ -1096,12 +1347,18 @@ async function probeImages(page, fixtures, opts) {
        stopped poisoning -- the check went on passing while proving nothing, which
        is the exact failure this whole file exists to prevent. It was caught by the
        self-test going BROKEN, which is the self-test doing its job. */
+    /* AND IT MUST MEASURE, not merely disagree. An earlier version of this poison
+       re-ran probe() and asked head-row-clear about the result -- but the ink
+       fields come from headSweep, not from probe(), so the predicate was reading
+       the -1 default and "caught" the poison no matter what the page did. It would
+       have reported ok on a board that was overprinting freely. Run the real
+       measure, on the moved page, and require ink to appear. */
     await page.addStyleTag({ content: '.l0head{top:44px !important}' });
-    await page.waitForTimeout(400);
-    const collided = await probe(page, { restDrawnFigure });
-    const caught = !CHECKS.find(c => c.id === 'head-row-clear').test(collided);
+    await page.waitForTimeout(500);
+    const collided = await eraInkUnderControls(page, 0);
+    const caught = collided.ink > 0;
     console.log(`${caught ? 'ok    ' : 'BROKEN'}  the clearance check sees a control row on the labels`
-      + ` :: clearance became ${collided.headClear}px`);
+      + ` :: ${collided.ink} px of era-head ink under the buttons once the row is dropped 44px`);
     if (!caught) bad++;
 
     /* The image tile, poisoned ON THE PAGE. Hand each fixture the OTHER treatment

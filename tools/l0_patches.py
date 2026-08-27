@@ -305,7 +305,18 @@ const L0_PACK = {
    looked at the comp with all three on: "want all 3 options turned on". They are
    controls rather than constants because each one answers a different question and
    a reader who wants the arrangement alone should be able to get it. */
-const L0_OPT = { rest:true, flags:true, labels:true };
+/* CELLS is the count matrix, and it is OFF by default and is never turned on by a
+   scale. It used to be `view.k < L0_LABEL_DROP`, so ONE constant decided both
+   "stop drawing labels" and "collapse every chip into a numeral" -- and every fit
+   at a normal window size lands below 0.62, so every fit showed the matrix instead
+   of the map. Stewart, 27 August: "it takes me to the view where there are numbers
+   on the map instead of the map itself ... you have to zoom too far to get the map
+   back."
+
+   Splitting the constant is not enough. At 1366 the fit is 0.222, so ANY automatic
+   threshold still ambushes a laptop. The matrix is now a mode the reader asks for
+   and can always leave. notes/CELL-MODE-2026-08-27.md. */
+const L0_OPT = { rest:true, flags:true, labels:true, cells:false };
 /* BREATH / ONCE / STILL, per Design's start-here layer. At rest the flagged set
    surfaces together over about a second, holds, fades, and the board sits clean
    before the next: the board raising its hand ONCE reads better than fourteen
@@ -422,7 +433,7 @@ function mountL0(host){
      degenerate model only. headRow was 46 and that was simply too short -- see
      the note in tools/build_l0_layout.mjs. */
   const GEO = PK.geo || {};
-  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
+  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46, ctl: 10 };
   /* PAD.t IS MEASURED, not trusted. geo.headRow is a constant in the model -- 76,
      chosen when the control row was one line of six buttons -- and the era heads
      are drawn immediately below it. Adding the two fit scales and the AUTO/HELD
@@ -437,11 +448,32 @@ function mountL0(host){
      can be added without anyone remembering to retune a number, and head-row-clear
      keeps guarding the result. */
   const HEAD_MIN = GEO.headRow || 46;
+  /* The era band: one 9px label and one 8.5px note, with leading. Authored here
+     once and consumed by both measureHead and columnHeads, so the reserve and the
+     baselines can never disagree -- they used to, by 22px and 9px of hard-coded
+     offset against a reserve computed somewhere else. */
+  const ERA_BAND = 32;
   function measureHead(){
     const el = host.querySelector('.l0head');
-    if (!el) { PAD.t = HEAD_MIN; return; }
-    const h = el.getBoundingClientRect().height;
-    PAD.t = Math.max(HEAD_MIN, Math.ceil(h) + 20);
+    if (!el) { PAD.ctl = 10; PAD.t = HEAD_MIN; return; }
+    /* THE BOTTOM EDGE OF THE CONTROL ROW, not its height.
+       This is the 27 August fix and the arithmetic is worth writing down, because
+       the previous version looks correct and is not. `.l0head` is pinned at
+       top:10px, so its bottom is 10 + h. The reserve was `PAD.t = h + 20` and the
+       era label was drawn at `PAD.t - 22`, i.e. at h - 2 -- twelve pixels ABOVE
+       where the controls end, always, at every width.
+       It only ever looked right because HEAD_MIN is 76 and a single-row control
+       strip is about 25px tall, so the floor dominated and bought 19px of accidental
+       clearance. Let the row WRAP to two lines -- which it does as soon as an entry
+       path chip widens the left group -- and h jumps to ~58, the floor stops
+       dominating, and the heads print under the buttons at partial opacity.
+       That is exactly the screenshot Stewart sent: "2000-2016 / AAWSAP / AATIP"
+       legible through the START HERE button.
+       Measuring the bottom edge makes the clearance structural instead of lucky. */
+    const r = el.getBoundingClientRect();
+    const hb = host.getBoundingClientRect();
+    PAD.ctl = Math.ceil(r.bottom - hb.top) + 8;
+    PAD.t = Math.max(HEAD_MIN, PAD.ctl + ERA_BAND);
   }
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
@@ -776,18 +808,25 @@ function mountL0(host){
      The start-here wash is deliberately NOT reused for this. It means "an editor
      pointed here", and a channel that also meant "too small to label" would stop
      meaning either. */
-  const dense = () => view.k < L0_LABEL_DROP;
+  /* Cell mode is a STATE, not a scale. L0_LABEL_DROP still governs labels at line
+     ~628 and nothing else; the two jobs it used to share are now separate. */
+  const dense = () => !!opt.cells;
   /* ONE row set per camera state, consumed by everything that draws a row: the
      stripes, the gutter labels and the count cells. Design hit the alternative and
      named it -- deriving the equal-height rows for some consumers and leaving the
      others on the model's chip-derived bands puts two contradictory geometries on
      the same canvas, and the visible symptom is fringes half a row above their
      cells. Memoised on view.k so a frame cannot disagree with itself. */
-  let _rows = null, _rowsAt = NaN;
+  let _rows = null, _rowsAt = NaN, _rowsCells = null;
   function bandRows(){
-    if (_rows && _rowsAt === view.k) return _rows;
+    /* Keyed on the mode as well as the camera. dense() used to BE a function of
+       view.k, so view.k alone was a complete key; it is not any more, and a CELLS
+       toggle at an unchanged zoom would otherwise hand back the other mode's
+       geometry -- the "two contradictory geometries on one canvas" this memo was
+       written to prevent, arriving through the memo itself. */
+    if (_rows && _rowsAt === view.k && _rowsCells === dense()) return _rows;
     const bs = PK.bands || [];
-    _rowsAt = view.k;
+    _rowsAt = view.k; _rowsCells = dense();
     if (!dense() || !bs.length) return (_rows = bs);
     const rowH = (PK.worldH - PAD.t - 10) / bs.length;
     return (_rows = bs.map((b, i) => ({ ...b, y: PAD.t + i*rowH, h: rowH })));
@@ -879,17 +918,19 @@ function mountL0(host){
         ? Math.max(PAD.l, Math.min(W - 150, SX(eras[i+1].x)))
         : W;
       const budget = Math.max(28, Math.min(c.w*view.k, nx - cx) - 10);
-      /* Baselines sit in the LOWER part of the strip, below the DOM control row
-         that overlays it at top:10px. Derived from PAD.t rather than written as
-         constants, so a future change to geo.headRow moves the text with it
-         instead of quietly re-creating the overprint. */
+      /* Baselines measured DOWN from the top of the era band, which starts where
+         the control row ends. PAD.t - ERA_BAND is >= PAD.ctl by construction (see
+         measureHead), so this cannot print on the controls however the row wraps.
+         The old form counted UP from PAD.t by two hard-coded offsets, which is how
+         the reserve and the baselines came to disagree. */
+      const eraTop = PAD.t - ERA_BAND;
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = L0_PACK.colHead;
-      ctx.fillText(l0Fit(ctx, c.label, budget), cx, PAD.t - 22);
+      ctx.fillText(l0Fit(ctx, c.label, budget), cx, eraTop + 13);
       if (c.note){
         ctx.font = "400 8.5px 'IBM Plex Mono',monospace";
         ctx.fillStyle = L0_PACK.colNote;
-        ctx.fillText(l0Fit(ctx, c.note, budget), cx, PAD.t - 9);
+        ctx.fillText(l0Fit(ctx, c.note, budget), cx, eraTop + 26);
       }
     });
     ctx.restore();
@@ -1235,6 +1276,10 @@ function mountL0(host){
                 + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
                 + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
                 + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>'
+                + '<button class="hopb'+(opt.cells?' on':'')+'" data-opt="cells" title="'
+                +   'Collapse every chip into its cell count. A density read for a '
+                +   'deliberate zoom-out -- no fit will ever put you here.">'
+                +   'CELLS</button>'
                 + '<button class="hopb'+(attn!=='still'?' on':'')+'" data-attn="1" title="'
                 + (REDUCED ? 'the system asks for reduced motion' : 'start-here attention')
                 + '">' + (REDUCED ? 'STILL (SYSTEM)' : attn.toUpperCase()) + '</button>';
@@ -1482,10 +1527,19 @@ function mountL0(host){
      so this deliberately does NOT fit here. Fitting here as well would run two
      fits against two different measurements of the same moment, which is the
      drift clampView() exists to prevent. */
+  /* FIT ALL, as a function rather than as three statements inside a click handler,
+     because CMD.openPath needs exactly this gesture and inlining it there would be
+     the second copy of a camera path -- the thing clampView() exists to prevent.
+     Deliberately does NOT fit: foldPanels changes the box and the ResizeObserver is
+     the one path that reacts to the box. */
+  function fitAll(){ camMode = 'auto'; zoom = 'all'; foldPanels(); }
   function foldPanels(){
     const app = document.getElementById('app');
     if (app) app.classList.add('rail-off');
     if (typeof S !== 'undefined') S.railOpen = false;
+    /* Through the same state the tabs use. FIT ALL folding by hand while
+       renderDock folded by rule was two owners of one panel. */
+    if (typeof S !== 'undefined') S.dockSpine = true;
     if (typeof setDockOpen === 'function') setDockOpen(false);
     const dock = document.getElementById('dock');
     if (dock){
@@ -1500,10 +1554,16 @@ function mountL0(host){
   document.addEventListener('click', ev => {
     const sp = ev.target.closest('#dock.dock-spine');
     if (!sp) return;
+    /* RECORD THE INTENT, do not just change the class. renderDock re-applies the
+       fold from S.dockSpine on its next run, so a handler that only stripped the
+       class would have the panel snap shut again the moment anything re-rendered
+       the dock -- open, then closed, with no error and no obvious cause. */
+    if (typeof S !== 'undefined') S.dockSpine = false;
     sp.classList.remove('dock-spine');
     sp.style.width = '';
     document.documentElement.style.removeProperty('--dock-w');
-    if (typeof setDockOpen === 'function') setDockOpen(!!(typeof S !== 'undefined' && S.sel));
+    if (typeof renderDock === 'function') renderDock();
+    else if (typeof setDockOpen === 'function') setDockOpen(!!(typeof S !== 'undefined' && S.sel));
   });
 
   /* Chip labels are fitted with ctx.measureText, so the geometry the map draws
@@ -1563,8 +1623,7 @@ function mountL0(host){
        the only one: nothing else silently takes the camera off the reader. */
     if (ev.target.closest('[data-fit]')){
       camMode='auto'; zoom='fit'; centreOn(roomScale()); repaint(); return; }
-    if (ev.target.closest('[data-fitall]')){
-      camMode='auto'; zoom='all'; foldPanels(); return; }
+    if (ev.target.closest('[data-fitall]')){ fitAll(); return; }
     if (ev.target.closest('[data-one]')){
       hold(); zoom='one'; cornerOn(1); repaint(); return; }
     if (ev.target.closest('[data-showmap]')){ showOnMap(); return; }
@@ -1604,22 +1663,23 @@ function mountL0(host){
 
   measure();
   const fk = fitScale();
-  /* Fitted if the fit keeps labels; otherwise the top-left corner at 1:1, because
-     on a banded grid the first band is where the argument starts. The old code
-     centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
-     funding band with no column head and no band label in view. */
   /* Open FITTED, at every width. Design's comp states this outright -- its root
-     state is `zoom: 'fit'` -- and this build diverged from it: below the label
-     threshold it gave up on fitting and opened at 1:1 in the top-left corner,
-     which on any screen under about 1944px is three of seven bands.
+     state is `zoom: 'fit'` -- and this build diverged from it for a long time:
+     below the label threshold it gave up on fitting and opened at 1:1 in the
+     top-left corner, which on any screen under about 1944px is three of seven
+     bands. Reported from a real screen as "the map is never able to fit", which
+     is exactly what it was.
 
-     That divergence had a reason once. Below the threshold the chips used to draw
-     as 110 anonymous rectangles, so a fitted opening showed the reader an
-     unreadable grid and the corner at least showed real labels. The dense
-     occupancy mode killed that reason -- every cell now prints its count, so the
-     fitted view is the occupancy matrix and states the shape of the board -- and
-     nobody came back to the default. Reported from a real screen as "the map is
-     never able to fit", which is exactly what it was. */
+     THE JUSTIFICATION FOR FITTING CHANGED ON 27 AUGUST and the old one is left
+     here because it reads as current and is not. It used to be: below the
+     threshold the chips drew as 110 anonymous rectangles, and the dense occupancy
+     mode redeemed that by printing a count in every cell, so a fitted opening was
+     the occupancy matrix and still said something. That is no longer what a fitted
+     opening is. Cell mode is an explicit opt now and nothing automatic reaches it,
+     so the fitted view is the real lattice -- chips, rules and edges -- unlabelled
+     below 0.62 and labelled above it. Which is what was wanted all along, and what
+     Stewart asked for: "nobody ever gets to see the map in its normal form and
+     it's central to it, as it shows how robust our connections are." */
   centreOn(fk);
   zoom = 'fit';
   repaint();
@@ -1953,10 +2013,21 @@ def apply(s, model, must_replace, layout=None):
     # is the table of contents for it
     s, o = must_replace(s,
         "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>';",
-        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>'\n"
-        "    + '<button class=\"dock-toggle\" data-dockw=\"1\" title=\"Widen or collapse the dossier\">'\n"
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
+        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>';",
         "dock collapse control", 1); ok &= o
+    # ONE CONTROL ON THAT EDGE, NOT THREE. 27 August.
+    # The dossier grew a `.dock-toggle` chevron (widen/narrow) and a `.dock-hide`
+    # chevron (hide entirely), each an 11px glyph on the panel's left edge. The
+    # labelled fold tab added today sits on the same edge and covered both --
+    # tools/walk.js reported the two overlaps on its first clean run, which is
+    # exactly the job it was built for.
+    # They are not merely moved out of the way, they are retired. Both duplicate
+    # what the fold now does, and Stewart asked for the affordance the spine
+    # already had -- "that nice tab you click" -- not a third glyph beside two
+    # others. `dock-hide` in particular collapsed the panel to zero width, which
+    # is strictly worse than the spine: no width back that the spine does not
+    # also give, and nothing left on screen to click. S.dockCollapsed and
+    # S.dockOff stay in state and stay handled; nothing reaches them now.
 
     s, o = must_replace(s, "  const n = NODES.find(x=>x.id===S.sel);",
         "  const _ed = renderEntityDossier(S.sel);\n"
@@ -1998,10 +2069,15 @@ def apply(s, model, must_replace, layout=None):
         "       instead of re-fitting the board -- the dossier opening must not\n"
         "       lose the thing the dossier is about. */\n"
         "    focusId = id; camMode = 'held'; zoom = null;\n"
-        "    /* zoom in enough that the node and its label are readable, then\n"
-        "       centre it. The reader asked for the node they clicked, not a\n"
-        "       field of 96. */\n"
-        "    view.k = Math.max(view.k, 1.15);\n"
+        "    /* KEEP THE READER'S SCALE. This used to force `view.k = max(view.k,\n"
+        "       1.15)` on the reasoning that the reader asked for the node they\n"
+        "       clicked rather than a field of 96 -- but the node they clicked is\n"
+        "       one they could already see, and taking the camera to 1.15 throws\n"
+        "       away the overview they were reading it from. Stewart, 27 August:\n"
+        "       \"you have to zoom too far to get the map back\". The dossier\n"
+        "       carries everything the label cannot at this scale, so centring is\n"
+        "       the whole of what a pick owes the reader. At a fitted camera the\n"
+        "       clamp makes this very nearly a no-op, which is the point. */\n"
         "    /* n.x/n.y are the chip TOP-LEFT in the packed layout, so centring on\n"
         "       them would put the chip down-right of the middle by half its size --\n"
         "       102px of a 205px chip, which reads as the camera missing. */\n"
@@ -2012,7 +2088,7 @@ def apply(s, model, must_replace, layout=None):
         "                      filling the content rect. */\n"
         "    repaint();\n"
         "  }\n"
-        "  return {\n    repaint, focus, pairs: [],",
+        "  return {\n    repaint, focus, fitAll, pairs: [],",
         "MAP.focus", 1); ok &= o
 
     s, o = must_replace(s,
@@ -2066,28 +2142,70 @@ def apply(s, model, must_replace, layout=None):
         "    document.getElementById('app').classList.toggle('dock-off', S.dockOff);\n"
         "    renderDock(); return;\n"
         "  }\n"
+        "  /* The open state's way back to the spine. Its twin is the spine\n"
+        "     itself, which is one big click target -- see the #dock.dock-spine\n"
+        "     handler in the map module. */\n"
+        "  if (ev.target.closest('[data-dockfold]')){\n"
+        "    S.dockSpine = true; renderDock(); return;\n"
+        "  }\n"
         "  if (ev.target.closest('[data-dockw]')){",
         "KPI + dock-collapse handlers", 1); ok &= o
 
-    # the always-present collapse control, and the re-open tab when hidden
-    s, o = must_replace(s,
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>'\n"
-        "    + '<button class=\"dock-hide\" data-dockoff=\"1\" title=\"Hide the detail pane\">&raquo;</button>';",
-        "dock hide control", 1); ok &= o
+    # (the dock-hide chevron used to be appended here; see the note above)
 
     s, o = must_replace(s,
         "  d.classList.toggle('open', !!S.sel);\n  setDockOpen(!!S.sel && !S.dockCollapsed);",
         "  d.classList.toggle('open', !!S.sel);\n"
-        "  setDockOpen(!!S.sel && !S.dockCollapsed && !S.dockOff);\n"
+        "  /* THE RULE, 27 August 2026. The dossier is OUT when there is\n"
+        "     something to read and folded to its spine otherwise. Stewart:\n"
+        "     \"the bar popping up if something is clicked on the map. This way\n"
+        "     the right bar retracts and we get to see the whole map up front.\"\n"
+        "     Before this the dock shipped OPEN with nothing selected, showing a\n"
+        "     paragraph of placeholder prose in ~290px the map wanted.\n"
+        "     Keyed on a CHANGE of selection, not on its value, so either tab\n"
+        "     overrides the rule and the override survives until the reader\n"
+        "     picks something else. */\n"
+        "  if (S.sel !== S._dockLastSel){ S.dockSpine = !S.sel; S._dockLastSel = S.sel; }\n"
+        "  const spined = !!S.dockSpine && !S.dockOff;\n"
+        "  setDockOpen(!spined && !!S.sel && !S.dockCollapsed && !S.dockOff);\n"
+        "  /* AFTER setDockOpen, which writes --dock-w itself. Two owners of one\n"
+        "     custom property is how the first fold silently did nothing. */\n"
+        "  d.classList.toggle('dock-spine', spined);\n"
+        "  d.style.width = '';\n"
+        "  if (spined) document.documentElement.style.setProperty('--dock-w','30px');\n"
         "  let tab = document.querySelector('.dock-show');\n"
         "  if (S.dockOff && !tab){\n"
         "    tab = el('button','dock-show','&laquo;');\n"
         "    tab.setAttribute('data-dockoff','1');\n"
         "    tab.title = 'Show the detail pane';\n"
         "    document.body.appendChild(tab);\n"
-        "  } else if (!S.dockOff && tab){ tab.remove(); }",
+        "  } else if (!S.dockOff && tab){ tab.remove(); }\n"
+        "  let fold = document.querySelector('.dock-fold');\n"
+        "  if (!spined && !S.dockOff){\n"
+        "    if (!fold){\n"
+        "      fold = el('button','dock-fold','<b>DOSSIER \\u2014 CLICK TO CLOSE</b>');\n"
+        "      fold.setAttribute('data-dockfold','1');\n"
+        "      fold.title = 'Fold the dossier back to its spine';\n"
+        "      document.body.appendChild(fold);\n"
+        "    }\n"
+        "  } else if (fold){ fold.remove(); }",
         "dock re-open tab", 1); ok &= o
+
+    # ---- the analyst fold, on the dossier's curve.
+    # `display:none` is not an interpolable property, so the analyst console
+    # vanished between two frames while the dossier beside it slid on a 320ms
+    # ease. One shell, two manners. Stewart, 27 August: "Add the same animation
+    # curve etc to collapsing the analyst".
+    s, o = must_replace(s,
+        "  $('#anscroll').style.display = S.anOpen ? '' : 'none';\n"
+        "  $('#ansugg').style.display = S.anOpen ? '' : 'none';",
+        "  /* A CLASS, so the fold can be animated. Setting display back to '' here\n"
+        "     would also defeat the transition -- a display change forces the new\n"
+        "     box immediately and there is nothing to interpolate from. The two\n"
+        "     children keep their boxes and lose their height instead. */\n"
+        "  const anEl = document.querySelector('.analyst');\n"
+        "  if (anEl) anEl.classList.toggle('an-collapsed', !S.anOpen);",
+        "analyst fold as a class", 1); ok &= o
 
     # ---- stage 3: entry surface (C) and focus on select (D) ---------------
     s, o = must_replace(s, "</style>", L0_CSS3 + "</style>", "L0 stage-3 styles",
@@ -2102,10 +2220,21 @@ def apply(s, model, must_replace, layout=None):
     s, o = must_replace(s,
         "  l0open:[], l0panel:null, l0full:false, dockOff:false,\n};",
         "  l0open:[], l0panel:null, l0full:false, dockOff:false,\n"
-        "  /* l0entry starts TRUE: a stranger should land on a question, not a\n"
-        "     hairball. Once they have chosen a way in it stays down for the\n"
-        "     session. */\n"
-        "  l0entry:true, l0path:null, l0focus:null,\n};",
+        "  /* l0entry starts FALSE, changed 27 August 2026. It started TRUE on the\n"
+        "     reasoning that a stranger should land on a question rather than a\n"
+        "     hairball -- but the board is no longer a hairball, it is a packed\n"
+        "     grid, and Design settled this on 26 August: \"Entry is therefore\n"
+        "     'here is all of it', not 'here is where we think you should\n"
+        "     start'. The 14 start-here flags stay available, but as an offer\n"
+        "     inside a board you have already seen whole.\"\n"
+        "\n"
+        "     Stewart, 27 August, on the live deploy: \"It loads to this screen\"\n"
+        "     -- the screen being the six cards, with the map behind them unseen.\n"
+        "     The cards are one click away on the START chip and CMD.showEntry();\n"
+        "     nothing is lost by not showing them first. */\n"
+        "  l0entry:false, l0path:null, l0focus:null,\n"
+        "  /* The dossier starts folded. See renderDock for the rule. */\n"
+        "  dockSpine:true, _dockLastSel:null,\n};",
         "entry state", 1); ok &= o
 
     # the entry surface mounts over the map, and the map keeps running behind it
@@ -2391,8 +2520,64 @@ def apply(s, model, must_replace, layout=None):
 
 L0_CSS2 = """
 /* dock: a reading measure on selection, a strip otherwise ------------------ */
-.dock{transition:width 260ms cubic-bezier(.2,0,0,1)}
+/* THE SLIDE, ON THE THING THAT ACTUALLY MOVES.
+   `.dock{transition:width}` sat here since the fold landed and never once ran. The
+   dock is a grid CHILD: its width comes from the `.body` track `var(--dock-w)`, so
+   the element's own width property is never what changes and there is nothing for a
+   width transition to interpolate. The panel snapped, every time.
+
+   Transitioning `.body{grid-template-columns}` instead got closer and was still
+   wrong, and this is the part worth remembering: an UNREGISTERED custom property
+   has no type, so `--dock-w` flips 30px -> 800px discretely and the track it feeds
+   has nothing to interpolate between. Measured, sampling every frame: 30 -> 762 in
+   one frame, then 762 -> 800 over the following 140ms. A 95% jump with a polite
+   settle on the end is not a slide, and it would have shipped looking like one had
+   nobody sampled it.
+
+   @property gives the custom property a <length> type, and a typed custom property
+   animates. Then the track follows it, the map's right edge follows the track, and
+   the whole shell moves as one thing. easeOutQuint: leaves fast, arrives soft. */
+@property --dock-w { syntax:'<length>'; inherits:true; initial-value:306px; }
+:root{transition:--dock-w 320ms cubic-bezier(.22,1,.36,1)}
 .dock.dock-wide{max-width:none}
+/* THE TAB ON THE OPEN STATE. The spine has carried "DOSSIER - CLICK TO OPEN" since
+   the fold landed, but the open state had only an 11px chevron, so the way back was
+   invisible. Stewart, 27 August: "that tab needs to exist on the open version too
+   so you can click it and it slides back in." Same type, same letter-spacing, same
+   rotation as the spine label -- one visual idea in two directions.
+   position:FIXED and pinned to --dock-w rather than absolute inside the dock,
+   because `.dock{overflow-x:hidden}` would clip a child hanging off its left edge.
+   It transitions `right` on the same curve, so the tab rides the panel instead of
+   teleporting to meet it. */
+.dock-fold{position:fixed;right:calc(var(--dock-w) - 1px);top:50%;
+  transform:translateY(-50%);z-index:33;width:18px;height:168px;
+  background:#141920;border:1px solid #262e36;border-right:none;
+  border-radius:3px 0 0 3px;color:#8d97a4;cursor:pointer;padding:0;
+  display:flex;align-items:center;justify-content:center;
+  transition:color 140ms linear,border-color 140ms linear}
+.dock-fold b{writing-mode:vertical-rl;transform:rotate(180deg);white-space:nowrap;
+  font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;font-weight:500}
+.dock-fold:hover{color:#5ed4e6;border-color:#3b444f}
+#dock{transition:none}
+/* THE ANALYST FOLD, on the dossier's curve and duration, so the two panels that
+   frame the map behave like one shell. max-height rather than height because the
+   transcript has no fixed height -- it grows with the conversation, which is the
+   whole point of it -- and max-height interpolates from a number to zero without
+   anyone having to measure the content first. The generous open value on the
+   suggestion row is the standard max-height trick: it only ever clips if the chips
+   need more than 400px, and it reaches full size early rather than late. */
+#anscroll,#ansugg{overflow:hidden;
+  transition:max-height 320ms cubic-bezier(.22,1,.36,1),
+             opacity 170ms linear,
+             padding-top 320ms cubic-bezier(.22,1,.36,1),
+             padding-bottom 320ms cubic-bezier(.22,1,.36,1)}
+#ansugg{max-height:400px}
+.analyst.an-collapsed #anscroll,
+.analyst.an-collapsed #ansugg{
+  max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0}
+@media (prefers-reduced-motion:reduce){
+  :root,.dock-fold,#anscroll,#ansugg{transition:none}
+}
 .dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
   z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
   border-right:none;color:#8d97a4;cursor:pointer;font:500 11px/44px 'IBM Plex Mono',monospace;
@@ -2595,10 +2780,12 @@ L0_CMD2 = r"""
   /* The three packed-layout options, drivable from the chat input. Every control
      on this surface must have a CMD entry or the "drive the whole app from the
      chat input" requirement is broken for it -- the same rule the five original L0
-     actions were written to. All three ship ON. */
+     actions were written to. The first three ship ON; `cells` ships OFF and is the
+     only way into the count matrix -- no fit and no zoom will put a reader there. */
   l0opt(which, on){
     if (!MAP || !MAP.opt) return warn('the program map is not mounted');
-    const K = { rest:'lines at rest', flags:'start-here pointers', labels:'chip labels' };
+    const K = { rest:'lines at rest', flags:'start-here pointers', labels:'chip labels',
+                cells:'the cell count matrix' };
     if (!K[which]) return warn('l0opt("'+which+'") — options are: '+Object.keys(K).join(', '));
     MAP.opt[which] = (on === undefined) ? !MAP.opt[which] : !!on;
     MAP.repaint();
@@ -2710,9 +2897,16 @@ L0_CMD3 = r"""
     S.l0path = id;
     S.l0focus = new Set(p.ids);
     S.l0open = [];
+    /* A people path has no cells to light -- its members are witnesses, and the
+       map carries 110 entities. Opening the first dossier is the whole gesture. */
     if (p.people && p.ids.length) { CMD.selectNode(p.ids[0]); return; }
     S.sel = null;
     paint({ map:'l0', full:true });
+    /* AND THEN FIT. Stewart, 26 August: "when I click a starting point I want it
+       to select the relevant cells but then fit to screen." Before this line the
+       path lit up wherever the camera happened to be standing, so picking a path
+       from a zoomed-in board highlighted seven chips the reader could not see. */
+    if (MAP && MAP.fitAll) MAP.fitAll();
   },
   clearPath(){
     S.l0path = null; S.l0focus = null;
