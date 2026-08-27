@@ -302,6 +302,34 @@ const CHECKS = [
                + ` · ${p.eraInkPoison} when the row is moved onto the band`,
     poison: p => ({ ...p, eraInkMax: 3 }),
   },
+  {
+    id: 'overlay-clears-controls',
+    label: 'no DOM overlay covers the map controls, at any width',
+    /* The sibling of head-row-clear, one layer up. That one guards what the canvas
+       paints UNDER the buttons; this guards what the DOM stacks OVER them.
+
+       .l0reg was pinned at `top:44px` while the control row is measured. The
+       constant cleared a single-line strip by 9px and nothing else, so it looked
+       correct for as long as nobody opened the dossier -- and the dossier is the
+       state Stewart was in. Measured with a path open and a node selected, the
+       register covered the controls by 22 / 53 / 53 / 84 px at 2560 / 1920 / 1600 /
+       1366, from above.
+
+       .l0ledger was never the culprit and the reason is worth keeping: it clamps to
+       `PAD.t + 6` in script rather than to a number in a stylesheet. The fix makes
+       the register do the same thing by publishing the measured reserve as
+       --l0-ctl, so CSS and canvas read one value.
+
+       requiring regOverlapPoison > 0 is what stops this passing on a page where the
+       register simply never rendered: -1 is the not-found sentinel and fails both
+       halves. */
+    test: p => p.regOverlapMax === 0 && p.regOverlapPoison > 0
+               && (p.regOverlaps || []).length === 4,
+    detail: p => `register vs controls ${(p.regOverlaps||[]).join('/')}px`
+               + ` at 1366/1600/1920/2560 · control row ${(p.regHeadH||[]).join('/')}px tall`
+               + ` · ${p.regOverlapPoison}px with the old top:44px constant put back`,
+    poison: p => ({ ...p, regOverlapMax: 12 }),
+  },
 ];
 
 /* ---- the fit sweep ----------------------------------------------------------
@@ -468,6 +496,72 @@ async function headSweep(page) {
   return { eraInkWidths, eraInkAt, eraHeadH,
            eraInkMax: Math.max.apply(null, eraInkWidths),
            eraInkPoison: poisoned.ink };
+}
+
+/* The DOM overlays that sit on the map, against the control row they must clear.
+   headSweep guards what the CANVAS paints under the buttons; this guards what the
+   DOM stacks on top of them, which is a different failure with the same cause. On
+   27 August .l0reg was pinned at top:44px -- a constant that cleared a single-line
+   strip by 9px and nothing else. Open the dossier so the row wraps and, measured,
+   the register covered the controls by 22px at 2560, 53 at 1920 and 1600 and 84 at
+   1366, from ABOVE: z-index 5 against .l0head's 4.
+
+   The poison is page-level and is the whole point: it puts the old constant back
+   on the live page by overriding --l0-ctl, and the overlap must return. A check
+   that only ever sees the fixed value cannot tell a measured reserve from a lucky
+   one. 0px against 53 at 1600 when it was written. */
+async function overlayOverlap(page) {
+  return await page.evaluate(() => {
+    const q = s => { const e = document.querySelector(s); if (!e) return null;
+      const r = e.getBoundingClientRect(); return { top: r.top, bottom: r.bottom, left: r.left, right: r.right }; };
+    const head = q('.l0head'), reg = q('.l0reg');
+    if (!head || !reg) return { overlap: -1, headH: -1 };
+    /* Vertical overlap only counts where the two also share horizontal span. */
+    const across = !(reg.left >= head.right || reg.right <= head.left);
+    const v = Math.max(0, Math.min(head.bottom, reg.bottom) - Math.max(head.top, reg.top));
+    return { overlap: across ? Math.round(v) : 0, headH: Math.round(head.bottom - head.top) };
+  });
+}
+
+async function overlaySweep(page) {
+  const SIZES = [[1366, 768], [1600, 900], [1920, 1080], [2560, 1440]];
+  const regOverlaps = [], regHeadH = [];
+
+  await page.evaluate(() => { window.__board.CMD.openPath('money'); });
+  await page.waitForTimeout(1200);
+  await page.evaluate(() => { window.__board.CMD.selectNode('aawsap'); });
+  await page.waitForTimeout(1200);
+  await page.evaluate(() => { window.__board.CMD.showPathOnly(); });
+  await page.waitForTimeout(1200);
+
+  for (const [w, h] of SIZES) {
+    await page.setViewportSize({ width: w, height: h });
+    await page.waitForTimeout(900);
+    const r = await overlayOverlap(page);
+    regOverlaps.push(r.overlap); regHeadH.push(r.headH);
+  }
+
+  /* PAGE POISON: restore the pre-fix constant and require the overlap back. */
+  await page.setViewportSize({ width: 1600, height: 900 });
+  await page.waitForTimeout(900);
+  await page.evaluate(() => {
+    const host = document.querySelector('.l0wrap');
+    if (host) host.style.setProperty('--l0-ctl', '44px');
+  });
+  await page.waitForTimeout(500);
+  const poisoned = await overlayOverlap(page);
+  await page.evaluate(() => {
+    const host = document.querySelector('.l0wrap');
+    if (host) host.style.removeProperty('--l0-ctl');
+    window.__board.CMD.clearSelection && window.__board.CMD.clearSelection();
+    window.__board.CMD.clearPath && window.__board.CMD.clearPath();
+  });
+  await page.setViewportSize({ width: 2000, height: 1150 });
+  await page.waitForTimeout(900);
+
+  return { regOverlaps, regHeadH,
+           regOverlapMax: Math.max.apply(null, regOverlaps),
+           regOverlapPoison: poisoned.overlap };
 }
 
 /* ---- probing the page ------------------------------------------------------ */
@@ -1274,6 +1368,7 @@ async function probeImages(page, fixtures, opts) {
                 mark:     pngFixture(0x00, 0xff, 0x00), markHex:     '#00ff00' };
   const im = await probeImages(page, FIX);
   Object.assign(p, await headSweep(page));
+  Object.assign(p, await overlaySweep(page));
 
   const hard = errs.filter(e => !/font|ERR_CONNECTION_RESET|404|favicon/i.test(e));
   const lines = [], fails = [];
