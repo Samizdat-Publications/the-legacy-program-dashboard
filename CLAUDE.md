@@ -14,10 +14,17 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-UX.md` after this. **It is the
-current one**, and what it says is that the data work is done and gated and the SHELL is now
-the problem: FIT shows the count matrix instead of the map, the dossier dock takes half the
-window, and a START HERE pick zooms in rather than fitting. §9 carries the located causes.
+**Starting a fresh session?** Read `notes/SHELL-2026-08-27.md` after this. **It is the
+current one.** The shell problems it describes are fixed: FIT draws the map at every window
+size, the dossier starts folded and slides, the analyst sizes to its content, and no era head
+prints under the controls. `notes/HANDOFF-2026-08-26-UX.md` is the previous one and is still
+the best statement of the diagnosis; its §4 priority list is done.
+
+**The lesson from 27 August is about process, not code: an unmerged PR is invisible to the
+next session.** PR #5 held the whole of 26 August -- the authored chip labels, the denial
+adjudication, the corrected §3 below, Design's shell response -- and sat as an open draft
+while `master` stayed far behind. A session cut from `master` began blind and re-derived
+what was already written down. Merge before handing off.
 `notes/HANDOFF-2026-08-26-packed.md` is the previous one and is still accurate on the packed
 layout and the pipeline. Two earlier handoffs from 25 August are **superseded** and should be read
 as record only: `notes/HANDOFF-2026-08-25-audit.md` (still accurate on the source audit, but
@@ -158,8 +165,15 @@ node tools/look.js                 # sweeps four viewport sizes -> dist/shots/
 ```
 
 `tools/look.js` is a **camera, not a check**. It asserts nothing and cannot fail. It
-sweeps sizes because the map has two opening states and which one you get depends on how
-much room it has, so one screenshot at one size is not a look at the map.
+sweeps sizes because what the board does with its room changes across them: whether the
+control row wraps onto the era heads, whether the fit clears the 0.62 label threshold,
+how much of the window the dossier takes. Measured on 27 August, the control row is 25px
+tall at 2560 and 149px at 1366.
+
+> The reason given here until 27 August was that the map had **two opening states** --
+> fitted, or 1:1 in the corner below the label threshold. It has one now: fitted, at
+> every width, drawing real chips. Cell mode became an explicit opt the same day, so no
+> fit can land a reader in the count matrix. `notes/SHELL-2026-08-27.md`.
 
 **What is still true is the discipline.** Looking is now available, so use it — but
 report what you actually saw and nothing more. Two limits worth naming:

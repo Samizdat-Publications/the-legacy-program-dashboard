@@ -18,8 +18,8 @@ paste any one of them into a cold terminal without reading the ones above it. Th
 
 ```
 cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
-git checkout claude/claud-md-compacting-vs9o9j
-git pull origin claude/claud-md-compacting-vs9o9j
+git checkout master
+git pull origin master
 ```
 
 ## 1. The site

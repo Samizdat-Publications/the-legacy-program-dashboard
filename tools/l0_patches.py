@@ -1663,22 +1663,23 @@ function mountL0(host){
 
   measure();
   const fk = fitScale();
-  /* Fitted if the fit keeps labels; otherwise the top-left corner at 1:1, because
-     on a banded grid the first band is where the argument starts. The old code
-     centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
-     funding band with no column head and no band label in view. */
   /* Open FITTED, at every width. Design's comp states this outright -- its root
-     state is `zoom: 'fit'` -- and this build diverged from it: below the label
-     threshold it gave up on fitting and opened at 1:1 in the top-left corner,
-     which on any screen under about 1944px is three of seven bands.
+     state is `zoom: 'fit'` -- and this build diverged from it for a long time:
+     below the label threshold it gave up on fitting and opened at 1:1 in the
+     top-left corner, which on any screen under about 1944px is three of seven
+     bands. Reported from a real screen as "the map is never able to fit", which
+     is exactly what it was.
 
-     That divergence had a reason once. Below the threshold the chips used to draw
-     as 110 anonymous rectangles, so a fitted opening showed the reader an
-     unreadable grid and the corner at least showed real labels. The dense
-     occupancy mode killed that reason -- every cell now prints its count, so the
-     fitted view is the occupancy matrix and states the shape of the board -- and
-     nobody came back to the default. Reported from a real screen as "the map is
-     never able to fit", which is exactly what it was. */
+     THE JUSTIFICATION FOR FITTING CHANGED ON 27 AUGUST and the old one is left
+     here because it reads as current and is not. It used to be: below the
+     threshold the chips drew as 110 anonymous rectangles, and the dense occupancy
+     mode redeemed that by printing a count in every cell, so a fitted opening was
+     the occupancy matrix and still said something. That is no longer what a fitted
+     opening is. Cell mode is an explicit opt now and nothing automatic reaches it,
+     so the fitted view is the real lattice -- chips, rules and edges -- unlabelled
+     below 0.62 and labelled above it. Which is what was wanted all along, and what
+     Stewart asked for: "nobody ever gets to see the map in its normal form and
+     it's central to it, as it shows how robust our connections are." */
   centreOn(fk);
   zoom = 'fit';
   repaint();
@@ -2012,10 +2013,21 @@ def apply(s, model, must_replace, layout=None):
     # is the table of contents for it
     s, o = must_replace(s,
         "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>';",
-        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>'\n"
-        "    + '<button class=\"dock-toggle\" data-dockw=\"1\" title=\"Widen or collapse the dossier\">'\n"
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
+        "  const grip = '<div class=\"dock-grip\" title=\"Drag to resize. Double click to reset\"></div>';",
         "dock collapse control", 1); ok &= o
+    # ONE CONTROL ON THAT EDGE, NOT THREE. 27 August.
+    # The dossier grew a `.dock-toggle` chevron (widen/narrow) and a `.dock-hide`
+    # chevron (hide entirely), each an 11px glyph on the panel's left edge. The
+    # labelled fold tab added today sits on the same edge and covered both --
+    # tools/walk.js reported the two overlaps on its first clean run, which is
+    # exactly the job it was built for.
+    # They are not merely moved out of the way, they are retired. Both duplicate
+    # what the fold now does, and Stewart asked for the affordance the spine
+    # already had -- "that nice tab you click" -- not a third glyph beside two
+    # others. `dock-hide` in particular collapsed the panel to zero width, which
+    # is strictly worse than the spine: no width back that the spine does not
+    # also give, and nothing left on screen to click. S.dockCollapsed and
+    # S.dockOff stay in state and stay handled; nothing reaches them now.
 
     s, o = must_replace(s, "  const n = NODES.find(x=>x.id===S.sel);",
         "  const _ed = renderEntityDossier(S.sel);\n"
@@ -2139,12 +2151,7 @@ def apply(s, model, must_replace, layout=None):
         "  if (ev.target.closest('[data-dockw]')){",
         "KPI + dock-collapse handlers", 1); ok &= o
 
-    # the always-present collapse control, and the re-open tab when hidden
-    s, o = must_replace(s,
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>';",
-        "    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>'\n"
-        "    + '<button class=\"dock-hide\" data-dockoff=\"1\" title=\"Hide the detail pane\">&raquo;</button>';",
-        "dock hide control", 1); ok &= o
+    # (the dock-hide chevron used to be appended here; see the note above)
 
     s, o = must_replace(s,
         "  d.classList.toggle('open', !!S.sel);\n  setDockOpen(!!S.sel && !S.dockCollapsed);",
@@ -2183,6 +2190,22 @@ def apply(s, model, must_replace, layout=None):
         "    }\n"
         "  } else if (fold){ fold.remove(); }",
         "dock re-open tab", 1); ok &= o
+
+    # ---- the analyst fold, on the dossier's curve.
+    # `display:none` is not an interpolable property, so the analyst console
+    # vanished between two frames while the dossier beside it slid on a 320ms
+    # ease. One shell, two manners. Stewart, 27 August: "Add the same animation
+    # curve etc to collapsing the analyst".
+    s, o = must_replace(s,
+        "  $('#anscroll').style.display = S.anOpen ? '' : 'none';\n"
+        "  $('#ansugg').style.display = S.anOpen ? '' : 'none';",
+        "  /* A CLASS, so the fold can be animated. Setting display back to '' here\n"
+        "     would also defeat the transition -- a display change forces the new\n"
+        "     box immediately and there is nothing to interpolate from. The two\n"
+        "     children keep their boxes and lose their height instead. */\n"
+        "  const anEl = document.querySelector('.analyst');\n"
+        "  if (anEl) anEl.classList.toggle('an-collapsed', !S.anOpen);",
+        "analyst fold as a class", 1); ok &= o
 
     # ---- stage 3: entry surface (C) and focus on select (D) ---------------
     s, o = must_replace(s, "</style>", L0_CSS3 + "</style>", "L0 stage-3 styles",
@@ -2536,8 +2559,24 @@ L0_CSS2 = """
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;font-weight:500}
 .dock-fold:hover{color:#5ed4e6;border-color:#3b444f}
 #dock{transition:none}
+/* THE ANALYST FOLD, on the dossier's curve and duration, so the two panels that
+   frame the map behave like one shell. max-height rather than height because the
+   transcript has no fixed height -- it grows with the conversation, which is the
+   whole point of it -- and max-height interpolates from a number to zero without
+   anyone having to measure the content first. The generous open value on the
+   suggestion row is the standard max-height trick: it only ever clips if the chips
+   need more than 400px, and it reaches full size early rather than late. */
+#anscroll,#ansugg{overflow:hidden;
+  transition:max-height 320ms cubic-bezier(.22,1,.36,1),
+             opacity 170ms linear,
+             padding-top 320ms cubic-bezier(.22,1,.36,1),
+             padding-bottom 320ms cubic-bezier(.22,1,.36,1)}
+#ansugg{max-height:400px}
+.analyst.an-collapsed #anscroll,
+.analyst.an-collapsed #ansugg{
+  max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0}
 @media (prefers-reduced-motion:reduce){
-  :root,.dock-fold{transition:none}
+  :root,.dock-fold,#anscroll,#ansugg{transition:none}
 }
 .dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
   z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;

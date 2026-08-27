@@ -348,8 +348,24 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;font-weight:500}
 .dock-fold:hover{color:#5ed4e6;border-color:#3b444f}
 #dock{transition:none}
+/* THE ANALYST FOLD, on the dossier's curve and duration, so the two panels that
+   frame the map behave like one shell. max-height rather than height because the
+   transcript has no fixed height -- it grows with the conversation, which is the
+   whole point of it -- and max-height interpolates from a number to zero without
+   anyone having to measure the content first. The generous open value on the
+   suggestion row is the standard max-height trick: it only ever clips if the chips
+   need more than 400px, and it reaches full size early rather than late. */
+#anscroll,#ansugg{overflow:hidden;
+  transition:max-height 320ms cubic-bezier(.22,1,.36,1),
+             opacity 170ms linear,
+             padding-top 320ms cubic-bezier(.22,1,.36,1),
+             padding-bottom 320ms cubic-bezier(.22,1,.36,1)}
+#ansugg{max-height:400px}
+.analyst.an-collapsed #anscroll,
+.analyst.an-collapsed #ansugg{
+  max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0}
 @media (prefers-reduced-motion:reduce){
-  :root,.dock-fold{transition:none}
+  :root,.dock-fold,#anscroll,#ansugg{transition:none}
 }
 .dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
   z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
@@ -1007,8 +1023,24 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;font-weight:500}
 .dock-fold:hover{color:#5ed4e6;border-color:#3b444f}
 #dock{transition:none}
+/* THE ANALYST FOLD, on the dossier's curve and duration, so the two panels that
+   frame the map behave like one shell. max-height rather than height because the
+   transcript has no fixed height -- it grows with the conversation, which is the
+   whole point of it -- and max-height interpolates from a number to zero without
+   anyone having to measure the content first. The generous open value on the
+   suggestion row is the standard max-height trick: it only ever clips if the chips
+   need more than 400px, and it reaches full size early rather than late. */
+#anscroll,#ansugg{overflow:hidden;
+  transition:max-height 320ms cubic-bezier(.22,1,.36,1),
+             opacity 170ms linear,
+             padding-top 320ms cubic-bezier(.22,1,.36,1),
+             padding-bottom 320ms cubic-bezier(.22,1,.36,1)}
+#ansugg{max-height:400px}
+.analyst.an-collapsed #anscroll,
+.analyst.an-collapsed #ansugg{
+  max-height:0;opacity:0;padding-top:0;padding-bottom:0;border-top-width:0}
 @media (prefers-reduced-motion:reduce){
-  :root,.dock-fold{transition:none}
+  :root,.dock-fold,#anscroll,#ansugg{transition:none}
 }
 .dock-toggle{position:absolute;left:-11px;top:50%;transform:translateY(-50%);
   z-index:32;width:22px;height:46px;background:#141920;border:1px solid #262e36;
@@ -121456,22 +121488,23 @@ function mountL0(host){
   renderL0Entry(host);
   measure();
   const fk = fitScale();
-  /* Fitted if the fit keeps labels; otherwise the top-left corner at 1:1, because
-     on a banded grid the first band is where the argument starts. The old code
-     centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
-     funding band with no column head and no band label in view. */
   /* Open FITTED, at every width. Design's comp states this outright -- its root
-     state is `zoom: 'fit'` -- and this build diverged from it: below the label
-     threshold it gave up on fitting and opened at 1:1 in the top-left corner,
-     which on any screen under about 1944px is three of seven bands.
+     state is `zoom: 'fit'` -- and this build diverged from it for a long time:
+     below the label threshold it gave up on fitting and opened at 1:1 in the
+     top-left corner, which on any screen under about 1944px is three of seven
+     bands. Reported from a real screen as "the map is never able to fit", which
+     is exactly what it was.
 
-     That divergence had a reason once. Below the threshold the chips used to draw
-     as 110 anonymous rectangles, so a fitted opening showed the reader an
-     unreadable grid and the corner at least showed real labels. The dense
-     occupancy mode killed that reason -- every cell now prints its count, so the
-     fitted view is the occupancy matrix and states the shape of the board -- and
-     nobody came back to the default. Reported from a real screen as "the map is
-     never able to fit", which is exactly what it was. */
+     THE JUSTIFICATION FOR FITTING CHANGED ON 27 AUGUST and the old one is left
+     here because it reads as current and is not. It used to be: below the
+     threshold the chips drew as 110 anonymous rectangles, and the dense occupancy
+     mode redeemed that by printing a count in every cell, so a fitted opening was
+     the occupancy matrix and still said something. That is no longer what a fitted
+     opening is. Cell mode is an explicit opt now and nothing automatic reaches it,
+     so the fitted view is the real lattice -- chips, rules and edges -- unlabelled
+     below 0.62 and labelled above it. Which is what was wanted all along, and what
+     Stewart asked for: "nobody ever gets to see the map in its normal form and
+     it's central to it, as it shows how robust our connections are." */
   centreOn(fk);
   zoom = 'fit';
   repaint();
@@ -123770,10 +123803,7 @@ function renderDock(){
       document.body.appendChild(fold);
     }
   } else if (fold){ fold.remove(); }
-  const grip = '<div class="dock-grip" title="Drag to resize. Double click to reset"></div>'
-    + '<button class="dock-toggle" data-dockw="1" title="Widen or collapse the dossier">'
-    + (S.dockCollapsed ? '&lsaquo;' : '&rsaquo;') + '</button>'
-    + '<button class="dock-hide" data-dockoff="1" title="Hide the detail pane">&raquo;</button>';
+  const grip = '<div class="dock-grip" title="Drag to resize. Double click to reset"></div>';
   if (!S.sel){
     d.innerHTML = grip + '<div class="dock-empty"><span class="eyebrow">Detail</span>'
       + 'Click any node on the map, any case card, or any search result to open its dossier here. '
@@ -124028,8 +124058,12 @@ function renderAnalystChrome(){
   }
   $('#keybtn').textContent = S.hasKey ? 'API key set' : 'Set API key';
   $('#antoggle').textContent = S.anOpen ? 'Collapse' : 'Expand';
-  $('#anscroll').style.display = S.anOpen ? '' : 'none';
-  $('#ansugg').style.display = S.anOpen ? '' : 'none';
+  /* A CLASS, so the fold can be animated. Setting display back to '' here
+     would also defeat the transition -- a display change forces the new
+     box immediately and there is nothing to interpolate from. The two
+     children keep their boxes and lose their height instead. */
+  const anEl = document.querySelector('.analyst');
+  if (anEl) anEl.classList.toggle('an-collapsed', !S.anOpen);
   $('#ansugg').innerHTML = SUGGESTIONS.map(s=>'<button class="chip" data-sugg="'+esc(s)+'">'+esc(s)+'</button>').join('');
   renderTranscript();
   renderSettings();

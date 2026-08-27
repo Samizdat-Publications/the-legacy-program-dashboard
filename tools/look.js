@@ -23,11 +23,17 @@
  * a session that can open an image -- can exercise the judgement the checks
  * cannot. tools/test_packed_layout.js is the check; this is the eyes.
  *
- * It sweeps viewport sizes on purpose. The map's opening state is a function of
- * how much room it gets: mountL0 opens fitted only when fitScale() clears
- * L0_LABEL_DROP, and otherwise at 1:1 in the top-left corner. Which branch runs
- * flips between common monitor sizes, so one screenshot at one size is not a
- * look at the map, it is a look at one of its two opening states.
+ * It sweeps viewport sizes on purpose, though the reason changed on 27 August and
+ * the old one is worth recording because it is the sort that quietly stops being
+ * true. It used to be that the map had TWO opening states -- fitted when
+ * fitScale() cleared L0_LABEL_DROP, and 1:1 in the top-left corner otherwise --
+ * so one screenshot was a look at one of them rather than at the map.
+ *
+ * There is one opening state now: fitted, at every width, drawing real chips. The
+ * sweep still earns its place, because what changes across sizes is everything
+ * else -- whether the control row wraps onto the era heads, whether labels clear
+ * the 0.62 threshold, how much of the window the dossier takes. Measured, the
+ * control row goes 25px tall at 2560 to 149px at 1366.
  *
  * Run it:
  *   node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
@@ -121,7 +127,13 @@ const clickCtl = async (page, label) => {
        fit clears the label threshold, so say THAT. */
     const branch = fit >= LABEL_DROP
       ? 'fitted, labels kept'
-      : 'fitted, below the label threshold so cells print counts';
+      /* NOT "cells print counts" any more. Cell mode became an explicit opt on
+         27 August and no fit reaches it, so below the threshold the map draws the
+         real lattice with the labels dropped. The type is what drops: the chip
+         label is 8 * view.k px, so at a 0.587 fit it would be 4.7px, which is not
+         a label. That is the actual reason for the threshold -- not string length,
+         which is what Design's shorts pass addressed. */
+      : 'fitted, chips unlabelled — 8*k would be under 5px here';
 
     const tag = `${w}x${h}`;
     const wrap = await page.$('.l0wrap');
