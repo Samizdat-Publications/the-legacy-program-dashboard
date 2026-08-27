@@ -129,9 +129,20 @@ def collect():
     }
 
     img = _load("data/l0-images.json") or {}
+    _recs = img.get("images", {})
+    _clears = sum(1 for v in _recs.values() if v.get("clearance") == "clears")
+    _ask = sum(1 for v in _recs.values() if v.get("clearance") == "ask")
+    # The note was a HARDCODED "empty on purpose" and stayed that way through nine
+    # records and then twelve, in the one tool whose whole purpose is that a number
+    # cannot drift out of sync with the thing it describes. Derived now, like
+    # everything else here.
     out["images"] = {
-        "records": len(img.get("images", {})),
-        "note": "empty on purpose -- an image URL is a sourcing claim",
+        "records": len(_recs),
+        "clears": _clears,
+        "ask": _ask,
+        "note": ("empty on purpose -- an image URL is a sourcing claim"
+                 if not _recs else
+                 f"{_clears} clear, {_ask} ask -- every record names a URL that was opened"),
     }
 
     out["artifacts"] = {

@@ -88,6 +88,30 @@
       "note": "RAND Corporation logo. Public domain (below the threshold of originality) but TRADEMARKED. Same reasoning as Lockheed.",
       "source": "https://commons.wikimedia.org/wiki/File:Rand_Corporation_logo.svg",
       "licence": "Public domain"
+    },
+    "aaro": {
+      "photo": "assets/marks/aaro.png",
+      "photoCredit": "Seal of the All-domain Anomaly Resolution Office. Public domain (US federal work, 17 U.S.C. 105). Commons flags it as insignia, the same generic notice carried by the DoD, CIA and DIA seals already here; no statute names AARO. Via Wikimedia Commons, credited to a science.nasa.gov original.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:All-domain_Anomaly_Resolution_Office_AARO_Logo.png",
+      "licence": "Public domain"
+    },
+    "afosi": {
+      "photo": "assets/marks/afosi.png",
+      "photoCredit": "Shield of the Air Force Office of Special Investigations. Public domain (US federal work, 17 U.S.C. 105). 18 U.S.C. 701 reaches the manufacture and sale of physical insignia, not depiction in research. Via Wikimedia Commons, credited to an af.mil original.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_Force_Office_of_Special_Investigations.png",
+      "licence": "Public domain"
+    },
+    "nro": {
+      "photo": "assets/marks/nro.png",
+      "photoCredit": "Seal of the National Reconnaissance Office. Public domain (US federal work, 17 U.S.C. 105). 10 U.S.C. 425 names NRO alongside DIA and NGA and reaches only merchandise, impersonation, solicitation or commercial activity conveying endorsement -- the same narrow scope already read for the DIA seal here. Via Wikimedia Commons.",
+      "photoKind": "mark",
+      "clearance": "clears",
+      "source": "https://commons.wikimedia.org/wiki/File:NRO.svg",
+      "licence": "Public domain"
     }
   },
   "_where_to_look_first": {
