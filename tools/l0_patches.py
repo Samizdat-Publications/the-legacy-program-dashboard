@@ -205,7 +205,15 @@ L0_CSS = """
   box-shadow:0 8px 22px rgba(0,0,0,.55)}
 .l0tip b{color:#e6e9ee;font-weight:500}
 .l0tip .act{color:#5ed4e6}
-.l0reg{position:absolute;left:0;top:44px;z-index:5;width:396px;max-height:calc(100% - 56px);
+/* TOP IS THE MEASURED CONTROL-ROW BOTTOM, NOT 44px. The constant cleared a
+   single-line strip by 9px and nothing else. Open the dossier and the row wraps:
+   measured, the register covered the controls by 22px at 2560, 53 at 1920 and
+   1600, and 84 at 1366 -- and .l0reg is z-index 5 against .l0head's 4, so it
+   covered them from ABOVE. Same mistake as the era heads, one surface along:
+   a constant standing in for something that varies. --l0-ctl is published by
+   measureHead, which is the one place the row is actually measured. */
+.l0reg{position:absolute;left:0;top:var(--l0-ctl,44px);z-index:5;width:396px;
+  max-height:calc(100% - var(--l0-ctl,44px) - 12px);
   background:#12171d;border:1px solid #262e36;display:flex;flex-direction:column}
 .l0reg.empty{max-height:none}
 .l0reg .none{padding:14px 12px 16px;font:400 10.5px/1.6 'IBM Plex Mono',monospace;
@@ -455,7 +463,7 @@ function mountL0(host){
   const ERA_BAND = 32;
   function measureHead(){
     const el = host.querySelector('.l0head');
-    if (!el) { PAD.ctl = 10; PAD.t = HEAD_MIN; return; }
+    if (!el) { PAD.ctl = 10; PAD.t = HEAD_MIN; publishHead(); return; }
     /* THE BOTTOM EDGE OF THE CONTROL ROW, not its height.
        This is the 27 August fix and the arithmetic is worth writing down, because
        the previous version looks correct and is not. `.l0head` is pinned at
@@ -474,6 +482,15 @@ function mountL0(host){
     const hb = host.getBoundingClientRect();
     PAD.ctl = Math.ceil(r.bottom - hb.top) + 8;
     PAD.t = Math.max(HEAD_MIN, PAD.ctl + ERA_BAND);
+    publishHead();
+  }
+  /* The DOM overlays that sit on the map need the same reserve the canvas uses,
+     and CSS cannot read PAD. Publishing it is what stops the next overlay being
+     pinned to a fresh guess. .l0ledger already clamps to PAD.t + 6 in script and
+     is why it was never the one printing on the chrome. */
+  function publishHead(){
+    host.style.setProperty('--l0-ctl', PAD.ctl + 'px');
+    host.style.setProperty('--l0-pad-t', PAD.t + 'px');
   }
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
@@ -2740,8 +2757,29 @@ function renderEntityDossier(id){
 }
 
 /* The dock is a 306px strip at rest and a reading measure when something is
-   selected. Half the viewport, floored at 560px so it does not collapse on a
-   laptop, and animated on the shell's own curve rather than snapping. */
+   selected. Floored at 560px so it does not collapse on a laptop, CAPPED at 640
+   so it stays a measure, and animated on the shell's own curve rather than
+   snapping.
+
+   THE CAP IS THE 27 AUGUST FIX AND HALF THE VIEWPORT WAS NEVER RIGHT.
+   Measured, at 11.5px IBM Plex Mono with a 6.9px advance, the running prose ran:
+
+     window   dock    chars/line   map share
+     1366     683      95           37%
+     1600     800     112           37%
+     1920     960     135           39%
+     2560    1280     182           42%
+
+   Comfortable measure is 45-75 characters and about 90 is the ceiling for
+   sustained reading, so every size busted it and the BIGGER the monitor the
+   worse the dossier read -- a proportional width doing the job of a measure.
+   That is also the whole of Stewart's "the right bar expands to half the screen
+   and you never get to see the full map": the panel was not wide because the
+   prose needed it.
+
+   Capping at 640 holds the measure at about 89 characters everywhere and gives
+   the map back 40 / 47 / 56 / 67 percent at the four sizes. Both surfaces win,
+   which is why this is not the analyst/dossier swap and does not need it. */
 function setDockOpen(open){
   const d = document.getElementById('dock');
   if (!d) return;
@@ -2750,7 +2788,7 @@ function setDockOpen(open){
      declarations of the same custom property through different owners is how the
      first attempt at this silently did nothing: the class landed, the width did
      not move, and nothing errored. */
-  const wide = Math.max(560, Math.round(window.innerWidth * 0.5));
+  const wide = Math.min(640, Math.max(560, Math.round(window.innerWidth * 0.5)));
   /* The shell is a CSS GRID and the dock is a grid child whose track is sized by
      --dock-w. Setting width on the ELEMENT makes it wider than its track, so it
      overflows to the right and off-screen: the panel looked wide but every line
