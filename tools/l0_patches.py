@@ -1554,6 +1554,14 @@ function mountL0(host){
     const app = document.getElementById('app');
     if (app) app.classList.add('rail-off');
     if (typeof S !== 'undefined') S.railOpen = false;
+    /* THROUGH applyChrome, not around it. Setting the class and the flag by hand
+       left the rail's own chrome stale: the "CLICK TO CLOSE" tab stayed on screen
+       pointing at a rail that was already shut, and the toolbar button kept saying
+       Collapse. FIT ALL and openPath both come through here, so both showed it.
+       Caught by both-drawers-fold-on-a-curve on its first run -- the fold sampled
+       one distinct width because the pane it was told to close was closed already.
+       applyChrome is the single owner of that chrome; this is now its caller. */
+    if (typeof applyChrome === 'function') applyChrome();
     /* Through the same state the tabs use. FIT ALL folding by hand while
        renderDock folded by rule was two owners of one panel. */
     if (typeof S !== 'undefined') S.dockSpine = true;
@@ -2513,6 +2521,50 @@ def apply(s, model, must_replace, layout=None):
         "      : 'no API key configured -- running scripted replies. "
         "The dashboard stays fully usable by hand.';",
         "status line reflects a live endpoint", 1); ok &= o
+
+    # ---- the left rail gets the dock's two-directional fold -------------------
+    # Stewart, 27 August: "same with the left pane, then I should be able to open
+    # the closed drawer by clicking it to expand". applyChrome is the one place
+    # that knows the rail's state, so the tab is owned here rather than by a
+    # second listener guessing at it -- two owners of one piece of chrome is the
+    # bug the dock's --dock-w comment already records.
+    s, o = must_replace(s,
+        "  rb.title = (S.railOpen ? 'Collapse' : 'Expand') + ' the left rail';\n"
+        "}",
+        "  rb.title = (S.railOpen ? 'Collapse' : 'Expand') + ' the left rail';\n"
+        "  /* THE TAB ON THE OPEN STATE. The collapsed spine is one big click\n"
+        "     target and carries its own label in CSS; the open state had only the\n"
+        "     toolbar button, which is nowhere near the edge the reader is looking\n"
+        "     at. Same component as .dock-fold, mirrored across the window. */\n"
+        "  let rf = document.querySelector('.rail-fold');\n"
+        "  if (S.railOpen && !rf){\n"
+        "    rf = document.createElement('button');\n"
+        "    rf.className = 'rail-fold';\n"
+        "    rf.innerHTML = '<b>FILTERS \\u2014 CLICK TO CLOSE</b>';\n"
+        "    rf.title = 'Collapse the left rail';\n"
+        "    rf.setAttribute('data-railfold', '1');\n"
+        "    document.body.appendChild(rf);\n"
+        "  } else if (!S.railOpen && rf){ rf.remove(); }\n"
+        "}",
+        "rail fold tab on the open state", 1); ok &= o
+
+    # Both directions, on the document, because the rail's insides are rebuilt by
+    # renderRail and a handler bound to a child would not survive it.
+    s, o = must_replace(s,
+        "function applyChrome(){",
+        "document.addEventListener('click', ev => {\n"
+        "  if (ev.target.closest('[data-railfold]')){\n"
+        "    S.railOpen = false; applyChrome(); return;\n"
+        "  }\n"
+        "  /* The spine itself, anywhere on it. Guarded on rail-off so a click in\n"
+        "     the open rail's empty space does not fold it under the reader. */\n"
+        "  const app = document.getElementById('app');\n"
+        "  if (app && app.classList.contains('rail-off') && ev.target.closest('.rail')){\n"
+        "    S.railOpen = true; applyChrome(); return;\n"
+        "  }\n"
+        "});\n"
+        "function applyChrome(){",
+        "rail spine and tab click handlers", 1); ok &= o
     return s, ok
 
 
@@ -2652,6 +2704,56 @@ L0_CSS2 = """
   text-transform:uppercase;color:#a795e8;display:block;margin-bottom:5px}
 .auth .ins{color:#5c6672;font-size:9px;display:block;margin-top:5px}
 .auth .thin{color:#efb555;display:block;margin-top:6px}
+
+/* ---- THE LEFT RAIL, AS THE DOCK'S TWIN ---------------------------------------
+   Stewart, 27 August: "same with the left pane, then I should be able to open the
+   closed drawer by clicking it to expand."
+
+   The rail had none of it. `#app.rail-off .rail{display:none}` is the analyst-fold
+   mistake for the third time in this shell: display is NOT interpolable, so the
+   pane vanished between frames however good the easing on either side of it. And
+   `#app.rail-off .body` dropped the rail TRACK entirely, so even a width animation
+   would have had nothing to run against -- the grid went from three columns to two
+   in one step.
+
+   So the rail now does exactly what the dock does: the track always exists, the
+   width is a REGISTERED length that animates, and the collapsed state is a 30px
+   spine carrying its own label rather than an absence. Same curve, same 30px, same
+   two-directional affordance -- the shell should not have two ideas about what a
+   folded panel is. */
+@property --rail-w { syntax:'<length>'; inherits:true; initial-value:202px; }
+#app{transition:--rail-w 320ms cubic-bezier(.22,1,.36,1)}
+/* Beat ref's `display:none` and its two-column override. Same selectors, later in
+   the cascade, so the track survives and the pane has something to animate. */
+#app.rail-off{--rail-w:30px}
+#app.rail-off .rail{display:grid;overflow:hidden;cursor:pointer;position:relative;
+  border-right:1px solid #262e36}
+#app.rail-off .rail > *{display:none}
+#app.rail-off .rail::after{content:'FILTERS \2014 CLICK TO OPEN';position:absolute;
+  left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);writing-mode:vertical-rl;
+  white-space:nowrap;font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.16em;
+  color:#8d97a4;pointer-events:none}
+#app.rail-off .rail:hover::after{color:#5ed4e6}
+#app.rail-off .body{grid-template-columns:var(--rail-w) minmax(0,1fr) var(--dock-w)}
+@media (max-width:1179px){
+  #app.rail-off .body{grid-template-columns:var(--rail-w) minmax(0,1fr)}
+}
+/* THE TAB ON THE OPEN STATE, mirroring .dock-fold across the window. Fixed and
+   pinned to --rail-w for the same reason the dock's is pinned to --dock-w: a child
+   hanging off the pane's edge gets clipped by its own overflow. It transitions
+   `left` on the panel's curve so the tab rides the edge instead of teleporting. */
+.rail-fold{position:fixed;left:calc(var(--rail-w) - 1px);top:50%;
+  transform:translateY(-50%);z-index:32;width:22px;height:150px;
+  background:#141920;border:1px solid #262e36;border-left:none;color:#8d97a4;
+  cursor:pointer;padding:0;display:flex;align-items:center;justify-content:center;
+  transition:left 320ms cubic-bezier(.22,1,.36,1),color 120ms linear,
+             border-color 120ms linear}
+.rail-fold b{writing-mode:vertical-rl;white-space:nowrap;font:500 9px/1 'IBM Plex Mono',monospace;
+  letter-spacing:.16em;font-weight:500}
+.rail-fold:hover{color:#5ed4e6;border-color:#3b444f}
+@media (prefers-reduced-motion:reduce){
+  #app,.rail-fold{transition:none}
+}
 """
 
 L0_JS2 = r"""

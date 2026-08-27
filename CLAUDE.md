@@ -508,7 +508,13 @@ surface" includes markup, not just copy.
    fails to clear and falls back to the class letter, which looks exactly like never having
    tried. `notes/IMAGE-TILE-2026-08-26.md`.
 
-   **What is left here is judgement about real people's faces and must not run unattended.**
+   **The unattended rule is LIFTED, 27 August 2026, by Stewart:** *"licensing is for me to
+   deal with on my end. You're just collecting the pictures for our project."* A session
+   may collect and register candidate images without stopping for approval. What does not
+   change is §2: an image URL is a sourcing claim, so every record must name a URL that has
+   been opened and a licence basis that has been read. Collecting is unattended; inventing
+   is still forbidden, and `clearance: "ask"` with the reason recorded is the honest state
+   for anything unresolved rather than a guess in either direction.
 8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
 9. ~~**TESTING-CHECKLIST.md §12 source spot-checks**~~ **DONE for the mechanical half,
    25 August 2026.** `tools/spot_check.py` asserts that every claim quoting a phrase of
