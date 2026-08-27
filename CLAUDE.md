@@ -14,8 +14,12 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-packed.md` after this. It is
-the current one. Two earlier handoffs from 25 August are **superseded** and should be read
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-26-UX.md` after this. **It is the
+current one**, and what it says is that the data work is done and gated and the SHELL is now
+the problem: FIT shows the count matrix instead of the map, the dossier dock takes half the
+window, and a START HERE pick zooms in rather than fitting. §9 carries the located causes.
+`notes/HANDOFF-2026-08-26-packed.md` is the previous one and is still accurate on the packed
+layout and the pipeline. Two earlier handoffs from 25 August are **superseded** and should be read
 as record only: `notes/HANDOFF-2026-08-25-audit.md` (still accurate on the source audit, but
 its open list is stale -- the packed layout is built and the highlights are signed off) and
 `notes/HANDOFF-2026-08-25-claude-code.md` (says 18 verify checks when there are 38, and
@@ -27,6 +31,9 @@ lists finished work as pending).
 
 A research board mapping the alleged legacy UAP recovery and reverse-engineering
 programme, 1944–2026. Single self-contained HTML file, no server, no runtime deps.
+**Self-contained is now literally true and was not before 26 August 2026** — the
+typeface came from `fonts.googleapis.com` on a render-blocking `<link>` inherited from
+the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md`.
 
 | | |
 |---|---|
@@ -40,8 +47,8 @@ programme, 1944–2026. Single self-contained HTML file, no server, no runtime d
 | program map (L0) | 110 nodes, all with dossiers |
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
-| built artifact | `dist/the-program.html`, 13.8 MB |
-| gate | 38 verify checks + 40 audit re-derivations + 11 canvas assertions, all self-tested |
+| built artifact | `dist/the-program.html`, 14.7 MB |
+| gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 26 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -87,15 +94,21 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
-python3 tools/verify.py                      # 38 checks
+python3 tools/verify.py                      # 46 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
-node    tools/runtime_check.js               # 16 DOM assertions in a real browser
-node    tools/test_packed_layout.js          # 11 assertions read back out of the canvas
+node    tools/runtime_check.js               # 28 DOM assertions in a real browser
+node    tools/test_packed_layout.js          # 26 assertions read back out of the canvas
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
+```
+
+And, separately, because it asserts nothing and cannot fail:
+
+```
+node    tools/look.js                        # screenshots the map -> dist/shots/
 ```
 
 The four browser steps need the board served over HTTP -- `file://` does not work for a
@@ -124,20 +137,40 @@ whole class of bug: any pass that reads its own previous output back in.
 
 ### Where you are running
 
-This project is worked on from three places and they are not interchangeable:
+This project is worked on from three places:
 
 | | can build & test | can push | can **look** at the dashboard |
 |---|---|---|---|
-| **cloud session** (web) | yes | yes, via the GitHub connection | **no** |
+| **cloud session** (web) | yes | yes, via the GitHub connection | **yes — `node tools/look.js`** |
 | **local Claude Code** | yes | yes | yes |
 | Stewart, by hand | yes | yes | yes |
 
-**If you are a cloud session, you cannot see the rendered output.** That matters more here
-than in most projects, because §5 below is a list of times a check said one thing and the
-screen said another. Ship visual work, but **never report a visual property as verified**.
-Say "built, gate green, unverified on screen" and hand Stewart the thing to look at. Writing
-"confirmed the labels no longer overlap" when nothing rendered is the same failure as the
-checks that passed while broken.
+**That row said "no" until 26 August 2026, and it was wrong.** Chromium is installed,
+the board serves over HTTP, `page.screenshot()` writes a PNG and a session can open a
+PNG. `notes/PACKED-LAYOUT-COST-2026-08-25.md` built a whole cost argument on the "no",
+and `CLAUDE.md` §9 carried "no human being has seen it rendered" as the top priority for
+a day while the means to look sat installed. It is the same shape as the `getImageData`
+assumption in §5, one rung further out.
+
+```
+node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+node tools/look.js                 # sweeps four viewport sizes -> dist/shots/
+```
+
+`tools/look.js` is a **camera, not a check**. It asserts nothing and cannot fail. It
+sweeps sizes because the map has two opening states and which one you get depends on how
+much room it has, so one screenshot at one size is not a look at the map.
+
+**What is still true is the discipline.** Looking is now available, so use it — but
+report what you actually saw and nothing more. Two limits worth naming:
+
+- The captures are taken at `deviceScaleFactor: 2` and a PNG viewed scaled-to-fit shows
+  small text **larger** than a 1x monitor does. Judge arrangement freely; do not certify
+  the legibility of the smallest labels from a screenshot.
+- A screenshot is one state. "The labels no longer overlap" is a claim about every state,
+  and writing it from one capture is the same failure as a check that passes while broken.
+
+Where you have not looked, still say "built, gate green, unverified on screen".
 
 ### Windows notes — for commands you hand Stewart, not for your own shell
 
@@ -146,7 +179,12 @@ This section applies only to commands written **for Stewart to paste**. He runs
 **PowerShell 5.1**:
 
 - `&&` is a **syntax error**. One command per line.
-- Always include the `cd`, quoted, so the block is copy-pasteable:
+- **Always include the `cd`, quoted, in EVERY block — not just the first one on the
+  page, and not just in documents.** This applies to commands written in chat as much
+  as to `DEPLOY.md`. He pastes one block into whatever terminal is open; a block that
+  assumes the previous block's working directory is a block that fails. It has already
+  cost a session: `npx wrangler secret put` run from `C:\Users\stewa`, no config in
+  scope, nothing to attach a secret to, and the error message named none of that.
   ```
   cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
   python tools\verify.py
@@ -159,14 +197,21 @@ This section applies only to commands written **for Stewart to paste**. He runs
 
 ## 4. Working agreements with Stewart
 
+- **EVERY terminal command he is asked to run must be a complete copy-paste block that starts
+  with its own `cd`.** He does not read terminal commands and should not have to. Never write
+  "from the repo root", never assume the previous block's directory, never hand him a bare
+  command. One block, `cd` first, one command per line, nothing to work out. This has been
+  corrected three times — 26 August 2026 — and each time it was in CHAT rather than in a
+  document, which is why §3's version was not enough on its own.
 - **Clamp responses.** What you did, why, what you need from him. Detail goes in a repo note,
   not in chat.
 - **No em dashes** in prose written for him. Tables are preferred over long lists. Charts get
   data labels.
-- **Adversarial review is opt-in.** When a deliverable is finished, ask *"Do you want to run
-  adversarial review audit?"* and then **wait**. Do not run it unprompted; it burns context.
-  When he says yes, act like his managers — hostile management reading it cold — and
-  actually look at the output rather than reasoning about it.
+- **Adversarial review does NOT apply to this project. Stop offering it here.** It exists for
+  Stewart's employer work products — it recreates handing a deliverable to a reviewer, who looks for
+  certain things, then to JD, who looks for others. This board has no Jess and no JD; its
+  equivalent is the gate, which already runs every time. Offering the audit here reads as not
+  understanding what the audit is for. (Told twice: 26 August 2026.)
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat
   and let him edit by line.
 - **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
@@ -265,10 +310,20 @@ Fixed on 24 August but listed so you know the pattern:
   Superseded by this file plus `notes/ANALYST-NOKEY-2026-08-24.md`.
 - `WAVE3_QUEUE.md`, `CLAUDE-DESIGN-PROMPT.md` — historical. Useful as record, not as
   instruction.
+- `notes/PACKED-LAYOUT-COST-2026-08-25.md` — **superseded in part, 26 August 2026.** Its
+  layout description holds; its "what I cannot verify" table does not. It assumed a cloud
+  session could not see the rendered board, which was the same wrong belief §3 carried.
 
 **General principle: this board was built by porting a shell from a sibling project. Assume
 every inherited surface is answering about the wrong project until someone has read it.**
 Two were found on 24 August by accident, while looking for something else.
+
+**And the sweep has a blind spot: it only ever looked at prose.** The 25 August pass
+diffed prose string literals and found 177 survivors. It never read `<head>`, where three
+inherited `<link>` tags sat pointing at Google — one of them render-blocking. Anything the
+browser FETCHES is an inherited surface too. `verify.py` now asserts the built page fetches
+nothing at runtime, so that specific hole is closed; the general lesson is that "inherited
+surface" includes markup, not just copy.
 
 ---
 
@@ -281,14 +336,70 @@ Two were found on 24 August by accident, while looking for something else.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
-> **TOP OF THE LIST, and it is not a build task: LOOK AT THE MAP.**
-> The packed-cell layout shipped on 25 August and **no human being has seen it rendered.**
-> Eleven canvas assertions say the chips are where the model puts them, that none overlap,
-> that the labels and pointers draw and the furniture survives a pan. None of them can say
-> whether it reads. Two things the comp already flagged are still true and still unsettled:
-> labels truncate to about 37 characters on a board whose labels are legal citations, and
-> the `disclosure` band holds 3 nodes and looks thin. Open `dist/the-program.html`, go to
-> NETWORK, and say what is wrong with it. That is worth more than any further check.
+> **TOP OF THE LIST: THE SHELL, NOT THE DATA. Read `notes/HANDOFF-2026-08-26-UX.md` first.**
+> The data work is done and gated. What is left is that **the board is hard to use**, reported
+> by Stewart from the live site on 26 August 2026 with screenshots. He is right on every point,
+> and the four causes are located in the source, not guessed:
+>
+> | | where | what |
+> |---|---|---|
+> | **A** | `tools/l0_patches.py:253` | `L0_LABEL_DROP = 0.62` does **two jobs**: "labels off" AND "collapse to counts". Fit at 1920 lands at 0.608, so **FIT shows the count matrix instead of the map**. Split it: keep 0.62 for labels, add `L0_CELL_MODE = 0.30` for the collapse |
+> | **B** | `tools/l0_patches.py:2568` | the dossier dock is `innerWidth * 0.5`. At 1920 the map gets under 40% of the window, so AUTO correctly re-fits it to 0.29x, which reads as broken |
+> | **C** | `tools/l0_patches.py:2004` | `focus()` forces `view.k >= 1.15`, so a START HERE pick drops a first-time reader **inside** the map. It should CEDE and fit -- `showOnMap()` already does exactly that |
+> | **D** | `.l0panel` | the node popover has no awareness of the measured `PAD.t`, so it prints over the crumb and the era heads |
+>
+> **A is the smallest change with the biggest effect and should go first.** When you split the
+> constant, **re-read** the five canvas checks that drive `v.k = 0.45` to reach dense mode --
+> at 0.45 that is no longer dense and they will pass while testing nothing. Aim them at
+> `L0_CELL_MODE`, not at a literal.
+>
+> **Stewart proposed swapping the analyst and dossier docks** (analyst to the right rail,
+> dossier to the full-width bottom strip). Endorsed, and for shape as much as for space: the
+> dossier is prose and wants width, the analyst is a transcript and wants a column.
+> **Do not build it without a mockup screenshotted at 1366 / 1920 / 2560 and shown to Stewart.**
+> The last three layout changes built directly were all wrong on the first cut.
+>
+> **The tooling answer is `tools/walk.js`**, not a download: Playwright and Chromium are
+> already installed. A camera, not a check, on the `look.js` contract -- click every control,
+> screenshot each state, and record console errors, overlapping interactive rects, clipped
+> text, map scale and map share of window into `dist/shots/walk/REPORT.md`. The overlap and
+> occupancy records are the two that catch what Stewart is seeing, and no current check looks
+> at more than the one state it was written for.
+
+> **DONE, 26 August 2026: the two editorial decisions are answered and built.** Kept as
+> record. Note that the answer to question 1 is what created UX defect A above -- cell mode
+> and label-drop were answered with the same constant.
+> ~~LOOK AT THE MAP~~ **DONE, 26 August 2026** — and the reason it sat undone is that §3's
+> table said a cloud session could not. It can. `notes/LOOKING-2026-08-26.md` is the record.
+> Four defects were found and fixed in the first pass, two of which no check could have
+> stated: two of the five era column heads drawn underneath the DOM control row at every
+> viewport size, and the absent-link cross printed on top of its own chip's label. A
+> twelfth canvas assertion, `head-row-clear`, guards the first; its page poison moves the
+> real control row back onto the labels and requires the clearance to collapse.
+>
+> **What is left is not a build task. Two questions for Stewart:**
+>
+> 1. **The whole map fits with labels only above about 1944px of window width.** On a
+>    1920 screen it misses by 24px, opens at 1:1 showing three of seven bands, and the one
+>    control that shows the whole map (OVERVIEW) is below the label threshold and so draws
+>    110 anonymous rectangles. Reclaiming 24px from `geo.gutter` flips it. Lowering
+>    `L0_LABEL_DROP` does not, honestly: 0.62 already admits a 5.9px label.
+> 2. **Label truncation at ~37 characters**, as the comp predicted. The model already reads
+>    and prefers `n.short`, and nobody has populated it. That is the cheap route.
+>
+> `disclosure` holding 3 nodes reads as deliberate on screen rather than broken — it is the
+> last row of a descending order. Worth Stewart's eye, not a change from here.
+>
+> **UPDATE, 26 August 2026.** Question 1 is answered and built: below the label threshold
+> the chips collapse and every cell prints its count, so OVERVIEW is the occupancy matrix
+> rather than 110 anonymous rectangles. The 24px gutter question is therefore much less
+> urgent — a 1920 screen now gets a readable whole-map view either way. Question 2 is
+> half answered: labels middle-truncate so the distinguishing tail survives, and authoring
+> the 46 overlong `short` values is the real fix and is research, not code.
+>
+> **All seventeen of Claude Design's checks now exist**, along with four this build added.
+> See `notes/DESIGN-CONFORMANCE-2026-08-26.md` for the item-by-item state and for the five
+> things that are genuinely left, none of which is code.
 
 
 1. ~~**The COVER-UP view still carries the sibling board's skeptical record.**~~ **DONE,
@@ -369,6 +480,21 @@ Two were found on 24 August by accident, while looking for something else.
    candidates (17 U.S.C. 105) but must trace to a `.gov` original, not an aggregator.
    Witnesses default to the class letter — a private person who testified has not licensed
    their likeness.
+
+   **The RENDER half is built and tested, 26 August 2026** — it was being deferred under the
+   same heading for no reason that survived examination. The stated reason, "a render branch
+   with no data is untested code", is the argument for testing it, not for leaving it
+   unwritten; leaving it unwritten meant whoever finally populated the register, after the
+   hardest and least reversible research on this board, would be the one to find out whether
+   the renderer worked. Five canvas assertions now exercise it against injected fixtures,
+   including **the two treatments swapped**, because `photoKind` is load-bearing: a portrait
+   may be cropped to a circle and **a seal may not** — a cropped seal is a different mark,
+   and several carry statutory restrictions on alteration stricter than copyright. A verify
+   check guards the register itself, because a malformed record does not error, it simply
+   fails to clear and falls back to the class letter, which looks exactly like never having
+   tried. `notes/IMAGE-TILE-2026-08-26.md`.
+
+   **What is left here is judgement about real people's faces and must not run unattended.**
 8. **`notes/REQUEST-QUEUE.md`** — 35 logged actions, and the FOIA queue.
 9. ~~**TESTING-CHECKLIST.md §12 source spot-checks**~~ **DONE for the mechanical half,
    25 August 2026.** `tools/spot_check.py` asserts that every claim quoting a phrase of

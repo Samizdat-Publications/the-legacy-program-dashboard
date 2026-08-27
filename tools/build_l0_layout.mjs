@@ -103,7 +103,18 @@ const RARITY_PIN = ['retrieval', 'reverse-engineering', 'funding', 'research',
 const RARITY_PIN_DATE = '2026-08-24';
 
 const GEO = {
-  gutter: 148, headRow: 46, colGap: 10, bandGap: 8,
+  /* headRow was 46 and that was too short by exactly the height of the map's own
+     DOM control row. .l0crumb and .l0ctl are absolutely positioned at top:10px
+     INSIDE .l0wrap, over the canvas, and occupy y 10..33; the frozen head strip
+     drew its era label at baseline 20 and its note at 33. So the first column
+     head and the last one -- the two the controls sit above -- were painted
+     underneath PROGRAM MAP / START and LINES AT REST at every viewport size, and
+     rendered as an unreadable smear. Nothing in the source said so; the pixels
+     did, on the first day anybody looked. See notes/LOOKING-2026-08-26.md.
+     76 clears the control row with the label and note below it. It costs 30px of
+     reserved top strip and changes no opening fit: at every size the sweep in
+     tools/look.js covers, the fit is bound by WIDTH, not height. */
+  gutter: 148, headRow: 76, colGap: 10, bandGap: 8,
   /* One chip size for the whole map. Not a layout convenience: §4 says size must
      not encode importance, and letting a sparse cell stretch its chips would make
      width a channel by accident. Columns per cell fall out of the fixed width. */
@@ -113,8 +124,19 @@ const GEO = {
   mapW: 2200,
 };
 
+/* Authored chip labels win over the derived ones. data/l0-shorts.json carries 46,
+   one for every node whose derived short overflowed the 205px chip -- see that
+   file for the rules. The derivation stays as the fallback for the other 64 and
+   for any node added later, so an unauthored node still gets a usable label
+   rather than nothing. */
+let AUTHORED_SHORTS = {};
+export function setAuthoredShorts(m){ AUTHORED_SHORTS = (m && m.shorts) || m || {}; }
 function shortLabel(s) {
   return s.replace(/\s*\([^)]*\)\s*$/, '').replace(/\s*[-\u2014\u2013:]\s.*$/, '').trim();
+}
+function shortOf(n) {
+  const a = AUTHORED_SHORTS[n.id];
+  return (typeof a === 'string' && a.trim()) ? a.trim() : shortLabel(n.label);
 }
 const yearOf = s => (s ? parseInt(String(s).slice(0, 4), 10) : null);
 const eraIndex = y => y == null ? null
@@ -150,11 +172,25 @@ export function buildDates(docs) {
    what the source could not supply; the comp reads it to say so out loud. */
 
 export function normaliseCurrent(dx) {
-  const nodes = dx.l0.map(n => ({
-    id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
+  const nodes = dx.l0.map(n => {
+    const ys = yearOf(n.dateStart), ye = yearOf(n.dateEnd);
+    return ({
+    id: n.id, label: n.label, short: shortOf(n), cls: n.cls,
     cluster: n.cluster, tier: n.tier, deg: n.deg, claims: n.claims, t1: n.t1,
-    roles: n.roles || [], y0: yearOf(n.dateStart), span: 0,
-    era: eraIndex(yearOf(n.dateStart)),
+    roles: n.roles || [],
+    y0: ys,
+    /* span was the literal 0. Not "no node has an extent" -- the LITERAL ZERO,
+       while normaliseLegacy two hundred lines down computed the same field
+       properly from the same pair of years. dateEnd reaches this projection fine
+       (46 of 110 arrive, as y1); it was the subtraction that never happened.
+
+       So the backfill queue's row 6 -- "dateEnd ... unlocks: how many nodes could
+       carry an extent at all" -- had an answer the whole time and the pipeline
+       was reporting 0 to it. It is 24: yankee-blue runs 1980-2023, AAWSAP
+       2007-2012, KONA BLUE 2011-2012. A hardcoded zero is indistinguishable from
+       a measured one, which is this repo's own rule about checks applied to
+       data. */
+    era: eraIndex(ys),
     di: n.di || 0, dr: n.dr || 0,
     /* Backfilled into design-extract.json on 24 Aug. Design's baseline nulled
        these because the extract did not carry them at pin time; it does now, so
@@ -163,16 +199,59 @@ export function normaliseCurrent(dx) {
        the class of silent degradation this package is built to prevent. */
     C: n.C != null ? n.C : null, A: n.A != null ? n.A : null,
     D: n.D != null ? n.D : null,
-    y1: yearOf(n.dateEnd),
+    y1: ye,
+    span: (ys != null && ye != null && ye > ys) ? ye - ys : 0,
     memberCount: n.members || 0, mix: n.mix || {},
+    /* The P1 split. build_l0.py computes members.direct and members.routed
+       separately and design-extract.json carries both counts; this projection
+       flattened them into memberCount and dropped the split, so "5 on the map,
+       14 held back" could not be made to sum to the degree. */
+    membersDirect: n.membersDirect != null ? n.membersDirect : null,
+    membersRouted: n.membersRouted != null ? n.membersRouted : null,
     members: Array.isArray(n.direct) ? n.direct : null,
     why: n.whyImplicated || '',
-  }));
-  const direct = dx.directEdges.map(e => ({
-    a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
-    types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
-    dn: e.dn || [],                              /* backfilled 24 Aug */
-  }));
+  });});
+  /* denialPairs carries the raw, UNSORTED ends of every denial link on the map,
+     plus `denier` where the record names who issued it. The generator used to
+     record only that the array was non-empty (see figures.denialDir) and never
+     joined it, so `dn` came out empty on every edge and the renderer fell back to
+     the aggregated a/b -- which is [a,b].sort(), i.e. alphabetical. That is how
+     22 of 47 denial arrowheads came to point the wrong way.
+     Join it here, and carry `denier` only when every underlying denial for the
+     pair agrees on one. Disagreement means unattested, not majority rule. */
+  const dnByPair = new Map();
+  for (const d of (dx.denialPairs || [])) {
+    const k = [d.a, d.b].sort().join('|');
+    if (!dnByPair.has(k)) dnByPair.set(k, []);
+    dnByPair.get(k).push(d);
+  }
+  const direct = dx.directEdges.map(e => {
+    const ds = dnByPair.get([e.a, e.b].sort().join('|')) || [];
+    /* Association links carry no denier by definition, so they are excluded from
+       the direction vote -- counting them would veto a direction every actual
+       denial act in the bundle agrees on. */
+    const acts = ds.filter(d => d.denialKind !== 'association');
+    const named = [...new Set(acts.map(d => d.denier).filter(Boolean))];
+    const directed = acts.length > 0 && named.length === 1 && acts.every(d => d.denier);
+    return {
+      a: e.a, b: e.b, n: e.n, kind: 'direct', tier: e.tier,
+      types: e.types || [], denial: (e.types || []).indexOf('denial') >= 0,
+      dn: ds.map(d => [d.a, d.b]),
+      denier: directed ? named[0] : null,
+      /* ALL THREE STATES, not just one of them. This returned 'association' or
+         null, so an edge with a known issuer came through with denialKind null
+         and `denier` set beside it -- the pair contradicting itself, and the
+         renderer reading the null as "no adjudication yet".
+           association  only when EVERY underlying record is one. A pair carrying
+                        one real denial and one association is still a denial.
+           directed     when the denial acts all name the SAME issuer. Two ends
+                        denying each other is not a direction.
+           undirected   otherwise. Claims the least, which is the right default. */
+      denialKind: !ds.length ? null
+        : ds.every(d => d.denialKind === 'association') ? 'association'
+        : directed ? 'directed' : 'undirected',
+    };
+  });
   const summarised = dx.summarised.map(e => ({
     a: e.a, b: e.b, n: e.n, kind: 'shared', tier: e.tier,
     via: e.via && e.via.length ? e.via : null,   /* backfilled 24 Aug */
@@ -249,7 +328,7 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
     }
     rows.sort((x, y) => x[4] - y[4] || (x[3] < y[3] ? -1 : x[3] > y[3] ? 1 : 0) || (x[1] < y[1] ? -1 : 1));
     return {
-      id: n.id, label: n.label, short: shortLabel(n.label), cls: n.cls,
+      id: n.id, label: n.label, short: shortOf(n), cls: n.cls,
       cluster: n.cluster, tier: n.tier, deg: deg(n.id), claims: n.claims, t1: n.t1,
       roles: roles.get(n.id) || [], y0: ys, y1: ye,
       span: (ys != null && ye != null && ye > ys) ? ye - ys : 0,
@@ -272,6 +351,35 @@ export function normaliseLegacy(extract, dossierEntries, dateDocs) {
          the pair key is sorted, so the issuer would otherwise be lost: `a`
          issued it, `b` is the subject. */
       dn: es.filter(e => e.t === 'denial').map(e => [e.a, e.b]),
+      /* Same rule as the current path: a/b is not a denier, so direction is
+         attested only where the record names one. */
+      denier: (() => {
+        /* Association links carry no denier by definition, so counting them in
+           `every(e => e.denier)` would veto a direction that every actual denial
+           act in the bundle agrees on. */
+        const acts = es.filter(e => e.t === 'denial' && e.denialKind !== 'association');
+        const named = [...new Set(acts.map(e => e.denier).filter(Boolean))];
+        return (acts.length && named.length === 1 && acts.every(e => e.denier)) ? named[0] : null;
+      })(),
+      /* All three states, not just the one. This used to return 'association' or
+         null, so a map edge with a known issuer came through with denialKind
+         null while `denier` was set beside it -- the pair contradicting itself.
+         An aggregated edge stands for several underlying links, so:
+           association  only if EVERY link is an association. One real denial in
+                        the bundle means the pair carries a denial.
+           directed     if the links that are denial acts all name the SAME
+                        issuer. Two ends denying each other is not a direction.
+           undirected   otherwise: an act, no single attributable issuer. It
+                        claims the least, which is the right default. */
+      denialKind: (() => {
+        const dn = es.filter(e => e.t === 'denial');
+        if (!dn.length) return null;
+        if (dn.every(e => e.denialKind === 'association')) return 'association';
+        const acts = dn.filter(e => e.denialKind !== 'association');
+        const named = [...new Set(acts.map(e => e.denier).filter(Boolean))];
+        return (acts.length && named.length === 1 && acts.every(e => e.denier))
+          ? 'directed' : 'undirected';
+      })(),
     });
   }
 
@@ -491,7 +599,10 @@ export function layout(src, supplied, images) {
   const undated = N.filter(n => n.era == null);
   const cols = [
     ...ERAS.map(e => ({ ...e, kind: 'era' })),
-    ...(undated.length ? [{ id: 'nd', label: 'NO DATE', note: 'dateStart absent', kind: 'nodate' }] : []),
+    /* The note is reader-facing copy sitting beside 'Post-Blue Book' and
+       'Post-disclosure'. It read 'dateStart absent', which is the name of a JSON
+       field, not a thing to tell a reader. */
+    ...(undated.length ? [{ id: 'nd', label: 'NO DATE', note: 'no start date recorded', kind: 'nodate' }] : []),
   ];
   const colOf = n => n.era == null ? 'nd' : n.era;
   const cellOf = (b, c) => N.filter(n => n.band === b && colOf(n) === c)
@@ -680,6 +791,7 @@ export function layout(src, supplied, images) {
 }
 
 export function buildAll(inputs) {
+  setAuthoredShorts(inputs.shorts);
   const current = layout(normaliseCurrent(inputs.design), inputs.highlights, inputs.images);
   const legacy = inputs.extract
     ? layout(normaliseLegacy(inputs.extract, inputs.dossiers, inputs.docs), inputs.highlights, inputs.images)
@@ -707,27 +819,53 @@ export function buildAll(inputs) {
        instructions rather than complaints: each row is a task, and the design
        degrades honestly until it lands rather than guessing. */
     gaps: [
-      ['via[]', 'which members each summarised pair shares',
-        'tools/build_l0.py P3 already builds it as `via` on each summarised edge — emit the id array, not just the count',
-        'a shared-member line can name "Puthoff · Bigelow" instead of printing 2'],
-      ['members[]', 'the off-map neighbours of each L0 node',
-        'the board’s own edges: for each L0 node, its adjacent non-L0 nodes with label, class, connection type and claim tier. build_l0.py has this as members.direct',
-        'the dossier can answer "which people?" — a count and a class mix state the arithmetic but not the names'],
-      ['members direct/routed', 'the P1 split',
-        'build_l0.py computes members.direct and members.routed separately; the extract flattens them into one count',
-        'without the split `members` is a roll-up to depth 3, so "5 on the map, 14 held back" cannot be made to sum to the degree'],
-      ['C / A / D', 'the three scored axes per node',
-        'straight off the board records — every node already carries C, A and D',
-        'band order is the measured mean C, which is what makes the vertical axis mean distance from the material'],
-      ['denial a/b', 'which end of a denial edge issued it',
-        'the merged board’s edge records: `a` issued it, `b` is the subject. Aggregating a pair loses it, so carry the pairs for denial edges',
-        'motion carries attested direction and nothing else, so without it the particle layer has nothing it may say at rest'],
-      ['dateEnd', 'the end of a node’s span where the record has one',
-        'the same node documents dateStart comes from',
-        'brief question 2 — how many nodes could carry an extent at all'],
-      ['photo / photoCredit / photoKind', 'one image per node',
-        'the convention is already set on the sibling board: save to assets/photos/<id>.jpg, add `photo` and `photoCredit` to the record, and follow PHOTOS.md’s four-state clearance. This board needs one addition — photoKind: "portrait" for a person, "mark" for an institutional logo, because a logo must not be cropped. Emit as data/l0-images.json keyed by node id; only CLEARS and ASK ship, and ASK carries the reason',
-        'the chip glyph slot and the dossier tile are built and waiting — see §H'],
+      /* RETIRED 26 August 2026, after auditing every row against the data rather
+         than against the row. Three were describing gaps that had already been
+         filled -- via[] (109 of 109 shared edges carry the id array), members[]
+         (110 of 110 carry full member records) and C/A/D (110 of 110) -- and the
+         queue went on listing them because nothing ever asked whether a queued
+         field was still missing. A stale backfill row is not harmless: it is a
+         standing instruction to redo finished work, and it made this file and the
+         data disagree, which is the exact drift the row-count check was written
+         for. verify.py now asserts the queue in BOTH directions. */
+      /* RETIRED 26 August 2026. membersDirect and membersRouted are now projected
+         onto every one of the 110 nodes. Nothing CONSUMES them yet, but an unused
+         field is not a backfill gap -- the queue lists data the design reads and
+         the data withholds, and leaving a supplied field in it is the staleness
+         verify.py now checks for in both directions. */
+      /* RETIRED 26 August 2026, as a CATEGORY ERROR rather than as work done.
+         The row asked for an end year for the 64 nodes without one. Audited, they
+         overwhelmingly SHOULD NOT HAVE ONE: 37 are institutions that still exist
+         (CIA, DIA, NASA, DoD, the House), 8 are statutes that have not been
+         repealed, 9 are documents and 1 an event -- point-in-time by nature -- and
+         all 9 programmes are ongoing or alleged with no attested end. Absence is
+         the correct value, not a hole.
+
+         Searching their own records for end-language returned 10 hits and NOT ONE
+         was an end for that node: AARO disestablished AOIMSG; CIA, DIA and the FAB
+         each terminated something else; TTSA RENAMED itself in 2022; 10 U.S.C.
+         119's subsection (a)/(b) reporting terminated in 2021 while the statute
+         remains law. Pattern-matching would have written ten false end dates, each
+         one asserting that a live body had ceased to exist.
+
+         And the field is not rendered: y0/y1/span reach the layout model and
+         Design's brief figures, never the page. notes/DATE-EXTENT-2026-08-26.md */
+      ['photo / photoCredit / photoKind', 'a mark for the 101 nodes that have none',
+        'REWRITTEN 26 August 2026 after the sourcing pass; 9 of 110 now carry one. What is left is NOT one task. 30 institutions have no free-licensed mark of their OWN that survives an 11px square -- a parent body\u2019s seal asserts a false identity, a wide wordmark becomes a 2px sliver, CC BY-SA carries share-alike, and several are foreign-state or trademarked. The other 71 nodes are documents, programmes, legislation and events, which mostly have no mark to find at all. notes/IMAGE-SOURCING-2026-08-26.md has the per-node reasons',
+        'the chip glyph slot and the dossier tile are built, tested and now populated for 9; the class letter is a supported state for the rest and is not a failure'],
+      /* Added 26 August 2026, both from the implementation session. The standing
+         rule is that any new field the design reads gets a row here saying what to
+         pull and where from, so nobody has to re-derive the ask. */
+      /* RETIRED 26 August 2026. All 174 denial edges adjudicated one at a time
+         against a rule fixed before reading any of them: 124 directed, 36
+         association, 14 undirected. data/denial-adjudication.json is the record
+         and merge.py stamps it onto the edges. The shipped convention -- `a`
+         always issues -- was wrong on 34 of the 124.
+         notes/DENIAL-ADJUDICATION-2026-08-26.md */
+      /* RETIRED 26 August 2026. All 46 overlong labels authored in
+         data/l0-shorts.json; 0 of 110 now exceed the 37 characters the chip
+         holds, and `every chip label fits the chip it is drawn in` keeps it
+         that way. Middle truncation stays as the safety net it was meant to be. */
     ],
     current, legacy,
   };
@@ -751,14 +889,26 @@ async function main() {
     .filter(f => f.endsWith('.json')).sort().map(f => rd(path.join(d, f)));
 
   const highlightsFile = has('data/l0-highlights.json') ? rd('data/l0-highlights.json') : null;
-  const out = buildAll({
+  const inputs = {
     design: rd('data/design-extract.json'),
     extract: has('data/l0-extract.json') ? rd('data/l0-extract.json') : null,
     dossiers: has('research/dossiers') ? glob('research/dossiers').flat() : [],
     docs: has('research') ? glob('research') : [],
     highlights: highlightsFile,
     images: has('data/l0-images.json') ? rd('data/l0-images.json') : null,
-  });
+    shorts: has('data/l0-shorts.json') ? rd('data/l0-shorts.json') : null,
+  };
+
+  /* The marks are NOT inlined here. `photo` stays a repo path in this model.
+     Inlining them here put ~695KB of base64 into the file TWICE -- `current` and
+     `legacy` both carry nodes -- and took it from 490KB to 1836KB, straight
+     through the ~1MB GitHub API read cap this file exists to stay under. The
+     build's own guard caught it.
+     The bytes belong in the page, not in the description of the page, so
+     l0_patches.merge_packed does the inlining at dashboard-build time where
+     700KB against 14MB is noise. */
+
+  const out = buildAll(inputs);
 
   const json = JSON.stringify(out);
   fs.writeFileSync(path.join(root, 'data/l0-layout-model.json'), json);

@@ -17,9 +17,12 @@
   a{color:#5ed4e6;text-decoration:none;border-bottom:1px solid #1d242b}
   a:hover{color:#e6e9ee;border-bottom-color:#333c47}
   ::selection{background:#1a2027;color:#e6e9ee}
+  /* Bloom rides `filter`, not `box-shadow`: box-shadow now carries the entity-tier
+     inset stroke, and a keyframe touching it wipes that channel for most of the
+     cycle. `filter` is unused on the chip, so the two cannot collide. */
   @keyframes l0breathChip{
-    0%,64%,100%{outline-color:rgba(239,181,85,0);box-shadow:none}
-    12%,40%{outline-color:rgba(239,181,85,.95);box-shadow:0 0 0 4px rgba(239,181,85,.06)}}
+    0%,64%,100%{outline-color:rgba(239,181,85,0);filter:none}
+    12%,40%{outline-color:rgba(239,181,85,.95);filter:drop-shadow(0 0 3px rgba(239,181,85,.5))}}
   @keyframes l0breathCell{0%,64%,100%{opacity:0}12%,40%{opacity:1}}
   @keyframes l0once{0%{outline-color:rgba(239,181,85,0)}22%{outline-color:rgba(239,181,85,1)}100%{outline-color:rgba(239,181,85,.8)}}
   @keyframes l0cellonce{0%{opacity:0}100%{opacity:1}}
@@ -105,6 +108,8 @@
         <div style="font-size:8.5px;letter-spacing:.13em;color:#5c6672;text-transform:uppercase">A &middot; the layout</div>
         <div style="font-size:13px;margin-top:5px">X is era. Y is function. A node&rsquo;s cell states when it starts and what the board says it did, before you read a word of it.</div>
         <div style="font-size:9.5px;color:#5c6672;margin-top:6px">Line treatment: <span style="color:#b9c2cd">{{ wireNote }}</span></div>
+        <div style="font-size:9.5px;color:#efb555;margin-top:4px">{{ denseNote }}</div>
+        <div style="font-size:9.5px;color:#e8705f;margin-top:4px;max-width:104ch">{{ denialNote }}</div>
         <div style="position:relative;margin-top:12px;max-width:620px">
           <div style="display:flex;align-items:center;gap:0;border:1px solid {{ queryBc }};background:#0d1014">
             <span style="padding:0 9px;font-size:9px;letter-spacing:.13em;color:#5c6672">FIND</span>
@@ -185,15 +190,23 @@
 
           <sc-for list="{{ cols }}" as="c" hint-placeholder-count="5">
             <div style="position:absolute;left:{{ c.x }}px;top:8px;width:{{ c.w }}px;padding-left:10px">
-              <div style="font-size:10px;letter-spacing:.13em;color:{{ c.fg }}">{{ c.label }}</div>
-              <div style="font-size:8.5px;letter-spacing:.08em;color:#4f5964;margin-top:2px">{{ c.note }} &middot; {{ c.n }} nodes</div>
+              <sc-if value="{{ labelsReadable }}" hint-placeholder-val="{{ true }}">
+                <div>
+                  <div style="font-size:10px;letter-spacing:.13em;color:{{ c.fg }}">{{ c.label }}</div>
+                  <div style="font-size:8.5px;letter-spacing:.08em;color:#4f5964;margin-top:2px">{{ c.note }} &middot; {{ c.n }} nodes</div>
+                </div>
+              </sc-if>
             </div>
           </sc-for>
 
           <sc-for list="{{ bandRows }}" as="b" hint-placeholder-count="7">
             <div style="position:absolute;left:0;top:{{ b.y }}px;width:148px;height:{{ b.h }}px;padding:11px 12px 0 14px;border-right:1px solid #1d242b">
-              <div style="font-size:9.5px;letter-spacing:.09em;color:{{ b.fg }};text-transform:uppercase;line-height:1.25">{{ b.name }}</div>
-              <div style="font-size:8.5px;color:#4f5964;margin-top:4px">{{ b.n }} &middot; {{ b.meanC }}</div>
+              <sc-if value="{{ labelsReadable }}" hint-placeholder-val="{{ true }}">
+                <div>
+                  <div style="font-size:9.5px;letter-spacing:.09em;color:{{ b.fg }};text-transform:uppercase;line-height:1.25">{{ b.name }}</div>
+                  <div style="font-size:8.5px;color:#4f5964;margin-top:4px">{{ b.n }} &middot; {{ b.meanC }}</div>
+                </div>
+              </sc-if>
             </div>
           </sc-for>
 
@@ -205,6 +218,9 @@
             </defs>
             <sc-for list="{{ wires }}" as="w" hint-placeholder-count="40">
               <path d="{{ w.d }}" fill="none" stroke="{{ w.stroke }}" stroke-width="{{ w.sw }}" stroke-dasharray="{{ w.dash }}" opacity="{{ w.op }}" marker-end="{{ w.marker }}"></path>
+            </sc-for>
+            <sc-for list="{{ bars }}" as="b" hint-placeholder-count="6">
+              <line x1="{{ b.x1 }}" y1="{{ b.y1 }}" x2="{{ b.x2 }}" y2="{{ b.y2 }}" stroke="#e8705f" stroke-width="1.6" opacity="{{ b.op }}"></line>
             </sc-for>
             <sc-for list="{{ particles }}" as="p" hint-placeholder-count="12">
               <circle r="{{ p.r }}" fill="{{ p.c }}" opacity="{{ p.op }}">
@@ -219,8 +235,15 @@
             </sc-for>
           </svg>
 
+          <sc-for list="{{ denseCells }}" as="k" hint-placeholder-count="12">
+            <div style="position:absolute;left:{{ k.x }}px;top:{{ k.y }}px;width:{{ k.w }}px;height:{{ k.h }}px;background:{{ k.bg }};border:1px solid {{ k.bc }};display:flex;flex-direction:column;align-items:center;justify-content:center;gap:{{ k.gap }}px;overflow:hidden">
+              <span style="font-size:{{ k.fs }}px;line-height:1;color:{{ k.fg }};letter-spacing:.02em">{{ k.n }}</span>
+              <span style="font-size:{{ k.subFs }}px;line-height:1;color:#5c6672">{{ k.sub }}</span>
+            </div>
+          </sc-for>
+
           <sc-for list="{{ chips }}" as="c" hint-placeholder-count="30">
-            <div onClick="{{ c.pick }}" title="{{ c.title }}" style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:205px;height:20px;display:flex;align-items:center;gap:5px;padding-right:5px;border-left:2px solid {{ c.tier }};background:{{ c.bg }};opacity:{{ c.op }};outline:{{ c.outline }};outline-offset:1px;animation:{{ c.anim }};cursor:pointer;overflow:hidden;white-space:nowrap;font-size:9.5px;letter-spacing:.01em;color:{{ c.fg }}">
+            <div onClick="{{ c.pick }}" title="{{ c.title }}" style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:205px;height:20px;display:flex;align-items:center;gap:5px;padding-right:5px;border-left:2px solid {{ c.rule }};box-shadow:{{ c.stroke }};background:{{ c.bg }};opacity:{{ c.op }};outline:{{ c.outline }};outline-offset:1px;animation:{{ c.anim }};cursor:pointer;overflow:hidden;white-space:nowrap;font-size:9.5px;letter-spacing:.01em;color:{{ c.fg }}">
               <sc-if value="{{ c.hasPhoto }}" hint-placeholder-val="{{ false }}">
                 <div style="width:16px;height:16px;flex:none;background-color:#0d1014;background-image:{{ c.photoBg }};background-size:{{ c.photoFit }};background-position:center;background-repeat:no-repeat;border:{{ c.photoFrame }};filter:{{ c.photoFilter }}"></div>
               </sc-if>
@@ -232,6 +255,13 @@
           </sc-for>
 
         </div>
+
+        <sc-for list="{{ axisRows }}" as="r" hint-placeholder-count="7">
+          <div title="{{ r.title }}" style="position:absolute;left:3px;top:{{ r.y }}px;width:{{ r.w }}px;height:{{ r.h }}px;display:flex;align-items:center;overflow:hidden;pointer-events:none;font-size:9.5px;letter-spacing:.06em;line-height:1.25;text-wrap:pretty;color:{{ r.fg }}">{{ r.label }}</div>
+        </sc-for>
+        <sc-for list="{{ axisCols }}" as="c" hint-placeholder-count="5">
+          <div title="{{ c.title }}" style="position:absolute;left:{{ c.x }}px;top:0;width:{{ c.w }}px;height:{{ axisHeadH }}px;padding-left:6px;display:flex;align-items:center;overflow:hidden;pointer-events:none;font-size:9.5px;letter-spacing:.11em;line-height:1;white-space:nowrap;color:{{ c.fg }}">{{ c.label }}</div>
+        </sc-for>
       </div>
     </div>
   </section>
@@ -342,7 +372,11 @@
               </div>
               <div>
                 <div style="color:#b9c2cd">Motion</div>
-                <div>Attested direction only. A travelling dot runs issuer &rarr; subject on every <span style="color:#e8705f">denial</span>, and on selection the selected node&rsquo;s edges run outward. Nothing else moves, because nothing else has a sourced direction.</div>
+                <div>Attested direction only. A travelling dot runs issuer &rarr; subject on a denial <span style="color:#b9c2cd">whose denier the record names</span>, and on selection the selected node&rsquo;s edges run outward. Nothing else moves.</div>
+              </div>
+              <div>
+                <div style="color:#b9c2cd">Denial, three states</div>
+                <div><span style="color:#e8705f">Arrowhead</span> means the issuer is named. A <span style="color:#e8705f">perpendicular bar</span> at the midpoint means denial act, denier not established &mdash; a bar is not a vector, so it reads as contested rather than as flowing. An association that is not a directed act at all keeps no red: red is reserved for something somebody did.</div>
               </div>
               <div>
                 <div style="color:#b9c2cd">Shared-member lines</div>
@@ -354,7 +388,7 @@
               </div>
               <div>
                 <div style="color:#b9c2cd">Chip marks</div>
-                <div>Left rule is entity tier A/B/C. Glyph is class &mdash; I institution, P program, E event, L legislation, D document. <span style="color:#e8705f">&times;</span> means no L0-level link exists at all. <span style="color:#efb555">?</span> means the research files disagree about its date.</div>
+                <div>Left rule is <span style="color:#b9c2cd">class</span> &mdash; institution, program, event, legislation, document &mdash; because once a node carries an image the glyph slot is gone and class needs a permanent home. Entity tier A/B/C is the chip stroke. <span style="color:#e8705f">&times;</span> means no L0-level link exists at all. <span style="color:#efb555">?</span> means the research files disagree about its date. Labels middle-truncate, never end-truncate: the distinguishing token in this corpus is usually the last one.</div>
               </div>
             </div>
             <div style="font-size:9.5px;color:#5c6672;margin-top:12px">Click a chip to fall back to one-hop focus &mdash; the local edges the budget suppresses appear only there.</div>
@@ -526,7 +560,28 @@
 </div>
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:1500,&quot;height&quot;:1200},&quot;dataset&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;current&quot;,&quot;legacy&quot;],&quot;default&quot;:&quot;current&quot;,&quot;tsType&quot;:&quot;'current'|'legacy'&quot;,&quot;section&quot;:&quot;Data&quot;},&quot;wireStyle&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;ortho&quot;,&quot;arc&quot;],&quot;default&quot;:&quot;ortho&quot;,&quot;tsType&quot;:&quot;'ortho'|'arc'&quot;,&quot;section&quot;:&quot;Lines&quot;},&quot;budget&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;rest&quot;,&quot;direct&quot;,&quot;all&quot;],&quot;default&quot;:&quot;rest&quot;,&quot;tsType&quot;:&quot;'rest'|'direct'|'all'&quot;,&quot;section&quot;:&quot;Edge budget&quot;},&quot;sharedMembers&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;select&quot;,&quot;always&quot;,&quot;never&quot;],&quot;default&quot;:&quot;select&quot;,&quot;tsType&quot;:&quot;'select'|'always'|'never'&quot;,&quot;section&quot;:&quot;Edge budget&quot;},&quot;arcCurve&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:0.1,&quot;min&quot;:0,&quot;max&quot;:0.32,&quot;step&quot;:0.01,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Lines&quot;},&quot;motion&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Motion&quot;},&quot;particleSpeed&quot;:{&quot;editor&quot;:&quot;range&quot;,&quot;default&quot;:74,&quot;min&quot;:24,&quot;max&quot;:180,&quot;step&quot;:2,&quot;unit&quot;:&quot;px/s&quot;,&quot;tsType&quot;:&quot;number&quot;,&quot;section&quot;:&quot;Motion&quot;},&quot;showHighlights&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Start here&quot;},&quot;attention&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;breath&quot;,&quot;once&quot;,&quot;off&quot;],&quot;default&quot;:&quot;breath&quot;,&quot;tsType&quot;:&quot;'breath'|'once'|'off'&quot;,&quot;section&quot;:&quot;Start here&quot;}}">
+const GEO_HEAD = 46;   // GEO.headRow in the model — the empty strip above band 1
 const TIERC = { A: '#5ed4e6', B: '#efb555', C: '#8d97a4' };
+/* Class colours for the chip's left rule. The build was right and my channel table
+   was wrong, and the image slot is what decides it: once a node carries a photo the
+   glyph slot is gone, so class has nowhere persistent to live unless it holds the
+   rule. Tier is three values, appears as text in the dossier, and survives being a
+   stroke; class is five values and must be readable on every chip at every zoom,
+   including the ones with images. So class takes the rule, tier takes the stroke. */
+const CLSC = {
+  institution: '#7f93a6', program: '#5ed4e6', event: '#e8a05f',
+  legislation: '#a795e8', document: '#66d69f', person: '#c9d2dd',
+};
+/* Middle truncation, never end truncation. "AARO Historical Record Volume 1" and
+   "...Volume 2" are identical under an end ellipsis, and the tail is exactly where
+   this corpus puts its distinguishing token — volume numbers, years, Roman
+   numerals, Sec. references. */
+function fitLabel(s, budget) {
+  if (s.length <= budget) return s;
+  const keep = budget - 1;
+  const head = Math.ceil(keep * 0.62), tail = keep - head;
+  return s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+}
 // One character, because the chip has room for one. I institution · P program ·
 // E event · L legislation · D document.
 const GLYPH = { institution: 'I', program: 'P', event: 'E', legislation: 'L', document: 'D', person: 'p' };
@@ -614,12 +669,43 @@ class Component extends DCLogic {
      moves, the direction is attested. The era sweep is the one decorative element
      and it touches no edge: it is a scan across the axis, which is the parent
      board's own idiom, and it says nothing about any relationship. */
+  /* DENIAL, THREE STATES — the correction to my own spec.
+     I wrote "a issued it, b is the subject" as though the board held that. It does
+     not: of 30 adjudicated, 12 run issuer→subject, 7 run the other way, and 11 are
+     not a directed denial act at all. So the arrowhead was asserting a direction
+     the record does not establish, on more than half the edges it was drawn on.
+
+     Switching the channel off entirely is the safe move but it overpays: it loses
+     the 12 that ARE attested, and it makes a denial link indistinguishable from an
+     ordinary one. Three states instead, because the data has three:
+
+       directed    issuer is named  -> arrowhead + travelling particle. The full
+                                       claim, drawn only where it is sourced.
+       undirected  denial act, denier not established -> a perpendicular BAR at the
+                                       midpoint, no arrowhead, no particle. A bar is
+                                       not a vector: it reads as contested, which is
+                                       exactly what the record supports.
+       association not a directed act at all (roswell → official-denial; a person
+                                       and their own bylined article) -> no denial
+                                       styling. Grey like any other edge. Red is
+                                       reserved for an act somebody committed.
+
+     This keeps the channel alive at the strength the evidence carries, and the
+     three states are visually distinct at a glance, which a single "denial-ish"
+     red line was not. */
+  denialState(e) {
+    if (!e.denial) return 'none';
+    if (e.denialKind === 'association') return 'association';
+    return (e.dn && e.dn.length) ? 'directed' : 'undirected';
+  }
+
   particlesFor(visible, geoms, sel) {
     if (!this.motion) return [];
     const out = [];
     visible.forEach((e, i) => {
       const g = geoms[i];
-      const isDenial = (e.dn || []).length > 0;
+      // only a denial whose denier is named may carry motion
+      const isDenial = this.denialState(e) === 'directed';
       const touchesSel = sel && (e.a === sel.id || e.b === sel.id);
       if (!isDenial && !touchesSel) return;
       // forward = the path runs a->b, which is the direction geometry was built in
@@ -812,11 +898,13 @@ class Component extends DCLogic {
       mixRows: [], memberBasisLabel: '',
       discLast: '', discTotal: '', oversightN: '',
       zooms: [], wireOpts: [], wireNote: '', stageOverflow: 'hidden', stageW: '100%',
-      particles: [], flagCells: [], legend: [], hasLegend: false, attnOpts: [],
+      particles: [], bars: [], flagCells: [], legend: [], hasLegend: false, attnOpts: [],
       lmDeg: '—', lmOnMap: '—', lmMembers: '—', memberRows: '—', membersMedian: '—', membersMax: '—',
       dsOpts: [], dsLabel: '', dsNote: '', dsSource: '', readCap: {}, overCap: [], gaps: [],
       fieldsMissing: [], hasVia: false, hasMembers: false, hasDenialDir: false,
       ties: [], bandBasis: '',
+      labelsReadable: true, dense: false, denseCells: [], denseNote: '', denialNote: '',
+      axisRows: [], axisCols: [], axisHeadH: 18,
       q: '', hitCount: 0, searching: false, onQuery: () => {}, clearQuery: () => {},
       queryBc: '#262e36', hitLabel: 'idle', hitFg: '#4f5964', noHits: false,
       results: [], moreHits: 0, hasMore: false, hasResults: false,
@@ -832,11 +920,54 @@ class Component extends DCLogic {
     const f = M.figures;
     const oneToOne = this.state.zoom === '1';
     const sc = oneToOne ? 1 : this.state.scale;
+    /* OVERVIEW BELOW THE LABEL THRESHOLD.
+       At 9.5px, a chip label stops being readable somewhere under 6px rendered, so
+       below ~0.63 scale the map was drawing 110 anonymous rectangles. Anonymous
+       rectangles are the worst of both: they carry no identity AND they hide the
+       one thing that still reads at that size, which is how many nodes sit in each
+       cell. So below the threshold the chips collapse and each cell draws its
+       COUNT — the occupancy matrix, in place, at the size where it is the only
+       legible statement. Same numbers as §C's table, on the map itself.
+
+       The start-here wash is NOT reused for this. It means "an editor pointed
+       here", and a channel that also means "too small to label" would stop meaning
+       either. */
+    const labelsReadable = sc >= 0.63;
+    /* DENSE ROWS ARE EQUAL HEIGHT, and that is the fix rather than a workaround.
+       A band's height is derived from how many chip rows its busiest cell needs —
+       meaningful when chips render, meaningless when they do not. It left the
+       single-row disclosure band 9px tall on screen: too short for a floor-height
+       numeral, too short for a legible label, and quietly encoding "rows of chips"
+       as row height in a view that has no chips. Dividing the same world height
+       equally keeps the scale and the band order identical and removes an
+       accidental channel.
+
+       ONE row set, computed here, consumed by everything that draws a row —
+       stripes, gutter boxes, count cells, overlay labels. Deriving them separately
+       is what put two contradictory geometries on the same canvas. */
+    const rows = labelsReadable ? M.bands : (() => {
+      const rowH = (M.worldH - GEO_HEAD - 10) / M.bands.length;
+      return M.bands.map((b, i) => ({ ...b, y: GEO_HEAD + i * rowH, h: rowH }));
+    })();
+    const rowById = new Map(rows.map(r => [r.id, r]));
+    /* Axis chrome in dense mode lives OUTSIDE the world transform, in an unscaled
+       overlay positioned at world × scale. Counter-scaling font-size inside the
+       transform was the wrong fix: it inflates type against containers — the 148px
+       gutter, the band heights, the 46px header row — that stay at model
+       dimensions computed for authored type, so the content overflows its own box
+       and collides with the band below. Outside the transform there is no box to
+       outgrow: rendered size is constant at every zoom, which is what axis chrome
+       wants anyway. */
     const N = new Map(M.nodes.map(n => [n.id, n]));
     const sel = this.state.sel ? N.get(this.state.sel) : null;
 
     const budget = this.budget, sm = this.sharedMode;
-    const visible = M.edges.filter(e => {
+    /* No edge layer below the label threshold. Every line, bar and numeral chip is
+       anchored to chip coordinates, so with the chips gone they terminate at
+       nothing and lattice straight over the counts the mode exists to show. The
+       mode is an occupancy statement; an edge that points at an unrendered node is
+       not a weaker version of that, it is noise on top of it. */
+    const visible = (labelsReadable ? M.edges : []).filter(e => {
       if (e.kind === 'shared' && sm === 'never') return false;
       if (sel) return e.a === sel.id || e.b === sel.id;
       /* An anchor is the only line a node has. ON SELECT hides the *summary*
@@ -853,18 +984,41 @@ class Component extends DCLogic {
 
     const mode = this.wire;
     const geoms = this.wireSet(visible, N, mode, M);
+    const dstates = visible.map(e => this.denialState(e));
     const wires = visible.map((e, i) => {
       const g = geoms[i];
+      const ds = dstates[i];
       const structural = e.role === 'structural';
-      const stroke = e.kind === 'shared' ? '#a795e8' : (e.denial ? '#e8705f' : (structural ? '#5ed4e6' : '#6f7f8c'));
+      const isAct = ds === 'directed' || ds === 'undirected';
+      const stroke = e.kind === 'shared' ? '#a795e8'
+        : isAct ? '#e8705f' : (structural ? '#5ed4e6' : '#6f7f8c');
       const thin = mode === 'straight' || mode === 'ortho';
       return {
         d: g.d, stroke,
         sw: (structural ? 1.3 : (e.role === 'anchor' ? 1 : 0.8)) * (thin ? 0.85 : 1),
-        dash: DASH[e.tier] || '', marker: e.denial ? 'url(#dn)' : '',
+        dash: DASH[e.tier] || '',
+        marker: ds === 'directed' ? 'url(#dn)' : '',
         op: sel ? 0.95 : (e.role === 'local' ? 0.3 : (structural ? 0.72 : 0.42)),
       };
     });
+
+    /* The undirected-denial bar. Perpendicular to the line at its midpoint, so it
+       cannot be read as pointing anywhere. Geometry is derived from the two
+       endpoints rather than the path, which is exact enough at this length and
+       works for every routing mode. */
+    const bars = visible.map((e, i) => ({ e, g: geoms[i], ds: dstates[i] }))
+      .filter(r => r.ds === 'undirected')
+      .map(({ e, g }) => {
+        const A = N.get(e.a), B = N.get(e.b);
+        const dx = (B.x + 102) - (A.x + 102), dy = (B.y + 10) - (A.y + 10);
+        const len = Math.hypot(dx, dy) || 1;
+        const nx = -dy / len * 4.5, ny = dx / len * 4.5;
+        return {
+          x1: Math.round(g.mx - nx), y1: Math.round(g.my - ny),
+          x2: Math.round(g.mx + nx), y2: Math.round(g.my + ny),
+          op: sel ? 1 : 0.7,
+        };
+      });
 
     /* A summarised line reading "5" is a count with no content. When a node is
        selected its shared lines name the members instead — two of them fit on the
@@ -913,14 +1067,18 @@ class Component extends DCLogic {
       : attn === 'breath'
         ? `l0breathChip ${BREATH} ease-in-out infinite`
         : `l0once 1.1s ease-out ${(fl.rank * 0.13).toFixed(2)}s both`;
+    /* The wash is a fit-width device only. In dense mode the flagged cell already
+       carries its own amber background at exactly the right position, so a second
+       mark would be a duplicate — and duplicating it through the band geometry is
+       what put fringes half a row above their cells. */
     const flagCells = [];
-    if (showFlags) {
+    if (showFlags && labelsReadable) {
       const seen = new Set();
       for (const fl of flags) {
         const n = N.get(fl.id); if (!n) continue;
         const key = n.band + '/' + n.col; if (seen.has(key)) continue;
         seen.add(key);
-        const band = M.bands.find(b => b.id === n.band);
+        const band = rowById.get(n.band);
         const col = M.eras.find(c => String(c.id) === String(n.col));
         if (band && col) flagCells.push({
           x: col.x, y: band.y, w: col.w, h: band.h,
@@ -960,14 +1118,16 @@ class Component extends DCLogic {
     const searching = q.length > 0 && !sel;
 
     const conflicted = new Set((f.dateConflictsChangingEra || []).map(r => r[0]));
-    const chips = M.nodes.map(n => {
+    const chips = (labelsReadable ? M.nodes : []).map(n => {
       const dim = (sel && !hop.has(n.id)) || (searching && !hitIds.has(n.id));
       const isSel = sel && sel.id === n.id;
       const isHit = searching && hitIds.has(n.id);
       const fl = flagBy.get(n.id);
       return {
-        x: n.x, y: n.y, label: n.short, title: n.label + '  ·  ' + n.id,
-        tier: TIERC[n.tier] || '#8d97a4',
+        x: n.x, y: n.y, label: fitLabel(n.short, 37),
+        title: n.label + '  ·  ' + n.cls + ' · tier ' + n.tier + ' · ' + n.id,
+        rule: CLSC[n.cls] || '#7f93a6',
+        stroke: dim ? 'none' : ('inset 0 0 0 1px ' + (TIERC[n.tier] || '#8d97a4') + '55'),
         /* The image occupies the slot the class letter already had, so adding
            images costs no width and removing them loses no information. Greyscale
            at rest is not styling: 110 institutional logos in brand colour would
@@ -996,12 +1156,40 @@ class Component extends DCLogic {
       };
     });
 
-    const bandRows = M.bands.map((b, i) => ({
+    const bandRows = rows.map((b, i) => ({
       y: b.y, h: b.h, name: BANDLBL[b.id] || b.id, n: b.n,
       // mean C where the axis exists; otherwise say what the order actually is
-      meanC: b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2),
+      meanC: (b.meanC == null ? 'rank ' + (i + 1) : 'mean C ' + b.meanC.toFixed(2)) +
+        (b.residual ? ' · residual' : ''),
       bg: i % 2 ? '#0f1216' : '#101419',
       fg: sel && sel.band === b.id ? '#5ed4e6' : '#8d97a4',
+    }));
+
+    /* The overlay. Only in dense mode, and deliberately spare: one line per axis.
+       Rendered gutter is 148 × scale — 58px at the verifier's width — which fits
+       about ten mono characters, so band names middle-truncate to the space that
+       actually exists rather than wrapping into the next band. The meta line is
+       dropped, not shrunk: the count it carried is already printed inside every
+       cell, so repeating it in the gutter buys nothing and costs the only vertical
+       room a 17px-rendered band has. */
+    const gutterPx = Math.round(148 * sc);
+    /* The overlay sits outside the transform, so it is not bound by the 148px
+       world gutter — only by what fits on screen. Two lines at 9.5px need ~24px
+       and every equal-height row renders well past that, so the label wraps
+       instead of truncating: "Reverse engineering" over two lines is row identity,
+       "REVE…NG" is not. */
+    const axisRows = labelsReadable ? [] : rows.map(b => ({
+      y: Math.round(b.y * sc), h: Math.round(b.h * sc),
+      w: Math.max(gutterPx - 6, 76),
+      label: (BANDLBL[b.id] || b.id).toUpperCase(),
+      title: (BANDLBL[b.id] || b.id) + ' · ' + b.n + ' nodes',
+      fg: sel && sel.band === b.id ? '#5ed4e6' : '#8d97a4',
+    }));
+    const axisCols = labelsReadable ? [] : M.eras.map(c => ({
+      x: Math.round(c.x * sc), w: Math.round(c.w * sc) - 8,
+      label: fitLabel(c.label, Math.max(6, Math.floor((c.w * sc - 12) / 5.9))),
+      title: c.label + ' · ' + c.note,
+      fg: c.kind === 'nodate' ? '#efb555' : '#b9c2cd',
     }));
 
     const cols = M.eras.map(c => ({
@@ -1070,7 +1258,10 @@ class Component extends DCLogic {
           : 'Band order here falls back to rarity because this source carries no C/A/D — see the four fields in §00. ')
           + f.roleTags + ' tags across ' + f.l0 + ' nodes, mean ' + f.roleTagsPerNode +
           '. Concealment is claimed by ' + M.rarity.concealment + ' and is therefore never a band: it is the field, not a row.' +
-          ((f.rarityTies || []).length ? ' Watch the near-ties: ' + f.rarityTies.map(t => t[0] + ' ' + t[1] + '/' + t[2] + ' ' + t[3]).join(', ') + '. A pair within 10% can swap rank between research passes and take every node carrying both with it — which is exactly what oversight and disclosure did between these two datasets.' : '') },
+          ((f.rarityTies || []).length ? ' Near-ties: ' + f.rarityTies.map(t => t[0] + ' ' + t[1] + '/' + t[2] + ' ' + t[3]).join(', ') + '. A pair within 10% can swap rank between research passes and take every node carrying both with it, so the order is pinned (' + (f.rarityPinDate || '') + ') and recomputed every run: ' +
+            ((f.rarityDrift || []).length
+              ? 'this dataset DRIFTS from the pin — ' + f.rarityDrift.map(d => d.tag + ' observed ' + d.observedRank + ', pinned ' + d.pinnedRank).join('; ') + '. The pin holds and the drift is reported, so no node moves row without someone deciding it should.'
+              : 'this dataset agrees with the pin.') : '') },
       { q: '2 · What happens to a node that spans eras?',
         a: 'It sits at its start, and the span is not drawn. ' + (f.withEnd
           ? 'Only ' + f.withEnd + ' of ' + f.l0 + ' nodes carry a dateEnd and only ' + f.withRealSpan + ' of those are longer than a year, so an extent channel would be absent for two thirds of the map and would print an absent end date as a closed one.'
@@ -1105,6 +1296,9 @@ class Component extends DCLogic {
       { name: 'highlights_are_a_pointer_not_a_tier',
         asserts: 'Flags name ids that are on the map, stay under ' + 15 + '% of it, and change no channel that means credibility.',
         rejects: 'a highlights file naming an id the floor excluded, or flagging more than ' + Math.round(f.l0 * 0.15) + ' of ' + f.l0 + ' nodes — a pointer at everything points at nothing.' },
+      { name: 'rarity_order_matches_the_pin',
+        asserts: 'The rarity rank the board\'s own tag counts imply equals the pinned order in the generator.',
+        rejects: 'a research pass that inverts a near-tie — ' + (f.rarityDrift || []).length + ' tag(s) drift on this dataset, which is the check firing rather than failing to. Silently obeying the new order would relocate every node carrying both tags with nothing on the page to show it happened.' },
       { name: 'no_size_channel', asserts: 'Every chip is 205×20. Degree changes packing order inside a cell and nothing else.',
         rejects: 'any model where the set of distinct chip widths or heights has more than one member.' },
       { name: 'layout_is_deterministic', asserts: 'Two runs over identical inputs give byte-identical positions; no random, no physics, no wall clamp.',
@@ -1169,10 +1363,57 @@ class Component extends DCLogic {
     }));
 
     return {
+      labelsReadable, dense: !labelsReadable, axisRows, axisCols,
+      axisHeadH: Math.max(15, Math.round(GEO_HEAD * sc)),
+      denseCells: labelsReadable ? [] : rows.flatMap(b => M.eras.map(c => {
+        const inCell = M.nodes.filter(n => n.band === b.id && String(n.col) === String(c.id));
+        if (!inCell.length) return null;
+        const hit = searching ? inCell.filter(n => hitIds.has(n.id)).length : 0;
+        const flg = inCell.filter(n => flagBy.has(n.id)).length;
+        /* Type in here is sized in WORLD units but judged in RENDERED ones, which
+           is the distinction the first attempt missed: a 40-world-unit cell is
+           15px on screen at this scale, so a "roomy" test against world height
+           admits sub-labels that render at 4px. Both the floor and the fit are
+           computed through the scale — 9px rendered is the floor, and the
+           sub-label is dropped whenever the cell cannot hold the numeral plus 9px
+           of annotation. The count is the statement; the annotation is not. */
+        const ch = b.h - 20;
+        /* `floor` is the world size that renders ~9px. It is a LOWER bound and
+           nothing else — passing it through Math.min made it a ceiling, which
+           pinned every numeral to the floor and left a 174-unit cell rendering its
+           digit at 9px. The numeral is sized from the CELL and only lifted to the
+           floor when the cell is too short to reach it; the single upper bound is
+           the cell itself, which is geometry rather than legibility.
+
+           The cell bound divides by the font's box ratio rather than subtracting a
+           constant: an IBM Plex Mono glyph box runs ~15% past its line box, so a
+           22px numeral needs 25px of room and `ch - 2` was letting it clip. */
+        const floor = 9 / sc;
+        const fs = Math.min((ch - 4) / 1.2, Math.max(floor, Math.min(44, ch * 0.45)));
+        /* The annotation sits at the floor, not at a fraction of the numeral: a
+           fraction of a big numeral is unreadable and a fraction of a small one is
+           the same size as it. Hierarchy is enforced by requiring the numeral to be
+           at least 1.6× the floor before an annotation is allowed at all. */
+        const roomy = fs >= floor * 1.6 && fs + floor + 6 <= ch;
+        return {
+          x: c.x + 10, y: b.y + 10, w: c.w - 20, h: ch,
+          fs: Math.round(fs), subFs: Math.round(floor),
+          gap: roomy ? 3 : 0,
+          n: inCell.length,
+          fg: searching ? (hit ? '#5ed4e6' : '#333c47') : (flg ? '#efb555' : '#8d97a4'),
+          bg: searching ? (hit ? '#16202a' : '#0e1216') : (flg ? 'rgba(239,181,85,.06)' : '#12171d'),
+          bc: searching ? (hit ? '#5ed4e6' : '#1d242b') : (flg ? '#efb555' : '#1d242b'),
+          sub: !roomy ? '' : (searching ? (hit ? hit + ' of ' + inCell.length : '') : (flg ? flg + ' flagged' : '')),
+        };
+      }).filter(Boolean)),
+      denseNote: labelsReadable ? ''
+        : 'Below the label threshold — cells carry their node count, edges are not drawn. Switch to 1:1 to read the map.',
+      denialNote: f.denialKindPresent ? ''
+        : f.denialEdges + ' denial edges carry no denialKind, so all of them draw the undirected bar. Per the adjudication, 11 of them are associations that should carry no red at all — the bars are provisional until that field lands.',
       gen: (ALL || {}).generated || '', fig: f, scale: sc, worldH: M.worldH,
       stageH: Math.round(M.worldH * sc), zooms, wireOpts, wireNote,
       stageOverflow: oneToOne ? 'auto' : 'hidden',
-      particles, flagCells, legend,
+      particles, bars, flagCells, legend,
       q, hitCount: hits.length, searching,
       onQuery: ev => this.setState({ q: ev.target.value, sel: null }),
       clearQuery: () => this.setState({ q: '' }),
@@ -1229,9 +1470,12 @@ class Component extends DCLogic {
       overCap: (((ALL || {}).readCap || {}).overCap || [])
         .map(r => ({ file: r[0], size: r[1], what: r[2] })),
       gaps: ((ALL || {}).gaps || []).map((g, i) => {
-        const key = ['via', 'members', 'membersSplit', 'cad', 'denialDir', 'dateEnd', 'photo'][i];
+        const key = ['via', 'members', 'membersSplit', 'cad', 'denialDir', 'dateEnd',
+          'photo', 'denialKind', 'shortBudget'][i];
         const have = key === 'photo' ? f.withPhoto > 0
           : key === 'membersSplit' ? M.memberBasis === 'neighbours'
+          : key === 'denialKind' ? !!f.denialKindPresent
+          : key === 'shortBudget' ? f.longLabels === 0
           : !!(M.fields || {})[key];
         return {
           field: g[0], what: g[1], pull: g[2], cost: g[3],

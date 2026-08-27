@@ -1,3 +1,7 @@
+L0_DEEPLINK_JS = '\n/* ---- deep links -----------------------------------------------------------\n   Query params already carried the whole state (`?sel=aawsap`), which was enough\n   for a file nobody could share. On a host the URL is the product: a path is what\n   you paste into a message, and `/node/aawsap` survives being read aloud where\n   `?sel=aawsap&v=NETWORK` does not.\n\n   Read accepts BOTH forms, so every link ever copied from the query-param era\n   keeps working. Write prefers the path form only for the plain single-selection\n   case -- the moment the state carries filters, a query, a traced path or a\n   non-default view, it falls back to query params, because a path that silently\n   drops half the state is worse than an ugly URL that keeps it. */\nconst L0_ROUTES = { node: \'sel\', band: \'band\', era: \'era\', q: \'q\' };\nfunction l0ReadPath(){\n  let segs;\n  try { segs = location.pathname.split(\'/\').filter(Boolean).map(decodeURIComponent); }\n  catch (e) { return null; }\n  if (!segs.length) return null;\n  const [head, ...rest] = segs;\n  if (head === \'path\' && rest.length === 2) return { kind: \'path\', from: rest[0], to: rest[1] };\n  if (L0_ROUTES[head] && rest.length >= 1) return { kind: head, value: rest.join(\'/\') };\n  return null;\n}\n'
+
+L0_SEARCH_JS = '\n/* ---- the search grammar ---------------------------------------------------\n   Design specified one field, space-separated tokens ANDed, a bare token as free\n   text, and a set of key:value filters. What shipped was the parent board\'s plain\n   substring match, so `via:bigelow` returned "0 of 956 entities" -- read as free\n   text and found nowhere, which is the worst kind of nothing: it looks like an\n   answer about the board rather than about the query.\n\n   `via:` is the one Design called out, because it reaches the shared members who\n   are NOT on the map: `via:bigelow` returns the map nodes joined by Robert Bigelow\n   without him ever being drawn. */\nfunction l0SearchIndex(){\n  const D = window.L0DATA || (window.__board && window.__board.L0DATA) || {};\n  const byId = {};\n  for (const n of (D.l0 || [])) byId[n.id] = n;\n  const flags = new Set(((D.packed || {}).flags) || []);\n  /* via: the summarised edges name the off-map members they route through. */\n  const via = {};\n  for (const e of (D.summarised || [])){\n    for (const m of (e.via || [])){\n      const k = String(m).toLowerCase();\n      (via[k] || (via[k] = new Set())).add(e.a);\n      via[k].add(e.b);\n    }\n  }\n  const viaLabel = {};\n  for (const k of Object.keys(via)){\n    const meta = (D.nodes || {})[k];\n    viaLabel[k] = ((meta && meta.label) || k).toLowerCase();\n  }\n  return { byId, flags, via, viaLabel, l0n: (D.l0 || []).length };\n}\nfunction l0ParseQuery(q){\n  const out = { free: [], f: [] };\n  for (const t of String(q).trim().split(/\s+/)){\n    if (!t) continue;\n    const m = t.match(/^([a-z]+):(.*)$/i);\n    if (m && m[2] !== \'\') out.f.push({ k: m[1].toLowerCase(), v: m[2].toLowerCase() });\n    else out.free.push(t.toLowerCase());\n  }\n  return out;\n}\nfunction l0Search(pool, q){\n  const Q = l0ParseQuery(q);\n  if (!Q.free.length && !Q.f.length) return [];\n  const IX = l0SearchIndex();\n  const NUM = { deg:\'deg\', claims:\'claims\', denials:\'dnu\' };\n  const num = (n, key, v) => {\n    const L = IX.byId[n.id]; if (!L) return false;\n    let got = L[NUM[key]];\n    if (key === \'denials\') got = (L.di||0) + (L.dr||0) + (L.dnu||0);\n    got = Number(got || 0);\n    const m = v.match(/^([<>]=?)?\s*(-?\d+(?:\.\d+)?)$/);\n    if (!m) return false;\n    const want = parseFloat(m[2]);\n    switch (m[1]){\n      case \'>\':  return got >  want;\n      case \'>=\': return got >= want;\n      case \'<\':  return got <  want;\n      case \'<=\': return got <= want;\n      default:   return got === want;\n    }\n  };\n  const has = (s, v) => String(s || \'\').toLowerCase().indexOf(v) >= 0;\n  return pool.filter(n => {\n    const L = IX.byId[n.id];\n    for (const {k, v} of Q.f){\n      switch (k){\n        case \'id\':       if (!has(n.id, v)) return false; break;\n        case \'cls\':      if (!has(n.cls, v)) return false; break;\n        case \'cluster\':  if (!has(n.cluster, v)) return false; break;\n        case \'tier\':     if (!L || !has(L.tier, v)) return false; break;\n        case \'band\':     if (!L || !has(L.band, v)) return false; break;\n        case \'era\':      if (!L || !has(L.col, v)) return false; break;\n        case \'role\':     if (!L || !(L.roles || []).some(r => has(r, v))) return false; break;\n        case \'flag\':     if (!IX.flags.has(n.id)) return false; break;\n        case \'isolated\': if (!L || !L.iso) return false; break;\n        case \'via\': {\n          /* match the MEMBER by id or label, then keep the map nodes they join */\n          let ok = false;\n          for (const key of Object.keys(IX.via)){\n            if (key.indexOf(v) < 0 && (IX.viaLabel[key] || \'\').indexOf(v) < 0) continue;\n            if (IX.via[key].has(n.id)) { ok = true; break; }\n          }\n          if (!ok) return false;\n          break;\n        }\n        case \'deg\': case \'claims\': case \'denials\':\n          if (!num(n, k, v)) return false; break;\n        default:\n          /* an unknown key is not silently ignored: it becomes free text, so a\n             typo narrows the result rather than quietly widening it */\n          if (!has(n.label + \' \' + n.id, k + \':\' + v)) return false;\n      }\n    }\n    if (!Q.free.length) return true;\n    const hay = (n.label + \' \' + n.id + \' \' + (n.cls||\'\') + \' \' + (n.cluster||\'\') + \' \'\n      + (n.sub||\'\') + \' \' + (n.loc||\'\') + \' \' + (n.narrative||\'\') + \' \'\n      + ((L && (L.roles||[]).join(\' \')) || \'\')).toLowerCase();\n    return Q.free.every(t => hay.indexOf(t) >= 0);\n  });\n}\n'
+
 #!/usr/bin/env python3
 """
 l0_patches.py — the L0 program map, as injected JS and CSS.
@@ -49,8 +53,30 @@ L0_CSS = """
 .l0wrap{position:absolute;inset:0;overflow:hidden;
   background:linear-gradient(160deg,#161a20 0%,#11141a 100%)}
 .l0wrap canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
-.l0crumb{position:absolute;left:12px;top:10px;z-index:4;display:flex;flex-wrap:wrap;
-  gap:6px;align-items:center;max-width:calc(100% - 24px);pointer-events:auto}
+/* The head strip is ONE flex row. It used to be two absolutely positioned boxes
+   fighting over the same line -- the crumb at left:12px with max-width:calc(100%
+   - 24px), the controls at right:12px, both z-index:4 -- so the moment the dock
+   narrowed the map the crumb ran the full width and printed straight under the
+   buttons. Measured at 798px of map: all six overlapped.
+
+   The fix is layout, not arithmetic. Reserving a fixed width for the controls
+   would be the `w - 12*k` bug again: the control row's width is not constant
+   (BREATH becomes STILL (SYSTEM) under prefers-reduced-motion, and the crumb
+   grows a chip per open node), so any constant is wrong at some state. A flex
+   row cannot overlap at any width, and the crumb truncates instead.
+
+   pointer-events are off on the containers and on for their children, so a
+   truncated-but-still-boxed crumb can never sit in front of a button. */
+.l0head{position:absolute;left:12px;right:12px;top:10px;z-index:4;display:flex;
+  align-items:flex-start;gap:12px;pointer-events:none}
+.l0head > *{pointer-events:none}
+.l0head > * > *{pointer-events:auto}
+.l0crumb{flex:1 1 auto;min-width:0;display:flex;flex-wrap:nowrap;
+  gap:6px;align-items:center;
+  /* nowrap, not wrap: the head strip reserves ONE control row. A breadcrumb that
+     wrapped to two would drop straight back onto the era labels. */
+  overflow:hidden}
+.l0crumb .l0meta{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .l0chip{display:inline-flex;align-items:center;gap:6px;height:22px;padding:0 8px;
   background:#141920;border:1px solid #262e36;color:#b9c2cd;
   font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;text-transform:uppercase;
@@ -61,7 +87,93 @@ L0_CSS = """
 .l0chip:hover .x{color:#e8705f}
 .l0meta{color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;
   background:rgba(15,18,22,0.88);padding:5px 7px;border:1px solid #1d242b}
-.l0ctl{position:absolute;right:12px;top:10px;z-index:4;display:flex;gap:6px}
+.l0ctl{flex:0 1 auto;min-width:0;margin-left:auto;display:flex;gap:6px;
+  flex-wrap:wrap;justify-content:flex-end}
+/* The scale a fit button would produce, printed on the button. Dimmer than the
+   label: it is the consequence, not the action. */
+.l0ctl .hopb .sc{color:#5c6672;margin-left:5px;font-weight:400}
+.l0ctl .hopb.on .sc{color:#5ed4e6}
+/* AUTO / HELD. Not a button -- it reports which of the two the camera is in, and
+   the way back to AUTO is to press a fit button, which is what its title says. */
+.l0cam{align-self:center;padding:0 8px;font:500 8.5px/1 'IBM Plex Mono',monospace;
+  letter-spacing:.13em;color:#5c6672;border:1px solid #262e36;height:25px;
+  display:inline-flex;align-items:center;cursor:help}
+/* A FOLDED PANEL IS A SPINE, NOT A NARROW PANEL. The first cut of FIT ALL simply
+   set the dossier to 30px and left its contents in place, so the board grew a
+   column of single letters stacked down the right edge -- unreadable, and it read
+   as damage rather than as a folded panel. Design: "a folded panel keeps its label
+   and one click restores it."
+   So: hide the contents outright and print one rotated label that is the restore
+   control. Nothing about the panel's state is lost, and the way back is the thing
+   you are looking at. */
+#dock.dock-spine{overflow:hidden;cursor:pointer;position:relative}
+#dock.dock-spine > *{display:none}
+#dock.dock-spine::after{content:'DOSSIER \2014 CLICK TO OPEN';position:absolute;
+  left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);
+  writing-mode:vertical-rl;white-space:nowrap;
+  font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#8d97a4}
+#dock.dock-spine:hover::after{color:#5ed4e6}
+/* THE SELECTION BAR. Design §7 puts SHOW ON MAP and CLEAR on a bar "inset by the
+   panel width and above both the dossier and the dim", because in their study the
+   panels OVERLAY a full-width canvas and an un-inset bar would sit under one.
+   Here the panels are grid columns and the map never extends beneath them, so the
+   inset is unnecessary and the bar simply pins to the bottom of the map. Same
+   intent -- the controls for the selected node stay visible while you read its
+   dossier -- without carrying across an offset that would only push it off-centre.
+   It appears only when something is selected: a permanent empty bar would spend
+   map height on nothing. */
+/* ONE BOTTOM COLUMN. The selection bar and the start-here legend were both
+   position:absolute at bottom:12px, and they overlapped: every one of the bar's
+   five buttons hit-tested to the legend instead of to itself. Measured -- SHOW ON
+   MAP, CEDE, PORTHOLE, TETHER and CLEAR, all five dead.
+
+   That is the FOURTH time this file has put two absolutely positioned things on
+   one edge and let arithmetic decide whether they clear each other: `w - 12*k`
+   reserving chip room whether or not a mark was drawn, the crumb's
+   max-width:calc(100% - 24px) running under the control row, geo.headRow as a
+   constant for a row whose width varies, and now this. Stacking them by hand --
+   bumping the legend to bottom:68px -- would have been the fifth, because the bar
+   is 44px only until someone changes it.
+   So they share a flex column and the layout does it. */
+.l0foot{position:absolute;left:12px;right:12px;bottom:12px;z-index:5;display:flex;
+  flex-direction:column;align-items:flex-end;gap:8px;pointer-events:none}
+.l0foot > *{pointer-events:auto}
+.l0selbar{width:100%;box-sizing:border-box;height:44px;
+  display:flex;align-items:center;gap:10px;padding:0 12px;
+  background:rgba(15,18,22,0.94);border:1px solid #262e36}
+.l0selbar .nm{flex:1 1 auto;min-width:0;overflow:hidden;text-overflow:ellipsis;
+  white-space:nowrap;font:500 10.5px/1 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0selbar .nm .cl{color:#5c6672;letter-spacing:.13em;font-size:8.5px;margin-right:8px}
+.l0selbar button{flex:0 0 auto;height:25px;padding:0 11px;background:transparent;
+  border:1px solid #262e36;color:#8d97a4;cursor:pointer;
+  font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em}
+.l0selbar button.pri{border-color:#5ed4e6;color:#5ed4e6}
+.l0selbar button:hover{color:#e6e9ee}
+.l0selbar .cho{display:flex;gap:0;margin-left:2px}
+.l0selbar .cho button{border-left-width:0}
+.l0selbar .cho button:first-child{border-left-width:1px}
+.l0selbar .cho button.on{border-color:#5ed4e6;color:#5ed4e6;background:#12171d}
+/* DIVERGENCE from the comp, and the reason is space. Design's legend sits in a
+   panel beside the canvas; this board's map fills its host, so an always-open
+   legend covered the NO DATE column and a third of 2017-2026. It is collapsible
+   and starts collapsed: the rank numerals on the chips already make the set
+   enumerable, and one click puts every reason on screen. A reason one click away
+   is not the same as no reason, which is what shipped before today. */
+.l0legend{width:330px;flex:0 0 auto;
+  background:rgba(20,25,32,0.96);border:1px solid #3a2f1c}
+.l0legend.open{max-height:52%;overflow:auto}
+.l0legend:not(.open) .l0lg{display:none}
+.l0legend h5{margin:0;padding:8px 10px;cursor:pointer;
+  border-bottom:1px solid #3a2f1c;
+  font:600 8.5px/1.3 'IBM Plex Mono',monospace;letter-spacing:.13em;
+  text-transform:uppercase;color:#efb555;display:flex;justify-content:space-between}
+.l0legend h5 .x{cursor:pointer;color:#5c6672;font-size:11px}
+.l0lg{display:flex;gap:8px;padding:7px 10px;border-bottom:1px solid #22282f;cursor:pointer}
+.l0lg:last-child{border-bottom:0}
+.l0lg:hover{background:#182029}
+.l0lg .r{flex:0 0 18px;font:600 9px/1.4 'IBM Plex Mono',monospace;color:#efb555}
+.l0lg .t{font:500 9.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee}
+.l0lg .w{font:400 9px/1.5 'IBM Plex Mono',monospace;color:#8d97a4;margin-top:3px}
 .l0ledger{position:absolute;z-index:6;width:306px;background:#141920;
   border:1px solid #262e36;box-shadow:0 10px 30px rgba(0,0,0,.6)}
 .l0lh{display:flex;align-items:flex-start;gap:8px;padding:9px 10px;
@@ -139,6 +251,42 @@ const L0_CLS = {
    edge types' own dashes become selection-only. */
 const L0_TIER = { 1:{c:'#5ed4e6',d:[]}, 2:{c:'#efb555',d:[6,4]}, 3:{c:'#8d97a4',d:[2,3]} };
 const L0_LABEL_DROP = 0.62;      /* inherited LOD rule, unchanged */
+/* Denials, said only as strongly as the record allows. `di`/`dr` count only edges
+   that NAME their denier; `dnu` counts the rest. The board used to publish an
+   issued/received split derived from the edge's a/b order, which does not encode
+   who denied whom. See notes/DENIAL-DIRECTION-2026-08-26.md. Until `denier` is
+   authored, a denial is an undirected link and the board says so. */
+/* One character, because the chip has room for one. The image takes this slot when
+   a node has one; the letter is the fallback, so class is readable on every chip at
+   every zoom. Class keeps the LEFT RULE and tier keeps the stroke: Design's channel
+   table originally said the reverse and corrected itself, because once a node
+   carries a photo the glyph is gone and class would have nowhere persistent to
+   live. Tier is three values and prints as text in the dossier; class is five and
+   must survive on the chip. */
+const L0_GLYPH = { institution:'I', program:'P', event:'E', legislation:'L',
+                   document:'D', person:'p' };
+/* Middle truncation, never end truncation. "AARO Historical Record Volume 1" and
+   "... Volume 2" are identical under an end ellipsis, and the tail is exactly where
+   this corpus puts its distinguishing token: volume numbers, years, Roman numerals,
+   Sec. references. Head takes 62% of the budget, the tail takes the rest. */
+function l0Fit(ctx, s, room){
+  if (ctx.measureText(s).width <= room) return s;
+  let lo = 1, hi = s.length;
+  while (lo < hi){
+    const mid = Math.ceil((lo + hi) / 2);
+    const head = Math.ceil(mid * 0.62), tail = mid - head;
+    const t = s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+    if (ctx.measureText(t).width <= room) lo = mid; else hi = mid - 1;
+  }
+  const head = Math.ceil(lo * 0.62), tail = lo - head;
+  return s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+}
+function l0Denials(n){
+  if ((n.di||0) + (n.dr||0) > 0) return 'denials ' + (n.di||0) + ' issued \u00b7 ' + (n.dr||0) + ' received';
+  const u = n.dnu || 0;
+  if (!u) return 'no denial links';
+  return u + ' denial link' + (u === 1 ? '' : 's') + ' \u00b7 direction not attested';
+}
 const L0_MARK = 13;              /* legacy point-cloud glyph. Still used by the
                                     FULL GRAPH fallback; the packed map draws chips. */
 /* ---- packed-cell palette -------------------------------------------------
@@ -149,15 +297,98 @@ const L0_MARK = 13;              /* legacy point-cloud glyph. Still used by the
 const L0_PACK = {
   chipFill:'#12171d', chipLine:'#3b444f', chipLineA:'#4a6b8f', chipLineFlag:'#efb555',
   bandFill:'#141920', bandAlt:'#12161c', bandLabel:'#5c6672', bandN:'#3b444f',
-  colHead:'#8d97a4', colNote:'#5c6672', colRule:'#262e36',
+  colHead:'#8d97a4', colNote:'#5c6672', colRule:'#262e36', glyph:'#4f5964',
   restLine:'#2f3a45', restAnchor:'#2a3b44', restDenial:'#5a3f3c',
-  pointer:'#efb555', iso:'#e8705f', ink:'#e6e9ee', ink2:'#b9c2cd',
+  pointer:'#efb555', iso:'#e8705f', denial:'#e8705f', ink:'#e6e9ee', ink2:'#b9c2cd',
 };
 /* Three view options, all ON by default. Stewart's call, 25 August 2026, having
    looked at the comp with all three on: "want all 3 options turned on". They are
    controls rather than constants because each one answers a different question and
    a reader who wants the arrangement alone should be able to get it. */
 const L0_OPT = { rest:true, flags:true, labels:true };
+/* BREATH / ONCE / STILL, per Design's start-here layer. At rest the flagged set
+   surfaces together over about a second, holds, fades, and the board sits clean
+   before the next: the board raising its hand ONCE reads better than fourteen
+   separate events, so they are in sync, not staggered. ONCE does it a single time
+   on load in rank order. Between breaths only the rank numeral stays, so the set
+   is findable and the highlight is never permanently on the map. */
+const L0_ATTN = ['breath', 'once', 'still'];
+const L0_BREATH_MS = 7000;
+/* The keyframe, restated as a function of time because this is a canvas: off
+   until 12%, up to full by 40%, back to nothing by 64%, clean until the cycle
+   turns over. */
+function l0Breath(ms){
+  const p = (ms % L0_BREATH_MS) / L0_BREATH_MS;
+  if (p >= 0.64) return 0;
+  if (p <= 0.12) return p / 0.12;
+  if (p <= 0.40) return 1;
+  return 1 - (p - 0.40) / 0.24;
+}
+
+/* ---- the image tile ------------------------------------------------------
+
+   The chip's third slot is [rule][image|glyph][label][rank][mark]. Until now it
+   always drew the class letter, because data/l0-images.json is deliberately empty
+   -- a record there asserts that a specific image exists at a specific URL under a
+   specific licence, which is a sourcing claim like any other and needs a research
+   pass, not a plausible guess.
+
+   The RENDER half does not need the data to exist, and leaving it unbuilt meant the
+   sourcing pass would have landed on an untested branch. It is built and tested
+   here against injected fixtures; the register stays empty until someone verifies
+   real images.
+
+   Three things the layout stage has already decided by the time we get here, and
+   which this must not re-decide:
+     - only `clears` and `ask` reach the model at all. An image that does not clear
+       is not drawn, exactly as an unsourced claim is not printed.
+     - `photoKind` is load-bearing. A portrait may be cropped to a circle. A MARK
+       MAY NOT -- an institutional seal cropped to a circle is a different mark, and
+       several of them carry statutory restrictions on alteration that are stricter
+       than copyright. Marks are contain-fitted inside the slot, never cover-cropped.
+     - `ask` ships WITH its reason. The reason is prose and belongs in the dossier;
+       what the chip can carry is an amber ring, so the doubt is visible at a glance
+       rather than only to a reader who opens the panel. */
+const L0IMG = new Map();          /* url -> HTMLImageElement | 'failed' */
+function l0Img(url, onLoad){
+  if (!url) return null;
+  const hit = L0IMG.get(url);
+  if (hit) return hit === 'failed' ? null : (hit.complete && hit.naturalWidth ? hit : null);
+  const im = new Image();
+  im.decoding = 'async';
+  /* A load failure is permanent and silent: the chip falls back to the class
+     letter, which is a supported state and says what the node IS. A broken-image
+     box would be worse than the letter it replaced. */
+  im.onerror = () => { L0IMG.set(url, 'failed'); };
+  im.onload  = () => { if (onLoad) onLoad(); };
+  L0IMG.set(url, im);
+  im.src = url;
+  return null;
+}
+function l0DrawTile(ctx, im, n, x, y, size){
+  const r = size/2, cx = x + r, cy = y + r;
+  ctx.save();
+  if (n.photoKind === 'mark'){
+    /* contain: the whole mark, undistorted, inside the slot. No clip. */
+    const sc = Math.min(size/im.naturalWidth, size/im.naturalHeight);
+    const dw = im.naturalWidth*sc, dh = im.naturalHeight*sc;
+    ctx.drawImage(im, cx-dw/2, cy-dh/2, dw, dh);
+  } else {
+    /* cover, circular: a portrait may be cropped. */
+    ctx.beginPath(); ctx.arc(cx, cy, r, 0, Math.PI*2); ctx.clip();
+    const sc = Math.max(size/im.naturalWidth, size/im.naturalHeight);
+    const dw = im.naturalWidth*sc, dh = im.naturalHeight*sc;
+    ctx.drawImage(im, cx-dw/2, cy-dh/2, dw, dh);
+  }
+  ctx.restore();
+  if (n.photoClearance === 'ask'){
+    ctx.strokeStyle = L0_PACK.pointer; ctx.lineWidth = 1;
+    ctx.beginPath();
+    if (n.photoKind === 'mark') ctx.rect(x+0.5, y+0.5, size-1, size-1);
+    else ctx.arc(cx, cy, r-0.5, 0, Math.PI*2);
+    ctx.stroke();
+  }
+}
 
 function mountL0(host){
   const D = L0DATA, byId = {};
@@ -184,11 +415,80 @@ function mountL0(host){
      rendering UNDER the column-head plate at 12% opacity -- readable as a smear,
      invisible as a defect to anyone reading the source. Freezing the strips means
      no chip can ever be beneath them, and pan-clamping means the reader can never
-     scroll the map off into empty world either. */
-  const PAD = { l: (PK.geo||{}).gutter || 148, t: (PK.geo||{}).headRow || 46 };
+     scroll the map off into empty world either.
+
+     geo comes from the model: merge_packed copies config.geo onto L0DATA.packed,
+     so PK.geo is populated and PAD tracks it. The fallbacks below are for the
+     degenerate model only. headRow was 46 and that was simply too short -- see
+     the note in tools/build_l0_layout.mjs. */
+  const GEO = PK.geo || {};
+  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46 };
+  /* PAD.t IS MEASURED, not trusted. geo.headRow is a constant in the model -- 76,
+     chosen when the control row was one line of six buttons -- and the era heads
+     are drawn immediately below it. Adding the two fit scales and the AUTO/HELD
+     chip made the row wider than the map at narrow widths, where it either
+     overflowed under the dossier (measured: the BREATH button, 15 dead sample
+     points, blocked by .dock-grip and .edoss) or, once allowed to wrap, would have
+     dropped its second line straight onto the era labels.
+
+     Both failures are the same mistake -- a constant standing in for something
+     that varies -- and it is the `w - 12*k` chip bug for the third time in this
+     file. So the strip reserves what the row actually occupies. Any future control
+     can be added without anyone remembering to retune a number, and head-row-clear
+     keeps guarding the result. */
+  const HEAD_MIN = GEO.headRow || 46;
+  function measureHead(){
+    const el = host.querySelector('.l0head');
+    if (!el) { PAD.t = HEAD_MIN; return; }
+    const h = el.getBoundingClientRect().height;
+    PAD.t = Math.max(HEAD_MIN, Math.ceil(h) + 20);
+  }
   const REST = new Set(PK.rest || []);
   const FLAG = new Set(PK.flags || []);
+  /* PK.flags is already rank-ordered by merge_packed, so rank is position + 1. */
+  const FLAGRANK = {};
+  (PK.flags || []).forEach((id, i) => { FLAGRANK[id] = i + 1; });
+  const FLAGSET = PK.flags || [];
+  /* The reasons. Design: "A pointer without its reason is the thing this board
+     exists not to do." All fourteen are authored in data/l0-highlights.json and
+     until now reached the analyst's "where do I start" branch and nothing else. */
+  const FLAGWHY = {};
+  for (const f of ((D.highlights || {}).flags || [])) FLAGWHY[f.id] = f.why || '';
   const opt = Object.assign({}, L0_OPT);
+  /* ALL MOTION STOPS DEAD under prefers-reduced-motion. Read once and treated as
+     a hard override: the attention control cannot turn it back on, because a
+     reader who has asked the operating system for no motion has not asked this
+     board for an exception. */
+  const REDUCED = !!(window.matchMedia
+    && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+  let attn = REDUCED ? 'still' : 'breath';
+  let loop = null, tStart = 0;
+  /* Motion runs for the breath OR for a selection. The selection case is not an
+     assertion about the record -- it is the reader's own act, showing which end of
+     each edge they are standing on -- so it does not need an attested direction
+     the way a denial does. */
+  const animating = () => !REDUCED && (
+       (attn !== 'still' && FLAGSET.length > 0 && opt.flags)
+    || S.l0open.length > 0);
+  function stopLoop(){ if (loop) { cancelAnimationFrame(loop); loop = null; } }
+  function startLoop(){
+    if (loop || !animating()) return;
+    tStart = 0;
+    const step = ts => {
+      loop = null;
+      if (dead || !animating()) return;
+      if (!tStart) tStart = ts;
+      animT = ts - tStart;
+      draw();
+      /* ONCE runs a single pass and then leaves the flags at rest, which is the
+         whole difference between it and BREATH. */
+      if (attn === 'once' && !S.l0open.length && animT > 1400 + 14*130) return;
+      loop = requestAnimationFrame(step);
+    };
+    loop = requestAnimationFrame(step);
+  }
+  let animT = 0;
+  let lit0 = new Set();
   const ekey = (e, s) => e.a + '|' + e.b + '|' + (s ? 'shared' : 'direct');
   const cvs = document.createElement('canvas');
   host.appendChild(cvs);
@@ -210,6 +510,64 @@ function mountL0(host){
      A grid knows its extent: the model states worldW and worldH, and the chip is
      inside it. So the two constants are gone rather than merely unused -- on a grid
      they were wrong, not redundant. */
+  /* Which zoom the reader is in, so the fit buttons can show it. Cleared to null
+     by any manual pan or wheel: once the camera has been moved by hand, neither
+     button describes where you are, and lighting one up would be a claim the
+     board cannot support. */
+  let zoom = 'fit';
+  /* AUTO until the reader's first gesture, then HELD. Design: "never move the
+     camera under a hand that is already moving it". While AUTO, every change to
+     the box -- a resize, the dossier opening, the rail folding -- re-fits. That
+     was the real defect behind "the map is never able to fit": the ResizeObserver
+     called measure() and clampView() and never re-fitted, so opening the dossier
+     narrowed the map and left the camera exactly where it was, now showing less
+     of the board than a moment earlier. */
+  let camMode = 'auto';
+  /* The node the camera is holding, if any. Set by focus(), cleared by a
+     drag, a wheel or a cleared selection -- the three ways a reader says
+     they are done looking at that node. */
+  let focusId = null;
+  function hold(){ camMode = 'held'; focusId = null; }
+
+  /* Design asks for two fit buttons, each printing the scale it would produce, so
+     the cost of an open dossier is a number on screen rather than a feeling.
+     Their study overlays the panels on a full-width canvas, so their pair is "fit
+     what is left" against "fit everything and let the panels cover the overlap".
+
+     THIS BOARD IS BUILT DIFFERENTLY and the pair has to be re-derived rather than
+     copied. The shell is `grid-template-columns: var(--rail-w) minmax(0,1fr)
+     var(--dock-w)`, so the panels are grid COLUMNS: they take the map's width
+     rather than covering it. There is no overlap here to fit under. Copying the
+     labels would have shipped a FIT ALL that did the same thing as FIT ROOM and
+     printed a second identical number for ever.
+
+     Same information, honest for this layout: FIT fits the room there is, FIT ALL
+     folds the panels away and fits the width that frees. The difference between
+     the two numbers is still exactly the price of what is open. */
+  function panelPx(){
+    const cs = getComputedStyle(document.documentElement);
+    const n = v => parseFloat(cs.getPropertyValue(v)) || 0;
+    const app = document.getElementById('app');
+    const railOff = !!(app && app.classList.contains('rail-off'));
+    const dock = document.getElementById('dock');
+    const dockW = dock ? dock.getBoundingClientRect().width : n('--dock-w');
+    return { rail: railOff ? 0 : n('--rail-w'), dock: dockW };
+  }
+  /* The scale a given content width would produce. fitScale() is this at the
+     width the map actually has. */
+  function scaleFor(w, h){
+    return Math.min((w - PAD.l - 16) / (PK.worldW - PAD.l),
+                    (h - PAD.t - 16) / (PK.worldH - PAD.t));
+  }
+  function roomScale(){ return scaleFor(W, H); }
+  function allScale(){
+    const p = panelPx();
+    /* Folding leaves a labelled spine, not nothing -- a panel that vanishes
+       cannot be got back. */
+    const SPINE = 30;
+    const freed = Math.max(0, p.dock - SPINE) + Math.max(0, p.rail - SPINE);
+    return scaleFor(W + freed, H);
+  }
   function fitScale(){
     /* Fit the CELLS into the space left after the chrome, not the whole world
        into the whole canvas. Fitting the world would scale the reserved strips
@@ -268,16 +626,46 @@ function mountL0(host){
     ctx.fillStyle = (L0_CLS[n.cls]||L0_CLS.person).c;   /* class rule, left edge */
     ctx.fillRect(x, y, Math.max(1, 3*view.k), h);
     if (opt.labels && view.k >= L0_LABEL_DROP){
+      /* Design's chip is [rule][image|glyph 11px][label][rank][mark], gaps of 5.
+         Everything to the right of the label is reserved BEFORE the label is fitted,
+         which is the bug the cross found: room used to be w-12 regardless of what
+         else was going to be drawn inside the same chip, so the mark landed on top
+         of the label and took its ellipsis with it. */
+      const gap = 5*view.k;
+      const rank = (opt.flags && FLAGRANK[n.id]) ? String(FLAGRANK[n.id]) : '';
+      let right = 5*view.k;                                  /* padding-right */
+      if (n.iso)  right += 8*view.k + gap;                   /* the absent-link mark */
+      if (rank)   right += 8*view.k + gap;                   /* the start-here rank */
+      const glyphW = 11*view.k;
+      const lx = x + 7*view.k;                               /* content starts here */
+      /* The class letter. An image will take this slot when data/l0-images.json is
+         populated; the letter is the fallback and says what the node IS rather than
+         implying a face nobody found. */
+      const tile = n.photo ? l0Img(n.photo, () => { if (!dead) paintMap(); }) : null;
+      if (tile){
+        l0DrawTile(ctx, tile, n, lx, y + (h-glyphW)/2, glyphW);
+      } else {
+        ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+        ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+        ctx.fillStyle = on ? L0_PACK.ink2 : L0_PACK.glyph;
+        ctx.fillText(L0_GLYPH[n.cls] || '\u00b7', lx + glyphW/2, y + h/2 + 0.5);
+      }
+
       ctx.font = "400 " + (9.5*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
       ctx.textAlign = 'left'; ctx.textBaseline = 'middle';
-      const room = w - 12*view.k;
-      let t = n.short || n.label || n.id;
-      if (ctx.measureText(t).width > room){
-        while (t.length > 2 && ctx.measureText(t + '\u2026').width > room) t = t.slice(0, -1);
-        t += '\u2026';
-      }
+      const tx = lx + glyphW + gap;
+      const room = (x + w - right) - tx;
       ctx.fillStyle = on ? L0_PACK.ink : (n.tier === 'A' ? L0_PACK.ink : L0_PACK.ink2);
-      ctx.fillText(t, x + 7*view.k, y + h/2 + 0.5);
+      ctx.fillText(l0Fit(ctx, n.short || n.label || n.id, room), tx, y + h/2 + 0.5);
+
+      /* The rank numeral, amber, right-aligned before the mark. Design: the set has
+         to be enumerable, and the legend carries the reason for each. */
+      if (rank){
+        ctx.font = "400 " + (8*view.k).toFixed(2) + "px 'IBM Plex Mono',monospace";
+        ctx.textAlign = 'right'; ctx.textBaseline = 'middle';
+        ctx.fillStyle = L0_PACK.pointer;
+        ctx.fillText(rank, x + w - (n.iso ? 13*view.k + gap : 5*view.k), y + h/2 + 0.5);
+      }
     }
     /* Absent prints as absent. Three nodes clear the connectivity floor on the
        full board and still have no link to any other node ON THE MAP, which is a
@@ -289,6 +677,70 @@ function mountL0(host){
       ctx.moveTo(cx-r, cy-r); ctx.lineTo(cx+r, cy+r);
       ctx.moveTo(cx-r, cy+r); ctx.lineTo(cx+r, cy-r);
       ctx.stroke();
+    }
+  }
+  /* One occupancy cell. Type here is sized in WORLD units but must be judged in
+     RENDERED ones, which is the distinction that makes a "roomy" test against world
+     height admit a sub-label that renders at 4px. Both the floor and the fit are
+     computed through the scale: 9px rendered is the floor, and the annotation is
+     dropped whenever the cell cannot hold the numeral plus 9px of it. The count is
+     the statement; the annotation is not.
+
+     `floor` is a LOWER bound and nothing else. Passing it through Math.min would
+     make it a ceiling, which pins every numeral to 9px and leaves a tall cell
+     rendering its digit at the floor. The numeral is sized from the CELL and only
+     lifted to the floor when the cell is too short to reach it. */
+  function cell(b, c, ids){
+    const n = ids.length;
+    if (!n) return;
+    const x = SX(c.x + 10), y = SY(b.y + 10);
+    const w = (c.w - 20)*view.k, h = (b.h - 20)*view.k;
+    if (x + w < PAD.l || x > W || y + h < PAD.t || y > H) return;
+    const flg = opt.flags ? ids.filter(id => FLAG.has(id)).length : 0;
+    /* THE SELECTION SURVIVES CELL MODE. Below the label threshold there are no
+       chips, so a fit used to lose the selected node outright: the reader picks a
+       node, the map re-fits, and the thing they picked is simply not on screen any
+       more. The cell it lives in now says "your node is in here, with N others".
+
+       Design asked for the amber outline and an amber numeral. AMBER IS ALREADY
+       TAKEN in this view -- it is the start-here flag, and a flagged cell already
+       draws exactly that outline and numeral. Reusing it would have made a
+       selected cell and a flagged cell indistinguishable, which is worse than not
+       marking the selection at all: it would put a false start-here pointer on the
+       board, and pointers here are editorial claims.
+       So the selection uses #5ed4e6, which is what selection means everywhere else
+       on this board -- the chip stroke, the crumb count, the lit controls. Same
+       treatment as Design specified, in the colour this board already reserves for
+       it, and it composes with the flag rather than overwriting it. */
+    const selHere = S.sel && ids.indexOf(S.sel) >= 0;
+    ctx.fillStyle   = selHere ? 'rgba(94,212,230,0.08)'
+                    : flg ? 'rgba(239,181,85,0.06)' : L0_PACK.chipFill;
+    ctx.strokeStyle = selHere ? '#5ed4e6'
+                    : flg ? L0_PACK.pointer : L0_PACK.chipLine;
+    ctx.lineWidth = selHere ? 2 : 1;
+    ctx.fillRect(x, y, w, h);
+    ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
+    /* Rendered sizes throughout. The cell bound divides by the font's box ratio
+       rather than subtracting a constant: an IBM Plex Mono glyph box runs about 15%
+       past its line box, so a 22px numeral needs 25px of room. */
+    const ch = h, floor = 9;
+    const fs = Math.min((ch - 4)/1.2, Math.max(floor, Math.min(44, ch*0.45)));
+    const roomy = fs >= floor*1.6 && fs + floor + 6 <= ch;
+    /* The sub-line names the selection when there is one, and falls back to the
+       flag count. "1 of these is open" is the sentence the reader needs; the flag
+       count is still on the outline colour when the cell is also flagged. */
+    const sub = roomy ? (selHere ? 'selection in here'
+                       : flg ? flg + ' flagged' : '') : '';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    const cy = y + h/2 - (sub ? (floor + 3)/2 : 0);
+    ctx.font = "400 " + fs.toFixed(1) + "px 'IBM Plex Mono',monospace";
+    ctx.fillStyle = selHere ? '#5ed4e6' : flg ? L0_PACK.pointer : L0_PACK.bandLabel;
+    ctx.fillText(String(n), x + w/2, cy);
+    if (sub){
+      ctx.font = "400 " + floor + "px 'IBM Plex Mono',monospace";
+      ctx.fillStyle = L0_PACK.colNote;
+      ctx.fillText(sub, x + w/2, cy + fs/2 + 3 + floor/2);
     }
   }
   /* The start-here layer, drawn as an OFFSET pointer beside the chip and never as
@@ -308,8 +760,40 @@ function mountL0(host){
      are PINNED to the viewport edges rather than drawn at world x=10 / y=18, so
      they stay readable at any pan. geo.gutter (148) and geo.headRow (46) reserve
      exactly that space in the model, which is what makes pinning safe. */
+  /* DENSE MODE. Below the label threshold a 9.5px chip label renders under 6px and
+     the map was drawing 110 anonymous rectangles: no identity, AND they hid the one
+     thing still legible at that size, which is how many nodes sit in each cell. So
+     the chips collapse and every cell prints its COUNT -- the occupancy matrix, in
+     place, at the size where it is the only honest statement.
+
+     DENSE ROWS ARE EQUAL HEIGHT, and that is the fix rather than a workaround. A
+     band's height is derived from how many chip rows its busiest cell needs, which
+     is meaningful when chips render and meaningless when they do not: it left the
+     single-row disclosure band 9px tall on screen. Dividing the same world height
+     equally keeps the scale and the band order identical and removes an accidental
+     channel.
+
+     The start-here wash is deliberately NOT reused for this. It means "an editor
+     pointed here", and a channel that also meant "too small to label" would stop
+     meaning either. */
+  const dense = () => view.k < L0_LABEL_DROP;
+  /* ONE row set per camera state, consumed by everything that draws a row: the
+     stripes, the gutter labels and the count cells. Design hit the alternative and
+     named it -- deriving the equal-height rows for some consumers and leaving the
+     others on the model's chip-derived bands puts two contradictory geometries on
+     the same canvas, and the visible symptom is fringes half a row above their
+     cells. Memoised on view.k so a frame cannot disagree with itself. */
+  let _rows = null, _rowsAt = NaN;
+  function bandRows(){
+    if (_rows && _rowsAt === view.k) return _rows;
+    const bs = PK.bands || [];
+    _rowsAt = view.k;
+    if (!dense() || !bs.length) return (_rows = bs);
+    const rowH = (PK.worldH - PAD.t - 10) / bs.length;
+    return (_rows = bs.map((b, i) => ({ ...b, y: PAD.t + i*rowH, h: rowH })));
+  }
   function bands(){
-    (PK.bands||[]).forEach((b, i) => {
+    bandRows().forEach((b, i) => {
       const y = SY(b.y), h = b.h*view.k;
       if (y > H || y + h < 0) return;
       ctx.fillStyle = i % 2 ? L0_PACK.bandAlt : L0_PACK.bandFill;
@@ -322,16 +806,43 @@ function mountL0(host){
     ctx.save();
     ctx.beginPath(); ctx.rect(0, PAD.t, PAD.l, H - PAD.t); ctx.clip();
     ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
-    (PK.bands||[]).forEach(b => {
+    /* AXIS TYPE IS NEVER SCALED. These are already drawn at an authored px size and
+       positioned at world x scale, which is what "outside the world transform"
+       means on a canvas. Counter-scaling by 1/k would be the wrong fix: it inflates
+       type against the 148px gutter and the band heights, which stay at model
+       dimensions computed for authored type, so it overflows and collides with the
+       row below. In dense mode the meta line is DROPPED rather than shrunk -- the
+       count it carried is printed inside every cell now, so repeating it in the
+       gutter buys nothing and costs the only vertical room a short row has. */
+    const dn = dense();
+    bandRows().forEach(b => {
       const y = SY(b.y), h = b.h*view.k;
       if (y > H || y + h < PAD.t) return;
       const ty = Math.max(y, PAD.t);      /* a row scrolled half off still names itself */
+      /* Design's answer to the disclosure-band question Stewart was holding: keep
+         the band, do not merge it and do not pad it, but MAKE THINNESS LEGIBLE.
+         Every band prints its count, and under five it prints amber. "DISCLOSURE ·
+         3 nodes" in amber is an argument -- the board saying the record is thin
+         there. "DISCLOSURE" alone beside a nearly empty row is just a layout that
+         looks broken, which is exactly how it read on screen.
+
+         The count goes on the SECOND line, not appended to the name: Design's own
+         example runs the two together, but "REVERSE-ENGINEERING · 15 nodes" is
+         about 162px of 9px mono and the gutter holds 138. Appending it would have
+         truncated the longest band names to make room for a number.
+
+         And the second line now draws in dense mode too. It used to be suppressed
+         there to save vertical room -- which meant the occupancy view, the one that
+         exists to show the shape of the board, was the one view that would not say
+         a band was nearly empty. */
+      const thin = b.n < 5;
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
-      ctx.fillStyle = L0_PACK.bandLabel;
+      ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandLabel;
       ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
       ctx.font = "400 9px 'IBM Plex Mono',monospace";
-      ctx.fillStyle = L0_PACK.bandN;
-      ctx.fillText(b.n + ' \u00b7 mean C ' + b.meanC, 10, ty + 25);
+      ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandN;
+      ctx.fillText(b.n + (b.n === 1 ? ' node' : ' nodes')
+                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), 10, ty + 25);
     });
     ctx.restore();
   }
@@ -352,17 +863,33 @@ function mountL0(host){
     ctx.strokeStyle = L0_PACK.colRule; ctx.lineWidth = 1;
     ctx.beginPath(); ctx.moveTo(0, PAD.t - 0.5); ctx.lineTo(W, PAD.t - 0.5); ctx.stroke();
     ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
-    (PK.eras||[]).forEach(c => {
+    const eras = PK.eras || [];
+    eras.forEach((c, i) => {
       const x = SX(c.x);
       if (x > W || x + c.w*view.k < PAD.l) return;
       const cx = Math.max(PAD.l, Math.min(W - 150, x));
+      /* BUDGET THE HEAD TO THE ROOM THAT EXISTS. The head is drawn at an authored
+         px size and never scaled, which is right, but the COLUMN shrinks with the
+         world: at 0.23x the columns are ~200px apart on screen while the head text
+         still wants its full width, so "Estimate through Blue Book" ran straight
+         into "Post-Blue Book". Budget against the smaller of this column's own
+         rendered width and the gap to where the next head will actually be drawn,
+         so two heads can never overlap however far the map is zoomed out. */
+      const nx = i + 1 < eras.length
+        ? Math.max(PAD.l, Math.min(W - 150, SX(eras[i+1].x)))
+        : W;
+      const budget = Math.max(28, Math.min(c.w*view.k, nx - cx) - 10);
+      /* Baselines sit in the LOWER part of the strip, below the DOM control row
+         that overlays it at top:10px. Derived from PAD.t rather than written as
+         constants, so a future change to geo.headRow moves the text with it
+         instead of quietly re-creating the overprint. */
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = L0_PACK.colHead;
-      ctx.fillText(c.label, cx, 20);
+      ctx.fillText(l0Fit(ctx, c.label, budget), cx, PAD.t - 22);
       if (c.note){
         ctx.font = "400 8.5px 'IBM Plex Mono',monospace";
         ctx.fillStyle = L0_PACK.colNote;
-        ctx.fillText(c.note, cx, 33);
+        ctx.fillText(l0Fit(ctx, c.note, budget), cx, PAD.t - 9);
       }
     });
     ctx.restore();
@@ -422,18 +949,93 @@ function mountL0(host){
       ctx.fillStyle = t.c;
       ctx.fillText(label, cx, cy);
     }
-    /* D3: denial edges are the first asymmetric edge the engine has had.
-       Direction is the whole instrument — undirected, AARO's own historical
-       record and Grusch look alike; split, one is the heaviest issuer on the
-       board and the other is predominantly a recipient. */
-    if (!summarised && (e.types||[]).indexOf('denial') >= 0){
-      const ang = Math.atan2(y2-cy, x2-cx);
-      const hx = x2 - Math.cos(ang)*10, hy = y2 - Math.sin(ang)*10;
+    /* D3, and Design's correction to it: a denial has THREE states because the data
+       has three, not one.
+
+         directed     issuer named        arrowhead (and, later, a particle)
+         undirected   an act, no issuer   a perpendicular BAR at the midpoint
+         association  not a directed act  no denial styling at all
+
+       The head used to draw on every denial edge, pointing at `e.b`, where a/b is
+       [a,b].sort() in the generator. Alphabetical order rendered as attribution: it
+       disagreed with the board's own records on 22 of 47, and the records carry no
+       consistent issuer-first convention either. Switching the channel off entirely
+       was the safe move and it overpaid, because it lost the ones that ARE attested
+       and made a denial indistinguishable from an ordinary link. A bar is not a
+       vector. It reads as contested, which is exactly what the record supports.
+
+       Degrades to `undirected` when neither `denier` nor `denialKind` is present,
+       because that claims the least. */
+    const isDenial = !summarised && (e.types||[]).indexOf('denial') >= 0
+                     && e.denialKind !== 'association';
+    const dnr = e.denier;
+    if (isDenial && !(dnr === e.a || dnr === e.b)){
+      /* Undirected: a bar across the line at its midpoint, square to it. */
+      const bx = (x1 + x2)/2, by = (y1 + y2)/2;
+      const ang = Math.atan2(y2 - y1, x2 - x1) + Math.PI/2;
+      const r = 4.5*view.k;
+      /* Red is reserved for something somebody did, so the bar takes it and an
+         `association` never reaches here. The line itself stays tier-coloured. */
+      ctx.strokeStyle = L0_PACK.denial;
+      ctx.lineWidth = 1.6;
+      ctx.setLineDash([]);
       ctx.beginPath();
-      ctx.moveTo(x2 - Math.cos(ang)*11*view.k, y2 - Math.sin(ang)*11*view.k);
+      ctx.moveTo(bx - Math.cos(ang)*r, by - Math.sin(ang)*r);
+      ctx.lineTo(bx + Math.cos(ang)*r, by + Math.sin(ang)*r);
+      ctx.stroke();
+    }
+    if (isDenial && dnr && (dnr === e.a || dnr === e.b)){
+      const tx = dnr === e.a ? x2 : x1, ty = dnr === e.a ? y2 : y1;
+      const fx = dnr === e.a ? cx : x2, fy = dnr === e.a ? cy : y2;
+      const ang = Math.atan2(ty-fy, tx-fx);
+      const hx = tx - Math.cos(ang)*10, hy = ty - Math.sin(ang)*10;
+      ctx.fillStyle = L0_PACK.denial;
+      ctx.beginPath();
+      ctx.moveTo(tx - Math.cos(ang)*11*view.k, ty - Math.sin(ang)*11*view.k);
       ctx.lineTo(hx - Math.sin(ang)*3.2, hy + Math.cos(ang)*3.2);
       ctx.lineTo(hx + Math.sin(ang)*3.2, hy - Math.cos(ang)*3.2);
       ctx.closePath(); ctx.fill();
+    }
+    /* THE PARTICLE LAYER. Design: if something moves, the direction is attested.
+       Two cases qualify and no others. A directed denial, where the record names
+       the issuer -- none yet, so none draw. And an edge of the SELECTED node,
+       running outward from the node the reader is standing on, which asserts
+       nothing about the record because the reader chose the end.
+
+       A time-direction flow on every line is the treatment Design rejected, and
+       the inherited parent-board renderer still carries it: it flips by comparing
+       node dates, which states that the relationship runs from the earlier node to
+       the later one. For most of these edges the board makes no such claim. */
+    if (!REDUCED && S.l0open.length && (lit0.has(e.a) || lit0.has(e.b))){
+      const selA = S.l0open.indexOf(e.a) >= 0;
+      const selB = S.l0open.indexOf(e.b) >= 0;
+      if (selA || selB){
+        const P = [[x1,y1],[cx,cy],[x2,y2]];
+        const segs = [Math.hypot(cx-x1, cy-y1), Math.hypot(x2-cx, y2-cy)];
+        const len = segs[0] + segs[1];
+        if (len > 6){
+          const vel = 74 * view.k;                  /* px per second, Design's default */
+          const dur = Math.max(1600, len / Math.max(1, vel) * 1000);
+          /* Deterministic per-edge phase, so nothing about a line depends on draw
+             order and two runs of the same frame look identical. */
+          let hsh = 0;
+          const kstr = e.a + '|' + e.b;
+          for (let i = 0; i < kstr.length; i++) hsh = (hsh*31 + kstr.charCodeAt(i)) >>> 0;
+          let u = ((animT + (hsh % 100)/100 * dur) % dur) / dur;
+          if (!selA) u = 1 - u;                     /* always outward from the reader */
+          const d = u * len;
+          const i2 = d <= segs[0] ? 0 : 1;
+          const t2 = i2 === 0 ? (segs[0] ? d/segs[0] : 0)
+                              : (segs[1] ? (d - segs[0])/segs[1] : 0);
+          const px0 = P[i2][0] + (P[i2+1][0] - P[i2][0]) * t2;
+          const py0 = P[i2][1] + (P[i2+1][1] - P[i2][1]) * t2;
+          ctx.globalAlpha = base * 0.75;
+          ctx.fillStyle = summarised ? '#a795e8' : '#5ed4e6';
+          ctx.beginPath();
+          ctx.arc(px0, py0, Math.max(1.1, 1.6*view.k), 0, Math.PI*2);
+          ctx.fill();
+        }
+      }
     }
     ctx.globalAlpha = base;
   }
@@ -447,8 +1049,39 @@ function mountL0(host){
     bands();
     columns();
 
+    /* THE START-HERE WASH. A fit-width device only: in dense mode the flagged cell
+       already carries its own amber background at exactly the right position, so a
+       second mark would be a duplicate, and routing it through a second band
+       geometry is what put fringes half a row above their cells in Design's own
+       comp. Deduped by cell, because two flags in one cell is one region. */
+    const bAlpha = attn === 'still' || REDUCED ? 0
+                 : attn === 'once' ? Math.min(1, animT / 1100)
+                 : l0Breath(animT);
+    if (opt.flags && !dense() && bAlpha > 0.01){
+      const rows = bandRows(), seen = {};
+      for (const id of FLAGSET){
+        const n = byId[id];
+        if (!n) continue;
+        const key = n.band + '|' + n.col;
+        if (seen[key]) continue;
+        seen[key] = 1;
+        const b = rows.find(r => r.id === n.band);
+        const c = (PK.eras||[]).find(e => String(e.id) === String(n.col));
+        if (!b || !c) continue;
+        const x = SX(c.x), y = SY(b.y), w = c.w*view.k, h = b.h*view.k;
+        ctx.globalAlpha = bAlpha;
+        ctx.fillStyle = 'rgba(239,181,85,0.045)';
+        ctx.fillRect(x, y, w, h);
+        ctx.strokeStyle = 'rgba(239,181,85,0.14)';
+        ctx.lineWidth = 1;
+        ctx.strokeRect(x+0.5, y+0.5, w-1, h-1);
+        ctx.globalAlpha = 1;
+      }
+    }
+
     const dim = S.l0open.length ? 0.16 : 1;
     const lit = new Set(S.l0open);
+    lit0 = lit;
     for (const id of S.l0open){
       const n = byId[id];
       if (n) for (const m of n.direct) lit.add(m);
@@ -461,7 +1094,13 @@ function mountL0(host){
        of being an artefact of the renderer. Selecting a node lifts the budget for
        that node's own edges: the budget governs the RESTING surface, and hiding an
        edge from someone who has asked for it would make the map lie. */
-    const es = D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
+    /* NO EDGE LAYER BELOW THE THRESHOLD. Every line, bar and numeral chip is
+       anchored to chip coordinates, so with the chips gone they terminate at
+       nothing and lattice straight over the counts the mode exists to show. An
+       edge pointing at an unrendered node is not a weaker version of the occupancy
+       statement, it is noise on top of it. */
+    const es = dense() ? []
+      : D.summarised.map(e=>({e,s:true})).concat(D.directEdges.map(e=>({e,s:false})));
     es.sort((p,q)=>(p.e.n||1)-(q.e.n||1));   /* weakest first, strong claims on top */
     for (const {e,s:sm} of es){
       const touched = lit.has(e.a) || lit.has(e.b);
@@ -472,13 +1111,39 @@ function mountL0(host){
     }
     ctx.globalAlpha = 1;
 
-    for (const n of D.l0){
-      const x = SX(n.x), y = SY(n.y);
-      if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
-      ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
-      chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
-      if (opt.flags && FLAG.has(n.id)) pointer(n);
-      ctx.globalAlpha = 1;
+    if (dense()){
+      /* Cells, not chips. Same numbers as the occupancy table in the design note,
+         printed on the map itself. */
+      const rows = bandRows();
+      const byCell = {};
+      for (const n of D.l0){
+        const k = n.band + '|' + n.col;
+        (byCell[k] || (byCell[k] = [])).push(n.id);
+      }
+      for (const b of rows)
+        for (const c of (PK.eras||[]))
+          cell(b, c, byCell[b.id + '|' + c.id] || []);
+    } else {
+      for (const n of D.l0){
+        const x = SX(n.x), y = SY(n.y);
+        if (x + n.w*view.k < -20 || x > W+20 || y + n.h*view.k < -20 || y > H+20) continue;
+        ctx.globalAlpha = (idle || lit.has(n.id)) ? 1 : dim;
+        chip(n, hover === n.id || S.l0open.indexOf(n.id) >= 0, lit);
+        if (opt.flags && FLAG.has(n.id)){
+        pointer(n);
+        /* The bloom rides an OUTLINE drawn outside the chip, never the chip's own
+           stroke: the stroke carries entity tier, and a keyframe touching it would
+           wipe that channel for most of the cycle. Two channels on one property is
+           the failure Design named. */
+        if (bAlpha > 0.01){
+          ctx.globalAlpha = bAlpha * 0.95;
+          ctx.strokeStyle = L0_PACK.pointer; ctx.lineWidth = 1;
+          ctx.strokeRect(SX(n.x) - 1.5, SY(n.y) - 1.5, n.w*view.k + 3, n.h*view.k + 3);
+          ctx.globalAlpha = 1;
+        }
+      }
+        ctx.globalAlpha = 1;
+      }
     }
     ctx.restore();
     /* Pinned last, so the furniture that says what the rows and columns MEAN is
@@ -518,8 +1183,10 @@ function mountL0(host){
 
   /* ---- surfaces ------------------------------------------------------- */
   function renderChrome(){
-    let c = host.querySelector('.l0crumb');
-    if (!c){ c = el('div','l0crumb'); host.appendChild(c); }
+    let head = host.querySelector('.l0head');
+    if (!head){ head = el('div','l0head'); host.appendChild(head); }
+    let c = head.querySelector('.l0crumb');
+    if (!c){ c = el('div','l0crumb'); head.appendChild(c); }
     let h = '<span class="l0chip root">PROGRAM MAP</span>';
     for (const id of S.l0open){
       const n = byId[id];
@@ -536,16 +1203,41 @@ function mountL0(host){
        + view.k.toFixed(2) + 'x</span>';
     c.innerHTML = h;
 
-    let z = host.querySelector('.l0ctl');
-    if (!z){ z = el('div','l0ctl'); host.appendChild(z); }
+    let z = head.querySelector('.l0ctl');
+    if (!z){ z = el('div','l0ctl'); head.appendChild(z); }
     /* Three options, all on by default, each with a control -- so a reader who
        wants the bare arrangement can get it and, per the "drive the whole app from
        the chat input" requirement, the analyst can operate them too (CMD.l0opt). */
-    z.innerHTML = '<button class="hopb" data-fit="1">OVERVIEW</button>'
-                + '<button class="hopb" data-one="1">1:1 READ</button>'
+    /* FIT / 1:1 as a pair, which is Design's own grouping and its own labels.
+       They were OVERVIEW and 1:1 READ, and OVERVIEW read as a separate mode
+       rather than as the zoom it is -- CLAUDE.md recorded a reader finding "the
+       one control that shows the whole map" hard to identify. */
+    /* Each fit button prints the scale it would produce. With nothing open the two
+       numbers are identical, and that is the point: the difference IS the cost of
+       the dossier. The state chip says whether the camera is still following the
+       box or has been taken over by hand. */
+    const rs = roomScale(), as = allScale();
+    const x2 = v => v.toFixed(2) + '\u00d7';
+    z.innerHTML = '<button class="hopb'+(zoom==='fit'?' on':'')+'" data-fit="1">'
+                +   'FIT <span class="sc">'+x2(rs)+'</span></button>'
+                + '<button class="hopb'+(zoom==='all'?' on':'')+'" data-fitall="1" '
+                +   'title="Fold the rail and the dossier to labelled spines and fit '
+                +   'the width that frees. One click restores them.">'
+                +   'FIT ALL <span class="sc">'+x2(as)+'</span></button>'
+                + '<button class="hopb'+(zoom==='one'?' on':'')+'" data-one="1">1:1</button>'
+                + '<span class="l0cam" title="'
+                +   (camMode === 'auto'
+                       ? 'The map re-fits whenever the box changes -- a resize, the '
+                         + 'dossier opening, the rail folding.'
+                       : 'You have moved the camera, so nothing moves it under you. '
+                         + 'Press a fit button to re-arm.')
+                +   '">' + (camMode === 'auto' ? 'AUTO' : 'HELD') + '</span>'
                 + '<button class="hopb'+(opt.rest?' on':'')+'" data-opt="rest">LINES AT REST</button>'
                 + '<button class="hopb'+(opt.flags?' on':'')+'" data-opt="flags">START HERE</button>'
-                + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>';
+                + '<button class="hopb'+(opt.labels?' on':'')+'" data-opt="labels">LABELS</button>'
+                + '<button class="hopb'+(attn!=='still'?' on':'')+'" data-attn="1" title="'
+                + (REDUCED ? 'the system asks for reduced motion' : 'start-here attention')
+                + '">' + (REDUCED ? 'STILL (SYSTEM)' : attn.toUpperCase()) + '</button>';
   }
 
   function renderLedgers(){
@@ -563,7 +1255,7 @@ function mountL0(host){
         + '<span class="x" data-close="'+esc(id)+'">&times;</span></div>'
         + '<div class="l0sum"><b>'+mem+'</b> members · <b>'+n.deg+'</b> links · <b>'
         + n.claims+'</b> claims, <b>'+n.t1+'</b> tier 1<br>'
-        + 'denials <span class="di">'+n.di+' issued</span> · '+n.dr+' received</div>'
+        + esc(l0Denials(n))+'</div>'
         + '<div class="l0body">';
       const groups = {};
       for (const m of n.direct){
@@ -648,7 +1340,7 @@ function mountL0(host){
     t.innerHTML = '<b>'+esc(n.cls.toUpperCase())+' · '+esc(n.label)+'</b><br>'
       + mem + ' members' + (mix ? ' — '+esc(mix) : '') + '<br>'
       + 'degree '+n.deg+' · '+n.claims+' claims, '+n.t1+' tier 1<br>'
-      + 'denials '+n.di+' issued · '+n.dr+' received<br>'
+      + esc(l0Denials(n))+'<br>'
       + '<span class="act">' + (mem >= 2
           ? 'click opens the member ledger'
           : 'click refused — '+mem+' member, no aggregate') + '</span>';
@@ -656,7 +1348,174 @@ function mountL0(host){
     t.style.top  = Math.min(H-110, my+14)+'px';
   }
 
-  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); }
+  /* THE LEGEND. Design: "A pointer without its reason is the thing this board
+     exists not to do." Fourteen reasons are authored in data/l0-highlights.json
+     and until now reached the analyst's scripted branch and nothing else, so the
+     map carried fourteen amber pointers and no account of why any of them was
+     pointed at. Ranked, clickable, and gone when START HERE is off. */
+  let legendOpen = false;
+  function renderLegend(){
+    const f = foot();
+    const old = f.querySelector('.l0legend');
+    if (old) old.remove();
+    if (!opt.flags || !FLAGSET.length) return;
+    const p = el('div','l0legend' + (legendOpen ? ' open' : ''));
+    let h = '<h5 data-legend="toggle"><span>' + (legendOpen ? '\u25be' : '\u25b8')
+          + ' START HERE \u00b7 ' + FLAGSET.length + (legendOpen ? '' : ' \u00b7 why')
+          + '</span><span class="x" data-opt="flags">&times;</span></h5>';
+    FLAGSET.forEach((id, i) => {
+      const n = byId[id];
+      if (!n) return;
+      h += '<div class="l0lg" data-node="'+esc(id)+'">'
+         + '<span class="r">'+String(i+1).padStart(2,'0')+'</span>'
+         + '<span><span class="t">'+esc(n.short || n.label || id)+'</span>'
+         + '<div class="w">'+esc(FLAGWHY[id] || 'no reason given in the highlights file')+'</div>'
+         + '</span></div>';
+    });
+    p.innerHTML = h;
+    /* First in the column, so the legend sits ABOVE the selection bar: the bar is
+       the control for what you just picked and belongs nearest the thumb. */
+    f.insertBefore(p, f.firstChild);
+  }
+  /* SHOW ON MAP. Design gives three choreographies and recommends CEDE as the
+     default, with the choice a PREFERENCE rather than a mode -- so the reader is
+     never in a state they have to get out of.
+
+       CEDE      panels fold to labelled spines, the map re-fits to the room it
+                 gains, the target arrives outlined. For a first look at where a
+                 node sits.
+       PORTHOLE  nothing moves but light: the layout holds and the camera does not
+                 move, so the paragraph you are reading stays where it is.
+       TETHER    camera only: the target is panned into the room there is. For
+                 scanning several nodes in a row.
+
+     Stored per reader, defaulting to CEDE. */
+  const CHO = ['cede', 'porthole', 'tether'];
+  let choreo = 'cede';
+  try { const v = localStorage.getItem('program.choreo');
+        if (CHO.indexOf(v) >= 0) choreo = v; } catch(e){}
+
+  function showOnMap(){
+    const id = S.sel; if (!id || !byId[id]) return;
+    if (choreo === 'cede'){
+      /* Fold, then let the box change do the fit -- one path for the camera, the
+         same reason foldPanels() does not fit for FIT ALL. The selection stays
+         outlined by the chip and cell renderers, so "the target arrives outlined"
+         needs no extra drawing. */
+      focusId = null; camMode = 'auto'; zoom = 'all';
+      foldPanels();
+      repaint();
+    } else if (choreo === 'porthole'){
+      /* Layout holds and the camera stays put. The board is already dimmed to the
+         selection's thread by the focus layer, so what porthole guarantees is the
+         thing the reader asked for: nothing moves. */
+      repaint();
+    } else {
+      focus(id);
+    }
+  }
+
+  /* The column both bottom overlays live in. Created on demand and reused, so the
+     legend and the bar never race to append themselves to the host. */
+  function foot(){
+    let f = host.querySelector('.l0foot');
+    if (!f){ f = el('div','l0foot'); host.appendChild(f); }
+    /* INSET BY WHATEVER OVERLAYS THE MAP'S RIGHT SIDE, MEASURED.
+       Design §7 says to inset the selection bar by the panel width. I skipped it
+       on the reasoning that this board's dossier is a grid column and never covers
+       the map -- true of the dossier, and wrong: .l0ledger is z-index 6, position
+       absolute, and sits ON the map. Four of the bar's five buttons hit-tested to
+       .l0row inside it. Design was right and the reasoning that dismissed them was
+       checking the wrong panel.
+       Measured rather than given the ledger's 306px, because that width is a CSS
+       constant that has already changed once and this file has been bitten four
+       times by exactly that. */
+    let inset = 0;
+    for (const el2 of host.querySelectorAll('.l0ledger, .l0reg')){
+      const r = el2.getBoundingClientRect();
+      if (!r.width) continue;
+      const hb = host.getBoundingClientRect();
+      /* only what actually overlaps the foot's own band, at the bottom */
+      if (r.bottom < hb.bottom - 120) continue;
+      inset = Math.max(inset, Math.ceil(hb.right - r.left) + 10);
+    }
+    f.style.right = (12 + inset) + 'px';
+    return f;
+  }
+  function renderSelBar(){
+    const f = foot();
+    let bar = f.querySelector('.l0selbar');
+    const n = S.sel && byId[S.sel];
+    if (!n){ if (bar) bar.remove(); return; }
+    if (!bar){ bar = el('div','l0selbar'); f.appendChild(bar); }
+    const lbl = n.short || n.label || n.id;
+    bar.innerHTML = '<div class="nm"><span class="cl">'
+      + esc(String(n.cls||'').toUpperCase()) + '</span>' + esc(lbl) + '</div>'
+      + '<button class="pri" data-showmap="1">SHOW ON MAP</button>'
+      + '<span class="cho">'
+      + CHO.map(k => '<button class="'+(choreo===k?'on':'')+'" data-choreo="'+k+'" '
+                   + 'title="' + (k === 'cede'
+                        ? 'Fold the panels and fit the whole board, with this node outlined.'
+                        : k === 'porthole'
+                        ? 'Change nothing -- keep this paragraph and its node where they are.'
+                        : 'Pan this node into the room there is, without folding anything.')
+                   + '">' + k.toUpperCase() + '</button>').join('')
+      + '</span>'
+      + '<button data-selclear="1">CLEAR</button>';
+  }
+
+  function repaint(){
+    /* renderChrome first, then measure what it produced, and only then paint the
+       map -- the map's top reserve depends on the height the control row actually
+       took. Painting first would draw one frame against the previous reserve, and
+       on a width change that frame is the one the reader sees. */
+    renderChrome();
+    const t0 = PAD.t;
+    measureHead();
+    if (PAD.t !== t0) clampView();
+    paintMap(); renderLedgers(); renderRegister(); renderLegend();
+    renderSelBar(); startLoop();
+  }
+
+  /* FIT ALL folds the rail and the dossier to spines and lets the box change do
+     the work: the ResizeObserver is already the one path that reacts to the box,
+     so this deliberately does NOT fit here. Fitting here as well would run two
+     fits against two different measurements of the same moment, which is the
+     drift clampView() exists to prevent. */
+  function foldPanels(){
+    const app = document.getElementById('app');
+    if (app) app.classList.add('rail-off');
+    if (typeof S !== 'undefined') S.railOpen = false;
+    if (typeof setDockOpen === 'function') setDockOpen(false);
+    const dock = document.getElementById('dock');
+    if (dock){
+      dock.classList.add('dock-spine');
+      dock.classList.remove('dock-wide');
+      dock.style.width = '30px';
+      document.documentElement.style.setProperty('--dock-w', '30px');
+    }
+  }
+  /* One click anywhere on the spine puts it back. Bound on the document rather
+     than on the element because renderDock rebuilds the dock's insides. */
+  document.addEventListener('click', ev => {
+    const sp = ev.target.closest('#dock.dock-spine');
+    if (!sp) return;
+    sp.classList.remove('dock-spine');
+    sp.style.width = '';
+    document.documentElement.style.removeProperty('--dock-w');
+    if (typeof setDockOpen === 'function') setDockOpen(!!(typeof S !== 'undefined' && S.sel));
+  });
+
+  /* Chip labels are fitted with ctx.measureText, so the geometry the map draws
+     depends on which font is actually resolved at draw time. The faces are
+     inlined as data: URIs and so resolve without a network round trip, but
+     decode is still asynchronous: a first paint can land against the fallback
+     metrics and then never be corrected, which shows up as labels truncated
+     harder than they need to be. One repaint when the real font is ready costs
+     nothing and closes the window. */
+  if (document.fonts && document.fonts.ready){
+    document.fonts.ready.then(() => { if (!dead) repaint(); });
+  }
 
   /* ---- events --------------------------------------------------------- */
   host.addEventListener('mousedown', ev => {
@@ -670,6 +1529,7 @@ function mountL0(host){
       const dx = ev.clientX-drag.x, dy = ev.clientY-drag.y;
       if (Math.abs(dx)+Math.abs(dy) > 3) moved = true;
       view.ox = drag.ox+dx; view.oy = drag.oy+dy;
+      if (moved){ zoom = null; hold(); }   /* taken by hand */
       clampView();
       paintMap(); renderChrome(); renderLedgers();
       return;
@@ -693,16 +1553,46 @@ function mountL0(host){
     const b = host.getBoundingClientRect(), mx = ev.clientX-b.left, my = ev.clientY-b.top;
     const k2 = Math.max(0.18, Math.min(2.2, view.k * (ev.deltaY < 0 ? 1.12 : 1/1.12)));
     view.ox = mx - (mx-view.ox)*(k2/view.k); view.oy = my - (my-view.oy)*(k2/view.k);
-    view.k = k2; clampView(); repaint();
+    view.k = k2; zoom = null; hold(); clampView(); repaint();
   }, { passive:false });
   host.addEventListener('click', ev => {
     const c = ev.target.closest('[data-close]');
     if (c) return CMD.collapse(c.getAttribute('data-close'));
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
-    if (ev.target.closest('[data-fit]')){ centreOn(fitScale()); repaint(); return; }
-    if (ev.target.closest('[data-one]')){ cornerOn(1); repaint(); return; }
+    /* A fit button RE-ARMS the camera. That is the way back from HELD, and it is
+       the only one: nothing else silently takes the camera off the reader. */
+    if (ev.target.closest('[data-fit]')){
+      camMode='auto'; zoom='fit'; centreOn(roomScale()); repaint(); return; }
+    if (ev.target.closest('[data-fitall]')){
+      camMode='auto'; zoom='all'; foldPanels(); return; }
+    if (ev.target.closest('[data-one]')){
+      hold(); zoom='one'; cornerOn(1); repaint(); return; }
+    if (ev.target.closest('[data-showmap]')){ showOnMap(); return; }
+    const ch = ev.target.closest('[data-choreo]');
+    if (ch){
+      choreo = ch.getAttribute('data-choreo');
+      try { localStorage.setItem('program.choreo', choreo); } catch(e){}
+      /* A preference, not a mode: picking one runs it straight away rather than
+         arming it for next time, so the reader sees what they chose. */
+      renderSelBar(); showOnMap(); return;
+    }
+    if (ev.target.closest('[data-selclear]')){ CMD.clearSelection(); return; }
+    if (ev.target.closest('[data-legend]')){
+      legendOpen = !legendOpen; renderLegend(); return;
+    }
+    if (ev.target.closest('[data-attn]')){
+      if (REDUCED) return;                      /* the override is not negotiable */
+      attn = L0_ATTN[(L0_ATTN.indexOf(attn) + 1) % L0_ATTN.length];
+      stopLoop(); animT = 0;
+      renderChrome(); startLoop(); repaint();
+      return;
+    }
     const o = ev.target.closest('[data-opt]');
-    if (o){ const k = o.getAttribute('data-opt'); opt[k] = !opt[k]; repaint(); return; }
+    if (o){
+      const k = o.getAttribute('data-opt'); opt[k] = !opt[k];
+      if (k === 'flags'){ stopLoop(); animT = 0; startLoop(); }
+      renderChrome(); repaint(); return;
+    }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
     const f = ev.target.closest('[data-full]');
@@ -718,14 +1608,53 @@ function mountL0(host){
      on a banded grid the first band is where the argument starts. The old code
      centred at 1.0 instead, which on a 2200x912 world opens on the middle of the
      funding band with no column head and no band label in view. */
-  if (fk >= L0_LABEL_DROP) centreOn(fk); else cornerOn(1);
+  /* Open FITTED, at every width. Design's comp states this outright -- its root
+     state is `zoom: 'fit'` -- and this build diverged from it: below the label
+     threshold it gave up on fitting and opened at 1:1 in the top-left corner,
+     which on any screen under about 1944px is three of seven bands.
+
+     That divergence had a reason once. Below the threshold the chips used to draw
+     as 110 anonymous rectangles, so a fitted opening showed the reader an
+     unreadable grid and the corner at least showed real labels. The dense
+     occupancy mode killed that reason -- every cell now prints its count, so the
+     fitted view is the occupancy matrix and states the shape of the board -- and
+     nobody came back to the default. Reported from a real screen as "the map is
+     never able to fit", which is exactly what it was. */
+  centreOn(fk);
+  zoom = 'fit';
   repaint();
-  const ro = new ResizeObserver(() => { measure(); clampView(); repaint(); });
+  startLoop();
+  /* One path for every change to the box, and while AUTO it RE-FITS rather than
+     merely clamping. Clamping alone was the defect behind "the map is never able
+     to fit": open the dossier, the map narrows, the camera stays put and shows
+     less of the board than it did a second earlier.
+     The window listener is a fallback -- ResizeObserver covers the element, but a
+     zoom change or a devicePixelRatio flip can move the box without the observer
+     firing on some engines, and a fit that silently stops fitting is the whole
+     failure mode of this file. */
+  function boxChanged(){
+    measure();
+    if (camMode === 'auto'){
+      centreOn(zoom === 'all' ? allScale() : roomScale());
+    } else if (focusId && byId[focusId]){
+      /* HELD on a node: keep THAT node centred in whatever box there now is,
+         rather than re-fitting the board or leaving the camera where a smaller
+         box put it. Selecting a node opens the dossier, which changes the box a
+         frame later, so this is the common path and not an edge case. */
+      const n = byId[focusId];
+      view.ox = W/2 - (n.x + n.w/2)*view.k;
+      view.oy = H/2 - (n.y + n.h/2)*view.k;
+    }
+    clampView();
+    repaint();
+  }
+  const ro = new ResizeObserver(boxChanged);
   ro.observe(host);
+  window.addEventListener('resize', boxChanged);
   return {
     repaint, pairs: [],   /* INSIGHTS() reaches for this; see renderNetworkChrome */
     opt,
-    destroy(){ dead = true; ro.disconnect(); if (raf) cancelAnimationFrame(raf); },
+    destroy(){ dead = true; ro.disconnect(); stopLoop(); if (raf) cancelAnimationFrame(raf); },
     fitScale, view,
   };
 }
@@ -774,6 +1703,13 @@ L0_CMD = r"""
 
 # ---------------------------------------------------------------------- apply
 # ------------------------------------------------------------- packed geometry
+def _repo_root():
+    """The repo root, derived from this file rather than from the caller's cwd —
+    build_dashboard.py may be invoked from anywhere."""
+    import os
+    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
 def merge_packed(model, layout):
     """Fold the packed-cell layout into the L0 model, in place.
 
@@ -807,17 +1743,87 @@ def merge_packed(model, layout):
         n["w"], n["h"] = L["w"], L["h"]
         n["band"], n["col"] = L["band"], L["col"]
         n["iso"] = bool(L.get("isolated"))
+        # role tags, for the search grammar's `role:` filter. They are the basis
+        # for band assignment, so a reader who can see the band should be able to
+        # ask for the tag behind it.
+        n["roles"] = L.get("roles") or []
+        # The mark, if this node has one. Set on the LAYOUT's nodes by
+        # build_l0_layout.mjs from data/l0-images.json, and copied here because
+        # the renderer reads model["l0"]. Without this the register populated
+        # cleanly, the layout model carried all eleven records, and the page drew
+        # 110 class letters -- the register working and the board not showing it,
+        # which is the same shape as the denial verdicts stopping at the layout
+        # model earlier today.
+        for k in ("photo", "photoCredit", "photoKind", "photoClearance", "photoNote"):
+            if L.get(k):
+                n[k] = L[k]
 
     # Edge budget. `rest` says which edges draw with nothing selected; `role` says
     # why each one earned the space. Keyed a|b|kind because a pair can carry both a
     # direct edge and a summarised one and they are different objects.
     rest, roles = [], {}
+    # The adjudication travels with the edge. data/denial-adjudication.json is
+    # stamped onto the board by merge.py and aggregated per pair by
+    # build_l0_layout.mjs, but the page reads model["directEdges"], which is
+    # built by build_l0.py and carries only a/b/n/tier/types. So the verdicts
+    # reached the layout model and stopped there: the renderer read e.denialKind
+    # and got undefined for all 47, and every denial on the map drew as
+    # undirected -- the bar -- no matter what the record said. That is a quieter
+    # failure than the arrowheads it replaced, and it would have looked like the
+    # adjudication was simply cautious rather than not arriving at all.
+    dn_by_pair = {}
     for e in cur.get("edges", []):
         k = e["a"] + "|" + e["b"] + "|" + ("direct" if e["kind"] == "direct" else "shared")
         if e.get("rest"):
             rest.append(k)
         if e.get("role"):
             roles[k] = e["role"]
+        if e.get("denialKind") or e.get("denier") or e.get("dn"):
+            dn_by_pair["|".join(sorted((e["a"], e["b"])))] = {
+                "denialKind": e.get("denialKind"),
+                "denier": e.get("denier"),
+                "dn": e.get("dn") or [],
+            }
+    # ---- the marks, inlined -------------------------------------------
+    # data/l0-images.json holds a repo PATH in `photo`; the page needs bytes.
+    # Inlining happens HERE and not in build_l0_layout.mjs because that file is
+    # read through the GitHub API and has a ~1MB cap: putting 695KB of base64
+    # into it -- twice, since `current` and `legacy` both carry nodes -- took it
+    # from 490KB to 1836KB and its own guard refused the build. The description
+    # of the page stays small; the page carries the bytes, where 520KB against
+    # 14MB is noise.
+    #
+    # And it MUST be bytes rather than a URL: `the built page fetches nothing at
+    # runtime` is a gate check, and a remote mark would break it while making
+    # first paint depend on someone else's server.
+    import base64, os
+    _MIME = {".svg": "image/svg+xml", ".webp": "image/webp", ".jpg": "image/jpeg",
+             ".jpeg": "image/jpeg", ".png": "image/png"}
+    for n in model.get("l0", []):
+        rel = n.get("photo")
+        if not rel or str(rel).startswith("data:"):
+            continue
+        abs_ = os.path.join(_repo_root(), rel)
+        if not os.path.exists(abs_):
+            raise SystemExit(
+                f"data/l0-images.json: {n['id']} points at {rel}, which does not "
+                f"exist. Add the file or remove the record -- a missing mark must "
+                f"not degrade silently into the class letter.")
+        ext = os.path.splitext(abs_)[1].lower()
+        with open(abs_, "rb") as fh:
+            n["photo"] = ("data:" + _MIME.get(ext, "image/png") + ";base64,"
+                          + base64.b64encode(fh.read()).decode("ascii"))
+
+    for e in model.get("directEdges", []):
+        r = dn_by_pair.get("|".join(sorted((e["a"], e["b"]))))
+        if not r:
+            continue
+        if r["denialKind"]:
+            e["denialKind"] = r["denialKind"]
+        if r["denier"]:
+            e["denier"] = r["denier"]
+        if r["dn"]:
+            e["dn"] = r["dn"]
 
     flags = [f["id"] for f in sorted(
         (cur.get("highlights") or {}).get("flags", []),
@@ -981,6 +1987,17 @@ def apply(s, model, must_replace, layout=None):
         "  function focus(id){\n"
         "    const n = byId[id];\n"
         "    if (!n) return;\n"
+        "    /* A PICK TAKES THE CAMERA. Design lists drag, wheel and pick as the\n"
+        "       gestures that flip AUTO to HELD, and pick is the one that is easy\n"
+        "       to miss: without it, selecting a node zoomed to 1.15 and then the\n"
+        "       dossier opened, the box changed, and the AUTO re-fit threw the\n"
+        "       focus away. Measured before this line existed: pick a node at a\n"
+        "       1920 window and the map settled at k=0.289 with the node nominally\n"
+        "       on screen and nothing on it readable.\n"
+        "       focusId is remembered so a later box change RE-CENTRES on the node\n"
+        "       instead of re-fitting the board -- the dossier opening must not\n"
+        "       lose the thing the dossier is about. */\n"
+        "    focusId = id; camMode = 'held'; zoom = null;\n"
         "    /* zoom in enough that the node and its label are readable, then\n"
         "       centre it. The reader asked for the node they clicked, not a\n"
         "       field of 96. */\n"
@@ -1097,9 +2114,8 @@ def apply(s, model, must_replace, layout=None):
         "  renderL0Entry(host);\n  measure();\n  const fk = fitScale();",
         "mount the entry surface", 1); ok &= o
     s, o = must_replace(s,
-        "  function repaint(){ paintMap(); renderChrome(); renderLedgers(); renderRegister(); }",
-        "  function repaint(){ paintMap(); renderChrome(); renderLedgers();\n"
-        "    renderRegister(); renderL0Entry(host); }",
+        "    renderSelBar(); startLoop();",
+        "    renderSelBar(); renderL0Entry(host); startLoop();",
         "repaint includes the entry surface", 1); ok &= o
 
     # card + skip clicks
@@ -1146,8 +2162,11 @@ def apply(s, model, must_replace, layout=None):
     # -- expose the model on the debug surface the screenshotter already uses, so
     #    the L0 checks can be made AT RUNTIME. This board has been bitten twice by
     #    patches that read correctly and did not take effect.
+    # l0Fit is exposed for the same reason CMD and L0DATA are: so a check can call
+    # the renderer's OWN truncation rather than a copy of it. A check that
+    # reimplements the thing it is checking passes when the renderer diverges.
     s, o = must_replace(s, "window.__board = { CMD, S,",
-                        "window.__board = { CMD, S, L0DATA, mountL0,",
+                        "window.__board = { CMD, S, L0DATA, mountL0, l0Fit,",
                         "L0 debug export", 1); ok &= o
 
     # -- the inherited hop/legend chrome belongs to the full-graph map, and its
@@ -1171,6 +2190,183 @@ def apply(s, model, must_replace, layout=None):
         "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){\n"
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
+    # -- THE FULL GRAPH'S PARTICLE LAYER, which is an inherited surface asserting
+    #    something this board does not claim. mountNetwork mounts when S.path or
+    #    S.frame is set and the NETWORK view is CONSTRUCTED -- reachable from any
+    #    other view via highlightPath, focusCluster, frameNodes or showInsight --
+    #    and it drew a particle on every visible edge, flipped by
+    #    `new Date(s.date) > new Date(t.date)`.
+    #
+    #    That is a time-direction flow on every line, the exact treatment Claude
+    #    Design named and rejected: "It states that the relationship runs from the
+    #    earlier node to the later one, and for most of these edges the board makes
+    #    no such claim. A moving dot is a far stronger implication than a static
+    #    line." The L0 map was built to that rule; the inherited renderer never was.
+    #
+    #    Same rule as mountL0 now: a particle only where the direction is attested.
+    #    On the full graph the one attested case is an edge of the SELECTED node,
+    #    running away from the end the reader is standing on. No selection, no
+    #    motion.
+    s, o = must_replace(s,
+        "function drawParticle2D(ctx, e, t){\n"
+        "  if (e.alpha < 0.25) return;",
+        "function drawParticle2D(ctx, e, t){\n"
+        "  if (e.alpha < 0.25) return;\n"
+        "  /* MOTION ONLY WHERE ATTESTED. See tools/l0_patches.py. */\n"
+        "  const sel = S.sel;\n"
+        "  if (!sel) return;\n"
+        "  const pa = e.pair && e.pair.s && e.pair.s.id, pb = e.pair && e.pair.t && e.pair.t.id;\n"
+        "  if (pa !== sel && pb !== sel) return;",
+        "full graph: particles only on the selected node's edges", 1); ok &= o
+    s, o = must_replace(s,
+        "  const [px,py] = walk(e.pts, e.pair.flip ? 1-u : u);",
+        "  /* Away from the reader, never along the time axis. e.pair.flip is left\n"
+        "     in place for the tick layer but must never steer a particle. */\n"
+        "  const [px,py] = walk(e.pts, pa === sel ? u : 1-u);",
+        "full graph: particle direction is the reader's end, not the date", 1); ok &= o
+
+    # -- THE SEARCH GRAMMAR. Design specified key:value filters and `via:`; the
+    #    parent board shipped a plain substring match, so `via:bigelow` came back
+    #    "0 of 956 entities" -- an answer about the board rather than about the
+    #    query. The no-result state also never said what it had NOT searched.
+    s, o = must_replace(s, "function viewSearch(v){",
+        L0_SEARCH_JS + "function viewSearch(v){",
+        "search grammar helper", 1); ok &= o
+    s, o = must_replace(s,
+        "  const hits = q\n"
+        "    ? pool.filter(n => (n.label+' '+(n.sub||'')+' '+(n.loc||'')+' '+"
+        "(n.narrative||'')).toLowerCase().includes(q))\n"
+        "    : pool.slice(0, 9);",
+        "  const hits = q ? l0Search(pool, S.query.trim()) : pool.slice(0, 9);",
+        "search uses the grammar", 1); ok &= o
+    s, o = must_replace(s,
+        "'<div style=\"font-size:11.5px;color:var(--text-dim);padding:14px 0\">"
+        "No entity matches that query.</div>'",
+        "'<div style=\"font-size:11.5px;color:var(--text-dim);padding:14px 0\">"
+        "No entity matches that query.<br><span style=\"color:var(--text-faint)\">"
+        "Searched all ' + pool.length + ' entities. '"
+        " + ((((window.__board&&window.__board.L0DATA)||{}).l0||[]).length"
+        "     ? 'Filters that name a place on the map \u2014 band: era: flag: isolated: role: '"
+        "     + '\u2014 only reach the ' + (((window.__board&&window.__board.L0DATA)||{}).l0||[]).length"
+        "     + ' nodes above the connectivity floor, not the '"
+        "     + (pool.length - (((window.__board&&window.__board.L0DATA)||{}).l0||[]).length) + ' below it.' : '')"
+        " + '</span></div>'",
+        "no-result state names what it did not search", 1); ok &= o
+    # -- DEEP LINKS. `?sel=aawsap` already carried the state; a path is what
+    #    survives being pasted into a message. Read accepts both so nothing that
+    #    was ever copied breaks; write prefers the path only when the state is a
+    #    plain single selection, because a path that drops half the state is
+    #    worse than an ugly URL that keeps it.
+    s, o = must_replace(s, "let urlSyncable = true;",
+        L0_DEEPLINK_JS + "let urlSyncable = true;",
+        "deep link helpers", 1); ok &= o
+    s, o = must_replace(s,
+        "  const s = q.toString();\n"
+        "  try {\n"
+        "    history.replaceState(null, \'\', s ? \'?\' + s : location.pathname);",
+        "  const s = q.toString();\n"
+        "  /* The plain single-selection case, and only that one. */\n"
+        "  const bare = S.sel && S.view === \'NETWORK\' && !S.query && !S.path\n"
+        "    && S.hops === 1 && !S.filters.size && S.tab === \'DOSSIER\'\n"
+        "    && S.edgeTypes.size === ALL_EDGE_TYPES.length;\n"
+        "  try {\n"
+        "    history.replaceState(null, \'\',\n"
+        "      bare ? \'/node/\' + encodeURIComponent(S.sel)\n"
+        "           : (s ? \'/?\' + s : \'/\'));",
+        "writeUrl emits a path for a bare selection", 1); ok &= o
+    s, o = must_replace(s,
+        "  const p = q.get(\'p\');\n"
+        "  if (p && p.includes(\'>\')){\n"
+        "    const [a,b] = p.split(\'>\');\n"
+        "    if (NODES.some(n=>n.id===a) && NODES.some(n=>n.id===b)) S.path = computePath(a,b,4);\n"
+        "  }\n"
+        "  urlLock = false;",
+        "  const p = q.get(\'p\');\n"
+        "  if (p && p.includes(\'>\')){\n"
+        "    const [a,b] = p.split(\'>\');\n"
+        "    if (NODES.some(n=>n.id===a) && NODES.some(n=>n.id===b)) S.path = computePath(a,b,4);\n"
+        "  }\n"
+        "  /* A path segment is more explicit than a query param, so it wins. */\n"
+        "  const R = l0ReadPath();\n"
+        "  if (R){\n"
+        "    if (R.kind === \'path\'){\n"
+        "      if (NODES.some(n=>n.id===R.from) && NODES.some(n=>n.id===R.to))\n"
+        "        S.path = computePath(R.from, R.to, 4);\n"
+        "    } else if (R.kind === \'node\'){\n"
+        "      if (NODES.some(n=>n.id===R.value)){ S.sel = R.value; S.view = \'NETWORK\'; }\n"
+        "    } else if (R.kind === \'q\'){\n"
+        "      S.query = R.value; S.view = \'SEARCH\';\n"
+        "    } else {\n"
+        "      /* band: and era: are search filters, so route them through the grammar\n"
+        "         rather than inventing a second way to express the same thing. */\n"
+        "      S.query = R.kind + \':\' + R.value; S.view = \'SEARCH\';\n"
+        "    }\n"
+        "  }\n"
+        "  urlLock = false;",
+        "readUrl accepts path segments", 1); ok &= o
+    # -- THE ANALYST, VIA THE WORKER. The board called api.anthropic.com straight
+    #    from the browser with the reader's own key in localStorage, which is right
+    #    for a file you double-click and wrong for a URL you send to someone: none
+    #    of them has a Console key, so every one of them gets the scripted branches
+    #    and the line "no API key configured".
+    #
+    #    So: a reader's own key still wins where they have set one, because it is
+    #    their key and their choice. Otherwise the board asks the same origin, and
+    #    only falls back to scripted replies when there is no endpoint either.
+    s, o = must_replace(s,
+        "  const key = store.get('program.apiKey');\n"
+        "  if (!key){ scriptedReply(text); return; }",
+        "  const key = store.get('program.apiKey');\n"
+        "  if (!key && !S.analystEndpoint){ scriptedReply(text); return; }",
+        "analyst falls back to scripted only when there is no endpoint either", 1); ok &= o
+    s, o = must_replace(s,
+        "    const r = await fetch('https://api.anthropic.com/v1/messages', {\n"
+        "      method:'POST',\n"
+        "      headers:{ 'content-type':'application/json', 'x-api-key':key,\n"
+        "                'anthropic-version':'2023-06-01', "
+        "'anthropic-dangerous-direct-browser-access':'true' },\n"
+        "      body: JSON.stringify(body),\n"
+        "    });",
+        "    /* The Worker pins the model, the ceiling and the effort itself, so it\n"
+        "       is sent only what it needs and cannot be talked into more. */\n"
+        "    const viaWorker = !key && S.analystEndpoint;\n"
+        "    const r = viaWorker\n"
+        "      ? await fetch(S.analystEndpoint, {\n"
+        "          method:'POST',\n"
+        "          headers:{ 'content-type':'application/json' },\n"
+        "          body: JSON.stringify({ system: body.system, messages: body.messages }),\n"
+        "        })\n"
+        "      : await fetch('https://api.anthropic.com/v1/messages', {\n"
+        "          method:'POST',\n"
+        "          headers:{ 'content-type':'application/json', 'x-api-key':key,\n"
+        "                    'anthropic-version':'2023-06-01', "
+        "'anthropic-dangerous-direct-browser-access':'true' },\n"
+        "          body: JSON.stringify(body),\n"
+        "        });",
+        "analyst routes through the Worker when the reader has no key", 1); ok &= o
+    # discover the endpoint once, on load, so the status line tells the truth
+    s, o = must_replace(s,
+        "S.hasKey = !!store.get('program.apiKey');",
+        "S.hasKey = !!store.get('program.apiKey');\n"
+        "/* Ask once whether this deployment has a live analyst. A file opened from\n"
+        "   disk has no origin to ask, so this fails fast and the board keeps its\n"
+        "   scripted behaviour -- the offline artifact must never regress. */\n"
+        "S.analystEndpoint = null;\n"
+        "if (location.protocol === 'http:' || location.protocol === 'https:'){\n"
+        "  fetch('/api/analyst/health').then(r => r.ok ? r.json() : null).then(j => {\n"
+        "    if (j && j.live){ S.analystEndpoint = '/api/analyst';\n"
+        "      if (typeof renderAnalystChrome === 'function') renderAnalystChrome(); }\n"
+        "  }).catch(() => {});\n"
+        "}",
+        "discover the analyst endpoint on load", 1); ok &= o
+    s, o = must_replace(s,
+        "    st.textContent = 'no API key configured -- running scripted replies. "
+        "The dashboard stays fully usable by hand.';",
+        "    st.textContent = S.analystEndpoint\n"
+        "      ? 'analyst live on this deployment. No key needed.'\n"
+        "      : 'no API key configured -- running scripted replies. "
+        "The dashboard stays fully usable by hand.';",
+        "status line reflects a live endpoint", 1); ok &= o
     return s, ok
 
 
@@ -1210,6 +2406,19 @@ L0_CSS2 = """
   border-left:2px solid #5ed4e6;font:400 11px/1.65 'IBM Plex Mono',monospace;
   color:#dfe4ea}
 .edoss .roles{display:flex;flex-wrap:wrap;gap:4px;margin:0 0 10px}
+/* The image block. A portrait crops to a circle; a MARK does not -- it is
+   contain-fitted in a square with a hairline, because an institutional seal
+   cropped to a circle is a different mark and several carry statutory
+   restrictions on alteration stricter than copyright. Same rule as the chip. */
+.edoss .edossimg{margin:0 0 12px;display:flex;align-items:flex-start;gap:10px}
+.edoss .edossimg img{width:72px;height:72px;flex:0 0 72px;object-fit:cover;
+  border-radius:50%;border:1px solid #333c47;background:#141920}
+.edoss .edossimg.mark img{object-fit:contain;border-radius:2px;padding:4px}
+.edoss .edossimg figcaption{font:400 9px/1.55 'IBM Plex Mono',monospace;
+  color:#8d97a4;letter-spacing:.04em;padding-top:2px}
+.edoss .edossimg .ask{margin-top:6px;padding:6px 8px;border:1px solid #4a3c1c;
+  background:#1a1710;font:400 9.5px/1.6 'IBM Plex Mono',monospace;color:#c9b880}
+.edoss .edossimg .ask .eyebrow{color:#efb555}
 .edoss .role{padding:2px 6px;border:1px solid #333c47;color:#8d97a4;
   font:500 8.5px/1.5 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase}
 .edoss .narr{font:400 11.5px/1.75 'IBM Plex Mono',monospace;color:#b9c2cd;
@@ -1283,7 +2492,10 @@ function renderAuthority(id){
     + '<span class="ins">' + a.instruments.map(esc).join(' · ') + '</span>'
     + (thin ? '<span class="thin">Public UAP record: '
         + (p.connections||0) + ' connection(s), ' + (p.denialsIssued||0)
-        + ' denial(s) issued. This office could answer from position alone, and the '
+        + ' denial(s) issued on the record'
+        + ((p.denialsUndirected||0) ? ' and ' + p.denialsUndirected
+             + ' denial link(s) whose direction is not attested' : '')
+        + '. This office could answer from position alone, and the '
         + 'record is nearly empty. That absence is the finding, not a low score.</span>' : '')
     + '</div>';
 }
@@ -1294,6 +2506,22 @@ function renderEntityDossier(id){
   if (!d) return '<div class="edoss">' + renderAuthority(id) + renderConnections(id) + '</div>';
   const T = t => '<span class="t t'+t+'">TIER '+t+'</span>';
   let h = '<div class="edoss">' + renderAuthority(id);
+  /* The image, and everything the reader is owed about it. Credit is not optional
+     decoration -- it is the attribution the licence is conditional on. And an `ask`
+     image ships with the specific reason it is ambiguous, printed here rather than
+     dropped, so the doubt travels with the picture instead of being resolved
+     silently in its favour. The chip carries an amber ring for the same state; this
+     is where the sentence lives. */
+  if (n && n.photo){
+    h += '<figure class="edossimg' + (n.photoKind === 'mark' ? ' mark' : '') + '">'
+       + '<img src="' + esc(n.photo) + '" alt="' + esc(n.label || id) + '">'
+       + (n.photoCredit ? '<figcaption>' + esc(n.photoCredit) + '</figcaption>' : '')
+       + (n.photoClearance === 'ask'
+            ? '<div class="ask"><span class="eyebrow">CLEARANCE: ASK</span><br>'
+              + esc(n.photoNote || 'clearance ambiguous') + '</div>'
+            : '')
+       + '</figure>';
+  }
   if (d.whatItIs) h += '<div class="narr">'+esc(d.whatItIs)+'</div>';
   if (d.whyImplicated) h += '<div class="why">'+esc(d.whyImplicated)+'</div>';
   if (d.roles && d.roles.length)

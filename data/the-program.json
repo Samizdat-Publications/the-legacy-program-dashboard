@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25",
+ "generated": "2026-08-26",
  "people": [
   {
    "id": "harry-reid",
@@ -80757,7 +80757,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia-sap-denial-memo-2009"
   },
   {
    "a": "james-clapper",
@@ -80777,7 +80779,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "james-clapper"
   },
   {
    "a": "depsecdef-sap-packet-2009",
@@ -80797,7 +80801,8 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "william-lynn",
@@ -80817,7 +80822,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "william-lynn"
   },
   {
    "a": "depsecdef-sap-packet-2009",
@@ -80930,7 +80937,9 @@
     "aawsap-aatip",
     "elizondo-ttsa",
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "susan-gough",
@@ -80950,7 +80959,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "brian-jenkins-dia",
@@ -81172,7 +81183,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -81360,7 +81373,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia"
   },
   {
    "a": "dia",
@@ -81385,7 +81400,9 @@
    ],
    "_domains": [
     "aawsap-aatip"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia"
   },
   {
    "a": "dia",
@@ -82153,7 +82170,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "ryan-graves",
@@ -82536,7 +82555,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sean-kirkpatrick"
   },
   {
    "a": "shootdowns-feb-2023",
@@ -82671,7 +82692,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "nj-drone-incursions-2024",
@@ -82831,7 +82854,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "jon-kosloski"
   },
   {
    "a": "jon-kosloski",
@@ -83271,7 +83296,8 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "david-spergel",
@@ -83356,7 +83382,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nicola-fox"
   },
   {
    "a": "mark-mcinerney",
@@ -83537,7 +83565,8 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "pursue-releases",
@@ -84208,7 +84237,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "dod",
@@ -84233,7 +84264,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "sap-readin-gate",
@@ -84298,7 +84331,8 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "dod",
@@ -84318,7 +84352,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "dod",
@@ -84338,7 +84374,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "dod",
@@ -84358,7 +84396,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "aaro",
@@ -84378,7 +84418,8 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "sean-kirkpatrick",
@@ -84398,7 +84439,8 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "dod",
@@ -84418,7 +84460,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "glenn-grothman",
@@ -85240,7 +85284,9 @@
    ],
    "_domains": [
     "congress-house"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mitre-corporation"
   },
   {
    "a": "matt-gaetz",
@@ -86664,7 +86710,9 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mike-turner"
   },
   {
    "a": "mike-turner",
@@ -86689,7 +86737,9 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mike-turner"
   },
   {
    "a": "mike-rogers-al",
@@ -86709,7 +86759,9 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mike-rogers-al"
   },
   {
    "a": "mitch-mcconnell",
@@ -86729,7 +86781,9 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mitch-mcconnell"
   },
   {
    "a": "daniel-sheehan",
@@ -86809,7 +86863,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "mike-rounds",
@@ -86884,7 +86939,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "kirsten-gillibrand",
@@ -87194,7 +87250,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "uap-records-collection-rg615",
@@ -87319,7 +87376,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "ndaa-fy2026",
@@ -87504,7 +87562,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "house-armed-services",
@@ -87739,7 +87798,8 @@
    ],
    "_domains": [
     "congress-senate-legislation"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "controlled-disclosure-campaign-plan",
@@ -87974,7 +88034,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "garry-reid-memo-2017"
   },
   {
    "a": "garry-reid-memo-2017",
@@ -88518,7 +88580,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "joseph-gradisher"
   },
   {
    "a": "dod-video-release-2020",
@@ -88578,7 +88642,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "christopher-sherwood"
   },
   {
    "a": "neill-tipton",
@@ -88598,7 +88664,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "neill-tipton"
   },
   {
    "a": "neill-tipton",
@@ -88658,7 +88726,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "susan-gough",
@@ -88678,7 +88748,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "susan-gough",
@@ -89119,7 +89191,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "ccdc-gvsc"
   },
   {
    "a": "luis-elizondo",
@@ -89299,7 +89373,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -89319,7 +89395,9 @@
    ],
    "_domains": [
     "elizondo-ttsa"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "luis-elizondo",
@@ -89766,7 +89844,9 @@
    ],
    "_domains": [
     "ffrdcs"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mitre-corporation"
   },
   {
    "a": "mark-peters",
@@ -90346,7 +90426,8 @@
    ],
    "_domains": [
     "ffrdcs"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "jacques-vallee",
@@ -90521,7 +90602,8 @@
    ],
    "_domains": [
     "ffrdcs"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "sean-kirkpatrick",
@@ -91660,7 +91742,9 @@
    "_domains": [
     "grusch",
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sean-kirkpatrick"
   },
   {
    "a": "susan-gough",
@@ -91686,7 +91770,9 @@
    "_domains": [
     "grusch",
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "susan-gough",
@@ -91706,7 +91792,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "aaro",
@@ -91788,7 +91876,9 @@
     "grusch",
     "history-1940s-1960s",
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "pat-ryder",
@@ -91808,7 +91898,8 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -91853,7 +91944,8 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "mark-milley",
@@ -91873,7 +91965,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mark-milley"
   },
   {
    "a": "ken-klippenstein",
@@ -91943,7 +92037,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nancy-mace"
   },
   {
    "a": "eli-crane",
@@ -91983,7 +92079,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "david-grusch",
@@ -92163,7 +92261,8 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "david-grusch",
@@ -92208,7 +92307,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia"
   },
   {
    "a": "task-force-declassification",
@@ -92409,7 +92510,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "david-grusch"
   },
   {
    "a": "david-grusch",
@@ -92764,7 +92867,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "hoyt-vandenberg"
   },
   {
    "a": "estimate-of-the-situation",
@@ -92949,7 +93054,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "roger-ramey"
   },
   {
    "a": "roger-ramey",
@@ -92994,7 +93101,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "usaf-roswell-reports"
   },
   {
    "a": "steven-schiff",
@@ -93850,7 +93959,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "project-blue-book"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -93870,7 +93981,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -93895,7 +94008,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -93915,7 +94030,9 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "rg-615-uap-records",
@@ -94200,7 +94317,8 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "hoyt-vandenberg",
@@ -94315,7 +94433,8 @@
    ],
    "_domains": [
     "history-1940s-1960s"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "charles-halt",
@@ -94525,7 +94644,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "sac-overflights-1975",
@@ -94645,7 +94766,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "project-moon-dust",
@@ -94745,7 +94868,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "paul-bennewitz",
@@ -95025,7 +95150,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "richard-doty",
@@ -95086,7 +95213,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "caus",
@@ -95181,7 +95310,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "yeates-affidavit"
   },
   {
    "a": "john-greenewald",
@@ -95836,7 +95967,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "thomas-wilson"
   },
   {
    "a": "wilson-davis-memo",
@@ -95906,7 +96039,9 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "cia-haines-1997",
@@ -95926,7 +96061,8 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "cia-haines-1997",
@@ -95966,7 +96102,8 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "cia-haines-1997",
@@ -96047,7 +96184,9 @@
    "_domains": [
     "history-1970s-2000s",
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "afosi"
   },
   {
    "a": "yankee-blue",
@@ -96072,7 +96211,8 @@
    ],
    "_domains": [
     "history-1970s-2000s"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "jesse-michels",
@@ -96737,7 +96877,9 @@
    ],
    "_domains": [
     "media-structure"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "cia"
   },
   {
    "a": "rob-jones",
@@ -97941,7 +98083,8 @@
    "_domains": [
     "media-structure",
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "ffrdc-mechanism",
@@ -98016,7 +98159,9 @@
    ],
    "_domains": [
     "media-structure"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nyt-2017-12-16"
   },
   {
    "a": "gerb-mitre-investigation",
@@ -98036,7 +98181,9 @@
    ],
    "_domains": [
     "media-structure"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "mitre-corporation"
   },
   {
    "a": "uap-science-advisory-council",
@@ -98056,7 +98203,8 @@
    ],
    "_domains": [
     "media-structure"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "manhattan-project-2",
@@ -98076,7 +98224,8 @@
    ],
    "_domains": [
     "media-structure"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "jesse-michels",
@@ -98216,7 +98365,9 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "cia"
   },
   {
    "a": "george-knapp",
@@ -98676,7 +98827,9 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "groom-lake-presidential-determination"
   },
   {
    "a": "richard-damato",
@@ -98831,7 +98984,8 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "battelle",
@@ -99226,7 +99380,9 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "lockheed-martin"
   },
   {
    "a": "jon-kosloski",
@@ -99288,7 +99444,9 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "aaro-metallic-specimen-analysis",
@@ -99308,7 +99466,9 @@
    ],
    "_domains": [
     "primes-custody"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-metallic-specimen-analysis"
   },
   {
    "a": "anna-paulina-luna",
@@ -100323,7 +100483,8 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "anna-paulina-luna",
@@ -100473,7 +100634,8 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "jon-kosloski",
@@ -100499,7 +100661,9 @@
    "_domains": [
     "releases-2023-2026",
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "jon-kosloski"
   },
   {
    "a": "aaro",
@@ -100607,7 +100771,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "aaro-fy2024-annual-report",
@@ -100632,7 +100798,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2024-annual-report"
   },
   {
    "a": "aaro",
@@ -100677,7 +100845,8 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "aaro",
@@ -100817,7 +100986,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "aaro-historical-record-vol1",
@@ -100974,7 +101145,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "immaculate-constellation-12-page-report",
@@ -101024,7 +101197,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "sue-gough",
@@ -101049,7 +101224,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sue-gough"
   },
   {
    "a": "sean-kirkpatrick",
@@ -101074,7 +101251,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sean-kirkpatrick"
   },
   {
    "a": "luis-elizondo",
@@ -101424,7 +101603,9 @@
    ],
    "_domains": [
     "releases-2023-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2024-annual-report"
   },
   {
    "a": "pursue-releases",
@@ -102406,7 +102587,8 @@
    ],
    "_domains": [
     "scientists-technical"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "matthew-szydagis",
@@ -103042,7 +103224,9 @@
    ],
    "_domains": [
     "scientists-technical"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nasa-uapist"
   },
   {
    "a": "nasa-uapist",
@@ -103830,7 +104014,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-historical-record-vol1"
   },
   {
    "a": "yankee-blue",
@@ -103900,7 +104086,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "yankee-blue",
@@ -104005,7 +104193,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-grusch-interview-memo-2024"
   },
   {
    "a": "sean-kirkpatrick",
@@ -104045,7 +104235,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "kirkpatrick-sciam-oped-2024"
   },
   {
    "a": "kirkpatrick-sciam-oped-2024",
@@ -104065,7 +104257,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "kirkpatrick-sciam-oped-2024"
   },
   {
    "a": "kirkpatrick-sciam-oped-2024",
@@ -104220,7 +104414,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "hearing-2024-11-19"
   },
   {
    "a": "jon-kosloski",
@@ -104636,7 +104832,9 @@
    "_domains": [
     "uaptf-aaro",
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro"
   },
   {
    "a": "aaro-historical-record-vol2",
@@ -104661,7 +104859,9 @@
    ],
    "_domains": [
     "uaptf-aaro"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro"
   },
   {
    "a": "aaro",
@@ -105831,7 +106031,8 @@
    "_domains": [
     "w10-collapse",
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "carve-out",
@@ -105921,7 +106122,8 @@
    "_domains": [
     "w10-collapse",
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "david-grusch",
@@ -105942,7 +106144,8 @@
    "_domains": [
     "w10-collapse",
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "nip",
@@ -109133,7 +109336,9 @@
    "_domains": [
     "w12-dird-author-edges",
     "w7-dirds-2"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "jason-advisory-group"
   },
   {
    "a": "dird-concepts-for-extracting-energy-from-the",
@@ -112192,7 +112397,9 @@
    "_domains": [
     "w12-dod-house-sources",
     "w6-international"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "vanderbilt-university",
@@ -116040,7 +116247,8 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "odni-memo-es-2026-00818",
@@ -116916,7 +117124,9 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "cia"
   },
   {
    "a": "odni-memo-es-2026-00818",
@@ -116941,7 +117151,9 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia"
   },
   {
    "a": "odni-memo-es-2026-00818",
@@ -116966,7 +117178,9 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nro"
   },
   {
    "a": "odni-memo-es-2026-00818",
@@ -116991,7 +117205,9 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "doe"
   },
   {
    "a": "dod-sapco",
@@ -117246,7 +117462,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "james-clapper"
   },
   {
    "a": "dhs-st",
@@ -117306,7 +117524,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dhs"
   },
   {
    "a": "kona-blue",
@@ -117556,7 +117776,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "doe"
   },
   {
    "a": "afosi",
@@ -117856,7 +118078,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nsa"
   },
   {
    "a": "eugene-yeates",
@@ -118221,7 +118445,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dod"
   },
   {
    "a": "us-house",
@@ -118466,7 +118692,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nga"
   },
   {
    "a": "ousdi",
@@ -118566,7 +118794,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dia"
   },
   {
    "a": "cia",
@@ -118586,7 +118816,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "cia"
   },
   {
    "a": "nsa",
@@ -118606,7 +118838,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nsa"
   },
   {
    "a": "nro",
@@ -118626,7 +118860,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "nro"
   },
   {
    "a": "dhs",
@@ -118646,7 +118882,9 @@
    ],
    "_domains": [
     "w2-agencies"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dhs"
   },
   {
    "a": "us-senate",
@@ -119776,7 +120014,9 @@
    ],
    "_domains": [
     "w2-black-budget"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro"
   },
   {
    "a": "dod",
@@ -119941,7 +120181,8 @@
    ],
    "_domains": [
     "w2-international"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "david-clarke-uk",
@@ -120146,7 +120387,9 @@
    ],
    "_domains": [
     "w2-international"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "uk-mod"
   },
   {
    "a": "doc-condign-vol3",
@@ -120551,7 +120794,9 @@
    ],
    "_domains": [
     "w2-international"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "otavio-moreira-lima"
   },
   {
    "a": "pessoa-cavalcanti",
@@ -121143,7 +121388,9 @@
    ],
    "_domains": [
     "w2-international"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro"
   },
   {
    "a": "geipan",
@@ -121338,7 +121585,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "bolender-memo"
   },
   {
    "a": "paul-bennewitz",
@@ -121563,7 +121812,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "roger-ramey"
   },
   {
    "a": "jesse-marcel",
@@ -121603,7 +121854,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "project-mogul"
   },
   {
    "a": "l-roswell",
@@ -122143,7 +122396,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "luis-elizondo"
   },
   {
    "a": "susan-gough",
@@ -122163,7 +122418,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "susan-gough"
   },
   {
    "a": "sean-kirkpatrick",
@@ -122183,7 +122440,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sean-kirkpatrick"
   },
   {
    "a": "immaculate-constellation",
@@ -122493,7 +122752,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "low-memo"
   },
   {
    "a": "condon-committee",
@@ -122513,7 +122774,9 @@
    ],
    "_domains": [
     "w2-places-events"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "condon-committee"
   },
   {
    "a": "jeffrey-nuccetelli",
@@ -123188,7 +123451,9 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "roswell-report-case-closed"
   },
   {
    "a": "jim-ragsdale",
@@ -123208,7 +123473,9 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "roswell-report-case-closed"
   },
   {
    "a": "gerald-anderson",
@@ -123408,7 +123675,9 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "richard-weaver-usaf"
   },
   {
    "a": "roswell-report-case-closed",
@@ -123428,7 +123697,9 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "roswell-report-case-closed"
   },
   {
    "a": "stan-gordon",
@@ -123593,7 +123864,8 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "john-schuessler",
@@ -123873,7 +124145,9 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "project-blue-book"
   },
   {
    "a": "william-l-moore",
@@ -123933,7 +124207,8 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "stanton-friedman",
@@ -123953,7 +124228,8 @@
    ],
    "_domains": [
     "w2-retrieval-literature"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "leonard-stringfield",
@@ -124418,7 +124694,8 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "dcsa-nisp",
@@ -124498,7 +124775,9 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "dodd-5205-07-2024"
   },
   {
    "a": "dodi-5205-11",
@@ -124708,7 +124987,8 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "sap-cover-mechanisms",
@@ -124773,7 +125053,8 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "icd-906",
@@ -124973,7 +125254,8 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "four-regime-map",
@@ -125423,7 +125705,8 @@
    ],
    "_domains": [
     "w2-sap-architecture"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "grusch-icig-complaint",
@@ -125738,7 +126021,8 @@
    ],
    "_domains": [
     "w2-taxonomy"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "d-coverup",
@@ -126218,7 +126502,8 @@
    ],
    "_domains": [
     "w2-taxonomy"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "d-contracting",
@@ -126358,7 +126643,8 @@
    ],
    "_domains": [
     "w2-taxonomy"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "d-research",
@@ -126563,7 +126849,8 @@
    ],
    "_domains": [
     "w2-taxonomy"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "d-signals",
@@ -126708,7 +126995,8 @@
    ],
    "_domains": [
     "w2-taxonomy"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "d-signals",
@@ -127570,7 +127858,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "aaro-fy2025-annual-report",
@@ -127590,7 +127880,9 @@
    ],
    "_domains": [
     "aviators-incidents"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "ndaa26-uap-provisions",
@@ -127652,7 +127944,9 @@
    ],
    "_domains": [
     "grusch"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "sean-kirkpatrick"
   },
   {
    "a": "kirkpatrick-sciam-oped-2024",
@@ -128208,7 +128502,9 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "directed",
+   "denier": "aaro-fy2025-annual-report"
   },
   {
    "a": "blackvault-pursue-archive",
@@ -128253,7 +128549,8 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "undirected"
   },
   {
    "a": "uap-science-advisory-council",
@@ -128463,7 +128760,8 @@
    ],
    "_domains": [
     "w2-2025-2026"
-   ]
+   ],
+   "denialKind": "association"
   },
   {
    "a": "ndaa-fy2024-1687",

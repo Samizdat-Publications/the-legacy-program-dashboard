@@ -1,5 +1,14 @@
 # The packed-cell layout: what is done, what is left, and what I cannot verify
 
+> **SUPERSEDED IN PART, 26 August 2026. Its "cannot verify" premise is false.**
+> This note's cost argument rests on a cloud session being unable to see the rendered
+> board. It can: Chromium is installed and `page.screenshot()` writes a PNG a session can
+> open. `tools/look.js` does it, `notes/LOOKING-2026-08-26.md` is the record, and the
+> first look found four defects — two of which this note's table listed as unreachable.
+> The layout description below is still accurate. The table of properties with "nothing
+> here" in the second column is not. Read it as record.
+
+
 **25 August 2026.** `CLAUDE.md` §9 item 5 is the biggest open piece of work. This is the
 cost analysis, done rather than guessed. **I did not build it**, and the last section says
 why that was the right call for an unattended session rather than caution for its own sake.

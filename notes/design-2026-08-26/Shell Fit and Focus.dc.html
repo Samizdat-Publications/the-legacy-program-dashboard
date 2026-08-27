@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  html,body{margin:0;padding:0;background:#0f1216;overflow:hidden}
+  *{box-sizing:border-box}
+  a{color:#5ed4e6;text-decoration:none;border-bottom:1px solid #1d242b}
+  a:hover{color:#e6e9ee;border-bottom-color:#333c47}
+  ::selection{background:#1a2027;color:#e6e9ee}
+  @keyframes shArrive{0%{outline-color:rgba(239,181,85,0)}18%{outline-color:rgba(239,181,85,1)}100%{outline-color:rgba(239,181,85,.55)}}
+  @keyframes shTether{0%{stroke-dashoffset:1200}100%{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important;transition:none !important}}
+</style>
+<script src="data/l0-layout-model.js"></script>
+</helmet>
+
+<div style="height:100vh;display:flex;flex-direction:column;background:#0f1216;color:#e6e9ee;font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:12px;line-height:1.5;overflow:hidden">
+
+  <div style="flex:none;display:flex;align-items:center;gap:13px;padding:8px 16px;border-bottom:1px solid #262e36;background:#0d1014">
+    <div style="font-size:12.5px;font-weight:600;white-space:nowrap">THE PROGRAM <span style="color:#4f5964">/</span> SHELL STUDY</div>
+    <div style="font-size:8.5px;letter-spacing:.13em;color:#5ed4e6;white-space:nowrap">FIT &middot; FOCUS &middot; OCCLUSION</div>
+    <div style="flex:1"></div>
+    <div style="{{ autoStyle }}">{{ fitNote }}</div>
+    <div onClick="{{ fitVisible }}" style="{{ fitVisStyle }}"><span style="font-size:8.5px;letter-spacing:.13em">FIT ROOM</span><span style="{{ fitVisNum }}">{{ fitVisLabel }}</span></div>
+    <div onClick="{{ fitWhole }}" style="{{ fitWholeStyle }}"><span style="font-size:8.5px;letter-spacing:.13em">FIT ALL</span><span style="{{ fitWholeNum }}">{{ fitWholeLabel }}</span></div>
+    <div style="{{ stateLineStyle }}">{{ stateLine }}</div>
+  </div>
+
+  <div ref="{{ shellRef }}" style="flex:1;position:relative;display:flex;overflow:hidden;min-height:0">
+
+    <div style="{{ railStyle }}">
+      <div onClick="{{ toggleRail }}" style="height:34px;flex:none;display:flex;align-items:center;justify-content:center;cursor:pointer;border-bottom:1px solid #1d242b;color:#5c6672;font-size:11px">{{ railGlyph }}</div>
+      <sc-for list="{{ railRows }}" as="r" hint-placeholder-count="7">
+        <div style="{{ r.style }}">{{ r.text }}</div>
+      </sc-for>
+      <div style="flex:1"></div>
+      <div style="{{ railFootStyle }}">{{ railFoot }}</div>
+    </div>
+
+    <div style="{{ canvasStyle }}" onMouseDown="{{ onDown }}" onWheel="{{ onWheel }}">
+
+      <div style="{{ worldStyle }}">
+        <sc-for list="{{ bandRows }}" as="b" hint-placeholder-count="7">
+          <div style="{{ b.stripe }}"></div>
+        </sc-for>
+        <sc-for list="{{ bandRows }}" as="b" hint-placeholder-count="7">
+          <div style="{{ b.labelStyle }}"><span style="{{ b.nameStyle }}">{{ b.name }}</span><span style="{{ b.countStyle }}">{{ b.count }}</span></div>
+        </sc-for>
+        <sc-for list="{{ eraCols }}" as="e" hint-placeholder-count="5">
+          <div style="{{ e.rule }}"></div>
+        </sc-for>
+        <sc-for list="{{ eraCols }}" as="e" hint-placeholder-count="5">
+          <div style="{{ e.headStyle }}"><span style="{{ e.labelStyle }}">{{ e.label }}</span><span style="{{ e.noteStyle }}">{{ e.note }}</span></div>
+        </sc-for>
+
+        <sc-if value="{{ dense }}" hint-placeholder-val="{{ false }}">
+          <sc-for list="{{ cells }}" as="c" hint-placeholder-count="12">
+            <div style="{{ c.box }}"><span style="{{ c.numStyle }}">{{ c.n }}</span></div>
+          </sc-for>
+        </sc-if>
+
+        <sc-if value="{{ showChips }}" hint-placeholder-val="{{ true }}">
+          <sc-for list="{{ chips }}" as="c" hint-placeholder-count="40">
+            <div onClick="{{ c.pick }}" title="{{ c.title }}" style="{{ c.box }}"><span style="{{ c.ruleStyle }}"></span><span style="{{ c.glyphStyle }}">{{ c.glyph }}</span><span style="{{ c.labelStyle }}">{{ c.label }}</span></div>
+          </sc-for>
+        </sc-if>
+
+        <sc-if value="{{ hasWires }}" hint-placeholder-val="{{ false }}">
+          <svg viewBox="{{ svgBox }}" style="{{ svgStyle }}">
+            <sc-for list="{{ wires }}" as="w" hint-placeholder-count="6">
+              <path d="{{ w.d }}" fill="none" stroke="{{ w.stroke }}" stroke-width="{{ w.sw }}" stroke-dasharray="{{ w.dash }}"></path>
+            </sc-for>
+          </svg>
+        </sc-if>
+      </div>
+
+
+      <sc-if value="{{ hasSel }}" hint-placeholder-val="{{ false }}">
+        <div style="{{ selBarStyle }}">
+          <span style="{{ selRuleStyle }}"></span>
+          <span style="font-size:11px;color:#e6e9ee;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:38ch">{{ selShort }}</span>
+          <span style="font-size:9px;letter-spacing:.1em;color:#5c6672;white-space:nowrap">{{ selMeta }}</span>
+          <div style="flex:1"></div>
+          <div onClick="{{ doFocus }}" style="{{ focusBtnStyle }}">{{ focusBtnLabel }}</div>
+          <div onClick="{{ clear }}" style="padding:5px 9px;border:1px solid #1d242b;color:#5c6672;font-size:8.5px;letter-spacing:.12em;cursor:pointer;white-space:nowrap">CLEAR &nbsp;ESC</div>
+        </div>
+      </sc-if>
+    </div>
+
+    <div style="{{ dossStyle }}">
+      <sc-if value="{{ dossSpine }}" hint-placeholder-val="{{ false }}">
+        <div onClick="{{ restore }}" style="width:30px;height:100%;flex:none;display:flex;align-items:center;justify-content:center;cursor:pointer;border-left:1px solid #262e36;background:#0d1014">
+          <div style="writing-mode:vertical-rl;font-size:8.5px;letter-spacing:.14em;color:#5c6672;white-space:nowrap;overflow:hidden;max-height:80%">{{ spineLabel }}</div>
+        </div>
+      </sc-if>
+      <sc-if value="{{ dossOpen }}" hint-placeholder-val="{{ false }}">
+        <div style="width:100%;height:100%;overflow:auto;border-left:1px solid #262e36;background:#0d1014">
+          <div style="padding:16px 20px 12px;border-bottom:1px solid #1d242b">
+            <div style="display:flex;justify-content:space-between;gap:10px;align-items:flex-start">
+              <div style="font-size:8.5px;letter-spacing:.12em;color:#5c6672">{{ dossKicker }}</div>
+              <div onClick="{{ clear }}" style="cursor:pointer;color:#5c6672;font-size:11px;line-height:1">&times;</div>
+            </div>
+            <div style="font-size:14px;line-height:1.35;margin-top:9px;color:#e6e9ee">{{ dossTitle }}</div>
+            <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:11px">
+              <sc-for list="{{ dossRoles }}" as="r" hint-placeholder-count="3">
+                <div style="{{ r.style }}">{{ r.label }}</div>
+              </sc-for>
+            </div>
+          </div>
+          <div style="padding:14px 20px 16px;border-bottom:1px solid #1d242b;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 16px">
+            <sc-for list="{{ dossStats }}" as="s" hint-placeholder-count="6">
+              <div>
+                <div style="font-size:8px;letter-spacing:.12em;color:#4f5964">{{ s.k }}</div>
+                <div style="font-size:11.5px;color:#b9c2cd;margin-top:2px">{{ s.v }}</div>
+              </div>
+            </sc-for>
+          </div>
+          <div style="padding:16px 20px 20px">
+            <div style="font-size:8.5px;letter-spacing:.12em;color:#5c6672;margin-bottom:8px">WHY IT IS ON THE MAP</div>
+            <div style="color:#b9c2cd;font-size:11.5px;line-height:1.62">{{ dossWhy }}</div>
+            <div style="color:#4f5964;font-size:9px;margin-top:9px">{{ dossWhyNote }}</div>
+          </div>
+        </div>
+      </sc-if>
+    </div>
+
+    <sc-if value="{{ tetherOn }}" hint-placeholder-val="{{ false }}">
+      <svg style="position:absolute;inset:0;z-index:30;pointer-events:none" viewBox="{{ tetherBox }}">
+        <path d="{{ tetherD }}" fill="none" stroke="#efb555" stroke-width="1" stroke-dasharray="1200" style="animation:shTether 420ms cubic-bezier(.2,.7,.2,1) forwards"></path>
+        <circle cx="{{ tetherCx }}" cy="{{ tetherCy }}" r="3.5" fill="none" stroke="#efb555" stroke-width="1"></circle>
+      </svg>
+    </sc-if>
+
+    <sc-if value="{{ scrimOn }}" hint-placeholder-val="{{ false }}">
+      <div style="{{ scrimStyle }}"></div>
+    </sc-if>
+  </div>
+
+  <div style="flex:none;display:flex;align-items:stretch;gap:0;border-top:1px solid #262e36;background:#0d1014">
+    <div style="padding:9px 14px 9px 18px;font-size:8.5px;letter-spacing:.13em;color:#5c6672;white-space:nowrap;align-self:center">SHOW ON MAP DOES</div>
+    <sc-for list="{{ chorOpts }}" as="o" hint-placeholder-count="3">
+      <div onClick="{{ o.pick }}" style="{{ o.style }}">
+        <div style="font-size:9.5px;letter-spacing:.1em;color:{{ o.fg }}">{{ o.name }}</div>
+        <div style="font-size:9px;color:#5c6672;margin-top:3px;line-height:1.45">{{ o.desc }}</div>
+      </div>
+    </sc-for>
+    <div style="flex:1;padding:9px 18px 9px 14px;font-size:9px;color:#4f5964;align-self:center;text-align:right;line-height:1.6">{{ keyHint }}</div>
+  </div>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+/* Shell study — fit, focus, occlusion.
+   The map is drawn in SCREEN space rather than inside a CSS transform, so band
+   labels and era heads keep one type size at every zoom. That is the whole
+   reason the board can be fitted at 0.4x and still be read. */
+const MODEL = () => (window.L0_LAYOUT_MODEL || null);
+const G = { gutter: 148, head: 46 };
+const TIERC = { A: '#5ed4e6', B: '#efb555', C: '#8d97a4' };
+const CLSC = { institution:'#7f93a6', program:'#5ed4e6', event:'#e8a05f', legislation:'#a795e8', document:'#66d69f', person:'#c9d2dd', domain:'#7fb4e8', location:'#8d97a4' };
+const GLYPH = { institution:'I', program:'P', event:'E', legislation:'L', document:'D', person:'p', domain:'o', location:'x' };
+const DOSS_W = 392, SPINE_W = 30, RAIL_W = 176, RAIL_SPINE = 30, SELBAR = 44, TOPSTRIP = 30, LEFTGUT = 118;
+const VIEWS = [['Network map','110'],['Timeline','858'],['Geography','—'],['Case files','278'],['Analysis','—'],['The cover-up','174'],['Search','—'],['Report','—']];
+const CHOR = [
+  { key:'cede', name:'CEDE', desc:'Panels fold to labelled spines. The map re-fits to the room it just gained and the target arrives outlined. One click puts the reading back.' },
+  { key:'porthole', name:'PORTHOLE', desc:'Nothing moves but light. Layout holds, the board dims except a lens on the target, and the dim lifts on Esc.' },
+  { key:'tether', name:'TETHER', desc:'Camera only. The target is panned into the open slot and a hairline joins the dossier to the chip, so panel and board read as one object.' }
+];
+const ease = t => 1 - Math.pow(1 - t, 3);
+function fitLabel(s, n) {
+  s = s || '';
+  if (s.length <= n) return s;
+  const head = Math.max(6, Math.round(n * 0.62)), tail = Math.max(3, n - head - 1);
+  return s.slice(0, head) + '\u2026' + s.slice(s.length - tail);
+}
+
+class Component extends DCLogic {
+  state = { sw: 1280, sh: 640, k: 0.42, tx: 130, ty: 40, auto: true, fitMode: 'room',
+            sel: null, doss: 'closed', rail: true, chor: 'cede', scrim: false, tether: false,
+            pulse: 0, ready: false };
+
+  componentDidMount() {
+    window.__shell = this;
+    this._poll = setInterval(() => {
+      if (MODEL()) { clearInterval(this._poll); this.setState({ ready: true }, () => this.measure(true)); }
+    }, 60);
+    this._rs = () => this.measure();
+    window.addEventListener('resize', this._rs);
+    requestAnimationFrame(() => this.measure(true));
+    this._key = e => {
+      if (e.key === 'Escape') this.clear();
+      else if (e.key === 'f' || e.key === 'F') this.fitTo('room');
+      else if (e.key === 'a' || e.key === 'A') this.fitTo('whole');
+    };
+    this._mv = e => this.onMove(e);
+    this._up = () => { this._drag = null; };
+    window.addEventListener('keydown', this._key);
+    window.addEventListener('mousemove', this._mv);
+    window.addEventListener('mouseup', this._up);
+  }
+  componentWillUnmount() {
+    clearInterval(this._poll);
+    cancelAnimationFrame(this._raf);
+    window.removeEventListener('keydown', this._key);
+    window.removeEventListener('mousemove', this._mv);
+    window.removeEventListener('mouseup', this._up);
+    window.removeEventListener('resize', this._rs);
+    if (this._ro) this._ro.disconnect();
+  }
+
+  /* Measure, then fit. A fit computed against the class-field defaults is a fit to a
+     window that does not exist, so every path that can change the box calls this one. */
+  measure = refit => {
+    const el = this._shell; if (!el) return;
+    const r = el.getBoundingClientRect();
+    const sw = Math.round(r.width), sh = Math.round(r.height);
+    if (!sw || !sh) return;
+    if (sw === this.state.sw && sh === this.state.sh) { if (refit) this.reFit(true); return; }
+    this.setState({ sw, sh }, () => this.reFit(refit));
+  };
+  shellRef = el => {
+    if (!el || el === this._shell) return;
+    this._shell = el;
+    requestAnimationFrame(() => this.measure(true));
+    this._ro = new ResizeObserver(() => requestAnimationFrame(() => this.measure()));
+    this._ro.observe(el);
+  };
+
+  get D() { const m = MODEL(); return m ? m[m.default || 'current'] : null; }
+  get CW() { const d = this.D; return d ? d.worldW - G.gutter : 2052; }
+  get CH() { const d = this.D; return d ? d.worldH - G.head : 891; }
+
+  railW() { return this.state.rail ? RAIL_W : RAIL_SPINE; }
+  cvw() { return Math.max(240, this.state.sw - this.railW()); }
+  occR() { return this.state.doss === 'open' ? DOSS_W : (this.state.doss === 'spine' ? SPINE_W : 0); }
+  occB() { return this.state.sel ? SELBAR : 0; }
+  /* The room: what is left of the canvas once the panels have taken theirs. */
+  mapRect() {
+    return { x: LEFTGUT, y: TOPSTRIP,
+             w: Math.max(140, this.cvw() - LEFTGUT - this.occR() - 12),
+             h: Math.max(100, this.state.sh - TOPSTRIP - this.occB() - 12) };
+  }
+  allRect() {
+    return { x: LEFTGUT, y: TOPSTRIP,
+             w: Math.max(140, this.cvw() - LEFTGUT - 12),
+             h: Math.max(100, this.state.sh - TOPSTRIP - 12) };
+  }
+  camFor(mode) {
+    const r = mode === 'whole' ? this.allRect() : this.mapRect();
+    const k = Math.min(r.w / this.CW, r.h / this.CH);
+    return { k, tx: r.x + (r.w - this.CW * k) / 2 - G.gutter * k,
+                ty: r.y + (r.h - this.CH * k) / 2 - G.head * k };
+  }
+  clamp(c) {
+    const r = this.mapRect();
+    const x0 = c.tx + G.gutter * c.k, y0 = c.ty + G.head * c.k;
+    const w = this.CW * c.k, h = this.CH * c.k;
+    const padX = Math.min(r.w, w) * 0.5, padY = Math.min(r.h, h) * 0.5;
+    let dx = 0, dy = 0;
+    if (x0 > r.x + r.w - padX) dx = (r.x + r.w - padX) - x0;
+    if (x0 + w < r.x + padX) dx = (r.x + padX) - (x0 + w);
+    if (y0 > r.y + r.h - padY) dy = (r.y + r.h - padY) - y0;
+    if (y0 + h < r.y + padY) dy = (r.y + padY) - (y0 + h);
+    return { k: c.k, tx: c.tx + dx, ty: c.ty + dy };
+  }
+  animate(t, ms) {
+    cancelAnimationFrame(this._raf);
+    if (!ms) { this.setState(t); return; }
+    const s = { k: this.state.k, tx: this.state.tx, ty: this.state.ty }, t0 = performance.now();
+    const step = now => {
+      const p = Math.min(1, (now - t0) / ms), e = ease(p);
+      this.setState({ k: s.k + (t.k - s.k) * e, tx: s.tx + (t.tx - s.tx) * e, ty: s.ty + (t.ty - s.ty) * e });
+      if (p < 1) this._raf = requestAnimationFrame(step);
+    };
+    this._raf = requestAnimationFrame(step);
+  }
+  reFit(hard) { if (!this.state.auto && !hard) return; this.animate(this.camFor(this.state.fitMode), hard ? 0 : 300); }
+  fitTo = mode => { this.setState({ auto: true, fitMode: mode }); this.animate(this.camFor(mode), 460); };
+  fitVisible = () => this.fitTo('room');
+  fitWhole = () => this.fitTo('whole');
+
+  onDown = e => {
+    if (e.button !== 0) return;
+    this._drag = { x: e.clientX, y: e.clientY, tx: this.state.tx, ty: this.state.ty };
+  };
+  onMove(e) {
+    const d = this._drag; if (!d) return;
+    const dx = e.clientX - d.x, dy = e.clientY - d.y;
+    if (!d.moved && Math.abs(dx) + Math.abs(dy) < 3) return;
+    d.moved = true;
+    cancelAnimationFrame(this._raf);
+    this.setState(Object.assign({ auto: false }, this.clamp({ k: this.state.k, tx: d.tx + dx, ty: d.ty + dy })));
+  }
+  onWheel = e => {
+    const box = this._shell ? this._shell.getBoundingClientRect() : { left: 0, top: 0 };
+    const mx = e.clientX - box.left - this.railW(), my = e.clientY - box.top;
+    const k2 = Math.max(0.16, Math.min(2.4, this.state.k * Math.exp(-e.deltaY * 0.0014)));
+    const tx = mx - (mx - this.state.tx) * k2 / this.state.k;
+    const ty = my - (my - this.state.ty) * k2 / this.state.k;
+    cancelAnimationFrame(this._raf);
+    this.setState(Object.assign({ auto: false }, this.clamp({ k: k2, tx, ty })));
+  };
+
+  node(id) { const d = this.D; return d ? (d.nodes || []).find(n => n.id === id) : null; }
+  pulseNow() {
+    clearTimeout(this._pt);
+    this.setState({ pulse: 0 }, () => this.setState({ pulse: Date.now() }));
+    this._pt = setTimeout(() => this.setState({ pulse: 0 }), 1100);
+  }
+  centerOn(id, minK) {
+    const n = this.node(id); if (!n) return;
+    const r = this.mapRect(), k = Math.max(this.state.k, minK || 0);
+    this.animate(this.clamp({ k, tx: r.x + r.w / 2 - (n.x + n.w / 2) * k, ty: r.y + r.h / 2 - (n.y + n.h / 2) * k }), 460);
+  }
+  pick = n => () => this.setState({ sel: n.id, doss: 'open', auto: false, scrim: false, tether: false });
+  showOnMap = () => {
+    const id = this.state.sel; if (!id) return;
+    const c = this.state.chor;
+    if (c === 'cede') {
+      this.setState({ rail: false, doss: 'spine', scrim: false, tether: false }, () => {
+        this.animate(this.camFor('room'), 520); this.pulseNow();
+      });
+    } else if (c === 'porthole') {
+      this.setState({ scrim: true, tether: false }, () => { this.centerOn(id, 0.62); this.pulseNow(); });
+    } else {
+      this.setState({ scrim: false, tether: false }, () => {
+        this.centerOn(id, 0.5);
+        setTimeout(() => { this.setState({ tether: true }); this.pulseNow(); }, 220);
+      });
+    }
+  };
+  clear = () => this.setState({ sel: null, doss: 'closed', scrim: false, tether: false, rail: true },
+                              () => { if (this.state.auto) this.reFit(true); });
+  restore = () => this.setState({ doss: 'open', rail: true, scrim: false, tether: false });
+  toggleRail = () => this.setState(s => ({ rail: !s.rail }));
+  setChor = k => () => this.setState({ chor: k, scrim: false, tether: false });
+
+
+  renderVals() {
+    const d = this.D;
+    const base = { shellRef: this.shellRef, toggleRail: this.toggleRail, fitVisible: this.fitVisible,
+                   fitWhole: this.fitWhole, clear: this.clear, restore: this.restore, doFocus: this.showOnMap };
+    if (!d) return Object.assign(base, {
+      stateLine: 'reading data/l0-layout-model.js', fitNote: 'LOADING', fitVisLabel: '', fitWholeLabel: '',
+      autoStyle: 'font-size:8.5px;color:#5c6672', fitVisStyle: 'display:none', fitWholeStyle: 'display:none',
+      fitVisNum: '', fitWholeNum: '', railStyle: 'width:176px;flex:none;background:#0d1014;border-right:1px solid #262e36',
+      railGlyph: '', railRows: [], railFootStyle: 'display:none', railFoot: '',
+      canvasStyle: 'flex:1;position:relative;overflow:hidden', worldStyle: 'position:absolute;inset:0',
+      bandRows: [], eraCols: [], dense: false, cells: [], showChips: false, chips: [], hasWires: false,
+      wires: [], svgBox: '0 0 10 10', svgStyle: 'display:none', hasSel: false, dossOpen: false, dossSpine: false,
+      dossStyle: 'display:none', scrimOn: false, tetherOn: false, chorOpts: [], keyHint: '' });
+    return Object.assign(base, this.vChrome(d), this.vMap(d), this.vPanels(d));
+  }
+
+  vChrome(d) {
+    const s = this.state, k = s.k, room = this.mapRect(), all = this.allRect();
+    const kRoom = Math.min(room.w / this.CW, room.h / this.CH);
+    const kAll = Math.min(all.w / this.CW, all.h / this.CH);
+    const btn = on => 'display:flex;align-items:baseline;gap:7px;padding:4px 9px;cursor:pointer;white-space:nowrap;'
+      + 'border:1px solid ' + (on ? '#3a4b57' : '#262e36') + ';background:' + (on ? '#141a20' : 'transparent')
+      + ';color:' + (on ? '#e6e9ee' : '#8d97a4');
+    const railRow = (label, count, on) =>
+      ({ text: s.rail ? label : label.slice(0, 1),
+         style: 'display:flex;justify-content:space-between;gap:8px;padding:' + (s.rail ? '6px 14px' : '6px 0')
+           + ';font-size:' + (s.rail ? '11px' : '9px') + ';cursor:default;white-space:nowrap;overflow:hidden;'
+           + 'justify-content:' + (s.rail ? 'space-between' : 'center')
+           + ';color:' + (on ? '#e6e9ee' : '#6f7f8c') + ';background:' + (on ? '#141a20' : 'transparent')
+           + (on ? ';border-left:2px solid #5ed4e6' : ';border-left:2px solid transparent') });
+
+    const bandRows = d.bands.map((b, i) => {
+      const y = s.ty + b.y * k, h = Math.max(2, b.h * k);
+      const off = y + h < TOPSTRIP - 4 || y > s.sh;
+      return {
+        stripe: 'position:absolute;left:' + (s.tx + G.gutter * k) + 'px;top:' + y + 'px;width:'
+          + (this.CW * k) + 'px;height:' + h + 'px;background:' + (i % 2 ? '#11161b' : '#0f1317')
+          + ';border-top:1px solid #191f26;pointer-events:none',
+        labelStyle: 'position:absolute;left:10px;top:' + y + 'px;width:' + (LEFTGUT - 18) + 'px;height:' + h
+          + 'px;display:' + (off ? 'none' : 'flex') + ';flex-direction:column;justify-content:center;gap:2px;'
+          + 'z-index:7;pointer-events:none',
+        nameStyle: 'font-size:8.5px;letter-spacing:.11em;color:#8d97a4;line-height:1.2;word-break:break-word',
+        name: (b.id || '').toUpperCase(),
+        countStyle: 'font-size:8px;color:' + (b.n <= 4 ? '#efb555' : '#4f5964'),
+        count: b.n + ' node' + (b.n === 1 ? '' : 's')
+      };
+    });
+
+    const eraCols = d.eras.map(e => {
+      const x = s.tx + e.x * k, w = Math.max(2, e.w * k);
+      const off = x + w < LEFTGUT - 4 || x > this.cvw();
+      return {
+        rule: 'position:absolute;left:' + x + 'px;top:' + (s.ty + G.head * k) + 'px;width:1px;height:'
+          + (this.CH * k) + 'px;background:' + (e.kind === 'nodate' ? '#2a2318' : '#1d242b') + ';pointer-events:none',
+        headStyle: 'position:absolute;left:' + Math.max(LEFTGUT, x) + 'px;top:6px;width:' + w
+          + 'px;display:' + (off ? 'none' : 'block') + ';z-index:7;pointer-events:none;padding-left:6px',
+        labelStyle: 'font-size:9px;letter-spacing:.12em;color:' + (e.kind === 'nodate' ? '#efb555' : '#b9c2cd')
+          + ';white-space:nowrap;display:block',
+        label: e.label,
+        noteStyle: 'font-size:8px;color:#4f5964;white-space:nowrap;display:' + (w > 150 ? 'block' : 'none'),
+        note: e.note || ''
+      };
+    });
+
+    return {
+      railStyle: 'width:' + this.railW() + 'px;flex:none;display:flex;flex-direction:column;background:#0d1014;'
+        + 'border-right:1px solid #262e36;overflow:hidden;transition:width 280ms cubic-bezier(.2,.7,.2,1);z-index:24',
+      railGlyph: s.rail ? '\u00ab' : '\u00bb',
+      railRows: s.rail ? VIEWS.map(([l, c], i) => railRow(l, c, i === 0))
+        : [{ text: 'NETWORK MAP', style: 'writing-mode:vertical-rl;font-size:8.5px;letter-spacing:.14em;color:#5ed4e6;'
+            + 'padding:10px 0;margin:0 auto;white-space:nowrap' }],
+      railFootStyle: 'padding:' + (s.rail ? '9px 14px 11px' : '9px 4px 11px') + ';font-size:8px;color:#4f5964;'
+        + 'letter-spacing:.08em;line-height:1.6;border-top:1px solid #1d242b;text-align:'
+        + (s.rail ? 'left' : 'center'),
+      railFoot: s.rail ? '956 nodes \u00b7 2159 links' : '956',
+      canvasStyle: 'flex:1;position:relative;overflow:hidden;background:#0f1216;cursor:'
+        + (this._drag && this._drag.moved ? 'grabbing' : 'grab'),
+      worldStyle: 'position:absolute;inset:0;overflow:hidden',
+      bandRows, eraCols,
+      autoStyle: 'padding:4px 8px;font-size:8.5px;letter-spacing:.1em;white-space:nowrap;border:1px solid '
+        + (s.auto ? '#2c3f49' : '#1d242b') + ';color:' + (s.auto ? '#5ed4e6' : '#5c6672'),
+      fitNote: s.auto ? 'AUTO \u00b7 REFITS ON ANY PANEL MOVE' : 'HELD \u00b7 PRESS FIT TO RE-ARM',
+      fitVisStyle: btn(s.auto && s.fitMode === 'room'),
+      fitWholeStyle: btn(s.auto && s.fitMode === 'whole'),
+      fitVisNum: 'font-size:10px;color:#5ed4e6',
+      fitWholeNum: 'font-size:10px;color:' + (kAll > kRoom + 0.005 ? '#efb555' : '#5ed4e6'),
+      fitVisLabel: kRoom.toFixed(2) + '\u00d7',
+      fitWholeLabel: kAll.toFixed(2) + '\u00d7',
+      /* Last item in a frozen nowrap row: it shrinks and clips, the fit controls never do. */
+      stateLineStyle: 'font-size:9px;color:#5c6672;flex:0 1 auto;min-width:0;overflow:hidden;'
+        + 'text-overflow:ellipsis;white-space:nowrap;text-align:right;display:' + (s.sw < 700 ? 'none' : 'block'),
+      stateLine: 'k ' + k.toFixed(2) + ' \u00b7 room ' + Math.round(room.w) + '\u00d7' + Math.round(room.h)
+        + ' \u00b7 ' + (k * 205 < 84 ? 'cells' : 'chips') + ' \u00b7 ' + d.nodes.length + ' of ' + d.figures.boardNodes,
+      keyHint: 'DRAG pan \u00b7 WHEEL zoom \u00b7 F fit room \u00b7 A fit all \u00b7 ESC clear'
+    };
+  }
+
+  buildCells(d) {
+    const eras = {}; d.eras.forEach(e => { eras[String(e.id)] = e; });
+    const acc = {};
+    (d.nodes || []).forEach(n => {
+      const key = n.band + '/' + n.col;
+      if (!acc[key]) acc[key] = { band: n.band, col: String(n.col), n: 0 };
+      acc[key].n++;
+    });
+    return Object.keys(acc).map(key => {
+      const c = acc[key], b = d.bands.find(x => x.id === c.band), e = eras[c.col];
+      if (!b || !e) return null;
+      return { n: c.n, key, x: e.x + 5, y: b.y + 4, w: e.w - 10, h: b.h - 8 };
+    }).filter(Boolean);
+  }
+
+  vMap(d) {
+    const s = this.state, k = s.k, cvw = this.cvw(), sh = s.sh;
+    const dense = k * 205 < 84;
+    const on = (x, y, w, h) => !(x + w < -40 || x > cvw + 40 || y + h < TOPSTRIP - 24 || y > sh + 40);
+    if (!this._cells) this._cells = this.buildCells(d);
+    if (!this._ni) { this._ni = {}; (d.nodes || []).forEach(n => { this._ni[n.id] = n; }); }
+
+    /* Cell mode must still be able to say "your node is in here", or a fit that
+       drops to cells silently loses the selection. */
+    const selN = s.sel ? this._ni[s.sel] : null;
+    const selCell = selN ? selN.band + '/' + selN.col : null;
+    const cells = !dense ? [] : this._cells.map(c => {
+      const x = s.tx + c.x * k, y = s.ty + c.y * k, w = c.w * k, h = c.h * k;
+      if (!on(x, y, w, h)) return null;
+      const fs = Math.max(10, Math.min(21, h * 0.42));
+      const hit = c.key === selCell;
+      return {
+        box: 'position:absolute;left:' + x + 'px;top:' + y + 'px;width:' + w + 'px;height:' + h
+          + 'px;display:flex;align-items:center;justify-content:center;pointer-events:none;border:1px solid '
+          + (hit ? '#efb555' : '#1e2731') + ';background:' + (hit ? 'rgba(239,181,85,.09)' : 'rgba(94,212,230,'
+          + (0.03 + Math.min(0.14, c.n * 0.014)).toFixed(3) + ')')
+          + (hit && s.pulse ? ';animation:shArrive 900ms ease-out both' : ''),
+        numStyle: 'font-size:' + fs.toFixed(1) + 'px;letter-spacing:.04em;color:' + (hit ? '#efb555' : '#8fa3b1'),
+        n: String(c.n)
+      };
+    }).filter(Boolean);
+
+    const chips = dense ? [] : (d.nodes || []).map(n => {
+      const x = s.tx + n.x * k, y = s.ty + n.y * k, w = n.w * k, h = Math.max(9, n.h * k);
+      if (!on(x, y, w, h)) return null;
+      const isSel = n.id === s.sel;
+      const dim = s.scrim && !isSel;
+      const fs = w >= 150 ? 10 : 9;
+      const chars = Math.max(4, Math.floor((w - 30) / (fs * 0.58)));
+      const stroke = isSel ? '#efb555' : (TIERC[n.tier] || '#8d97a4');
+      const style = n.tier === 'A' ? 'solid' : (n.tier === 'B' ? 'dashed' : 'dotted');
+      return {
+        pick: this.pick(n), title: n.label + '  \u00b7  ' + n.cls + ' \u00b7 tier ' + n.tier + ' \u00b7 deg ' + n.deg,
+        box: 'position:absolute;left:' + x + 'px;top:' + y + 'px;width:' + w + 'px;height:' + h
+          + 'px;display:flex;align-items:center;gap:4px;padding-right:4px;overflow:hidden;cursor:pointer;'
+          + 'background:' + (isSel ? '#1b222a' : '#141a20') + ';border:1px ' + style + ' '
+          + (isSel ? stroke : (dim ? '#232b34' : stroke)) + ';opacity:' + (dim ? '0.5' : '1')
+          + ';transition:opacity 240ms ease;z-index:' + (isSel ? 6 : 4)
+          + (isSel && s.pulse ? ';outline:1px solid rgba(239,181,85,.55);outline-offset:2px;animation:shArrive 900ms ease-out both' : ''),
+        ruleStyle: 'flex:none;width:3px;height:100%;background:' + (CLSC[n.cls] || '#7f93a6'),
+        glyphStyle: 'flex:none;width:8px;text-align:center;font-size:7.5px;color:' + (CLSC[n.cls] || '#7f93a6')
+          + ';display:' + (w > 58 ? 'block' : 'none'),
+        glyph: GLYPH[n.cls] || '\u00b7',
+        labelStyle: 'font-size:' + fs + 'px;color:' + (isSel ? '#e6e9ee' : '#b9c2cd')
+          + ';white-space:nowrap;overflow:hidden;display:' + (w > 74 ? 'block' : 'none'),
+        label: fitLabel(n.short, chars)
+      };
+    }).filter(Boolean);
+
+    /* In cell mode there are no chips to land on, so a rest edge would be an
+       orphan line across the grid. Only the selection's own links draw. */
+    const edges = (d.edges || []).filter(e => s.sel ? (e.a === s.sel || e.b === s.sel) : (!dense && e.rest));
+    const wires = edges.map(e => {
+      const a = this._ni[e.a], b = this._ni[e.b];
+      if (!a || !b) return null;
+      const ax = s.tx + (a.x + a.w / 2) * k, ay = s.ty + (a.y + a.h / 2) * k;
+      const bx = s.tx + (b.x + b.w / 2) * k, by = s.ty + (b.y + b.h / 2) * k;
+      const hot = s.sel && (e.a === s.sel || e.b === s.sel);
+      const mid = (ax + bx) / 2;
+      return {
+        d: 'M ' + ax + ' ' + ay + ' H ' + mid + ' V ' + by + ' H ' + bx,
+        stroke: e.kind === 'shared' ? '#a795e8' : e.denial ? '#e8705f' : hot ? '#5ed4e6' : '#26333f',
+        sw: hot ? 1.1 : 0.8,
+        dash: e.tier === 3 ? '2 4' : e.tier === 2 ? '7 4' : ''
+      };
+    }).filter(Boolean);
+
+    return { dense, cells, showChips: !dense, chips, hasWires: wires.length > 0, wires,
+             svgBox: '0 0 ' + cvw + ' ' + sh,
+             svgStyle: 'position:absolute;left:0;top:0;width:' + cvw + 'px;height:' + sh
+               + 'px;pointer-events:none;z-index:3;opacity:' + (s.scrim ? '0.45' : '1') + ';transition:opacity 240ms ease' };
+  }
+
+  vPanels(d) {
+    const s = this.state, k = s.k, n = s.sel ? this.node(s.sel) : null;
+    const era = n && d.eras.find(e => String(e.id) === String(n.col));
+    const flag = n && (d.highlights.flags || []).find(f => f.id === n.id);
+    const chipC = n ? { x: this.railW() + s.tx + (n.x + n.w / 2) * k, y: s.ty + (n.y + n.h / 2) * k } : null;
+    const ax = s.sw - (s.doss === 'open' ? DOSS_W : SPINE_W), ay = 152;
+    return {
+      hasSel: !!n,
+      /* The bar carries SHOW ON MAP and CLEAR, so it must never end up under the
+         dossier or under the porthole dim: inset by the panel, above both. */
+      selBarStyle: 'position:absolute;left:0;bottom:0;right:' + this.occR() + 'px;z-index:28;display:flex;'
+        + 'align-items:center;gap:14px;padding:8px 12px;border-top:1px solid #262e36;background:rgba(13,16,20,.97);'
+        + 'transition:right 300ms cubic-bezier(.2,.7,.2,1)',
+      selRuleStyle: 'flex:none;width:3px;height:15px;background:' + (n ? (CLSC[n.cls] || '#7f93a6') : 'transparent'),
+      selShort: n ? n.short : '',
+      selMeta: n ? (n.cls + ' \u00b7 tier ' + n.tier + ' \u00b7 deg ' + n.deg + ' \u00b7 ' + n.band
+        + (era ? ' / ' + era.label.toLowerCase() : '')) : '',
+      focusBtnStyle: 'padding:5px 11px;border:1px solid #3a4b57;background:#141a20;color:#5ed4e6;font-size:8.5px;'
+        + 'letter-spacing:.12em;cursor:pointer;white-space:nowrap',
+      focusBtnLabel: 'SHOW ON MAP \u00b7 ' + (CHOR.find(c => c.key === s.chor) || CHOR[0]).name,
+      dossStyle: 'position:absolute;right:0;top:0;bottom:0;width:' + this.occR() + 'px;display:flex;'
+        + 'justify-content:flex-end;overflow:hidden;z-index:26;pointer-events:' + (s.doss === 'closed' ? 'none' : 'auto')
+        + ';transition:width 300ms cubic-bezier(.2,.7,.2,1)',
+      dossOpen: s.doss === 'open', dossSpine: s.doss === 'spine',
+      spineLabel: n ? fitLabel(n.short, 46).toUpperCase() : '',
+      dossKicker: n ? (n.cls.toUpperCase() + ' \u00b7 TIER ' + n.tier + (flag ? ' \u00b7 START HERE ' + flag.rank : '')) : '',
+      dossTitle: n ? n.label : '',
+      dossRoles: n ? n.roles.map((r, i) => ({
+        label: r.toUpperCase(),
+        style: 'padding:2px 7px;font-size:8px;letter-spacing:.11em;border:1px solid '
+          + (i === 0 ? '#2c3f49' : '#262e36') + ';color:' + (i === 0 ? '#5ed4e6' : '#6f7f8c')
+      })) : [],
+      dossStats: n ? [
+        { k: 'DEGREE', v: String(n.deg) },
+        { k: 'CLAIMS', v: n.claims + ' \u00b7 ' + n.t1 + ' tier 1' },
+        { k: 'MEMBERS', v: String(n.memberCount) },
+        { k: 'BAND', v: n.band },
+        { k: 'ERA', v: era ? era.label : '\u2014' },
+        { k: 'LINKS ON MAP', v: n.onMapEdges + ' of ' + n.allEdges }
+      ] : [],
+      dossWhy: n ? (n.why || '').slice(0, 640) + ((n.why || '').length > 640 ? '\u2026' : '') : '',
+      dossWhyNote: flag ? flag.why : (n ? 'Not flagged as a start point.' : ''),
+      scrimOn: s.scrim && !!chipC,
+      scrimStyle: chipC ? ('position:absolute;inset:0;z-index:23;pointer-events:none;background:radial-gradient(circle 210px at '
+        + chipC.x + 'px ' + chipC.y + 'px, rgba(9,11,14,0) 0%, rgba(9,11,14,0) 42%, rgba(9,11,14,.88) 100%);'
+        + 'transition:background 280ms ease') : 'display:none',
+      tetherOn: s.tether && !!chipC,
+      tetherBox: '0 0 ' + s.sw + ' ' + s.sh,
+      tetherD: chipC ? ('M ' + ax + ' ' + ay + ' H ' + ((ax + chipC.x) / 2) + ' V ' + chipC.y + ' H ' + chipC.x) : '',
+      tetherCx: chipC ? chipC.x : 0, tetherCy: chipC ? chipC.y : 0,
+      chorOpts: CHOR.map(c => ({
+        pick: this.setChor(c.key), name: c.name, desc: c.desc,
+        fg: s.chor === c.key ? '#5ed4e6' : '#b9c2cd',
+        style: 'flex:1;min-width:0;padding:8px 14px;cursor:pointer;border-left:1px solid #1d242b;background:'
+          + (s.chor === c.key ? '#12181e' : 'transparent')
+          + ';box-shadow:' + (s.chor === c.key ? 'inset 0 2px 0 #5ed4e6' : 'none')
+      }))
+    };
+  }
+}
+</script>
+</body>
+</html>

@@ -28,15 +28,26 @@ Reads, all optional except the first:
 
 Writes `data/l0-layout-model.json` and `.js`. Exits non-zero on: a node the budget
 left bare, a highlight naming an id not on the map, more than 15% of the map flagged,
-or a model over the ~1MB read cap.
+or a model over the ~1MB read cap. It reports `rarityDrift` when the board's tag counts
+disagree with the pinned rarity order — that is a decision to make, not a failure.
 
-## The three things to do next
+## Answered since v1
 
-1. **Answer the patch question** — §6. Whether a packed-cell layout can be a named
-   patch against the parent board's canvas renderer. This is the one item that could
-   change the approach.
-2. **Work the backfill queue** — §4. Seven fields, each with what to pull and where from.
+- **Patch question** — closed. `mountL0` is yours end to end.
+- **Pin the rarity rank?** — pinned AND recomputed; drift is reported, never obeyed.
+- **disclosure at 3?** — accept. It is a residual, not a category, and now labelled as one.
+- **Denial direction** — three states, not one. Arrowhead only where the issuer is named.
+- **Chip left rule** — your build was right: class on the rule, tier on the stroke.
+- **Overview under the label threshold** — cells carry counts; chips do not draw.
+- **Label overflow** — middle truncation shipped; authored `short` values are the real fix.
+
+## The two things to do next
+
+Patch question is closed — `mountL0` is yours end to end, so the packed-cell layout can
+be built directly and §4.1 of the parent brief does not bind it.
+
+1. **Work the backfill queue** — §4. Seven fields, each with what to pull and where from.
    `C`/`A`/`D` and `via[]` buy the most for the least.
-3. **Write `data/l0-highlights.json`** — the editorial pass on which nodes are worth
+2. **Write `data/l0-highlights.json`** — the editorial pass on which nodes are worth
    opening. The design language is built and waiting; the judgement is not a design
    decision.

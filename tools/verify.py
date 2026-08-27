@@ -377,6 +377,79 @@ def _no_parent_editorial(b, html):
             for p in banned if p in html]
 
 
+_M = re.match(r'(x)', 'x')   # a never-None match, so the fallbacks above read
+                              # 'unknown' rather than raising inside a check
+
+@check("the built page fetches nothing at runtime")
+def _no_runtime_fetch(b, html):
+    """CLAUDE.md's first line about this artifact is "single self-contained HTML
+    file, no server, no runtime deps". Until 26 August 2026 that was not true, and
+    the way it was untrue is the exact shape of §8's inherited-surface trap: three
+    <link> tags to fonts.googleapis.com came over verbatim from
+    ref/the-vanishing-v2.html, and the third of them is a stylesheet.
+
+    A stylesheet blocks first paint. So the whole board -- 956 nodes, 4,513 claims,
+    a canvas map -- waited on a Google server before drawing one pixel, and in a
+    network that stalls that request it drew nothing for as long as the stall
+    lasted. Measured in the build container: 12,452ms to first contentful paint with
+    the link present, 132ms with it blocked. Nothing in the source said so and no
+    check could fail; the fonts always arrived eventually, so it looked like the
+    page was simply heavy.
+
+    This screens the RESOURCE-LOADING positions only. The page also carries 2,888
+    citation URLs as data, and every one of them is supposed to be there -- a check
+    that grepped for 'https://' would fire on the entire point of the board. So it
+    parses href/src attributes and CSS url() functions, and asks whether any of them
+    names a host. data:, blob:, # and same-document fragments are all fine."""
+    bad = []
+    # <link href>, <script src>, <img src>, <iframe src>, <use href> ... anything
+    # in an attribute the browser will go and fetch.
+    for m in re.finditer(r"<(link|script|img|iframe|video|audio|source|embed|object|use)\b[^>]*?>",
+                         html, re.I):
+        tag = m.group(0)
+        for am in re.finditer(r'\b(href|src|data|srcset)\s*=\s*"([^"]*)"', tag, re.I):
+            for u in am.group(2).split(","):
+                u = u.strip().split(" ")[0]
+                if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
+                   not u.lower().startswith(("data:", "blob:", "about:")):
+                    bad.append(f"<{m.group(1).lower()}> loads {u[:80]!r}")
+    # CSS url(...) in any <style> block or style= attribute
+    for m in re.finditer(r"url\(\s*['\"]?([^'\")]+)", html, re.I):
+        u = m.group(1).strip()
+        if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
+           not u.lower().startswith(("data:", "blob:", "about:")):
+            bad.append(f"css url() loads {u[:80]!r}")
+    return sorted(set(bad))[:20]
+
+
+@check("the typeface ships with the page, at every weight it draws")
+def _fonts_embedded(b, html):
+    """The map is drawn with ctx.measureText, so the geometry depends on which font
+    resolves. Three weights are declared across the CSS and the canvas -- 400, 500
+    and 600 -- and a missing face does not error, it silently substitutes and every
+    label is fitted against different metrics.
+
+    Two subsets, latin and latin-ext, because the board carries names that need
+    them. Six faces, therefore. This asserts the count and the form: a face served
+    from a URL rather than embedded would satisfy a naive @font-face count while
+    reintroducing exactly the dependency the check above exists to forbid."""
+    faces = re.findall(r"@font-face\{([^}]*)\}", html)
+    plex = [f for f in faces if "IBM Plex Mono" in f]
+    bad = []
+    if len(plex) != 6:
+        bad.append(f"expected 6 embedded IBM Plex Mono faces, found {len(plex)}")
+    weights = sorted({(re.search(r"font-weight:(\d+)", f) or _M).group(1) for f in plex
+                      if re.search(r"font-weight:(\d+)", f)})
+    for w in ("400", "500", "600"):
+        if w not in weights:
+            bad.append(f"no embedded face at weight {w}; the page draws at it")
+    for f in plex:
+        if "url(data:font/woff2;base64," not in f:
+            src = (re.search(r"src:([^;]*)", f) or _M).group(1)[:60]
+            bad.append(f"a face is not embedded: src is {src!r}")
+    return bad
+
+
 @check("the analyst system prompt describes this board")
 def _system_prompt_is_ours(b, html):
     """SYSTEM_PROMPT() is what the model is told it is before it answers anything, and
@@ -804,6 +877,18 @@ LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
 REJECTS = os.path.join(ROOT, "tools", "REJECTS.json")
 _LAYOUT_OVERRIDE = None
 _REJECTS_OVERRIDE = None
+IMAGES = os.path.join(ROOT, "data", "l0-images.json")
+_IMAGES_OVERRIDE = None
+
+
+def _images():
+    """The image register, or the poisoned stand-in during --self-test."""
+    if _IMAGES_OVERRIDE is not None:
+        return _IMAGES_OVERRIDE
+    if not os.path.exists(IMAGES):
+        return None
+    with open(IMAGES, encoding="utf-8") as fh:
+        return json.load(fh)
 
 
 def _layout():
@@ -821,6 +906,105 @@ def _datasets(m):
     96-node snapshot, kept so the editorial layer cannot be silently trimmed to the
     intersection of the two."""
     return [(k, m[k]) for k in ("current", "legacy") if isinstance(m.get(k), dict)]
+
+
+@check("every chip label fits the chip it is drawn in")
+def _shorts_fit(b, html):
+    """A 205px chip at 1.0x holds about 37 monospace characters. Beyond that the
+    renderer middle-truncates, which Design called a safety net rather than a
+    design: `l0Fit` cannot know which half of a label matters, and it dropped the
+    citation from "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263)" --
+    the half that identifies the statute.
+
+    46 of 110 overflowed. They are authored in data/l0-shorts.json now, and this
+    keeps them that way: a node added later with a long label fails here rather
+    than quietly losing its distinguishing tail on the map.
+
+    Two nodes sharing a short is the other failure, and it is worse than a long
+    one -- "AARO Historical Record" for both Volume I and Volume II is a chip that
+    names the wrong document half the time."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad, seen = [], {}
+    for _, ds in _datasets(m):
+        for n in (ds.get("nodes") or []):
+            sh = (n.get("short") or "").strip()
+            if not sh:
+                bad.append(f"{n.get('id')}: no short at all")
+                continue
+            if len(sh) > 37:
+                bad.append(f"{n.get('id')}: short is {len(sh)} chars, over the 37 the chip "
+                           f"holds -- author one in data/l0-shorts.json: {sh[:50]!r}")
+            if sh in seen and seen[sh] != n.get("id"):
+                bad.append(f"{n.get('id')} and {seen[sh]} share the short {sh!r}; a chip that "
+                           f"names two nodes names the wrong one half the time")
+            seen[sh] = n.get("id")
+        break        # `current` is authoritative; legacy is a superseded snapshot
+    return bad[:40]
+
+
+@check("nothing in the image register fails silently")
+def _image_register(b, html):
+    """`data/l0-images.json` is empty on purpose -- a record there asserts that a
+    specific image exists at a specific URL under a specific licence, which is a
+    sourcing claim like any other. But the register is PLUMBED, and the failure mode
+    of a plumbed-and-empty channel is that the first person to fill it gets no
+    feedback: `build_l0_layout.mjs` draws an image only when a record clears, and a
+    record that is malformed simply does not clear. The node falls back to its class
+    letter, which is a supported state and looks identical to never having tried.
+
+    So a record that was MEANT to ship an image and does not must fail here rather
+    than disappear into a legitimate-looking fallback. Every rule below is a way of
+    intending to publish an image and silently not doing it -- except the credit
+    rule, which is the other direction: attribution is the condition most of these
+    licences are granted on, and an image that ships without it is a licensing
+    problem rather than a rendering one.
+
+    `no` and `none` records are welcome and assert nothing: recording that an image
+    was found and does NOT clear is research, and deleting it means the next pass
+    re-does the work."""
+    reg = _images()
+    if reg is None:
+        return ["data/l0-images.json is missing -- the register is plumbed and must exist"]
+    imgs = reg.get("images")
+    if not isinstance(imgs, dict):
+        return ["data/l0-images.json has no `images` object"]
+    m = _layout()
+    ids = set()
+    if isinstance(m, dict):
+        for _, ds in _datasets(m):
+            for n in (ds.get("nodes") or []):
+                if n.get("id"):
+                    ids.add(n["id"])
+    bad = []
+    OKC = ("clears", "ask", "no", "none")
+    for nid, r in sorted(imgs.items()):
+        if not isinstance(r, dict):
+            bad.append(f"{nid}: record is not an object")
+            continue
+        cl = r.get("clearance")
+        if cl not in OKC:
+            bad.append(f"{nid}: clearance {cl!r} is not one of {OKC} -- "
+                       f"an unrecognised value never draws, and never says so")
+            continue
+        if ids and nid not in ids:
+            bad.append(f"{nid}: not a node on the map, so this record can never draw")
+        if cl in ("clears", "ask"):
+            if not (r.get("photo") or "").strip():
+                bad.append(f"{nid}: clearance {cl!r} with no `photo` -- "
+                           f"claims to ship an image and has none")
+            if not (r.get("photoCredit") or "").strip():
+                bad.append(f"{nid}: clearance {cl!r} with no `photoCredit` -- "
+                           f"attribution is the condition the licence is granted on")
+        if cl == "ask" and not (r.get("note") or "").strip():
+            bad.append(f"{nid}: clearance 'ask' with no `note` -- ask ships WITH its "
+                       f"reason, or the doubt is resolved silently in its own favour")
+        pk = r.get("photoKind")
+        if pk is not None and pk not in ("portrait", "mark"):
+            bad.append(f"{nid}: photoKind {pk!r} is neither 'portrait' nor 'mark' -- "
+                       f"the renderer crops a portrait and must not crop a mark")
+    return bad[:40]
 
 
 @check("L0 degree is distinct neighbours, not edge instances")
@@ -1016,6 +1200,233 @@ def _dz_deterministic(b, html):
             elif not (0 <= x <= ww and 0 <= y <= wh):
                 bad.append(f"{key}: {n['id']} at ({x}, {y}) is outside the world {ww}x{wh}")
     return bad[:40]
+
+
+@check("a denial that is not a directed act carries no denial styling")
+def _dz_denialkind(b, html):
+    """Design, answering the implementation session: a denial has three states
+    because the data has three, and one undifferentiated red line was not.
+
+        directed     issuer named        arrowhead, and later a particle
+        undirected   an act, no issuer   a perpendicular bar at the midpoint
+        association  not a directed act  no denial styling at all
+
+    Eleven of thirty adjudicated edges are the third kind -- `roswell ->
+    official-denial`, "four official explanations for one event"; a person and their
+    own bylined article. Red is reserved for something somebody did.
+
+    UPDATED 26 August 2026, when all 174 were adjudicated. This asserted that
+    denialKind was only ever 'association' or absent -- true while `association`
+    was the only verdict anyone had recorded, and false the moment the other two
+    were. A check that hardcodes the state of the data rather than the RULE about
+    it goes red on the work it was written to protect.
+
+    The rule is the vocabulary and its internal consistency:
+      association  not a directed act, so it must NOT name a denier
+      directed     a named issuer, so it MUST name one, and that denier must be
+                   one of the edge's own two ends
+      undirected   an act with no attributable issuer, so it must NOT name one
+    Absent still means undirected, which claims the least."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        for e in d.get("edges") or []:
+            k = e.get("denialKind")
+            if k is None:
+                continue
+            if k not in ("association", "directed", "undirected"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} has denialKind {k!r}, "
+                           f"which is not one of the three states")
+            elif k == "directed":
+                dn = e.get("denier")
+                if not dn:
+                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'directed' and names "
+                               f"no denier -- a direction with nobody at the sharp end")
+                elif dn not in (e.get("a"), e.get("b")):
+                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dn!r}, "
+                               f"which is neither of its own two ends")
+            elif k == "undirected" and e.get("denier"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'undirected' and names a "
+                           f"denier -- if the issuer is known it is directed")
+            elif k == "association" and e.get("denier"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is an association and "
+                           f"also names a denier {e.get('denier')!r}")
+    return bad
+
+
+@check("every field the design reads but the data withholds is in the backfill queue")
+def _dz_queue(b, html):
+    """Design's `queue_covers_every_field_read`. Must reject "this doc and the page
+    disagreeing" -- the same drift class the reproduction correction fixed once.
+
+    The queue is how the design degrades honestly instead of guessing: a field the
+    renderer reads and the data does not supply has to be a NAMED TASK with a place
+    to pull it from, or it is just a silent hole. Two rows were added on 26 August
+    (`denialKind` and the `short` budget) because the standing rule is that any new
+    field the design reads gets a row.
+
+    Asserts every field this build reads and does not yet have is named in `gaps`,
+    and that each row carries all four columns."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    rows = m.get("gaps") or []
+    if not rows:
+        return ["the model carries no backfill queue at all"]
+    blob = " ".join(str(c) for r in rows for c in r).lower()
+    bad = []
+    for r in rows:
+        if not isinstance(r, list) or len(r) != 4 or not all(str(c).strip() for c in r):
+            bad.append(f"queue row {r[0] if r else r!r} is not four filled columns: "
+                       "field, what it is, where to pull it, what the design cannot say")
+    # ---- which fields the data withholds, MEASURED ---------------------------
+    # This was a hardcoded list of six field names asserted to be missing. It went
+    # red the moment any of them was supplied -- denialKind, denier and short all
+    # landed on 26 August and the check complained about the rows being retired,
+    # which is the work it exists to protect. A check that hardcodes the STATE of
+    # the data rather than the RULE about it is a check with an expiry date.
+    #
+    # So: measure. A field is withheld when no node or edge carries it, and only
+    # then does it need a row.
+    ds0 = None
+    for _, d0 in _datasets(m):
+        ds0 = d0
+        break
+    nodes0 = (ds0 or {}).get("nodes") or []
+    edges0 = (ds0 or {}).get("edges") or []
+    dn0 = [e for e in edges0 if e.get("denial")]
+    READS = {
+        "denialkind": ("the three denial states",
+                       any(e.get("denialKind") for e in dn0)),
+        "denier":     ("which end issued a denial",
+                       any(e.get("denier") for e in dn0)),
+        "short":      ("a chip-length label",
+                       bool(nodes0) and all((n.get("short") or "") for n in nodes0)),
+        "photo":      ("the chip glyph slot's image",
+                       any(n.get("photo") for n in nodes0)),
+        "dateend":    ("the end of a span",
+                       any(n.get("y1") is not None for n in nodes0)),
+        "members":    ("the off-map neighbours",
+                       bool(nodes0) and all(n.get("members") for n in nodes0)),
+    }
+    for key, (why, supplied) in READS.items():
+        if supplied:
+            continue
+        alt = {"denier": "denial a/b", "dateend": "dateend"}.get(key, key)
+        if key not in blob and alt.replace(" ", "") not in blob.replace(" ", ""):
+            bad.append(f"the design reads `{key}` ({why}) and the data does not carry it, "
+                       f"but no backfill row names it")
+
+    # ---- and the other direction, which is how three rows went stale ---------
+    # This check asserted only that a MISSING field is queued. It never asked
+    # whether a QUEUED field is still missing, so via[], members[] and C/A/D sat
+    # in the queue for two days after the pipeline started supplying them, and
+    # the check passed the whole time because the rows were present.
+    #
+    # A stale row is not harmless. It is a standing instruction to redo finished
+    # work, and it makes this file and the data disagree -- the same drift class
+    # the row-shape half was written for. So: any row whose field the data now
+    # supplies for EVERY node must be retired.
+    ds = None
+    for _, d in _datasets(m):
+        ds = d
+        break
+    if ds:
+        nodes = ds.get("nodes") or []
+        edges = ds.get("edges") or []
+        shared = [e for e in edges if e.get("kind") == "shared"]
+        supplied = {
+            "via[]": bool(shared) and all(e.get("via") for e in shared),
+            "members[]": bool(nodes) and all(n.get("members") for n in nodes),
+            "c / a / d": bool(nodes) and all(n.get("C") is not None for n in nodes),
+        }
+        for r in rows:
+            name = str(r[0]).strip().lower()
+            if supplied.get(name):
+                bad.append(f"backfill row `{r[0]}` is stale: every node or edge now "
+                           f"carries it. Retire the row -- a queue that lists finished "
+                           f"work is an instruction to do it again")
+    return bad
+
+
+@check("the rarity order the board implies still matches the pin")
+def _dz_rarity(b, html):
+    """Design's `rarity_order_matches_the_pin`, the one named check that was never
+    built as a gate step. The generator has always REPORTED drift in
+    `figures.rarityDrift` and `state_snapshot.py` prints it; nothing failed on it.
+
+    Two tags with near-equal counts can swap rarity rank between research passes and
+    take every node carrying both with them, which moves them between BANDS -- and
+    the band order is the vertical argument. `oversight` (64) and `disclosure` (61)
+    are within 10% and are INVERTED on the legacy snapshot, which is the pin doing
+    its job rather than failing.
+
+    So this asserts the pin holds on the dataset that SHIPS, and that drift is
+    reported rather than silently obeyed. Legacy drift is expected and is not a
+    failure: CLAUDE.md is explicit that editing RARITY_PIN to silence it is wrong."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    cur = m.get("current") or {}
+    f = cur.get("figures") or {}
+    pin, obs = f.get("rarityPin"), f.get("rarityObserved")
+    bad = []
+    if not pin or not obs:
+        return ["current/figures is missing rarityPin or rarityObserved"]
+    if list(pin) != list(obs):
+        bad.append("the shipping dataset's tag counts imply "
+                   f"{list(obs)} against the pin {list(pin)} -- decide it, do not "
+                   "edit RARITY_PIN to silence it")
+    if f.get("rarityDrift"):
+        bad.append("current reports rarityDrift " + str(f["rarityDrift"]))
+    # and the drift channel itself must exist, or the report is not being made
+    for key, d in _datasets(m):
+        if "rarityDrift" not in (d.get("figures") or {}):
+            bad.append(f"{key}: figures carries no rarityDrift, so drift is not reported at all")
+    return bad
+
+
+@check("denial direction is published only where the record names a denier")
+def _dz_denier(b, html):
+    """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
+
+    `motion is attested, not decorative` above guards the FLAGS -- that a denial is
+    marked as one, and that no second motion flag exists. It says nothing about the
+    direction, which is the actual claim the arrowhead makes, and it passed happily
+    for the whole of the first build while the head was drawn at `e.b` where a/b is
+    [a,b].sort(). Alphabetical order rendered as a statement about who denied whom.
+
+    The board's raw records do not carry a consistent issuer-first convention
+    either, so direction is attested ONLY where an edge names its denier. See
+    notes/DENIAL-DIRECTION-2026-08-26.md.
+
+    Asserts: a published `denier` is one of the edge's own ends, and it is named by
+    at least one of the underlying denial records the edge rolls up. An edge with no
+    denier is fine and is the current state of every one of them."""
+    m = _layout()
+    if not m:
+        return ["data/l0-layout-model.json is missing"]
+    bad = []
+    for key, d in _datasets(m):
+        for e in d.get("edges") or []:
+            dnr = e.get("denier")
+            if dnr is None:
+                continue
+            if not e.get("denial"):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names a denier but is "
+                           f"not marked as a denial")
+                continue
+            if dnr not in (e.get("a"), e.get("b")):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
+                           f"which is not one of its own ends")
+                continue
+            pairs = e.get("dn") or []
+            if pairs and not any(dnr in p for p in pairs):
+                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
+                           f"which appears in none of its {len(pairs)} denial record(s)")
+    return bad
 
 
 @check("motion is attested, not decorative")
@@ -1372,7 +1783,19 @@ def self_test():
                     "are C (custody proximity), A (access level) and D (disclosure role), "
                     "and they are never summed.`;\n")
 
-    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK)
+    # Six embedded faces, for the same reason as EXPLAIN_OK and SYSPROMPT_OK: the
+    # typeface check reads them out of the built file, so a fixture without them
+    # false-positives on good input. The base64 here is a placeholder marker, not a
+    # font -- the check asserts the src FORM (embedded, not fetched), which is the
+    # property that matters, and a real woff2 in a test fixture would assert nothing
+    # extra while adding 86KB to this file.
+    FONTS_OK = "<style>" + "".join(
+        "@font-face{font-family:'IBM Plex Mono';font-style:normal;font-weight:%s;"
+        "font-display:swap;src:url(data:font/woff2;base64,NOT-A-FONT-FIXTURE-ONLY) "
+        "format('woff2');unicode-range:U+%s}" % (w, r)
+        for w in ("400", "500", "600") for r in ("0000-00FF", "0100-02AF")) + "</style>"
+
+    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK + FONTS_OK)
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
@@ -1404,6 +1827,16 @@ def self_test():
                 "axes S, P and I are never summed.`;\n"),
         "no parent-board editorial content ships":
             good_html + " NeuroLogica (Novella) on the matched denominator ",
+        # The exact three tags that shipped for six sessions. Reintroducing them is
+        # the failure this check exists for, so the poison IS the historical bug.
+        "the built page fetches nothing at runtime":
+            '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono'
+            ':wght@400;500;600&display=swap" rel="stylesheet">\n' + good_html,
+        # One weight dropped. The page still renders, still has @font-face rules,
+        # and every 600-weight label is quietly fitted against the wrong metrics --
+        # which is why counting faces is not enough on its own.
+        "the typeface ships with the page, at every weight it draws":
+            re.sub(r"@font-face\{[^}]*font-weight:600[^}]*\}", "", good_html),
         "every edge type has a caption written for this board":
             good_html.replace("    case 'custody':\n      return 'x';\n", "", 1),
         # a node on the map with no argument for why it is there
@@ -1495,6 +1928,36 @@ def self_test():
             [{"kind": "entity", "id": "usc-10-119", "why": "bad cls 'statute'"}],
     }
 
+    # The register is empty, so the check passes on an empty dict and the poison has
+    # to be a record. Four ways to intend an image and silently not publish one, plus
+    # the credit rule, which is a licensing failure rather than a rendering one.
+    poison_shorts = {
+        # Two ways a chip lies: a label too long for it, and a label shared with
+        # another node. Both, so neither half of the check goes untested.
+        "every chip label fits the chip it is drawn in": [
+            lay(lambda m: m["current"]["nodes"][0].update(
+                short="A label far longer than the thirty-seven characters a chip can hold")),
+            lay(lambda m: m["current"]["nodes"][1].update(
+                short=m["current"]["nodes"][0]["short"])),
+        ],
+    }
+
+    poison_images = {
+        "nothing in the image register fails silently": {"images": {
+            # clears, and nothing to draw
+            "a-b": {"clearance": "clears", "photo": "", "photoCredit": "x"},
+            # ask, with the reason dropped
+            "e0": {"clearance": "ask", "photo": "p.jpg", "photoCredit": "x"},
+            # a seal that the renderer would be free to crop to a circle
+            "e1": {"clearance": "clears", "photo": "p.jpg", "photoCredit": "x",
+                   "photoKind": "logo"},
+            # published with no attribution
+            "e2": {"clearance": "clears", "photo": "p.jpg"},
+            # a clearance word the renderer has never heard of
+            "e3": {"clearance": "probably fine", "photo": "p.jpg", "photoCredit": "x"},
+        }},
+    }
+
     poison_layout = {} if _real is None else {
         # a model baked from the extract's `deg` field, which counts edge INSTANCES
         "L0 degree is distinct neighbours, not edge instances":
@@ -1516,6 +1979,35 @@ def self_test():
         # a time-direction flow on every line
         "motion is attested, not decorative":
             lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
+        # a queue that has stopped naming a field the renderer reads
+        # Two poisons, one per direction. A field the data withholds and the
+        # queue does not name; and a row naming work the data has already done.
+        "every field the design reads but the data withholds is in the backfill queue": [
+            # Aimed at `photo`, which the register keeps deliberately empty, so
+            # this poison stays valid for as long as that is true. It used to drop
+            # the denialKind row -- and when the 174 denials were adjudicated on
+            # 26 August, dropping that row became the CORRECT state and the poison
+            # silently stopped poisoning. A poison aimed at a field that might get
+            # filled has the same expiry date as the check it guards.
+            lay(lambda m: m.__setitem__(
+                "gaps", [r for r in m["gaps"] if "photo" not in str(r[0])])),
+            lay(lambda m: m["gaps"].append(
+                ["C / A / D", "the three scored axes per node",
+                 "straight off the board records", "band order is the measured mean C"])),
+        ],
+        # a research pass that inverts a near-tie on the shipping dataset
+        "the rarity order the board implies still matches the pin":
+            lay(lambda m: m["current"]["figures"].update(
+                rarityObserved=list(reversed(m["current"]["figures"]["rarityPin"])))),
+        # a denier invented for an edge, naming a node that is not even on it --
+        # which is what publishing a direction derived from [a,b].sort() amounts to
+        "denial direction is published only where the record names a denier":
+            lay(lambda m: [e.update(denier="not-an-end-of-this-edge")
+                           for e in m["current"]["edges"] if e.get("denial")]),
+        # a third denial state invented, or an association that also claims a denier
+        "a denial that is not a directed act carries no denial styling":
+            lay(lambda m: [e.update(denialKind="probably-a-denial")
+                           for e in m["current"]["edges"] if e.get("denial")]),
         # a flag naming an id the floor excluded
         "highlights are a pointer, not a promotion":
             lay(lambda m: m["current"]["highlights"]["flags"].append(
@@ -1526,6 +2018,8 @@ def self_test():
 
     print("self-test — each check must REJECT poisoned input\n")
     ok = True
+    poison_layout.update(poison_shorts)
+
     for name, fn in CHECKS_RUN:
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")
@@ -1551,14 +2045,38 @@ def self_test():
                 _REJECTS_OVERRIDE = []
             clean = fn(base, good_html)
             _REJECTS_OVERRIDE = None
+        elif name in poison_images:
+            global _IMAGES_OVERRIDE
+            _IMAGES_OVERRIDE = poison_images[name]
+            try:
+                caught = fn(base, good_html)
+            finally:
+                _IMAGES_OVERRIDE = None
+            clean = fn(base, good_html)
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE
             lb = _real_board if _real_board is not None else base
-            _LAYOUT_OVERRIDE = poison_layout[name]
-            try:
-                caught = fn(lb, good_html)
-            finally:
-                _LAYOUT_OVERRIDE = None
+            # A check may carry SEVERAL poisons, and every one must be rejected.
+            # One poison per check is only enough when the check asserts one
+            # thing. The backfill-queue check asserts two opposite things -- that
+            # a missing field is queued, and that a queued field is still
+            # missing -- and a single poison would leave whichever half it did
+            # not touch untested. That is how the second half came to be absent
+            # for two days in the first place.
+            ps = poison_layout[name]
+            if not isinstance(ps, list):
+                ps = [ps]
+            caught = []
+            for pz in ps:
+                _LAYOUT_OVERRIDE = pz
+                try:
+                    got = fn(lb, good_html)
+                finally:
+                    _LAYOUT_OVERRIDE = None
+                if not got:
+                    caught = []          # one poison slipped through: the check is dead
+                    break
+                caught = caught + got
             clean = fn(lb, good_html)
         else:
             b = poisons.get(name, base)

@@ -18,7 +18,7 @@ Sections:
        c. drawNode()     — semantic zoom, or 249 plates tiling 89% of the canvas
 """
 
-import json, os, re, sys
+import base64, json, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from collections import defaultdict, Counter
 
@@ -964,6 +964,79 @@ BARNES_HUT = """    /* Barnes-Hut quadtree repulsion.
       }
     }
 """
+
+
+# ---------------------------------------------------------------------------
+# Typeface. See assets/fonts/README.md.
+#
+# The parent board loaded IBM Plex Mono from fonts.googleapis.com with three
+# <link> tags, and the third is a stylesheet. A stylesheet blocks first paint.
+# So a file whose stated premise is "single self-contained HTML, no server, no
+# runtime deps" could not draw one pixel until a Google server answered, and in
+# a network that stalls that request it draws nothing for as long as the stall
+# lasts. Measured in this container on 26 August 2026: 12,452ms to first
+# contentful paint with the link in place, 132ms with it blocked. That is not a
+# claim about Stewart's machine, where the request resolves in well under a
+# second -- it is a claim about the dependency existing at all.
+#
+# The faces are inlined as data: URIs instead. 86KB of woff2 against a 13.5MB
+# page, and the page then fetches nothing at runtime.
+#
+# The unicode-range and font-weight of each face are READ OUT of the stylesheet
+# Google actually served, kept beside the fonts. Transcribing 500 codepoints of
+# unicode-range by hand is exactly the kind of thing that is wrong in one place
+# and silently drops a glyph.
+FONT_DIR = os.path.join(ROOT, "assets", "fonts")
+FONT_SUBSETS = ("latin", "latin-ext")
+
+
+def _font_faces():
+    """Parse the served css2 stylesheet, return @font-face rules with data: URIs."""
+    css_path = os.path.join(FONT_DIR, "google-fonts-css2.css")
+    if not os.path.exists(css_path):
+        sys.exit("assets/fonts/google-fonts-css2.css missing -- see that "
+                 "directory's README for how to re-fetch it")
+    css = open(css_path, encoding="utf-8").read()
+    blocks = re.findall(r"/\* (\S+) \*/\s*@font-face \{(.*?)\}", css, re.S)
+    out, seen = [], []
+    for subset, body in blocks:
+        if subset not in FONT_SUBSETS:
+            continue
+        weight = re.search(r"font-weight:\s*(\d+)", body).group(1)
+        urange = re.search(r"unicode-range:\s*([^;]+);", body).group(1).strip()
+        woff = os.path.join(FONT_DIR, "plex-%s-%s.woff2" % (weight, subset))
+        if not os.path.exists(woff):
+            sys.exit("font face missing: %s\n"
+                     "  the served stylesheet names a %s %s face and the repo has "
+                     "no file for it. Re-fetch per assets/fonts/README.md rather "
+                     "than shipping a page with a hole in its typeface."
+                     % (woff, subset, weight))
+        b64 = base64.b64encode(open(woff, "rb").read()).decode("ascii")
+        seen.append((subset, weight))
+        out.append(
+            "@font-face{font-family:'IBM Plex Mono';font-style:normal;"
+            "font-weight:%s;font-display:swap;"
+            "src:url(data:font/woff2;base64,%s) format('woff2');"
+            "unicode-range:%s}" % (weight, b64, urange))
+    want = {(sub, w) for sub in FONT_SUBSETS for w in ("400", "500", "600")}
+    if set(seen) != want:
+        sys.exit("expected six faces (400/500/600 x latin/latin-ext), got %d: %s"
+                 % (len(seen), sorted(seen)))
+    return "\n".join(out)
+
+
+def embed_fonts(s, must_replace):
+    """Replace the three Google Font <link> tags with inlined faces."""
+    old = ('<link rel="preconnect" href="https://fonts.googleapis.com">\n'
+           '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
+           '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono'
+           ':wght@400;500;600&display=swap" rel="stylesheet">')
+    new = ("<!-- IBM Plex Mono, embedded. SIL OFL 1.1, (c) 2017 IBM Corp with\n"
+           "     Reserved Font Name \"Plex\"; the licence grants embedding\n"
+           "     explicitly. Full text and provenance: assets/fonts/. Inlined so\n"
+           "     the page fetches nothing at runtime and first paint waits on no\n"
+           "     third party. -->\n<style>\n" + _font_faces() + "\n</style>")
+    return must_replace(s, old, new, "typeface inlined", 1)
 
 
 def main():
@@ -2329,6 +2402,10 @@ def main():
         layout = json.load(open(lay_path, encoding="utf-8"))
         s, ok = l0_patches.apply(s, l0_model, must_replace, layout=layout)
         ok_all &= ok
+
+    # ---- typeface ---------------------------------------------------------
+    s, ok = embed_fonts(s, must_replace)
+    ok_all &= ok
 
     # ---- branding ---------------------------------------------------------
     for old, new, label, cnt in [

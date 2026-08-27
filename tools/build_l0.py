@@ -97,7 +97,12 @@ def load_board(path=BOARD):
             "t1": sum(1 for c in claims if c.get("tier") == 1),
         })
     edges = [{"a": e["a"], "b": e["b"], "t": e["type"], "ct": e["claimTier"],
-              "label": e.get("label") or "", "note": e.get("note") or ""}
+              "label": e.get("label") or "", "note": e.get("note") or "",
+              # Who issued the denial, when the record says, and which of the
+              # three denial states this is. Both absent on every edge today; see
+              # the denial-direction block below.
+              "denier": e.get("denier"),
+              "denialKind": e.get("denialKind")}
              for e in b["edges"]]
     return nodes, edges
 
@@ -403,7 +408,7 @@ def load_authority():
     return json.load(open(path, encoding="utf-8")).get("offices") or []
 
 
-def mark_authority(nodes, board_by_id, offices, deg, issued, received):
+def mark_authority(nodes, board_by_id, offices, deg, issued, received, undirected=None):
     # A node qualifies only if it IS the office, not if it MENTIONS one. The first
     # pass matched hearings and letters that merely cite "the Secretary of Defense"
     # in their subtitle, and two ids the rules file explicitly excludes. Match on
@@ -435,6 +440,8 @@ def mark_authority(nodes, board_by_id, offices, deg, issued, received):
                         "connections": deg.get(n["id"], 0),
                         "denialsIssued": issued.get(n["id"], 0),
                         "denialsReceived": received.get(n["id"], 0),
+                        # denial links whose direction the record does not establish
+                        "denialsUndirected": (undirected or {}).get(n["id"], 0),
                     },
                 }
                 break
@@ -542,6 +549,26 @@ def short_label(s):
     return s.strip()
 
 
+# Authored chip labels. data/l0-shorts.json carries one for every node whose
+# derived short overflowed the 205px chip; the derivation stays as the fallback.
+# Both this file and tools/build_l0_layout.mjs read the same register, so a chip
+# never disagrees with itself depending on which stage drew it.
+_SHORTS = None
+
+
+def short_of(node_id, label):
+    global _SHORTS
+    if _SHORTS is None:
+        p = os.path.join(ROOT, "data", "l0-shorts.json")
+        try:
+            with open(p, encoding="utf-8") as fh:
+                _SHORTS = (json.load(fh) or {}).get("shorts") or {}
+        except FileNotFoundError:
+            _SHORTS = {}
+    a = _SHORTS.get(node_id)
+    return a.strip() if isinstance(a, str) and a.strip() else short_label(label)
+
+
 def build(path=BOARD):
     nodes, edges = load_board(path)
     adj, pair, dangling = adjacency(nodes, edges)
@@ -560,19 +587,41 @@ def build(path=BOARD):
     P, clamped, overlaps = bake(l0ids, node_by_id, direct, summarised)
     pos = {p["id"]: (p["x"], p["y"]) for p in P}
 
-    # Denial direction. Convention CONFIRMED against the merged board: `a` issued it,
-    # `b` is the subject. Sample: susan-gough -> luis-elizondo, "no assigned
-    # responsibilities for AATIP". Direction is the whole instrument — undirected,
-    # Grusch sits beside AARO and the distinction vanishes.
-    issued, received = Counter(), Counter()
+    # Denial direction. This block used to read "Convention CONFIRMED against the
+    # merged board: `a` issued it, `b` is the subject", on the strength of ONE
+    # agreeing sample (susan-gough -> luis-elizondo). It is the repo's own failure
+    # mode from CLAUDE.md section 5: a rule checked only against an example that
+    # agrees with it. Thirty edges adjudicated against their own labels give
+    # 12 holding, 7 running the other way (immaculate-constellation -> dod is
+    # "DoD spokesperson Sue Gough: no record of any SAP by that name", so the
+    # denier is on `b`), and 11 that are not a directed denial act at all --
+    # comparisons, routing facts, a person and their own bylined article.
+    # See notes/DENIAL-DIRECTION-2026-08-26.md.
+    #
+    # So `a`/`b` does NOT encode who denied whom, and nothing derived from it may
+    # be published as though it did. Direction counts ONLY where an edge names its
+    # denier. No edge does yet; that is the backfill, and until it is done every
+    # denial reads as an undirected link, which is what the record supports.
+    issued, received, undirected = Counter(), Counter(), Counter()
     for e in edges:
-        if e["t"] == "denial":
-            issued[e["a"]] += 1
-            received[e["b"]] += 1
+        if e["t"] != "denial":
+            continue
+        # An association is not a denial act, so it counts as neither issued,
+        # received, nor an undirected denial link.
+        if e.get("denialKind") == "association":
+            continue
+        d = e.get("denier")
+        if d and d in (e["a"], e["b"]):
+            issued[d] += 1
+            received[e["b"] if d == e["a"] else e["a"]] += 1
+        else:
+            undirected[e["a"]] += 1
+            undirected[e["b"]] += 1
 
     raw = json.load(open(path, encoding="utf-8"))
     board_by_id = {n["id"]: n for n in raw["people"] + raw["entities"]}
-    authority = mark_authority(nodes, board_by_id, load_authority(), deg, issued, received)
+    authority = mark_authority(nodes, board_by_id, load_authority(), deg, issued, received,
+                               undirected)
 
     l0 = []
     for i in l0ids:
@@ -582,11 +631,13 @@ def build(path=BOARD):
                       for x in m["direct"] + [r["id"] for r in m["routed"]])
         x, y = pos[i]
         l0.append({
-            "id": i, "label": n["label"], "short": short_label(n["label"]),
+            "id": i, "label": n["label"], "short": short_of(i, n["label"]),
             "cls": n["cls"], "cluster": n["cluster"], "tier": n["tier"],
             "C": n["C"], "A": n["A"], "D": n["D"], "deg": deg[i],
             "claims": n["claims"], "t1": n["t1"], "x": x, "y": y,
             "mix": dict(mix), "di": issued[i], "dr": received[i],
+            # denial links whose direction the record does not establish
+            "dnu": undirected[i],
             "dossier": dossiers.get(i),
             "direct": m["direct"], "routed": m["routed"],
         })

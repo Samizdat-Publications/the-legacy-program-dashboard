@@ -37,6 +37,7 @@
  */
 const { chromium } = require('/opt/node22/lib/node_modules/playwright');
 const fs = require('fs');
+const zlib = require('zlib');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
@@ -145,6 +146,108 @@ const CHECKS = [
                + (p.flagMiss.length ? ' · no pointer on ' + p.flagMiss.join(' ') : ''),
     poison: p => ({ ...p, flagHits: 0 }),
   },
+  {
+    id: 'motion-only-where-attested',
+    label: 'nothing moves at rest, and the selected node\u2019s edges do',
+    test: p => p.stillFrames === 1 && p.selectedFrames > 1,
+    detail: p => `${p.stillFrames} distinct frame(s) at ${p.attnState} with nothing`
+               + ` selected, ${p.selectedFrames} with a node selected`,
+    poison: p => ({ ...p, stillFrames: 4 }),
+  },
+  {
+    id: 'breath-touches-no-data-channel',
+    label: 'the start-here breath never touches the chip stroke, which carries tier',
+    /* Two channels on one property is the failure. The bloom must be able to run
+       its whole cycle without the tier stroke changing colour once. */
+    test: p => p.breathStrokeStates === 1 && p.breathOutlineStates > 1,
+    detail: p => `over 7s the chip stroke held ${p.breathStrokeStates} colour(s) while the`
+               + ` bloom outside it took ${p.breathOutlineStates}`,
+    poison: p => ({ ...p, breathStrokeStates: 3 }),
+  },
+  {
+    id: 'overview-is-never-anonymous',
+    label: 'below the label threshold every occupied cell prints its count',
+    /* The state this replaces drew 110 rectangles with nothing in them: no
+       identity, and it hid the one thing still legible at that size. */
+    test: p => p.denseCells > 0 && p.denseCellsWithInk === p.denseCells,
+    detail: p => `${p.denseCellsWithInk}/${p.denseCells} occupied cells carry ink at their centre`,
+    poison: p => ({ ...p, denseCellsWithInk: p.denseCells - 1 }),
+  },
+  {
+    id: 'overview-draws-no-orphan-edges',
+    label: 'the edge layer is switched off below the label threshold',
+    /* Lines are anchored to chip coordinates, so with the chips gone they
+       terminate at nothing and lattice over the counts the mode exists to show.
+       Tested by difference: toggling LINES AT REST cannot change a single pixel
+       in dense mode, and must change many at a scale where chips draw. */
+    test: p => p.denseEdgeToggleInert === true && p.chipEdgeToggleLive === true,
+    detail: p => `toggling LINES AT REST changes nothing in dense mode (${p.denseEdgeToggleInert})`
+               + ` and does change the map where chips draw (${p.chipEdgeToggleLive})`,
+    poison: p => ({ ...p, denseEdgeToggleInert: false }),
+  },
+  {
+    id: 'denial-marks-follow-the-adjudication',
+    label: 'the denial layer is drawn from the adjudication, not from edge order',
+    test: p => p.denyDirected > 0 && p.denyMarksOn > 0
+               && p.denyMarksAllAssoc < p.denyMarksOn * 0.25,
+    detail: p => `${p.denyDirected} directed · ${p.denyUndirected} undirected · `
+               + `${p.denyAssoc} association :: ${p.denyMarksOn} denial marks drawn, `
+               + `${p.denyMarksAllAssoc} once every edge is told it is an association`,
+    /* Poison both halves: a board with no directed denials at all, and a renderer
+       that keeps drawing them after the adjudication says not to. */
+    poison: p => ({ ...p, denyDirected: 0, denyMarksAllAssoc: p.denyMarksOn }),
+  },
+  {
+    id: 'selection-survives-cell-mode',
+    label: 'in cell mode the selected node still says which cell it is in',
+    test: p => p.selCellHit === true && p.selCellStray === 0,
+    detail: p => `${p.selCellId} · marked in its own cell=${p.selCellHit}`
+               + ` · other cells marked=${p.selCellStray} (must be 0)`,
+    poison: p => ({ ...p, selCellHit: false, selCellStray: 3 }),
+  },
+  {
+    id: 'thin-bands-print-amber',
+    label: 'a band under five nodes says so in amber, and a full one does not',
+    test: p => p.thinTotal > 0 && p.thinAmber === p.thinTotal && p.fullAmber === 0,
+    detail: p => `${p.thinAmber}/${p.thinTotal} thin bands amber · `
+               + `${p.fullAmber}/${p.fullTotal} full bands amber (must be 0)`
+               + ` · ${(p.bandsInfo||[]).map(b => b.id + ':' + b.n).join(' ')}`,
+    /* Poison both halves: a thin band that stayed grey, and amber bleeding onto
+       a band that is not thin. One alone would pass on a gutter painted amber
+       from top to bottom. */
+    poison: p => ({ ...p, thinAmber: p.thinTotal - 1, fullAmber: 1 }),
+  },
+  {
+    id: 'axis-type-readable-at-every-scale',
+    label: 'the gutter labels do not scale away with the world',
+    /* Axis chrome is drawn at an authored px size positioned at world x scale.
+       Counter-scaling by 1/k is the tempting wrong fix: it inflates type against
+       containers that stay at model dimensions, so it overflows its own box. */
+    test: p => p.denseAxisInkRows >= 5 && p.denseAxisInkRows <= 40,
+    detail: p => `the first band label's ink runs ${p.denseAxisInkRows} contiguous pixel rows at k=0.45`,
+    poison: p => ({ ...p, denseAxisInkRows: 2 }),
+  },
+  {
+    id: 'labels-truncate-in-the-middle',
+    label: 'no chip label is cut off at its end',
+    /* An end ellipsis loses the tail, and the tail is the distinguishing token on
+       this board: volume numbers, years, Roman numerals, Sec. references. */
+    test: p => p.endTrunc === 0 && p.midTrunc > 0,
+    detail: p => `${p.fittedLabels} fit whole \u00b7 ${p.midTrunc} middle-truncated \u00b7 `
+               + `${p.endTrunc} end-truncated`
+               + (p.endTruncEx && p.endTruncEx.length ? ' :: ' + p.endTruncEx.join(' | ') : ''),
+    poison: p => ({ ...p, endTrunc: 4 }),
+  },
+  {
+    id: 'head-row-clear',
+    label: 'no era column head is painted under the map controls',
+    /* The eras are the horizontal argument exactly as the bands are the vertical
+       one, and a head a reader cannot read takes its column's claim with it. */
+    test: p => p.eraHeads >= 2 && p.headClear >= 0,
+    detail: p => `${p.eraHeads} era heads · text starts ${p.headClear}px below the`
+               + ` control row (strip ${p.headStrip}px, controls end at ${p.ctlBottom}px)`,
+    poison: p => ({ ...p, headClear: -12 }),
+  },
 ];
 
 /* ---- probing the page ------------------------------------------------------ */
@@ -161,6 +264,7 @@ async function probe(page, opts = {}) {
             b = parseInt(hex.slice(5, 7), 16);
       return Math.abs(px[0] - r) + Math.abs(px[1] - g) + Math.abs(px[2] - b);
     };
+    const STRIP_BG0 = '#11141a';
     const CLS = {
       institution: '#a795e8', document: '#f0d264', program: '#66d69f',
       event: '#7fb4e8', legislation: '#e08ad0', person: '#c9d2dd',
@@ -224,6 +328,11 @@ async function probe(page, opts = {}) {
        itself out of them, so a "visible" chip means visible in the CONTENT rect.
        Counting the chrome as map is how the first cut of this file managed to
        probe six chips that the renderer had correctly refused to draw there. */
+    /* PK.geo is populated by merge_packed, so this tracks the renderer's own PAD
+       rather than restating it. The literals are the degenerate-model fallback and
+       must never be relied on: if they ever diverge from geo, this check measures
+       a different strip from the one the renderer draws and agrees with a renderer
+       it is no longer describing. */
     const geo0 = PK.geo || { gutter: 148, headRow: 46 };
     const PADL = geo0.gutter, PADT = geo0.headRow;
     const rect = n => { const g = ORIG[n.id] || n;
@@ -287,6 +396,17 @@ async function probe(page, opts = {}) {
        once the frozen chrome narrowed the content rect -- and a check that quietly
        skips the far column is worse than no check, because the far column is
        2017-2026, the densest part of the board. */
+    /* Unit scale for this pass, and say why rather than inherit it.
+       The class rule is 3 * view.k pixels wide and the probe samples 1.5px in from
+       the chip's left edge -- geometry that only lands inside the rule at k = 1.
+       It used to get k = 1 for free, because the map opened at the top-left corner
+       at 1:1 below the label threshold. The map now opens FITTED at every width,
+       so at this viewport it opens near 0.63, the rule is under 2px wide, the
+       sample falls on its antialiased edge and 90 of 110 chips "missed" their own
+       colour. Nothing was wrong with the renderer; the probe was carrying an
+       assumption it had never had to state. */
+    const kProbe = v.k;
+    v.k = 1;
     for (const target of D.l0) {
       if (seen.has(target.id)) continue;
       v.ox = Math.round((PADL + Wc) / 2 - (target.x + target.w / 2) * v.k);
@@ -317,6 +437,7 @@ async function probe(page, opts = {}) {
       }
     }
     out.classUnprobed = D.l0.length - seen.size;
+    v.k = kProbe;                       /* hand the camera back as it was found */
 
     /* The start-here pointer sits in the gap to the LEFT of the chip, between
        9 and 14px out. Amber there and nowhere on the chip is the separation. */
@@ -333,7 +454,7 @@ async function probe(page, opts = {}) {
        What must be true is that TEXT is on them, so this counts only pixels that
        differ from the strip's own ground, and stays clear of the two 1px rules at
        the strip borders so a rule alone cannot carry the check. */
-    const STRIP_BG = '#11141a';
+    const STRIP_BG = STRIP_BG0;
     const strip = (x0, y0, x1, y1) => {
       let n = 0;
       for (let y = y0; y < y1; y += 2)
@@ -343,12 +464,514 @@ async function probe(page, opts = {}) {
     out.gutterInkPanned = strip(6, PADT + 2, PADL - 14, Hc - 2) > 20;
     out.headInkPanned = strip(PADL + 2, 4, Wc - 2, PADT - 14) > 20;
 
+    /* The head strip is shared: the canvas paints the era labels on it and the
+       map's own DOM controls (.l0crumb, .l0ctl) are positioned on top of it. Ink
+       alone cannot see the difference -- headInkPanned above passed happily for
+       the whole of the first build, while two of the five era heads were drawn
+       underneath PROGRAM MAP and LINES AT REST and rendered as a smear. So
+       measure the CLEARANCE: the lowest pixel any control occupies, against the
+       highest pixel the era label reaches. mountL0 draws that label on the
+       baseline PAD.t - 22, and 9px covers the cap height of its 9px face. */
+    const wrapEl = document.querySelector('.l0wrap');
+    const wrTop = wrapEl.getBoundingClientRect().top;
+    let ctlBottom = 0;
+    for (const el of document.querySelectorAll('.l0crumb, .l0crumb *, .l0ctl, .l0ctl *')) {
+      const r = el.getBoundingClientRect();
+      if (!r.width || !r.height) continue;
+      ctlBottom = Math.max(ctlBottom, r.bottom - wrTop);
+    }
+    /* LABEL TRUNCATION. Design: middle, never end. "AARO Historical Record Volume 1"
+       and "... Volume 2" are identical under an end ellipsis, and the tail is where
+       this corpus keeps its distinguishing token. Recompute each chip's rendered
+       label through the page's own l0Fit and the same font the renderer uses, then
+       assert none of them ENDS in an ellipsis. */
+    const probe = document.createElement('canvas').getContext('2d');
+    probe.font = "400 9.5px 'IBM Plex Mono',monospace";
+    let endTrunc = 0, midTrunc = 0, fitted = 0;
+    const endTruncEx = [];
+    const fit = B.l0Fit;
+    if (typeof fit === 'function') {
+      for (const n of (D.l0 || [])) {
+        const raw = n.short || n.label || n.id;
+        /* the room the renderer gives a label at k=1: chip minus rule, glyph, gaps
+           and whatever is reserved on the right */
+        let right = 5; if (n.iso) right += 13;
+        const t = fit(probe, raw, (n.w - right) - (7 + 11 + 5));
+        if (t === raw) fitted++;
+        else if (t.endsWith('\u2026')) { endTrunc++; if (endTruncEx.length < 3) endTruncEx.push(raw); }
+        else if (t.indexOf('\u2026') > 0) midTrunc++;
+      }
+    } else { endTrunc = -1; }
+    out.endTrunc = endTrunc; out.midTrunc = midTrunc; out.fittedLabels = fitted;
+    out.endTruncEx = endTruncEx;
+    /* THE BREATH MUST NOT TOUCH A PROPERTY THAT CARRIES DATA. Design named the
+       failure: putting the bloom on box-shadow wiped the entity-tier stroke it
+       shares. Here the bloom rides an outline drawn OUTSIDE the chip, so the
+       chip's own stroke -- which carries tier -- can never be part of the
+       animation. Tested over a full cycle rather than at one instant: sample the
+       stroke pixel and a pixel just outside it many times across 7 seconds, and
+       require the stroke to be CONSTANT while the outside pixel VARIES. */
+    {
+      const fl = (D.l0 || []).find(n => (PK.flags || []).indexOf(n.id) >= 0);
+      if (fl) {
+        const r = { x: fl.x*v.k + v.ox, y: fl.y*v.k + v.oy, w: fl.w*v.k, h: fl.h*v.k };
+        const sx = Math.round(r.x + r.w - 1), sy = Math.round(r.y + r.h/2);  /* on the stroke */
+        const ox = Math.round(r.x + r.w + 2), oy = sy;                       /* just outside */
+        const key = (x, y) => { const q = px(x, y); return q[0]+','+q[1]+','+q[2]; };
+        const strokeSeen = new Set(), outSeen = new Set();
+        for (let i = 0; i < 26; i++) {
+          strokeSeen.add(key(sx, sy));
+          outSeen.add(key(ox, oy));
+          await new Promise(r2 => setTimeout(r2, 300));
+        }
+        out.breathStrokeStates = strokeSeen.size;
+        out.breathOutlineStates = outSeen.size;
+      } else { out.breathStrokeStates = -1; out.breathOutlineStates = -1; }
+    }
+    /* MOTION ONLY WHERE ATTESTED, tested on the rendered canvas rather than on the
+       model's flags. Design's own `motion_only_where_attested` guards the FLAGS and
+       passed for the whole of the first build while nothing moved at all -- a check
+       that cannot tell a still canvas from a moving one cannot police motion.
+       Two cases may move: a directed denial (none authored yet) and the selected
+       node's own edges, which assert nothing because the reader chose the end.
+       So with the breath off and nothing selected the canvas must be FROZEN, and
+       selecting a node must make it move. */
+    {
+      const hashC = () => {
+        const d = ctx.getImageData(0, 0, cvs.width, cvs.height).data;
+        let h = 0;
+        for (let i = 0; i < d.length; i += 4*53) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+        return h;
+      };
+      const St = B.S;
+      const open0 = St.l0open.slice();
+      St.l0open = [];
+      /* Re-query every time: renderChrome() rebuilds the control row on each click,
+         so a handle taken once goes stale and its textContent stops tracking. */
+      const attnBtn = () => [...document.querySelectorAll('.l0ctl button')]
+        .find(x => /BREATH|ONCE|STILL/.test(x.textContent));
+      for (let i = 0; i < 4; i++) {
+        const bt = attnBtn();
+        if (!bt || /STILL/.test(bt.textContent)) break;
+        bt.click();
+        await new Promise(r => setTimeout(r, 120));
+      }
+      out.attnState = (attnBtn() || {}).textContent || '(no control)';
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 900));
+      const q = new Set();
+      for (let i = 0; i < 4; i++) { q.add(hashC()); await new Promise(r => setTimeout(r, 400)); }
+      out.stillFrames = q.size;
+      const first = (D.l0 || []).find(n => (n.direct || []).length > 2) || (D.l0 || [])[0];
+      St.l0open = first ? [first.id] : [];
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 700));
+      const q2 = new Set();
+      for (let i = 0; i < 5; i++) { q2.add(hashC()); await new Promise(r => setTimeout(r, 350)); }
+      out.selectedFrames = q2.size;
+      St.l0open = open0;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    }
+    out.ctlBottom = Math.round(ctlBottom);
+    out.headStrip = PADT;
+    out.headClear = Math.round((PADT - 22 - 9) - ctlBottom);
+    out.eraHeads = (PK.eras || []).length;
+
+    /* DENSE MODE. Drive the real camera below the label threshold, repaint, and
+       measure what actually landed on the canvas. Design's answer to 110 anonymous
+       rectangles is that the chips collapse and every occupied cell prints its
+       count, with the edge layer switched off entirely -- so there are three things
+       to see: the counts are there, the lattice is not, and the axis type survived. */
+    {
+      const k0 = v.k, ox0 = v.ox, oy0 = v.oy;
+      v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const rowsN = (PK.bands || []).length;
+      const rowH = (PK.worldH - PADT - 10) / rowsN;
+      const occ = {};
+      for (const n of D.l0) occ[n.band + '|' + n.col] = (occ[n.band + '|' + n.col] || 0) + 1;
+      let cells = 0, cellsWithInk = 0;
+      (PK.bands || []).forEach((b, i) => {
+        for (const c of (PK.eras || [])) {
+          if (!occ[b.id + '|' + c.id]) continue;
+          cells++;
+          const by = PADT + i*rowH;
+          const cx = Math.round((c.x + c.w/2)*v.k + v.ox);
+          const cy = Math.round((by + b.h/2 >= 0 ? by + rowH/2 : by)*v.k + v.oy);
+          /* a box at the cell centre, where the numeral is */
+          let ink = 0;
+          for (let dy = -9; dy <= 9; dy += 2)
+            for (let dx = -12; dx <= 12; dx += 2)
+              if (dist(px(cx + dx, cy + dy), CHIP_FILL) > 26) ink++;
+          if (ink >= 3) cellsWithInk++;
+        }
+      });
+      out.denseCells = cells;
+      out.denseCellsWithInk = cellsWithInk;
+      /* THE EDGE LAYER, tested by difference rather than by counting ink.
+         A first attempt counted non-ground pixels across the canvas and reported
+         35% in dense mode against 8% with chips -- because at k=0.45 the whole
+         world is on screen and the band STRIPING fills it, which is background,
+         not edges. It was measuring the thing it was not looking for, loudly.
+         So: toggle LINES AT REST, which is the control that governs the edge
+         layer, and require the canvas to be BYTE-IDENTICAL either way. If the
+         edges are genuinely not drawn, the toggle cannot change a pixel. */
+      const hashCanvas = () => {
+        const d = ctx.getImageData(0, 0, cvs.width, cvs.height).data;
+        let h = 0;
+        for (let i = 0; i < d.length; i += 4*29) h = (h*31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+        return h;
+      };
+      const rest0 = MAP.opt.rest;
+      MAP.opt.rest = true;  B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const hOn = hashCanvas();
+      MAP.opt.rest = false; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const hOff = hashCanvas();
+      MAP.opt.rest = rest0;
+      out.denseEdgeToggleInert = hOn === hOff;
+      /* And the control is proved live at a scale where chips DO draw, so an
+         inert toggle cannot pass by being broken everywhere. */
+      v.k = 1; v.ox = 0; v.oy = 0; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      MAP.opt.rest = true;  B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const cOn = hashCanvas();
+      MAP.opt.rest = false; B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      const cOff = hashCanvas();
+      MAP.opt.rest = rest0;
+      out.chipEdgeToggleLive = cOn !== cOff;
+      v.k = 0.45; v.ox = PADL - PADL*v.k; v.oy = PADT - PADT*v.k;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+      /* Axis type must survive: it is drawn at an authored px size positioned at
+         world x scale, never scaled with the world. Measure the ink height of the
+         first band label in the gutter -- 9px type leaves at least 5 rows of it. */
+      const inked = y => {
+        for (let x = 8; x < PADL - 14; x += 2) if (dist(px(x, y), STRIP_BG0) > 26) return true;
+        return false;
+      };
+      let first = -1;
+      for (let y = PADT; y < Hc && first < 0; y++) if (inked(y)) first = y;
+      /* The CONTIGUOUS run from the first inked row, which is one label's cap
+         height. A first attempt took topmost-to-bottommost across the whole gutter
+         and got 337, i.e. the span of all seven labels, which would have passed
+         while the type rendered at 2px. */
+      let run = 0;
+      if (first >= 0) { let y = first; while (y < Hc && inked(y)) { run++; y++; } }
+      out.denseAxisInkRows = run;
+      /* THIN BANDS PRINT AMBER. Design: keep the disclosure band, do not merge or
+         pad it, but make thinness legible -- every band prints its count and under
+         five prints amber, so a nearly empty row reads as an argument about the
+         record rather than as a broken layout.
+         Read it where it is drawn: amber ink in the gutter beside a band with
+         fewer than five nodes, and NO amber beside a band with five or more. The
+         second half is what makes this a check rather than a colour swatch -- an
+         amber gutter everywhere would satisfy the first half alone. */
+      const BB = PK.bands || [];
+      const bandsInfo = BB.map(b => ({ id: b.id, n: b.n }));
+      let thinAmber = 0, thinTotal = 0, fullAmber = 0, fullTotal = 0;
+      /* Rows derived from the MODEL, not read off the band records: in dense mode
+         -- which is where this probe runs, at k = 0.45 -- the renderer recomputes
+         equal-height rows and the y/h on PK.bands are the non-dense ones. Reading
+         them here put every band rectangle in the wrong place, and the check
+         reported 0 of 1 thin bands amber while the amber was plainly on screen.
+         worldH and the band count are both stated by the model, so this stays an
+         independent statement of where a row is rather than the renderer's. */
+      const bandRowH = (PK.worldH - PADT - 10) / (BB.length || 1);
+      for (let bi = 0; bi < BB.length; bi++) {
+        const b = BB[bi];
+        const wy = PADT + bi * bandRowH;
+        const y0 = Math.round(wy * v.k + v.oy),
+              y1 = Math.round((wy + bandRowH) * v.k + v.oy);
+        if (y1 < PADT || y0 > Hc) continue;
+        let amber = false;
+        for (let y = Math.max(PADT + 1, y0); y < Math.min(Hc, y1) && !amber; y++)
+          for (let x = 8; x < PADL - 14; x += 2)
+            if (near(px(x, y), AMBER, 100)) { amber = true; break; }
+        if (b.n < 5) { thinTotal++; if (amber) thinAmber++; }
+        else { fullTotal++; if (amber) fullAmber++; }
+      }
+      /* THE SELECTION SURVIVES CELL MODE. Select a node, stay in cell mode, and
+         require cyan ink in the cell that node belongs to AND in no other cell.
+         The second half is the check: cyan somewhere on a grid of 27 occupied
+         cells proves nothing, and "the selection is visible" is a claim about
+         WHICH cell it is in. The target cell is computed from the model's own
+         band/col for the node, never from where the renderer put the ink. */
+      {
+        const pick = (D.l0 || []).find(n => n.band && n.col != null);
+        if (pick) {
+          B.S.sel = pick.id;
+          MAP.repaint();
+          await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+          const CYAN = '#5ed4e6';
+          const bIdx = BB.findIndex(bb => bb.id === pick.band);
+          let inTarget = false, inOthers = 0;
+          for (let bi = 0; bi < BB.length; bi++) {
+            for (const c of (PK.eras || [])) {
+              const wy = PADT + bi * bandRowH;
+              const x0 = Math.round((c.x + 10) * v.k + v.ox);
+              const x1 = Math.round((c.x + c.w - 10) * v.k + v.ox);
+              const yy0 = Math.round((wy + 10) * v.k + v.oy);
+              const yy1 = Math.round((wy + bandRowH - 10) * v.k + v.oy);
+              if (x1 < PADL || x0 > Wc || yy1 < PADT || yy0 > Hc) continue;
+              let cyan = false;
+              for (let y = Math.max(PADT + 1, yy0); y < Math.min(Hc, yy1) && !cyan; y += 2)
+                for (let x = Math.max(PADL + 1, x0); x < Math.min(Wc, x1); x += 2)
+                  if (near(px(x, y), CYAN, 60)) { cyan = true; break; }
+              if (!cyan) continue;
+              if (bi === bIdx && String(c.id) === String(pick.col)) inTarget = true;
+              else inOthers++;
+            }
+          }
+          out.selCellHit = inTarget;
+          out.selCellStray = inOthers;
+          out.selCellId = pick.id + '@' + pick.band + '/' + pick.col;
+          B.S.sel = null;
+          MAP.repaint();
+          await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+        }
+      }
+      /* THE DENIAL MARKS ARE DRIVEN BY THE ADJUDICATION.
+         All 174 denial edges were read one at a time and given one of three
+         states; 38 of the 47 on the map are directed, 5 undirected, 4 association.
+         The map's job is to draw exactly that: an arrowhead where an issuer is
+         named, a perpendicular bar where the act has no named issuer, and NOTHING
+         where the edge is not a denial act.
+
+         THIS COUNTS DRAW CALLS, NOT PIXELS, and that is a deliberate step down
+         which is worth naming. Everything else in this file reads getImageData,
+         because pixels are what a reader sees. Here that failed for a reason no
+         amount of settling fixed: an arrowhead is a ~7px triangle at fit scale,
+         the map redraws continuously, and the denial red (#e8705f) is also the
+         absent-link cross colour -- so a whole-canvas colour count was dominated
+         by crosses and never moved. Instrumenting ctx.fill during one repaint
+         showed 1188 denial-coloured fills arriving while the pixel count sat at
+         25 and called the layer dead.
+         So: what this proves is that the RENDERER EMITTED the marks and that the
+         adjudication is what drives them. What it does NOT prove is that they are
+         visible or correctly placed -- `pointers-offset` and the screenshots carry
+         that. Stated here so nobody reads more into it than it can support. */
+      {
+        const DENY = '#e8705f';
+        const rest0 = MAP.opt.rest, lab0 = MAP.opt.labels;
+        const sel0 = B.S.sel, open0 = B.S.l0open;
+        const k1 = v.k, ox1 = v.ox, oy1 = v.oy;
+        MAP.opt.rest = true; MAP.opt.labels = true;
+        B.S.sel = null; B.S.l0open = [];
+        v.k = Math.max(0.63, MAP.fitScale());
+        v.ox = PADL - PADL * v.k; v.oy = PADT - PADT * v.k;
+
+        let fills = 0, strokes = 0;
+        const of = ctx.fill.bind(ctx), os = ctx.stroke.bind(ctx);
+        ctx.fill = function(){ if (String(ctx.fillStyle).toLowerCase() === DENY) fills++;
+                               return of.apply(ctx, arguments); };
+        ctx.stroke = function(){ if (String(ctx.strokeStyle).toLowerCase() === DENY) strokes++;
+                                 return os.apply(ctx, arguments); };
+        const settleMs = ms => new Promise(r => setTimeout(r, ms));
+        MAP.repaint(); await settleMs(700);
+        out.denyMarksOn = fills + strokes;
+
+        const isDn = e => (e.types || []).indexOf('denial') >= 0;
+        const saved = (D.directEdges || []).map(e => e.denialKind);
+        (D.directEdges || []).forEach(e => { if (isDn(e)) e.denialKind = 'association'; });
+        fills = 0; strokes = 0;
+        MAP.repaint(); await settleMs(700);
+        out.denyMarksAllAssoc = fills + strokes;
+
+        ctx.fill = of; ctx.stroke = os;
+        (D.directEdges || []).forEach((e, i) => { e.denialKind = saved[i]; });
+        const dn = (D.directEdges || []).filter(isDn);
+        out.denyDirected = dn.filter(e => e.denialKind === 'directed').length;
+        out.denyUndirected = dn.filter(e => e.denialKind === 'undirected').length;
+        out.denyAssoc = dn.filter(e => e.denialKind === 'association').length;
+        MAP.opt.rest = rest0; MAP.opt.labels = lab0;
+        B.S.sel = sel0; B.S.l0open = open0;
+        v.k = k1; v.ox = ox1; v.oy = oy1;
+        MAP.repaint(); await settleMs(300);
+      }
+      out.thinAmber = thinAmber; out.thinTotal = thinTotal;
+      out.fullAmber = fullAmber; out.fullTotal = fullTotal;
+      out.bandsInfo = bandsInfo;
+      v.k = k0; v.ox = ox0; v.oy = oy0;
+      B.MAP.repaint();
+      await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
+    }
+
     if (o.shiftX) {           /* put the board back the way it was found */
       for (const n of D.l0) n.x = ORIG[n.id].x;
       if (B.MAP) B.MAP.repaint();
     }
     return out;
   }, opts);
+}
+
+/* ---- the image tile -------------------------------------------------------
+ *
+ * data/l0-images.json is deliberately empty, so the real page draws 110 class
+ * letters and there is no image anywhere to read pixels off. That is exactly the
+ * condition under which a render branch rots: it ships, nothing exercises it, and
+ * the first person to populate the register finds out whether it works.
+ *
+ * So the fixtures are injected. Two 16x16 PNGs in colours that appear nowhere in
+ * the palette, assigned to two real map nodes, and the pixels read back:
+ *
+ *   the tile replaces the letter   the slot carries the fixture colour, and did
+ *                                  not before injection
+ *   a MARK is not cropped          this is the load-bearing one. A portrait may be
+ *                                  cropped to a circle; an institutional seal may
+ *                                  not, because a cropped seal is a different mark
+ *                                  and several carry statutory restrictions on
+ *                                  alteration stricter than copyright. Read the
+ *                                  slot's CORNERS: square for a mark, empty for a
+ *                                  portrait. Nothing else distinguishes them.
+ *   a dead URL falls back          not a broken-image box. The class letter is a
+ *                                  supported state; a grey box is not.
+ *
+ * Fixtures are marked as fixtures and are not sourcing claims: they are generated
+ * bytes, not a photograph of anyone, and they never reach the register. */
+function pngFixture(r, g, b) {
+  const W = 16, H = 16;
+  const raw = Buffer.alloc(H * (1 + W * 3));
+  for (let y = 0; y < H; y++) {
+    const row = y * (1 + W * 3);
+    raw[row] = 0;
+    for (let x = 0; x < W; x++) {
+      raw[row + 1 + x * 3] = r; raw[row + 2 + x * 3] = g; raw[row + 3 + x * 3] = b;
+    }
+  }
+  const chunk = (type, data) => {
+    const len = Buffer.alloc(4); len.writeUInt32BE(data.length);
+    const body = Buffer.concat([Buffer.from(type, 'ascii'), data]);
+    const crc = Buffer.alloc(4); crc.writeUInt32BE(zlib.crc32
+      ? zlib.crc32(body) >>> 0 : crc32(body) >>> 0);
+    return Buffer.concat([len, body, crc]);
+  };
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(W, 0); ihdr.writeUInt32BE(H, 4);
+  ihdr[8] = 8; ihdr[9] = 2; ihdr[10] = 0; ihdr[11] = 0; ihdr[12] = 0;
+  const png = Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    chunk('IHDR', ihdr),
+    chunk('IDAT', zlib.deflateSync(raw)),
+    chunk('IEND', Buffer.alloc(0)),
+  ]);
+  return 'data:image/png;base64,' + png.toString('base64');
+}
+let _crcTable = null;
+function crc32(buf) {
+  if (!_crcTable) {
+    _crcTable = new Int32Array(256);
+    for (let n = 0; n < 256; n++) {
+      let c = n;
+      for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
+      _crcTable[n] = c;
+    }
+  }
+  let c = -1;
+  for (let i = 0; i < buf.length; i++) c = _crcTable[(c ^ buf[i]) & 0xff] ^ (c >>> 8);
+  return (c ^ -1) >>> 0;
+}
+
+async function probeImages(page, fixtures, opts) {
+  return await page.evaluate(async (F) => {
+    const B = window.__board, D = B.L0DATA, MAP = B.MAP, PK = D.packed || {};
+    const cvs = document.querySelector('.l0wrap canvas');
+    if (!cvs || !MAP) return { ok: false, why: 'no canvas' };
+    const ctx = cvs.getContext('2d');
+    const dpr = cvs.width / cvs.getBoundingClientRect().width;
+    const px = (x, y) => ctx.getImageData(Math.round(x * dpr), Math.round(y * dpr), 1, 1).data;
+    const near = (p, hex, tol) => {
+      const r = parseInt(hex.slice(1, 3), 16), g = parseInt(hex.slice(3, 5), 16),
+            b = parseInt(hex.slice(5, 7), 16);
+      return Math.abs(p[0]-r) + Math.abs(p[1]-g) + Math.abs(p[2]-b) <= (tol || 40);
+    };
+    const geo = PK.geo || { gutter: 148, headRow: 76 };
+    const settle = () => new Promise(r =>
+      requestAnimationFrame(() => requestAnimationFrame(r)));
+    const wait = ms => new Promise(r => setTimeout(r, ms));
+
+    const v = MAP.view;
+    const k0 = v.k, ox0 = v.ox, oy0 = v.oy;
+    const node = D.l0[0];
+    const saved = { photo: node.photo, kind: node.photoKind, cl: node.photoClearance };
+
+    /* Park the chip at a known screen position, blown up so the 11px slot is 22px
+       and its corners are addressable. The whole point is to read the SHAPE of the
+       drawn tile, and at the opening scale the slot is five pixels wide. */
+    const K = 2, SX = geo.gutter + 30, SY = geo.headRow + 30;
+    const place = () => { v.k = K; v.ox = SX - node.x*K; v.oy = SY - node.y*K; };
+    const slot = () => {
+      const size = 11*K, h = node.h*K;
+      return { x: SX + 7*K, y: SY + (h - size)/2, size };
+    };
+
+    const read = async () => {
+      place(); MAP.repaint(); await settle();
+      await wait(450);                 /* the image loads and repaints itself */
+      place(); MAP.repaint(); await settle();
+      const s = slot();
+      /* A signature of the whole slot, not two samples. The glyph is thin type and
+         a single pixel through it is luck; what the fallback claim actually needs
+         is that the slot comes back to EXACTLY the state it was in with no image
+         at all, which a byte sum states and a sampled pixel does not. */
+      const d = ctx.getImageData(Math.round(s.x*dpr), Math.round(s.y*dpr),
+                                 Math.round(s.size*dpr), Math.round(s.size*dpr)).data;
+      let sig = 0, ink = 0;
+      for (let i = 0; i < d.length; i += 4){
+        sig = (sig + d[i]*7 + d[i+1]*13 + d[i+2]*17) % 2147483647;
+        if (!near([d[i], d[i+1], d[i+2]], '#12171d', 18)) ink++;
+      }
+      return {
+        centre: [...px(s.x + s.size/2, s.y + s.size/2)],
+        corner: [...px(s.x + 2, s.y + 2)],
+        sig, ink,
+      };
+    };
+
+    const out = { ok: true, id: node.id };
+    /* before: the class letter, no image anywhere near the slot */
+    node.photo = null; node.photoKind = null; node.photoClearance = null;
+    let r = await read();
+    out.beforeCentreIsFixture = near(r.centre, F.portraitHex) || near(r.centre, F.markHex);
+    const glyphSig = r.sig, glyphInk = r.ink;
+    out.glyphInk = glyphInk;
+
+    node.photo = F.portrait;
+    node.photoKind = F.swapKinds ? 'mark' : 'portrait';
+    node.photoClearance = 'clears';
+    r = await read();
+    out.portraitCentre = near(r.centre, F.portraitHex);
+    out.portraitCorner = near(r.corner, F.portraitHex);
+
+    node.photo = F.mark;
+    node.photoKind = F.swapKinds ? 'portrait' : 'mark';
+    node.photoClearance = 'clears';
+    r = await read();
+    out.markCentre = near(r.centre, F.markHex);
+    out.markCorner = near(r.corner, F.markHex);
+
+    /* A URL that cannot resolve. The class letter is a supported state; a broken
+       image box is not, and neither is an empty slot. */
+    node.photo = F.deadUrl || 'https://127.0.0.1:9/there-is-no-such-image.png';
+    node.photoKind = 'portrait'; node.photoClearance = 'clears';
+    r = await read();
+    out.deadUrlDrawsNoTile = !near(r.centre, F.portraitHex) && !near(r.centre, F.markHex);
+    /* Identical to the no-image state, pixel for pixel, and carrying the letter's
+       ink rather than an empty box. */
+    out.deadUrlSigMatchesGlyph = r.sig === glyphSig;
+    out.deadUrlInk = r.ink;
+    out.deadUrlKeepsGlyph = r.sig === glyphSig && glyphInk > 0 && r.ink === glyphInk;
+
+    node.photo = saved.photo; node.photoKind = saved.kind; node.photoClearance = saved.cl;
+    v.k = k0; v.ox = ox0; v.oy = oy0;
+    MAP.repaint(); await settle();
+    return out;
+  }, { ...fixtures, ...(opts || {}) });
 }
 
 (async () => {
@@ -360,7 +983,20 @@ async function probe(page, opts = {}) {
     executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
   });
-  const page = await browser.newPage({ viewport: { width: 1600, height: 1000 } });
+  /* 2000x1150, not 1600x1000, and the size is load-bearing.
+     Most of the assertions below read CHIPS -- their coordinates, their class
+     colours, their labels, their flag pointers. Chips only exist above the label
+     threshold. The map now opens FITTED at every width (Design's comp states
+     `zoom: 'fit'`; this build used to fall back to the corner at 1:1), so at
+     1600x1000 it opens at 0.45 in occupancy mode, every chip probe finds nothing,
+     and five checks went red the moment the default changed.
+     They were not wrong about the board. They were measuring a state the board no
+     longer opens in. The fit clears the threshold from about 1977px of window --
+     0.62 * (worldW - gutter) + gutter + 16 = 1436px of map host, and the rail and
+     dock take roughly 541px -- so this is the smallest round size where the
+     opening state is the one these assertions describe. The dense-mode checks set
+     `v.k = 0.45` explicitly and are unaffected. */
+  const page = await browser.newPage({ viewport: { width: 2000, height: 1150 } });
   const errs = [];
   page.on('pageerror', e => errs.push('PAGEERROR: ' + e.message.slice(0, 200)));
 
@@ -396,6 +1032,35 @@ async function probe(page, opts = {}) {
          hard.slice(0, 2).join(' | '));
   for (const c of CHECKS) record(c.test(p), c.label, c.detail(p));
 
+  /* The image tile, against injected fixtures -- see probeImages. */
+  const FIX = { portrait: pngFixture(0xff, 0x00, 0xff), portraitHex: '#ff00ff',
+                mark:     pngFixture(0x00, 0xff, 0x00), markHex:     '#00ff00' };
+  const im = await probeImages(page, FIX);
+  const imgChecks = i => [
+    { id: 'img-letter-is-default',
+      label: 'the class letter is what draws when no image clears',
+      pass: i.ok && i.beforeCentreIsFixture === false,
+      detail: 'slot carries no fixture colour before injection' },
+    { id: 'img-tile-replaces-letter',
+      label: 'a cleared image replaces the class letter in the chip slot',
+      pass: i.ok && i.portraitCentre === true,
+      detail: `centre carries the fixture (${i.portraitCentre})` },
+    { id: 'img-portrait-cropped',
+      label: 'a portrait is cropped to a circle',
+      pass: i.ok && i.portraitCentre === true && i.portraitCorner === false,
+      detail: `centre=${i.portraitCentre} corner=${i.portraitCorner} (corner must be empty)` },
+    { id: 'img-mark-not-cropped',
+      label: 'a mark is never cropped to a circle',
+      pass: i.ok && i.markCentre === true && i.markCorner === true,
+      detail: `centre=${i.markCentre} corner=${i.markCorner} (corner must carry the mark)` },
+    { id: 'img-dead-url-falls-back',
+      label: 'an image that will not load falls back to the class letter',
+      pass: i.ok && i.deadUrlDrawsNoTile === true && i.deadUrlKeepsGlyph === true,
+      detail: `slot is byte-identical to the no-image state (${i.deadUrlSigMatchesGlyph}),`
+            + ` carrying the letter's ${i.glyphInk} inked px, not an empty box` },
+  ];
+  for (const c of imgChecks(im)) record(c.pass, c.label, c.detail);
+
   console.log(lines.join('\n'));
 
   if (SELFTEST) {
@@ -421,6 +1086,51 @@ async function probe(page, opts = {}) {
       + ` :: ${shifted.classHits}/${shifted.classProbes} still matched after a 60px shift`);
     if (!noticed) bad++;
 
+    /* And the head strip, poisoned on the page rather than in the object: put the
+       control row back where it used to sit relative to the labels and require the
+       clearance check to collapse. This is the defect itself, reproduced. */
+    console.log('\n--- self-test: the head strip against a control row moved onto it ---');
+    /* Targets .l0head, not .l0ctl. The control row used to be its own absolutely
+       positioned box and this poison moved it by setting `top`; it now sits inside
+       the .l0head flex row, so `top` on it does nothing and this poison silently
+       stopped poisoning -- the check went on passing while proving nothing, which
+       is the exact failure this whole file exists to prevent. It was caught by the
+       self-test going BROKEN, which is the self-test doing its job. */
+    await page.addStyleTag({ content: '.l0head{top:44px !important}' });
+    await page.waitForTimeout(400);
+    const collided = await probe(page, { restDrawnFigure });
+    const caught = !CHECKS.find(c => c.id === 'head-row-clear').test(collided);
+    console.log(`${caught ? 'ok    ' : 'BROKEN'}  the clearance check sees a control row on the labels`
+      + ` :: clearance became ${collided.headClear}px`);
+    if (!caught) bad++;
+
+    /* The image tile, poisoned ON THE PAGE. Hand each fixture the OTHER treatment
+       -- the portrait drawn by the mark path and the mark by the portrait path --
+       and require the two shape checks to collapse. Nothing else in the render
+       distinguishes them, so a check that survives this is not reading the shape,
+       and the shape is the whole licensing claim: a seal cropped to a circle is a
+       different mark. */
+    console.log('\n--- self-test: the image tile with the two treatments swapped ---');
+    const swapped = await probeImages(page, FIX, { swapKinds: true });
+    for (const id of ['img-portrait-cropped', 'img-mark-not-cropped']) {
+      const c = imgChecks(swapped).find(x => x.id === id);
+      console.log(`${c.pass ? 'BROKEN' : 'ok    '}  ${id} rejects the swapped treatment`
+        + ` :: ${c.detail}`);
+      if (c.pass) bad++;
+    }
+    /* And a "dead" URL that in fact resolves. The fallback claim is that the slot
+       returns to exactly its no-image state; an image that loads must break that. */
+    console.log('\n--- self-test: the fallback against a URL that does resolve ---');
+    const alive = await probeImages(page, FIX, { deadUrl: FIX.portrait });
+    const fb = imgChecks(alive).find(x => x.id === 'img-dead-url-falls-back');
+    console.log(`${fb.pass ? 'BROKEN' : 'ok    '}  img-dead-url-falls-back rejects a live URL`
+      + ` :: ${fb.detail}`);
+    if (fb.pass) bad++;
+    /* img-letter-is-default and img-tile-replaces-letter are each other's poison:
+       the first asserts the slot carries no fixture colour BEFORE injection and the
+       second that it does after, both read from the same run on the same chip. If
+       the probe were not reading the slot, one of the two would have to fail. */
+
     if (bad) { console.error(`\n${bad} check(s) accept input they must reject`); process.exit(1); }
     console.log('all checks reject their poison');
   }
@@ -430,5 +1140,5 @@ async function probe(page, opts = {}) {
     console.error(`\n${fails.length} FAILED: ${fails.join(' | ')}`);
     process.exit(1);
   }
-  console.log(`\nPACKED LAYOUT CHECK PASSED — ${CHECKS.length + 1} assertions`);
+  console.log(`\nPACKED LAYOUT CHECK PASSED — ${lines.length} assertions`);
 })().catch(e => { console.error(e); process.exit(1); });
