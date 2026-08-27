@@ -355,6 +355,33 @@ const CHECKS = [
                + ` at 1366/1600/1920/2560 · ${p.proseCharsPoison} with half-the-viewport put back`,
     poison: p => ({ ...p, proseCharsMax: 135 }),
   },
+  {
+    id: 'both-drawers-fold-on-a-curve',
+    label: 'the rail folds and reopens on a curve, with a tab in both directions',
+    /* Stewart, 27 August: "a clickable edge that, when clicked, on a curved motion
+       sends the drawer back to its closed position... then I should be able to open
+       the closed drawer by clicking it to expand."
+
+       Three things have to hold and only one of them is the animation. The tab must
+       exist on the OPEN state (the rail had only a toolbar button, nowhere near the
+       edge a reader looks at), the collapsed spine must be clickable back open, and
+       the travel between them must be interpolated rather than flipped.
+
+       `display:none` is what the rail did before, and no easing rescues it -- which
+       is why the assertion counts distinct widths instead of checking that a
+       transition is declared. Measured: 12 steps closing, 15 opening, 2 with the
+       transition killed. */
+    test: p => p.railTabOpen === true && p.railTabClosed === false
+               && p.railTabReopen === true
+               && p.railClosedW === 30 && p.railOpenW > 150
+               && p.railCloseSteps >= 6 && p.railOpenSteps >= 6
+               && p.railPoisonSteps <= 3,
+    detail: p => `tab open/closed/reopen ${p.railTabOpen}/${p.railTabClosed}/${p.railTabReopen}`
+               + ` · ${p.railOpenW}px to ${p.railClosedW}px`
+               + ` · ${p.railCloseSteps} closing / ${p.railOpenSteps} opening distinct widths`
+               + ` · ${p.railPoisonSteps} with the transition killed`,
+    poison: p => ({ ...p, railCloseSteps: 2 }),
+  },
 ];
 
 /* ---- the fit sweep ----------------------------------------------------------
@@ -570,6 +597,91 @@ async function dossierMeasure(page) {
     const adv = cv.measureText('M'.repeat(100)).width / 100;
     return adv > 0 ? Math.round(widest / adv) : -1;
   });
+}
+
+/* BOTH DRAWERS FOLD ON A CURVE, IN BOTH DIRECTIONS.
+   The dock's slide was got right on 27 August only because it was sampled every
+   frame: `.dock{transition:width}` never ran at all, and transitioning the grid
+   track on an UNREGISTERED custom property gave 30px -> 762px in ONE frame with a
+   140ms settle after it. Both looked like a slide in a screenshot and neither was.
+   The rail then repeated the family error a third time with `display:none`, which
+   is not interpolable at any duration.
+
+   So this counts DISTINCT WIDTHS across the transition rather than trusting that a
+   transition property is declared. A real eased fold produces a dozen or more; a
+   discrete flip produces two. The poison sets `transition:none` on the live page
+   and requires the count to collapse, which is what proves the sampler is watching
+   the animation rather than reporting a constant. */
+async function foldFrames(page, action) {
+  return await page.evaluate(async (act) => {
+    const app = document.getElementById('app');
+    const read = () => parseFloat(getComputedStyle(app).getPropertyValue('--rail-w')) || 0;
+    const out = [read()];
+    if (act === 'fold') { const t = document.querySelector('.rail-fold'); if (t) t.click(); }
+    else { const r = document.querySelector('.rail'); if (r) r.click(); }
+    await new Promise(res => {
+      let n = 0;
+      const tick = () => { out.push(read()); if (++n < 40) requestAnimationFrame(tick); else res(); };
+      requestAnimationFrame(tick);
+    });
+    return out;
+  }, action);
+}
+
+async function railSweep(page) {
+  await page.setViewportSize({ width: 1920, height: 1080 });
+  await page.waitForTimeout(700);
+  /* START FROM A KNOWN OPEN STATE, THROUGH THE REAL CONTROL. The sweeps before
+     this one drive FIT ALL and an entry path, both of which fold the rail, so
+     measuring "the fold" from whatever they left behind measures nothing.
+
+     And it has to be a CLICK on #railbtn rather than setting S.railOpen: the board
+     is wrapped in an IIFE, so S and applyChrome are module-private and unreachable
+     from page.evaluate -- the same constraint runtime_check.js is built around.
+     Reaching for them silently no-ops and the assertion then measures a rail that
+     nothing ever opened. */
+  await page.evaluate(() => {
+    const app = document.getElementById('app');
+    const rb = document.getElementById('railbtn');
+    if (app && app.classList.contains('rail-off') && rb) rb.click();
+  });
+  await page.waitForTimeout(700);
+  const tab = async () => await page.evaluate(() => !!document.querySelector('.rail-fold'));
+
+  const tabWhenOpen = await tab();
+  const closing = await foldFrames(page, 'fold');
+  await page.waitForTimeout(500);
+  const tabWhenClosed = await tab();
+  const opening = await foldFrames(page, 'open');
+  await page.waitForTimeout(500);
+  const tabAfterReopen = await tab();
+
+  /* PAGE POISON: kill the transition and fold again. A discrete flip must not be
+     able to pass a check written to detect a slide. */
+  await page.evaluate(() => {
+    const st = document.createElement('style');
+    st.id = 'railpoison';
+    st.textContent = '#app{transition:none !important}';
+    document.head.appendChild(st);
+  });
+  await page.waitForTimeout(300);
+  const poisoned = await foldFrames(page, 'fold');
+  await page.evaluate(() => {
+    const st = document.getElementById('railpoison'); if (st) st.remove();
+    const r = document.querySelector('.rail'); if (r) r.click();
+  });
+  await page.waitForTimeout(700);
+  await page.setViewportSize({ width: 2000, height: 1150 });
+  await page.waitForTimeout(700);
+
+  const distinct = a => new Set(a.map(v => Math.round(v))).size;
+  return {
+    railTabOpen: tabWhenOpen, railTabClosed: tabWhenClosed, railTabReopen: tabAfterReopen,
+    railCloseSteps: distinct(closing), railOpenSteps: distinct(opening),
+    railPoisonSteps: distinct(poisoned),
+    railClosedW: Math.round(closing[closing.length - 1]),
+    railOpenW: Math.round(opening[opening.length - 1]),
+  };
 }
 
 async function overlaySweep(page) {
@@ -1433,6 +1545,7 @@ async function probeImages(page, fixtures, opts) {
   const im = await probeImages(page, FIX);
   Object.assign(p, await headSweep(page));
   Object.assign(p, await overlaySweep(page));
+  Object.assign(p, await railSweep(page));
 
   const hard = errs.filter(e => !/font|ERR_CONNECTION_RESET|404|favicon/i.test(e));
   const lines = [], fails = [];
