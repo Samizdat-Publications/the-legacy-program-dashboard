@@ -14,11 +14,14 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/SHELL-2026-08-27.md` after this. **It is the
-current one.** The shell problems it describes are fixed: FIT draws the map at every window
-size, the dossier starts folded and slides, the analyst sizes to its content, and no era head
-prints under the controls. `notes/HANDOFF-2026-08-26-UX.md` is the previous one and is still
-the best statement of the diagnosis; its §4 priority list is done.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-27-shell.md` after this. **It is
+the current one.** Four PRs landed on 27 August and all are on `master`: the shell is usable,
+both panels fold on a curve in both directions, and the image register is at 12. **The only
+thing outstanding is the DEPLOY, which a cloud session cannot run** -- there is no Cloudflare
+token in the environment. `notes/SHELL-2026-08-27.md`, `notes/SHELL-DOCK-2026-08-27.md` and
+`notes/DRAWERS-2026-08-27.md` are that day's working records, in that order.
+`notes/HANDOFF-2026-08-26-UX.md` is still the best statement of the original diagnosis; its
+§4 priority list is done.
 
 **The lesson from 27 August is about process, not code: an unmerged PR is invisible to the
 next session.** PR #5 held the whole of 26 August -- the authored chip labels, the denial
@@ -55,7 +58,7 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
 | built artifact | `dist/the-program.html`, 14.7 MB |
-| gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 26 canvas assertions, all self-tested |
+| gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 30 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -106,7 +109,7 @@ python3 tools/verify.py --self-test          # every check shown rejecting bad i
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
 node    tools/runtime_check.js               # 28 DOM assertions in a real browser
-node    tools/test_packed_layout.js          # 26 assertions read back out of the canvas
+node    tools/test_packed_layout.js          # 30 assertions read back out of the canvas
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
