@@ -7135,7 +7135,7 @@ export const TIMELINE = [
     date: '2025-09-30',
     precision: 'day',
     label: 'NARA transfer deadline for UAP records passes',
-    text: 'NARA\'s guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 12 August 2026 seven agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State and FBI - and NARA has published no compliance list and no statement about agencies that did not transfer.',
+    text: 'NARA\'s guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 28 August 2026 eight agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State, FBI and the Department of the Air Force - and NARA has published no compliance list and no statement about agencies that did not transfer. Seven of the eight were in place by 22 May 2026; the Air Force arrived on 28 August 2026, eleven months after the deadline.',
     tier: '1',
     node: 'nara-rg615'
   },
@@ -8773,6 +8773,16 @@ export const TIMELINE = [
     text: 'Elizondo\'s second book, promising \'previously undisclosed evidence\', is scheduled for HarperCollins release with a 20-date speaking tour. Its DOPSR status is not yet public.',
     tier: 'B',
     node: 'reckoning-book'
+  },
+  {
+    id: 'tl-af-rg615-transfer',
+    strand: 'oversight',
+    date: '2026-08-28',
+    precision: 'day',
+    label: 'Air Force becomes the first military department to transfer into RG 615',
+    text: 'The National Archives accessioned \'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena\' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents\' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA.',
+    tier: '1',
+    node: 'nara-rg615'
   },
   {
     id: 'sap-tl-2029-dcsa',
