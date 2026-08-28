@@ -17467,6 +17467,160 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'salvatore-pais',
+    b: 'pais-patent-imrd',
+    type: 'programmatic',
+    label: 'Named inventor',
+    claimTier: 2,
+    dateStart: '2016-04-28',
+    dateEnd: '2018-12-04',
+    note: 'Application 15/141270, assigned to the Secretary of the Navy.',
+    sources: [
+      { name: 'US Patent 10,144,532', url: 'https://www.freepatentsonline.com/10144532.html', date: null }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'pais-patent-emfg',
+    type: 'programmatic',
+    label: 'Named inventor',
+    claimTier: 2,
+    dateStart: '2015-07-24',
+    dateEnd: '2018-11-20',
+    note: 'Application 14/807943, assigned to the Secretary of the Navy.',
+    sources: [
+      { name: 'US Patent 10,135,366', url: 'https://www.freepatentsonline.com/10135366.html', date: null }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'pais-patent-hfgw',
+    type: 'programmatic',
+    label: 'Named inventor',
+    claimTier: 2,
+    dateStart: '2017-02-14',
+    dateEnd: '2019-06-18',
+    note: 'Application 15/431823, assigned to the Secretary of the Navy.',
+    sources: [
+      { name: 'US Patent 10,322,827', url: 'https://www.freepatentsonline.com/10322827.html', date: null }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'pais-app-superconductor',
+    type: 'programmatic',
+    label: 'Named inventor',
+    claimTier: 2,
+    dateStart: '2017-08-16',
+    dateEnd: '2019-02-21',
+    note: 'Application 15/678672, assigned to the Secretary of the Navy.',
+    sources: [
+      {
+        name: 'US Application 2019/0058105',
+        url: 'https://www.freepatentsonline.com/20190058105.html',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'pais-app-fusion',
+    type: 'programmatic',
+    label: 'Named inventor',
+    claimTier: 2,
+    dateStart: '2018-03-22',
+    dateEnd: '2019-09-26',
+    note: 'Application 15/928703, assigned to the Secretary of the Navy.',
+    sources: [
+      {
+        name: 'US Application 2019/0295733',
+        url: 'https://www.freepatentsonline.com/20190295733.html',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'pax-205-disclosure',
+    type: 'programmatic',
+    label: 'Author of the Navy invention disclosure',
+    claimTier: 1,
+    dateStart: '2015-03-06',
+    dateEnd: null,
+    note: 'The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'pax-205-disclosure',
+    b: 'pais-patent-imrd',
+    type: 'programmatic',
+    label: 'Internal disclosure underlying the granted patent',
+    claimTier: 1,
+    dateStart: '2015-03-06',
+    dateEnd: '2018-12-04',
+    note: 'Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'pais-patent-imrd',
+    b: 'pais-patent-hfgw',
+    type: 'programmatic',
+    label: 'The disclosure says the IMRD enables the gravitational wave generator',
+    claimTier: 1,
+    dateStart: '2015-03-06',
+    dateEnd: null,
+    note: 'PAX 205 slide 5: \'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)\'.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244, slide 5',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'salvatore-pais',
+    b: 'l-pax-river',
+    type: 'institutional',
+    label: 'NAWCAD, NAS Patuxent River, at the time of filing',
+    claimTier: 1,
+    dateStart: '2015-07-24',
+    dateEnd: '2019-06-01',
+    note: 'The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244, p. 1',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'us-navy',
+    b: 'pais-patent-imrd',
+    type: 'institutional',
+    label: 'Assignee of record',
+    claimTier: 2,
+    dateStart: '2016-04-28',
+    dateEnd: null,
+    note: 'Assigned to \'The United States of America as represented by the Secretary of the Navy\'.',
+    sources: [
+      { name: 'US Patent 10,144,532', url: 'https://www.freepatentsonline.com/10144532.html', date: null }
+    ]
+  },
+  {
     a: 'lockheed-martin',
     b: 'bigelow-aerospace',
     type: 'custody',

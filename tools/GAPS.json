@@ -736,6 +736,26 @@
   "gap": "SKYWATCHER'S CORPORATE FORM AND FUNDING. The venture associated with Jake Barber has a public website and X presence but no located incorporation record, funding disclosure or personnel roster. Next step: Delaware or state corporate registries, and any SEC Form D filings."
  },
  {
+  "domain": "pais-patents",
+  "gap": "The Sheehy correspondence with the USPTO has not been obtained. It is the single most load-bearing document in this cluster and everything about the intervention is currently Tier 2 on secondary reporting. The file wrapper for application 15/141270 is the place it should exist, and it is retrievable from the USPTO Patent Center without an API key."
+ },
+ {
+  "domain": "pais-patents",
+  "gap": "The NAWCAD test records showing the roughly 500,000 USD spend and the negative result have not been obtained. Same problem, opposite direction: the strongest disconfirming fact on this node rests on secondary reporting."
+ },
+ {
+  "domain": "pais-patents",
+  "gap": "No primary personnel record establishes Pais's current office or title."
+ },
+ {
+  "domain": "pais-patents",
+  "gap": "Nothing in the released record connects Pais to AATIP, AAWSAP, KONA BLUE, any DIRD author, or any material-custody chain on this board. That absence is itself worth stating rather than assuming a link."
+ },
+ {
+  "domain": "pais-patents",
+  "gap": "The full text and claim sets of the five filings have not been read; only the bibliographic records and abstracts. The claims of US 10,144,532 in particular would show what the examiner actually allowed."
+ },
+ {
   "domain": "primes-custody",
   "gap": "No contractor has ever been subpoenaed. Across three House hearings (2023, 2024, 2025) at which Lockheed Martin was named on the record, no company representative was called, no document production was compelled, and no committee has reported requesting one."
  },

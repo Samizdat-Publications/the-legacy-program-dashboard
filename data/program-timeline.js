@@ -3330,6 +3330,16 @@ export const TIMELINE = [
     node: 'gallaudet-2015-email'
   },
   {
+    id: 'tl-pais-pax205-origin',
+    strand: 'program',
+    date: '2015-03-06',
+    precision: 'day',
+    label: 'Invention original date recorded for the Inertial Mass Reduction Device',
+    text: 'The NAVAIR invention-disclosure briefing for Navy Case PAX 205 records the invention original date as 06/03/2015 and states that the concept is theoretical with no prototype in existence.',
+    tier: '1',
+    node: 'pax-205-disclosure'
+  },
+  {
     id: 'sap-tl-2015-dodm',
     date: '2015-06-18',
     label: 'DoDM 5205.07 Volume 1 states exactly what a carve-out removes',
@@ -3400,6 +3410,16 @@ export const TIMELINE = [
     text: 'Elizondo\'s annual evaluation rates him exemplary; his supervisor writes that it \'cannot be overstated the importance of Mr. Elizondo\'s portfolio to national security\' and credits him with neutralising six insider threats.',
     tier: 'B',
     node: 'luis-elizondo'
+  },
+  {
+    id: 'tl-pais-imrd-filed',
+    strand: 'program',
+    date: '2016-04-28',
+    precision: 'day',
+    label: 'Navy files the inertial mass reduction craft application',
+    text: 'Application 15/141270, \'Craft using an inertial mass reduction device\', filed with the United States as represented by the Secretary of the Navy as assignee.',
+    tier: '2',
+    node: 'pais-patent-imrd'
   },
   {
     id: 'bb-tl-2016-113',
@@ -3702,6 +3722,16 @@ export const TIMELINE = [
     node: 'donald-kerr'
   },
   {
+    id: 'tl-pais-imrd-granted',
+    strand: 'program',
+    date: '2018-12-04',
+    precision: 'day',
+    label: 'US 10,144,532 granted',
+    text: 'The inertial mass reduction craft patent issued to the Secretary of the Navy. Reporting states the application had first been rejected and was granted after the Naval Aviation Enterprise chief technology officer asserted operability to the USPTO and cited Chinese development of comparable technology.',
+    tier: '2',
+    node: 'pais-patent-imrd'
+  },
+  {
     id: 'sap-tl-2018-115390',
     date: '2018-12-21',
     label: 'House Oversight and Senate HSGAC written into the SAP reporting statute',
@@ -3886,6 +3916,16 @@ export const TIMELINE = [
     text: '\'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).\' She adds that DIA administered AATIP and Elizondo was never assigned to DIA.',
     tier: 'A',
     node: 'susan-gough'
+  },
+  {
+    id: 'tl-pais-hfgw-granted',
+    strand: 'program',
+    date: '2019-06-18',
+    precision: 'day',
+    label: 'US 10,322,827 granted',
+    text: 'The high frequency gravitational wave generator patent issued to the Secretary of the Navy.',
+    tier: '2',
+    node: 'pais-patent-hfgw'
   },
   {
     id: 'av-2019-07-14',

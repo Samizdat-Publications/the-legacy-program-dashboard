@@ -81,7 +81,16 @@ const check = (c, label, detail = '') => {
   await page.click('[data-view="CASES"]');
   await page.waitForTimeout(2500);
   const cases = await page.evaluate(() => document.body.innerText);
-  check(/278 of 278 records shown/.test(cases), 'case view shows every record');
+  // Read from golden, like the four stats-strip checks above. This line used to
+  // hardcode '278 of 278', which is the exact staleness the comment at the top of
+  // this block warns about -- it survived only because no person node was added
+  // between the day it was written and 28 August 2026. Asserting shown === total ===
+  // golden is strictly stronger than the literal was: it still catches a dropped
+  // record, and it also catches the two numbers disagreeing with each other.
+  const m = cases.match(/(\d+) of (\d+) records shown/);
+  check(!!m && m[1] === String(g.people) && m[2] === String(g.people),
+        'case view shows every record',
+        m ? `${m[1]} of ${m[2]} vs golden ${g.people}` : 'no "N of N records shown" text found');
   check(!/jesse-marcel-sr|ndaa24-sec1687|aaro-fy2025-report\b/.test(cases),
         'ids collapsed on 22 Aug do not reappear');
   check(!/Re-pointed from a collapsed duplicate/.test(cases),
@@ -232,13 +241,25 @@ const check = (c, label, detail = '') => {
       }
       return hs.join('|');
     });
-    const settle = async (tries = 30) => {
+    /* Quiet has to be ESTABLISHED, not glimpsed. This used to return on the first
+       pair of matching samples, and a force layout still converging can hand you two
+       identical frames in a row -- alpha dips, or a frame boundary -- and then carry
+       on moving, which holdsStill() below then caught as "settled and then started
+       moving again". Intermittently: 7 new nodes on 28 August 2026 made it fail about
+       one run in two. Requiring several consecutive matches does not weaken the check,
+       because a genuine time-direction flow never produces ANY run of identical frames
+       and still fails here on the settle timeout. */
+    const QUIET_RUN = 3;
+    const SETTLE_TRIES = 45;
+    const settle = async (tries = SETTLE_TRIES) => {
       let prev = await hashOnce();
+      let run = 0;
       for (let i = 0; i < tries; i++) {
         await page.waitForTimeout(400);
         const now = await hashOnce();
-        if (now === prev) return true;
+        run = (now === prev) ? run + 1 : 0;
         prev = now;
+        if (run >= QUIET_RUN) return true;
       }
       return false;
     };
@@ -255,7 +276,7 @@ const check = (c, label, detail = '') => {
     check(settled && still, 'the full graph asserts no time direction at rest',
           settled ? (still ? 'settled, then held still for 2s'
                            : 'settled and then started moving again')
-                  : 'never settled within 12s, which is what a flow on every line looks like');
+                  : `never settled within ${SETTLE_TRIES * 400 / 1000}s, which is what a flow on every line looks like`);
     await page.evaluate(() => {
       const B = window.__board; B.S.sel = (B.L0DATA.l0 || [])[0].id;
     });
