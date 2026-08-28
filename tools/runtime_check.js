@@ -16,13 +16,14 @@
  * real clicks, which is what a reader actually gets.
  *
  * Run it:
- *   node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+ *   npx http-server dist -p 8899 --silent &   # or the container copy under /opt/node22
  *   node tools/runtime_check.js
  *
  * file:// does not work for this page -- a 13MB document served over file://
  * never finished parsing in the container. Serve it over HTTP.
  */
-const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const fs = require('fs');
 const path = require('path');
 const ROOT = path.resolve(__dirname, '..');
@@ -38,10 +39,9 @@ const check = (c, label, detail = '') => {
 };
 
 (async () => {
-  const browser = await chromium.launch({
-    executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
+  const browser = await chromium.launch(launchOptions({
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
-  });
+  }));
   const page = await browser.newPage({ viewport: { width: 1600, height: 1000 } });
   const errs = [];
   page.on('pageerror', e => errs.push('PAGEERROR: ' + e.message.slice(0, 160)));

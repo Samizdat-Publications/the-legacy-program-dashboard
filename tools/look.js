@@ -36,12 +36,13 @@
  * control row goes 25px tall at 2560 to 149px at 1366.
  *
  * Run it:
- *   node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+ *   npx http-server dist -p 8899 --silent &   # or the container copy under /opt/node22
  *   node tools/look.js                 # the standard sweep -> dist/shots/
  *   node tools/look.js --size 1920x1080
  *   node tools/look.js --out /tmp/x    # somewhere other than dist/shots
  */
-const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const fs = require('fs');
 const path = require('path');
 
@@ -95,10 +96,9 @@ const clickCtl = async (page, label) => {
 
 (async () => {
   const GEO = readGeo();
-  const browser = await chromium.launch({
-    executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
+  const browser = await chromium.launch(launchOptions({
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
-  });
+  }));
   fs.mkdirSync(OUT, { recursive: true });
   const rows = [];
 

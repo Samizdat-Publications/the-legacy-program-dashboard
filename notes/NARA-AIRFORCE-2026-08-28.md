@@ -96,6 +96,74 @@ the PDFs.
 pages 6 and 7 of `342UAP00005`. The remaining pages have not been read, so this note says
 what the document is and does not claim what it does or does not contain.*
 
+**Second pass, later the same day: all thirty PDFs were downloaded, 8,093 pages.** Section
+3a records what is in them. The catalog-titles warning got worse on inspection, not better.
+
+## 3a. What the thirty documents actually are
+
+**The 1947 correspondence file is the Maury Island file.** Item `342UAP00026`, catalogued
+only as "Correspondence Regarding Unidentified Flying Objects, 1947", is **Fourth Air Force
+file 212.1**, 302 pages, indexed on Fourth AF Form No. 219 "LIST OF PAPERS" with at least 51
+numbered serials from 7 January to 22 December 1947. The index is the finding on its own.
+Serial 44, in the file's own words:
+
+> Rept, facts regarding Disc story, Fred Crisman, Harold Dahl & crashed B-25, Tacoma, Wash
+> area -- 22 Aug 47 -- Dir FBI
+
+Around it sit a request for a statement from Richard Harkins, a Western Union message from
+H. Dahl, TWX 150 on the crashed B-25, and newspaper clippings on the B-25 crash at Kelso,
+Washington. Serials 4 and 9 are Kenneth Arnold correspondence, including R.A. Palmer of
+Ventura Press asking Arnold for an article. Serials 40 and 51 are FBI liaison, outbound to
+San Francisco and inbound from Phoenix.
+
+**The board has `kenneth-arnold` and nothing else from that complex** -- no Maury Island, no
+Crisman, no Dahl, no Kelso B-25. Whether to build it out is section 7, question 1, and it is
+Stewart's call, not a research pass's.
+
+**RAND is in this docket twice, sixteen years apart, and that is the most interesting
+structural fact in the thirty.**
+
+| item | what it is |
+|---|---|
+| `342UAP00003` "Curtis LeMay Collection, 1945-1947" | carries a 5 August 1947 Operations Analysis report to the Deputy Chief of Air Staff for R&D: *"The principal AAF activity in this particular field is Project RAND (AAF Project MX-791)."* |
+| `342UAP00025` "A Survey of Exobiology" | RAND Memorandum **RM-3178-PR**, March 1963, by Paul G. Seybold, "PREPARED FOR: UNITED STATES AIR FORCE PROJECT RAND" |
+
+The 1947 report also books June 1947 man-days on Project RAND: military 30, civilian 10,
+RAND proper 2,200, RAND subcontractors 1,400, **total 3,600**. Contractor effort at roughly
+ninety times government effort, at the point RAND was still inside Douglas Aircraft. That is
+a funding-shape datapoint on a node the board already carries, from the Air Force's own file,
+dated five weeks after Arnold.
+
+**`342UAP00024` is by General Ira C. Eaker and the catalog does not say so.** Catalogued as
+"I Once Saw A Flying Saucer - Project Blue Book, April 18, 1966", it is a piece by Eaker
+opening on the 5 April 1966 House Armed Services Committee appearance of Harold Brown and
+General J.P. McConnell, and citing more than 10,000 sightings investigated with 663
+unexplained.
+
+### The page identifiers are wrong on four of the thirty
+
+Every page in this series carries a machine-readable identifier stamped during processing.
+It is the **only** text in the files -- the scans have no OCR layer, so 8,093 pages of Air
+Force records arrive unsearchable. On four items that stamp belongs to a different record:
+
+| item | its own id | stamped with | which belongs to |
+|---|---|---|---|
+| `342UAP00003` LeMay Collection | 00124399 | **00105830** | `342UAP00002` |
+| `342UAP00004` MacDill Field, 970pp | 00174934 | **00105830** | `342UAP00002` |
+| `342UAP00007` 4602d AISS Vol. 1, 762pp | 00423077 | **00105830** | `342UAP00002` |
+| `342UAP00027` Correspondence 1949 | 01030308 | **01030306** | `342UAP00026` |
+
+One identifier, `00105830`, is stamped across four different documents. In `342UAP00003` the
+correct number appears only on a **physical label photographed on the page**, which is how
+the mismatch was caught -- the digital stamp and the paper disagree in the same image.
+
+The first pass of this check reported five, not four. The fifth was mine: NARA's filename for
+`342UAP00022` omits the zero padding (`500225_...`), my slice took eight characters, and the
+comparison was against a mangled key. Re-run against the catalog's own
+`Agency-Assigned Identifier` rather than the filename, it is four. **Recorded because a
+counting method that reads an identifier out of a filename is exactly the shortcut this
+finding is about.**
+
 ## 4. What was verified, and how
 
 Everything above comes from NARA's own catalog and from the PDFs, not from the news item and
@@ -123,7 +191,10 @@ not from the archives.gov prose.
 | `research/dossiers/w4-entity-dossiers-1.json` | `nara-uap-collection` dossier: whyImplicated, the absences paragraph and the closing line corrected; open question 1 re-counted; 7 new claims |
 | `research/w2-agencies.json` | `nara-uap-collection` entity: 7 new claims |
 | `tools/GOLDEN.json` | deliberately re-baselined: timeline 858 -> 859, T1 claims 2772 -> 2786, unique source URLs 1225 -> 1227, L0 dossier claims 1548 -> 1562. Nothing else moved |
+| `research/ffrdcs.json`, `research/dossiers/w5-batch-08.json` | `rand-corporation`: 4 new T1 claims on the two RAND items in the Air Force docket |
+| `research/history-1940s-1960s.json` | `kenneth-arnold`: 1 new T1 claim on the Fourth Air Force 1947 serials |
 | `notes/NARA-AIRFORCE-2026-08-28.md` | this file |
+| `notes/GATE-PORTABILITY-2026-08-28.md` | the separate CI/portability finding, same day |
 
 The golden manifest caught this before it shipped, which is the tripwire doing its job: the
 first gate run after the edit came back `verify FAIL`, `runtime_check FAIL`, `--idempotent
@@ -168,15 +239,28 @@ repo's standing rule is not to silence a pin that is working. It is reported ins
 
 ## 7. What is left
 
-1. **The other 29 PDFs have not been read.** Eighteen are unit histories and the UAP passage
-   inside each is the actual content; nobody has located those passages. This is the research,
-   and it is now available without a FOIA request.
-2. **Fifteen months between declassification and accession.** `notes/REQUEST-QUEUE.md` §1 item
+1. **Maury Island is a decision for Stewart, not a research pass.** The Fourth Air Force 1947
+   file indexes the Crisman / Dahl / crashed-B-25 report to the Director of the FBI, and the
+   board carries `kenneth-arnold` and nothing else from that complex. Building out Maury
+   Island, Fred Crisman, Harold Dahl and the Kelso B-25 would be a new cluster on a board
+   whose scope is the recovery-and-reverse-engineering programme. The material-fragments and
+   custody angle puts it in scope on the face of it; that is not the same as deciding to
+   spend a research wave on it. **Not built. Asking first.** Same question, smaller, for
+   Curtis LeMay and Ira Eaker, both of whom now have a primary document on this board's
+   subject and neither of whom is a node.
+2. **The eighteen unit histories have not been read for their UAP passages.** The catalogued
+   subject of each is a monthly wing or division history; the UAP content is a passage
+   somewhere inside. Nobody has located those passages, and with no OCR layer nobody can grep
+   for them. This is the actual research the transfer opened up, and it needs no FOIA request.
+3. **The series has no OCR layer.** 8,093 pages, unsearchable as released. OCRing it locally
+   is a day's compute and would turn the whole transfer into something the board's own tooling
+   could search. Worth doing before the unit-history pass, not after.
+4. **Fifteen months between declassification and accession.** `notes/REQUEST-QUEUE.md` §1 item
    1 is already a NARA request for the RG 615 compliance register. This transfer gives it a
    concrete hook: ask for the transmittal correspondence for TR-0615-2026-0003 and the dates
    of the Air Force's section 1842(c)(1) certification.
-3. **Whether thirty is the whole Air Force return.** The docket is contiguous, which suggests
+5. **Whether thirty is the whole Air Force return.** The docket is contiguous, which suggests
    it is complete as a docket, but AFOSI and AFHRA Maxwell hold more. REQUEST-QUEUE §1 items
    10, 15 and 18 all target the Air Force and should be re-read against this.
-4. **No image work was done here.** Several of these are scanned federal works and would clear
+6. **No image work was done here.** Several of these are scanned federal works and would clear
    17 U.S.C. 105 for `data/l0-images.json`, but that is the image pass, not this one.

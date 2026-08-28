@@ -20,7 +20,7 @@
    "C": 479
   },
   "claim_tiers": {
-   "1": 2786,
+   "1": 2798,
    "2": 1246,
    "3": 495
   },
@@ -29,7 +29,7 @@
    "2": 575,
    "3": 199
   },
-  "unique_source_urls": 1227,
+  "unique_source_urls": 1231,
   "l0_nodes": 110,
   "l0_edges_direct": 217,
   "l0_edges_summarised": 109,
@@ -37,7 +37,7 @@
   "path_only": 40,
   "unattached": 0,
   "l0_with_dossier": 110,
-  "l0_dossier_claims": 1562,
+  "l0_dossier_claims": 1573,
   "people_with_date": 278,
   "locations_with_coords": 45
  }

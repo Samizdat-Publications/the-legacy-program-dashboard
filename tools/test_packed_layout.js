@@ -31,11 +31,12 @@
  * drawing canvas and had never once fired.
  *
  * Run it:
- *   node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+ *   npx http-server dist -p 8899 --silent &   # or the container copy under /opt/node22
  *   node tools/test_packed_layout.js
  *   node tools/test_packed_layout.js --self-test
  */
-const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const fs = require('fs');
 const zlib = require('zlib');
 const path = require('path');
@@ -1527,10 +1528,9 @@ async function probeImages(page, fixtures, opts) {
     path.join(ROOT, 'data', 'l0-layout-model.json'), 'utf8'));
   const restDrawnFigure = layout.current.figures.restDrawn;
 
-  const browser = await chromium.launch({
-    executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
+  const browser = await chromium.launch(launchOptions({
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
-  });
+  }));
   /* 2000x1150. The REASON for this size changed on 27 August and the old one is
      recorded here because it explains the shape of the file.
 

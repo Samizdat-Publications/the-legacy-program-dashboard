@@ -13,15 +13,15 @@
  * The board is wrapped in an IIFE, so page internals are unreachable from evaluate().
  * Read the DOM. And file:// does not work for a 13MB page: serve it over HTTP.
  */
-const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const fs = require('fs'), path = require('path');
 const ROOT = path.dirname(__dirname);
 const URL_ = process.env.BOARD_URL || 'http://127.0.0.1:8899/the-program.html';
 
 (async () => {
-  const browser = await chromium.launch({
-    executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
-  });
+  const browser = await chromium.launch(launchOptions({
+  }));
   const page = await browser.newPage();
   await page.goto(URL_, { waitUntil: 'load', timeout: 180000 });
   await page.waitForFunction(

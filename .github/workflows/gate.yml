@@ -1,0 +1,130 @@
+# The gate, run somewhere that is not one person's container.
+#
+# WHY. Until 28 August 2026 the gate could only ever run in the Claude Code cloud
+# container, because four of its steps hardcoded that container's Chromium path.
+# So "the gate is green" was a sentence exactly one actor could say, and nothing
+# checked a push made by anyone else. tools/browser_env.js fixed the portability;
+# this file is what portability was FOR.
+#
+# COST. This repository is private, so these minutes are billed against the account's
+# Actions allowance. A run is roughly 12-15 minutes, most of it `verify.py
+# --idempotent`, which builds the board twice and compares. If that is not wanted,
+# delete this file -- the gate still runs locally and nothing else depends on it.
+#
+# WHAT IT DOES NOT DO. It does not deploy. The Cloudflare Pages deploy stays manual
+# and stays Stewart's, per DEPLOY.md.
+
+name: gate
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: gate-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The board's own history carries a 15MB dist/ and 13MB of data/ per commit,
+          # so a full clone is large and none of it is needed to run the gate.
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # No pip step. Every tool the gate runs is Python standard library plus this
+      # repo's own modules. pypdf appears in tools/spot_check.py, which is a network
+      # tool deliberately kept OUT of the gate -- CLAUDE.md section 9 item 9 explains
+      # why: a check that fails because a host is throttling is a check people learn
+      # to ignore. If you add a dependency, add it here and say what needs it.
+
+      - name: Install Playwright and a browser
+        # Pinned to the version the tools were written against. browser_env.js finds
+        # whatever this installs -- no path is baked into the source any more.
+        run: |
+          npm install --no-save playwright@1.56.1 http-server@14
+          npx playwright install --with-deps chromium
+
+      - name: Resolve the browser, and prove the resolver
+        # First, because if this fails the browser gate steps cannot start and every
+        # later failure would be noise. It is also the one gate step that needs no
+        # browser and no server, so it is the cheapest place to learn the truth.
+        run: |
+          node -e "console.log(require('./tools/browser_env').describe())"
+          node tools/test_browser_env.js --self-test
+
+      - name: Build
+        # Order matters and is not negotiable: later stages consume earlier output.
+        # CLAUDE.md section 3 is the authority.
+        run: |
+          python3 tools/merge.py
+          python3 tools/regrade.py
+          python3 tools/merge.py
+          python3 tools/build_l0.py
+          python3 tools/build_design_extract.py
+          node    tools/build_l0_layout.mjs
+          python3 tools/build_dashboard.py
+
+      - name: The build must be reproducible from what is committed
+        # A rebuild from committed source must reproduce the committed artifacts. If
+        # this fails, someone edited research/ and pushed without rebuilding, or
+        # edited a build product by hand -- and the board a reader sees is not the
+        # board the sources describe. Nothing else catches that.
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::rebuilding from committed source changed tracked files."
+            echo "Run the section 3 pipeline and commit the result."
+            git diff --stat
+            exit 1
+          fi
+          echo "committed artifacts match a fresh build"
+
+      - name: Serve the board
+        # file:// does not work for a 15MB page: it never finishes parsing.
+        run: |
+          npx http-server dist -p 8899 --silent &
+          for i in $(seq 1 30); do
+            curl -sfo /dev/null http://127.0.0.1:8899/the-program.html && break
+            sleep 1
+          done
+          curl -sSo /dev/null -w 'board serves: %{http_code}\n' \
+            http://127.0.0.1:8899/the-program.html
+
+      - name: Gate
+        # state_snapshot --gate runs every check and reports them together. It exits
+        # non-zero when any step fails, and names a skip rather than reporting a
+        # browser problem as a board problem.
+        env:
+          BOARD_URL: http://127.0.0.1:8899/the-program.html
+        run: python3 tools/state_snapshot.py --gate
+
+      - name: Screenshots, for a human to look at
+        # A camera, not a check: it asserts nothing and must never fail the run.
+        # CLAUDE.md section 3 -- looking is available, so make it available here too.
+        if: always()
+        continue-on-error: true
+        env:
+          BOARD_URL: http://127.0.0.1:8899/the-program.html
+        run: node tools/look.js
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: shots
+          path: dist/shots/
+          if-no-files-found: ignore
+          retention-days: 14

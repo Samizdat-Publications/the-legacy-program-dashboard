@@ -194,6 +194,11 @@ def _board_served():
 def run_gate():
     """Run the gate and report per-command. Slow; --idempotent builds twice."""
     cmds = [
+        # Runs first and needs no browser: it decides whether the browser steps CAN
+        # start. Four of them used to hardcode this container's Chromium path, so off
+        # this machine they died with ENOENT before asserting anything.
+        ("browser_env --self-test",
+         ["node", _p("tools", "test_browser_env.js"), "--self-test"], False),
         ("verify", [sys.executable, _p("tools", "verify.py")], False),
         ("verify --self-test", [sys.executable, _p("tools", "verify.py"), "--self-test"], False),
         ("capture_strip", ["node", _p("tools", "capture_strip.js")], True),
@@ -210,9 +215,8 @@ def run_gate():
     results = {}
     for name, cmd, needs_browser in cmds:
         if needs_browser and not served:
-            results[name] = ("SKIPPED -- nothing serving %s. Run: node "
-                             "/opt/node22/lib/node_modules/http-server/bin/"
-                             "http-server dist -p 8899 --silent &" % BOARD_URL)
+            results[name] = ("SKIPPED -- nothing serving %s. Run: "
+                             "npx http-server dist -p 8899 --silent &" % BOARD_URL)
             continue
         try:
             env = dict(os.environ, BOARD_URL=BOARD_URL)
