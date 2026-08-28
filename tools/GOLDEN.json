@@ -4,7 +4,7 @@
   "people": 279,
   "entities": 684,
   "edges": 2169,
-  "timeline": 863,
+  "timeline": 866,
   "entity_classes": {
    "document": 199,
    "domain": 59,
@@ -20,9 +20,9 @@
    "C": 482
   },
   "claim_tiers": {
-   "1": 2811,
+   "1": 2821,
    "2": 1255,
-   "3": 499
+   "3": 500
   },
   "edge_tiers": {
    "1": 1389,

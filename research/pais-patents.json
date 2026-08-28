@@ -67,6 +67,26 @@
     {
      "date": "2019-06-18",
      "text": "US 10,322,827 granted."
+    },
+    {
+     "date": "2016-05-02",
+     "text": "Application referred by L&R for third-level security review; cleared without a secrecy order."
+    },
+    {
+     "date": "2018-03-27",
+     "text": "Final rejection of application 15/141,270."
+    },
+    {
+     "date": "2018-06-21",
+     "text": "Notice of Appeal filed."
+    },
+    {
+     "date": "2018-08-21",
+     "text": "Appeal Brief filed, with a Rule 131/132 affidavit received 20 August 2018."
+    },
+    {
+     "date": "2023-01-09",
+     "text": "US 10,144,532 expired for non-payment of maintenance fees under 37 CFR 1.362."
     }
    ],
    "claims": [
@@ -139,6 +159,51 @@
      "tier": 3,
      "text": "The clearance argument does survive against a narrower and more defensible claim: classification constrains what a cleared person may say about the ORIGIN of a concept, not about whether hardware sits on his bench. A person read into a compartment could write 'no prototype in existence' truthfully while being unable to state that he knew the effect to be real from data he was not free to cite. Nothing in the released record establishes that this is what happened, and nothing in it excludes the possibility. Reasoning: stated inference distinguishing two different questions the same sentence is often taken to answer.",
      "source": "Stated inference; no primary record bears on the origin question either way"
+    },
+    {
+     "tier": 1,
+     "text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The application was pulled for security screening at filing. USPTO events record 'Referred to Level 2 (LARS) by OIPE CSR' and 'Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated', both dated 2 May 2016, with 'Waiting LR clearance' on 12 May 2016. It cleared; no secrecy order issued.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018; final rejection 27 March 2018; response after final with a Rule 131 or 132 affidavit 24 May 2018; Notice of Appeal filed 21 June 2018; advisory action 6 July 2018; Appeal Brief filed 21 August 2018 with a second Rule 131 or 132 affidavit received 20 August 2018; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ruled.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The examiner of record was Philip J. Bonzell, Group Art Unit 3642. The attorneys of record were Mark Glut (USPTO registration 38,161), Robert S. Gorman (41,790) and Rohit K. Dewan (74,007), all of the Department of the Navy, Naval Air Warfare Center Aircraft Division, Office of Counsel, 47076 Liljencrantz Road, Building 435, Patuxent River, Maryland.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The assignment of record is reel 38412, frame 0760: assignor PAIS, SALVATORE, execution date 27 April 2016, recorded 28 April 2016, assignee DEPARTMENT OF THE NAVY, attorney docket number PAX 205. This is the documentary link between the granted patent and the NAVAIR invention-disclosure briefing released under FOIA, which carries the same Navy case number.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.'",
+     "source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205"
+    },
+    {
+     "tier": 1,
+     "text": "Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference.",
+     "source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205"
+    },
+    {
+     "tier": 1,
+     "text": "The application as filed states the craft 'can be, but without limitation, a cone or lenticular triangle / delta wing configuration', and its two figures show a triangular craft and a diamond craft, each enclosed in the polarized vacuum boundary. The published drawings are the only depiction of the intended craft geometry in the federal record.",
+     "source": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205"
+    },
+    {
+     "tier": 3,
+     "text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. Publication in November 2017 already created permanent prior art blocking any foreign filing, so the appeal bought nothing defensive; what it bought was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
     }
    ],
    "sources": [
@@ -174,7 +239,9 @@
    "unverified": [
     "Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.",
     "His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.",
-    "Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here."
+    "Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.",
+    "Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.",
+    "The Reasons for Allowance dated 24 October 2018 has not been read. It states what actually persuaded the examiner to reverse a final rejection, and is the most informative unread document in the file wrapper."
    ],
    "sequenceChain": [],
    "unexplainedResidual": "Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents."
@@ -230,7 +297,7 @@
    "A": 1,
    "D": 0,
    "dateStart": "2016-04-28",
-   "dateEnd": "2018-12-04",
+   "dateEnd": "2023-01-09",
    "claims": [
     {
      "tier": 2,
@@ -241,6 +308,16 @@
      "tier": 2,
      "text": "The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'.",
      "source": "https://www.freepatentsonline.com/10144532.html"
+    },
+    {
+     "tier": 1,
+     "text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018; final rejection 27 March 2018; response after final with a Rule 131 or 132 affidavit 24 May 2018; Notice of Appeal filed 21 June 2018; advisory action 6 July 2018; Appeal Brief filed 21 August 2018 with a second Rule 131 or 132 affidavit received 20 August 2018; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ruled.",
+     "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
     }
    ],
    "sources": [
@@ -561,6 +638,36 @@
    "text": "The high frequency gravitational wave generator patent issued to the Secretary of the Navy.",
    "tier": "2",
    "node": "pais-patent-hfgw"
+  },
+  {
+   "id": "tl-pais-security-review",
+   "strand": "mechanism",
+   "date": "2016-05-02",
+   "precision": "day",
+   "label": "Pais craft application referred for third-level security review",
+   "text": "USPTO events record the inertial mass reduction craft application referred to Level 2 (LARS) and then by L&R for third-level security review, the screening that decides whether a filing receives a secrecy order. It cleared.",
+   "tier": "1",
+   "node": "pais-patent-imrd"
+  },
+  {
+   "id": "tl-pais-appeal",
+   "strand": "mechanism",
+   "date": "2018-06-21",
+   "precision": "day",
+   "label": "Navy appeals the rejection of the inertial mass reduction craft patent",
+   "text": "After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled.",
+   "tier": "1",
+   "node": "pais-patent-imrd"
+  },
+  {
+   "id": "tl-pais-expiry",
+   "strand": "mechanism",
+   "date": "2023-01-09",
+   "precision": "day",
+   "label": "US 10,144,532 expires for non-payment of maintenance fees",
+   "text": "Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain.",
+   "tier": "1",
+   "node": "pais-patent-imrd"
   }
  ],
  "entityInfo": {},

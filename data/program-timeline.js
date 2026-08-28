@@ -3422,6 +3422,16 @@ export const TIMELINE = [
     node: 'pais-patent-imrd'
   },
   {
+    id: 'tl-pais-security-review',
+    strand: 'program',
+    date: '2016-05-02',
+    precision: 'day',
+    label: 'Pais craft application referred for third-level security review',
+    text: 'USPTO events record the inertial mass reduction craft application referred to Level 2 (LARS) and then by L&R for third-level security review, the screening that decides whether a filing receives a secrecy order. It cleared.',
+    tier: '1',
+    node: 'pais-patent-imrd'
+  },
+  {
     id: 'bb-tl-2016-113',
     strand: 'oversight',
     date: '2016-07-26',
@@ -3660,6 +3670,16 @@ export const TIMELINE = [
     text: '\'The military keeps encountering UFOs. Why doesn\'t the Pentagon care?\' — a former Deputy Assistant Secretary of Defense for Intelligence taking the question to the op-ed page.',
     tier: 'B',
     node: 'christopher-mellon'
+  },
+  {
+    id: 'tl-pais-appeal',
+    strand: 'program',
+    date: '2018-06-21',
+    precision: 'day',
+    label: 'Navy appeals the rejection of the inertial mass reduction craft patent',
+    text: 'After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled.',
+    tier: '1',
+    node: 'pais-patent-imrd'
   },
   {
     id: 'tl-2018-08-earthtech',
@@ -4745,6 +4765,16 @@ export const TIMELINE = [
     text: 'The FY2023 NDAA (P.L. 117-263) codifies AARO and its public reporting mandate at 50 U.S.C. 3373, including the annual report deadline AARO later misses.',
     tier: 'A',
     node: 'aaro'
+  },
+  {
+    id: 'tl-pais-expiry',
+    strand: 'program',
+    date: '2023-01-09',
+    precision: 'day',
+    label: 'US 10,144,532 expires for non-payment of maintenance fees',
+    text: 'Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain.',
+    tier: '1',
+    node: 'pais-patent-imrd'
   },
   {
     date: '2023-01-10',
