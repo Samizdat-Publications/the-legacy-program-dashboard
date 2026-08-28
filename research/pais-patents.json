@@ -1,6 +1,6 @@
 {
  "domain": "pais-patents",
- "_scope": "Salvatore Cezar Pais and the five Navy-assigned patent filings in his name, 2015-2019, plus the NAVAIR invention-disclosure briefing released under FOIA. Built 28 August 2026. EVERY bibliographic figure here was read off a patent record; the PAX 205 claims were read off the released Navy PDF page by page. The Sheehy intervention and the NAWCAD test result are Tier 2 pending a primary copy -- see gaps.",
+ "_scope": "Salvatore Cezar Pais and the five Navy-assigned patent filings in his name, 2015-2019, plus the NAVAIR invention-disclosure briefing released under FOIA. Built 28 August 2026. EVERY bibliographic figure here was read off a patent record; the PAX 205 claims were read off the released Navy PDF page by page. The Sheehy intervention is now Tier 1: the 15 December 2017 letter and the 11 May 2018 declaration were read from the USPTO file wrapper on 28 August 2026 and the secondary account of them turned out to be wrong. The NAWCAD test result remains Tier 2 pending a primary copy -- see gaps.",
  "people": [
   {
    "id": "salvatore-pais",
@@ -45,6 +45,14 @@
      "text": "Application 15/141270 filed, 'Craft using an inertial mass reduction device' (Navy Case PAX 205)."
     },
     {
+     "date": "2016-05-02",
+     "text": "Application referred by L&R for third-level security review; cleared without a secrecy order."
+    },
+    {
+     "date": "2016-12-01",
+     "text": "Approximate start of NAWCAD-funded experimental work on the IMRD test article, derived from Sheehy's statement in December 2017 that Pais was 'one year into the project'."
+    },
+    {
      "date": "2017-02-14",
      "text": "Application 15/431823 filed, 'High frequency gravitational wave generator'."
     },
@@ -53,8 +61,36 @@
      "text": "Application 15/678672 filed, 'Piezoelectricity-induced Room Temperature Superconductor'."
     },
     {
+     "date": "2017-12-15",
+     "text": "NAE Chief Technology Officer writes to the examiner directly (NAVAIR Ser 40T/33), conceding the concept is 'beyond the state of the possible, at least at present' and arguing the Navy should hold the patent regardless."
+    },
+    {
+     "date": "2018-01-17",
+     "text": "Telephonic examiner interview with Bonzell, Glut and Pais. No exhibit, no demonstration, no agreement."
+    },
+    {
      "date": "2018-03-22",
      "text": "Application 15/928703 filed, 'Plasma Compression Fusion Device'."
+    },
+    {
+     "date": "2018-03-27",
+     "text": "Final rejection of application 15/141,270."
+    },
+    {
+     "date": "2018-05-11",
+     "text": "Sheehy signs a declaration under 37 C.F.R. 1.132 asserting enablement; filed 24 May 2018 and re-filed unchanged in the Appeal Brief."
+    },
+    {
+     "date": "2018-06-21",
+     "text": "Notice of Appeal filed."
+    },
+    {
+     "date": "2018-07-11",
+     "text": "Advisory Action: the examiner agrees the math and physics are sound, holds the claims still not enabled, and asks for a demonstration."
+    },
+    {
+     "date": "2018-08-21",
+     "text": "Appeal Brief filed by NAWCAD Office of Counsel, re-filing the 11 May declaration in its Evidence Appendix."
     },
     {
      "date": "2018-11-20",
@@ -67,22 +103,6 @@
     {
      "date": "2019-06-18",
      "text": "US 10,322,827 granted."
-    },
-    {
-     "date": "2016-05-02",
-     "text": "Application referred by L&R for third-level security review; cleared without a secrecy order."
-    },
-    {
-     "date": "2018-03-27",
-     "text": "Final rejection of application 15/141,270."
-    },
-    {
-     "date": "2018-06-21",
-     "text": "Notice of Appeal filed."
-    },
-    {
-     "date": "2018-08-21",
-     "text": "Appeal Brief filed, with a Rule 131/132 affidavit received 20 August 2018."
     },
     {
      "date": "2023-01-09",
@@ -136,9 +156,9 @@
      "source": "Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board"
     },
     {
-     "tier": 2,
-     "text": "Reporting states that after the inertial mass reduction application was initially rejected, Dr James Sheehy, chief technology officer of the Naval Aviation Enterprise, wrote to the USPTO asserting that the invention was operable and warning that the Chinese military were developing comparable technology, and that the patent was subsequently granted.",
-     "source": "Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais; the Sheehy correspondence itself has not been obtained for this board"
+     "tier": 1,
+     "text": "The Sheehy intervention is a real document and it is not what the secondary reporting describes. On 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote to the examiner by name on NAVAIR letterhead (Ser 40T/33, from AIR 4.0T, to 'Mr. Philip J. Bonzell, Primary Patent Examiner'). Rather than asserting the invention was operable, Sheehy opened by CONCEDING the examiner's point: 'Dr Pais has shared your review of his patent disclosure and I agree with your main point that this mode of acceleration/movement is beyond the state of the possible, at least at present.' He praised the examiner's work: 'It is clear from your review that you did invest the time and did follow the theory.'",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt"
     },
     {
      "tier": 3,
@@ -147,8 +167,8 @@
     },
     {
      "tier": 3,
-     "text": "A patent examiner rejecting a claim for lack of enablement, followed by a service chief technology officer intervening to assert operability and invoke a foreign competitor, is behaviour more consistent with an agency wanting a priority date on the public record than with routine prosecution of a speculative filing. Reasoning: stated inference from the reported sequence; the alternative reading, that the office simply believed the physics, is equally available and neither is established.",
-     "source": "Stated inference from the reported prosecution history; no primary copy of the correspondence has been obtained"
+     "text": "The intervention is better read as an argument about TIMING and about ownership than as an assertion that the device works. Sheehy's own analogy is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much to DoD's loss.' His stated conclusion is procurement economics, not physics: 'China is already investing significantly in this area and I would prefer we hold the patent as opposed to paying forever more to use this revolutionary technology.' Reasoning: stated inference from the letter's own structure, which spends four paragraphs on why a not-yet-possible thing should be patented anyway and none on why it is possible now. The competing reading, that this is ordinary agency advocacy for a favoured research line, is equally available and is not excluded.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt"
     },
     {
      "tier": 3,
@@ -172,7 +192,7 @@
     },
     {
      "tier": 1,
-     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018; final rejection 27 March 2018; response after final with a Rule 131 or 132 affidavit 24 May 2018; Notice of Appeal filed 21 June 2018; advisory action 6 July 2018; Appeal Brief filed 21 August 2018 with a second Rule 131 or 132 affidavit received 20 August 2018; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ruled.",
+     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
      "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
     },
     {
@@ -202,8 +222,63 @@
     },
     {
      "tier": 3,
-     "text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. Publication in November 2017 already created permanent prior art blocking any foreign filing, so the appeal bought nothing defensive; what it bought was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
+     "text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to 'hold the patent as opposed to paying forever more to use this revolutionary technology', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
      "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that 'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values', and that 'He is currently one year into the project and has already begun a series of experiments'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The letter describes the actual test rig in specific terms: 'tests using a battery to charge a 10 cm test sample spinning at up to 100,000 RPM and is able maintain charge on these batteries for dwell times of more than 25 minutes (at max RPM) without loss of load', with a fallback to 'a super-capacitor as the spinning test asset' and a test asset surface charge density 'on the order of one Coulomb/meter 2'. This is the only description of the apparatus located on this board that comes from a government document rather than from reporting.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt"
+    },
+    {
+     "tier": 1,
+     "text": "Sheehy's declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master's in Human Factors Engineering from Rensselaer, a bachelor's from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The declaration's operative assertion is narrow and rests on citation rather than on test data. Sheehy declares that he 'can be considered a person of ordinary skill in the art' and that 'the invention described in the above referenced patent application is enabled via the physics described in the patent application and the peer reviewed papers described in the Inventor Amendment dated January 23, 2018'. He does not state that a device was built or that any effect was measured, and the experiments described in his own December 2017 letter are not mentioned.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt"
+    },
+    {
+     "tier": 1,
+     "text": "Two of the five papers the enablement argument rests on are Pais's own conference papers: 'A Hybrid Craft using an Inertial Mass Modification Device', AIAA SPACE Forum, Orlando, 12-14 September 2017, and 'High Frequency Gravitational Waves - Induced Propulsion', SAE International 2017-01-2040, 19 September 2017. The other three are third-party technical papers on piezoelectric materials, Q-factor estimation and plasma channels, none of which concerns inertial mass reduction. The corroboration invoked is therefore in part the inventor citing himself.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The examiner conceded the theory and still refused the claims. The Advisory Action of 11 July 2018 says of the Sheehy declaration: 'While the Examiner agrees that the math and physics are sound in this application, the Examiner holds that the claims are still not enabled.' The distinction is the whole case: enablement asks whether a person skilled in the art could BUILD the thing, not whether the equations are consistent.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The examiner set an explicit condition for allowance and it was experimental. Rejecting the argument that microwave excitation of a copper resonant cavity makes the required fields feasible, he wrote: 'While obtaining high vibrational frequencies are possible this does not mean that the E-fields and B-fields that are required to polarize the quantum vacuum can be created. If this is so then the Examiner asks that the Applicant demonstrate these high vibrational frequencies to create a local polarized vacuum.' No such demonstration appears in the file wrapper as uploaded, and the application was nonetheless allowed on 31 October 2018.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The specific physical quantities in dispute are on the record. The applicant argued that vibrational frequencies above 10 GHz in a copper resonant cavity enable electromagnetic flux values of 10^33 Watts per square metre, 'equivalent to the generation of E-fields on the order of 10^18 V/m and B-fields on the order of 10^9 Tesla'. The examiner's rejection was that those field levels are not feasible with current technology.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that 'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.'",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The Appeal Brief states the ownership position without qualification: 'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.' This is the Navy's own characterisation, in a filing signed by its Office of Counsel.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy's legal position was that the examiner had not carried it, not that the device had been shown to work.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
     }
    ],
    "sources": [
@@ -234,14 +309,19 @@
    ],
    "conflicts": [
     "The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author's own written statement that no prototype existed and with NAWCAD's reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.",
-    "Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions."
+    "Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.",
+    {
+     "text": "The widely repeated account that Sheehy wrote to the patent office 'asserting the invention was operable' is contradicted by the letter itself, which opens by agreeing with the examiner that the concept is beyond present possibility. The board carried that version as Tier 2 until the primary document was read on 28 August 2026. Anyone citing the secondary version to a sceptical reader is handing them the rebuttal.",
+     "source": "USPTO file wrapper document image JCTFAFUKPXXIFW1.pdf against secondary summaries of the episode"
+    }
    ],
    "unverified": [
     "Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.",
     "His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.",
     "Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.",
     "Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.",
-    "The Reasons for Allowance dated 24 October 2018 has not been read. It states what actually persuaded the examiner to reverse a final rejection, and is the most informative unread document in the file wrapper."
+    "The Reasons for Allowance dated 24 October 2018 is still unread, and it is now known WHY: the file wrapper uploaded to this project stops at the Appeal Brief of 20-21 August 2018. Nothing after that date is present for application 15/141,270. It remains the most informative unobtained document on this node, because it is the examiner's own account of what reversed a rejection he had sustained twice. See research/patents/wrapper/MISSING.md.",
+    "No demonstration of the effect appears anywhere in the file wrapper as uploaded, yet the examiner had made one an explicit condition in July 2018 and allowed the case in October 2018. Whether something was filed in between, or whether the examiner simply yielded on the burden-of-proof argument, cannot be determined without the papers listed in MISSING.md. Do not assert either."
    ],
    "sequenceChain": [],
    "unexplainedResidual": "Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents."
@@ -316,8 +396,13 @@
     },
     {
      "tier": 1,
-     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018; final rejection 27 March 2018; response after final with a Rule 131 or 132 affidavit 24 May 2018; Notice of Appeal filed 21 June 2018; advisory action 6 July 2018; Appeal Brief filed 21 August 2018 with a second Rule 131 or 132 affidavit received 20 August 2018; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ruled.",
+     "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
      "source": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total.",
+     "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
     }
    ],
    "sources": [
@@ -666,6 +751,26 @@
    "precision": "day",
    "label": "US 10,144,532 expires for non-payment of maintenance fees",
    "text": "Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain.",
+   "tier": "1",
+   "node": "pais-patent-imrd"
+  },
+  {
+   "id": "tl-pais-sheehy-letter",
+   "strand": "mechanism",
+   "date": "2017-12-15",
+   "precision": "day",
+   "label": "NAVAIR's chief technology officer writes to the patent examiner",
+   "text": "The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was 'beyond the state of the possible, at least at present', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because 'China is already investing significantly in this area'.",
+   "tier": "1",
+   "node": "salvatore-pais"
+  },
+  {
+   "id": "tl-pais-advisory-2018",
+   "strand": "mechanism",
+   "date": "2018-07-11",
+   "precision": "day",
+   "label": "Examiner: the physics is sound, the claims are still not enabled",
+   "text": "The Advisory Action on application 15/141,270 recorded that the examiner agreed 'the math and physics are sound in this application' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.",
    "tier": "1",
    "node": "pais-patent-imrd"
   }

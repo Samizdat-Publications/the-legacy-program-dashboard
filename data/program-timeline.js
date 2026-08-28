@@ -3572,6 +3572,16 @@ export const TIMELINE = [
     node: 'sffas-56'
   },
   {
+    id: 'tl-pais-sheehy-letter',
+    strand: 'program',
+    date: '2017-12-15',
+    precision: 'day',
+    label: 'NAVAIR\'s chief technology officer writes to the patent examiner',
+    text: 'The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was \'beyond the state of the possible, at least at present\', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because \'China is already investing significantly in this area\'.',
+    tier: '1',
+    node: 'salvatore-pais'
+  },
+  {
     id: 'tl-2017-nyt',
     strand: 'witness',
     date: '2017-12-16',
@@ -3678,6 +3688,16 @@ export const TIMELINE = [
     precision: 'day',
     label: 'Navy appeals the rejection of the inertial mass reduction craft patent',
     text: 'After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled.',
+    tier: '1',
+    node: 'pais-patent-imrd'
+  },
+  {
+    id: 'tl-pais-advisory-2018',
+    strand: 'program',
+    date: '2018-07-11',
+    precision: 'day',
+    label: 'Examiner: the physics is sound, the claims are still not enabled',
+    text: 'The Advisory Action on application 15/141,270 recorded that the examiner agreed \'the math and physics are sound in this application\' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.',
     tier: '1',
     node: 'pais-patent-imrd'
   },

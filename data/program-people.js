@@ -7503,7 +7503,7 @@ export const PEOPLE = [
       'SSCI Acting Chairman (2020-2021); Vice Chairman (2021-2025)',
       'U.S. Secretary of State (2025- )'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 267 of 963, score 35). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 268 of 963, score 35). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     chronology: [
       {
         date: '2021-03-24',
@@ -8175,7 +8175,7 @@ export const PEOPLE = [
       'Redwire Space (prior)',
       'Bigelow Aerospace (prior)'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 254 of 963, score 36). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 255 of 963, score 36). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [
       { date: '2022-10-01', event: 'Appointed to the NASA UAP Independent Study Team', precision: 'month' },
       { date: '2023-09-14', event: 'Study team final report released', precision: 'day' },
@@ -11325,7 +11325,7 @@ export const PEOPLE = [
       'House Oversight Committee',
       'Task Force on the Declassification of Federal Secrets'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 268 of 963, score 35). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 269 of 963, score 35). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2023-07-26',
@@ -12641,7 +12641,7 @@ export const PEOPLE = [
       'U.S. Air Force (retired Major General)',
       'Air Force Research Laboratory, Wright-Patterson AFB, Commander'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 255 of 963, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 256 of 963, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     chronology: [
       {
         date: '2026-02-01',
@@ -13509,7 +13509,7 @@ export const PEOPLE = [
       'Lockheed Martin Advanced Development Programs (Skunk Works), 31 years, Program Director Advanced Systems',
       'To The Stars Academy of Arts & Science, Aerospace Division Director then COO (2017-2020)'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 293 of 963, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 294 of 963, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     chronology: [
       { date: '2017-10-11', event: 'Announced as TTSA Aerospace Division Director at launch.', precision: 'day' },
       {
@@ -15609,7 +15609,7 @@ export const PEOPLE = [
       'The Sol Foundation (advisory)',
       'UAP Disclosure Fund (board, resigned 2025)'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 269 of 963, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 270 of 963, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     chronology: [
       { date: '2021-01-01', event: 'Serves as Army liaison to the UAP Task Force', precision: 'year' },
       { date: '2023-06-05', event: 'On-record corroboration of Grusch in The Debrief', precision: 'day' },
@@ -17725,7 +17725,7 @@ export const PEOPLE = [
       'University of Arizona, Institute of Atmospheric Physics (1954-1971)',
       'American Meteorological Society'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 294 of 963, score 34). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 295 of 963, score 34). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1966-06-01',
@@ -19182,7 +19182,7 @@ export const PEOPLE = [
       'Thiel Capital (investor)',
       'American Alchemy Magazine / Substack'
     ],
-    tierRationale: 'Re-graded B on a global pass (rank 256 of 963, score 36). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 257 of 963, score 36). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     chronology: [
       {
         date: '2024-11-14',
@@ -19958,7 +19958,7 @@ export const PEOPLE = [
     domains: ['d-media', 'd-structure'],
     narrative: 'Jake Barber is the clearest single illustration of how the modern disclosure pipeline actually works, and he belongs on a media-structure board for that reason as much as for his testimony. A former intelligence officer, he gave his account of helicopter-borne recovery of a craft to Jesse Michels in an exclusive published 30 January 2025, which reached 1,010,989 viewers - an audience no broadcast or print outlet on this beat commands. Ross Coulthart then covered him on NewsNation, where Barber said he would \'100% testify\' under oath to Congress. Nine months after the Michels episode he was a named speaker at the 2025 Sol Foundation Symposium on Lake Maggiore, sharing a programme with Karl Nell, Jacques Vallee, Garry Nolan and a retired French general. That is the whole route in under a year: independent long-form YouTube, then cable amplification, then academic-institutional legitimation. He is associated with Skywatcher, and his own X account and the Skywatcher accounts were promoted in the Michels episode description.',
     affiliations: ['Skywatcher', 'US military / intelligence (former)'],
-    tierRationale: 'Re-graded B on a global pass (rank 270 of 963, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 271 of 963, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D3.',
     chronology: [
       {
         date: '2025-01-30',
@@ -20091,9 +20091,9 @@ export const PEOPLE = [
         source: 'Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais citing FOIA-released NAWCAD records; the underlying release has not been obtained for this board'
       },
       {
-        tier: 2,
-        text: 'Reporting states that after the inertial mass reduction application was initially rejected, Dr James Sheehy, chief technology officer of the Naval Aviation Enterprise, wrote to the USPTO asserting that the invention was operable and warning that the Chinese military were developing comparable technology, and that the patent was subsequently granted.',
-        source: 'Secondary reporting summarised at https://en.wikipedia.org/wiki/Salvatore_Pais; the Sheehy correspondence itself has not been obtained for this board'
+        tier: 1,
+        text: 'The Sheehy intervention is a real document and it is not what the secondary reporting describes. On 15 December 2017 the Chief Technology Officer of the Naval Aviation Enterprise wrote to the examiner by name on NAVAIR letterhead (Ser 40T/33, from AIR 4.0T, to \'Mr. Philip J. Bonzell, Primary Patent Examiner\'). Rather than asserting the invention was operable, Sheehy opened by CONCEDING the examiner\'s point: \'Dr Pais has shared your review of his patent disclosure and I agree with your main point that this mode of acceleration/movement is beyond the state of the possible, at least at present.\' He praised the examiner\'s work: \'It is clear from your review that you did invest the time and did follow the theory.\'',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt'
       },
       {
         tier: 3,
@@ -20102,8 +20102,8 @@ export const PEOPLE = [
       },
       {
         tier: 3,
-        text: 'A patent examiner rejecting a claim for lack of enablement, followed by a service chief technology officer intervening to assert operability and invoke a foreign competitor, is behaviour more consistent with an agency wanting a priority date on the public record than with routine prosecution of a speculative filing. Reasoning: stated inference from the reported sequence; the alternative reading, that the office simply believed the physics, is equally available and neither is established.',
-        source: 'Stated inference from the reported prosecution history; no primary copy of the correspondence has been obtained'
+        text: 'The intervention is better read as an argument about TIMING and about ownership than as an assertion that the device works. Sheehy\'s own analogy is the ruby laser: the theory preceded the device, and \'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much to DoD\'s loss.\' His stated conclusion is procurement economics, not physics: \'China is already investing significantly in this area and I would prefer we hold the patent as opposed to paying forever more to use this revolutionary technology.\' Reasoning: stated inference from the letter\'s own structure, which spends four paragraphs on why a not-yet-possible thing should be patented anyway and none on why it is possible now. The competing reading, that this is ordinary agency advocacy for a favoured research line, is equally available and is not excluded.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt'
       },
       {
         tier: 3,
@@ -20127,7 +20127,7 @@ export const PEOPLE = [
       },
       {
         tier: 1,
-        text: 'The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018; final rejection 27 March 2018; response after final with a Rule 131 or 132 affidavit 24 May 2018; Notice of Appeal filed 21 June 2018; advisory action 6 July 2018; Appeal Brief filed 21 August 2018 with a second Rule 131 or 132 affidavit received 20 August 2018; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ruled.',
+        text: 'The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which \'no agreement was reached\'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.',
         source: 'USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026'
       },
       {
@@ -20157,8 +20157,63 @@ export const PEOPLE = [
       },
       {
         tier: 3,
-        text: 'The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority\'s FINDING rather than the property right. Publication in November 2017 already created permanent prior art blocking any foreign filing, so the appeal bought nothing defensive; what it bought was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.',
+        text: 'The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority\'s FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to \'hold the patent as opposed to paying forever more to use this revolutionary technology\', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.',
         source: 'USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026'
+      },
+      {
+        tier: 1,
+        text: 'The December 2017 letter places the NAWCAD experimental programme on the record and dates it. Sheehy wrote that \'Dr. Pais is currently funded by NAWCAD to design a test article and instrumentation to demonstrate the experimental feasibility of achieving high electromagnetic (EM) field-energy and flux values\', and that \'He is currently one year into the project and has already begun a series of experiments\'. That places the start of funded experimental work in about December 2016 and corroborates, from a primary document, the secondary reporting that NAWCAD funded testing from 2016.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt'
+      },
+      {
+        tier: 1,
+        text: 'The letter describes the actual test rig in specific terms: \'tests using a battery to charge a 10 cm test sample spinning at up to 100,000 RPM and is able maintain charge on these batteries for dwell times of more than 25 minutes (at max RPM) without loss of load\', with a fallback to \'a super-capacitor as the spinning test asset\' and a test asset surface charge density \'on the order of one Coulomb/meter 2\'. This is the only description of the apparatus located on this board that comes from a government document rather than from reporting.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt'
+      },
+      {
+        tier: 1,
+        text: 'Sheehy\'s declaration of 11 May 2018 states his credentials: a PhD in physiological optics from Pennsylvania State University, a master\'s in Human Factors Engineering from Rensselaer, a bachelor\'s from Kean University; a civilian Navy employee since 1985; formerly Chief Scientist of the Naval Air Systems Command; Chief Technology Officer of the Naval Aviation Enterprise for the preceding eleven years; promoted to the Senior Executive Service in November 2001; awarded the Presidential Rank Award in 2007. It is sworn under 18 U.S.C. 1001.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt'
+      },
+      {
+        tier: 1,
+        text: 'The declaration\'s operative assertion is narrow and rests on citation rather than on test data. Sheehy declares that he \'can be considered a person of ordinary skill in the art\' and that \'the invention described in the above referenced patent application is enabled via the physics described in the patent application and the peer reviewed papers described in the Inventor Amendment dated January 23, 2018\'. He does not state that a device was built or that any effect was measured, and the experiments described in his own December 2017 letter are not mentioned.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt'
+      },
+      {
+        tier: 1,
+        text: 'Two of the five papers the enablement argument rests on are Pais\'s own conference papers: \'A Hybrid Craft using an Inertial Mass Modification Device\', AIAA SPACE Forum, Orlando, 12-14 September 2017, and \'High Frequency Gravitational Waves - Induced Propulsion\', SAE International 2017-01-2040, 19 September 2017. The other three are third-party technical papers on piezoelectric materials, Q-factor estimation and plasma channels, none of which concerns inertial mass reduction. The corroboration invoked is therefore in part the inventor citing himself.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt'
+      },
+      {
+        tier: 1,
+        text: 'The examiner conceded the theory and still refused the claims. The Advisory Action of 11 July 2018 says of the Sheehy declaration: \'While the Examiner agrees that the math and physics are sound in this application, the Examiner holds that the claims are still not enabled.\' The distinction is the whole case: enablement asks whether a person skilled in the art could BUILD the thing, not whether the equations are consistent.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt'
+      },
+      {
+        tier: 1,
+        text: 'The examiner set an explicit condition for allowance and it was experimental. Rejecting the argument that microwave excitation of a copper resonant cavity makes the required fields feasible, he wrote: \'While obtaining high vibrational frequencies are possible this does not mean that the E-fields and B-fields that are required to polarize the quantum vacuum can be created. If this is so then the Examiner asks that the Applicant demonstrate these high vibrational frequencies to create a local polarized vacuum.\' No such demonstration appears in the file wrapper as uploaded, and the application was nonetheless allowed on 31 October 2018.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt'
+      },
+      {
+        tier: 1,
+        text: 'The specific physical quantities in dispute are on the record. The applicant argued that vibrational frequencies above 10 GHz in a copper resonant cavity enable electromagnetic flux values of 10^33 Watts per square metre, \'equivalent to the generation of E-fields on the order of 10^18 V/m and B-fields on the order of 10^9 Tesla\'. The examiner\'s rejection was that those field levels are not feasible with current technology.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt'
+      },
+      {
+        tier: 1,
+        text: 'The 17 January 2018 examiner interview was telephonic, attended by examiner Philip J. Bonzell, attorney Mark Glut and Salvatore Pais personally. The summary records that no exhibit was shown and no demonstration conducted, and that \'The Examiner pointed out that he still felt that there were enablement issues. The Applicant to submit arguments to the contrary. No agreement was reached.\'',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCKKXW5GRXEAPX4.pdf, Applicant-Initiated Interview Summary mailed 22 January 2018; transcript at research/patents/wrapper/interview-summary-2018-01-17.txt'
+      },
+      {
+        tier: 1,
+        text: 'The Appeal Brief states the ownership position without qualification: \'The real party in interested is the United States Government represented by the Secretary of the Navy (The Department of the Navy). The inventor is a U.S.government employee who invented the invention during the course of his employment. As a result, Federal law provides all rights to this invention belong to the United States of America under 37 C.F.R. 501.6.\' This is the Navy\'s own characterisation, in a filing signed by its Office of Counsel.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt'
+      },
+      {
+        tier: 1,
+        text: 'The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy\'s legal position was that the examiner had not carried it, not that the device had been shown to work.',
+        source: 'USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt'
       }
     ],
     sources: [
@@ -20200,14 +20255,19 @@ export const PEOPLE = [
     ],
     conflicts: [
       'The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author\'s own written statement that no prototype existed and with NAWCAD\'s reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.',
-      'Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.'
+      'Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.',
+      {
+        text: 'The widely repeated account that Sheehy wrote to the patent office \'asserting the invention was operable\' is contradicted by the letter itself, which opens by agreeing with the examiner that the concept is beyond present possibility. The board carried that version as Tier 2 until the primary document was read on 28 August 2026. Anyone citing the secondary version to a sceptical reader is handing them the rebuttal.',
+        source: 'USPTO file wrapper document image JCTFAFUKPXXIFW1.pdf against secondary summaries of the episode'
+      }
     ],
     unverified: [
       'Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.',
       'His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.',
       'Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.',
       'Whether patents assigned to a United States government agency owe maintenance fees on the ordinary 37 CFR 1.362 schedule, or are treated differently. Until that is settled, the lapse of US 10,144,532 cannot be read confidently as a decision rather than a bookkeeping outcome. This is the first thing to check before the expiry is used as an argument.',
-      'The Reasons for Allowance dated 24 October 2018 has not been read. It states what actually persuaded the examiner to reverse a final rejection, and is the most informative unread document in the file wrapper.'
+      'The Reasons for Allowance dated 24 October 2018 is still unread, and it is now known WHY: the file wrapper uploaded to this project stops at the Appeal Brief of 20-21 August 2018. Nothing after that date is present for application 15/141,270. It remains the most informative unobtained document on this node, because it is the examiner\'s own account of what reversed a rejection he had sustained twice. See research/patents/wrapper/MISSING.md.',
+      'No demonstration of the effect appears anywhere in the file wrapper as uploaded, yet the examiner had made one an explicit condition in July 2018 and allowed the case in October 2018. Whether something was filed in between, or whether the examiner simply yielded on the burden-of-proof argument, cannot be determined without the papers listed in MISSING.md. Do not assert either.'
     ],
     sequenceChain: [],
     unexplainedResidual: 'Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.',
@@ -22276,7 +22336,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'This record supersedes the board\'s earlier, undated entry for Cole. His tenure in the 10 U.S.C. 119(e)(2) group now has a fixed start: a statement issued from his own congressional office on 10 April 2024 records that \'the full House Republican Conference ratified him as Chairman of the House Appropriations Committee,\' following the House Republican Steering Committee\'s selection the previous day. He succeeded Kay Granger, who had announced in March 2024 that she would step down from the chair. The correction matters for how the board dates his node. Cole entered the group in the middle of the 118th Congress, not at the start of the 119th. That places him inside the twelve for roughly nine months longer than the earlier record implied, but still after all three of the board\'s load-bearing moments - the 2009 Reid special access program request, the 2020 establishment of the Unidentified Aerial Phenomena Task Force, and the July 2023 Grusch testimony. Granger, not Cole, held the House Appropriations chair on the date of that testimony. As chairman of the House Appropriations Committee, Cole is entitled jointly with Ranking Member Rosa DeLauro to receive whatever the Secretary of Defense withholds from a section 119 report under the waiver authority, together with the justification, and to the 119(f) notification that must precede the initiation of any special access program by thirty days. His committee is also the one that writes the classified annex through which a waived programme is funded. There is no public record of any UAP-specific statement by Cole. As with every other holder, the statute supplies the entitlement and supplies no route to speak about it.',
     affiliations: [],
-    tierRationale: 'Re-graded B on a global pass (rank 257 of 963, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 258 of 963, score 36). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A1/D3.',
     chronology: [],
     claims: [
       {
@@ -23135,7 +23195,7 @@ export const PEOPLE = [
     domains: ['d-ic', 'd-oversight'],
     narrative: 'Aaron Lukas is the Principal Deputy Director of National Intelligence and the official who signed the single most consequential UAP paper instrument of 2026. His memorandum ES 2026-00818, \'Preliminary Guidance for Implementation of NDA Waiver\', published by Rep. Eric Burlison on 1 August 2026, directs the release of all Intelligence Community UAP information to the PURSUE Task Force for review and declassification, and directs that current and former government employees and contractors \'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.\' He required every IC element to establish a PURSUE designee within thirty days of receipt in coordination with ODNI, to inform its workforce that existing NDAs barring disclosure to the President or his designees are no longer in force, and undertook that detailed reporting procedures would follow within a further thirty days and that DoW and ODNI would issue departments and agencies detailed implementation guidance for the broader PURSUE transparency project. His distribution list runs to every element of the Intelligence Community, from the Director of CIA to the Assistant Commandant for Intelligence of the Coast Guard. Lukas is therefore the number two officer of the Intelligence Community, on paper, over his own signature, instructing the Directors of CIA, DIA, NRO, NGA and NSA to release UAP information and to release their people from secrecy obligations to do so. Whatever else is true of the 2026 cycle, that document exists and he signed it.',
     affiliations: ['Office of the Director of National Intelligence'],
-    tierRationale: 'Re-graded B on a global pass (rank 271 of 963, score 35). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 272 of 963, score 35). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     chronology: [
       {
         date: '2026-08-01',
@@ -23996,7 +24056,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-witness', 'd-custody'],
     narrative: 'Captain Uyrangê Bolívar Soares Nogueira de Hollanda Lima commanded Operação Prato, the Brazilian Air Force operation mounted in late 1977 on the island of Colares in Pará after residents reported being injured by descending lights they called the Chupa-Chupa and the mayor, José Ildone Favacho Soeiro, formally asked the Air Force for help. The operation ran in two phases, 20 October to 11 November 1977 and 25 November to 5 December 1977, and was executed by the Brazilian Air Force with the National Information Service, the military dictatorship\'s intelligence agency. Photographs of lights were taken; the operation was closed after roughly four months and its official finding was that no unusual phenomena had been found. Twenty years later, in 1997, Hollanda gave an interview to the Brazilian ufologists Ademar José Gevaerd and Marco Antônio Petit in which he recounted what he and his men had lived through - an account fundamentally at odds with the official negative finding. Three months after that interview he was found dead at his home, apparently having hanged himself with the belt of his bathrobe. He is the closest thing the Brazilian record has to a custody-adjacent officer who spoke and then died, and the sequence - operation, official denial, twenty years of silence, interview, death - is the reason the case has never settled.',
     affiliations: ['fab', 'Serviço Nacional de Informações (SNI)'],
-    tierRationale: 'Re-graded B on a global pass (rank 295 of 963, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 296 of 963, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     chronology: [
       { date: '1977-10-20', event: 'Operação Prato first phase begins on Colares, Pará', precision: 'day' },
       { date: '1977-11-11', event: 'First phase ends', precision: 'day' },
@@ -24216,7 +24276,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-custody', 'd-reverse-engineering'],
     narrative: 'Wilbert Brockhouse Smith (1910 - 27 December 1962) is the earliest named government official anywhere on record to have been told, and to have written down, that the American flying saucer question was classified above the hydrogen bomb and was being run by Vannevar Bush. Smith joined the Canadian Department of Transport in 1939, built Canada\'s far north ionospheric monitoring system in 1947, and was Canada\'s chief delegate to the North American Regional Broadcasting Agreement conferences of 1949 and 1950; by 1952 he was Senior Radio Engineer of the DOT\'s Broadcast and Measurements section, and in 1957 became Superintendent of Radio Regulations Engineering. At the 1950 NARBA conference in Washington he made enquiries of the American scientist Dr Robert Sarbacher and came away with four assertions which he set down in a memorandum, \'Geo-Magnetics\', addressed to the Controller of Telecommunications and dated 21 November 1950: that the matter was the most highly classified subject in the United States government, rating higher even than the H-bomb; that flying saucers exist; that their modus operandi was unknown but that a concentrated effort was being made by a small group headed by Doctor Vannevar Bush; and that the entire matter was considered by US authorities to be of tremendous significance. That memorandum was classified Top Secret and was not downgraded to Confidential until 1969. Library and Archives Canada quotes the same memorandum in its own online exhibition: \'the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers ... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence.\' The memorandum was the successful request that produced Project Magnet.',
     affiliations: ['canada-dot', 'project-magnet', 'project-second-storey'],
-    tierRationale: 'Re-graded B on a global pass (rank 296 of 963, score 34). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 297 of 963, score 34). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     chronology: [
       { date: '1939', event: 'Joins the Canadian Department of Transport', precision: 'year' },
       { date: '1947', event: 'Establishes Canada\'s far north ionospheric monitoring system', precision: 'year' },
@@ -26784,7 +26844,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'Baker is the single most consequential author in this batch, not for what his DIRD says but for what its existence demonstrates about AAWSAP\'s quality control. Entry 9 on the DIA list to the Senate Armed Services Committee reads \'High Frequency Gravitational Wave Communications, Dr Robert Baker, GravWave.\' The released document carries DIA-08-1004-005, publication date 6 April 2010 and an Intelligence Cut-Off Date of 1 December 2009. Baker\'s company, GravWave LLC, had spent years promoting high-frequency gravitational waves as an enabling technology for communications, surveillance, propulsion and the remote initiation of nuclear events, and Baker had done HFGW work for the Office of the Director of National Intelligence. In 2008 the JASON advisory group - the standing panel of outside scientists convened to adjudicate exactly this class of question for the US government - reviewed that ODNI work and rejected it at the root. As quoted in The War Zone\'s audit of the AATIP list: \'The proposed applications of the science of HFGW are fundamentally wrong,\' and \'No foreign threat in HFGW is credible.\' DIA then published Baker\'s HFGW paper as an official Defense Intelligence Reference Document roughly eighteen months later. That sequence is the finding. It is not that a government programme funded speculative physics - that was the stated purpose of the survey, which asked authors to project to 2050. It is that the programme published, on a JWICS-hosted reference series carrying DIA\'s imprimatur, a paper on a topic that the government\'s own senior scientific review body had already assessed as not merely unproven but wrong, and whose threat premise it had already declared not credible. Baker is separately linked into the AAWSAP author network through Eric Davis: the two co-authored a 2005 STAIF paper with R. C. Woods on HFGW radiation patterns and aerospace applications, and Davis himself presented at a DIA and National Security Space Office HFGW working group at MITRE in 2003. The commission was therefore not a blind buy from a stranger.',
     affiliations: [],
-    tierRationale: 'Re-graded B on a global pass (rank 272 of 963, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 273 of 963, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     chronology: [],
     claims: [
       {
