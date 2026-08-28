@@ -3682,6 +3682,16 @@ export const TIMELINE = [
     node: 'christopher-mellon'
   },
   {
+    id: 'tl-pais-emfg-nonfinal',
+    strand: 'program',
+    date: '2018-06-20',
+    precision: 'day',
+    label: 'The only rejection the electromagnetic field generator ever drew',
+    text: 'USPTO mailed the single non-final rejection in application 14/807943. A telephone interview followed on 10 July and the applicant responded on 19 July. Enablement was never raised in this case.',
+    tier: '1',
+    node: 'pais-patent-emfg'
+  },
+  {
     id: 'tl-pais-appeal',
     strand: 'program',
     date: '2018-06-21',
@@ -3710,6 +3720,16 @@ export const TIMELINE = [
     text: 'TTSA\'s SEC filings record the launch of materials research relevant to Space-Time Metric Engineering in partnership with Harold Puthoff\'s EarthTech International.',
     tier: 'A',
     node: 'adam-research-project'
+  },
+  {
+    id: 'tl-pais-emfg-allowed',
+    strand: 'program',
+    date: '2018-09-13',
+    precision: 'day',
+    label: 'Electromagnetic field generator allowed on prior art, not on enablement',
+    text: 'The Notice of Allowability for application 14/807943 allowed claims 1-12 because \'the prior art fails to show\' the claimed generator. The craft application, which incorporates this generator by reference, was under appeal at that moment for being impossible.',
+    tier: '1',
+    node: 'pais-patent-emfg'
   },
   {
     id: 'bb-tl-2018-09-30-eff',
@@ -4785,6 +4805,16 @@ export const TIMELINE = [
     text: 'The FY2023 NDAA (P.L. 117-263) codifies AARO and its public reporting mandate at 50 U.S.C. 3373, including the annual report deadline AARO later misses.',
     tier: 'A',
     node: 'aaro'
+  },
+  {
+    id: 'tl-pais-emfg-expiry',
+    strand: 'program',
+    date: '2022-12-26',
+    precision: 'day',
+    label: 'US 10,135,366 expires for non-payment of maintenance fees',
+    text: 'The first of the two granted Pais patents lapsed for non-payment of the first maintenance fee, five weeks before the inertial mass reduction patent did the same. USPTO had mailed a maintenance fee reminder on 11 July 2022.',
+    tier: '1',
+    node: 'pais-patent-emfg'
   },
   {
     id: 'tl-pais-expiry',

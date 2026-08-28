@@ -279,6 +279,26 @@
      "tier": 1,
      "text": "The appeal was argued on burden of proof rather than on evidence of operability. The brief cites In re Rijckaert, 9 F.3d 1531 (Fed. Cir. 1993) and In re Oetiker, 977 F.2d 1443 (Fed. Cir. 1992) for the proposition that the burden of showing unpatentability rests on the Office and remains there even after a prima facie case. The Navy's legal position was that the examiner had not carried it, not that the device had been shown to work.",
      "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
+    },
+    {
+     "tier": 1,
+     "text": "A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee.",
+     "source": "37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml"
+    },
+    {
+     "tier": 1,
+     "text": "Both granted Pais patents lapsed at the first maintenance fee, five weeks apart. US 10,135,366, granted 20 November 2018, is recorded expired for non-payment on 26 December 2022; US 10,144,532, granted 4 December 2018, is recorded expired for non-payment on 9 January 2023. USPTO mailed a maintenance fee reminder for each in the preceding July.",
+     "source": "USPTO application data for 14/807943 and 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrappers 28 August 2026"
+    },
+    {
+     "tier": 3,
+     "text": "That both grants lapsed the same way weakens the reading that either was an isolated docketing slip, and it also weakens the sharper reading that the Navy specifically wanted the finding on the craft and not the property right. An office that files, prosecutes and then renews nothing across a family is exhibiting a maintenance practice, and a practice is as consistent with routine cost control on patents the Navy would never sue to enforce as it is with a judgement about these particular inventions. What can be said without inference is that the Navy paid to obtain both patents, fought a two-year appeal for one of them, and then let both go.",
+     "source": "Stated inference from the two USPTO application-data records, with the competing readings recorded alongside it"
+    },
+    {
+     "tier": 1,
+     "text": "The two applications were treated very differently by the Office, and the comparison is the strongest thing this cluster now has. The electromagnetic field generator, filed 24 July 2015, drew one non-final rejection and was allowed by Thomas M. Dougherty in Art Unit 2837 because 'the prior art fails to show' the claimed generator, with enablement never raised. The craft, filed nine months later on 28 April 2016 and expressly incorporating that generator by reference, was rejected twice by Philip J. Bonzell in Art Units 3644 and 3642 as not enabled and impossible, and reached allowance only after a Notice of Appeal and an Appeal Brief. The same physics, the same inventor and the same office of counsel produced opposite results depending on whether the claim was to the component or to the craft.",
+     "source": "USPTO file wrappers for applications 14/807,943 and 15/141,270, compared, read 28 August 2026"
     }
    ],
    "sources": [
@@ -403,6 +423,46 @@
      "tier": 1,
      "text": "The independent claim is narrow and mechanical. As summarised in the Appeal Brief, claim 1 is the only independent claim and recites an inner resonant cavity wall, an outer resonant cavity wall and microwave emitters; the emitters create high frequency electromagnetic waves throughout the resonant cavity, causing the outer wall to vibrate in an accelerated mode and create a local polarized vacuum outside it. There are four claims in total.",
      "source": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document images JLZJWBOMRXEAPX0.pdf and JLZJWBOORXEAPX0.pdf, Appeal Brief under 37 C.F.R. 41.37 faxed 20 August 2018; notes at research/patents/wrapper/appeal-brief-2018-08-20.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The examiner quantified the objection rather than gesturing at it. The Non-Final Rejection of 28 November 2017 holds that polarising a quantum vacuum as claimed 'would take 10^9 teslas and 10^18V/m', that 'these levels are not feasible with current technology', and asks: 'The largest magnetic field ever created is 10^3 teslas and a neutron star is 10^6 teslas so how are you using a microwave emitter that produces a magnetic field that is three orders of magnitude greater than a neutron star?' The same passage is repeated verbatim in the Final Rejection of 30 March 2018.",
+     "source": "USPTO file wrapper, application 15/141,270, Non-Final Rejection mailed 28 November 2017 (Paper No. 20171122), examiner Philip J. Bonzell, Art Unit 3644"
+    },
+    {
+     "tier": 1,
+     "text": "The 'declaration by Dr. James Sheehy under 37 CFR 1.132 filed 1/23/2018' that the Final Rejection answers is the letter of 15 December 2017. The examiner's section 6 replies to exactly three arguments, in the order the letter makes them: that lasers evolved beyond what was first possible, that Pais 'is funded and working on experiments', and that China is investing. Those are paragraphs 1, 2-4 and 5 of the Sheehy letter. No separate January 2018 declaration appears anywhere in the wrapper.",
+     "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt; compared against research/patents/wrapper/sheehy-letter-2017-12-15.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The examiner refused the China argument in writing, which is the argument the secondary accounts credit with winning the patent: 'With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.'",
+     "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The Final Rejection rejects the physical premise of the craft in terms, not merely the sufficiency of the disclosure. Answering the argument that the field generator 'would generate a repulsive EM energy field while in earth's atmosphere, thereby repelling air molecules in its path of ascent/flight', the examiner wrote: 'however, this is not true. There is no such thing as a \"repulsive EM energy field\". Electromagnetism can be repulsive in certain circumstances, but there is no blanket field that repels everything.' He concluded that 'it is impossible to generate the electric and magnetic field that would be required to create the so called claimed effect of inertial mass reduction.'",
+     "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt"
+    },
+    {
+     "tier": 1,
+     "text": "Peer review was argued and expressly refused. On AIAA 2017-5343 and SAE 2017-01-2040 the examiner wrote that 'just because a concept was presented at an AIAA forum and that a SAE committee board, peer reviewed the concept does not equate to the device being patentable', and on the mathematics: 'Presenting math at a conference doesn't prove anything physical. It like saying that you can math out tachyons by playing with relativistic equations but that doesn't \"prove\" that they exist nor can they then be used to create a physical object that can be patented.'",
+     "source": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The application changed art unit mid-prosecution without changing examiner. The Office actions of 28 November 2017 and 30 March 2018 and the interview summary of 22 January 2018 issue from Art Unit 3644; the Advisory Action of 11 July 2018 issues from Art Unit 3642. Philip J. Bonzell signs all four, and Timothy Collins is named as supervisor throughout.",
+     "source": "USPTO file wrapper, application 15/141,270, Office actions of 28 November 2017, 22 January 2018, 30 March 2018 and 11 July 2018, compared"
+    },
+    {
+     "tier": 1,
+     "text": "The Notice of Appeal in the wrapper is form PTO/AIA/33, naming Art Unit 3644, examiner Philip Bonzell and docket PAX 205, with the appeal fee shown as $800.00 paid via EFS-Web against deposit account 600508. It is signed for the applicant by Mark O. Glut and its certificate of transmission bears the date 6/24/18, three days after the date USPTO records for the notice.",
+     "source": "USPTO file wrapper, application 15/141,270, Notice of Appeal from the Examiner to the Patent Trial and Appeal Board (form PTO/AIA/33), certificate dated 6/24/18"
+    },
+    {
+     "tier": 1,
+     "text": "The after-final remarks of 24 May 2018 describe the accompanying Sheehy declaration as 'dated May 11, 2017' and are signed 'Date: 5/24/2017', a year out in both places; the declaration in the wrapper is dated 11 May 2018 and was refiled unchanged with the Appeal Brief in August. The 2017 dates are typing errors in the attorney's remarks, and no 2017 declaration exists in the file. Recorded so that the wrong year is not later read as evidence of a second, earlier declaration.",
+     "source": "USPTO file wrapper, application 15/141,270, Response after Final Action received by central fax 24 May 2018, compared against research/patents/wrapper/sheehy-declaration-2018-05-11.txt"
     }
    ],
    "sources": [
@@ -417,19 +477,54 @@
    "cls": "document",
    "label": "US Patent 10,135,366 - Electromagnetic field generator",
    "cluster": "research",
-   "sub": "Application 14/807943, filed 24 July 2015, granted 20 November 2018; assignee the Secretary of the Navy",
-   "desc": "The earliest of the five filings and the foundation of the set, since every later device depends on generating and manipulating high-energy electromagnetic fields. Application 14/807943, filed 24 July 2015, granted 20 November 2018, assigned to the Secretary of the Navy. The abstract describes a generator comprising a shell, an electrostatic generator, a power plant and a thermoelectric generator.",
+   "sub": "Application 14/807943, filed 24 July 2015, granted 20 November 2018; assignee the Secretary of the Navy; expired for non-payment of maintenance fees, recorded 26 December 2022",
+   "desc": "The earliest of the five filings and the foundation of the set, since every later device depends on generating and manipulating high-energy electromagnetic fields. Application 14/807943, filed 24 July 2015, granted 20 November 2018, assigned to the Secretary of the Navy. The abstract describes a generator comprising a shell, an electrostatic generator, a power plant and a thermoelectric generator. Its file wrapper was obtained and read on 28 August 2026 and it is the control case for the craft application. One non-final rejection, one telephone interview, one response, and allowance on the ground that the prior art did not show the device. Enablement was never raised. A different examiner in a different art unit handled it, and it too has now lapsed for non-payment of the first maintenance fee.",
    "tier": "C",
    "C": 1,
    "A": 1,
    "D": 0,
    "dateStart": "2015-07-24",
-   "dateEnd": "2018-11-20",
+   "dateEnd": "2022-12-26",
    "claims": [
     {
      "tier": 2,
      "text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
      "source": "https://www.freepatentsonline.com/10135366.html"
+    },
+    {
+     "tier": 1,
+     "text": "Application 14/807,943 was examined by Thomas M. Dougherty in Art Unit 2837 under Navy docket PAX 182, confirmation number 9752, with Shawki Ismail named as supervisor. That is a different examiner and a different art unit from the craft application 15/141,270, which Philip J. Bonzell examined in Art Units 3644 and 3642.",
+     "source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "Pais executed the assignment of application 14/807,943 to the Department of the Navy on 23 July 2015, the day before filing; it was recorded on 24 July 2015 at reel and frame 036176/0499 as an 'ASSIGNMENT OF ASSIGNOR'S INTEREST', assignee 'DEPARTMENT OF THE NAVY', 47076 Liljencrantz Road, Bldg. 435, Patuxent River, Maryland.",
+     "source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The prosecution was short and uncontested. One non-final rejection was written on 12 June 2018 and mailed 20 June 2018; an applicant-initiated telephonic interview followed on 10 July 2018; the applicant responded on 19 July 2018; and the Notice of Allowability was signed on 13 September 2018. There was no final rejection, no affidavit or declaration under 37 CFR 1.132, no Notice of Appeal and no appeal brief.",
+     "source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "The reason given for allowance is novelty over the prior art and nothing else: 'The following is an examiner's statement of reasons for allowance: the prior art fails to show a high energy electromagnetic field generator, comprising: a shell, the shell having embedded polycrystalline ferroelectric ceramic material, the material being polarized such that the ceramic material exhibits strong Piezoelectric Effect properties thus inducing high frequency vibrations'. Claims 1-12 were allowed. The only change made was an examiner's amendment deleting one line of claim 11 'to correct a typographical error'.",
+     "source": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The Notice of Allowance and Fee(s) Due was mailed on 10 October 2018 to the Department of the Navy, entity status 'UNDISCOUNTED', total fee due $1,000, payable by 10 January 2019. USPTO records the issue fee as received and verified on 10 October 2018, the day the notice was mailed, and the patent granted on 20 November 2018.",
+     "source": "USPTO file wrapper, application 14/807,943, Notice of Allowability (PTOL-37) signed 13 September 2018 (Paper No. 20180913) and Notice of Allowance and Fee(s) Due (PTOL-85) mailed 10 October 2018, examiner Thomas M. Dougherty; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The application published as US 2017/0025935 A1 on 26 January 2017, twenty-two months before grant, so the disclosure entered the prior art in January 2017 whatever later became of the patent right. The case accrued 753 days of patent term adjustment, 634 of them attributed to USPTO delay in issuing a first action.",
+     "source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
+    },
+    {
+     "tier": 1,
+     "text": "US 10,135,366 is EXPIRED. USPTO application data gives the status of 14/807,943 as 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 26 December 2022, and the event log records 'Maintenance Fee Reminder Mailed' on 11 July 2022 and 'Expire Patent' on 26 December 2022. Under 37 CFR 1.362(g) the expiry runs from the fourth anniversary of grant, 20 November 2022; 26 December 2022 is the date the Office posted it.",
+     "source": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026"
     }
    ],
    "sources": [
@@ -773,14 +868,45 @@
    "text": "The Advisory Action on application 15/141,270 recorded that the examiner agreed 'the math and physics are sound in this application' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.",
    "tier": "1",
    "node": "pais-patent-imrd"
+  },
+  {
+   "id": "tl-pais-emfg-nonfinal",
+   "strand": "mechanism",
+   "date": "2018-06-20",
+   "precision": "day",
+   "label": "The only rejection the electromagnetic field generator ever drew",
+   "text": "USPTO mailed the single non-final rejection in application 14/807943. A telephone interview followed on 10 July and the applicant responded on 19 July. Enablement was never raised in this case.",
+   "tier": "1",
+   "node": "pais-patent-emfg"
+  },
+  {
+   "id": "tl-pais-emfg-allowed",
+   "strand": "mechanism",
+   "date": "2018-09-13",
+   "precision": "day",
+   "label": "Electromagnetic field generator allowed on prior art, not on enablement",
+   "text": "The Notice of Allowability for application 14/807943 allowed claims 1-12 because 'the prior art fails to show' the claimed generator. The craft application, which incorporates this generator by reference, was under appeal at that moment for being impossible.",
+   "tier": "1",
+   "node": "pais-patent-emfg"
+  },
+  {
+   "id": "tl-pais-emfg-expiry",
+   "strand": "mechanism",
+   "date": "2022-12-26",
+   "precision": "day",
+   "label": "US 10,135,366 expires for non-payment of maintenance fees",
+   "text": "The first of the two granted Pais patents lapsed for non-payment of the first maintenance fee, five weeks before the inertial mass reduction patent did the same. USPTO had mailed a maintenance fee reminder on 11 July 2022.",
+   "tier": "1",
+   "node": "pais-patent-emfg"
   }
  ],
  "entityInfo": {},
  "gaps": [
-  "The Sheehy correspondence with the USPTO has not been obtained. It is the single most load-bearing document in this cluster and everything about the intervention is currently Tier 2 on secondary reporting. The file wrapper for application 15/141270 is the place it should exist, and it is retrievable from the USPTO Patent Center without an API key.",
-  "The NAWCAD test records showing the roughly 500,000 USD spend and the negative result have not been obtained. Same problem, opposite direction: the strongest disconfirming fact on this node rests on secondary reporting.",
+  "The allowance papers for application 15/141,270 have not been obtained. No Notice of Allowability, Examiner's Answer, Reasons for Allowance or issue-fee record for that application is in the file-wrapper set, which stops at the Appeal Brief of 20 August 2018; research/patents/wrapper/MISSING.md lists exactly what to pull. Those papers are the examiner's own account of what reversed a rejection he had twice sustained, and they are the single most informative document still outstanding on this node.",
+  "The NAWCAD test records showing the roughly 500,000 USD spend and the negative result have not been obtained. The strongest disconfirming fact on this node still rests on secondary reporting, while the Sheehy letter of 15 December 2017 now puts the existence and the shape of the test programme on a primary record.",
   "No primary personnel record establishes Pais's current office or title.",
   "Nothing in the released record connects Pais to AATIP, AAWSAP, KONA BLUE, any DIRD author, or any material-custody chain on this board. That absence is itself worth stating rather than assuming a link.",
-  "The full text and claim sets of the five filings have not been read; only the bibliographic records and abstracts. The claims of US 10,144,532 in particular would show what the examiner actually allowed."
+  "The file wrappers for the remaining three applications have not been obtained: 15/431,823 (gravitational wave generator), 15/678,672 (superconductor) and 15/928,703 (plasma compression fusion). Whether any of them drew the enablement fight that 15/141,270 drew, or went through cleanly as 14/807,943 did, is unknown.",
+  "Why the two applications went to different art units and different examiners is not in either wrapper. It bears directly on how much the difference in outcome can be read as a judgement about the physics rather than an accident of classification."
  ]
 }

@@ -737,11 +737,11 @@
  },
  {
   "domain": "pais-patents",
-  "gap": "The Sheehy correspondence with the USPTO has not been obtained. It is the single most load-bearing document in this cluster and everything about the intervention is currently Tier 2 on secondary reporting. The file wrapper for application 15/141270 is the place it should exist, and it is retrievable from the USPTO Patent Center without an API key."
+  "gap": "The allowance papers for application 15/141,270 have not been obtained. No Notice of Allowability, Examiner's Answer, Reasons for Allowance or issue-fee record for that application is in the file-wrapper set, which stops at the Appeal Brief of 20 August 2018; research/patents/wrapper/MISSING.md lists exactly what to pull. Those papers are the examiner's own account of what reversed a rejection he had twice sustained, and they are the single most informative document still outstanding on this node."
  },
  {
   "domain": "pais-patents",
-  "gap": "The NAWCAD test records showing the roughly 500,000 USD spend and the negative result have not been obtained. Same problem, opposite direction: the strongest disconfirming fact on this node rests on secondary reporting."
+  "gap": "The NAWCAD test records showing the roughly 500,000 USD spend and the negative result have not been obtained. The strongest disconfirming fact on this node still rests on secondary reporting, while the Sheehy letter of 15 December 2017 now puts the existence and the shape of the test programme on a primary record."
  },
  {
   "domain": "pais-patents",
@@ -753,7 +753,11 @@
  },
  {
   "domain": "pais-patents",
-  "gap": "The full text and claim sets of the five filings have not been read; only the bibliographic records and abstracts. The claims of US 10,144,532 in particular would show what the examiner actually allowed."
+  "gap": "The file wrappers for the remaining three applications have not been obtained: 15/431,823 (gravitational wave generator), 15/678,672 (superconductor) and 15/928,703 (plasma compression fusion). Whether any of them drew the enablement fight that 15/141,270 drew, or went through cleanly as 14/807,943 did, is unknown."
+ },
+ {
+  "domain": "pais-patents",
+  "gap": "Why the two applications went to different art units and different examiners is not in either wrapper. It bears directly on how much the difference in outcome can be read as a judgement about the physics rather than an accident of classification."
  },
  {
   "domain": "primes-custody",
