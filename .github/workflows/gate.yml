@@ -7,9 +7,10 @@
 # this file is what portability was FOR.
 #
 # COST. This repository is private, so these minutes are billed against the account's
-# Actions allowance. A run is roughly 12-15 minutes, most of it `verify.py
-# --idempotent`, which builds the board twice and compares. If that is not wanted,
-# delete this file -- the gate still runs locally and nothing else depends on it.
+# Actions allowance. MEASURED on the first run (28 August 2026): 7m16s wall for the
+# whole job, of which the gate step was 5m04s and the browser install 26s. That is
+# faster than the same gate in the dev container. If it is not wanted, delete this
+# file -- the gate still runs locally and nothing else depends on it.
 #
 # WHAT IT DOES NOT DO. It does not deploy. The Cloudflare Pages deploy stays manual
 # and stays Stewart's, per DEPLOY.md.

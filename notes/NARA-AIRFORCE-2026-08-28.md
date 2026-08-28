@@ -140,6 +140,37 @@ opening on the 5 April 1966 House Armed Services Committee appearance of Harold 
 General J.P. McConnell, and citing more than 10,000 sightings investigated with 663
 unexplained.
 
+### The two wing histories in the news item, opened
+
+Stewart's lead named them and neither had been opened. They are not interchangeable filler.
+
+| item | what it is |
+|---|---|
+| `342UAP00013` "78th Fighter Wing, December, 1964" | 78th Fighter Wing (**Air Defense**), Hamilton AFB California, 28th Air Division (SAGE), **Air Defense Command**, Col Charles D. Chitty Jr., 21 F-101B and 2 F-101F. 490pp |
+| `342UAP00014` "95th Bombardment Wing History, March, 1960" | 95th Bombardment Wing (Heavy), Fifteenth Air Force, **Strategic Air Command**, Biggs AFB, El Paso. 904pp |
+
+One is an interceptor wing -- the kind of unit actually scrambled against an unidentified
+radar track. The other is a **nuclear bomber wing**, which puts a SAC unit history inside
+the Air Force's own UAP docket. Neither fact is recoverable from the catalog titles.
+
+### Not everything here was withheld until now, and that matters
+
+The 95th Bombardment Wing history was classified SECRET under AFR 205-1, and its title page
+carries:
+
+> DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982
+
+**Declassified in 1982. Accessioned into RG 615 in 2026.** Set that against `342UAP00005`,
+whose cover carries a 5 May 2025 Air Force Declassification Office action under the FY24
+NDAA. The docket mixes both kinds.
+
+So the honest reading of the transfer is narrower than "thirty records released". Some of
+this was declassified forty-four years ago and has been sitting at AFHRA Maxwell available
+to anyone who asked. **Accession into RG 615 is not evidence that a record was being
+withheld**, and any account of this transfer that treats volume as disclosure is
+overclaiming. How the thirty split between the two is section 7, item 4, and it is the
+question that decides what this transfer is actually worth.
+
 ### The page identifiers are wrong on four of the thirty
 
 Every page in this series carries a machine-readable identifier stamped during processing.
@@ -255,12 +286,17 @@ repo's standing rule is not to silence a pin that is working. It is reported ins
 3. **The series has no OCR layer.** 8,093 pages, unsearchable as released. OCRing it locally
    is a day's compute and would turn the whole transfer into something the board's own tooling
    could search. Worth doing before the unit-history pass, not after.
-4. **Fifteen months between declassification and accession.** `notes/REQUEST-QUEUE.md` §1 item
+4. **Split the thirty by when they were actually declassified.** This is now the question
+   that decides what the transfer is worth. `342UAP00005` carries a May 2025 Air Force
+   Declassification Office action; `342UAP00014` carries a 1979/1982 AFSHRC one. Reading the
+   declassification block on each of the thirty is a day's work with the PDFs already in
+   hand, and it converts "thirty records released" into a defensible number.
+5. **Fifteen months between declassification and accession.** `notes/REQUEST-QUEUE.md` §1 item
    1 is already a NARA request for the RG 615 compliance register. This transfer gives it a
    concrete hook: ask for the transmittal correspondence for TR-0615-2026-0003 and the dates
    of the Air Force's section 1842(c)(1) certification.
-5. **Whether thirty is the whole Air Force return.** The docket is contiguous, which suggests
+6. **Whether thirty is the whole Air Force return.** The docket is contiguous, which suggests
    it is complete as a docket, but AFOSI and AFHRA Maxwell hold more. REQUEST-QUEUE §1 items
    10, 15 and 18 all target the Air Force and should be re-read against this.
-6. **No image work was done here.** Several of these are scanned federal works and would clear
+7. **No image work was done here.** Several of these are scanned federal works and would clear
    17 U.S.C. 105 for `data/l0-images.json`, but that is the image pass, not this one.

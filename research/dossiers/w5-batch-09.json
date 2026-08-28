@@ -558,6 +558,21 @@
      "text": "Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.",
      "tier": 1,
      "source": "https://catalog.archives.gov/id/656595571"
+    },
+    {
+     "text": "Item 342UAP00013, catalogued as '78th Fighter Wing, December, 1964', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.",
+     "tier": 1,
+     "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf"
+    },
+    {
+     "text": "Item 342UAP00014, catalogued as '95th Bombardment Wing History, March, 1960', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force's UAP records transfer.",
+     "tier": 1,
+     "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
+    },
+    {
+     "text": "The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp 'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.",
+     "tier": 1,
+     "source": "https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf"
     }
    ],
    "denialPosture": "No agency has publicly asserted that it holds no UAP records; the posture is instead procedural. Agencies transfer 'publicly releasable' material under AC Memo 04.2025 while postponement determinations remain with each originating agency's own original classification authority under section 1843(a), and postponed records stay physically in agency custody under section 1842(f) pending a NARA security programme. The result is that the withholding is never articulated as a denial -- it is expressed as a classification determination made by the withholder.",
@@ -581,7 +596,8 @@
     "Why the Air Force records were declassified in May 2025 under the UAP records statute but not accessioned into RG 615 until August 2026, and whether the same interval applies to other agencies' completed reviews.",
     "Whether the thirty Air Force records are the whole of that department's return or a first tranche, and whether AFOSI, AFHRA Maxwell and the Air Force Declassification Office hold further UAP records already adjudicated releasable.",
     "Four of the 30 Air Force items carry another record's page identifier, and the series has no OCR layer. Whether NARA or the Air Force Declassification Office knows, and whether the same processing produced the stamps on other RG 615 transfers, is unasked.",
-    "The Fourth Air Force 1947 file indexes at least 51 serials including FBI liaison and the Crisman/Dahl/crashed-B-25 report. None of that record is on this board, and the file is now unrestricted with a PDF attached."
+    "The Fourth Air Force 1947 file indexes at least 51 serials including FBI liaison and the Crisman/Dahl/crashed-B-25 report. None of that record is on this board, and the file is now unrestricted with a PDF attached.",
+    "How many of the thirty Air Force items were declassified under the FY24 NDAA and how many were already declassified years earlier and merely moved. Item 342UAP00005 carries a May 2025 action; item 342UAP00014 carries a 1979/1982 one. Without that split, the size of the transfer says nothing about how much was actually being withheld."
    ]
   }
  },

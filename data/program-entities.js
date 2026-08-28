@@ -8572,6 +8572,21 @@ export const INSTITUTIONS = [
         tier: 1,
         text: 'Four of the 30 items carry a processing page-header identifier that belongs to a different record. Items 342UAP00003 (own identifier 00124399), 342UAP00004 (00174934) and 342UAP00007 (00423077) are all stamped 00105830, which is the identifier of item 342UAP00002; item 342UAP00027 (01030308) is stamped 01030306, the identifier of item 342UAP00026. In item 342UAP00003 the correct identifier appears only on a physical label photographed on the page. Page-level stamps in this series are therefore not reliable for provenance.',
         source: 'https://catalog.archives.gov/id/656595571'
+      },
+      {
+        tier: 1,
+        text: 'Item 342UAP00013, catalogued as \'78th Fighter Wing, December, 1964\', is the history of the 78th Fighter Wing (Air Defense) at Hamilton AFB, California, under the 28th Air Division (SAGE), Air Defense Command, commanded by Colonel Charles D. Chitty Jr., flying 21 F-101B and 2 F-101F interceptors. It is an air-defence interceptor wing, that is, one of the units that would actually be scrambled against an unidentified radar track.',
+        source: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf'
+      },
+      {
+        tier: 1,
+        text: 'Item 342UAP00014, catalogued as \'95th Bombardment Wing History, March, 1960\', is the history of the 95th Bombardment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuclear bomber wing history is in the Air Force\'s UAP records transfer.',
+        source: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf'
+      },
+      {
+        tier: 1,
+        text: 'The 95th Bombardment Wing history was originally classified SECRET under AFR 205-1 and its title page carries the declassification stamp \'DECLASSIFIED AF/SPIB LTR, 2 NOV 79 BY AFSHRC DATE: 13 DEC 1982\'. It was therefore declassified some forty-four years before it was accessioned into Record Group 615, where item 342UAP00005 carries a 5 May 2025 Air Force Declassification Office action under the FY24 NDAA. The transfer mixes newly declassified material with material declassified decades earlier, so accession into RG 615 is not evidence that a record was previously withheld.',
+        source: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf'
       }
     ],
     sources: [
@@ -8609,6 +8624,16 @@ export const INSTITUTIONS = [
       {
         name: 'catalog.archives.gov',
         url: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00891775_I_Once_Saw_A_Flying_Saucer-Project_Blue_Book.pdf',
+        date: null
+      },
+      {
+        name: 'catalog.archives.gov',
+        url: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00451970_78th_Fighter_Wing.pdf',
+        date: null
+      },
+      {
+        name: 'catalog.archives.gov',
+        url: 'https://catalog.archives.gov/medialz/electronic-records/rg-615/656595571/00452964_U-PV-FOUO_95th_Bombardment_Wing_History.pdf',
         date: null
       }
     ]

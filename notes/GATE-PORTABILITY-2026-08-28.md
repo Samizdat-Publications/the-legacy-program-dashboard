@@ -109,11 +109,11 @@ not prove the committed artifacts came from the committed source. Nothing did. V
 before shipping: after a full rebuild, `data/` and `dist/` are byte-identical to `HEAD`, so
 this step passes today rather than going red on its first run.
 
-**Costs, plainly.** The repo is private, so these are billed Actions minutes. A run is
-roughly 12-15 minutes, most of it `--idempotent` building the board twice. At a handful of
-pushes a day that is comfortably inside the 2,000 free private-repo minutes, but it is not
-free, and **if it is not wanted the file can be deleted with no other consequence** -- the
-gate still runs locally and nothing depends on the workflow.
+**Costs, plainly.** The repo is private, so these are billed Actions minutes. Measured on
+the first run: **7m16s** a run. At a handful of pushes a day that is a few hundred minutes a
+month against the 2,000 free private-repo allowance, but it is not free, and **if it is not
+wanted the file can be deleted with no other consequence** -- the gate still runs locally and
+nothing depends on the workflow.
 
 No pip step: everything the gate runs is Python standard library plus this repo's own
 modules. `pypdf` appears only in `tools/spot_check.py`, which is deliberately outside the
@@ -154,10 +154,28 @@ capture_strip            PASS      verify --idempotent      PASS
 audit_independent        PASS      runtime_check            PASS
 ```
 
-The workflow itself has **not** run -- it cannot until the branch is pushed and Actions is
-enabled. So: the tools are proven portable here, and the YAML is unproven until GitHub runs
-it. Stated rather than glossed, because "it should work in CI" is the same sentence as "the
-check should catch that".
+**And the workflow has now run.** Run 1 on PR #12, commit `4e354c1`, conclusion **success**,
+every step green including the reproducibility check and all four previously-unportable
+browser steps:
+
+| | |
+|---|---|
+| whole job | **7m16s** |
+| gate step | 5m04s |
+| Playwright + Chromium install | 26s |
+| build | 15s |
+| screenshots uploaded | yes, as artifact `shots` |
+
+Two things that is worth saying plainly. First, **the resolver works on a machine that has
+never heard of `/opt/pw-browsers`** -- the CI branch of `chromium_path()`, the one this
+container structurally cannot exercise, ran for real against Playwright's own download.
+That is the fix proven rather than argued.
+
+Second, **the cost estimate in the first draft of this note was wrong.** It said 12-15
+minutes; the measured figure is 7m16s, and the gate is *faster* on a 2-core runner than in
+the dev container. The 12-15 was a guess dressed as a figure, and it is corrected here and
+in the workflow comment rather than quietly left. Same rule as the rest of this repo: run
+it, then say what happened.
 
 ## 7. Left undone
 
