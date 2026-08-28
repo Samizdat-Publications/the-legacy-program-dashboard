@@ -11459,6 +11459,57 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'luis-elizondo',
+    b: 'five-observables',
+    type: 'programmatic',
+    label: 'Formulated the taxonomy',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation\'s publication of it.',
+    sources: [
+      {
+        name: 'History, 20 May 2019',
+        url: 'https://www.history.com/articles/ufo-sightings-speed-appearance-movement',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'five-observables',
+    b: 'pax-205-disclosure',
+    type: 'research',
+    label: 'Four of five itemised as design goals',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
+    a: 'five-observables',
+    b: 'pais-patent-imrd',
+    type: 'research',
+    label: 'The craft claimed to deliver them',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.',
+    sources: [
+      {
+        name: 'NAVAIR FOIA release 2021-003244, PAX 205 briefing',
+        url: 'https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf',
+        date: null
+      }
+    ]
+  },
+  {
     a: 'david-grusch',
     b: 'nro',
     type: 'institutional',

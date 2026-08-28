@@ -3918,6 +3918,16 @@ export const TIMELINE = [
     node: 'stanton-friedman'
   },
   {
+    id: 'tl-five-observables-published',
+    strand: 'program',
+    date: '2019-05-20',
+    precision: 'day',
+    label: 'The five observables reach print',
+    text: 'The earliest dated publication of the five as a set located for this board, attributing them to Luis Elizondo from his AATIP work. The Navy\'s PAX 205 briefing, which itemises four of them as design goals, predates it by four years.',
+    tier: '2',
+    node: 'five-observables'
+  },
+  {
     id: 'tl-2019-05-22-sherwood',
     strand: 'coverup',
     date: '2019-05-22',

@@ -528,6 +528,22 @@
   "gap": "Aerospace Corporation's role in space-based sensor characterisation of anomalous objects is entirely uninvestigated. Its DOE nonproliferation contract 89233120CNA000134 and its Space Force FFRDC contract FA880219C0001 are the vehicles under which any such work would sit."
  },
  {
+  "domain": "five-observables",
+  "gap": "No released government document stating the five observables as a set has been located. The previous session's research pass reached the same result independently. This is an absence from what has been searched, not a demonstrated absence, and it is the single thing that would most change how this node is pitched: if the set appears in an AATIP or AAWSAP briefing, the taxonomy moves from Elizondo's formulation to the government's and the whole node changes tier."
+ },
+ {
+  "domain": "five-observables",
+  "gap": "Elizondo's written testimony to the House Oversight Committee of 13 November 2024 is published at oversight.house.gov and has not been read for this board. It could not be text-extracted in this environment: the PDF uses subset fonts with a non-standard character map, so decompressing the content streams yields scrambled text. It needs a machine with poppler or an equivalent extractor. If he states the five in sworn written testimony, that is a far better source than either currently cited and would move the list from reporting to a named person on the congressional record."
+ },
+ {
+  "domain": "five-observables",
+  "gap": "No canonical text of the list has been located. The two published sources differ on the wording of the first observable and on whether cloaking is named. Whether Elizondo has ever published a fixed form of his own is unresolved."
+ },
+ {
+  "domain": "five-observables",
+  "gap": "Whether the PAX 205 authors were working from the same reported encounters that produced the observables is not established by any document. The convergence claim on this node is stated as inference and marked Tier 3."
+ },
+ {
   "domain": "grusch",
   "gap": "The program name. Grusch was formally tasked to inventory all SAPs and CAPs bearing on a congressionally mandated mission and was refused a read-on. The refusing authority, the program nickname, and the refusal document have never been identified. The DoD Special Access Program Central Office under Maj. Gen. David W. Abba is the office that would hold that record; no committee has publicly compelled it."
  },
