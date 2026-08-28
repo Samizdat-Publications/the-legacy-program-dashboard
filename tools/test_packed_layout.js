@@ -182,11 +182,27 @@ const CHECKS = [
   },
   {
     id: 'motion-only-where-attested',
-    label: 'nothing moves at rest, and the selected node\u2019s edges do',
-    test: p => p.stillFrames === 1 && p.selectedFrames > 1,
-    detail: p => `${p.stillFrames} distinct frame(s) at ${p.attnState} with nothing`
-               + ` selected, ${p.selectedFrames} with a node selected`,
-    poison: p => ({ ...p, stillFrames: 4 }),
+    label: 'at rest only attested denials move, and a selection moves its own edges',
+    /* THE ASSERTION CHANGED ON 27 AUGUST AND THE OLD ONE WAS A PROXY.
+       It read `stillFrames === 1` -- nothing moves at rest at all. That was a
+       correct proxy for exactly as long as the board had no directed denial: the
+       renderer's own comment said "none yet, so none draw". The adjudication then
+       landed 174 verdicts and 38 directed denials, and Design's rule is not
+       "nothing moves at rest" but "a path carries a particle only if it is a
+       denial or belongs to the selected node". Motion at rest became CORRECT, and
+       a proxy that cannot tell correct motion from the flow-on-every-line
+       treatment Design rejected is worse than no check.
+
+       So it asserts the real property in three parts: the map moves at rest,
+       it goes STILL when every denier is stripped from the page, and a selection
+       moves its own edges. The middle one is the load-bearing half -- it is what
+       separates "38 attested denials are moving" from "everything is drifting". */
+    test: p => p.directedDenials > 0 && p.stillFrames > 1
+               && p.stillFramesNoDenial === 1 && p.selectedFrames > 1,
+    detail: p => `${p.directedDenials} directed denials · ${p.stillFrames} distinct frame(s)`
+               + ` at ${p.attnState} with nothing selected, ${p.stillFramesNoDenial} once every`
+               + ` denier is stripped, ${p.selectedFrames} with a node selected`,
+    poison: p => ({ ...p, stillFramesNoDenial: 4 }),
   },
   {
     id: 'breath-touches-no-data-channel',
@@ -1055,6 +1071,27 @@ async function probe(page, opts = {}) {
       const q = new Set();
       for (let i = 0; i < 4; i++) { q.add(hashC()); await new Promise(r => setTimeout(r, 400)); }
       out.stillFrames = q.size;
+      /* THE CONTROL RUN. Motion at rest is only legitimate if the DENIAL
+         ATTRIBUTION is what causes it. Strip `denier`/`denialKind` from every
+         edge on the live page, repaint, and the map must go still. If it keeps
+         moving without a single attested denier, what is moving is a flow on
+         every line -- the treatment Design rejected outright -- and this check
+         would otherwise have waved it through. */
+      const dnBackup = (D.directEdges || []).map(e =>
+        ({ e, denier: e.denier, kind: e.denialKind }));
+      for (const r of dnBackup) { r.e.denier = null; r.e.denialKind = null; }
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 900));
+      const q3 = new Set();
+      for (let i = 0; i < 4; i++) { q3.add(hashC()); await new Promise(r => setTimeout(r, 400)); }
+      out.stillFramesNoDenial = q3.size;
+      for (const r of dnBackup) { r.e.denier = r.denier; r.e.denialKind = r.kind; }
+      B.MAP.repaint();
+      await new Promise(r => setTimeout(r, 500));
+      out.directedDenials = (D.directEdges || []).filter(e =>
+           (e.types || []).indexOf('denial') >= 0
+        && e.denialKind !== 'association'
+        && (e.denier === e.a || e.denier === e.b)).length;
       const first = (D.l0 || []).find(n => (n.direct || []).length > 2) || (D.l0 || [])[0];
       St.l0open = first ? [first.id] : [];
       B.MAP.repaint();

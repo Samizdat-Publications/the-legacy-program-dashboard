@@ -516,9 +516,18 @@ function mountL0(host){
      assertion about the record -- it is the reader's own act, showing which end of
      each edge they are standing on -- so it does not need an attested direction
      the way a denial does. */
+  /* Counted once. A directed denial animates whether or not anything is selected
+     and whether or not BREATH is on, because its direction is a property of the
+     record rather than of the reader -- so the loop has to stay alive for it. 38
+     of them on the current data. */
+  const DIRECTED_DENIALS = (D.directEdges || []).filter(e =>
+       (e.types || []).indexOf('denial') >= 0
+    && e.denialKind !== 'association'
+    && (e.denier === e.a || e.denier === e.b)).length;
   const animating = () => !REDUCED && (
        (attn !== 'still' && FLAGSET.length > 0 && opt.flags)
-    || S.l0open.length > 0);
+    || S.l0open.length > 0
+    || DIRECTED_DENIALS > 0);
   function stopLoop(){ if (loop) { cancelAnimationFrame(loop); loop = null; } }
   function startLoop(){
     if (loop || !animating()) return;
@@ -531,7 +540,8 @@ function mountL0(host){
       draw();
       /* ONCE runs a single pass and then leaves the flags at rest, which is the
          whole difference between it and BREATH. */
-      if (attn === 'once' && !S.l0open.length && animT > 1400 + 14*130) return;
+      if (attn === 'once' && !S.l0open.length && !DIRECTED_DENIALS
+          && animT > 1400 + 14*130) return;
       loop = requestAnimationFrame(step);
     };
     loop = requestAnimationFrame(step);
@@ -1064,10 +1074,30 @@ function mountL0(host){
        the inherited parent-board renderer still carries it: it flips by comparing
        node dates, which states that the relationship runs from the earlier node to
        the later one. For most of these edges the board makes no such claim. */
-    if (!REDUCED && S.l0open.length && (lit0.has(e.a) || lit0.has(e.b))){
-      const selA = S.l0open.indexOf(e.a) >= 0;
-      const selB = S.l0open.indexOf(e.b) >= 0;
-      if (selA || selB){
+    /* THE SECOND QUALIFYING CASE, 27 August 2026. The comment above says a
+       directed denial qualifies and then says "none yet, so none draw". That was
+       true when it was written and stopped being true the same week: the
+       adjudication landed 174 verdicts and 38 directed denials now reach the page
+       with a `denier` matching one end. The arrowhead drew for them from the
+       start; the particle never did, so Design's "arrowhead + travelling
+       particle" shipped as half a treatment and the moving half was the half that
+       carries the direction.
+
+       Stewart, 27 August: "we STILL have not implemented the color and particle
+       system for the lines showing which way the connection goes."
+
+       Direction: from the DENIER toward the subject, which is the claim the
+       adjudication actually makes. A selection still wins where both apply,
+       because the reader's own end is the stronger reference and asserts nothing
+       about the record. Colour separates them: the denial runs in the denial red
+       already used for its arrowhead, the selection thread in the map's cyan, so
+       the two motions never read as one channel. */
+    const dirDenial = isDenial && (dnr === e.a || dnr === e.b);
+    const selA = S.l0open.indexOf(e.a) >= 0;
+    const selB = S.l0open.indexOf(e.b) >= 0;
+    const selTouch = S.l0open.length > 0 && (lit0.has(e.a) || lit0.has(e.b));
+    if (!REDUCED && ((selTouch && (selA || selB)) || dirDenial)){
+      {
         const P = [[x1,y1],[cx,cy],[x2,y2]];
         const segs = [Math.hypot(cx-x1, cy-y1), Math.hypot(x2-cx, y2-cy)];
         const len = segs[0] + segs[1];
@@ -1080,7 +1110,12 @@ function mountL0(host){
           const kstr = e.a + '|' + e.b;
           for (let i = 0; i < kstr.length; i++) hsh = (hsh*31 + kstr.charCodeAt(i)) >>> 0;
           let u = ((animT + (hsh % 100)/100 * dur) % dur) / dur;
-          if (!selA) u = 1 - u;                     /* always outward from the reader */
+          /* Outward from the reader's end when they picked one, otherwise from the
+             denier. `fromA` is which end the dot leaves, and it is the only place
+             this layer makes a claim. */
+          const onSel = selA || selB;
+          const fromA = onSel ? selA : (dnr === e.a);
+          if (!fromA) u = 1 - u;
           const d = u * len;
           const i2 = d <= segs[0] ? 0 : 1;
           const t2 = i2 === 0 ? (segs[0] ? d/segs[0] : 0)
@@ -1088,7 +1123,8 @@ function mountL0(host){
           const px0 = P[i2][0] + (P[i2+1][0] - P[i2][0]) * t2;
           const py0 = P[i2][1] + (P[i2+1][1] - P[i2][1]) * t2;
           ctx.globalAlpha = base * 0.75;
-          ctx.fillStyle = summarised ? '#a795e8' : '#5ed4e6';
+          ctx.fillStyle = (!onSel && dirDenial) ? L0_PACK.denial
+                        : summarised ? '#a795e8' : '#5ed4e6';
           ctx.beginPath();
           ctx.arc(px0, py0, Math.max(1.1, 1.6*view.k), 0, Math.PI*2);
           ctx.fill();
@@ -1112,7 +1148,18 @@ function mountL0(host){
        second mark would be a duplicate, and routing it through a second band
        geometry is what put fringes half a row above their cells in Design's own
        comp. Deduped by cell, because two flags in one cell is one region. */
-    const bAlpha = attn === 'still' || REDUCED ? 0
+    /* THE OFFER IS WITHDRAWN ONCE IT IS TAKEN. The start-here layer exists to
+       draw a first-time eye to somewhere worth starting; BREATH pulses it to do
+       that. It kept pulsing after the reader had chosen, so a selected node's
+       thread had to be read through fourteen amber cells fading in and out
+       behind it. Stewart, 27 August: "the entire map and yellow part is fading
+       in and out of the background rendering it illegible."
+
+       Held at zero while a selection or an entry path is active, so the only
+       thing moving is the selection's own particle layer -- which is the one
+       motion Design licenses, because the reader chose the end it runs from. */
+    const chosen = !!(S.sel || S.l0open.length || S.l0path);
+    const bAlpha = attn === 'still' || REDUCED || chosen ? 0
                  : attn === 'once' ? Math.min(1, animT / 1100)
                  : l0Breath(animT);
     if (opt.flags && !dense() && bAlpha > 0.01){
@@ -1304,7 +1351,19 @@ function mountL0(host){
 
   function renderLedgers(){
     for (const e of [...host.querySelectorAll('.l0ledger')]) e.remove();
-    for (const id of S.l0open){
+    /* THE CARD READS S.l0card, NOT S.l0open. Stewart, 27 August: clicking a node
+       "spawns the panel on the right plus the panel that says the specifics about
+       that node that floats ... but then it blocks the map".
+
+       Both were true because one array meant two things. S.l0open lights the chip,
+       lights its edges and drives the CLEAR chip; it ALSO drew the floating member
+       card, so anything that lit a node covered the map with a card as well. The
+       dossier already carries the same members through renderConnections, and
+       carries them better -- with tier, direction and the reason the link exists.
+
+       Splitting the two keeps every lighting behaviour and makes the card an
+       explicit ask: CMD.expand(id) opens one, selection does not. */
+    for (const id of (S.l0card || [])){
       const n = byId[id];
       if (!n) continue;
       const p = el('div','l0ledger');
@@ -1404,8 +1463,8 @@ function mountL0(host){
       + 'degree '+n.deg+' · '+n.claims+' claims, '+n.t1+' tier 1<br>'
       + esc(l0Denials(n))+'<br>'
       + '<span class="act">' + (mem >= 2
-          ? 'click opens the member ledger'
-          : 'click refused — '+mem+' member, no aggregate') + '</span>';
+          ? 'click opens the dossier'
+          : 'click opens the dossier — '+mem+' member, no aggregate to list') + '</span>';
     t.style.left = Math.min(W-300, mx+14)+'px';
     t.style.top  = Math.min(H-110, my+14)+'px';
   }
@@ -1773,14 +1832,22 @@ L0_CMD = r"""
     const mem = n.direct.length + n.routed.length;
     if (mem < 2) return warn('expand("'+id+'") — refused: '+mem+' member, no aggregate to open');
     if (S.l0open.indexOf(id) < 0) S.l0open.push(id);
+    /* expand() is the ONLY thing that opens the floating card. Lazily initialised
+       rather than declared in S, because S's literal is rewritten by three
+       separate patches and a fourth owner of it is how this file gets bitten. */
+    if (!S.l0card) S.l0card = [];
+    if (S.l0card.indexOf(id) < 0) S.l0card.push(id);
     paint({ map:'l0' });
   },
   collapse(id){
     const i = S.l0open.indexOf(id);
     if (i < 0) return warn('"'+id+'" is not open');
-    S.l0open.splice(i,1); paint({ map:'l0' });
+    S.l0open.splice(i,1);
+    const j = (S.l0card || []).indexOf(id);
+    if (j >= 0) S.l0card.splice(j,1);
+    paint({ map:'l0' });
   },
-  clearExpansions(){ S.l0open = []; paint({ map:'l0' }); },
+  clearExpansions(){ S.l0open = []; S.l0card = []; paint({ map:'l0' }); },
   showPathOnly(){ S.l0panel = 'path'; S.view = 'NETWORK'; paint({ full:true }); },
   showUnattached(){ S.l0panel = 'un'; S.view = 'NETWORK'; paint({ full:true }); },
 """
@@ -2008,10 +2075,12 @@ def apply(s, model, must_replace, layout=None):
     # SINGLE selection. The handoff's additive model left no way to unclick and no
     # visible exit; this replaces it. An analyst can still open two from the CMD
     # line, which is where comparison actually belongs.
+    # Anchored on the push alone rather than on push+paint: expand() gained the
+    # card list between them, and a patch keyed to two lines that are no longer
+    # adjacent fails loudly, which is how this was caught.
     s, o = must_replace(s,
-        "    if (S.l0open.indexOf(id) < 0) S.l0open.push(id);\n    paint({ map:'l0' });",
-        "    S.l0open = [id];\n    if (MAP && MAP.focus) MAP.focus(id);\n"
-        "    paint({ map:'l0' });",
+        "    if (S.l0open.indexOf(id) < 0) S.l0open.push(id);",
+        "    S.l0open = [id];\n    if (MAP && MAP.focus) MAP.focus(id);",
         "single selection on expand", 1); ok &= o
 
     # selectNode drives the map too, so the dock never describes a node the reader
@@ -2121,15 +2190,17 @@ def apply(s, model, must_replace, layout=None):
         "    CMD.expand(n.id);",
         "    const n = at(ev.clientX-b.left, ev.clientY-b.top);\n"
         "    /* empty canvas clears. Before this there was no way to unclick. */\n"
-        "    if (!n){ if (S.l0open.length){ CMD.clearExpansions(); CMD.clearSelection(); } return; }\n"
-        "    /* clicking the open node again closes it — the other half of the exit */\n"
-        "    if (S.l0open.length === 1 && S.l0open[0] === n.id){\n"
-        "      CMD.clearExpansions(); CMD.clearSelection(); return; }\n"
-        "    /* Open the popover AND load the dossier. The DETAIL pane says 'click any\n"
-        "       node on the map ... to open its dossier here'; it never did, because\n"
-        "       this handler only ever called expand(). The copy was right and the\n"
-        "       behaviour was wrong. */\n"
-        "    CMD.expand(n.id);\n"
+        "    if (!n){ if (S.sel || S.l0open.length){ CMD.clearExpansions(); CMD.clearSelection(); } return; }\n"
+        "    /* clicking the open node again closes it — the other half of the exit.\n"
+        "       Keyed on S.sel rather than S.l0open now that a click no longer opens\n"
+        "       a card: the selection IS what a second click is undoing. */\n"
+        "    if (S.sel === n.id){ CMD.clearExpansions(); CMD.clearSelection(); return; }\n"
+        "    /* THE DOSSIER, AND ONLY THE DOSSIER. This used to call expand() as well,\n"
+        "       so one click produced two panels about the same node and the floating\n"
+        "       card sat on the map -- Stewart, 27 August: it \'blocks the map\'. The\n"
+        "       dossier already lists the same members through renderConnections, with\n"
+        "       tier, direction and the reason each link exists, which the card does\n"
+        "       not. CMD.expand(id) still opens the card for anyone who wants it. */\n"
         "    CMD.selectNode(n.id);",
         "click to clear", 1); ok &= o
 
