@@ -8462,7 +8462,7 @@ export const PEOPLE = [
       'House Committee on Oversight and Accountability',
       'US House of Representatives (TN-2)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 75 of 963, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 76 of 963, score 68). 16 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     chronology: [
       {
         date: '2023-03-11',
@@ -20042,7 +20042,7 @@ export const PEOPLE = [
       'US Navy Strategic Systems Programs (from 2019)',
       'United States Air Force (from 2021)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 80 of 963, score 67). 7 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 72 of 963, score 69). 7 connections, 6 of them custody/witness/funding/programmatic. Axes C2/A1/D1.',
     chronology: [],
     claims: [
       {
@@ -20104,6 +20104,16 @@ export const PEOPLE = [
         tier: 3,
         text: 'A patent examiner rejecting a claim for lack of enablement, followed by a service chief technology officer intervening to assert operability and invoke a foreign competitor, is behaviour more consistent with an agency wanting a priority date on the public record than with routine prosecution of a speculative filing. Reasoning: stated inference from the reported sequence; the alternative reading, that the office simply believed the physics, is equally available and neither is established.',
         source: 'Stated inference from the reported prosecution history; no primary copy of the correspondence has been obtained'
+      },
+      {
+        tier: 3,
+        text: 'The argument that a cleared federal employee cannot confirm a working article, and so a denial from one carries little evidentiary weight, does not reach the \'no prototype in existence\' statement in its strongest form, because that statement was not made to the public. It appears on an internal NAVAIR invention-disclosure slide addressed to the officials deciding whether to grant the author roughly 500,000 dollars to build an experiment. The incentive in that room runs the other way: an applicant who already possessed a working article would not gain by telling his own funding authority he had nothing. Reasoning: stated inference from the document\'s audience and purpose, which are visible on its face.',
+        source: 'NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 6'
+      },
+      {
+        tier: 3,
+        text: 'The clearance argument does survive against a narrower and more defensible claim: classification constrains what a cleared person may say about the ORIGIN of a concept, not about whether hardware sits on his bench. A person read into a compartment could write \'no prototype in existence\' truthfully while being unable to state that he knew the effect to be real from data he was not free to cite. Nothing in the released record establishes that this is what happened, and nothing in it excludes the possibility. Reasoning: stated inference distinguishing two different questions the same sentence is often taken to answer.',
+        source: 'Stated inference; no primary record bears on the origin question either way'
       }
     ],
     sources: [
@@ -20144,11 +20154,13 @@ export const PEOPLE = [
       }
     ],
     conflicts: [
-      'The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author\'s own written statement that no prototype existed and with NAWCAD\'s reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.'
+      'The strong reading of these filings, that they describe technology already understood from a recovered object, is in direct tension with the author\'s own written statement that no prototype existed and with NAWCAD\'s reported conclusion that the effect could not be demonstrated. Both the statement and the test result are part of the record and are recorded here.',
+      'Two different questions are routinely collapsed into one when this record is discussed: whether a working article existed, and where the concept came from. The PAX 205 briefing speaks directly to the first and is silent on the second. Treating its answer to the first as an answer to the second is the most common error made about this cluster in both directions.'
     ],
     unverified: [
       'Whether Pais had any access to, or knowledge of, material from any recovery programme. Nothing in the released record connects him to AATIP, AAWSAP, KONA BLUE, any DIRD, or any material-custody chain on this board.',
-      'His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.'
+      'His current office and title. Secondary reporting places him at US Navy Strategic Systems Programs from 2019, the US Air Force from 2021 and the Space Force more recently; no primary personnel record has been obtained.',
+      'Whether Pais has stated in public interviews that the filings were speculative concepts, and whether any such statement is constrained by an active clearance. No transcript has been obtained for this board; long-form interview material exists and is unindexed here.'
     ],
     sequenceChain: [],
     unexplainedResidual: 'Why the Navy pressed for grant of a filing an examiner had rejected for lack of enablement, and then funded a test that it concluded had failed, without withdrawing or disclaiming the granted patents.',

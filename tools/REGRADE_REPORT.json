@@ -56,26 +56,26 @@
    "denials": 0
   },
   {
+   "id": "salvatore-pais",
+   "cls": "person",
+   "from": "B",
+   "to": "A",
+   "score": 69.0,
+   "rank": 72,
+   "degree": 7,
+   "program_edges": 6,
+   "denials": 0
+  },
+  {
    "id": "wilson-davis-memo",
    "cls": "document",
    "from": "B",
    "to": "A",
    "score": 68.0,
-   "rank": 77,
+   "rank": 78,
    "degree": 9,
    "program_edges": 5,
    "denials": 2
-  },
-  {
-   "id": "salvatore-pais",
-   "cls": "person",
-   "from": "B",
-   "to": "A",
-   "score": 67.0,
-   "rank": 80,
-   "degree": 7,
-   "program_edges": 6,
-   "denials": 0
   },
   {
    "id": "richard-genik",
