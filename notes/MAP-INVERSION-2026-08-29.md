@@ -178,12 +178,32 @@ also the name of another view on this board.
 
 **Measured, not assumed.** The same probe run against the pre-inversion build
 (`9553d1a`) reports the identical overlap at the identical canvas offset: `.rail-fold`
-over the canvas's left 21px, `canvasLeft` 202 in both. So this is inherited, and it is
+over the canvas's left 21px, `canvasLeft` 202 in both. So this is inherited, and it was
 fixed in its own commit rather than inside the inversion.
 
 No existing check could have caught it. `no DOM overlay covers the map controls` looks
 at the control row. `the gutter labels do not scale away with the world` asserts that
 ink is present — and ink *is* present, it is simply the wrong ink.
+
+**Fixed:** `measureGutter()`, the left-edge sibling of `measureHead()`. It measures
+`.rail-fold`'s real rect against the host's and insets the band label x by the overhang,
+clamped by what the gutter can spare — measured through the renderer's own `ctx` at the
+fonts `bandLabels` really uses, because insetting past that would trade a covered label
+for one overflowing into the chip field. Measured rather than constant for the same
+reason `PAD.t` is: `--rail-w` changes when the rail folds and the tab rides that edge on
+a 320ms curve, so a constant would be right in one state and wrong in the other.
+
+A 31st canvas assertion, `gutter-labels-clear-the-rail-tab`, guards it, and its page
+poison widens the real fold tab while the canvas holds still so the labels stay put and
+the tab laps over them: **0 label px under the 22px tab with 5px of clearance, against
+120 when the tab is widened onto them.**
+
+**One ordering trap, worth knowing.** The measurement had to run BEFORE `fitSweep`.
+`fitSweep` clicks FIT ALL, FIT ALL folds the rail to its spine, and `applyChrome` owns
+the tab and only draws it on the open state — so `.rail-fold` is *removed from the
+document*. Measured after `fitSweep` the probe returned −1 for everything and the check
+failed while proving nothing. `tools/walk.js` already carried a comment about FIT ALL
+taking the rail with it; it turns out to bite checks as well as walkers.
 
 ## 8. Gate
 

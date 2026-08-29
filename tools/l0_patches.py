@@ -469,7 +469,7 @@ function mountL0(host){
      degenerate model only. headRow was 46 and that was simply too short -- see
      the note in tools/build_l0_layout.mjs. */
   const GEO = PK.geo || {};
-  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46, ctl: 10 };
+  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46, ctl: 10, gl: 10 };
   /* PAD.t IS MEASURED, not trusted. geo.headRow is a constant in the model -- 76,
      chosen when the control row was one line of six buttons -- and the era heads
      are drawn immediately below it. Adding the two fit scales and the AUTO/HELD
@@ -512,6 +512,61 @@ function mountL0(host){
     PAD.t = Math.max(HEAD_MIN, PAD.ctl + ERA_BAND);
     publishHead();
   }
+  /* THE LEFT EDGE HAS THE SAME PROBLEM THE TOP HAD, and it hid for longer because
+     it does not look like a defect -- it looks like a shorter word.
+
+     `.rail-fold` is the rail's fold tab: position:fixed at the rail's right edge,
+     22px wide, deliberately hanging INTO the map the way `.dock-fold` hangs into it
+     from the other side. The band labels are drawn at x=10 inside the canvas, so
+     the tab prints over their first characters. Measured at 1600x1000: RESEARCH
+     renders as "SEARCH" and OVERSIGHT as "ERSIGHT", and both node counts go with
+     them -- "30 nodes . mean C 0.87" reads "nodes . mean C 0.87".
+
+     "SEARCH" is not a truncation a reader can decode. It is a different word, and
+     it is also the name of another view on this board. Only two of the seven bands
+     are hit, because the tab is 150px tall and vertically centred, which is why it
+     reads as two oddly-named rows rather than as an overlay.
+
+     MEASURED, NOT CONSTANT, for exactly the reason PAD.t is: --rail-w changes when
+     the rail folds, and the tab rides that edge on a 320ms curve. A constant would
+     be right in one state and wrong in the other.
+
+     AND CLAMPED BY THE TEXT, NOT BY A NUMBER. The gutter is 148px and the longest
+     pair of lines is REVERSE-ENGINEERING over "15 nodes . mean C 2.6". Insetting
+     past what those actually measure would trade a covered label for an overflowing
+     one, which is the same defect pointing the other way -- and the chip field
+     starts at PAD.l, so it would collide rather than merely look wrong. The widest
+     label is measured through ctx, at the fonts bandLabels really uses. */
+  let GUT_W = 0;
+  function gutterTextWidth(){
+    if (GUT_W) return GUT_W;
+    let w = 0;
+    ctx.save();
+    for (const b of bandRows()){
+      ctx.font = "600 9px 'IBM Plex Mono',monospace";
+      w = Math.max(w, ctx.measureText(String(b.id).toUpperCase().slice(0, 20)).width);
+      ctx.font = "400 9px 'IBM Plex Mono',monospace";
+      w = Math.max(w, ctx.measureText(b.n + (b.n === 1 ? ' node' : ' nodes')
+                 + ' \u00b7 mean C ' + b.meanC).width);
+    }
+    ctx.restore();
+    GUT_W = Math.ceil(w);
+    return GUT_W;
+  }
+  function measureGutter(){
+    const tab = document.querySelector('.rail-fold');
+    let over = 0;
+    if (tab){
+      const r = tab.getBoundingClientRect();
+      const hb = host.getBoundingClientRect();
+      /* Only what actually laps ONTO the map. A folded rail, a tab that has been
+         removed, or a tab that sits clear all give 0 and the label stays at 10. */
+      if (r.width > 0 && r.height > 0) over = Math.ceil(r.right - hb.left);
+    }
+    const room = PAD.l - gutterTextWidth() - 4;   /* what the gutter can spare */
+    PAD.gl = Math.max(10, Math.min(over + 6, Math.max(10, room)));
+  }
+
   /* The DOM overlays that sit on the map need the same reserve the canvas uses,
      and CSS cannot read PAD. Publishing it is what stops the next overlay being
      pinned to a fresh guess. .l0ledger already clamps to PAD.t + 6 in script and
@@ -932,11 +987,11 @@ function mountL0(host){
       const thin = b.n < 5;
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandLabel;
-      ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
+      ctx.fillText(String(b.id).toUpperCase().slice(0, 20), PAD.gl, ty + 13);
       ctx.font = "400 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandN;
       ctx.fillText(b.n + (b.n === 1 ? ' node' : ' nodes')
-                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), 10, ty + 25);
+                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), PAD.gl, ty + 25);
     });
     ctx.restore();
   }
@@ -1620,6 +1675,11 @@ function mountL0(host){
     renderChrome();
     const t0 = PAD.t;
     measureHead();
+    /* The left inset costs nothing to re-measure and must be re-measured: the fold
+       tab moves whenever the rail does, on a curve, and every frame of that curve
+       is a frame the reader sees. Unlike PAD.t it changes no reserve, so it needs
+       no clampView(). */
+    measureGutter();
     if (PAD.t !== t0) clampView();
     paintMap(); renderLedgers(); renderRegister(); renderLegend();
     renderSelBar(); startLoop();
