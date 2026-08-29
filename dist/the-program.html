@@ -121082,9 +121082,9 @@ function preloadPhotos(onReady) {
 }
 
 
-const VIEWS = ['NETWORK','TIMELINE','GEOGRAPHY','CASES','ANALYSIS','COVERUP','SEARCH','REPORT'];
+const VIEWS = ['NETWORK','PROGRAM','TIMELINE','GEOGRAPHY','CASES','ANALYSIS','COVERUP','SEARCH','REPORT'];
 const VIEW_LABEL = {
-  NETWORK:'Network map', TIMELINE:'Timeline', GEOGRAPHY:'Geography', CASES:'Case files',
+  NETWORK:'Network map', PROGRAM:'Program map', TIMELINE:'Timeline', GEOGRAPHY:'Geography', CASES:'Case files',
   ANALYSIS:'Analysis', COVERUP:'The cover-up', SEARCH:'Search', REPORT:'Report',
 };
 const ALL_EDGE_TYPES = Object.keys(EDGE_TYPES);
@@ -122369,7 +122369,6 @@ function mountL0(host){
         + ' <span class="x">&times;</span></span>';
     }
     h += '<span class="l0chip" data-entry="1">START</span>';
-    if (S.l0full) h += '<span class="l0chip" data-full="0">FULL GRAPH <span class="x">&times;</span></span>';
     if (S.l0open.length) h += '<span class="l0chip" data-clear="1">CLEAR</span>';
     h += '<span class="l0meta">' + D.counts.l0 + ' nodes · '
        + (opt.rest ? (PK.rest||[]).length : 0) + ' of '
@@ -122823,8 +122822,6 @@ function mountL0(host){
     }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
-    const f = ev.target.closest('[data-full]');
-    if (f){ S.l0full = false; paint({ full:true }); return; }
     const r = ev.target.closest('[data-node]');
     /* The ledger is a table of contents, not a replacement for the dock. */
     if (r) return CMD.selectNode(r.getAttribute('data-node'));
@@ -123164,12 +123161,20 @@ const CMD = {
     paint({ map:'l0' });
   },
   clearExpansions(){ S.l0open = []; S.l0card = []; paint({ map:'l0' }); },
+  /* The two registers and the entry surface are drawn by the packed map, so they
+     name the view that mounts it. They said NETWORK while the packed map WAS the
+     network rest state; after the inversion that would have sent the reader to the
+     force-directed graph and then rendered nothing, which is the shape of bug that
+     looks like a dead button. */
 
   /* Each entry path is a real command, so the analyst can take the same route
      from the chat line that a reader takes by clicking a card. */
   openPath(id){
     const p = (L0DATA.entryPaths||[]).find(x=>x.id===id);
     if (!p) return warn('no entry path named "'+id+'"');
+    /* An entry path lights cells on the packed map. Typed at the analyst from any
+       other view it used to light them on a map that was not mounted. */
+    S.view = 'PROGRAM';
     S.l0entry = false;
     S.l0path = id;
     S.l0focus = new Set(p.ids);
@@ -123189,9 +123194,9 @@ const CMD = {
     S.l0path = null; S.l0focus = null;
     paint({ map:'l0', full:true });
   },
-  showEntry(){ S.l0entry = true; S.view = 'NETWORK'; paint({ full:true }); },
-  showPathOnly(){ S.l0panel = 'path'; S.view = 'NETWORK'; paint({ full:true }); },
-  showUnattached(){ S.l0panel = 'un'; S.view = 'NETWORK'; paint({ full:true }); },
+  showEntry(){ S.l0entry = true; S.view = 'PROGRAM'; paint({ full:true }); },
+  showPathOnly(){ S.l0panel = 'path'; S.view = 'PROGRAM'; paint({ full:true }); },
+  showUnattached(){ S.l0panel = 'un'; S.view = 'PROGRAM'; paint({ full:true }); },
 
   /* One selection, obeyed everywhere. Selecting from the timeline, a case card or
      a search result clears whatever was open, lights the node on the map, moves the
@@ -123221,7 +123226,13 @@ const CMD = {
     const n = NODES.find(x=>x.id===id);
     if (!n) return warn('no entity with id "'+id+'"');
     S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;
-    if (S.view !== 'NETWORK') S.view = 'NETWORK';
+    /* A selection lands on the NETWORK map, which can answer 'what does
+       this connect to'. The one exception is a reader already standing on
+       the program map: there the ledger is a table of contents for the
+       dock, and opening the dock must not move the map out from under
+       them. That was the original rule; this is the whole of what is left
+       of it. */
+    if (S.view !== 'NETWORK' && S.view !== 'PROGRAM') S.view = 'NETWORK';
     if ((L0DATA.l0||[]).some(x=>x.id===id)) CMD.focusL0(id);
     else S.l0open = [];
     paint({ map:'select' });
@@ -124215,7 +124226,7 @@ function paint(opts){
   step('dock', renderDock);
   step('analyst', renderAnalystChrome);
   step('camera', () => {
-    if (S.view === 'NETWORK' && MAP){
+    if ((S.view === 'NETWORK' || S.view === 'PROGRAM') && MAP){
       if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }
       if (opts.map === 'frame' && S.frame && S.frame.length) MAP.frame(S.frame);
       else if (opts.map === 'frame' || opts.map === 'reset') MAP.resetCamera();
@@ -124384,15 +124395,45 @@ function renderSurface(opts){
   // the layout from scratch, which is why the map appeared to ignore commands.
   // Never re-mount it while it is alive and still the current view.
   if (S.view === 'NETWORK' && MAP && mountedView === 'NETWORK'){ renderNetworkChrome(); return; }
+  /* Same rule for the packed map. Its own surfaces -- breadcrumb, ledgers,
+     register panel -- are repainted by paint()'s camera step below, not by
+     remounting, because nodes never moving is the property that makes two
+     open ledgers comparable. */
+  if (S.view === 'PROGRAM' && MAP && mountedView === 'PROGRAM') return;
   if (MAP){ MAP.destroy(); MAP = null; }
   mountedView = S.view;
   host.innerHTML = '';
-  const v = el('div','view'+(S.view==='NETWORK'?'':' pad'));
+  const v = el('div','view'+(S.view==='NETWORK'||S.view==='PROGRAM'?'':' pad'));
   host.appendChild(v);
-  ({ NETWORK:viewNetwork, TIMELINE:viewTimeline, GEOGRAPHY:viewGeography, CASES:viewCases,
+  ({ NETWORK:viewNetwork, PROGRAM:viewProgramMap, TIMELINE:viewTimeline, GEOGRAPHY:viewGeography, CASES:viewCases,
      ANALYSIS:viewAnalysis, COVERUP:viewCounterargs, SEARCH:viewSearch, REPORT:viewReport }[S.view] || viewNetwork)(v);
 }
 
+/* --- PROGRAM MAP ------------------------------------------------------------
+   Design's packed-cell map of the 110-node programme, on a tab of its own.
+
+   The scaffolding is deliberately identical to viewNetwork's: the same absolute
+   host, the same `.cwrap`, the same sweep overlay and the same `#netchrome`
+   element. renderNetworkChrome() reads that element and, under `!S.l0full`,
+   empties it -- the packed map draws its own breadcrumb, ledgers and controls, and
+   the inherited hop/legend chrome reads MAP.pairs, which the packed map does not
+   have. Leaving the element out instead of emptying it would make that function
+   return early on a missing node, which is a silence rather than a fix.
+
+   `S.l0full` is the flag every downstream surface keys on: the chrome suppressor,
+   paint()'s repaint branch, and the breadcrumb. It is set here rather than left to
+   the previous view, because a view that inherits a flag is a view that renders
+   differently depending on where the reader came from. */
+function viewProgramMap(v){
+  v.style.cssText = 'position:absolute;inset:0;overflow:hidden';
+  const wrap = el('div','cwrap l0wrap');
+  v.appendChild(wrap);
+  v.appendChild(el('div','sweep'));
+  const chrome = el('div'); chrome.id = 'netchrome'; v.appendChild(chrome);
+  S.l0full = false;
+  MAP = mountL0(wrap);
+  renderNetworkChrome();
+}
 /* --- NETWORK ---------------------------------------------------------------- */
 function viewNetwork(v){
   v.style.cssText = 'position:absolute;inset:0;overflow:hidden';
@@ -124400,9 +124441,9 @@ function viewNetwork(v){
   v.appendChild(wrap);
   v.appendChild(el('div','sweep'));
   const chrome = el('div'); chrome.id = 'netchrome'; v.appendChild(chrome);
-  S.l0full = !!(S.path || (S.frame && S.frame.length));
-  if (S.l0full){ MAP = mountNetwork(wrap); renderNetworkChrome(); }
-  else { wrap.className = 'cwrap l0wrap'; MAP = mountL0(wrap); }
+  S.l0full = true;
+  MAP = mountNetwork(wrap);
+  renderNetworkChrome();
 }
 function renderNetworkChrome(){
   const c = $('#netchrome'); if (!c) return;
@@ -125541,7 +125582,7 @@ You can operate the interface. To do so, emit one action per line at the very ST
 Put each action on ONE line, however long. Do not pretty-print or wrap the JSON payload across lines. The interface can now recover a multi-line payload, but a single line is what it is built for.
 Available actions and signatures:
 selectNode(id) clearSelection() setHops(1|2|3) highlightPath(from,to,hops)
-setView("NETWORK"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|"COVERUP"|"SEARCH"|"REPORT")
+setView("NETWORK"|"PROGRAM"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|"COVERUP"|"SEARCH"|"REPORT")
 NETWORK is the map. It is the only view with the graph on it, so "show me on the map" always means NETWORK.
 GEOGRAPHY is three cluster summary cards, not a map. REPORT is where charts and written reports land.
 toggleFilter(key) setEdgeFilter([types]) clearFilters() focusCluster("legacy"|"contractor"|"ffrdc"|"ic"|"oversight"|"witness"|"research"|"media"|"other")
@@ -126365,7 +126406,7 @@ document.addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
   if (e.key === '/'){ e.preventDefault(); $('#anin').focus(); }
   const n = parseInt(e.key, 10);
-  if (n >= 1 && n <= 7) CMD.setView(VIEWS[n-1]);
+  if (n >= 1 && n <= VIEWS.length) CMD.setView(VIEWS[n-1]);
 });
 
 /* the rail switches between a vertical list and a horizontal tab strip */

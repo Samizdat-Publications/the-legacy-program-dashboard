@@ -74,7 +74,10 @@ async function openMap(page) {
   await page.goto(URL, { waitUntil: 'load', timeout: 180000 });
   await page.waitForSelector('[data-view="CASES"]', { timeout: 120000 });
   await page.waitForTimeout(6000);
-  await page.click('[data-view="NETWORK"]');
+  /* The program map moved to a tab of its own on 29 August 2026. This camera is
+     pointed at THAT map -- the packed cells are what the four viewport sizes are
+     being swept for. The full graph now owns NETWORK. */
+  await page.click('[data-view="PROGRAM"]');
   await page.waitForTimeout(2200);
   /* The entry surface sits on top of the map until a reader picks a way in, and
      it re-renders, so removing the node once is not enough -- hide the class. */

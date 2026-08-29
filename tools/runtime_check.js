@@ -139,6 +139,11 @@ const check = (c, label, detail = '') => {
     await page.click('[data-view="NETWORK"]');
     await page.waitForTimeout(6000);
     await page.screenshot({ path: SHOTS + '/network.png' });
+    await page.click('[data-view="PROGRAM"]');
+    await page.waitForTimeout(6000);
+    await page.screenshot({ path: SHOTS + '/program.png' });
+    await page.click('[data-view="CASES"]');
+    await page.waitForTimeout(1200);
   }
 
   /* ---- THE SEARCH GRAMMAR ---------------------------------------------------
@@ -196,17 +201,77 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
-  /* ---- THE FULL GRAPH'S PARTICLE LAYER --------------------------------------
-     mountNetwork is the inherited parent-board renderer. It mounts when S.path or
-     S.frame is set AND the NETWORK view is constructed -- so it is reachable from
-     any other view via frameNodes, focusCluster, highlightPath or showInsight, and
-     three earlier attempts to reach it failed only because they called those
-     commands while already on NETWORK, where no view is rebuilt.
+  /* ---- THE INVERSION, 29 August 2026 ----------------------------------------
+     Stewart's call after using the live board: the force-directed full graph is
+     the primary network map, and Design's packed program map moves to a tab of
+     its own. Both survive; they swap roles.
 
-     It drew a particle on every visible edge, flipped by comparing the two nodes'
-     dates. That is a time-direction flow on every line, which Design named and
-     rejected: it states the relationship runs from the earlier node to the later
-     one, and for most of these edges the board makes no such claim. */
+     Asserted through the DOM rather than through S.l0full, because the flag is
+     what the code sets and the wrapper is what the reader gets. The two renderers
+     are distinguishable there without ambiguity: mountL0's host carries `.l0wrap`
+     and draws its own `.l0crumb` breadcrumb; mountNetwork's carries neither and
+     leaves the inherited hop/legend chrome in #netchrome.
+
+     THE FAILURE THIS IS AIMED AT is a half-applied inversion, and it is silent.
+     If VIEWS gains PROGRAM but the dispatch map does not, `[S.view] || viewNetwork`
+     catches the miss and the new tab renders THE NETWORK MAP -- a "Program map"
+     button that shows the wrong map, no error, nothing in the console. So the
+     check is not "PROGRAM draws something"; it is that the two views draw
+     DIFFERENT renderers, and that each draws the right one.
+
+     POISON=inversion navigates to NETWORK where the check expects PROGRAM, so the
+     two samples come from the same renderer. Everything the check reads is real
+     page state; what the poison changes is which page state it reads. The match
+     must collapse. */
+  try {
+    const renderer = async () => await page.evaluate(() => ({
+      l0wrap:  !!document.querySelector('.l0wrap'),
+      crumb:   !!document.querySelector('.l0crumb'),
+      chrome:  (document.getElementById('netchrome') || {}).innerHTML ?
+                 (document.getElementById('netchrome').innerHTML.length > 0) : false,
+      canvas:  [...document.querySelectorAll('canvas')].some(c => c.width > 200),
+    }));
+    await page.evaluate(() => window.__board.CMD.setView('CASES'));
+    await page.waitForTimeout(700);
+    await page.click('[data-view="NETWORK"]');
+    await page.waitForTimeout(4000);
+    const net = await renderer();
+    check(net.canvas && !net.l0wrap && !net.crumb,
+          'network map is the full graph at rest',
+          `l0wrap=${net.l0wrap} crumb=${net.crumb} canvas=${net.canvas}`);
+    check(net.chrome, 'the full graph keeps its own hop and legend chrome',
+          '#netchrome ' + (net.chrome ? 'has content' : 'is empty'));
+
+    const POIS = process.env.POISON === 'inversion';
+    await page.click(POIS ? '[data-view="NETWORK"]' : '[data-view="PROGRAM"]');
+    await page.waitForTimeout(4000);
+    const prog = await renderer();
+    check(prog.canvas && prog.l0wrap && prog.crumb,
+          'the program map tab draws the packed map',
+          `l0wrap=${prog.l0wrap} crumb=${prog.crumb} canvas=${prog.canvas}`
+          + (POIS ? ' [POISON=inversion]' : ''));
+    check(prog.l0wrap !== net.l0wrap,
+          'the two map views draw different renderers',
+          POIS ? 'POISON=inversion: both samples taken from NETWORK, must collapse'
+               : 'NETWORK has no .l0wrap, PROGRAM has one');
+  } catch (e) {
+    check(false, 'the two map views could be exercised', e.message.slice(0, 120));
+  }
+
+  /* ---- THE FULL GRAPH'S PARTICLE LAYER --------------------------------------
+     mountNetwork is the inherited parent-board renderer. It drew a particle on
+     every visible edge, flipped by comparing the two nodes' dates. That is a
+     time-direction flow on every line, which Design named and rejected: it states
+     the relationship runs from the earlier node to the later one, and for most of
+     these edges the board makes no such claim.
+
+     THIS BLOCK MATTERS MORE THAN IT DID. Until 29 August 2026 this renderer was a
+     fallback that mounted only when a path or a frame was live, and reaching it at
+     all took three attempts. It is now the board's DEFAULT SURFACE -- the rule it
+     is held to has been promoted from a corner case to the first thing every
+     reader sees. The route below is kept exactly as it was, frame-first from
+     another view, because it exercises the reframe path as well as the rest
+     state; `network map is the full graph at rest` above covers the plain case. */
   try {
     await page.evaluate(() => window.__board.CMD.setView('CASES'));
     await page.waitForTimeout(900);
@@ -310,19 +375,25 @@ const check = (c, label, detail = '') => {
    * fire, they just looked inert because the map they affect was 798px wide and
    * dimmed to 16%. Assert both, so a regression in either is named for what it is. */
   try {
-    /* Back to the map. The block above exercises the full-graph renderer, which is
-       only reachable from a NON-network view, so the packed map is not mounted at
-       this point -- the first cut of this check measured 0 buttons on a 0px canvas
-       and reported success-shaped nonsense until it was made to fail loudly. */
+    /* Back to the packed map, which is the PROGRAM tab as of 29 August 2026. The
+       block above leaves the reader on the full graph, so the packed map is not
+       mounted at this point -- the first cut of this check measured 0 buttons on a
+       0px canvas and reported success-shaped nonsense until it was made to fail
+       loudly, and the waitForSelector below is what keeps it loud.
+
+       S.l0full is no longer set by hand here. It used to be, because the two
+       renderers shared the NETWORK view and the flag was the only thing choosing
+       between them; now the view chooses, viewProgramMap sets the flag, and
+       setting it from outside would be a test arranging the state it means to
+       observe. */
     await page.evaluate(() => {
       const B = window.__board;
-      B.S.l0full = false;            /* the packed map, not the full graph */
       B.S.sel = null;
       B.S.l0open = [];
     });
     await page.click('[data-view="CASES"]');
     await page.waitForTimeout(800);
-    await page.click('[data-view="NETWORK"]');
+    await page.click('[data-view="PROGRAM"]');
     await page.waitForTimeout(2500);
     const skip2 = await page.$('.l0entry [data-entry-skip], .l0entry [data-skip]');
     if (skip2) { await skip2.click(); await page.waitForTimeout(1000); }

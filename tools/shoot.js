@@ -8,7 +8,7 @@ const FILE = process.argv[2] || path.resolve(__dirname, '..', 'dist', 'the-progr
 const OUTDIR = process.argv[3] || path.resolve(__dirname, '..', 'dist', 'shots');
 const TAG = process.argv[4] || 'program';
 
-const VIEWS = ['NETWORK', 'TIMELINE', 'GEOGRAPHY', 'CASES', 'ANALYSIS', 'COVERUP', 'SEARCH', 'REPORT'];
+const VIEWS = ['NETWORK', 'PROGRAM', 'TIMELINE', 'GEOGRAPHY', 'CASES', 'ANALYSIS', 'COVERUP', 'SEARCH', 'REPORT'];
 
 (async () => {
   const browser = await chromium.launch(launchOptions());

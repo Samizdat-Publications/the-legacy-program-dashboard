@@ -1553,10 +1553,18 @@ async function probeImages(page, fixtures, opts) {
   await page.waitForSelector('[data-view="CASES"]', { timeout: 120000 });
   await page.waitForTimeout(6000);
 
-  /* The map is the rest state of the NETWORK view, and the entry surface sits on
-     top of it until a reader picks a way in. Both have to be got past before
-     there is a canvas to read. */
-  await page.click('[data-view="NETWORK"]');
+  /* THE PACKED MAP IS ITS OWN VIEW as of 29 August 2026 -- it used to be the rest
+     state of NETWORK, and NETWORK is now the force-directed full graph. So this
+     navigates to the new tab. That is the ONLY concession this file makes to the
+     inversion: not one assertion, threshold or poison below is relaxed, because
+     these 30 checks found two defects that reading the source did not, and the
+     tenth poison moves every chip 60px on the real page and requires the match to
+     collapse. A check weakened to accommodate a change stops being evidence that
+     the change was safe.
+
+     The entry surface still sits on top of the map until a reader picks a way in,
+     and still has to be got past before there is a canvas to read. */
+  await page.click('[data-view="PROGRAM"]');
   await page.waitForTimeout(2500);
   const skip = await page.$('.l0entry [data-entry-skip], .l0entry [data-skip]');
   if (skip) { await skip.click(); await page.waitForTimeout(1200); }

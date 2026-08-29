@@ -39,12 +39,40 @@ commands that operate on the full graph: `setHops`, `highlightPath`, `focusClust
 and `frameNodes`. Replacing the view surface outright would silently break all four
 plus the "Show me on the map" control in the insight callout.
 
-So: L0 owns the rest state, and the legacy full-graph map mounts in its place while
-a path or a frame is active, with a FULL GRAPH breadcrumb chip and CLEAR returning
-to L0. `selectNode` deliberately does NOT trigger the swap — the ledger is a table
-of contents for the dock, and the dock opening must not move the map.
+SIGNED OFF, 29 August 2026, IN THE OPPOSITE DIRECTION FROM WHAT WAS BUILT.
+--------------------------------------------------------------------------
+The arrangement above shipped and Stewart used it. His verdict, after clicking a
+node and landing on the inherited renderer by accident:
 
-This is an addition to the spec, not an implementation of it. Flagged for sign-off.
+    "I clicked on grusch or someone and instead of our orthogonal map it gave me
+    this which is I think the style from the vanishing. I actually think I like
+    this better ... it shows the connections better than the orthogonal one which
+    I like but when a subject is clicked you can't see all the connections like
+    you can here"
+
+    "Maybe the orthogonal map becomes its own tab that's just the whole map so you
+    can see it while our primary map is in the style in the screenshots below,
+    where the analysis tab sends you"
+
+So the two renderers SWAP ROLES. Neither is deleted.
+
+  NETWORK  "Network map"  the force-directed full graph, all 964 nodes, primary
+  PROGRAM  "Program map"  Design's packed cells, the 110-node program map, its
+                          own tab, always the whole map
+
+What that fixes is the thing he actually hit: `selectNode` used to force
+`S.view = 'NETWORK'` and then NOT swap the renderer, so a click from the dossier
+or the ledger left him on the packed map with one chip outlined and no way to see
+what it connects to. The full graph answers that question and the packed map does
+not, so the full graph is where a selection now lands.
+
+What the packed map keeps is the thing IT answers and the full graph does not:
+what the programme looks like whole, arranged rather than settled. It is now
+reached deliberately instead of by falling back into it.
+
+The old rule "selectNode must not move the map" survives, narrowed to where it was
+always aimed: a reader standing ON the program map stays there when the dock opens.
+From anywhere else a selection goes to the network map.
 """
 
 # --------------------------------------------------------------------------- CSS
@@ -1300,7 +1328,6 @@ function mountL0(host){
          + ' <span class="n">'+(n.direct.length+n.routed.length)+'</span>'
          + ' <span class="x">&times;</span></span>';
     }
-    if (S.l0full) h += '<span class="l0chip" data-full="0">FULL GRAPH <span class="x">&times;</span></span>';
     if (S.l0open.length) h += '<span class="l0chip" data-clear="1">CLEAR</span>';
     h += '<span class="l0meta">' + D.counts.l0 + ' nodes · '
        + (opt.rest ? (PK.rest||[]).length : 0) + ' of '
@@ -1738,8 +1765,6 @@ function mountL0(host){
     }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
-    const f = ev.target.closest('[data-full]');
-    if (f){ S.l0full = false; paint({ full:true }); return; }
     const r = ev.target.closest('[data-node]');
     /* The ledger is a table of contents, not a replacement for the dock. */
     if (r) return CMD.selectNode(r.getAttribute('data-node'));
@@ -1822,6 +1847,33 @@ function l0Short(label, cls){
 """
 
 # ------------------------------------------------------------------ CMD actions
+VIEW_PROGRAM_JS = r"""/* --- PROGRAM MAP ------------------------------------------------------------
+   Design's packed-cell map of the 110-node programme, on a tab of its own.
+
+   The scaffolding is deliberately identical to viewNetwork's: the same absolute
+   host, the same `.cwrap`, the same sweep overlay and the same `#netchrome`
+   element. renderNetworkChrome() reads that element and, under `!S.l0full`,
+   empties it -- the packed map draws its own breadcrumb, ledgers and controls, and
+   the inherited hop/legend chrome reads MAP.pairs, which the packed map does not
+   have. Leaving the element out instead of emptying it would make that function
+   return early on a missing node, which is a silence rather than a fix.
+
+   `S.l0full` is the flag every downstream surface keys on: the chrome suppressor,
+   paint()'s repaint branch, and the breadcrumb. It is set here rather than left to
+   the previous view, because a view that inherits a flag is a view that renders
+   differently depending on where the reader came from. */
+function viewProgramMap(v){
+  v.style.cssText = 'position:absolute;inset:0;overflow:hidden';
+  const wrap = el('div','cwrap l0wrap');
+  v.appendChild(wrap);
+  v.appendChild(el('div','sweep'));
+  const chrome = el('div'); chrome.id = 'netchrome'; v.appendChild(chrome);
+  S.l0full = false;
+  MAP = mountL0(wrap);
+  renderNetworkChrome();
+}
+"""
+
 L0_CMD = r"""
   /* ---- L0 program map. Five actions, each with a clickable control. If a
      control exists with no CMD entry the analyst cannot operate it, and the
@@ -1848,8 +1900,13 @@ L0_CMD = r"""
     paint({ map:'l0' });
   },
   clearExpansions(){ S.l0open = []; S.l0card = []; paint({ map:'l0' }); },
-  showPathOnly(){ S.l0panel = 'path'; S.view = 'NETWORK'; paint({ full:true }); },
-  showUnattached(){ S.l0panel = 'un'; S.view = 'NETWORK'; paint({ full:true }); },
+  /* The two registers and the entry surface are drawn by the packed map, so they
+     name the view that mounts it. They said NETWORK while the packed map WAS the
+     network rest state; after the inversion that would have sent the reader to the
+     force-directed graph and then rendered nothing, which is the shape of bug that
+     looks like a dead button. */
+  showPathOnly(){ S.l0panel = 'path'; S.view = 'PROGRAM'; paint({ full:true }); },
+  showUnattached(){ S.l0panel = 'un'; S.view = 'PROGRAM'; paint({ full:true }); },
 """
 
 
@@ -2040,17 +2097,85 @@ def apply(s, model, must_replace, layout=None):
     s, o = must_replace(s, "</style>", L0_CSS + "</style>", "L0 styles",
                         s.count("</style>")); ok &= o
 
-    # -- mount. L0 owns the rest state. The legacy full-graph map still mounts
-    #    while a path or a frame is active, so setHops / highlightPath /
-    #    focusCluster / frameNodes and the insight callout's "Show me on the map"
-    #    keep working. selectNode deliberately does NOT trigger the swap: the dock
-    #    opening must not move the map.
+    # -- THE INVERSION, 29 August 2026. See this module's docstring for the call
+    #    and the reasoning. Six patches, and the risk in all of them is that a
+    #    surface goes quiet rather than red.
+    #
+    # (a) NETWORK mounts the full graph unconditionally. It used to mount it only
+    #     when a path or a frame was live, which meant the commands that set those
+    #     -- highlightPath, focusCluster, frameNodes, the insight callout's "Show me
+    #     on the map" -- worked from every view EXCEPT the one they targeted, where
+    #     renderSurface's own re-mount guard returned before the swap could happen.
+    #     Making it unconditional removes that whole class of dead command.
     s, o = must_replace(s,
         "  MAP = mountNetwork(wrap);\n  renderNetworkChrome();",
-        "  S.l0full = !!(S.path || (S.frame && S.frame.length));\n"
-        "  if (S.l0full){ MAP = mountNetwork(wrap); renderNetworkChrome(); }\n"
-        "  else { wrap.className = 'cwrap l0wrap'; MAP = mountL0(wrap); }",
-        "L0 mount", 1); ok &= o
+        "  S.l0full = true;\n"
+        "  MAP = mountNetwork(wrap);\n  renderNetworkChrome();",
+        "NETWORK mounts the full graph unconditionally", 1); ok &= o
+
+    # (b) the packed map becomes a view. Four string patches, which is what a view
+    #     costs on this shell: the VIEWS array, VIEW_LABEL, the dispatch map, and
+    #     the function. The rail builds itself from VIEWS, so the tab appears with
+    #     no markup change. Second in the order, next to the map it used to be.
+    s, o = must_replace(s,
+        "const VIEWS = ['NETWORK','TIMELINE',",
+        "const VIEWS = ['NETWORK','PROGRAM','TIMELINE',",
+        "VIEWS gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "  NETWORK:'Network map', TIMELINE:'Timeline',",
+        "  NETWORK:'Network map', PROGRAM:'Program map', TIMELINE:'Timeline',",
+        "VIEW_LABEL gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "  ({ NETWORK:viewNetwork, TIMELINE:viewTimeline,",
+        "  ({ NETWORK:viewNetwork, PROGRAM:viewProgramMap, TIMELINE:viewTimeline,",
+        "view dispatch gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "/* --- NETWORK ---------------------------------------------------------------- */\n"
+        "function viewNetwork(v){",
+        VIEW_PROGRAM_JS
+        + "/* --- NETWORK ---------------------------------------------------------------- */\n"
+        "function viewNetwork(v){",
+        "viewProgramMap", 1); ok &= o
+
+    # (c) the packed map is stateful in exactly the way the comment above
+    #     renderSurface's NETWORK guard describes -- it owns a canvas, a camera and
+    #     a draw loop -- so it needs the same protection. Without this every paint()
+    #     rebuilds it and throws away the reader's pan and zoom, which reads as the
+    #     map refusing to be moved.
+    s, o = must_replace(s,
+        "  if (S.view === 'NETWORK' && MAP && mountedView === 'NETWORK')"
+        "{ renderNetworkChrome(); return; }",
+        "  if (S.view === 'NETWORK' && MAP && mountedView === 'NETWORK')"
+        "{ renderNetworkChrome(); return; }\n"
+        "  /* Same rule for the packed map. Its own surfaces -- breadcrumb, ledgers,\n"
+        "     register panel -- are repainted by paint()'s camera step below, not by\n"
+        "     remounting, because nodes never moving is the property that makes two\n"
+        "     open ledgers comparable. */\n"
+        "  if (S.view === 'PROGRAM' && MAP && mountedView === 'PROGRAM') return;",
+        "the program map is never re-mounted while it is alive", 1); ok &= o
+
+    # (d) a map fills its host. `pad` is for the document views.
+    s, o = must_replace(s,
+        "  const v = el('div','view'+(S.view==='NETWORK'?'':' pad'));",
+        "  const v = el('div','view'+(S.view==='NETWORK'||S.view==='PROGRAM'?'':' pad'));",
+        "the program map is a map, not a padded document", 1); ok &= o
+
+    # (e) the number keys read the array rather than a literal 7. They already
+    #     undercounted -- REPORT, the eighth, has never been reachable by key -- and
+    #     a hardcoded bound silently drops whatever is added after it.
+    s, o = must_replace(s,
+        "  if (n >= 1 && n <= 7) CMD.setView(VIEWS[n-1]);",
+        "  if (n >= 1 && n <= VIEWS.length) CMD.setView(VIEWS[n-1]);",
+        "number keys cover every view there is", 1); ok &= o
+
+    # (f) the analyst is meant to be able to operate every control on the board. A
+    #     view it is not told about is a view it cannot send anyone to.
+    s, o = must_replace(s,
+        'setView("NETWORK"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|"COVERUP"|'
+        '"SEARCH"|"REPORT")',
+        'setView("NETWORK"|"PROGRAM"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|'
+        '"COVERUP"|"SEARCH"|"REPORT")',
+        "the analyst is told about the program map", 1); ok &= o
 
     # -- rail: the two registers, reachable with their full contents listed. This
     #    is what makes "nothing was left out" auditable rather than asserted.
@@ -2084,12 +2209,19 @@ def apply(s, model, must_replace, layout=None):
         "single selection on expand", 1); ok &= o
 
     # selectNode drives the map too, so the dock never describes a node the reader
-    # cannot see. It only moves the camera when the target IS on the L0 map.
+    # cannot see. focusL0 is still called for a node that is on the packed map, so
+    # that tab is already lit correctly when the reader switches to it.
     s, o = must_replace(s,
         "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
         "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n    paint({ map:'select' });",
         "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
-        "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n"
+        "    /* A selection lands on the NETWORK map, which can answer 'what does\n"
+        "       this connect to'. The one exception is a reader already standing on\n"
+        "       the program map: there the ledger is a table of contents for the\n"
+        "       dock, and opening the dock must not move the map out from under\n"
+        "       them. That was the original rule; this is the whole of what is left\n"
+        "       of it. */\n"
+        "    if (S.view !== 'NETWORK' && S.view !== 'PROGRAM') S.view = 'NETWORK';\n"
         "    if ((L0DATA.l0||[]).some(x=>x.id===id)) CMD.focusL0(id);\n"
         "    else S.l0open = [];\n"
         "    paint({ map:'select' });",
@@ -2367,7 +2499,7 @@ def apply(s, model, must_replace, layout=None):
 
     # the breadcrumb gains the path chip and a way back to the entry surface
     s, o = must_replace(s,
-        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "    if (S.l0open.length) h += '<span class=\"l0chip\" data-clear=\"1\">CLEAR",
         "    if (S.l0path){\n"
         "      const p = (L0DATA.entryPaths||[]).find(x=>x.id===S.l0path);\n"
         "      if (p) h += '<span class=\"l0chip path\" data-clearpath=\"1\">'\n"
@@ -2375,7 +2507,7 @@ def apply(s, model, must_replace, layout=None):
         "        + ' <span class=\"x\">&times;</span></span>';\n"
         "    }\n"
         "    h += '<span class=\"l0chip\" data-entry=\"1\">START</span>';\n"
-        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "    if (S.l0open.length) h += '<span class=\"l0chip\" data-clear=\"1\">CLEAR",
         "path chip + START", 1); ok &= o
     s, o = must_replace(s,
         "    if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();",
@@ -2410,9 +2542,17 @@ def apply(s, model, must_replace, layout=None):
     #    remounting, because remounting would rebuild the canvas and lose the
     #    reader's pan -- and because nodes never moving is the property that makes
     #    two open ledgers comparable.
+    #
+    #    AND THE GUARD NAMES BOTH MAP VIEWS. It said NETWORK only, which was right
+    #    while the packed map WAS the network rest state. Moving it to a view of its
+    #    own without widening this would have stopped every repaint on that tab: the
+    #    breadcrumb, the ledgers and the register panel would have frozen at whatever
+    #    they said when the tab was opened, while the canvas kept drawing. Nothing
+    #    would have thrown.
     s, o = must_replace(s,
         "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){",
-        "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){\n"
+        "  step('camera', () => {\n"
+        "    if ((S.view === 'NETWORK' || S.view === 'PROGRAM') && MAP){\n"
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
     # -- THE FULL GRAPH'S PARTICLE LAYER, which is an inherited surface asserting
@@ -3104,6 +3244,9 @@ L0_CMD3 = r"""
   openPath(id){
     const p = (L0DATA.entryPaths||[]).find(x=>x.id===id);
     if (!p) return warn('no entry path named "'+id+'"');
+    /* An entry path lights cells on the packed map. Typed at the analyst from any
+       other view it used to light them on a map that was not mounted. */
+    S.view = 'PROGRAM';
     S.l0entry = false;
     S.l0path = id;
     S.l0focus = new Set(p.ids);
@@ -3123,5 +3266,5 @@ L0_CMD3 = r"""
     S.l0path = null; S.l0focus = null;
     paint({ map:'l0', full:true });
   },
-  showEntry(){ S.l0entry = true; S.view = 'NETWORK'; paint({ full:true }); },
+  showEntry(){ S.l0entry = true; S.view = 'PROGRAM'; paint({ full:true }); },
 """
