@@ -377,6 +377,39 @@ def _no_parent_editorial(b, html):
             for p in banned if p in html]
 
 
+@check("the page title names this board, not the parent")
+def _title_is_this_board(b, html):
+    """The most visible copy on the artifact, and the last place anyone looked.
+
+    Until 29 August 2026 the built page shipped
+        <title>The Program -- Scientist Network Tracker v2</title>
+    because build_dashboard.py's branding table swapped the board NAME and stopped.
+    "Scientist Network Tracker v2" is the parent board's subtitle -- The Vanishing
+    tracks a cluster of missing and dead scientists -- and it sat in the browser
+    tab, the bookmark, the link preview and the search result of a UAP records
+    board. It went out in the 29 August production deploy.
+
+    Nothing caught it. §8's sweep diffed PROSE string literals and never read
+    <head>, which is the same blind spot that let three render-blocking Google
+    <link> tags survive six sessions. `no parent-board editorial content ships`
+    screens a banned list drawn from that prose diff, and the title was not on it.
+
+    This asserts the positive rather than the absence: the title must name THIS
+    board. A future re-port that carries over a different sibling subtitle fails
+    here without anyone having to predict the string."""
+    m = re.search(r"<title>(.*?)</title>", html, re.S | re.I)
+    if not m:
+        return ["the built page has no <title>"]
+    t = " ".join(m.group(1).split())
+    out = []
+    if "The Program" not in t:
+        out.append(f"<title> does not name this board: {t!r}")
+    for parent in ("Scientist Network Tracker", "The Vanishing"):
+        if parent in t:
+            out.append(f"<title> carries the parent board's {parent!r}: {t!r}")
+    return out
+
+
 _M = re.match(r'(x)', 'x')   # a never-None match, so the fallbacks above read
                               # 'unknown' rather than raising inside a check
 
@@ -1760,8 +1793,16 @@ def self_test():
     _base_html = good_html
 
     def wrap(model, extra=""):
-        # the rail strings the copy check looks for, plus the model literal
-        return (_base_html + ' data-l0reg="path" data-l0reg="un" '
+        # the rail strings the copy check looks for, plus the model literal.
+        #
+        # The <title> is here for the same reason EXPLAIN_OK is, and the self-test
+        # found it the same way: the title check reads <title> out of the built
+        # file, so a fixture without one makes it report a false positive on CLEAN
+        # input. It did, the first time it ran. The fixture has to carry the real
+        # shape, not just the strings a given check happens to grep for.
+        return ("<title>The Program -- legacy UAP recovery and reverse-engineering,"
+                " 1944-2026</title>\n"
+                + _base_html + ' data-l0reg="path" data-l0reg="un" '
                 + ' L0DATA.counts.pathOnly L0DATA.counts.unattached ' + extra
                 + "\nconst L0DATA = " + json.dumps(model) + ";\n")
 
@@ -1827,6 +1868,13 @@ def self_test():
                 "axes S, P and I are never summed.`;\n"),
         "no parent-board editorial content ships":
             good_html + " NeuroLogica (Novella) on the matched denominator ",
+        # The literal title that went to production on 29 August 2026. The poison IS
+        # the historical bug, and it edits the real <title> on the real page rather
+        # than appending a string the predicate would trivially find.
+        "the page title names this board, not the parent":
+            re.sub(r"<title>.*?</title>",
+                   "<title>The Program -- Scientist Network Tracker v2</title>",
+                   good_html, count=1, flags=re.S | re.I),
         # The exact three tags that shipped for six sessions. Reintroducing them is
         # the failure this check exists for, so the poison IS the historical bug.
         "the built page fetches nothing at runtime":

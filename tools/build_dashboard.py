@@ -2412,8 +2412,21 @@ def main():
     ok_all &= ok
 
     # ---- branding ---------------------------------------------------------
+    # BOTH HALVES OF THE TITLE, not just the board name. Until 29 August 2026 this
+    # table swapped "The Vanishing" and stopped, so the built page shipped
+    # <title>The Program -- Scientist Network Tracker v2</title> -- the parent
+    # board's subtitle, describing a cluster of missing scientists, in the browser
+    # tab of a UAP records board. It went live in the 29 August deploy and was
+    # caught by looking at the deployed page rather than by any check.
+    #
+    # It is the §8 blind spot exactly: the 25 August sweep diffed PROSE literals and
+    # never read <head>. A <title> is the most visible copy on the artifact -- tab,
+    # bookmark, link preview, search result -- and was the last place anyone looked.
     for old, new, label, cnt in [
         ("The Vanishing", "The Program", "title", s.count("The Vanishing")),
+        ("Scientist Network Tracker v2",
+         "legacy UAP recovery and reverse-engineering, 1944-2026",
+         "subtitle", s.count("Scientist Network Tracker v2")),
     ]:
         if cnt:
             s = s.replace(old, new)
