@@ -1,0 +1,227 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <style>
+    body{margin:0;background:#0d1116;font-family:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace}
+    a{color:#5ed4e6}a:hover{color:#e6e9ee}
+    .cap{font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase;color:#5c6672}
+    .btn{height:25px;padding:0 11px;border:1px solid #262e36;color:#8d97a4;font:500 8.5px/25px 'IBM Plex Mono',monospace;letter-spacing:.13em}
+    .btn.on{border-color:#5ed4e6;color:#5ed4e6;background:#12171d}
+    .card{background:#12171d;border:1px solid #262e36}
+    .h4{margin:0;font:600 11.5px/1.25 'IBM Plex Mono',monospace;color:#e6e9ee}
+    .p{margin:6px 12px 9px;font:400 9px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4}
+    .tag{font:500 8px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;padding:4px 6px}
+    .row{display:flex;align-items:baseline;gap:6px;padding:3px 12px;font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#b9c2cd}
+    .ld{flex:1;border-bottom:1px dotted #333c47;transform:translateY(-3px)}
+    .dg{color:#5c6672;font-size:9px;letter-spacing:.10em}
+    .grp{padding:9px 12px 2px;font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;text-transform:uppercase;color:#5c6672}
+  </style>
+</helmet>
+
+<div style="width:2560px;height:1440px;box-sizing:border-box;background:#0d1116;display:flex;flex-direction:column">
+
+  <!-- HEAD: at 2560 the control row is ONE line, 25px. Everything fits. -->
+  <div style="display:flex;align-items:flex-start;gap:12px;padding:10px 12px 0 12px;flex:0 0 auto">
+    <div style="flex:1 1 auto;min-width:0;display:flex;gap:6px;align-items:center">
+      <div style="display:inline-flex;align-items:center;height:22px;padding:0 8px;background:#141920;border:1px solid #262e36;color:#8d97a4;font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;text-transform:uppercase">THE PROGRAM</div>
+      <div style="display:inline-flex;align-items:center;gap:6px;height:22px;padding:0 8px;background:#141920;border:1px solid #5ed4e6;color:#5ed4e6;font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;text-transform:uppercase">PATENTS<span style="color:#5c6672;font-size:11px">&#215;</span></div>
+      <div style="color:#5c6672;font:400 9px/1 'IBM Plex Mono',monospace;letter-spacing:.10em;background:rgba(15,18,22,0.88);padding:5px 7px;border:1px solid #1d242b;white-space:nowrap">5 FILINGS &#183; 2 GRANTED &#183; 2 EXPIRED &#183; 1 WRAPPER INCOMPLETE &#183; 11 DRAWING SHEETS</div>
+    </div>
+    <div style="flex:0 1 auto;display:flex;gap:6px;justify-content:flex-end">
+      <div class="btn">NETWORK</div><div class="btn on">PATENTS</div><div class="btn">COVER-UP</div>
+      <div class="btn">TIMELINE</div><div class="btn">FULL GRAPH</div><div class="btn">ANALYST</div>
+      <div class="btn" style="color:#5c6672">AUTO</div>
+    </div>
+  </div>
+
+  <div style="flex:1 1 auto;min-height:0;display:flex;gap:14px;padding:12px;box-sizing:border-box">
+
+    <!-- COL 1 + 2: filings and prosecution -->
+    <div style="flex:1 1 auto;min-width:0;display:flex;flex-direction:column;gap:14px">
+
+      <div class="card" style="flex:0 0 auto">
+        <div style="padding:11px 12px 0"><h4 class="h4">Five filings, 2015&#8211;2018</h4></div>
+        <p class="p">All five assigned to the United States as represented by the Secretary of the Navy, filed from NAWCAD at NAS Patuxent River. Two granted, two lapsed for non&#8209;payment of the first maintenance fee, one still pending as a published application.</p>
+        <div style="border-top:1px solid #1d242b;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;background:#1d242b">
+          <div style="background:#12171d;padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px">
+            <div style="display:flex;gap:7px;align-items:baseline"><span style="font:600 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#efb555">PAX 182</span><span style="font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">14/807,943</span></div>
+            <div style="font:500 11.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Electromagnetic field generator</div>
+            <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">filed 24 Jul 2015<br>granted 20 Nov 2018<br>US 10,135,366<br>Dougherty &#183; AU 2837</div>
+            <div style="margin-top:auto;display:flex;gap:5px;flex-wrap:wrap"><span class="tag" style="color:#5ed4e6;border:1px solid #5ed4e6">GRANTED</span><span class="tag" style="color:#e8705f;border:1px solid #e8705f">EXPIRED</span></div>
+          </div>
+          <div style="background:#12171d;padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px;box-shadow:inset 0 0 0 1px #5ed4e6">
+            <div style="display:flex;gap:7px;align-items:baseline"><span style="font:600 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#efb555">PAX 205</span><span style="font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">15/141,270</span></div>
+            <div style="font:500 11.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Craft using an inertial mass reduction device</div>
+            <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">filed 28 Apr 2016<br>granted 4 Dec 2018<br>US 10,144,532<br>Bonzell &#183; AU 3644/3642</div>
+            <div style="margin-top:auto;display:flex;gap:5px;flex-wrap:wrap"><span class="tag" style="color:#5ed4e6;border:1px solid #5ed4e6">GRANTED</span><span class="tag" style="color:#e8705f;border:1px solid #e8705f">EXPIRED</span><span class="tag" style="color:#efb555;border:1px solid #3a2f1c">APPEALED</span></div>
+          </div>
+          <div style="background:#12171d;padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px">
+            <div style="display:flex;gap:7px;align-items:baseline"><span style="font:600 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#5c6672">&#8212;</span><span style="font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">15/431,823</span></div>
+            <div style="font:500 11.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">High frequency gravitational wave generator</div>
+            <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">filed 14 Feb 2017<br>granted 18 Jun 2019<br>US 10,322,827</div>
+            <div style="margin-top:auto;display:flex;gap:5px"><span class="tag" style="color:#5ed4e6;border:1px solid #5ed4e6">GRANTED</span></div>
+          </div>
+          <div style="background:#12171d;padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px">
+            <div style="display:flex;gap:7px;align-items:baseline"><span style="font:600 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#5c6672">&#8212;</span><span style="font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">15/678,672</span></div>
+            <div style="font:500 11.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Piezoelectricity&#8209;induced room temperature superconductor</div>
+            <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">filed 16 Aug 2017<br>published 21 Feb 2019<br>US 2019/0058105</div>
+            <div style="margin-top:auto;display:flex;gap:5px"><span class="tag" style="color:#8d97a4;border:1px solid #262e36">PUBLISHED</span></div>
+          </div>
+          <div style="background:#12171d;padding:12px 14px 14px;display:flex;flex-direction:column;gap:7px">
+            <div style="display:flex;gap:7px;align-items:baseline"><span style="font:600 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#5c6672">&#8212;</span><span style="font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">15/928,703</span></div>
+            <div style="font:500 11.5px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Plasma compression fusion device</div>
+            <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">filed 22 Mar 2018<br>published 26 Sep 2019<br>US 2019/0295733</div>
+            <div style="margin-top:auto;display:flex;gap:5px"><span class="tag" style="color:#8d97a4;border:1px solid #262e36">PUBLISHED</span></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card" style="flex:0 0 auto;display:flex;flex-direction:column">
+        <div style="padding:11px 12px 0"><h4 class="h4">Two prosecutions, one design</h4></div>
+        <p class="p">Paragraph [0037] of PAX 205 incorporates PAX 182 by reference as its preferred generator, so these are two claims on one design by the author&#8217;s own statement. Different examiners, different art units, opposite outcomes.</p>
+        <div style="flex:0 0 auto;padding:6px 20px 20px;display:flex;flex-direction:column;gap:22px">
+          <div style="display:flex;justify-content:space-between;border-bottom:1px solid #22282f;padding-bottom:6px">
+            <span class="cap">2015</span><span class="cap">2016</span><span class="cap">2017</span><span class="cap">2018</span><span class="cap">2019</span><span class="cap">2020</span><span class="cap">2021</span><span class="cap">2022</span><span class="cap">2023</span>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:9px">
+            <div style="display:flex;gap:10px;align-items:baseline"><span style="font:600 10px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#efb555">PAX 182</span><span style="font:400 9.5px/1 'IBM Plex Mono',monospace;color:#8d97a4">Thomas M. Dougherty &#183; Art Unit 2837 &#183; one non&#8209;final rejection, no appeal, enablement never raised</span></div>
+            <div style="position:relative;height:42px;border-left:1px solid #22282f;border-right:1px solid #22282f">
+              <div style="position:absolute;left:0;right:0;top:11px;height:1px;background:#262e36"></div>
+              <div style="position:absolute;left:0%;top:6px;width:12px;height:12px;border:1px solid #5ed4e6;background:#12171d"></div><div style="position:absolute;left:0%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">FILED 24 JUL 2015</div>
+              <div style="position:absolute;left:19%;top:6px;width:12px;height:12px;border:1px solid #3b444f;background:#12171d"></div><div style="position:absolute;left:18%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">PUBLISHED</div>
+              <div style="position:absolute;left:35%;top:6px;width:12px;height:12px;border:1px solid #efb555;background:#12171d"></div><div style="position:absolute;left:33.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">NON&#8209;FINAL</div>
+              <div style="position:absolute;left:41%;top:6px;width:12px;height:12px;border:1px solid #5ed4e6;background:#5ed4e6"></div><div style="position:absolute;left:39%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5ed4e6">ALLOWED &#8212; PRIOR ART</div>
+              <div style="position:absolute;left:45%;top:6px;width:12px;height:12px;border:1px solid #5ed4e6;background:#12171d"></div><div style="position:absolute;left:44.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">GRANTED</div>
+              <div style="position:absolute;left:88%;top:3px;font:400 17px/1 'IBM Plex Mono',monospace;color:#e8705f">&#10005;</div><div style="position:absolute;left:84.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#e8705f">EXPIRED 26 DEC 2022</div>
+            </div>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:9px">
+            <div style="display:flex;gap:10px;align-items:baseline"><span style="font:600 10px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#efb555">PAX 205</span><span style="font:400 9.5px/1 'IBM Plex Mono',monospace;color:#8d97a4">Philip J. Bonzell &#183; Art Units 3644 then 3642 &#183; rejected twice as impossible, allowed only after a formal appeal</span></div>
+            <div style="position:relative;height:42px;border-left:1px solid #22282f;border-right:1px solid #22282f">
+              <div style="position:absolute;left:0;right:0;top:11px;height:1px;background:#262e36"></div>
+              <div style="position:absolute;left:9.5%;top:6px;width:12px;height:12px;border:1px solid #5ed4e6;background:#12171d"></div><div style="position:absolute;left:8.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">FILED 28 APR 2016</div>
+              <div style="position:absolute;left:24.5%;top:6px;width:12px;height:12px;border:1px solid #a795e8;background:#12171d"></div><div style="position:absolute;left:22%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#a795e8">SHEEHY LETTER</div>
+              <div style="position:absolute;left:30%;top:6px;width:12px;height:12px;border:1px solid #efb555;background:#12171d"></div><div style="position:absolute;left:29%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">NON&#8209;FINAL</div>
+              <div style="position:absolute;left:35%;top:6px;width:12px;height:12px;border:1px solid #e8705f;background:#e8705f"></div><div style="position:absolute;left:34.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#e8705f">FINAL</div>
+              <div style="position:absolute;left:39%;top:6px;width:12px;height:12px;border:1px solid #e8705f;background:#12171d"></div><div style="position:absolute;left:38%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#e8705f">APPEAL</div>
+              <div style="position:absolute;left:45%;top:6px;width:12px;height:12px;border:1px solid #5c6672;background:#12171d"></div><div style="position:absolute;left:42%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#5c6672">GRANTED &#8212; REASON ABSENT</div>
+              <div style="position:absolute;left:92%;top:3px;font:400 17px/1 'IBM Plex Mono',monospace;color:#e8705f">&#10005;</div><div style="position:absolute;left:88.5%;top:24px;font:400 9px/1 'IBM Plex Mono',monospace;color:#e8705f">EXPIRED 9 JAN 2023</div>
+            </div>
+          </div>
+          <div style="flex:0 0 auto;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px">
+            <div style="border:1px solid #1d242b;background:#141920;padding:11px 12px;display:flex;flex-direction:column;gap:7px">
+              <div class="cap" style="color:#a795e8">SHEEHY &#183; 15 DEC 2017</div>
+              <div style="font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;I agree with your main point that this mode of acceleration/movement is <span style="color:#e6e9ee">beyond the state of the possible, at least at present</span>.&#8221;</div>
+            </div>
+            <div style="border:1px solid #1d242b;background:#141920;padding:11px 12px;display:flex;flex-direction:column;gap:7px">
+              <div class="cap" style="color:#e8705f">EXAMINER &#183; 30 MAR 2018</div>
+              <div style="font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;China is already investing significantly in this area &#8212; <span style="color:#e6e9ee">this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection</span>.&#8221;</div>
+            </div>
+            <div style="border:1px solid #1d242b;background:#141920;padding:11px 12px;display:flex;flex-direction:column;gap:7px">
+              <div class="cap" style="color:#efb555">EXAMINER &#183; 11 JUL 2018</div>
+              <div style="font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;While the Examiner agrees that the <span style="color:#e6e9ee">math and physics are sound</span> in this application, the Examiner holds that the claims are <span style="color:#e6e9ee">still not enabled</span>.&#8221;</div>
+            </div>
+            <div style="border:1px solid #1d242b;background:#141920;padding:11px 12px;display:flex;flex-direction:column;gap:7px">
+              <div class="cap" style="color:#5ed4e6">EXAMINER &#183; 13 SEP 2018</div>
+              <div style="font:400 10.5px/1.6 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;<span style="color:#e6e9ee">the prior art fails to show</span> a high energy electromagnetic field generator&#8230;&#8221;<br><span style="color:#5c6672">PAX 182, allowed with enablement never raised.</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card" style="flex:0 0 auto;display:flex;flex-direction:column">
+        <div style="padding:11px 12px 0;display:flex;align-items:baseline;gap:10px">
+          <h4 class="h4">The five observables, against PAX 205</h4>
+          <span class="tag" style="color:#efb555;border:1px solid #3a2f1c">TIER 2 &#183; ATTRIBUTED TO ELIZONDO</span>
+          <span style="font:500 10.5px/1 'IBM Plex Mono',monospace;color:#5ed4e6;margin-left:auto">4 of 5 itemised as design goals</span>
+        </div>
+        <p class="p">The taxonomy is carried as one named former official&#8217;s formulation rather than as the Pentagon&#8217;s, because no released government document stating the set has been located. The mapping itself is Tier 1: it is read straight off the Navy briefing.</p>
+        <div style="flex:0 0 auto;border-top:1px solid #1d242b;display:grid;grid-template-columns:1fr 1.15fr;grid-auto-rows:58px;gap:1px;background:#1d242b">
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;font:500 11px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Positive lift without flight surfaces</div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;gap:9px"><span style="color:#5ed4e6;font:400 13px/1 'IBM Plex Mono',monospace">&#10003;</span><span style="font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#b9c2cd">inertial mass reduction device</span></div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;font:500 11px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Hypersonic velocity without signatures</div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;gap:9px"><span style="color:#5ed4e6;font:400 13px/1 'IBM Plex Mono',monospace">&#10003;</span><span style="font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;Vacuum plasma bubble/sheath&#8221;, no skin friction</span></div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;font:500 11px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Low observability</div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;gap:9px"><span style="color:#5ed4e6;font:400 13px/1 'IBM Plex Mono',monospace">&#10003;</span><span style="font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#b9c2cd">non&#8209;linear scattering of RF and sonar signals</span></div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;font:500 11px/1.4 'IBM Plex Mono',monospace;color:#e6e9ee">Trans&#8209;medium travel</div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;gap:9px"><span style="color:#5ed4e6;font:400 13px/1 'IBM Plex Mono',monospace">&#10003;</span><span style="font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#b9c2cd">&#8220;air / space / water mediums&#8221; &#8212; the HAUC</span></div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;font:500 11px/1.4 'IBM Plex Mono',monospace;color:#5c6672">Sudden and instantaneous acceleration</div>
+          <div style="background:#12171d;padding:0 16px;display:flex;align-items:center;gap:9px"><span style="color:#e8705f;font:400 13px/1 'IBM Plex Mono',monospace">&#10005;</span><span style="font:400 10.5px/1.5 'IBM Plex Mono',monospace;color:#8d97a4">NOT itemised. &#8220;Rapid acceleration transients&#8221; drives the device, it is not a claimed flight characteristic.</span></div>
+        </div>
+        <div style="flex:0 0 auto;display:flex;align-items:flex-end;padding:12px 16px 14px">
+          <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#5c6672;border-left:2px solid #3a2f1c;padding-left:10px">RECORDED GAP &#8212; an absence from what has been searched, not a demonstrated absence. If the set turns up in an AATIP or AAWSAP briefing it moves from Elizondo&#8217;s formulation to the government&#8217;s and this panel changes tier. The briefing also predates the earliest located publication by four years, so the mapping is offered as convergence, not influence.</div>
+        </div>
+      </div>
+
+      <div class="card" style="flex:1 1 auto;min-height:0;display:flex;flex-direction:column">
+        <div style="padding:11px 12px 0;display:flex;align-items:baseline;gap:10px">
+          <h4 class="h4">Drawings &#183; 11 sheets</h4>
+          <span style="font:400 9.5px/1 'IBM Plex Mono',monospace;color:#8d97a4">Federal public&#8209;domain figures pulled from USPTO with full provenance</span>
+          <span style="font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.13em;color:#5ed4e6;margin-left:auto">OPEN SHEET &#8594;</span>
+        </div>
+        <div style="flex:1 1 auto;min-height:0;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px;padding:10px 12px 14px">
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>10144532 &#183; fig 1</div><div style="color:#8d97a4">the craft</div></div></div>
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>10135366 &#183; fig 1&#8211;3</div><div style="color:#8d97a4">field generator</div></div></div>
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>10322827 &#183; fig 1&#8211;3</div><div style="color:#8d97a4">wave generator</div></div></div>
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>20190058105 &#183; fig 1</div><div style="color:#8d97a4">superconductor</div></div></div>
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>20190295733 &#183; fig 1&#8211;2</div><div style="color:#8d97a4">fusion device</div></div></div>
+          <div style="border:1px solid #262e36;background:#141920;display:flex;align-items:flex-end;padding:8px;font:400 9px/1.4 'IBM Plex Mono',monospace;color:#5c6672"><div><div>20170313446 &#183; fig 1</div><div style="color:#8d97a4">pre&#8209;grant pub</div></div></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- COL 3: rail, fully open -->
+    <div style="flex:0 0 470px;display:flex;flex-direction:column;gap:14px;min-height:0">
+      <div class="card" style="flex:0 0 auto;display:flex;flex-direction:column">
+        <div style="padding:11px 12px 0"><h4 class="h4">File wrapper &#183; PAX 205</h4></div>
+        <p class="p">Papers obtained and read. Tier marks are evidence strength, not importance.</p>
+        <div style="flex:0 0 auto;border-top:1px solid #1d242b;padding:4px 0 10px">
+          <div class="grp">OBTAINED &#183; 9 PAPERS</div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Application as filed</span><span class="ld"></span><span class="dg">28 APR 2016</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Sheehy letter</span><span class="ld"></span><span class="dg">15 DEC 2017</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Non&#8209;final rejection</span><span class="ld"></span><span class="dg">28 NOV 2017</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Interview summary</span><span class="ld"></span><span class="dg">17 JAN 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Final rejection</span><span class="ld"></span><span class="dg">30 MAR 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Response after final</span><span class="ld"></span><span class="dg">24 MAY 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Notice of appeal</span><span class="ld"></span><span class="dg">24 JUN 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Advisory action</span><span class="ld"></span><span class="dg">11 JUL 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Appeal brief &#43; declaration</span><span class="ld"></span><span class="dg">20 AUG 2018</span></div>
+          <div class="grp" style="color:#e8705f">ABSENT FROM THE RECORD</div>
+          <div class="row" style="color:#5c6672"><span style="color:#e8705f">&#10005;</span><span>Examiner&#8217;s answer</span><span class="ld" style="border-color:#262e36"></span><span class="dg">NOT OBTAINED</span></div>
+          <div class="row" style="color:#e6e9ee;background:#1a2027"><span style="color:#e8705f">&#10005;</span><span>Reasons for allowance</span><span class="ld" style="border-color:#3b444f"></span><span class="dg" style="color:#e8705f">NOT OBTAINED</span></div>
+          <div class="row" style="color:#5c6672"><span style="color:#e8705f">&#10005;</span><span>Issue fee transmittal</span><span class="ld" style="border-color:#262e36"></span><span class="dg">NOT OBTAINED</span></div>
+          <div style="padding:7px 12px 3px;font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#8d97a4">The examiner&#8217;s own account of what reversed a rejection he had twice sustained. The single most informative document still outstanding on this node. For Patent Center: the papers dated after 20 August 2018 only.</div>
+          <div class="grp" style="color:#5ed4e6">PAX 182 &#183; COMPLETE THROUGH GRANT</div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Notice of allowability</span><span class="ld"></span><span class="dg">13 SEP 2018</span></div>
+          <div class="row"><span style="color:#5ed4e6">T1</span><span>Notice of allowance</span><span class="ld"></span><span class="dg">10 OCT 2018</span></div>
+        </div>
+      </div>
+
+
+      <div class="card" style="flex:0 0 auto;display:flex;flex-direction:column">
+        <div style="padding:11px 12px 0"><h4 class="h4">Both patents lapsed</h4></div>
+        <p class="p">37 CFR 1.362(b) exempts only plant and design patents. There is no provision for a federally assigned one, so both owed the first maintenance fee and neither was paid.</p>
+        <div style="border-top:1px solid #1d242b;padding:9px 12px 12px;display:flex;flex-direction:column;gap:8px">
+          <div class="row" style="padding:0"><span style="color:#e8705f">&#10005;</span><span>US 10,135,366</span><span class="ld"></span><span class="dg" style="color:#e8705f">26 DEC 2022</span></div>
+          <div class="row" style="padding:0"><span style="color:#e8705f">&#10005;</span><span>US 10,144,532</span><span class="ld"></span><span class="dg" style="color:#e8705f">9 JAN 2023</span></div>
+          <div style="font:400 9.5px/1.6 'IBM Plex Mono',monospace;letter-spacing:.06em;color:#5c6672;margin-top:3px">Five weeks apart, same docket, same office of counsel. That weakens the reading that either was an isolated docketing slip, and equally weakens the sharper one that the Navy wanted the finding rather than the right &#8212; the sibling had no finding worth keeping. Both readings are on the node.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="flex:0 0 44px;box-sizing:border-box;display:flex;align-items:center;gap:6px;padding:0 12px;background:#11141a;border-top:1px solid #262e36">
+    <div style="flex:1 1 auto;min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font:500 10.5px/1 'IBM Plex Mono',monospace;color:#e6e9ee"><span style="color:#5c6672;letter-spacing:.13em;font-size:8.5px;margin-right:8px">DOCUMENT</span>US 10,144,532 &#8212; Craft using an inertial mass reduction device &#183; assignee the Secretary of the Navy</div>
+    <div class="btn on">SHOW ON MAP</div><div class="btn">OPEN DOSSIER</div><div class="btn">DRAWINGS</div><div class="btn">CLEAR</div>
+  </div>
+
+</div>
+</x-dc>
+</body>
+</html>

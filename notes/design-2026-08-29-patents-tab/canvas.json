@@ -1,0 +1,68 @@
+{
+  "artboards": [
+    {
+      "file": "Narrow1366.dc.html",
+      "x": 0,
+      "y": 0,
+      "w": 1366,
+      "h": 768,
+      "title": "1366 x 768 - laptop"
+    },
+    {
+      "file": "Main.dc.html",
+      "x": 1486,
+      "y": 0,
+      "w": 1920,
+      "h": 1080,
+      "title": "1920 x 1080 - the common case"
+    },
+    {
+      "file": "Wide2560.dc.html",
+      "x": 3526,
+      "y": 0,
+      "w": 2560,
+      "h": 1440,
+      "title": "2560 x 1440 - wide"
+    }
+  ],
+  "annotations": [
+    {
+      "id": "brief",
+      "x": -660,
+      "y": -300,
+      "w": 600,
+      "text": "PATENTS TAB - mockup, not built.\n\nCLAUDE.md section 9 requires a mockup at 1366 / 1920 / 2560 shown to Stewart before any layout is built, because the last three layout changes built directly were all wrong on the first cut.\n\nEvery colour, font size, border and control height is lifted from tools/l0_patches.py rather than approximated. IBM Plex Mono throughout, as the board ships it."
+    },
+    {
+      "id": "n1366",
+      "x": 0,
+      "y": 830,
+      "w": 540,
+      "text": "1366: the control row WRAPS to two lines - measured at 149px on the live board. So the file-wrapper rail folds to a 30px spine, reusing the pattern the dossier already has (#dock.dock-spine). One click restores it. Quotes drop from four to two."
+    },
+    {
+      "id": "n1920",
+      "x": 1486,
+      "y": 1140,
+      "w": 560,
+      "text": "1920: the common case. Two columns. Filings across the top at one size, the two prosecution lanes on a shared axis, three pull quotes, and the file wrapper rail at 396px - the same width the register already uses on the map."
+    },
+    {
+      "id": "n2560",
+      "x": 3526,
+      "y": 1500,
+      "w": 700,
+      "text": "2560: the control row fits on one line (25px measured). The extra width buys a fourth pull quote - the China refusal, which is the one that contradicts the popular account - plus examiner and art unit on every filing card, and the PAX 182 papers listed under the PAX 205 ones so the contrast is on screen."
+    },
+    {
+      "id": "absent",
+      "x": 2100,
+      "y": 1140,
+      "w": 620,
+      "text": "THE ONE THING TO LOOK AT: the ABSENT block in the rail. The Reasons for Allowance is drawn as a struck row rather than left out, so a reader sees that the decisive document is missing rather than assuming the record is complete. That follows the board's existing 'absent prints as absent' rule, which already has a gate check."
+    }
+  ],
+  "launch": {
+    "view": "canvas"
+  }
+}
