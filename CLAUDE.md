@@ -14,8 +14,9 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-27-shell.md` after this. **It is
-the current one.** Four PRs landed on 27 August and all are on `master`: the shell is usable,
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-29.md` after this. **It is the current
+one.** `notes/HANDOFF-2026-08-27-shell.md` is the last SHELL handoff and is still accurate on the
+shell. Four PRs landed on 27 August and all are on `master`: the shell is usable,
 both panels fold on a curve in both directions, and the image register is at 12. **The only
 thing outstanding is the DEPLOY, which a cloud session cannot run** -- there is no Cloudflare
 token in the environment. `notes/SHELL-2026-08-27.md`, `notes/SHELL-DOCK-2026-08-27.md` and
@@ -47,17 +48,17 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 
 | | |
 |---|---|
-| nodes | 956 (278 people · 678 entities) |
-| hand-written sourced edges | 2,159 |
-| tiered claims | 4,513 — T1 2,772 · T2 1,246 · T3 495 |
+| nodes | 964 (279 people · 685 entities) |
+| hand-written sourced edges | 2,172 |
+| tiered claims | 4,613 — T1 2,854 · T2 1,257 · T3 502 |
 | edge tiers | T1 1,385 · T2 575 · T3 199 |
-| unique source URLs | 2,888 |
+| unique source URLs | 2,940 |
 | dead citations | 0 |
-| timeline events | 858 |
+| timeline events | 872 |
 | program map (L0) | 110 nodes, all with dossiers |
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
-| built artifact | `dist/the-program.html`, 14.7 MB |
+| built artifact | `dist/the-program.html`, 15.3 MB |
 | gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 30 canvas assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
@@ -401,8 +402,9 @@ surface" includes markup, not just copy.
 >    control that shows the whole map (OVERVIEW) is below the label threshold and so draws
 >    110 anonymous rectangles. Reclaiming 24px from `geo.gutter` flips it. Lowering
 >    `L0_LABEL_DROP` does not, honestly: 0.62 already admits a 5.9px label.
-> 2. **Label truncation at ~37 characters**, as the comp predicted. The model already reads
->    and prefers `n.short`, and nobody has populated it. That is the cheap route.
+> 2. ~~**Label truncation at ~37 characters.**~~ **DONE.** All 110 L0 nodes now carry a `short`
+>    and none of them exceeds 37 characters, so the truncation problem is closed. Verified
+>    28 August 2026 by reading `data/l0-model.json` rather than by trusting this file.
 >
 > `disclosure` holding 3 nodes reads as deliberate on screen rather than broken — it is the
 > last row of a descending order. Worth Stewart's eye, not a change from here.
@@ -411,8 +413,8 @@ surface" includes markup, not just copy.
 > the chips collapse and every cell prints its count, so OVERVIEW is the occupancy matrix
 > rather than 110 anonymous rectangles. The 24px gutter question is therefore much less
 > urgent — a 1920 screen now gets a readable whole-map view either way. Question 2 is
-> half answered: labels middle-truncate so the distinguishing tail survives, and authoring
-> the 46 overlong `short` values is the real fix and is research, not code.
+> ANSWERED IN FULL: labels middle-truncate so the distinguishing tail survives, and all 110
+> `short` values are now authored.
 >
 > **All seventeen of Claude Design's checks now exist**, along with four this build added.
 > See `notes/DESIGN-CONFORMANCE-2026-08-26.md` for the item-by-item state and for the five
@@ -510,6 +512,14 @@ surface" includes markup, not just copy.
    check guards the register itself, because a malformed record does not error, it simply
    fails to clear and falls back to the class letter, which looks exactly like never having
    tried. `notes/IMAGE-TILE-2026-08-26.md`.
+
+   **The register reached its ceiling on 28 August 2026 at 13 of 39 institutions**, and the
+   remaining 26 are a finding rather than a backlog: no mark exists, or the mark is a wordmark
+   that cannot survive an 11px square, or the body is private, foreign, or not an organisation
+   at all. `notes/IMAGE-CEILING-2026-08-28.md` lists all three categories by node and says what
+   would actually move it. **Do not re-run a Commons sweep expecting a different answer** --
+   the searches for OUSDI, ISOO and House Oversight returned intelligence-law syllabi,
+   conference photographs containing identifiable faces, and a scan of a redacted document.
 
    **The unattended rule is LIFTED, 27 August 2026, by Stewart:** *"licensing is for me to
    deal with on my end. You're just collecting the pictures for our project."* A session
