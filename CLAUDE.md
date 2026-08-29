@@ -221,6 +221,19 @@ This section applies only to commands written **for Stewart to paste**. He runs
   command. One block, `cd` first, one command per line, nothing to work out. This has been
   corrected three times — 26 August 2026 — and each time it was in CHAT rather than in a
   document, which is why §3's version was not enough on its own.
+- **COMMIT AND PUSH OFTEN. This is the default, not a courtesy.** Stewart, 29 August 2026:
+  *"unless there's some reason not to, save our work after any big changes... especially if I
+  ask for a session handoff."* Push after each substantial change rather than batching to the
+  end of a session: a finished research pass, a working build, a note worth keeping. **A
+  handoff request is an explicit instruction to commit and push first**, before writing
+  anything about what happens next.
+  The reason is not tidiness, it is that this project has paid for the alternative twice.
+  PR #5 held a whole day's work as an open draft and the next session started blind and
+  re-derived it. On 29 August a session spent roughly forty minutes re-deriving the Sheehy
+  material that the previous session had already pushed, because nobody ran `git fetch`.
+  A cloud container is reclaimed without warning and uncommitted work goes with it.
+  The corollary, and it is the one that actually bites: **`git fetch --all` BEFORE reading a
+  handoff, not after.** A handoff that says work is uncommitted may simply be wrong.
 - **Clamp responses.** What you did, why, what you need from him. Detail goes in a repo note,
   not in chat.
 - **No em dashes** in prose written for him. Tables are preferred over long lists. Charts get
