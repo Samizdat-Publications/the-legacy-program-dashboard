@@ -3330,6 +3330,16 @@ export const TIMELINE = [
     node: 'gallaudet-2015-email'
   },
   {
+    id: 'tl-pais-pax205-origin',
+    strand: 'program',
+    date: '2015-03-06',
+    precision: 'day',
+    label: 'Invention original date recorded for the Inertial Mass Reduction Device',
+    text: 'The NAVAIR invention-disclosure briefing for Navy Case PAX 205 records the invention original date as 06/03/2015 and states that the concept is theoretical with no prototype in existence.',
+    tier: '1',
+    node: 'pax-205-disclosure'
+  },
+  {
     id: 'sap-tl-2015-dodm',
     date: '2015-06-18',
     label: 'DoDM 5205.07 Volume 1 states exactly what a carve-out removes',
@@ -3400,6 +3410,26 @@ export const TIMELINE = [
     text: 'Elizondo\'s annual evaluation rates him exemplary; his supervisor writes that it \'cannot be overstated the importance of Mr. Elizondo\'s portfolio to national security\' and credits him with neutralising six insider threats.',
     tier: 'B',
     node: 'luis-elizondo'
+  },
+  {
+    id: 'tl-pais-imrd-filed',
+    strand: 'program',
+    date: '2016-04-28',
+    precision: 'day',
+    label: 'Navy files the inertial mass reduction craft application',
+    text: 'Application 15/141270, \'Craft using an inertial mass reduction device\', filed with the United States as represented by the Secretary of the Navy as assignee.',
+    tier: '2',
+    node: 'pais-patent-imrd'
+  },
+  {
+    id: 'tl-pais-security-review',
+    strand: 'program',
+    date: '2016-05-02',
+    precision: 'day',
+    label: 'Pais craft application referred for third-level security review',
+    text: 'USPTO events record the inertial mass reduction craft application referred to Level 2 (LARS) and then by L&R for third-level security review, the screening that decides whether a filing receives a secrecy order. It cleared.',
+    tier: '1',
+    node: 'pais-patent-imrd'
   },
   {
     id: 'bb-tl-2016-113',
@@ -3542,6 +3572,16 @@ export const TIMELINE = [
     node: 'sffas-56'
   },
   {
+    id: 'tl-pais-sheehy-letter',
+    strand: 'program',
+    date: '2017-12-15',
+    precision: 'day',
+    label: 'NAVAIR\'s chief technology officer writes to the patent examiner',
+    text: 'The Chief Technology Officer of the Naval Aviation Enterprise wrote directly to examiner Philip Bonzell about application 15/141,270, agreeing that the claimed mode of movement was \'beyond the state of the possible, at least at present\', describing a funded NAWCAD test programme already a year old, and arguing that the Navy should hold the patent because \'China is already investing significantly in this area\'.',
+    tier: '1',
+    node: 'salvatore-pais'
+  },
+  {
     id: 'tl-2017-nyt',
     strand: 'witness',
     date: '2017-12-16',
@@ -3642,6 +3682,26 @@ export const TIMELINE = [
     node: 'christopher-mellon'
   },
   {
+    id: 'tl-pais-appeal',
+    strand: 'program',
+    date: '2018-06-21',
+    precision: 'day',
+    label: 'Navy appeals the rejection of the inertial mass reduction craft patent',
+    text: 'After a final rejection on 27 March 2018, the Department of the Navy filed a Notice of Appeal, then an Appeal Brief on 21 August 2018 accompanied by a Rule 131/132 affidavit. The examiner allowed the application on 31 October 2018 before the Patent Trial and Appeal Board ruled.',
+    tier: '1',
+    node: 'pais-patent-imrd'
+  },
+  {
+    id: 'tl-pais-advisory-2018',
+    strand: 'program',
+    date: '2018-07-11',
+    precision: 'day',
+    label: 'Examiner: the physics is sound, the claims are still not enabled',
+    text: 'The Advisory Action on application 15/141,270 recorded that the examiner agreed \'the math and physics are sound in this application\' while holding the claims not enabled, and asked the applicant to demonstrate the effect. The application was allowed three months later without any demonstration appearing in the file.',
+    tier: '1',
+    node: 'pais-patent-imrd'
+  },
+  {
     id: 'tl-2018-08-earthtech',
     strand: 'program',
     date: '2018-08-01',
@@ -3700,6 +3760,16 @@ export const TIMELINE = [
     text: 'MITRE\'s trustees elect a former director of Los Alamos and of the National Reconnaissance Office as chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman.',
     tier: 'A',
     node: 'donald-kerr'
+  },
+  {
+    id: 'tl-pais-imrd-granted',
+    strand: 'program',
+    date: '2018-12-04',
+    precision: 'day',
+    label: 'US 10,144,532 granted',
+    text: 'The inertial mass reduction craft patent issued to the Secretary of the Navy. Reporting states the application had first been rejected and was granted after the Naval Aviation Enterprise chief technology officer asserted operability to the USPTO and cited Chinese development of comparable technology.',
+    tier: '2',
+    node: 'pais-patent-imrd'
   },
   {
     id: 'sap-tl-2018-115390',
@@ -3886,6 +3956,16 @@ export const TIMELINE = [
     text: '\'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).\' She adds that DIA administered AATIP and Elizondo was never assigned to DIA.',
     tier: 'A',
     node: 'susan-gough'
+  },
+  {
+    id: 'tl-pais-hfgw-granted',
+    strand: 'program',
+    date: '2019-06-18',
+    precision: 'day',
+    label: 'US 10,322,827 granted',
+    text: 'The high frequency gravitational wave generator patent issued to the Secretary of the Navy.',
+    tier: '2',
+    node: 'pais-patent-hfgw'
   },
   {
     id: 'av-2019-07-14',
@@ -4705,6 +4785,16 @@ export const TIMELINE = [
     text: 'The FY2023 NDAA (P.L. 117-263) codifies AARO and its public reporting mandate at 50 U.S.C. 3373, including the annual report deadline AARO later misses.',
     tier: 'A',
     node: 'aaro'
+  },
+  {
+    id: 'tl-pais-expiry',
+    strand: 'program',
+    date: '2023-01-09',
+    precision: 'day',
+    label: 'US 10,144,532 expires for non-payment of maintenance fees',
+    text: 'Four years after fighting an appeal to obtain the grant, the Navy did not pay the first maintenance fee on the inertial mass reduction craft patent. USPTO records it as expired under 37 CFR 1.362, placing the invention in the public domain.',
+    tier: '1',
+    node: 'pais-patent-imrd'
   },
   {
     date: '2023-01-10',
@@ -7135,7 +7225,7 @@ export const TIMELINE = [
     date: '2025-09-30',
     precision: 'day',
     label: 'NARA transfer deadline for UAP records passes',
-    text: 'NARA\'s guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 12 August 2026 seven agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State and FBI - and NARA has published no compliance list and no statement about agencies that did not transfer.',
+    text: 'NARA\'s guidance directed agencies holding releasable UAP records to initiate transfers before 30 September 2025. As of 28 August 2026 eight agencies appear in RG 615 - FAA, NRC, ODNI, OSD, NSA, State, FBI and the Department of the Air Force - and NARA has published no compliance list and no statement about agencies that did not transfer. Seven of the eight were in place by 22 May 2026; the Air Force arrived on 28 August 2026, eleven months after the deadline.',
     tier: '1',
     node: 'nara-rg615'
   },
@@ -8773,6 +8863,16 @@ export const TIMELINE = [
     text: 'Elizondo\'s second book, promising \'previously undisclosed evidence\', is scheduled for HarperCollins release with a 20-date speaking tour. Its DOPSR status is not yet public.',
     tier: 'B',
     node: 'reckoning-book'
+  },
+  {
+    id: 'tl-af-rg615-transfer',
+    strand: 'oversight',
+    date: '2026-08-28',
+    precision: 'day',
+    label: 'Air Force becomes the first military department to transfer into RG 615',
+    text: 'The National Archives accessioned \'Records from the Department of the Air Force Relating to Unidentified Anomalous Phenomena\' (catalog series 656595571, accession TR-0615-2026-0003) into Record Group 615: 30 PDF files dated 25 October 1945 to 31 December 1969, access and use both Unrestricted, carrying contiguous UAP Record Identifiers 342UAP00001 to 342UAP00030. It is the eighth agency series in RG 615 and the first from a military department in its own right. The documents\' own declassification blocks show the Air Force Declassification Office cleared them on 5 May 2025 under the FY24 NDAA authority now codified at 44 U.S.C. 2107, fifteen months before the records reached NARA.',
+    tier: '1',
+    node: 'nara-rg615'
   },
   {
     id: 'sap-tl-2029-dcsa',

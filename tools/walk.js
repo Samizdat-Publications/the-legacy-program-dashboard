@@ -36,11 +36,12 @@
  * It does not replace Stewart looking.
  *
  * Run it:
- *   node /opt/node22/lib/node_modules/http-server/bin/http-server dist -p 8899 --silent &
+ *   npx http-server dist -p 8899 --silent &   # or the container copy under /opt/node22
  *   node tools/walk.js
  *   node tools/walk.js --size 1366x768 --out /tmp/walk
  */
-const { chromium } = require('/opt/node22/lib/node_modules/playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const fs = require('fs');
 const path = require('path');
 
@@ -195,10 +196,9 @@ const INSPECT = () => {
 
 (async () => {
   fs.mkdirSync(OUT, { recursive: true });
-  const browser = await chromium.launch({
-    executablePath: '/opt/pw-browsers/chromium-1194/chrome-linux/chrome',
+  const browser = await chromium.launch(launchOptions({
     args: ['--no-sandbox', '--disable-dev-shm-usage', '--use-gl=swiftshader'],
-  });
+  }));
   const page = await browser.newPage({ viewport: { width: SIZE[0], height: SIZE[1] } });
   const errors = [];
   page.on('pageerror', e => errors.push(String(e.message).slice(0, 160)));

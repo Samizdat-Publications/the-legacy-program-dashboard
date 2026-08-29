@@ -1,6 +1,7 @@
 // shoot.js — load a built dashboard, capture console errors, and screenshot every view.
 // Verifying by looking is the point: a board that parses is not the same as a board that renders.
-const { chromium } = require('playwright');
+const { requirePlaywright, launchOptions } = require('./browser_env');
+const { chromium } = requirePlaywright();
 const path = require('path');
 
 const FILE = process.argv[2] || path.resolve(__dirname, '..', 'dist', 'the-program.html');
@@ -10,8 +11,7 @@ const TAG = process.argv[4] || 'program';
 const VIEWS = ['NETWORK', 'TIMELINE', 'GEOGRAPHY', 'CASES', 'ANALYSIS', 'COVERUP', 'SEARCH', 'REPORT'];
 
 (async () => {
-  const browser = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium/chrome-linux/chrome' })
-    .catch(() => chromium.launch());
+  const browser = await chromium.launch(launchOptions());
   const page = await browser.newPage({ viewport: { width: 2550, height: 1465 }, deviceScaleFactor: 1 });
 
   const errors = [], warnings = [];
