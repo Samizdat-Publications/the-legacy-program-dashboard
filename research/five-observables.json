@@ -16,7 +16,11 @@
    "C": 1,
    "A": 1,
    "D": 1,
-   "domains": ["d-witness", "d-disclosure", "d-prop"],
+   "domains": [
+    "d-witness",
+    "d-disclosure",
+    "d-prop"
+   ],
    "dateStart": "2019-05-20",
    "claims": [
     {
@@ -48,12 +52,26 @@
      "tier": 3,
      "text": "The mapping is better read as convergence on a shared description than as evidence that either side knew of the other. Pais filed from NAWCAD between 2015 and 2018 and the observables were published from 2019, so the briefing predates the published list; both are drawn from the same body of reported Navy encounters, and a designer asked to build to those reports would arrive at broadly these goals. What the mapping does establish, without inference, is that a Navy technical organisation wrote four of the five down as things it wanted to build.",
      "source": "Stated inference from the dates of the PAX 205 briefing and the earliest located publication of the observables"
+    },
+    {
+     "tier": 1,
+     "text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
+     "source": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf"
     }
    ],
    "sources": [
-    {"name": "History, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', 20 May 2019", "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"},
-    {"name": "To The Stars, 'Five Characteristics Unique to UAP's'", "url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps"},
-    {"name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing", "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"}
+    {
+     "name": "History, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', 20 May 2019",
+     "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+    },
+    {
+     "name": "To The Stars, 'Five Characteristics Unique to UAP's'",
+     "url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps"
+    },
+    {
+     "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
    ]
   }
  ],
@@ -66,7 +84,10 @@
    "claimTier": 2,
    "note": "Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation's publication of it.",
    "sources": [
-    {"name": "History, 20 May 2019", "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"}
+    {
+     "name": "History, 20 May 2019",
+     "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement"
+    }
    ]
   },
   {
@@ -77,7 +98,10 @@
    "claimTier": 2,
    "note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
    "sources": [
-    {"name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5", "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"}
+    {
+     "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
    ]
   },
   {
@@ -88,7 +112,10 @@
    "claimTier": 2,
    "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
    "sources": [
-    {"name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing", "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"}
+    {
+     "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing",
+     "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+    }
    ]
   }
  ],
@@ -107,7 +134,7 @@
  "entityInfo": {},
  "gaps": [
   "No released government document stating the five observables as a set has been located. The previous session's research pass reached the same result independently. This is an absence from what has been searched, not a demonstrated absence, and it is the single thing that would most change how this node is pitched: if the set appears in an AATIP or AAWSAP briefing, the taxonomy moves from Elizondo's formulation to the government's and the whole node changes tier.",
-  "Elizondo's written testimony to the House Oversight Committee of 13 November 2024 is published at oversight.house.gov and has not been read for this board. It could not be text-extracted in this environment: the PDF uses subset fonts with a non-standard character map, so decompressing the content streams yields scrambled text. It needs a machine with poppler or an equivalent extractor. If he states the five in sworn written testimony, that is a far better source than either currently cited and would move the list from reporting to a named person on the congressional record.",
+  "Elizondo's written testimony of 13 November 2024 has now been read and does NOT state the five observables, so that route is closed. What remains open is whether the set appears in any AATIP or AAWSAP briefing, or in his oral testimony at the same hearing, which has not been obtained. If it does, the taxonomy moves from his formulation to the government's and this node changes tier.",
   "No canonical text of the list has been located. The two published sources differ on the wording of the first observable and on whether cloaking is named. Whether Elizondo has ever published a fixed form of his own is unresolved.",
   "Whether the PAX 205 authors were working from the same reported encounters that produced the observables is not established by any document. The convergence claim on this node is stated as inference and marked Tier 3."
  ]

@@ -1,0 +1,114 @@
+SOURCE: Written Testimony of Luis Elizondo, U.S. House Committee on Oversight and
+Accountability, Subcommittees on Cybersecurity, Information Technology, and Government
+Innovation; and National Security, the Border, and Foreign Affairs. Hearing
+"Unidentified Anomalous Phenomena: Exposing the Truth", Wednesday 13 November 2024.
+https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf
+Retrieved and text-extracted 29 August 2026.
+
+EXTRACTION NOTE. The PDF uses subset fonts with per-font ToUnicode CMaps, so naive
+stream decompression yields scrambled text -- an earlier pass in this repo recorded it
+as unreadable for that reason. It is readable with a real PDF text layer (pdfminer.six).
+Recorded because "unreadable" was wrong, not because the method is interesting.
+
+WHY THIS IS HERE. It was pulled to test one question: does Elizondo state the five
+observables in sworn written testimony? He does not. The words "observable",
+"acceleration", "trans-medium", "lift", "hypersonic", "signature", "cloak" and "AATIP"
+do not appear anywhere in this document. That is a searchable negative on the most
+likely government-record source for the set, and it is why research/five-observables.json
+carries the taxonomy at Tier 2 attributed to him rather than to any official record.
+
+--------------------------------------------------------------------------
+Written Testimony of Luis Elizondo
+For the U.S. House Committee on Oversight and Accountability
+Subcommittees on Cybersecurity, Information Technology, and Government
+Innovation; and
+National Security, the Border, and Foreign Affairs
+Unidentified Anomalous Phenomena: Exposing the Truth
+Wednesday, November 13, 2024
+Greetings, Chairwoman Mace, Chairman Grothman, Ranking Members
+Connolly and Garcia, and Members of the Committee. It is my honor
+and privilege to testify before you on the issue of unidentified
+anomalous phenomena, formerly known as UFOs. On behalf of our
+brave men and women in uniform and across the intelligence
+community, as well as my fellow Americans who have awaited this
+day, thank you for your leadership on this important matter.
+Let me be clear: UAP are real. Advanced technologies not made by
+our Government – or any other government – are monitoring sensitive
+military installations around the globe. Furthermore, the U.S. is in
+possession of UAP technologies, as are some of our adversaries. I
+believe we are in the midst of a multi-decade, secretive arms race—
+one funded by misallocated taxpayer dollars and hidden from our
+elected representatives and oversight bodies.
+For many years, I was entrusted with protecting some of our nation's
+most sensitive programs. In my last position, I managed a Special
+Access Program on behalf of the White House and the National
+Security Council. As such, I appreciate the need to protect certain
+sensitive intelligence and military information. I consider my oath to
+protect secrets as sacred and will always put the safety of the
+American people first. With that said, I also understand the
+consequences of excessive secrecy and stove-piping.  Nowhere was
+this more apparent than in the aftermath of 9/11, which many of us
+remember all too well.
+I believe that America’s greatness depends on three elements:
+●  a watchful Congress;
+●  a responsive Executive Branch; and
+●  an informed public.
+Over the last decade and a half, I learned that certain UAP programs
+were, and are, operating without any of these elements.
+Although much of my Government work on the UAP subject still
+remains classified, excessive secrecy has led to grave misdeeds
+against loyal civil servants, military personnel, and the public – all to
+hide the fact that we are not alone in the cosmos.
+A small cadre within our own Government involved in the UAP topic
+has created a culture of suppression and intimidation that I have
+personally been victim to, along with many of my former colleagues.
+This includes unwarranted criminal investigations, harassment, and
+efforts to destroy one’s credibility.
+Most Americans would be shocked to learn that the Pentagon’s very
+own Public Affairs Office openly employs a professional
+psychological operations officer as the singular point of contact for
+any UAP-related inquiries from citizens and the media. This is
+unacceptable.
+Many of my former colleagues and I have provided classified
+testimony to both the Department of Defense and the Intelligence
+Community Inspector General. Many of us have subsequently been
+targeted by this cabal with threats to our careers, our security
+clearances, and even our lives. This is not hyperbole, but a genuine
+fact, and this is wrong.
+To fix these problems, I propose three principal actions:
+●  First, Congress and the President should create a single point-
+of-contact responsible for a whole-of-government approach to
+the UAP issue. Currently, the White House, CIA, NASA, the
+Pentagon, Department of Energy, and others play a role, but no
+one seems to be in charge, leading to unchecked power and
+corruption.
+●  Second, we need a national UAP strategy that will promote
+transparency and help restore the American public’s trust at a
+time when the public’s trust is at an all-time low. This strategy
+should include a whole-of-government approach, including the
+academic and scientific communities, the private sector, and our
+international partners and allies.
+●  Third, Congress should create a protected environment so
+whistleblowers, desperate to do the right thing, can come
+forward without fear. As it currently stands, these
+whistleblowers suffer because of stigma, a code of silence, and
+concerns about retaliation. These whistleblowers should be
+encouraged to come forward in ways that protect them against
+any forms of retaliation. Policies and procedures should ensure
+that protection.  And for those who refuse to cooperate, it is up
+to the Members of this Committee and other lawmakers to wield
+their subpoena power against hostile witnesses and prevent
+additional Government funding to those UAP efforts that remain
+hidden from Congressional oversight.
+In closing, we as Americans, have never been afraid of a challenge. In
+fact, we thrive on them.  Whether it’s eradicating polio or going to the
+moon.  We don’t run from a challenge; we take it head on. To the
+incoming Administration and Congress, I say to you, we need
+immediate public transparency, and this hearing is an important step
+on that journey. If we approach the UAP topic in the same way we as
+Americans have met other challenges, we can restore our faith in our
+government institutions. Together, we can usher in a new era of
+accountable government and scientific discovery. I believe that we as
+Americans can handle the truth. And I also believe the world deserves
+the truth. Thank you, esteemed members of Congress, for your time
+today. It is profoundly appreciated by many.
