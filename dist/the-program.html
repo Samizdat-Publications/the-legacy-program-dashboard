@@ -112095,7 +112095,7 @@ function drawNode(ctx, n, st) {
        there is room for it. Drawing it here would put it inside the world
        transform, where it cannot be one size at every scale. */
     if (st && st.labels) st.labels.push({ n, text: n.label.toUpperCase(),
-                                          rw: r, sel, hov, dim });
+                                          rw: r, sel, hov, dim, con: near });
     ctx.globalAlpha = 1;
     return;
   }
@@ -112119,7 +112119,7 @@ function drawNode(ctx, n, st) {
     ctx.fillStyle = col;
     ctx.beginPath(); ctx.arc(n.x, n.y, 4.5, 0, Math.PI * 2); ctx.fill();
     if (st && st.labels) st.labels.push({ n, text: n.short || n.label.toUpperCase(),
-                                          rw: 4.5, sel, hov, dim });
+                                          rw: 4.5, sel, hov, dim, con: near });
     ctx.globalAlpha = 1; return;
   }
   const w = 100, h = 40,
@@ -124861,6 +124861,15 @@ function mountNetwork(host){
      the thing this repo has been bitten by. */
   function labelFit(t){
     t = String(t || '');
+    /* A TRAILING PARENTHETICAL IS DISAMBIGUATION, NOT A NAME, and it is the first
+       thing to go. `ttsa` ships as "To The Stars Academy of Arts & Science Inc.
+       (later To The Stars Inc.)" -- 69 characters, of which 26 are a rename note.
+       Middle-truncating that whole string produced "TO THE STARS…STARS INC.)",
+       which is not a label, it is two halves of the same three words. Dropping
+       the parenthetical first leaves a name that survives truncation. The
+       parenthetical is still in the dossier, which is where it belongs. */
+    const cut = t.replace(/\s*\([^()]*\)\s*$/, '');
+    if (cut.length >= 8) t = cut;
     if (t.length <= LABEL_MAX) return t;
     const keep = LABEL_MAX - 1, head = Math.ceil(keep / 2), tail = keep - head;
     return t.slice(0, head) + '…' + t.slice(t.length - tail);
@@ -124869,7 +124878,29 @@ function mountNetwork(host){
   function drawLabelPass(ctx, cand, W, H){
     lastBoxes = [];
     if (!cand.length) return;
-    const cx = ptr ? ptr.x : W / 2, cy = ptr ? ptr.y : H / 2;
+    /* THE ORIGIN OF THE OUTWARD WALK. Design's algorithm walks candidates outward
+       from the pointer, or the viewport centre when the pointer is off-canvas.
+       A selection is a third origin and it outranks the centre: the reader has
+       said which node they care about, so the labels that matter are the ones
+       nearest THAT node, not the ones nearest the middle of the window.
+
+       Without this the neighbours were ordered by their distance from the viewport
+       centre, so on tom-delonge the wide `ttsa` label -- 69 characters, the widest
+       in that cluster -- lost its box to two shorter neighbours that happened to
+       sit closer to the middle of the screen. TTSA is the organisation DeLonge
+       founded and the first line of his dossier; losing it to a coin-flip on
+       viewport geometry is the defect wearing a smaller hat.
+
+       The origin is read from S.sel and the node list, NOT from the candidates.
+       A selected person draws as a full plate and returns before the label push,
+       so it is never a candidate -- taking the origin from `cand.find(c => c.sel)`
+       found nothing and fell back to the viewport centre without saying so, which
+       is a silent no-op of exactly the kind this repo keeps paying for. */
+    let sel0 = null;
+    if (typeof S !== 'undefined' && S.sel)
+      sel0 = (nodes || []).find(n => n.id === S.sel) || null;
+    const cx = ptr ? ptr.x : (sel0 ? cam.x + sel0.x * cam.k : W / 2);
+    const cy = ptr ? ptr.y : (sel0 ? cam.y + sel0.y * cam.k : H / 2);
 
     /* Screen position, and the highlight flag. HIGHLIGHTS FIRST is the one
        exception Design allows, and it is editorial rather than structural: these
@@ -124877,7 +124908,15 @@ function mountNetwork(host){
     const HL = LABEL_HL || (LABEL_HL = new Set(
       (((typeof L0DATA !== 'undefined' && L0DATA.highlights) || {}).flags || [])
         .map(f => f.id)));
+    /* PAGE POISON, the _LAYOUT_OVERRIDE pattern. tools/runtime_check.js sets this
+       to make the pass forget which nodes are adjacent to the selection -- the
+       exact state the board shipped in until 30 August. It corrupts the real
+       renderer on a real frame, not the probe that reads it, so the neighbour
+       check has to collapse when it is set or that check is not looking at
+       anything. */
+    const NOCON = typeof window !== 'undefined' && !!window.__LABEL_NO_CON;
     for (const c of cand){
+      if (NOCON) c.con = false;
       c.sx = cam.x + c.n.x * cam.k;
       /* the mark scales with the camera and the label does not, so the offset
          that clears it is the mark's SCREEN radius plus a fixed gap. */
@@ -124886,35 +124925,97 @@ function mountNetwork(host){
       c.d2 = (c.sx - cx) * (c.sx - cx) + (c.sy - cy) * (c.sy - cy);
       c.near = c.d2 <= POINTER_R * POINTER_R;
     }
-    /* Outward from the origin. Highlights, then the selection and its hover, then
-       distance. Nothing here consults n.deg. */
+    /* THE SELECTION'S NEIGHBOURS ARE THE POINT OF SELECTING. Reported from the
+       live board on 30 August 2026: clicking Tom DeLonge lit his edges and named
+       none of the nodes at the far end of them. "This defeats the purpose", and it
+       did.
+
+       Two causes, both here. `drawNode` computes state === 'connected' and then
+       dropped it -- the push carried sel, hov and dim, so by the time the pass ran
+       a neighbour was indistinguishable from any of the other 900 nodes and was
+       ordered purely on its distance from the screen centre. And the dimmed
+       remainder competed for the same budget and the same collision boxes while
+       being drawn at 0.16 alpha in PALETTE.faint, which is to say illegibly: a
+       label nobody can read was suppressing one they had just asked for.
+
+       So `con` now rides on the candidate, ranks directly behind the selection
+       itself, and draws regardless of the budget. And while a selection is
+       active a dimmed node is not a candidate at all.
+
+       THIS IS NOT SELECTION BY RANK and does not reopen what Design ruled out.
+       Degree is a global property -- it names the same nodes for every reader, on
+       every frame, which is why it may not decide who gets a name. Adjacency to
+       the selection is the reader's own action, scoped to the node they clicked,
+       and it is the same category as `sel` and `hov`, which have always jumped the
+       queue. With nothing selected `active` is null, no node is connected or
+       dimmed, and this ordering is byte-for-byte the one that shipped -- which is
+       what keeps the two rest-state checks meaning what they meant. */
     cand.sort((a, b) =>
-      (b.hl - a.hl) || ((b.sel || b.hov) - (a.sel || a.hov)) || (a.d2 - b.d2));
+      (b.hl - a.hl) || ((b.sel || b.hov) - (a.sel || a.hov))
+      || ((b.con | 0) - (a.con | 0)) || (a.d2 - b.d2));
 
     ctx.save();
     ctx.textAlign = 'center'; ctx.textBaseline = 'top';
     let drawn = 0;
+    /* A selection is live iff something in this frame is dimmed. Read off the
+       candidates rather than off S.sel, so the pass stays a pure function of what
+       the node loop actually drew. */
+    const picking = !NOCON && cand.some(c => c.dim);
     for (const c of cand){
-      if (drawn >= LABEL_BUDGET && !c.near && !c.sel && !c.hov) continue;
+      /* An illegible label is not worth a collision box. */
+      if (picking && c.dim) continue;
+      if (drawn >= LABEL_BUDGET && !c.near && !c.sel && !c.hov && !c.con) continue;
       const text = labelFit(c.text);
-      ctx.font = (c.sel || c.hov || c.near) ? LABEL_FONT_ON : LABEL_FONT;
+      ctx.font = (c.sel || c.hov || c.near || c.con) ? LABEL_FONT_ON : LABEL_FONT;
       const w = ctx.measureText(text).width, h = 11;
-      const box = { x: c.sx - w / 2 - LABEL_PAD, y: c.sy - LABEL_PAD,
-                    w: w + LABEL_PAD * 2, h: h + LABEL_PAD * 2, id: c.n.id };
-      if (box.x + box.w < 0 || box.x > W || box.y + box.h < 0 || box.y > H) continue;
-      /* SKIP, do not shrink and do not truncate to fit. A label that has to be
-         made smaller to survive is a label the map does not have room for, and
-         shrinking it would make size mean something again. */
+      const rw = (c.rw || 0) * cam.k;
+      /* MORE THAN ONE PLACE TO PUT IT, for the selection's neighbours only.
+         Still choosing by space and never by rank, and still one size -- this
+         offers a label a second and third slot before giving up on it, rather
+         than making it smaller. It is scoped to `con` because that is where a
+         reader has explicitly asked for coverage; extending it to the whole map
+         would densify the rest state, which Design deliberately kept sparse.
+
+         Below first, so the common case is unchanged and the map still reads as
+         "name under mark". `ttsa` and `steve-justice` sit at the SAME screen
+         point on tom-delonge -- the force layout put them there -- so with one
+         slot each only one of them could ever be named. */
+      const up = -(rw + 5) - h - LABEL_PAD * 2, dn = rw + 5;
+      const side = w / 2 + rw + 6;
+      const slots = c.con
+        ? [[0, dn], [0, up], [side, -h / 2], [-side, -h / 2],
+           [side, dn], [-side, dn], [side, up], [-side, up]]
+        : [[0, dn]];
+      const baseY = cam.y + c.n.y * cam.k;
+      let box = null, off = null;
+      for (const sl of slots){
+        const bx = c.sx + sl[0] - w / 2 - LABEL_PAD, by = baseY + sl[1] - LABEL_PAD;
+        const cand2 = { x: bx, y: by, w: w + LABEL_PAD * 2, h: h + LABEL_PAD * 2, id: c.n.id };
+        if (cand2.x + cand2.w < 0 || cand2.x > W || cand2.y + cand2.h < 0 || cand2.y > H) continue;
+        /* SKIP, do not shrink and do not truncate to fit. A label that has to be
+           made smaller to survive is a label the map does not have room for, and
+           shrinking it would make size mean something again. */
+        let hit = false;
+        for (const b of lastBoxes){
+          if (cand2.x < b.x + b.w && cand2.x + cand2.w > b.x &&
+              cand2.y < b.y + b.h && cand2.y + cand2.h > b.y){ hit = true; break; }
+        }
+        if (!hit){ box = cand2; off = sl; break; }
+        if (!box){ box = cand2; off = sl; }   /* remember the first, for sel/hov */
+      }
+      if (!box) continue;
       let hit = false;
       for (const b of lastBoxes){
         if (box.x < b.x + b.w && box.x + box.w > b.x &&
             box.y < b.y + b.h && box.y + box.h > b.y){ hit = true; break; }
       }
       if (hit && !c.sel && !c.hov) continue;
-      ctx.globalAlpha = c.dim ? 0.16 : (c.near || c.sel || c.hov ? 1 : 0.72);
+      c.sx = c.sx + off[0];
+      c.sy = baseY + off[1];
+      ctx.globalAlpha = c.dim ? 0.16 : (c.near || c.sel || c.hov || c.con ? 1 : 0.72);
       ctx.fillStyle = c.dim ? PALETTE.faint
                     : (c.sel || c.hov) ? PALETTE.text
-                    : c.near ? PALETTE.text : PALETTE.dim;
+                    : (c.near || c.con) ? PALETTE.text : PALETTE.dim;
       ctx.fillText(text, c.sx, c.sy);
       lastBoxes.push(box);
       drawn++;
@@ -125036,6 +125137,10 @@ function mountNetwork(host){
        them. Read by tools/runtime_check.js. */
     labelBoxes(){ return lastBoxes.map(b => ({ ...b })); },
     labelPointer(){ return ptr ? { ...ptr } : null; },
+    /* The camera, so a check can ask whether a node is on screen without
+       re-deriving the transform. A check that recomputes the camera passes
+       when the renderer's camera drifts away from it. */
+    cam(){ return { x: cam.x, y: cam.y, k: cam.k }; },
     setLabelPointer(p){ ptr = p ? { x:p.x, y:p.y } : null; },
     get links(){ return sim.links; },
     /* Zoom and pan so exactly these nodes fill the canvas. The layout is not

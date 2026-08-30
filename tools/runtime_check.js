@@ -285,6 +285,102 @@ const check = (c, label, detail = '') => {
           'a published label box has label ink in it',
           `${lab.inked} of ${lab.sampled} sampled boxes carry ink`);
 
+    /* ---- selecting a node must NAME what it connects to -------------------
+       Reported from the live board, 30 August 2026: clicking Tom DeLonge lit his
+       edges and labelled nothing at the far end of them. Two causes, both in the
+       label pass -- drawNode computed state 'connected' and threw it away, and the
+       ~900 dimmed nodes competed for the same budget and the same collision boxes
+       while drawing at 0.16 alpha, illegibly.
+
+       This asserts the outcome a reader is entitled to: select a node, and every
+       neighbour that is actually on screen carries a label box. It is deliberately
+       written against a node CHOSEN AT RUNTIME by connection count rather than a
+       hardcoded id, so it keeps meaning something after a research pass moves the
+       graph around.
+
+       POISON=neighbours sets window.__LABEL_NO_CON, which makes the real renderer
+       forget which nodes are adjacent to the selection on a real frame -- the state
+       the board shipped in until today -- and requires the covered fraction to
+       fall. The poison is on the page, not on the probe. */
+    const POIS_N = process.env.POISON === 'neighbours';
+    const nb = await page.evaluate(async (poison) => {
+      const B = window.__board, M = B.MAP;
+      if (poison) window.__LABEL_NO_CON = true;
+      const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+      /* Pick the most-connected node that fits on screen at the current camera,
+         so the test is about labelling and not about the viewport. */
+      const pairs = M.pairs || [];
+      if (!pairs.length) return { err: 'no pairs exposed' };
+      const deg = {};
+      for (const p of pairs){
+        if (p.s && p.s.id) deg[p.s.id] = (deg[p.s.id] || 0) + 1;
+        if (p.t && p.t.id) deg[p.t.id] = (deg[p.t.id] || 0) + 1;
+      }
+      /* A REALISTIC CLICK, not the biggest hub. The first cut of this check took
+         the most-connected node on the board -- d-coverup, 105 neighbours, 88 of
+         them on screen -- and required 90% of them to be labelled. It got 62.
+         Those 26 are not a defect: with the dimmed remainder already dropped, the
+         only candidates left are the neighbours themselves, so they were colliding
+         with each other, and Design's rule is SKIP, never shrink. 88 nine-pixel
+         labels do not fit in that cluster and no correct renderer would make them.
+         Requiring it would have been a check demanding a bug.
+         So aim at the case that was reported: an ordinary node with a handful of
+         connections, where every one of them must be named. */
+      const ids = Object.keys(deg)
+        .filter(id => deg[id] >= 3 && deg[id] <= 10)
+        .sort((x, y) => Math.abs(deg[x] - 6) - Math.abs(deg[y] - 6));
+      if (!ids.length) return { err: 'no node has between 3 and 10 connections' };
+      const pick = ids[0];
+
+      B.CMD.selectNode(pick);
+      M.setLabelPointer(null);
+      await sleep(1600);
+
+      /* The neighbours, from the renderer's own pair list. */
+      const nbrs = new Set();
+      for (const p of pairs){
+        const a = p.s && p.s.id, b = p.t && p.t.id;
+        if (a === pick && b) nbrs.add(b);
+        if (b === pick && a) nbrs.add(a);
+      }
+      const cv = document.querySelector('.cwrap canvas') || document.querySelector('canvas');
+      const R = cv.getBoundingClientRect();
+      const byId = {}; for (const n of (M.nodes || [])) byId[n.id] = n;
+      const cam = M.cam ? M.cam() : null;
+      if (!cam) return { err: 'MAP.cam() is not exposed' };
+
+      let onScreen = 0, labelled = 0;
+      const missed = [];
+      const drawn = new Set(M.labelBoxes().map(b => b.id));
+      for (const id of nbrs){
+        const n = byId[id];
+        if (!n) continue;
+        const sx = cam.x + n.x * cam.k, sy = cam.y + n.y * cam.k;
+        if (sx < 20 || sx > R.width - 20 || sy < 20 || sy > R.height - 20) continue;
+        onScreen++;
+        if (drawn.has(id)) labelled++; else if (missed.length < 5) missed.push(id);
+      }
+      const out = { sel: pick, nbrs: nbrs.size, onScreen, labelled, missed,
+                    total: M.labelBoxes().length };
+      window.__LABEL_NO_CON = false;
+      return out;
+    }, POIS_N);
+
+    if (nb.err) {
+      check(false, 'selecting a node names what it connects to', nb.err);
+    } else {
+      const share = nb.onScreen ? nb.labelled / nb.onScreen : 0;
+      check(nb.onScreen >= 3, 'the neighbour check has neighbours to look at',
+            `${nb.sel} has ${nb.nbrs} neighbours, ${nb.onScreen} of them on screen`);
+      check(share >= 1 || POIS_N, 'selecting a node names what it connects to',
+            `${nb.labelled} of ${nb.onScreen} on-screen neighbours of ${nb.sel} carry a label`
+            + (nb.missed.length ? ' — missing ' + nb.missed.join(', ') : '')
+            + (POIS_N ? ' [POISON=neighbours: adjacency forgotten]' : ''));
+      if (POIS_N) check(share < 1, 'the neighbour check can see the defect',
+            `${nb.labelled} of ${nb.onScreen} once adjacency is forgotten — must fall short`);
+    }
+
     /* ---- change 2, the rule it must NOT have used ------------------------
        Selection by degree is the one thing Design rules out, because it makes
        prominence a function of connectivity and CLAUDE.md forbids size encoding

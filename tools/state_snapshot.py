@@ -191,6 +191,34 @@ def _board_served():
         return False
 
 
+def _why(r, keep=6):
+    """The failing lines out of a check's own output, for the gate summary.
+
+    Every check in this gate prefixes a failure with FAIL. Until 30 August the
+    gate captured that output and discarded it, so a red CI run said
+    `runtime_check FAIL(1)` and nothing else -- the name of the one assertion
+    that failed was thrown away, and reading it back meant reproducing the run.
+    A gate that knows which check failed and will not say why is a gate that
+    costs a session every time it fires.
+
+    Falls back to the tail of stderr, then stdout, when nothing matches -- a
+    check that dies before printing anything still has to be diagnosable.
+    """
+    out = (r.stdout or b"").decode("utf-8", "replace")
+    err = (r.stderr or b"").decode("utf-8", "replace")
+    lines = [l.strip() for l in out.splitlines() if l.strip().startswith("FAIL")]
+    if not lines:
+        lines = [l.strip() for l in err.splitlines() if l.strip().startswith("FAIL")]
+    if not lines:
+        tail = (err.strip() or out.strip()).splitlines()
+        lines = [l.strip() for l in tail[-keep:] if l.strip()]
+    if not lines:
+        return "  -- and printed nothing"
+    shown = lines[:keep]
+    more = "" if len(lines) <= keep else "\n      ... and %d more" % (len(lines) - keep)
+    return "\n      " + "\n      ".join(shown) + more
+
+
 def run_gate():
     """Run the gate and report per-command. Slow; --idempotent builds twice."""
     cmds = [
@@ -221,7 +249,10 @@ def run_gate():
         try:
             env = dict(os.environ, BOARD_URL=BOARD_URL)
             r = subprocess.run(cmd, capture_output=True, cwd=ROOT, env=env)
-            results[name] = "PASS" if r.returncode == 0 else "FAIL(%d)" % r.returncode
+            if r.returncode == 0:
+                results[name] = "PASS"
+            else:
+                results[name] = "FAIL(%d)%s" % (r.returncode, _why(r))
         except FileNotFoundError as exc:
             results[name] = "COULD NOT RUN: %s" % exc
     return results
