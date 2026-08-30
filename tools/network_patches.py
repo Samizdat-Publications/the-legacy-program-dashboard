@@ -516,6 +516,35 @@ NETWORK_LABEL_PASS = r"""
   const LABEL_BUDGET = 220;   /* frame budget; the cap is drawn labels, not candidates */
   const POINTER_R = 190;      /* change 3: the proximity radius, in screen px */
   const LABEL_MAX = 37;       /* the packed map's own ceiling, borrowed deliberately */
+  /* THE ZOOM FLOOR. Below this camera scale the ambient rest-state labels stop
+     being drawn at all.
+
+     REPORTED TWICE by Stewart and reproduced on 30 August 2026. A label is drawn
+     at a fixed 9px on SCREEN while the field shrinks with the camera. That is
+     correct in isolation and produces nonsense once the map is small: measured at
+     1920 after seven clicks of the zoom-out control, 980 nodes occupy a cluster
+     about 250px wide while seventeen surviving labels are each 100-300px wide.
+     `MALMSTROM AFB MISS...TDOWNS, MARCH 1967` renders entirely BELOW the field.
+     Each is anchored to a two-pixel dot among hundreds, so no reader can tell
+     which dot it names. His words: it never lands on anything so it is not
+     labelling anything.
+
+     The collision system is not failing -- it drops 104 labels to 17 exactly as
+     designed. Seventeen unattributable labels is still the wrong answer, because
+     the problem at this scale is attribution, not crowding.
+
+     The PROGRAM map has had this rule since 26 August: L0_LABEL_DROP = 0.62,
+     Design's number, below which it stops naming. The NETWORK map never got one.
+     Same threshold rather than a second invented one, because both maps answer
+     the same question -- at what point does a fixed-size name stop belonging to
+     a shrinking mark.
+
+     Selection, its neighbours and the 14 signed-off highlights are exempt at
+     every zoom: those are labels a reader asked for by clicking, or that Stewart
+     flagged by hand. Answering a click with nothing is the defect the pass was
+     written to fix. What drops is the ambient naming, which is the part that
+     turns into noise. */
+  const LABEL_ZOOM_FLOOR = 0.62;
   let lastBoxes = [];
   let lastMarks = [];
   let LABEL_HL = null;
@@ -660,9 +689,20 @@ NETWORK_LABEL_PASS = r"""
        candidates rather than off S.sel, so the pass stays a pure function of what
        the node loop actually drew. */
     const picking = !NOCON && cand.some(c => c.dim);
+    /* see LABEL_ZOOM_FLOOR. Ambient names go; asked-for ones stay.
+
+       PAGE POISON, the _LAYOUT_OVERRIDE pattern, same as __LABEL_NO_CON above.
+       tools/runtime_check.js sets __LABEL_NO_FLOOR to put the renderer back in
+       the state the board shipped in until 30 August -- ambient labels drawn at
+       every zoom. It corrupts the REAL renderer on a REAL frame, not the probe
+       that reads it, so the assertion has to collapse when it is set or it is
+       not looking at anything. */
+    const belowFloor = cam.k < LABEL_ZOOM_FLOOR
+      && !(typeof window !== 'undefined' && window.__LABEL_NO_FLOOR);
     for (const c of cand){
       /* An illegible label is not worth a collision box. */
       if (picking && c.dim) continue;
+      if (belowFloor && !c.sel && !c.hov && !c.con && !c.hl) continue;
       if (drawn >= LABEL_BUDGET && !c.near && !c.sel && !c.hov && !c.con) continue;
       const text = labelFit(c.text);
       ctx.font = (c.sel || c.hov || c.near || c.src) ? LABEL_FONT_ON : LABEL_FONT;
