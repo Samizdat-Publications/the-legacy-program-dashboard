@@ -19,3 +19,7 @@ worker/.wrangler/
 # YouTube transcript cache. A working file, like tools/.spot-cache/.
 # Somebody else's words: fetched, read, and never published.
 research/.transcripts/
+
+# Exported transcripts. Same rule as the cache above: obtained and processed
+# for leads, never published. tools/export_transcripts.py writes here by default.
+dist/transcripts/
