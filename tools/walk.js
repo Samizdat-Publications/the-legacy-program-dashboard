@@ -90,6 +90,11 @@ const STOPS = [
                          pre: '#railbtn' },
   { id: 'view-coverup',  label: 'THE COVER-UP',            sel: '[data-view="COVERUP"]' },
   { id: 'view-report',   label: 'REPORT',                  sel: '[data-view="REPORT"]' },
+  /* The packed program map, on its own tab since 29 August 2026. The walk pays it
+     the same visit as any other view: the overlap and occupancy records are the
+     two that catch what a reader sees, and a tab nobody walks is a tab nobody
+     looks at. */
+  { id: 'view-program',  label: 'PROGRAM MAP',             sel: '[data-view="PROGRAM"]' },
   { id: 'view-network',  label: 'back to NETWORK',         sel: '[data-view="NETWORK"]' },
 ];
 

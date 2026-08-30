@@ -39,16 +39,59 @@ commands that operate on the full graph: `setHops`, `highlightPath`, `focusClust
 and `frameNodes`. Replacing the view surface outright would silently break all four
 plus the "Show me on the map" control in the insight callout.
 
-So: L0 owns the rest state, and the legacy full-graph map mounts in its place while
-a path or a frame is active, with a FULL GRAPH breadcrumb chip and CLEAR returning
-to L0. `selectNode` deliberately does NOT trigger the swap — the ledger is a table
-of contents for the dock, and the dock opening must not move the map.
+SIGNED OFF, 29 August 2026, IN THE OPPOSITE DIRECTION FROM WHAT WAS BUILT.
+--------------------------------------------------------------------------
+The arrangement above shipped and Stewart used it. His verdict, after clicking a
+node and landing on the inherited renderer by accident:
 
-This is an addition to the spec, not an implementation of it. Flagged for sign-off.
+    "I clicked on grusch or someone and instead of our orthogonal map it gave me
+    this which is I think the style from the vanishing. I actually think I like
+    this better ... it shows the connections better than the orthogonal one which
+    I like but when a subject is clicked you can't see all the connections like
+    you can here"
+
+    "Maybe the orthogonal map becomes its own tab that's just the whole map so you
+    can see it while our primary map is in the style in the screenshots below,
+    where the analysis tab sends you"
+
+So the two renderers SWAP ROLES. Neither is deleted.
+
+  NETWORK  "Network map"  the force-directed full graph, all 964 nodes, primary
+  PROGRAM  "Program map"  Design's packed cells, the 110-node program map, its
+                          own tab, always the whole map
+
+What that fixes is the thing he actually hit: `selectNode` used to force
+`S.view = 'NETWORK'` and then NOT swap the renderer, so a click from the dossier
+or the ledger left him on the packed map with one chip outlined and no way to see
+what it connects to. The full graph answers that question and the packed map does
+not, so the full graph is where a selection now lands.
+
+What the packed map keeps is the thing IT answers and the full graph does not:
+what the programme looks like whole, arranged rather than settled. It is now
+reached deliberately instead of by falling back into it.
+
+The old rule "selectNode must not move the map" survives, narrowed to where it was
+always aimed: a reader standing ON the program map stays there when the dock opens.
+From anywhere else a selection goes to the network map.
 """
 
 # --------------------------------------------------------------------------- CSS
 L0_CSS = """
+/* ---- the FOIA layer ---------------------------------------------------- */
+/* A request chip on an open question. Amber because it is a POINTER -- the same
+   role the start-here flags carry -- and not cyan, which on this board means a
+   thing that is established. Nothing here is established: none of the seventeen
+   has been filed. */
+.foia{display:inline-block;margin:6px 6px 0 0;padding:2px 6px;
+  font:500 8.5px/1.35 'IBM Plex Mono',monospace;letter-spacing:.06em;
+  border:1px solid #3a2f1c;color:#efb555;background:#191510;white-space:nowrap;
+  max-width:100%;overflow:hidden;text-overflow:ellipsis;vertical-align:bottom}
+/* "bears on" is a weaker claim than "closes" and is drawn weaker. The letters make
+   the distinction in prose -- "partially Q3", "materially advances Q6 and Q11" --
+   and flattening the two would have the board assert that a request settles a
+   question its own letter says it only advances. */
+.foia.part{border-style:dashed;color:#8d97a4;border-color:#262e36;background:#12171d}
+.foian{color:#efb555;letter-spacing:.06em}
 /* ---- L0 program map ---------------------------------------------------- */
 .l0wrap{position:absolute;inset:0;overflow:hidden;
   background:linear-gradient(160deg,#161a20 0%,#11141a 100%)}
@@ -441,7 +484,7 @@ function mountL0(host){
      degenerate model only. headRow was 46 and that was simply too short -- see
      the note in tools/build_l0_layout.mjs. */
   const GEO = PK.geo || {};
-  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46, ctl: 10 };
+  const PAD = { l: GEO.gutter || 148, t: GEO.headRow || 46, ctl: 10, gl: 10 };
   /* PAD.t IS MEASURED, not trusted. geo.headRow is a constant in the model -- 76,
      chosen when the control row was one line of six buttons -- and the era heads
      are drawn immediately below it. Adding the two fit scales and the AUTO/HELD
@@ -484,6 +527,61 @@ function mountL0(host){
     PAD.t = Math.max(HEAD_MIN, PAD.ctl + ERA_BAND);
     publishHead();
   }
+  /* THE LEFT EDGE HAS THE SAME PROBLEM THE TOP HAD, and it hid for longer because
+     it does not look like a defect -- it looks like a shorter word.
+
+     `.rail-fold` is the rail's fold tab: position:fixed at the rail's right edge,
+     22px wide, deliberately hanging INTO the map the way `.dock-fold` hangs into it
+     from the other side. The band labels are drawn at x=10 inside the canvas, so
+     the tab prints over their first characters. Measured at 1600x1000: RESEARCH
+     renders as "SEARCH" and OVERSIGHT as "ERSIGHT", and both node counts go with
+     them -- "30 nodes . mean C 0.87" reads "nodes . mean C 0.87".
+
+     "SEARCH" is not a truncation a reader can decode. It is a different word, and
+     it is also the name of another view on this board. Only two of the seven bands
+     are hit, because the tab is 150px tall and vertically centred, which is why it
+     reads as two oddly-named rows rather than as an overlay.
+
+     MEASURED, NOT CONSTANT, for exactly the reason PAD.t is: --rail-w changes when
+     the rail folds, and the tab rides that edge on a 320ms curve. A constant would
+     be right in one state and wrong in the other.
+
+     AND CLAMPED BY THE TEXT, NOT BY A NUMBER. The gutter is 148px and the longest
+     pair of lines is REVERSE-ENGINEERING over "15 nodes . mean C 2.6". Insetting
+     past what those actually measure would trade a covered label for an overflowing
+     one, which is the same defect pointing the other way -- and the chip field
+     starts at PAD.l, so it would collide rather than merely look wrong. The widest
+     label is measured through ctx, at the fonts bandLabels really uses. */
+  let GUT_W = 0;
+  function gutterTextWidth(){
+    if (GUT_W) return GUT_W;
+    let w = 0;
+    ctx.save();
+    for (const b of bandRows()){
+      ctx.font = "600 9px 'IBM Plex Mono',monospace";
+      w = Math.max(w, ctx.measureText(String(b.id).toUpperCase().slice(0, 20)).width);
+      ctx.font = "400 9px 'IBM Plex Mono',monospace";
+      w = Math.max(w, ctx.measureText(b.n + (b.n === 1 ? ' node' : ' nodes')
+                 + ' \u00b7 mean C ' + b.meanC).width);
+    }
+    ctx.restore();
+    GUT_W = Math.ceil(w);
+    return GUT_W;
+  }
+  function measureGutter(){
+    const tab = document.querySelector('.rail-fold');
+    let over = 0;
+    if (tab){
+      const r = tab.getBoundingClientRect();
+      const hb = host.getBoundingClientRect();
+      /* Only what actually laps ONTO the map. A folded rail, a tab that has been
+         removed, or a tab that sits clear all give 0 and the label stays at 10. */
+      if (r.width > 0 && r.height > 0) over = Math.ceil(r.right - hb.left);
+    }
+    const room = PAD.l - gutterTextWidth() - 4;   /* what the gutter can spare */
+    PAD.gl = Math.max(10, Math.min(over + 6, Math.max(10, room)));
+  }
+
   /* The DOM overlays that sit on the map need the same reserve the canvas uses,
      and CSS cannot read PAD. Publishing it is what stops the next overlay being
      pinned to a fresh guess. .l0ledger already clamps to PAD.t + 6 in script and
@@ -904,11 +1002,11 @@ function mountL0(host){
       const thin = b.n < 5;
       ctx.font = "600 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandLabel;
-      ctx.fillText(String(b.id).toUpperCase().slice(0, 20), 10, ty + 13);
+      ctx.fillText(String(b.id).toUpperCase().slice(0, 20), PAD.gl, ty + 13);
       ctx.font = "400 9px 'IBM Plex Mono',monospace";
       ctx.fillStyle = thin ? L0_PACK.pointer : L0_PACK.bandN;
       ctx.fillText(b.n + (b.n === 1 ? ' node' : ' nodes')
-                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), 10, ty + 25);
+                 + (dn ? '' : ' \u00b7 mean C ' + b.meanC), PAD.gl, ty + 25);
     });
     ctx.restore();
   }
@@ -1300,7 +1398,6 @@ function mountL0(host){
          + ' <span class="n">'+(n.direct.length+n.routed.length)+'</span>'
          + ' <span class="x">&times;</span></span>';
     }
-    if (S.l0full) h += '<span class="l0chip" data-full="0">FULL GRAPH <span class="x">&times;</span></span>';
     if (S.l0open.length) h += '<span class="l0chip" data-clear="1">CLEAR</span>';
     h += '<span class="l0meta">' + D.counts.l0 + ' nodes · '
        + (opt.rest ? (PK.rest||[]).length : 0) + ' of '
@@ -1593,6 +1690,11 @@ function mountL0(host){
     renderChrome();
     const t0 = PAD.t;
     measureHead();
+    /* The left inset costs nothing to re-measure and must be re-measured: the fold
+       tab moves whenever the rail does, on a curve, and every frame of that curve
+       is a frame the reader sees. Unlike PAD.t it changes no reserve, so it needs
+       no clampView(). */
+    measureGutter();
     if (PAD.t !== t0) clampView();
     paintMap(); renderLedgers(); renderRegister(); renderLegend();
     renderSelBar(); startLoop();
@@ -1738,8 +1840,6 @@ function mountL0(host){
     }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
-    const f = ev.target.closest('[data-full]');
-    if (f){ S.l0full = false; paint({ full:true }); return; }
     const r = ev.target.closest('[data-node]');
     /* The ledger is a table of contents, not a replacement for the dock. */
     if (r) return CMD.selectNode(r.getAttribute('data-node'));
@@ -1822,6 +1922,33 @@ function l0Short(label, cls){
 """
 
 # ------------------------------------------------------------------ CMD actions
+VIEW_PROGRAM_JS = r"""/* --- PROGRAM MAP ------------------------------------------------------------
+   Design's packed-cell map of the 110-node programme, on a tab of its own.
+
+   The scaffolding is deliberately identical to viewNetwork's: the same absolute
+   host, the same `.cwrap`, the same sweep overlay and the same `#netchrome`
+   element. renderNetworkChrome() reads that element and, under `!S.l0full`,
+   empties it -- the packed map draws its own breadcrumb, ledgers and controls, and
+   the inherited hop/legend chrome reads MAP.pairs, which the packed map does not
+   have. Leaving the element out instead of emptying it would make that function
+   return early on a missing node, which is a silence rather than a fix.
+
+   `S.l0full` is the flag every downstream surface keys on: the chrome suppressor,
+   paint()'s repaint branch, and the breadcrumb. It is set here rather than left to
+   the previous view, because a view that inherits a flag is a view that renders
+   differently depending on where the reader came from. */
+function viewProgramMap(v){
+  v.style.cssText = 'position:absolute;inset:0;overflow:hidden';
+  const wrap = el('div','cwrap l0wrap');
+  v.appendChild(wrap);
+  v.appendChild(el('div','sweep'));
+  const chrome = el('div'); chrome.id = 'netchrome'; v.appendChild(chrome);
+  S.l0full = false;
+  MAP = mountL0(wrap);
+  renderNetworkChrome();
+}
+"""
+
 L0_CMD = r"""
   /* ---- L0 program map. Five actions, each with a clickable control. If a
      control exists with no CMD entry the analyst cannot operate it, and the
@@ -1848,8 +1975,13 @@ L0_CMD = r"""
     paint({ map:'l0' });
   },
   clearExpansions(){ S.l0open = []; S.l0card = []; paint({ map:'l0' }); },
-  showPathOnly(){ S.l0panel = 'path'; S.view = 'NETWORK'; paint({ full:true }); },
-  showUnattached(){ S.l0panel = 'un'; S.view = 'NETWORK'; paint({ full:true }); },
+  /* The two registers and the entry surface are drawn by the packed map, so they
+     name the view that mounts it. They said NETWORK while the packed map WAS the
+     network rest state; after the inversion that would have sent the reader to the
+     force-directed graph and then rendered nothing, which is the shape of bug that
+     looks like a dead button. */
+  showPathOnly(){ S.l0panel = 'path'; S.view = 'PROGRAM'; paint({ full:true }); },
+  showUnattached(){ S.l0panel = 'un'; S.view = 'PROGRAM'; paint({ full:true }); },
 """
 
 
@@ -2019,9 +2151,28 @@ def apply(s, model, must_replace, layout=None):
         raise SystemExit("l0_patches.apply: no packed layout. mountL0 draws chips "
                          "at model positions and there are none.")
 
+    # -- THE FOIA LINKAGE, derived rather than authored. tools/build_foia_links.py
+    #    reads the "Closes on the board" line out of every letter in
+    #    notes/FOIA-LETTERS-2026-08-29.md; the letters are themselves generated from
+    #    notes/REQUEST-QUEUE.md. So the chain from the queue to the dossier has no
+    #    hand-kept link in it, which is the only reason it can be trusted to stay
+    #    true after the next research wave.
+    #
+    #    ABSENT IS A FAILURE, NOT A FALLBACK. An empty object would render every
+    #    dossier exactly as it did before, which is the image register's own failure
+    #    mode: it does not error, it just quietly stops saying anything.
+    import os as _os
+    _foia_path = _os.path.join(_repo_root(), "data", "foia-links.json")
+    if not _os.path.exists(_foia_path):
+        raise SystemExit("l0_patches.apply: data/foia-links.json is missing. "
+                         "Run: python3 tools/build_foia_links.py")
+    with open(_foia_path, encoding="utf-8") as _fh:
+        _foia = _json.load(_fh)
+
     # -- the model. Serialised compactly: it is ~500KB and every byte of it is
     #    parsed at load, which is the cost the dossier-payload item is about.
-    block = "const L0DATA = " + _json.dumps(model, separators=(",", ":")) + ";\n"
+    block = ("const FOIADATA = " + _json.dumps(_foia, separators=(",", ":")) + ";\n"
+             "const L0DATA = " + _json.dumps(model, separators=(",", ":")) + ";\n")
     s, o = must_replace(s, "const CMD = {", block + "\n" + L0_JS + "\nconst CMD = {",
                         "L0 model + view module", 1); ok &= o
 
@@ -2040,17 +2191,85 @@ def apply(s, model, must_replace, layout=None):
     s, o = must_replace(s, "</style>", L0_CSS + "</style>", "L0 styles",
                         s.count("</style>")); ok &= o
 
-    # -- mount. L0 owns the rest state. The legacy full-graph map still mounts
-    #    while a path or a frame is active, so setHops / highlightPath /
-    #    focusCluster / frameNodes and the insight callout's "Show me on the map"
-    #    keep working. selectNode deliberately does NOT trigger the swap: the dock
-    #    opening must not move the map.
+    # -- THE INVERSION, 29 August 2026. See this module's docstring for the call
+    #    and the reasoning. Six patches, and the risk in all of them is that a
+    #    surface goes quiet rather than red.
+    #
+    # (a) NETWORK mounts the full graph unconditionally. It used to mount it only
+    #     when a path or a frame was live, which meant the commands that set those
+    #     -- highlightPath, focusCluster, frameNodes, the insight callout's "Show me
+    #     on the map" -- worked from every view EXCEPT the one they targeted, where
+    #     renderSurface's own re-mount guard returned before the swap could happen.
+    #     Making it unconditional removes that whole class of dead command.
     s, o = must_replace(s,
         "  MAP = mountNetwork(wrap);\n  renderNetworkChrome();",
-        "  S.l0full = !!(S.path || (S.frame && S.frame.length));\n"
-        "  if (S.l0full){ MAP = mountNetwork(wrap); renderNetworkChrome(); }\n"
-        "  else { wrap.className = 'cwrap l0wrap'; MAP = mountL0(wrap); }",
-        "L0 mount", 1); ok &= o
+        "  S.l0full = true;\n"
+        "  MAP = mountNetwork(wrap);\n  renderNetworkChrome();",
+        "NETWORK mounts the full graph unconditionally", 1); ok &= o
+
+    # (b) the packed map becomes a view. Four string patches, which is what a view
+    #     costs on this shell: the VIEWS array, VIEW_LABEL, the dispatch map, and
+    #     the function. The rail builds itself from VIEWS, so the tab appears with
+    #     no markup change. Second in the order, next to the map it used to be.
+    s, o = must_replace(s,
+        "const VIEWS = ['NETWORK','TIMELINE',",
+        "const VIEWS = ['NETWORK','PROGRAM','TIMELINE',",
+        "VIEWS gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "  NETWORK:'Network map', TIMELINE:'Timeline',",
+        "  NETWORK:'Network map', PROGRAM:'Program map', TIMELINE:'Timeline',",
+        "VIEW_LABEL gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "  ({ NETWORK:viewNetwork, TIMELINE:viewTimeline,",
+        "  ({ NETWORK:viewNetwork, PROGRAM:viewProgramMap, TIMELINE:viewTimeline,",
+        "view dispatch gains PROGRAM", 1); ok &= o
+    s, o = must_replace(s,
+        "/* --- NETWORK ---------------------------------------------------------------- */\n"
+        "function viewNetwork(v){",
+        VIEW_PROGRAM_JS
+        + "/* --- NETWORK ---------------------------------------------------------------- */\n"
+        "function viewNetwork(v){",
+        "viewProgramMap", 1); ok &= o
+
+    # (c) the packed map is stateful in exactly the way the comment above
+    #     renderSurface's NETWORK guard describes -- it owns a canvas, a camera and
+    #     a draw loop -- so it needs the same protection. Without this every paint()
+    #     rebuilds it and throws away the reader's pan and zoom, which reads as the
+    #     map refusing to be moved.
+    s, o = must_replace(s,
+        "  if (S.view === 'NETWORK' && MAP && mountedView === 'NETWORK')"
+        "{ renderNetworkChrome(); return; }",
+        "  if (S.view === 'NETWORK' && MAP && mountedView === 'NETWORK')"
+        "{ renderNetworkChrome(); return; }\n"
+        "  /* Same rule for the packed map. Its own surfaces -- breadcrumb, ledgers,\n"
+        "     register panel -- are repainted by paint()'s camera step below, not by\n"
+        "     remounting, because nodes never moving is the property that makes two\n"
+        "     open ledgers comparable. */\n"
+        "  if (S.view === 'PROGRAM' && MAP && mountedView === 'PROGRAM') return;",
+        "the program map is never re-mounted while it is alive", 1); ok &= o
+
+    # (d) a map fills its host. `pad` is for the document views.
+    s, o = must_replace(s,
+        "  const v = el('div','view'+(S.view==='NETWORK'?'':' pad'));",
+        "  const v = el('div','view'+(S.view==='NETWORK'||S.view==='PROGRAM'?'':' pad'));",
+        "the program map is a map, not a padded document", 1); ok &= o
+
+    # (e) the number keys read the array rather than a literal 7. They already
+    #     undercounted -- REPORT, the eighth, has never been reachable by key -- and
+    #     a hardcoded bound silently drops whatever is added after it.
+    s, o = must_replace(s,
+        "  if (n >= 1 && n <= 7) CMD.setView(VIEWS[n-1]);",
+        "  if (n >= 1 && n <= VIEWS.length) CMD.setView(VIEWS[n-1]);",
+        "number keys cover every view there is", 1); ok &= o
+
+    # (f) the analyst is meant to be able to operate every control on the board. A
+    #     view it is not told about is a view it cannot send anyone to.
+    s, o = must_replace(s,
+        'setView("NETWORK"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|"COVERUP"|'
+        '"SEARCH"|"REPORT")',
+        'setView("NETWORK"|"PROGRAM"|"TIMELINE"|"GEOGRAPHY"|"CASES"|"ANALYSIS"|'
+        '"COVERUP"|"SEARCH"|"REPORT")',
+        "the analyst is told about the program map", 1); ok &= o
 
     # -- rail: the two registers, reachable with their full contents listed. This
     #    is what makes "nothing was left out" auditable rather than asserted.
@@ -2084,12 +2303,19 @@ def apply(s, model, must_replace, layout=None):
         "single selection on expand", 1); ok &= o
 
     # selectNode drives the map too, so the dock never describes a node the reader
-    # cannot see. It only moves the camera when the target IS on the L0 map.
+    # cannot see. focusL0 is still called for a node that is on the packed map, so
+    # that tab is already lit correctly when the reader switches to it.
     s, o = must_replace(s,
         "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
         "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n    paint({ map:'select' });",
         "    S.sel = id; S.tab = 'DOSSIER'; S.path = null; S.frame = null;\n"
-        "    if (S.view !== 'NETWORK') S.view = 'NETWORK';\n"
+        "    /* A selection lands on the NETWORK map, which can answer 'what does\n"
+        "       this connect to'. The one exception is a reader already standing on\n"
+        "       the program map: there the ledger is a table of contents for the\n"
+        "       dock, and opening the dock must not move the map out from under\n"
+        "       them. That was the original rule; this is the whole of what is left\n"
+        "       of it. */\n"
+        "    if (S.view !== 'NETWORK' && S.view !== 'PROGRAM') S.view = 'NETWORK';\n"
         "    if ((L0DATA.l0||[]).some(x=>x.id===id)) CMD.focusL0(id);\n"
         "    else S.l0open = [];\n"
         "    paint({ map:'select' });",
@@ -2367,7 +2593,7 @@ def apply(s, model, must_replace, layout=None):
 
     # the breadcrumb gains the path chip and a way back to the entry surface
     s, o = must_replace(s,
-        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "    if (S.l0open.length) h += '<span class=\"l0chip\" data-clear=\"1\">CLEAR",
         "    if (S.l0path){\n"
         "      const p = (L0DATA.entryPaths||[]).find(x=>x.id===S.l0path);\n"
         "      if (p) h += '<span class=\"l0chip path\" data-clearpath=\"1\">'\n"
@@ -2375,7 +2601,7 @@ def apply(s, model, must_replace, layout=None):
         "        + ' <span class=\"x\">&times;</span></span>';\n"
         "    }\n"
         "    h += '<span class=\"l0chip\" data-entry=\"1\">START</span>';\n"
-        "    if (S.l0full) h += '<span class=\"l0chip\" data-full=\"0\">FULL GRAPH",
+        "    if (S.l0open.length) h += '<span class=\"l0chip\" data-clear=\"1\">CLEAR",
         "path chip + START", 1); ok &= o
     s, o = must_replace(s,
         "    if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();",
@@ -2391,7 +2617,7 @@ def apply(s, model, must_replace, layout=None):
     # the renderer's OWN truncation rather than a copy of it. A check that
     # reimplements the thing it is checking passes when the renderer diverges.
     s, o = must_replace(s, "window.__board = { CMD, S,",
-                        "window.__board = { CMD, S, L0DATA, mountL0, l0Fit,",
+                        "window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit,",
                         "L0 debug export", 1); ok &= o
 
     # -- the inherited hop/legend chrome belongs to the full-graph map, and its
@@ -2410,9 +2636,17 @@ def apply(s, model, must_replace, layout=None):
     #    remounting, because remounting would rebuild the canvas and lose the
     #    reader's pan -- and because nodes never moving is the property that makes
     #    two open ledgers comparable.
+    #
+    #    AND THE GUARD NAMES BOTH MAP VIEWS. It said NETWORK only, which was right
+    #    while the packed map WAS the network rest state. Moving it to a view of its
+    #    own without widening this would have stopped every repaint on that tab: the
+    #    breadcrumb, the ledgers and the register panel would have frozen at whatever
+    #    they said when the tab was opened, while the canvas kept drawing. Nothing
+    #    would have thrown.
     s, o = must_replace(s,
         "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){",
-        "  step('camera', () => {\n    if (S.view === 'NETWORK' && MAP){\n"
+        "  step('camera', () => {\n"
+        "    if ((S.view === 'NETWORK' || S.view === 'PROGRAM') && MAP){\n"
         "      if (MAP.repaint && !S.l0full){ MAP.repaint(); return; }",
         "L0 repaint on paint()", 1); ok &= o
     # -- THE FULL GRAPH'S PARTICLE LAYER, which is an inherited surface asserting
@@ -2922,8 +3156,48 @@ function renderEntityDossier(id){
     for (const c of d.connections) h += '<div class="cl">'+esc(c)+'</div>';
   }
   if (d.openQuestions && d.openQuestions.length){
-    h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions</div>';
-    for (const q of d.openQuestions) h += '<div class="cl">'+esc(q)+'</div>';
+    /* THE FOIA LAYER. Stewart, 29 August 2026: "The FOIA will have to happen way
+       later but keep them there and ready. In fact integrate them into the board
+       somehow."
+
+       This is that integration, and it is the smallest one that changes what the
+       board is FOR. An open question is a statement that the record is incomplete.
+       A question that names the request which would close it is a statement about
+       what to do next -- it makes the request queue part of the argument instead of
+       a document sitting beside it.
+
+       The linkage is not invented here. Every letter in
+       notes/FOIA-LETTERS-2026-08-29.md already carries a "Closes on the board" line
+       naming the nodes and the numbered questions it would close;
+       tools/build_foia_links.py reads those lines into data/foia-links.json and this
+       draws the inverse index. The letters are themselves generated from
+       notes/REQUEST-QUEUE.md, so nothing here can drift from the queue.
+
+       WOULD, NOT WILL. None of the seventeen has been filed and the chip says so on
+       every one. A board that printed "F1 · NARA" with no status would read as a
+       request in flight, which would be a claim about the world that is not true. */
+    const fx = (FOIADATA.byNode || {})[id] || [];
+    /* DISTINCT questions, not links. Three of YANKEE BLUE's are named by two
+       requests each, and counting links would have the header claim more open
+       questions are answerable than the node has. A derived number has to mean
+       what it says. */
+    const answerable = new Set();
+    for (const r of fx) for (const q of r.questions.concat(r.partial)) answerable.add(q);
+    h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions'
+       + (answerable.size ? ' <span class="foian">' + answerable.size + ' of '
+           + d.openQuestions.length + ' answerable by request</span>' : '') + '</div>';
+    d.openQuestions.forEach((q, i) => {
+      const full = fx.filter(r => r.questions.indexOf(i) >= 0);
+      const part = fx.filter(r => r.partial.indexOf(i) >= 0);
+      h += '<div class="cl">'+esc(q);
+      for (const r of full)
+        h += '<span class="foia" title="'+esc(r.title)+' — '+esc(r.status)+'">'
+           + esc(r.request)+' · '+esc(r.agency)+'</span>';
+      for (const r of part)
+        h += '<span class="foia part" title="'+esc(r.title)+' — '+esc(r.status)
+           + '">'+esc(r.request)+' · '+esc(r.agency)+' · bears on</span>';
+      h += '</div>';
+    });
   }
   h += renderConnections(id);
   return h + '</div>';
@@ -3104,6 +3378,9 @@ L0_CMD3 = r"""
   openPath(id){
     const p = (L0DATA.entryPaths||[]).find(x=>x.id===id);
     if (!p) return warn('no entry path named "'+id+'"');
+    /* An entry path lights cells on the packed map. Typed at the analyst from any
+       other view it used to light them on a map that was not mounted. */
+    S.view = 'PROGRAM';
     S.l0entry = false;
     S.l0path = id;
     S.l0focus = new Set(p.ids);
@@ -3123,5 +3400,5 @@ L0_CMD3 = r"""
     S.l0path = null; S.l0focus = null;
     paint({ map:'l0', full:true });
   },
-  showEntry(){ S.l0entry = true; S.view = 'NETWORK'; paint({ full:true }); },
+  showEntry(){ S.l0entry = true; S.view = 'PROGRAM'; paint({ full:true }); },
 """

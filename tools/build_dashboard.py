@@ -2381,6 +2381,22 @@ def main():
         "affiliations resolve to node labels", 1)
     ok_all &= ok
 
+    # ---- 4b. the FOIA linkage ---------------------------------------------
+    # Derived from notes/FOIA-LETTERS-2026-08-29.md, which is itself generated from
+    # notes/REQUEST-QUEUE.md. Regenerated on every build rather than trusted from
+    # disk: a stale linkage would show a dossier pointing at a request that no longer
+    # closes that question, which is worse than showing none.
+    import build_foia_links
+    _fl = build_foia_links.build()
+    print("  foia  %d requests -> %d nodes, %d open questions" % (
+        len(_fl["requests"]), len(_fl["byNode"]),
+        sum(len(n["questions"]) + len(n["partial"])
+            for r in _fl["requests"] for n in r["nodes"])))
+    if _fl["unresolved"] or _fl["outOfRange"]:
+        print("  !! the FOIA letters name nodes or questions the board does not have: "
+              + ", ".join(_fl["unresolved"] + _fl["outOfRange"])[:300], file=sys.stderr)
+        ok_all = False
+
     # ---- 5. the L0 program map --------------------------------------------
     # The rest state of the NETWORK view. Lives in its own module because it has no
     # upstream equivalent to patch against -- see tools/l0_patches.py. The model and
@@ -2406,6 +2422,16 @@ def main():
         layout = json.load(open(lay_path, encoding="utf-8"))
         s, ok = l0_patches.apply(s, l0_model, must_replace, layout=layout)
         ok_all &= ok
+
+    # ---- 6. the PATENTS tab -----------------------------------------------
+    # Its own module, and it runs AFTER l0_patches because both add a view and this
+    # one's anchors are written against the array l0_patches leaves behind. The
+    # content is authored in research/patents-view.json and
+    # research/observables-view.json rather than in the renderer, on the
+    # data/l0-highlights.json precedent -- see tools/patents_patches.py.
+    import patents_patches
+    s, ok = patents_patches.apply(s, must_replace)
+    ok_all &= ok
 
     # ---- typeface ---------------------------------------------------------
     s, ok = embed_fonts(s, must_replace)

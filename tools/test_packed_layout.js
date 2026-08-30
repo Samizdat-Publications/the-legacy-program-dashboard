@@ -320,6 +320,38 @@ const CHECKS = [
     poison: p => ({ ...p, eraInkMax: 3 }),
   },
   {
+    id: 'gutter-labels-clear-the-rail-tab',
+    label: 'no band label is painted under the rail fold tab',
+    /* The left-edge sibling of head-row-clear, and it went unnoticed far longer
+       because it does not look like a defect. It looks like a shorter word.
+
+       `.rail-fold` is 22px of opaque DOM pinned to the rail's right edge and
+       hanging into the map. The band labels were drawn at a hard x=10 inside the
+       canvas, underneath it. Measured at 1600x1000 on the build of 29 August:
+       RESEARCH rendered as "SEARCH", OVERSIGHT as "ERSIGHT", and both node counts
+       were eaten -- "30 nodes . mean C 0.87" read "nodes . mean C 0.87". Only two
+       of seven bands, because the tab is 150px tall and centred, which is what
+       makes it read as a naming quirk rather than an overlay.
+
+       The label x is measured now, against the tab's real rect, for the reason
+       PAD.t is measured: --rail-w changes when the rail folds and the tab rides
+       that edge on a curve, so a constant is right in one state and wrong in the
+       other. It is also clamped by what the gutter can spare, measured through the
+       renderer's own ctx at the fonts bandLabels really uses -- insetting past that
+       would trade a covered label for one overflowing into the chip field, which is
+       the same defect pointing the other way.
+
+       `gutterInkPoison` is the page-level half, mirroring eraInkPoison exactly: the
+       real tab is widened while the canvas holds still, so the labels stay put and
+       the tab laps over them. The count must rise. 0 against 132 when it was
+       written, with 25px of clearance in the honest state. */
+    test: p => p.gutterInk === 0 && p.gutterClear >= 0 && p.gutterInkPoison > 0,
+    detail: p => `${p.gutterInk} label px under the ${p.gutterTabW}px tab`
+               + ` · ${p.gutterClear}px of clearance`
+               + ` · ${p.gutterInkPoison} when the tab is widened onto them`,
+    poison: p => ({ ...p, gutterInk: 7 }),
+  },
+  {
     id: 'overlay-clears-controls',
     label: 'no DOM overlay covers the map controls, at any width',
     /* The sibling of head-row-clear, one layer up. That one guards what the canvas
@@ -522,6 +554,75 @@ async function eraInkUnderControls(page, shiftY) {
     if (ctl) ctl.style.transform = prev;
     return { ink, headH: Math.round(hr.height) };
   }, shiftY || 0);
+}
+
+/* THE LEFT EDGE, on exactly the pattern above and for exactly the same reason.
+ *
+ * `.rail-fold` is the rail's fold tab: position:fixed at the rail's right edge,
+ * 22px wide, hanging INTO the map by design the way `.dock-fold` hangs into it from
+ * the other side. The band labels are painted inside the canvas, and until the
+ * measured inset landed they started at a hard x=10 -- straight underneath it.
+ *
+ * WHAT THAT LOOKED LIKE is why no check caught it for four days: not a blank
+ * region, not an error, just two bands whose names had lost their first two
+ * characters. RESEARCH read "SEARCH". OVERSIGHT read "ERSIGHT". Both node counts
+ * went with them. Only two of seven bands were hit, because the tab is 150px tall
+ * and vertically centred, so the page reads as though those rows are simply called
+ * that. "SEARCH" is not a truncation a reader can decode -- it is a different word,
+ * and it is the name of another view on this board.
+ *
+ * `the gutter labels do not scale away with the world` could never have caught it:
+ * it asserts that ink is PRESENT, and ink was present. It was the wrong ink.
+ *
+ * The poison is the page poison from eraInkUnderControls, mirrored: widen the real
+ * fold tab without repainting, so the labels stay where they are and the tab laps
+ * over them. A probe that reported 0 regardless sails through a predicate poison
+ * and fails this one. */
+async function bandInkUnderRailTab(page, widenTo) {
+  return await page.evaluate(w => {
+    const tab = document.querySelector('.rail-fold');
+    if (!tab) return { ink: -1, tabW: -1, clear: -1 };
+    const prev = tab.style.width;
+    /* PAGE POISON: widen the real tab while the canvas holds still. */
+    if (w) tab.style.width = w + 'px';
+    const cvs = document.querySelector('.l0wrap canvas');
+    if (!cvs) { tab.style.width = prev; return { ink: -1, tabW: -1, clear: -1 }; }
+    const ctx = cvs.getContext('2d');
+    const hb = cvs.getBoundingClientRect();
+    const tb = tab.getBoundingClientRect();
+    const dpr = cvs.width / hb.width;
+    /* bandLabel, bandN, and pointer for a thin band drawn amber. */
+    const COLS = [[92,102,114], [59,68,79], [239,181,85]];
+    const near = (r,g,b,c) => Math.abs(r-c[0]) + Math.abs(g-c[1]) + Math.abs(b-c[2]) <= 26;
+    const x0 = Math.max(0, Math.round((tb.left - hb.left) * dpr));
+    const y0 = Math.max(0, Math.round((tb.top  - hb.top ) * dpr));
+    const ww = Math.min(cvs.width  - x0, Math.round(tb.width  * dpr));
+    const hh = Math.min(cvs.height - y0, Math.round(tb.height * dpr));
+    let ink = 0;
+    if (ww > 0 && hh > 0) {
+      const d = ctx.getImageData(x0, y0, ww, hh).data;
+      for (let i = 0; i < d.length; i += 4)
+        for (const c of COLS) if (near(d[i], d[i+1], d[i+2], c)) { ink++; break; }
+    }
+    /* How far the leftmost label ink actually sits from the tab's right edge, as a
+       positive number when it is clear. Reported so the check says how much room it
+       had, not merely that it had some. */
+    let clear = -1;
+    const scan = ctx.getImageData(0, y0, Math.min(cvs.width, Math.round(200 * dpr)),
+                                  Math.max(1, hh));
+    outer:
+    for (let px = 0; px < scan.width; px++) {
+      for (let py = 0; py < scan.height; py++) {
+        const i = (py * scan.width + px) * 4;
+        for (const c of COLS) if (near(scan.data[i], scan.data[i+1], scan.data[i+2], c)) {
+          clear = Math.round(px / dpr - (tb.right - hb.left));
+          break outer;
+        }
+      }
+    }
+    tab.style.width = prev;
+    return { ink, tabW: Math.round(tb.width), clear };
+  }, widenTo || 0);
 }
 
 /* ---- the head sweep ---------------------------------------------------------
@@ -1553,10 +1654,18 @@ async function probeImages(page, fixtures, opts) {
   await page.waitForSelector('[data-view="CASES"]', { timeout: 120000 });
   await page.waitForTimeout(6000);
 
-  /* The map is the rest state of the NETWORK view, and the entry surface sits on
-     top of it until a reader picks a way in. Both have to be got past before
-     there is a canvas to read. */
-  await page.click('[data-view="NETWORK"]');
+  /* THE PACKED MAP IS ITS OWN VIEW as of 29 August 2026 -- it used to be the rest
+     state of NETWORK, and NETWORK is now the force-directed full graph. So this
+     navigates to the new tab. That is the ONLY concession this file makes to the
+     inversion: not one assertion, threshold or poison below is relaxed, because
+     these 30 checks found two defects that reading the source did not, and the
+     tenth poison moves every chip 60px on the real page and requires the match to
+     collapse. A check weakened to accommodate a change stops being evidence that
+     the change was safe.
+
+     The entry surface still sits on top of the map until a reader picks a way in,
+     and still has to be got past before there is a canvas to read. */
+  await page.click('[data-view="PROGRAM"]');
   await page.waitForTimeout(2500);
   const skip = await page.$('.l0entry [data-entry-skip], .l0entry [data-skip]');
   if (skip) { await skip.click(); await page.waitForTimeout(1200); }
@@ -1569,7 +1678,21 @@ async function probeImages(page, fixtures, opts) {
   await page.waitForSelector('.l0wrap canvas', { timeout: 30000 });
   await page.waitForTimeout(1500);
 
-  const p = await probe(page, { restDrawnFigure });
+  /* THE GUTTER GOES FIRST, and the ordering is load-bearing in the same way the
+     image tile's is. fitSweep clicks FIT ALL, and FIT ALL folds the rail to its
+     spine -- which REMOVES `.rail-fold` from the document, because applyChrome owns
+     the tab and only draws it on the open state. Measured after fitSweep the probe
+     returns -1 for everything and the check fails while proving nothing about the
+     map. Measured here it reads the rest state, which is the state a reader is
+     actually in when the two band labels are covered. */
+  const p = {};
+  {
+    const honest = await bandInkUnderRailTab(page, 0);
+    const poisoned = await bandInkUnderRailTab(page, 120);
+    p.gutterInk = honest.ink; p.gutterTabW = honest.tabW; p.gutterClear = honest.clear;
+    p.gutterInkPoison = poisoned.ink;
+  }
+  Object.assign(p, await probe(page, { restDrawnFigure }));
   Object.assign(p, await fitSweep(page));
   /* The image tile is measured BEFORE headSweep, and the order is load-bearing.
      probeImages parks a chip at a known screen position and sets the camera by

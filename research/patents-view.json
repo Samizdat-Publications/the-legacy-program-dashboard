@@ -1,0 +1,228 @@
+{
+  "_what": "The PATENTS tab, as authored editorial data. Built to the mockup signed off by Stewart on 29 August 2026 (notes/PATENTS-TAB-MOCKUP-2026-08-29.md), on the data/l0-highlights.json precedent: the content lives here and is gate-checked, and tools/l0_patches.py holds a renderer that reads it. Nothing on this tab is hand-typed into the renderer.",
+  "_rule": "CLAUDE.md section 2. Every quote below is verbatim from a transcribed primary document under research/patents/, and every one was checked against that transcript rather than against the mockup -- the mockup is a picture, not a source.",
+  "_derive": "COUNTS ARE NOT STORED. The header strip counts filings, grants, expiries and absent papers from the arrays below, the way renderStats derives the board strip. A stored count is a count that goes stale.",
+  "title": "Patents",
+  "eyebrow": "Five Navy filings, 2015-2018",
+  "standfirst": "All five are assigned to the United States as represented by the Secretary of the Navy and were filed from NAWCAD at NAS Patuxent River. Two of the three granted patents have since expired for non-payment of the first maintenance fee.",
+
+  "filings": [
+    {
+      "id": "pais-patent-emfg",
+      "docket": "PAX 182",
+      "number": "US 10,135,366",
+      "application": "14/807,943",
+      "title": "Electromagnetic field generator and method to generate an electromagnetic field",
+      "filed": "2015-07-24",
+      "granted": "2018-11-20",
+      "examiner": "Thomas M. Dougherty",
+      "artUnits": ["2837"],
+      "supervisor": "Shawki Ismail",
+      "status": ["GRANTED", "EXPIRED"],
+      "expired": "2022-12-26",
+      "source": { "name": "USPTO application data and file wrapper, application 14/807,943", "url": "https://patentcenter.uspto.gov/" }
+    },
+    {
+      "id": "pais-patent-imrd",
+      "docket": "PAX 205",
+      "number": "US 10,144,532",
+      "application": "15/141,270",
+      "title": "Craft using an inertial mass reduction device",
+      "filed": "2016-04-28",
+      "granted": "2018-12-04",
+      "examiner": "Philip J. Bonzell",
+      "artUnits": ["3644", "3642"],
+      "supervisor": "Timothy Collins",
+      "status": ["GRANTED", "EXPIRED", "APPEALED"],
+      "expired": "2023-01-09",
+      "lead": true,
+      "source": { "name": "USPTO application data and file wrapper, application 15/141,270", "url": "https://patentcenter.uspto.gov/" }
+    },
+    {
+      "id": "pais-patent-hfgw",
+      "number": "US 10,322,827",
+      "application": "15/431,823",
+      "title": "High frequency gravitational wave generator",
+      "filed": "2017-02-14",
+      "granted": "2019-06-18",
+      "status": ["GRANTED"],
+      "note": "Maintenance-fee status not established on this board. See the open questions.",
+      "source": { "name": "US 10,322,827 full-text record, transcribed at research/patents/US10322827.txt", "url": "https://www.freepatentsonline.com/10322827.html" }
+    },
+    {
+      "id": "pais-app-superconductor",
+      "number": "US 2019/0058105",
+      "application": "15/678,672",
+      "title": "Piezoelectricity-induced room temperature superconductor",
+      "filed": "2017-08-16",
+      "published": "2019-02-21",
+      "status": ["PUBLISHED"],
+      "source": { "name": "US 2019/0058105 A1 full-text record, transcribed at research/patents/US20190058105.txt", "url": "https://www.freepatentsonline.com/20190058105.pdf" }
+    },
+    {
+      "id": "pais-app-fusion",
+      "number": "US 2019/0295733",
+      "application": "15/928,703",
+      "title": "Plasma compression fusion device",
+      "filed": "2018-03-22",
+      "published": "2019-09-26",
+      "status": ["PUBLISHED"],
+      "source": { "name": "US 2019/0295733 A1 full-text record, transcribed at research/patents/US20190295733.txt", "url": "https://www.freepatentsonline.com/20190295733.pdf" }
+    }
+  ],
+
+  "comparison": {
+    "title": "Two prosecutions, one design",
+    "standfirst": "PAX 205 incorporates PAX 182 by reference as its preferred generator, so these are two claims on one design. Different examiners, different art units, opposite outcomes.",
+    "tier": 1,
+    "axis": { "from": "2015-01-01", "to": "2023-06-30" },
+    "lanes": [
+      {
+        "filing": "pais-patent-emfg",
+        "label": "PAX 182",
+        "summary": "Thomas M. Dougherty · Art Unit 2837 · one rejection, no appeal",
+        "events": [
+          { "date": "2015-07-24", "label": "FILED", "kind": "plain" },
+          { "date": "2017-01-26", "label": "PUBLISHED", "kind": "plain", "note": "as US 2017/0025935 A1, twenty-two months before grant" },
+          { "date": "2018-06-20", "label": "NON-FINAL", "kind": "reject", "note": "written 12 June 2018, mailed 20 June 2018" },
+          { "date": "2018-09-13", "label": "ALLOWED — PRIOR ART", "kind": "allow" },
+          { "date": "2018-11-20", "label": "GRANTED", "kind": "grant" },
+          { "date": "2022-12-26", "label": "EXPIRED", "kind": "expire" }
+        ]
+      },
+      {
+        "filing": "pais-patent-imrd",
+        "label": "PAX 205",
+        "summary": "Philip J. Bonzell · Art Units 3644 then 3642 · two rejections, a formal appeal",
+        "events": [
+          { "date": "2016-04-28", "label": "FILED", "kind": "plain" },
+          { "date": "2017-12-15", "label": "SHEEHY LETTER", "kind": "mark" },
+          { "date": "2017-11-28", "label": "NON-FINAL", "kind": "reject" },
+          { "date": "2018-01-17", "label": "INTERVIEW", "kind": "plain", "note": "telephonic; 'no agreement was reached'" },
+          { "date": "2018-03-30", "label": "FINAL", "kind": "final" },
+          { "date": "2018-05-11", "label": "DECLARATION", "kind": "mark" },
+          { "date": "2018-06-21", "label": "APPEAL", "kind": "reject" },
+          { "date": "2018-07-11", "label": "ADVISORY", "kind": "reject", "note": "refusing to allow" },
+          { "date": "2018-12-04", "label": "GRANTED — REASON ABSENT", "kind": "grant" },
+          { "date": "2023-01-09", "label": "EXPIRED", "kind": "expire" }
+        ]
+      }
+    ],
+    "finding": "The examiner allowed the application before the Patent Trial and Appeal Board ever ruled."
+  },
+
+  "quotes": [
+    {
+      "speaker": "SHEEHY",
+      "date": "2017-12-15",
+      "text": "I agree with your main point that this mode of acceleration/movement is beyond the state of the possible, at least at present.",
+      "emphasis": "beyond the state of the possible",
+      "gloss": "The first sentence of the letter that the popular account credits with winning the patent. It opens by agreeing with the examiner.",
+      "tier": 1,
+      "source": { "name": "Naval Aviation Enterprise CTO to Primary Patent Examiner P. J. Bonzell, Ser 40T/33, 15 December 2017, paragraph 1; transcribed at research/patents/wrapper/sheehy-letter-2017-12-15.txt" }
+    },
+    {
+      "speaker": "EXAMINER",
+      "date": "2018-07-11",
+      "text": "While the Examiner agrees that the math and physics are sound in this application, the Examiner holds that the claims are still not enabled.",
+      "emphasis": "math and physics are sound",
+      "gloss": "The Advisory Action, refusing to allow after the Sheehy declaration.",
+      "tier": 1,
+      "source": { "name": "USPTO file wrapper, application 15/141,270, Advisory Action mailed 11 July 2018, examiner Philip J. Bonzell, Art Unit 3642; transcribed at research/patents/wrapper/advisory-action-2018-07-11.txt" }
+    },
+    {
+      "speaker": "EXAMINER",
+      "date": "2018-03-30",
+      "text": "With respect to third argument that China is already investing significantly in this area, this has nothing to do with what is patentable. If anyone else filed this Application they would receive the same rejection.",
+      "emphasis": "nothing to do with what is patentable",
+      "gloss": "The China argument is the one secondary accounts credit with winning the patent. It was refused in writing, four months before the appeal.",
+      "tier": 1,
+      "source": { "name": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt" }
+    },
+    {
+      "speaker": "EXAMINER",
+      "date": "2018-09-13",
+      "text": "The following is an examiner's statement of reasons for allowance: the prior art fails to show a high energy electromagnetic field generator",
+      "emphasis": "the prior art fails to show",
+      "gloss": "PAX 182, allowed on novelty alone. Enablement was never raised against it — the objection that took PAX 205 to appeal.",
+      "tier": 1,
+      "source": { "name": "USPTO file wrapper, application 14/807,943, Notice of Allowability signed 13 September 2018 (Paper No. 20180913), examiner Thomas M. Dougherty, Art Unit 2837; transcribed at research/patents/wrapper/pax182-notice-of-allowability-2018-09-13.txt" }
+    }
+  ],
+
+  "wrapper": {
+    "title": "File wrapper · PAX 205",
+    "standfirst": "Papers obtained and read. Tier marks are evidence strength, not importance.",
+    "application": "15/141,270",
+    "obtained": [
+      { "label": "Application as filed", "date": "2016-04-28", "tier": 1 },
+      { "label": "Non-final rejection", "date": "2017-11-28", "tier": 1, "file": "research/patents/wrapper/final-rejection-2018-03-30.txt" },
+      { "label": "Sheehy letter", "date": "2017-12-15", "tier": 1, "file": "research/patents/wrapper/sheehy-letter-2017-12-15.txt" },
+      { "label": "Interview summary", "date": "2018-01-17", "tier": 1, "file": "research/patents/wrapper/interview-summary-2018-01-17.txt" },
+      { "label": "Final rejection", "date": "2018-03-30", "tier": 1, "file": "research/patents/wrapper/final-rejection-2018-03-30.txt" },
+      { "label": "Sheehy declaration", "date": "2018-05-11", "tier": 1, "file": "research/patents/wrapper/sheehy-declaration-2018-05-11.txt" },
+      { "label": "Advisory action", "date": "2018-07-11", "tier": 1, "file": "research/patents/wrapper/advisory-action-2018-07-11.txt" },
+      { "label": "Appeal brief", "date": "2018-08-20", "tier": 1, "file": "research/patents/wrapper/appeal-brief-2018-08-20.txt" }
+    ],
+    "absent": [
+      {
+        "label": "Examiner's answer",
+        "why": "Not obtained. Whether one was ever written is not established: the examiner allowed the application before the Board ruled, and an answer may never have been filed."
+      },
+      {
+        "label": "Reasons for allowance",
+        "why": "The examiner's own account of what reversed a rejection he had twice sustained. The single most informative document still outstanding on this node."
+      }
+    ],
+    "_absentRule": "CLAUDE.md: absent prints as absent. These rows are drawn struck through and marked NOT OBTAINED rather than omitted, so a reader can see that the decisive document is missing instead of assuming the record is complete. verify.py already guards the same rule on the map."
+  },
+
+  "findings": [
+    {
+      "id": "maintenance",
+      "title": "Two patents lapsed",
+      "tier": 1,
+      "text": "37 CFR 1.362(b) exempts only plant and design patents. There is no provision for a federally assigned one, so both owed the first maintenance fee and neither was paid. The Navy prosecuted PAX 205 through a formal appeal to obtain the grant and then let it lapse.",
+      "rows": [
+        { "number": "US 10,135,366", "date": "2022-12-26" },
+        { "number": "US 10,144,532", "date": "2023-01-09" }
+      ],
+      "coda": "Five weeks apart, same docket, same office of counsel. That weakens the reading that either was an isolated slip — and equally weakens the sharper one, since the sibling had no finding worth keeping. Both readings are on the node.",
+      "source": { "name": "USPTO application data for 14/807,943 and 15/141,270 (product PTGRXML, data.uspto.gov), and 37 CFR 1.362 as published by govinfo", "url": "https://www.govinfo.gov/content/pkg/CFR-2023-title37-vol1/xml/CFR-2023-title37-vol1-sec1-362.xml" }
+    }
+  ],
+
+  "openQuestions": [
+    { "text": "The papers on 15/141,270 after 20 August 2018 have not been obtained — a handful, not another thirty. They would settle what reversed the rejection." },
+    { "text": "US 10,322,827 has a grant date and no maintenance-fee status on this board. Its first fee would have fallen due on the fourth anniversary of grant. Unchecked, not established as in force." },
+    { "text": "The file wrappers of 15/431,823, 15/678,672 and 15/928,703 have not been pulled at all." }
+  ],
+
+  "drawings": {
+    "title": "Drawings",
+    "standfirst": "Federal public-domain figures, rendered at 200 dpi from the official USPTO patent PDFs with full provenance.",
+    "_treatment": "Shown on their own white ground inside a frame. These are facsimiles of a paper document and they are drawn as one. Nothing is inverted, keyed or recoloured: research/patents/drawings/PROVENANCE.md records that these are document facsimiles rather than marks, and altering one would make it a different document -- the same argument CLAUDE.md section 9 makes about seals.",
+    "_derivatives": "The originals are 7112x9167 print renders, about 3MB. tools/make_drawing_thumbs.mjs writes display derivatives to research/patents/drawings/thumbs/ and those are what ship. Generated once and committed rather than at build time, so the build needs no browser and --idempotent stays honest.",
+    "provenance": "research/patents/drawings/PROVENANCE.md",
+    "sheets": [
+      { "file": "US10144532_fig1.png", "patent": "US 10,144,532", "caption": "FIG-1 triangular craft, FIG-2 diamond craft, inside the vacuum plasma sheath" },
+      { "file": "US20170313446_fig1.png", "patent": "US 2017/0313446", "caption": "the same application as published in 2017, before the appeal" },
+      { "file": "US10135366_fig1.png", "patent": "US 10,135,366", "caption": "sheet 1 of 3" },
+      { "file": "US10135366_fig2.png", "patent": "US 10,135,366", "caption": "sheet 2 of 3" },
+      { "file": "US10135366_fig3.png", "patent": "US 10,135,366", "caption": "sheet 3 of 3" },
+      { "file": "US10322827_fig1.png", "patent": "US 10,322,827", "caption": "sheet 1 of 3" },
+      { "file": "US10322827_fig2.png", "patent": "US 10,322,827", "caption": "sheet 2 of 3" },
+      { "file": "US10322827_fig3.png", "patent": "US 10,322,827", "caption": "sheet 3 of 3" },
+      { "file": "US20190058105_fig1.png", "patent": "US 2019/0058105", "caption": "sheet 1 of 1" },
+      { "file": "US20190295733_fig1.png", "patent": "US 2019/0295733", "caption": "sheet 1 of 2" },
+      { "file": "US20190295733_fig2.png", "patent": "US 2019/0295733", "caption": "sheet 2 of 2" }
+    ]
+  },
+
+  "observables": {
+    "_ref": "research/observables-view.json. Referenced, not copied: Stewart asked for the five to be reusable on a later craft-types surface, and two copies of a taxonomy is how the two stop agreeing.",
+    "file": "research/observables-view.json",
+    "title": "The five observables, against PAX 205",
+    "standfirst": "They are a frame rather than a patent, and they earn the space through the mapping: a Navy technical organisation wrote four of the five down as things it wanted to build."
+  }
+}

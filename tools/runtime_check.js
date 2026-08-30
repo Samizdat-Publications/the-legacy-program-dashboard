@@ -139,6 +139,11 @@ const check = (c, label, detail = '') => {
     await page.click('[data-view="NETWORK"]');
     await page.waitForTimeout(6000);
     await page.screenshot({ path: SHOTS + '/network.png' });
+    await page.click('[data-view="PROGRAM"]');
+    await page.waitForTimeout(6000);
+    await page.screenshot({ path: SHOTS + '/program.png' });
+    await page.click('[data-view="CASES"]');
+    await page.waitForTimeout(1200);
   }
 
   /* ---- THE SEARCH GRAMMAR ---------------------------------------------------
@@ -196,17 +201,234 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
-  /* ---- THE FULL GRAPH'S PARTICLE LAYER --------------------------------------
-     mountNetwork is the inherited parent-board renderer. It mounts when S.path or
-     S.frame is set AND the NETWORK view is constructed -- so it is reachable from
-     any other view via frameNodes, focusCluster, highlightPath or showInsight, and
-     three earlier attempts to reach it failed only because they called those
-     commands while already on NETWORK, where no view is rebuilt.
+  /* ---- THE FOIA LAYER -------------------------------------------------------
+     A dossier's open questions carry a chip naming the request that would close
+     each one. verify.py checks that the LINKAGE is true -- every node on the board,
+     every question index in range. This checks that it reaches the reader, which is
+     a different question and the one this file exists for.
 
-     It drew a particle on every visible edge, flipped by comparing the two nodes'
-     dates. That is a time-direction flow on every line, which Design named and
-     rejected: it states the relationship runs from the earlier node to the later
-     one, and for most of these edges the board makes no such claim. */
+     The specific silence it guards: FOIADATA.byNode is keyed by node id, and if the
+     key never matches -- a rename, a build that emitted an empty object, a lookup
+     against the wrong variable -- every dossier renders EXACTLY as it did before the
+     layer existed. No error, no gap, nothing to see. The board would simply have
+     stopped saying which request would answer anything.
+
+     So the check requires chips on a node whose linkage is known, requires the
+     weaker "bears on" claim to be drawn differently from "closes", and requires the
+     header count to be the number of DISTINCT questions answerable rather than the
+     number of links -- three of YANKEE BLUE's questions are named by two requests
+     each, and counting links would overstate what the record offers. */
+  try {
+    await page.evaluate(() => window.__board.CMD.selectNode('yankee-blue'));
+    await page.waitForTimeout(2200);
+    const f = await page.evaluate(() => {
+      const dock = document.getElementById('dock');
+      const chips = [...dock.querySelectorAll('.foia')];
+      const head = [...dock.querySelectorAll('.eyebrow')]
+        .find(e => /Open questions/.test(e.textContent));
+      const B = window.__board || {};
+      const link = (B.FOIADATA && B.FOIADATA.byNode) || {};
+      const rows = link['yankee-blue'] || [];
+      const want = new Set();
+      for (const r of rows) for (const q of r.questions.concat(r.partial)) want.add(q);
+      const m = (head ? head.textContent : '').match(/(\d+) of (\d+)/);
+      return {
+        chips: chips.length,
+        part: chips.filter(c => c.classList.contains('part')).length,
+        titled: chips.filter(c => (c.getAttribute('title') || '').length > 10).length,
+        shown: m ? +m[1] : -1,
+        want: want.size,
+        requests: ((B.FOIADATA && B.FOIADATA.requests) || []).length,
+        /* a chip must be shorter than the question it annotates, or it is not an
+           annotation any more */
+        widest: Math.max.apply(null, [0].concat(chips.map(c => Math.round(c.getBoundingClientRect().width)))),
+        dockW: Math.round(dock.getBoundingClientRect().width),
+      };
+    });
+    check(f.requests === 17, 'every FOIA letter reached the page',
+          f.requests + ' requests in FOIADATA');
+    check(f.chips >= 4, 'open questions carry the request that would answer them',
+          f.chips + ' request chips on yankee-blue');
+    check(f.part >= 1, 'a request that only bears on a question is drawn as weaker',
+          f.part + ' of ' + f.chips + ' chips drawn as a partial claim');
+    check(f.titled === f.chips, 'every request chip names its agency in full on hover',
+          f.titled + ' of ' + f.chips + ' carry a title');
+    check(f.shown === f.want && f.want > 0,
+          'the answerable count is distinct questions, not links',
+          'header says ' + f.shown + ', the linkage has ' + f.want + ' distinct');
+    check(f.widest > 0 && f.widest < f.dockW * 0.9,
+          'a request chip stays an annotation, not a paragraph',
+          'widest chip ' + f.widest + 'px in a ' + f.dockW + 'px dock');
+    await page.evaluate(() => window.__board.CMD.clearSelection());
+  } catch (e) {
+    check(false, 'the FOIA layer could be exercised', e.message.slice(0, 120));
+  }
+
+  /* ---- THE PATENTS TAB ------------------------------------------------------
+     The tab's CONTENT is checked by verify.py, against the transcripts it cites.
+     This checks what the browser does with it, which is a different question and
+     the one CLAUDE.md section 5 is about: reading the source is not verification.
+
+     Two defects were found here by looking, on the first cut, and neither was
+     visible to any data check:
+
+     1. Every quotation printed a stray box and a capital letter beside its quote
+        marks. The stylesheet said `quotes:'\201C' '\201D'` and the module that
+        carries it was a NON-RAW Python string, so \201 was read as a Python octal
+        escape -- U+0081 -- and the C survived as a literal. The CSS was correct;
+        the file that emitted it was not.
+     2. The prosecution lane labels overprinted into a smear. PAX 205 has ten events
+        inside three years, and 'NON-FINAL', 'ALLOWED — PRIOR ART' and 'GRANTED'
+        rendered as 'NON-ALLOWED — PRIORARTED'.
+
+     POISON=patents puts the second one back on the live page: every label is
+     returned to row 0, which is where they sat before the stagger, and the overlap
+     count must rise. It moves the real labels on the real page rather than
+     corrupting the probe -- a probe that reported 0 regardless would pass a
+     predicate poison and fail this. */
+  try {
+    await page.evaluate(() => window.__board.CMD.setView('PATENTS'));
+    await page.waitForTimeout(2500);
+    const POIS = process.env.POISON === 'patents';
+    if (POIS) await page.evaluate(() => {
+      document.querySelectorAll('.patlane .ev b').forEach(b => { b.style.top = '18px'; });
+    });
+    const pat = await page.evaluate(() => {
+      const q = s => document.querySelectorAll(s).length;
+      const lanes = [...document.querySelectorAll('.patlane .lane')].map(lane => {
+        const ls = [...lane.querySelectorAll('.ev b')].map(e => e.getBoundingClientRect());
+        let hit = 0;
+        for (let i = 0; i < ls.length; i++) for (let j = i + 1; j < ls.length; j++) {
+          const a = ls[i], c = ls[j];
+          if (!(c.left >= a.right || c.right <= a.left || c.top >= a.bottom || c.bottom <= a.top)) hit++;
+        }
+        return { labels: ls.length, overlaps: hit };
+      });
+      const view = document.querySelector('#surface .view');
+      return {
+        boxes: q('.patbox'),
+        quotes: q('.patq blockquote'),
+        lit: q('.patq q em'),
+        filings: q('.patfil > div'),
+        drawings: [...document.querySelectorAll('.patdraw img')].filter(i => i.naturalWidth > 0).length,
+        struck: q('.patwrap li.gone'),
+        obsRows: q('.patobs tr'),
+        lanes,
+        overlaps: lanes.reduce((n, l) => n + l.overlaps, 0),
+        labels: lanes.reduce((n, l) => n + l.labels, 0),
+        /* the header strip, which must be DERIVED. The mockup's read "5 FILINGS ·
+           2 GRANTED" and the data says three are granted. */
+        strip: (document.querySelector('.patfil') || {}).previousElementSibling
+                 ? document.querySelector('.patbox .lede').textContent.trim() : '',
+        /* what the data itself says, recounted here rather than trusted */
+        want: (() => {
+          const F = (window.PATDATA && window.PATDATA.filings) || [];
+          return { n: F.length,
+                   g: F.filter(f => (f.status || []).indexOf('GRANTED') >= 0).length,
+                   e: F.filter(f => (f.status || []).indexOf('EXPIRED') >= 0).length };
+        })(),
+        /* no stray CSS escape reached the page as text */
+        boxGlyph: /[\u0080-\u009f]/.test(document.querySelector('.pat').textContent),
+        scrollable: view ? view.scrollHeight > view.clientHeight : false,
+        hOverflow: document.documentElement.scrollWidth > document.documentElement.clientWidth,
+      };
+    });
+    check(pat.boxes >= 6 && pat.filings === 5 && pat.quotes === 4,
+          'the patents tab draws its sections',
+          `${pat.boxes} panels · ${pat.filings} filings · ${pat.quotes} quotes`);
+    check(pat.lit === pat.quotes, 'every quotation lights the phrase it means to',
+          `${pat.lit} of ${pat.quotes} quotations carry a highlight`);
+    check(pat.boxGlyph === false, 'no CSS escape reaches the page as a literal glyph',
+          pat.boxGlyph ? 'a C1 control character is being rendered as text'
+                       : 'no C1 control characters in the rendered tab');
+    check(pat.overlaps === 0 || POIS, 'no prosecution lane label overprints another',
+          `${pat.labels} labels across ${pat.lanes.length} lanes, ${pat.overlaps} overlapping`
+          + (POIS ? ' [POISON=patents: all labels forced to row 0]' : ''));
+    if (POIS) check(pat.overlaps > 0, 'the lane-label check can see an overprint',
+                    `${pat.overlaps} overlaps with the stagger removed — must be > 0`);
+    check(pat.drawings === 11, 'every drawing sheet loads',
+          `${pat.drawings} of 11 sheets decoded`);
+    check(pat.struck >= 2, 'the wrapper prints what it does not have',
+          `${pat.struck} papers drawn as absent`);
+    check(pat.obsRows === 5, 'all five observables are on the tab, met or not',
+          `${pat.obsRows} rows`);
+    check(pat.hOverflow === false, 'the patents tab never scrolls sideways',
+          pat.hOverflow ? 'the document is wider than the window' : 'no horizontal overflow');
+  } catch (e) {
+    check(false, 'the patents tab could be exercised', e.message.slice(0, 120));
+  }
+
+  /* ---- THE INVERSION, 29 August 2026 ----------------------------------------
+     Stewart's call after using the live board: the force-directed full graph is
+     the primary network map, and Design's packed program map moves to a tab of
+     its own. Both survive; they swap roles.
+
+     Asserted through the DOM rather than through S.l0full, because the flag is
+     what the code sets and the wrapper is what the reader gets. The two renderers
+     are distinguishable there without ambiguity: mountL0's host carries `.l0wrap`
+     and draws its own `.l0crumb` breadcrumb; mountNetwork's carries neither and
+     leaves the inherited hop/legend chrome in #netchrome.
+
+     THE FAILURE THIS IS AIMED AT is a half-applied inversion, and it is silent.
+     If VIEWS gains PROGRAM but the dispatch map does not, `[S.view] || viewNetwork`
+     catches the miss and the new tab renders THE NETWORK MAP -- a "Program map"
+     button that shows the wrong map, no error, nothing in the console. So the
+     check is not "PROGRAM draws something"; it is that the two views draw
+     DIFFERENT renderers, and that each draws the right one.
+
+     POISON=inversion navigates to NETWORK where the check expects PROGRAM, so the
+     two samples come from the same renderer. Everything the check reads is real
+     page state; what the poison changes is which page state it reads. The match
+     must collapse. */
+  try {
+    const renderer = async () => await page.evaluate(() => ({
+      l0wrap:  !!document.querySelector('.l0wrap'),
+      crumb:   !!document.querySelector('.l0crumb'),
+      chrome:  (document.getElementById('netchrome') || {}).innerHTML ?
+                 (document.getElementById('netchrome').innerHTML.length > 0) : false,
+      canvas:  [...document.querySelectorAll('canvas')].some(c => c.width > 200),
+    }));
+    await page.evaluate(() => window.__board.CMD.setView('CASES'));
+    await page.waitForTimeout(700);
+    await page.click('[data-view="NETWORK"]');
+    await page.waitForTimeout(4000);
+    const net = await renderer();
+    check(net.canvas && !net.l0wrap && !net.crumb,
+          'network map is the full graph at rest',
+          `l0wrap=${net.l0wrap} crumb=${net.crumb} canvas=${net.canvas}`);
+    check(net.chrome, 'the full graph keeps its own hop and legend chrome',
+          '#netchrome ' + (net.chrome ? 'has content' : 'is empty'));
+
+    const POIS = process.env.POISON === 'inversion';
+    await page.click(POIS ? '[data-view="NETWORK"]' : '[data-view="PROGRAM"]');
+    await page.waitForTimeout(4000);
+    const prog = await renderer();
+    check(prog.canvas && prog.l0wrap && prog.crumb,
+          'the program map tab draws the packed map',
+          `l0wrap=${prog.l0wrap} crumb=${prog.crumb} canvas=${prog.canvas}`
+          + (POIS ? ' [POISON=inversion]' : ''));
+    check(prog.l0wrap !== net.l0wrap,
+          'the two map views draw different renderers',
+          POIS ? 'POISON=inversion: both samples taken from NETWORK, must collapse'
+               : 'NETWORK has no .l0wrap, PROGRAM has one');
+  } catch (e) {
+    check(false, 'the two map views could be exercised', e.message.slice(0, 120));
+  }
+
+  /* ---- THE FULL GRAPH'S PARTICLE LAYER --------------------------------------
+     mountNetwork is the inherited parent-board renderer. It drew a particle on
+     every visible edge, flipped by comparing the two nodes' dates. That is a
+     time-direction flow on every line, which Design named and rejected: it states
+     the relationship runs from the earlier node to the later one, and for most of
+     these edges the board makes no such claim.
+
+     THIS BLOCK MATTERS MORE THAN IT DID. Until 29 August 2026 this renderer was a
+     fallback that mounted only when a path or a frame was live, and reaching it at
+     all took three attempts. It is now the board's DEFAULT SURFACE -- the rule it
+     is held to has been promoted from a corner case to the first thing every
+     reader sees. The route below is kept exactly as it was, frame-first from
+     another view, because it exercises the reframe path as well as the rest
+     state; `network map is the full graph at rest` above covers the plain case. */
   try {
     await page.evaluate(() => window.__board.CMD.setView('CASES'));
     await page.waitForTimeout(900);
@@ -310,19 +532,25 @@ const check = (c, label, detail = '') => {
    * fire, they just looked inert because the map they affect was 798px wide and
    * dimmed to 16%. Assert both, so a regression in either is named for what it is. */
   try {
-    /* Back to the map. The block above exercises the full-graph renderer, which is
-       only reachable from a NON-network view, so the packed map is not mounted at
-       this point -- the first cut of this check measured 0 buttons on a 0px canvas
-       and reported success-shaped nonsense until it was made to fail loudly. */
+    /* Back to the packed map, which is the PROGRAM tab as of 29 August 2026. The
+       block above leaves the reader on the full graph, so the packed map is not
+       mounted at this point -- the first cut of this check measured 0 buttons on a
+       0px canvas and reported success-shaped nonsense until it was made to fail
+       loudly, and the waitForSelector below is what keeps it loud.
+
+       S.l0full is no longer set by hand here. It used to be, because the two
+       renderers shared the NETWORK view and the flag was the only thing choosing
+       between them; now the view chooses, viewProgramMap sets the flag, and
+       setting it from outside would be a test arranging the state it means to
+       observe. */
     await page.evaluate(() => {
       const B = window.__board;
-      B.S.l0full = false;            /* the packed map, not the full graph */
       B.S.sel = null;
       B.S.l0open = [];
     });
     await page.click('[data-view="CASES"]');
     await page.waitForTimeout(800);
-    await page.click('[data-view="NETWORK"]');
+    await page.click('[data-view="PROGRAM"]');
     await page.waitForTimeout(2500);
     const skip2 = await page.$('.l0entry [data-entry-skip], .l0entry [data-skip]');
     if (skip2) { await skip2.click(); await page.waitForTimeout(1000); }

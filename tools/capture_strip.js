@@ -27,6 +27,18 @@ const URL_ = process.env.BOARD_URL || 'http://127.0.0.1:8899/the-program.html';
   await page.waitForFunction(
     () => document.body && /ENTITIES/.test(document.body.innerText),
     null, { timeout: 180000 });
+
+  /* THE PROGRAM MAP IS A TAB NOW, so its breadcrumb is no longer on screen at rest.
+     Before the 29 August inversion the packed map WAS the NETWORK rest state and
+     this file captured its crumb without navigating anywhere. Left alone, that
+     would not have failed: `.l0crumb` would simply have been absent, the crumb
+     would have dropped out of the strip, and audit_independent would have skipped
+     `breadcrumb object count` in silence -- which is the exact failure the comment
+     below already describes, and the exact shape CLAUDE.md section 5 is about.
+     So: navigate, then REQUIRE the crumb. */
+  await page.click('[data-view="PROGRAM"]');
+  await page.waitForSelector('.l0wrap canvas', { timeout: 60000 });
+  await page.waitForTimeout(2500);
   const strip = await page.evaluate(() => {
     const el = document.querySelector('.stats') ||
                [...document.querySelectorAll('div')]
@@ -38,11 +50,13 @@ const URL_ = process.env.BOARD_URL || 'http://127.0.0.1:8899/the-program.html';
     // the audit -- it makes audit_independent skip `breadcrumb object count` in silence,
     // which is how that check sat dead while the count was wrong.
     const crumb = document.querySelector('.l0crumb');
-    if (crumb) parts.push(crumb.textContent.replace(/\s+/g, ' ').trim());
-    return parts.join(' ');
+    if (!crumb) return { err: 'the program map breadcrumb (.l0crumb) is not on the page' };
+    parts.push(crumb.textContent.replace(/\s+/g, ' ').trim());
+    return { strip: parts.join(' ') };
   });
   await browser.close();
   if (!strip) { console.error('capture_strip: could not find the stats strip'); process.exit(1); }
-  fs.writeFileSync(path.join(ROOT, 'tools', 'runtime-strip.txt'), strip + '\n');
-  console.log(strip);
+  if (strip.err) { console.error('capture_strip: ' + strip.err); process.exit(1); }
+  fs.writeFileSync(path.join(ROOT, 'tools', 'runtime-strip.txt'), strip.strip + '\n');
+  console.log(strip.strip);
 })();

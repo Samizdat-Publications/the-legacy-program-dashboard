@@ -14,15 +14,20 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-29.md` after this. **It is the current
-one.** `notes/HANDOFF-2026-08-27-shell.md` is the last SHELL handoff and is still accurate on the
-shell. Four PRs landed on 27 August and all are on `master`: the shell is usable,
-both panels fold on a curve in both directions, and the image register is at 12. **The only
-thing outstanding is the DEPLOY, which a cloud session cannot run** -- there is no Cloudflare
-token in the environment. `notes/SHELL-2026-08-27.md`, `notes/SHELL-DOCK-2026-08-27.md` and
-`notes/DRAWERS-2026-08-27.md` are that day's working records, in that order.
-`notes/HANDOFF-2026-08-26-UX.md` is still the best statement of the original diagnosis; its
-§4 priority list is done.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-30.md` after this. **It is the current
+one.** `notes/HANDOFF-2026-08-29-MAPS.md` is the brief it answers and all three of its builds
+are now done: the map inversion, the patents tab and the FOIA layer.
+`notes/HANDOFF-2026-08-29.md` is superseded and accurate only on what it lists as done.
+
+`notes/HANDOFF-2026-08-27-shell.md` is the last SHELL handoff and is still accurate on the
+shell: it is usable and both panels fold on a curve in both directions. Its statement that
+the image register is at 12 is stale — it is 13 and at its ceiling
+(`notes/IMAGE-CEILING-2026-08-28.md`). **The DEPLOY is still outstanding and a cloud session
+cannot run it** — there is no Cloudflare token in the environment, and `master` carries a
+`<title>` fix that is committed and not yet deployed. `notes/SHELL-2026-08-27.md`,
+`notes/SHELL-DOCK-2026-08-27.md` and `notes/DRAWERS-2026-08-27.md` are that day's working
+records, in that order. `notes/HANDOFF-2026-08-26-UX.md` is still the best statement of the
+original diagnosis; its §4 priority list is done.
 
 **The lesson from 27 August is about process, not code: an unmerged PR is invisible to the
 next session.** PR #5 held the whole of 26 August -- the authored chip labels, the denial
@@ -50,16 +55,19 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 |---|---|
 | nodes | 964 (279 people · 685 entities) |
 | hand-written sourced edges | 2,172 |
-| tiered claims | 4,613 — T1 2,854 · T2 1,257 · T3 502 |
-| edge tiers | T1 1,385 · T2 575 · T3 199 |
-| unique source URLs | 2,940 |
+| tiered claims | 4,614 — T1 2,855 · T2 1,257 · T3 502 |
+| edge tiers | T1 1,389 · T2 584 · T3 199 |
+| unique source URLs | 2,941 |
 | dead citations | 0 |
 | timeline events | 872 |
-| program map (L0) | 110 nodes, all with dossiers |
+| views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
+| primary map | the force-directed full graph, all 964 nodes. **Inverted 29 August 2026** |
+| program map (L0) | 110 nodes, all with dossiers, on the PROGRAM tab |
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
 | links drawn at rest | 103 of 326, by the model's own budget |
-| built artifact | `dist/the-program.html`, 15.3 MB |
-| gate | 46 verify checks + 40 audit re-derivations + 28 runtime + 30 canvas assertions, all self-tested |
+| FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
+| built artifact | `dist/the-program.html`, 15.6 MB |
+| gate | 52 verify checks + 40 audit re-derivations + 46 runtime + 31 canvas + 15 analyst assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
@@ -105,7 +113,7 @@ Then the gate:
 
 ```
 python3 tools/state_snapshot.py --gate       # state + the whole gate below, in one command
-python3 tools/verify.py                      # 46 checks
+python3 tools/verify.py                      # 52 checks
 python3 tools/verify.py --self-test          # every check shown rejecting bad input
 node    tools/capture_strip.js               # writes tools/runtime-strip.txt from a real DOM
 python3 tools/audit_independent.py           # 40 checks, deliberately independent
@@ -114,7 +122,17 @@ node    tools/test_packed_layout.js          # 30 assertions read back out of th
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
+python3 tools/check_rebuild.py               # committed artifacts == a fresh build
+python3 tools/check_rebuild.py --self-test
 ```
+
+**`check_rebuild.py` is what CI runs after rebuilding, and it exists because `git diff
+--quiet` was wrong here.** Every artifact carries a build-DATE stamp, so a plain diff fails
+whenever CI rebuilds on a different UTC day from the machine that built the commit — which
+happened at 00:01 on 30 August. It normalises the stamp on both sides and compares full
+bytes. **Do not "simplify" it to `git diff -I<regex>`**: three of these artifacts are a
+single line each, so the one changed line always contains the stamp and every real change to
+them would be silently ignored.
 
 And, separately, because it asserts nothing and cannot fail:
 
@@ -128,7 +146,8 @@ The four browser steps need the board served over HTTP -- `file://` does not wor
 whether anything is serving it and **names the skip** rather than reporting a failure that
 has nothing to do with the board.
 
-**`test_packed_layout.js` reads the canvas, and that is the point.** The map is drawn with
+**`test_packed_layout.js` reads the canvas, and that is the point.** It drives the **PROGRAM**
+tab, not NETWORK — the two maps swapped roles on 29 August; see §9. The map is drawn with
 `ctx.` calls, so for six sessions the standing assumption was that a cloud session could not
 verify it -- `runtime_check.js` asserts through text nodes and there are none. `getImageData`
 has no such problem. The check aims the camera at each of the 110 chips in turn and samples
@@ -245,6 +264,16 @@ This section applies only to commands written **for Stewart to paste**. He runs
   understanding what the audit is for. (Told twice: 26 August 2026.)
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat
   and let him edit by line.
+- **HAND things to Claude Design. Do not point at the repo.** §7 says "hand this to Design"
+  about `data/design-extract.json` and that verb is load-bearing: a Design session starts with
+  no memory of this project and reads GitHub, if at all, only when told the exact
+  `owner/repo` AND the exact branch. A brief that opens "read `CLAUDE.md`, then these three
+  notes" is a brief Design cannot act on, and on 30 August one was written that way and
+  bounced. Every Design brief must be **self-contained** — it carries its own context, its own
+  screenshots and its own figures — and anything it references must be **on `master`**, which
+  means the PR is merged first. This is the unmerged-PR lesson above, wearing different
+  clothes: the gate has 184 assertions and not one of them checks that a document written for
+  somebody else is reachable by them.
 - **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
 - **Size must never encode importance** anywhere in the visual language. The largest node is
   AARO, which this board treats as implicated, not authoritative. Position is available;
@@ -313,12 +342,18 @@ data/l0-model.json           5.7MB  map model + dossiers    } API read cap: they
 dist/the-program.html         13MB  the built dashboard     } read as ABSENT
 data/design-extract.json     285KB  purpose-built, readable — hand this to Design
 data/l0-layout-model.json    461KB  Design's layout output
-data/l0-highlights.json             14 editorial start-here flags, DRAFT
-data/l0-images.json                 image register, plumbed and deliberately empty
+data/l0-highlights.json             14 editorial start-here flags, signed off
+data/l0-images.json                 image register, 13 records, at its ceiling
+data/foia-links.json                GENERATED node -> FOIA request linkage. Do not hand-edit
+research/patents-view.json          the PATENTS tab's content, authored and gate-checked
+research/observables-view.json      the five observables, standalone so a later surface reuses them
 research/dossiers/                  per-node research
 research/_authority.json            12 offices, each naming its instrument
 research/_removed.json              approved removals + alias map
 tools/                              the pipeline and the gate
+tools/patents_patches.py            the PATENTS view. A renderer; its content is the two files above
+tools/build_foia_links.py           derives data/foia-links.json from the letters. Runs inside the build
+tools/make_drawing_thumbs.mjs       display derivatives for the patent sheets. Run by hand, output committed
 notes/                              every session's findings and mistakes
 ref/the-vanishing-v2.html           the parent board. build_dashboard.py patches THIS.
 ```
@@ -367,7 +402,38 @@ surface" includes markup, not just copy.
 > stale `tools/runtime-strip.txt` captured off a different build. See
 > `notes/AUDIT-STRIP-2026-08-25.md`. `tools/capture_strip.js` now generates that file.
 
-> **TOP OF THE LIST: THE SHELL, NOT THE DATA. Read `notes/HANDOFF-2026-08-26-UX.md` first.**
+> **DONE, 29-30 August 2026: THE MAP INVERSION, THE PATENTS TAB AND THE FOIA LAYER.**
+> All three builds from `notes/HANDOFF-2026-08-29-MAPS.md`. Records:
+> `notes/MAP-INVERSION-2026-08-29.md`, `notes/PATENTS-TAB-BUILD-2026-08-29.md`,
+> `notes/FOIA-LAYER-2026-08-29.md`.
+>
+> | | |
+> |---|---|
+> | **The two maps swapped roles** | NETWORK is the force-directed full graph, primary. PROGRAM is Design's packed map, its own tab, always the whole map. Stewart's call after using the live board, and the sign-off `l0_patches.py` had waited for since 25 August — arriving in the opposite direction from what was built. |
+> | **The patents tab** | Third in the rail. Content authored in `research/patents-view.json` and `research/observables-view.json`, not in the renderer. |
+> | **The FOIA layer** | An open question names the request that would close it. Derived from the letters, which are derived from `REQUEST-QUEUE.md`. |
+>
+> **Three things a next session must not undo.**
+>
+> 1. **`tools/test_packed_layout.js` drives the PROGRAM tab.** It was navigated, not
+>    weakened — all 31 assertions, every threshold and every poison intact. If it goes red,
+>    fix the map, not the check.
+> 2. **The particle rule now governs the default surface.** `l0_patches.py` ~2418: a particle
+>    draws only on the SELECTED node's edges, running away from the reader, never along the
+>    time axis. That was Design's ruling on a fallback; the inversion promoted it to the first
+>    thing every reader sees. `e.pair.flip` must never steer a particle again.
+> 3. **Content for the patents tab and the FOIA layer lives in data, not in a renderer.**
+>    Both are gate-checked — every quotation against the transcript it cites, every request
+>    against a question that is actually open. A string typed into `patents_patches.py` is a
+>    string nothing checks.
+>
+> **Still open, and it is Design's:** the inversion **reverses Design's spec** — the packed
+> layout was theirs, built to it, with 31 canvas assertions behind it, and it is now a
+> secondary tab. They should see it. `notes/MAP-INVERSION-2026-08-29.md` §9 has the two
+> questions worth their time.
+
+> **DONE, 27 August 2026. THE SHELL. Kept as record — read `notes/HANDOFF-2026-08-26-UX.md`
+> for the original diagnosis.**
 > The data work is done and gated. What is left is that **the board is hard to use**, reported
 > by Stewart from the live site on 26 August 2026 with screenshots. He is right on every point,
 > and the four causes are located in the source, not guessed:
