@@ -381,57 +381,6 @@ const check = (c, label, detail = '') => {
             `${nb.labelled} of ${nb.onScreen} once adjacency is forgotten — must fall short`);
     }
 
-    /* ---- the zoom floor -------------------------------------------------
-       Reported twice by Stewart and reproduced on 30 August 2026. Labels draw
-       at a fixed 9px on SCREEN while the field shrinks with the camera, so far
-       enough out the map is a cluster ~250px wide carrying labels 100-300px
-       wide, each anchored to a two-pixel dot among hundreds. Measured before
-       the fix: 17 ambient labels survived, one of them rendering entirely below
-       the node field. The collision system was working exactly as designed --
-       it had already dropped 104 to 17 -- and 17 unattributable labels is still
-       the wrong answer, because at that scale the problem is attribution rather
-       than crowding.
-
-       This asserts the rule, not the number: below LABEL_ZOOM_FLOOR nothing is
-       named except what a reader asked for (selection, its neighbours) or what
-       Stewart flagged by hand (the 14 highlights).
-
-       POISON=floor sets window.__LABEL_NO_FLOOR, putting the real renderer back
-       in the shipped state on a real frame, and requires ambient labels to
-       reappear. On the page, not on the probe. */
-    const POIS_F = process.env.POISON === 'floor';
-    const zf = await page.evaluate(async (poison) => {
-      const B = window.__board, M = B.MAP;
-      if (poison) window.__LABEL_NO_FLOOR = true;
-      const sleep = ms => new Promise(r => setTimeout(r, ms));
-      if (B.S) B.S.sel = null;
-      /* Zoom out until the camera is genuinely under the floor, rather than
-         assuming a click count. */
-      for (let i = 0; i < 12 && M.cam().k >= 0.62; i++) { M.zoom('out'); await sleep(120); }
-      await sleep(900);
-      const k = M.cam().k;
-      /* L0DATA hangs off __board, NOT off window. Reading window.L0DATA gave an
-         empty exempt set, so every highlight counted as an ambient label and the
-         check failed against a correct build -- a check wrong in the direction
-         that looks like a real defect. */
-      const hl = new Set(((((B.L0DATA || window.L0DATA || {}).highlights) || {}).flags || [])
-                         .map(f => f.id));
-      const boxes = M.labelBoxes();
-      const ambient = boxes.filter(b => !hl.has(b.id));
-      const out = { k: +k.toFixed(3), total: boxes.length, ambient: ambient.length,
-                    sample: ambient.slice(0, 4).map(b => b.id) };
-      window.__LABEL_NO_FLOOR = false;
-      return out;
-    }, POIS_F);
-
-    check(zf.k < 0.62, 'the zoom-floor check actually got below the floor',
-          `camera reached k=${zf.k}, floor is 0.62`);
-    check(zf.ambient === 0 || POIS_F, 'below the zoom floor nothing is named that was not asked for',
-          `${zf.ambient} ambient label(s) at k=${zf.k}, ${zf.total} drawn in total`
-          + (zf.sample.length ? ' — ' + zf.sample.join(', ') : '')
-          + (POIS_F ? ' [POISON=floor: floor disabled]' : ''));
-    if (POIS_F) check(zf.ambient > 0, 'the zoom-floor check can see the defect',
-          `${zf.ambient} ambient labels once the floor is disabled — must be more than none`);
 
     /* ---- change 2, the rule it must NOT have used ------------------------
        Selection by degree is the one thing Design rules out, because it makes
@@ -1411,6 +1360,67 @@ const check = (c, label, detail = '') => {
       check(pan.held === false, 'the space modifier is released, never latched',
             `spacePan() is ${pan.held} after keyup`);
     }
+
+    /* MOVED HERE 30 August 2026, and the reason is written above the mark
+       check twice already: this is a check that moves the camera FAR from
+       where it found it, and two checks near the top assert the map is at
+       rest. Placed among them it left the zoom-out easing running and the
+       stillness check correctly reported "never went quiet within 16s".
+       CI caught it. Ordering is the fix; weakening either check would not
+       have been -- which is exactly what the mark check's own comment says,
+       and I put a third camera-mover in the middle anyway. */
+
+    /* ---- the zoom floor -------------------------------------------------
+       Reported twice by Stewart and reproduced on 30 August 2026. Labels draw
+       at a fixed 9px on SCREEN while the field shrinks with the camera, so far
+       enough out the map is a cluster ~250px wide carrying labels 100-300px
+       wide, each anchored to a two-pixel dot among hundreds. Measured before
+       the fix: 17 ambient labels survived, one of them rendering entirely below
+       the node field. The collision system was working exactly as designed --
+       it had already dropped 104 to 17 -- and 17 unattributable labels is still
+       the wrong answer, because at that scale the problem is attribution rather
+       than crowding.
+
+       This asserts the rule, not the number: below LABEL_ZOOM_FLOOR nothing is
+       named except what a reader asked for (selection, its neighbours) or what
+       Stewart flagged by hand (the 14 highlights).
+
+       POISON=floor sets window.__LABEL_NO_FLOOR, putting the real renderer back
+       in the shipped state on a real frame, and requires ambient labels to
+       reappear. On the page, not on the probe. */
+    const POIS_F = process.env.POISON === 'floor';
+    const zf = await page.evaluate(async (poison) => {
+      const B = window.__board, M = B.MAP;
+      if (poison) window.__LABEL_NO_FLOOR = true;
+      const sleep = ms => new Promise(r => setTimeout(r, ms));
+      if (B.S) B.S.sel = null;
+      /* Zoom out until the camera is genuinely under the floor, rather than
+         assuming a click count. */
+      for (let i = 0; i < 12 && M.cam().k >= 0.62; i++) { M.zoom('out'); await sleep(120); }
+      await sleep(900);
+      const k = M.cam().k;
+      /* L0DATA hangs off __board, NOT off window. Reading window.L0DATA gave an
+         empty exempt set, so every highlight counted as an ambient label and the
+         check failed against a correct build -- a check wrong in the direction
+         that looks like a real defect. */
+      const hl = new Set(((((B.L0DATA || window.L0DATA || {}).highlights) || {}).flags || [])
+                         .map(f => f.id));
+      const boxes = M.labelBoxes();
+      const ambient = boxes.filter(b => !hl.has(b.id));
+      const out = { k: +k.toFixed(3), total: boxes.length, ambient: ambient.length,
+                    sample: ambient.slice(0, 4).map(b => b.id) };
+      window.__LABEL_NO_FLOOR = false;
+      return out;
+    }, POIS_F);
+
+    check(zf.k < 0.62, 'the zoom-floor check actually got below the floor',
+          `camera reached k=${zf.k}, floor is 0.62`);
+    check(zf.ambient === 0 || POIS_F, 'below the zoom floor nothing is named that was not asked for',
+          `${zf.ambient} ambient label(s) at k=${zf.k}, ${zf.total} drawn in total`
+          + (zf.sample.length ? ' — ' + zf.sample.join(', ') : '')
+          + (POIS_F ? ' [POISON=floor: floor disabled]' : ''));
+    if (POIS_F) check(zf.ambient > 0, 'the zoom-floor check can see the defect',
+          `${zf.ambient} ambient labels once the floor is disabled — must be more than none`);
 
   } catch (e) {
     check(false, 'the head strip could be measured with the dock open', e.message.slice(0, 120));
