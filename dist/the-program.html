@@ -212,7 +212,7 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
    you are looking at. */
 #dock.dock-spine{overflow:hidden;cursor:pointer;position:relative}
 #dock.dock-spine > *{display:none}
-#dock.dock-spine::after{content:'DOSSIER 4 CLICK TO OPEN';position:absolute;
+#dock.dock-spine::after{content:'DOSSIER \2014 CLICK TO OPEN';position:absolute;
   left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);
   writing-mode:vertical-rl;white-space:nowrap;
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#8d97a4}
@@ -472,7 +472,7 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
 #app.rail-off .rail{display:grid;overflow:hidden;cursor:pointer;position:relative;
   border-right:1px solid #262e36}
 #app.rail-off .rail > *{display:none}
-#app.rail-off .rail::after{content:'FILTERS 4 CLICK TO OPEN';position:absolute;
+#app.rail-off .rail::after{content:'FILTERS \2014 CLICK TO OPEN';position:absolute;
   left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);writing-mode:vertical-rl;
   white-space:nowrap;font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.16em;
   color:#8d97a4;pointer-events:none}
@@ -518,6 +518,17 @@ button{font:inherit;color:inherit;background:none;border:none;padding:0;cursor:p
 .l0entry .skip button{background:none;border:none;color:#5ed4e6;cursor:pointer;
   font:inherit;padding:0;text-decoration:underline}
 .l0chip.path{border-color:#5ed4e6;color:#e6e9ee}
+
+/* ---- the reverse bridge, network map -> program map --------------------- */
+/* Sits under the zoom cluster on the right, which is where the map's own camera
+   controls already are: this is a camera action too, just one that changes which
+   renderer the camera belongs to. Amber, not cyan, for the same reason the FOIA
+   chips are amber -- it is a pointer to somewhere else, not a statement about
+   this node. */
+.toprog{position:absolute;right:12px;top:74px;z-index:5}
+.toprog .hopb{border-color:#3a2f1c;color:#efb555;background:#191510;
+  max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.toprog .hopb:hover{border-color:#efb555;color:#f4d59a}
 /* ---- PATENTS tab ------------------------------------------------------- */
 /* Every value here is lifted from the shell rather than picked: the 22px chip and
    its 9px/.10em uppercase come from .l0chip, the text ramp and the three accents
@@ -1106,7 +1117,7 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
    you are looking at. */
 #dock.dock-spine{overflow:hidden;cursor:pointer;position:relative}
 #dock.dock-spine > *{display:none}
-#dock.dock-spine::after{content:'DOSSIER 4 CLICK TO OPEN';position:absolute;
+#dock.dock-spine::after{content:'DOSSIER \2014 CLICK TO OPEN';position:absolute;
   left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);
   writing-mode:vertical-rl;white-space:nowrap;
   font:500 8.5px/1 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#8d97a4}
@@ -1366,7 +1377,7 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
 #app.rail-off .rail{display:grid;overflow:hidden;cursor:pointer;position:relative;
   border-right:1px solid #262e36}
 #app.rail-off .rail > *{display:none}
-#app.rail-off .rail::after{content:'FILTERS 4 CLICK TO OPEN';position:absolute;
+#app.rail-off .rail::after{content:'FILTERS \2014 CLICK TO OPEN';position:absolute;
   left:50%;top:50%;transform:translate(-50%,-50%) rotate(180deg);writing-mode:vertical-rl;
   white-space:nowrap;font:500 9px/1 'IBM Plex Mono',monospace;letter-spacing:.16em;
   color:#8d97a4;pointer-events:none}
@@ -1412,6 +1423,17 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
 .l0entry .skip button{background:none;border:none;color:#5ed4e6;cursor:pointer;
   font:inherit;padding:0;text-decoration:underline}
 .l0chip.path{border-color:#5ed4e6;color:#e6e9ee}
+
+/* ---- the reverse bridge, network map -> program map --------------------- */
+/* Sits under the zoom cluster on the right, which is where the map's own camera
+   controls already are: this is a camera action too, just one that changes which
+   renderer the camera belongs to. Amber, not cyan, for the same reason the FOIA
+   chips are amber -- it is a pointer to somewhere else, not a statement about
+   this node. */
+.toprog{position:absolute;right:12px;top:74px;z-index:5}
+.toprog .hopb{border-color:#3a2f1c;color:#efb555;background:#191510;
+  max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.toprog .hopb:hover{border-color:#efb555;color:#f4d59a}
 /* ---- PATENTS tab ------------------------------------------------------- */
 /* Every value here is lifted from the shell rather than picked: the 22px chip and
    its 9px/.10em uppercase come from .l0chip, the text ramp and the three accents
@@ -112043,6 +112065,15 @@ function hatch(ctx, x, y, w, h, color, gap = 4) {
 }
 
 // Dossier plate: photo slot + name + status stripe. LOD collapses to a mark.
+/* CHANGE 6, Design's "one size at every scale" applied to the MARK as well
+   as the label. 3.2 screen pixels is the smallest dot that still reads as a
+   deliberate mark rather than an artefact at this palette's contrast. */
+const MIN_MARK = 3.2;
+/* PAGE POISON: tools/runtime_check.js sets this to restore the pre-30-August
+   behaviour on the real page -- marks with no screen floor, which vanish when
+   the reader zooms out while their labels stay full size. The ink check must
+   collapse when it is set. */
+function markFloor(){ return (typeof window !== 'undefined' && window.__NO_MIN_MARK) ? 0 : MIN_MARK; }
 function drawNode(ctx, n, st) {
   const { scale = 1, state = 'default' } = st || {};
   const col = nodeColor(n);
@@ -112053,7 +112084,9 @@ function drawNode(ctx, n, st) {
   ctx.globalAlpha = dim ? 0.16 : 1;
 
   if (n.cls !== 'person') {
-    const r = n.cls === 'institution' ? 6.5 : n.cls === 'program' ? 6 : n.cls === 'domain' ? 5.5 : 4.5;
+    const r0 = n.cls === 'institution' ? 6.5 : n.cls === 'program' ? 6 : n.cls === 'domain' ? 5.5 : 4.5;
+    /* CHANGE 6: never smaller than MIN_MARK screen pixels. */
+    const r = Math.max(r0, markFloor() / (scale || 1));
     // class shape: institution = square, program = diamond, location = ring, domain = dot
     ctx.lineWidth = sel || hov ? 1.8 : 1.1;
     ctx.strokeStyle = col;
@@ -112068,14 +112101,13 @@ function drawNode(ctx, n, st) {
     if (sel || near || hov) { ctx.save(); ctx.shadowColor = col; ctx.shadowBlur = 10; ctx.stroke(); ctx.restore(); }
     ctx.stroke();
     if (n.cls === 'domain') { ctx.fillStyle = col; ctx.beginPath(); ctx.arc(n.x, n.y, r * 0.42, 0, Math.PI * 2); ctx.fill(); }
-    if (sel || hov || near || (scale > 0.62 && (n.deg || 0) >= LABEL_DEGREE)) {
-      ctx.fillStyle = dim ? PALETTE.faint : (sel || hov ? PALETTE.text : PALETTE.dim);
-      ctx.font = `${sel || hov ? 600 : 400} 9px "IBM Plex Mono", monospace`;
-      ctx.textAlign = 'center'; ctx.textBaseline = 'top';
-      const full = n.label.toUpperCase();
-      const lbl = (sel || hov) ? full : (full.length > 24 ? full.slice(0, 23) + '\u2026' : full);
-      ctx.fillText(lbl, n.x, n.y + r + 5);
-    }
+  /* CHANGE 2: the label is no longer drawn here. drawNode draws the MARK;
+       the label is offered to the screen-space pass, which decides whether
+       there is room for it. Drawing it here would put it inside the world
+       transform, where it cannot be one size at every scale. */
+    if (st && st.labels) st.labels.push({ n, text: n.label.toUpperCase(),
+                                          rw: r, sel, hov, dim, con: near });
+    if (st && st.marks) st.marks.push({ id: n.id, r: r * (scale || 1) });
     ctx.globalAlpha = 1;
     return;
   }
@@ -112083,7 +112115,28 @@ function drawNode(ctx, n, st) {
   // person plate. The photo slot only exists when there is a photo to put in it;
   // an empty slot would spend 35px of plate width saying nothing.
   const hasPhoto = !!n.photo;
-  const w = 100, h = 40, x = n.x - w / 2, y = n.y - h / 2;
+  /* CHANGE 1, Design 30 August 2026: at rest the plate carries the NAME
+     only. Date and status are dossier facts. They are still drawn under
+     selection and hover -- states a reader enters on purpose -- and the box
+     shrinks with them, because keeping a 40px plate around one line of text
+     would improve the ink and leave the collision footprint exactly where
+     it was. Height is what collides in a dense field. */
+  const full = sel || hov;
+  /* CHANGE 2: at rest a person is a mark and a name, like everything else on
+     the board. PLATE_DEGREE used to decide who got a plate, and a plate is how
+     a person is named -- so the most-connected people were named and the rest
+     were anonymous. That is selection by rank, which is the one rule Design
+     rules out. The plate is now a state, not a rank. */
+  if (!full){
+    ctx.fillStyle = col;
+    const pr = Math.max(4.5, markFloor() / (scale || 1));
+    ctx.beginPath(); ctx.arc(n.x, n.y, pr, 0, Math.PI * 2); ctx.fill();
+    if (st && st.labels) st.labels.push({ n, text: n.short || n.label.toUpperCase(),
+                                          rw: pr, sel, hov, dim, con: near });
+    ctx.globalAlpha = 1; return;
+  }
+  const w = 100, h = 40,
+        x = n.x - w / 2, y = n.y - h / 2;
   /* a person below the plate threshold draws as a dot unless it is in play */
   if (!n.plate && !sel && !hov && state !== 'connected') {
     ctx.fillStyle = col;
@@ -112111,7 +112164,7 @@ function drawNode(ctx, n, st) {
 
   let tx = x + 11;
   if (hasPhoto) {
-    const px = x + 9, py = y + 7, pw = 26, ph = h - 14;
+    const px = x + 9, py = y + (full ? 7 : 4), pw = 26, ph = h - (full ? 14 : 8);
     ctx.fillStyle = PALETTE.bg;
     ctx.fillRect(px, py, pw, ph);
     if (n.photoImg && n.photoImg.complete) {
@@ -112128,15 +112181,17 @@ function drawNode(ctx, n, st) {
   ctx.textAlign = 'left'; ctx.textBaseline = 'alphabetic';
   ctx.fillStyle = sel || hov ? PALETTE.text : '#cfd6df';
   ctx.font = '600 10.5px "IBM Plex Mono", monospace';
-  ctx.fillText(n.short || n.label.toUpperCase(), tx, y + 18);
-  ctx.fillStyle = PALETTE.faint;
-  ctx.font = '400 8.5px "IBM Plex Mono", monospace';
-  ctx.fillText(n.date.replace(/-/g, '.'), tx, y + 31);
-  ctx.fillStyle = col;
-  ctx.font = '600 8px "IBM Plex Mono", monospace';
-  ctx.textAlign = 'right';
-  ctx.fillText(({ active:'ACT', former:'FMR', dead:'DEC', missing:'MIS', resolved:'CLD',
-    disbanded:'END', classified:'CLS', denied:'DEN', disputed:'DSP' })[n.status] || 'ACT', x + w - 8, y + 31);
+  ctx.fillText(n.short || n.label.toUpperCase(), tx, y + (full ? 18 : 16));
+  if (full){
+    ctx.fillStyle = PALETTE.faint;
+    ctx.font = '400 8.5px "IBM Plex Mono", monospace';
+    ctx.fillText(n.date.replace(/-/g, '.'), tx, y + 31);
+    ctx.fillStyle = col;
+    ctx.font = '600 8px "IBM Plex Mono", monospace';
+    ctx.textAlign = 'right';
+    ctx.fillText(({ active:'ACT', former:'FMR', dead:'DEC', missing:'MIS', resolved:'CLD',
+      disbanded:'END', classified:'CLS', denied:'DEN', disputed:'DSP' })[n.status] || 'ACT', x + w - 8, y + 31);
+  }
   ctx.globalAlpha = 1;
 }
 
@@ -123028,6 +123083,23 @@ function mountL0(host){
                         : 'Pan this node into the room there is, without folding anything.')
                    + '">' + k.toUpperCase() + '</button>').join('')
       + '</span>'
+      /* CHANGE 5, FORWARD BRIDGE. Claude Design 30 August 2026.
+         It says the COUNT the budget is hiding, not "see connections". This map
+         draws 103 of 326 links at rest by its own edge budget, so a node's drawn
+         lines are not its connections -- and a control reading "see connections"
+         implies concealment in general where the count says exactly how much.
+         The number is this node's own, derived from the model, never typed.
+
+         READER-INITIATED, ALWAYS. It does not fire on selection. The bug that
+         produced the whole 29 August reversal was selection forcing a view change,
+         and a gentler version of it is still that bug. */
+      + (function(){
+          const all = (n.direct||[]).length + (n.routed||[]).length;
+          if (!all) return '';
+          return '<button data-tonet="1" title="Open the network map framed on this '
+               + 'node, with every one of its connections drawn.">ALL ' + all
+               + ' CONNECTION' + (all === 1 ? '' : 'S') + '</button>';
+        })()
       + '<button data-selclear="1">CLEAR</button>';
   }
 
@@ -123167,6 +123239,7 @@ function mountL0(host){
     if (ev.target.closest('[data-skip]')){ S.l0entry = false; repaint(); return; }
     const c = ev.target.closest('[data-close]');
     if (c) return CMD.collapse(c.getAttribute('data-close'));
+    if (ev.target.closest('[data-toprog]')) return CMD.showInProgramMap();
     if (ev.target.closest('[data-clearpath]')) return CMD.clearPath();
     if (ev.target.closest('[data-entry]')) return CMD.showEntry();
     if (ev.target.closest('[data-clear]')) return CMD.clearExpansions();
@@ -123203,6 +123276,11 @@ function mountL0(host){
       if (k === 'flags'){ stopLoop(); animT = 0; startLoop(); }
       renderChrome(); repaint(); return;
     }
+    /* The forward trip. REVERSIBLE: the selection survives it, so
+       program -> network -> program lands the reader where they left. If it did
+       not, the bridge would be a trapdoor. */
+    const tn = ev.target.closest('[data-tonet]');
+    if (tn){ CMD.showAllConnections(); return; }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
     const r = ev.target.closest('[data-node]');
@@ -123230,8 +123308,43 @@ function mountL0(host){
      below 0.62 and labelled above it. Which is what was wanted all along, and what
      Stewart asked for: "nobody ever gets to see the map in its normal form and
      it's central to it, as it shows how robust our connections are." */
-  centreOn(fk);
-  zoom = 'fit';
+  /* CHANGE 4, Claude Design 30 August 2026: THE MAP NOW HAS TWO ARRIVALS.
+     Cold, from the rail: fit to whole, unchanged. Warm, carrying a selection that
+     is on this map: open at the label threshold, centred on the selected chip.
+
+     WHY NOT FIT ON A WARM ARRIVAL, and the numbers are worse than the argument.
+     A selection opens the dossier, the dossier takes width, and the fit collapses
+     with it. Measured 30 August (notes/FIT-SCALE-2026-08-30.md), fit WITH the dock
+     open is 0.19x at 1366, 0.29x at 1600 and 0.45x at 1920 -- below L0_LABEL_DROP
+     on three of four common windows. A reader who clicked a person's name and
+     asked for structure would arrive at 110 unlabelled rectangles, which is a
+     worse failure than anything the rest state can produce.
+
+     AND NOT PAST IT EITHER. focus() forcing view.k >= 1.15 was already diagnosed
+     as wrong in CLAUDE.md section 9 as UX defect C, back when this map was the rest
+     state. Someone arriving from a 964-node graph asking for structure should not
+     land inside the map.
+
+     BOUND TO THE CONSTANT, NOT A LITERAL. Aimed at L0_LABEL_DROP so that moving the
+     threshold moves the arrival with it. CLAUDE.md names the alternative failure:
+     five canvas checks drove `v.k = 0.45` to reach dense mode and would have passed
+     while testing nothing once the constant moved. */
+  const warmId = (typeof S !== 'undefined' && S.sel && byId[S.sel]) ? S.sel : null;
+  if (warmId){
+    const n = byId[warmId];
+    view.k = L0_LABEL_DROP;
+    /* the chip's own box, which every node carries, rather than PK.geo -- the
+       merged model does not always carry geo and a missing chipW would centre
+       on the chip's left edge instead of the chip. */
+    view.ox = W/2 - (n.x + (n.w||0)/2) * view.k;
+    view.oy = H/2 - (n.y + (n.h||0)/2) * view.k;
+    clampView();
+    zoom = null;              /* neither FIT nor FIT ALL describes where this is */
+    camMode = 'held';         /* the reader asked to be here; do not re-fit under them */
+  } else {
+    centreOn(fk);
+    zoom = 'fit';
+  }
   repaint();
   startLoop();
   /* One path for every change to the box, and while AUTO it RE-FITS rather than
@@ -123878,6 +123991,25 @@ const CMD = {
     paint({ map:'l0', full:true });
   },
   showEntry(){ S.l0entry = true; S.view = 'PROGRAM'; paint({ full:true }); },
+  /* CHANGE 5. The two bridges are commands as well as controls, because every
+     control on this board has to be reachable from the chat line -- that is the
+     "drive the whole app from the chat input" requirement, and a control with no
+     CMD entry breaks it. */
+  showAllConnections(){
+    if (!S.sel) return warn('showAllConnections() — nothing is selected');
+    S.view = 'NETWORK';
+    S.frame = [S.sel];
+    paint({ map:'frame', full:true });
+  },
+  showInProgramMap(){
+    if (!S.sel) return warn('showInProgramMap() — nothing is selected');
+    if (!(L0DATA.l0||[]).some(x => x.id === S.sel))
+      return warn('showInProgramMap() — "'+S.sel+'" is not one of the '
+                + (L0DATA.l0||[]).length + ' nodes on the program map');
+    S.frame = null;
+    S.view = 'PROGRAM';
+    paint({ full:true });
+  },
   showPathOnly(){ S.l0panel = 'path'; S.view = 'PROGRAM'; paint({ full:true }); },
   showUnattached(){ S.l0panel = 'un'; S.view = 'PROGRAM'; paint({ full:true }); },
 
@@ -124690,6 +124822,8 @@ function mountNetwork(host){
     }
 
     const order = [...nodes].sort((a,b)=>(a.cls==='person'?1:0)-(b.cls==='person'?1:0));
+    const cand = [];
+    const marks = [];
     for (const n of order){
       if (n.alpha < 0.02) continue;
       let st = 'default';
@@ -124697,10 +124831,17 @@ function mountNetwork(host){
       if (hover && hover.id === n.id && st !== 'selected') st = 'hover';
       ctx.save();
       ctx.globalAlpha = n.alpha;
-      drawNode(ctx, n, { scale:cam.k, state:st });
+      /* CHANGE 6: a plate is a fixed SCREEN size, like every label. At
+         k=3.3 the world-space plate drew 330x132 over 9px names. */
+      if (st === 'selected' || st === 'hover'){
+        ctx.translate(n.x, n.y); ctx.scale(1/cam.k, 1/cam.k); ctx.translate(-n.x, -n.y);
+      }
+      drawNode(ctx, n, { scale:cam.k, state:st, labels:cand, marks });
       ctx.restore();
     }
     ctx.restore();
+    drawLabelPass(ctx, cand, W, H);
+    lastMarks = marks;
 
     frames++;
     const now = performance.now();
@@ -124709,6 +124850,234 @@ function mountNetwork(host){
     }
   }
 
+
+  /* ---- CHANGE 2 + 3: the screen-space label pass -------------------------
+     Design's response of 30 August 2026. Labels are chosen by the space that
+     exists, never by rank, and they are one size at every scale.
+
+     POINTER PROXIMITY (change 3) rides on the same pass, because it is the same
+     decision made with a different origin. Within POINTER_R of the cursor a label
+     raises in priority AND draws regardless of the budget, which is what makes a
+     deliberately sparse centre navigable rather than empty.
+
+     WHAT DOES NOT HAPPEN HERE, all of it hard: nothing changes position, no edge
+     animates, no node changes size. Static geometry, live typography. At rest with
+     the pointer off-canvas this pass is a pure function of the camera, so two
+     successive frames are identical and the map is still. */
+  const LABEL_FONT = '400 9px "IBM Plex Mono", monospace';
+  const LABEL_FONT_ON = '600 9px "IBM Plex Mono", monospace';
+  const LABEL_PAD = 3;        /* half-gutter around a box, so labels do not touch */
+  const LABEL_BUDGET = 220;   /* frame budget; the cap is drawn labels, not candidates */
+  const POINTER_R = 190;      /* change 3: the proximity radius, in screen px */
+  const LABEL_MAX = 37;       /* the packed map's own ceiling, borrowed deliberately */
+  let lastBoxes = [];
+  let lastMarks = [];
+  let LABEL_HL = null;
+  let SRC_SEL, SRC_SET = new Set();
+
+  /* The ids joined to `id` by a hand-written PROGRAM_EDGES entry -- the
+     board's own sourced edges, as opposed to the derived pairs the map also
+     draws. Recomputed only when the selection changes. */
+  function sourcedNeighbours(id){
+    if (SRC_SEL === id) return SRC_SET;
+    SRC_SEL = id; SRC_SET = new Set();
+    if (!id || typeof PROGRAM_EDGES === 'undefined') return SRC_SET;
+    for (const e of PROGRAM_EDGES){
+      if (e.a === id && e.b) SRC_SET.add(e.b);
+      else if (e.b === id && e.a) SRC_SET.add(e.a);
+    }
+    return SRC_SET;
+  }
+  let ptr = null;             /* screen-space pointer, or null when off-canvas */
+
+  /* MIDDLE truncation, so the distinguishing tail survives. The packed map settled
+     this: `NATIONAL ARCHIVES UNIDE...` discards the part that tells you which
+     archive. The rule is borrowed rather than the code, because l0Fit lives in
+     another module's closure and a second copy of a renderer's own truncation is
+     the thing this repo has been bitten by. */
+  function labelFit(t){
+    t = String(t || '');
+    /* A TRAILING PARENTHETICAL IS DISAMBIGUATION, NOT A NAME, and it is the first
+       thing to go. `ttsa` ships as "To The Stars Academy of Arts & Science Inc.
+       (later To The Stars Inc.)" -- 69 characters, of which 26 are a rename note.
+       Middle-truncating that whole string produced "TO THE STARS…STARS INC.)",
+       which is not a label, it is two halves of the same three words. Dropping
+       the parenthetical first leaves a name that survives truncation. The
+       parenthetical is still in the dossier, which is where it belongs. */
+    const cut = t.replace(/\s*\([^()]*\)\s*$/, '');
+    if (cut.length >= 8) t = cut;
+    if (t.length <= LABEL_MAX) return t;
+    const keep = LABEL_MAX - 1, head = Math.ceil(keep / 2), tail = keep - head;
+    return t.slice(0, head) + '…' + t.slice(t.length - tail);
+  }
+
+  function drawLabelPass(ctx, cand, W, H){
+    lastBoxes = [];
+    if (!cand.length) return;
+    /* THE ORIGIN OF THE OUTWARD WALK. Design's algorithm walks candidates outward
+       from the pointer, or the viewport centre when the pointer is off-canvas.
+       A selection is a third origin and it outranks the centre: the reader has
+       said which node they care about, so the labels that matter are the ones
+       nearest THAT node, not the ones nearest the middle of the window.
+
+       Without this the neighbours were ordered by their distance from the viewport
+       centre, so on tom-delonge the wide `ttsa` label -- 69 characters, the widest
+       in that cluster -- lost its box to two shorter neighbours that happened to
+       sit closer to the middle of the screen. TTSA is the organisation DeLonge
+       founded and the first line of his dossier; losing it to a coin-flip on
+       viewport geometry is the defect wearing a smaller hat.
+
+       The origin is read from S.sel and the node list, NOT from the candidates.
+       A selected person draws as a full plate and returns before the label push,
+       so it is never a candidate -- taking the origin from `cand.find(c => c.sel)`
+       found nothing and fell back to the viewport centre without saying so, which
+       is a silent no-op of exactly the kind this repo keeps paying for. */
+    let sel0 = null;
+    if (typeof S !== 'undefined' && S.sel)
+      sel0 = (nodes || []).find(n => n.id === S.sel) || null;
+    const cx = ptr ? ptr.x : (sel0 ? cam.x + sel0.x * cam.k : W / 2);
+    const cy = ptr ? ptr.y : (sel0 ? cam.y + sel0.y * cam.k : H / 2);
+
+    /* Screen position, and the highlight flag. HIGHLIGHTS FIRST is the one
+       exception Design allows, and it is editorial rather than structural: these
+       fourteen are Stewart's signed-off START HERE flags. Degree is never read. */
+    /* SOURCED vs DERIVED, Stewart's call of 30 August 2026.
+       The map draws more links than the board has edges: 3,919 pairs against
+       2,172 hand-written ones, because it also draws shared employer, shared
+       location and shared domain. Before neighbours were labelled at all, the
+       difference was invisible. Now it is not: selecting tom-delonge names ten
+       nodes while the dossier says "2 connections", and both numbers are right.
+       He has exactly two SOURCED edges -- ttsa (institutional, T1) and
+       luis-elizondo (behavioral, T2) -- and eight derived ones.
+       So the map says it out loud: a neighbour joined by a hand-written,
+       sourced edge draws at full strength, a derived one draws muted. That is
+       the vocabulary the map already uses for ordinary labels, so it costs no
+       new visual language. Cached per selection because PROGRAM_EDGES is 2,172
+       long and this runs every frame. */
+    const SRC = sourcedNeighbours(
+      (typeof S !== 'undefined' && S.sel) ? S.sel : null);
+    const HL = LABEL_HL || (LABEL_HL = new Set(
+      (((typeof L0DATA !== 'undefined' && L0DATA.highlights) || {}).flags || [])
+        .map(f => f.id)));
+    /* PAGE POISON, the _LAYOUT_OVERRIDE pattern. tools/runtime_check.js sets this
+       to make the pass forget which nodes are adjacent to the selection -- the
+       exact state the board shipped in until 30 August. It corrupts the real
+       renderer on a real frame, not the probe that reads it, so the neighbour
+       check has to collapse when it is set or that check is not looking at
+       anything. */
+    const NOCON = typeof window !== 'undefined' && !!window.__LABEL_NO_CON;
+    for (const c of cand){
+      if (NOCON) c.con = false;
+      c.sx = cam.x + c.n.x * cam.k;
+      /* the mark scales with the camera and the label does not, so the offset
+         that clears it is the mark's SCREEN radius plus a fixed gap. */
+      c.sy = cam.y + c.n.y * cam.k + (c.rw || 0) * cam.k + 5;
+      c.hl = HL.has(c.n.id);
+      c.src = !!c.con && SRC.has(c.n.id);
+      c.d2 = (c.sx - cx) * (c.sx - cx) + (c.sy - cy) * (c.sy - cy);
+      c.near = c.d2 <= POINTER_R * POINTER_R;
+    }
+    /* THE SELECTION'S NEIGHBOURS ARE THE POINT OF SELECTING. Reported from the
+       live board on 30 August 2026: clicking Tom DeLonge lit his edges and named
+       none of the nodes at the far end of them. "This defeats the purpose", and it
+       did.
+
+       Two causes, both here. `drawNode` computes state === 'connected' and then
+       dropped it -- the push carried sel, hov and dim, so by the time the pass ran
+       a neighbour was indistinguishable from any of the other 900 nodes and was
+       ordered purely on its distance from the screen centre. And the dimmed
+       remainder competed for the same budget and the same collision boxes while
+       being drawn at 0.16 alpha in PALETTE.faint, which is to say illegibly: a
+       label nobody can read was suppressing one they had just asked for.
+
+       So `con` now rides on the candidate, ranks directly behind the selection
+       itself, and draws regardless of the budget. And while a selection is
+       active a dimmed node is not a candidate at all.
+
+       THIS IS NOT SELECTION BY RANK and does not reopen what Design ruled out.
+       Degree is a global property -- it names the same nodes for every reader, on
+       every frame, which is why it may not decide who gets a name. Adjacency to
+       the selection is the reader's own action, scoped to the node they clicked,
+       and it is the same category as `sel` and `hov`, which have always jumped the
+       queue. With nothing selected `active` is null, no node is connected or
+       dimmed, and this ordering is byte-for-byte the one that shipped -- which is
+       what keeps the two rest-state checks meaning what they meant. */
+    cand.sort((a, b) =>
+      (b.hl - a.hl) || ((b.sel || b.hov) - (a.sel || a.hov))
+      || ((b.src | 0) - (a.src | 0)) || ((b.con | 0) - (a.con | 0))
+      || (a.d2 - b.d2));
+
+    ctx.save();
+    ctx.textAlign = 'center'; ctx.textBaseline = 'top';
+    let drawn = 0;
+    /* A selection is live iff something in this frame is dimmed. Read off the
+       candidates rather than off S.sel, so the pass stays a pure function of what
+       the node loop actually drew. */
+    const picking = !NOCON && cand.some(c => c.dim);
+    for (const c of cand){
+      /* An illegible label is not worth a collision box. */
+      if (picking && c.dim) continue;
+      if (drawn >= LABEL_BUDGET && !c.near && !c.sel && !c.hov && !c.con) continue;
+      const text = labelFit(c.text);
+      ctx.font = (c.sel || c.hov || c.near || c.src) ? LABEL_FONT_ON : LABEL_FONT;
+      const w = ctx.measureText(text).width, h = 11;
+      const rw = (c.rw || 0) * cam.k;
+      /* MORE THAN ONE PLACE TO PUT IT, for the selection's neighbours only.
+         Still choosing by space and never by rank, and still one size -- this
+         offers a label a second and third slot before giving up on it, rather
+         than making it smaller. It is scoped to `con` because that is where a
+         reader has explicitly asked for coverage; extending it to the whole map
+         would densify the rest state, which Design deliberately kept sparse.
+
+         Below first, so the common case is unchanged and the map still reads as
+         "name under mark". `ttsa` and `steve-justice` sit at the SAME screen
+         point on tom-delonge -- the force layout put them there -- so with one
+         slot each only one of them could ever be named. */
+      const up = -(rw + 5) - h - LABEL_PAD * 2, dn = rw + 5;
+      const side = w / 2 + rw + 6;
+      const slots = c.con
+        ? [[0, dn], [0, up], [side, -h / 2], [-side, -h / 2],
+           [side, dn], [-side, dn], [side, up], [-side, up]]
+        : [[0, dn]];
+      const baseY = cam.y + c.n.y * cam.k;
+      let box = null, off = null;
+      for (const sl of slots){
+        const bx = c.sx + sl[0] - w / 2 - LABEL_PAD, by = baseY + sl[1] - LABEL_PAD;
+        const cand2 = { x: bx, y: by, w: w + LABEL_PAD * 2, h: h + LABEL_PAD * 2, id: c.n.id };
+        if (cand2.x + cand2.w < 0 || cand2.x > W || cand2.y + cand2.h < 0 || cand2.y > H) continue;
+        /* SKIP, do not shrink and do not truncate to fit. A label that has to be
+           made smaller to survive is a label the map does not have room for, and
+           shrinking it would make size mean something again. */
+        let hit = false;
+        for (const b of lastBoxes){
+          if (cand2.x < b.x + b.w && cand2.x + cand2.w > b.x &&
+              cand2.y < b.y + b.h && cand2.y + cand2.h > b.y){ hit = true; break; }
+        }
+        if (!hit){ box = cand2; off = sl; break; }
+        if (!box){ box = cand2; off = sl; }   /* remember the first, for sel/hov */
+      }
+      if (!box) continue;
+      let hit = false;
+      for (const b of lastBoxes){
+        if (box.x < b.x + b.w && box.x + box.w > b.x &&
+            box.y < b.y + b.h && box.y + box.h > b.y){ hit = true; break; }
+      }
+      if (hit && !c.sel && !c.hov) continue;
+      c.sx = c.sx + off[0];
+      c.sy = baseY + off[1];
+      ctx.globalAlpha = c.dim ? 0.16
+                    : (c.near || c.sel || c.hov || c.src) ? 1
+                    : c.con ? 0.78 : 0.72;
+      ctx.fillStyle = c.dim ? PALETTE.faint
+                    : (c.sel || c.hov) ? PALETTE.text
+                    : (c.near || c.src) ? PALETTE.text : PALETTE.dim;
+      ctx.fillText(text, c.sx, c.sy);
+      lastBoxes.push(box);
+      drawn++;
+    }
+    ctx.restore();
+    ctx.globalAlpha = 1;
+  }
   function loop(){ if (dead) return; try{ draw(); }catch(e){ /* keep the loop alive */ } raf = requestAnimationFrame(loop); }
 
   /* --- pan and zoom ------------------------------------------------------
@@ -124719,10 +125088,29 @@ function mountNetwork(host){
   const tip = document.getElementById('tip');
   let drag = null, dragged = false;
 
+  let spaceHeld = false;
+  const onKeyDown = (e) => {
+    if (e.code !== 'Space' && e.key !== ' ') return;
+    const t = e.target;
+    /* never steal the spacebar from something being typed into */
+    if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+    if (!spaceHeld){ spaceHeld = true; c2d.style.cursor = 'grab'; }
+    e.preventDefault();   /* the page must not scroll */
+  };
+  const onKeyUp = (e) => {
+    if (e.code !== 'Space' && e.key !== ' ') return;
+    spaceHeld = false; if (!drag) c2d.style.cursor = 'default';
+  };
+  const onBlur = () => { spaceHeld = false; if (!drag) c2d.style.cursor = 'default'; };
+  window.addEventListener('keydown', onKeyDown);
+  window.addEventListener('keyup', onKeyUp);
+  window.addEventListener('blur', onBlur);
+
   const onDown = (e) => {
     if (e.button !== 0) return;
     const r = c2d.getBoundingClientRect();
-    if (hitTest(e.clientX-r.left, e.clientY-r.top)) return;   // node clicks are not drags
+    /* CHANGE 7: space forces a pan even when the press lands on a node. */
+    if (!spaceHeld && hitTest(e.clientX-r.left, e.clientY-r.top)) return;
     drag = { x:e.clientX, y:e.clientY, camX:camTo.x, camY:camTo.y };
     dragged = false;
     c2d.style.cursor = 'grabbing';
@@ -124747,6 +125135,7 @@ function mountNetwork(host){
       return;
     }
     const mx = e.clientX-r.left, my = e.clientY-r.top;
+    ptr = { x: mx, y: my };   /* change 3: live typography, static geometry */
     const h = hitTest(mx,my);
     if (h !== hover){ hover = h; }
     if (h){
@@ -124776,7 +125165,8 @@ function mountNetwork(host){
     tip.classList.remove('on');
   };
 
-  const onLeave = () => { hover = null; tip.classList.remove('on'); if (drag) onUp(); };
+  const onLeave = () => { hover = null; ptr = null;   /* a real rest state */
+    tip.classList.remove('on'); if (drag) onUp(); };
   const onClick = (e) => {
     if (dragged) return;                // that was a pan, not a click
     const r = c2d.getBoundingClientRect();
@@ -124817,6 +125207,23 @@ function mountNetwork(host){
   return {
     get pairs(){ return pairs; },
     get nodes(){ return nodes; },
+    /* The label boxes drawn on the last frame, and the pointer that ordered
+       them. Read by tools/runtime_check.js. */
+    labelBoxes(){ return lastBoxes.map(b => ({ ...b })); },
+    /* The SCREEN radius each mark was drawn at on the last frame. The
+       ink-sampling version of this check could not be made to fail: at
+       any zoom where the floor matters the field is dense enough that a
+       box around one node catches a neighbour's ink. This is the
+       renderer's own result, like labelBoxes, and the poison moves it. */
+    markRadii(){ return lastMarks.map(m => ({ ...m })); },
+    labelPointer(){ return ptr ? { ...ptr } : null; },
+    /* The camera, so a check can ask whether a node is on screen without
+       re-deriving the transform. A check that recomputes the camera passes
+       when the renderer's camera drifts away from it. */
+    cam(){ return { x: cam.x, y: cam.y, k: cam.k }; },
+    setLabelPointer(p){ ptr = p ? { x:p.x, y:p.y } : null; },
+    /* change 7: whether space is held, for tools/runtime_check.js. */
+    spacePan(){ return spaceHeld; },
     get links(){ return sim.links; },
     /* Zoom and pan so exactly these nodes fill the canvas. The layout is not
        disturbed: moving the nodes to fake a reframe would destroy the spatial
@@ -125143,7 +125550,21 @@ function renderNetworkChrome(){
     +   '<button class="hopb" data-zoom="in" title="Zoom in">+</button>'
     +   '<button class="hopb" data-zoom="out" title="Zoom out">&minus;</button>'
     +   '<button class="hopb" data-zoom="reset" title="Reset view. Double click the map does the same">reset</button>'
-    + '</div>';
+    + '</div>'
+    + (function(){
+        /* CHANGE 5, REVERSE BRIDGE. Absent on the 854, by design. */
+        if (!S.sel) return '';
+        const L = ((typeof L0DATA !== 'undefined' && L0DATA.l0) || [])
+          .find(x => x.id === S.sel);
+        if (!L) return '';
+        const era = ((typeof L0DATA !== 'undefined' && L0DATA.packed
+          && L0DATA.packed.eras) || []).find(e => e.id === L.col);
+        const where = [String(L.band || '').toUpperCase(),
+                       (era && era.label) || L.col || ''].filter(Boolean).join(' \u00b7 ');
+        return '<div class="toprog"><button class="hopb" data-toprog="1" '
+          + 'title="Open the program map on this node, at its band and era.">'
+          + 'PLACE \u00b7 ' + esc(where) + '</button></div>';
+      })();
   if (cur && S.insightOpen){
     h += '<div class="callout"><div class="callout-h"><span class="eyebrow">'+esc(cur.eyebrow)+'</span>'
       + '<span class="spacer"></span><span class="callout-x" data-dismiss="1">&times;</span></div>'
@@ -125854,11 +126275,29 @@ document.addEventListener('click', ev => {
     document.getElementById('app').classList.toggle('dock-off', S.dockOff);
     renderDock(); return;
   }
-  /* The open state's way back to the spine. Its twin is the spine
-     itself, which is one big click target -- see the #dock.dock-spine
-     handler in the map module. */
+  /* The open state's way back to the spine, and the spine's way back to
+     the panel. BOTH live here, at the app level.
+
+     The reopen used to be registered inside the packed map's mount, and
+     that module only mounts on the PROGRAM tab. So on the NETWORK map --
+     the primary view, the first thing a reader sees -- folding the
+     dossier was a one-way door: the spine printed CLICK TO OPEN and
+     clicking it did nothing, with no error, until the page was reloaded.
+     Reported from the live board on 30 August 2026.
+
+     RECORD THE INTENT, do not just change the class: renderDock re-applies
+     the fold from S.dockSpine on its next run, so a handler that only
+     stripped the class would have the panel snap shut again the moment
+     anything re-rendered the dock. */
   if (ev.target.closest('[data-dockfold]')){
     S.dockSpine = true; renderDock(); return;
+  }
+  if (ev.target.closest('#dock.dock-spine')){
+    S.dockSpine = false;
+    const dk = document.getElementById('dock');
+    if (dk){ dk.classList.remove('dock-spine'); dk.style.width = ''; }
+    document.documentElement.style.removeProperty('--dock-w');
+    renderDock(); return;
   }
   if (ev.target.closest('[data-dockw]')){
     S.dockCollapsed = !S.dockCollapsed;
@@ -127130,7 +127569,8 @@ readUrl();
 
 preloadPhotos(() => { if (MAP) { /* plates pick the image up on the next frame */ } });
 paint({ full:true });
-window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit, NODES, PEOPLE, EDGES, PROGRAM_EDGES, TIMELINE,
+window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit,
+                   L0_LABEL_DROP, NODES, PEOPLE, EDGES, PROGRAM_EDGES, TIMELINE,
                    VIEWS, INSIGHTS, get MAP(){ return MAP; },
                    get PLATE_DEGREE(){ return PLATE_DEGREE; },
                    setPlateDegree(n){ PLATE_DEGREE = n; for (const x of NODES)

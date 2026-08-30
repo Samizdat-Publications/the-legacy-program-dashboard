@@ -1,0 +1,1985 @@
+{
+ "counts": {
+  "NODE": 71,
+  "PROSE": 45,
+  "ABSENT": 84
+ },
+ "results": [
+  {
+   "candidate": "1127th USAF Field Activities Group",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "412th Test Wing",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Agenzia Stefani",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Alan Cranston",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Allen Dulles",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Army Foreign Technology Division",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Arthur G. Trudeau",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "arthur",
+     "id": "wilbert-smith",
+     "field": "claim",
+     "context": "...her papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur..."
+    },
+    {
+     "token": "trudeau",
+     "id": "shootdowns-feb-2023",
+     "field": "desc",
+     "context": "...rette, Clerk of the Privy Council, to Prime Minister Justin Trudeau and National Security Advisor Jody Thomas records that 'The..."
+    }
+   ]
+  },
+  {
+   "candidate": "Arthur Stancil",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "arthur",
+     "id": "wilbert-smith",
+     "field": "claim",
+     "context": "...her papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur..."
+    }
+   ]
+  },
+  {
+   "candidate": "BDM International",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Bell Telephone Laboratories",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "telephone",
+     "id": "gerald-anderson",
+     "field": "narrative",
+     "context": "...n Controversy', which established among other things that a telephone bill Anderson submitted as corroboration had been altered...."
+    },
+    {
+     "token": "bell",
+     "id": "james-lacatski",
+     "field": "narrative",
+     "context": "...wn origin, and in an April 2026 conversation with Jeremy Corbell he said AAWSAP 'created the world's largest UFO data wareho..."
+    }
+   ]
+  },
+  {
+   "candidate": "Bernard Haisch",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Bill McDonald",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Bill Uhouse",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Boyd Bushman",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Brad Sorensen",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Bradley R. Townsend",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Carlyle Group",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "CIA Office of Weapons Intelligence",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Defense Support Program",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Detlev Bronk",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Don Phillips",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Donald Hornig",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Donald Menzel",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "DuPont",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Ed Doll",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Elroy John Center",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Eric A. Walker",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Eric Wang",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "wang",
+     "id": "dana-keoki-jackson",
+     "field": "narrative",
+     "context": "...ecurity is organised into an Intelligence Center (VP Austin Wang) and a Center for Securing the Homeland (VP Yosry Barsoum),..."
+    }
+   ]
+  },
+  {
+   "candidate": "Frank Carlucci",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Gabinetto RS/33",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "George E. Brown Jr.",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "George Trimble",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Glenn L. Martin Company",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Glenn Seaborg",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Intelligence Support Activity",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "J. Robert Oppenheimer",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "James Forrestal",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "forrestal",
+     "id": "william-l-moore",
+     "field": "narrative",
+     "context": "...containing the Eisenhower Briefing Document and the Truman-Forrestal memorandum - the origin of the entire MJ-12 corpus that Fri..."
+    }
+   ]
+  },
+  {
+   "candidate": "James Goodall",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "John Samford",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "John von Neumann",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Joint Intelligence Objectives Agency",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "objectives",
+     "id": "uapda-2023",
+     "field": "claim",
+     "context": "...ty of said material and in a timely manner conducive to the objectives of the Review Board in accordance with the requirements of..."
+    }
+   ]
+  },
+  {
+   "candidate": "Leslie Groves",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Link Aviation",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Lockheed Georgia Nuclear Aircraft Laboratory",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "georgia",
+     "id": "sean-kirkpatrick",
+     "field": "narrative",
+     "context": "...r and materials physicist (BS 1991, PhD 1995, University of Georgia), he came to AARO through the exact channels that would mat..."
+    }
+   ]
+  },
+  {
+   "candidate": "Louis Witten",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Lyndon B. Johnson",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Marc D'Antonio",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "antonio",
+     "id": "jacques-vallee",
+     "field": "narrative",
+     "context": "...ents, the 1977 Council Bluffs molten mass, and the 1945 San Antonio, New Mexico 'Trinity' case material he wrote up with Paola..."
+    }
+   ]
+  },
+  {
+   "candidate": "Mark McCandlish",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "mccandlish",
+     "id": "entityInfo.gerb-mitre-investigation",
+     "field": "desc",
+     "context": "...Gallaudet, Greer, Kecksburg, NASA, Edwards, USAF, Elizondo, McCandlish, Immaculate Constellation, Edgar Fouche, TR-3B, ARV, Dugway..."
+    }
+   ]
+  },
+  {
+   "candidate": "Michael Schratt",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Miguel Alcubierre",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "alcubierre",
+     "id": "richard-obousy",
+     "field": "narrative",
+     "context": "...ce, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy's own published work on dark energy a..."
+    }
+   ]
+  },
+  {
+   "candidate": "MIT Institute for Soldier Nanotechnologies",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "soldier",
+     "id": "off-world-technologies-division",
+     "field": "desc",
+     "context": "...uctor employed by a private contractor took him and another soldier deep underground to this division. The division is said to..."
+    }
+   ]
+  },
+  {
+   "candidate": "Moray B. King",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "king",
+     "id": "harry-reid",
+     "field": "narrative",
+     "context": "...A.' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 200..."
+    }
+   ]
+  },
+  {
+   "candidate": "Noe Torres",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Nonlinear Solutions",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "solutions",
+     "id": "aaro-fy2025-annual-report",
+     "field": "desc",
+     "context": "...usly reported cases resolved in-period for a total of 370 resolutions, all attributed to prosaic causes; nine reports were identi..."
+    }
+   ]
+  },
+  {
+   "candidate": "Office of Special Studies",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Office of the Chief of Army Research and Development",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Oke Shannon",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Operation Upshot-Knothole",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Operations Coordinating Board",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "OVRA",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Penn State Applied Research Laboratory",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "penn",
+     "id": "jim-penniston",
+     "field": "narrative",
+     "context": "...Penniston was the senior security police NCO who went outside th..."
+    }
+   ]
+  },
+  {
+   "candidate": "Project Horizon",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Project Nike",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Project Outgrowth",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Project Winterhaven",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Research and Development Board",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Research Institute for Advanced Studies",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Robert I. Sarbacher",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "sarbacher",
+     "id": "wilbert-smith",
+     "field": "narrative",
+     "context": "...ngton he made enquiries of the American scientist Dr Robert Sarbacher and came away with four assertions which he set down in a m..."
+    }
+   ]
+  },
+  {
+   "candidate": "Ron Blackburn",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Roscoe Hillenkoetter",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "hillenkoetter",
+     "id": "stanton-friedman",
+     "field": "narrative",
+     "context": "...e provably faked, showing that a purported 17 February 1948 Hillenkoetter-to-Truman memo was an emulation of a Marshall-to-Roosevelt..."
+    }
+   ]
+  },
+  {
+   "candidate": "SIAI-Marchetti",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Southwest Center for Advanced Studies",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "southwest",
+     "id": "jon-kosloski",
+     "field": "claim",
+     "context": "...es faster than any drone,' and a stationary cylinder near a southwestern US facility that disappeared...."
+    }
+   ]
+  },
+  {
+   "candidate": "Sperry Rand",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Stephen Lovekin",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Strategic Defense Initiative",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Teledyne Ryan",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Texas Instruments",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Thomas J. DuBose",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "dubose",
+     "id": "roger-ramey",
+     "field": "narrative",
+     "context": "...weather balloon and radar target material with Col. Thomas DuBose and weather officer Irving Newton, and killed the story nat..."
+    }
+   ]
+  },
+  {
+   "candidate": "Thomas Townsend Brown",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "TRW",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "United States Space Command",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Walter Bedell Smith",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "bedell",
+     "id": "entityInfo.aaro-historical-record-vol1",
+     "field": "desc",
+     "context": "...obal Hawk. It names Twining, Ruppelt, Vandenberg, Chadwell, Bedell Smith, Robertson, Durant, Cabell, Hynek, Seamans, Condon, C..."
+    }
+   ]
+  },
+  {
+   "candidate": "Western Electric",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Willard Miller",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "miller",
+     "id": "age-of-disclosure-2025",
+     "field": "desc",
+     "context": "...officials including Marco Rubio, James Clapper, Christopher Miller, Christopher Mellon and Tim Gallaudet, and members of Congr..."
+    }
+   ]
+  },
+  {
+   "candidate": "AATIP",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "harry-reid",
+     "field": "claim",
+     "context": "...Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and enginee..."
+    },
+    {
+     "id": "james-lacatski",
+     "field": "source",
+     "context": "...DIA FOIA Electronic Reading Room \u2014 AAWSAP/AATIP collection..."
+    },
+    {
+     "id": "james-lacatski",
+     "field": "source",
+     "context": "...Archived: DIA FOIA Electronic Reading Room \u2014 AAWSAP/AATIP collection (Wayback 2026-06-11)..."
+    }
+   ]
+  },
+  {
+   "candidate": "AAWSAP",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "harry-reid",
+     "field": "narrative",
+     "context": "...ect roughly $22 million into the defense black budget for what became AAWSAP at DIA \u2014 AARO's own 2024 report states flatly that 'at the direction..."
+    },
+    {
+     "id": "harry-reid",
+     "field": "chronology",
+     "context": "...DIA prepares talking paper for a Reid visit on AAWSAP contract status..."
+    },
+    {
+     "id": "james-lacatski",
+     "field": "narrative",
+     "context": "...solicitation HHM402-08-R-0211, which is the only place in the entire AAWSAP paper trail where the program manager is not redacted \u2014 DIA scrubbed..."
+    }
+   ]
+  },
+  {
+   "candidate": "Aerojet",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stanton-friedman",
+     "field": "narrative",
+     "context": "...ears on classified nuclear propulsion programmes at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW and McDonnell D..."
+    },
+    {
+     "id": "stanton-friedman",
+     "field": "claim",
+     "context": "...Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McD..."
+    },
+    {
+     "id": "dird-aneutronic-fusion-propulsion-2",
+     "field": "claim",
+     "context": "...c document. It sits immediately adjacent to endnote 16, a citation of AeroJet/Lockheed Martin Space Systems Company Hall thruster hardware that is..."
+    }
+   ]
+  },
+  {
+   "candidate": "Air Materiel Command",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "nathan-twining",
+     "field": "narrative",
+     "context": "...Lieutenant General Nathan Farragut Twining commanded Air Materiel Command at Wright Field when the 1947 disc wave broke, which placed him at th..."
+    },
+    {
+     "id": "nathan-twining",
+     "field": "sub",
+     "context": "...Cmdr, Air Materiel Command; later CJCS..."
+    },
+    {
+     "id": "nathan-twining",
+     "field": "chronology",
+     "context": "...Assumes command of Air Materiel Command at Wright Field, the USAAF foreign-materiel exploitation centre..."
+    }
+   ]
+  },
+  {
+   "candidate": "Albert Stubblebine",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stargate-program",
+     "field": "desc",
+     "context": "...AK in late 1985, and was consolidated as STAR GATE in 1991. Maj. Gen. Albert Stubblebine sponsored the Fort Meade effort; Lt. Frederick 'Skip' Atwater oversaw..."
+    }
+   ]
+  },
+  {
+   "candidate": "Army Ballistic Missile Agency",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-huntsville",
+     "field": "desc",
+     "context": "...von Braun and the Operation Paperclip rocket team in 1950, became the Army Ballistic Missile Agency and then NASA's Marshall Space Flight Center, and today hosts the Mis..."
+    }
+   ]
+  },
+  {
+   "candidate": "AT&T",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "gerb-sandia-investigation",
+     "field": "desc",
+     "context": "...s Sandia; and the significance of Sandia's management passing between AT&T, Lockheed Martin and Honeywell. The investigation is the direct evide..."
+    },
+    {
+     "id": "gerb-sandia-investigation",
+     "field": "claim",
+     "context": "...t of Energy, was founded in 1949 and has management history involving AT&T, Lockheed Martin and Honeywell...."
+    }
+   ]
+  },
+  {
+   "candidate": "Atomic Energy Commission",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "lincoln-lapaz",
+     "field": "narrative",
+     "context": "...Edward Teller, Frederick Reines, and representatives of the FBI, the Atomic Energy Commission and the military. Los Alamos National Laboratory itself confirms the..."
+    },
+    {
+     "id": "lincoln-lapaz",
+     "field": "claim",
+     "context": "...ederick Reines and Edward Teller, and representatives of the FBI, the Atomic Energy Commission and the US military; the National Security Research Center holds the..."
+    },
+    {
+     "id": "martin-heinrich",
+     "field": "narrative",
+     "context": "...Department of Energy 'and its progenitors, the Manhattan Project, the Atomic Energy Commission, and the Energy Research and Development Administration.' The Senate..."
+    }
+   ]
+  },
+  {
+   "candidate": "Barry Goldwater",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "andy-biggs--david-grusch",
+     "field": "note",
+     "context": "...he official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That..."
+    }
+   ]
+  },
+  {
+   "candidate": "CIA Office of Global Access",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "gerb-nro-investigation",
+     "field": "desc",
+     "context": "...egacy personnel and MITRE, CIA Directorate of Science and Technology, CIA Office of Global Access, the NRO and the Executive branch; and that the NRO showed egregious..."
+    }
+   ]
+  },
+  {
+   "candidate": "CIA Office of Scientific Intelligence",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "kit-green",
+     "field": "chronology",
+     "context": "...Joins CIA Office of Scientific Intelligence..."
+    },
+    {
+     "id": "h-marshall-chadwell",
+     "field": "sub",
+     "context": "...Assistant Director, CIA Office of Scientific Intelligence..."
+    },
+    {
+     "id": "h-marshall-chadwell",
+     "field": "chronology",
+     "context": "...Robertson Panel convenes under CIA Office of Scientific Intelligence auspices..."
+    }
+   ]
+  },
+  {
+   "candidate": "Curtis LeMay",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "rand-corporation",
+     "field": "claim",
+     "context": "...6) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Pro..."
+    }
+   ]
+  },
+  {
+   "candidate": "Douglas Aircraft",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-wood",
+     "field": "chronology",
+     "context": "...Joins Douglas Aircraft, later McDonnell Douglas Astronautics..."
+    },
+    {
+     "id": "rand-corporation",
+     "field": "desc",
+     "context": "...RAND is the original. It began in 1946 as Project RAND inside Douglas Aircraft under Army Air Forces contract and was incorporated as an independent..."
+    },
+    {
+     "id": "rand-corporation",
+     "field": "claim",
+     "context": "...hly ninety times government effort at the point RAND was still inside Douglas Aircraft...."
+    }
+   ]
+  },
+  {
+   "candidate": "Edgar Fouche",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "gerb-sandia-investigation",
+     "field": "desc",
+     "context": "...es to crash retrieval and material exploitation: USAF Master Sergeant Edgar Fouche's claim that Sandia and Lawrence Livermore reverse-engineered the pro..."
+    },
+    {
+     "id": "gerb-sandia-investigation",
+     "field": "claim",
+     "context": "...USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsi..."
+    },
+    {
+     "id": "entityInfo.gerb-mitre-investigation",
+     "field": "desc",
+     "context": "...NASA, Edwards, USAF, Elizondo, McCandlish, Immaculate Constellation, Edgar Fouche, TR-3B, ARV, Dugway, Navy, Weygandt, SAIC, Aztec, Sandia, NRO, Sol Fo..."
+    }
+   ]
+  },
+  {
+   "candidate": "Foreign Technology Division",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "atic",
+     "field": "desc",
+     "context": "...them to the shop that takes recovered hardware apart. ATIC became the Foreign Technology Division in 1961 and later the National Air and Space Intelligence Center, whi..."
+    },
+    {
+     "id": "afrl",
+     "field": "desc",
+     "context": "...it housed the Air Technical Intelligence Center and its successor the Foreign Technology Division, the organisations that ran Projects SIGN, GRUDGE and BLUE BOOK and t..."
+    },
+    {
+     "id": "afrl",
+     "field": "claim",
+     "context": "...nstallation that housed the Air Technical Intelligence Center and the Foreign Technology Division, which ran Projects SIGN, GRUDGE and BLUE BOOK...."
+    }
+   ]
+  },
+  {
+   "candidate": "General Electric",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stanton-friedman",
+     "field": "narrative",
+     "context": "...o spent fourteen years on classified nuclear propulsion programmes at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW and Mc..."
+    },
+    {
+     "id": "stanton-friedman",
+     "field": "claim",
+     "context": "...Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW System..."
+    },
+    {
+     "id": "stanton-friedman",
+     "field": "chronology",
+     "context": "..., University of Chicago; begins classified nuclear propulsion work at General Electric..."
+    }
+   ]
+  },
+  {
+   "candidate": "Hal Puthoff",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-bigelow",
+     "field": "narrative",
+     "context": "...people carrying federal clearances and federal programme histories - Hal Puthoff from the CIA/DIA remote-viewing programmes, Colonel John Alexander fr..."
+    },
+    {
+     "id": "claudio-maccone",
+     "field": "narrative",
+     "context": "...anced aerospace threat\". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum re..."
+    },
+    {
+     "id": "george-miley",
+     "field": "narrative",
+     "context": "...h line for decades. That matters for how the DIRD set should be read. Hal Puthoff's own account of the commissioning, given at the Society for Scientif..."
+    }
+   ]
+  },
+  {
+   "candidate": "Hermann Oberth",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "friedwardt-winterberg",
+     "field": "claim",
+     "context": "...and whose nuclear rocket propulsion work was recognised with the 1979 Hermann Oberth Gold Medal...."
+    }
+   ]
+  },
+  {
+   "candidate": "Interplanetary Phenomenon Unit",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-m-wood",
+     "field": "narrative",
+     "context": "...cument corpus - including the Special Operations Manual SOM1-01, the 'Interplanetary Phenomenon Unit' material, and the Air Accident Report papers. The project's importan..."
+    },
+    {
+     "id": "ms-2025-gerb-first",
+     "field": "text",
+     "context": "...associated with reverse engineering, tracing the effort from the 1947 Interplanetary Phenomenon Unit and Battelle's Project Stork forward; 450,091 views...."
+    }
+   ]
+  },
+  {
+   "candidate": "Jan Aldrich",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "minot-1968",
+     "field": "desc",
+     "context": "...AP found 141. Project Blue Book did not send field investigators, and Jan Aldrich's assessment of the Blue Book file is that the Air Force obfuscated t..."
+    },
+    {
+     "id": "minot-1968",
+     "field": "claim",
+     "context": "...Researcher Jan Aldrich's assessment: 'Taken against the BB files, it is obvious that the AF..."
+    }
+   ]
+  },
+  {
+   "candidate": "Kelly Johnson",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "ben-rich",
+     "field": "narrative",
+     "context": "...ciplined entry. His documented record is not in dispute: he succeeded Kelly Johnson as head of Lockheed's Advanced Development Projects in 1975, ran the..."
+    },
+    {
+     "id": "ben-rich",
+     "field": "source",
+     "context": "...e record for Benjamin 'Ben' Robert Rich -- states he was 'Selected by Kelly Johnson (enshrined 1974) to be the new \"Chief Skunk\" in 1975'..."
+    },
+    {
+     "id": "pc-1975-rich",
+     "field": "text",
+     "context": "...Rich succeeds Kelly Johnson as director of Lockheed's Advanced Development Projects, holding the..."
+    }
+   ]
+  },
+  {
+   "candidate": "Lee Graham",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "malmstrom-echo-flight-1967",
+     "field": "desc",
+     "context": "...the technical investigation, wrote to Peter Bons on 8 March 1983, to Lee Graham on 30 January 1983 and to T. Scott Crain on 6 May 1987 about it, and..."
+    },
+    {
+     "id": "malmstrom-echo-flight-1967",
+     "field": "claim",
+     "context": "...he incident on 1 October 1996; Col. Robert Mansmann wrote about it to Lee Graham on 30 January 1983, to Peter Bons on 8 March 1983 and to T. Scott Cra..."
+    }
+   ]
+  },
+  {
+   "candidate": "Mac Brazel",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "tl-1947-brazel",
+     "field": "text",
+     "context": "...Mac Brazel reports the debris to Chaves County Sheriff George Wilcox, who calls..."
+    }
+   ]
+  },
+  {
+   "candidate": "Martin Marietta",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-salas",
+     "field": "narrative",
+     "context": "...ssile propulsion engineer, resigned his commission in 1971, worked at Martin Marietta and Rockwell International, then spent two decades at the Federal Avi..."
+    }
+   ]
+  },
+  {
+   "candidate": "Michael Herrera",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.hearing-2025-09-09",
+     "field": "desc",
+     "context": "...ecord witness testimonies supplied to him by Dr. Steven Greer, naming Michael Herrera, Roderick Castle, Randy Anderson and Steven Digna among others. Burli..."
+    },
+    {
+     "id": "entityInfo.gerb-mitre-investigation",
+     "field": "desc",
+     "context": "...orks, Lockheed Martin, Ross Coulthart, Kingman, Nick Redfern, Grusch, Michael Herrera, USO, Timothy Gallaudet, Greer, Kecksburg, NASA, Edwards, USAF, Elizo..."
+    }
+   ]
+  },
+  {
+   "candidate": "National Academy of Sciences",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "edward-condon",
+     "field": "narrative",
+     "context": "...o staff members who exposed the Low memo. His report was blessed by a National Academy of Sciences panel and used by the Air Force as the stated basis for terminating B..."
+    },
+    {
+     "id": "edward-condon",
+     "field": "claim",
+     "context": "...The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Bl..."
+    },
+    {
+     "id": "condon-committee",
+     "field": "desc",
+     "context": "...not be justified. The Air Force used those conclusions, blessed by a National Academy of Sciences panel chaired by Gerald Clemence, to terminate Project Blue Book on 1..."
+    }
+   ]
+  },
+  {
+   "candidate": "National Renewable Energy Laboratory",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.battelle",
+     "field": "desc",
+     "context": "...nal Laboratory through Battelle Energy Alliance LLC; a partner in the National Renewable Energy Laboratory and Brookhaven National Laboratory; and operator of the National Biod..."
+    }
+   ]
+  },
+  {
+   "candidate": "Naval Surface Warfare Center Crane",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "off-world-technologies-division",
+     "field": "desc",
+     "context": "...nal Laboratories. The location matters: Crane, Indiana is the site of Naval Surface Warfare Center Crane, a real Navy facility with a genuine special-weapons and energetics m..."
+    }
+   ]
+  },
+  {
+   "candidate": "North American Aerospace Defense Command",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-colorado-springs",
+     "field": "desc",
+     "context": "...pace warning. Peterson Space Force Base hosts the headquarters of the North American Aerospace Defense Command and United States Northern Command; Cheyenne Mountain Space Force Sta..."
+    },
+    {
+     "id": "ndaa-fy2026",
+     "field": "claim",
+     "context": "...s on any unidentified anomalous phenomena intercepts conducted by the North American Aerospace Defense Command or the United States Northern Command', with summaries of 'the number..."
+    },
+    {
+     "id": "ndaa-fy2026",
+     "field": "claim",
+     "context": "...inform the appropriate congressional committees of any failure by the North American Aerospace Defense Command or the United States Northern Command to provide timely information o..."
+    }
+   ]
+  },
+  {
+   "candidate": "Nuclear Emergency Support Team",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "michels-gerb-structural-episode--doe",
+     "field": "note",
+     "context": "...The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-cust..."
+    }
+   ]
+  },
+  {
+   "candidate": "Nuclear Regulatory Commission",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "aaro-fy2025-annual-report",
+     "field": "claim",
+     "context": "...ports from the Administrator for Nuclear Security and Chairman of the Nuclear Regulatory Commission regarding unmanned aerial systems (UAS) incidents near U.S. nuclear i..."
+    },
+    {
+     "id": "odni",
+     "field": "claim",
+     "context": "...ODNI is one of four agencies (with OSD, FAA and the Nuclear Regulatory Commission) whose UAP records NARA announced on 24 April 2025 had been transferr..."
+    },
+    {
+     "id": "nara-uap-collection",
+     "field": "desc",
+     "context": "...the Secretary of Defense, the Federal Aviation Administration and the Nuclear Regulatory Commission - and that it 'will continue to add UAP records to the Collection and..."
+    }
+   ]
+  },
+  {
+   "candidate": "Office of Strategic Services",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.uapda-2023",
+     "field": "desc",
+     "context": "...rch and Development Administration'; the CIA 'and its progenitor, the Office of Strategic Services'; the NRO, DIA, NSA, NGA, NASA, FBI, FAA, NOAA and the Library of Con..."
+    }
+   ]
+  },
+  {
+   "candidate": "Operation Paperclip",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "atic",
+     "field": "desc",
+     "context": "...eign aerospace technology. It was the organisation that processed the Operation Paperclip haul, that dismantled and reverse-engineered captured Soviet and Germ..."
+    },
+    {
+     "id": "l-wright-patterson",
+     "field": "desc",
+     "context": "...Air Materiel Command T-2 intelligence organisation here received the Operation Paperclip haul; T-2 became the Air Technical Intelligence Center in 1951, ATIC..."
+    },
+    {
+     "id": "l-white-sands",
+     "field": "desc",
+     "context": "...ped here and 67 were fired between 1946 and 1951; by 1946 thirty-five Operation Paperclip scientists were working at the proving ground. This is the geographic..."
+    }
+   ]
+  },
+  {
+   "candidate": "Philip J. Corso",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.gerb-mitre-investigation",
+     "field": "desc",
+     "context": "...eering; Sandia National Laboratories; The Hidden Wing (US Air Force); Philip J. Corso (US Army); The Manhattan Project 2.0; Special Access Required; Nation..."
+    },
+    {
+     "id": "entityInfo.uap-gerb",
+     "field": "desc",
+     "context": "...orporation (SAIC); US Navy UFO Crash Retrieval & Reverse Engineering; Philip J. Corso - US Army; Dugway Proving Ground; Deep Underground Military Bases (D...."
+    }
+   ]
+  },
+  {
+   "candidate": "Project Magnet",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "wilbert-smith",
+     "field": "narrative",
+     "context": "...coincidence.' The memorandum was the successful request that produced Project Magnet...."
+    },
+    {
+     "id": "wilbert-smith",
+     "field": "sub",
+     "context": "...Senior Radio Engineer, Canadian Department of Transport; head of Project Magnet 1950-1962..."
+    },
+    {
+     "id": "wilbert-smith",
+     "field": "claim",
+     "context": "...Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficul..."
+    }
+   ]
+  },
+  {
+   "candidate": "Project Stork",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "mark-peters",
+     "field": "narrative",
+     "context": "...ogy: Battelle, which ran the Air Force's own statistical UFO study as Project Stork and produced Blue Book Special Report No. 14 in 1955 and whose Wright..."
+    },
+    {
+     "id": "howard-c-cross",
+     "field": "narrative",
+     "context": "...emorial Institute's liaison to the Air Force for the work that became Project Stork and Blue Book Special Report No. 14. On 9 January 1953 he wrote a two..."
+    },
+    {
+     "id": "howard-c-cross",
+     "field": "claim",
+     "context": "...nsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as i..."
+    }
+   ]
+  },
+  {
+   "candidate": "Project Twinkle",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "lincoln-lapaz",
+     "field": "narrative",
+     "context": "...National Security Research Center holds the minutes. In December 1949 Project Twinkle, a network of observation and photographic stations, was established..."
+    },
+    {
+     "id": "lincoln-lapaz",
+     "field": "sub",
+     "context": "...over Los Alamos, Sandia and Kirtland; scientific lead associated with Project Twinkle..."
+    },
+    {
+     "id": "lincoln-lapaz",
+     "field": "claim",
+     "context": "...ational Security Research Center does not appear to hold materials on Project Twinkle, although not all of the millions of items in its collections are sea..."
+    }
+   ]
+  },
+  {
+   "candidate": "Raytheon",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "william-lynn",
+     "field": "narrative",
+     "context": "...ad been DoD Comptroller under Clinton and came to the Deputy job from Raytheon, where he was senior vice president for government operations and str..."
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "field": "desc",
+     "context": "...requests, including work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos, and covers UAP detection..."
+    },
+    {
+     "id": "burlison-mitre-letter-2026",
+     "field": "claim",
+     "context": "...agnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos...."
+    }
+   ]
+  },
+  {
+   "candidate": "Roberto Pinotti",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.sol-foundation",
+     "field": "desc",
+     "context": "...cob Haqq-Misra, Anna Brady-Estevez, Jonathan Berte, Michael Valliant, Roberto Pinotti.  FUNDING: not disclosed. The site solicits membership and donations..."
+    }
+   ]
+  },
+  {
+   "candidate": "Rockwell International",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-salas",
+     "field": "narrative",
+     "context": "...ineer, resigned his commission in 1971, worked at Martin Marietta and Rockwell International, then spent two decades at the Federal Aviation Administration to abo..."
+    }
+   ]
+  },
+  {
+   "candidate": "Ronald Moultrie",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "eric-davis",
+     "field": "claim",
+     "context": "...7 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they..."
+    },
+    {
+     "id": "entityInfo.wilson-davis-memo",
+     "field": "desc",
+     "context": "...he document. Members of the House Intelligence subcommittee put it to Ronald Moultrie and Scott Bray on 17 May 2022 and were told the witnesses were unawar..."
+    },
+    {
+     "id": "t-2022-hearing",
+     "field": "text",
+     "context": "...At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the..."
+    }
+   ]
+  },
+  {
+   "candidate": "Tim Gallaudet",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "tim-gallaudet",
+     "field": "claim",
+     "context": "...of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL C..."
+    },
+    {
+     "id": "peter-skafish",
+     "field": "narrative",
+     "context": "...and reporting to an interagency UAP Governance Board; Skafish, Nolan, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it. In under four yea..."
+    },
+    {
+     "id": "aaro-fy2024-annual-report",
+     "field": "desc",
+     "context": "...the day after the House Oversight hearing at which Luis Elizondo and Tim Gallaudet testified and five days before Kosloski appeared before the Senate. I..."
+    }
+   ]
+  },
+  {
+   "candidate": "Vannevar Bush",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "uap-gerb",
+     "field": "claim",
+     "context": "...rograms with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Also..."
+    },
+    {
+     "id": "wilbert-smith",
+     "field": "narrative",
+     "context": "...question was classified above the hydrogen bomb and was being run by Vannevar Bush. Smith joined the Canadian Department of Transport in 1939, built Can..."
+    },
+    {
+     "id": "wilbert-smith",
+     "field": "claim",
+     "context": "...flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb..."
+    }
+   ]
+  },
+  {
+   "candidate": "Wernher von Braun",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-huntsville",
+     "field": "desc",
+     "context": "...Huntsville is the American rocketry town: Redstone Arsenal received Wernher von Braun and the Operation Paperclip rocket team in 1950, became the Army Ball..."
+    }
+   ]
+  },
+  {
+   "candidate": "Wilbert B. Smith",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "canada-dot",
+     "field": "desc",
+     "context": "...ositions in this record. In 1950 it granted one of its own engineers, Wilbert B. Smith, permission to conduct part-time research into whether some UFOs migh..."
+    },
+    {
+     "id": "l-ottawa",
+     "field": "desc",
+     "context": "...omagnetic anomalies and unidentified objects headed by radio engineer Wilbert B. Smith from 1950. Smith's November 1950 memorandum to the Controller of Tele..."
+    },
+    {
+     "id": "l-ottawa",
+     "field": "claim",
+     "context": "...Wilbert B. Smith's November 1950 memorandum to the Canadian Controller of Telecommunic..."
+    }
+   ]
+  },
+  {
+   "candidate": "Aerospace Corporation",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "aerospace-corporation",
+   "node_label": "The Aerospace Corporation",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Air Force Flight Test Center",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Air Force Institute of Technology",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Air Force Office of Intelligence",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Air Force Plant 42",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-plant-42",
+   "node_label": "Air Force Plant 42, Palmdale, California",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
+   "candidate": "Air Force Plant 6",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Air Force Systems Command",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Air Technical Intelligence Center",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "atic",
+   "node_label": "Air Technical Intelligence Center",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Americans for Safe Aerospace",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "americans-for-safe-aerospace",
+   "node_label": "Americans for Safe Aerospace",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Army Research Office",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "ttsa-army-crada-2019",
+   "node_label": "To The Stars Academy - US Army CCDC Cooperative Research and Development Agreement (17 October 2019)",
+   "cls": "document",
+   "tier": "B"
+  },
+  {
+   "candidate": "Battelle Memorial Institute",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "battelle",
+   "node_label": "Battelle Memorial Institute",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Ben Rich",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "ben-rich",
+   "node_label": "Ben R. Rich",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Boeing",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "boeing",
+   "node_label": "The Boeing Company",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Catherine Austin Fitts",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "catherine-austin-fitts",
+   "node_label": "Catherine Austin Fitts",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Central Intelligence Agency",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "cia",
+   "node_label": "Central Intelligence Agency",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Condon Committee",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "condon-committee",
+   "node_label": "University of Colorado UFO Project (Condon Committee)",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
+   "candidate": "Defense Intelligence Agency",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "dia",
+   "node_label": "Defense Intelligence Agency",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Department of Energy",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "doe",
+   "node_label": "United States Department of Energy",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "EarthTech International",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "earthtech-international",
+   "node_label": "EarthTech International / Institute for Advanced Studies at Austin",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "EG&G",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "eg-and-g",
+   "node_label": "EG&G (Edgerton, Germeshausen and Grier)",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Eric Davis",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "eric-davis",
+   "node_label": "Eric W. Davis",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Glenn Gaffney",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "glenn-gaffney",
+   "node_label": "Glenn Gaffney",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Guy Hottel",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "hottel-memo",
+   "node_label": "Guy Hottel memorandum, 22 March 1950",
+   "cls": "document",
+   "tier": "C"
+  },
+  {
+   "candidate": "Harry Reid",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "harry-reid",
+   "node_label": "Harry M. Reid",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Howard C. Cross",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "howard-c-cross",
+   "node_label": "Howard C. Cross",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Hoyt Vandenberg",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "hoyt-vandenberg",
+   "node_label": "Hoyt S. Vandenberg",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Jacques Vallee",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "jacques-vallee",
+   "node_label": "Jacques F. Vallee",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Jesse Marcel",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "jesse-marcel",
+   "node_label": "Jesse A. Marcel Sr.",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "John B. Alexander",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "john-b-alexander",
+   "node_label": "John B. Alexander",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "John Greenewald",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "john-greenewald",
+   "node_label": "John Greenewald Jr.",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Karl Nell",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "karl-nell",
+   "node_label": "Karl E. Nell",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Kevin Knuth",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "kevin-knuth",
+   "node_label": "Kevin H. Knuth",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Kevin Randle",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "kevin-randle",
+   "node_label": "Kevin D. Randle",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Kit Green",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "kit-green",
+   "node_label": "Christopher C. 'Kit' Green",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Lawrence Livermore National Laboratory",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "llnl",
+   "node_label": "Lawrence Livermore National Laboratory",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Leonard Stringfield",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "leonard-stringfield",
+   "node_label": "Leonard H. Stringfield",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Lockheed Martin",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "lockheed-martin",
+   "node_label": "Lockheed Martin Corporation",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Lockheed Skunk Works",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "lockheed-skunk-works",
+   "node_label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Los Alamos National Laboratory",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "lanl",
+   "node_label": "Los Alamos National Laboratory",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Majestic 12",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "mj-12-documents",
+   "node_label": "MJ-12 / Operation Majestic-12 Documents",
+   "cls": "document",
+   "tier": "B"
+  },
+  {
+   "candidate": "McDonnell Douglas",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "mcdonnell-douglas",
+   "node_label": "McDonnell Douglas Corporation",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "MIT Lincoln Laboratory",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "mit-lincoln-laboratory",
+   "node_label": "MIT Lincoln Laboratory",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "MITRE Corporation",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "mitre-corporation",
+   "node_label": "The MITRE Corporation",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Nathan Twining",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "nathan-twining",
+   "node_label": "Nathan F. Twining",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "National Reconnaissance Office",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "nro",
+   "node_label": "National Reconnaissance Office",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Nevada Test and Training Range",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-nellis",
+   "node_label": "Nellis Air Force Base and the Nevada Test and Training Range",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
+   "candidate": "Northrop Grumman",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "northrop-grumman",
+   "node_label": "Northrop Grumman Corporation",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Oak Ridge National Laboratory",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "oak-ridge-national-laboratory",
+   "node_label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Office of Naval Intelligence",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "oni",
+   "node_label": "Office of Naval Intelligence",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "Peter Gersten",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "peter-gersten",
+   "node_label": "Peter A. Gersten",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Project Blue Book",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "project-blue-book",
+   "node_label": "Project Blue Book",
+   "cls": "program",
+   "tier": "A"
+  },
+  {
+   "candidate": "Project Blue Fly",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "operation-blue-fly",
+   "node_label": "Operation BLUE FLY",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
+   "candidate": "Project Grudge",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "project-grudge",
+   "node_label": "Project GRUDGE",
+   "cls": "program",
+   "tier": "C"
+  },
+  {
+   "candidate": "Project Moon Dust",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "project-moon-dust",
+   "node_label": "Project MOON DUST",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
+   "candidate": "Project Second Storey",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "project-second-storey",
+   "node_label": "Project Second Storey (Canada)",
+   "cls": "program",
+   "tier": "C"
+  },
+  {
+   "candidate": "Project Sign",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "project-sign",
+   "node_label": "Project SIGN",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
+   "candidate": "RAND Corporation",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "rand-corporation",
+   "node_label": "RAND Corporation",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Robert Bigelow",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "robert-bigelow",
+   "node_label": "Robert T. Bigelow",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Robert M. Wood",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "robert-wood",
+   "node_label": "Robert M. Wood",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Robertson Panel",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "robertson-panel",
+   "node_label": "Robertson Panel",
+   "cls": "program",
+   "tier": "A"
+  },
+  {
+   "candidate": "Roger Ramey",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "roger-ramey",
+   "node_label": "Roger M. Ramey",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Ryan Wood",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "ryan-wood",
+   "node_label": "Ryan S. Wood",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Sandia National Laboratories",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "sandia",
+   "node_label": "Sandia National Laboratories",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Science Applications International Corporation",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "saic",
+   "node_label": "Science Applications International Corporation",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "Sean Kirkpatrick",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "sean-kirkpatrick",
+   "node_label": "Sean M. Kirkpatrick",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Stanton Friedman",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "stanton-friedman",
+   "node_label": "Stanton T. Friedman",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Thomas Wilson",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "thomas-wilson",
+   "node_label": "Thomas R. Wilson",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "UAP Task Force",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "hearing-2025-09-09",
+   "node_label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+   "cls": "event",
+   "tier": "A"
+  },
+  {
+   "candidate": "United States Northern Command",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "norad-northcom",
+   "node_label": "NORAD and US Northern Command",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "United States Space Force",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-vandenberg",
+   "node_label": "Vandenberg Space Force Base, California",
+   "cls": "location",
+   "tier": "B"
+  },
+  {
+   "candidate": "Walter Haut",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "walter-haut",
+   "node_label": "Walter Haut",
+   "cls": "person",
+   "tier": "B"
+  }
+ ]
+}

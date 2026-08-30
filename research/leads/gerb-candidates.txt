@@ -1,0 +1,214 @@
+# Entities named across the 35-file UAP Gerb corpus, confidently resolved only.
+# Anything the mapping agents flagged PHON? or UNRESOLVED is deliberately absent:
+# "Sand Corp", "SGA", "Eric Tabor", "Charles Ethan Ray", "Special Project Astra".
+# Included names are ones where the corpus itself, or an obvious de-corruption the
+# agents recorded, gives a real proper noun. Inclusion here is NOT a claim the
+# entity belongs on the board -- it is a claim the name is legible enough to check.
+
+# --- contractors, labs, private institutions ---
+Battelle Memorial Institute
+Lockheed Martin
+Lockheed Skunk Works
+Glenn L. Martin Company
+Martin Marietta
+Research Institute for Advanced Studies
+BDM International
+Science Applications International Corporation
+Boeing
+Northrop Grumman
+Raytheon
+TRW
+Aerospace Corporation
+McDonnell Douglas
+Douglas Aircraft
+Rockwell International
+Sperry Rand
+General Electric
+DuPont
+Texas Instruments
+Teledyne Ryan
+EG&G
+Bell Telephone Laboratories
+Western Electric
+AT&T
+MITRE Corporation
+RAND Corporation
+Carlyle Group
+Aerojet
+Link Aviation
+SIAI-Marchetti
+EarthTech International
+Nonlinear Solutions
+Americans for Safe Aerospace
+Penn State Applied Research Laboratory
+MIT Institute for Soldier Nanotechnologies
+MIT Lincoln Laboratory
+Southwest Center for Advanced Studies
+Sandia National Laboratories
+Los Alamos National Laboratory
+Lawrence Livermore National Laboratory
+Oak Ridge National Laboratory
+National Renewable Energy Laboratory
+Lockheed Georgia Nuclear Aircraft Laboratory
+Air Force Plant 6
+Air Force Plant 42
+Naval Surface Warfare Center Crane
+
+# --- government offices, panels, units ---
+Air Technical Intelligence Center
+Air Force Office of Intelligence
+Foreign Technology Division
+Army Foreign Technology Division
+Interplanetary Phenomenon Unit
+Office of the Chief of Army Research and Development
+Army Research Office
+Army Ballistic Missile Agency
+Research and Development Board
+Operations Coordinating Board
+1127th USAF Field Activities Group
+Air Force Systems Command
+Air Materiel Command
+Office of Naval Intelligence
+Office of Special Studies
+Robertson Panel
+Condon Committee
+National Academy of Sciences
+Atomic Energy Commission
+Nuclear Regulatory Commission
+Department of Energy
+Nuclear Emergency Support Team
+Defense Support Program
+North American Aerospace Defense Command
+United States Northern Command
+United States Space Command
+United States Space Force
+National Reconnaissance Office
+Central Intelligence Agency
+CIA Office of Scientific Intelligence
+CIA Office of Weapons Intelligence
+CIA Office of Global Access
+Intelligence Support Activity
+Defense Intelligence Agency
+Air Force Institute of Technology
+412th Test Wing
+Air Force Flight Test Center
+Nevada Test and Training Range
+Joint Intelligence Objectives Agency
+Gabinetto RS/33
+Agenzia Stefani
+OVRA
+Office of Strategic Services
+
+# --- programmes and code names ---
+Project Sign
+Project Grudge
+Project Blue Book
+Project Stork
+Project Moon Dust
+Project Blue Fly
+Project Twinkle
+Project Magnet
+Project Second Storey
+Project Winterhaven
+Project Horizon
+Project Nike
+Project Outgrowth
+Operation Paperclip
+Operation Upshot-Knothole
+Majestic 12
+AATIP
+AAWSAP
+UAP Task Force
+Strategic Defense Initiative
+
+# --- people ---
+Thomas Townsend Brown
+Vannevar Bush
+Robert I. Sarbacher
+Eric A. Walker
+Wilbert B. Smith
+Howard C. Cross
+Elroy John Center
+Louis Witten
+George Trimble
+Hermann Oberth
+Wernher von Braun
+Leslie Groves
+J. Robert Oppenheimer
+John von Neumann
+Detlev Bronk
+James Forrestal
+Nathan Twining
+Roscoe Hillenkoetter
+Donald Menzel
+Walter Bedell Smith
+Hoyt Vandenberg
+Curtis LeMay
+Roger Ramey
+John Samford
+Allen Dulles
+Arthur G. Trudeau
+Philip J. Corso
+Barry Goldwater
+Lyndon B. Johnson
+Donald Hornig
+Glenn Seaborg
+Frank Carlucci
+Alan Cranston
+George E. Brown Jr.
+Albert Stubblebine
+John B. Alexander
+Eric Davis
+Thomas Wilson
+Glenn Gaffney
+Ronald Moultrie
+Sean Kirkpatrick
+Karl Nell
+Ben Rich
+Kelly Johnson
+Boyd Bushman
+Bernard Haisch
+Hal Puthoff
+Kit Green
+Don Phillips
+Edgar Fouche
+Ron Blackburn
+Oke Shannon
+Catherine Austin Fitts
+Willard Miller
+Arthur Stancil
+Eric Wang
+Ed Doll
+Bill Uhouse
+Walter Haut
+Thomas J. DuBose
+Stephen Lovekin
+Michael Herrera
+Tim Gallaudet
+Kevin Knuth
+Roberto Pinotti
+Guy Hottel
+Jesse Marcel
+Mac Brazel
+Leonard Stringfield
+Michael Schratt
+John Greenewald
+Robert M. Wood
+Ryan Wood
+Stanton Friedman
+Jacques Vallee
+Peter Gersten
+Bradley R. Townsend
+Brad Sorensen
+Mark McCandlish
+Bill McDonald
+James Goodall
+Noe Torres
+Kevin Randle
+Jan Aldrich
+Moray B. King
+Miguel Alcubierre
+Marc D'Antonio
+Lee Graham
+Robert Bigelow
+Harry Reid

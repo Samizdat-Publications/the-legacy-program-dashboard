@@ -2423,6 +2423,15 @@ def main():
         s, ok = l0_patches.apply(s, l0_model, must_replace, layout=layout)
         ok_all &= ok
 
+    # ---- 5b. the network map ----------------------------------------------
+    # The board's primary surface since the 29 August inversion, and an INHERITED
+    # renderer, so every change to it is a patch against somebody else's code.
+    # Kept in one module so a later session can see what this board changed and
+    # what it merely accepted. Claude Design's response of 30 August.
+    import network_patches
+    s, ok = network_patches.apply(s, must_replace)
+    ok_all &= ok
+
     # ---- 6. the PATENTS tab -----------------------------------------------
     # Its own module, and it runs AFTER l0_patches because both add a view and this
     # one's anchors are written against the array l0_patches leaves behind. The

@@ -201,6 +201,411 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
+  /* ---- CLAUDE DESIGN'S FIVE CHANGES, 30 August 2026 --------------------------
+     Their response to notes/DESIGN-BRIEF-2026-08-30-STANDALONE.md, and each change
+     came with the gate impact it should carry. These are those checks.
+
+     ONE FINDING FIRST, because it changes what this block is for. Design predicted
+     change 4 "does reach the 31 canvas assertions, because it changes the scale the
+     map can open at". It does not, and the reason matters: test_packed_layout.js
+     navigates to PROGRAM with nothing selected, which is a COLD arrival, and the
+     cold arrival is deliberately unchanged. So the warm arrival shipped with
+     nothing looking at it. That is the gap `warm arrival` below exists to close --
+     a prediction about which check would catch a change is itself a claim, and this
+     one was wrong in the safe direction. */
+  try {
+    const B = () => window.__board;
+
+    /* ---- change 2: chosen by space, never by rank ------------------------
+       The check Design asked to be written before the change. It reads the boxes
+       the renderer says it drew and asserts none of them intersect, then binds that
+       list back to PIXELS by requiring ink inside a sample of them -- a renderer
+       that published boxes it never drew would pass the first half and fail this.
+
+       POISON=labels forces two real labels onto the same coordinates on the real
+       page and requires the overlap count to rise. */
+    const POIS_L = process.env.POISON === 'labels';
+    await page.evaluate(() => window.__board.CMD.setView('NETWORK'));
+    await page.waitForTimeout(3500);
+    await page.evaluate(() => window.__board.MAP.setLabelPointer(null));
+    await page.waitForTimeout(1200);
+
+    const lab = await page.evaluate((poison) => {
+      const M = window.__board.MAP;
+      if (!M.labelBoxes) return { err: 'labelBoxes() is not exposed' };
+      let bs = M.labelBoxes();
+      /* PAGE POISON: collapse every box onto one coordinate, which is what a
+         renderer with no collision test would have produced. */
+      if (poison) bs = bs.map(b => ({ ...b, x: 400, y: 400 }));
+      let hit = 0;
+      for (let i = 0; i < bs.length; i++) for (let j = i + 1; j < bs.length; j++) {
+        const a = bs[i], c = bs[j];
+        if (a.x < c.x + c.w && a.x + a.w > c.x && a.y < c.y + c.h && a.y + a.h > c.y) hit++;
+      }
+      /* AND THE PIXELS, so the published list cannot be fiction.
+         Across EVERY 2D-readable canvas, not the widest one. The map stacks three
+         canvases of identical width in .cwrap -- the WebGL edge layer (which
+         returns null for a 2d context) and two 2D layers -- so picking "the widest"
+         picks an arbitrary one of three, and the first cut of this check sampled
+         the wrong layer and reported 0 of 24. The reader sees the composite; a box
+         counts as inked if the ink is on any layer. */
+      const layers = [];
+      for (const c of document.querySelectorAll('canvas')) {
+        if (c.width <= 200) continue;
+        let cx; try { cx = c.getContext('2d'); } catch (e) { cx = null; }
+        if (cx) layers.push({ c, cx, dpr: c.width / c.getBoundingClientRect().width });
+      }
+      let inked = 0, sampled = 0;
+      for (const b of M.labelBoxes().slice(0, 24)) {
+        let any = false, ok = false;
+        for (const L of layers) {
+          const x = Math.max(0, Math.round(b.x * L.dpr)), y = Math.max(0, Math.round(b.y * L.dpr));
+          const w = Math.min(L.c.width - x, Math.round(b.w * L.dpr));
+          const h = Math.min(L.c.height - y, Math.round(b.h * L.dpr));
+          if (w <= 0 || h <= 0) continue;
+          any = true;
+          const d = L.cx.getImageData(x, y, w, h).data;
+          for (let i = 0; i < d.length; i += 4)
+            if (d[i] > 90 && d[i + 1] > 95 && d[i + 2] > 100) { ok = true; break; }
+          if (ok) break;
+        }
+        if (any) { sampled++; if (ok) inked++; }
+      }
+      return { drawn: M.labelBoxes().length, overlaps: hit, inked, sampled };
+    }, POIS_L);
+
+    check(lab.drawn > 40, 'the network map draws a label set at all',
+          lab.drawn + ' label boxes on the last frame');
+    check(lab.overlaps === 0 || POIS_L, 'no network label box overlaps another',
+          `${lab.overlaps} overlapping of ${lab.drawn}`
+          + (POIS_L ? ' [POISON=labels: every box collapsed onto one coordinate]' : ''));
+    if (POIS_L) check(lab.overlaps > 0, 'the overlap check can see an overlap',
+                      lab.overlaps + ' overlaps once the boxes are collapsed — must be > 0');
+    check(lab.sampled > 0 && lab.inked >= Math.ceil(lab.sampled * 0.6),
+          'a published label box has label ink in it',
+          `${lab.inked} of ${lab.sampled} sampled boxes carry ink`);
+
+    /* ---- selecting a node must NAME what it connects to -------------------
+       Reported from the live board, 30 August 2026: clicking Tom DeLonge lit his
+       edges and labelled nothing at the far end of them. Two causes, both in the
+       label pass -- drawNode computed state 'connected' and threw it away, and the
+       ~900 dimmed nodes competed for the same budget and the same collision boxes
+       while drawing at 0.16 alpha, illegibly.
+
+       This asserts the outcome a reader is entitled to: select a node, and every
+       neighbour that is actually on screen carries a label box. It is deliberately
+       written against a node CHOSEN AT RUNTIME by connection count rather than a
+       hardcoded id, so it keeps meaning something after a research pass moves the
+       graph around.
+
+       POISON=neighbours sets window.__LABEL_NO_CON, which makes the real renderer
+       forget which nodes are adjacent to the selection on a real frame -- the state
+       the board shipped in until today -- and requires the covered fraction to
+       fall. The poison is on the page, not on the probe. */
+    const POIS_N = process.env.POISON === 'neighbours';
+    const nb = await page.evaluate(async (poison) => {
+      const B = window.__board, M = B.MAP;
+      if (poison) window.__LABEL_NO_CON = true;
+      const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+      /* Pick the most-connected node that fits on screen at the current camera,
+         so the test is about labelling and not about the viewport. */
+      const pairs = M.pairs || [];
+      if (!pairs.length) return { err: 'no pairs exposed' };
+      const deg = {};
+      for (const p of pairs){
+        if (p.s && p.s.id) deg[p.s.id] = (deg[p.s.id] || 0) + 1;
+        if (p.t && p.t.id) deg[p.t.id] = (deg[p.t.id] || 0) + 1;
+      }
+      /* A REALISTIC CLICK, not the biggest hub. The first cut of this check took
+         the most-connected node on the board -- d-coverup, 105 neighbours, 88 of
+         them on screen -- and required 90% of them to be labelled. It got 62.
+         Those 26 are not a defect: with the dimmed remainder already dropped, the
+         only candidates left are the neighbours themselves, so they were colliding
+         with each other, and Design's rule is SKIP, never shrink. 88 nine-pixel
+         labels do not fit in that cluster and no correct renderer would make them.
+         Requiring it would have been a check demanding a bug.
+         So aim at the case that was reported: an ordinary node with a handful of
+         connections, where every one of them must be named. */
+      const ids = Object.keys(deg)
+        .filter(id => deg[id] >= 3 && deg[id] <= 10)
+        .sort((x, y) => Math.abs(deg[x] - 6) - Math.abs(deg[y] - 6));
+      if (!ids.length) return { err: 'no node has between 3 and 10 connections' };
+      const pick = ids[0];
+
+      B.CMD.selectNode(pick);
+      M.setLabelPointer(null);
+      await sleep(1600);
+
+      /* The neighbours, from the renderer's own pair list. */
+      const nbrs = new Set();
+      for (const p of pairs){
+        const a = p.s && p.s.id, b = p.t && p.t.id;
+        if (a === pick && b) nbrs.add(b);
+        if (b === pick && a) nbrs.add(a);
+      }
+      const cv = document.querySelector('.cwrap canvas') || document.querySelector('canvas');
+      const R = cv.getBoundingClientRect();
+      const byId = {}; for (const n of (M.nodes || [])) byId[n.id] = n;
+      const cam = M.cam ? M.cam() : null;
+      if (!cam) return { err: 'MAP.cam() is not exposed' };
+
+      let onScreen = 0, labelled = 0;
+      const missed = [];
+      const drawn = new Set(M.labelBoxes().map(b => b.id));
+      for (const id of nbrs){
+        const n = byId[id];
+        if (!n) continue;
+        const sx = cam.x + n.x * cam.k, sy = cam.y + n.y * cam.k;
+        if (sx < 20 || sx > R.width - 20 || sy < 20 || sy > R.height - 20) continue;
+        onScreen++;
+        if (drawn.has(id)) labelled++; else if (missed.length < 5) missed.push(id);
+      }
+      const out = { sel: pick, nbrs: nbrs.size, onScreen, labelled, missed,
+                    total: M.labelBoxes().length };
+      window.__LABEL_NO_CON = false;
+      return out;
+    }, POIS_N);
+
+    if (nb.err) {
+      check(false, 'selecting a node names what it connects to', nb.err);
+    } else {
+      const share = nb.onScreen ? nb.labelled / nb.onScreen : 0;
+      check(nb.onScreen >= 3, 'the neighbour check has neighbours to look at',
+            `${nb.sel} has ${nb.nbrs} neighbours, ${nb.onScreen} of them on screen`);
+      check(share >= 1 || POIS_N, 'selecting a node names what it connects to',
+            `${nb.labelled} of ${nb.onScreen} on-screen neighbours of ${nb.sel} carry a label`
+            + (nb.missed.length ? ' — missing ' + nb.missed.join(', ') : '')
+            + (POIS_N ? ' [POISON=neighbours: adjacency forgotten]' : ''));
+      if (POIS_N) check(share < 1, 'the neighbour check can see the defect',
+            `${nb.labelled} of ${nb.onScreen} once adjacency is forgotten — must fall short`);
+    }
+
+    /* ---- change 2, the rule it must NOT have used ------------------------
+       Selection by degree is the one thing Design rules out, because it makes
+       prominence a function of connectivity and CLAUDE.md forbids size encoding
+       importance. The board did this in two places before today -- PLATE_DEGREE for
+       people and LABEL_DEGREE for entities. This asserts the drawn set is no longer
+       the top of a degree ranking: if it were, the least-connected drawn node would
+       out-rank the most-connected undrawn one. */
+    const rank = await page.evaluate(() => {
+      const B = window.__board, M = B.MAP;
+      const drawn = new Set(M.labelBoxes().map(b => b.id));
+      const deg = {}; for (const n of (M.nodes || [])) deg[n.id] = n.deg || 0;
+      let minDrawn = Infinity, maxSkipped = 0, onScreen = 0;
+      for (const n of (M.nodes || [])) {
+        if (drawn.has(n.id)) minDrawn = Math.min(minDrawn, deg[n.id]);
+        else { maxSkipped = Math.max(maxSkipped, deg[n.id]); onScreen++; }
+      }
+      return { minDrawn: minDrawn === Infinity ? -1 : minDrawn, maxSkipped, onScreen };
+    });
+    check(rank.minDrawn >= 0 && rank.maxSkipped > rank.minDrawn,
+          'the drawn label set is not the top of a degree ranking',
+          `least-connected drawn node has degree ${rank.minDrawn}, `
+          + `most-connected skipped has ${rank.maxSkipped} — the second must exceed the first`);
+
+    /* ---- change 3: pointer proximity, and nothing else -------------------
+       Two halves, and the first is the standing rule Design reaffirmed: at rest
+       with the pointer off-canvas the primary map is COMPLETELY static. */
+    const hashOnce2 = async () => await page.evaluate(() => {
+      const cs = [...document.querySelectorAll('canvas')].filter(c => c.width > 200);
+      let h = 0;
+      for (const c of cs) {
+        let cx; try { cx = c.getContext('2d'); } catch (e) { continue; }
+        if (!cx) continue;
+        const d = cx.getImageData(0, 0, c.width, c.height).data;
+        for (let i = 0; i < d.length; i += 4 * 53) h = (h * 31 + d[i] + d[i+1]*3 + d[i+2]*7) >>> 0;
+      }
+      return h;
+    });
+    /* SETTLE FIRST, THEN MEASURE -- the same discipline the time-direction check
+       below already records having learned the hard way. This renderer eases its
+       camera and its layout settles, so for the first second or two the canvas
+       changes for reasons that have nothing to do with motion. A fixed wait passes
+       or fails on luck; the first cut of this check failed exactly that way.
+       Requiring it to go quiet AND THEN stay quiet is strictly stronger: a map that
+       never stops moving fails on the settle timeout instead. */
+    /* ESTABLISH THE REST STATE, DO NOT ASSUME IT. "At rest" in Design's spec means
+       nothing selected AND the pointer off-canvas, and this check asserted the
+       second while inheriting whatever the blocks above left of the first. It
+       passed once on ordering luck and then failed in CI, which is the right way
+       round but only by accident.
+
+       A live selection makes the canvas move, and that is the particle rule
+       WORKING -- measured: still at boot, moving with a node selected, still again
+       after clearing. So an inherited selection was not a defect in the map, it was
+       this check describing a state it had not put the page into. The precondition
+       is now set here and REPORTED in the detail, so the next drift is visible
+       rather than silent. */
+    await page.evaluate(() => {
+      const B = window.__board;
+      if (B.CMD.clearSelection) B.CMD.clearSelection();
+      B.MAP.setLabelPointer(null);
+    });
+    await page.waitForTimeout(1200);
+    const restState = await page.evaluate(() => ({
+      sel: window.__board.S.sel,
+      frame: (window.__board.S.frame || []).length,
+      ptr: window.__board.MAP.labelPointer ? window.__board.MAP.labelPointer() : null,
+    }));
+    let settled2 = false, prev2 = await hashOnce2(), run2 = 0;
+    for (let i = 0; i < 40; i++) {
+      await page.waitForTimeout(400);
+      const now = await hashOnce2();
+      run2 = (now === prev2) ? run2 + 1 : 0;
+      prev2 = now;
+      if (run2 >= 2) { settled2 = true; break; }
+    }
+    const q1 = await hashOnce2(); await page.waitForTimeout(900); const q2 = await hashOnce2();
+    const atRest = restState.sel === null && restState.frame === 0 && !restState.ptr;
+    check(atRest && settled2 && q1 === q2,
+          'the network map is still at rest: nothing selected, pointer off-canvas',
+          !atRest ? `the rest state was not established — sel=${restState.sel}, `
+                    + `frame=${restState.frame}, ptr=${JSON.stringify(restState.ptr)}`
+          : !settled2 ? 'never went quiet within 16s, which is what a running animation looks like'
+          : q1 === q2 ? 'settled, then held still with sel=null and no pointer'
+                      : 'went quiet and then started moving again');
+
+    const ptr = await page.evaluate(() => {
+      const M = window.__board.MAP;
+      const before = M.labelBoxes().map(b => b.id).sort().join(',');
+      const nodes = M.nodes || [];
+      /* park the pointer where the graph is densest, which is where the budget
+         has skipped the most */
+      M.setLabelPointer({ x: 960, y: 520 });
+      return { before, n: nodes.length };
+    });
+    await page.waitForTimeout(1400);
+    const after = await page.evaluate(() => {
+      const M = window.__board.MAP;
+      return { ids: M.labelBoxes().map(b => b.id).sort().join(','),
+               moved: (M.nodes || []).slice(0, 40).map(n => Math.round(n.x) + ':' + Math.round(n.y)).join('|') };
+    });
+    check(after.ids !== ptr.before, 'the pointer changes which labels are drawn',
+          after.ids === ptr.before ? 'the drawn set did not move with the pointer'
+                                   : 'the drawn set differs under the pointer');
+    /* and the hard constraint: nothing MOVED. Live typography, static geometry. */
+    const geo1 = after.moved;
+    await page.evaluate(() => window.__board.MAP.setLabelPointer({ x: 400, y: 300 }));
+    await page.waitForTimeout(900);
+    const geo2 = await page.evaluate(() =>
+      (window.__board.MAP.nodes || []).slice(0, 40).map(n => Math.round(n.x) + ':' + Math.round(n.y)).join('|'));
+    check(geo1 === geo2, 'the pointer moves no node',
+          geo1 === geo2 ? 'node positions identical across two pointer positions'
+                        : 'a node moved when the pointer did');
+    await page.evaluate(() => window.__board.MAP.setLabelPointer(null));
+
+    /* ---- change 4: the warm arrival -------------------------------------
+       AIMED AT THE CONSTANT, not at 0.62. CLAUDE.md names the alternative failure
+       by example: five canvas checks drove `v.k = 0.45` to reach dense mode and
+       would have passed while testing nothing the moment the constant moved. */
+    await page.evaluate(() => window.__board.CMD.setView('CASES'));
+    await page.waitForTimeout(700);
+    await page.click('[data-view="PROGRAM"]');
+    await page.waitForTimeout(3000);
+    await page.evaluate(() => { const e = document.querySelector('.l0entry'); if (e) e.remove(); });
+    await page.waitForTimeout(1200);
+    const cold = await page.evaluate(() => +window.__board.MAP.view.k.toFixed(3));
+
+    await page.evaluate(() => {
+      const B = window.__board;
+      B.CMD.setView('CASES');
+      B.CMD.selectNode((B.L0DATA.l0 || [])[7].id);
+    });
+    await page.waitForTimeout(1400);
+    await page.click('[data-view="PROGRAM"]');
+    await page.waitForTimeout(3000);
+    await page.evaluate(() => { const e = document.querySelector('.l0entry'); if (e) e.remove(); });
+    await page.waitForTimeout(1200);
+    const warm = await page.evaluate(() => {
+      const B = window.__board, M = B.MAP;
+      const n = (B.L0DATA.l0 || []).find(x => x.id === B.S.sel);
+      const cvs = document.querySelector('.l0wrap canvas');
+      const r = cvs.getBoundingClientRect();
+      const sx = (n.x + (n.w || 0) / 2) * M.view.k + M.view.ox;
+      const sy = (n.y + (n.h || 0) / 2) * M.view.k + M.view.oy;
+      return { k: +M.view.k.toFixed(3), drop: B.L0_LABEL_DROP,
+               onScreen: sx > 0 && sx < r.width && sy > 0 && sy < r.height };
+    });
+    check(warm.k === warm.drop, 'a warm arrival opens at the label threshold',
+          `warm ${warm.k} against L0_LABEL_DROP ${warm.drop}; cold is ${cold}`);
+    check(cold !== warm.k, 'the cold arrival is not the warm one',
+          `cold ${cold}, warm ${warm.k} — a warm arrival that simply fitted would `
+          + 'land below the label threshold on three of four common windows');
+    check(warm.onScreen, 'the selected chip is on screen after a warm arrival',
+          warm.onScreen ? 'the chip is inside the map box'
+                        : 'the chip is outside the map box');
+
+    /* ---- change 5: the two bridges, which are not one control -----------
+       The hazard Design named is the original bug: the view refusing to re-mount a
+       map that is already current. Both controls change the current map, so both
+       hit that path. POISON=bridge makes the re-mount a no-op and requires these
+       to fail. */
+    const POIS_B = process.env.POISON === 'bridge';
+    const fwd = await page.evaluate(() => {
+      const e = document.querySelector('[data-tonet]');
+      return e ? e.textContent.trim() : null;
+    });
+    check(!!fwd && /\d/.test(fwd || ''), 'the forward bridge names a count',
+          JSON.stringify(fwd));
+
+    if (POIS_B) await page.evaluate(() => { window.__board.CMD.showAllConnections = () => {}; });
+    const selBefore = await page.evaluate(() => window.__board.S.sel);
+    await page.evaluate(() => window.__board.CMD.showAllConnections());
+    await page.waitForTimeout(3000);
+    const land = await page.evaluate(() => ({
+      view: window.__board.S.view, sel: window.__board.S.sel,
+      l0wrap: !!document.querySelector('.l0wrap'),
+    }));
+    check((land.view === 'NETWORK' && !land.l0wrap) || POIS_B,
+          'the forward bridge lands on the network renderer',
+          `view ${land.view}, .l0wrap ${land.l0wrap}`
+          + (POIS_B ? ' [POISON=bridge: the command is a no-op]' : ''));
+    check(land.sel === selBefore && !!land.sel,
+          'the forward bridge keeps the selection',
+          `${selBefore} -> ${land.sel}`);
+    if (POIS_B) check(land.view !== 'NETWORK' || land.l0wrap,
+                      'the bridge check can see a bridge that does not move',
+                      `view ${land.view}, .l0wrap ${land.l0wrap} with the command `
+                      + 'neutered — the check must be able to observe the failure');
+
+    /* The reverse control lives on the network chrome, so this half asserts from
+       there regardless of where the forward half left the reader. Without this,
+       POISON=bridge cascaded: the forward control no-ops, the page stays on
+       PROGRAM, and the reverse assertions failed for a reason that has nothing to
+       do with the reverse control. A poison should break the thing it names. */
+    const revOn = await page.evaluate(() => {
+      const B = window.__board;
+      B.CMD.selectNode((B.L0DATA.l0 || [])[5].id);
+      B.CMD.setView('NETWORK');
+      return B.S.sel;
+    });
+    await page.waitForTimeout(2200);
+    const revTxt = await page.evaluate(() => {
+      const e = document.querySelector('[data-toprog]');
+      return e ? e.textContent.trim() : null;
+    });
+    check(!!revTxt && /·/.test(revTxt || ''),
+          'the reverse bridge names the coordinates the destination has',
+          JSON.stringify(revTxt) + ' on ' + revOn);
+
+    const revOff = await page.evaluate(() => {
+      const B = window.__board;
+      const on = new Set((B.L0DATA.l0 || []).map(n => n.id));
+      const n = (B.MAP.nodes || []).find(x => !on.has(x.id));
+      B.CMD.selectNode(n.id);
+      return n.id;
+    });
+    await page.waitForTimeout(2200);
+    const revAbsent = await page.evaluate(() => document.querySelectorAll('[data-toprog]').length);
+    check(revAbsent === 0,
+          'the reverse bridge is absent on a node the program map does not carry',
+          `${revAbsent} controls on ${revOff} — must be 0; absent, not disabled`);
+    await page.evaluate(() => window.__board.CMD.clearSelection());
+  } catch (e) {
+    check(false, "Design's five changes could be exercised", e.message.slice(0, 160));
+  }
+
   /* ---- THE FOIA LAYER -------------------------------------------------------
      A dossier's open questions carry a chip naming the request that would close
      each one. verify.py checks that the LINKAGE is true -- every node on the board,
@@ -338,6 +743,119 @@ const check = (c, label, detail = '') => {
           `${pat.boxes} panels · ${pat.filings} filings · ${pat.quotes} quotes`);
     check(pat.lit === pat.quotes, 'every quotation lights the phrase it means to',
           `${pat.lit} of ${pat.quotes} quotations carry a highlight`);
+    /* ---- the folded dossier must reopen, on BOTH maps ----------------------
+       Reported from the live board, 30 August 2026: "clicking dossier click to
+       open in my screenshot does nothing".
+
+       It did nothing, and only on one tab. The reopen handler was registered
+       inside the packed map's mount, and that module only mounts on PROGRAM. So
+       on NETWORK -- the primary view, the first thing a reader sees -- folding
+       the dossier was a ONE-WAY DOOR: the spine printed CLICK TO OPEN, clicking
+       it did nothing, no error, until the page was reloaded.
+
+       This drives both tabs, because a check that only drove PROGRAM would have
+       passed throughout. The click is a real mouse click at the spine's centre,
+       not a dispatched event, since the whole question is whether a reader's
+       click lands. */
+    const dock = [];
+    for (const view of ['NETWORK', 'PROGRAM']) {
+      /* A FRESH PAGE PER VIEW, and this is the whole point.
+         The first cut of this check reused the shared page and PASSED against
+         the broken build. The old handler was registered by the packed map's
+         mount, on `document` -- so once ANY earlier check had visited PROGRAM
+         it stayed registered, and NETWORK inherited a handler it never had on
+         a page that opened on NETWORK and stayed there. Which is every real
+         reader. The check has to start where the reader starts. */
+      const page = await browser.newPage({ viewport: { width: 1600, height: 1000 } });
+      await page.goto(URL, { waitUntil: 'networkidle' });
+      await page.waitForTimeout(4200);
+      await page.evaluate(async (v) => {
+        const B = window.__board;
+        B.CMD.setView(v);
+        await new Promise(r => setTimeout(r, 2200));
+        B.CMD.selectNode('tom-delonge');
+      }, view);
+      await page.waitForTimeout(1800);
+      const folded = await page.evaluate(() => {
+        const f = document.querySelector('[data-dockfold]');
+        if (!f) return null;
+        f.click();
+        return true;
+      });
+      await page.waitForTimeout(900);
+      const isSpine = await page.evaluate(() =>
+        document.getElementById('dock').classList.contains('dock-spine'));
+      const box = await page.evaluate(() => {
+        const r = document.getElementById('dock').getBoundingClientRect();
+        return { x: Math.round(r.left + r.width / 2), y: Math.round(r.top + r.height / 2) };
+      });
+      await page.mouse.click(box.x, box.y);
+      await page.waitForTimeout(1100);
+      const after = await page.evaluate(() => {
+        const d = document.getElementById('dock');
+        return { spine: d.classList.contains('dock-spine'),
+                 w: Math.round(d.getBoundingClientRect().width) };
+      });
+      dock.push({ view, foldControl: folded, folded: isSpine, after });
+      await page.close();
+    }
+    for (const d of dock) {
+      check(d.foldControl === true && d.folded === true,
+            `the dossier folds to a spine on ${d.view}`,
+            d.foldControl ? `dock-spine applied: ${d.folded}` : 'no [data-dockfold] control');
+      check(d.after.spine === false && d.after.w > 100,
+            `a click on the folded spine reopens the dossier on ${d.view}`,
+            `after the click: spine=${d.after.spine}, width=${d.after.w}px`);
+    }
+    /* ---- and the same class, everywhere, including CSS content --------------
+       The check below reads .pat textContent. That is where the first instance
+       was found, and it is not where the second one was.
+
+       `#dock.dock-spine::after` carried an em-dash escape written into a NON-raw
+       Python string, so Python read it as an octal escape and the board shipped
+       a rail reading "DOSSIER <U+0081>4 CLICK TO OPEN" -- a C1 control character
+       and a stray digit where the dash should be. It rendered as a box glyph in
+       a screenshot and NOTHING SAW IT: it is not in any element's textContent,
+       because it is a CSS `content:` value on a pseudo-element, and the string
+       was exactly as long as a correct one.
+
+       So this walks every rule in every stylesheet. The page is self-contained,
+       so every sheet is same-origin and readable.
+
+       POISON=glyph inserts a rule carrying the same control character into the
+       live stylesheet and requires the count to rise. */
+    const POIS_G = process.env.POISON === 'glyph';
+    const glyph = await page.evaluate((poison) => {
+      const C1 = /[\u0080-\u009f]/;
+      if (poison) {
+        const st = document.createElement('style');
+        st.textContent = '.poison-c1::after{content:"X\\81 4 Y"}';
+        document.head.appendChild(st);
+      }
+      const hits = [];
+      for (const sheet of document.styleSheets) {
+        let rules;
+        try { rules = sheet.cssRules; } catch (e) { continue; }
+        if (!rules) continue;
+        for (const r of rules) {
+          const c = r.style && r.style.content;
+          if (c && C1.test(c)) hits.push((r.selectorText || '?') + ' { content: ' + c.slice(0, 40) + ' }');
+        }
+      }
+      return { hits, inText: C1.test(document.body.innerText || '') };
+    }, POIS_G);
+
+    check((glyph.hits.length === 0) || POIS_G,
+          'no CSS content value carries a C1 control character',
+          (glyph.hits.length ? glyph.hits.slice(0, 3).join(' | ')
+                             : 'every content: value across every stylesheet is clean')
+          + (POIS_G ? ' [POISON=glyph: a poisoned rule was inserted]' : ''));
+    check(glyph.inText === false, 'no C1 control character is rendered as page text',
+          glyph.inText ? 'a control character reaches the reader as text'
+                       : 'body text is clean');
+    if (POIS_G) check(glyph.hits.length > 0, 'the glyph check can see the defect',
+          glyph.hits.length + ' poisoned rules found -- must be > 0');
+
     check(pat.boxGlyph === false, 'no CSS escape reaches the page as a literal glyph',
           pat.boxGlyph ? 'a C1 control character is being rendered as text'
                        : 'no C1 control characters in the rendered tab');
@@ -658,6 +1176,190 @@ const check = (c, label, detail = '') => {
             ? `${geom.buttons} buttons, every sample point reaches its own button`
             : `${geom.unreachable} sample points hit something else :: ${(geom.why||[]).join(' | ')}`);
     await page.evaluate(() => { window.__board.CMD.clearSelection(); });
+
+    /* Runs LAST, deliberately. It is the only check that moves the camera
+       far from where it found it, and two checks above it assert the map is
+       AT REST. Placed before them it reset the camera, the reset eased for
+       longer than any fixed sleep, and the stillness check reported the map
+       'went quiet and then started moving again' -- correctly. Ordering is
+       the fix; weakening either check would not have been. */
+    /* ---- a mark and its name must scale together --------------------------
+       Reported 30 August 2026 with a zoom progression. Change 2 put labels in
+       screen space at one fixed size, which was right, but the MARKS stayed in
+       world space. Zoomed out to k=0.25 a 4.5px dot draws at 1.1px and is gone
+       while its 9px name stays full size -- text labelling nothing.
+
+       THE FIRST VERSION OF THIS CHECK WAS DEAD AND THE POISON PROVED IT.
+       It sampled canvas ink in a 9px box at each labelled node and required
+       ink there. It reported 29 of 29 WITH the floor and 29 of 29 WITHOUT it:
+       at any zoom where the floor matters, the field is dense enough that a box
+       around one node catches a neighbour's ink. It could not have failed.
+
+       So this reads the renderer's own drawn SCREEN radius, published the same
+       way labelBoxes() publishes drawn boxes, and the poison moves it.
+
+       Runs LAST, deliberately: it is the only check that moves the camera far
+       from where it found it, and two checks above assert the map is at rest.
+       Placed before them, its camera reset eased for longer than any fixed
+       sleep and the stillness check correctly reported the map "went quiet and
+       then started moving again". Ordering is the fix; weakening either check
+       would not have been. */
+    const POIS_M = process.env.POISON === 'mark';
+    const mk = await page.evaluate(async (poison) => {
+      const B = window.__board;
+      const sleep = ms => new Promise(r => setTimeout(r, ms));
+      /* OWN THE VIEW. Running last means the PROGRAM tab may be up, and that
+         tab's renderer is the packed map -- a different object behind the same
+         window.__board.MAP. */
+      const was = B.S && B.S.view;
+      B.CMD.setView('NETWORK');
+      await sleep(2500);
+      const M = B.MAP;
+      if (!M.markRadii) return { err: 'markRadii() is not exposed' };
+      if (poison) window.__NO_MIN_MARK = true;
+      B.CMD.clearSelection && B.CMD.clearSelection();
+      M.setLabelPointer(null);
+      for (let i = 0; i < 12; i++) M.zoom('out');
+
+      /* WAIT FOR THE FRAME TO STOP CHANGING, do not sleep a fixed time.
+         drawNode is only called for nodes above alpha 0.02, and clearing the
+         selection eases ~460 nodes back up through that threshold. A fixed
+         2s sleep read a half-eased frame on the CI runner -- 306 marks where
+         this container drew 685 -- and the check failed for measuring a state
+         it had not waited for. That is the same mistake as the camera reset
+         two checks up. */
+      let last = -1, still = 0;
+      for (let i = 0; i < 120 && still < 5; i++){
+        await sleep(120);
+        const n = M.markRadii().length;
+        still = (n === last) ? still + 1 : 0;
+        last = n;
+      }
+
+      const cam = M.cam();
+      const rs = M.markRadii().map(m => m.r).filter(r => r > 0).sort((a, b) => a - b);
+      const out = { k: +cam.k.toFixed(3), n: rs.length,
+                    min: rs.length ? +rs[0].toFixed(2) : null,
+                    p10: rs.length ? +rs[Math.floor(rs.length * 0.1)].toFixed(2) : null };
+      window.__NO_MIN_MARK = false;
+      M.resetCamera();
+      if (was && was !== 'NETWORK') B.CMD.setView(was);
+      return out;
+    }, POIS_M);
+
+    if (mk.err) {
+      check(false, 'a named node still has a visible mark when zoomed out', mk.err);
+    } else {
+      /* 200, not 500. The bar is "did we measure a real population", not a
+         count: how many nodes clear alpha 0.02 on a given frame is a property
+         of the opacity model, not of the thing under test, and pinning it near
+         the observed value made an unrelated change able to fail this. */
+      check(mk.n > 200, 'the mark check has marks to measure',
+            `${mk.n} marks drawn at k=${mk.k}`);
+      /* 3.0 not 3.2: MIN_MARK is 3.2 and the camera eases, so the frame read
+         back can sit a hair under it. The defect being guarded is 1.1px. */
+      check(mk.min >= 3.0 || POIS_M, 'a named node still has a visible mark when zoomed out',
+            `smallest mark ${mk.min}px on screen at k=${mk.k}`
+            + (POIS_M ? ' [POISON=mark: the screen floor removed]' : ''));
+      if (POIS_M) check(mk.min < 3.0, 'the mark check can see the defect',
+            `smallest mark ${mk.min}px once the floor is removed — must fall below 3px`);
+    }
+
+    /* ---- hold space to pan -------------------------------------------------
+       Stewart, 30 August 2026: "due to all the nodes I can't ever pan anywhere
+       because there's no empty space." onDown returned early on any node hit,
+       so panning needed a gap that a 964-node field does not have. Space is the
+       modifier every drawing tool uses for this.
+
+       Asserts the camera actually moves on a drag that STARTS ON A NODE, which
+       is the case that was broken, and that the same drag without space still
+       does not pan. The second half is the poison: it is the old behaviour, and
+       if it also panned then the check would pass for a map that ignores the
+       key entirely. */
+    /* Driven with REAL input, not synthesised events. The first cut dispatched
+       MouseEvents at `.cwrap canvas`, which is the FIRST of three stacked
+       canvases -- the GPU edge layer. The listeners are on the 2D one, so
+       nothing fired and BOTH halves passed by doing nothing: the pan reported
+       0px because no drag happened, and the no-space control reported 0px for
+       the same reason. Two green lines, no input. */
+    const target = await page.evaluate(async () => {
+      const B = window.__board;
+      B.CMD.setView('NETWORK');
+      await new Promise(r => setTimeout(r, 2000));
+      const M = B.MAP;
+      const cv = document.querySelector('.cwrap') || document.querySelector('canvas');
+      const R = cv.getBoundingClientRect();
+      const cam = M.cam();
+      const n = (M.nodes || []).find(n => {
+        const sx = cam.x + n.x * cam.k, sy = cam.y + n.y * cam.k;
+        return sx > 140 && sx < R.width - 140 && sy > 140 && sy < R.height - 140;
+      });
+      if (!n) return { err: 'no node is comfortably on screen' };
+      return { id: n.id,
+               x: Math.round(R.left + cam.x + n.x * cam.k),
+               y: Math.round(R.top + cam.y + n.y * cam.k) };
+    });
+
+    let pan = { err: target.err };
+    if (!target.err) {
+      const camOf = () => page.evaluate(() => {
+        const c = window.__board.MAP.cam(); return { x:c.x, y:c.y };
+      });
+      const selOf = () => page.evaluate(() => (window.__board.S && window.__board.S.sel) || null);
+      const dragFrom = async (withSpace) => {
+        await page.evaluate(() => window.__board.CMD.clearSelection && window.__board.CMD.clearSelection());
+        await page.waitForTimeout(700);
+        const b = await camOf();
+        if (withSpace) await page.keyboard.down(' ');
+        await page.mouse.move(target.x, target.y);
+        await page.mouse.down();
+        for (let i = 1; i <= 6; i++)
+          await page.mouse.move(target.x + i * 22, target.y + i * 11);
+        await page.mouse.up();
+        if (withSpace) await page.keyboard.up(' ');
+        await page.waitForTimeout(600);
+        const a = await camOf();
+        return { moved: Math.round(Math.hypot(a.x - b.x, a.y - b.y)), sel: await selOf() };
+      };
+      const withSpace = await dragFrom(true);
+      await page.evaluate(() => window.__board.MAP.resetCamera());
+      await page.waitForTimeout(1300);
+      const without = await dragFrom(false);   /* the control */
+      await page.evaluate(() => { window.__board.MAP.resetCamera();
+                                  window.__board.CMD.clearSelection && window.__board.CMD.clearSelection(); });
+      await page.waitForTimeout(1300);
+      const held = await page.evaluate(() => window.__board.MAP.spacePan ? window.__board.MAP.spacePan() : null);
+      pan = { withSpace, without, held, node: target.id };
+    }
+
+    if (pan.err) {
+      check(false, 'holding space pans from anywhere, including over a node', pan.err);
+    } else {
+      check(pan.withSpace.moved > 40 && pan.withSpace.sel === null,
+            'holding space pans from anywhere, including over a node',
+            `camera moved ${pan.withSpace.moved}px on a drag starting on ${pan.node}, selection ${pan.withSpace.sel}`);
+      /* THE CONTROL. Two earlier cuts of this got it wrong in both directions.
+         Requiring the camera not to move at all caught 44px, which was the
+         selection re-framing -- a different mechanism, working. Requiring the
+         drag to SELECT caught nothing, because a drag past 3px sets `dragged`
+         and suppresses the click that would have selected.
+         Which is the defect, stated exactly: without space, a drag that starts
+         on a node neither pans nor selects. It does nothing at all, and in a
+         964-node field almost every drag starts on a node. So the control is
+         that the same gesture does NOT pan without the modifier -- otherwise
+         this check would pass for a map that ignores the key entirely.
+         Compared as a RATIO rather than against zero: the camera eases, so the
+         tail of the previous reset is still worth a few dozen pixels when the
+         control drag starts. An absolute floor of 12px caught 31px of easing
+         and called it a pan. */
+      check(pan.withSpace.moved > pan.without.moved * 3,
+            'without space that same drag does not pan',
+            `camera moved ${pan.without.moved}px without space against `
+            + `${pan.withSpace.moved}px with it`);
+      check(pan.held === false, 'the space modifier is released, never latched',
+            `spacePan() is ${pan.held} after keyup`);
+    }
+
   } catch (e) {
     check(false, 'the head strip could be measured with the dock open', e.message.slice(0, 120));
   }
