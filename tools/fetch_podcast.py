@@ -36,6 +36,20 @@ Ids are `<show>-<8 hex of the episode guid>`, so they can never collide with an
 this container has a fixed disk allowance, so keeping it would fail the run
 somewhere in the middle for a reason nobody would connect to the cause.
 
+DO NOT RUN THIS ALONGSIDE THE BROWSER CHECKS
+--------------------------------------------
+Transcription holds about 1.4GB and pins a core or two for hours. `runtime_check`,
+`test_packed_layout` and `look.js` each launch Chromium against a 15.8MB page, and
+Chromium on that page is not cheap either. On 30 August 2026 a run that had already
+proved it could transcribe the feed's LONGEST episode (5h00, 1.38GB peak, measured)
+was OOM-killed on a shorter 4h17 one while two `runtime_check` passes ran beside it.
+Peak for the box hit 15.2GB of 16GB.
+
+That was contention, not a defect -- but the symptom is identical to the real OOM
+this tool was fixed for, exit 137 with no traceback, so the next person to see it
+will reach for the wrong cause. Run the gate, then run this; or run this, then the
+gate. Nothing is lost either way: the cache resumes.
+
 USAGE
 -----
     python3 tools/fetch_podcast.py --show michels --limit 5
