@@ -47,12 +47,12 @@ an action nobody has taken.
 
 | | |
 |---|---|
-| `master` | carries PR #15 (Design's five changes, the label pass, the shell fixes) |
-| PR #16 | **OPEN DRAFT** — sixteen new nodes from the verified leads. Green. Merge it before handing off again |
-| branch | `claude/browser-env-tests-61xi1t` |
+| `master` | carries PR #15 and **PR #16, merged 30 August 17:36 UTC** — the sixteen nodes, the CI deploy, the podcast tooling, both hand-over documents |
+| **the live board** | **https://the-program-zxz.pages.dev** — deployed automatically by the merge, and checked afterwards: 15.85 MB, right title, all six spot-checked new node ids in the served HTML |
+| branch | `claude/browser-env-tests-61xi1t`, restarted from `master` after the squash merge |
 | board | 980 nodes · 2,194 edges · 4,728 claims · 885 timeline events · L0 112 |
 | gate | 52 verify + self-test · 40 audit · 46 runtime · 31 canvas · 15 analyst · `--idempotent` · `check_rebuild` run the way its docstring says — all green |
-| **DEPLOY** | **still outstanding, and a cloud session still cannot run it.** No Cloudflare token in the environment |
+| **DEPLOY** | **SOLVED, 30 August 2026.** `.github/workflows/deploy.yml` deploys on every push to `master`. The credential is a repository secret, so no session can read it and none needs to. `DEPLOY.md` leads with it; the manual route stays as the fallback |
 
 ---
 
@@ -156,8 +156,35 @@ than guessed:
 | overnight run | 5 passes over 8 hours. **Every attempt 429.** The machine did not sleep; its sleep setting is Never and the log shows all five passes running |
 | single-video probe, next morning | still 429, on the `--ytdlp` path |
 
-**The fix is a different IP, not more waiting.** Phone hotspot or a VPN. The one-video
-probe to test it, as a paste-ready block:
+**SUPERSEDED, 30 August 2026 — do not chase a different IP.** It was never a YouTube
+problem. Every channel this project follows is also a **podcast**, and a podcast has an
+RSS feed serving MP3s from a podcast CDN. None of that is YouTube and none of it is
+blocked. `tools/fetch_podcast.py` is the route, and it writes into the same gitignored
+cache with the same shape, so every existing reader works unchanged.
+
+| show | episodes | hours | back to |
+|---|---|---|---|
+| `michels` | 140 | 285 | Oct 2024 |
+| `area52` | 107 | 185 | Sep 2023 |
+| `dannyjones` | 426 | 1,068 | **Nov 2018** |
+
+Measured from the cloud container YouTube refuses: feed HTTP 200, audio 507MB in 15s,
+transcription **~19x realtime** on CPU with `faster-whisper base.en`.
+
+    python3 tools/fetch_podcast.py --show michels --list
+    python3 tools/fetch_podcast.py --show michels --max-hours 11
+
+**UAP Gerb is the exception and it is a finding, not an omission.** Three Apple podcast
+searches return no show under his name, only other people's episodes about him. He
+publishes to YouTube only, so the 35-episode corpus already in `research/leads/` is all
+of him this project can currently reach.
+
+Feeds are resolved with Apple's podcast search API, which needs no key and returns
+`feedUrl` directly:
+`https://itunes.apple.com/search?term=<name>&entity=podcast`
+
+The YouTube material below is kept as the record of what was established, and the probe
+is kept because it is still the only way to test whether that block has lifted:
 
 ```
 cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"

@@ -16,6 +16,12 @@ paste any one of them into a cold terminal without reading the ones above it. Th
 
 ## Automatic, and why you should prefer it
 
+**Live and working since 30 August 2026.** Run 1 of the workflow deployed
+`the-program-zxz.pages.dev` in 41 seconds -- 3.78s to upload, and the deployed page
+was checked afterwards rather than trusted: 15.85 MB, the right `<title>`, and all
+six spot-checked new node ids present in the served HTML. A green tick on a deploy
+job is not evidence the site changed; fetching the site is.
+
 **Since 30 August 2026 a push to `master` deploys the site by itself**, via
 `.github/workflows/deploy.yml`. The manual route below still works and is still the
 fallback, but you should not need it.
@@ -76,7 +82,7 @@ npx wrangler pages deploy site --project-name the-program --branch master
 branch defaults to the **current git branch**, and Cloudflare treats any branch that
 is not the project's production branch as a **preview**. Work here happens on feature
 branches, so without the flag the deploy succeeds, reports a URL, and that URL is a
-hashed preview subdomain — while `the-program.pages.dev`, the link you actually send
+hashed preview subdomain — while `the-program-zxz.pages.dev`, the link you actually send
 people, keeps serving whatever was deployed last. A deploy that looks completely
 successful and does not update the live board.
 

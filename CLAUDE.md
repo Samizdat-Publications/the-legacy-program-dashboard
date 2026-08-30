@@ -26,9 +26,13 @@ as done.
 `notes/HANDOFF-2026-08-27-shell.md` is the last SHELL handoff and is still accurate on the
 shell: it is usable and both panels fold on a curve in both directions. Its statement that
 the image register is at 12 is stale — it is 13 and at its ceiling
-(`notes/IMAGE-CEILING-2026-08-28.md`). **The DEPLOY is still outstanding and a cloud session
-cannot run it** — there is no Cloudflare token in the environment, and `master` carries a
-`<title>` fix that is committed and not yet deployed. `notes/SHELL-2026-08-27.md`,
+(`notes/IMAGE-CEILING-2026-08-28.md`). **The DEPLOY is SOLVED, 30 August 2026:**
+`.github/workflows/deploy.yml` deploys the site on every push to `master`, with the
+Cloudflare credential held as a repository secret that no session can read. The live board
+is **https://the-program-zxz.pages.dev** — note the `-zxz`, which Cloudflare appended
+because `the-program.pages.dev` was already taken by an unrelated project. `DEPLOY.md`
+leads with the automatic route; the manual one stays as the fallback and the analyst
+worker stays manual and Stewart's. `notes/SHELL-2026-08-27.md`,
 `notes/SHELL-DOCK-2026-08-27.md` and `notes/DRAWERS-2026-08-27.md` are that day's working
 records, in that order. `notes/HANDOFF-2026-08-26-UX.md` is still the best statement of the
 original diagnosis; its §4 priority list is done.
