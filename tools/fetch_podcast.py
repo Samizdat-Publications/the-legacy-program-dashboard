@@ -150,6 +150,66 @@ def hhmm(s):
     return "%d:%02d" % (s // 3600, (s % 3600) // 60)
 
 
+# ---------------------------------------------------------------- audio windows
+# WINDOW_SECONDS bounds peak memory. faster_whisper's own decode path reads the
+# WHOLE file into a buffer and converts it, so buffer, array and the conversion's
+# intermediates are live at once, and whisper then works on the entire thing.
+#
+# MEASURED on "New Scans Show Massive Structures Under the Pyramids" (4h12,
+# 44.1kHz stereo, 243MB), which OOM-killed three runs:
+#
+#   whole file, as shipped     12.37 GB peak, exit 137 after ~2 minutes
+#   decode alone, windowed      0.24 GB peak, flat across all 12 windows
+#   one 20-min window + model   1.52 GB peak, 281 segments in 56s
+#   three windows in sequence   1.50 -> 1.56 -> 1.59 GB, so it does not accumulate
+#
+# Decoding sequentially in windows needs no seeking and no temp files.
+#
+# It runs for EVERY episode, not only long ones. Seven of 140 in this feed are
+# over four hours; a branch that fires on 5% of input is a branch nobody knows
+# works, which is CLAUDE.md section 5.
+#
+# The cost, stated rather than hidden: a word straddling a window boundary can be
+# clipped. That is about 12 boundaries in a four-hour episode, against a
+# transcript already labelled machine-generated and uncorrected.
+WINDOW_SECONDS = 1200
+SAMPLE_RATE = 16000
+
+
+def iter_windows(path, window_s=WINDOW_SECONDS, rate=SAMPLE_RATE):
+    """Yield (offset_seconds, float32 mono array), decoding straight through."""
+    import av
+    import numpy as np
+    resampler = av.audio.resampler.AudioResampler(format="s16", layout="mono", rate=rate)
+    buf, n, offset = [], 0, 0.0
+    with av.open(path, mode="r", metadata_errors="ignore") as container:
+        for frame in container.decode(audio=0):
+            frame.pts = None                     # the resampler wants unstamped frames
+            for f in resampler.resample(frame):
+                a = f.to_ndarray().reshape(-1)
+                buf.append(a)
+                n += a.size
+                if n >= window_s * rate:
+                    arr = np.concatenate(buf).astype(np.float32) / 32768.0
+                    buf, n = [], 0
+                    yield offset, arr
+                    offset += arr.size / rate
+    if n:
+        import numpy as np
+        yield offset, np.concatenate(buf).astype(np.float32) / 32768.0
+
+
+def transcribe_windowed(model, path):
+    """Segments for a whole episode, timestamps in episode time."""
+    rows = []
+    for offset, audio in iter_windows(path):
+        segs, _ = model.transcribe(audio, beam_size=1, vad_filter=True)
+        for sg in segs:
+            rows.append({"t": round(sg.start + offset, 2), "text": sg.text.strip()})
+        del audio
+    return rows
+
+
 def download(url, path):
     """Resumable, because a 200MB episode over a flaky link should not restart."""
     have = os.path.getsize(path) if os.path.exists(path) else 0
@@ -303,8 +363,7 @@ def main():
             say("        %.1f MB in %ds" % (size / 1e6, time.time() - t))
 
             t = time.time()
-            segs, _ = model.transcribe(mp3, beam_size=1, vad_filter=True)
-            rows = [{"t": round(s.start, 2), "text": s.text.strip()} for s in segs]
+            rows = transcribe_windowed(model, mp3)
             el = max(time.time() - t, 1)
             say("        %d segments in %s (%.1fx realtime)"
                   % (len(rows), hhmm(int(el)), (dur or el) / el))
