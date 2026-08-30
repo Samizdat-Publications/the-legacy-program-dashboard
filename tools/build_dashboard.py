@@ -2407,6 +2407,16 @@ def main():
         s, ok = l0_patches.apply(s, l0_model, must_replace, layout=layout)
         ok_all &= ok
 
+    # ---- 6. the PATENTS tab -----------------------------------------------
+    # Its own module, and it runs AFTER l0_patches because both add a view and this
+    # one's anchors are written against the array l0_patches leaves behind. The
+    # content is authored in research/patents-view.json and
+    # research/observables-view.json rather than in the renderer, on the
+    # data/l0-highlights.json precedent -- see tools/patents_patches.py.
+    import patents_patches
+    s, ok = patents_patches.apply(s, must_replace)
+    ok_all &= ok
+
     # ---- typeface ---------------------------------------------------------
     s, ok = embed_fonts(s, must_replace)
     ok_all &= ok

@@ -924,6 +924,44 @@ def _images():
         return json.load(fh)
 
 
+_PATENTS_OVERRIDE = None
+_OBS_OVERRIDE = None
+
+
+def _patents():
+    """research/patents-view.json, or the poisoned stand-in during --self-test."""
+    if _PATENTS_OVERRIDE is not None:
+        return _PATENTS_OVERRIDE
+    path = os.path.join(ROOT, "research", "patents-view.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _observables():
+    """research/observables-view.json, or the poisoned stand-in."""
+    if _OBS_OVERRIDE is not None:
+        return _OBS_OVERRIDE
+    path = os.path.join(ROOT, "research", "observables-view.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _flat(t):
+    """Whitespace-flattened, for substring tests against a transcript.
+
+    The wrapper transcripts are hard-wrapped at about 80 columns, so a quotation
+    that is verbatim in the document still fails a naive `in` test the moment it
+    crosses a line. That is not a hypothetical: the first attempt to verify the
+    Sheehy quotation from a shell one-liner reported it ABSENT, because 'beyond the
+    state of the possible' is broken across two lines in the letter. A check that
+    reports a real quote as fabricated is worse than no check."""
+    return " ".join(str(t or "").split())
+
+
 def _layout():
     """The layout model, or the poisoned stand-in during --self-test."""
     if _LAYOUT_OVERRIDE is not None:
@@ -1566,6 +1604,193 @@ def _dz_read_cap(b, html):
     return []
 
 
+@check("every patents-tab quotation is verbatim in the document it cites")
+def _pat_quotes(b, html):
+    """THE ONE RULE THAT NEVER BENDS, mechanised for the PATENTS tab.
+
+    The tab's argument is carried by four quotations, three of them the examiner's,
+    and a quotation is the highest-risk thing this board prints: it looks like
+    evidence, it gets repeated, and nothing about a slightly-wrong one looks wrong.
+    So every quote names the transcript it came from and this reads that file.
+
+    It is not theoretical. The mockup signed off on 29 August is a picture, and a
+    picture is not a source: its Sheehy quotation had to be checked against
+    research/patents/wrapper/sheehy-letter-2017-12-15.txt before it could ship. It
+    was verbatim -- but the check that established that is this one, not the eye.
+
+    tools/spot_check.py does the same job for CLAIMS and is deliberately out of the
+    gate because it depends on the network. This one is in the gate because the
+    documents are transcribed in the repo: no network, no excuse.
+
+    Whitespace is flattened on both sides. The transcripts are hard-wrapped at about
+    80 columns, so a genuinely verbatim quotation crosses a line break and a naive
+    substring test calls it a fabrication."""
+    P = _patents()
+    if P is None:
+        return ["research/patents-view.json is missing and the PATENTS tab is a "
+                "renderer with no content of its own"]
+    bad = []
+    for q in P.get("quotes") or []:
+        text = _flat(q.get("text"))
+        src = (q.get("source") or {}).get("name") or ""
+        who = f'{q.get("speaker")} {q.get("date")}'
+        if not text:
+            bad.append(f"{who}: a quote with no text")
+            continue
+        if not src:
+            bad.append(f"{who}: quoted with no source named")
+            continue
+        # the transcript the source names, if it names one
+        m = re.search(r"(research/[\w./-]+\.txt)", src)
+        if not m:
+            bad.append(f"{who}: the source names no transcript in this repo, so the "
+                       f"quotation cannot be checked here: {src[:80]}")
+            continue
+        path = os.path.join(ROOT, m.group(1))
+        if not os.path.exists(path):
+            bad.append(f"{who}: cites {m.group(1)}, which is not in the repo")
+            continue
+        with open(path, encoding="utf-8") as fh:
+            doc = _flat(fh.read())
+        if text not in doc:
+            bad.append(f"{who}: the quotation is NOT in {m.group(1)} -- "
+                       f"{text[:70]!r}")
+    return bad
+
+
+@check("no patents-tab quotation is edited by its own highlight")
+def _pat_emphasis(b, html):
+    """The renderer lights one phrase inside each quotation. If that phrase is not a
+    substring of the quotation, the renderer drops it silently and the quote prints
+    plain -- which is the safe failure, but a silent one.
+
+    The reason this is a check and not just a guard: a highlight that does not appear
+    in what it highlights is an edit to a quotation, and CLAUDE.md section 2 has no
+    'just for display' case. The renderer must not be the only thing standing between
+    a mistyped emphasis and the page."""
+    P = _patents()
+    if P is None:
+        return ["research/patents-view.json is missing"]
+    bad = []
+    for q in P.get("quotes") or []:
+        em = q.get("emphasis")
+        if not em:
+            continue
+        if str(em) not in str(q.get("text") or ""):
+            bad.append(f'{q.get("speaker")} {q.get("date")}: the highlighted phrase '
+                       f'{str(em)[:50]!r} does not appear in the quotation it '
+                       f'highlights')
+    return bad
+
+
+@check("the five observables stay Tier 2, and the mapping stays separate")
+def _pat_observables(b, html):
+    """TWO GRADES THAT MUST NEVER BE MERGED, and merging them is the easy overclaim
+    this node exists to avoid.
+
+    The TAXONOMY is Tier 2: attributed to one named former official, with no released
+    government document stating the set as a set. The MAPPING is Tier 1: it is read
+    off a FOIA-released Navy briefing. Print the pair as one grade and the board
+    claims the government published the five observables, which it has not.
+
+    And FOUR OF FIVE, NEVER FIVE. Sudden and instantaneous acceleration is not
+    itemised as a design goal in PAX 205 -- the briefing's 'rapid acceleration
+    transients' is how the machine is driven, not a claimed flight characteristic.
+    research/five-observables.json records that four is the accurate figure and five
+    would be the easy overclaim; this asserts the view data still says four, and
+    asserts it by COUNTING the rows rather than by reading a stored number."""
+    O = _observables()
+    if O is None:
+        return ["research/observables-view.json is missing"]
+    bad = []
+    if O.get("tier") != 2:
+        bad.append(f"the taxonomy is graded Tier {O.get('tier')}. It is attributed to "
+                   f"one named former official and no government original has been "
+                   f"located, so it caps at Tier 2 (CLAUDE.md section 2)")
+    obs = O.get("observables") or []
+    if len(obs) != 5:
+        bad.append(f"{len(obs)} observables. The set is five.")
+    for m in O.get("mappings") or []:
+        rows = m.get("rows") or []
+        met = [r for r in rows if r.get("met")]
+        if m.get("tier") != 1:
+            bad.append(f"the mapping against {m.get('against')} is graded Tier "
+                       f"{m.get('tier')}; it is read off a released document and is "
+                       f"Tier 1, and it must not be merged with the taxonomy's grade")
+        if len(rows) != len(obs):
+            bad.append(f"the mapping against {m.get('against')} covers {len(rows)} of "
+                       f"{len(obs)} observables; every one must be accounted for, "
+                       f"including the one that is not met")
+        if len(met) != 4:
+            bad.append(f"the mapping against {m.get('against')} claims {len(met)} of "
+                       f"{len(rows)} observables. Four is the figure the record "
+                       f"supports; five is the overclaim.")
+        for r in rows:
+            if not r.get("met") and not r.get("why"):
+                bad.append(f"{r.get('observable')} is marked NOT met with no reason "
+                           f"given; an absence with no reason reads as an omission")
+            if r.get("observable") not in {o.get("id") for o in obs}:
+                bad.append(f"the mapping names {r.get('observable')!r}, which is not "
+                           f"one of the five")
+    return bad
+
+
+@check("the patents tab prints what it does not have")
+def _pat_absent(b, html):
+    """`absent prints as absent`, the rule this board already gates on the map,
+    applied to the file wrapper.
+
+    The Reasons for Allowance is the examiner's own account of what reversed a
+    rejection he had twice sustained. It is the single most informative document
+    still outstanding on this node, and a reader who cannot see that it is missing
+    will read the wrapper list as complete. So the absent papers are rows, struck
+    through and marked NOT OBTAINED, and each carries the reason it is absent.
+
+    Also asserts the filings are internally consistent: a status set that is not
+    drawn from the closed vocabulary the renderer styles would print as an unstyled
+    chip, and an EXPIRED filing with no expiry date states a fact it cannot support."""
+    P = _patents()
+    if P is None:
+        return ["research/patents-view.json is missing"]
+    bad = []
+    W = P.get("wrapper") or {}
+    if not (W.get("absent") or []):
+        bad.append("the file wrapper lists nothing as absent. Every paper after "
+                   "20 August 2018 is outstanding, the Reasons for Allowance among "
+                   "them; a wrapper that lists only what was obtained reads as "
+                   "complete")
+    for a in W.get("absent") or []:
+        if not a.get("why"):
+            bad.append(f"{a.get('label')!r} is marked absent with no reason. "
+                       f"'Not obtained' and 'does not exist' are different findings")
+    KNOWN = {"GRANTED", "EXPIRED", "APPEALED", "PUBLISHED"}
+    for f in P.get("filings") or []:
+        for k in ("number", "application", "title", "filed"):
+            if not f.get(k):
+                bad.append(f"{f.get('id') or f.get('number')}: no {k}")
+        st = set(f.get("status") or [])
+        if not st:
+            bad.append(f"{f.get('number')}: no status")
+        for x in sorted(st - KNOWN):
+            bad.append(f"{f.get('number')}: status {x!r} is not one the renderer "
+                       f"styles, so it would print as an unmarked chip")
+        if "EXPIRED" in st and not f.get("expired"):
+            bad.append(f"{f.get('number')} is marked EXPIRED with no date")
+        if "GRANTED" in st and not f.get("granted"):
+            bad.append(f"{f.get('number')} is marked GRANTED with no grant date")
+    # the drawings are named here and shipped from a directory; a named sheet with
+    # no derivative renders as an empty frame, which looks like never having tried
+    D = P.get("drawings") or {}
+    thumbs = os.path.join(ROOT, "research", "patents", "drawings", "thumbs")
+    for sh in D.get("sheets") or []:
+        if not os.path.exists(os.path.join(thumbs, sh.get("file") or "")):
+            bad.append(f"drawing sheet {sh.get('file')!r} is named and has no display "
+                       f"derivative; run node tools/make_drawing_thumbs.mjs")
+        if not sh.get("patent"):
+            bad.append(f"drawing sheet {sh.get('file')!r} names no source patent")
+    return bad
+
+
 @check("no research record is silently dropped")
 def _no_rejects(b, html):
     """merge.py writes every record it could not place to tools/REJECTS.json with a
@@ -1946,6 +2171,8 @@ def self_test():
     if os.path.exists(BOARD):
         with open(BOARD, encoding="utf-8") as fh:
             _real_board = json.load(fh)
+    _real_patents = _patents()
+    _real_obs = _observables()
 
     def lay(mut):
         """Deep-copy the real layout model and break it one way."""
@@ -2004,6 +2231,54 @@ def self_test():
             # a clearance word the renderer has never heard of
             "e3": {"clearance": "probably fine", "photo": "p.jpg", "photoCredit": "x"},
         }},
+    }
+
+    # THE PATENTS TAB. Its content lives in two authored files rather than in the
+    # renderer, so it gets its own poison channel, the same pattern as the image
+    # register's and the layout model's. Each poison is the mistake the check exists
+    # to catch, not a mangled predicate.
+    import copy as _copy
+
+    def _pat(fn):
+        d = _copy.deepcopy(_real_patents) if _real_patents else {}
+        fn(d)
+        return d
+
+    def _obs(fn):
+        d = _copy.deepcopy(_real_obs) if _real_obs else {}
+        fn(d)
+        return d
+
+    def _misquote(d):
+        # one word changed in a quotation. It still reads plausibly, cites the same
+        # document, and is not in it.
+        d["quotes"][1]["text"] = d["quotes"][1]["text"].replace(
+            "the math and physics are sound", "the math and physics are unsound")
+
+    def _stray_emphasis(d):
+        d["quotes"][0]["emphasis"] = "beyond the state of the art"
+
+    poison_patents = {} if _real_patents is None else {
+        "every patents-tab quotation is verbatim in the document it cites":
+            _pat(_misquote),
+        "no patents-tab quotation is edited by its own highlight":
+            _pat(_stray_emphasis),
+        "the patents tab prints what it does not have": [
+            # a wrapper that lists only what was obtained reads as complete
+            _pat(lambda d: d["wrapper"].update(absent=[])),
+            # EXPIRED asserted with no date behind it
+            _pat(lambda d: d["filings"][0].pop("expired", None)),
+            # a status the renderer does not style
+            _pat(lambda d: d["filings"][2]["status"].append("PENDING")),
+        ],
+    }
+    poison_obs = {} if _real_obs is None else {
+        "the five observables stay Tier 2, and the mapping stays separate": [
+            # the taxonomy promoted to the grade its mapping earned
+            _obs(lambda d: d.update(tier=1)),
+            # five of five: the easy overclaim
+            _obs(lambda d: d["mappings"][0]["rows"][4].update(met=True)),
+        ],
     }
 
     poison_layout = {} if _real is None else {
@@ -2100,6 +2375,33 @@ def self_test():
                 caught = fn(base, good_html)
             finally:
                 _IMAGES_OVERRIDE = None
+            clean = fn(base, good_html)
+        elif name in poison_patents or name in poison_obs:
+            # A check may carry SEVERAL poisons and every one must be rejected;
+            # one poison per check is only enough when the check asserts one thing,
+            # and `the patents tab prints what it does not have` asserts three.
+            global _PATENTS_OVERRIDE, _OBS_OVERRIDE
+            ps = poison_patents.get(name) or poison_obs.get(name)
+            if isinstance(ps, dict):
+                ps = [ps]
+            in_obs = name in poison_obs
+            caught = []
+            for one in ps:
+                if in_obs:
+                    _OBS_OVERRIDE = one
+                else:
+                    _PATENTS_OVERRIDE = one
+                try:
+                    got = fn(base, good_html)
+                finally:
+                    _PATENTS_OVERRIDE = None
+                    _OBS_OVERRIDE = None
+                if not got:
+                    # name the poison that slipped through rather than just failing
+                    caught = []
+                    print(f"  FAIL  {name} accepted one of its poisons")
+                    break
+                caught = got
             clean = fn(base, good_html)
         elif name in poison_layout:
             global _LAYOUT_OVERRIDE

@@ -1,0 +1,100 @@
+{
+  "_what": "The five observables, as an authored editorial surface. SEPARATE FROM research/five-observables.json ON PURPOSE: that file is board research and produces a node, its claims and its edges. This file is what a VIEW draws, and it exists as its own file rather than inside research/patents-view.json because Stewart asked on 29 August 2026 for the five to be reusable beyond the patents tab -- 'reference how the patents pertain to them here, and reuse the five observables elsewhere ... call it observables or something'. A craft-types surface reads this file; it must not have to read the patents tab's data to find out what the five are.",
+  "_rule": "CLAUDE.md section 2. Every wording here is quoted from a located publication and every mapping line is quoted from the PAX 205 briefing. Nothing is paraphrased into a source.",
+  "_tier": "The taxonomy is TIER 2 and must stay there. It is attributed to one named former official and no released government document stating the set has been located. The MAPPING is Tier 1 -- it is read off a FOIA-released Navy briefing -- and the two must never be merged into one grade.",
+  "id": "five-observables",
+  "node": "five-observables",
+  "title": "The five observables",
+  "tier": 2,
+  "attribution": "Attributed to Luis Elizondo from his work running the Defense Department's Advanced Aerospace Threat Identification Program.",
+  "caveat": "No released government document stating the set as a set has been located, so the list is carried as one named former official's formulation rather than as the Pentagon's. The list has no fixed text: the two published sources located for this board differ on the wording of the first observable and on whether cloaking is named alongside low observability.",
+  "sources": [
+    { "name": "History, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', 20 May 2019", "url": "https://www.history.com/articles/ufo-sightings-speed-appearance-movement" },
+    { "name": "To The Stars, 'Five Characteristics Unique to UAP's'", "url": "https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps" }
+  ],
+  "observables": [
+    {
+      "id": "lift",
+      "label": "Positive lift without flight surfaces",
+      "wordings": [
+        { "text": "Anti-gravity lift", "where": "History, 20 May 2019" },
+        { "text": "Positive lift", "where": "To The Stars" }
+      ],
+      "unsettled": true,
+      "note": "The one observable whose wording the two published sources do not agree on."
+    },
+    {
+      "id": "acceleration",
+      "label": "Sudden and instantaneous acceleration",
+      "wordings": [
+        { "text": "Sudden and instantaneous acceleration", "where": "History, 20 May 2019" },
+        { "text": "Sudden and instantaneous acceleration", "where": "To The Stars" }
+      ]
+    },
+    {
+      "id": "hypersonic",
+      "label": "Hypersonic velocity without signatures",
+      "wordings": [
+        { "text": "Hypersonic velocities without signatures", "where": "History, 20 May 2019" },
+        { "text": "Hypersonic velocities without signatures", "where": "To The Stars" }
+      ]
+    },
+    {
+      "id": "lowobs",
+      "label": "Low observability",
+      "wordings": [
+        { "text": "Low observability, or cloaking", "where": "History, 20 May 2019" },
+        { "text": "Low observability", "where": "To The Stars" }
+      ],
+      "unsettled": true,
+      "note": "Only one of the two sources names cloaking."
+    },
+    {
+      "id": "transmedium",
+      "label": "Trans-medium travel",
+      "wordings": [
+        { "text": "Trans-medium travel", "where": "History, 20 May 2019" },
+        { "text": "Trans-medium travel", "where": "To The Stars" }
+      ]
+    }
+  ],
+  "mappings": [
+    {
+      "_what": "FOUR OF FIVE, NEVER FIVE. The count is derived from these rows and must not be typed anywhere.",
+      "against": "pax-205-disclosure",
+      "againstLabel": "PAX 205 invention-disclosure briefing",
+      "tier": 1,
+      "source": {
+        "name": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, 'Inertial Mass Reduction Device'",
+        "url": "https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf"
+      },
+      "rows": [
+        { "observable": "lift", "met": true, "as": "inertial mass reduction device" },
+        { "observable": "hypersonic", "met": true, "as": "vacuum plasma bubble/sheath, extreme speed without skin friction" },
+        { "observable": "lowobs", "met": true, "as": "non-linear scattering of radio frequency and sonar signals" },
+        { "observable": "transmedium", "met": true, "as": "hybrid aerospace / undersea craft, moving through air / space / water" },
+        { "observable": "acceleration", "met": false, "as": "NOT itemised as a design goal", "why": "The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field. That is a statement about how the machine is driven, not a claimed flight characteristic of the craft." }
+      ]
+    }
+  ],
+  "reading": {
+    "tier": 3,
+    "text": "The mapping is better read as convergence on a shared description than as evidence that either side knew of the other. Pais filed from NAWCAD between 2015 and 2018 and the observables were published from 2019, so the briefing predates the published list; both are drawn from the same body of reported Navy encounters. What the mapping does establish, without inference, is that a Navy technical organisation wrote four of the five down as things it wanted to build."
+  },
+  "openQuestions": [
+    {
+      "text": "No released government document stating the five observables as a set has been located. If the set appears in an AATIP or AAWSAP briefing, the taxonomy moves from one named official's formulation to the government's and this node changes tier.",
+      "closed": false
+    },
+    {
+      "text": "Elizondo's written testimony to the House Committee on Oversight and Accountability of 13 November 2024 does NOT state the five observables: it contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. That was the best remaining route to move the set onto the congressional record, and it is closed.",
+      "closed": true,
+      "tier": 1,
+      "source": { "name": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024", "url": "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" }
+    },
+    {
+      "text": "No canonical text of the list has been located. Whether Elizondo has ever published a fixed form of his own is unresolved.",
+      "closed": false
+    }
+  ]
+}

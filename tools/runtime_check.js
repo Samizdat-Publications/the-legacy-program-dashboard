@@ -201,6 +201,100 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
+  /* ---- THE PATENTS TAB ------------------------------------------------------
+     The tab's CONTENT is checked by verify.py, against the transcripts it cites.
+     This checks what the browser does with it, which is a different question and
+     the one CLAUDE.md section 5 is about: reading the source is not verification.
+
+     Two defects were found here by looking, on the first cut, and neither was
+     visible to any data check:
+
+     1. Every quotation printed a stray box and a capital letter beside its quote
+        marks. The stylesheet said `quotes:'\201C' '\201D'` and the module that
+        carries it was a NON-RAW Python string, so \201 was read as a Python octal
+        escape -- U+0081 -- and the C survived as a literal. The CSS was correct;
+        the file that emitted it was not.
+     2. The prosecution lane labels overprinted into a smear. PAX 205 has ten events
+        inside three years, and 'NON-FINAL', 'ALLOWED — PRIOR ART' and 'GRANTED'
+        rendered as 'NON-ALLOWED — PRIORARTED'.
+
+     POISON=patents puts the second one back on the live page: every label is
+     returned to row 0, which is where they sat before the stagger, and the overlap
+     count must rise. It moves the real labels on the real page rather than
+     corrupting the probe -- a probe that reported 0 regardless would pass a
+     predicate poison and fail this. */
+  try {
+    await page.evaluate(() => window.__board.CMD.setView('PATENTS'));
+    await page.waitForTimeout(2500);
+    const POIS = process.env.POISON === 'patents';
+    if (POIS) await page.evaluate(() => {
+      document.querySelectorAll('.patlane .ev b').forEach(b => { b.style.top = '18px'; });
+    });
+    const pat = await page.evaluate(() => {
+      const q = s => document.querySelectorAll(s).length;
+      const lanes = [...document.querySelectorAll('.patlane .lane')].map(lane => {
+        const ls = [...lane.querySelectorAll('.ev b')].map(e => e.getBoundingClientRect());
+        let hit = 0;
+        for (let i = 0; i < ls.length; i++) for (let j = i + 1; j < ls.length; j++) {
+          const a = ls[i], c = ls[j];
+          if (!(c.left >= a.right || c.right <= a.left || c.top >= a.bottom || c.bottom <= a.top)) hit++;
+        }
+        return { labels: ls.length, overlaps: hit };
+      });
+      const view = document.querySelector('#surface .view');
+      return {
+        boxes: q('.patbox'),
+        quotes: q('.patq blockquote'),
+        lit: q('.patq q em'),
+        filings: q('.patfil > div'),
+        drawings: [...document.querySelectorAll('.patdraw img')].filter(i => i.naturalWidth > 0).length,
+        struck: q('.patwrap li.gone'),
+        obsRows: q('.patobs tr'),
+        lanes,
+        overlaps: lanes.reduce((n, l) => n + l.overlaps, 0),
+        labels: lanes.reduce((n, l) => n + l.labels, 0),
+        /* the header strip, which must be DERIVED. The mockup's read "5 FILINGS ·
+           2 GRANTED" and the data says three are granted. */
+        strip: (document.querySelector('.patfil') || {}).previousElementSibling
+                 ? document.querySelector('.patbox .lede').textContent.trim() : '',
+        /* what the data itself says, recounted here rather than trusted */
+        want: (() => {
+          const F = (window.PATDATA && window.PATDATA.filings) || [];
+          return { n: F.length,
+                   g: F.filter(f => (f.status || []).indexOf('GRANTED') >= 0).length,
+                   e: F.filter(f => (f.status || []).indexOf('EXPIRED') >= 0).length };
+        })(),
+        /* no stray CSS escape reached the page as text */
+        boxGlyph: /[\u0080-\u009f]/.test(document.querySelector('.pat').textContent),
+        scrollable: view ? view.scrollHeight > view.clientHeight : false,
+        hOverflow: document.documentElement.scrollWidth > document.documentElement.clientWidth,
+      };
+    });
+    check(pat.boxes >= 6 && pat.filings === 5 && pat.quotes === 4,
+          'the patents tab draws its sections',
+          `${pat.boxes} panels · ${pat.filings} filings · ${pat.quotes} quotes`);
+    check(pat.lit === pat.quotes, 'every quotation lights the phrase it means to',
+          `${pat.lit} of ${pat.quotes} quotations carry a highlight`);
+    check(pat.boxGlyph === false, 'no CSS escape reaches the page as a literal glyph',
+          pat.boxGlyph ? 'a C1 control character is being rendered as text'
+                       : 'no C1 control characters in the rendered tab');
+    check(pat.overlaps === 0 || POIS, 'no prosecution lane label overprints another',
+          `${pat.labels} labels across ${pat.lanes.length} lanes, ${pat.overlaps} overlapping`
+          + (POIS ? ' [POISON=patents: all labels forced to row 0]' : ''));
+    if (POIS) check(pat.overlaps > 0, 'the lane-label check can see an overprint',
+                    `${pat.overlaps} overlaps with the stagger removed — must be > 0`);
+    check(pat.drawings === 11, 'every drawing sheet loads',
+          `${pat.drawings} of 11 sheets decoded`);
+    check(pat.struck >= 2, 'the wrapper prints what it does not have',
+          `${pat.struck} papers drawn as absent`);
+    check(pat.obsRows === 5, 'all five observables are on the tab, met or not',
+          `${pat.obsRows} rows`);
+    check(pat.hOverflow === false, 'the patents tab never scrolls sideways',
+          pat.hOverflow ? 'the document is wider than the window' : 'no horizontal overflow');
+  } catch (e) {
+    check(false, 'the patents tab could be exercised', e.message.slice(0, 120));
+  }
+
   /* ---- THE INVERSION, 29 August 2026 ----------------------------------------
      Stewart's call after using the live board: the force-directed full graph is
      the primary network map, and Design's packed program map moves to a tab of
