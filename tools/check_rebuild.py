@@ -66,6 +66,50 @@ def _git(*args):
     return subprocess.run(["git"] + list(args), cwd=ROOT, capture_output=True)
 
 
+# The artifacts the section 3 pipeline writes. Used only by the no-build guard
+# below -- the comparison itself still walks whatever `git diff` reports, so a
+# file added to the pipeline later is still compared without being listed here.
+BUILT = (
+    "data/the-program.json", "data/l0-model.json", "data/l0-layout-model.json",
+    "data/design-extract.json", "data/l0-layout-model.js", "data/program-edges.js",
+    "data/program-entities.js", "data/program-people.js", "data/program-timeline.js",
+    "dist/the-program.html",
+)
+
+
+def built_since_last_commit():
+    """Did the pipeline actually run since the last commit?
+
+    THIS CHECK DOES NOT REBUILD. It compares the working tree against HEAD, which
+    means it says exactly nothing on a clean tree -- and "nothing to report" and
+    "the rebuild reproduced" print the same sentence. On 30 August 2026 that cost
+    a red CI run: the pipeline was run incompletely, the result committed, and
+    this tool then run on the resulting clean tree. It printed "committed
+    artifacts match a fresh build" over eleven artifacts that a fresh build does
+    not reproduce, and the commit message repeated it.
+
+    A check that cannot fail is the thing this repo keeps writing down. So:
+    `.git/index` is rewritten by every commit, and the pipeline rewrites every
+    file in BUILT. If NONE of them is newer than the index, no build has happened
+    since the last commit and there is nothing to compare.
+
+    The three flows this has to separate, all of them real:
+
+      CI                      checkout, then build, then this  -> artifacts newer, passes
+      the documented local    build, then this                 -> artifacts newer, passes
+      what happened here      build, commit, then this         -> index newer, REFUSED
+    """
+    idx = os.path.join(ROOT, ".git", "index")
+    if not os.path.exists(idx):
+        return True          # a worktree or a submodule; do not invent a failure
+    t = os.path.getmtime(idx)
+    for p in BUILT:
+        f = os.path.join(ROOT, p)
+        if os.path.exists(f) and os.path.getmtime(f) >= t:
+            return True
+    return False
+
+
 def changed_files():
     r = _git("diff", "--name-only")
     if r.returncode != 0:
@@ -105,6 +149,21 @@ def compare(paths):
 
 
 def main():
+    if not built_since_last_commit():
+        print("::error::check_rebuild: nothing was rebuilt, so there is nothing to compare.")
+        print("This tool diffs the working tree against HEAD; it does not build. On a")
+        print("clean tree with no build behind it, silence means 'you did not run the")
+        print("pipeline', not 'the rebuild reproduced'. Run the CLAUDE.md section 3")
+        print("pipeline, then run this again:")
+        print()
+        print("    python3 tools/merge.py")
+        print("    python3 tools/regrade.py")
+        print("    python3 tools/merge.py")
+        print("    python3 tools/build_l0.py")
+        print("    python3 tools/build_design_extract.py")
+        print("    node    tools/build_l0_layout.mjs")
+        print("    python3 tools/build_dashboard.py")
+        return 1
     real, stamp_only = compare(changed_files())
     for p in stamp_only:
         print("  ok    %s differs only in its build-date stamp" % p)
@@ -162,6 +221,46 @@ def self_test():
     ok &= untouched
     print("  %s  a date that is not a build stamp is left alone"
           % ("ok  " if untouched else "FAIL"))
+
+    # The no-build guard, poisoned on the real filesystem rather than on a stand-in
+    # predicate. CLAUDE.md section 5: poison the page, not just the predicate. Both
+    # directions are exercised against actual mtimes on actual BUILT paths.
+    import tempfile, time
+    print("\nself-test — the no-build guard, against real mtimes\n")
+    idx = os.path.join(ROOT, ".git", "index")
+    if not os.path.exists(idx):
+        print("  n/a   no .git/index here (worktree or submodule); guard returns True by design")
+    else:
+        built = [os.path.join(ROOT, p) for p in BUILT if os.path.exists(os.path.join(ROOT, p))]
+        if not built:
+            print("  FAIL  none of BUILT exists, so the guard can never fire")
+            ok = False
+        else:
+            saved = {f: (os.path.getmtime(f), os.path.getatime(f)) for f in built}
+            saved_idx = (os.path.getmtime(idx), os.path.getatime(idx))
+            try:
+                # ACCEPTS: an artifact newer than the index is a build that happened.
+                now = time.time()
+                os.utime(idx, (now - 100, now - 100))
+                os.utime(built[0], (now, now))
+                got = built_since_last_commit()
+                ok &= got is True
+                print("  %s  a build after the last commit is a comparison worth making"
+                      % ("ok  " if got else "FAIL"))
+                # REJECTS: every artifact older than the index is a commit with no
+                # build behind it -- exactly the 30 August case.
+                for f in built:
+                    os.utime(f, (now - 200, now - 200))
+                os.utime(idx, (now, now))
+                got = built_since_last_commit()
+                ok &= got is False
+                print("  %s  REJECTS: a clean tree with no build behind it"
+                      % ("ok  " if got is False else "FAIL"))
+            finally:
+                for f, (m, a_) in saved.items():
+                    os.utime(f, (a_, m))
+                os.utime(idx, (saved_idx[1], saved_idx[0]))
+
     print("\n" + ("self-test passed" if ok else "SELF-TEST FAILED"))
     return 0 if ok else 1
 

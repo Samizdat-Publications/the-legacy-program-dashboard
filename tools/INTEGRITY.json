@@ -115,5 +115,11 @@
    "overlap": 0.6,
    "shared_url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch"
   }
+ ],
+ "tierA_underconnected": [
+  {
+   "id": "thomas-townsend-brown",
+   "degree": 1
+  }
  ]
 }

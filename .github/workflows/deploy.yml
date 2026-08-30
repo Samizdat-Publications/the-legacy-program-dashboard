@@ -1,0 +1,85 @@
+# Deploy the board to Cloudflare Pages, on master, after the gate is green.
+#
+# WHY THIS EXISTS. The deploy has been Stewart's alone and manual since the board
+# moved to Pages, because `wrangler` needs a Cloudflare credential and no session
+# has one. That is the right security posture and the wrong workflow: it meant
+# `master` could sit deployed-behind for days, and on 30 August 2026 it did --
+# a committed <title> fix and a whole research pass, live nowhere.
+#
+# The fix is not to hand a session a token. It is to put the token somewhere no
+# session can read it and let CI do the deploy. Two repository secrets, set once
+# in Settings -> Secrets and variables -> Actions:
+#
+#   CLOUDFLARE_API_TOKEN    a CUSTOM token with exactly one permission:
+#                           Account -> Cloudflare Pages -> Edit
+#                           NOT the Global API Key, which controls the whole
+#                           account and cannot be scoped.
+#   CLOUDFLARE_ACCOUNT_ID   the hex id on the Cloudflare dashboard's right rail
+#
+# Until both exist this workflow skips itself and says so, rather than failing
+# every push with a credential error.
+#
+# WHAT IT DOES NOT DO. It does not deploy the analyst worker. DEPLOY.md section 2
+# stays manual and stays Stewart's -- the worker holds an API key and its own
+# secret, and nothing here should be able to touch it.
+
+name: deploy
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-master
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Are the credentials configured?
+        id: creds
+        env:
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          ACCOUNT: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          if [ -n "$TOKEN" ] && [ -n "$ACCOUNT" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Cloudflare secrets are not set, so nothing was deployed."
+            echo "::notice::Set CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID in"
+            echo "::notice::Settings > Secrets and variables > Actions. See .github/workflows/deploy.yml."
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.creds.outputs.ready == 'true'
+        with:
+          python-version: '3.11'
+
+      # The committed dist/the-program.html is what CI's own gate check proves
+      # reproduces from source, so the deploy serves the reviewed artifact rather
+      # than rebuilding one nobody has checked. site/ is gitignored and derived.
+      - name: Assemble site/
+        if: steps.creds.outputs.ready == 'true'
+        run: python3 tools/build_site.py
+
+      # --branch master is not optional. On a direct upload the branch defaults to
+      # the current git branch, and Cloudflare treats anything that is not the
+      # project's production branch as a PREVIEW -- so the deploy succeeds, prints
+      # a URL, and the-program.pages.dev keeps serving the previous upload.
+      # DEPLOY.md section 1 records this trap at length.
+      - name: Deploy to Cloudflare Pages
+        if: steps.creds.outputs.ready == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name the-program --branch master

@@ -696,6 +696,110 @@
   "gap": "The Yankee Blue FOIA remand of 15 December 2025 is live. The outcome of the Department of War's renewed search is the single most consequential pending records action in this domain and should be tracked to resolution."
  },
  {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-sarbacher-rdb",
+   "text": "Robert Sarbacher's alleged consultancy to the Research and Development Board has no primary record. It traces only to Wilbert Smith's handwritten notes of 15 September 1950 and to Sarbacher's own 1983 letter. Carried at Tier 3 on the Sarbacher node; NO edge is drawn to research-development-board.",
+   "wouldClose": "The Smith fonds at Library and Archives Canada or the Arthur Bray Fonds at the University of Ottawa. Both refuse this environment."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-smith-memo-1950",
+   "text": "The 21 November 1950 'Geo-Magnetics' memorandum by Wilbert Smith was not obtained in facsimile. Library and Archives Canada returns 403 or a connection reset on every entry point, the archive.org item some secondary pages link as a scan does not exist, and web.archive.org is unreachable from this environment.",
+   "wouldClose": "A facsimile from Library and Archives Canada."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-trimble-witten",
+   "text": "The claim that George Trimble recruited Louis Witten is NOT on the board. The only openable source says Witten approached Bryce DeWitt in a bid to have DeWitt join RIAS, and nothing read states who hired Witten.",
+   "wouldClose": "The AIP oral history with Louis Witten of 17 March 2011, which lists both Trimble and RIAS among its topics. repository.aip.org returns 403 to both curl and WebFetch."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-1127th-lineage",
+   "text": "The 1127th USAF Field Activities Group's activation and inactivation dates are not carried, and neither is its station. No primary lineage record was found; Fort Belvoir appears only in secondary accounts.",
+   "wouldClose": "An Air Force Historical Research Agency lineage and honours statement for the unit."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-osedacz-1989",
+   "text": "The 1989 M.S. thesis by R. Osedacz, 'Orbit determination of sunlight illuminated objects detected by overhead platforms', is named in the AFIT 2008 bibliography and has not been obtained. It is the document that would establish the 1972-onward fastwalker database directly rather than through a citation.",
+   "wouldClose": "DTIC or AFIT Scholar holding the Osedacz thesis."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-bdm-trw-northrop",
+   "text": "The commonly stated chain BDM International to TRW in 1997 and TRW to Northrop Grumman in 2002 was not read off any document. No edge from bdm-international to northrop-grumman is drawn on it, which leaves BDM connected to the board only by its McLean address.",
+   "wouldClose": "The 1997 TRW acquisition agreement or a TRW 10-K naming BDM, and the 2002 Northrop Grumman merger documents, from SEC EDGAR."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-aurora-p1",
+   "text": "The P-1 procurement document that carried the Aurora line was not located or read. The chain is a named Washington Post correspondent reporting its contents, in a contemporaneous article preserved in a US government declassified collection.",
+   "wouldClose": "The FY1986 Department of Defense Procurement Programs (P-1) exhibit. govinfo does not reach 1985 procurement justification books."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-gao-ggd-83-43",
+   "text": "GAO/GGD-83-43 of 18 February 1983, GAO's earlier recommendation on oversight of carve-out contracts which DoD refused, was not opened. It is described on the DIS node only as the 1986 testimony describes it.",
+   "wouldClose": "The report itself from gao.gov."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-gao-nsiad-88-2br",
+   "text": "GAO/NSIAD-88-2BR, 'Information Security: Actions Taken To Improve Lockheed's Special Access Document Accountability', appeared in a search result only and was not opened. It is the follow-up that would say whether anything changed after 1986. Nothing is cited to it.",
+   "wouldClose": "The briefing report itself from gao.gov."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-sperry-1979-rename",
+   "text": "The rename from Sperry Rand Corporation to Sperry Corporation, given by secondary sources as 1 August 1979, has no primary document. EDGAR does not reach back to 1986 filings and no merger agreement or proxy was read.",
+   "wouldClose": "A Sperry Corporation filing or proxy predating EDGAR's electronic coverage."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-brown-british-patent",
+   "text": "British Patent 300,311, named in two documents Brown authored, was not opened. Espacenet and the UK IPO both refuse this environment.",
+   "wouldClose": "The British grant itself from the UK IPO or Espacenet."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-electrogravitics-1956",
+   "text": "The 1956 Aviation Studies (International) report 'Electrogravitics Systems' has no catalogue record anywhere WorldCat indexes. It survives as a reprint whose provenance is one compiler's account of retrieving an unlisted item from one base library. It is on the board at Tier 3 with that stated in the claim text.",
+   "wouldClose": "A catalogued holding of the original in any institution."
+  }
+ },
+ {
+  "domain": "legacy-1947-86",
+  "gap": {
+   "id": "gap-atp-1985-participant",
+   "text": "The May 1985 Advanced Theoretical Physics meeting at BDM rests on papers from a private estate published by a researcher. Neither John B. Alexander's nor Jacques Vallee's published account was read; a named participant in print would move the claim from Tier 3 to Tier 2.",
+   "wouldClose": "A published first-person account by a named participant."
+  }
+ },
+ {
   "domain": "media-structure",
   "gap": "FUNDING OF THE SOL FOUNDATION. The single largest documentary gap in this domain. Sol publishes a complete personnel roster and an explicit account of its legislative access but names no donor, foundation or corporate supporter anywhere on its site. Next step: IRS Form 990 filings (Sol Foundation, EIN not yet identified) via ProPublica Nonprofit Explorer and the California or Delaware charity registries; these would disclose contributions, officer compensation and any related-party transactions."
  },

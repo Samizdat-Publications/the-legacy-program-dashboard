@@ -14,10 +14,14 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-30.md` after this. **It is the current
-one.** `notes/HANDOFF-2026-08-29-MAPS.md` is the brief it answers and all three of its builds
-are now done: the map inversion, the patents tab and the FOIA layer.
-`notes/HANDOFF-2026-08-29.md` is superseded and accurate only on what it lists as done.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-08-30-EVENING.md` after this. **It is
+the current one.** It carries the sixteen-node research pass, the YouTube block on the Michels
+transcripts, the Design hand-over including where the screenshots are and what is stale about
+them, and Stewart's live-board backlog. `notes/HANDOFF-2026-08-30.md` is the morning brief it
+supersedes and is still accurate on the map inversion, the patents tab and the FOIA layer.
+`notes/HANDOFF-2026-08-29-MAPS.md` is the brief those answer and all three of its builds
+are now done. `notes/HANDOFF-2026-08-29.md` is superseded and accurate only on what it lists
+as done.
 
 `notes/HANDOFF-2026-08-27-shell.md` is the last SHELL handoff and is still accurate on the
 shell: it is usable and both panels fold on a curve in both directions. Its statement that
@@ -53,20 +57,20 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 
 | | |
 |---|---|
-| nodes | 964 (279 people · 685 entities) |
-| hand-written sourced edges | 2,172 |
-| tiered claims | 4,614 — T1 2,855 · T2 1,257 · T3 502 |
-| edge tiers | T1 1,389 · T2 584 · T3 199 |
-| unique source URLs | 2,941 |
-| dead citations | 0 |
-| timeline events | 872 |
+| nodes | 980 (286 people · 694 entities) |
+| hand-written sourced edges | 2,194 |
+| tiered claims | 4,728 — T1 2,948 · T2 1,274 · T3 506 |
+| edge tiers | T1 1,408 · T2 586 · T3 200 |
+| unique source URLs | 3,042 |
+| dead citations | 0 as of the 25 August sweep; not re-run since |
+| timeline events | 885 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
-| primary map | the force-directed full graph, all 964 nodes. **Inverted 29 August 2026** |
-| program map (L0) | 110 nodes, all with dossiers, on the PROGRAM tab |
-| map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
-| links drawn at rest | 103 of 326, by the model's own budget |
+| primary map | the force-directed full graph, all 980 nodes. **Inverted 29 August 2026** |
+| program map (L0) | 112 nodes, all with dossiers, on the PROGRAM tab |
+| map layout | Design's packed cells: 7 bands x 5 columns, 112 chips at one size |
+| links drawn at rest | 104 of 332, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
-| built artifact | `dist/the-program.html`, 15.6 MB |
+| built artifact | `dist/the-program.html`, 15.85 MB |
 | gate | 52 verify checks + 40 audit re-derivations + 46 runtime + 31 canvas + 15 analyst assertions, all self-tested |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
@@ -150,7 +154,7 @@ has nothing to do with the board.
 tab, not NETWORK — the two maps swapped roles on 29 August; see §9. The map is drawn with
 `ctx.` calls, so for six sessions the standing assumption was that a cloud session could not
 verify it -- `runtime_check.js` asserts through text nodes and there are none. `getImageData`
-has no such problem. The check aims the camera at each of the 110 chips in turn and samples
+has no such problem. The check aims the camera at each of the 112 chips in turn and samples
 the pixel at that chip's own class rule, against coordinates `data/l0-layout-model.json`
 states independently. It found two defects on the day it was written that reading the source
 did not: see `notes/PACKED-LAYOUT-BUILD-2026-08-25.md`.
@@ -394,6 +398,29 @@ surface" includes markup, not just copy.
 ---
 
 ## 9. What is next, in priority order
+
+> **DONE, 30 August 2026: SIXTEEN NODES FROM THE VERIFIED LEADS.** Section A and section
+> B of `research/leads/CANDIDATES-2026-08-30.md`, approved by Stewart. Record:
+> `notes/HANDOFF-2026-08-30-EVENING.md`. Board 964 -> 980, claims 4,614 -> 4,728.
+>
+> **Four things a next session must not undo.**
+>
+> 1. **The exclusions are decisions, not gaps.** No Sarbacher-to-RDB edge, no
+>    Trimble-recruited-Witten edge, no BDM-to-Northrop edge, and `sperry-rand` is
+>    deliberately unattached because MacArthur has no node. Section E of the candidates
+>    file says why for each. Each one looks like something missing.
+> 2. **The section D corrections are load-bearing.** The Lockheed unaccounted-for total is
+>    **11**, not 17 plus 46. The Moon Dust **49/17 figures are deorbit notifications
+>    received, not objects recovered**. JANAP 146 carries no dollar figure; 18 U.S.C. 793
+>    does. Neither Brown patent claims anti-gravity. Winterhaven contains no saucer.
+> 3. **L0 went 110 -> 112.** `usaf` and `lockheed-skunk-works` crossed the floor of 6.
+>    Note that §9's older text says `usaf` "is not on the map at all" under the correct
+>    floor -- that was true and is now not. Both gained dossiers in
+>    `research/dossiers/legacy-1947-86-l0.json`. All 31 canvas assertions still pass.
+> 4. **A research record with no `cls` is dropped by `merge.py` in silence.** Seven
+>    section B records were authored that way and 22 claims never reached the board while
+>    every other check stayed green. `no research record is silently dropped` named all
+>    seven by id. Fifth instance of §5 in these notes; do not weaken that check.
 
 > **0. DONE, 25 August 2026.** `origin/claude/status-update-bewtdk` was merged into this
 > line with Stewart's approval. `research/` did not conflict; both hand-edited tools

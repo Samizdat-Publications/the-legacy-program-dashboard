@@ -120,6 +120,16 @@ export const TIMELINE = [
     node: 'd-roswell'
   },
   {
+    id: 'tl-1947-rdb',
+    strand: 'program',
+    date: '1947-07-26',
+    precision: 'day',
+    label: 'Research and Development Board established',
+    text: 'The National Security Act of 1947 (61 Stat. 495) creates the Research and Development Board, the statutory coordinating body for defence research. Truman appoints Vannevar Bush its chairman, continuing him from the Joint Research and Development Board the service secretaries had set up after V-J Day.',
+    tier: 'A',
+    node: 'research-development-board'
+  },
+  {
     id: 'ag-tl-1947-nsa47',
     strand: 'program',
     date: '1947-07-26',
@@ -390,6 +400,16 @@ export const TIMELINE = [
     node: 'edward-ruppelt'
   },
   {
+    id: 'tl-1952-stork-inception',
+    strand: 'program',
+    date: '1952-03-31',
+    precision: 'day',
+    label: 'Project Stork begins',
+    text: 'Work begins on Project Stork, designation PPS-100, later carried as contract AF-19741, for the Air Technical Intelligence Center. The first status report of 25 April 1952 describes progress \'from its inception on March 31, 1952\'. Seven status reports survive, totalling 107 pages, and the transcribing archive records that further reports referenced in the text are not in NARA custody.',
+    tier: 'A',
+    node: 'project-stork'
+  },
+  {
     id: 'tl-intl-1952-second-storey',
     strand: 'program',
     date: '1952-04',
@@ -500,12 +520,32 @@ export const TIMELINE = [
     node: 'frederick-durant'
   },
   {
+    id: 'tl-1953-brown-fag',
+    strand: 'program',
+    date: '1953-03-25',
+    precision: 'day',
+    label: 'The FBI investigates Project Winterhaven as possible fraud',
+    text: 'An FBI report out of Cincinnati records that Thomas Townsend Brown \'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven\' and \'anticipates a contract of approximately a million dollars\'. The Washington Field Office is directed to determine any possible violation of the Fraud Against the Government statute, and to review Brown\'s patents at the Patent Office.',
+    tier: 'B',
+    node: 'thomas-townsend-brown'
+  },
+  {
     id: 'tl-1953-08-26',
     strand: 'coverup',
     date: '1953-08-26',
     precision: 'day',
     label: 'AFR 200-2 issued',
     text: 'The Air Force regulation on UFO reporting restricts public release on unexplained cases to the bare fact that ATIC will analyse the data. Revised 12 August 1954.',
+    tier: 'A',
+    node: 'afr-200-2'
+  },
+  {
+    id: 'tl-1953-afr-200-2',
+    strand: 'coverup',
+    date: '1953-08-26',
+    precision: 'day',
+    label: 'AFR 200-2 puts the release restriction in writing',
+    text: 'Air Force Regulation 200-2, short title UFOB, signed by order of the Secretary of the Air Force by N. F. Twining, supersedes AFL 200-5 of 29 April 1952. It designates ATIC as the analysis authority, directs that all evidence be forwarded there, and restricts public discussion to cases conclusively identified as conventional. Identified cases could be discussed; unidentified ones could not.',
     tier: 'A',
     node: 'afr-200-2'
   },
@@ -570,6 +610,26 @@ export const TIMELINE = [
     node: 'blue-book-special-report-14'
   },
   {
+    id: 'tl-1955-trimble-rias',
+    strand: 'program',
+    date: '1955-06-10',
+    precision: 'day',
+    label: 'An aerospace prime proposes an institute to study gravity',
+    text: 'George S. Trimble of the Glenn L. Martin Company writes to Bryce DeWitt that \'our industry was vitally concerned with gravity\' and that respectable researchers \'do not wish to get mixed up in the field of gravity research\'. He proposes an \'industrial version of the Institute for Advanced Study\'. RIAS, Inc. of Baltimore is the result; Louis Witten is its first researcher.',
+    tier: 'B',
+    node: 'rias-inc'
+  },
+  {
+    id: 'tl-1957-chapel-hill',
+    strand: 'program',
+    date: '1957-01-18',
+    precision: 'day',
+    label: 'RIAS at the Chapel Hill gravitation conference',
+    text: 'The participants list of the conference on the role of gravitation in physics prints \'Witten, L. | RIAS, Inc., Baltimore\' and \'Bass, R.W. | RIAS , Inc., Baltimore\'. The conference report is WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center. The participants record their own concern to avoid identification with anti-gravity research.',
+    tier: 'B',
+    node: 'rias-inc'
+  },
+  {
     id: 'tl-ffrdc-1958-mitre',
     strand: 'program',
     date: '1958-07-21',
@@ -598,6 +658,16 @@ export const TIMELINE = [
     text: 'The government\'s standing panel of elite scientists is created - and housed inside an FFRDC operator rather than inside the government. It has never been anywhere else since.',
     tier: 'A',
     node: 'jason-advisory-group'
+  },
+  {
+    id: 'tl-1960-hillenkoetter',
+    strand: 'program',
+    date: '1960-06-01',
+    precision: 'day',
+    label: 'The first DCI asks Congress to investigate',
+    text: 'A Worcester Gazette report, filed in CIA records and released in 2014, quotes Adm. Roscoe H. Hillenkoetter, DCI from May 1947 to October 1950: \'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO\'s come from and what their purpose is.\' He is by then a NICAP board member and has referred his conclusions to the Senate Space Committee.',
+    tier: 'A',
+    node: 'roscoe-hillenkoetter'
   },
   {
     id: 'tl-ffrdc-1960-aerospace',
@@ -638,6 +708,16 @@ export const TIMELINE = [
     text: 'The National Reconnaissance Office is established with its very existence classified - a status maintained until September 1992. For thirty-one years the legally required answer to whether the organisation existed was no, which is the documented proof that a categorical official denial can be false and lawful at the same time.',
     tier: 1,
     node: 'd-denial'
+  },
+  {
+    id: 'tl-1962-corso-ftd',
+    strand: 'witness',
+    date: '1962-04-18',
+    precision: 'day',
+    label: 'Corso becomes Chief, Foreign Technology Division, OCRD',
+    text: 'Philip J. Corso\'s own DA Form 66 records him as \'Chief Foreign Technology Div, OCRD USA\' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council.',
+    tier: 'B',
+    node: 'philip-corso'
   },
   {
     id: 'tl-1965-1209-kecksburg',
@@ -718,6 +798,16 @@ export const TIMELINE = [
     text: 'All ten Minuteman missiles of Echo Flight, 341st Strategic Missile Wing, go off alert status. An Air Force teletype the following day concerns loss of strategic alert. Robert Salas would later attribute the cause to an object over the front gate.',
     tier: 'A',
     node: 'malmstrom-echo-flight-1967'
+  },
+  {
+    id: 'tl-1967-1127th',
+    strand: 'program',
+    date: '1967-06-30',
+    precision: 'day',
+    label: 'The 1127th\'s own history names the recovery pipeline',
+    text: 'The 1127th USAF Field Activities Group\'s semiannual history, doc. AFNIABA 014-67, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM. It records exploitation personnel from FTD Detachment 3 deployed to crash sites and about three tons of parts airlifted to Wright-Patterson, and SPADATS notifying the unit of 37 Soviet deorbits.',
+    tier: 'A',
+    node: 'usaf-1127th-field-activities-group'
   },
   {
     id: 'tl-1967-1004-shag',
@@ -988,6 +1078,16 @@ export const TIMELINE = [
     text: 'Citizens Against UFO Secrecy is established under attorney Peter Gersten and begins FOIA litigation against the CIA.',
     tier: 'B',
     node: 'caus'
+  },
+  {
+    id: 'tl-1977-janap-146e',
+    strand: 'coverup',
+    date: '1977-05-17',
+    precision: 'day',
+    label: 'JANAP 146 still lists UFOs, eight years after Blue Book closed',
+    text: 'Change No. 2 to JANAP 146(E) is promulgated. Unidentified flying objects remain a reportable CIRVIS category at Article 201, and Article 208 continues to incorporate 18 U.S.C. 793 and the Canadian Official Secrets Act. Project Blue Book closed in December 1969. The document was released under FOIA on 28 February 1994.',
+    tier: 'A',
+    node: 'janap-146'
   },
   {
     id: 'tl-intl-1977-petro',
@@ -1380,6 +1480,16 @@ export const TIMELINE = [
     node: 'institute-advanced-studies-austin'
   },
   {
+    id: 'tl-1985-aurora-p1',
+    strand: 'coverup',
+    date: '1985-02-08',
+    precision: 'day',
+    label: 'Aurora appears in the Pentagon\'s unclassified procurement list',
+    text: 'The Washington Post reports that the Pentagon\'s own unclassified P-1 document shows spending on an Air Force programme called Aurora rising from zero to $80 million in FY1986 and $2.27 billion in FY1987. Reminded that its own department had published the figures, an Air Force spokesman said his orders were to say only \'It\'s a classified program.\' Five years before the Aviation Week story.',
+    tier: 'A',
+    node: 'aurora-budget-line'
+  },
+  {
     id: 'tl-1985-06-sr4',
     strand: 'program',
     date: '1985-06',
@@ -1428,6 +1538,16 @@ export const TIMELINE = [
     text: 'Brigadier José Pessoa Cavalcanti de Albuquerque signs a CONFIDENCIAL Relatório de Ocorrências concluding that \'the phenomena are solid and reflect in a certain manner intelligence, by the capacity to follow and to maintain distance from observers as well as to fly in formation, not necessarily crewed\'. It stays classified for twenty-three years.',
     tier: 1,
     node: 'doc-fab-1986-report'
+  },
+  {
+    id: 'tl-1986-gao-lockheed',
+    strand: 'oversight',
+    date: '1986-07-24',
+    precision: 'day',
+    label: 'GAO tells Congress a carve-out contractor lost control of its documents',
+    text: 'GAO testifies to the House Energy and Commerce Subcommittee on Oversight and Investigations that Lockheed reported 1,460 discrepancies in a 40,000-item special-access inventory, 11 of them still unresolved. In the same statement it explains that since 1965 special access programs have been excluded from Defense Investigative Service supervision, and that this is why they are called carve-out contracts.',
+    tier: 'A',
+    node: 'gao-130581'
   },
   {
     id: 'tl-1986-0821-dismissal',
@@ -2570,6 +2690,16 @@ export const TIMELINE = [
     text: 'Bigelow Aerospace Advanced Space Studies wins the DIA AAWSAP contract on a special appropriation obtained through Sen. Harry Reid. Government-funded UAP research moves onto private premises.',
     tier: 'A',
     node: 'bigelow-aerospace'
+  },
+  {
+    id: 'tl-2008-fastwalker',
+    strand: 'program',
+    date: '2008-03-10',
+    precision: 'day',
+    label: 'A public AFIT thesis defines \'fastwalker\'',
+    text: 'AFIT/GA/ENY/08-M06, distribution unlimited, defines the term in its own words as \'any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit\'. The words UFO and unidentified appear nowhere in its 112 pages. It names a fastwalker observation database with data from as far back as 1972, and a 1989 predecessor thesis by R. Osedacz.',
+    tier: 'B',
+    node: 'afit-townsend-2008'
   },
   {
     id: 'tl-intl-2008-tna',

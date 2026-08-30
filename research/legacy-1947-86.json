@@ -1,0 +1,1890 @@
+{
+ "domain": "legacy-1947-86",
+ "people": [
+  {
+   "id": "thomas-townsend-brown",
+   "label": "Thomas Townsend Brown",
+   "cls": "person",
+   "status": "dead",
+   "date": "1953-03-25",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": null,
+   "sub": "Electrostatic-propulsion inventor; five patents; subject of a 1953 FBI fraud inquiry",
+   "cluster": "research",
+   "tier": "B",
+   "C": 2,
+   "A": 1,
+   "D": 2,
+   "domains": [
+    "d-prop",
+    "d-research",
+    "d-exotic"
+   ],
+   "narrative": "Thomas Townsend Brown is the technical origin point on which the entire electrogravitics thread hangs, and the useful thing this board can do with him is separate what he patented from what was later written about him. The patents are real and were read off the USPTO's own image server: US 1,974,483 ELECTROSTATIC MOTOR (1934), US 2,207,576 (1940), US 2,417,347 VIBRATION DAMPER (1947, assigned by mesne assignments to Lockheed Aircraft Corporation), US 2,949,550 ELECTROKINETIC APPARATUS (1960) and US 3,187,206 ELECTROKINETIC APPARATUS (1965). None of them claims gravity control. The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges'; the 1965 patent opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and is explicit that the reaction appears in the surrounding medium and, in vacuum, on the walls of the chamber. That is an electrostatic-thrust claim. The word 'electrogravitics' appears in none of them.\n\nProject Winterhaven is real and does not say what the secondary literature says it says. The 66-page proposal, 'A PROPOSAL FOR JOINT SERVICES RESEARCH AND DEVELOPMENT CONTRACT, THE TOWNSEND BROWN FOUNDATION', does propose research on 'the control of gravitation' and lists 'electrified disc airfoils' among results to date. But the words 'saucer', 'interceptor', 'Mach' and 'Air Force' appear in it zero times. The saucer-as-USAF-interceptor framing belongs to the 1956 Aviation Studies (International) report 'Electrogravitics Systems', not to Winterhaven, and that report has no catalogue record anywhere WorldCat indexes.\n\nThe provenance that matters most is the one the enthusiast literature omits. Brown's own FBI file records the Winterhaven pitch inside a Fraud Against the Government inquiry: the LEADS section directs the Washington Field Office to 'ascertain from appropriate defense agencies the nature of any overtures made by BROWN' and to 'determine any possible violation of the [F]AG Statute'. The same file carries named informants describing the apparatus as a relabelled stock-market predicting machine, one of them 'confident this flying saucer thing is a phony'. A node on Brown that carries the patents without that is not an honest node.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "US Patent 1,974,483, 'ELECTROSTATIC MOTOR', names Thomas Townsend Brown of Zanesville, Ohio, filed 7 February 1930 (Ser. No. 426,738) and issued 25 September 1934.",
+     "source": "US Patent 1,974,483, front page, read off the USPTO image server"
+    },
+    {
+     "tier": 1,
+     "text": "The 1934 patent claims 'a method of producing force or motion by applying and maintaining high potential electro-static charges in a system of chargeable masses and associated electrodes', and describes the motor as useful in observatory recording instruments. It does not claim gravity control.",
+     "source": "US Patent 1,974,483, specification"
+    },
+    {
+     "tier": 1,
+     "text": "US Patent 3,187,206, 'ELECTROKINETIC APPARATUS', filed 9 May 1958 and issued 1 June 1965, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and states that in a dielectric fluid medium 'the forces of reaction appear to be present in that medium', and in vacuum 'on the solid environmental bodies, such as the walls of the vacuum chamber'.",
+     "source": "US Patent 3,187,206, specification"
+    },
+    {
+     "tier": 1,
+     "text": "US Patent 2,417,347, 'VIBRATION DAMPER', issued 11 March 1947, prints its inventor line as 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'.",
+     "source": "US Patent 2,417,347, header page"
+    },
+    {
+     "tier": 1,
+     "text": "US Patent 2,949,550, 'Electrokinetic Apparatus', filed 3 July 1957 and granted 16 August 1960, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'.",
+     "source": "US Patent 2,949,550, first claim"
+    },
+    {
+     "tier": 1,
+     "text": "Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute.",
+     "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati"
+    },
+    {
+     "tier": 1,
+     "text": "The same FBI referral instructs a review 'at the Patent Office' of 'patents No. 1,974,483 (U. S. Electrostatic motor) and No. 2,207,576' to determine what Brown had patented that was pertinent to the inquiry.",
+     "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section"
+    },
+    {
+     "tier": 1,
+     "text": "A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'.",
+     "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI file reproduces a letter of 23 December 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND BROWN. . . was installed in this laboratory about 1931', adding 'I did not attend it or attempt to analyze the results.'",
+     "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, enclosure"
+    },
+    {
+     "tier": 1,
+     "text": "A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.'",
+     "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950"
+    },
+    {
+     "tier": 1,
+     "text": "The words 'saucer', 'interceptor', 'Mach' and 'Air Force' do not appear anywhere in the 66-page Project Winterhaven proposal. The description of Winterhaven as proposing a saucer designated a USAF interceptor originates in the 1956 Aviation Studies (International) report, not in the proposal.",
+     "source": "Project Winterhaven, full-text search of the 66-page proposal"
+    },
+    {
+     "tier": 2,
+     "text": "Brown's own biographical sketch bound into Project Winterhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932, Bureau of Ships acoustic and magnetic minesweeping 1940-41, Materials and Processes Engineer at Glenn L. Martin, and radar consultant at Lockheed. Only the Lockheed item is corroborated by a second document, the assignment line of US 2,417,347.",
+     "source": "Project Winterhaven, biographical sketch -- a self-description"
+    },
+    {
+     "tier": 2,
+     "text": "British Patent 300,311, 'Method and Apparatus for Producing Force or Motion', issued 15 August 1927, is named in two documents Brown authored: his Winterhaven biography and the text of US 3,187,206. The British grant itself was not opened; Espacenet and the UK IPO refuse this environment.",
+     "source": "US Patent 3,187,206, which states 'my British Patent 300,311, issued August 15, 1927'; and Project Winterhaven"
+    },
+    {
+     "tier": 3,
+     "text": "The 1956 report 'Electrogravitics Systems', attributed to the Gravity Research Group, Special Weapons Study Unit, Aviation Studies (International) Ltd., report GRG-013/56, survives only as a reprint. A WorldCat title search for 'electrogravitics' returns no results, and the compiler's own account is that the original was retrieved from the Wright-Patterson AFB technical library as an item not listed on its catalogue.",
+     "source": "Thomas Valone anthology reprinting the report; WorldCat title search returning no results"
+    }
+   ],
+   "sources": [
+    {
+     "name": "US Patent 1,974,483, Electrostatic Motor",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/1974483",
+     "date": "1934-09-25"
+    },
+    {
+     "name": "US Patent 2,207,576",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2207576",
+     "date": "1940-07-09"
+    },
+    {
+     "name": "US Patent 2,417,347, Vibration Damper (assigned to Lockheed Aircraft Corporation)",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347",
+     "date": "1947-03-11"
+    },
+    {
+     "name": "US Patent 3,187,206, Electrokinetic Apparatus",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3187206",
+     "date": "1965-06-01"
+    },
+    {
+     "name": "US Patent 2,949,550, Electrokinetic Apparatus",
+     "url": "https://patents.google.com/patent/US2949550A/en",
+     "date": "1960-08-16"
+    },
+    {
+     "name": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000",
+     "url": "https://archive.org/download/tt-brown/E65ffaeec360d48a08a97fb70305b58f18aac8f13_Q104175_R432679_D2722930_20231226_132723_djvu.txt",
+     "date": "2026-08-30"
+    },
+    {
+     "name": "Project Winterhaven, Townsend Brown Foundation (private upload, no institutional custody)",
+     "url": "https://archive.org/details/projectwinterhaven",
+     "date": "2026-08-30"
+    }
+   ],
+   "unverified": "The Project Winterhaven scan is a private upload to archive.org with no institutional custody named, so its contents are documented but its authenticity as a 1952-53 artifact rests on the uploader. British Patent 300,311 was not opened. The 1956 'Electrogravitics Systems' report has no catalogue record anywhere WorldCat indexes."
+  },
+  {
+   "id": "philip-corso",
+   "label": "Philip J. Corso",
+   "cls": "person",
+   "status": "dead",
+   "date": "1962-04-18",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": null,
+   "sub": "Lt. Col., US Army; Chief, Foreign Technology Division, OCRD, 18 Apr - 18 Jul 1962",
+   "cluster": "witness",
+   "tier": "B",
+   "C": 2,
+   "A": 2,
+   "D": 2,
+   "domains": [
+    "d-witness",
+    "d-legacy",
+    "d-recovery"
+   ],
+   "narrative": "Corso is the case where the primary record is both stronger and weaker than the claim made for him, and a node is the only place a reader sees both halves. His own DA Form 66, released by US Army Reserve Personnel Command in April 1998, puts the Army's Foreign Technology Division in his service record: staff officer in the division from 20 July 1961, then 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962 -- three months. The same form places him at Fort Riley, Kansas from 21 April 1947, which covers the alleged 6 July 1947 observation, and records him as an Intelligence Staff Officer on the Operations Coordinating Board in Washington from 24 February 1954 to 1957.\n\nHis 322-page FBI release is the other half. Searched in full, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times. What the file does contain is independent corroboration of the OCB posting from a source that is not Corso: in 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate' on a list of alleged Fabian Socialists, 'as he, Corso, had actually accumulated the information'. It also contains a 1964 episode in which Corso was found to be the source of a rumour that Oswald had been a paid FBI informant, and in which he 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact'.\n\nOne line in his sworn statement does not survive his own service record. The affidavit says he 'was a member of President Eisenhower's National Security Council'. The DA Form 66 records the Operations Coordinating Board, which reported to the NSC and was not the NSC. That is a documentable overstatement in a sworn document, and this board carries it because the same record that supplies his strongest corroboration supplies it.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Corso's DA Form 66 records 'Chief, Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, and a move to 'Staff O, Plans Div' on 18 July 1962 -- a three-month chieftaincy, following a year as a staff officer in the same division from 20 July 1961.",
+     "source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, released by US Army Reserve Personnel Command April 1998; signed by Corso 20 October 1966"
+    },
+    {
+     "tier": 1,
+     "text": "The same form places Corso at 'The Ground Gen Sch, Ft Riley, Kansas' from 21 April 1947, and records 'Intel Staff O ... 8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954 to 1957.",
+     "source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, Record of Assignments"
+    },
+    {
+     "tier": 1,
+     "text": "The Army FOIA release letter enclosing the DA Form 66 is addressed to John Greenewald, Jr., in response to a request of 23 February 1998 -- not to Larry Bryant, as the hosting archive's own case-file page states.",
+     "source": "US Army Reserve Personnel Command FOIA release letter, April 1998, signed Ange F. Nash"
+    },
+    {
+     "tier": 1,
+     "text": "Corso's FBI release runs to 322 posted pages of cross-references. Searched in full text, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times.",
+     "source": "FBI release, FOIPA Request No. 1380241-001, subject CORSO, PHILIP JAMES; full-text search of all 322 pages"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI files state plainly: 'Our files do not reveal that Corso has been investigated by this Bureau.'",
+     "source": "FBI release, FOIPA Request No. 1380241-001"
+    },
+    {
+     "tier": 1,
+     "text": "In 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate ... as he, Corso, had actually accumulated the information' on a list of alleged Fabian Socialists. The FBI reviewed its files on those named and found 'insufficient evidence to prove the validity of the allegation.' This corroborates the OCB posting from a record that is not Corso's own.",
+     "source": "FBI release, FOIPA Request No. 1380241-001"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI file records that in February 1964, a rumour that Lee Harvey Oswald had been a paid FBI informant was traced to Corso, who 'admitted that he had passed out information concerning Oswald's alleged connection with the FBI', refused to name his sources, and 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact.'",
+     "source": "FBI release, FOIPA Request No. 1380241-001"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI file records Corso's appearance before the Senate Internal Security Subcommittee on 15 May 1961, testimony which 'consisted primarily of his reading into the Committee's records the entries from personal and private office diaries that he kept during his service with the Operations Coordinating Board from 1953 to 1957.'",
+     "source": "FBI release, FOIPA Request No. 1380241-001"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI's FOIPA cover letter is dated 12 April 2024 and states '449 pages were reviewed and 313 pages are being released'; the release consists of cross-references only, with no main file on Corso.",
+     "source": "FBI FOIPA cover letter, Request No. 1380241-001, 12 April 2024"
+    },
+    {
+     "tier": 2,
+     "text": "Corso's affidavit was sworn in May 1998, with the day left blank in the circulating copy, and was announced by a CAUS press release of 8 June 1998. It asserts he 'was a member of President Eisenhower's National Security Council' -- which his own DA Form 66 contradicts, recording him instead as an Intelligence Staff Officer on the Operations Coordinating Board, a body that reported to the NSC and was not the NSC. No signed original of the affidavit was obtained; only a reproduction of its text.",
+     "source": "Reproduction of the CAUS press release of 8 June 1998 and the affidavit text, adjudicated against the DA Form 66"
+    }
+   ],
+   "sources": [
+    {
+     "name": "DA Form 66 and April 1998 Army FOIA release letter, Philip J. Corso",
+     "url": "https://www.theblackvault.com/documents/ufos/corso/corso.pdf",
+     "date": "1998-04-01"
+    },
+    {
+     "name": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)",
+     "url": "https://documents3.theblackvault.com/documents/fbifiles/1380241-001.pdf",
+     "date": "2024-04-12"
+    },
+    {
+     "name": "The Day After Roswell, Corso with Birnes, Pocket Books 1997 (library record)",
+     "url": "https://archive.org/details/dayafterroswell0000cors",
+     "date": "1997-01-01"
+    },
+    {
+     "name": "Reproduction of the CAUS press release of 8 June 1998 with the affidavit text",
+     "url": "https://openminds.tv/corso-legacy/",
+     "date": "1998-06-08"
+    }
+   ],
+   "unverified": "No signed original of the 1998 affidavit was obtained. Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, 21 F. App'x 774 (9th Cir. 2001), docket No. 00-16036, D.C. No. CV-99-00108-SMM (D. Ariz.), was located in CourtListener's index but its opinion body is behind authentication and was not read; note it is a 1999 district filing, not the March 1998 filing CAUS announced. Corso's 'Dawn of a New Age' manuscript contains no affidavit -- the words affidavit, sworn, CAUS and Gersten do not appear in it -- and must not be cited for one."
+  },
+  {
+   "id": "roscoe-hillenkoetter",
+   "label": "Roscoe H. Hillenkoetter",
+   "cls": "person",
+   "status": "dead",
+   "date": "1960-06-01",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": "cia",
+   "sub": "First Director of Central Intelligence, May 1947 - October 1950; NICAP board member 1960",
+   "cluster": "ic",
+   "tier": "B",
+   "C": 3,
+   "A": 2,
+   "D": 3,
+   "domains": [
+    "d-ic",
+    "d-disclosure",
+    "d-coverup"
+   ],
+   "narrative": "The first Director of Central Intelligence went on the public record in 1960 saying that the objects were 'operating under intelligent control' and asking Congress to investigate, and the documents that establish it are held by the Central Intelligence Agency itself. A Worcester Gazette clipping of 1 June 1960, filed in CIA records and released in 2014, reports him declaring: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.' The same clipping gives his tenure as DCI, May 1947 to October 1950, and reports that he wanted a congressional investigation. A second CIA-held clipping, an Enquirer editorial of 4 March 1960, independently records him as a board member of NICAP who 'has referred his conclusions to the Senate Space Committee, requesting an investigation' -- while itself disagreeing with him.\n\nNone of that requires MJ-12, and this board does not route him through it. The purported 1948 Hillenkoetter-to-Truman memo shown to be an emulation of a Marshall-to-Roosevelt letter is a claim about a document, not about the man, and nothing above depends on it. A negative finding points the same way as the Corso file: the National Security Archive's mirror of the FBI files on Hillenkoetter contains, across the sections searched, zero occurrences of NICAP, flying saucer, unidentified flying, Keyhoe, or the year 1960. His FBI file is not a UFO file.\n\nThe structural point is the ordering. A former DCI publicly contradicting the Air Force's public position, while sitting on the board of the organisation pressing for hearings, is a fact about the disclosure apparatus that the board should reach directly rather than through somebody else's narrative about a forgery.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
+     "source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin; declassified in part 2014-06-12"
+    },
+    {
+     "tier": 1,
+     "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
+     "source": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960"
+    },
+    {
+     "tier": 1,
+     "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
+     "source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960, editorial 'Flying Saucers Again'; declassified in part 2014-06-12"
+    },
+    {
+     "tier": 1,
+     "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
+     "source": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960"
+    },
+    {
+     "tier": 2,
+     "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+     "source": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2",
+     "date": "1960-06-01"
+    },
+    {
+     "name": "CIA-RDP68-00046R000200090028-9, Enquirer, 4 March 1960",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090028-9",
+     "date": "1960-03-04"
+    },
+    {
+     "name": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror",
+     "url": "https://archive.org/details/RoscoeH.Hillenkoetter",
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  {
+   "id": "robert-sarbacher",
+   "label": "Robert I. Sarbacher",
+   "cls": "person",
+   "status": "dead",
+   "date": "1983-11-29",
+   "age": null,
+   "loc": "Palm Beach, FL",
+   "locId": null,
+   "instId": null,
+   "sub": "Microwave engineer; Dean of the Graduate Division, Georgia Tech; author of the 1983 Steinman letter",
+   "cluster": "witness",
+   "tier": "B",
+   "C": 2,
+   "A": 1,
+   "D": 2,
+   "domains": [
+    "d-witness",
+    "d-legacy",
+    "d-research"
+   ],
+   "narrative": "The board already leans on Sarbacher second-hand, through Wilbert Smith, and a node is the only place the distinction that matters can be put where a reader sees it: he says in his own signed letter that he was invited to the meetings and did not attend them. The letter is real. Two typed pages on Washington Institute of Technology letterhead, dated 29 November 1983, addressed to William Steinman, signed, with Steinman's handwritten receipt note 'Received 12-5-83'. In it Sarbacher says John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'; that 'I could not personally attend the meetings'; that materials 'reported to have come from flying saucer crashes were extremely light and very tough'; and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Everything about a Wright Field meeting, and everything Eric Walker is said to have said, is not in this letter.\n\nTwo problems are visible on the document's own face. Sarbacher writes of 'My association with the Research and Development Board under Doctor Compton during the Eisenhower administration' -- the RDB was a Truman-era body abolished in June 1953, five months into Eisenhower's first term, and Karl T. Compton chaired it in the late 1940s. At about 76 he is conflating administrations in the most-quoted paragraph of the document. And his postscript, asking Steinman to check the spelling of Bush's name, is omitted from the typed transcript bound into the same PDF, so anyone quoting the transcript is quoting an abridged letter.\n\nHis credentials are not in doubt: the title page of his 1943 Wiley textbook names him 'Robert I. Sarbacher, Sc.D., Associate Professor of Electrical Engineering, Illinois Institute of Technology'. What is in doubt is the RDB consultancy the secondary literature attaches to him, for which no primary record was found, and the provenance of the letter itself, which reaches this board through an advocacy publisher's scan rather than an institutional archive.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes that John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'.",
+     "source": "Sarbacher to Steinman, 29 November 1983, two-page signed facsimile"
+    },
+    {
+     "tier": 1,
+     "text": "In the same letter Sarbacher states that he was invited to but did not attend any recovery meeting: 'I could not personally attend the meetings.' The distinction is his own and is the single most important thing the letter establishes.",
+     "source": "Sarbacher to Steinman, 29 November 1983, facsimile"
+    },
+    {
+     "tier": 1,
+     "text": "The letter states that materials 'reported to have come from flying saucer crashes were extremely light and very tough', and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Both are given as impressions relayed to him, not as first-hand observation.",
+     "source": "Sarbacher to Steinman, 29 November 1983, facsimile"
+    },
+    {
+     "tier": 1,
+     "text": "The letter contains an internal date error in its most-quoted paragraph: Sarbacher writes of 'My association with the Research and Development Board under Doctor Compton during the Eisenhower administration.' The RDB was established by the National Security Act of 1947 and abolished 30 June 1953; Karl T. Compton chaired it in the late 1940s, under Truman.",
+     "source": "Sarbacher to Steinman, 29 November 1983, facsimile, read against the NARA finding aid for Record Group 330"
+    },
+    {
+     "tier": 1,
+     "text": "The letter's postscript -- 'It occurs to me that Dr. Bush's name is inccorrect as you have it. Please check the spelling' -- is omitted from the typed transcript bound into the same PDF, so a citation to the transcript rather than the scan is a citation to an abridged document.",
+     "source": "Sarbacher to Steinman, 29 November 1983; facsimile pages 1-2 compared with transcript pages 3-4 of the same PDF"
+    },
+    {
+     "tier": 1,
+     "text": "The title page of Hyper and Ultrahigh Frequency Engineering, John Wiley & Sons, copyright 1943, names 'Robert I. Sarbacher, Sc.D., Associate Professor of Electrical Engineering, Illinois Institute of Technology', with William A. Edson as co-author.",
+     "source": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943, fourth printing September 1944, title page"
+    },
+    {
+     "tier": 2,
+     "text": "The only reachable copy of the 1983 letter is hosted by an advocacy publisher, and the same PDF's last page is a product order form. The scan appears to be a genuine photocopy of a typed letter, but no institutional archive holds a copy that could be opened, so its status is a facsimile widely reproduced from Steinman's own file rather than an archived document.",
+     "source": "Provenance assessment of the hosting item; no institutional custody located"
+    },
+    {
+     "tier": 3,
+     "text": "The claim that Sarbacher was a consultant to the Research and Development Board has no primary record. It traces, in every secondary account found, to Wilbert Smith's handwritten notes of a 15 September 1950 meeting and to Sarbacher's own 1983 letter. A full-text archive search for Sarbacher together with 'Research and Development Board' returns one unusable item, and the Georgia Tech clippings file does not mention the RDB.",
+     "source": "Stated inference: no primary record located for the consultancy; see the letter and Smith's notes, neither of which is an RDB record"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Sarbacher to Steinman, 29 November 1983, signed two-page facsimile with typed transcript",
+     "url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf",
+     "date": "1983-11-29"
+    },
+    {
+     "name": "Hyper and Ultrahigh Frequency Engineering, Sarbacher and Edson, John Wiley & Sons 1943",
+     "url": "https://archive.org/details/dli.ernet.14512",
+     "date": "1943-01-01"
+    },
+    {
+     "name": "Robert Sarbacher clippings, Georgia Institute of Technology (private upload, no institutional custody)",
+     "url": "https://archive.org/details/robert-sarbacher-georgia-institute-technology-georgiatech",
+     "date": "2026-08-30"
+    }
+   ],
+   "unverified": "The 21 November 1950 'Geo-Magnetics' memorandum by Wilbert Smith was not obtained. Library and Archives Canada refuses this environment, and the archive.org item some secondary pages link as a scan does not exist -- its metadata endpoint returns an empty object. The RDB consultancy is therefore carried at Tier 3 and no RDB edge is drawn."
+  },
+  {
+   "id": "eric-wang",
+   "label": "Eric H. Wang",
+   "cls": "person",
+   "status": "dead",
+   "date": "1953",
+   "age": null,
+   "loc": "Albuquerque, NM",
+   "locId": "l-kirtland",
+   "instId": null,
+   "sub": "Chief, Special Studies Office, Installations Division, Air Materiel Command; later Chief, Structures Division, AFSWC Kirtland",
+   "cluster": "research",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "domains": [
+    "d-research",
+    "d-legacy"
+   ],
+   "narrative": "Eric H. Wang is on this board because he is documented, and the documentation is the point: it establishes a named Air Materiel Command office chief at Wright Field who moved to Kirtland, and it establishes nothing else. Four Operation UPSHOT-KNOTHOLE structures reports at DTIC name him identically: 'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program', with Arthur Stansel and Mrs. Maisie G. Ridgeway in the same section. The Project 3.1 report records that responsibility for the six projects transferred 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'. A 1960 report names him 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, Air Force Special Weapons Center, Kirtland Air Force Base.\n\nHis documented role is atomic blast effects on structures. That is a real and sensitive job at Kirtland and it explains his presence there without needing anything else. Nothing in any of these reports touches UAP, recovered materiel, reverse engineering, Kissinger or Schauberger, and no document supporting an Austrian birth was found. Those claims are not on this board at any tier, and this node exists partly to say so.\n\nThree corrections travel with him. The printed name of the office is the Special Studies Office, inside the Installations Division of Air Materiel Command, not the 'Office of Special Studies'. His middle initial is H. The colleague is Arthur Stansel, not Stancil -- and the Project 3.5 report tracks him onward to the Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Operation UPSHOT-KNOTHOLE Project 3.1 final report names 'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program', alongside Arthur Stansel and Mrs. Maisie G. Ridgeway, secretary to Mr. Wang.",
+     "source": "Operation Upshot-Knothole, Project 3.1, Tests on the Loading of Building and Equipment Shapes, DTIC ADA073468, acknowledgments"
+    },
+    {
+     "tier": 1,
+     "text": "The same report records that 'Most of the introduction section of this report was taken from the preface of the Preliminary Report, Operation UPSHOT-KNOTHOLE, Project 3.1 authored by Eric H. Wang and Bernard J. O'Brien', and that responsibility for the six projects transferred 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+     "source": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468, introduction"
+    },
+    {
+     "tier": 1,
+     "text": "A 1960 report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, Air Force Special Weapons Center, Kirtland Air Force Base, New Mexico -- establishing his move from Air Materiel Command to Kirtland and his continued leadership of a structures organisation there.",
+     "source": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283, 6 May 1960, acknowledgments"
+    },
+    {
+     "tier": 1,
+     "text": "The printed name of the organisation is the Special Studies Office (also Special Studies Section), inside the Installations Division of Air Materiel Command -- not the 'Office of Special Studies'. The colleague's name is Arthur Stansel, whom the Project 3.5 report tracks onward to 'Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center'.",
+     "source": "Operation UPSHOT-KNOTHOLE Project 3.5, DTIC ADA073475, acknowledgments; and Project 3.1, DTIC ADA073468"
+    },
+    {
+     "tier": 1,
+     "text": "Nothing in the UPSHOT-KNOTHOLE reports or the 1960 AFSWC report touches unidentified aerial phenomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. No document supporting an Austrian birth was located.",
+     "source": "Full-text reading of DTIC ADA073468, ADA073475 and AD0460283; negative finding"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468",
+     "url": "https://archive.org/details/DTIC_ADA073468",
+     "date": "1955-07-01"
+    },
+    {
+     "name": "Operation UPSHOT-KNOTHOLE, Project 3.5, DTIC ADA073475",
+     "url": "https://archive.org/details/DTIC_ADA073475",
+     "date": "1955-05-01"
+    },
+    {
+     "name": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283",
+     "url": "https://archive.org/details/DTIC_AD0460283",
+     "date": "1960-05-06"
+    }
+   ]
+  },
+  {
+   "id": "louis-witten",
+   "label": "Louis Witten",
+   "cls": "person",
+   "status": "dead",
+   "date": "1957-01-18",
+   "age": null,
+   "loc": "Baltimore, MD",
+   "locId": null,
+   "instId": "rias-inc",
+   "sub": "General relativist; first researcher hired by RIAS, Inc., the Glenn L. Martin Company's research institute",
+   "cluster": "research",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 0,
+   "domains": [
+    "d-research",
+    "d-prop"
+   ],
+   "narrative": "Louis Witten is on this board for one documented fact and its context: in January 1957 he attended the Chapel Hill conference on the role of gravitation in physics as a representative of RIAS, Inc., Baltimore. The participants list of the conference report prints it plainly -- 'Witten, L. | RIAS, Inc., Baltimore' -- immediately above 'Bass, R.W. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'. The report's own designation is WADC Technical Report 57-216 and it exists because of a conference funding agreement with the Wright Air Development Center, which is to say an Air Force body paid for the meeting at which an aerospace prime's research institute discussed gravitation.\n\nWhat is documented about his work is classical general relativity, not gravity control. The conference participants themselves recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and nothing read in this pass shows RIAS producing gravity-control results. The board carries him as the hire that establishes what RIAS actually was, and it does not carry the claim that George Trimble recruited him -- the one source that could be opened says Witten approached Bryce DeWitt to recruit DeWitt, and the oral history that would settle the direction refuses this environment.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list"
+    },
+    {
+     "tier": 1,
+     "text": "The conference report's official designation is WADC Technical Report 57-216, and it exists because of a conference funding agreement with the Wright Air Development Center -- an Air Force body.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, title page and editorial matter"
+    },
+    {
+     "tier": 2,
+     "text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report"
+    },
+    {
+     "tier": 2,
+     "text": "The conference participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research'. Witten's documented output is classical general relativity, including exact electrovacuum solutions to the Einstein field equation; nothing read shows RIAS producing gravity-control results.",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context'; and the American Institute of Physics catalog abstract for the Louis Witten oral history"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference (WADC Technical Report 57-216)",
+     "url": "https://edition-open-sources.org/sources/5/",
+     "date": "1957-01-23"
+    },
+    {
+     "name": "Chapel Hill conference participants list",
+     "url": "https://edition-open-sources.org/sources/5/6/index.html",
+     "date": "1957-01-18"
+    },
+    {
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html",
+     "date": "2011-01-01"
+    },
+    {
+     "name": "AIP catalog record, Louis Witten oral history, 17 March 2011",
+     "url": "https://history.aip.org/catalog/icos/36985.html",
+     "date": "2011-03-17"
+    }
+   ],
+   "unverified": "The claim that George Trimble recruited Witten is NOT carried. The only openable source says Witten approached Bryce DeWitt in a bid to have DeWitt join RIAS, and nothing read states who hired Witten. The AIP oral history that lists both Trimble and RIAS among its topics returned 403 to both curl and WebFetch and was not read."
+  },
+  {
+   "id": "george-trimble",
+   "label": "George S. Trimble",
+   "cls": "person",
+   "status": "dead",
+   "date": "1955-06-10",
+   "age": null,
+   "loc": "Baltimore, MD",
+   "locId": null,
+   "instId": null,
+   "sub": "Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study",
+   "cluster": "research",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 0,
+   "domains": [
+    "d-research",
+    "d-prop",
+    "d-contractor"
+   ],
+   "narrative": "RIAS was Trimble's idea and gravity was explicitly its subject, and both facts come off his own dated letter. Writing to Bryce DeWitt on 10 June 1955 he opens: 'During a recent conversation with Mr. George Rideout, president of Roger Babson's Gravity Research Foundation, we were commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' He continues: 'It occurred to us some time ago that our industry was vitally concerned with gravity ... At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.' He described the proposed body as an 'industrial version of the Institute for Advanced Study'.\n\nThat is an aerospace prime's executive, in 1955, in writing, saying his industry needed gravity research and that respectable people would not touch it -- which is a documented statement of exactly the reputational mechanism this board maps elsewhere. Martin money also reached the university side: Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit more.\n\nThe industrial and academic halves were deliberately kept apart, and the source says why. The Martin company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was placed inside UNC 'so as to avoid the conflict that physicists felt working in an industrial setting.' Note what is not carried here: no document read states that Trimble recruited Louis Witten, and this board draws no such edge.",
+   "claims": [
+    {
+     "tier": 2,
+     "text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
+     "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report"
+    },
+    {
+     "tier": 2,
+     "text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
+     "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles"
+    },
+    {
+     "tier": 2,
+     "text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context'"
+    },
+    {
+     "tier": 2,
+     "text": "Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding.",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context'"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context', quoting Trimble to DeWitt, 10 June 1955",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html",
+     "date": "1955-06-10"
+    },
+    {
+     "name": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history",
+     "url": "https://physics.unc.edu/home/department-history/section-ii/",
+     "date": "2026-08-30"
+    },
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference",
+     "url": "https://edition-open-sources.org/sources/5/",
+     "date": "1957-01-23"
+    }
+   ],
+   "unverified": "RIAS's founding date and founder were not established from a primary record. A '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened. Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it."
+  }
+ ],
+ "entities": [
+  {
+   "id": "gao-130581",
+   "cls": "document",
+   "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
+   "cluster": "oversight",
+   "sub": "GAO testimony, 24 July 1986, House Energy and Commerce, Subcommittee on Oversight and Investigations",
+   "tier": "A",
+   "C": 1,
+   "A": 1,
+   "D": 3,
+   "dateStart": "1986-07-24",
+   "dateEnd": "1986-07-24",
+   "desc": "On 24 July 1986 the General Accounting Office told a congressional subcommittee that a prime contractor's special-access document control had failed, and in the same statement explained that the body which would ordinarily have inspected it had been excluded from doing so since 1965. That conjunction is this board's structural argument, documented and dated. The cover page reads: 'STATEMENT OF MARTIN M FERBER, ASSOCIATE DIRECTOR, NATIONAL SECURITY AND INTERNATIONAL AFFAIRS DIVISION, BEFORE THE SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS, HOUSE COMMITTEE ON ENERGY AND COMMERCE, ON CONTROLS OVER CLASSIFIED DOCUMENTS FOR A SPECIAL ACCESS PROGRAM AT LOCKHEED CORPORATION'. The venue is worth noting: not a defence committee.\n\nThe numbers are exact and the popular version of them is wrong. Lockheed reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items. As of 19 July 1986 it had completed investigation on 235 of them; 224 were 'later accounted for' and 11 were unresolved -- 7 inadvertently destroyed and 4 not located. The 46 destroyed and the 17 transferred out of the company sit inside the 224 that were accounted for, not outside them. The genuinely unaccounted-for total is 11.\n\nGAO explains the carve-out in its own words: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', a 1965 decision, and by 1983 GAO estimated 'there probably were several thousand such contracts'. Its closing sentence is the finding: 'it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.' The companion letter report to the Secretary of Defense, GAO/NSIAD-86-191 of 7 August 1986, goes further and names the plant the testimony would not.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Lockheed reported 1,460 discrepancies: 'The current inventory of all 53 document control substations has been completed, and Lockheed has reported 1,460 discrepancies.' The inventory 'consists of about 40,000 secret and top-secret items.'",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "The unaccounted-for total is 11, not 17 or 46: 'Lockheed's reported results --which we have not yet had the opportunity to verify-- are that 224 documents were later accounted for, and 11 were unresolved ... Lockheed says 7 of the 11 unresolved documents were inadvertently destroyed and it could not locate the other 4.' The 46 destroyed and the 17 transferred out of the company are dispositions within the 224 accounted for.",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "GAO states the exclusion as a standing policy decision: 'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "GAO explains the term: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', and 'In 1983, we estimated that there probably were several thousand such contracts.'",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "The testimony closes: 'In summary, it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.'",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "The companion letter report GAO/NSIAD-86-191, B-223830, 7 August 1986, to the Secretary of Defense, signed Frank C. Conahan, states that 'the deterioration of document accountability for the special access contract at Lockheed may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
+     "source": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts, 7 August 1986"
+    },
+    {
+     "tier": 1,
+     "text": "The companion report names 'the Lockheed/Burbank plant', which the testimony itself does not. The testimony carries a footnote explaining why: 'As part of DOD granting us access to the special access program to respond your request, we agreed not to identify the nature of the program or the specific DOD component or military service involved.'",
+     "source": "GAO/NSIAD-86-191, 7 August 1986; and GAO accession 130581, footnote"
+    }
+   ],
+   "sources": [
+    {
+     "name": "GAO accession 130581, Controls Over Classified Documents for a Special Access Program at Lockheed Corporation (14-page testimony scan)",
+     "url": "https://www.gao.gov/assets/130581.pdf",
+     "date": "1986-07-24"
+    },
+    {
+     "name": "GAO product record 130581",
+     "url": "https://www.gao.gov/products/130581",
+     "date": "1986-07-24"
+    },
+    {
+     "name": "GAO/NSIAD-86-191, Information Security: Need for DOD Inspections of Special Access Contracts",
+     "url": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+     "date": "1986-08-07"
+    },
+    {
+     "name": "GAO product record NSIAD-86-191",
+     "url": "https://www.gao.gov/products/nsiad-86-191",
+     "date": "1986-08-07"
+    }
+   ]
+  },
+  {
+   "id": "defense-investigative-service",
+   "cls": "institution",
+   "label": "Defense Investigative Service",
+   "cluster": "oversight",
+   "sub": "DoD industrial security inspectorate; excluded from special access programs by a 1965 decision",
+   "tier": "A",
+   "C": 1,
+   "A": 1,
+   "D": 3,
+   "dateStart": null,
+   "dateEnd": null,
+   "desc": "The Defense Investigative Service is the body whose absence the board keeps having to explain. It conducted the periodic industrial security inspections of cleared contractor facilities -- including, GAO says in terms, other contracts at Lockheed -- and it was excluded from special access programs by a Department of Defense decision in 1965. GAO's own vocabulary preserves the mechanism: special access contracts are called carve-out contracts 'because they are carved out of the Defense Investigative Service's periodic inspection program'.\n\nTwo GAO findings bracket what that exclusion cost. In February 1983, GAO/GGD-83-43 recommended improvements in DoD oversight of carve-out contracts and DoD refused, on stated grounds including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary'. In August 1986, after the Lockheed document-control failure, GAO told the Secretary of Defense that the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.' The board carries DIS because the argument it makes about custody is not that oversight failed but that oversight was structurally absent, and this is the office that was absent from it.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', following a 1965 DoD decision that special access programs 'would be excluded from supervision by the Defense Investigative Service'.",
+     "source": "GAO accession 130581, statement of Martin M. Ferber, 24 July 1986"
+    },
+    {
+     "tier": 1,
+     "text": "GAO told the Secretary of Defense that the Lockheed document-accountability failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed' -- establishing that DIS inspected Lockheed's non-special-access work while excluded from the special access contract at the same company.",
+     "source": "GAO/NSIAD-86-191, B-223830, 7 August 1986, signed Frank C. Conahan"
+    },
+    {
+     "tier": 2,
+     "text": "GAO/GGD-83-43 of 18 February 1983, 'Further Improvements Needed in Department of Defense Oversight of Special Access (Carve-Out) Contracts', recommended change and DoD refused. The 1986 testimony gives DoD's stated reasons, including that 'access by Service inspectors would proliferate access beyond the minimum number of persons necessary.' The 1983 report itself was not opened in this pass.",
+     "source": "GAO accession 130581, 24 July 1986, describing GAO/GGD-83-43 -- the earlier report was not read"
+    }
+   ],
+   "sources": [
+    {
+     "name": "GAO accession 130581, testimony of 24 July 1986",
+     "url": "https://www.gao.gov/assets/130581.pdf",
+     "date": "1986-07-24"
+    },
+    {
+     "name": "GAO/NSIAD-86-191, 7 August 1986",
+     "url": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+     "date": "1986-08-07"
+    }
+   ],
+   "unverified": "DIS's own founding date is NOT carried. The commonly given 1972 was not read off a primary record in this pass, and an unsourced date renders to a reader as an established one, so the field is null rather than guessed. What IS dated here is the thing the node is for: the 1965 exclusion, in GAO's own words. GAO/GGD-83-43 was not opened; it is described only as the 1986 testimony describes it."
+  },
+  {
+   "id": "usaf-1127th-field-activities-group",
+   "cls": "institution",
+   "label": "1127th USAF Field Activities Group",
+   "cluster": "legacy",
+   "sub": "Air Force intelligence unit running Project BLUE FLY and Project MOON DUST under its Foreign Materiel Program",
+   "tier": "A",
+   "C": 3,
+   "A": 3,
+   "D": 1,
+   "dateStart": null,
+   "dateEnd": null,
+   "desc": "This is the custody chain stated by the unit that ran it, about itself, in a document classified SECRET at the time. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967, document number AFNIABA 014-67, prepared by Anita H. Beasey and approved by Colonel Rudolph C. Koller, Jr., lists on its contents page, under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29), 'Project MOON DUST' (p.30). The board has carried the Moon Dust and Blue Fly relationship as an inference; here it is an organisational fact, printed in a table of contents.\n\nThe BLUE FLY entry describes the mechanism end to end. After the air battle of 7 April 1967, three MIG-21s downed over Jordan were exploited by Detachment 3 of the Foreign Technology Division, and the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.' The Joint Chiefs had approved a one-year extension of Force/Activity Designator I priority for short-notice BLUE FLY airlift. That is recovery, transport priority and a named terminus, in one paragraph.\n\nThe MOON DUST entry, and the companion history of the Assistant Chief of Staff, Intelligence for July to December 1967, carry the figures usually quoted as recoveries. They are not recoveries. Both documents say the unit was NOTIFIED by SPADATS of DEORBITS -- 37 Soviet objects in the first half of 1967, and 49 Soviet plus 17 US objects in the second. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The unit's own semiannual history, 'HISTORY / 1127 USAF FIELD ACTIVITIES GROUP (AFNIA) / 1 January - 30 June 1967', document number AFNIABA 014-67, lists under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29) and 'Project MOON DUST' (p.30). It was classified SECRET and bears the struck-through markings 'RODCA MATERIAL / SPECIAL ACCESS REQUIRED / NO FOREIGN DISSEMINATION'.",
+     "source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, contents page and title page"
+    },
+    {
+     "tier": 1,
+     "text": "Page 29 records that after the 7 April 1967 air battle, three MIG-21s that crashed in Jordan were exploited by 'personnel of Detachment 3, FTD', and that the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+     "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29, Project BLUE FLY"
+    },
+    {
+     "tier": 1,
+     "text": "The same page records that in February 1967 'the Joint Chiefs of Staff approved a one-year extension of the authority granted the USAF to apply Force/Activity Designator I (F/AD-I) priority to short-notice BLUE FLY airlift contingencies.'",
+     "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29"
+    },
+    {
+     "tier": 1,
+     "text": "Page 30 records that 'The 1st Aerospace Control Squadron (SPADATS), Ent AFB, Colorado, notified AFNIAA of the deorbit of 37 Soviet space objects consisting of rocket bodies, payloads, and space platforms.' A redaction follows; the accompanying US figure is illegible in the scan at 340 dpi and is not reported.",
+     "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30, Project MOON DUST"
+    },
+    {
+     "tier": 1,
+     "text": "The companion 'History of the Assistant Chief of Staff, Intelligence, July - December 1967' states at page 62 that the Operations Plans Branch 'received from the 1st Aerospace Control Squadron (SPADATS) at Ent, AFB, Colorado, notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance.' These are notifications of deorbit received, NOT objects recovered.",
+     "source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62"
+    },
+    {
+     "tier": 1,
+     "text": "'Colonel Rudolph C. Koller, Jr., was Commander of the 1127 USAF Fld Acty Gp during the entire period of this report', with an authorised strength rising from 220 to 249 over the half-year.",
+     "source": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.47"
+    }
+   ],
+   "sources": [
+    {
+     "name": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67 (75-page Air Force FOIA release scan)",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+     "date": "1967-06-30"
+    },
+    {
+     "name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967 (22-page Air Force FOIA release extract)",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf",
+     "date": "1967-12-31"
+    },
+    {
+     "name": "National Security Archive Electronic Briefing Book 520, 'The Pentagon's Spies'",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/",
+     "date": "2026-08-30"
+    }
+   ],
+   "unverified": "The unit's activation and inactivation dates are NOT carried and dateStart is null: no primary lineage record was found, and 1967 is the period its surviving history covers, not a founding year -- printing it as dateStart would assert the thing this pass explicitly could not establish. Its Fort Belvoir station appears only in secondary accounts and is not carried either. The US deorbit figure on p.30 of the 1 Jan - 30 Jun 1967 history is illegible in the scan and is not reported."
+  },
+  {
+   "id": "research-development-board",
+   "cls": "institution",
+   "label": "Research and Development Board",
+   "cluster": "research",
+   "sub": "Statutory coordinating body for defence research, 26 July 1947 to 30 June 1953",
+   "tier": "B",
+   "C": 2,
+   "A": 2,
+   "D": 1,
+   "dateStart": "1947-07-26",
+   "dateEnd": "1953-06-30",
+   "desc": "The Research and Development Board sat at the top of the American defence research structure for the exact six years in which the legacy programme is alleged to have been established, and its statutory life is fully documented. The National Archives' finding aid for Record Group 330 states it was 'Established as the Research and Development Board by the National Security Act of 1947 (61 Stat. 495), July 26, 1947. Abolished by Reorganization Plan No. 6 of 1953, effective June 30, 1953, and superseded by Office of the Assistant Secretary of Defense (Research and Development).' The same aid lists its surviving records, including 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.\n\nTruman's published letter to Vannevar Bush of 25 September 1947 gives the predecessor relationship in the President's own words: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The RDB is a 1947 statutory body and its predecessor the JRDB is a post-V-J Day creation of the two service secretaries -- so no earlier than September 1945.\n\nWhat this node does NOT carry is the Sarbacher consultancy. It is the destination every MJ-12 and Wilbert Smith thread points at, and no primary record for it was found. It is carried at Tier 3 on the Sarbacher node, where it belongs, and no edge is drawn from here.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Research and Development Board was 'Established as the Research and Development Board by the National Security Act of 1947 (61 Stat. 495), July 26, 1947. Abolished by Reorganization Plan No. 6 of 1953, effective June 30, 1953, and superseded by Office of the Assistant Secretary of Defense (Research and Development).'",
+     "source": "Guide to Federal Records in the National Archives of the United States, Record Group 330, section 330.11"
+    },
+    {
+     "tier": 1,
+     "text": "Its successor office was 'Redesignated Office of the Director of Defense Research and Engineering by DOD Reorganization Act of 1958 (72 Stat. 514), August 6, 1958.'",
+     "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11"
+    },
+    {
+     "tier": 1,
+     "text": "NARA's finding aid lists surviving textual records of the Board at section 330.11.3, including 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
+     "source": "Guide to Federal Records in the National Archives, Record Group 330, section 330.11.3"
+    },
+    {
+     "tier": 1,
+     "text": "Truman's letter to Vannevar Bush of 25 September 1947 records both the appointment and the predecessor body: 'I am happy to know that you are willing to continue in the public service as Chairman of the Research and Development Board created by the National Security Act of 1947 ... Since V-J Day you have continued to render valuable service as chairman of the Joint Research and Development Board set up by the Secretaries of War and Navy.' The commonly cited 1941 founding date is wrong by six years.",
+     "source": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947, Public Papers of the Presidents"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Guide to Federal Records in the National Archives of the United States, Record Group 330, Records of the Office of the Secretary of Defense",
+     "url": "https://www.archives.gov/research/guide-fed-records/groups/330.html",
+     "date": "2026-08-30"
+    },
+    {
+     "name": "Letter to Dr. Vannevar Bush Upon His Appointment as Chairman, Research and Development Board, 25 September 1947",
+     "url": "https://www.presidency.ucsb.edu/documents/letter-dr-vannevar-bush-upon-his-appointment-chairman-research-and-development-board",
+     "date": "1947-09-25"
+    }
+   ],
+   "unverified": "No primary record was found for Robert Sarbacher's alleged consultancy to the Board, and no edge is drawn. The June 1946 date commonly given for the JRDB is consistent with Truman's wording but was not pinned to a primary source. Reorganization Plan No. 6 of 1953 is cited here from NARA's finding aid; govinfo returned OVER_RATE_LIMIT and was not consulted."
+  },
+  {
+   "id": "rias-inc",
+   "cls": "institution",
+   "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "cluster": "research",
+   "sub": "The Glenn L. Martin Company's industrial research institute, Baltimore; gravitation was explicitly its subject",
+   "tier": "B",
+   "C": 1,
+   "A": 1,
+   "D": 0,
+   "dateStart": null,
+   "dateEnd": null,
+   "desc": "RIAS is the cleanest documented instance on this board of an aerospace prime setting up a research institute to study gravitation, and the documentation is a participants list and a dated letter rather than an allegation. The 1957 Chapel Hill conference on the role of gravitation in physics prints two of its staff among the attendees -- 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore' -- and the institutional style there is corporate: RIAS, Inc., a company in Baltimore, in a room otherwise full of universities.\n\nIts purpose is stated by the executive who proposed it. George S. Trimble wrote to Bryce DeWitt on 10 June 1955 that 'our industry was vitally concerned with gravity' and that 'At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity', describing the proposed body as an 'industrial version of the Institute for Advanced Study'. The conference report that names RIAS is itself WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center.\n\nGrade it honestly. This is a corporate research institute that studied gravitation, and nothing read shows it producing gravity-control results -- the Chapel Hill participants recorded their own concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Louis Witten's documented output is classical general relativity. Its value here is the chain and the date, not a result.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The participants list of the January 1957 Chapel Hill conference prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore', establishing RIAS as a corporate entity in Baltimore with staff at the conference.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list"
+    },
+    {
+     "tier": 2,
+     "text": "RIAS was proposed by George S. Trimble of the Glenn L. Martin Company as an 'industrial version of the Institute for Advanced Study', explicitly to study gravity, in a letter to Bryce DeWitt dated 10 June 1955.",
+     "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report"
+    },
+    {
+     "tier": 2,
+     "text": "Louis Witten 'was the first researcher hired by RIAS, of the Glenn Martin Company.' The institute was 'industry-sponsored, and not ensconced in a university', in deliberate contrast with the Institute of Field Physics placed inside the University of North Carolina.",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context'"
+    },
+    {
+     "tier": 2,
+     "text": "Nothing read shows RIAS producing gravity-control results. The Chapel Hill participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Witten's documented output is classical general relativity.",
+     "source": "Dean Rickles, 'The Chapel Hill Conference in Context'; AIP catalog abstract for the Louis Witten oral history"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference (WADC Technical Report 57-216)",
+     "url": "https://edition-open-sources.org/sources/5/",
+     "date": "1957-01-23"
+    },
+    {
+     "name": "Chapel Hill conference participants list",
+     "url": "https://edition-open-sources.org/sources/5/6/index.html",
+     "date": "1957-01-18"
+    },
+    {
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html",
+     "date": "2011-01-01"
+    }
+   ],
+   "unverified": "RIAS's founding date and founder are NOT established from a primary record and dateStart is null. The '1955, by George Bunker' attribution appears only in encyclopedia summaries and was not opened; Trimble's June 1955 letter describes the institute as still proposed, which is consistent with 1955 but does not establish it. The corporate succession from the Glenn L. Martin Company through Martin Marietta to Lockheed Martin was not read off any document, and the edge to lockheed-martin is graded Tier 3 for that reason alone."
+  },
+  {
+   "id": "bdm-international",
+   "cls": "institution",
+   "label": "BDM International, Inc.",
+   "cluster": "contractor",
+   "sub": "Defence services contractor, McLean VA; Ford Aerospace 1988, Carlyle Group 1990",
+   "tier": "B",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "dateStart": "1959",
+   "dateEnd": null,
+   "desc": "BDM is on this board as a documented company with an ownership history that runs through exactly the places this board maps, and as the address of a 1985 meeting whose evidence is far weaker than the company's. From its own Form 10-K for FY1995: 'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.' It was public from 1980 to 1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company', and in October 1990 The Carlyle Group formed BDM Holdings, Inc. to acquire substantially all the assets. In 1995 the Department of Defense was approximately 37 per cent of revenue, international defence agencies 25 per cent, civil government 23 per cent. Vinnell Corporation was a subsidiary.\n\nThe Advanced Theoretical Physics meeting of May 1985 is a different order of evidence and this node says so. The only source outside the interview literature is a set of scans said to come from Jack Houck's private files after his death in 2013, published on a research blog: a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and transparencies annotated in Houck's hand. That chain is private papers to researcher to blog -- no institutional repository, no government record, no BDM record -- and it is carried at Tier 3, worded as what the papers are rather than as what the meeting was.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'",
+     "source": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996, CIK 0000870763"
+    },
+    {
+     "tier": 1,
+     "text": "BDM was publicly held 1980-1988, 'when Ford Aerospace Corporation, then a wholly owned subsidiary of Ford Motor Company, acquired all of the outstanding stock of the Predecessor Company'; and 'In October 1990, on behalf of certain investors, The Carlyle Group, L.P. ... formed BDM Holdings, Inc.', which acquired substantially all the assets.",
+     "source": "BDM International, Inc., Form 10-K for FY1995"
+    },
+    {
+     "tier": 1,
+     "text": "Its registered address is 1501 BDM Way, McLean, Virginia. In 1995 its revenue mix was approximately 37 per cent Department of Defense, 25 per cent international defence agencies, 23 per cent civil government and 15 per cent commercial. Vinnell Corporation is named among its subsidiaries.",
+     "source": "BDM International, Inc., Form 10-K for FY1995, SEC file number 000-23966"
+    },
+    {
+     "tier": 3,
+     "text": "Papers said to come from Jack Houck's private files after his death in 2013, published by a researcher, include a booking slip for the 'BDM McLean Secure Facility' for 20-25 May 1985, an undated May 1985 agenda, and presentation transparencies annotated in Houck's hand and dated 21 May 1985 bearing phrases including 'Threat', 'Abduction data base', 'Obtain technology spinoffs' and 'Have airtight security'. The provenance chain is private papers to researcher to publication; no institutional repository, government record or BDM record holds them.",
+     "source": "Stated inference from reproduced scans of private papers; no institutional custody located, and no account by a named participant was read"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996",
+     "url": "https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt",
+     "date": "1996-03-12"
+    },
+    {
+     "name": "SEC EDGAR company record, BDM INTERNATIONAL INC /DE, CIK 0000870763",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000870763&type=10-K",
+     "date": "2026-08-30"
+    }
+   ],
+   "unverified": "The commonly stated chain BDM to TRW in 1997 and TRW to Northrop Grumman in 2002 was NOT read off any document in this pass, and no edge to northrop-grumman is drawn on it. Neither John B. Alexander's nor Jacques Vallee's published account of the Advanced Theoretical Physics group was read; a named participant in print would move that claim to Tier 2."
+  },
+  {
+   "id": "sperry-rand",
+   "cls": "institution",
+   "label": "Sperry Rand Corporation",
+   "cluster": "contractor",
+   "sub": "Defence prime chaired by General of the Army Douglas MacArthur; absorbed into Unisys, 1986",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 0,
+   "dateStart": null,
+   "dateEnd": "1986",
+   "desc": "Sperry Rand is a narrow item and a clean one: a five-star officer chairing a defence prime while the alleged programme period runs. The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation', and a New York Journal-American column of 17 January 1957, preserved in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.'\n\nThat column is the more useful artefact, because it inventories the same pipeline in a single paragraph: Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil and on the Air Force Scientific Advisory Board and the President's Foreign Intelligence Board, Ennis Whitehead at Northrop, J. B. Montgomery at General Electric. Thirteen further instances of the general-officer-to-prime-contractor movement, in one citable contemporaneous document held by CIA.\n\nTwo corrections travel with it. The company was not called Sperry Rand in 1986: it had been Sperry Corporation since 1979, and it was Sperry Corporation that Burroughs absorbed. SEC's own record shows CIK 0000746838 changing its conformed name from BURROUGHS CORP /DE/ on 4 December 1986, and Unisys carrying Sperry's obligations thereafter, including its sale of the Sperry Aerospace Group that same month. No UAP claim attaches to this node, because there is none in anything read.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation.'",
+     "source": "This Is Sperry Rand 1956, Sperry-Rand Corporation"
+    },
+    {
+     "tier": 1,
+     "text": "A New York Journal-American column of 17 January 1957, held in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.' The same column names Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil, Ennis Whitehead at Northrop and J. B. Montgomery at General Electric.",
+     "source": "CIA-RDP68-00046R000200010025-0, Bob Considine, 'Generals Don't Fade Away', New York Journal-American, 17 January 1957; declassified in part 2014-03-19"
+    },
+    {
+     "tier": 1,
+     "text": "SEC's own IMS header on the Unisys Form 10-K records 'FORMER CONFORMED NAME: BURROUGHS CORP /DE/ ... DATE OF NAME CHANGE: 19861204'. The same filing shows Unisys carrying the Sperry Corporation Pension Plan for Outside Directors by incorporation from Sperry Corporation's own Form 10-K for the fiscal year ended 31 March 1984 (File No. 1-3908), and discusses 'its sale of the Sperry Aerospace Group in December 1986'.",
+     "source": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838, with SEC IMS header"
+    },
+    {
+     "tier": 3,
+     "text": "The rename from Sperry Rand Corporation to Sperry Corporation is given by secondary sources as 1 August 1979. No document establishing it was opened; EDGAR does not reach back to 1986 filings, and no merger agreement or proxy was read.",
+     "source": "Stated inference: secondary sources only; no primary document opened for the rename"
+    }
+   ],
+   "sources": [
+    {
+     "name": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
+     "url": "https://archive.org/details/this-is-sperry-rand-1956",
+     "date": "1956-01-01"
+    },
+    {
+     "name": "CIA-RDP68-00046R000200010025-0, New York Journal-American, 17 January 1957",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200010025-0",
+     "date": "1957-01-17"
+    },
+    {
+     "name": "Unisys Corporation Form 10-K filed 29 March 1994, CIK 0000746838",
+     "url": "https://www.sec.gov/Archives/edgar/data/746838/0000746838-94-000005.txt",
+     "date": "1994-03-29"
+    }
+   ],
+   "unverified": "No UAP claim attaches to this node; nothing read supports one. dateStart is null: none of the three documents opened establishes a founding year, and 1955 would be an encyclopedia figure printed as a sourced one. dateEnd is the year, not 4 December 1986 -- that precise date is SEC's conformed-name change from BURROUGHS CORP /DE/ to Unisys, which is documented but is not the same event as Sperry's dissolution. The 1979 Sperry Rand to Sperry Corporation rename is carried at Tier 3 pending a primary document. This node carries no edge to an existing board node: Douglas MacArthur has no node here, and inventing an institutional link on the strength of the Considine column would be an inference, not a record."
+  },
+  {
+   "id": "aurora-budget-line",
+   "cls": "program",
+   "label": "Aurora (FY1986-FY1987 procurement line)",
+   "cluster": "coverup",
+   "sub": "A classified programme made visible by the Pentagon's own unclassified P-1 document, February 1985",
+   "tier": "B",
+   "C": 1,
+   "A": 1,
+   "D": 3,
+   "dateStart": "1985-02-08",
+   "dateEnd": "1987",
+   "desc": "Aurora belongs on this board as budget mechanics and nothing else. It is a documented instance of a classified programme becoming visible through the Pentagon's own unclassified paperwork and then being denied on the record by the service that published it -- a mechanism the board argues about elsewhere, here with a date and a document.\n\nThe Washington Post of 8 February 1985, preserved in the CIA's reading room as CIA-RDP90-00965R000807470050-4, reports: 'The Pentagon has said in a public document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane -- is classified.' It names the mechanism precisely: 'The secrecy cloak slipped off the spending plans for Aurora when the Pentagon compiled its unclassified shopping list, known as the P1 document. The P stands for procurement.' The figures in the body are exact: 'Spending for Aurora, according to this public document, shoots up from zero this fiscal year to $80 million in fiscal 1986 to $2.27 billion in fiscal 1987.' The $2.3 billion in the headline is the article's own rounding; the board uses $2.27bn.\n\nThe denial is in the same paragraph: 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' This is five years before the Aviation Week story that usually gets the credit. No craft claim and no recovery claim attaches here: the article's own sources point at Stealth.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Washington Post of 8 February 1985 reports: 'The Pentagon has said in a public document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane -- is classified.'",
+     "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985, 'Pentagon Seeks Billions For Classified Plane' by George C. Wilson"
+    },
+    {
+     "tier": 1,
+     "text": "The article names the disclosure mechanism: 'The secrecy cloak slipped off the spending plans for Aurora when the Pentagon compiled its unclassified shopping list, known as the P1 document. The P stands for procurement.'",
+     "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985"
+    },
+    {
+     "tier": 1,
+     "text": "The article records the denial after publication: 'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.'",
+     "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985"
+    },
+    {
+     "tier": 2,
+     "text": "The figures reported from the P-1 document are 'zero this fiscal year to $80 million in fiscal 1986 to $2.27 billion in fiscal 1987'. The $2.3 billion figure in the article's lede is its own rounding of $2.27bn. The P-1 document itself was not located or read; the chain is a named Washington Post defence correspondent, in a dated contemporaneous article, preserved in a US government declassified collection.",
+     "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985 -- reporting the contents of the P-1, which was not independently obtained"
+    },
+    {
+     "tier": 2,
+     "text": "'Other Pentagon sources, however, said that Aurora may have some connection with the Stealth plane -- to be designed to hide from enemy radar -- but that the really big money for Stealth is held in a different secret account.' The article attaches no anomalous craft claim to Aurora, and neither does this board.",
+     "source": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985 (CIA Reading Room, declassified in part 2012-01-12)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4",
+     "date": "1985-02-08"
+    }
+   ],
+   "unverified": "The P-1 procurement document itself was not found or read. The govinfo API returned OVER_RATE_LIMIT for this container's whole session, and govinfo's collections do not reach 1985 procurement justification books in any case."
+  },
+  {
+   "id": "afit-townsend-2008",
+   "cls": "document",
+   "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+   "cluster": "legacy",
+   "sub": "Air Force Institute of Technology thesis, March 2008; the public document that defines 'fastwalker'",
+   "tier": "B",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "dateStart": "2008-03",
+   "dateEnd": "2008-03",
+   "desc": "This is the public, distribution-unlimited Department of Defense document that defines the term 'fastwalker' in its own words, and it is on this board because the term reaches the popular literature stripped of that definition. Capt. Bradley R. Townsend, US Army, wrote it at the Air Force Institute of Technology at Wright-Patterson for a Master of Science in Astronautical Engineering, March 2008, DTIC accession ADA478890, APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.\n\nSection 1.1 gives the definition: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.' The word is used 34 times. The words UFO and unidentified do not appear anywhere in the 112 pages. In this document 'fastwalker' is ordinary space-surveillance vocabulary, and the board says so.\n\nWhat the thesis does supply is a documented pointer. Section 1.2 states that 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972', that Osedacz used data from ballistic missile early warning satellites in geosynchronous orbit and concluded orbit determination for such objects was impossible, and that this 'supported the conclusions of an earlier work conducted by Lem Wong ... The research conducted by Wong is no longer available.' Bibliography entry 9 is 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' A 1972-onward detection database and a 1989 predecessor thesis, both named in a public document. Osedacz 1989 is the next document to obtain.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The thesis defines its own term at section 1.1: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.'",
+     "source": "AFIT/GA/ENY/08-M06, Bradley R. Townsend, March 2008, section 1.1"
+    },
+    {
+     "tier": 1,
+     "text": "The word 'fastwalker' is used 34 times in the thesis. The words UFO and unidentified do not appear anywhere in its 112 pages. In this document the term is ordinary space-surveillance vocabulary.",
+     "source": "AFIT/GA/ENY/08-M06, full-text reading of all 112 pages"
+    },
+    {
+     "tier": 1,
+     "text": "Section 1.2 states: 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972. He uses this data from obtained ballistic missile early warning satellites in GEO to attempt to determine the orbit of these fastwalkers. His conclusion was that determining the orbit of other fastwalkers in GEO was impossible. This supported the conclusions of an earlier work conducted by Lem Wong on the inability to determine the orbit of these objects. The research conducted by Wong is no longer available.'",
+     "source": "AFIT/GA/ENY/08-M06, section 1.2"
+    },
+    {
+     "tier": 1,
+     "text": "Bibliography entry 9 reads 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' -- naming the 1989 predecessor document, which has not been obtained.",
+     "source": "AFIT/GA/ENY/08-M06, bibliography"
+    },
+    {
+     "tier": 1,
+     "text": "The title page reads 'Bradley R. Townsend, Captain, USA', AFIT/GA/ENY/08-M06, Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, 'APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED'. He is a US Army captain at an Air Force school, not USAF. The SF 298 gives the report date 10-03-2008 and the period covered as September 2007 to March 2008.",
+     "source": "AFIT/GA/ENY/08-M06, title page and SF 298"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AFIT/GA/ENY/08-M06, Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors, DTIC ADA478890 (112 pages, read in full)",
+     "url": "https://archive.org/details/DTIC_ADA478890",
+     "date": "2008-03-10"
+    },
+    {
+     "name": "AFIT Scholar landing page for the thesis",
+     "url": "https://scholar.afit.edu/etd/2701",
+     "date": "2008-03-01"
+    }
+   ],
+   "unverified": "The Osedacz 1989 thesis named in the bibliography has not been obtained, and neither has the earlier Lem Wong work, which this thesis states is 'no longer available'. Nothing about the contents of the 1972-onward database is asserted here beyond what this thesis says about it."
+  },
+  {
+   "id": "afr-200-2",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The 1953 edition exists in a readable four-page scan whose face reads 'AIR FORCE REGULATION NO. 200-2 / DEPARTMENT OF THE AIR FORCE / WASHINGTON, 26 AUGUST 1953 / INTELLIGENCE / (Unclassified) Unidentified Flying Objects Reporting (Short Title: UFOB)', marked RESTRICTED / SECURITY INFORMATION and signed 'By Order of the Secretary of the Air Force: N. F. TWINING, Chief of Staff'.",
+     "source": "AFR 200-2, 26 August 1953, four-page release scan"
+    },
+    {
+     "tier": 1,
+     "text": "Its own footnote establishes the predecessor: 'This Regulation supersedes AFL 200-5, 29 April 1952.' The release copy also carries handwritten annotations 'Sup by AFR 200-2, 12 Aug 54' and 'amended by 200-2A' against paragraph 6.",
+     "source": "AFR 200-2, 26 August 1953, footnote to the title and marginal annotations"
+    },
+    {
+     "tier": 1,
+     "text": "The release restriction is on the face of the 1953 edition, not only the 1954 one. Paragraph 8 provides that raw information may be furnished to a public information officer 'except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data', and that what is releasable ends at 'The fact that the object has been conclusively identified by ATIC as a conventional aerial device or other familiar object and no further evaluation is contemplated.' Identified cases could be discussed publicly; unidentified ones could not.",
+     "source": "AFR 200-2, 26 August 1953, paragraph 8, Release of Information"
+    },
+    {
+     "tier": 1,
+     "text": "Paragraph 7 provides that 'All evidence will be forwarded to ATIC', and on materiel directs units to 'Safeguard the materiel carefully to prevent any defacing or alteration which would reduce its value for technical analysis' and to 'Notify ATIC immediately and request shipping instructions'.",
+     "source": "AFR 200-2, 26 August 1953, paragraph 7, Evidence"
+    },
+    {
+     "tier": 1,
+     "text": "The 1954 edition's own footnote closes the chain: 'This Regulation supersedes AFR 200-2, 26 August 1953, Including Change 200-2A, 2 November 1953.' Its short title changed from UFOB to FLYOBRPT and it added the 4602d AISS to the investigation chain, which the 1953 edition does not name.",
+     "source": "AFR 200-2, 12 August 1954, footnote and paragraph text"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AFR 200-2, 26 August 1953 (four-page image scan with release markings)",
+     "url": "https://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf",
+     "date": "1953-08-26"
+    }
+   ]
+  },
+  {
+   "id": "janap-146",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "JANAP 146(E), 'Canadian - United States Communications Instructions for Reporting Vital Intelligence Sightings (CIRVIS/MERINT)', complete with Change No. 2 promulgated 17 May 1977, still lists unidentified flying objects as a reportable category at Article 201 -- eight years after Project Blue Book closed. It was released on 28 February 1994 by the Assistant to the Secretary of Defense under FOIA reference 93-FOI-2428/L.",
+     "source": "JANAP 146(E) with Change No. 2, 17 May 1977, with the OSD FOIA release letter of 28 February 1994, ref 93-FOI-2428/L"
+    },
+    {
+     "tier": 1,
+     "text": "JANAP 146(E) Article 208 states: 'Any person who makes an unauthorized transmission or disclosure of such a report may be liable to prosecution under Title 18 of the US Code 793, Chapter 37, or the Canadian Official Secrets Act of 1939, as amended. This should not be construed as requiring classification of CIRVIS messages. The purpose is to emphasize the necessity for the handling of such information within official channels only.'",
+     "source": "JANAP 146(E), Article 208"
+    },
+    {
+     "tier": 1,
+     "text": "JANAP states no dollar figure and no term of imprisonment in any revision read. It incorporates 18 U.S.C. 793, whose penalty from the Act of June 25, 1948 until 1994 was a fine of not more than $10,000 or imprisonment of not more than ten years, or both: the amendment note records that 'Pub. L. 103-322 substituted fined under this title for fined not more than $10,000'. The $10,000 figure must be attributed to 18 U.S.C. 793, never to JANAP 146.",
+     "source": "18 U.S.C. 793, source credit and amendment notes, Office of the Law Revision Counsel; read against JANAP 146(C) and (E)"
+    },
+    {
+     "tier": 1,
+     "text": "JANAP 146(C), 10 March 1954, was issued by the Joint Chiefs of Staff, Joint Communications-Electronics Committee, is 'an unclassified publication', and its letter of promulgation states that it 'supersedes JANAP 146 (B) ... and all other conflicting instructions. JANAP 146(B) shall be destroyed by burning.'",
+     "source": "JANAP 146(C), 10 March 1954, letter of promulgation"
+    }
+   ],
+   "sources": [
+    {
+     "name": "JANAP 146(E) with Change No. 2 (17 May 1977) and the 28 February 1994 OSD FOIA release letter",
+     "url": "https://www.cufon.org/cufon/janp1462.htm",
+     "date": "1977-05-17"
+    },
+    {
+     "name": "18 U.S.C. 793, Office of the Law Revision Counsel",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section793&num=0&edition=prelim",
+     "date": "2026-08-30"
+    }
+   ]
+  },
+  {
+   "id": "project-stork",
+   "cls": "program",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The contract is identified: from the Fifth Status Report onward the heading reads 'on CONTRACT AF-19741, PPS-100'. The First Status Report of 25 April 1952 'describes progress on Project Stork PPS-100, from its inception on March 31, 1952 through April 25, 1952'.",
+     "source": "Project Stork status reports, First (25 April 1952) and Fifth (10 September 1952), transcribed from NARA holdings"
+    },
+    {
+     "tier": 1,
+     "text": "The First Status Report lists the contract requirements: '1. Provide a panel of consultants, 2. Assist in improving interrogation forms, 3. Analyze existing sighting reports, 4. Subscribe to a clipping service, as directed, and 5. Apprise the Sponsor monthly of all work done on PPS-100.'",
+     "source": "Project Stork, First Status Report, 25 April 1952"
+    },
+    {
+     "tier": 1,
+     "text": "Seven status reports are publicly available, totalling 107 pages, dated 25 April, 6 June, 7 July, 11 August, 10 September, 10 October and 10 November 1952. All are addressed 'to AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE'. The set is known to be incomplete: the holding archive's own scope note records that 'these (107) pages are not the total paper generated by Project Stork. Internal references to other documents exist in this text, including further Status Reports. None of these is in the custody of the NARA.'",
+     "source": "Project Stork status reports, transcribed from NARA holdings, with the transcriber's scope note"
+    },
+    {
+     "tier": 1,
+     "text": "In most released copies the contractor's name is crossed out and supplied by a handwritten annotation reading '{Battelle}'. The Third Status Report of 7 July 1952 is the only one where it is typed rather than struck out: 'by BATTELLE MEMORIAL INSTITUTE'. That single untouched line is how the attribution survives at all.",
+     "source": "Project Stork status reports, Third Status Report, 7 July 1952, and the redaction pattern across the set"
+    },
+    {
+     "tier": 1,
+     "text": "Special Report No. 14 does not name its contractor on its own face. A full-text search of the report returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The Battelle and Stork attribution rests entirely on the status reports and the surrounding record: the analytical work was contracted out and the published product did not say so.",
+     "source": "Project Blue Book Special Report No. 14, 5 May 1955, full-text search of the scan; read against the Project Stork status reports"
+    },
+    {
+     "tier": 1,
+     "text": "The same file contains an ATIC record of 8 January 1952, 'AUTH: CO, ATIC / BY: E. J. Ruppelt, 1st Lt. USAF', recording that Ruppelt and Col. Kirkland conferred with the contractor on 26 December 1951 about Project Grudge, annotated by hand 'Background - How Special Rept No. 14 came into being'. It also contains a 'SPECIAL REPORT on CONFERENCES WITH ASTRONOMERS ON UNIDENTIFIED AERIAL OBJECTS to AIR TECHNICAL INTELLIGENCE CENTER WRIGHT-PATTERSON AIR FORCE BASE by J. Allen Hynek, August 6, 1952'.",
+     "source": "Project Stork file, ATIC record of 8 January 1952 and the Hynek report of 6 August 1952, transcribed from NARA holdings"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Seven Status Reports for Project STORK, part 1 of 4 (scope note, ATIC record of 8 Jan 1952, First and Second reports)",
+     "url": "https://www.cufon.org/cufon/stork1-7.htm",
+     "date": "1952-11-10"
+    },
+    {
+     "name": "Seven Status Reports for Project STORK, part 4 of 4 (Fifth, Sixth and Seventh reports, with contract AF-19741)",
+     "url": "https://www.cufon.org/cufon/stork1-7c.htm",
+     "date": "1952-11-10"
+    },
+    {
+     "name": "Project Blue Book Special Report No. 14, 5 May 1955, full OCR text",
+     "url": "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
+     "date": "1955-05-05"
+    }
+   ]
+  },
+  {
+   "id": "blue-book-special-report-14",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The report's cover reads 'STUDY NO. 102-EL-55/2-79 / ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS / PROJECT NO. 10073 / 5 MAY 1955 / SPECIAL REPORT NO. 14', and it states 'No copyright material is contained in this publication.'",
+     "source": "Project Blue Book Special Report No. 14, 5 May 1955, cover"
+    },
+    {
+     "tier": 1,
+     "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
+     "source": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Project Blue Book Special Report No. 14, 5 May 1955, full OCR text",
+     "url": "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
+     "date": "1955-05-05"
+    }
+   ]
+  },
+  {
+   "id": "atic",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "ATIC's designation as the terminal analytical authority is on the face of the 1953 edition as well as the 1954 one. AFR 200-2 of 26 August 1953, paragraph 4a: 'The Air Technical Intelligence Center (ATIC), Wright-Patterson Air Force Base, Ohio, has been designated the Air Force activity responsible for conducting analysis of information and evidence.'",
+     "source": "AFR 200-2, 26 August 1953, paragraph 4a, read off the release scan"
+    },
+    {
+     "tier": 1,
+     "text": "The claim that AFR 200-2 'routed reports to ATIC rather than to Blue Book' is a category error: Project Blue Book was a project inside ATIC at Wright-Patterson, and the 1953 regulation does not mention Blue Book at all in either edition, because naming ATIC is naming Blue Book's own host.",
+     "source": "AFR 200-2, 26 August 1953 and 12 August 1954, full text of both editions"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AFR 200-2, 26 August 1953 (four-page image scan)",
+     "url": "https://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf",
+     "date": "1953-08-26"
+    }
+   ]
+  },
+  {
+   "id": "operation-blue-fly",
+   "cls": "program",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Wright-Patterson custody terminus is documented by the operating unit, not inferred. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967 records under Project BLUE FLY that its Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB', and that the Joint Chiefs approved F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+     "source": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, p.29"
+    },
+    {
+     "tier": 1,
+     "text": "BLUE FLY and MOON DUST are listed together under FOREIGN MATERIEL PROGRAM on the contents page of the same unit history, alongside 'MIG-17 Exploitation' -- establishing the relationship as an organisational fact stated by the unit that ran both.",
+     "source": "History, 1127 USAF Field Activities Group, 1 January - 30 June 1967, contents page"
+    }
+   ],
+   "sources": [
+    {
+     "name": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+     "date": "1967-06-30"
+    }
+   ]
+  },
+  {
+   "id": "project-moon-dust",
+   "cls": "program",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The figures commonly quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered. The 1127th's own history records that SPADATS 'notified AFNIAA of the deorbit of 37 Soviet space objects' in the first half of 1967, and the companion history of the Assistant Chief of Staff, Intelligence records 'notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance' in the second half. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
+     "source": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30; and History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62"
+    }
+   ],
+   "sources": [
+    {
+     "name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf",
+     "date": "1967-12-31"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "a": "gao-130581",
+   "b": "gao",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "GAO produced and publicly released the testimony",
+   "dateStart": "1986",
+   "dateEnd": "1986",
+   "sources": [
+    {
+     "name": "GAO accession 130581, testimony of 24 July 1986",
+     "url": "https://www.gao.gov/assets/130581.pdf",
+     "date": "1986-07-24"
+    }
+   ],
+   "note": "The statement was delivered by Martin M. Ferber, Associate Director, National Security and International Affairs Division, and released on delivery at 10:00 a.m. on 24 July 1986."
+  },
+  {
+   "a": "gao-130581",
+   "b": "lockheed-martin",
+   "type": "investigative",
+   "claimTier": 1,
+   "label": "the contractor whose special-access document control the testimony examined",
+   "dateStart": "1986",
+   "dateEnd": "1986",
+   "sources": [
+    {
+     "name": "GAO accession 130581, testimony of 24 July 1986",
+     "url": "https://www.gao.gov/assets/130581.pdf",
+     "date": "1986-07-24"
+    }
+   ],
+   "note": "GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986."
+  },
+  {
+   "a": "gao-130581",
+   "b": "lockheed-skunk-works",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "the companion report names the Lockheed/Burbank plant the testimony would not",
+   "dateStart": "1986",
+   "dateEnd": "1986",
+   "sources": [
+    {
+     "name": "GAO/NSIAD-86-191, 7 August 1986",
+     "url": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+     "date": "1986-08-07"
+    }
+   ],
+   "note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'."
+  },
+  {
+   "a": "gao-130581",
+   "b": "defense-investigative-service",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "documents the 1965 exclusion of special access programs from DIS supervision",
+   "dateStart": "1986",
+   "dateEnd": "1986",
+   "sources": [
+    {
+     "name": "GAO accession 130581, testimony of 24 July 1986",
+     "url": "https://www.gao.gov/assets/130581.pdf",
+     "date": "1986-07-24"
+    }
+   ],
+   "note": "'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'"
+  },
+  {
+   "a": "defense-investigative-service",
+   "b": "lockheed-martin",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "inspected Lockheed's other contracts while excluded from its special access contract",
+   "dateStart": "1965",
+   "dateEnd": "1986",
+   "sources": [
+    {
+     "name": "GAO/NSIAD-86-191, 7 August 1986",
+     "url": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+     "date": "1986-08-07"
+    }
+   ],
+   "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'"
+  },
+  {
+   "a": "usaf-1127th-field-activities-group",
+   "b": "project-moon-dust",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "ran MOON DUST under its Foreign Materiel Program",
+   "dateStart": "1967",
+   "dateEnd": "1967",
+   "sources": [
+    {
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+     "date": "1967-06-30"
+    }
+   ],
+   "note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries."
+  },
+  {
+   "a": "usaf-1127th-field-activities-group",
+   "b": "operation-blue-fly",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "ran BLUE FLY under the same Foreign Materiel Program",
+   "dateStart": "1967",
+   "dateEnd": "1967",
+   "sources": [
+    {
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+     "date": "1967-06-30"
+    }
+   ],
+   "note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies."
+  },
+  {
+   "a": "usaf-1127th-field-activities-group",
+   "b": "l-wright-patterson",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "airlifted recovered foreign materiel to Wright-Patterson",
+   "dateStart": "1967",
+   "dateEnd": "1967",
+   "sources": [
+    {
+     "name": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf",
+     "date": "1967-06-30"
+    }
+   ],
+   "note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'"
+  },
+  {
+   "a": "usaf-1127th-field-activities-group",
+   "b": "usaf",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "an Air Force unit reporting to the Assistant Chief of Staff, Intelligence",
+   "dateStart": "1967",
+   "dateEnd": "1967",
+   "sources": [
+    {
+     "name": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
+     "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf",
+     "date": "1967-12-31"
+    }
+   ],
+   "note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249."
+  },
+  {
+   "a": "research-development-board",
+   "b": "national-archives",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "surviving records held in Record Group 330",
+   "dateStart": "1953",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "Guide to Federal Records in the National Archives, Record Group 330",
+     "url": "https://www.archives.gov/research/guide-fed-records/groups/330.html",
+     "date": "2026-08-30"
+    }
+   ],
+   "note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'."
+  },
+  {
+   "a": "thomas-townsend-brown",
+   "b": "lockheed-martin",
+   "type": "research",
+   "claimTier": 1,
+   "label": "US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation",
+   "dateStart": "1947",
+   "dateEnd": "1947",
+   "sources": [
+    {
+     "name": "US Patent 2,417,347, Vibration Damper, assignment line",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347",
+     "date": "1947-03-11"
+    }
+   ],
+   "note": "The patent's own inventor line reads 'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation'. This is the one item in Brown's self-authored biography that a second document corroborates."
+  },
+  {
+   "a": "rias-inc",
+   "b": "louis-witten",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+   "dateStart": "1957",
+   "dateEnd": "1957",
+   "sources": [
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+     "url": "https://edition-open-sources.org/sources/5/6/index.html",
+     "date": "1957-01-18"
+    }
+   ],
+   "note": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'."
+  },
+  {
+   "a": "rias-inc",
+   "b": "george-trimble",
+   "type": "institutional",
+   "claimTier": 2,
+   "label": "Trimble proposed RIAS as an industrial institute for advanced study",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html",
+     "date": "2011-01-01"
+    }
+   ],
+   "note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's."
+  },
+  {
+   "a": "rias-inc",
+   "b": "lockheed-martin",
+   "type": "institutional",
+   "claimTier": 3,
+   "label": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+   "dateStart": "1955",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+     "url": "https://edition-open-sources.org/sources/5/3/index.html",
+     "date": "2011-01-01"
+    }
+   ],
+   "note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone."
+  },
+  {
+   "a": "philip-corso",
+   "b": "l-dc",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+   "dateStart": "1954",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "DA Form 66, Officer's Qualification Record, Philip J. Corso",
+     "url": "https://www.theblackvault.com/documents/ufos/corso/corso.pdf",
+     "date": "1998-04-01"
+    }
+   ],
+   "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962."
+  },
+  {
+   "a": "robert-sarbacher",
+   "b": "wilbert-smith",
+   "type": "witness-chain",
+   "claimTier": 2,
+   "label": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+   "dateStart": "1950",
+   "dateEnd": "1983",
+   "sources": [
+    {
+     "name": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
+     "url": "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf",
+     "date": "1983-11-29"
+    }
+   ],
+   "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'"
+  },
+  {
+   "a": "roscoe-hillenkoetter",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "first Director of Central Intelligence, May 1947 to October 1950",
+   "dateStart": "1947",
+   "dateEnd": "1950",
+   "sources": [
+    {
+     "name": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2",
+     "date": "1960-06-01"
+    }
+   ],
+   "note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'."
+  },
+  {
+   "a": "eric-wang",
+   "b": "l-wright-patterson",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
+   "dateStart": "1953",
+   "dateEnd": "1954",
+   "sources": [
+    {
+     "name": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468",
+     "url": "https://archive.org/details/DTIC_ADA073468",
+     "date": "1955-07-01"
+    }
+   ],
+   "note": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'."
+  },
+  {
+   "a": "eric-wang",
+   "b": "l-kirtland",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB",
+   "dateStart": "1960",
+   "dateEnd": "1960",
+   "sources": [
+    {
+     "name": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283",
+     "url": "https://archive.org/details/DTIC_AD0460283",
+     "date": "1960-05-06"
+    }
+   ],
+   "note": "A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures."
+  },
+  {
+   "a": "afit-townsend-2008",
+   "b": "l-wright-patterson",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
+   "dateStart": "2008",
+   "dateEnd": "2008",
+   "sources": [
+    {
+     "name": "AFIT/GA/ENY/08-M06, DTIC ADA478890, title page",
+     "url": "https://archive.org/details/DTIC_ADA478890",
+     "date": "2008-03-10"
+    }
+   ],
+   "note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'"
+  },
+  {
+   "a": "bdm-international",
+   "b": "l-mclean",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "headquartered at 1501 BDM Way, McLean, Virginia",
+   "dateStart": "1995",
+   "dateEnd": "1995",
+   "sources": [
+    {
+     "name": "BDM International, Inc., Form 10-K for FY1995",
+     "url": "https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt",
+     "date": "1996-03-12"
+    }
+   ],
+   "note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3."
+  },
+  {
+   "a": "blue-book-special-report-14",
+   "b": "project-stork",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "the report the Stork contract produced, which does not name the contract on its own face",
+   "dateStart": "1952",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Project Stork status reports, transcribed from NARA holdings",
+     "url": "https://www.cufon.org/cufon/stork1-7.htm",
+     "date": "1952-11-10"
+    },
+    {
+     "name": "Project Blue Book Special Report No. 14, full OCR text",
+     "url": "https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt",
+     "date": "1955-05-05"
+    }
+   ],
+   "note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100."
+  },
+  {
+   "a": "aurora-budget-line",
+   "b": "usaf",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "the Air Force called Aurora classified after its own department published the figures",
+   "dateStart": "1985",
+   "dateEnd": "1985",
+   "sources": [
+    {
+     "name": "CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4",
+     "date": "1985-02-08"
+    }
+   ],
+   "denialKind": "directed",
+   "denier": "usaf",
+   "note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth."
+  }
+ ],
+ "timeline": [
+  {
+   "id": "tl-1947-rdb",
+   "strand": "program",
+   "date": "1947-07-26",
+   "precision": "day",
+   "label": "Research and Development Board established",
+   "text": "The National Security Act of 1947 (61 Stat. 495) creates the Research and Development Board, the statutory coordinating body for defence research. Truman appoints Vannevar Bush its chairman, continuing him from the Joint Research and Development Board the service secretaries had set up after V-J Day.",
+   "tier": "A",
+   "node": "research-development-board"
+  },
+  {
+   "id": "tl-1952-stork-inception",
+   "strand": "program",
+   "date": "1952-03-31",
+   "precision": "day",
+   "label": "Project Stork begins",
+   "text": "Work begins on Project Stork, designation PPS-100, later carried as contract AF-19741, for the Air Technical Intelligence Center. The first status report of 25 April 1952 describes progress 'from its inception on March 31, 1952'. Seven status reports survive, totalling 107 pages, and the transcribing archive records that further reports referenced in the text are not in NARA custody.",
+   "tier": "A",
+   "node": "project-stork"
+  },
+  {
+   "id": "tl-1953-afr-200-2",
+   "strand": "coverup",
+   "date": "1953-08-26",
+   "precision": "day",
+   "label": "AFR 200-2 puts the release restriction in writing",
+   "text": "Air Force Regulation 200-2, short title UFOB, signed by order of the Secretary of the Air Force by N. F. Twining, supersedes AFL 200-5 of 29 April 1952. It designates ATIC as the analysis authority, directs that all evidence be forwarded there, and restricts public discussion to cases conclusively identified as conventional. Identified cases could be discussed; unidentified ones could not.",
+   "tier": "A",
+   "node": "afr-200-2"
+  },
+  {
+   "id": "tl-1953-brown-fag",
+   "strand": "program",
+   "date": "1953-03-25",
+   "precision": "day",
+   "label": "The FBI investigates Project Winterhaven as possible fraud",
+   "text": "An FBI report out of Cincinnati records that Thomas Townsend Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven' and 'anticipates a contract of approximately a million dollars'. The Washington Field Office is directed to determine any possible violation of the Fraud Against the Government statute, and to review Brown's patents at the Patent Office.",
+   "tier": "B",
+   "node": "thomas-townsend-brown"
+  },
+  {
+   "id": "tl-1955-trimble-rias",
+   "strand": "program",
+   "date": "1955-06-10",
+   "precision": "day",
+   "label": "An aerospace prime proposes an institute to study gravity",
+   "text": "George S. Trimble of the Glenn L. Martin Company writes to Bryce DeWitt that 'our industry was vitally concerned with gravity' and that respectable researchers 'do not wish to get mixed up in the field of gravity research'. He proposes an 'industrial version of the Institute for Advanced Study'. RIAS, Inc. of Baltimore is the result; Louis Witten is its first researcher.",
+   "tier": "B",
+   "node": "rias-inc"
+  },
+  {
+   "id": "tl-1957-chapel-hill",
+   "strand": "program",
+   "date": "1957-01-18",
+   "precision": "day",
+   "label": "RIAS at the Chapel Hill gravitation conference",
+   "text": "The participants list of the conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore'. The conference report is WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center. The participants record their own concern to avoid identification with anti-gravity research.",
+   "tier": "B",
+   "node": "rias-inc"
+  },
+  {
+   "id": "tl-1960-hillenkoetter",
+   "strand": "disclosure",
+   "date": "1960-06-01",
+   "precision": "day",
+   "label": "The first DCI asks Congress to investigate",
+   "text": "A Worcester Gazette report, filed in CIA records and released in 2014, quotes Adm. Roscoe H. Hillenkoetter, DCI from May 1947 to October 1950: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's come from and what their purpose is.' He is by then a NICAP board member and has referred his conclusions to the Senate Space Committee.",
+   "tier": "A",
+   "node": "roscoe-hillenkoetter"
+  },
+  {
+   "id": "tl-1962-corso-ftd",
+   "strand": "witness",
+   "date": "1962-04-18",
+   "precision": "day",
+   "label": "Corso becomes Chief, Foreign Technology Division, OCRD",
+   "text": "Philip J. Corso's own DA Form 66 records him as 'Chief Foreign Technology Div, OCRD USA' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council.",
+   "tier": "B",
+   "node": "philip-corso"
+  },
+  {
+   "id": "tl-1967-1127th",
+   "strand": "program",
+   "date": "1967-06-30",
+   "precision": "day",
+   "label": "The 1127th's own history names the recovery pipeline",
+   "text": "The 1127th USAF Field Activities Group's semiannual history, doc. AFNIABA 014-67, lists Project BLUE FLY, MIG-17 Exploitation and Project MOON DUST together under FOREIGN MATERIEL PROGRAM. It records exploitation personnel from FTD Detachment 3 deployed to crash sites and about three tons of parts airlifted to Wright-Patterson, and SPADATS notifying the unit of 37 Soviet deorbits.",
+   "tier": "A",
+   "node": "usaf-1127th-field-activities-group"
+  },
+  {
+   "id": "tl-1977-janap-146e",
+   "strand": "coverup",
+   "date": "1977-05-17",
+   "precision": "day",
+   "label": "JANAP 146 still lists UFOs, eight years after Blue Book closed",
+   "text": "Change No. 2 to JANAP 146(E) is promulgated. Unidentified flying objects remain a reportable CIRVIS category at Article 201, and Article 208 continues to incorporate 18 U.S.C. 793 and the Canadian Official Secrets Act. Project Blue Book closed in December 1969. The document was released under FOIA on 28 February 1994.",
+   "tier": "A",
+   "node": "janap-146"
+  },
+  {
+   "id": "tl-1985-aurora-p1",
+   "strand": "coverup",
+   "date": "1985-02-08",
+   "precision": "day",
+   "label": "Aurora appears in the Pentagon's unclassified procurement list",
+   "text": "The Washington Post reports that the Pentagon's own unclassified P-1 document shows spending on an Air Force programme called Aurora rising from zero to $80 million in FY1986 and $2.27 billion in FY1987. Reminded that its own department had published the figures, an Air Force spokesman said his orders were to say only 'It's a classified program.' Five years before the Aviation Week story.",
+   "tier": "A",
+   "node": "aurora-budget-line"
+  },
+  {
+   "id": "tl-1986-gao-lockheed",
+   "strand": "oversight",
+   "date": "1986-07-24",
+   "precision": "day",
+   "label": "GAO tells Congress a carve-out contractor lost control of its documents",
+   "text": "GAO testifies to the House Energy and Commerce Subcommittee on Oversight and Investigations that Lockheed reported 1,460 discrepancies in a 40,000-item special-access inventory, 11 of them still unresolved. In the same statement it explains that since 1965 special access programs have been excluded from Defense Investigative Service supervision, and that this is why they are called carve-out contracts.",
+   "tier": "A",
+   "node": "gao-130581"
+  },
+  {
+   "id": "tl-2008-fastwalker",
+   "strand": "program",
+   "date": "2008-03-10",
+   "precision": "day",
+   "label": "A public AFIT thesis defines 'fastwalker'",
+   "text": "AFIT/GA/ENY/08-M06, distribution unlimited, defines the term in its own words as 'any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit'. The words UFO and unidentified appear nowhere in its 112 pages. It names a fastwalker observation database with data from as far back as 1972, and a 1989 predecessor thesis by R. Osedacz.",
+   "tier": "B",
+   "node": "afit-townsend-2008"
+  }
+ ],
+ "entityInfo": {},
+ "gaps": [
+  {
+   "id": "gap-sarbacher-rdb",
+   "text": "Robert Sarbacher's alleged consultancy to the Research and Development Board has no primary record. It traces only to Wilbert Smith's handwritten notes of 15 September 1950 and to Sarbacher's own 1983 letter. Carried at Tier 3 on the Sarbacher node; NO edge is drawn to research-development-board.",
+   "wouldClose": "The Smith fonds at Library and Archives Canada or the Arthur Bray Fonds at the University of Ottawa. Both refuse this environment."
+  },
+  {
+   "id": "gap-smith-memo-1950",
+   "text": "The 21 November 1950 'Geo-Magnetics' memorandum by Wilbert Smith was not obtained in facsimile. Library and Archives Canada returns 403 or a connection reset on every entry point, the archive.org item some secondary pages link as a scan does not exist, and web.archive.org is unreachable from this environment.",
+   "wouldClose": "A facsimile from Library and Archives Canada."
+  },
+  {
+   "id": "gap-trimble-witten",
+   "text": "The claim that George Trimble recruited Louis Witten is NOT on the board. The only openable source says Witten approached Bryce DeWitt in a bid to have DeWitt join RIAS, and nothing read states who hired Witten.",
+   "wouldClose": "The AIP oral history with Louis Witten of 17 March 2011, which lists both Trimble and RIAS among its topics. repository.aip.org returns 403 to both curl and WebFetch."
+  },
+  {
+   "id": "gap-1127th-lineage",
+   "text": "The 1127th USAF Field Activities Group's activation and inactivation dates are not carried, and neither is its station. No primary lineage record was found; Fort Belvoir appears only in secondary accounts.",
+   "wouldClose": "An Air Force Historical Research Agency lineage and honours statement for the unit."
+  },
+  {
+   "id": "gap-osedacz-1989",
+   "text": "The 1989 M.S. thesis by R. Osedacz, 'Orbit determination of sunlight illuminated objects detected by overhead platforms', is named in the AFIT 2008 bibliography and has not been obtained. It is the document that would establish the 1972-onward fastwalker database directly rather than through a citation.",
+   "wouldClose": "DTIC or AFIT Scholar holding the Osedacz thesis."
+  },
+  {
+   "id": "gap-bdm-trw-northrop",
+   "text": "The commonly stated chain BDM International to TRW in 1997 and TRW to Northrop Grumman in 2002 was not read off any document. No edge from bdm-international to northrop-grumman is drawn on it, which leaves BDM connected to the board only by its McLean address.",
+   "wouldClose": "The 1997 TRW acquisition agreement or a TRW 10-K naming BDM, and the 2002 Northrop Grumman merger documents, from SEC EDGAR."
+  },
+  {
+   "id": "gap-aurora-p1",
+   "text": "The P-1 procurement document that carried the Aurora line was not located or read. The chain is a named Washington Post correspondent reporting its contents, in a contemporaneous article preserved in a US government declassified collection.",
+   "wouldClose": "The FY1986 Department of Defense Procurement Programs (P-1) exhibit. govinfo does not reach 1985 procurement justification books."
+  },
+  {
+   "id": "gap-gao-ggd-83-43",
+   "text": "GAO/GGD-83-43 of 18 February 1983, GAO's earlier recommendation on oversight of carve-out contracts which DoD refused, was not opened. It is described on the DIS node only as the 1986 testimony describes it.",
+   "wouldClose": "The report itself from gao.gov."
+  },
+  {
+   "id": "gap-gao-nsiad-88-2br",
+   "text": "GAO/NSIAD-88-2BR, 'Information Security: Actions Taken To Improve Lockheed's Special Access Document Accountability', appeared in a search result only and was not opened. It is the follow-up that would say whether anything changed after 1986. Nothing is cited to it.",
+   "wouldClose": "The briefing report itself from gao.gov."
+  },
+  {
+   "id": "gap-sperry-1979-rename",
+   "text": "The rename from Sperry Rand Corporation to Sperry Corporation, given by secondary sources as 1 August 1979, has no primary document. EDGAR does not reach back to 1986 filings and no merger agreement or proxy was read.",
+   "wouldClose": "A Sperry Corporation filing or proxy predating EDGAR's electronic coverage."
+  },
+  {
+   "id": "gap-brown-british-patent",
+   "text": "British Patent 300,311, named in two documents Brown authored, was not opened. Espacenet and the UK IPO both refuse this environment.",
+   "wouldClose": "The British grant itself from the UK IPO or Espacenet."
+  },
+  {
+   "id": "gap-electrogravitics-1956",
+   "text": "The 1956 Aviation Studies (International) report 'Electrogravitics Systems' has no catalogue record anywhere WorldCat indexes. It survives as a reprint whose provenance is one compiler's account of retrieving an unlisted item from one base library. It is on the board at Tier 3 with that stated in the claim text.",
+   "wouldClose": "A catalogued holding of the original in any institution."
+  },
+  {
+   "id": "gap-atp-1985-participant",
+   "text": "The May 1985 Advanced Theoretical Physics meeting at BDM rests on papers from a private estate published by a researcher. Neither John B. Alexander's nor Jacques Vallee's published account was read; a named participant in print would move the claim from Tier 3 to Tier 2.",
+   "wouldClose": "A published first-person account by a named participant."
+  }
+ ]
+}

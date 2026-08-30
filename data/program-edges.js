@@ -10828,11 +10828,21 @@ export const PROGRAM_EDGES = [
     claimTier: 1,
     dateStart: '1955',
     dateEnd: null,
-    note: 'Project No. 10073; roughly 3,200 cases analysed; the proportion of unknowns rose with the quality of the sighting.',
+    note: 'A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, \'prepared by\' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.',
     sources: [
       {
         name: 'CIA CREST',
         url: 'https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf',
+        date: '1955-05-05'
+      },
+      {
+        name: 'Project Stork status reports, transcribed from NARA holdings',
+        url: 'https://www.cufon.org/cufon/stork1-7.htm',
+        date: '1952-11-10'
+      },
+      {
+        name: 'Project Blue Book Special Report No. 14, full OCR text',
+        url: 'https://archive.org/download/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt',
         date: '1955-05-05'
       }
     ]
@@ -15805,6 +15815,382 @@ export const PROGRAM_EDGES = [
       }
     ],
     denialKind: 'undirected'
+  },
+  {
+    a: 'gao-130581',
+    b: 'gao',
+    type: 'institutional',
+    label: 'GAO produced and publicly released the testimony',
+    claimTier: 1,
+    dateStart: '1986',
+    dateEnd: '1986',
+    note: 'The statement was delivered by Martin M. Ferber, Associate Director, National Security and International Affairs Division, and released on delivery at 10:00 a.m. on 24 July 1986.',
+    sources: [
+      {
+        name: 'GAO accession 130581, testimony of 24 July 1986',
+        url: 'https://www.gao.gov/assets/130581.pdf',
+        date: '1986-07-24'
+      }
+    ]
+  },
+  {
+    a: 'gao-130581',
+    b: 'lockheed-martin',
+    type: 'investigative',
+    label: 'the contractor whose special-access document control the testimony examined',
+    claimTier: 1,
+    dateStart: '1986',
+    dateEnd: '1986',
+    note: 'GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986.',
+    sources: [
+      {
+        name: 'GAO accession 130581, testimony of 24 July 1986',
+        url: 'https://www.gao.gov/assets/130581.pdf',
+        date: '1986-07-24'
+      }
+    ]
+  },
+  {
+    a: 'gao-130581',
+    b: 'lockheed-skunk-works',
+    type: 'geographic',
+    label: 'the companion report names the Lockheed/Burbank plant the testimony would not',
+    claimTier: 1,
+    dateStart: '1986',
+    dateEnd: '1986',
+    note: 'GAO/NSIAD-86-191 names \'the Lockheed/Burbank plant\'. The testimony itself carries a footnote recording that GAO \'agreed not to identify the nature of the program or the specific DOD component or military service involved\'.',
+    sources: [
+      {
+        name: 'GAO/NSIAD-86-191, 7 August 1986',
+        url: 'https://www.gao.gov/assets/nsiad-86-191.pdf',
+        date: '1986-08-07'
+      }
+    ]
+  },
+  {
+    a: 'gao-130581',
+    b: 'defense-investigative-service',
+    type: 'institutional',
+    label: 'documents the 1965 exclusion of special access programs from DIS supervision',
+    claimTier: 1,
+    dateStart: '1986',
+    dateEnd: '1986',
+    note: '\'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.\'',
+    sources: [
+      {
+        name: 'GAO accession 130581, testimony of 24 July 1986',
+        url: 'https://www.gao.gov/assets/130581.pdf',
+        date: '1986-07-24'
+      }
+    ]
+  },
+  {
+    a: 'defense-investigative-service',
+    b: 'lockheed-martin',
+    type: 'institutional',
+    label: 'inspected Lockheed\'s other contracts while excluded from its special access contract',
+    claimTier: 1,
+    dateStart: '1965',
+    dateEnd: '1986',
+    note: 'GAO to the Secretary of Defense: the failure \'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.\'',
+    sources: [
+      {
+        name: 'GAO/NSIAD-86-191, 7 August 1986',
+        url: 'https://www.gao.gov/assets/nsiad-86-191.pdf',
+        date: '1986-08-07'
+      }
+    ]
+  },
+  {
+    a: 'usaf-1127th-field-activities-group',
+    b: 'project-moon-dust',
+    type: 'programmatic',
+    label: 'ran MOON DUST under its Foreign Materiel Program',
+    claimTier: 1,
+    dateStart: '1967',
+    dateEnd: '1967',
+    note: 'The unit\'s own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.',
+    sources: [
+      {
+        name: 'History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf',
+        date: '1967-06-30'
+      }
+    ]
+  },
+  {
+    a: 'usaf-1127th-field-activities-group',
+    b: 'operation-blue-fly',
+    type: 'programmatic',
+    label: 'ran BLUE FLY under the same Foreign Materiel Program',
+    claimTier: 1,
+    dateStart: '1967',
+    dateEnd: '1967',
+    note: 'Listed at p.29 of the unit\'s own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.',
+    sources: [
+      {
+        name: 'History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf',
+        date: '1967-06-30'
+      }
+    ]
+  },
+  {
+    a: 'usaf-1127th-field-activities-group',
+    b: 'l-wright-patterson',
+    type: 'custody',
+    label: 'airlifted recovered foreign materiel to Wright-Patterson',
+    claimTier: 1,
+    dateStart: '1967',
+    dateEnd: '1967',
+    note: '\'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.\'',
+    sources: [
+      {
+        name: 'History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf',
+        date: '1967-06-30'
+      }
+    ]
+  },
+  {
+    a: 'usaf-1127th-field-activities-group',
+    b: 'usaf',
+    type: 'institutional',
+    label: 'an Air Force unit reporting to the Assistant Chief of Staff, Intelligence',
+    claimTier: 1,
+    dateStart: '1967',
+    dateEnd: '1967',
+    note: 'The ACS/I\'s own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.',
+    sources: [
+      {
+        name: 'History of the Assistant Chief of Staff, Intelligence, July - December 1967',
+        url: 'https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf',
+        date: '1967-12-31'
+      }
+    ]
+  },
+  {
+    a: 'research-development-board',
+    b: 'national-archives',
+    type: 'custody',
+    label: 'surviving records held in Record Group 330',
+    claimTier: 1,
+    dateStart: '1953',
+    dateEnd: null,
+    note: 'NARA\'s finding aid lists, at 330.11.3, \'Minutes of meetings of the Executive Council, 1946-50\' and \'Records of the Committee on Technical Information, 1946-53\'.',
+    sources: [
+      {
+        name: 'Guide to Federal Records in the National Archives, Record Group 330',
+        url: 'https://www.archives.gov/research/guide-fed-records/groups/330.html',
+        date: '2026-08-30'
+      }
+    ]
+  },
+  {
+    a: 'thomas-townsend-brown',
+    b: 'lockheed-martin',
+    type: 'research',
+    label: 'US 2,417,347 assigned by mesne assignments to Lockheed Aircraft Corporation',
+    claimTier: 1,
+    dateStart: '1947',
+    dateEnd: '1947',
+    note: 'The patent\'s own inventor line reads \'Thomas T. Brown, Laguna Beach, Calif., assignor by mesne assignments to Lockheed Aircraft Corporation\'. This is the one item in Brown\'s self-authored biography that a second document corroborates.',
+    sources: [
+      {
+        name: 'US Patent 2,417,347, Vibration Damper, assignment line',
+        url: 'https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2417347',
+        date: '1947-03-11'
+      }
+    ]
+  },
+  {
+    a: 'rias-inc',
+    b: 'louis-witten',
+    type: 'institutional',
+    label: 'Witten represented RIAS at the 1957 Chapel Hill gravitation conference',
+    claimTier: 1,
+    dateStart: '1957',
+    dateEnd: '1957',
+    note: 'The participants list prints \'Witten, L. | RIAS, Inc., Baltimore\'. His contribution, with R. W. Bass, was \'Some Remarks on Cosmological Models\'.',
+    sources: [
+      {
+        name: 'The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list',
+        url: 'https://edition-open-sources.org/sources/5/6/index.html',
+        date: '1957-01-18'
+      }
+    ]
+  },
+  {
+    a: 'rias-inc',
+    b: 'george-trimble',
+    type: 'institutional',
+    label: 'Trimble proposed RIAS as an industrial institute for advanced study',
+    claimTier: 2,
+    dateStart: '1955',
+    dateEnd: '1955',
+    note: 'Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian\'s.',
+    sources: [
+      {
+        name: 'Dean Rickles, \'The Chapel Hill Conference in Context\'',
+        url: 'https://edition-open-sources.org/sources/5/3/index.html',
+        date: '2011-01-01'
+      }
+    ]
+  },
+  {
+    a: 'rias-inc',
+    b: 'lockheed-martin',
+    type: 'institutional',
+    label: 'RIAS was the Glenn L. Martin Company\'s institute; the corporate succession to Lockheed Martin is not documented here',
+    claimTier: 3,
+    dateStart: '1955',
+    dateEnd: null,
+    note: 'What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.',
+    sources: [
+      {
+        name: 'Dean Rickles, \'The Chapel Hill Conference in Context\'',
+        url: 'https://edition-open-sources.org/sources/5/3/index.html',
+        date: '2011-01-01'
+      }
+    ]
+  },
+  {
+    a: 'philip-corso',
+    b: 'l-dc',
+    type: 'geographic',
+    label: 'posted to the Operations Coordinating Board and then to OCRD, both in Washington',
+    claimTier: 1,
+    dateStart: '1954',
+    dateEnd: '1962',
+    note: 'His DA Form 66 records \'8720 DU, ArmySec, Opr Coordinating Bd, Wash DC\' from 24 February 1954, and \'Foreign Technology Div, OCRD USA (8556) Wash DC\' from 20 July 1961, as Chief from 18 April 1962.',
+    sources: [
+      {
+        name: 'DA Form 66, Officer\'s Qualification Record, Philip J. Corso',
+        url: 'https://www.theblackvault.com/documents/ufos/corso/corso.pdf',
+        date: '1998-04-01'
+      }
+    ]
+  },
+  {
+    a: 'robert-sarbacher',
+    b: 'wilbert-smith',
+    type: 'witness-chain',
+    label: 'Smith\'s 1950 notes name Sarbacher as their source; Sarbacher\'s own 1983 letter says he did not attend',
+    claimTier: 2,
+    dateStart: '1950',
+    dateEnd: '1983',
+    note: 'The 1983 letter is the only document in this chain that was opened. Smith\'s 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher\'s own words are \'I could not personally attend the meetings.\'',
+    sources: [
+      {
+        name: 'Sarbacher to Steinman, 29 November 1983, signed facsimile',
+        url: 'https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf',
+        date: '1983-11-29'
+      }
+    ]
+  },
+  {
+    a: 'roscoe-hillenkoetter',
+    b: 'cia',
+    type: 'institutional',
+    label: 'first Director of Central Intelligence, May 1947 to October 1950',
+    claimTier: 1,
+    dateStart: '1947',
+    dateEnd: '1950',
+    note: 'The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he \'headed the Central Intelligence Agency from May 1947 to October 1950\'.',
+    sources: [
+      {
+        name: 'CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp68-00046r000200090025-2',
+        date: '1960-06-01'
+      }
+    ]
+  },
+  {
+    a: 'eric-wang',
+    b: 'l-wright-patterson',
+    type: 'institutional',
+    label: 'Chief, Special Studies Office, Installations Division, Air Materiel Command',
+    claimTier: 1,
+    dateStart: '1953',
+    dateEnd: '1954',
+    note: 'The Project 3.1 report records the transfer of Air Force responsibility \'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954\'.',
+    sources: [
+      {
+        name: 'Operation Upshot-Knothole, Project 3.1, DTIC ADA073468',
+        url: 'https://archive.org/details/DTIC_ADA073468',
+        date: '1955-07-01'
+      }
+    ]
+  },
+  {
+    a: 'eric-wang',
+    b: 'l-kirtland',
+    type: 'geographic',
+    label: 'Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB',
+    claimTier: 1,
+    dateStart: '1960',
+    dateEnd: '1960',
+    note: 'A 1960 DTIC report names \'Eric H. Wang, Chief, Structures Division\' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures.',
+    sources: [
+      {
+        name: 'Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283',
+        url: 'https://archive.org/details/DTIC_AD0460283',
+        date: '1960-05-06'
+      }
+    ]
+  },
+  {
+    a: 'afit-townsend-2008',
+    b: 'l-wright-patterson',
+    type: 'geographic',
+    label: 'written at the Air Force Institute of Technology, Wright-Patterson AFB',
+    claimTier: 1,
+    dateStart: '2008',
+    dateEnd: '2008',
+    note: 'Title page: \'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.\'',
+    sources: [
+      {
+        name: 'AFIT/GA/ENY/08-M06, DTIC ADA478890, title page',
+        url: 'https://archive.org/details/DTIC_ADA478890',
+        date: '2008-03-10'
+      }
+    ]
+  },
+  {
+    a: 'bdm-international',
+    b: 'l-mclean',
+    type: 'geographic',
+    label: 'headquartered at 1501 BDM Way, McLean, Virginia',
+    claimTier: 1,
+    dateStart: '1995',
+    dateEnd: '1995',
+    note: 'From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a \'BDM McLean Secure Facility\' only by papers from a private estate, and is carried on the node at Tier 3.',
+    sources: [
+      {
+        name: 'BDM International, Inc., Form 10-K for FY1995',
+        url: 'https://www.sec.gov/Archives/edgar/data/870763/0000950112-96-000762.txt',
+        date: '1996-03-12'
+      }
+    ]
+  },
+  {
+    a: 'aurora-budget-line',
+    b: 'usaf',
+    type: 'denial',
+    label: 'the Air Force called Aurora classified after its own department published the figures',
+    claimTier: 1,
+    dateStart: '1985',
+    dateEnd: '1985',
+    note: '\'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It\'s a classified program.\' The denial is of disclosability, not of an anomalous craft -- the article\'s own sources point at Stealth.',
+    sources: [
+      {
+        name: 'CIA-RDP90-00965R000807470050-4, Washington Post, 8 February 1985',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp90-00965r000807470050-4',
+        date: '1985-02-08'
+      }
+    ],
+    denialKind: 'directed',
+    denier: 'usaf'
   },
   {
     a: 'jesse-michels',

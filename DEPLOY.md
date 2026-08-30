@@ -14,6 +14,39 @@ paste any one of them into a cold terminal without reading the ones above it. Th
 
 ---
 
+## Automatic, and why you should prefer it
+
+**Since 30 August 2026 a push to `master` deploys the site by itself**, via
+`.github/workflows/deploy.yml`. The manual route below still works and is still the
+fallback, but you should not need it.
+
+It needs two repository secrets, set **once**, in
+**Settings → Secrets and variables → Actions → New repository secret**:
+
+| secret | what to put in it |
+|---|---|
+| `CLOUDFLARE_API_TOKEN` | a **Custom Token** with exactly one permission: **Account → Cloudflare Pages → Edit**, scoped to your account. Nothing else. |
+| `CLOUDFLARE_ACCOUNT_ID` | the hex Account ID from the Cloudflare dashboard's right-hand rail |
+
+Until both exist the workflow skips itself and posts a notice saying so, rather than
+failing every push.
+
+**Do not use the Global API Key.** It controls the entire account — every zone, DNS,
+billing — it cannot be scoped down, and it cannot be rotated per-use. A Pages deploy
+needs one permission. If a Global API Key is ever exposed anywhere, roll it
+immediately with **Change** on the API Keys page.
+
+**Paste the token straight into GitHub's secret field.** It should not go through
+chat, a note, a commit, or a session. Nothing that can read this repository can read
+a repository secret, which is the point.
+
+The workflow deliberately deploys the **committed** `dist/the-program.html` rather
+than rebuilding, so what goes live is the artifact the gate proved reproduces from
+source. It does **not** deploy the analyst worker; §2 below stays manual and stays
+yours, because the worker holds an API key.
+
+---
+
 ## 0. Get the latest
 
 ```

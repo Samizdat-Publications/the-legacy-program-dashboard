@@ -7,7 +7,7 @@
     "An acronym is only used where it is the form the record itself uses (AAWSAP, AATIP, ODNI, AFOSI, NIDS, NASA). Never coin one.",
     "Two nodes must never share a short. Volume I and Volume II, and the two Immaculate Constellation records, are the cases that force this."
   ],
-  "_verified": "46 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the 64 derived shorts already in use.",
+  "_verified": "47 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the derived shorts already in use.",
   "shorts": {
     "aaro-fy2024-annual-report": "AARO FY2024 Annual Report",
     "aaro-fy2025-annual-report": "AARO FY2025 Annual Report",
@@ -31,6 +31,7 @@
     "iaa-fy2024-7343": "FY2024 IAA sec. 7343",
     "immaculate-constellation": "Immaculate Constellation, 2024",
     "immaculate-constellation-12-page-report": "Immaculate Constellation report",
+    "lockheed-skunk-works": "Lockheed Skunk Works",
     "michels-gerb-structural-episode": "'The Pentagon's UFO Program Is Real'",
     "nara-uap-collection": "National Archives UAP Collection",
     "nasa": "NASA",
@@ -39,9 +40,9 @@
     "nimitz-2004": "USS Nimitz encounters, Nov 2004",
     "nyt-2017-12-16": "NYT, 'Glowing Auras', Dec 2017",
     "odni": "ODNI",
+    "ousdi": "Under Sec of Defense for Intelligence",
     "oversight-congress": "Congressional oversight of SAPs",
     "paper-nolan-vallee-2022": "Nolan & Vallee 2022, Prog Aero Sci",
-    "ousdi": "Under Sec of Defense for Intelligence",
     "rendlesham-1980": "Rendlesham Forest, 1980",
     "setka-program": "SETKA-AN / SETKA-MO",
     "stargate-program": "STAR GATE and predecessors",
