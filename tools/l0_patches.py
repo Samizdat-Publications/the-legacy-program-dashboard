@@ -1679,6 +1679,23 @@ function mountL0(host){
                         : 'Pan this node into the room there is, without folding anything.')
                    + '">' + k.toUpperCase() + '</button>').join('')
       + '</span>'
+      /* CHANGE 5, FORWARD BRIDGE. Claude Design 30 August 2026.
+         It says the COUNT the budget is hiding, not "see connections". This map
+         draws 103 of 326 links at rest by its own edge budget, so a node's drawn
+         lines are not its connections -- and a control reading "see connections"
+         implies concealment in general where the count says exactly how much.
+         The number is this node's own, derived from the model, never typed.
+
+         READER-INITIATED, ALWAYS. It does not fire on selection. The bug that
+         produced the whole 29 August reversal was selection forcing a view change,
+         and a gentler version of it is still that bug. */
+      + (function(){
+          const all = (n.direct||[]).length + (n.routed||[]).length;
+          if (!all) return '';
+          return '<button data-tonet="1" title="Open the network map framed on this '
+               + 'node, with every one of its connections drawn.">ALL ' + all
+               + ' CONNECTION' + (all === 1 ? '' : 'S') + '</button>';
+        })()
       + '<button data-selclear="1">CLEAR</button>';
   }
 
@@ -1838,6 +1855,11 @@ function mountL0(host){
       if (k === 'flags'){ stopLoop(); animT = 0; startLoop(); }
       renderChrome(); repaint(); return;
     }
+    /* The forward trip. REVERSIBLE: the selection survives it, so
+       program -> network -> program lands the reader where they left. If it did
+       not, the bridge would be a trapdoor. */
+    const tn = ev.target.closest('[data-tonet]');
+    if (tn){ CMD.showAllConnections(); return; }
     const p = ev.target.closest('[data-panel]');
     if (p){ S.l0panel = p.getAttribute('data-panel') || null; renderRegister(); return; }
     const r = ev.target.closest('[data-node]');
@@ -1864,8 +1886,43 @@ function mountL0(host){
      below 0.62 and labelled above it. Which is what was wanted all along, and what
      Stewart asked for: "nobody ever gets to see the map in its normal form and
      it's central to it, as it shows how robust our connections are." */
-  centreOn(fk);
-  zoom = 'fit';
+  /* CHANGE 4, Claude Design 30 August 2026: THE MAP NOW HAS TWO ARRIVALS.
+     Cold, from the rail: fit to whole, unchanged. Warm, carrying a selection that
+     is on this map: open at the label threshold, centred on the selected chip.
+
+     WHY NOT FIT ON A WARM ARRIVAL, and the numbers are worse than the argument.
+     A selection opens the dossier, the dossier takes width, and the fit collapses
+     with it. Measured 30 August (notes/FIT-SCALE-2026-08-30.md), fit WITH the dock
+     open is 0.19x at 1366, 0.29x at 1600 and 0.45x at 1920 -- below L0_LABEL_DROP
+     on three of four common windows. A reader who clicked a person's name and
+     asked for structure would arrive at 110 unlabelled rectangles, which is a
+     worse failure than anything the rest state can produce.
+
+     AND NOT PAST IT EITHER. focus() forcing view.k >= 1.15 was already diagnosed
+     as wrong in CLAUDE.md section 9 as UX defect C, back when this map was the rest
+     state. Someone arriving from a 964-node graph asking for structure should not
+     land inside the map.
+
+     BOUND TO THE CONSTANT, NOT A LITERAL. Aimed at L0_LABEL_DROP so that moving the
+     threshold moves the arrival with it. CLAUDE.md names the alternative failure:
+     five canvas checks drove `v.k = 0.45` to reach dense mode and would have passed
+     while testing nothing once the constant moved. */
+  const warmId = (typeof S !== 'undefined' && S.sel && byId[S.sel]) ? S.sel : null;
+  if (warmId){
+    const n = byId[warmId];
+    view.k = L0_LABEL_DROP;
+    /* the chip's own box, which every node carries, rather than PK.geo -- the
+       merged model does not always carry geo and a missing chipW would centre
+       on the chip's left edge instead of the chip. */
+    view.ox = W/2 - (n.x + (n.w||0)/2) * view.k;
+    view.oy = H/2 - (n.y + (n.h||0)/2) * view.k;
+    clampView();
+    zoom = null;              /* neither FIT nor FIT ALL describes where this is */
+    camMode = 'held';         /* the reader asked to be here; do not re-fit under them */
+  } else {
+    centreOn(fk);
+    zoom = 'fit';
+  }
   repaint();
   startLoop();
   /* One path for every change to the box, and while AUTO it RE-FITS rather than
@@ -2617,7 +2674,8 @@ def apply(s, model, must_replace, layout=None):
     # the renderer's OWN truncation rather than a copy of it. A check that
     # reimplements the thing it is checking passes when the renderer diverges.
     s, o = must_replace(s, "window.__board = { CMD, S,",
-                        "window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit,",
+                        "window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit,\n"
+                        "                   L0_LABEL_DROP,",
                         "L0 debug export", 1); ok &= o
 
     # -- the inherited hop/legend chrome belongs to the full-graph map, and its
@@ -3401,4 +3459,23 @@ L0_CMD3 = r"""
     paint({ map:'l0', full:true });
   },
   showEntry(){ S.l0entry = true; S.view = 'PROGRAM'; paint({ full:true }); },
+  /* CHANGE 5. The two bridges are commands as well as controls, because every
+     control on this board has to be reachable from the chat line -- that is the
+     "drive the whole app from the chat input" requirement, and a control with no
+     CMD entry breaks it. */
+  showAllConnections(){
+    if (!S.sel) return warn('showAllConnections() — nothing is selected');
+    S.view = 'NETWORK';
+    S.frame = [S.sel];
+    paint({ map:'frame', full:true });
+  },
+  showInProgramMap(){
+    if (!S.sel) return warn('showInProgramMap() — nothing is selected');
+    if (!(L0DATA.l0||[]).some(x => x.id === S.sel))
+      return warn('showInProgramMap() — "'+S.sel+'" is not one of the '
+                + (L0DATA.l0||[]).length + ' nodes on the program map');
+    S.frame = null;
+    S.view = 'PROGRAM';
+    paint({ full:true });
+  },
 """
