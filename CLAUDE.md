@@ -264,6 +264,16 @@ This section applies only to commands written **for Stewart to paste**. He runs
   understanding what the audit is for. (Told twice: 26 August 2026.)
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat
   and let him edit by line.
+- **HAND things to Claude Design. Do not point at the repo.** §7 says "hand this to Design"
+  about `data/design-extract.json` and that verb is load-bearing: a Design session starts with
+  no memory of this project and reads GitHub, if at all, only when told the exact
+  `owner/repo` AND the exact branch. A brief that opens "read `CLAUDE.md`, then these three
+  notes" is a brief Design cannot act on, and on 30 August one was written that way and
+  bounced. Every Design brief must be **self-contained** — it carries its own context, its own
+  screenshots and its own figures — and anything it references must be **on `master`**, which
+  means the PR is merged first. This is the unmerged-PR lesson above, wearing different
+  clothes: the gate has 184 assertions and not one of them checks that a document written for
+  somebody else is reachable by them.
 - **Never paste the GitHub token into chat.** It lives in `.gh-token`, gitignored.
 - **Size must never encode importance** anywhere in the visual language. The largest node is
   AARO, which this board treats as implicated, not authoritative. Position is available;
