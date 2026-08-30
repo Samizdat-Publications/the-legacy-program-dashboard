@@ -60,7 +60,7 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | unique source URLs | 2,941 |
 | dead citations | 0 |
 | timeline events | 872 |
-| views | 9 — Network map, Program map, Patents, Timeline, Geography, Case files, Analysis, The cover-up, Search, Report |
+| views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
 | primary map | the force-directed full graph, all 964 nodes. **Inverted 29 August 2026** |
 | program map (L0) | 110 nodes, all with dossiers, on the PROGRAM tab |
 | map layout | Design's packed cells: 7 bands x 5 columns, 110 chips at one size |
@@ -122,7 +122,17 @@ node    tools/test_packed_layout.js          # 30 assertions read back out of th
 node    tools/test_packed_layout.js --self-test
 node    tools/test_scripted_analyst.mjs      # 15 branch assertions
 python3 tools/verify.py --idempotent         # slow: builds twice, requires identical output
+python3 tools/check_rebuild.py               # committed artifacts == a fresh build
+python3 tools/check_rebuild.py --self-test
 ```
+
+**`check_rebuild.py` is what CI runs after rebuilding, and it exists because `git diff
+--quiet` was wrong here.** Every artifact carries a build-DATE stamp, so a plain diff fails
+whenever CI rebuilds on a different UTC day from the machine that built the commit — which
+happened at 00:01 on 30 August. It normalises the stamp on both sides and compares full
+bytes. **Do not "simplify" it to `git diff -I<regex>`**: three of these artifacts are a
+single line each, so the one changed line always contains the stamp and every real change to
+them would be silently ignored.
 
 And, separately, because it asserts nothing and cannot fail:
 

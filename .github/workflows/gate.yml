@@ -84,15 +84,26 @@ jobs:
         # A rebuild from committed source must reproduce the committed artifacts. If
         # this fails, someone edited research/ and pushed without rebuilding, or
         # edited a build product by hand -- and the board a reader sees is not the
-        # board the sources describe. Nothing else catches that.
-        run: |
-          if ! git diff --quiet; then
-            echo "::error::rebuilding from committed source changed tracked files."
-            echo "Run the section 3 pipeline and commit the result."
-            git diff --stat
-            exit 1
-          fi
-          echo "committed artifacts match a fresh build"
+        # board the sources describe. Nothing else catches that. e04b705 did exactly
+        # that and left `master` red.
+        #
+        # This was `git diff --quiet` until 30 August 2026, and it had a false
+        # failure that fired at 00:01 UTC that morning: every artifact carries a
+        # build-DATE stamp, so a rebuild on a different UTC day from the machine that
+        # built the commit differs in eleven files by one line each, with nothing
+        # actually wrong. verify.py --idempotent already neutralised that stamp and
+        # said so in its own comment; the knowledge had never been carried across.
+        #
+        # The obvious fix -- `git diff -I<regex>` -- would have been WORSE THAN THE
+        # BUG. data/l0-model.json, data/l0-layout-model.json and
+        # data/design-extract.json are each a single line, so the one changed line
+        # always contains the stamp and every real change to them would have been
+        # ignored. tools/check_rebuild.py normalises the stamp on both sides and
+        # compares full bytes instead. It is self-tested.
+        run: python3 tools/check_rebuild.py
+
+      - name: ...and that check must be able to fail
+        run: python3 tools/check_rebuild.py --self-test
 
       - name: Serve the board
         # file:// does not work for a 15MB page: it never finishes parsing.
