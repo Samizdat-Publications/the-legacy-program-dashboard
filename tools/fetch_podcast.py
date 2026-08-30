@@ -46,7 +46,12 @@ USAGE
 `--list` prints the catalogue and fetches no audio, which is the cheap way to see
 what a feed holds before spending hours on it.
 """
-import argparse, html, json, os, re, sys, time, urllib.request, urllib.error
+import argparse, functools, html, json, os, re, sys, time, urllib.request, urllib.error
+
+# Python block-buffers stdout when it is not a tty, so a run redirected to a file
+# or piped shows NOTHING for minutes at a time and looks hung. This job takes
+# hours; its progress has to be legible while it runs, not after it exits.
+say = functools.partial(print, flush=True)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "research", ".transcripts")
@@ -179,75 +184,115 @@ def main():
         url, name = args.feed, (args.name or "feed")
         label = url
 
-    print("feed: %s" % label)
+    say("feed: %s" % label)
     try:
         xml = fetch(url).read().decode("utf-8", "replace")
     except Exception as e:
-        print("  !! could not fetch the feed: %s" % e, file=sys.stderr)
+        say("  !! could not fetch the feed: %s" % e, file=sys.stderr)
         return 2
     eps = parse_feed(xml, name)
     if not eps:
-        print("  !! no <item> with an <enclosure> in that feed", file=sys.stderr)
+        say("  !! no <item> with an <enclosure> in that feed", file=sys.stderr)
         return 2
 
     total = sum(secs(e["duration"]) for e in eps)
-    print("  %d episodes, %s of audio, %s to %s"
+    say("  %d episodes, %s of audio, %s to %s"
           % (len(eps), hhmm(total), eps[-1]["date"][:16], eps[0]["date"][:16]))
 
     os.makedirs(args.out, exist_ok=True)
+
     done = {e["id"] for e in eps
             if os.path.exists(os.path.join(args.out, e["id"] + ".json"))}
     todo = [e for e in eps if e["id"] not in done]
     if args.oldest_first:
         todo = list(reversed(todo))
 
+    # --list is READ-ONLY and returns before the sweep below, which deletes files.
     if args.list:
         for e in eps:
-            print("  %s  %5s  %-9s %s"
+            say("  %s  %5s  %-9s %s"
                   % (e["date"][5:16], hhmm(secs(e["duration"])),
                      "cached" if e["id"] in done else "", e["title"][:72]))
-        print("\n%d cached, %d to fetch" % (len(done), len(todo)))
+        say("\n%d cached, %d to fetch" % (len(done), len(todo)))
         return 0
 
-    print("  %d already cached, %d to fetch" % (len(done), len(todo)))
-    if not todo:
+    # Sweep audio abandoned by a run that was KILLED rather than interrupted. The
+    # per-episode `finally` deletes the mp3, but a SIGKILL -- an OOM, a reaped
+    # background process, a reclaimed container -- never runs it, and one abandoned
+    # 3.5-hour episode is half a gigabyte.
+    #
+    # TWO GUARDS, both learned within a minute of writing the first version.
+    #
+    # It sits AFTER the --list return above, because a read-only mode must not
+    # delete anything.
+    #
+    # And it only touches files older than STALE_AFTER, because a `.part` may
+    # belong to a run happening RIGHT NOW -- this project transcribes one show in
+    # one process while another lists or fetches a second. The first version had no
+    # age check and deleted the 482MB episode a concurrent run was working on. The
+    # longest episode in these feeds is 3.6 hours, which downloads in seconds and
+    # transcribes in about twelve minutes, so a file untouched for two hours
+    # belongs to nobody.
+    STALE_AFTER = 2 * 3600
+    now, stale, freed = time.time(), [], 0
+    for f in os.listdir(args.out):
+        if not f.endswith(".mp3.part"):
+            continue
+        fp = os.path.join(args.out, f)
+        try:
+            if now - os.path.getmtime(fp) < STALE_AFTER:
+                continue                       # someone is probably using it
+            freed += os.path.getsize(fp)
+            os.remove(fp)
+            stale.append(f)
+        except OSError:
+            pass
+    if stale:
+        say("  swept %d abandoned audio file(s), %.0f MB, untouched for over %dh"
+              % (len(stale), freed / 1e6, STALE_AFTER // 3600))
+
+    say("  %d already cached, %d to fetch" % (len(done), len(todo)))
+    if not todo or args.limit == 0:
+        # --limit 0 is the dry run: resolve the feed, sweep, report, fetch nothing.
+        # It has to return HERE, before the model loads, or "fetch nothing" still
+        # costs several seconds and a few hundred megabytes of resident memory.
         return 0
 
     try:
         from faster_whisper import WhisperModel
     except ImportError:
-        print("\n  !! faster-whisper is not installed. It is the transcriber and there\n"
+        say("\n  !! faster-whisper is not installed. It is the transcriber and there\n"
               "     is no fallback. Install it, then run this again:\n\n"
               "         pip install faster-whisper\n", file=sys.stderr)
         return 2
 
-    print("  loading %s ..." % args.model)
+    say("  loading %s ..." % args.model)
     model = WhisperModel(args.model, device="cpu", compute_type="int8")
 
     started = time.time()
     n = 0
     for e in todo:
-        if args.limit and n >= args.limit:
-            print("  stopping: --limit %d reached" % args.limit)
+        if args.limit is not None and n >= args.limit:
+            say("  stopping: --limit %d reached" % args.limit)
             break
         if args.max_hours and (time.time() - started) / 3600 >= args.max_hours:
-            print("  stopping: --max-hours %.1f reached" % args.max_hours)
+            say("  stopping: --max-hours %.1f reached" % args.max_hours)
             break
 
         dur = secs(e["duration"])
-        print("\n  [%d/%d] %s" % (n + 1, len(todo), e["title"][:70]))
-        print("        %s  %s" % (e["date"][5:16], hhmm(dur)))
+        say("\n  [%d/%d] %s" % (n + 1, len(todo), e["title"][:70]))
+        say("        %s  %s" % (e["date"][5:16], hhmm(dur)))
         mp3 = os.path.join(args.out, e["id"] + ".mp3.part")
         try:
             t = time.time()
             size = download(e["audio"], mp3)
-            print("        %.1f MB in %ds" % (size / 1e6, time.time() - t))
+            say("        %.1f MB in %ds" % (size / 1e6, time.time() - t))
 
             t = time.time()
             segs, _ = model.transcribe(mp3, beam_size=1, vad_filter=True)
             rows = [{"t": round(s.start, 2), "text": s.text.strip()} for s in segs]
             el = max(time.time() - t, 1)
-            print("        %d segments in %s (%.1fx realtime)"
+            say("        %d segments in %s (%.1fx realtime)"
                   % (len(rows), hhmm(int(el)), (dur or el) / el))
 
             # Write only on success, and only via a temp file, so an interrupted
@@ -260,10 +305,10 @@ def main():
             os.replace(tmp, os.path.join(args.out, e["id"] + ".json"))
             n += 1
         except KeyboardInterrupt:
-            print("\n  interrupted; the part file is kept and the next run resumes it")
+            say("\n  interrupted; the part file is kept and the next run resumes it")
             break
         except Exception as ex:
-            print("        !! %s: %s" % (type(ex).__name__, str(ex)[:160]), file=sys.stderr)
+            say("        !! %s: %s" % (type(ex).__name__, str(ex)[:160]), file=sys.stderr)
         finally:
             # ALWAYS, including on failure. 285 hours of MP3 is about 15GB and this
             # container has a fixed disk allowance.
@@ -273,9 +318,9 @@ def main():
                 except OSError:
                     pass
 
-    print("\n%d new transcript(s) in %s" % (n, hhmm(int(time.time() - started))))
-    print("cache: %s" % args.out)
-    print("This directory is gitignored on purpose. Do not commit it.")
+    say("\n%d new transcript(s) in %s" % (n, hhmm(int(time.time() - started))))
+    say("cache: %s" % args.out)
+    say("This directory is gitignored on purpose. Do not commit it.")
     return 0
 
 
