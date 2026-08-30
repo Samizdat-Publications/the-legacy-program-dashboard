@@ -926,6 +926,18 @@ def _images():
 
 _PATENTS_OVERRIDE = None
 _OBS_OVERRIDE = None
+_FOIA_OVERRIDE = None
+
+
+def _foia():
+    """data/foia-links.json, or the poisoned stand-in during --self-test."""
+    if _FOIA_OVERRIDE is not None:
+        return _FOIA_OVERRIDE
+    path = os.path.join(ROOT, "data", "foia-links.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
 
 
 def _patents():
@@ -1604,6 +1616,74 @@ def _dz_read_cap(b, html):
     return []
 
 
+@check("every FOIA request points at a question that is actually open")
+def _foia_links(b, html):
+    """The FOIA layer, and what it must not be allowed to become.
+
+    Stewart, 29 August 2026: "The FOIA will have to happen way later but keep them
+    there and ready. In fact integrate them into the board somehow." The integration
+    is a chip on an open question naming the request that would close it, which turns
+    the request queue from a document beside the board into part of its argument.
+
+    That is only worth anything if the pointer is true. Three ways it can rot, and
+    all three are silent:
+
+      - a node is renamed and the letters keep the old id, so the chip stops drawing
+        and the dossier looks as though no request touches it;
+      - a research pass removes an open question and the indices shift underneath a
+        letter written against the old numbering, so a chip points at the wrong
+        question while still looking right;
+      - the linkage file goes stale against the letters it was derived from.
+
+    The third is handled by generating data/foia-links.json inside the build. This
+    asserts the first two against the board that actually shipped, and asserts that
+    the status stays honest: NOTHING HAS BEEN FILED, and a board that printed a
+    request with no status would read as one in flight."""
+    F = _foia()
+    if F is None:
+        return ["data/foia-links.json is missing — run python3 tools/build_foia_links.py"]
+    bad = []
+    # The generator records what it could not resolve rather than dropping it. If it
+    # recorded anything, that is the finding.
+    for nid in F.get("unresolved") or []:
+        bad.append(f"the letters name node {nid!r}, which is not on this board")
+    for x in F.get("outOfRange") or []:
+        bad.append(f"a request points past the end of a node's open questions: {x}")
+
+    reqs = F.get("requests") or []
+    if not reqs:
+        bad.append("no requests parsed out of notes/FOIA-LETTERS-2026-08-29.md, so "
+                   "every dossier would render exactly as it did before the layer "
+                   "existed — which is what a silently broken parser looks like")
+    STATUS = {"not filed", "filed", "acknowledged", "responded", "appealed"}
+    for r in reqs:
+        if r.get("status") not in STATUS:
+            bad.append(f"{r.get('id')}: status {r.get('status')!r} is not one the "
+                       f"board knows how to draw")
+        if not r.get("agency"):
+            bad.append(f"{r.get('id')}: no agency, so its chip would print a bare id")
+        if not (r.get("nodes") or []):
+            bad.append(f"{r.get('id')}: closes nothing on the board")
+
+    # And the linkage against the real dossiers, which is the half that rots.
+    model_path = os.path.join(ROOT, "data", "l0-model.json")
+    if os.path.exists(model_path):
+        with open(model_path, encoding="utf-8") as fh:
+            doss = (json.load(fh).get("dossiers") or {})
+        for nid, rows in sorted((F.get("byNode") or {}).items()):
+            d = doss.get(nid)
+            if d is None:
+                bad.append(f"a request points at {nid!r}, which has no dossier")
+                continue
+            n = len(d.get("openQuestions") or [])
+            for row in rows:
+                for q in (row.get("questions") or []) + (row.get("partial") or []):
+                    if not (0 <= q < n):
+                        bad.append(f"{row.get('request')} points at {nid} Q{q} and that "
+                                   f"node has {n} open question(s)")
+    return bad[:40]
+
+
 @check("every patents-tab quotation is verbatim in the document it cites")
 def _pat_quotes(b, html):
     """THE ONE RULE THAT NEVER BENDS, mechanised for the PATENTS tab.
@@ -2173,6 +2253,7 @@ def self_test():
             _real_board = json.load(fh)
     _real_patents = _patents()
     _real_obs = _observables()
+    _real_foia = _foia()
 
     def lay(mut):
         """Deep-copy the real layout model and break it one way."""
@@ -2272,6 +2353,26 @@ def self_test():
             _pat(lambda d: d["filings"][2]["status"].append("PENDING")),
         ],
     }
+    def _foi(fn):
+        d = _copy.deepcopy(_real_foia) if _real_foia else {}
+        fn(d)
+        return d
+
+    poison_foia = {} if _real_foia is None else {
+        "every FOIA request points at a question that is actually open": [
+            # a node renamed under a letter written against the old id
+            _foi(lambda d: d["byNode"].setdefault("a-node-that-was-renamed",
+                 [{"request": "F1", "agency": "NARA", "title": "x", "status": "not filed",
+                   "questions": [0], "partial": []}])),
+            # a research pass removed an open question and the indices shifted
+            _foi(lambda d: d["byNode"]["yankee-blue"][0]["questions"].append(99)),
+            # a status the board does not know how to draw
+            _foi(lambda d: d["requests"][0].update(status="in progress")),
+            # the parser read nothing and reported a clean run
+            _foi(lambda d: d.update(requests=[])),
+        ],
+    }
+
     poison_obs = {} if _real_obs is None else {
         "the five observables stay Tier 2, and the mapping stays separate": [
             # the taxonomy promoted to the grade its mapping earned
@@ -2375,6 +2476,21 @@ def self_test():
                 caught = fn(base, good_html)
             finally:
                 _IMAGES_OVERRIDE = None
+            clean = fn(base, good_html)
+        elif name in poison_foia:
+            global _FOIA_OVERRIDE
+            caught = []
+            for one in poison_foia[name]:
+                _FOIA_OVERRIDE = one
+                try:
+                    got = fn(base, good_html)
+                finally:
+                    _FOIA_OVERRIDE = None
+                if not got:
+                    caught = []
+                    print(f"  FAIL  {name} accepted one of its poisons")
+                    break
+                caught = got
             clean = fn(base, good_html)
         elif name in poison_patents or name in poison_obs:
             # A check may carry SEVERAL poisons and every one must be rejected;

@@ -77,6 +77,21 @@ From anywhere else a selection goes to the network map.
 
 # --------------------------------------------------------------------------- CSS
 L0_CSS = """
+/* ---- the FOIA layer ---------------------------------------------------- */
+/* A request chip on an open question. Amber because it is a POINTER -- the same
+   role the start-here flags carry -- and not cyan, which on this board means a
+   thing that is established. Nothing here is established: none of the seventeen
+   has been filed. */
+.foia{display:inline-block;margin:6px 6px 0 0;padding:2px 6px;
+  font:500 8.5px/1.35 'IBM Plex Mono',monospace;letter-spacing:.06em;
+  border:1px solid #3a2f1c;color:#efb555;background:#191510;white-space:nowrap;
+  max-width:100%;overflow:hidden;text-overflow:ellipsis;vertical-align:bottom}
+/* "bears on" is a weaker claim than "closes" and is drawn weaker. The letters make
+   the distinction in prose -- "partially Q3", "materially advances Q6 and Q11" --
+   and flattening the two would have the board assert that a request settles a
+   question its own letter says it only advances. */
+.foia.part{border-style:dashed;color:#8d97a4;border-color:#262e36;background:#12171d}
+.foian{color:#efb555;letter-spacing:.06em}
 /* ---- L0 program map ---------------------------------------------------- */
 .l0wrap{position:absolute;inset:0;overflow:hidden;
   background:linear-gradient(160deg,#161a20 0%,#11141a 100%)}
@@ -2136,9 +2151,28 @@ def apply(s, model, must_replace, layout=None):
         raise SystemExit("l0_patches.apply: no packed layout. mountL0 draws chips "
                          "at model positions and there are none.")
 
+    # -- THE FOIA LINKAGE, derived rather than authored. tools/build_foia_links.py
+    #    reads the "Closes on the board" line out of every letter in
+    #    notes/FOIA-LETTERS-2026-08-29.md; the letters are themselves generated from
+    #    notes/REQUEST-QUEUE.md. So the chain from the queue to the dossier has no
+    #    hand-kept link in it, which is the only reason it can be trusted to stay
+    #    true after the next research wave.
+    #
+    #    ABSENT IS A FAILURE, NOT A FALLBACK. An empty object would render every
+    #    dossier exactly as it did before, which is the image register's own failure
+    #    mode: it does not error, it just quietly stops saying anything.
+    import os as _os
+    _foia_path = _os.path.join(_repo_root(), "data", "foia-links.json")
+    if not _os.path.exists(_foia_path):
+        raise SystemExit("l0_patches.apply: data/foia-links.json is missing. "
+                         "Run: python3 tools/build_foia_links.py")
+    with open(_foia_path, encoding="utf-8") as _fh:
+        _foia = _json.load(_fh)
+
     # -- the model. Serialised compactly: it is ~500KB and every byte of it is
     #    parsed at load, which is the cost the dossier-payload item is about.
-    block = "const L0DATA = " + _json.dumps(model, separators=(",", ":")) + ";\n"
+    block = ("const FOIADATA = " + _json.dumps(_foia, separators=(",", ":")) + ";\n"
+             "const L0DATA = " + _json.dumps(model, separators=(",", ":")) + ";\n")
     s, o = must_replace(s, "const CMD = {", block + "\n" + L0_JS + "\nconst CMD = {",
                         "L0 model + view module", 1); ok &= o
 
@@ -2583,7 +2617,7 @@ def apply(s, model, must_replace, layout=None):
     # the renderer's OWN truncation rather than a copy of it. A check that
     # reimplements the thing it is checking passes when the renderer diverges.
     s, o = must_replace(s, "window.__board = { CMD, S,",
-                        "window.__board = { CMD, S, L0DATA, mountL0, l0Fit,",
+                        "window.__board = { CMD, S, L0DATA, FOIADATA, mountL0, l0Fit,",
                         "L0 debug export", 1); ok &= o
 
     # -- the inherited hop/legend chrome belongs to the full-graph map, and its
@@ -3122,8 +3156,48 @@ function renderEntityDossier(id){
     for (const c of d.connections) h += '<div class="cl">'+esc(c)+'</div>';
   }
   if (d.openQuestions && d.openQuestions.length){
-    h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions</div>';
-    for (const q of d.openQuestions) h += '<div class="cl">'+esc(q)+'</div>';
+    /* THE FOIA LAYER. Stewart, 29 August 2026: "The FOIA will have to happen way
+       later but keep them there and ready. In fact integrate them into the board
+       somehow."
+
+       This is that integration, and it is the smallest one that changes what the
+       board is FOR. An open question is a statement that the record is incomplete.
+       A question that names the request which would close it is a statement about
+       what to do next -- it makes the request queue part of the argument instead of
+       a document sitting beside it.
+
+       The linkage is not invented here. Every letter in
+       notes/FOIA-LETTERS-2026-08-29.md already carries a "Closes on the board" line
+       naming the nodes and the numbered questions it would close;
+       tools/build_foia_links.py reads those lines into data/foia-links.json and this
+       draws the inverse index. The letters are themselves generated from
+       notes/REQUEST-QUEUE.md, so nothing here can drift from the queue.
+
+       WOULD, NOT WILL. None of the seventeen has been filed and the chip says so on
+       every one. A board that printed "F1 · NARA" with no status would read as a
+       request in flight, which would be a claim about the world that is not true. */
+    const fx = (FOIADATA.byNode || {})[id] || [];
+    /* DISTINCT questions, not links. Three of YANKEE BLUE's are named by two
+       requests each, and counting links would have the header claim more open
+       questions are answerable than the node has. A derived number has to mean
+       what it says. */
+    const answerable = new Set();
+    for (const r of fx) for (const q of r.questions.concat(r.partial)) answerable.add(q);
+    h += '<div class="eyebrow" style="margin:12px 0 4px">Open questions'
+       + (answerable.size ? ' <span class="foian">' + answerable.size + ' of '
+           + d.openQuestions.length + ' answerable by request</span>' : '') + '</div>';
+    d.openQuestions.forEach((q, i) => {
+      const full = fx.filter(r => r.questions.indexOf(i) >= 0);
+      const part = fx.filter(r => r.partial.indexOf(i) >= 0);
+      h += '<div class="cl">'+esc(q);
+      for (const r of full)
+        h += '<span class="foia" title="'+esc(r.title)+' — '+esc(r.status)+'">'
+           + esc(r.request)+' · '+esc(r.agency)+'</span>';
+      for (const r of part)
+        h += '<span class="foia part" title="'+esc(r.title)+' — '+esc(r.status)
+           + '">'+esc(r.request)+' · '+esc(r.agency)+' · bears on</span>';
+      h += '</div>';
+    });
   }
   h += renderConnections(id);
   return h + '</div>';

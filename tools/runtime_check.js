@@ -201,6 +201,69 @@ const check = (c, label, detail = '') => {
     check(false, 'the search grammar could be exercised', e.message.slice(0, 120));
   }
 
+  /* ---- THE FOIA LAYER -------------------------------------------------------
+     A dossier's open questions carry a chip naming the request that would close
+     each one. verify.py checks that the LINKAGE is true -- every node on the board,
+     every question index in range. This checks that it reaches the reader, which is
+     a different question and the one this file exists for.
+
+     The specific silence it guards: FOIADATA.byNode is keyed by node id, and if the
+     key never matches -- a rename, a build that emitted an empty object, a lookup
+     against the wrong variable -- every dossier renders EXACTLY as it did before the
+     layer existed. No error, no gap, nothing to see. The board would simply have
+     stopped saying which request would answer anything.
+
+     So the check requires chips on a node whose linkage is known, requires the
+     weaker "bears on" claim to be drawn differently from "closes", and requires the
+     header count to be the number of DISTINCT questions answerable rather than the
+     number of links -- three of YANKEE BLUE's questions are named by two requests
+     each, and counting links would overstate what the record offers. */
+  try {
+    await page.evaluate(() => window.__board.CMD.selectNode('yankee-blue'));
+    await page.waitForTimeout(2200);
+    const f = await page.evaluate(() => {
+      const dock = document.getElementById('dock');
+      const chips = [...dock.querySelectorAll('.foia')];
+      const head = [...dock.querySelectorAll('.eyebrow')]
+        .find(e => /Open questions/.test(e.textContent));
+      const B = window.__board || {};
+      const link = (B.FOIADATA && B.FOIADATA.byNode) || {};
+      const rows = link['yankee-blue'] || [];
+      const want = new Set();
+      for (const r of rows) for (const q of r.questions.concat(r.partial)) want.add(q);
+      const m = (head ? head.textContent : '').match(/(\d+) of (\d+)/);
+      return {
+        chips: chips.length,
+        part: chips.filter(c => c.classList.contains('part')).length,
+        titled: chips.filter(c => (c.getAttribute('title') || '').length > 10).length,
+        shown: m ? +m[1] : -1,
+        want: want.size,
+        requests: ((B.FOIADATA && B.FOIADATA.requests) || []).length,
+        /* a chip must be shorter than the question it annotates, or it is not an
+           annotation any more */
+        widest: Math.max.apply(null, [0].concat(chips.map(c => Math.round(c.getBoundingClientRect().width)))),
+        dockW: Math.round(dock.getBoundingClientRect().width),
+      };
+    });
+    check(f.requests === 17, 'every FOIA letter reached the page',
+          f.requests + ' requests in FOIADATA');
+    check(f.chips >= 4, 'open questions carry the request that would answer them',
+          f.chips + ' request chips on yankee-blue');
+    check(f.part >= 1, 'a request that only bears on a question is drawn as weaker',
+          f.part + ' of ' + f.chips + ' chips drawn as a partial claim');
+    check(f.titled === f.chips, 'every request chip names its agency in full on hover',
+          f.titled + ' of ' + f.chips + ' carry a title');
+    check(f.shown === f.want && f.want > 0,
+          'the answerable count is distinct questions, not links',
+          'header says ' + f.shown + ', the linkage has ' + f.want + ' distinct');
+    check(f.widest > 0 && f.widest < f.dockW * 0.9,
+          'a request chip stays an annotation, not a paragraph',
+          'widest chip ' + f.widest + 'px in a ' + f.dockW + 'px dock');
+    await page.evaluate(() => window.__board.CMD.clearSelection());
+  } catch (e) {
+    check(false, 'the FOIA layer could be exercised', e.message.slice(0, 120));
+  }
+
   /* ---- THE PATENTS TAB ------------------------------------------------------
      The tab's CONTENT is checked by verify.py, against the transcripts it cites.
      This checks what the browser does with it, which is a different question and
