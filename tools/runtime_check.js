@@ -329,7 +329,29 @@ const check = (c, label, detail = '') => {
        or fails on luck; the first cut of this check failed exactly that way.
        Requiring it to go quiet AND THEN stay quiet is strictly stronger: a map that
        never stops moving fails on the settle timeout instead. */
-    await page.evaluate(() => window.__board.MAP.setLabelPointer(null));
+    /* ESTABLISH THE REST STATE, DO NOT ASSUME IT. "At rest" in Design's spec means
+       nothing selected AND the pointer off-canvas, and this check asserted the
+       second while inheriting whatever the blocks above left of the first. It
+       passed once on ordering luck and then failed in CI, which is the right way
+       round but only by accident.
+
+       A live selection makes the canvas move, and that is the particle rule
+       WORKING -- measured: still at boot, moving with a node selected, still again
+       after clearing. So an inherited selection was not a defect in the map, it was
+       this check describing a state it had not put the page into. The precondition
+       is now set here and REPORTED in the detail, so the next drift is visible
+       rather than silent. */
+    await page.evaluate(() => {
+      const B = window.__board;
+      if (B.CMD.clearSelection) B.CMD.clearSelection();
+      B.MAP.setLabelPointer(null);
+    });
+    await page.waitForTimeout(1200);
+    const restState = await page.evaluate(() => ({
+      sel: window.__board.S.sel,
+      frame: (window.__board.S.frame || []).length,
+      ptr: window.__board.MAP.labelPointer ? window.__board.MAP.labelPointer() : null,
+    }));
     let settled2 = false, prev2 = await hashOnce2(), run2 = 0;
     for (let i = 0; i < 40; i++) {
       await page.waitForTimeout(400);
@@ -339,10 +361,14 @@ const check = (c, label, detail = '') => {
       if (run2 >= 2) { settled2 = true; break; }
     }
     const q1 = await hashOnce2(); await page.waitForTimeout(900); const q2 = await hashOnce2();
-    check(settled2 && q1 === q2, 'the network map is still with the pointer off-canvas',
-          !settled2 ? 'never went quiet within 16s, which is what a running animation looks like'
-          : q1 === q2 ? 'settled, then held still'
-                      : 'went quiet and then started moving again with nothing selected');
+    const atRest = restState.sel === null && restState.frame === 0 && !restState.ptr;
+    check(atRest && settled2 && q1 === q2,
+          'the network map is still at rest: nothing selected, pointer off-canvas',
+          !atRest ? `the rest state was not established — sel=${restState.sel}, `
+                    + `frame=${restState.frame}, ptr=${JSON.stringify(restState.ptr)}`
+          : !settled2 ? 'never went quiet within 16s, which is what a running animation looks like'
+          : q1 === q2 ? 'settled, then held still with sel=null and no pointer'
+                      : 'went quiet and then started moving again');
 
     const ptr = await page.evaluate(() => {
       const M = window.__board.MAP;
