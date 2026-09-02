@@ -1,8 +1,8 @@
 {
  "counts": {
-  "NODE": 269,
-  "PROSE": 121,
-  "ABSENT": 439
+  "NODE": 262,
+  "PROSE": 133,
+  "ABSENT": 434
  },
  "results": [
   {
@@ -159,11 +159,6 @@
   },
   {
    "candidate": "Bashar",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "BDM",
    "verdict": "ABSENT",
    "near": []
   },
@@ -609,11 +604,6 @@
    "near": []
   },
   {
-   "candidate": "DOJ",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Don Shipley",
    "verdict": "ABSENT",
    "near": []
@@ -741,6 +731,11 @@
    "near": []
   },
   {
+   "candidate": "Ed Dames",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Edward Bernays",
    "verdict": "ABSENT",
    "near": []
@@ -752,6 +747,11 @@
   },
   {
    "candidate": "Edward Witten",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Edwards Air Force Base 412th Test Wing",
    "verdict": "ABSENT",
    "near": []
   },
@@ -832,11 +832,6 @@
    "near": []
   },
   {
-   "candidate": "FAA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Falcon Lake Incident",
    "verdict": "ABSENT",
    "near": [
@@ -847,11 +842,6 @@
      "context": "...Establishes Falcon Peak counter-drone demonstration..."
     }
    ]
-  },
-  {
-   "candidate": "FBI",
-   "verdict": "ABSENT",
-   "near": []
   },
   {
    "candidate": "Food and Drug Administration",
@@ -920,11 +910,6 @@
   },
   {
    "candidate": "Fritjof Capra",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "FTD",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1026,6 +1011,16 @@
    ]
   },
   {
+   "candidate": "Gerald Haynes",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Gerald K. Haynes",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Gertrude Schmeidler",
    "verdict": "ABSENT",
    "near": []
@@ -1069,11 +1064,6 @@
   },
   {
    "candidate": "Group 4 Falck",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "GSA",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1173,6 +1163,18 @@
    ]
   },
   {
+   "candidate": "Holloman Air Force Base",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "holloman",
+     "id": "l-white-sands",
+     "field": "desc",
+     "context": "...Force's Project Twinkle instrumented observation effort at Holloman and Vaughn, New Mexico, from 1950. The significance is that..."
+    }
+   ]
+  },
+  {
    "candidate": "House Science and Technology Committee",
    "verdict": "ABSENT",
    "near": []
@@ -1184,11 +1186,6 @@
   },
   {
    "candidate": "Humanitas Hospital",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "IBM",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1391,11 +1388,6 @@
    "near": []
   },
   {
-   "candidate": "Jim Clapper",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Jim Garrison",
    "verdict": "ABSENT",
    "near": []
@@ -1433,18 +1425,6 @@
    "candidate": "Joe McMonagle",
    "verdict": "ABSENT",
    "near": []
-  },
-  {
-   "candidate": "Joe McMoneagle",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "mcmoneagle",
-     "id": "l-sri",
-     "field": "desc",
-     "context": "...ote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the..."
-    }
-   ]
   },
   {
    "candidate": "Joe Rogan",
@@ -1639,18 +1619,6 @@
    "near": []
   },
   {
-   "candidate": "Larry King",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "king",
-     "id": "harry-reid",
-     "field": "narrative",
-     "context": "...A.' Reid took repeated DIA briefings on contract status: talking papers survive from January 2009, May 2009 and November 200..."
-    }
-   ]
-  },
-  {
    "candidate": "Larry Warren",
    "verdict": "ABSENT",
    "near": []
@@ -1752,23 +1720,6 @@
    "near": []
   },
   {
-   "candidate": "Matt Brown",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Matt Pines",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "pines",
-     "id": "eric-wang",
-     "field": "claim",
-     "context": "...y with Jesse Michels, 15 November 2024, at 2:46:17, Matthew Pines named the source of the Wright-Patterson story about Wang:..."
-    }
-   ]
-  },
-  {
    "candidate": "McCarran Airport",
    "verdict": "ABSENT",
    "near": [
@@ -1856,17 +1807,17 @@
    "near": []
   },
   {
-   "candidate": "NACA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "NASA Kennedy Space Center",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "National UFO Reporting Center",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "National Underwater Reconnaissance Office",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1970,6 +1921,16 @@
    "near": []
   },
   {
+   "candidate": "Norton Air Force Base",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "NSA \u2014 National Security Agency",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "NUFORC",
    "verdict": "ABSENT",
    "near": []
@@ -2013,11 +1974,6 @@
   },
   {
    "candidate": "Oscar Wolf",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "OSS",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2091,6 +2047,11 @@
    "near": []
   },
   {
+   "candidate": "Pease Air Force Base",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Pedro Ferriz",
    "verdict": "ABSENT",
    "near": [
@@ -2109,11 +2070,6 @@
   },
   {
    "candidate": "Peter Khoury",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Phil Klass",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2201,11 +2157,6 @@
    "near": []
   },
   {
-   "candidate": "PRP",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Quentin Fogarty",
    "verdict": "ABSENT",
    "near": []
@@ -2254,11 +2205,6 @@
   },
   {
    "candidate": "Reykjavik summit",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Rich Dolan",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2365,6 +2311,11 @@
    "near": []
   },
   {
+   "candidate": "SAIC \u2014 Science Applications International Corporation",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Scooter Libby",
    "verdict": "ABSENT",
    "near": []
@@ -2430,6 +2381,11 @@
      "context": "...es faster than any drone,' and a stationary cylinder near a southwestern US facility that disappeared...."
     }
    ]
+  },
+  {
+   "candidate": "Spanish Ministry of Defense",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Special Access Program Oversight Committee Senior Review Group",
@@ -2565,6 +2521,11 @@
   },
   {
    "candidate": "Tom Coleman",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Travis Air Force Base",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2975,6 +2936,27 @@
    ]
   },
   {
+   "candidate": "BDM",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "bdm-international",
+     "field": "desc",
+     "context": "...BDM is on this board as a documented company with an ownership history th..."
+    },
+    {
+     "id": "bdm-international",
+     "field": "label",
+     "context": "...BDM International, Inc...."
+    },
+    {
+     "id": "bdm-international",
+     "field": "claim",
+     "context": "...addock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'..."
+    }
+   ]
+  },
+  {
    "candidate": "Bill Lear",
    "verdict": "PROSE",
    "hits": [
@@ -3193,6 +3175,27 @@
    ]
   },
   {
+   "candidate": "Department of the Air Force",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "nara-uap-collection",
+     "field": "claim",
+     "context": "...The Department of the Air Force is the eighth contributor listed on NARA's Record Group 615 page and..."
+    },
+    {
+     "id": "nara-uap-collection",
+     "field": "claim",
+     "context": "...l Defense Authorization Act (Public Law 118-31) and received from the Department of the Air Force pursuant to the Unidentified Anomalous Phenomena Records Collection A..."
+    },
+    {
+     "id": "nara-uap-collection",
+     "field": "claim",
+     "context": "...The declassification block printed on item 342UAP00005 reads 'Department of the Air Force / Air Force Declassification Office / Authority: FY24 NDAA, now codif..."
+    }
+   ]
+  },
+  {
    "candidate": "Dick Cheney",
    "verdict": "PROSE",
    "hits": [
@@ -3210,6 +3213,17 @@
      "id": "jesse-michels",
      "field": "claim",
      "context": "...els states in the same episode description that former Vice President Dick Cheney is 'implicated in the American UFO reverse engineering program.'..."
+    }
+   ]
+  },
+  {
+   "candidate": "DOJ",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "usc-50-3091a",
+     "field": "claim",
+     "context": "..., and ICD 906 section C.3 expressly excludes DoD, State, Energy, DHS, DOJ and NSC covert-action programs, the strongest CAP oversight statute o..."
     }
    ]
   },
@@ -3374,6 +3388,17 @@
    ]
   },
   {
+   "candidate": "Ellsworth Air Force Base",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "richard-doty",
+     "field": "claim",
+     "context": "...s, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own..."
+    }
+   ]
+  },
+  {
    "candidate": "Enrico Fermi",
    "verdict": "PROSE",
    "hits": [
@@ -3402,6 +3427,27 @@
      "id": "jesse-michels",
      "field": "chronology",
      "context": "...Publishes Eric Weinstein and Eric Davis joint episode covering the Wilson-Davis memo and crash..."
+    }
+   ]
+  },
+  {
+   "candidate": "FBI",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "jon-kosloski",
+     "field": "claim",
+     "context": "...An ODNI official confirmed that ODNI, the FBI and the Department of War established a UAP Governance Board to coord..."
+    },
+    {
+     "id": "lincoln-lapaz",
+     "field": "narrative",
+     "context": "...Bradbury, Edward Teller, Frederick Reines, and representatives of the FBI, the Atomic Energy Commission and the military. Los Alamos National L..."
+    },
+    {
+     "id": "lincoln-lapaz",
+     "field": "claim",
+     "context": "...icists Frederick Reines and Edward Teller, and representatives of the FBI, the Atomic Energy Commission and the US military; the National Secur..."
     }
    ]
   },
@@ -3728,6 +3774,48 @@
    ]
   },
   {
+   "candidate": "Jim Clapper",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "uap-gerb",
+     "field": "chronology",
+     "context": "...Publishes Northrop Grumman & TRW Vol.2 naming Stephanie O'Sullivan, James Clapper and Terry Phillips...."
+    },
+    {
+     "id": "dan-farah",
+     "field": "narrative",
+     "context": "...ely persuasive - it includes former Director of National Intelligence James Clapper, Senator and Secretary of State Marco Rubio, Representative Andre Car..."
+    },
+    {
+     "id": "dan-farah",
+     "field": "claim",
+     "context": "...On-record participants include General James Clapper, Secretary Marco Rubio, Representative Andre Carson and Jay Stratton,..."
+    }
+   ]
+  },
+  {
+   "candidate": "Joe McMoneagle",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-sri",
+     "field": "desc",
+     "context": "...ned the term 'remote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the Army and D..."
+    },
+    {
+     "id": "stargate-program",
+     "field": "desc",
+     "context": "...ing the term 'remote viewing' and working with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. The military side began as GONDOLA WISH in 1977 under..."
+    },
+    {
+     "id": "stargate-program",
+     "field": "claim",
+     "context": "...lchemy with Jesse Michels, 2 March 2025, between 1:13:18 and 1:49:19, Joseph McMoneagle described his own route into the programme as a chain of individual p..."
+    }
+   ]
+  },
+  {
    "candidate": "John Brandenburg",
    "verdict": "PROSE",
    "hits": [
@@ -3913,6 +4001,22 @@
    ]
   },
   {
+   "candidate": "Larry King",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "daniel-sheehan",
+     "field": "claim",
+     "context": "...In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute..."
+    },
+    {
+     "id": "ms-cv-1988-rule11",
+     "field": "text",
+     "context": "...Judge James Lawrence King dismisses Avirgan v. Hull and orders Daniel Sheehan's Christic Instit..."
+    }
+   ]
+  },
+  {
    "candidate": "LIGO",
    "verdict": "PROSE",
    "hits": [
@@ -4032,6 +4136,33 @@
      "id": "richard-doty",
      "field": "claim",
      "context": "...es the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was..."
+    }
+   ]
+  },
+  {
+   "candidate": "Matt Brown",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "kona-blue",
+     "field": "claim",
+     "context": "...ted alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data...."
+    }
+   ]
+  },
+  {
+   "candidate": "Matt Pines",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "eric-wang",
+     "field": "claim",
+     "context": "...On American Alchemy with Jesse Michels, 15 November 2024, at 2:46:17, Matthew Pines named the source of the Wright-Patterson story about Wang: a book by..."
+    },
+    {
+     "id": "eric-wang",
+     "field": "source",
+     "context": "...American Alchemy with Jesse Michels, 'Matthew Pines: Anti-Gravity Tech & Inter-Dimensional Aliens' (episode audio)..."
     }
    ]
   },
@@ -4216,22 +4347,6 @@
    ]
   },
   {
-   "candidate": "News Nation",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "hearing-2023-07-26",
-     "field": "claim",
-     "context": "...piloted this craft?' Grusch: 'As I have stated publicly already in my News Nation interview, biologics came with some of these recoveries. Yes.' Mace:..."
-    },
-    {
-     "id": "entityInfo.hearing-2023-07-26",
-     "field": "desc",
-     "context": "...piloted this craft?' Grusch: 'As I have stated publicly already in my News Nation interview, biologics came with some of these recoveries. Yes.' Mace:..."
-    }
-   ]
-  },
-  {
    "candidate": "Nick Redfern",
    "verdict": "PROSE",
    "hits": [
@@ -4281,6 +4396,27 @@
      "id": "robert-sarbacher",
      "field": "narrative",
      "context": "...and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'; that 'I could not personally attend the meetings'; that materi..."
+    }
+   ]
+  },
+  {
+   "candidate": "OSS",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "allen-w-dulles",
+     "field": "narrative",
+     "context": "...had itself convened a panel on ten weeks earlier. Dulles also has an OSS personnel file, named by the National Archives among the notable file..."
+    },
+    {
+     "id": "allen-w-dulles",
+     "field": "claim",
+     "context": "...The National Archives names Dulles among the OSS personnel files opened on 14 August 2008: the press office distribute..."
+    },
+    {
+     "id": "allen-w-dulles",
+     "field": "source",
+     "context": "...ives media alert 08-130, NARA to Open Official Personnel Files of the OSS..."
     }
    ]
   },
@@ -4345,6 +4481,22 @@
      "id": "entityInfo.mitre-corporation",
      "field": "desc",
      "context": "...elligence, joining in 2021 and elected vice chair on 31 October 2023; Paul Kaminski, former Under Secretary of Defense for Acquisition and Technology, re..."
+    }
+   ]
+  },
+  {
+   "candidate": "Phil Klass",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "william-moore",
+     "field": "claim",
+     "context": "...ct Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - b..."
+    },
+    {
+     "id": "william-moore",
+     "field": "chronology",
+     "context": "...Philip Klass publishes the first detailed forensic challenge to the MJ-12 document..."
     }
    ]
   },
@@ -4564,6 +4716,17 @@
      "id": "robert-m-wood",
      "field": "narrative",
      "context": "...ated leaked-document corpus - including the Special Operations Manual SOM1-01, the 'Interplanetary Phenomenon Unit' material, and the Air Accident..."
+    }
+   ]
+  },
+  {
+   "candidate": "Spanish Air Force",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "spain-mod-ufo-files",
+     "field": "sub",
+     "context": "...Sixty-six Spanish Air Force files released to the public from 1992..."
     }
    ]
   },
@@ -5048,7 +5211,7 @@
   {
    "candidate": "Area 51",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "spacing variant",
    "node_id": "l-area51",
    "node_label": "Area 51 (Homey Airport / Groom Lake operating location)",
    "cls": "location",
@@ -5415,15 +5578,6 @@
    "tier": "A"
   },
   {
-   "candidate": "Department of the Air Force",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
    "candidate": "Department of War",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -5436,10 +5590,10 @@
    "candidate": "DIA",
    "verdict": "NODE",
    "how": "alias",
-   "node_id": "dia",
-   "node_label": "Defense Intelligence Agency",
-   "cls": "institution",
-   "tier": "A"
+   "node_id": "dird-technological-approaches-to-controlling-external-devices",
+   "node_label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+   "cls": "document",
+   "tier": "B"
   },
   {
    "candidate": "Director of National Intelligence",
@@ -5532,15 +5686,6 @@
    "tier": "A"
   },
   {
-   "candidate": "Ed Dames",
-   "verdict": "NODE",
-   "how": "one character apart, within node",
-   "node_id": "james-mcdonald",
-   "node_label": "James E. McDonald",
-   "cls": "person",
-   "tier": "B"
-  },
-  {
    "candidate": "Edward Ruppelt",
    "verdict": "NODE",
    "how": "alias",
@@ -5561,36 +5706,18 @@
   {
    "candidate": "Edwards Air Force Base",
    "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
-   "candidate": "Edwards Air Force Base 412th Test Wing",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
+   "how": "candidate within node",
+   "node_id": "l-edwards-afb",
+   "node_label": "Edwards Air Force Base, California",
+   "cls": "location",
+   "tier": "C"
   },
   {
    "candidate": "EG&G",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "spacing variant",
    "node_id": "eg-and-g",
    "node_label": "EG&G (Edgerton, Germeshausen and Grier)",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
-   "candidate": "Ellsworth Air Force Base",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
    "cls": "institution",
    "tier": "A"
   },
@@ -5622,12 +5749,30 @@
    "tier": "A"
   },
   {
+   "candidate": "FAA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "peru-uap-office",
+   "node_label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "Fort Meade",
    "verdict": "NODE",
    "how": "candidate within node",
    "node_id": "l-ft-meade",
    "node_label": "Fort George G. Meade, Maryland",
    "cls": "location",
+   "tier": "C"
+  },
+  {
+   "candidate": "FTD",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "pursue-bundle-urls",
+   "node_label": "PURSUE release bundle URLs (five tranches, documents and video)",
+   "cls": "document",
    "tier": "C"
   },
   {
@@ -5694,24 +5839,6 @@
    "tier": "C"
   },
   {
-   "candidate": "Gerald Haynes",
-   "verdict": "NODE",
-   "how": "one character apart, within node",
-   "node_id": "cia-haines-1997",
-   "node_label": "'CIA's Role in the Study of UFOs, 1947-90' (Gerald K. Haines, Studies in Intelligence, 1997)",
-   "cls": "document",
-   "tier": "B"
-  },
-  {
-   "candidate": "Gerald K. Haynes",
-   "verdict": "NODE",
-   "how": "one character apart, within node",
-   "node_id": "cia-haines-1997",
-   "node_label": "'CIA's Role in the Study of UFOs, 1947-90' (Gerald K. Haines, Studies in Intelligence, 1997)",
-   "cls": "document",
-   "tier": "B"
-  },
-  {
    "candidate": "Glenn Gaffney",
    "verdict": "NODE",
    "how": "alias",
@@ -5737,6 +5864,15 @@
    "node_label": "Groom Lake, Nevada",
    "cls": "location",
    "tier": "B"
+  },
+  {
+   "candidate": "GSA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "intl-uap-office-model",
+   "node_label": "The three-office model: GEIPAN, SEFAA, AARO",
+   "cls": "domain",
+   "tier": "C"
   },
   {
    "candidate": "Hal Puthoff",
@@ -5766,15 +5902,6 @@
    "tier": "A"
   },
   {
-   "candidate": "Holloman Air Force Base",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
    "candidate": "House Committee on Oversight",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -5791,6 +5918,15 @@
    "node_label": "Hoyt S. Vandenberg",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "IBM",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "the-roswell-incident-1980",
+   "node_label": "The Roswell Incident (Berlitz and Moore, 1980)",
+   "cls": "document",
+   "tier": "C"
   },
   {
    "candidate": "Immaculate Constellation",
@@ -6056,11 +6192,11 @@
   {
    "candidate": "Kirtland Air Force Base",
    "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
+   "how": "candidate within node",
+   "node_id": "l-kirtland",
+   "node_label": "Kirtland Air Force Base and Albuquerque, New Mexico",
+   "cls": "location",
+   "tier": "B"
   },
   {
    "candidate": "Kit Green",
@@ -6236,11 +6372,11 @@
   {
    "candidate": "MJ-12",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "mj-12-documents",
-   "node_label": "MJ-12 / Operation Majestic-12 Documents",
-   "cls": "document",
-   "tier": "B"
+   "how": "spacing variant",
+   "node_id": "d-mj12",
+   "node_label": "Majestic-12 Corpus",
+   "cls": "domain",
+   "tier": "C"
   },
   {
    "candidate": "MUFON",
@@ -6258,6 +6394,15 @@
    "node_id": "mufon",
    "node_label": "Mutual UFO Network (MUFON)",
    "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "NACA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "sec-8084-nip-reprogramming",
+   "node_label": "Section 8084 - NIP reprogramming notification against classified annex levels",
+   "cls": "legislation",
    "tier": "C"
   },
   {
@@ -6360,15 +6505,6 @@
    "tier": "B"
   },
   {
-   "candidate": "National Underwater Reconnaissance Office",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "nro",
-   "node_label": "National Reconnaissance Office",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
    "candidate": "Naval Air Station Patuxent River",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -6411,6 +6547,15 @@
    "node_id": "new-paradigm-institute",
    "node_label": "New Paradigm Institute",
    "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "News Nation",
+   "verdict": "NODE",
+   "how": "spacing variant",
+   "node_id": "newsnation-reality-check",
+   "node_label": "Reality Check with Ross Coulthart (NewsNation)",
+   "cls": "program",
    "tier": "C"
   },
   {
@@ -6459,15 +6604,6 @@
    "tier": "B"
   },
   {
-   "candidate": "Norton Air Force Base",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
    "candidate": "NRO",
    "verdict": "NODE",
    "how": "alias",
@@ -6480,15 +6616,6 @@
    "candidate": "NSA",
    "verdict": "NODE",
    "how": "alias",
-   "node_id": "nsa",
-   "node_label": "National Security Agency",
-   "cls": "institution",
-   "tier": "B"
-  },
-  {
-   "candidate": "NSA \u2014 National Security Agency",
-   "verdict": "NODE",
-   "how": "node within candidate",
    "node_id": "nsa",
    "node_label": "National Security Agency",
    "cls": "institution",
@@ -6556,15 +6683,6 @@
    "node_label": "Paul Frederick Bennewitz",
    "cls": "person",
    "tier": "B"
-  },
-  {
-   "candidate": "Pease Air Force Base",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
   },
   {
    "candidate": "Pentagon",
@@ -6648,6 +6766,15 @@
    "tier": "B"
   },
   {
+   "candidate": "PRP",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "prp-nuclear-weapon",
+   "node_label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
    "candidate": "RAF Bentwaters",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -6700,6 +6827,15 @@
    "node_label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
    "cls": "event",
    "tier": "A"
+  },
+  {
+   "candidate": "Rich Dolan",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "richard-dolan",
+   "node_label": "Richard M. Dolan",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Richard Bissell",
@@ -6855,15 +6991,6 @@
    "tier": "C"
   },
   {
-   "candidate": "SAIC \u2014 Science Applications International Corporation",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "saic",
-   "node_label": "Science Applications International Corporation",
-   "cls": "institution",
-   "tier": "C"
-  },
-  {
    "candidate": "Sandia National Laboratories",
    "verdict": "NODE",
    "how": "alias",
@@ -6943,24 +7070,6 @@
    "node_label": "Vandenberg Space Force Base, California",
    "cls": "location",
    "tier": "B"
-  },
-  {
-   "candidate": "Spanish Air Force",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
-  },
-  {
-   "candidate": "Spanish Ministry of Defense",
-   "verdict": "NODE",
-   "how": "one character apart, within node",
-   "node_id": "spain-mod-ufo-files",
-   "node_label": "Spanish Ministry of Defence UFO file declassification",
-   "cls": "document",
-   "tier": "C"
   },
   {
    "candidate": "Special Access Program Oversight Committee",
@@ -7114,15 +7223,6 @@
    "node_label": "Thomas Matthew DeLonge",
    "cls": "person",
    "tier": "C"
-  },
-  {
-   "candidate": "Travis Air Force Base",
-   "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
-   "tier": "A"
   },
   {
    "candidate": "Travis Taylor",
@@ -7316,10 +7416,10 @@
   {
    "candidate": "Wright-Patterson Air Force Base",
    "verdict": "NODE",
-   "how": "node within candidate",
-   "node_id": "usaf",
-   "node_label": "United States Air Force",
-   "cls": "institution",
+   "how": "candidate within node",
+   "node_id": "l-wright-patterson",
+   "node_label": "Wright-Patterson Air Force Base, Ohio",
+   "cls": "location",
    "tier": "A"
   }
  ]

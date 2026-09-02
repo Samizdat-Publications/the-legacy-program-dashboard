@@ -43,6 +43,9 @@ _STOP = {
 }
 
 
+_ARTICLES = {"the", "of", "and", "for", "a", "an"}
+
+
 def norm(s):
     """Case-fold, strip punctuation and honorifics, collapse whitespace."""
     s = s.lower()
@@ -86,6 +89,21 @@ def aliases(n):
         acr = "".join(w[0] for w in words)
         if len(acr) >= 3:
             out.add(acr)
+    # Initials over every label word except articles, so `United Kingdom
+    # Ministry of Defence` answers to UKMOD (the stopword list drops `united`
+    # and the strict form above yields KMD). And the initials of every run of
+    # three to five consecutive words, so `DoD Nuclear Weapon Personnel
+    # Reliability Program (...)` answers to PRP. Both found on the Area 52
+    # triage of 2 September 2026, reported as false ABSENTs.
+    loose = [w for w in norm(label).split() if w not in _ARTICLES]
+    if len(loose) >= 2:
+        out.add("".join(w[0] for w in loose))
+    for width in (3, 4, 5):
+        for i in range(0, len(loose) - width + 1):
+            run = loose[i:i + width]
+            # `program` is a stopword, and PRP ends in it: no stopword test here.
+            if True:
+                out.add("".join(w[0] for w in run))
     return {a for a in out if a}
 
 
@@ -110,7 +128,8 @@ NICKNAMES = {
     "jerry": "gerald", "jeff": "jeffrey", "ken": "kenneth", "pat": "patrick",
     "phil": "philip", "ray": "raymond", "dave": "david", "al": "albert",
     "fred": "frederick", "frank": "francis", "hank": "henry", "nick": "nicholas",
-    "sean": "shaun", "jon": "jonathan",
+    "sean": "shaun", "jon": "jonathan", "rich": "richard", "richie": "richard",
+    "bert": "albert", "walt": "walter", "gus": "augustus",
 }
 
 
@@ -242,6 +261,10 @@ def match_node(cand, nodes):
             continue
         if nk == ck or _singular(nk) == cks:
             return (n, "exact")
+        # `Roswell Army Airfield` against `Roswell Army Air Field`: the same
+        # letters with a space moved. Compare with spaces removed.
+        if "".join(ck) == "".join(nk) or cn.replace(" ", "") in {a.replace(" ", "") for a in n.get("aliases", ())}:
+            return (n, "spacing variant")
         # A person by given name and surname, where the given name is a nickname
         # or a caption spelling and the label may carry a middle name.
         if (n.get("cls") == "person" and len(ck) == 2 and len(nk) >= 2
@@ -253,12 +276,25 @@ def match_node(cand, nodes):
         # discriminating words -- otherwise "brown" matches everything.
         if len(ck) >= 2 and cs <= ns:
             best = best or (n, "candidate within node")
-        elif len(nk) >= 2 and ns <= cs:
+        elif len(nk) >= 2 and ns <= cs and tuple(ck[:len(nk)]) == nk:
+            # The node's words must LEAD the candidate. `Pease Air Force Base`
+            # and `Spanish Air Force` both contain the key of `United States
+            # Air Force` once the stopwords are gone, and both were reported
+            # NODE -> usaf on 2 September 2026, which deleted two leads. A
+            # false NODE is the silent direction; keep this rule to
+            # `Lockheed Martin` leading `Lockheed Martin Skunk Works`.
             best = best or (n, "node within candidate")
         elif near_spelling(ck, nk):
             best = best or (n, "one character apart")
         elif (len(ck) >= 2 and len(nk) > len(ck) and max(len(w) for w in ck) >= 5
-              and all(any(_ed1(x, y) for y in nk) for x in ck)):
+              and all(any(_ed1(x, y) for y in nk) for x in ck)
+              # Short words must match exactly, one candidate word must match
+              # exactly, and the surnames must be within one edit of each
+              # other: `Ed Dames` was married to `James E. McDonald` (ed~e,
+              # dames~james) on 2 September 2026 and the lead vanished.
+              and all(len(x) >= 4 or x in nk for x in ck)
+              and any(x in nk for x in ck if len(x) >= 3)
+              and _ed1(ck[-1], nk[-1])):
             # "David Grush" against "David Charles Grusch": every candidate word
             # is within one edit of some label word, and the label is longer.
             # Caption spelling plus a middle name, which the plain containment
@@ -267,14 +303,39 @@ def match_node(cand, nodes):
     return best
 
 
-def match_prose(cand, prose, limit=3):
+def _prose_needles(cand):
+    """The forms to look for in prose: the candidate, its nickname-expanded
+    form (`Joe McMoneagle` -> `joseph mcmoneagle`), and a bare acronym of
+    three letters or more, which the old four-character floor refused, so
+    `FBI` came back ABSENT from a board that names the Bureau in prose."""
     needle = cand.lower().strip()
-    if len(needle) < 4:
+    out = []
+    if re.fullmatch(r"[A-Z][A-Z0-9&]{2,5}", cand.strip()):
+        out.append(("word", needle))
+    if len(needle) >= 4:
+        out.append(("sub", needle))
+        words = needle.split()
+        if len(words) == 2 and words[0] in NICKNAMES:
+            out.append(("sub", NICKNAMES[words[0]] + " " + words[1]))
+    return out
+
+
+def match_prose(cand, prose, limit=3):
+    needles = _prose_needles(cand)
+    if not needles:
         return []
     hits = []
     for nid, fld, text in prose:
         low = text.lower()
-        i = low.find(needle)
+        i = -1
+        for kind, needle in needles:
+            if kind == "word":
+                m = re.search(r"(?<![a-z0-9])" + re.escape(needle) + r"(?![a-z0-9])", low)
+                i = m.start() if m else -1
+            else:
+                i = low.find(needle)
+            if i >= 0:
+                break
         if i >= 0:
             ctx = text[max(0, i - 70):i + len(needle) + 70].replace("\n", " ")
             hits.append({"id": nid, "field": fld, "context": "..." + ctx.strip() + "..."})
@@ -501,6 +562,35 @@ def self_test():
         fails.append("the one-edit rule married two unrelated surnames")
     if near_spelling(key("Al Roe"), key("Al Doe")):
         fails.append("the one-edit rule fired with no substantial word")
+
+    # The Area 52 triage of 2 September 2026: two false NODEs and four false
+    # ABSENTs, each rule shown firing and shown refusing.
+    for name, bad in (("Pease Air Force Base", "usaf"), ("Spanish Air Force", "usaf"),
+                      ("Ed Dames", "james-e-mcdonald")):
+        m = match_node(name, nodes)
+        if m and m[0]["id"] == bad:
+            fails.append("%-42s still reported NODE -> %s (a false NODE deletes a lead)" % (name, bad))
+    m = match_node("Lockheed Martin Skunk Works", nodes)
+    if not m:
+        fails.append("the leading-words containment rule no longer matches Lockheed Martin Skunk Works")
+    if match_node("David Grush", nodes) is None:
+        fails.append("the caption-plus-middle-name rule no longer matches David Grush")
+    for name, want_id in (("PRP", "prp-nuclear-weapon"), ("UK MOD", "uk-mod"),
+                          ("Rich Dolan", "richard-dolan")):
+        m = match_node(name, nodes)
+        if not m or m[0]["id"] != want_id:
+            fails.append("%-42s expected NODE %s got %s" % (name, want_id, m[0]["id"] if m else None))
+    if match_node("QQZ", nodes):
+        fails.append("the run-initials alias matched an acronym no label yields")
+    r = classify(["FBI"], nodes, prose)[0]
+    if r["verdict"] == "ABSENT":
+        fails.append("FBI reported ABSENT; the board names the Bureau in prose")
+    r = classify(["ZZQ"], nodes, prose)[0]
+    if r["verdict"] != "ABSENT":
+        fails.append("ZZQ, an acronym nothing carries, got %s" % r["verdict"])
+    r = classify(["Joe McMoneagle"], nodes, prose)[0]
+    if r["verdict"] == "ABSENT":
+        fails.append("Joe McMoneagle reported ABSENT; the board writes Joseph McMoneagle")
 
     # And three names that were reported ABSENT before the fix must not be now.
     for name in ("Carl Sagan", "Douglas Dean Johnson"):
