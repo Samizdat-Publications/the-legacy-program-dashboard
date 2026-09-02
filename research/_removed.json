@@ -53,9 +53,10 @@
   "kirkpatrick-sciam-oped",
   "jesse-marcel-sr",
   "william-moore",
-  "sue-gough"
+  "sue-gough",
+  "cia-haines-1997"
  ],
- "_duplicates": "dird-collection duplicated dird-series; its 7 edges were re-pointed in research/w8-collapse.json before removal. dird-vacuum-engineering duplicated dird-advanced-space-propulsion-based-on-vacuum — both are Puthoff's vacuum/spacetime metric DIRD. 2 September 2026: william-moore duplicated william-l-moore (both 'William L. Moore'; the survivor carries the fuller record and the correct living status) and sue-gough duplicated susan-gough (the survivor is Tier A with 14 claims). Found by the Area 52 triage agents. The losers' claims and sources are carried to the survivors in research/_corrections.json; their edges are re-pointed by merge.py.",
+ "_duplicates": "dird-collection duplicated dird-series; its 7 edges were re-pointed in research/w8-collapse.json before removal. dird-vacuum-engineering duplicated dird-advanced-space-propulsion-based-on-vacuum — both are Puthoff's vacuum/spacetime metric DIRD. 2 September 2026: william-moore duplicated william-l-moore (both 'William L. Moore'; the survivor carries the fuller record and the correct living status) and sue-gough duplicated susan-gough (the survivor is Tier A with 14 claims). Found by the Area 52 triage agents. The losers' claims and sources are carried to the survivors in research/_corrections.json; their edges are re-pointed by merge.py. Also 2 September 2026: cia-haines-1997 duplicated haines-cia-history (the same Studies in Intelligence article; the survivor carries the Agency's own URL and the fuller record). Found by Area 52 verification agent 3.",
  "alias": {
   "dird-collection": "dird-series",
   "dird-vacuum-engineering": "dird-advanced-space-propulsion-based-on-vacuum",
@@ -76,7 +77,8 @@
   "kirkpatrick-sciam-oped": "kirkpatrick-sciam-oped-2024",
   "jesse-marcel-sr": "jesse-marcel",
   "william-moore": "william-l-moore",
-  "sue-gough": "susan-gough"
+  "sue-gough": "susan-gough",
+  "cia-haines-1997": "haines-cia-history"
  },
  "_alias_why": "A removed node that other records still point at leaves a dangling reference. Where the removal is a COLLAPSE rather than a deletion, the id is aliased to its survivor and every remaining reference is re-pointed. Deletions (the 31 locations) have no alias because nothing should point at them. As of 22 August 2026 the alias map also re-points EDGES, not just timeline rows and person back-references. An edge touching a collapsed node is a real relationship recorded against the wrong copy, and dropping it costs evidence; it is now merged onto the survivor, with self-edges discarded. Applying that to the aliases already in this file recovered 27 edges the August collapses had deleted."
 }

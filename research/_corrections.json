@@ -2119,6 +2119,44 @@
      "date": "2026-07-02"
     }
    ]
+  },
+  {
+   "id": "haines-cia-history",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)"
+    },
+    {
+     "tier": 1,
+     "text": "'Air Force BLUE BOOK investigators aware of the secret U-2 flights tried to explain away such sightings by linking them to natural phenomena such as ice crystals and temperature inversions... They were careful, however, not to reveal the true cause of the sighting to the public.'",
+     "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'"
+    },
+    {
+     "tier": 1,
+     "text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.'",
+     "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'"
+    },
+    {
+     "tier": 1,
+     "text": "CIA's Deputy Assistant Director of OSI, Philip Strong, refused to declassify the Robertson Panel report and 'the Agency prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+     "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/",
+     "date": "1997-01-01"
+    },
+    {
+     "name": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
+     "url": "https://www.archives.gov/research/military/air-force/ufos",
+     "date": "2016-08-15"
+    }
+   ]
   }
  ],
  "edges": [],
