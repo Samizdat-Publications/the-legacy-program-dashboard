@@ -119,7 +119,11 @@
  "tierA_underconnected": [
   {
    "id": "thomas-townsend-brown",
-   "degree": 1
+   "degree": 2
+  },
+  {
+   "id": "philip-corso",
+   "degree": 2
   }
  ]
 }

@@ -50,6 +50,17 @@ export const TIMELINE = [
     node: 'project-sign'
   },
   {
+    id: 'tl-1946-08-01-atomic-energy-act',
+    strand: 'oversight',
+    date: '1946-08-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'atomic-energy-act-1946',
+    label: 'Atomic Energy Act of 1946 makes classification a property of a category',
+    text: 'Public Law 79-585, 60 Stat. 755, chapter 724, S. 1717, is approved. Section 10(b)(1) defines restricted data as all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material or its use in the production of power, excluding only what the Commission affirmatively determines may be published. Section 2(a) establishes the Atomic Energy Commission, section 9(a) transfers the Manhattan Engineer District\'s holdings to it, section 10(b)(4) reaches concealment and destruction with a capital penalty, and section 10(b)(5)(C) gives the FBI exclusive jurisdiction over violations.',
+    source: 'Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf'
+  },
+  {
     id: 'tl-1947-06-24',
     strand: 'witness',
     date: '1947-06-24',
@@ -580,6 +591,17 @@ export const TIMELINE = [
     node: 'project-bear'
   },
   {
+    id: 'tl-1955-02-15-silver-bug',
+    strand: 'program',
+    date: '1955-02-15',
+    precision: 'day',
+    tier: 'B',
+    node: 'tr-ac-47-silver-bug',
+    label: 'ATIC and WADC report jointly on a disc-shaped supersonic aircraft',
+    text: 'TR-AC-47, Project No. 9961, is issued at Wright-Patterson Air Force Base on the Avro Canada Project Y2 flat-riser. Its stated purpose is to correct the distorted picture presented in previous releases and to alert the intelligence community to any Soviet interest, and its Summary says the project should in no way be associated with any science fiction or flying saucer stories because of its external appearance. It was declassified on 29 March 1995.',
+    source: 'TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf'
+  },
+  {
     id: 'tl-1955-groom',
     strand: 'program',
     date: '1955-04-01',
@@ -620,6 +642,17 @@ export const TIMELINE = [
     node: 'rias-inc'
   },
   {
+    id: 'tl-1956-nicap-incorporated',
+    strand: 'oversight',
+    date: '1956',
+    precision: 'year',
+    tier: 'B',
+    node: 'nicap',
+    label: 'NICAP incorporated in the District of Columbia',
+    text: 'The National Investigations Committee on Aerial Phenomena states in its own 1964 volume that it is a non-profit organization incorporated in the District of Columbia in 1956. A Washington Daily News report of 23 October 1956, filed in the FBI\'s NICAP file, records the organisation forming at 1536 Connecticut Avenue NW under T. Townsend Brown of Leesburg, Virginia, executive vice chairman pro tempore, with a nine-man board of governors still to be elected on 1 November. The District\'s own corporate register was not opened.',
+    source: 'The UFO Evidence, NICAP, May 1964, CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0 ; FBI file 100-35992, part 1, https://archive.org/details/NICAP'
+  },
+  {
     id: 'tl-1957-chapel-hill',
     strand: 'program',
     date: '1957-01-18',
@@ -648,6 +681,17 @@ export const TIMELINE = [
     text: 'Library and Archives Canada records that an agreement was finalised between the United States and Canada to institute a joint reporting system for UFOs under CIRVIS/MERINT, \'to extend the early warning coverage for the defence of North America\'. Posters depicted a saucer-like object alongside missiles and submarines as examples of objects to be reported.',
     tier: 1,
     node: 'lac-ufo-collection'
+  },
+  {
+    id: 'tl-1959-06-19-lunar-research-flights',
+    strand: 'program',
+    date: '1959-06-19',
+    precision: 'day',
+    tier: 'B',
+    node: 'afswc-tr-59-39',
+    label: 'A Study of Lunar Research Flights delivered to the Air Force Special Weapons Center',
+    text: 'AFSWC TR-59-39 Vol I, by L. Reiffel of the Armour Research Foundation with contributions including C. E. Sagan, is dated 19 June 1959 under Contract AF 29(601)-1164. Its introduction states that the motivation for detonating a nuclear weapon on or near the Moon is threefold, scientific, military and political, and that positive effects would accrue to the nation first performing the feat. Copies went to ARPA at the Pentagon, to the AEC for the Division of Military Application, to Sandia, to Los Alamos, to the Lawrence Radiation Laboratory and to WADD at Wright-Patterson. The string A119 appears nowhere in it.',
+    source: 'AFSWC TR-59-39 Vol I, DDC AD 425380, https://archive.org/details/DTIC_AD0425380'
   },
   {
     id: 'tl-ffrdc-1960-jason',
@@ -718,6 +762,17 @@ export const TIMELINE = [
     text: 'Philip J. Corso\'s own DA Form 66 records him as \'Chief Foreign Technology Div, OCRD USA\' from 18 April to 18 July 1962, after a year as a staff officer in the same division. Three months. The same form records him on the Operations Coordinating Board from 1954 to 1957, which his later affidavit describes as membership of the National Security Council.',
     tier: 'B',
     node: 'philip-corso'
+  },
+  {
+    id: 'tl-1962-10-25-bluegill-triple-prime',
+    strand: 'program',
+    date: '1962-10-25',
+    precision: 'day',
+    tier: 'C',
+    node: 'bluegill-triple-prime',
+    label: 'Bluegill Triple Prime detonates over Johnston Island',
+    text: 'The Defense Nuclear Agency\'s Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.',
+    source: 'DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt'
   },
   {
     id: 'tl-1965-1209-kecksburg',
@@ -1058,6 +1113,17 @@ export const TIMELINE = [
     text: 'A committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale opens the unidentified flying objects file with the objective of proposing how to organise research and data collection. Its recommendations are adopted.',
     tier: 1,
     node: 'ihedn'
+  },
+  {
+    id: 'tl-1976-04-26-church-report-book-i',
+    strand: 'oversight',
+    date: '1976-04-26',
+    precision: 'day',
+    tier: 'A',
+    node: 'church-committee',
+    label: 'Church Committee files Book I and records that it never examined an agency file itself',
+    text: 'Senate Report 94-755, Book I, Foreign and Military Intelligence, is filed. Its section on the obstacles the committee met states that despite its legal Senate mandate and the issuance of subpoenas, in no instance had the committee been able to examine the agencies\' files on its own. Its publication note records that three chapters, Cover, Espionage and Budgetary Oversight, were deleted at the request of the agencies.',
+    source: 'S. Rept. 94-755, Book I, 26 April 1976, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf'
   },
   {
     id: 'tl-intl-1977-gepan',
@@ -3530,6 +3596,17 @@ export const TIMELINE = [
     text: 'The DNI\'s directive establishes the IC\'s counterpart to the DoD SAP regime, defines CAPs as control systems with compartments and sub-compartments, permits unacknowledged CAPs on DNI or PDDNI approval, and creates the CAP Oversight Committee and Senior Review Group. This version was later superseded by a reissue released in December 2024.',
     tier: 'A',
     node: 'icd-906'
+  },
+  {
+    id: 'tl-2015-10-22-mol-declassified',
+    strand: 'program',
+    date: '2015-10-22',
+    precision: 'day',
+    tier: 'B',
+    node: 'manned-orbiting-laboratory',
+    label: 'NRO declassifies almost the entire DORIAN collection',
+    text: 'The NRO\'s Center for the Study of National Reconnaissance held a panel at the National Museum of the United States Air Force on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program: over 850 documents with some 22,000 pages and 280 photographs. Line-by-line review had taken over a year, and the collection was posted on the NRO public web page the day after the panel.',
+    source: 'Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf'
   },
   {
     id: 'tl-2016-eval',
