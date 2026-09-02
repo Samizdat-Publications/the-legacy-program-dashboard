@@ -67,9 +67,9 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 |---|---|
 | nodes | 1,000 (294 people · 706 entities) |
 | hand-written sourced edges | 2,270 |
-| tiered claims | 4,853 — T1 3,059 · T2 1,286 · T3 508 |
+| tiered claims | 4,946 — T1 3,068 · T2 1,369 · T3 509 |
 | edge tiers | T1 1,466 · T2 597 · T3 207 |
-| unique source URLs | 3,152 |
+| unique source URLs | 3,243 |
 | dead citations | 0 as of the 25 August sweep; not re-run since |
 | timeline events | 892 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
@@ -425,6 +425,15 @@ surface" includes markup, not just copy.
 > Bug's purpose); do not "fix" the nodes back toward the podcast. The build also fixed
 > `tools/build_l0_layout.mjs`, whose main guard never fired on Windows and exited 0 having
 > written nothing.
+>
+> **Same day, the section C pass.** What the 140 transcripts say about nodes the board
+> already carried: six Opus verifiers, 93 attributed claims on 41 nodes in
+> `research/_corrections.json`, every podcast claim at Tier 2 in the form "On <show>,
+> <date>, <speaker> said". Nine Tier 1 claims came from documents opened on the way, the
+> one that matters being **the Hippler letter of 16 January 1967** (nicap.org scan), now
+> on `edward-condon`, `condon-committee` and `robert-low` with its disclaimer and its
+> instruction in the same claim text. Seventeen named documents that were NOT opened are
+> gaps in `research/michels-2026-09-02-c.json`. Claims 4,853 -> 4,946.
 
 > **DONE, 30 August 2026: SIXTEEN NODES FROM THE VERIFIED LEADS.** Section A and section
 > B of `research/leads/CANDIDATES-2026-08-30.md`, approved by Stewart. Record:
