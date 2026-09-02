@@ -258,6 +258,12 @@ def main():
     report, overlay_people, overlay_entities = [], [], []
     for rank, (score, n) in enumerate(scored):
         new = "A" if rank < cut_a else ("B" if rank < cut_b else "C")
+        # The 0.35 multiplier in centrality() DISCOUNTS an unsourced node; it does
+        # not exclude it, and a high-degree node can still clear the top-15% cut.
+        # The comment there says "cannot be Tier A"; this is where that is true.
+        # verify.py asserts it on the shipped board.
+        if new == "A" and not [x for x in n.get("sources", []) if x.get("url")]:
+            new = "B"
         old = n.get("tier", "C")
         nid = normalise_id(n["id"])
         if new != old:

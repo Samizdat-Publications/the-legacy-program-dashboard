@@ -111,7 +111,11 @@ def built_since_last_commit():
 
 
 def changed_files():
-    r = _git("diff", "--name-only")
+    # Against HEAD, not against the index. A bare `git diff` compares the working
+    # tree with the INDEX, so an artifact that had already been `git add`-ed was
+    # never listed and read as matching. The mtime guard usually fired first, but
+    # with a message ("nothing was rebuilt") that misdescribed what happened.
+    r = _git("diff", "HEAD", "--name-only")
     if r.returncode != 0:
         raise SystemExit("check_rebuild: git diff failed: " + r.stderr.decode()[:300])
     return [p for p in r.stdout.decode().splitlines() if p.strip()]

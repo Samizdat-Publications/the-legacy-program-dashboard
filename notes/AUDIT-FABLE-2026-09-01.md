@@ -236,6 +236,23 @@ Golden manifest updated: edge tiers 1408/586/200 -> 1402/588/204, which is exact
 16 adjudications (2 down to Tier 2, 4 down to Tier 3, the rest held). Full gate green
 locally on Windows, Python 3.14: all ten steps including `--idempotent`.
 
+## 2b. Fixed on 2 September (branch `p1/audit-2026-09-02`)
+
+| finding | what was done, and what it found |
+|---|---|
+| 4 | `check_rebuild.py` diffs against HEAD |
+| 7 | `norm_claim`, `norm_source` and `norm_chron` now `reject()` what they discard. **On the first run this named 19 chronology entries: Salvatore Pais's whole patent timeline, written with `text` instead of `event`, absent from his dossier since it was researched.** `text` is now an accepted alias and the 19 are on the board |
+| 8 | `regrade.py` forces an unsourced node to B; a verify check asserts it on the shipped board |
+| 9 | `_copy` computes the number word for any count; its poison is now the count the old table did not know |
+| 11 | chart `fill` colours go through `esc()` in the built file, four renderers |
+| 13, 21 | `js()` escapes `<` as `\x3c` and refuses NaN/Infinity |
+| 16 | the fetch check renamed to what it checks; a second check allow-lists the three `fetch(` call shapes and rejects any other |
+| 17 | a `_corrections`/`_remediation` record naming an unknown id is rejected by name instead of creating a phantom node |
+| 18 | the claim dedup key is the whole text. Restored 6 claims that shared a 120-character opening with another: two statutory quotations on `usc-10-119`, one on `sapoc`, `eo-13526`, `aaro-historical-record-vol2` and the NDA waiver directive |
+| 19 | the hardcoded "yankee blue" filter is gone. A correction may say `removeClaims: [{contains, tier, why}]` instead, and what it removes lands in `tools/REMOVED-CLAIMS.json`. **The filter was removing the corroboration, not the error**: AFOSI's FOIA "no records" answer and the zero-hit full-text searches of HRR Volume I. Those four claims are back, and no rule removes anything today |
+
+Net: claims 4,728 -> 4,742, all of them research that was already written and sourced.
+
 ## 3. Suggested order of work
 
 | # | finding | why first |
