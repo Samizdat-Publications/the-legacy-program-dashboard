@@ -816,6 +816,16 @@
      "tier": 1,
      "text": "AARO records an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
      "source": "AARO, Historical Record Report Volume I, March 2024"
+    },
+    {
+     "tier": 2,
+     "text": "On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: 'I can confirm. Seeking legal counsel. They're real. They're legit. They're 100% accurate.' He added that the circulated document is 'the typewritten version' and that 'there's a handwritten version, but that's all I can say about it.'",
+     "source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)"
+    },
+    {
+     "tier": 2,
+     "text": "In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: 'I can't confirm or deny that we met, for the security reasons.' He said the document 'was released from Mitchell's estate', that Edgar Mitchell had received a copy 'as a courtesy from who generated it', and that it 'was supposed to be destroyed' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.",
+     "source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)"
     }
    ],
    "sources": [
@@ -828,14 +838,20 @@
      "name": "House Oversight hearing transcript, 'Unidentified Anomalous Phenomena: Exposing the Truth' (CHRG-118hhrg57440)",
      "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm",
      "date": "2024-11-13"
+    },
+    {
+     "name": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist' (podcast audio, machine transcript)",
+     "url": "https://www.youtube.com/watch?v=xnxasfyHtfo",
+     "date": "2026-03-08"
     }
    ],
    "conflicts": [
-    "Davis has neither authenticated nor disowned the Wilson-Davis memo; Adm. Wilson has denied the meeting occurred."
+    "Davis confirmed on the record on 8 March 2026 that he wrote the notes and that they are '100% accurate', while declining to confirm or deny that the meeting took place; Adm. Wilson has denied that the meeting occurred. The author endorsing his own notes is not authentication, and the other named party still disputes them. No government body has authenticated the memo."
    ],
    "unverified": [
     "The provenance chain of the Wilson-Davis memo pages between 2002 and 2019.",
-    "Whether Davis was a party to the 2009-2010 negotiation AARO describes."
+    "Whether Davis was a party to the 2009-2010 negotiation AARO describes.",
+    "NewsNation reported in August 2026 (Katie Pavlich Tonight) that Davis said he has 'seen the evidence' and 'seen the records' of recovered non-human bodies of 'a minimum of four' species and asked the White House for immunity before a fuller account. The NewsNation pages could not be opened from this environment (bot wall), so the statement is recorded here as unverified rather than carried as a claim."
    ],
    "sequenceChain": [],
    "unexplainedResidual": null

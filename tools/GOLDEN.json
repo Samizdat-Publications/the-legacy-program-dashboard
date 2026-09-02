@@ -21,7 +21,7 @@
   },
   "claim_tiers": {
    "1": 2959,
-   "2": 1277,
+   "2": 1280,
    "3": 506
   },
   "edge_tiers": {
@@ -29,7 +29,7 @@
    "2": 588,
    "3": 204
   },
-  "unique_source_urls": 1290,
+  "unique_source_urls": 1291,
   "l0_nodes": 112,
   "l0_edges_direct": 222,
   "l0_edges_summarised": 110,

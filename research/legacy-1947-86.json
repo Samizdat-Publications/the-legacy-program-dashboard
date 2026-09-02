@@ -1054,6 +1054,11 @@
      "tier": 1,
      "text": "The title page reads 'Bradley R. Townsend, Captain, USA', AFIT/GA/ENY/08-M06, Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, 'APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED'. He is a US Army captain at an Air Force school, not USAF. The SF 298 gives the report date 10-03-2008 and the period covered as September 2007 to March 2008.",
      "source": "AFIT/GA/ENY/08-M06, title page and SF 298"
+    },
+    {
+     "tier": 2,
+     "text": "The popular characterisation the thesis contradicts, stated on the record: on the episode published 20 July 2026, a speaker says at 0:01:34 that NASA has 'a term for UFOs in space. It's fast walkers. It's a code word', and at 1:13:04 that 'US Space Force, Northcom, Space NORAD ... have a term for UFOs in space ... fast walkers ... a code word, and slow walkers too'. In the one public DoD document on this node that defines the term, it means any sunlit object crossing a staring sensor's field of view, and the word UFO does not appear in 112 pages.",
+     "source": "American Alchemy with Jesse Michels, 'Proof That NASA Censored Moon Photos (and The Astronauts Knew!)', published 20 July 2026, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8047881928.mp3 (machine transcript of the podcast audio, checked against the audio timestamps); AFIT/GA/ENY/08-M06, section 1.1 and full text"
     }
    ],
    "sources": [
@@ -1066,9 +1071,17 @@
      "name": "AFIT Scholar landing page for the thesis",
      "url": "https://scholar.afit.edu/etd/2701",
      "date": "2008-03-01"
+    },
+    {
+     "name": "American Alchemy with Jesse Michels, 'Proof That NASA Censored Moon Photos (and The Astronauts Knew!)' (podcast audio, machine transcript)",
+     "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8047881928.mp3",
+     "date": "2026-07-20"
     }
    ],
-   "unverified": "The Osedacz 1989 thesis named in the bibliography has not been obtained, and neither has the earlier Lem Wong work, which this thesis states is 'no longer available'. Nothing about the contents of the 1972-onward database is asserted here beyond what this thesis says about it."
+   "unverified": "The Osedacz 1989 thesis named in the bibliography has not been obtained, and neither has the earlier Lem Wong work, which this thesis states is 'no longer available'. Nothing about the contents of the 1972-onward database is asserted here beyond what this thesis says about it.",
+   "conflicts": [
+    "'Fastwalker' is characterised in podcast and popular usage (American Alchemy, 20 July 2026) as a military code word for UFOs in space. The unclassified 2008 AFIT thesis on this node uses the word 34 times for ordinary space-surveillance vocabulary and never uses 'UFO'. The board carries the characterisation as what was said and the definition as what the document says."
+   ]
   },
   {
    "id": "afr-200-2",

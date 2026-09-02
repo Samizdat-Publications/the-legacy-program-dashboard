@@ -854,7 +854,7 @@ export const PEOPLE = [
       'DIA AAWSAP/AATIP DIRD author (2008-2010)',
       'The Aerospace Corporation (by 2020)'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 26 of 980, score 102). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 22 of 980, score 106). 20 connections, 7 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     chronology: [
       { date: '1996-01-01', event: 'Joins NIDS as a scientist under Bigelow', precision: 'year' },
       { date: '1996-01-01', event: 'Works with NIDS as a staff scientist under Bigelow.', precision: 'year' },
@@ -1016,6 +1016,16 @@ export const PEOPLE = [
         source: 'AARO, Historical Record Report Volume I, March 2024'
       },
       {
+        tier: 2,
+        text: 'On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: \'I can confirm. Seeking legal counsel. They\'re real. They\'re legit. They\'re 100% accurate.\' He added that the circulated document is \'the typewritten version\' and that \'there\'s a handwritten version, but that\'s all I can say about it.\'',
+        source: 'American Alchemy with Jesse Michels, \'Eric Weinstein Demands UFO Secrets From Pentagon Scientist\', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)'
+      },
+      {
+        tier: 2,
+        text: 'In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: \'I can\'t confirm or deny that we met, for the security reasons.\' He said the document \'was released from Mitchell\'s estate\', that Edgar Mitchell had received a copy \'as a courtesy from who generated it\', and that it \'was supposed to be destroyed\' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.',
+        source: 'American Alchemy with Jesse Michels, \'Eric Weinstein Demands UFO Secrets From Pentagon Scientist\', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)'
+      },
+      {
         tier: 1,
         text: 'DIA reference document DIA-08-1004-004, \'Traversable Wormholes, Stargates, and Negative Energy\', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office\'s Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.',
         source: 'Cover and administrative note of DIA-08-1004-004 (released copy)'
@@ -1103,6 +1113,11 @@ export const PEOPLE = [
         date: '2024-11-13'
       },
       {
+        name: 'American Alchemy with Jesse Michels, \'Eric Weinstein Demands UFO Secrets From Pentagon Scientist\' (podcast audio, machine transcript)',
+        url: 'https://www.youtube.com/watch?v=xnxasfyHtfo',
+        date: '2026-03-08'
+      },
+      {
         name: 'DIRD DIA-08-1004-004, \'Traversable Wormholes, Stargates, and Negative Energy\' (Eric W. Davis, EarthTech International)',
         url: 'https://documents.theblackvault.com/documents/traversablewormholes-drdavis.pdf',
         date: '2010-04-06'
@@ -1145,7 +1160,7 @@ export const PEOPLE = [
     ],
     conflicts: [
       'Thomas Wilson denies the meeting took place and denies the substance attributed to him.',
-      'Davis has neither authenticated nor disowned the Wilson-Davis memo; Adm. Wilson has denied the meeting occurred.',
+      'Davis confirmed on the record on 8 March 2026 that he wrote the notes and that they are \'100% accurate\', while declining to confirm or deny that the meeting took place; Adm. Wilson has denied that the meeting occurred. The author endorsing his own notes is not authentication, and the other named party still disputes them. No government body has authenticated the memo.',
       'Sceptical commentators characterise the DIRD corpus as speculative literature reviews of little intelligence value; Steven Aftergood of FAS said the AAWSAP contract \'sounds like it was a good deal for the contractor\' but that it would be hard to argue the military or the public got their money\'s worth.'
     ],
     unverified: [
@@ -1153,6 +1168,7 @@ export const PEOPLE = [
       'The chain of custody by which the notes left Davis\'s possession and entered public circulation in 2019 has not been established on the record.',
       'The provenance chain of the Wilson-Davis memo pages between 2002 and 2019.',
       'Whether Davis was a party to the 2009-2010 negotiation AARO describes.',
+      'NewsNation reported in August 2026 (Katie Pavlich Tonight) that Davis said he has \'seen the evidence\' and \'seen the records\' of recovered non-human bodies of \'a minimum of four\' species and asked the White House for immunity before a fuller account. The NewsNation pages could not be opened from this environment (bot wall), so the statement is recorded here as unverified rather than carried as a claim.',
       'The identity of the Defense Department agency Davis briefed in March 2020.',
       'Whether any transcript, memorandum for record, or read-ahead of the 21 October 2019 SASC staff briefing exists in committee files.',
       'Davis\'s own account of the provenance of the materials he says \'we couldn\'t make ourselves\'.'
@@ -5200,7 +5216,7 @@ export const PEOPLE = [
       'US Air Force / Kirtland AFB intelligence consultant',
       'Project Twinkle (1949-1951)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 536 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 537 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     chronology: [
       {
         date: '1948-12-05',
@@ -6074,7 +6090,7 @@ export const PEOPLE = [
       'Defense Intelligence Agency (Director, 1999-2002)',
       'Private defence consulting (post-2002)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 517 of 980, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 518 of 980, score 26). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
     chronology: [
       {
         date: '1994-01-01',
@@ -10438,7 +10454,7 @@ export const PEOPLE = [
     domains: ['d-aviators', 'd-coverup'],
     narrative: 'Voorhis was a Cooperative Engagement Capability and Aegis systems technician aboard USS Princeton in November 2004, which put him at the exact node where the incident\'s machine record lived - the tapes and drives that captured what the SPY-1B and the CEC network saw. His public account, given repeatedly in documentary and broadcast interviews from 2018 onward, is that in the days after the intercept he was directed to hand over or wipe recording media, including data-tape cartridges, and that personnel he did not recognise were aboard doing the collecting. If accurate, it is the cleanest single instance of the program\'s evidence-handling behaviour in the entire modern aviator record: not a denial, not a classification decision anyone signed in public, but a physical removal of the primary sensor product within days. It has not been corroborated by any released document. The Navy has never produced Princeton radar data for 14 November 2004, and the FOIA-released range fouler report for the incident says only that reporting \'terminated at 3rd Fleet.\' Voorhis is carried at tier C precisely because the claim is important enough that it must not be over-graded.',
     affiliations: ['US Navy', 'USS Princeton (CG-59), Carrier Strike Group 11 (2004)'],
-    tierRationale: 'Re-graded C on a global pass (rank 518 of 980, score 26). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 519 of 980, score 26). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     chronology: [
       {
         date: '2004-11-14',
@@ -10976,7 +10992,7 @@ export const PEOPLE = [
       'US House of Representatives',
       'House Committee on Oversight and Government Reform'
     ],
-    tierRationale: 'Re-graded A on a global pass (rank 24 of 980, score 103). 29 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 25 of 980, score 103). 29 connections, 3 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.',
     chronology: [
       {
         date: '2023-07-26',
@@ -12541,7 +12557,7 @@ export const PEOPLE = [
       'NGA General Counsel (prior)',
       'National Security Agency (prior)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 519 of 980, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 520 of 980, score 26). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     chronology: [
       {
         date: '2021-01-01',
@@ -13185,7 +13201,7 @@ export const PEOPLE = [
       'Christic Institute (founder)',
       'Counsel to Luis Elizondo v. DoD'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 520 of 980, score 26). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 521 of 980, score 26). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     chronology: [
       {
         date: '1988-06-23',
@@ -14785,7 +14801,7 @@ export const PEOPLE = [
       'Lockheed Martin (Chief Technology Officer; Space Systems)',
       'The MITRE Corporation, SVP and GM, MITRE National Security'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 537 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 538 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D0.',
     chronology: [
       { date: '2020-01-01', event: 'Departs Lockheed Martin CTO role', precision: 'year' },
       {
@@ -15686,7 +15702,7 @@ export const PEOPLE = [
     domains: ['d-witness', 'd-coverup'],
     narrative: 'Jonathan Grey is the pseudonym under which a currently serving Top Secret-cleared intelligence officer at the National Air and Space Intelligence Center, Wright-Patterson AFB, corroborated Grusch in the 5 June 2023 Debrief article. Grey stated that the non-human intelligence phenomenon is real, that we are not alone, and that retrievals of this kind are not limited to the United States - an assertion that widens the custody question past US jurisdiction and implicates allied and adversary recovery efforts. The use of a pseudonym is itself evidence about the environment: the officer\'s employer sits at the geographic center of the legacy program allegations, at the base where the 1947 material is alleged to have been taken, and the officer would not attach a name. Kean has said she verified his identity and employment. AARO has never addressed Grey\'s statement by name.',
     affiliations: ['National Air and Space Intelligence Center (serving)'],
-    tierRationale: 'Re-graded C on a global pass (rank 538 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 539 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D2.',
     chronology: [
       {
         date: '2023-06-05',
@@ -16167,7 +16183,7 @@ export const PEOPLE = [
     domains: ['d-coverup'],
     narrative: 'Milley, as Chairman of the Joint Chiefs during the entire period Grusch served on the UAP Task Force, said publicly on 6 August 2023 that he had never encountered evidence supporting the alien claims or a coverup. The denial is worth recording precisely because of its structure: a Chairman is not automatically read on to waived unacknowledged special access programs, and the Chairman\'s ignorance of a program is therefore consistent with the program existing. Grusch\'s own testimony describes the mechanism - 10 U.S.C. 119 permits the Deputy Secretary of Defense to waive congressional reporting, with only the Gang of Eight nominally notified. A denial from the top of the uniformed chain is data about compartmentation, not about existence.',
     affiliations: ['Chairman of the Joint Chiefs of Staff (2019-2023)'],
-    tierRationale: 'Re-graded C on a global pass (rank 539 of 980, score 25). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 540 of 980, score 25). 1 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D1.',
     chronology: [
       {
         date: '2023-08-06',
@@ -17398,7 +17414,7 @@ export const PEOPLE = [
       'Weapons Systems Evaluation Group, DoD, director (1950-1952)',
       'CIA consultant'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 540 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
+    tierRationale: 'Re-graded C on a global pass (rank 541 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D0.',
     chronology: [
       {
         date: '1953-01-14',
@@ -18577,7 +18593,7 @@ export const PEOPLE = [
       'Rockefeller Family & Associates',
       'Rockefeller Initiative (1993-1996)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 541 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 542 of 980, score 25). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1993-01-01',
@@ -19582,7 +19598,7 @@ export const PEOPLE = [
     domains: ['d-research', 'd-legacy'],
     narrative: 'Eric H. Wang is on this board because he is documented, and the documentation is the point: it establishes a named Air Materiel Command office chief at Wright Field who moved to Kirtland, and it establishes nothing else. Four Operation UPSHOT-KNOTHOLE structures reports at DTIC name him identically: \'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program\', with Arthur Stansel and Mrs. Maisie G. Ridgeway in the same section. The Project 3.1 report records that responsibility for the six projects transferred \'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954\'. A 1960 report names him \'Eric H. Wang, Chief, Structures Division\' at Headquarters Research Directorate, Air Force Special Weapons Center, Kirtland Air Force Base.  His documented role is atomic blast effects on structures. That is a real and sensitive job at Kirtland and it explains his presence there without needing anything else. Nothing in any of these reports touches UAP, recovered materiel, reverse engineering, Kissinger or Schauberger, and no document supporting an Austrian birth was found. Those claims are not on this board at any tier, and this node exists partly to say so.  Three corrections travel with him. The printed name of the office is the Special Studies Office, inside the Installations Division of Air Materiel Command, not the \'Office of Special Studies\'. His middle initial is H. The colleague is Arthur Stansel, not Stancil -- and the Project 3.5 report tracks him onward to the Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 521 of 980, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
+    tierRationale: 'Re-graded C on a global pass (rank 522 of 980, score 26). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D1.',
     chronology: [],
     claims: [
       {
@@ -24331,7 +24347,7 @@ export const PEOPLE = [
     domains: ['d-international', 'd-disclosure', 'd-denial'],
     narrative: 'Nick Pope is the single most consequential figure in the British record because he is the only person who ran the Ministry of Defence\'s UFO desk and then spent thirty years describing what that desk actually did. Born 19 September 1965 to George Pope, an aeronautical engineer at the MoD\'s Royal Aircraft Establishment at Farnborough, he joined the Ministry of Defence as a civil servant in 1985 and was posted in 1991 to the Secretariat (Air Staff) division that handled unidentified flying object reports, staying three years. Sky HISTORY, the broadcaster for which he worked for over a decade, records that the British programme deliberately had no formal name of the Project Blue Book kind because the government wanted to play down the extent of its own interest. Pope\'s 1996 book Open Skies, Closed Minds argued from inside knowledge that the MoD\'s public line - that UFO reports were of no defence significance - did not match the internal handling. When the MoD and The National Archives began releasing the UFO files in 2008 he was approached to help with the publicity and became, in the broadcaster\'s phrase, the face of the Ministry\'s new-found transparency, a role that made him the recurring British witness in the 2017-2026 American disclosure wave. In February 2026 he disclosed on social media that he had been diagnosed with stage 4 oesophageal cancer that had metastasised to his liver, writing that he would not have swapped his life \'for the world\' and referring to \'the secrets I\'ve been privy to\'. His wife Elizabeth Weiss announced that he died at their home on the afternoon of 6 April 2026, aged 60; obituaries followed in The Telegraph, The Times, The Economist and The New York Times through April 2026.',
     affiliations: ['uk-mod', 'uk-mod-ufo-desk'],
-    tierRationale: 'Re-graded C on a global pass (rank 542 of 980, score 25). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 543 of 980, score 25). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.',
     chronology: [
       {
         date: '1965-09-19',
@@ -25789,7 +25805,7 @@ export const PEOPLE = [
       'Montana Army National Guard, flight surgeon (deployed to Iraq)',
       'Fund for UFO Research (affiant)'
     ],
-    tierRationale: 'Re-graded C on a global pass (rank 543 of 980, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A0/D3.',
+    tierRationale: 'Re-graded C on a global pass (rank 544 of 980, score 25). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A0/D3.',
     chronology: [
       {
         date: '1947-07',
@@ -27734,7 +27750,7 @@ export const PEOPLE = [
     domains: [],
     narrative: 'George Hathaway is the author the DIA list names for "Role of Superconductors in Gravity Research," and separately for "Maverick Inventor Versus Corporate Inventor" (item 16). Two DIRDs, and they are an odd pair: one a technical review of the most contested claim in gravity-modification research, the other an essay on where breakthrough invention actually comes from. Both are consistent with what Hathaway has done for fifty years.  Hathaway graduated in electrical engineering from the University of Toronto in 1974 and is a registered professional engineer. He runs a private laboratory near Toronto International Airport, first as Hathaway Consulting Services, the affiliation the DIA letter records, and latterly as Hathaway Research International. The laboratory\'s stated function is to test claims of anomalous energy production and unconventional propulsion and gravity modification, which in practice means being the person who replicates other people\'s extraordinary claims and reports honestly when they fail. Between 1996 and 2003 he ran the Podkletnov rotating-superconductor gravity-shielding experiment for a prospective investor and obtained null results. He co-authored with Reiss a 2005 paper on correct laboratory practice in experiments designed to detect gravity-like forces.  That record is why his DIRD is more interesting than its title suggests. The superconductor paper, DIA-08-1003-013, dated 23 March 2010 in the Acquisition Threat Support series, reviews the Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one person in the field with a documented history of failing to replicate it. That is not the commissioning behaviour of a programme buying a predetermined conclusion, and it is a fact that cuts against the standard reading of the DIRD set in both directions.  Hathaway\'s disclosure role is scored above the other subject-matter authors because his laboratory is a standing independent node in the anomalous-physics network, referenced alongside EarthTech International as one of the few places where such claims get instrumented rather than argued.',
     affiliations: [],
-    tierRationale: 'Re-graded C on a global pass (rank 544 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded C on a global pass (rank 545 of 980, score 25). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A1/D2.',
     chronology: [],
     claims: [
       {
