@@ -69,6 +69,19 @@ could open and gets no node.
 | `l-groom-lake`, `project-blue-book` | Bissell's history ties both to the AEC in one document at Tier 1 | v-1 |
 | the triage files' section C | 80-odd further rows keyed to node ids across six files; not adjudicated tonight | triage 1-6 |
 
+## A2. From the second half of the catalogue (batches 26 to 35), verified at 05:30
+
+| # | node | class | what the opened record establishes | draft in |
+|---|---|---|---|---|
+| 21 | **Atomic Energy Act of 1946** (McMahon Act) | legislation | 60 Stat. 755, ch. 724, S. 1717, approved 1 August 1946: born-secret at sec. 10(b)(1), the death penalty reaching concealment and destruction at 10(b)(2)-(4), the FBI gate, the Military Liaison Committee with an appeal ending at the President. Three maps, three speakers. The board argues the 1954 regime in 45 places and "McMahon" appears zero times. Build beside row 1 | v-5 |
+| 22 | **Walter Bedell Smith** and **Allen Dulles** | person | The CIA's own Robertson Panel file, read in the archive.org mirror. The "1953 Bedell Smith letter proposing psychological warfare" the transcript describes is **Chadwell's, dated 2 October 1952**, and the approval line over Smith's name on the released copy is **blank**; Smith's own 2 December 1952 draft to the NSC proposes research, not exploitation. Dulles's three signed letters of 13 March 1953 say the panel "was convened at the direction of General Smith" and that CIA "does not consider problems arising from sightings of 'flying saucers' primarily its concern". Build both; the contradiction is the finding | v-5 |
+| 23 | **NICAP** | institution | The CIA's filed copy of *The UFO Evidence* (1964): "incorporated in the District of Columbia (1956)". The FBI's NICAP file opens with a 23 October 1956 clipping naming **T. Townsend Brown of Leesburg, Va., "who runs it"**. That is a documented Brown-to-NICAP link the board lacks. The DC register itself is NOT OPENED (522). Board count: 73 occurrences, not the triage's 156 | v-5 |
+
+| # | candidate | why not |
+|---|---|---|
+| 24 | Harry Turner and the 1971 Australian JIO memorandum | NOT OPENED after seven National Archives of Australia searches driven from a browser: series A9755 is the RAAF UAS files 1967-94 with no JIO 1971 item; "Joint Intelligence Organisation" 1968-76 returns 168 items, none on aerial phenomena. Six speakers across two halves of the catalogue describe it; no one gives a number. A research question, not a candidate |
+| 25 | Office of Strategic Services, and a Brown-to-OSS edge | NARA's 23,978-name OSS personnel index has no Thomas T. or Townsend Brown, but it also lacks Allen Dulles, who NARA's own release says has a file. The negative is evidence, not proof; no edge drawn. The institution itself is a general-history node the board does not need |
+
 ## E. Held for the next pass
 
 The consolidated draft (`CANDIDATES-2026-09-02-MICHELS-DRAFT.md`) lists what was held back
