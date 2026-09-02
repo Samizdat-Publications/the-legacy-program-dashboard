@@ -65,21 +65,21 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 
 | | |
 |---|---|
-| nodes | 980 (286 people · 694 entities) |
-| hand-written sourced edges | 2,194 |
-| tiered claims | 4,728 — T1 2,948 · T2 1,274 · T3 506 |
-| edge tiers | T1 1,408 · T2 586 · T3 200 |
-| unique source URLs | 3,042 |
+| nodes | 1,000 (294 people · 706 entities) |
+| hand-written sourced edges | 2,270 |
+| tiered claims | 4,853 — T1 3,059 · T2 1,286 · T3 508 |
+| edge tiers | T1 1,466 · T2 597 · T3 207 |
+| unique source URLs | 3,152 |
 | dead citations | 0 as of the 25 August sweep; not re-run since |
-| timeline events | 885 |
+| timeline events | 892 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
-| primary map | the force-directed full graph, all 980 nodes. **Inverted 29 August 2026** |
-| program map (L0) | 112 nodes, all with dossiers, on the PROGRAM tab |
-| map layout | Design's packed cells: 7 bands x 5 columns, 112 chips at one size |
-| links drawn at rest | 104 of 332, by the model's own budget |
+| primary map | the force-directed full graph, all 1,000 nodes. **Inverted 29 August 2026** |
+| program map (L0) | 118 nodes, all with dossiers, on the PROGRAM tab |
+| map layout | Design's packed cells: 7 bands x 5 columns, 118 chips at one size |
+| links drawn at rest | 108 of 343, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
-| built artifact | `dist/the-program.html`, 15.85 MB |
-| gate | 54 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
+| built artifact | `dist/the-program.html`, 16.24 MB |
+| gate | 56 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
 | analyst | live for every reader since 2 September 2026 via the Worker; `notes/ANALYST-2026-09-02.md` says why it never was before |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
@@ -413,6 +413,18 @@ surface" includes markup, not just copy.
 ---
 
 ## 9. What is next, in priority order
+
+> **DONE, 2 September 2026: THE MICHELS CORPUS BUILD.** 140 Jesse Michels episodes
+> transcribed on Stewart's machine, mapped by Sonnet subagents, triaged and verified by
+> Opus subagents, decided by Stewart, built. `research/michels-2026-09-02.json`: 8 people,
+> 12 entities, 76 edges, 7 timeline events, 8 gaps. Board 980 -> 1,000, claims 4,728 ->
+> 4,853, L0 112 -> 118 (six nodes crossed the floor and gained dossiers in
+> `research/dossiers/michels-2026-09-02-l0.json`). Record: `notes/HANDOFF-2026-09-01.md`
+> section 7. **Four transcript claims are recorded as contradicted by the opened record**
+> (Bluegill's date and contents, Inman and SAIC, the Church Committee's own access, Silver
+> Bug's purpose); do not "fix" the nodes back toward the podcast. The build also fixed
+> `tools/build_l0_layout.mjs`, whose main guard never fired on Windows and exited 0 having
+> written nothing.
 
 > **DONE, 30 August 2026: SIXTEEN NODES FROM THE VERIFIED LEADS.** Section A and section
 > B of `research/leads/CANDIDATES-2026-08-30.md`, approved by Stewart. Record:
