@@ -93,6 +93,34 @@ def _singular(k):
     return tuple(w[:-1] if len(w) > 4 and w.endswith("s") else w for w in k)
 
 
+# The given-name variants speakers use. Both directions are consulted, so the
+# table lists the short form once. Added after the first Michels triage found
+# Carl Nell, Bob Salas, Stephen Greer, Lou Elizondo and Danny Sheehan all
+# reported ABSENT against nodes the board plainly carries.
+NICKNAMES = {
+    "bob": "robert", "bobby": "robert", "rob": "robert", "bill": "william",
+    "will": "william", "chuck": "charles", "charlie": "charles", "dan": "daniel",
+    "danny": "daniel", "mike": "michael", "jim": "james", "jimmy": "james",
+    "steve": "steven", "stephen": "steven", "lou": "luis", "louis": "luis",
+    "tom": "thomas", "dick": "richard", "rick": "richard", "ed": "edward",
+    "ted": "edward", "jack": "john", "joe": "joseph", "harry": "harold",
+    "hal": "harold", "carl": "karl", "greg": "gregory", "ron": "ronald",
+    "sam": "samuel", "ben": "benjamin", "matt": "matthew", "chris": "christopher",
+    "andy": "andrew", "drew": "andrew", "tony": "anthony", "larry": "lawrence",
+    "jerry": "gerald", "jeff": "jeffrey", "ken": "kenneth", "pat": "patrick",
+    "phil": "philip", "ray": "raymond", "dave": "david", "al": "albert",
+    "fred": "frederick", "frank": "francis", "hank": "henry", "nick": "nicholas",
+    "sean": "shaun", "jon": "jonathan",
+}
+
+
+def _same_given(a, b):
+    if a == b or _ed1(a, b):
+        return True
+    return NICKNAMES.get(a) == b or NICKNAMES.get(b) == a or (
+        NICKNAMES.get(a) is not None and NICKNAMES.get(a) == NICKNAMES.get(b))
+
+
 def build_index(board):
     nodes = []
     for n in board["people"] + board["entities"]:
@@ -203,15 +231,23 @@ def match_node(cand, nodes):
     best = None
     cn = norm(cand)
     cks = _singular(ck)
+    cn_s = _singular(tuple(cn.split()))
     for n in nodes:
         # id, parenthetical acronym, initials: the forms a speaker actually uses
-        if cn in n.get("aliases", ()):
+        if cn in n.get("aliases", ()) or any(_singular(tuple(a.split())) == cn_s
+                                             for a in n.get("aliases", ())):
             return (n, "alias")
         nk = key(n["label"])
         if not nk:
             continue
         if nk == ck or _singular(nk) == cks:
             return (n, "exact")
+        # A person by given name and surname, where the given name is a nickname
+        # or a caption spelling and the label may carry a middle name.
+        if (n.get("cls") == "person" and len(ck) == 2 and len(nk) >= 2
+                and len(ck[-1]) >= 4 and (ck[-1] == nk[-1] or _ed1(ck[-1], nk[-1]))
+                and _same_given(ck[0], nk[0])):
+            return (n, "given-name variant")
         ns = set(nk)
         # Containment, but only when the shorter side is at least two
         # discriminating words -- otherwise "brown" matches everything.
@@ -378,6 +414,20 @@ def self_test():
     # Caption spelling plus a missing middle name must still find the node.
     if any(n["id"] == "david-grusch" for n in nodes):
         want("David Grush", "NODE", "caption spelling of a real label with a middle name")
+    # A nickname for a real person node, chosen at runtime from the table.
+    for n in nodes:
+        if n.get("cls") != "person":
+            continue
+        lk = key(n["label"])
+        if len(lk) >= 2 and len(lk[-1]) >= 5:
+            short = next((s for s, full in NICKNAMES.items() if full == lk[0]), None)
+            if short:
+                want("%s %s" % (short.title(), lk[-1].title()), "NODE",
+                     "a nickname for %s" % n["label"])
+                # and the same nickname with an invented surname must NOT match
+                want("%s Zzyzxington" % short.title(), "ABSENT",
+                     "a nickname alone must not carry a wrong surname to a node")
+                break
     # Something no source has ever named. Deliberately absurd so a future
     # research pass cannot make this test pass by accident.
     want("Zzyzx Perpetual Motion Consortium", "ABSENT", "invented, must not match")

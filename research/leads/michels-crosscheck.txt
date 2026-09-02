@@ -1,9 +1,9 @@
 1472 candidates against 980 nodes
-  ABSENT 944   not on the board in any form -- these are the leads
-  PROSE  182   named in board prose, not a node -- promotion questions
-  NODE   346   already a node
+  ABSENT 933   not on the board in any form -- these are the leads
+  PROSE  176   named in board prose, not a node -- promotion questions
+  NODE   363   already a node
 
-== ABSENT (944) ==
+== ABSENT (933) ==
   24th Special Tactics Squadron
   303 Committee
   45th Medical Group
@@ -128,15 +128,12 @@
   Bob Beck
   Bob Fish
   Bob Grasser
-  Bob Hastings
   Bob Jacobs
   Bob Jamison   <- NEAR MISS, adjudicate
       ~jamison  robert-hastings.claim ...from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, publ...
   Bob McGwire
   Bob Monroe
   Bob Packwood
-  Bob Salas
-  Bob Wood
   Bob Zubrin
   Bobby Ray Inman
   Borderland Sciences Research Association
@@ -177,8 +174,6 @@
   Carl Compton   <- NEAR MISS, adjudicate
       ~compton  robert-sarbacher.narrative ...iation with the Research and Development Board under Doctor Compton during the Eisenhower administration' -- the RDB was a Trum...
       ~carl  garry-nolan.chronology ...Appointed Rachford and Carlota A. Harris Professor in Pathology, Stanford....
-  Carl Nell   <- NEAR MISS, adjudicate
-      ~carl  garry-nolan.chronology ...Appointed Rachford and Carlota A. Harris Professor in Pathology, Stanford....
   Carlos de Sosa
   Carol Rosin   <- NEAR MISS, adjudicate
       ~carol  george-trimble.claim ...sics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt workin...
@@ -217,7 +212,6 @@
   Chris McKay
   Chris Ramsey   <- NEAR MISS, adjudicate
       ~ramsey  aztec-1948.desc ...s a library fundraiser from 1997 to 2011. Scott and Suzanne Ramsey, with journalism professor Frank Thayer, spent three decade...
-  Chris Sharp
   Christopher Dunn   <- NEAR MISS, adjudicate
       ~dunn  john-schuessler.narrative ...1998) - which is why sceptics such as Gary Posner and Brian Dunning have been able to argue against the case using Schuessle...
   Christopher Fox
@@ -271,7 +265,6 @@
   Dan Sherman
   Daniel Patrick Moynihan
   Danny Jones
-  Danny Sheehan
   Darlene Lim
   DARPA Security and Intelligence Directorate
   Darryl Bem
@@ -562,8 +555,6 @@
   Jet Propulsion Laboratory
   JFK
   Jim Garrison
-  Jim Lacatski
-  Jim Ryder
   Jim Simons   <- NEAR MISS, adjudicate
       ~simons  david-spergel.sub ...Astrophysicist; President, Simons Foundation; Chair, NASA UAP Independent Study Team...
   Jim Weiner
@@ -666,7 +657,6 @@
   Linda Tripp
   Long Island
   Lord Hill-Norton
-  Lou Elizondo
   Louis Johnson
   Louis Jolyon West
   Lt. Col. Lewis D. Chase   <- NEAR MISS, adjudicate
@@ -994,11 +984,9 @@
   Starfish Prime
   Stephen Digna   <- NEAR MISS, adjudicate
       ~digna  entityInfo.hearing-2025-09-09.desc ...Michael Herrera, Roderick Castle, Randy Anderson and Steven Digna among others. Burlison also stated on the record that the U...
-  Stephen Greer
   Stephen Hadley
   Stephen Miller   <- NEAR MISS, adjudicate
       ~miller  age-of-disclosure-2025.desc ...officials including Marco Rubio, James Clapper, Christopher Miller, Christopher Mellon and Tim Gallaudet, and members of Congr...
-  Stephen Schiff
   Steve Bannon
   Steven Greenstreet
   Steven Spielberg
@@ -1148,7 +1136,7 @@
   Zodiac
   Zorro Ranch
 
-== PROSE (182) ==
+== PROSE (176) ==
   5412
       uap-gerb.narrative ...placed the control group under the National Security Council and its 5412 Committee, shielded it statutorily under the Atomic Energy Act of 195...
       uap-gerb.claim ...blished the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority unde...
@@ -1201,17 +1189,10 @@
       burlison-mitre-letter-2026.claim ...Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton and BAE Systems....
   Barry Goldwater
       andy-biggs--david-grusch.note ...he official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That...
-  Bill Moore
-      richard-doty.narrative ...He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police...
-      richard-doty.chronology ...Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding di...
-      jaime-shandera.narrative ...Shandera was a Los Angeles television producer working with Bill Moore when, on 11 December 1984, an unmarked envelope postmarked Albuquerqu...
   Bill Nelson
       mark-mcinerney.narrative ...mber 2023, releasing the Independent Study Team report, Administrator Bill Nelson announced that the agency had appointed a Director of UAP Research an...
       galileo-project.desc ...fter the ODNI preliminary assessment and following NASA administrator Bill Nelson's June 2021 call for scientific analysis, the Galileo Project is the...
       galileo-project--odni-preliminary-assessment-2021.note ...admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis....
-  Bob Bigelow
-      l-skinwalker.source ...Stranger Than Fiction — Bob Bigelow, AAWSAP, and the Years the Pentagon Investigated a Haunted Ranch...
-      kona-blue.source ...Stranger Than Fiction — Bob Bigelow, AAWSAP, and the Years the Pentagon Investigated a Haunted Ranch...
   Bob Lazar
       george-knapp.narrative ...Nevada, and with Senators Harry Reid and Howard Cannon. Knapp's 1989 Bob Lazar reporting, which he re-affirmed in the same testimony, is the origin...
       george-knapp.chronology ...Breaks the Bob Lazar S-4 reverse-engineering story on KLAS-TV...
@@ -1246,8 +1227,6 @@
       david-grusch.narrative ...o the DoD Inspector General in July 2021 and filed a PPD-19 urgent-concern complaint with the Intelligence Community Inspector General on 25 May...
       david-grusch.claim ...2022, before Kirkpatrick took over AARO in July 2022, and gave him concerns and counsel on where to look....
       david-grusch.chronology ...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III...
-  Chris Mellon
-      the-intercept--ttsa.note ...el's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen....
   CIA Directorate of Science and Technology
       sean-kirkpatrick.narrative ...ct channels that would matter: the National Reconnaissance Office and CIA Directorate of Science and Technology 2003-2007, then the Defense Intelligence Agen
       gerb-nro-investigation.desc ...rious relationships exist between alleged legacy personnel and MITRE, CIA Directorate of Science and Technology, CIA Office of Global Access, the NRO and the
@@ -1305,8 +1284,6 @@
       sperry-rand.claim ...ication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation.'...
   Dugway Proving Ground
       entityInfo.uap-gerb.desc ...UFO Crash Retrieval & Reverse Engineering; Philip J. Corso - US Army; Dugway Proving Ground; Deep Underground Military Bases (D.U.M.B.s); Alien Reproduction 
-  Ed Condon
-      l-boulder-co.sub ...University of Colorado Boulder; host of the Air Force-funded Condon Committee, 1966-1969...
   Ed May
       elizondo-dodig-complaint-2021.claim ...Filed May 2021 alleging 'malicious activities, coordinated disinformation, prof...
       gao-130581.claim ...n of document accountability for the special access contract at Lockheed may not have occurred if the Defense Investigative Service had been permi...
@@ -1343,10 +1320,6 @@
   Gravity Research Foundation
       george-trimble.narrative ...ent conversation with Mr. George Rideout, president of Roger Babson's Gravity Research Foundation, we were commiserating on the unfortunate state of the affa
       george-trimble.claim ...rding a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs tha
-  Hal Puthoff
-      robert-bigelow.narrative ...people carrying federal clearances and federal programme histories - Hal Puthoff from the CIA/DIA remote-viewing programmes, Colonel John Alexander fr...
-      claudio-maccone.narrative ...anced aerospace threat". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum re...
-      george-miley.narrative ...h line for decades. That matters for how the DIRD set should be read. Hal Puthoff's own account of the commissioning, given at the Society for Scientif...
   Harvard College Observatory
       avi-loeb.narrative ...ker and William Linton of Promega, installed its first observatory at Harvard College Observatory in 2022, and published its instrumentation architecture in 
       galileo-project.desc ...e extraterrestrial satellites. Its first observatory was installed at Harvard College Observatory in 2022. Unusually for this field, it published its instrum
@@ -1665,10 +1638,6 @@
       james-lacatski.chronology ...Sends letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located...
   Timothy Good
       institute-22.desc ...effort of 1978-1991 appears in Western secondary literature, chiefly Timothy Good's Need to Know: UFOs, the Military, and Intelligence (2007). On that...
-  Tom DeLong
-      harold-puthoff.narrative ...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the anal...
-      harold-puthoff.chronology ...Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice....
-      harold-puthoff.source ...M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice...
   TR-3B
       gerb-sandia-investigation.desc ...d Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle; former New Mexico State Representative J....
       gerb-sandia-investigation.claim ...d Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle....
@@ -1734,10 +1703,10 @@
       jesse-michels.claim ...structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing componen...
       doe.desc ...al laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago...
 
-== NODE (346) ==
+== NODE (363) ==
   40 Committee                                   -> The defense committees (10 U.S.C. 119(g))  [institution B, one character apart, within node]
   AARO                                           -> All-domain Anomaly Resolution Office (AARO)  [institution A, alias]
-  Aaron Lucas                                    -> Aaron Lukas  [person B, one character apart]
+  Aaron Lucas                                    -> Aaron Lukas  [person B, given-name variant]
   AATIP                                          -> Advanced Aerospace Threat Identification Program (AATIP / AAITP)  [program A, alias]
   Adm. Thomas Wilson                             -> Thomas R. Wilson  [person C, alias]
   Aerojet Rocketdyne                             -> Aerojet Rocketdyne  [institution C, alias]
@@ -1766,19 +1735,27 @@
   Ben Rich                                       -> Ben R. Rich  [person B, alias]
   Bigelow Aerospace                              -> Bigelow Aerospace  [institution A, alias]
   Bigelow Aerospace Advanced Space Studies       -> Bigelow Aerospace Advanced Space Studies (BAASS), LLC  [institution A, candidate within node]
+  Bill Moore                                     -> William L. Moore  [person C, given-name variant]
   Black Vault                                    -> The Black Vault  [institution C, exact]
   Blue Book                                      -> Project Blue Book  [program A, exact]
   Blue Origin                                    -> AARO/DHS release: History and Origin of KONA BLUE  [document B, candidate within node]
+  Bob Bigelow                                    -> Robert T. Bigelow  [person A, given-name variant]
+  Bob Hastings                                   -> Robert L. Hastings  [person B, given-name variant]
+  Bob Salas                                      -> Capt. Robert L. Salas  [person B, given-name variant]
+  Bob Wood                                       -> Robert M. Wood  [person C, given-name variant]
   Boeing                                         -> The Boeing Company  [institution B, alias]
   Booz Allen Hamilton                            -> Booz Allen Hamilton  [institution C, alias]
   Brazilian Air Force                            -> United States Air Force  [institution A, node within candidate]
   Bryce Zabel                                    -> Bryce Zabel  [person C, alias]
   Cape Canaveral Air Force Station               -> United States Air Force  [institution A, node within candidate]
+  Carl Nell                                      -> Karl E. Nell  [person B, given-name variant]
   Cecilia Levy                                   -> Cecilia Levy  [person C, alias]
   Central Intelligence Agency                    -> Central Intelligence Agency  [institution A, alias]
   Chad Underwood                                 -> Chad Underwood  [person C, alias]
-  Charles Hall                                   -> Charles I. Halt  [person B, one character apart, within node]
+  Charles Hall                                   -> Charles I. Halt  [person B, given-name variant]
   Charles Halt                                   -> Charles I. Halt  [person B, alias]
+  Chris Mellon                                   -> Christopher K. Mellon  [person A, given-name variant]
+  Chris Sharp                                    -> Christopher Sharp  [person C, given-name variant]
   Christopher Mellon                             -> Christopher K. Mellon  [person A, alias]
   Chuck Schumer                                  -> Charles E. Schumer  [person B, alias]
   CIA                                            -> Central Intelligence Agency  [institution A, alias]
@@ -1791,10 +1768,11 @@
   Dan Farah                                      -> Dan Farah  [person C, alias]
   Daniel Inouye                                  -> Daniel K. Inouye  [person C, alias]
   Daniel Sheehan                                 -> Daniel P. Sheehan  [person C, alias]
+  Danny Sheehan                                  -> Daniel P. Sheehan  [person C, given-name variant]
   DARPA                                          -> Defense Advanced Research Projects Agency  [institution C, alias]
   David Fravor                                   -> David Fravor  [person B, alias]
   David Grusch                                   -> David Charles Grusch  [person A, alias]
-  David Grush                                    -> David Charles Grusch  [person A, one character apart, within node]
+  David Grush                                    -> David Charles Grusch  [person A, given-name variant]
   David Spergel                                  -> David N. Spergel  [person B, alias]
   Defense Intelligence Agency                    -> Defense Intelligence Agency  [institution A, alias]
   Department of Energy                           -> United States Department of Energy  [institution A, exact]
@@ -1809,6 +1787,7 @@
   Dr. Robert Sarbacher                           -> Robert I. Sarbacher  [person B, alias]
   Dylan Borland                                  -> Dylan Borland  [person A, alias]
   EarthTech International                        -> EarthTech International / Institute for Advanced Studies at Austin  [institution A, alias]
+  Ed Condon                                      -> Edward U. Condon  [person C, given-name variant]
   Ed Dames                                       -> James E. McDonald  [person B, one character apart, within node]
   Edward Condon                                  -> Edward U. Condon  [person C, alias]
   Edward J. Ruppelt                              -> Edward J. Ruppelt  [person B, alias]
@@ -1829,13 +1808,14 @@
   Foster Ranch                                   -> Roswell, New Mexico and the Foster Ranch, Lincoln County  [location B, candidate within node]
   Frank Scully                                   -> Frank Scully  [person C, alias]
   Galileo Project                                -> The Galileo Project  [program B, alias]
-  Gary Nolan                                     -> Garry Nolan  [person A, one character apart]
+  Gary Nolan                                     -> Garry Nolan  [person A, given-name variant]
   George Knapp                                   -> George Knapp  [person A, alias]
   Gerald Ford                                    -> Gerald R. Ford  [person C, alias]
   Glenn Gaffney                                  -> Glenn Gaffney  [person C, alias]
   Grant Cameron                                  -> Grant Cameron  [person C, alias]
   Grill Flame                                    -> GRILL FLAME  [program C, alias]
   Groom Lake                                     -> Groom Lake, Nevada  [location B, alias]
+  Hal Puthoff                                    -> Harold E. Puthoff  [person A, given-name variant]
   Harry Reid                                     -> Harry M. Reid  [person A, alias]
   Hill Air Force Base                            -> United States Air Force  [institution A, node within candidate]
   History Channel                                -> 'Unidentified: Inside America's UFO Investigation' (History Channel)  [event C, alias]
@@ -1871,9 +1851,11 @@
   Jesse Marcel Jr.                               -> Dr. Jesse A. Marcel Jr.  [person C, alias]
   Jesse Marcel Sr.                               -> Jesse A. Marcel Sr.  [person A, exact]
   Jesse Michels                                  -> Jesse Michels  [person B, alias]
+  Jim Lacatski                                   -> James T. Lacatski  [person A, given-name variant]
   Jim Penniston                                  -> James W. Penniston  [person C, alias]
+  Jim Ryder                                      -> Dr. James Ryder  [person C, given-name variant]
   Jim Semivan                                    -> James 'Jim' Semivan  [person C, alias]
-  John Alexander                                 -> John B. Alexander  [person C, candidate within node]
+  John Alexander                                 -> John B. Alexander  [person C, given-name variant]
   John Burroughs                                 -> John Burroughs  [person B, alias]
   John Greenewald                                -> John Greenewald Jr.  [person B, alias]
   John Greenewald Jr.                            -> John Greenewald Jr.  [person B, alias]
@@ -1906,6 +1888,7 @@
   Loring Air Force Base                          -> United States Air Force  [institution A, node within candidate]
   Los Alamos                                     -> Los Alamos, New Mexico  [location B, alias]
   Los Alamos National Laboratory                 -> Los Alamos National Laboratory  [institution B, alias]
+  Lou Elizondo                                   -> Luis D. Elizondo  [person A, given-name variant]
   Luis Elizondo                                  -> Luis D. Elizondo  [person A, alias]
   MacDill Air Force Base                         -> United States Air Force  [institution A, node within candidate]
   Majestic documents                             -> MJ-12 / Operation Majestic-12 Documents  [document B, candidate within node]
@@ -1913,12 +1896,12 @@
   Malmstrom Air Force Base                       -> United States Air Force  [institution A, node within candidate]
   Marco Rubio                                    -> Marco Rubio  [person B, alias]
   Marik von Rennenkampff                         -> Marik von Rennenkampff  [person C, alias]
-  Mark Millis                                    -> Marc G. Millis  [person B, one character apart, within node]
+  Mark Millis                                    -> Marc G. Millis  [person B, given-name variant]
   Matt Gaetz                                     -> Matthew Louis Gaetz II  [person C, alias]
-  Michael Schellenberger                         -> Michael Shellenberger  [person B, one character apart]
+  Michael Schellenberger                         -> Michael Shellenberger  [person B, given-name variant]
   Michael Shellenberger                          -> Michael Shellenberger  [person B, alias]
   Mike Gallagher                                 -> Michael John Gallagher  [person C, alias]
-  Mike Rogers                                    -> Mike D. Rogers  [person C, candidate within node]
+  Mike Rogers                                    -> Mike D. Rogers  [person C, given-name variant]
   Mike Rounds                                    -> Mike Rounds  [person B, alias]
   Mike Turner                                    -> Michael R. Turner  [person B, alias]
   Minot AFB                                      -> Minot AFB incursions, 1966  [event C, candidate within node]
@@ -2033,6 +2016,8 @@
   Stanford Research Institute                    -> SRI International (Stanford Research Institute)  [institution B, alias]
   Stanton Friedman                               -> Stanton T. Friedman  [person B, alias]
   Stargate program                               -> STAR GATE and predecessor remote viewing programs, 1970-1995  [event B, alias]
+  Stephen Greer                                  -> Steven M. Greer  [person C, given-name variant]
+  Stephen Schiff                                 -> Steven H. Schiff  [person B, given-name variant]
   Steve Justice                                  -> Steve Justice  [person B, alias]
   Steven Greer                                   -> Steven M. Greer  [person C, alias]
   Steven Schiff                                  -> Steven H. Schiff  [person B, alias]
@@ -2048,6 +2033,7 @@
   Tim Phillips                                   -> Timothy A. Phillips  [person B, alias]
   To The Stars Academy                           -> CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy  [document A, candidate within node]
   To The Stars Academy of Arts & Science         -> To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)  [institution A, candidate within node]
+  Tom DeLong                                     -> Thomas Matthew DeLonge  [person C, given-name variant]
   Tom DeLonge                                    -> Thomas Matthew DeLonge  [person C, alias]
   Tonopah Test Range                             -> Tonopah Test Range, Nevada  [location C, candidate within node]
   Townsend Brown                                 -> Thomas Townsend Brown  [person A, candidate within node]

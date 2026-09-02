@@ -1,8 +1,8 @@
 {
  "counts": {
-  "NODE": 346,
-  "PROSE": 182,
-  "ABSENT": 944
+  "NODE": 363,
+  "PROSE": 176,
+  "ABSENT": 933
  },
  "results": [
   {
@@ -660,11 +660,6 @@
    "near": []
   },
   {
-   "candidate": "Bob Hastings",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Bob Jacobs",
    "verdict": "ABSENT",
    "near": []
@@ -693,16 +688,6 @@
   },
   {
    "candidate": "Bob Packwood",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Bob Salas",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Bob Wood",
    "verdict": "ABSENT",
    "near": []
   },
@@ -918,18 +903,6 @@
    ]
   },
   {
-   "candidate": "Carl Nell",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "carl",
-     "id": "garry-nolan",
-     "field": "chronology",
-     "context": "...Appointed Rachford and Carlota A. Harris Professor in Pathology, Stanford...."
-    }
-   ]
-  },
-  {
    "candidate": "Carlos de Sosa",
    "verdict": "ABSENT",
    "near": []
@@ -1131,11 +1104,6 @@
      "context": "...s a library fundraiser from 1997 to 2011. Scott and Suzanne Ramsey, with journalism professor Frank Thayer, spent three decade..."
     }
    ]
-  },
-  {
-   "candidate": "Chris Sharp",
-   "verdict": "ABSENT",
-   "near": []
   },
   {
    "candidate": "Christopher Dunn",
@@ -1425,11 +1393,6 @@
   },
   {
    "candidate": "Danny Jones",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Danny Sheehan",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2997,16 +2960,6 @@
    "near": []
   },
   {
-   "candidate": "Jim Lacatski",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Jim Ryder",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Jim Simons",
    "verdict": "ABSENT",
    "near": [
@@ -3543,11 +3496,6 @@
   },
   {
    "candidate": "Lord Hill-Norton",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Lou Elizondo",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5288,11 +5236,6 @@
    ]
   },
   {
-   "candidate": "Stephen Greer",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Stephen Hadley",
    "verdict": "ABSENT",
    "near": []
@@ -5308,11 +5251,6 @@
      "context": "...officials including Marco Rubio, James Clapper, Christopher Miller, Christopher Mellon and Tim Gallaudet, and members of Congr..."
     }
    ]
-  },
-  {
-   "candidate": "Stephen Schiff",
-   "verdict": "ABSENT",
-   "near": []
   },
   {
    "candidate": "Steve Bannon",
@@ -6378,27 +6316,6 @@
    ]
   },
   {
-   "candidate": "Bill Moore",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "richard-doty",
-     "field": "narrative",
-     "context": "...He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police..."
-    },
-    {
-     "id": "richard-doty",
-     "field": "chronology",
-     "context": "...Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding di..."
-    },
-    {
-     "id": "jaime-shandera",
-     "field": "narrative",
-     "context": "...Shandera was a Los Angeles television producer working with Bill Moore when, on 11 December 1984, an unmarked envelope postmarked Albuquerqu..."
-    }
-   ]
-  },
-  {
    "candidate": "Bill Nelson",
    "verdict": "PROSE",
    "hits": [
@@ -6416,22 +6333,6 @@
      "id": "galileo-project--odni-preliminary-assessment-2021",
      "field": "note",
      "context": "...admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis...."
-    }
-   ]
-  },
-  {
-   "candidate": "Bob Bigelow",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "l-skinwalker",
-     "field": "source",
-     "context": "...Stranger Than Fiction \u2014 Bob Bigelow, AAWSAP, and the Years the Pentagon Investigated a Haunted Ranch..."
-    },
-    {
-     "id": "kona-blue",
-     "field": "source",
-     "context": "...Stranger Than Fiction \u2014 Bob Bigelow, AAWSAP, and the Years the Pentagon Investigated a Haunted Ranch..."
     }
    ]
   },
@@ -6612,17 +6513,6 @@
      "id": "david-grusch",
      "field": "chronology",
      "context": "...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III..."
-    }
-   ]
-  },
-  {
-   "candidate": "Chris Mellon",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "the-intercept--ttsa",
-     "field": "note",
-     "context": "...el's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen...."
     }
    ]
   },
@@ -6930,17 +6820,6 @@
    ]
   },
   {
-   "candidate": "Ed Condon",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "l-boulder-co",
-     "field": "sub",
-     "context": "...University of Colorado Boulder; host of the Air Force-funded Condon Committee, 1966-1969..."
-    }
-   ]
-  },
-  {
    "candidate": "Ed May",
    "verdict": "PROSE",
    "hits": [
@@ -7130,27 +7009,6 @@
      "id": "george-trimble",
      "field": "claim",
      "context": "...rding a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledg..."
-    }
-   ]
-  },
-  {
-   "candidate": "Hal Puthoff",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "robert-bigelow",
-     "field": "narrative",
-     "context": "...people carrying federal clearances and federal programme histories - Hal Puthoff from the CIA/DIA remote-viewing programmes, Colonel John Alexander fr..."
-    },
-    {
-     "id": "claudio-maccone",
-     "field": "narrative",
-     "context": "...anced aerospace threat\". Maccone had also previously co-authored with Hal Puthoff and Eric Davis on the Levi-Civita effect in the polarizable-vacuum re..."
-    },
-    {
-     "id": "george-miley",
-     "field": "narrative",
-     "context": "...h line for decades. That matters for how the DIRD set should be read. Hal Puthoff's own account of the commissioning, given at the Society for Scientif..."
     }
    ]
   },
@@ -8844,27 +8702,6 @@
    ]
   },
   {
-   "candidate": "Tom DeLong",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harold-puthoff",
-     "field": "narrative",
-     "context": "...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the anal..."
-    },
-    {
-     "id": "harold-puthoff",
-     "field": "chronology",
-     "context": "...Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice...."
-    },
-    {
-     "id": "harold-puthoff",
-     "field": "source",
-     "context": "...M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice..."
-    }
-   ]
-  },
-  {
    "candidate": "TR-3B",
    "verdict": "PROSE",
    "hits": [
@@ -9224,7 +9061,7 @@
   {
    "candidate": "Aaron Lucas",
    "verdict": "NODE",
-   "how": "one character apart",
+   "how": "given-name variant",
    "node_id": "aaron-lukas",
    "node_label": "Aaron Lukas",
    "cls": "person",
@@ -9483,6 +9320,15 @@
    "tier": "A"
   },
   {
+   "candidate": "Bill Moore",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "william-moore",
+   "node_label": "William L. Moore",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Black Vault",
    "verdict": "NODE",
    "how": "exact",
@@ -9508,6 +9354,42 @@
    "node_label": "AARO/DHS release: History and Origin of KONA BLUE",
    "cls": "document",
    "tier": "B"
+  },
+  {
+   "candidate": "Bob Bigelow",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "robert-bigelow",
+   "node_label": "Robert T. Bigelow",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Bob Hastings",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "robert-hastings",
+   "node_label": "Robert L. Hastings",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Bob Salas",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "robert-salas",
+   "node_label": "Capt. Robert L. Salas",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Bob Wood",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "robert-wood",
+   "node_label": "Robert M. Wood",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Boeing",
@@ -9555,6 +9437,15 @@
    "tier": "A"
   },
   {
+   "candidate": "Carl Nell",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "karl-nell",
+   "node_label": "Karl E. Nell",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Cecilia Levy",
    "verdict": "NODE",
    "how": "alias",
@@ -9584,7 +9475,7 @@
   {
    "candidate": "Charles Hall",
    "verdict": "NODE",
-   "how": "one character apart, within node",
+   "how": "given-name variant",
    "node_id": "charles-halt",
    "node_label": "Charles I. Halt",
    "cls": "person",
@@ -9598,6 +9489,24 @@
    "node_label": "Charles I. Halt",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "Chris Mellon",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "christopher-mellon",
+   "node_label": "Christopher K. Mellon",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Chris Sharp",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "christopher-sharp",
+   "node_label": "Christopher Sharp",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Christopher Mellon",
@@ -9708,6 +9617,15 @@
    "tier": "C"
   },
   {
+   "candidate": "Danny Sheehan",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "daniel-sheehan",
+   "node_label": "Daniel P. Sheehan",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "DARPA",
    "verdict": "NODE",
    "how": "alias",
@@ -9737,7 +9655,7 @@
   {
    "candidate": "David Grush",
    "verdict": "NODE",
-   "how": "one character apart, within node",
+   "how": "given-name variant",
    "node_id": "david-grusch",
    "node_label": "David Charles Grusch",
    "cls": "person",
@@ -9868,6 +9786,15 @@
    "node_label": "EarthTech International / Institute for Advanced Studies at Austin",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "Ed Condon",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "edward-condon",
+   "node_label": "Edward U. Condon",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Ed Dames",
@@ -10052,7 +9979,7 @@
   {
    "candidate": "Gary Nolan",
    "verdict": "NODE",
-   "how": "one character apart",
+   "how": "given-name variant",
    "node_id": "garry-nolan",
    "node_label": "Garry Nolan",
    "cls": "person",
@@ -10111,6 +10038,15 @@
    "node_label": "Groom Lake, Nevada",
    "cls": "location",
    "tier": "B"
+  },
+  {
+   "candidate": "Hal Puthoff",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "harold-puthoff",
+   "node_label": "Harold E. Puthoff",
+   "cls": "person",
+   "tier": "A"
   },
   {
    "candidate": "Harry Reid",
@@ -10428,11 +10364,29 @@
    "tier": "B"
   },
   {
+   "candidate": "Jim Lacatski",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "james-lacatski",
+   "node_label": "James T. Lacatski",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
    "candidate": "Jim Penniston",
    "verdict": "NODE",
    "how": "alias",
    "node_id": "jim-penniston",
    "node_label": "James W. Penniston",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Jim Ryder",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "james-ryder",
+   "node_label": "Dr. James Ryder",
    "cls": "person",
    "tier": "C"
   },
@@ -10448,7 +10402,7 @@
   {
    "candidate": "John Alexander",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "given-name variant",
    "node_id": "john-b-alexander",
    "node_label": "John B. Alexander",
    "cls": "person",
@@ -10743,6 +10697,15 @@
    "tier": "B"
   },
   {
+   "candidate": "Lou Elizondo",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "luis-elizondo",
+   "node_label": "Luis D. Elizondo",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
    "candidate": "Luis Elizondo",
    "verdict": "NODE",
    "how": "alias",
@@ -10808,7 +10771,7 @@
   {
    "candidate": "Mark Millis",
    "verdict": "NODE",
-   "how": "one character apart, within node",
+   "how": "given-name variant",
    "node_id": "marc-millis",
    "node_label": "Marc G. Millis",
    "cls": "person",
@@ -10826,7 +10789,7 @@
   {
    "candidate": "Michael Schellenberger",
    "verdict": "NODE",
-   "how": "one character apart",
+   "how": "given-name variant",
    "node_id": "michael-shellenberger",
    "node_label": "Michael Shellenberger",
    "cls": "person",
@@ -10853,7 +10816,7 @@
   {
    "candidate": "Mike Rogers",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "given-name variant",
    "node_id": "mike-rogers-al",
    "node_label": "Mike D. Rogers",
    "cls": "person",
@@ -11886,6 +11849,24 @@
    "tier": "B"
   },
   {
+   "candidate": "Stephen Greer",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "steven-greer",
+   "node_label": "Steven M. Greer",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Stephen Schiff",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "steven-schiff",
+   "node_label": "Steven H. Schiff",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Steve Justice",
    "verdict": "NODE",
    "how": "alias",
@@ -12019,6 +12000,15 @@
    "node_label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "Tom DeLong",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "tom-delonge",
+   "node_label": "Thomas Matthew DeLonge",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Tom DeLonge",
