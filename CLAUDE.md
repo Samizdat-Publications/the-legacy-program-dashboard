@@ -15,7 +15,12 @@ longer true.
 the gate. The counts below are a sanity anchor, not a source of truth.
 
 **Starting a fresh session?** Read `notes/HANDOFF-2026-09-01.md` after this. **It is the
-current one.** It points at `notes/AUDIT-FABLE-2026-09-01.md`, a 27-finding audit of the
+current one.** Then `notes/RETHINK-2026-09-02.md`: on 2 September Stewart asked for the
+whole dashboard to be rethought for sharing with research friends, and that note is the
+assessment, the proposal (entity first, the orthogonal map by default, the full graph only
+as a scoped neighbourhood, a new shell replacing the inherited one) and the phased plan.
+Its Design brief is `notes/DESIGN-BRIEF-SHELL-2026-09-02.md`; nothing in phases 1 to 5 is
+built until Design's mockups are in and Stewart has signed them off. It points at `notes/AUDIT-FABLE-2026-09-01.md`, a 27-finding audit of the
 whole repo with the fixes recorded in its section 2a, and at the transcript phase now
 running on Stewart's machine. `notes/HANDOFF-2026-08-30-NIGHT.md` is the one before it and
 is still accurate on the label fix, the OOM fix and the podcast tooling (this paragraph
