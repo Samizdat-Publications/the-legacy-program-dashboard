@@ -1,8 +1,8 @@
 {
  "counts": {
-  "NODE": 262,
-  "PROSE": 133,
-  "ABSENT": 434
+  "NODE": 274,
+  "PROSE": 146,
+  "ABSENT": 475
  },
  "results": [
   {
@@ -19,6 +19,18 @@
      "id": "skywatcher",
      "field": "claim",
      "context": "...ment war game he was running in 2021, whose deliverable was tactics, with a blue team fielding air-defence and counter-drone sy..."
+    }
+   ]
+  },
+  {
+   "candidate": "509th Bombardment Group",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "bombardment",
+     "id": "tr-ac-47-silver-bug",
+     "field": "claim",
+     "context": "...ritten by 'WADC, Directorate of Weapons Systems Operations, Bombardment Aircraft Division, New Development Office', an order to pro..."
     }
    ]
   },
@@ -195,6 +207,11 @@
    "near": []
   },
   {
+   "candidate": "Betty Sapp",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Bill Chalker",
    "verdict": "ABSENT",
    "near": []
@@ -257,9 +274,26 @@
    "near": []
   },
   {
+   "candidate": "Bob Monroe",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Body Snatchers in the Desert",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Boone, North Carolina",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "carolina",
+     "id": "louis-witten",
+     "field": "claim",
+     "context": "...g', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in..."
+    }
+   ]
   },
   {
    "candidate": "Borderland Sciences Research Associates",
@@ -312,7 +346,17 @@
    "near": []
   },
   {
+   "candidate": "Canadian Armed Forces",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Carlos Allende",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "CENTCOM",
    "verdict": "ABSENT",
    "near": []
   },
@@ -384,6 +428,24 @@
    "candidate": "Chronovizer",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Chuck Clark",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "chuck",
+     "id": "jared-moskowitz",
+     "field": "narrative",
+     "context": "...tt and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public ha..."
+    },
+    {
+     "token": "clark",
+     "id": "charles-halt",
+     "field": "source",
+     "context": "...David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the minis..."
+    }
+   ]
   },
   {
    "candidate": "Church of Scientology",
@@ -500,6 +562,11 @@
    "near": []
   },
   {
+   "candidate": "CTV",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Dan Aykroyd",
    "verdict": "ABSENT",
    "near": []
@@ -567,6 +634,11 @@
    "near": []
   },
   {
+   "candidate": "David Marlar",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Deep Submergence Rescue Vehicle",
    "verdict": "ABSENT",
    "near": [
@@ -595,6 +667,11 @@
   },
   {
    "candidate": "Deontay Wilder",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Department of National Defense",
    "verdict": "ABSENT",
    "near": []
   },
@@ -711,6 +788,11 @@
    "near": []
   },
   {
+   "candidate": "Dwayne Day",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Dwight D. Eisenhower",
    "verdict": "ABSENT",
    "near": []
@@ -776,6 +858,11 @@
    "near": []
   },
   {
+   "candidate": "Element 115",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Ellen Lord",
    "verdict": "ABSENT",
    "near": [
@@ -805,6 +892,11 @@
    ]
   },
   {
+   "candidate": "Emily Trem",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Eric A. Walker",
    "verdict": "ABSENT",
    "near": [
@@ -830,6 +922,18 @@
    "candidate": "F. Lee Bailey",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Falcon Lake",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "falcon",
+     "id": "gregory-guillot",
+     "field": "chronology",
+     "context": "...Establishes Falcon Peak counter-drone demonstration..."
+    }
+   ]
   },
   {
    "candidate": "Falcon Lake Incident",
@@ -863,6 +967,11 @@
   },
   {
    "candidate": "Fort Bragg",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Fort Detrick",
    "verdict": "ABSENT",
    "near": []
   },
@@ -914,6 +1023,35 @@
    "near": []
   },
   {
+   "candidate": "Future Imagery Architecture",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "FY23 National Defense Authorization Act",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "fy23",
+     "id": "aaro-historical-record-vol2",
+     "field": "claim",
+     "context": "...he National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired b..."
+    }
+   ]
+  },
+  {
+   "candidate": "FY23 National Intelligence Authorization Act",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "fy23",
+     "id": "aaro-historical-record-vol2",
+     "field": "claim",
+     "context": "...he National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired b..."
+    }
+   ]
+  },
+  {
    "candidate": "Gaia",
    "verdict": "ABSENT",
    "near": []
@@ -941,6 +1079,11 @@
      "context": "...l. On 6 July he reported it to Chaves County Sheriff George Wilcox, who called Roswell Army Air Field. RAAF dispatched Maj. Je..."
     }
    ]
+  },
+  {
+   "candidate": "Gateway Project",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Gene Huff",
@@ -980,6 +1123,11 @@
      "context": "...n 2007 after reading Kelleher and Knapp's 'Hunt for the Skinwalker', and by his own account the June 19, 2007 letter he sent B..."
     }
    ]
+  },
+  {
+   "candidate": "George W. Bush",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "George Williams",
@@ -1422,6 +1570,11 @@
    ]
   },
   {
+   "candidate": "Jimmy Kimmel",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Joe McMonagle",
    "verdict": "ABSENT",
    "near": []
@@ -1577,6 +1730,16 @@
    "near": []
   },
   {
+   "candidate": "Kevin Wright",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "KH-11",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Khabib Nurmagomedov",
    "verdict": "ABSENT",
    "near": []
@@ -1653,6 +1816,11 @@
    "near": []
   },
   {
+   "candidate": "Lee Spiegel",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Leo Sprinkle",
    "verdict": "ABSENT",
    "near": []
@@ -1661,6 +1829,18 @@
    "candidate": "Lew Allen",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Lisa Field",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "lisa",
+     "id": "luis-elizondo",
+     "field": "chronology",
+     "context": "...-Bigelow-CIA account and describing contractor domain specialisation..."
+    }
+   ]
   },
   {
    "candidate": "Lonnie Zamora",
@@ -1681,6 +1861,23 @@
    "candidate": "LTV Aerospace",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Luigi Vendittelli",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Marc Saint-Germain",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "saint",
+     "id": "paul-czysz",
+     "field": "narrative",
+     "context": "...n the National Aerospace Plane effort. He left industry for Saint Louis University, held the Oliver L. Parks Endowed Chair in..."
+    }
+   ]
   },
   {
    "candidate": "Marcel Vogel",
@@ -1716,6 +1913,11 @@
   },
   {
    "candidate": "Marriott Gateway",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Matt Ford",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1787,6 +1989,18 @@
    "near": []
   },
   {
+   "candidate": "Mitch Horowitz",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "mitch",
+     "id": "eric-davis",
+     "field": "narrative",
+     "context": "..., which surfaced in 2019 among the papers of the late Edgar Mitchell and describe a special access programme concealed from a..."
+    }
+   ]
+  },
+  {
    "candidate": "Monroe Institute",
    "verdict": "ABSENT",
    "near": []
@@ -1807,7 +2021,24 @@
    "near": []
   },
   {
+   "candidate": "Nancy McMoneagle",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "mcmoneagle",
+     "id": "l-sri",
+     "field": "desc",
+     "context": "...ote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the..."
+    }
+   ]
+  },
+  {
    "candidate": "NASA Kennedy Space Center",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "National UFO Historical Records Center",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1973,6 +2204,23 @@
    "near": []
   },
   {
+   "candidate": "Operation Fishbowl",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "fishbowl",
+     "id": "bluegill-triple-prime",
+     "field": "desc",
+     "context": "...in the candidates row, is Operation ARGUS 1958 and not the FISHBOWL report at all. And the report contains no unidentified obje..."
+    }
+   ]
+  },
+  {
+   "candidate": "Operation Moon Dust",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Oscar Wolf",
    "verdict": "ABSENT",
    "near": []
@@ -2133,6 +2381,11 @@
      "context": "...Disclosure Act. He was counsel to Harvard psychiatrist John Mack and to Steven Greer's Disclosure Project, and he represents..."
     }
    ]
+  },
+  {
+   "candidate": "Project Gravitor",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Project Looking Glass",
@@ -2306,12 +2559,22 @@
    "near": []
   },
   {
+   "candidate": "Ryan Bledsoe",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "S4",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "SAIC \u2014 Science Applications International Corporation",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "San Marino",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2393,6 +2656,11 @@
    "near": []
   },
   {
+   "candidate": "Special Operations Command",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Star Wars program",
    "verdict": "ABSENT",
    "near": []
@@ -2424,6 +2692,11 @@
   },
   {
    "candidate": "Stephen Lovekin",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Stephen Michalak",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2562,6 +2835,11 @@
    ]
   },
   {
+   "candidate": "United Launch Alliance",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "University of Manchester Institute of Science and Technology (UMIST)",
    "verdict": "ABSENT",
    "near": []
@@ -2590,6 +2868,11 @@
   },
   {
    "candidate": "US Commission on Civil Rights",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "US Department of State",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2692,6 +2975,11 @@
   },
   {
    "candidate": "Western Sydney University",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Whiteman Air Force Base",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2914,6 +3202,17 @@
    ]
   },
   {
+   "candidate": "ARV",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.gerb-mitre-investigation",
+     "field": "desc",
+     "context": "...Elizondo, McCandlish, Immaculate Constellation, Edgar Fouche, TR-3B, ARV, Dugway, Navy, Weygandt, SAIC, Aztec, Sandia, NRO, Sol Foundation, Ka..."
+    }
+   ]
+  },
+  {
    "candidate": "Avrocar",
    "verdict": "PROSE",
    "hits": [
@@ -3100,6 +3399,27 @@
    ]
   },
   {
+   "candidate": "Chrissy Newton",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "the-debrief",
+     "field": "desc",
+     "context": "...McMillan (Executive Director) and MJ Banias (Content Director), with Chrissy Newton, Chris Plain and contributors including Avi Loeb, it describes itself..."
+    },
+    {
+     "id": "the-debrief",
+     "field": "claim",
+     "context": "...Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb...."
+    },
+    {
+     "id": "sol-foundation",
+     "field": "source",
+     "context": "...Chrissy Newton, 'Academics, Investors, and UAP Seekers Unite at the 2024 Sol Foundat..."
+    }
+   ]
+  },
+  {
    "candidate": "CIA Directorate of Science and Technology",
    "verdict": "PROSE",
    "hits": [
@@ -3143,6 +3463,22 @@
    ]
   },
   {
+   "candidate": "Corey Goode",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "dird-traversable-wormholes-stargates-and-negative-energy",
+     "field": "claim",
+     "context": "...IRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis con..."
+    },
+    {
+     "id": "dird-warp-drive-dark-energy-and-the",
+     "field": "claim",
+     "context": "...IRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the re..."
+    }
+   ]
+  },
+  {
    "candidate": "Dark Skies",
    "verdict": "PROSE",
    "hits": [
@@ -3171,6 +3507,27 @@
      "id": "atomic-energy-act-1946",
      "field": "claim",
      "context": "...t shall be investigated by the Federal Bureau of Investigation of the Department of Justice.'..."
+    }
+   ]
+  },
+  {
+   "candidate": "Department of State",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "project-moon-dust",
+     "field": "desc",
+     "context": "...supporting the overseas collection, and it is documented in released Department of State cable traffic, one file of which was declassified by CIA. Its signifi..."
+    },
+    {
+     "id": "project-moon-dust",
+     "field": "claim",
+     "context": "...Department of State records on Project MOON DUST have been released under FOIA, including..."
+    },
+    {
+     "id": "project-moon-dust",
+     "field": "source",
+     "context": "...Project Moon Dust document archive (Department of State releases; one file declassified by CIA)..."
     }
    ]
   },
@@ -3753,6 +4110,22 @@
    ]
   },
   {
+   "candidate": "Jacques Vall\u00e9e",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "d-materials",
+     "field": "desc",
+     "context": "...them, would be very difficult to explain conventionally. Garry Nolan, Jacques Vall\u00e9e and colleagues published the methodology for exactly this test in Pro..."
+    },
+    {
+     "id": "operacao-prato",
+     "field": "claim",
+     "context": "...Jacques Vall\u00e9e reported that individuals were said to have been killed by the lights..."
+    }
+   ]
+  },
+  {
    "candidate": "James Fox",
    "verdict": "PROSE",
    "hits": [
@@ -4013,6 +4386,17 @@
      "id": "ms-cv-1988-rule11",
      "field": "text",
      "context": "...Judge James Lawrence King dismisses Avirgan v. Hull and orders Daniel Sheehan's Christic Instit..."
+    }
+   ]
+  },
+  {
+   "candidate": "Larry Maguire",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "entityInfo.sol-foundation",
+     "field": "desc",
+     "context": "...y Gallaudet, Jairus Victor Grove, Avi Loeb, Leslie Kean, Kevin Knuth, Larry Maguire MP, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Wals..."
     }
    ]
   },
@@ -4358,6 +4742,27 @@
    ]
   },
   {
+   "candidate": "NORAD",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "christopher-mellon",
+     "field": "narrative",
+     "context": "...sclosure Foundation, and the FY2026 NDAA's three UAP provisions - the NORAD/NORTHCOM intercept briefing requirement, the accounting for UAP secur..."
+    },
+    {
+     "id": "gregory-guillot",
+     "field": "narrative",
+     "context": "...what is flying over its own nuclear-capable bases. He took command of NORAD and US Northern Command in February 2024 and immediately made counter..."
+    },
+    {
+     "id": "gregory-guillot",
+     "field": "sub",
+     "context": "...General, USAF; Commander, NORAD and US Northern Command (Feb 2024- )..."
+    }
+   ]
+  },
+  {
    "candidate": "Office of Management and Budget",
    "verdict": "PROSE",
    "hits": [
@@ -4554,6 +4959,27 @@
    ]
   },
   {
+   "candidate": "RCMP",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "ocsa-canada",
+     "field": "desc",
+     "context": "..., the National Research Council's 1967-1990s collection role, and the RCMP, OPP and S\u00fbret\u00e9 du Qu\u00e9bec as de facto intake points, and it finds the..."
+    },
+    {
+     "id": "lac-ufo-collection",
+     "field": "desc",
+     "context": "...tment of National Defence material; RG 77, reels T-1741 to T-1744 for RCMP reports. The National Research Council's 'non-meteoritic sightings' f..."
+    },
+    {
+     "id": "lac-ufo-collection",
+     "field": "sub",
+     "context": "...15,000+ pages from DND, DOT, NRC and RCMP, 1947-1995..."
+    }
+   ]
+  },
+  {
    "candidate": "Richard Hall",
    "verdict": "PROSE",
    "hits": [
@@ -4630,6 +5056,27 @@
      "id": "t-2022-hearing",
      "field": "text",
      "context": "...At the House Intelligence subcommittee UAP hearing, Ronald Moultrie and Scott Bray are asked directly about the Wilson-Davis memo and the..."
+    }
+   ]
+  },
+  {
+   "candidate": "Roswell Army Air Field",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "howard-mccoy",
+     "field": "narrative",
+     "context": "...and the GAO's 1995 search never reached them because it was scoped to Roswell Army Air Field and headquarters-level holdings. McCoy is the name to pull on for any..."
+    },
+    {
+     "id": "walter-haut",
+     "field": "narrative",
+     "context": "...946, he became public information officer for the 509th Bomb Group at Roswell Army Air Field, and on 8 July 1947 base commander Col. William H. Blanchard - a clos..."
+    },
+    {
+     "id": "walter-haut",
+     "field": "claim",
+     "context": "...Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into poss..."
     }
    ]
   },
@@ -4800,6 +5247,27 @@
    ]
   },
   {
+   "candidate": "Strategic Air Command",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-salas",
+     "field": "claim",
+     "context": "...erican Alchemy with Jesse Michels, 9 February 2026, Michels said that Strategic Air Command 'wrote up a whole write up saying we're baffled and confused' about t..."
+    },
+    {
+     "id": "sac-overflights-1975",
+     "field": "desc",
+     "context": "...ober and early November 1975, unidentified objects were reported over Strategic Air Command weapons storage and alert areas and over Minuteman missile fields at..."
+    },
+    {
+     "id": "l-malmstrom",
+     "field": "desc",
+     "context": "...Strategic Air Command installation at Great Falls, Montana, controlling Minuteman ICBM laun..."
+    }
+   ]
+  },
+  {
    "candidate": "Suzanne Ramsey",
    "verdict": "PROSE",
    "hits": [
@@ -4890,6 +5358,17 @@
    ]
   },
   {
+   "candidate": "United Nations",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stanton-friedman",
+     "field": "narrative",
+     "context": "...tified in writing to a House committee in 1968, appeared twice at the United Nations, and donated his research files to the Provincial Archives of New Bru..."
+    }
+   ]
+  },
+  {
    "candidate": "United States Congress",
    "verdict": "PROSE",
    "hits": [
@@ -4927,6 +5406,27 @@
    ]
   },
   {
+   "candidate": "US Congress",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "charles-mccullough-iii",
+     "field": "claim",
+     "context": "...proper withholding and/or concealment of classified material from the US Congress.'..."
+    },
+    {
+     "id": "hearing-2026-06-30",
+     "field": "desc",
+     "context": "...e developments was executive-branch action taken without contemporaneous congressional testimony. The absence of a 2026 UAP hearing is itself the most..."
+    },
+    {
+     "id": "l-varginha",
+     "field": "desc",
+     "context": "...the Varginha case is testable against an open archive. In July 2026 a US congressman formally requested FBI and CIA holdings relating to the incident,..."
+    }
+   ]
+  },
+  {
    "candidate": "US Space Command",
    "verdict": "PROSE",
    "hits": [
@@ -4950,6 +5450,27 @@
      "id": "marik-von-rennenkampff--dod",
      "field": "note",
      "context": "...nt of Defense during the Obama administration and later worked in the US State Department.'..."
+    }
+   ]
+  },
+  {
+   "candidate": "Vandenberg Air Force Base",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "jeffrey-nuccetelli",
+     "field": "narrative",
+     "context": "...Force on 9 September 2025 he described serving as military police at Vandenberg Air Force Base, home of the National Missile Defense project, and receiving reports..."
+    },
+    {
+     "id": "jeffrey-nuccetelli",
+     "field": "claim",
+     "context": "...Described possible UAP incursions near Vandenberg Air Force Base between 2003 and 2005 during National Reconnaissance Office launches...."
+    },
+    {
+     "id": "vandenberg-2003",
+     "field": "desc",
+     "context": "...On 14 October 2003, Boeing contractors at Vandenberg Air Force Base - home of the National Missile Defense project - reported 'a massive,..."
     }
    ]
   },
@@ -6217,6 +6738,15 @@
    "tier": "C"
   },
   {
+   "candidate": "Langley Air Force Base",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-langley-afb",
+   "node_label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
    "candidate": "Lawrence Livermore National Laboratory",
    "verdict": "NODE",
    "how": "alias",
@@ -6334,6 +6864,33 @@
    "tier": "B"
   },
   {
+   "candidate": "Michael Schellenberger",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "michael-shellenberger",
+   "node_label": "Michael Shellenberger",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Michael Shellenberger",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "michael-shellenberger",
+   "node_label": "Michael Shellenberger",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Mike Rogers",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "mike-rogers-al",
+   "node_label": "Mike D. Rogers",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Mike Rounds",
    "verdict": "NODE",
    "how": "alias",
@@ -6348,6 +6905,15 @@
    "how": "alias",
    "node_id": "mike-turner",
    "node_label": "Michael R. Turner",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Mitch McConnell",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "mitch-mcconnell",
+   "node_label": "Mitch McConnell",
    "cls": "person",
    "tier": "B"
   },
@@ -6404,6 +6970,15 @@
    "node_label": "Section 8084 - NIP reprogramming notification against classified annex levels",
    "cls": "legislation",
    "tier": "C"
+  },
+  {
+   "candidate": "Nancy Mace",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nancy-mace",
+   "node_label": "Nancy Ruth Mace",
+   "cls": "person",
+   "tier": "A"
   },
   {
    "candidate": "NASA",
@@ -6512,6 +7087,15 @@
    "node_label": "Naval Air Station Patuxent River, Maryland",
    "cls": "location",
    "tier": "B"
+  },
+  {
+   "candidate": "Nellis Air Force Base",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-nellis",
+   "node_label": "Nellis Air Force Base and the Nevada Test and Training Range",
+   "cls": "location",
+   "tier": "C"
   },
   {
    "candidate": "Nellis Test and Training Range",
@@ -6665,6 +7249,15 @@
    "node_label": "Office of the Director of National Intelligence",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "Pat Ryder",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "pat-ryder",
+   "node_label": "Patrick S. Ryder",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Patuxent River Naval Air Station",
@@ -7054,6 +7647,15 @@
    "tier": "B"
   },
   {
+   "candidate": "Skinwalker Ranch",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "l-skinwalker",
+   "node_label": "Skinwalker Ranch, Uintah Basin, Utah",
+   "cls": "location",
+   "tier": "A"
+  },
+  {
    "candidate": "Sol Foundation",
    "verdict": "NODE",
    "how": "alias",
@@ -7088,6 +7690,15 @@
    "node_label": "Sperry Rand Corporation",
    "cls": "institution",
    "tier": "C"
+  },
+  {
+   "candidate": "SRI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "haines-cia-history",
+   "node_label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "cls": "document",
+   "tier": "B"
   },
   {
    "candidate": "SRI International",
@@ -7252,6 +7863,15 @@
    "tier": "C"
   },
   {
+   "candidate": "UAP Disclosure Act",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "uapda-2023",
+   "node_label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+   "cls": "legislation",
+   "tier": "A"
+  },
+  {
    "candidate": "UAP Gerb",
    "verdict": "NODE",
    "how": "alias",
@@ -7286,6 +7906,15 @@
    "node_label": "Vandenberg Space Force Base, California",
    "cls": "location",
    "tier": "B"
+  },
+  {
+   "candidate": "US Air Force",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
   },
   {
    "candidate": "US Department of Defense",

@@ -1353,6 +1353,21 @@
      "tier": 2,
      "text": "On American Alchemy with Jesse Michels, 13 June 2025, at 0:00:49, Michels said Gough was one of the primary sources of the Wall Street Journal article on Pentagon disinformation and UFO mythology, and alleged that her own LinkedIn profile 'along with independent sources' confirms a lead role in Booz Allen Hamilton's psychological operations consulting practice for the Department of Defense, her self-professed skills including strategic communication and psychological operations. The allegation rests on the speaker's reading of a profile page. No employment record was opened in this pass and nothing in the board's files corroborates it.",
      "source": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs', 13 June 2025, 0:00:49, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332"
+    },
+    {
+     "tier": 2,
+     "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+     "source": "Sue Gough, quoted by DefenseScoop, 25 February 2026"
+    },
+    {
+     "tier": 2,
+     "text": "The Department stated it has no record of a programme called Immaculate Constellation.",
+     "source": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing"
+    },
+    {
+     "tier": 3,
+     "text": "A holding in which roughly half the reports are unanalysed for want of data is a holding that cannot support the department's own repeated negative finding, since the negative finding is drawn only from the analysed half.",
+     "source": "Inference from Gough's February 2026 figures set against the FY2024 and FY2025 report conclusions"
     }
    ],
    "sources": [
@@ -1360,6 +1375,16 @@
      "name": "American Alchemy with Jesse Michels, 'The Wall Street Journal Is Gaslighting You On UFOs' (episode audio)",
      "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4839772690.mp3?updated=1750950332",
      "date": "2025-06-13"
+    },
+    {
+     "name": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2,000",
+     "url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+     "date": "2026-02-25"
+    },
+    {
+     "name": "AARO - FY2025 Consolidated Annual Report on UAP (PDF)",
+     "url": "https://documents2.theblackvault.com/documents/osd/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
+     "date": "2026-07-21"
     }
    ]
   },
@@ -1488,6 +1513,39 @@
      "name": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', episode audio",
      "url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
      "date": "2026-07-02"
+    }
+   ]
+  },
+  {
+   "id": "william-l-moore",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 2,
+     "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
+     "source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989"
+    },
+    {
+     "tier": 1,
+     "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA), archived copy",
+     "url": "https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/",
+     "date": "1997-01-01"
+    },
+    {
+     "name": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
+     "url": "https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/",
+     "date": "1988-01-01"
+    },
+    {
+     "name": "FBI Records: The Vault - 'Majestic 12'",
+     "url": "https://vault.fbi.gov/Majestic%2012",
+     "date": "2011-04-01"
     }
    ]
   }

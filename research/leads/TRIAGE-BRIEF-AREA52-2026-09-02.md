@@ -15,7 +15,7 @@ justify it. You do not open documents and you do not add anything to the board.
    A and E: that is the standard a candidate has to meet, and section E
    shows what a deliberate exclusion looks like.
 4. Your lead maps, `research/leads/area52-corpus-NN.md` (group 1 holds batches 01
-   to 05, group 2 06 to 10, group 3 11 to 14, group 4 15 to 19, group 5 20 to 23),
+   to 05, group 2 06 to 10, group 3 11 to 14, group 4 15 to 19, group 5 20 to 23, group 6 24 to 27),
    and your ABSENT list, `research/leads/area52-absent/group-G.tsv` (name, batch, and where the
    cross-check found a near miss in the board's prose).
 
