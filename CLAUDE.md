@@ -65,20 +65,20 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 
 | | |
 |---|---|
-| nodes | 1,000 (294 people · 706 entities) |
-| hand-written sourced edges | 2,270 |
-| tiered claims | 4,946 — T1 3,068 · T2 1,369 · T3 509 |
-| edge tiers | T1 1,466 · T2 597 · T3 207 |
-| unique source URLs | 3,243 |
+| nodes | 1,027 (300 people · 727 entities) |
+| hand-written sourced edges | 2,348 |
+| tiered claims | 5,120 — T1 3,214 · T2 1,394 · T3 512 |
+| edge tiers | T1 1,526 · T2 610 · T3 212 |
+| unique source URLs | 3,389 |
 | dead citations | 0 as of the 25 August sweep; not re-run since |
-| timeline events | 892 |
+| timeline events | 912 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
-| primary map | the force-directed full graph, all 1,000 nodes. **Inverted 29 August 2026** |
-| program map (L0) | 118 nodes, all with dossiers, on the PROGRAM tab |
-| map layout | Design's packed cells: 7 bands x 5 columns, 118 chips at one size |
+| primary map | the force-directed full graph, all 1,027 nodes. **Inverted 29 August 2026** |
+| program map (L0) | 125 nodes, all with dossiers, on the PROGRAM tab |
+| map layout | Design's packed cells: 7 bands x 5 columns, 125 chips at one size |
 | links drawn at rest | 108 of 343, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
-| built artifact | `dist/the-program.html`, 16.24 MB |
+| built artifact | `dist/the-program.html`, 16.04 MB |
 | gate | 56 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
 | analyst | live for every reader since 2 September 2026 via the Worker; `notes/ANALYST-2026-09-02.md` says why it never was before |
 
@@ -413,6 +413,21 @@ surface" includes markup, not just copy.
 ---
 
 ## 9. What is next, in priority order
+
+> **DONE, 2 September 2026 (afternoon): THE AREA 52 CORPUS BUILD.** 107 episodes of
+> AREA52 - DEBRIEFED, transcribed, mapped by 27 Sonnet agents, cross-checked, triaged by
+> six Opus agents, 35 candidates opened by seven Opus verifiers, decided in
+> `research/leads/CANDIDATES-2026-09-02-AREA52.md` under Stewart's blanket approval of
+> the day, built in `research/area52-2026-09-02.json`: 8 people, 22 entities, 79 edges,
+> 20 timeline events, 20 gaps. Board 1,000 -> 1,027 (three duplicate pairs collapsed:
+> william-moore, sue-gough, cia-haines-1997), claims 4,946 -> 5,120, L0 118 -> 125.
+> **Two corrections a next session must not undo:** `sapoc` was established on 5 January
+> 1994 with Deutch as chair (the November 1994 SAPOC bulletin), not on 1 July 2010; and
+> ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued
+> on 1 July 1961 with FTD constituted the same day, so "ATIC became FTD" is wrong.
+> `corpus_crosscheck.py` gained six rules the same day, each self-tested, after the
+> triage agents caught false NODE verdicts (a false NODE deletes a lead). Record:
+> `notes/HANDOFF-2026-09-01.md` section 9.
 
 > **DONE, 2 September 2026: THE MICHELS CORPUS BUILD.** 140 Jesse Michels episodes
 > transcribed on Stewart's machine, mapped by Sonnet subagents, triaged and verified by

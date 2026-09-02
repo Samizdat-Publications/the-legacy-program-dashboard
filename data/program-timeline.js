@@ -30,6 +30,17 @@ export const TIMELINE = [
     node: 'l-white-sands'
   },
   {
+    id: 'tl-1946-01-22-central-intelligence-group',
+    strand: 'oversight',
+    date: '1946-01-22',
+    precision: 'day',
+    tier: 'B',
+    node: 'sidney-souers',
+    label: 'Truman creates the Central Intelligence Group and the post of Director of Central Intelligence',
+    text: 'A Presidential directive on the coordination of foreign intelligence activities provides that personnel assigned from State, War and the Navy \'shall collectively form a Central Intelligence Group and shall, under the direction of a Director of Central Intelligence, assist the National Intelligence Authority\', the Director to be designated by the President and to sit as a non-voting member of the Authority. Rear Adm. Sidney W. Souers is the first holder and signs as Director of Central Intelligence within two weeks.',
+    source: 'Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71'
+  },
+  {
     id: 'tl-ffrdc-1946-rand',
     strand: 'program',
     date: '1946-03-01',
@@ -38,6 +49,17 @@ export const TIMELINE = [
     text: 'The Army Air Forces establish Project RAND inside Douglas Aircraft, inventing the contractor-operated analytical partner form that every institution in this domain would later copy.',
     tier: 'B',
     node: 'rand-corporation'
+  },
+  {
+    id: 'tl-1946-03-05-ukusa-agreement',
+    strand: 'oversight',
+    date: '1946-03-05',
+    precision: 'day',
+    tier: 'C',
+    node: 'ukusa-agreement-1946',
+    label: 'The British-U.S. Communication Intelligence Agreement is signed',
+    text: 'STANCIB and the London Signal Intelligence Board sign a twelve-paragraph agreement for unrestricted exchange of the products and methods of communications intelligence. It defines third parties as everyone outside the United States, the British Empire and the Dominions, and states that \'It will be contrary to this agreement to reveal its existence to any third party whatsoever.\' A search of all six numbered pages returns no occurrence of flying, saucer, unidentified, aerial phenomen or anomalous.',
+    source: 'Outline of British-U.S. Communication Intelligence Agreement, 5 March 1946, NSA UKUSA release copy, https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf'
   },
   {
     id: 'tl-1946-ghost',
@@ -50,6 +72,17 @@ export const TIMELINE = [
     node: 'project-sign'
   },
   {
+    id: 'tl-1946-08-01-office-of-naval-research',
+    strand: 'program',
+    date: '1946-08-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'office-of-naval-research',
+    label: 'The Office of Naval Research is created, the same day as the Atomic Energy Act',
+    text: 'Public Law 79-588, 60 Stat. 779, establishes an Office of Naval Research in the Office of the Secretary of the Navy, headed by a Chief of Naval Research appointed by the President with the advice and consent of the Senate. Section 6 frees its research contracting from five named sections of the Revised Statutes and from performance bonds; section 5(b) keeps obligated research appropriations available four further years. It carries the same approval date as the Atomic Energy Act of 1946 at 60 Stat. 755, not a date two days later.',
+    source: 'An Act to establish an Office of Naval Research in the Department of the Navy, Public Law 79-588, 60 Stat. 779, approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf'
+  },
+  {
     id: 'tl-1946-08-01-atomic-energy-act',
     strand: 'oversight',
     date: '1946-08-01',
@@ -59,6 +92,17 @@ export const TIMELINE = [
     label: 'Atomic Energy Act of 1946 makes classification a property of a category',
     text: 'Public Law 79-585, 60 Stat. 755, chapter 724, S. 1717, is approved. Section 10(b)(1) defines restricted data as all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material or its use in the production of power, excluding only what the Commission affirmatively determines may be published. Section 2(a) establishes the Atomic Energy Commission, section 9(a) transfers the Manhattan Engineer District\'s holdings to it, section 10(b)(4) reaches concealment and destruction with a capital penalty, and section 10(b)(5)(C) gives the FBI exclusive jurisdiction over violations.',
     source: 'Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf'
+  },
+  {
+    id: 'tl-1946-12-31-afswp-effective',
+    strand: 'program',
+    date: '1946-12-31',
+    precision: 'day',
+    tier: 'B',
+    node: 'afswp',
+    label: 'The Armed Forces Special Weapons Project takes effect, holding the military half of the Manhattan Project',
+    text: 'AFSWP is established by joint directive of the Secretaries of War and the Navy \'effective as of midnight 31 December 1946\', operating directly under the Army Chief of Staff and the Chief of Naval Operations and responsible for carrying on the military service functions of the Manhattan Project retained under armed forces control. The founding memorandum is signed on 29 January 1947 by Robert P. Patterson and James V. Forrestal; Major General Leslie R. Groves becomes first Chief on 28 February 1947. Its funds come by working fund advances from the Atomic Energy Commission out of money formerly available to the Manhattan Project.',
+    source: 'War Department Memorandum No. 850-25-8, 18 March 1947, reproduced in Appendix D of Defense\'s Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt'
   },
   {
     id: 'tl-1947-06-24',
@@ -361,6 +405,17 @@ export const TIMELINE = [
     node: 'project-bear'
   },
   {
+    id: 'tl-1951-04-04-psychological-strategy-board',
+    strand: 'coverup',
+    date: '1951-04-04',
+    precision: 'day',
+    tier: 'B',
+    node: 'gordon-gray',
+    label: 'Truman establishes the Psychological Strategy Board by secret directive',
+    text: 'A directive to the Secretary of State, the Secretary of Defense and the Director of Central Intelligence, classified secret, establishes a Board reporting to the National Security Council for the formulation of over-all national psychological objectives, policies and programmes. Its editorial footnote names the first Director: \'Gordon Gray, President of the University of North Carolina and former Secretary of the Army, was appointed Director of the new board.\' The same directive forbids the Board and the Director to perform any psychological operations themselves.',
+    source: 'Directive by the President to the Secretary of State, the Secretary of Defense (Marshall), and the Director of Central Intelligence (Smith), 4 April 1951, FRUS 1951 vol. I doc. 16, https://history.state.gov/historicaldocuments/frus1951v01/d16'
+  },
+  {
     id: 'tl-intl-1951-fswp',
     strand: 'program',
     date: '1951-06',
@@ -642,6 +697,17 @@ export const TIMELINE = [
     node: 'rias-inc'
   },
   {
+    id: 'tl-1955-09-07-institute-of-field-physics',
+    strand: 'program',
+    date: '1955-09-07',
+    precision: 'day',
+    tier: 'B',
+    node: 'institute-of-field-physics',
+    label: 'The Institute of Field Physics is incorporated, with an anti-gravity disclaimer written into its publicity',
+    text: 'The Institute receives its certificate of incorporation and is placed inside the physics department at the University of North Carolina at Chapel Hill under Bryce and Cecile DeWitt, funded principally by Agnew Bahnson. George Trimble and the Glenn L. Martin Company buy a Founder\'s Membership for 5,000 dollars. On John Wheeler\'s insistence a Protection Clause is attached to every publicity statement declaring that the work \'has no connection with so-called "anti-gravity research" of whatever kind and for whatever purposes\'.',
+    source: 'History of the Institute of Field Physics (1955-1959), Dean Rickles, UNC Chapel Hill Department of Physics and Astronomy department history, Section II, https://physics.unc.edu/department-history/section-ii/'
+  },
+  {
     id: 'tl-1956-nicap-incorporated',
     strand: 'oversight',
     date: '1956',
@@ -661,6 +727,17 @@ export const TIMELINE = [
     text: 'The participants list of the conference on the role of gravitation in physics prints \'Witten, L. | RIAS, Inc., Baltimore\' and \'Bass, R.W. | RIAS , Inc., Baltimore\'. The conference report is WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center. The participants record their own concern to avoid identification with anti-gravity research.',
     tier: 'B',
     node: 'rias-inc'
+  },
+  {
+    id: 'tl-1958-04-04-keyhoe-precedent',
+    strand: 'coverup',
+    date: '1958-04-04',
+    precision: 'day',
+    tier: 'B',
+    node: 'donald-keyhoe',
+    label: 'CIA resolves to route Keyhoe\'s UFO inquiries to the Air Force, and to make it a precedent',
+    text: 'A CIA memorandum for record on \'Comments on Letters Dealing with Unidentified Flying Objects\' notes that the Air Force was \'most insistent\' on answering his letters itself, that \'the Air Force is endeavoring to impress upon Major Keyhoe and others in a similar position, that his office is the proper place to come for such information\', and concludes: \'I think we can use this procedure as a precedent henceforth in all inquiries regarding UFO\'s.\'',
+    source: 'CIA memorandum for record, \'Comments on Letters Dealing with Unidentified Flying Objects\', CIA reading room document 0005516043, reading-room date 4 April 1958, https://archive.org/details/cia-readingroom-document-0005516043'
   },
   {
     id: 'tl-ffrdc-1958-mitre',
@@ -732,6 +809,17 @@ export const TIMELINE = [
     text: 'The Air Force establishes a named worldwide capability to collect and exploit unidentified objects and debris surviving re-entry, with a quick-reaction airlift arm routing material to technical intelligence at Wright-Patterson.',
     tier: 'B',
     node: 'project-moon-dust'
+  },
+  {
+    id: 'tl-1961-07-01-atic-discontinued-ftd-constituted',
+    strand: 'program',
+    date: '1961-07-01',
+    precision: 'day',
+    tier: 'C',
+    node: 'foreign-technology-division',
+    label: 'ATIC is discontinued and the Foreign Technology Division is constituted the same day',
+    text: 'The Air Force organizational-history record gives a discontinuation and a new constitution rather than a renaming: \'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961\', with the mission and resources absorbed by FTD on that date. The board\'s prose in more than one node says ATIC \'became\' FTD; the record calls it a discontinuation and an absorption. Carried at Tier 2 because the compilation is a private site citing the Air Force Historical Research Agency, whose own pages return 403 to this environment.',
+    source: 'AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf'
   },
   {
     id: 'ag-tl-1961-nro',
@@ -833,6 +921,17 @@ export const TIMELINE = [
     text: 'Three Air Force documents record unexplained aerial activity around Minot AFB, North Dakota, home of the 91st Strategic Missile Wing. Published in facsimile by Robert Hastings.',
     tier: 'A',
     node: 'minot-1966'
+  },
+  {
+    id: 'tl-1966-09-19-afr-80-17',
+    strand: 'program',
+    date: '1966-09-19',
+    precision: 'day',
+    tier: 'B',
+    node: 'foreign-technology-division',
+    label: 'AFR 80-17 assigns the Blue Book effort to the Foreign Technology Division by name',
+    text: 'Air Force Regulation 80-17 provides that \'The Air Force Systems Command will support the program with current resources within the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio, to continue Blue Book effort\', requires FTD to \'Analyze and evaluate all information and evidence reported to bases on those UFOs which are not identified at the base level\', and requires FTD to \'prepare a final case report on each sighting reported to it\'. Six months earlier the USAF Scientific Advisory Board\'s ad hoc committee had recorded the resources behind the whole programme as \'only one officer, a sergeant, and secretary\'.',
+    source: 'Air Force Regulation 80-17, Research and Development - UNIDENTIFIED FLYING OBJECTS (UFO), 19 September 1966, https://nicap.org/afr80-17.htm'
   },
   {
     id: 'tl-1966-10-06',
@@ -1053,6 +1152,17 @@ export const TIMELINE = [
     text: '\'Information transmission under conditions of sensory shielding\' appears in Nature vol. 251, pp. 602-607 - the open-literature face of a classified programme.',
     tier: 'A',
     node: 'harold-puthoff'
+  },
+  {
+    id: 'tl-1974-10-23-stic-charter',
+    strand: 'oversight',
+    date: '1974-10-23',
+    precision: 'day',
+    tier: 'B',
+    node: 'stic-usib',
+    label: 'The USIB charters a standing committee tasked with anomalies by name',
+    text: 'The charter of the Scientific and Technical Intelligence Committee records the renaming from the Scientific Intelligence Committee and lists among its Priority Group II objectives the \'Assessment and establishment of an Intelligence Community position regarding certain unidentified foreign activities and anomalies in the S&T area\'. The committee advises the United States Intelligence Board and coordinates collection and production in those areas. Nothing in the charter mentions the Robertson Panel.',
+    source: 'CHARTER, Scientific and Technical Intelligence Committee, 23 October 1974, CIA-RDP79M00098A000500020010-4, https://archive.org/download/cia-readingroom-document-cia-rdp79m00098a000500020010-4/cia-rdp79m00098a000500020010-4_djvu.txt'
   },
   {
     id: 'pc-1975-rich',
@@ -1476,6 +1586,17 @@ export const TIMELINE = [
     node: 'project-aquarius'
   },
   {
+    id: 'tl-1983-06-09-gateway-process-assessment',
+    strand: 'program',
+    date: '1983-06-09',
+    precision: 'day',
+    tier: 'B',
+    node: 'monroe-institute',
+    label: 'INSCOM puts a written assessment of the Monroe Institute\'s Gateway Process on the record',
+    text: 'A twenty-nine page memorandum from the US Army Operational Group, US Army Intelligence and Security Command, Fort George G. Meade, analyses the Gateway Experience on tasking from its own commander and states that it is meant as \'a useful guide for other USAINSCOM personnel who are required to take the Gateway training or work with Gateway materials\'. It names remote viewing as a follow-on technique inside the method and concludes that there is \'a sound, rational basis in terms of physical science parameters for considering Gateway to be plausible in terms of its essential objectives\'.',
+    source: 'Analysis and Assessment of Gateway Process, US Army Operational Group, INSCOM, 9 June 1983, CIA-RDP96-00788R001700210016-5, https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5'
+  },
+  {
     id: 'tl-1984-clear-intent',
     strand: 'program',
     date: '1984',
@@ -1554,6 +1675,17 @@ export const TIMELINE = [
     text: 'The Washington Post reports that the Pentagon\'s own unclassified P-1 document shows spending on an Air Force programme called Aurora rising from zero to $80 million in FY1986 and $2.27 billion in FY1987. Reminded that its own department had published the figures, an Air Force spokesman said his orders were to say only \'It\'s a classified program.\' Five years before the Aviation Week story.',
     tier: 'A',
     node: 'aurora-budget-line'
+  },
+  {
+    id: 'tl-1985-03-02-center-lane-deactivation',
+    strand: 'program',
+    date: '1985-03-02',
+    precision: 'day',
+    tier: 'B',
+    node: 'inscom',
+    label: 'INSCOM deactivates CENTER LANE and attaches its assets to DIA',
+    text: 'INSCOM notifies the Department of the Army of \'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname\', and asks HQDA to officially discontinue CENTER LANE \'as a Secretary of the Army designated Special Access Program\'. The initiative was INSCOM\'s own: its commanding general had recommended discontinuing the work in July 1984.',
+    source: 'Letter, Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt'
   },
   {
     id: 'tl-1985-06-sr4',
@@ -1719,7 +1851,7 @@ export const TIMELINE = [
     label: 'Moore admits the AFOSI collaboration',
     text: 'At the MUFON symposium Bill Moore tells the UFO community that he worked with Air Force counterintelligence and knowingly passed disinformation to Bennewitz in exchange for access.',
     tier: 'A',
-    node: 'william-moore'
+    node: 'william-l-moore'
   },
   {
     id: 'tl-1989-moore',
@@ -1750,6 +1882,17 @@ export const TIMELINE = [
     text: 'George Knapp reports Bob Lazar\'s account of working on recovered craft at S-4 near Groom Lake, employed through EG&G. The modern contractor-custody narrative starts here.',
     tier: 'B',
     node: 'eg-and-g'
+  },
+  {
+    id: 'tl-1990-03-31-belgian-f16-scramble',
+    strand: 'witness',
+    date: '1990-03-31',
+    precision: 'day',
+    tier: 'C',
+    node: 'belgian-af-f16-intercept-1990',
+    label: 'The Belgian Air Force scrambles F-16s during the Belgian wave',
+    text: 'The National Archives\' guide to the MoD UFO files opened in August 2009 states that the files \'reveal how in March 1990 the Belgian Air Force scrambled F-16 fighters to intercept UFOs reported by police officers and others\', and places a four-page account by General Wilfried de Brouwer, Chief of Operations, Belgian Air Staff, in DEFE 24/1960, confirming that the F-16 pilots obtained radar lock-ons but could not explain the phenomena. Malcolm Rifkind later told Lord Hill-Norton that the MoD was not informed at the time.',
+    source: 'The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf'
   },
   {
     id: 'bb-tl-1990-cfoact',
@@ -1874,6 +2017,17 @@ export const TIMELINE = [
     node: 'eo-12829'
   },
   {
+    id: 'tl-1993-03-31-cosford-incident',
+    strand: 'witness',
+    date: '1993-03-31',
+    precision: 'day',
+    tier: 'C',
+    node: 'cosford-incident-1993',
+    label: 'More than thirty sightings over central England in six hours, then a rocket re-entry',
+    text: 'The MoD\'s UFO desk had the RAF replay radar tapes and \'found nothing unusual had been detected\'; the Assistant Chief of the Air Staff was nonetheless briefed \'that there was evidence a UFO had evaded UK defences\'. The same official guide then records that \'It soon emerged that the majority of sightings were caused by the Russian rocket that launched the Cosmos 2238 satellite, re-entering the earths atmosphere.\' Both halves are in one paragraph of one guide.',
+    source: 'The National Archives, Highlights Guide to the MoD UFO files opened 17 August 2009, https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf'
+  },
+  {
     id: 'tl-1993-0514-haut',
     strand: 'witness',
     date: '1993-05-14',
@@ -1940,6 +2094,17 @@ export const TIMELINE = [
     node: 'l-groom-lake'
   },
   {
+    id: 'tl-1994-01-05-dod-sap-governance-change',
+    strand: 'oversight',
+    date: '1994-01-05',
+    precision: 'day',
+    tier: 'B',
+    node: 'dod-sap-reform-1994',
+    label: 'The Deputy Secretary of Defense stands up the SAPOC, sixteen years before the directive the board cites',
+    text: '\'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.\' The Joint Security Commission called the committee a \'recent formation\' on 28 February 1994. The board\'s sapoc node dated the committee to DoD Directive 5205.07 of 1 July 2010; the 2010 issuance re-established a body that had run since 1994.',
+    source: 'Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html'
+  },
+  {
     id: 'tl-1994-02-sr7',
     strand: 'program',
     date: '1994-02',
@@ -1948,6 +2113,17 @@ export const TIMELINE = [
     text: '\'Search for Proof in a Hall of Mirrors\', Stringfield\'s last, opens with Walter Scott\'s \'I say the tale as \'twas told to me\' and acknowledges the Fund for UFO Research, MUFON, CUFOS and the Mid-Ohio Research Associates. He dies ten months later.',
     tier: 'A',
     node: 'stringfield-status-reports'
+  },
+  {
+    id: 'tl-1994-06-09-nis-becomes-ncis',
+    strand: 'oversight',
+    date: '1994-06-09',
+    precision: 'day',
+    tier: 'C',
+    node: 'naval-criminal-investigative-service',
+    label: 'The Navy codifies the NCIS title, and it is not 1992',
+    text: 'A Department of the Navy final rule amends 32 CFR 701.5(e)(2)(iii)(B) by removing \'Commander, Naval Investigative Service Command\' and adding in its place \'Director, Naval Criminal Investigative Service\'. A Navy document published eight days earlier still lists the old title among the officers it designates. This is the earliest federal record of the new name reached by this pass; the commonly cited 1992 redesignation date is supported by nothing opened.',
+    source: 'Federal Register Doc 94-13966, Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public, 9 June 1994, https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents'
   },
   {
     id: 'tl-1994-07-weaver',
@@ -2187,7 +2363,7 @@ export const TIMELINE = [
     label: 'CIA publishes the U-2 cover-story admission',
     text: 'Gerald Haines\' Studies in Intelligence history states that Blue Book investigators knowingly attributed U-2 sightings to ice crystals and temperature inversions and that \'this led the Air Force to make misleading and deceptive statements to the public.\'',
     tier: 'A',
-    node: 'cia-haines-1997'
+    node: 'haines-cia-history'
   },
   {
     id: 'ag-tl-1997-haines',
@@ -2288,6 +2464,17 @@ export const TIMELINE = [
     text: 'Bigelow tells the Deseret News that anomalous aerial activity and animal deaths have continued around the ranch and that \'we wouldn\'t be there just for the weather,\' while declining to discuss specifics.',
     tier: 'A',
     node: 'robert-bigelow'
+  },
+  {
+    id: 'tl-1998-10-01-dtra-established',
+    strand: 'oversight',
+    date: '1998-10-01',
+    precision: 'day',
+    tier: 'B',
+    node: 'dtra',
+    label: 'The Defense Threat Reduction Agency is established, heir to AFSWP',
+    text: 'DTRA is established in the Department of Defense as a combat support agency by DoD Directive 5105.62 of 30 September 1998, consolidating the Defense Special Weapons Agency, the On-Site Inspection Agency, the Defense Technology Security Administration and OSD arms control elements. Its own history states the line: \'The nation\'s oldest defense agency thus lives on; MED to AFSWP to DAS A to DNA to DSWA to DTRA.\' The Atomic Energy Commission\'s own records are a separate National Archives group, RG 326, not RG 374.',
+    source: 'Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.1, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html'
   },
   {
     id: 'tl-intl-1999-cometa',
@@ -3430,6 +3617,17 @@ export const TIMELINE = [
     node: 'adam-research-project'
   },
   {
+    id: 'tl-2012-07-06-sapp-sworn-in-at-nro',
+    strand: 'oversight',
+    date: '2012-07-06',
+    precision: 'day',
+    tier: 'C',
+    node: 'betty-sapp',
+    label: 'Betty J. Sapp is sworn in as Director of the National Reconnaissance Office',
+    text: 'The Congressional Research Service\'s intelligence-community leadership roster records \'Director of the National Reconnaissance Office (D/NRO) Betty J. Sapp (sworn in July 6, 2012)\', with the appointment authority at 50 U.S.C. 3041(b)(2)(B) and 50 U.S.C. 3602(a)(2), and gives Christopher Scolese as nominated on 7 February 2019 in the same row. This is the NRO\'s first named officer on this board.',
+    source: 'CRS, U.S. Intelligence Community (IC): Appointment Dates and Appointment Legal Provisions for Selected IC Leadership, IF10538 version 6, 19 March 2019, Table 1, https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf'
+  },
+  {
     id: 'sap-tl-2013-dodi',
     date: '2013-02-06',
     label: 'DoDI 5205.11 issued — SAP management, administration and oversight',
@@ -3617,6 +3815,17 @@ export const TIMELINE = [
     text: 'Elizondo\'s annual evaluation rates him exemplary; his supervisor writes that it \'cannot be overstated the importance of Mr. Elizondo\'s portfolio to national security\' and credits him with neutralising six insider threats.',
     tier: 'B',
     node: 'luis-elizondo'
+  },
+  {
+    id: 'tl-2016-01-25-delonge-podesta-mccasland',
+    strand: 'witness',
+    date: '2016-01-25',
+    precision: 'day',
+    tier: 'B',
+    node: 'podesta-delonge-mccasland-email-2016',
+    label: 'DeLonge names Wright-Patterson and McCasland to Podesta in writing',
+    text: 'Under the subject line \'General McCasland\', Tom DeLonge writes to John Podesta: \'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.\' The same day\'s calendar thread for a DeLonge/Podesta meeting runs between Podesta and an address signing \'Neil McC\', copied to DeLonge, a Clinton campaign address and Rob Weiss of Lockheed Martin. Neither Prometheus nor Linda Moulton Howe appears anywhere in the release.',
+    source: 'WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099'
   },
   {
     id: 'tl-pais-imrd-filed',
@@ -5307,6 +5516,17 @@ export const TIMELINE = [
     text: 'OSD Public Affairs, through Susan Gough, states AARO has not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials - a statement bounded by AARO\'s discoveries, not the Department\'s knowledge.',
     tier: 'A',
     node: 'susan-gough'
+  },
+  {
+    id: 'tl-2023-06-07-defe-24-1940-closure-signed',
+    strand: 'coverup',
+    date: '2023-06-07',
+    precision: 'day',
+    tier: 'B',
+    node: 'jaric',
+    label: 'The MoD file covering the Calvine period is signed closed until 2076',
+    text: 'DEFE 24/1940, \'UFO reports\', 1 August 1990 to 31 January 1991, former reference D/Sec(AS)12/2 Part J, carries closure code 84 under the criterion \'Personal information where the applicant is a 3rd party\', a Freedom of Information Act exemption instrument signed on 7 June 2023, and a record opening date of 1 January 2076. The closure is the series norm rather than a singling out: the neighbouring files open between 2072 and 2077 on the same basis. A redacted digital copy, DEFE 24/1940/1, has been open since 20 October 2008 and would not download from this environment.',
+    source: 'The National Archives Discovery catalogue record for DEFE 24/1940, https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085'
   },
   {
     id: 'g-tl-2023-06-gough',

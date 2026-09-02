@@ -284,6 +284,166 @@
   "gap": "Whether James Clapper was briefed on any material beyond the DIRD deliverables before recommending against the SAP in November 2009. He has never been asked on the record about the memorandum bearing his recommendation."
  },
  {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-willcutts-report-1949",
+   "text": "The Willcutts Report, the United States Navy board of investigation into James V. Forrestal's death in 1949, is NOT OPENED, and with it the claim that his medical records are sealed to this day. An Internet Archive catalogue search for 'Willcutts' returns seventeen unrelated items; a National Archives catalogue search returns 192 records, none of them a board of investigation into his death.",
+   "wouldClose": "Princeton's finding aids for the Forrestal papers, which are behind a bot wall from this environment, or the National Archives holdings of Bureau of Medicine and Surgery records."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-calvine-jaric-assessment",
+   "text": "The JARIC assessment of the Calvine photographs that Nick Pope describes, including the figure of 75 feet across and the conclusion of a solid structured craft, is NOT OPENED. No JARIC report, MoD minute, figure or conclusion of any kind about those photographs was reached.",
+   "wouldClose": "DEFE 24/1940, which is closed at Kew until 1 January 2076, or its open redacted digital copy DEFE 24/1940/1, which four download routes on discovery.nationalarchives.gov.uk returned 404, 500, 500 and a zero-byte 202 for, and which WebFetch returned no content from. theblackvault.com returned 403 to searches for both Calvine and JARIC."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-menzel-friedman-clearances",
+   "text": "Stanton Friedman's April 1986 finding in Donald H. Menzel's Harvard papers, a thirty-year NSA association and a CIA Top Secret Ultra clearance, is NOT OPENED. So is the claim that Menzel made government-funded visits to New Mexico in 1947 and 1948.",
+   "wouldClose": "The Menzel papers at the Harvard University Archives, which were not reached. nsa.gov refuses this environment, the CIA reading-room mirror on archive.org is addressable only by document number, and the Internet Archive full-text search endpoint did not resolve."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-bronk-national-research-council",
+   "text": "Detlev W. Bronk's chairmanship of the National Research Council is NOT OPENED. The National Academy of Sciences presidency 1950 to 1962 and the NACA vice chairmanship are both documented; the NRC post is not.",
+   "wouldClose": "The National Academies' own officer record. nasonline.org returns 403 to this environment, the National Academies Press search page returns no parseable results, and no government publication reached here names him in the post."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-keyhoe-1969-end-and-cbs-cut",
+   "text": "The 1969 end of Donald Keyhoe's NICAP directorship is NOT OPENED; no opened record gives an end date, and the last record of him in post is NICAP's May 1964 volume. The 22 January 1958 CBS broadcast in which his audio is said to have been cut mid-sentence is also NOT OPENED.",
+   "wouldClose": "NICAP's own organisational records after 1964, and a network or contemporaneous government record of the 1958 broadcast. The 1964 volume, searched for CBS, Armstrong Circle and censored, carries nothing on it."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-john-pina-craven",
+   "text": "John Pina Craven is NOT OPENED and no node is built for him. He appears in none of seven DSSP-era Navy and DTIC reports reached, and the corpus places him at the Special Projects Office, which is the office the Secretary of the Navy assigned DSSP to. Gerb's 20,000 foot figure belongs to the Deep Submergence Search Vehicle, not to the rescue vehicle, and the phrase 'Project Sand Dollar' occurs in none of the four DSSP documents opened.",
+   "wouldClose": "A Navy service record, an appointment order or an official Navy history naming him as Chief Scientist of the Special Projects Office. The DTIC mirror on archive.org returns 23 items for Craven, all by a different author on auroral physics; the NASA Technical Reports Server returns zero. The FBI file on John P. Craven at archive.org establishes identity and nothing about the Navy."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-nuro-1969-agreement",
+   "text": "The National Underwater Reconnaissance Office and the 1969 Navy and CIA agreement said to have created it are NOT OPENED, and no node is built. The board's existing unresolved NURO line on bobby-ray-inman stays as written.",
+   "wouldClose": "An NRO or CIA record naming the office. nro.gov returns 403 to this environment and its reading room loops; the archive.org mirror of the CIA reading room returns two hits for the phrase, both the same 1962 translated Soviet article on submarine reconnaissance; the Center for the Study of National Reconnaissance almanac downloaded whole from govinfo has zero occurrences of underwater or NURO; irp.fas.org returns 404 at the agency and collection-program paths."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-eric-a-walker-rdb",
+   "text": "Eric A. Walker as Executive Secretary of the Research and Development Board is NOT OPENED and no node is built. No record naming him in that post was reached.",
+   "wouldClose": "The National Academy of Engineering Memorial Tributes volume 8, whose Eric A. Walker tribute at pages 280 to 285 exists in the reader but whose page images are placeholders and whose text did not open at either URL tried, or a Research and Development Board organisational record."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-ronald-pandolfi",
+   "text": "Ronald Pandolfi is NOT OPENED and no node is built. No record was reached stating a position of record for him at CIA, at its Directorate of Science and Technology, or at ODNI.",
+   "wouldClose": "A CIA or ODNI FOIA response giving position of record, or a CREST document bearing the surname. cia.gov/readingroom returns a 302 loop from this environment, the archive.org mirror restricted to the reading-room collection returns zero results for the name, and theblackvault.com site search returned the site shell with no result list."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-inscom-1977-establishment-order",
+   "text": "The 1977 establishment order for the US Army Intelligence and Security Command is NOT OPENED. The dateStart on the inscom node is the year INSCOM's own memorandum gives for the start of its psychoenergetics work, not for the command itself.",
+   "wouldClose": "The 1977 Army general order and the INSCOM lineage and honors record, at the National Archives or the Army Center of Military History. Searches of the CIA reading-room collection for the phrases that would carry the activation returned nothing."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-perry-deputy-secretary-1994",
+   "text": "William J. Perry's role in the 5 January 1994 special access programme governance change is NOT OPENED. The bulletin names only 'the Deputy Secretary of Defense' for that date and names Deutch in November 1994; the only record opened that places Perry in any office places him as Secretary of Defense on 28 February 1994.",
+   "wouldClose": "Senate nomination records, the bound Congressional Record for early March 1993 on govinfo, or a departmental order. congress.gov returns 403 to both curl and WebFetch from this environment and the govinfo search API rate-limits on DEMO_KEY."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-ukusa-2010-nsa-gchq-release",
+   "text": "The joint NSA and GCHQ release of the UKUSA files in 2010 is NOT OPENED. The copy of the 5 March 1946 agreement read for this pass carries NSA declassification markings and comes from a mirror of the NSA release, but no record of the release event itself was opened.",
+   "wouldClose": "The NSA UKUSA release page or The National Archives' own 2010 release notice. nsa.gov refuses this environment."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-dtra-aec-ufo-records",
+   "text": "The claim relayed on Debriefed that old Atomic Energy Commission records held within DTRA concluded some UFOs were of non-human origin is NOT OPENED and is unsupported by anything reached. No title, number or date was given for it. The Commission's own records are a separate National Archives group, RG 326, and DTRA's published Privacy Act inventory of what it holds from that era is nuclear test participation, exposure and human radiation experimentation records.",
+   "wouldClose": "A DTRA FOIA response or a records-schedule entry naming a holding of the kind described, or an RG 326 finding aid showing such material in DTRA custody."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-betty-sapp-earlier-offices",
+   "text": "Betty J. Sapp's 2007 Deputy Under Secretary of Defense post, her oversight of the Military Intelligence Program, her CIA service from 1997 and the A-10 engine manager posting at Wright-Patterson are all NOT OPENED. Only the NRO directorship and its start date reached a record.",
+   "wouldClose": "Her own NRO biography and her statements for the record. nro.gov returned 403 to curl and to WebFetch alike at both the director biography and the 2014 testimony PDF; the govinfo search API answered OVER_RATE_LIMIT on every attempt and congress.gov/search is behind a Cloudflare challenge, so no full-text sweep for a hearing print carrying an earlier title was possible."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-nufohrc-falcon-lake-custody",
+   "text": "The custody the Area 52 corpus attributes to the National UFO Historical Records Center over the Falcon Lake case material, Stephen Michalak's shirt, his glove and a soil sample, is NOT OPENED. Neither Falcon Lake nor Michalak appears anywhere on the Center's home, collections or team pages, and the site names no individual artefact at all. No Falcon Lake or Michalak node is built. The stated access terms, by request to researchers and historians and mainly in January, are also on no page of the site.",
+   "wouldClose": "An accession record or a published finding aid from the Center, or a deed of gift from the Michalak family."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-nufohrc-state-and-irs-registration",
+   "text": "The Center's 501(c)(3) status and its New Mexico incorporation are its own assertion about itself and are NOT OPENED as a state or federal record.",
+   "wouldClose": "The New Mexico Secretary of State business registry or the IRS Tax Exempt Organization Search. enterprise.sos.nm.gov answers but is a single-page application whose search runs through an API this pass could not address, portal.sos.state.nm.us did not connect, and apps.irs.gov returned Access Denied to every query."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-ncis-1992-redesignation-date",
+   "text": "The 1992 redesignation of the Naval Investigative Service Command as the Naval Criminal Investigative Service, and the Secretary of the Navy instruction that established NIS in the first place, are NOT OPENED. The date is deliberately absent from the node rather than carried on the triage row's word.",
+   "wouldClose": "SECNAVINST 5430.107, which the FAS index lists at 28 December 2005 in 20 pages but whose PDF returns a zero-byte HTTP 202, or the NCIS history page, which returns 403. The Federal Register full-text index begins on 1 January 1994, so a 1992 or 1993 notice cannot be found that way."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-ltv-aerospace-corporate-record",
+   "text": "LTV Aerospace's own corporate record is NOT OPENED. The chain the corpus asserts runs LTV Aerospace to E-Systems to Raytheon; the filings name LTV Electrosystems as the predecessor, place Edward C. Aldridge nowhere among E-Systems' ten directors, and describe a listed NYSE contractor rather than a CIA proprietary.",
+   "wouldClose": "Delaware or Texas corporate records, or the LTV Chapter 11 docket. EDGAR's company search returns no LTV Aerospace filer; the LTV entities that appear are Ohio steel companies and unrelated blank-check shells."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-de-brouwer-rank-and-office",
+   "text": "Wilfried de Brouwer is NOT DRAFTED as a node. The triage row's rank and office are contradicted by the only record that names him: The National Archives gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff', not the rank or office the row asserted, and no record of any public statement by him rejecting a mass-hysteria explanation was opened. He is carried as text inside the belgian-af-f16-intercept-1990 node instead.",
+   "wouldClose": "A Belgian Air Force service record or the DEFE 24/1960 account itself, neither of which was opened; only The National Archives' description of that account was."
+  }
+ },
+ {
+  "domain": "area52-2026-09-02",
+  "gap": {
+   "id": "gap-future-imagery-architecture-and-kh-11",
+   "text": "Future Imagery Architecture and KH-11 / KENNAN are NOT BUILT. FIA reached only a single sentence in a 2003 SSCI audit mention in S. Rept. 109-360; its cancellation, cost and contractor are NOT OPENED across four further SSCI reports, so a programme node would rest on one sentence. Every route the triage row named for KH-11 is walled or empty.",
+   "wouldClose": "A Senate or House intelligence committee report carrying the FIA cancellation and its cost, or an NRO declassification release for the KH-11 programme. nro.gov refuses this environment."
+  }
+ },
+ {
   "domain": "aviators-incidents",
   "gap": "No primary record has been located for the alleged confiscation of USS Princeton recording media after 14 November 2004. Targets: Princeton quarterdeck and deck logs for 14-18 Nov 2004, any unscheduled embarkation record, CSG-11 message traffic, and the Aegis/CEC data retention schedule for that period. This is the single highest-value open item on the domain."
  },
