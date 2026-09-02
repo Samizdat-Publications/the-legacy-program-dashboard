@@ -504,7 +504,23 @@ def _title_is_this_board(b, html):
 _M = re.match(r'(x)', 'x')   # a never-None match, so the fallbacks above read
                               # 'unknown' rather than raising inside a check
 
-@check("the built page fetches nothing at runtime")
+@check("every Tier A node rests on at least one sourced URL")
+def _tier_a_sourced(b, html):
+    """regrade.py's centrality() says 'a node with no sources cannot be Tier A' and
+    then multiplies the score by 0.35, which is a discount, not an exclusion: a
+    node with forty connections and full axis scores could still clear the top
+    15% cut with no URL anywhere on it. regrade.py now forces such a node to B;
+    this asserts the outcome on the shipped board rather than trusting the pass."""
+    bad = []
+    for n in b["people"] + b["entities"]:
+        if n.get("tier") != "A":
+            continue
+        if not any((s or {}).get("url") for s in (n.get("sources") or [])):
+            bad.append(f"{n['id']} is Tier A with no sourced URL")
+    return bad[:40]
+
+
+@check("no declared resource fetches a remote host")
 def _no_runtime_fetch(b, html):
     """CLAUDE.md's first line about this artifact is "single self-contained HTML
     file, no server, no runtime deps". Until 26 August 2026 that was not true, and
@@ -543,6 +559,28 @@ def _no_runtime_fetch(b, html):
         if re.match(r"^(https?:)?//|^[a-z][a-z0-9+.-]*:", u, re.I) and \
            not u.lower().startswith(("data:", "blob:", "about:")):
             bad.append(f"css url() loads {u[:80]!r}")
+    return sorted(set(bad))[:20]
+
+
+@check("the only runtime fetch targets are the analyst's")
+def _fetch_targets(b, html):
+    """The check above screens what the markup DECLARES. Since 29 August the board
+    also calls fetch() from script: the analyst health probe, the analyst
+    endpoint, and api.anthropic.com for a reader's own key. Those three are the
+    whole list. Anything else appearing in a fetch( call is a regression --
+    telemetry, a font, a tracker that came in with a patch -- and the declared-
+    resource check cannot see it. Until 1 September that check's name promised
+    'fetches nothing at runtime', which had stopped being true."""
+    ALLOWED = (
+        "fetch(o + '/api/analyst/health')",          # the discovery loop, two origins
+        "fetch(S.analystEndpoint,",                   # the worker
+        "fetch('https://api.anthropic.com/v1/messages',",  # a reader's own key
+    )
+    bad = []
+    for m in re.finditer(r"\bfetch\(([^\n]{0,80})", html):
+        call = "fetch(" + m.group(1)
+        if not any(call.startswith(a) for a in ALLOWED):
+            bad.append("unexpected fetch target: " + call[:90])
     return sorted(set(bad))[:20]
 
 
@@ -629,14 +667,26 @@ def _copy(b, html):
     states a fact about the data is data, and drifts like data."""
     bad = []
     classes = {n["cls"] for n in b["entities"]} | {"person"}
-    words = {5: "Five", 8: "Eight", 9: "Nine", 12: "Twelve", 4: "Four", 3: "Three"}
-    want = words.get(len(classes))
+    # Every count has a word. Until 1 September 2026 this was a six-entry table
+    # ({3,4,5,8,9,12}) and at any other count `want` was None, the condition
+    # short-circuited and the check passed on anything -- the board happens to
+    # have eight classes, so it worked by coincidence, and the self-test fixture
+    # always built eight, so the blind branch was never poisoned.
+    words = {0: "No", 1: "One", 2: "Two", 3: "Three", 4: "Four", 5: "Five", 6: "Six",
+             7: "Seven", 8: "Eight", 9: "Nine", 10: "Ten", 11: "Eleven", 12: "Twelve",
+             13: "Thirteen", 14: "Fourteen", 15: "Fifteen", 16: "Sixteen"}
+    word = lambda n: words.get(n, str(n))
+    want = word(len(classes))
     m = re.search(r"(\w+) entity classes are clickable", html)
-    if m and want and m.group(1) != want:
+    if not m:
+        bad.append("the DETAIL panel copy about entity classes is not in the built file")
+    elif m.group(1) != want:
         bad.append(f"copy says {m.group(1)!r} entity classes; data has {len(classes)} ({want})")
     strands = {t.get("strand") for t in b.get("timeline", []) if t.get("strand")}
     m2 = re.search(r"(\w+) strands on one axis", html)
-    if m2 and words.get(len(strands)) and m2.group(1) != words[len(strands)]:
+    if not m2:
+        bad.append("the timeline copy about strands is not in the built file")
+    elif m2.group(1) != word(len(strands)):
         bad.append(f"copy says {m2.group(1)!r} strands; data has {len(strands)}")
     return bad
 
@@ -2160,11 +2210,15 @@ def self_test():
              "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),
         "claim tiers are valid and Tier 1 is sourced": mut(lambda b: b["people"][0]["claims"].append(
             {"tier": 1, "text": "x", "source": ""})),
-        "UI copy agrees with the data": base,   # paired with a poisoned html below
+        # seven classes against copy that says Eight: the count the old six-entry
+        # word table did not know, where the check used to pass on anything
+        "UI copy agrees with the data": mut(lambda b: b["entities"].pop()),
         "the built file contains the data it claims": base,
+        # a Tier A node with no sourced URL: the 0.35 discount let one through
+        "every Tier A node rests on at least one sourced URL": mut(
+            lambda b: b["entities"][0].update(tier="A", sources=[{"name": "a recollection"}])),
     }
-    poison_html = {"UI copy agrees with the data": "Five entity classes are clickable: x. "
-                                                   "Four strands on one axis. PROGRAM_EDGES TIMELINE",
+    poison_html = {
                    # present, but with every node id stripped out
                    "the built file contains the data it claims":
                        "Eight entity classes are clickable: x. Four strands on one axis. "
@@ -2291,9 +2345,12 @@ def self_test():
                    good_html, count=1, flags=re.S | re.I),
         # The exact three tags that shipped for six sessions. Reintroducing them is
         # the failure this check exists for, so the poison IS the historical bug.
-        "the built page fetches nothing at runtime":
+        "no declared resource fetches a remote host":
             '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono'
             ':wght@400;500;600&display=swap" rel="stylesheet">\n' + good_html,
+        # a fetch() to a host that is not one of the analyst's two endpoints
+        "the only runtime fetch targets are the analyst's":
+            good_html + "\nfetch('https://telemetry.example/collect', {method:'POST'});\n",
         # One weight dropped. The page still renders, still has @font-face rules,
         # and every 600-weight label is quietly fitted against the wrong metrics --
         # which is why counting faces is not enough on its own.

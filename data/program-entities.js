@@ -657,7 +657,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 207 of 980, score 41). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 176 of 980, score 44). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -673,6 +673,11 @@ export const INSTITUTIONS = [
         tier: 1,
         text: 'DoDI 5205.11 para 3.5.a.(3): the SAPOC shall \'Conduct an annual review of DoD SAPs to assess the continuing need for protection of CPI within SAP security controls, in accordance with E.O. 13526 and DoDD 5205.07\', and para 3.5.a.(3)(d) extends that review to \'All waived DoD SAPs to determine the need for continued waived status.\'',
         source: 'https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf'
+      },
+      {
+        tier: 1,
+        text: 'DoDD 5205.07 (2010) para 4.b: \'The Special Access Program Oversight Committee (SAPOC), hereby established, shall advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs.\'',
+        source: 'DoDD 5205.07 (2010), para 4.b'
       },
       {
         tier: 1,
@@ -748,7 +753,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 220 of 980, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 221 of 980, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -824,7 +829,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 291 of 980, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 292 of 980, score 35). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -1022,7 +1027,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 311 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 312 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -1098,7 +1103,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 43 of 980, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
+    tierRationale: 'Re-graded A on a global pass (rank 45 of 980, score 82). 13 connections, 6 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -1458,7 +1463,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 44 of 980, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 46 of 980, score 82). 17 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -1888,7 +1893,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 46 of 980, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded A on a global pass (rank 48 of 980, score 80). 19 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -2091,7 +2096,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 293 of 980, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 294 of 980, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2208,7 +2213,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 313 of 980, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 314 of 980, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -2611,7 +2616,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 221 of 980, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 222 of 980, score 40). 11 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -2866,7 +2871,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 338 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 339 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -3190,7 +3195,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 315 of 980, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 316 of 980, score 34). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -3251,7 +3256,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 212 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 213 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -4465,7 +4470,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 316 of 980, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 317 of 980, score 34). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A1/D2.',
     claims: [
       {
         tier: 1,
@@ -5063,7 +5068,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 341 of 980, score 33). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 342 of 980, score 33). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5109,7 +5114,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 318 of 980, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 319 of 980, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -5565,7 +5570,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 177 of 980, score 44). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 178 of 980, score 44). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5636,7 +5641,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 190 of 980, score 43). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 191 of 980, score 43). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -5891,7 +5896,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 237 of 980, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 238 of 980, score 39). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -6188,7 +6193,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 300 of 980, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 301 of 980, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -7205,7 +7210,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 227 of 980, score 40). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 228 of 980, score 40). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -7343,7 +7348,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 345 of 980, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 346 of 980, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -8994,7 +8999,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 303 of 980, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 304 of 980, score 35). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -9050,7 +9055,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 191 of 980, score 43). 13 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 192 of 980, score 43). 13 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -9254,7 +9259,7 @@ export const INSTITUTIONS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 229 of 980, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 230 of 980, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -10458,7 +10463,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 48 of 980, score 79). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 36 of 980, score 88). 13 connections, 1 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -10471,6 +10476,16 @@ export const PROGRAMS = [
         source: 'Correction logged 12 Aug 2026; see notes/WAVE3_QUEUE.md'
       },
       {
+        tier: 1,
+        text: 'NEGATIVE PRIMARY FINDING: a full-text search of the released AARO Historical Record Report Volume I (63 pp., DOPSR-cleared 6 Mar 2024) returns zero hits for \'Yankee\', \'Kirtland\', \'AFOSI\', \'Office of Special Investigations\', \'initiation\' and \'hazing\'. Yankee Blue is NOT documented in HRR Volume I. Any citation of Volume I as the source for the Yankee Blue / Kirtland-AFOSI account is incorrect.',
+        source: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF'
+      },
+      {
+        tier: 1,
+        text: 'The only named sensitive programs disclosed in HRR Volume I\'s Section VI (\'Investigation into Named USG Sensitive Programs\', pp. 33-36) are KONA BLUE, the Virtual Institute for Satellite Integration Training, and an unnamed IC Controlled Access Program \'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission\'. Yankee Blue is not among them.',
+        source: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF'
+      },
+      {
         tier: 3,
         text: 'Yankee Blue therefore has no Tier 1 anchor in the AARO documentary record as of 12 Aug 2026. The public account rests on June 2025 press reporting and on statements attributed to AARO officials describing an Air Force hazing/indoctrination practice at Kirtland AFB in which personnel were falsely read into a non-existent UAP program; the underlying memo has not been released. Reasoning: direct full-text verification against the only AARO report that could plausibly have contained it, plus the absence of any Yankee Blue reference in the FY2023, FY2024 and FY2025 annual reports (also searched, zero hits).',
         source: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF'
@@ -10479,6 +10494,11 @@ export const PROGRAMS = [
         tier: 1,
         text: 'OSD\'s final response in FOIA case 25-F-3514 (September 2025) stated that after \'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified\' regarding the alleged spring 2023 cessation memo.',
         source: 'OSD FOIA response, case 25-F-3514, September 2025'
+      },
+      {
+        tier: 1,
+        text: 'In case 2025-06002-F, AFOSI stated it found \'no records\' of investigative reports, summaries or closure memos tied to \'Yankee Blue.\'',
+        source: 'AFOSI FOIA response, case 2025-06002-F, 2025'
       },
       {
         tier: 1,
@@ -11746,7 +11766,7 @@ export const PROGRAMS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 199 of 980, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 200 of 980, score 42). 4 connections, 1 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C2/A3/D0.',
     claims: [
       {
         tier: 1,
@@ -12194,7 +12214,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 202 of 980, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 203 of 980, score 42). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -12476,7 +12496,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 189 of 980, score 43). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 190 of 980, score 43). 2 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -12674,7 +12694,7 @@ export const PROGRAMS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 296 of 980, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 297 of 980, score 35). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -12879,7 +12899,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 297 of 980, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 298 of 980, score 35). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -13365,7 +13385,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 179 of 980, score 44). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 180 of 980, score 44). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -14060,7 +14080,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 346 of 980, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 347 of 980, score 33). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A0/D3.',
     claims: [
       {
         tier: 1,
@@ -14473,7 +14493,7 @@ export const PROGRAMS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 230 of 980, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 231 of 980, score 40). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -14550,7 +14570,7 @@ export const PROGRAMS = [
     dateEnd: '2000',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 347 of 980, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 348 of 980, score 33). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -16235,7 +16255,7 @@ export const LOCATIONS = [
       -106.6092
     ],
     locLabel: 'Kirtland AFB, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 181 of 980, score 44). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 182 of 980, score 44). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D1.',
     claims: [
       {
         tier: 2,
@@ -16344,7 +16364,7 @@ export const LOCATIONS = [
       -104.523
     ],
     locLabel: 'Roswell, New Mexico, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 239 of 980, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 240 of 980, score 39). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -16892,7 +16912,7 @@ export const LOCATIONS = [
       -77.0364
     ],
     locLabel: 'Washington, DC, USA',
-    tierRationale: 'Re-graded B on a global pass (rank 325 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 326 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -18987,7 +19007,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 208 of 980, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 209 of 980, score 41). 2 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -19048,7 +19068,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 222 of 980, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 223 of 980, score 40). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -19109,7 +19129,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 245 of 980, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 246 of 980, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -19359,7 +19379,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 314 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 315 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C3/A3/D2.',
     claims: [
       {
         tier: 2,
@@ -19479,7 +19499,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 294 of 980, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 295 of 980, score 35). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -19628,7 +19648,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 246 of 980, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 247 of 980, score 38). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -20071,7 +20091,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 226 of 980, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 227 of 980, score 40). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -20676,7 +20696,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 206 of 980, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 208 of 980, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -20849,7 +20869,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 326 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 327 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -20900,7 +20920,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 216 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 217 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -21417,7 +21437,7 @@ export const DOMAINS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 327 of 980, score 34). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 328 of 980, score 34). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -21821,7 +21841,7 @@ export const LEGISLATION = [
     dateEnd: '2012',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 235 of 980, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 236 of 980, score 39). 5 connections, 5 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -22285,7 +22305,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 36 of 980, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 37 of 980, score 87). 12 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -22668,7 +22688,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 188 of 980, score 43). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 189 of 980, score 43). 8 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -23163,7 +23183,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 210 of 980, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 211 of 980, score 41). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23376,7 +23396,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 39 of 980, score 84). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 40 of 980, score 84). 11 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -23788,6 +23808,16 @@ export const LEGISLATION = [
       },
       {
         tier: 1,
+        text: '10 U.S.C. 119(a)(1): \'Not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs.\'',
+        source: '10 U.S.C. 119(a)(1)'
+      },
+      {
+        tier: 1,
+        text: '10 U.S.C. 119(f): \'A special access program may not be initiated until - (1) the defense committees are notified of the program; and (2) a period of 30 days elapses after such notification is received.\'',
+        source: '10 U.S.C. 119(f)'
+      },
+      {
+        tier: 1,
         text: '10 U.S.C. 119(b)(3) defines \'new special access program\' as \'a special access program that has not previously been covered in a notice and justification under this subsection.\'',
         source: '10 U.S.C. 119(b)(3)'
       },
@@ -24116,6 +24146,11 @@ export const LEGISLATION = [
       },
       {
         tier: 1,
+        text: 'E.O. 13526 sec. 4.3(a): \'Unless otherwise authorized by the President, only the Secretaries of State, Defense, Energy, and Homeland Security, the Attorney General, and the Director of National Intelligence, or the principal deputy of each, may create a special access program.\'',
+        source: 'Executive Order 13526, sec. 4.3(a)'
+      },
+      {
+        tier: 1,
         text: 'E.O. 13526 sec. 4.3(a) provides that for programs pertaining to intelligence activities, including special activities, or intelligence sources or methods, this function shall be exercised by the Director of National Intelligence.',
         source: 'Executive Order 13526, sec. 4.3(a)'
       },
@@ -24415,7 +24450,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 339 of 980, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 340 of 980, score 33). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -24669,7 +24704,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 223 of 980, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 224 of 980, score 40). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -25057,7 +25092,7 @@ export const LEGISLATION = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 224 of 980, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 225 of 980, score 40). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -25404,7 +25439,7 @@ export const LEGISLATION = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 302 of 980, score 35). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 303 of 980, score 35). 10 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -25775,6 +25810,11 @@ export const DOCUMENTS = [
         tier: 1,
         text: 'Title page reads: \'THE DEPARTMENT OF DEFENSE ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP) / Volume I / February 2024\'. The DOPSR stamp on the same page reads \'CLEARED For Open Publication Mar 06, 2024 - Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW\'. PDF is 63 pages; embedded CreationDate 29 Feb 2024, ModDate 9 Mar 2024.',
         source: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF'
+      },
+      {
+        tier: 2,
+        text: 'Full-text search of the released PDF returns ZERO occurrences of \'Yankee\', \'Kirtland\', \'AFOSI\', \'Office of Special Investigations\', \'initiation\' or \'hazing\'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.',
+        source: 'https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement'
       },
       {
         tier: 1,
@@ -26151,7 +26191,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 47 of 980, score 79). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 44 of 980, score 82). 9 connections, 3 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -26207,6 +26247,11 @@ export const DOCUMENTS = [
         tier: 3,
         text: 'That five tranches of raw imagery could be cleared and published in three months while a promised narrative volume has been withheld for over two years indicates the classification bottleneck is analytic conclusions rather than source-and-method exposure.',
         source: 'Inference from the PURSUE release cadence against the Volume II delay'
+      },
+      {
+        tier: 1,
+        text: 'Volume I states that Volume II will cover interviews and research conducted between 1 November 2023 and 15 April 2024 plus additional unresolved allegations from Volume I.',
+        source: 'AARO Historical Record Report Volume I, scope statement'
       },
       {
         tier: 2,
@@ -26504,7 +26549,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 243 of 980, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 244 of 980, score 38). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -27580,7 +27625,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 307 of 980, score 34). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 308 of 980, score 34). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27667,7 +27712,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 195 of 980, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 196 of 980, score 42). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27754,7 +27799,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 285 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 286 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27836,7 +27881,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 286 of 980, score 35). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 287 of 980, score 35). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -27928,7 +27973,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 333 of 980, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 334 of 980, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28097,7 +28142,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 287 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 288 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28388,7 +28433,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 308 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 309 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28490,7 +28535,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 334 of 980, score 33). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 335 of 980, score 33). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28592,7 +28637,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 288 of 980, score 35). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 289 of 980, score 35). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28690,7 +28735,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 309 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 310 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28792,7 +28837,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 196 of 980, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 197 of 980, score 42). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -28904,7 +28949,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 335 of 980, score 33). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 336 of 980, score 33). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29006,7 +29051,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 310 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 311 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29108,7 +29153,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 289 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 290 of 980, score 35). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29354,7 +29399,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 290 of 980, score 35). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 291 of 980, score 35). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -29513,7 +29558,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 336 of 980, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 337 of 980, score 33). 4 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A0/D0.',
     claims: [
       {
         tier: 1,
@@ -31013,7 +31058,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 292 of 980, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 293 of 980, score 35). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -31314,7 +31359,7 @@ export const DOCUMENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 197 of 980, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 198 of 980, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -31578,7 +31623,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 198 of 980, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 199 of 980, score 42). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -31797,7 +31842,7 @@ export const DOCUMENTS = [
     dateEnd: '1983',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 200 of 980, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 201 of 980, score 42). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -32216,7 +32261,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 312 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 313 of 980, score 34). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -32355,7 +32400,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 337 of 980, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 338 of 980, score 33). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -32788,7 +32833,7 @@ export const DOCUMENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 209 of 980, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 210 of 980, score 41). 9 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33147,7 +33192,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 45 of 980, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 47 of 980, score 81). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -33288,7 +33333,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 211 of 980, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 212 of 980, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -33506,7 +33551,7 @@ export const DOCUMENTS = [
     dateEnd: '2008',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 295 of 980, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 296 of 980, score 35). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -33827,7 +33872,7 @@ export const DOCUMENTS = [
     dateEnd: '2009',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 340 of 980, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 341 of 980, score 33). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C3/A2/D2.',
     claims: [
       {
         tier: 2,
@@ -34139,7 +34184,7 @@ export const DOCUMENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 214 of 980, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 215 of 980, score 41). 5 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -34190,7 +34235,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded A on a global pass (rank 40 of 980, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded A on a global pass (rank 41 of 980, score 84). 14 connections, 4 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C2/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -34781,7 +34826,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 342 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 343 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -34864,7 +34909,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 298 of 980, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 299 of 980, score 35). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -35253,7 +35298,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 247 of 980, score 38). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 204 of 980, score 42). 6 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -35269,6 +35314,16 @@ export const DOCUMENTS = [
         tier: 1,
         text: '\'Waiving UAP-related NDAs is something I have been calling for the administration to do\' - with an offer of assistance and a recommendation that participants request congressional presence and counsel.',
         source: 'Rep. Eric Burlison official press release, 29 July 2026'
+      },
+      {
+        tier: 2,
+        text: 'Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.',
+        source: 'Fox News, 21 July 2026'
+      },
+      {
+        tier: 2,
+        text: 'Officials clarified the directive is \'not a declassification directive\' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.',
+        source: 'Fox News, 21 July 2026'
       },
       {
         tier: 1,
@@ -35309,7 +35364,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 203 of 980, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 205 of 980, score 42). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -35365,7 +35420,7 @@ export const DOCUMENTS = [
     dateEnd: '1947',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 343 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 344 of 980, score 33). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D1.',
     claims: [
       {
         tier: 1,
@@ -35421,7 +35476,7 @@ export const DOCUMENTS = [
     dateEnd: '1948',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 225 of 980, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 226 of 980, score 40). 5 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -35553,7 +35608,7 @@ export const DOCUMENTS = [
     dateEnd: '1969',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 178 of 980, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 179 of 980, score 44). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -35802,7 +35857,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 319 of 980, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 320 of 980, score 34). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -36386,7 +36441,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 344 of 980, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 345 of 980, score 33). 7 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -36438,7 +36493,7 @@ export const DOCUMENTS = [
     dateEnd: '2025',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 320 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 321 of 980, score 34). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D3.',
     claims: [
       {
         tier: 2,
@@ -36525,7 +36580,7 @@ export const DOCUMENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 215 of 980, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 216 of 980, score 41). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -36837,7 +36892,7 @@ export const DOCUMENTS = [
     dateEnd: '2022-12-26',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 321 of 980, score 34). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.',
+    tierRationale: 'Re-graded B on a global pass (rank 322 of 980, score 34). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D0.',
     claims: [
       {
         tier: 2,
@@ -36988,7 +37043,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 228 of 980, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 229 of 980, score 40). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -37187,7 +37242,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 301 of 980, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 302 of 980, score 35). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D2.',
     claims: [
       {
         tier: 1,
@@ -37622,7 +37677,7 @@ export const DOCUMENTS = [
     dateEnd: '2024',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 323 of 980, score 34). 6 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 324 of 980, score 34). 6 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A1/D2.',
     claims: [
       {
         tier: 2,
@@ -38062,7 +38117,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 180 of 980, score 44). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 181 of 980, score 44). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.',
     claims: [
       {
         tier: 1,
@@ -38250,7 +38305,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 192 of 980, score 43). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 193 of 980, score 43). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -38438,7 +38493,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 324 of 980, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 325 of 980, score 34). 3 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -38687,7 +38742,7 @@ export const DOCUMENTS = [
     dateEnd: null,
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 348 of 980, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 349 of 980, score 33). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -38944,7 +38999,7 @@ export const DOCUMENTS = [
     dateEnd: '1997',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 205 of 980, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 207 of 980, score 42). 6 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -39602,7 +39657,7 @@ export const EVENTS = [
     dateEnd: '1949',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 236 of 980, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 237 of 980, score 39). 5 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -39658,7 +39713,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 201 of 980, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 202 of 980, score 42). 3 connections, 3 of them custody/witness/funding/programmatic. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -39729,7 +39784,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 176 of 980, score 44). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 177 of 980, score 44). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -39978,7 +40033,7 @@ export const EVENTS = [
     dateEnd: '2026',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 244 of 980, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 245 of 980, score 38). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -40513,6 +40568,11 @@ export const EVENTS = [
       },
       {
         tier: 1,
+        text: 'The hearing was held 9 September 2025 before the House Oversight Task Force on the Declassification of Federal Secrets with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.',
+        source: 'House Committee on Oversight and Government Reform hearing record; CHRG-119hhrg61718'
+      },
+      {
+        tier: 1,
         text: 'The committee\'s wrap-up found that witnesses face career damage and retaliation, that agencies withheld information, that UAP spending flows to private entities outside FOIA reach, and that personnel lack standardised reporting protocols.',
         source: 'House Oversight, Hearing Wrap Up: Government Must Be More Transparent About UAPs, 9 September 2025'
       },
@@ -40716,7 +40776,7 @@ export const EVENTS = [
     dateEnd: '2015',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 317 of 980, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 318 of 980, score 34). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.',
     claims: [
       {
         tier: 1,
@@ -40996,7 +41056,7 @@ export const EVENTS = [
     dateEnd: '2023',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 213 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 214 of 980, score 41). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.',
     claims: [
       {
         tier: 1,
@@ -41568,7 +41628,7 @@ export const EVENTS = [
     dateEnd: '1980',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 299 of 980, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
+    tierRationale: 'Re-graded B on a global pass (rank 300 of 980, score 35). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A2/D1.',
     claims: [
       {
         tier: 1,
@@ -42012,7 +42072,7 @@ export const EVENTS = [
     dateEnd: '1982',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 238 of 980, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 239 of 980, score 39). 3 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D3.',
     claims: [
       {
         tier: 1,
@@ -42063,7 +42123,7 @@ export const EVENTS = [
     dateEnd: '2020',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 322 of 980, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 323 of 980, score 34). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D3.',
     claims: [
       {
         tier: 2,
@@ -42888,7 +42948,7 @@ export const EVENTS = [
     dateEnd: '1996-01-20',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 204 of 980, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 206 of 980, score 42). 3 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A1/D3.',
     claims: [
       {
         tier: 2,
@@ -42939,7 +42999,7 @@ export const EVENTS = [
     dateEnd: '2026-07-15',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 349 of 980, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
+    tierRationale: 'Re-graded B on a global pass (rank 350 of 980, score 33). 4 connections, 2 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.',
     claims: [
       {
         tier: 2,
@@ -43275,7 +43335,7 @@ export const EVENTS = [
     dateEnd: '1995',
     coords: null,
     locLabel: null,
-    tierRationale: 'Re-graded B on a global pass (rank 231 of 980, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
+    tierRationale: 'Re-graded B on a global pass (rank 232 of 980, score 40). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.',
     claims: [
       {
         tier: 2,

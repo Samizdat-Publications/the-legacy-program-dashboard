@@ -92,14 +92,21 @@ def norm_source(s):
     if isinstance(s, str):
         s = s.strip()
         if not s:
+            reject("source", s, "empty string")
             return None
         s = {"url": s} if s.startswith("http") else {"name": s}
     if not isinstance(s, dict):
+        reject("source", s, "not a string or an object")
         return None
     name = s.get("name") or s.get("label") or s.get("title")
     url = s.get("url")
     date = s.get("date") or s.get("verified") or None
     if not name and not url:
+        # Recorded, not merely skipped: the `cls` bug of 30 August dropped seven
+        # whole records in silence and `no research record is silently dropped`
+        # caught it; a source or a claim that vanishes the same way is the same
+        # failure one level down.
+        reject("source", s, "no name and no url")
         return None
     return {"name": name or url, "url": url or "", "date": date}
 
@@ -120,6 +127,7 @@ def norm_sources(lst):
 
 def norm_claim(c):
     if not isinstance(c, dict):
+        reject("claim", c, "not an object")
         return None
     t = c.get("tier")
     if isinstance(t, str):
@@ -132,6 +140,7 @@ def norm_claim(c):
         t = 3
     text = c.get("text") or c.get("claim")
     if not text:
+        reject("claim", c, "no text")
         return None
     src = c.get("source")
     if isinstance(src, list):
@@ -151,13 +160,19 @@ def clamp_axis(v):
         return 0
 
 
-def norm_chron(lst):
+def norm_chron(lst, owner=None):
     out = []
     for c in lst or []:
         if not isinstance(c, dict):
+            reject("chronology", {"id": owner, "entry": c}, "not an object")
             continue
-        d, ev = c.get("date"), (c.get("event") or c.get("label"))
+        # `text` is accepted beside `event` and `label`. The first time this
+        # function rejected instead of skipping (2 September 2026) it named 19
+        # entries, all of Salvatore Pais's patent chronology, written with `text`
+        # and absent from his dossier since they were researched.
+        d, ev = c.get("date"), (c.get("event") or c.get("label") or c.get("text"))
         if not d or not ev:
+            reject("chronology", {"id": owner, "entry": c}, "no date or no event")
             continue
         p = c.get("precision")
         if p not in VALID_PRECISION:
@@ -180,7 +195,11 @@ def _union_lists(a, b, fields):
 
 
 def _merge_claims(a, b):
-    seen = {re.sub(r"\W+", "", c["text"].lower())[:120] for c in a.get("claims", [])}
+    # The whole normalised text, not its first 120 characters: two long claims
+    # that share an opening (the same document title, the same lead-in) and
+    # diverge in their conclusion are two claims, and the truncated key merged
+    # them in silence.
+    seen = {re.sub(r"\W+", "", c["text"].lower()) for c in a.get("claims", [])}
     for c in b.get("claims") or []:
         k = re.sub(r"\W+", "", c["text"].lower())[:120]
         if k not in seen:
@@ -289,7 +308,7 @@ def load():
                 "narrative": p.get("narrative") or "",
                 "affiliations": p.get("affiliations") or [],
                 "tierRationale": p.get("tierRationale") or "",
-                "chronology": norm_chron(p.get("chronology")),
+                "chronology": norm_chron(p.get("chronology"), pid),
                 "claims": norm_claims(p.get("claims")),
                 "sources": norm_sources(p.get("sources")),
                 "conflicts": p.get("conflicts") or [],
@@ -327,6 +346,12 @@ def load():
                 for f in ("tier", "tierRationale", "date", "coords"):
                     if p.get(f) is not None:
                         tgt[f] = p[f]
+            elif slug in ("_corrections", "_remediation"):
+                # An overlay names an id nothing else declares: a typo, or a node
+                # since renamed or removed. Creating a near-empty node from the
+                # correction's few fields is the wrong outcome twice over, so it is
+                # rejected by name and the gate says so.
+                reject("person", p, f"{slug} names an id no research file declares")
             else:
                 people[pid] = merge_person(people[pid], rec) if pid in people else rec
 
@@ -360,13 +385,31 @@ def load():
                     if e.get(f) is not None:
                         tgt[f] = e[f]
                 tgt["sources"] = norm_sources(list(e.get("sources") or []) + tgt.get("sources", []))
-                tgt["claims"] = norm_claims(e.get("claims")) + [c for c in tgt.get("claims", [])
-                    if "yankee blue" not in c["text"].lower() or c["tier"] != 1]
+                # A correction may REMOVE claims it supersedes, but only by saying so:
+                #   "removeClaims": [{"contains": "...", "tier": 1, "why": "..."}]
+                # Until 2 September 2026 this line carried a hardcoded filter that
+                # dropped every Tier 1 claim containing "yankee blue" on every
+                # corrected entity. By then the claims it removed were the negative
+                # primary findings (AFOSI's 'no records' FOIA answer, the zero-hit
+                # full-text search of HRR Volume I) -- the corroboration of the
+                # correction, not the error it was written to remove. A removal
+                # rule that lives in code is a removal nobody can review.
+                rules = [r for r in (e.get("removeClaims") or []) if isinstance(r, dict) and r.get("contains")]
+                def _kept(c):
+                    for r in rules:
+                        if r["contains"].lower() in c["text"].lower() and r.get("tier") in (None, c["tier"]):
+                            removed_claims.append({"id": eid, "why": r.get("why", ""),
+                                                   "claim": c["text"][:110]})
+                            return False
+                    return True
+                tgt["claims"] = norm_claims(e.get("claims")) + [c for c in tgt.get("claims", []) if _kept(c)]
             elif slug == "_remediation" and eid in entities:
                 tgt = entities[eid]
                 for f in ("tier", "tierRationale", "coords", "locLabel"):
                     if e.get(f) is not None:
                         tgt[f] = e[f]
+            elif slug in ("_corrections", "_remediation"):
+                reject("entity", e, f"{slug} names an id no research file declares")
             else:
                 entities[eid] = merge_entity(entities[eid], rec) if eid in entities else rec
 
@@ -726,6 +769,7 @@ def remediate_tiers(people, entities):
 
 
 edge_demotions = []
+removed_claims = []   # claims a _corrections.json removeClaims rule took off the board
 
 
 def remediate_edge_tiers(edges):
@@ -1168,7 +1212,8 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
 
     for fn, obj in (("INTEGRITY.json", dict(problems)), ("REJECTS.json", rejects),
                     ("GAPS.json", gaps), ("DEMOTIONS.json", demotions),
-                    ("EDGE-DEMOTIONS.json", edge_demotions)):
+                    ("EDGE-DEMOTIONS.json", edge_demotions),
+                    ("REMOVED-CLAIMS.json", removed_claims)):
         with open(os.path.join(OUT, fn), "w", encoding="utf-8") as f:
             json.dump(obj, f, indent=1, ensure_ascii=False)
     return today

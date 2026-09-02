@@ -18,7 +18,7 @@ Sections:
        c. drawNode()     — semantic zoom, or 249 plates tiling 89% of the canvas
 """
 
-import base64, json, os, re, sys
+import base64, json, math, os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from collections import defaultdict, Counter
 
@@ -459,11 +459,22 @@ def js(v, indent=0):
     if isinstance(v, bool):
         return "true" if v else "false"
     if isinstance(v, (int, float)):
+        if isinstance(v, float) and (math.isnan(v) or math.isinf(v)):
+            # repr() would emit the bare identifiers nan / inf, which are not
+            # JavaScript, and one of them anywhere in research/ would stop the
+            # whole page at parse time. Fail the build instead.
+            raise ValueError("js(): a non-finite number (%r) cannot be inlined" % v)
         return repr(round(v, 5)) if isinstance(v, float) else str(v)
     if isinstance(v, str):
         return "'" + (v.replace("\\", "\\\\").replace("'", "\\'")
                       .replace("\n", " ").replace("\r", " ")
-                      .replace(" ", " ").replace(" ", " ")) + "'"
+                      .replace(" ", " ").replace(" ", " ")
+                      # Inside a <script> the HTML tokenizer ends the script at the
+                      # first `</script` and opens a comment at `<!--`, whatever the
+                      # JavaScript around them says. Research text is quoted verbatim
+                      # by rule, so `<` becomes <: the same character to JavaScript,
+                      # invisible to the HTML tokenizer.
+                      .replace("<", "\x3c")) + "'"
     if isinstance(v, list):
         if not v:
             return "[]"
@@ -1395,6 +1406,20 @@ def main():
     ok_all &= ok
     s, ok = must_replace(s, "Last sweep 2026.08.07",
                          "PURSUE release 5 \u00b7 2026.08.07", "top bar sweep copy", 1)
+    ok_all &= ok
+
+    # ---- chart colour is an attribute sink -------------------------------------
+    # Every other point field in the four chart renderers goes through esc();
+    # `color` was spliced into fill="..." verbatim. A chart spec reaches those
+    # renderers from the analyst's :: renderChart line, which a shared Worker now
+    # answers for every reader, so a reply that carried a quote in a colour would
+    # have been markup in the reader's session. Escaped in the built file; ref/ is
+    # never edited.
+    s, ok = must_replace(s, "fill=\"'+c+'\"", "fill=\"'+esc(c)+'\"",
+                         "chart fill colour escaped (three renderers)", 3)
+    ok_all &= ok
+    s, ok = must_replace(s, "fill=\"'+chartColor(p)+'\"", "fill=\"'+esc(chartColor(p))+'\"",
+                         "chart fill colour escaped (line renderer)", 1)
     ok_all &= ok
 
     # ---- scripted analyst -------------------------------------------------
