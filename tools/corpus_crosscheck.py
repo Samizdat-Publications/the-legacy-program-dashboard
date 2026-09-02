@@ -39,7 +39,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 _STOP = {
     "the", "of", "and", "for", "a", "an", "inc", "llc", "corp", "corporation",
     "company", "co", "institute", "institution", "group", "office", "program",
-    "programme", "project", "us", "u", "s", "united", "states",
+    "programme", "project", "operation", "us", "u", "s", "united", "states",
 }
 
 
@@ -317,6 +317,11 @@ def _prose_needles(cand):
         words = needle.split()
         if len(words) == 2 and words[0] in NICKNAMES:
             out.append(("sub", NICKNAMES[words[0]] + " " + words[1]))
+        # The stopword-stripped form: `US Department of State` was ABSENT while
+        # `Department of State` sat in prose thirteen times (2 September 2026).
+        stripped = " ".join(key(cand))
+        if len(stripped) >= 8 and stripped != needle and len(stripped.split()) >= 2:
+            out.append(("sub", stripped))
     return out
 
 
@@ -591,6 +596,19 @@ def self_test():
     r = classify(["Joe McMoneagle"], nodes, prose)[0]
     if r["verdict"] == "ABSENT":
         fails.append("Joe McMoneagle reported ABSENT; the board writes Joseph McMoneagle")
+    # Area 52 triage group 6: `Operation Moon Dust` against `Project MOON DUST`,
+    # and `US Department of State` against thirteen prose mentions.
+    m = match_node("Operation Moon Dust", nodes)
+    if not m or m[0]["id"] != "project-moon-dust":
+        fails.append("Operation Moon Dust expected NODE project-moon-dust got %s" % (m[0]["id"] if m else None))
+    if match_node("Operation Zzyzx", nodes):
+        fails.append("the operation/project equivalence matched an invented operation")
+    r = classify(["US Department of State"], nodes, prose)[0]
+    if r["verdict"] == "ABSENT":
+        fails.append("US Department of State reported ABSENT; the board writes Department of State in prose")
+    r = classify(["US Department of Zzyzx"], nodes, prose)[0]
+    if r["verdict"] != "ABSENT":
+        fails.append("US Department of Zzyzx, which nothing carries, got %s" % r["verdict"])
 
     # And three names that were reported ABSENT before the fix must not be now.
     for name in ("Carl Sagan", "Douglas Dean Johnson"):

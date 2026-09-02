@@ -1,8 +1,8 @@
 {
  "counts": {
-  "NODE": 274,
-  "PROSE": 146,
-  "ABSENT": 475
+  "NODE": 275,
+  "PROSE": 152,
+  "ABSENT": 468
  },
  "results": [
   {
@@ -761,18 +761,6 @@
    ]
   },
   {
-   "candidate": "Dr. Edwin May",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "edwin",
-     "id": "stargate-program",
-     "field": "desc",
-     "context": "...tor of National Intelligence, led the project in the 1990s; Edwin C. May ran the Cognitive Sciences Laboratory as principal i..."
-    }
-   ]
-  },
-  {
    "candidate": "Dr. Hans Mark",
    "verdict": "ABSENT",
    "near": []
@@ -895,18 +883,6 @@
    "candidate": "Emily Trem",
    "verdict": "ABSENT",
    "near": []
-  },
-  {
-   "candidate": "Eric A. Walker",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "walker",
-     "id": "james-lacatski",
-     "field": "narrative",
-     "context": "...n 2007 after reading Kelleher and Knapp's 'Hunt for the Skinwalker', and by his own account the June 19, 2007 letter he sent B..."
-    }
-   ]
   },
   {
    "candidate": "Evelyn Trent",
@@ -2184,11 +2160,6 @@
    ]
   },
   {
-   "candidate": "Office of Naval Research",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Office of the Under Secretary of Defense for Acquisition and Technology",
    "verdict": "ABSENT",
    "near": []
@@ -2214,11 +2185,6 @@
      "context": "...in the candidates row, is Operation ARGUS 1958 and not the FISHBOWL report at all. And the report contains no unidentified obje..."
     }
    ]
-  },
-  {
-   "candidate": "Operation Moon Dust",
-   "verdict": "ABSENT",
-   "near": []
   },
   {
    "candidate": "Oscar Wolf",
@@ -2386,18 +2352,6 @@
    "candidate": "Project Gravitor",
    "verdict": "ABSENT",
    "near": []
-  },
-  {
-   "candidate": "Project Looking Glass",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "glass",
-     "id": "william-mccasland",
-     "field": "narrative",
-     "context": "...me in February 2026, leaving behind his phone, prescription glasses, hiking boots, wallet and a .38-calibre revolver. Rep. Er..."
-    }
-   ]
   },
   {
    "candidate": "Project Sidekick",
@@ -2857,22 +2811,12 @@
    ]
   },
   {
-   "candidate": "US Army Intelligence",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "US Central Command",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "US Commission on Civil Rights",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "US Department of State",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3515,19 +3459,19 @@
    "verdict": "PROSE",
    "hits": [
     {
+     "id": "anna-paulina-luna",
+     "field": "claim",
+     "context": "...re than 46 UAP videos from the Secretary of War by 14 April 2026; the Department stated it would respond directly to the author, and a congressional source..."
+    },
+    {
+     "id": "sue-gough",
+     "field": "claim",
+     "context": "...The Department stated it has no record of a programme called Immaculate Constellation...."
+    },
+    {
      "id": "project-moon-dust",
      "field": "desc",
      "context": "...supporting the overseas collection, and it is documented in released Department of State cable traffic, one file of which was declassified by CIA. Its signifi..."
-    },
-    {
-     "id": "project-moon-dust",
-     "field": "claim",
-     "context": "...Department of State records on Project MOON DUST have been released under FOIA, including..."
-    },
-    {
-     "id": "project-moon-dust",
-     "field": "source",
-     "context": "...Project Moon Dust document archive (Department of State releases; one file declassified by CIA)..."
     }
    ]
   },
@@ -3617,6 +3561,17 @@
    ]
   },
   {
+   "candidate": "Dr. Edwin May",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stargate-program",
+     "field": "desc",
+     "context": "...blished the records online in January 2017 through the CREST archive; Edwin May's donated 1972-1995 materials are held at the Archives of the Impossi..."
+    }
+   ]
+  },
+  {
    "candidate": "Dugway Proving Ground",
    "verdict": "PROSE",
    "hits": [
@@ -3632,9 +3587,19 @@
    "verdict": "PROSE",
    "hits": [
     {
-     "id": "vincent-teofilo",
+     "id": "jon-kosloski",
      "field": "narrative",
-     "context": "...technology-transition assessment, which is what a Lockheed Martin space-systems physicist would be expected to produce. He is also recorded as a co-a..."
+     "context": "...ver published: roughly 100 airborne UAP and two likely uncrewed surface systems observed by US Navy assets off the Virginia coast, still unresolved...."
+    },
+    {
+     "id": "jon-kosloski",
+     "field": "claim",
+     "context": "...event of approximately 100 airborne UAP and two likely uncrewed surface systems observed by US Navy assets off Virginia...."
+    },
+    {
+     "id": "robert-wood",
+     "field": "narrative",
+     "context": "...onnell Douglas Astronautics in Southern California on missile and space systems, and in the late 1960s ran a company-funded study of unidentified cra..."
     }
    ]
   },
@@ -3763,6 +3728,17 @@
      "id": "gerald-smith",
      "field": "narrative",
      "context": "...(1961) in physics from Yale, a second-generation graduate student of Enrico Fermi, and post-doctoral years from 1961 to 1966 as an assistant professor..."
+    }
+   ]
+  },
+  {
+   "candidate": "Eric A. Walker",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "robert-sarbacher",
+     "field": "narrative",
+     "context": "...ed on earth.' Everything about a Wright Field meeting, and everything Eric Walker is said to have said, is not in this letter.  Two problems are visibl..."
     }
    ]
   },
@@ -4784,6 +4760,27 @@
    ]
   },
   {
+   "candidate": "Office of Naval Research",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...of the Integrity Research Institute tried to locate a copy of a 1952 Naval Research Laboratory appraisal of Brown's experiments titled 'The TT Brown Elec..."
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...cember 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND B..."
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...erhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West..."
+    }
+   ]
+  },
+  {
    "candidate": "Oppenheimer",
    "verdict": "PROSE",
    "hits": [
@@ -4944,6 +4941,17 @@
      "id": "harald-b-malmgren",
      "field": "source",
      "context": "...Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense, 24 February 20..."
+    }
+   ]
+  },
+  {
+   "candidate": "Project Looking Glass",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "stringfield-status-reports",
+     "field": "desc",
+     "context": "...Chris Coffey, and opens with the Humpty Dumpty verse from Through the Looking Glass. Status Report VII, 'Search for Proof in a Hall of Mirrors' (February..."
     }
    ]
   },
@@ -5406,6 +5414,17 @@
    ]
   },
   {
+   "candidate": "US Army Intelligence",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "center-lane",
+     "field": "desc",
+     "context": "...CENTER LANE was the Army Intelligence and Security Command's designation for the operational remote-viewing..."
+    }
+   ]
+  },
+  {
    "candidate": "US Congress",
    "verdict": "PROSE",
    "hits": [
@@ -5427,6 +5446,27 @@
    ]
   },
   {
+   "candidate": "US Department of State",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "anna-paulina-luna",
+     "field": "claim",
+     "context": "...re than 46 UAP videos from the Secretary of War by 14 April 2026; the Department stated it would respond directly to the author, and a congressional source..."
+    },
+    {
+     "id": "sue-gough",
+     "field": "claim",
+     "context": "...The Department stated it has no record of a programme called Immaculate Constellation...."
+    },
+    {
+     "id": "nara-uap-records-collection--aaro",
+     "field": "note",
+     "context": "...Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with feder..."
+    }
+   ]
+  },
+  {
    "candidate": "US Space Command",
    "verdict": "PROSE",
    "hits": [
@@ -5439,6 +5479,11 @@
      "id": "l-colorado-springs",
      "field": "sub",
      "context": "...Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command..."
+    },
+    {
+     "id": "william-b-adkins--us-house",
+     "field": "note",
+     "context": "...ht and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, a..."
     }
    ]
   },
@@ -5447,9 +5492,19 @@
    "verdict": "PROSE",
    "hits": [
     {
-     "id": "marik-von-rennenkampff--dod",
-     "field": "note",
-     "context": "...nt of Defense during the Obama administration and later worked in the US State Department.'..."
+     "id": "marik-von-rennenkampff",
+     "field": "narrative",
+     "context": "...terviews are not. He is a former Obama administration official at the State Department, which is the credential that gets him the column inches...."
+    },
+    {
+     "id": "marik-von-rennenkampff",
+     "field": "sub",
+     "context": "...Opinion contributor, The Hill; former State Department official..."
+    },
+    {
+     "id": "s2226-118",
+     "field": "claim",
+     "context": "...NA DISCLOSURE', secs. 9001-9015, positioned between Division F (AUKUS/State Department matters, Titles LXI-LXVIII) and Division H (Architect of the Capitol..."
     }
    ]
   },
@@ -7248,6 +7303,15 @@
    "node_id": "odni",
    "node_label": "Office of the Director of National Intelligence",
    "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Operation Moon Dust",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "project-moon-dust",
+   "node_label": "Project MOON DUST",
+   "cls": "program",
    "tier": "A"
   },
   {
