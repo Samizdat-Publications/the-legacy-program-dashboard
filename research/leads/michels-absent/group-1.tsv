@@ -1,0 +1,181 @@
+# ABSENT candidates from batches 01-05: name<TAB>batch<TAB>near-miss note
+CIA	01
+DIA	01
+U.S. Army Intelligence Support Activity Group	01
+Gray Fox	01
+Matthew Pines	01
+JSOC	01
+NGA	01
+AEC	01
+DOE	01
+National Defense Research Council	01
+NDRC	01
+Air Material Command	01
+Wright Airfield	01	NEAR MISS: airfield in l-kirtland.desc
+NSC	01
+Project A119	01
+John Frost	01
+Research Institute for Advanced Study	01
+Bell Aircraft	01	NEAR MISS: bell in james-lacatski.narrative
+Lawrence Bell	01	NEAR MISS: bell in james-lacatski.narrative
+Lear Corporation	01
+Bill Lear	01
+University of North Carolina, Chapel Hill	01	NEAR MISS: carolina in george-trimble.claim
+Guantanamo Bay	01
+Walter Kirn	01
+Robert J. Oppenheimer	01	NEAR MISS: oppenheimer in robert-sarbacher.narrative
+Freeman Dyson	01
+Werner von Braun	01	NEAR MISS: braun in l-huntsville.desc
+Arthur Rudolph	01	NEAR MISS: rudolph in usaf-1127th-field-activities-group.desc
+John Wheeler	01
+Peter Bergmann	01
+Richard Feynman	01
+Joshua Goldberg	01	NEAR MISS: joshua in david-spergel.narrative
+Albert Boyd	01	NEAR MISS: albert in john-albertine.narrative
+Bill Gunston	01
+Bob Jacobs	01
+Whitley Strieber	01	NEAR MISS: whitley in l-tonopah.desc
+Jimmy Carter	01	NEAR MISS: carter in eop.desc
+George H.W. Bush	01
+George W. Bush	01
+Stephen Hadley	01
+Anatoly Dobrynin	01	NEAR MISS: anatoly in ev-petrozavodsk-1977.desc
+Walter Stoessel	01
+McMahon Secrecy Act of 1946	01
+Church Committee	02
+Jake Sullivan	02
+Sen. Chuck Schumer	02	NEAR MISS: chuck in jared-moskowitz.narrative
+Andreessen Horowitz	02
+Mike Pompeo	02
+Chris Sharp	02
+Garrett Graff	02
+Vivian Schiller	02
+Aspen Institute	02
+Renaissance Technologies	02
+Robert Mercer	02
+Stony Brook University	02
+Neuralink	02
+XAI	02
+Danny Sheehan	02
+Howard Hughes	02	NEAR MISS: hughes in sperry-rand.desc
+Richard Nixon	02	NEAR MISS: nixon in mj-12-documents.claim
+Mark McCandlish	02	NEAR MISS: mccandlish in entityInfo.gerb-mitre-investigation.desc
+Frank Carlucci	02
+Jim Simons	02	NEAR MISS: simons in david-spergel.sub
+Brian Keating	02
+Hugh Everett	02	NEAR MISS: hugh in john-mchugh.narrative
+Harold Malmgren	02
+Jeff Bezos	02	NEAR MISS: jeff in jeffrey-nuccetelli.label
+Richard Bissell	02
+Elon Musk	02
+Jared Birchall	02
+Ben Horowitz	02
+Herman Bondi	02	NEAR MISS: bondi in friedwardt-winterberg.narrative
+PEAD	03
+TRW	03
+Peter Thiel	03	NEAR MISS: thiel in jesse-michels.narrative
+SpaceX	03
+Norfolk Naval Base	03
+NAS Fallon	03
+NAS Lemoore	03
+Hyman Rickover	03	NEAR MISS: hyman in stargate-program.desc
+Miguel Alcubierre	03	NEAR MISS: alcubierre in richard-obousy.narrative
+Carl Nell	03	NEAR MISS: carl in garry-nolan.chronology
+Gordon Cooper	03
+Buzz Aldrin	03
+Bill Sweetman	03
+NSA	04
+NRO	04
+Stacey Dixon	04
+Army UAP Task Force	04
+FBI	04
+Project A-119	04
+Operation Ivy	04
+Operation Castle	04	NEAR MISS: castle in icd-906.desc
+Blue Gill Triple Prime	04	NEAR MISS: triple in aaro-fy2025-annual-report--doe.label
+Hawkeye 360	04
+Federated Wireless	04	NEAR MISS: federated in d-ic.desc
+Jet Propulsion Laboratory	04
+Naval Weapons Station Seal Beach	04	NEAR MISS: seal in harry-reid.narrative
+Camp Hood	04
+Johnston Atoll	04
+Bikini Atoll	04	NEAR MISS: bikini in walter-haut.narrative
+Ariel School	04
+Vatican Observatory	04
+Camp David	04
+Salem Hope Creek Generating Station	04
+Duke Energy Brunswick nuclear plant	04	NEAR MISS: brunswick in stanton-friedman.narrative
+Bob McGwire	04
+John Archibald Wheeler	04
+Mike Griffin	04
+Harry Truman	04
+Tim Taylor	04
+Chris Bledsoe	04
+Ryan Bledsoe	04
+Barack Obama	04
+Lord Hill-Norton	04
+Paul Hellyer	04
+Jack Parsons	04
+Rene Girard	04
+Bob Grasser	04
+John Anderson	04
+Harry Turner	04
+Eleanor Roosevelt	04
+J. Robert Oppenheimer	04	NEAR MISS: oppenheimer in robert-sarbacher.narrative
+JFK	04
+John McCone	04	NEAR MISS: mccone in entityInfo.aaro-historical-record-vol1.desc
+Cash Patel	04
+Robert Jacobs	04
+Bob Jamison	04	NEAR MISS: jamison in robert-hastings.claim
+John Mills	04
+Jim Penniston	04
+Greg Bishop	04	NEAR MISS: greg in gregory-guillot.label
+Mario Woods	04
+Michael Johnson	04
+Master Sgt. Garza	04
+Sgt. Hawkins	04
+Jared Tarbell	04
+Brad Sparks	04	NEAR MISS: sparks in sean-kirkpatrick.source
+Dwight Eisenhower	04
+Charles Hickson	04
+Calvin Parker	04
+Kurt McConnell	04
+Robert Monroe	04
+Arnie Arneson	04	NEAR MISS: arneson in robert-hastings.claim
+Andrija Puharich	04
+Personal Reliability Program	05
+US Patent and Trademark Office	05
+Project Sundial	05
+NASA Eagleworks	05
+CE-5	05
+NSWC Crane	05
+General Electric Neutron Devices	05	NEAR MISS: neutron in cecilia-levy.claim
+Bravo One Defense	05
+Ellsworth AFB	05	NEAR MISS: ellsworth in aaro-historical-record-vol1.desc
+RAF Lakenheath	05
+Duke Energy	05
+USS Paul Hamilton	05
+Guadalupe Island	05
+Sam Shumate	05
+Sean Ryan	05
+Lincoln La Paz	05
+Bill Holliman	05
+Robert Upton	05
+Yvonne Smith	05
+Terry Lovelace	05
+Christopher Dunn	05	NEAR MISS: dunn in john-schuessler.narrative
+Mark Millis	05
+Nick Cook	05	NEAR MISS: cook in robert-low.claim
+Cecil DeWitt	05
+Oliver Heaviside	05	NEAR MISS: oliver in paul-czysz.narrative
+E.T. Whittaker	05
+Nikola Tesla	05	NEAR MISS: tesla in salvatore-pais.claim
+John G. Trump	05
+John Lear	05
+Sonny White	05
+Ashton Forbes	05
+Joseph P. Farrell	05	NEAR MISS: farrell in david-grusch.chronology
+Walter Bosley	05
+Tom Bearden	05
+Mike Gallagher	05	NEAR MISS: gallagher in mike-gallagher.narrative
+Sean Cahill	05
