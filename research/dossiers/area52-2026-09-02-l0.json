@@ -1,0 +1,388 @@
+[
+ {
+  "id": "us-navy",
+  "entityDossier": {
+   "whatItIs": "The maritime service of the Department of Defense, organised under a civilian Secretary of the Navy with the Chief of Naval Operations as senior uniformed officer, and stating its own purpose as deploying combat-ready sailors, ships, aircraft and submarines worldwide without dependence on foreign land bases. The board holds it through its component parts rather than as a monolith: the Office of Naval Research, placed inside the Office of the Secretary of the Navy by Public Law 79-588 on 1 August 1946; the Deep Submergence Systems Project, assigned by the Secretary to the Special Projects Office after the review group reported in February 1964; the Naval Criminal Investigative Service, a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701; and James V. Forrestal, Secretary of the Navy until September 1947.",
+   "whyImplicated": "The Navy generated the modern evidentiary core of the problem this board maps, and then became the office that handled it. The encounters that anchor the contemporary record are Navy carrier aviation events: off southern California in November 2004 and off the eastern seaboard in 2014-2015, recorded through targeting pods and radar and filed by aircrew through operational channels. On 27 April 2020 the Department authorised release of three unclassified Navy videos and said why, and on 4 August 2020 the Deputy Secretary made the Department of the Navy the lead for the UAP Task Force. It is also an assignee of record: the Pais inertial mass reduction device patent is assigned to the United States of America as represented by the Secretary of the Navy. Acknowledgement, custody of the reporting channel and ownership of the exotic-propulsion paperwork are all in the same service.",
+   "roles": [
+    "disclosure",
+    "custody",
+    "research"
+   ],
+   "narrative": "The Navy's position on this board is unusual because it is the one institution here that has conceded the evidentiary question in public and declined the interpretive one in the same sentence. The April 2020 release states that the Department was acting 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos', and in the same document holds that 'The aerial phenomena observed in the videos remain characterized as unidentified.' That is a hinge: material that had circulated as leak became acknowledged official product, and the acknowledgement carried no characterisation with it. The board's own record notes the reading that this was damage control rather than disclosure, and grades that reading Tier 3, because it is an inference from the wording of the release and nothing more.\n\nWhat gives the service structural weight rather than merely evidentiary weight is what sits under it. The Office of Naval Research was created inside the Office of the Secretary of the Navy with the provision that its orders be considered as emanating from the Secretary and have full force and effect as such. The Deep Submergence Systems Project was assigned by the Secretary to the Special Projects Office and by 1967 was a separate project inside Naval Material Command with its own project designator. The Pais patent names the Secretary of the Navy as the assignee. These are the ordinary mechanics of a service that can commission research, place it under a project office and hold title to what comes out, and they are the mechanics that any custody account of anomalous material would have to run through.\n\nThe honest statement of this node is that the board has the outputs and not the interior. Its degree here is nine, its Tier 1 claims number two, and its own research record is a known stub filled in from public description. The Navy is on the map because everything downstream of the 2004 and 2015 encounters passes through it, not because any opened record shows what it did with them.",
+   "claims": [
+    {
+     "text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos', and that 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+     "tier": 1,
+     "source": "Statement by the Department of Defense on the Release of Historical Navy Videos, 27 April 2020, https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+    },
+    {
+     "text": "The Department of the Navy was made the lead for the UAP Task Force: 'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security, with the stated mission 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'.",
+     "tier": 1,
+     "source": "U.S. Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020, https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
+    },
+    {
+     "text": "The Office of Naval Research was placed inside the Office of the Secretary of the Navy by statute on 1 August 1946, with section 1 providing that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
+     "tier": 1,
+     "source": "Public Law 79-588, 60 Stat. 779, sec. 1, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf"
+    },
+    {
+     "text": "The Navy is the assignee of record on the Pais inertial mass reduction device patent, assigned to 'The United States of America as represented by the Secretary of the Navy'.",
+     "tier": 2,
+     "source": "US Patent 10,144,532, https://www.freepatentsonline.com/10144532.html"
+    },
+    {
+     "text": "The service is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
+     "tier": 1,
+     "source": "US Navy, About, https://www.navy.mil/About/"
+    }
+   ],
+   "denialPosture": "The board records no denial link on this node in either direction. The posture the record does establish is confirmation without characterisation: the Department confirmed the videos were genuine Navy product and stated in the same release that what they show remains unidentified. The board's own reading of that as damage control rather than disclosure is carried as a Tier 3 inference from the release's wording, and is not treated as a denial by anyone.",
+   "connections": [
+    "Named in the Department's 27 April 2020 release as the source of the November 2004 footage carried here as nimitz-2004, and of the January 2015 footage carried as roosevelt-2014-2015. The carrier association for the 2015 videos is graded Tier 2, because neither primary document names the USS Theodore Roosevelt.",
+    "Designated lead service for uap-task-force on 4 August 2020, under the cognizance of the Under Secretary of Defense for Intelligence and Security.",
+    "Parent of office-of-naval-research, created inside the Office of the Secretary of the Navy in 1946, and of naval-criminal-investigative-service, whose head's title is fixed in 32 CFR 701.5.",
+    "The Secretary of the Navy assigned deep-submergence-systems-project to the Special Projects Office in February 1964.",
+    "Assignee of record on pais-patent-imrd.",
+    "James V. Forrestal held the office of Secretary of the Navy until September 1947, immediately before the Defense appointment.",
+    "Ryan Graves flew F/A-18Fs in this service and became the first witness of the active-duty era to testify before Congress."
+   ],
+   "openQuestions": [
+    "This node's own research record is a filled stub. It carries four claims, two of them Tier 1, and the board's node letters for consequence, access and disclosure are all zero. A service of this size with this position in the record should not be thinner than its own subordinate offices.",
+    "The Navy's aviation safety and hazard reporting systems are the channel every aircrew report entered, and no record of those filings has been opened here. The board asserts the channel exists and holds none of its contents.",
+    "Shore facilities under Navy control are repeatedly named in recovery and material-storage allegations elsewhere on this board. Nothing opened for this node names a facility, a programme or a date, and no claim here rests on those allegations."
+   ]
+  }
+ },
+ {
+  "id": "inscom",
+  "entityDossier": {
+   "whatItIs": "The United States Army Intelligence and Security Command, the Army's intelligence and security major command, headquartered in the period the board covers at Arlington Hall Station, Arlington, Virginia, with subordinate elements at Fort George G. Meade. Its letterhead in this period reads 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212'. From 1977 it ran the Army's psychoenergetics effort, first as Project GRILL FLAME and then as the INSCOM CENTER LANE Project, worked out of the Security Support Detachment of the 902d Military Intelligence Group at Fort Meade.",
+   "whyImplicated": "INSCOM is the board's cleanest documented case of a ridiculed subject held inside the machinery of a special access programme, with the paperwork surviving to prove it. CENTER LANE was not an INSCOM designation. It was 'a Secretary of the Army designated Special Access Program', and every page of the project's file carries the caveat 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'. The command's own commanding general recommended ending the work, then on 2 March 1985 notified the Department of the Army of the deactivation, of the attachment of the project's assets and resources to the Defense Intelligence Agency under operational control, and of the retirement of the nickname. Start, funding, access control, termination and handoff are all in opened documents.",
+   "roles": [
+    "research",
+    "concealment",
+    "custody",
+    "funding"
+   ],
+   "narrative": "The value of INSCOM to this board is that it settles by document what every other compartmented account has to argue by inference: that the United States has taken a subject the public conversation treats as absurd and run it at service-secretary access levels for the better part of a decade. The GDIP memorandum of 4 April 1984 says so in the command's own voice, dating the work and complaining about how it was funded in the same sentence: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"' A programme paid for out of hide and controlled at category three is a precise description of the structure this board keeps asserting exists.\n\nThe origin is equally documented and equally ordinary. A 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', with the contract let through AMSAA and the money buying a project manager and three subjects. The Army staff started it, the Army staff paid for it, and a nonprofit research institute in California supplied the method. That is the same shape the board traces at SRI International and later at BAASS: a government sponsor with deniability, a private research house with a security apparatus, and a small line of money.\n\nWhat makes the ending as useful as the beginning is that INSCOM did not conceal the project so much as move it. The July 1984 memorandum has the commanding general writing that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asking for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The transfer happened. A capability judged not worth the Army's trouble was handed intact to a defence agency and its name retired, which is exactly how a programme becomes hard to follow without anyone destroying anything.",
+   "claims": [
+    {
+     "text": "INSCOM dates its own psychoenergetics work from 1977: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+     "tier": 1,
+     "source": "Memorandum, 'CENTER LANE FY 86 - 90 GDIP Submission (U)', 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+    },
+    {
+     "text": "The Army staff started the work and paid for the contract: a 1978 talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three INSCOM subjects, the contract let via AMSAA.",
+     "tier": 1,
+     "source": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+    },
+    {
+     "text": "The special access designation was the Secretary of the Army's, not the command's. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+     "tier": 1,
+     "source": "Letter, 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U)', 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    },
+    {
+     "text": "INSCOM ended the work on its own recommendation and handed it to DIA. The commanding general wrote in July 1984 that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intending 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The 2 March 1985 letter notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'.",
+     "tier": 1,
+     "source": "Memorandum, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, and letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    },
+    {
+     "text": "The command's letterhead and location in the period are on the documents: 'DEPARTMENT OF THE ARMY / UNITED STATES ARMY INTELLIGENCE AND SECURITY COMMAND / ARLINGTON HALL STATION / ARLINGTON, VIRGINIA 22212', and a 1979 headquarters disposition form records that 'HQ INSCOM will be consolidated at AHS, VA' alongside the creation of a brigade at Fort George G. Meade.",
+     "tier": 1,
+     "source": "Memorandum for Assistant Chief of Staff for Intelligence, 'INSCOM CENTER LANE Project (U)', 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; disposition form IAFM-OPS-HUP, 'Reorganization of HQ INSCOM and CONUS Elements', 16 Nov 79, CIA-RDP96-00788R002000190002-9, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r002000190002-9/cia-rdp96-00788r002000190002-9_djvu.txt"
+    }
+   ],
+   "denialPosture": "The board records no denial link on this node in either direction, and that is the point worth stating. INSCOM never had to deny CENTER LANE, because the access controls did the work a denial would otherwise have to do: a Secretary of the Army designated special access programme with a category three caveat on every page needs no public position at all. When the command was finished with it, it did not disown the project; it deactivated it, moved the assets to DIA under operational control and retired the nickname. The board treats the retirement of a nickname as a documented behaviour rather than an inference, because the letter that does it is in the file.",
+   "connections": [
+    "Ran grill-flame from 1977 as its entry into the field, and center-lane as the successor project, ending it on its own recommendation.",
+    "Attached CENTER LANE assets and resources OPCON to dia on 2 March 1985, by the letter that notified HQDA of the deactivation.",
+    "Army Intelligence obligated seventy-five thousand dollars to sri-international for the selection and training of INSCOM personnel, with initial orientation at SRI on 15 to 17 November 1978.",
+    "The 902d-mi-group at Fort George G. Meade is the subordinate group whose Security Support Detachment ran the project; its memorandum is addressed through the INSCOM staff to the commanding general.",
+    "Read against waived-usap the case is graded Tier 3, and the note says why: the opened records show service-secretary-level access control over a ridiculed domain, and no opened record connects CENTER LANE to waived status or to any unacknowledged programme."
+   ],
+   "openQuestions": [
+    "The command's 1977 establishment order has not been opened. The board's start date for this node is the year INSCOM's own memorandum gives for the start of the work, not for the command, and the record says so.",
+    "The CENTER LANE security classification guide is on the board's source list with eight pages exempt. What those eight pages withhold is the single most direct statement available about what the access categories were protecting, and it has not been obtained.",
+    "What DIA did with the assets and resources after 2 March 1985 is not established by anything opened for this node. The attachment is documented; the destination programme's own record is not."
+   ]
+  }
+ },
+ {
+  "id": "mj-12-documents",
+  "entityDossier": {
+   "whatItIs": "A corpus of purported briefing papers that entered the public record as a roll of undeveloped 35mm film, postmarked Albuquerque, delivered anonymously to the Los Angeles home of television producer Jaime Shandera on 11 December 1984. Developed, the film produced an eight-page 'Briefing Document: Operation Majestic 12' dated 18 November 1952 and addressed to President-elect Eisenhower, naming twelve officials and describing the recovery of a crashed disc and four bodies near Roswell. Shandera, William L. Moore and Stanton Friedman released it publicly in May 1987. The only associated paper ever located inside a federal record group is the Cutler-Twining memorandum of 14 July 1954, found in Record Group 341.",
+   "whyImplicated": "The corpus is on this board as a forgery with a provenance, not as evidence of a 1947 committee. It matters because the same city, the same interval and the same handful of intermediaries produced the Bennewitz material and the AQUARIUS paper, and because a document with the physical characteristics of a plant was found sitting inside a National Archives record group. A fabricated briefing paper is a curiosity. A fabricated briefing paper that arrives through an Air Force Office of Special Investigations channel and turns up filed in a federal record series is an operation, and the question the board keeps open is who ran it.",
+   "roles": [
+    "concealment",
+    "custody"
+   ],
+   "narrative": "Every institutional body that has examined this corpus has rejected it, and the rejections are unusually specific. The National Archives searched Air Force, Joint Chiefs, National Security Council, Truman Library and Eisenhower Library holdings and came back with one item: the Cutler-Twining memorandum. NARA then enumerated what was wrong with it. There is no Top Secret register number. It sits in a folder containing no other MJ-12 material. It has no official letterhead and no watermark. Its 'Top Secret Restricted Information' marking is one the NSC's own FOIA office says did not come into use until the Nixon administration, which is to say two presidencies after the date on the paper. NARA's conservation specialist determined the sheet was a ribbon copy prepared on diction onionskin. The FBI's own account is blunter still: an Air Force investigation determined the document to be a fake.\n\nThe board's position is therefore not that the documents are disputed but that they are the wrong kind of object to dispute. They are dated 1952 and they behave like an artefact of 1984. The film arrived postmarked Albuquerque in December 1984; the AQUARIUS paper had been shown at Kirtland in April 1983; Moore has admitted cooperating with AFOSI; Richard Doty served as the conduit in the parallel Bennewitz and Howe channels. That is one city, one twenty-month window and one set of people. The board grades the inference Tier 3 and states its reasoning rather than its conclusion, because a concentration in place and time is a pattern and not a proof.\n\nThe most consequential fact about the corpus on this board is a silence. AARO's Historical Record Report of March 2024, tasked with resolving exactly this kind of allegation, does not address MJ-12 or AQUARIUS at all. Two of the most persistent alleged programme names in the entire historical record are absent from the report written to settle the historical record. Whatever the documents are, their omission is a fact about the report rather than about them.",
+   "claims": [
+    {
+     "text": "The FBI states: 'In 1988, two FBI offices received similar versions of a memo titled \"Operation Majestic-12...\" claiming to be highly classified government document... An Air Force investigation determined the document to be a fake.'",
+     "tier": 1,
+     "source": "FBI Records: The Vault, 'Majestic 12', https://vault.fbi.gov/Majestic%2012"
+    },
+    {
+     "text": "NARA found that the Cutler-Twining memorandum bears no Top Secret register number, is filed in a folder containing no other MJ-12 material, lacks official letterhead or watermark, and carries a 'Top Secret Restricted Information' marking that the NSC FOIA office says did not come into use until the Nixon administration.",
+     "tier": 1,
+     "source": "National Archives, Majestic 12 (MJ-12) reference report, https://www.archives.gov/research/military/air-force/ufos"
+    },
+    {
+     "text": "NARA's conservation specialist determined the Cutler-Twining document was a ribbon copy prepared on 'diction onionskin.'",
+     "tier": 1,
+     "source": "National Archives, Majestic 12 (MJ-12) reference report, https://www.archives.gov/research/military/air-force/ufos"
+    },
+    {
+     "text": "AARO's Historical Record Report of March 2024 does not address MJ-12 or AQUARIUS, two of the most persistent alleged programme names in the historical record it was tasked with reviewing.",
+     "tier": 1,
+     "source": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263), https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "text": "The film reached Shandera's Los Angeles home on 11 December 1984, postmarked Albuquerque, New Mexico, the same city as the AFOSI activity running against Paul Bennewitz.",
+     "tier": 2,
+     "source": "FBI Records: The Vault, 'Majestic 12', https://vault.fbi.gov/Majestic%2012 ; Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer, https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/"
+    },
+    {
+     "text": "The MJ-12 documents are an artefact of the same 1980-1985 Albuquerque and Kirtland disinformation activity that produced the Bennewitz material and the AQUARIUS paper, rather than an independent leak.",
+     "tier": 3,
+     "source": "Inference from the Albuquerque postmark, Moore's admitted AFOSI cooperation, Doty's role as conduit in the parallel Howe and Bennewitz channels, and the concentration of all three in a single locality and timeframe."
+    }
+   ],
+   "denialPosture": "This is one of the few nodes on the board carrying a denial that is a directed act by a named denier. AARO's Historical Record Report is recorded as the denier, and the form the denial takes is omission: the report tasked with resolving the historical record does not address the corpus at all. Alongside that sits the FBI's account of an Air Force investigation that determined the document to be a fake, and NARA's itemised findings against the Cutler-Twining memorandum. The board's reading is that the paper is a forgery and the omission is still worth recording, because those are separate facts about separate institutions.",
+   "connections": [
+    "Jaime Shandera received the 35mm film on 11 December 1984; the custody of the corpus begins with him.",
+    "William L. Moore controlled the material's release with Shandera and Friedman, and the pair published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
+    "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within twenty months, a link the board grades Tier 3 on the strength of the postmark, the Kirtland showing of April 1983 and the AFOSI contacts common to both.",
+    "Sidney Souers and Detlev Bronk are named as panel members inside the disputed document, and nothing else. Both links are Tier 3, and the note on each says the offices they held are the reason they are on this board, not the document.",
+    "aaro-historical-record-vol1 is recorded as the denier: the 2024 review does not address MJ-12 or AQUARIUS."
+   ],
+   "openQuestions": [
+    "Nobody has ever identified who sent the film. The postmark is the only physical lead in the record and it establishes a city, not a sender.",
+    "The eight-page briefing document itself has not been opened as a primary artefact for this board. What the board holds is the FBI's file, NARA's findings on the Cutler-Twining memorandum and the secondary literature; the corpus is characterised through its examiners rather than read directly.",
+    "How a document with the physical characteristics NARA described came to be inside Record Group 341 is unexplained by any record opened here. NARA established what the paper is; no opened record establishes how it got into the file."
+   ]
+  }
+ },
+ {
+  "id": "sri-international",
+  "entityDossier": {
+   "whatItIs": "An independent nonprofit research institute, spun out of Stanford University, holding large volumes of classified defence work. From 1972 its Radio Physics Laboratory hosted the psychoenergetics programme run by Harold Puthoff and Russell Targ, funded first by CIA's Office of Technical Service and later by Army INSCOM and the Defense Intelligence Agency under a series of codenames. The programme produced open-literature publication where that was convenient, in Nature on 18 October 1974, and a classified programme record that was not declassified until 1995.",
+   "whyImplicated": "SRI is where the arrangement this board tracks everywhere else was first proven to work: a nonprofit research house with its own security apparatus, a government sponsor that keeps deniability, a published face and a compartmented record. It is not implicated by allegation. The relationship is documented from the sponsor's side, in Army paperwork that names SRI as the contractor and gives the figure, and from the Agency's side, in the description of the programmes it hosted. The personnel line matters as much as the institution: when the work was finally evaluated and terminated, Puthoff did not leave the field, moving on to the Institute for Advanced Studies at Austin, then NIDS, then BAASS, then To The Stars Academy. The template outlived the contract.",
+   "roles": [
+    "research",
+    "funding",
+    "concealment"
+   ],
+   "narrative": "The reason SRI sits at programme level on this board is that it is the earliest fully documented instance of the structure the rest of the board argues about. The government wanted a capability it could not be seen to want. It did not build the capability inside an agency. It put the money through a nonprofit institute in California, took the results back through intelligence channels, and let the researchers publish the uncontroversial half in Nature while the operational half sat behind codenames for twenty years. The CIA's own programme description says the arrangement plainly enough: the work hosted there was 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995.'\n\nThe Army side of the file shows how small and how ordinary the mechanism was. Seventy-five thousand dollars, obligated by Army Intelligence, bought the selection and training of a project manager and three INSCOM subjects, with initial orientation at SRI on 15 to 17 November 1978 and the contract let through AMSAA. That is a line item, not a conspiracy, and it is the point: the institute supplied a method and a set of trained people to a command that then ran the operational work under a Secretary of the Army designated special access programme. The research house never had to hold the compartment. It only had to hold the technique.\n\nThe board's own record here is thinner than the node's importance, and the file says so. Two claims of its own, both Tier 1, and a founding date carried on the node with nothing opened behind it. What SRI is doing on this map rests on documents belonging to its sponsors, which is exactly the condition a private research contractor produces: the institution is legible only through the agencies that paid it.",
+   "claims": [
+    {
+     "text": "Puthoff and Targ's SRI remote-viewing work produced both open-literature publication in Nature on 18 October 1974 and classified programme documentation later declassified in the CIA STARGATE release, including their November 1978 'Standard Remote Viewing Protocol (Local Targets).'",
+     "tier": 1,
+     "source": "R. Targ and H. Puthoff, Nature 251, 602-607, https://www.nature.com/articles/251602a0 ; 'Standard Remote Viewing Protocol (Local Targets)', November 1978, https://www.theblackvault.com/documentarchive/standard-remote-viewing-protocol-local-targets-by-dr-harold-e-puthoff-and-russell-targ-november-1978/"
+    },
+    {
+     "text": "The programmes hosted at SRI were 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995,' following early psychical research at SRI and SAIC.",
+     "tier": 1,
+     "source": "The Stargate Collection, CIA programme description, https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    },
+    {
+     "text": "Army Intelligence obligated seventy-five thousand dollars to support 'an SRI Subject selection and training program for INSCOM personnel over the next year', the money to train a project manager and three subjects, with initial orientation at SRI International on 15 to 17 November 1978 and the contract let via AMSAA.",
+     "tier": 1,
+     "source": "Talking paper, 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME)', with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt"
+    },
+    {
+     "text": "Kit Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed while the SRI work was running.",
+     "tier": 2,
+     "source": "The Stargate Collection, CIA programme description, https://www.theblackvault.com/documentarchive/the-stargate-collection/"
+    }
+   ],
+   "denialPosture": "The board records no denial link on this node in either direction, and no statement by the institute about the programme appears in any record opened here. SRI's posture in the file is not denial but absence: the sponsor's documents describe the work, the sponsor's release schedule governed when it became public, and the contractor is visible only where a government paper names it. That is a structural property of the arrangement rather than a choice anyone is recorded making.",
+   "connections": [
+    "Harold Puthoff founded and led the psychoenergetics programme here from 1972, and Russell Targ was co-principal investigator until 1982; both signed the 1974 Nature paper and the November 1978 protocol.",
+    "SRI methodology transferred into grill-flame, which formalised operational remote viewing at Fort Meade using the SRI protocols while SRI continued as the research contractor.",
+    "inscom paid for the selection and training of its own personnel here, on Army Intelligence money, in 1978.",
+    "Kit Green is carried as CIA's monitor for the work at Tier 2, on his own account of where anomalous-phenomena reporting was routed.",
+    "stargate-program is linked at Tier 2, covering the science half of the effort from 1972; that link rests on secondary encyclopedia sourcing and is graded accordingly."
+   ],
+   "openQuestions": [
+    "The node carries a start date of 1946 with nothing opened behind it. SRI's own founding record, corporate documents and charter have not been obtained for this board.",
+    "No contract instrument is in hand. The seventy-five thousand dollar obligation is documented from the Army's side; the SRI contract itself, its scope and its deliverables are not.",
+    "The record here is two claims of its own, against a node the board treats as an archetype. The succession from SRI to SAIC is named only inside CIA's programme description, and the terms on which the work moved have not been established."
+   ]
+  }
+ },
+ {
+  "id": "atomic-energy-commission",
+  "entityDossier": {
+   "whatItIs": "The civilian atomic authority of the United States from 1 August 1946 to 11 October 1974. It was created by section 2(a) of the Atomic Energy Act of 1946 as a five-member commission appointed by the President with the advice and consent of the Senate, and it took statutory title under section 9(a) to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and such other property in the custody or control of the District as the President might determine. It ran the born-secret information regime, it seated a Division of Military Application under a serving officer of the armed forces from the beginning, and it was abolished by the Energy Reorganization Act of 1974, its functions vesting in ERDA and passing from there to the Department of Energy.",
+   "whyImplicated": "Three reasons, all statutory rather than testimonial. First, it is the only body in American law that has ever held a general custody title of the kind a recovery account requires, and the language of section 9(a) is broad enough to reach property that has nothing to do with fissionable material. Second, it ran the only classification regime in the United States where secrecy attaches by operation of statute rather than by an official's decision, so that a category of information is born classified and stays that way until the Commission affirmatively releases it. Third, it is the landlord: at CIA's request in 1955 it absorbed Groom Lake into its Nevada real estate, and the strip known by its map designation as Area 51 was added to the Nevada Test Site with the President's approval. The Commission's authority is the reason the most secure aviation site in the country sits inside an atomic reservation.",
+   "roles": [
+    "custody",
+    "concealment",
+    "oversight"
+   ],
+   "narrative": "The Commission is on this board for what its statute permits, not for what any witness says it did. Section 9(a) transferred to it 'All fissionable material; all atomic weapons and parts thereof' and, in the same list, 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.' That second clause is a custody instrument with no subject-matter limit in it. Any account that has recovered material moving into federal custody in the late 1940s has to explain which authority received it, and this is the authority whose founding statute was drafted to receive whatever the President said it should receive.\n\nThe classification regime is the second half of the same argument. Restricted data under the 1946 Act is 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.' The default runs the opposite way from every executive-order system on this board: information is secret because of what it is about, and it becomes public only by an affirmative act. A Division of Military Application, statutorily directed by a member of the armed forces, sat inside this civilian body from the first day. Civilian control with a uniformed division and a self-executing secrecy rule is a specific architecture, and it is the one the board keeps pointing at.\n\nThe geography closes the case for placement. CIA's own overhead reconnaissance history records that after the April 1955 overflight, Bissell found Groom Lake was not part of the proving ground, that he and Miller asked the Commission to add it, and that Chairman Lewis Strauss agreed. That is how the site got its jurisdiction. What the board declines to do is take the next step. Four guests across four Michels lead maps place the Commission at a custody point for recovered material. Nothing in either statute, and nothing in the National Archives description of Record Group 326, says anything of the kind. The node carries the statute, and the testimony stays off it.",
+   "claims": [
+    {
+     "text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
+     "tier": 1,
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
+     "tier": 1,
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
+     "tier": 1,
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
+     "tier": 1,
+     "source": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+    },
+    {
+     "text": "The Commission absorbed Groom Lake into its Nevada real estate at CIA's request in 1955. The Agency's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the proving ground, that he and Miller asked the Commission to add it, that Chairman Lewis Strauss agreed, and that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site.",
+     "tier": 1,
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    },
+    {
+     "text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+     "tier": 1,
+     "source": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+    }
+   ],
+   "denialPosture": "The Commission is not recorded on this board as having denied anything, and no denial link touches this node in either direction. Its disclosure letter is the lowest on the map for a reason that is architectural rather than behavioural: a body operating a born-secret regime does not need to deny, because the statute withholds by default and release requires an affirmative act the Commission alone can take. The board's discipline on this node runs the same way. Guest testimony placing it at a custody point for recovered material is not carried as a claim, because the statute and the archival record say nothing to support it.",
+   "connections": [
+    "atomic-energy-act-1946 is the instrument that created it, and section 10 gave it the born-secret regime it ran for twenty-eight years.",
+    "Took statutory transfer of the holdings of manhattan-project-2 under section 9(a) of the 1946 Act.",
+    "Funded afswp by working fund advances to the War Department out of money formerly available to the Manhattan Project, with the Chief and Deputy Chief seated on the Military Liaison Committee to the Commission.",
+    "dtra holds nuclear test participation and radiation exposure records from the Commission's era under Atomic Energy Act authority, while the Commission's own records sit separately at the National Archives as Record Group 326.",
+    "Absorbed l-groom-lake at CIA's request in 1955, and l-nevada-test-site is the reservation into which the strip designated Area 51 was added.",
+    "Abolished in 1974, with its functions passing through ERDA to doe."
+   ],
+   "openQuestions": [
+    "Nothing in the 1946 Act, the 1954 Act or the National Archives description of Record Group 326 speaks to recovered non-nuclear material. The statute permits a custody the record does not evidence, and the board holds only the permission.",
+    "Four guests across four Michels lead maps place the Commission at a custody point for recovered material. Those assertions are named in the node's own record and deliberately not carried as claims; no document has been opened that would raise or refute them.",
+    "The Commission's own series inside Record Group 326 have not been examined. The board cites the record group description, not the records."
+   ]
+  }
+ },
+ {
+  "id": "church-committee",
+  "entityDossier": {
+   "whatItIs": "The Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities, established by Senate Resolution 21 on 27 January 1975 'to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.' Eleven senators, six from the majority and five from the minority, chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman. A staff of 100, including 60 professionals, conducted more than 800 interviews and over 250 executive hearings across documentation in excess of 110,000 pages. Book I of the final report, Senate Report 94-755, was filed on 26 April 1976.",
+   "whyImplicated": "It is the benchmark, and it is the benchmark's own limit case. Two speakers in the Michels corpus who agree on almost nothing else, Michael Shellenberger and Mick West, each name this committee as the model for what congressional penetration of a compartmented programme should look like. The committee's report describes a penetration that was mediated at every step. It never once examined an agency's files on its own. The CIA and other executive agencies limited its access to the full record, in some instances by asserting executive privilege. And three chapters of its findings, one of them the chapter on budgetary oversight, were deleted from the published report at the request of the agencies it was investigating. The most thorough inquiry ever made into the American intelligence system reported that it could not see the files and could not publish what it found about the money.",
+   "roles": [
+    "oversight",
+    "disclosure",
+    "concealment"
+   ],
+   "narrative": "The committee is carried here for what it concedes rather than for what it achieved, and the concession is in its own words: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' That sentence is the sharpest statement on this board of the structural problem every subsequent oversight claim inherits. Subpoena power did not produce unmediated access. What reached the Senate was what the holder of the file elected to hand over.\n\nThe money follows the same pattern twice. Among the committee's findings: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community,' and more broadly that 'Mechanisms for, and the practice of, congressional oversight have not been adequate.' The committee recommended annual publication of the aggregate national intelligence figure. Then the published report's own note records that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' The chapter on budgetary oversight was removed at the request of the agencies whose budgets it examined. Two sections of the covert-action chapter and one section of the State Department chapter went the same way.\n\nThe board uses this node as a calibration point. When a witness says a compartmented programme can be reached by a determined congressional committee, this is the strongest instance available, and it is documented failing on exactly the two axes that matter to this board: file access and money. What it did produce was permanent. It recommended the standing oversight committee that followed it, and the record of its own obstruction survives in the published volumes because the committee chose to print the obstruction alongside the findings.",
+   "claims": [
+    {
+     "text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
+     "tier": 1,
+     "source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
+     "tier": 1,
+     "source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
+     "tier": 1,
+     "source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
+     "tier": 1,
+     "source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
+     "tier": 1,
+     "source": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
+     "tier": 2,
+     "source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)"
+    }
+   ],
+   "denialPosture": "The board carries one denial link on this node and does not assert its direction, because the record does not establish one. What the record does establish is a self-report: the committee's own final report names the Central Intelligence Agency and other executive-branch agencies as having limited its access to the full record, in some instances by asserting executive privilege, and records that three chapters were deleted at the agencies' request. That is a committee describing what was done to it, published in the document the agencies reviewed before it went out. The board treats it as a documented behaviour with the direction left open, rather than converting a self-report into a directed act.",
+   "connections": [
+    "Created as a select committee of us-senate by S. Res. 21 of 27 January 1975.",
+    "Named cia among the executive-branch agencies that limited its access to the full record; the direction of that denial link is not established by the record and the board does not publish one.",
+    "Stands in oversight-congress as the historical benchmark and as the source of the board's sharpest statement of the limit: mechanisms for and the practice of congressional oversight have not been adequate, and in no instance did the committee examine an agency's files on its own.",
+    "Recommended annual publication of the aggregate national intelligence figure, the thread carried here as intel-budget-disclosure-record, while losing its own chapter titled 'Budgetary Oversight' to agency request.",
+    "Recommended the permanent oversight body that followed it, carried at Tier 2 to senate-intelligence because the establishing resolution for that committee was not opened for this pass.",
+    "James Jesus Angleton testified on 17 and 24 September 1975, and Book III documents the mail programme largely through him."
+   ],
+   "openQuestions": [
+    "The three deleted chapters, 'Cover', 'Espionage' and 'Budgetary Oversight', have not been located in any later release. The board knows they existed and knows who asked for their removal, and holds none of their text.",
+    "The board reads Book I directly and Book III through the Angleton citations. Books II, IV, V and VI have not been opened for this node.",
+    "The succession to the permanent Senate Select Committee on Intelligence is graded Tier 2 because the establishing resolution was not opened. The committee's own report refers throughout to 'any successor oversight committee', which is intent, not enactment."
+   ]
+  }
+ },
+ {
+  "id": "nicap",
+  "entityDossier": {
+   "whatItIs": "The National Investigations Committee on Aerial Phenomena, a civilian body at 1536 Connecticut Avenue NW in Washington DC. It states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' It was forming in October 1956 under Thomas Townsend Brown, who told a Scripps-Howard reporter that he was executive vice chairman pro tempore and that the group would elect its nine-man board of governors on 1 November. By 1964 it was directed by Maj. Donald E. Keyhoe with Richard H. Hall as acting director and editor, and it published The UFO Evidence, sending copies to every Member of Congress.",
+   "whyImplicated": "NICAP is the exact boundary this board argues about, staffed from the government side. A private organisation campaigning for hearings the government would not hold, whose board of governors carried a former Director of Central Intelligence and the former Air Force Headquarters monitor of Project Blue Book. Vice Admiral R. H. Hillenkoetter served five years on that board and in 1961 joined a majority of it in urging a Congressional investigation. Dewey Fournet Jr. had been the Pentagon's own liaison to the Dayton project. The organisation is not implicated in concealment; it is implicated in the structure, because it shows senior people moving from the inside of the official effort to the outside of it and then pressing the inside from there. The FBI kept a file on it and the CIA filed its book.",
+   "roles": [
+    "disclosure",
+    "oversight"
+   ],
+   "narrative": "The board narrates this organisation constantly and had never named it as an entity until now, which is itself the argument for its presence. Nearly every legacy-era episode the board carries has a NICAP shape to it: a case pressed publicly by a civilian committee whose officers had held the government's own positions, against an Air Force programme that answered in press releases. The 1964 volume states the charge in print and says where it was sent: the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and 'Copies of this report have been sent to all Members of Congress.' That is a civilian body performing an oversight function that Congress was not performing.\n\nWhat makes the node structural rather than merely historical is the composition of the board of governors. A former Director of Central Intelligence sat on it for five years and joined the campaign for hearings. The former Air Force Headquarters monitor of Project Blue Book, the liaison officer between the Dayton project and the Pentagon, sat on it too. This board spends most of its length tracking people who moved between government programmes and private vehicles; NICAP is the earliest well-documented instance in the legacy era, and the direction of travel is out of the official effort and into public advocacy against it.\n\nThe surveillance runs the other way and is equally documented. The FBI opened file 100-35992 on the organisation and recorded its self-description as furnished by its secretary Richard H. Hall to a Special Agent of the Washington Field Office in May 1961. The copy of The UFO Evidence that this board reads is the CIA's own, released as CIA-RDP81R00560R000100010001-0. A civilian committee campaigning for hearings had a Bureau file and an Agency reading copy. Both facts come from the government's own paper.",
+   "claims": [
+    {
+     "text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+     "tier": 1,
+     "source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+     "tier": 1,
+     "source": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992, part 1, https://archive.org/details/NICAP"
+    },
+    {
+     "text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+     "tier": 1,
+     "source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+     "tier": 1,
+     "source": "The UFO Evidence, NICAP, Washington DC, May 1964, Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+     "tier": 1,
+     "source": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP"
+    }
+   ],
+   "denialPosture": "NICAP issues no denials. It receives none either, in the sense the board means: the denial link on this node has no direction the record establishes. What is documented is the charge running from the civilian side, in print, addressed to Congress. The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and the same volume records that copies went to every Member of Congress. The board carries the accusation as published text and declines to convert it into a directed denial by the Air Force, because no Air Force response is in the record opened here.",
+   "connections": [
+    "Donald Keyhoe was Director by September 1957, when an Air Force headquarters letter addressed him as such at 1536 Connecticut Avenue NW, and was still on the masthead in May 1964. No opened record gives an end date.",
+    "Thomas Townsend Brown ran the organisation at its formation in October 1956 as executive vice chairman pro tempore.",
+    "Roscoe Hillenkoetter served five years on the Board of Governors and in 1961 joined a majority of the board in urging a Congressional investigation.",
+    "project-blue-book is linked through its own former Headquarters monitor, Dewey Fournet Jr., who sat on the 1964 NICAP board after serving as liaison between the Dayton project and the Pentagon.",
+    "cia held and filed NICAP's 1964 volume in its own records; the copy read for this board is the Agency's, marked 'Approved For Release 2001/04/02'.",
+    "usaf is on the other end of the node's only denial link. The direction is not established; what is documented is NICAP's charge of an intolerable degree of secrecy, in print and sent to Congress.",
+    "nufohrc names the NICAP case files as one of its three major collections, at Tier 2, on its own account."
+   ],
+   "openQuestions": [
+    "The District of Columbia corporate register was not opened. The incorporation and its 1956 date rest on NICAP's own statement of them in the 1964 volume, and nothing independent confirms either.",
+    "The board holds no end date for the organisation and none for Keyhoe's directorship. The node runs open because nothing opened here closes it.",
+    "The custody of the NICAP case files rests on the National UFO Historical Records Center's own account of its collections, which is why that link is Tier 2. No inventory, deed of gift or transfer record has been seen."
+   ]
+  }
+ }
+]

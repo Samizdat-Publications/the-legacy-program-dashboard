@@ -2157,6 +2157,232 @@
      "date": "2016-08-15"
     }
    ]
+  },
+  {
+   "id": "atic",
+   "cls": "institution",
+   "desc": "The Air Technical Intelligence Center, established in 1951 out of the Air Materiel Command intelligence organisation (T-2) at Wright Field, was the United States' centre for the exploitation of foreign aerospace technology. It was the organisation that processed the Operation Paperclip haul, that dismantled and reverse-engineered captured Soviet and German airframes, and that was institutionally designed to answer exactly one question: what is this thing and how does it work. Every official UFO project of the legacy era — SIGN, GRUDGE and Blue Book — was hosted here, which is a fact usually reported as an administrative detail and is in fact the central structural point of this domain. The United States did not assign unidentified flying objects to a science agency, an academic body or an air-defence command; it assigned them to the shop that takes recovered hardware apart. The Air Force organizational-history record gives a discontinuation and a new constitution rather than a renaming: the Air Technical Intelligence Center was redesignated Aerospace Technical Intelligence Center on 21 September 1959 and discontinued on 1 July 1961, and the Foreign Technology Division was constituted, activated and organized the same day, absorbing the mission and resources; FTD's own later name is the National Air and Space Intelligence Center, which remains at Wright-Patterson today. It also issued Blue Book Special Report No. 14 in 1955 and was the terminal analytical node under AFR 200-2. If a legacy recovery and exploitation effort existed, ATIC and its successors are the institutional address, and its 1947-1951 T-2 intelligence files have never been subject to a comprehensive declassification review.",
+   "_replacement": "Only one sentence of the desc changes. The exact sentence replaced is: ATIC became the Foreign Technology Division in 1961 and later the National Air and Space Intelligence Center, which remains at Wright-Patterson today.",
+   "claims": [
+    {
+     "tier": 2,
+     "text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
+     "source": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation (private site, sourced to AFHRA)",
+     "url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+     "date": "2025-12-10"
+    }
+   ]
+  },
+  {
+   "id": "stargate-program",
+   "cls": "event",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
+     "source": "Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The Army staff started the work and paid for the first contract in 1978, and INSCOM dates its own entry to 1977. A talking paper records that 'ACSI & MG Rolya agreed that INSCOM would \"check out\" parapsychology phenomen[a], and that Army Intelligence would obligate $75 K to support an SRI Subject selection and training program for INSCOM personnel over the next year'. The 1984 GDIP memorandum states: 'Since the beginning of USAINSCOM's exploitation of psychoenergetics (PE) technology with Project GRILL FLAME in 1977 through the present effort under CENTER LANE, the project has been conducted on an ad hoc basis, using resources taken \"out of hide.\"'",
+     "source": "Talking paper, INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), with milestone attachment dated 24 Nov 78, CIA-RDP96-00788R001200410023-0, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt ; Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
+     "date": "1984-04-04"
+    },
+    {
+     "name": "INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), talking paper, Nov 1978, CIA-RDP96-00788R001200410023-0",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt",
+     "date": "1978-11-24"
+    }
+   ]
+  },
+  {
+   "id": "center-lane",
+   "cls": "program",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The special access designation was the Secretary of the Army's, above INSCOM. The deactivation letter asks HQDA to take 'the necessary actions ... to officially discontinue CENTER LANE as a Secretary of the Army designated Special Access Program', and every page of the project's paperwork carries the warning notice 'CENTER LANE SPECIAL ACCESS PROGRAM RESTRICT DISSEMINATION TO THOSE WITH VERIFIED ACCESS TO CATEGORY THREE (3)'.",
+     "source": "Letter, Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The transfer to DIA was INSCOM's own recommendation, not a DIA rescue after a congressional petition. In July 1984 INSCOM's commanding general wrote that 'INSCOM ... should discontinue our involvement with psychoenergetic research and operations', intended 'to cease INSCOM CENTER LANE Project operations on 30 Sept 1984', and asked for authority to permit 'timely and undisrupted transfer of (1) ICLP operations to a national agency such as DIA or NSA'. The letter of 2 March 1985 then notified HQDA of 'the deactivation of the INSCOM CENTER LANE Project, the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and the retirement of CENTER LANE as an active project nickname'. Nothing opened mentions Vorona or a petition to Congress.",
+     "source": "Memorandum, INSCOM CENTER LANE Project (U), 17 July 1984, CIA-RDP96-00788R001500100011-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt ; letter of 2 March 1985, CIA-RDP96-00789R002100120002-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The security classification guide this node argues from is indexed and withheld. The reading-room item releases a human-use requirements annex and states 'Next 8 Page(s) In Document Exempt'; the guide's own text has not been released.",
+     "source": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985, CIA-RDP96-00789R002100120002-4",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt",
+     "date": "1985-03-02"
+    },
+    {
+     "name": "INSCOM CENTER LANE Project (U), memorandum for ACSI, 17 July 1984, CIA-RDP96-00788R001500100011-4",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt",
+     "date": "1984-07-17"
+    },
+    {
+     "name": "CENTER LANE security classification guide item, eight pages exempt, CIA-RDP96-00788R001500120046-4",
+     "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500120046-4/cia-rdp96-00788r001500120046-4_djvu.txt",
+     "date": "2000-08-08"
+    }
+   ]
+  },
+  {
+   "id": "sapoc",
+   "cls": "institution",
+   "dateStart": "1994-01-05",
+   "desc": "The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of Defense information bulletin of November 1994 records that 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures' and that the plan 'standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals'; the Joint Security Commission called it a 'recent formation' on 28 February 1994. DoD Directive 5205.07 of 1 July 2010 is therefore a later instrument that re-established a committee which had been running for sixteen years, and it survives in the 12 September 2024 reissue as 'the senior governing body of the DoD SAP Enterprise'. Under the 2013 instruction its chair is the Deputy Secretary of Defense, its vice-chair the Under Secretary of Defense for Acquisition, Technology and Logistics, and its executive secretary the Director of DoD SAPCO; its general membership is the Under Secretaries for Policy, Comptroller/CFO, Intelligence, and Personnel and Readiness, the Vice Chairman of the Joint Chiefs of Staff, the DoD Chief Information Officer, the General Counsel of the Department, the Director of Cost Assessment and Program Evaluation, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps. Its three primary functions are to review issues on which the Senior Review Group could not reach unanimity, to ensure combatant command warfighting needs are reflected in SAP programmatics and budgets, and - the function that matters here - to 'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'. In other words, the document Congress receives about special access programs is written and validated by a committee of roughly eighteen senior officials of the Department the report is about, chaired by the same official who signs the carve-outs. This is the body whose membership a witness alleging concealment would have to say was either complicit or itself deceived; DoD's own directive makes that a binary with no third option.",
+   "_replacement": "dateStart moves from 2010-07-01 to 1994-01-05, and one sentence of the desc changes. The exact sentence replaced is: The SAPOC was established by DoD Directive 5205.07 on 1 July 2010 to 'advise and assist the Secretary of Defense (SecDef) and the Deputy Secretary of Defense with governance, management, and oversight of DoD SAPs', and it survives in the 12 September 2024 reissue as 'the senior governing body of the DoD SAP Enterprise'. merge.py's _corrections branch does not carry dateStart, so the same change is made at source in research/w2-sap-architecture.json, which is the only research file that declares it.",
+   "claims": [
+    {
+     "tier": 2,
+     "text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+     "source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html"
+    },
+    {
+     "tier": 2,
+     "text": "The annual review and validation function this node attributes to the 2010 directive is in the 1994 bulletin: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+     "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html"
+    },
+    {
+     "tier": 2,
+     "text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
+     "source": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html"
+    },
+    {
+     "tier": 1,
+     "text": "A commission chartered by the Secretary of Defense and the Director of Central Intelligence corroborated the formation within two months: 'Until recently there has been no procedure for centralized assessment of special program proposals submitted directly to the Deputy Secretary of Defense by the military departments. The recent formation of the DoD Special Access Program Oversight Committee, which the Commission fully supports, will ensure that every program is reviewed by a panel of senior officials prior to its establishment, and annually thereafter, to determine whether compartmentation for each program is still required.'",
+     "source": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Deputy Secretary of Defense, Special Access Program Oversight Committee Information Bulletin, November 1994 (FAS transcription)",
+     "url": "https://sgp.fas.org/othergov/sapoc.html",
+     "date": "1994-11-01"
+    },
+    {
+     "name": "Joint Security Commission, Redefining Security, chapter 2, Classification Management",
+     "url": "https://sgp.fas.org/library/jsc/chap2.html",
+     "date": "1994-02-28"
+    }
+   ]
+  },
+  {
+   "id": "nara-rg615",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The FAA series in this collection is withheld in part under a named statutory postponement code. The catalog's own metadata export for NAID 493468575 gives access restriction status 'Restricted - Partly' with the specific restriction 'UAP Records Collection Postponement Code 1843(a)(3)' and a use restriction of 'Unrestricted'. The series is titled 'Records from the Federal Aviation Administration Relating to Unidentified Anomalous Phenomena', carries accessions TR-0615-2025-0006 and TR-0615-2025-0008, an extent of 575 portable document files, and is held at the National Archives at College Park, Electronic Records.",
+     "source": "National Archives Catalog metadata export for NAID 493468575, https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json"
+    }
+   ],
+   "sources": [
+    {
+     "name": "National Archives Catalog metadata export for the FAA series, NAID 493468575",
+     "url": "https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json",
+     "date": "2026-09-02"
+    },
+    {
+     "name": "National Archives, Record Group 615: Unidentified Anomalous Phenomena Records Collection",
+     "url": "https://www.archives.gov/research/topics/uaps/rg-615",
+     "date": "2026-08-28"
+    }
+   ]
+  },
+  {
+   "id": "haines-cia-history",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Gerald K. Haines, CIA's Role in the Study of UFOs, 1947-90, Studies in Intelligence, mirrored full text",
+     "url": "https://www.nicap.org/ciarole.htm",
+     "date": "1997-01-01"
+    }
+   ]
+  },
+  {
+   "id": "immaculate-constellation-12-page-report",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The report's own first page states who cleared the public version: 'This public version of the author's report was reviewed and approved for public release by the Department of State, Bureau of Global Public Affairs.' The bureau is Global Public Affairs.",
+     "source": "Immaculate Constellation report as submitted to the House Oversight joint subcommittee hearing of 13 November 2024, committee repository document HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The introduction names the report's structure: 'In this public version of the report, information is organized into seven categories of evidence, including: an Unacknowledged Special Access Program (uSAP); Imagery Intelligence (IMINT); human intelligence (HUMINT); signals intelligence (SIGINT); USG bureaucratic records; USG historical records; and other sensitive sources.' The body runs as Sections 1 to 7 in that order, Section 7 'Sensitive Sources' consisting of the single sentence 'From mouth to ear.'",
+     "source": "HHRG-118-GO12-20241113-SD003, pages 1 and 11, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Section 2, USG Imagery Intelligence, catalogues nine incidents, each headed by the combatant command it came from. Two are CENTCOM, headed 'CENTCOM Cuboid Formation of Metallic Orbs' and 'CENTCOM Fast Mover Observed Transiting Over Sensitive Facilities'; four are INDOPACOM, two NORTHCOM and one SOUTHCOM. The nine is the incident count; the seven elsewhere in the report is its count of evidence categories, not of incidents.",
+     "source": "HHRG-118-GO12-20241113-SD003, pages 3 to 5, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The introduction names the mechanism under which the report reached Congress: the investigation was 'provided to Congress through the UAP whistleblower mechanisms established by the FY23 National Defense Authorization Act, and the FY23 National Intelligence Authorization Act.' The report names the two as separate authorities.",
+     "source": "HHRG-118-GO12-20241113-SD003, page 1, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The document as submitted and published by the committee is twelve scanned pages with no text layer. Pages 1 to 11 run continuously from the heading 'Introduction' to the end of 'VI. Conclusion' and its closing line 'Scientia Igne Probata; Veritas Per Fidem'; page 12 is blank. No cover letter, transmittal, author name, classification marking or control number appears on any of the twelve pages.",
+     "source": "HHRG-118-GO12-20241113-SD003, all twelve pages, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The hearing record gives the page count as twelve in the chair's own words, twice, and credits the delivery to Shellenberger: 'I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.' Earlier in the same session Mace said 'Mr. Burchett will enter it into the record, but 12 pages about this unacknowledged special access program that your government says does not exist.'",
+     "source": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The report is not in the Congressional Record copy this node cites. The GPO hearing print CHRG-118hhrg57440 lists the report in its Index of Documents and then says 'The documents listed above are available at: docs.house.gov'; the words Global, CENTCOM, cover letter and signals intelligence occur nowhere in that print. The document itself is committee repository item HHRG-118-GO12-20241113-SD003.",
+     "source": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Immaculate Constellation report as submitted, House Oversight committee repository, HHRG-118-GO12-20241113-SD003",
+     "url": "https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
+     "date": "2024-11-13"
+    },
+    {
+     "name": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), PDF",
+     "url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
+     "date": "2024-11-13"
+    }
+   ]
   }
  ],
  "edges": [],

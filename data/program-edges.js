@@ -3566,6 +3566,1342 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'gordon-gray',
+    b: 'd-psyop',
+    type: 'institutional',
+    label: 'First Director of the Psychological Strategy Board, appointed 1951',
+    claimTier: 1,
+    dateStart: '1951',
+    dateEnd: '1952',
+    note: 'Truman\'s directive of 4 April 1951 created the Board to formulate and promulgate \'over-all national psychological objectives, policies and programs\' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.',
+    sources: [
+      {
+        name: 'FRUS 1951 vol. I doc. 16, directive of 4 April 1951 and footnote 3',
+        url: 'https://history.state.gov/historicaldocuments/frus1951v01/d16',
+        date: '1951-04-04'
+      }
+    ]
+  },
+  {
+    a: 'gordon-gray',
+    b: 'cia',
+    type: 'institutional',
+    label: 'Sat with the Director of Central Intelligence on the Psychological Strategy Board',
+    claimTier: 1,
+    dateStart: '1951',
+    dateEnd: '1952',
+    note: 'The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.',
+    sources: [
+      {
+        name: 'Minutes of a Meeting of the Psychological Strategy Board, PSB M-2, 13 August 1951',
+        url: 'https://history.state.gov/historicaldocuments/frus1950-55Intel/d82',
+        date: '1951-08-13'
+      }
+    ]
+  },
+  {
+    a: 'gordon-gray',
+    b: 'dod',
+    type: 'institutional',
+    label: 'Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57',
+    claimTier: 1,
+    dateStart: '1949-06-20',
+    dateEnd: '1957-02',
+    note: 'The Office of the Historian\'s persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.',
+    sources: [
+      {
+        name: 'Persons, FRUS 1950-1955, The Intelligence Community',
+        url: 'https://history.state.gov/historicaldocuments/frus1950-55Intel/persons',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'institute-of-field-physics',
+    b: 'george-trimble',
+    type: 'funding',
+    label: 'Trimble and the Glenn L. Martin Company bought a Founder\'s Membership for $5,000',
+    claimTier: 1,
+    dateStart: '1955',
+    dateEnd: null,
+    note: 'The department history records that Trimble and the Glenn Martin Company purchased a Founder\'s Membership for the Institute for $5,000 and offered their support to solicit further funding.',
+    sources: [
+      {
+        name: 'History of the Institute of Field Physics (1955-1959), Section II',
+        url: 'https://physics.unc.edu/department-history/section-ii/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'institute-of-field-physics',
+    b: 'rias-inc',
+    type: 'institutional',
+    label: 'The academic counterpart to the Martin company\'s own institute, deliberately kept separate',
+    claimTier: 1,
+    dateStart: '1955',
+    dateEnd: null,
+    note: 'The same source describes the Martin company standing up what \'would become RIAS\' at the same moment, and says the Institute of Field Physics was placed inside a university \'so as to avoid the conflict that physicists felt working in an industrial setting\'.',
+    sources: [
+      {
+        name: 'History of the Institute of Field Physics (1955-1959), Section II',
+        url: 'https://physics.unc.edu/department-history/section-ii/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'institute-of-field-physics',
+    b: 'louis-witten',
+    type: 'research',
+    label: 'Witten took part in the Institute\'s inaugural Chapel Hill conference',
+    claimTier: 1,
+    dateStart: '1957-01',
+    dateEnd: null,
+    note: 'The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute\'s inaugural event.',
+    sources: [
+      {
+        name: 'History of the Institute of Field Physics (1955-1959), Section II',
+        url: 'https://physics.unc.edu/department-history/section-ii/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'institute-of-field-physics',
+    b: 'd-prop',
+    type: 'denial',
+    label: 'Standing written disclaimer of any connection to anti-gravity research',
+    claimTier: 1,
+    dateStart: '1955-11',
+    dateEnd: null,
+    note: 'On Wheeler\'s insistence a Protection Clause was attached to every publicity statement declaring that the work \'has no connection with so-called "anti-gravity research" of whatever kind and for whatever purposes\'. The direction of this edge is the Institute denying the field, not the field denying the Institute.',
+    sources: [
+      {
+        name: 'History of the Institute of Field Physics (1955-1959), Section II',
+        url: 'https://physics.unc.edu/department-history/section-ii/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'donald-h-menzel',
+    b: 'condon-committee',
+    type: 'research',
+    label: 'The Colorado project\'s own history chapter endorses his debunking book',
+    claimTier: 1,
+    dateStart: '1969',
+    dateEnd: null,
+    note: 'Section V chapter 2 of the report, written by Condon, calls Menzel\'s 1953 Flying Saucers \'an excellent book\' and notes it is \'generally regarded as "debunking" and "negative."\' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.',
+    sources: [
+      {
+        name: 'Condon Report, Section V chapter 2',
+        url: 'https://files.ncas.org/condon/text/s5chap02.htm',
+        date: '1969'
+      }
+    ]
+  },
+  {
+    a: 'donald-h-menzel',
+    b: 'edward-condon',
+    type: 'behavioral',
+    label: 'Condon praised him by name in the study he directed',
+    claimTier: 1,
+    dateStart: '1969',
+    dateEnd: null,
+    note: 'The praise is Condon\'s own, in his own chapter, and it is the specific sentence that bears on this board\'s argument that the Colorado study was disposed towards a conclusion before it reported.',
+    sources: [
+      {
+        name: 'Condon Report, Section V chapter 2',
+        url: 'https://files.ncas.org/condon/text/s5chap02.htm',
+        date: '1969'
+      }
+    ]
+  },
+  {
+    a: 'donald-h-menzel',
+    b: 'd-denial',
+    type: 'denial',
+    label: 'Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977',
+    claimTier: 1,
+    dateStart: '1953',
+    dateEnd: '1977',
+    note: 'The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.',
+    sources: [
+      {
+        name: 'Condon Report, Section V chapter 2; Internet Archive catalogue record for The UFO Enigma',
+        url: 'https://files.ncas.org/condon/text/s5chap02.htm',
+        date: '1969'
+      }
+    ]
+  },
+  {
+    a: 'jaric',
+    b: 'uk-mod',
+    type: 'institutional',
+    label: 'Ministry of Defence imagery-intelligence unit with Operations Record Books at Kew, 1950-1992',
+    claimTier: 1,
+    dateStart: '1950',
+    dateEnd: '1992',
+    note: 'The unit\'s Operations Record Books are catalogued in the Air Ministry and Ministry of Defence series AIR 29, from RAF Nuneham Park in 1950 to RAF Brampton in 1992, with a separate administrative history at AIR 14/4103.',
+    sources: [
+      {
+        name: 'The National Archives Discovery catalogue',
+        url: 'https://discovery.nationalarchives.gov.uk/API/search/records?sps.searchQuery=%22Joint%20Air%20Reconnaissance%20Intelligence%20Centre%22',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'jaric',
+    b: 'uk-defe24',
+    type: 'custody',
+    label: 'The Defence Secretariat file covering the claimed assessment is closed until 2076',
+    claimTier: 1,
+    dateStart: '1990-08-01',
+    dateEnd: '2076-01-01',
+    note: 'DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.',
+    sources: [
+      {
+        name: 'The National Archives Discovery catalogue records for DEFE 24/1940 and DEFE 24/1940/1',
+        url: 'https://discovery.nationalarchives.gov.uk/API/records/v1/details/C11483085',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'james-v-forrestal',
+    b: 'dod',
+    type: 'institutional',
+    label: 'First Secretary of Defense, 17 September 1947 to 28 March 1949',
+    claimTier: 1,
+    dateStart: '1947-09-17',
+    dateEnd: '1949-03-28',
+    note: 'The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian\'s persons list dates his tenure to the day.',
+    sources: [
+      {
+        name: 'National Security Act of 1947, 61 Stat. 495, sec. 202(a); Persons, FRUS Emergence of the Intelligence Establishment',
+        url: 'https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf',
+        date: '1947-07-26'
+      }
+    ]
+  },
+  {
+    a: 'james-v-forrestal',
+    b: 'us-navy',
+    type: 'institutional',
+    label: 'Secretary of the Navy until September 1947',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: '1947-09',
+    note: 'The Office of the Historian\'s persons list gives \'Secretary of the Navy until September 1947\' immediately before the Defense appointment.',
+    sources: [
+      {
+        name: 'Persons, FRUS, Emergence of the Intelligence Establishment, 1945-1950',
+        url: 'https://history.state.gov/historicaldocuments/frus1945-50Intel/persons',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'james-v-forrestal',
+    b: 'd-mj12',
+    type: 'denial',
+    label: 'The 1987 Lear document gives him a military rank his own office forbade',
+    claimTier: 2,
+    dateStart: '1987-12-29',
+    dateEnd: null,
+    note: 'Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him \'General James V. Forestall\'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.',
+    sources: [
+      {
+        name: 'National Security Act of 1947, 61 Stat. 495, sec. 202(a)',
+        url: 'https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf',
+        date: '1947-07-26'
+      }
+    ]
+  },
+  {
+    a: 'sidney-souers',
+    b: 'cia',
+    type: 'institutional',
+    label: 'First Director of Central Intelligence, 22 January to 10 June 1946',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.',
+    sources: [
+      {
+        name: 'FRUS 1945-50 Intel, Docs. 71 and 137, and List of Persons',
+        url: 'https://history.state.gov/historicaldocuments/frus1945-50Intel/d137',
+        date: '1946-02-02'
+      }
+    ]
+  },
+  {
+    a: 'sidney-souers',
+    b: 'roscoe-hillenkoetter',
+    type: 'institutional',
+    label: 'Successive holders of the DCI post; in the same room at the NSC\'s first meeting',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council\'s first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.',
+    sources: [
+      {
+        name: 'FRUS 1945-50 Intel, Doc. 225 and List of Persons',
+        url: 'https://history.state.gov/historicaldocuments/frus1945-50Intel/d225',
+        date: '1947-09-26'
+      }
+    ]
+  },
+  {
+    a: 'sidney-souers',
+    b: 'mj-12-documents',
+    type: 'investigative',
+    label: 'Named as a panel member inside the disputed document',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.',
+    sources: [
+      {
+        name: 'Area 52 DEBRIEFED, ep. 22, the MJ-12 document read by Chris Ramsay (lead map research/leads/area52-corpus-02.md, file 02)',
+        url: 'https://history.state.gov/historicaldocuments/frus1945-50Intel/persons',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'detlev-bronk',
+    b: 'mj-12-documents',
+    type: 'investigative',
+    label: 'Named as a panel member inside the disputed document',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.',
+    sources: [
+      {
+        name: 'Area 52 DEBRIEFED, lead maps research/leads/area52-corpus-01.md file 20, -02.md file 02 and -05.md file 02',
+        url: 'https://history.state.gov/historicaldocuments/frus1961-63v25/persons',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'donald-keyhoe',
+    b: 'nicap',
+    type: 'institutional',
+    label: 'Director, by September 1957 and still in post May 1964',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation\'s May 1964 volume carries him on its masthead as director. No opened record gives an end date.',
+    sources: [
+      {
+        name: 'The UFO Evidence, 1964, masthead and the First Air Force letter of 20 September 1957 reproduced in it',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0',
+        date: '1964-05-01'
+      }
+    ]
+  },
+  {
+    a: 'donald-keyhoe',
+    b: 'roscoe-hillenkoetter',
+    type: 'institutional',
+    label: 'Long-time acquaintance; recruited a former DCI onto NICAP\'s Board of Governors',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'NICAP\'s 1964 volume describes Hillenkoetter as \'a long-time acquaintance of Major Keyhoe\' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.',
+    sources: [
+      {
+        name: 'The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0',
+        date: '1964-05-01'
+      }
+    ]
+  },
+  {
+    a: 'donald-keyhoe',
+    b: 'cia',
+    type: 'denial',
+    label: 'CIA routed his UFO inquiries to the Air Force and made it a precedent',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.',
+    sources: [
+      {
+        name: 'CIA reading room document 0005516043',
+        url: 'https://archive.org/details/cia-readingroom-document-0005516043',
+        date: '1958-04-04'
+      }
+    ]
+  },
+  {
+    a: 'donald-keyhoe',
+    b: 'usaf',
+    type: 'denial',
+    label: 'The Air Force insisted on being the single channel for his inquiries',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.',
+    sources: [
+      {
+        name: 'CIA reading room document 0005516043',
+        url: 'https://archive.org/details/cia-readingroom-document-0005516043',
+        date: '1958-04-04'
+      }
+    ]
+  },
+  {
+    a: 'deep-submergence-systems-project',
+    b: 'us-navy',
+    type: 'institutional',
+    label: 'Assigned by the Secretary of the Navy to the Special Projects Office, February 1964',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy\'s Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11.',
+    sources: [
+      {
+        name: 'David Taylor Model Basin Report 1985 (DTIC AD-614632) and Office of the Oceanographer of the Navy, September 1967 (DTIC AD-665974)',
+        url: 'https://archive.org/details/DTIC_AD0614632',
+        date: '1965-03-01'
+      }
+    ]
+  },
+  {
+    a: 'atic',
+    b: 'foreign-technology-division',
+    type: 'institutional',
+    label: 'ATIC discontinued 1 July 1961; FTD constituted the same day and absorbed its mission',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board\'s prose describes.',
+    sources: [
+      {
+        name: 'Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA',
+        url: 'https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'foreign-technology-division',
+    b: 'project-blue-book',
+    type: 'programmatic',
+    label: 'Held the Blue Book effort by regulation from 19 September 1966',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.',
+    sources: [
+      { name: 'AFR 80-17, 19 September 1966', url: 'https://nicap.org/afr80-17.htm', date: '1966-09-19' }
+    ]
+  },
+  {
+    a: 'foreign-technology-division',
+    b: 'l-wright-patterson',
+    type: 'geographic',
+    label: 'Stationed at Wright-Patterson AFB, Ohio',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'AFR 80-17 names the station in the assignment itself: \'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio\'.',
+    sources: [
+      { name: 'AFR 80-17, 19 September 1966', url: 'https://nicap.org/afr80-17.htm', date: '1966-09-19' }
+    ]
+  },
+  {
+    a: 'foreign-technology-division',
+    b: 'nasic',
+    type: 'institutional',
+    label: 'Same Wright-Patterson lineage; NASIC is the later name',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.',
+    sources: [
+      {
+        name: 'Aerospace Technical Intelligence Center, DAF Organizational Histories compilation sourced to AFHRA',
+        url: 'https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf',
+        date: '2025-12-10'
+      }
+    ]
+  },
+  {
+    a: 'foreign-technology-division',
+    b: 'usaf',
+    type: 'institutional',
+    label: 'Air Force Systems Command organisation under the DCS/Research and Development for the UFO programme',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.',
+    sources: [
+      { name: 'AFR 80-17, 19 September 1966', url: 'https://nicap.org/afr80-17.htm', date: '1966-09-19' }
+    ]
+  },
+  {
+    a: 'stic-usib',
+    b: 'cia',
+    type: 'institutional',
+    label: 'Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI\'s community machinery.',
+    sources: [
+      {
+        name: 'CHARTER, STIC, 23 October 1974, and Letter of Instruction, 3 August 1975',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp80m01133a000100210002-3',
+        date: '1975-08-03'
+      }
+    ]
+  },
+  {
+    a: 'monroe-institute',
+    b: 'center-lane',
+    type: 'programmatic',
+    label: 'INSCOM assessed the Institute\'s Gateway training in June 1983, inside CENTER LANE\'s span',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The memorandum is an INSCOM product of 9 June 1983 written for USAINSCOM personnel required to take Gateway training, and CENTER LANE is INSCOM\'s remote-viewing special access programme of 1983 to 1986; the assessment is contemporaneous with the programme and issued by the same command.',
+    sources: [
+      {
+        name: 'Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5',
+        date: '1983-06-09'
+      }
+    ]
+  },
+  {
+    a: 'monroe-institute',
+    b: 'stargate-program',
+    type: 'research',
+    label: 'A private method brought inside the Army\'s remote-viewing effort as required training',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute\'s method inside the programme chain the STAR GATE node covers.',
+    sources: [
+      {
+        name: 'Analysis and Assessment of Gateway Process, 9 June 1983, CIA-RDP96-00788R001700210016-5',
+        url: 'https://archive.org/details/cia-readingroom-document-cia-rdp96-00788r001700210016-5',
+        date: '1983-06-09'
+      }
+    ]
+  },
+  {
+    a: 'belgian-af-f16-intercept-1990',
+    b: 'uk-defe24',
+    type: 'custody',
+    label: 'The Belgian material sits in named DEFE 24 pieces',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The National Archives\' guide places the Belgian Air Force\'s November 1993 statement at DEFE 24/1970 pages 86 to 87 and de Brouwer\'s four-page account at DEFE 24/1960 pages 320 to 324, with further references in DEFE 24/1962 and DEFE 24/1965.',
+    sources: [
+      {
+        name: 'TNA Highlights Guide, August 2009 tranche',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf',
+        date: '2009-08-17'
+      }
+    ]
+  },
+  {
+    a: 'belgian-af-f16-intercept-1990',
+    b: 'uk-mod',
+    type: 'denial',
+    label: 'Not informed at the time, and no threat to the UK',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.',
+    sources: [
+      {
+        name: 'TNA Highlights Guide, August 2009 tranche',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf',
+        date: '2009-08-17'
+      }
+    ]
+  },
+  {
+    a: 'belgian-af-f16-intercept-1990',
+    b: 'doc-condign-vol3',
+    type: 'research',
+    label: 'Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Volume 2\'s figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4\'s country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.',
+    sources: [
+      {
+        name: 'Project Condign Volume 2 OCR text',
+        url: 'https://archive.org/download/condign-vol-2-1-258/Condign_Vol_2_1-258_djvu.txt',
+        date: '2000-01-01'
+      }
+    ]
+  },
+  {
+    a: 'cosford-incident-1993',
+    b: 'uk-mod-ufo-desk',
+    type: 'investigative',
+    label: 'The UFO desk worked the case and asked for a radar replay',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The National Archives\' guide says the MoD\'s UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.',
+    sources: [
+      {
+        name: 'TNA Highlights Guide, August 2009 tranche',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf',
+        date: '2009-08-17'
+      }
+    ]
+  },
+  {
+    a: 'cosford-incident-1993',
+    b: 'uk-defe24',
+    type: 'custody',
+    label: 'DEFE 24/2086, closed to 2078, open only as a redacted digital copy',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.',
+    sources: [
+      {
+        name: 'TNA Discovery catalogue, DEFE 24/2086 and DEFE 24/2086/1',
+        url: 'https://discovery.nationalarchives.gov.uk/API/search/records',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'cosford-incident-1993',
+    b: 'project-condign',
+    type: 'temporal',
+    label: 'Three years before the policy review that commissioned Condign',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Reasoning: `project-condign`\'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.',
+    sources: [
+      {
+        name: 'TNA Highlights Guide, August 2009 tranche, read against the project-condign node',
+        url: 'https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf',
+        date: '2009-08-17'
+      }
+    ]
+  },
+  {
+    a: 'inscom',
+    b: 'center-lane',
+    type: 'programmatic',
+    label: 'INSCOM ran CENTER LANE and ended it',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The project\'s own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.',
+    sources: [
+      {
+        name: 'INSCOM CENTER LANE Project (U), 17 July 1984',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100011-4/cia-rdp96-00788r001500100011-4_djvu.txt',
+        date: '1984-07-17'
+      }
+    ]
+  },
+  {
+    a: 'inscom',
+    b: 'grill-flame',
+    type: 'programmatic',
+    label: 'GRILL FLAME was INSCOM\'s entry into the field in 1977',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The 4 April 1984 GDIP memorandum dates USAINSCOM\'s exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).',
+    sources: [
+      {
+        name: 'CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt',
+        date: '1984-04-04'
+      }
+    ]
+  },
+  {
+    a: 'inscom',
+    b: 'dia',
+    type: 'custody',
+    label: 'CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'INSCOM\'s letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.',
+    sources: [
+      {
+        name: 'Deactivation of INSCOM CENTER LANE Project (ICLP) as a Special Access Program (SAP) (U), 2 March 1985',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt',
+        date: '1985-03-02'
+      }
+    ]
+  },
+  {
+    a: 'inscom',
+    b: 'sri-international',
+    type: 'funding',
+    label: 'Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.',
+    sources: [
+      {
+        name: 'INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME), Nov 1978',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001200410023-0/cia-rdp96-00788r001200410023-0_djvu.txt',
+        date: '1978-11-24'
+      }
+    ]
+  },
+  {
+    a: 'inscom',
+    b: 'waived-usap',
+    type: 'programmatic',
+    label: 'A ridiculed subject held inside service-secretary-level access controls',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board\'s structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.',
+    sources: [
+      {
+        name: 'Deactivation letter of 2 March 1985 read against the waived-usap node',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00789r002100120002-4/cia-rdp96-00789r002100120002-4_djvu.txt',
+        date: '1985-03-02'
+      }
+    ]
+  },
+  {
+    a: '902d-mi-group',
+    b: 'inscom',
+    type: 'institutional',
+    label: 'Subordinate group of USAINSCOM at Fort George G. Meade',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The group\'s own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.',
+    sources: [
+      {
+        name: 'CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt',
+        date: '1984-04-04'
+      }
+    ]
+  },
+  {
+    a: '902d-mi-group',
+    b: 'center-lane',
+    type: 'programmatic',
+    label: 'Its Security Support Detachment was the CENTER LANE project office',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The detachment\'s office symbol IAGPA-F-SD heads both the April 1984 GDIP submission signed by the CENTER LANE Project Manager and the July 1984 information paper on the project\'s cancellation.',
+    sources: [
+      {
+        name: 'CENTER LANE FY 86 - 90 GDIP Submission, 4 April 1984, and Cancellation of the INSCOM CENTER LANE Project, 13 Jul 84',
+        url: 'https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001500100016-9/cia-rdp96-00788r001500100016-9_djvu.txt',
+        date: '1984-07-13'
+      }
+    ]
+  },
+  {
+    a: 'james-jesus-angleton',
+    b: 'cia',
+    type: 'institutional',
+    label: 'Chief of the Counterintelligence Staff, 1954 to 1974',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Church Committee\'s Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout.',
+    sources: [
+      {
+        name: 'S. Rept. 94-755, Book III',
+        url: 'https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf',
+        date: '1976-04-23'
+      }
+    ]
+  },
+  {
+    a: 'james-jesus-angleton',
+    b: 'church-committee',
+    type: 'investigative',
+    label: 'Testified in September 1975; the mail programme is documented largely through him',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.',
+    sources: [
+      {
+        name: 'S. Rept. 94-755, Book III',
+        url: 'https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf',
+        date: '1976-04-23'
+      }
+    ]
+  },
+  {
+    a: 'james-jesus-angleton',
+    b: 'waived-usap',
+    type: 'behavioral',
+    label: 'Documented precedent for an activity exempted from its own department\'s approval machinery',
+    claimTier: 3,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Reasoning: the board\'s structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency\'s own words, and the analogy is the board\'s, not the Committee\'s. No opened record connects Angleton to any DoD special access programme.',
+    sources: [
+      {
+        name: 'S. Rept. 94-755, Book III, read against the waived-usap node',
+        url: 'https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf',
+        date: '1976-04-23'
+      }
+    ]
+  },
+  {
+    a: 'dod-sap-reform-1994',
+    b: 'sapoc',
+    type: 'institutional',
+    label: 'The committee the board dates to 2010 was running from January 1994',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.',
+    sources: [
+      {
+        name: 'SAPOC Information Bulletin, November 1994',
+        url: 'https://sgp.fas.org/othergov/sapoc.html',
+        date: '1994-11-01'
+      }
+    ]
+  },
+  {
+    a: 'dod-sap-reform-1994',
+    b: 'dod-sapco',
+    type: 'institutional',
+    label: 'The SAPCO staffed the committee from the start',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO \'serves as the primary point of contact with Congress, the National Security Council, and other government agencies\'.',
+    sources: [
+      {
+        name: 'SAPOC Information Bulletin, November 1994',
+        url: 'https://sgp.fas.org/othergov/sapoc.html',
+        date: '1994-11-01'
+      }
+    ]
+  },
+  {
+    a: 'dod-sap-reform-1994',
+    b: 'waived-usap',
+    type: 'programmatic',
+    label: 'Waived and carved-out programmes named in a chartered commission\'s report',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Joint Security Commission\'s chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.',
+    sources: [
+      {
+        name: 'Joint Security Commission, Redefining Security, chapter 2',
+        url: 'https://sgp.fas.org/library/jsc/chap2.html',
+        date: '1994-02-28'
+      }
+    ]
+  },
+  {
+    a: 'dod-sap-reform-1994',
+    b: 'dodd-5205-07-2024',
+    type: 'temporal',
+    label: 'The later directive re-established a body of the same name',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.',
+    sources: [
+      {
+        name: 'SAPOC Information Bulletin, November 1994, read against the dodd-5205-07-2024 node',
+        url: 'https://sgp.fas.org/othergov/sapoc.html',
+        date: '1994-11-01'
+      }
+    ]
+  },
+  {
+    a: 'afswp',
+    b: 'atomic-energy-commission',
+    type: 'funding',
+    label: 'Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.',
+    sources: [
+      {
+        name: 'War Department Memorandum No. 850-25-8, para. 6, in Defense\'s Nuclear Agency 1947-1997',
+        url: 'https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt',
+        date: '1947-03-18'
+      }
+    ]
+  },
+  {
+    a: 'afswp',
+    b: 'sandia',
+    type: 'geographic',
+    label: 'Sandia Base operations and the 1947 split of security and intelligence duties with the AEC',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The agency history places AFSWP\'s training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.',
+    sources: [
+      {
+        name: 'Defense\'s Nuclear Agency 1947-1997, ch. \'The Post-War Transition\' and Appendix C chronology',
+        url: 'https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt',
+        date: '2002-01-01'
+      }
+    ]
+  },
+  {
+    a: 'afswp',
+    b: 'dod',
+    type: 'institutional',
+    label: 'Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.',
+    sources: [
+      {
+        name: 'Records of the Defense Threat Reduction Agency, RG 374, sec. 374.1 and 374.2',
+        url: 'https://www.archives.gov/research/guide-fed-records/groups/374.html',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'dtra',
+    b: 'dod',
+    type: 'institutional',
+    label: 'Established as a DoD combat support agency by DoD Directive 5105.62',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.',
+    sources: [
+      {
+        name: 'RG 374, sec. 374.1',
+        url: 'https://www.archives.gov/research/guide-fed-records/groups/374.html',
+        date: '1998-10-01'
+      }
+    ]
+  },
+  {
+    a: 'dtra',
+    b: 'atomic-energy-commission',
+    type: 'custody',
+    label: 'Holds nuclear test participation and radiation exposure records from the Commission\'s era, under Atomic Energy Act authority',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'DTRA\'s published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission\'s own records are held separately by the National Archives as RG 326.',
+    sources: [
+      {
+        name: '63 FR 68736, systems HDTRA 010 and HDTRA 020',
+        url: 'https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records',
+        date: '1998-12-14'
+      }
+    ]
+  },
+  {
+    a: 'office-of-naval-research',
+    b: 'us-navy',
+    type: 'institutional',
+    label: 'Created inside the Office of the Secretary of the Navy, 1 August 1946',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.',
+    sources: [
+      {
+        name: 'Public Law 79-588, 60 Stat. 779, sec. 1',
+        url: 'https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf',
+        date: '1946-08-01'
+      }
+    ]
+  },
+  {
+    a: 'office-of-naval-research',
+    b: 'atomic-energy-act-1946',
+    type: 'temporal',
+    label: 'Approved the same day as the Atomic Energy Act of 1946',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.',
+    sources: [
+      {
+        name: 'Public Law 79-588, 60 Stat. 779, approval line and running head',
+        url: 'https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg779.pdf',
+        date: '1946-08-01'
+      }
+    ]
+  },
+  {
+    a: 'ukusa-agreement-1946',
+    b: 'nsa',
+    type: 'institutional',
+    label: 'Released by NSA with its declassification markings on the pages',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency\'s UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.',
+    sources: [
+      {
+        name: 'Outline of British-U.S. Communication Intelligence Agreement, page markings',
+        url: 'https://documents.theblackvault.com/documents/ukusa/agreement_outline_5mar46.pdf',
+        date: '1946-03-05'
+      }
+    ]
+  },
+  {
+    a: 'podesta-delonge-mccasland-email-2016',
+    b: 'john-podesta',
+    type: 'witness-chain',
+    label: 'Addressee of the McCasland email and organiser of the 25 January 2016 meeting',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The email is addressed to john.podesta@gmail.com, and Podesta organised the \'DeLonge/Podesta Meeting\' Google Hangout to which the general and DeLonge were both invited.',
+    sources: [
+      {
+        name: 'WikiLeaks, The Podesta Emails, email ids 3099 and 51979',
+        url: 'https://wikileaks.org/podesta-emails/emailid/3099',
+        date: '2016-01-25'
+      }
+    ]
+  },
+  {
+    a: 'podesta-delonge-mccasland-email-2016',
+    b: 'tom-delonge',
+    type: 'witness-chain',
+    label: 'Author of the email and of the surrounding correspondence',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.',
+    sources: [
+      {
+        name: 'WikiLeaks, The Podesta Emails, email id 3099',
+        url: 'https://wikileaks.org/podesta-emails/emailid/3099',
+        date: '2016-01-25'
+      }
+    ]
+  },
+  {
+    a: 'podesta-delonge-mccasland-email-2016',
+    b: 'william-mccasland',
+    type: 'witness-chain',
+    label: 'Subject of the email and party to the meeting thread, as \'General McCasland\' and \'Neil McCasland\'',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing \'Neil McC\'. The email gives no rank, service or middle name, so the identification with the board\'s William Neil McCasland rests on the name and on the node\'s own Air Force biography, not on the email.',
+    sources: [
+      {
+        name: 'WikiLeaks, The Podesta Emails, email ids 3099, 51979 and 9501',
+        url: 'https://wikileaks.org/podesta-emails/emailid/3099',
+        date: '2016-01-25'
+      }
+    ]
+  },
+  {
+    a: 'podesta-delonge-mccasland-email-2016',
+    b: 'l-wright-patterson',
+    type: 'custody',
+    label: 'DeLonge\'s written assertion that the Roswell material went to the Wright-Patterson laboratory',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The email asserts to Podesta that \'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base\' and that the general ran that laboratory until a couple of years earlier. The record establishes that DeLonge asserted this in writing in January 2016, not that it happened.',
+    sources: [
+      {
+        name: 'WikiLeaks, The Podesta Emails, email id 3099',
+        url: 'https://wikileaks.org/podesta-emails/emailid/3099',
+        date: '2016-01-25'
+      }
+    ]
+  },
+  {
+    a: 'podesta-delonge-mccasland-email-2016',
+    b: 'lockheed-skunk-works',
+    type: 'institutional',
+    label: 'Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge',
+    claimTier: 1,
+    dateStart: null,
+    dateEnd: null,
+    note: 'rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of \'Mr. Weiss from Lockheed SkunkWorks\' asking whether there were any updates for him and the General.',
+    sources: [
+      {
+        name: 'WikiLeaks, The Podesta Emails, email ids 51979 and 15486',
+        url: 'https://wikileaks.org/podesta-emails/emailid/15486',
+        date: '2016-02-22'
+      }
+    ]
+  },
+  {
+    a: 'e-systems-inc',
+    b: 'raytheon',
+    type: 'custody',
+    label: 'Raytheon acquired E-Systems outright, completed 1 May 1995',
+    claimTier: 1,
+    dateStart: '1995-05-01',
+    dateEnd: '1995-05-01',
+    note: 'Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.',
+    sources: [
+      {
+        name: 'Schedule 14D-1/A Amendment No. 4 (Final Amendment) and Raytheon\'s press release of 1 May 1995, accession 0000950130-95-000863',
+        url: 'https://www.sec.gov/Archives/edgar/data/30875/0000950130-95-000863.txt',
+        date: '1995-05-01'
+      }
+    ]
+  },
+  {
+    a: 'stony-brook-university',
+    b: 'battelle',
+    type: 'institutional',
+    label: 'The two named partners in Brookhaven Science Associates LLC',
+    claimTier: 1,
+    dateStart: '1999-10-15',
+    dateEnd: null,
+    note: 'Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.',
+    sources: [
+      {
+        name: 'Brookhaven National Laboratory, About Brookhaven',
+        url: 'https://www.bnl.gov/about/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'stony-brook-university',
+    b: 'doe',
+    type: 'funding',
+    label: 'DOE is the contracting agency for both Brookhaven management-and-operating contracts',
+    claimTier: 1,
+    dateStart: '1999-10-15',
+    dateEnd: '2030-01-04',
+    note: 'The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.',
+    sources: [
+      {
+        name: 'USAspending.gov award search API, contracts DEAC0298CH10886 and DESC0012704',
+        url: 'https://api.usaspending.gov/api/v2/search/spending_by_award/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'armed-forces-institute-of-pathology',
+    b: 'dod',
+    type: 'institutional',
+    label: 'Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments',
+    claimTier: 1,
+    dateStart: '1976-07-14',
+    dateEnd: null,
+    note: '10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary\'s authority, direction and control.',
+    sources: [
+      {
+        name: '10 U.S.C. 176, Office of the Law Revision Counsel',
+        url: 'https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section176&num=0&edition=prelim',
+        date: '2026-09-01'
+      }
+    ]
+  },
+  {
+    a: 'armed-forces-institute-of-pathology',
+    b: 'kit-green',
+    type: 'witness-chain',
+    label: 'Doty places Green at the Institute, then corrects himself within the same passage',
+    claimTier: 2,
+    dateStart: '2026-08-21',
+    dateEnd: '2026-08-21',
+    note: 'Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.',
+    sources: [
+      {
+        name: 'DEBRIEFED with Chris Ramsay, \'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty\', 21 August 2026, 3:21:29',
+        url: '',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'naval-criminal-investigative-service',
+    b: 'us-navy',
+    type: 'institutional',
+    label: 'Department of the Navy organisation; its head\'s title is fixed in 32 CFR 701.5',
+    claimTier: 1,
+    dateStart: '1994-06-09',
+    dateEnd: null,
+    note: 'NCIS is a Department of the Navy organisation whose head\'s title is fixed in the Navy\'s own codified regulations at 32 CFR part 701.',
+    sources: [
+      {
+        name: 'Federal Register Doc 94-13966, amending 32 CFR 701.5(e)(2)(iii)(B)',
+        url: 'https://www.federalregister.gov/documents/1994/06/09/94-13966/availability-of-department-of-the-navy-records-and-publication-of-department-of-the-navy-documents',
+        date: '1994-06-09'
+      }
+    ]
+  },
+  {
+    a: 'naval-criminal-investigative-service',
+    b: 'jaime-shandera',
+    type: 'witness-chain',
+    label: 'Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop',
+    claimTier: 2,
+    dateStart: '2026-08-21',
+    dateEnd: '2026-08-21',
+    note: 'Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.',
+    sources: [
+      {
+        name: 'DEBRIEFED with Chris Ramsay, \'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty\', 21 August 2026, 1:17:09',
+        url: '',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'naval-criminal-investigative-service',
+    b: 'richard-doty',
+    type: 'investigative',
+    label: 'Doty is the sole source for both NIS episodes recorded on this node',
+    claimTier: 2,
+    dateStart: '2026-08-21',
+    dateEnd: '2026-08-21',
+    note: 'Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.',
+    sources: [
+      {
+        name: 'DEBRIEFED with Chris Ramsay, \'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty\', 21 August 2026, 1:17:09 and 3:21:29',
+        url: '',
+        date: '2026-08-21'
+      }
+    ]
+  },
+  {
+    a: 'faa',
+    b: 'nara-rg615',
+    type: 'custody',
+    label: 'First-listed contributing agency; series NAID 493468575, 575 PDF files, restricted in part',
+    claimTier: 1,
+    dateStart: '2025-01-01',
+    dateEnd: null,
+    note: 'The FAA\'s transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.',
+    sources: [
+      {
+        name: 'National Archives, Record Group 615 page, and the catalog metadata export for NAID 493468575',
+        url: 'https://www.archives.gov/research/topics/uaps/rg-615',
+        date: '2026-08-28'
+      },
+      {
+        name: 'National Archives Catalog metadata export, NAID 493468575',
+        url: 'https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'faa',
+    b: 'national-archives',
+    type: 'institutional',
+    label: 'NARA holds and describes the FAA series at College Park, Electronic Records',
+    claimTier: 1,
+    dateStart: '2025-01-01',
+    dateEnd: null,
+    note: 'NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.',
+    sources: [
+      {
+        name: 'National Archives Catalog metadata export, NAID 493468575',
+        url: 'https://catalog.archives.gov/medialz/bulk-downloads/uaps/JSON/catalog-export-493468575.json',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'betty-sapp',
+    b: 'nro',
+    type: 'institutional',
+    label: 'Director of the National Reconnaissance Office, sworn in 6 July 2012',
+    claimTier: 1,
+    dateStart: '2012-07-06',
+    dateEnd: null,
+    note: 'Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.',
+    sources: [
+      {
+        name: 'CRS IF10538 version 6, Table 1',
+        url: 'https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf',
+        date: '2019-03-19'
+      }
+    ]
+  },
+  {
+    a: 'betty-sapp',
+    b: 'odni',
+    type: 'institutional',
+    label: 'The DNI must concur in the appointment to the office she held',
+    claimTier: 1,
+    dateStart: '2012-07-06',
+    dateEnd: null,
+    note: 'The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense\'s recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.',
+    sources: [
+      {
+        name: 'CRS IF10538 version 6, Table 1, citing 50 U.S.C. 3041(b)(2)(B)',
+        url: 'https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf',
+        date: '2019-03-19'
+      }
+    ]
+  },
+  {
+    a: 'nufohrc',
+    b: 'nicap',
+    type: 'custody',
+    label: 'Names the NICAP case files as one of its three major collections, on its own account',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Center names NICAP\'s case files as one of its three major historical collections, on its own collections page and on its own account.',
+    sources: [
+      {
+        name: 'National UFO Historical Records Center, collections page',
+        url: 'https://nufohrc.org/collections/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
+    a: 'nufohrc',
+    b: 'cufos',
+    type: 'custody',
+    label: 'Names the Center for UFO Studies case files as a second of its three major collections, on its own account',
+    claimTier: 2,
+    dateStart: null,
+    dateEnd: null,
+    note: 'The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.',
+    sources: [
+      {
+        name: 'National UFO Historical Records Center, collections page',
+        url: 'https://nufohrc.org/collections/',
+        date: '2026-09-02'
+      }
+    ]
+  },
+  {
     a: 'david-fravor',
     b: 'nimitz-2004',
     type: 'witness-chain',
@@ -14981,50 +16317,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'richard-doty',
-    b: 'william-moore',
-    type: 'behavioral',
-    label: 'Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz',
-    claimTier: 2,
-    dateStart: '1980',
-    dateEnd: '1989',
-    note: 'Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      },
-      {
-        name: 'Philip J. Klass, \'The MJ-12 Crashed-Saucer Documents\', Skeptical Inquirer',
-        url: 'https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/',
-        date: '1988-01-01'
-      }
-    ]
-  },
-  {
-    a: 'william-moore',
-    b: 'mj-12-documents',
-    type: 'custody',
-    label: 'Moore controlled the MJ-12 material\'s release with Shandera and Friedman',
-    claimTier: 1,
-    dateStart: '1984',
-    dateEnd: '1990',
-    note: 'Moore and Shandera published \'The MJ-12 Documents: An Analytical Report\' as Fair-Witness Project Publication 1500 in 1990, cited in CIA\'s own 1997 UFO history.',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      },
-      {
-        name: 'FBI Records: The Vault - \'Majestic 12\'',
-        url: 'https://vault.fbi.gov/Majestic%2012',
-        date: '2011-04-01'
-      }
-    ]
-  },
-  {
     a: 'jaime-shandera',
     b: 'mj-12-documents',
     type: 'custody',
@@ -15897,81 +17189,6 @@ export const PROGRAM_EDGES = [
     ],
     denialKind: 'directed',
     denier: 'aaro-historical-record-vol1'
-  },
-  {
-    a: 'cia-haines-1997',
-    b: 'cia',
-    type: 'denial',
-    label: 'CIA\'s own published history concedes the Air Force made deceptive public statements',
-    claimTier: 1,
-    dateStart: '1997',
-    dateEnd: null,
-    note: '\'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.\'',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      }
-    ],
-    denialKind: 'association'
-  },
-  {
-    a: 'cia-haines-1997',
-    b: 'project-blue-book',
-    type: 'institutional',
-    label: 'Blue Book investigators knowingly issued false explanations for U-2 sightings',
-    claimTier: 1,
-    dateStart: '1955',
-    dateEnd: '1969',
-    note: 'CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and \'were careful, however, not to reveal the true cause of the sighting to the public.\'',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      }
-    ]
-  },
-  {
-    a: 'cia-haines-1997',
-    b: 'robertson-panel',
-    type: 'denial',
-    label: 'CIA refused declassification and issued a sanitised version of the Robertson Panel report',
-    claimTier: 1,
-    dateStart: '1956',
-    dateEnd: '1958',
-    note: 'CIA \'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.\'',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      }
-    ],
-    denialKind: 'undirected'
-  },
-  {
-    a: 'cia-haines-1997',
-    b: 'yankee-blue',
-    type: 'behavioral',
-    label: 'A documented precedent for institutional falsification about UFOs by the US Air Force',
-    claimTier: 3,
-    dateStart: '1955',
-    dateEnd: '2023',
-    note: 'CIA\'s own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.',
-    sources: [
-      {
-        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
-        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
-        date: '1997-01-01'
-      },
-      {
-        name: 'John Greenewald Jr., \'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal\', The Black Vault',
-        url: 'https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/',
-        date: '2025-09-16'
-      }
-    ]
   },
   {
     a: 'yankee-blue',
@@ -22074,30 +23291,6 @@ export const PROGRAM_EDGES = [
     denier: 'aaro-fy2025-annual-report'
   },
   {
-    a: 'sue-gough',
-    b: 'immaculate-constellation-12-page-report',
-    type: 'denial',
-    label: 'Department says it has no record of the programme',
-    claimTier: 2,
-    dateStart: '2024',
-    dateEnd: null,
-    note: 'Gough\'s \'no record\' statement is the Department\'s entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.',
-    sources: [
-      {
-        name: 'U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)',
-        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
-        date: '2024-11-13'
-      },
-      {
-        name: 'DefenseScoop - Hegseth doubles down on Trump\'s UAP disclosure promise as AARO\'s caseload exceeds 2,000',
-        url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
-        date: '2026-02-25'
-      }
-    ],
-    denialKind: 'directed',
-    denier: 'sue-gough'
-  },
-  {
     a: 'sean-kirkpatrick',
     b: 'immaculate-constellation-12-page-report',
     type: 'denial',
@@ -22208,23 +23401,6 @@ export const PROGRAM_EDGES = [
         name: 'DefenseScoop - \'Data alone is not disclosure\': UAP research community reacts to Trump\'s first PURSUE file drop',
         url: 'https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/',
         date: '2026-05-14'
-      }
-    ]
-  },
-  {
-    a: 'sue-gough',
-    b: 'aaro',
-    type: 'institutional',
-    label: 'Disclosed that ~1,000 of AARO\'s 2,000+ cases are unanalysed',
-    claimTier: 2,
-    dateStart: '2026',
-    dateEnd: '2026',
-    note: 'Gough\'s February 2026 figures mean roughly half of AARO\'s holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.',
-    sources: [
-      {
-        name: 'DefenseScoop - Hegseth doubles down on Trump\'s UAP disclosure promise as AARO\'s caseload exceeds 2,000',
-        url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
-        date: '2026-02-25'
       }
     ]
   },
@@ -24562,12 +25738,17 @@ export const PROGRAM_EDGES = [
     claimTier: 2,
     dateStart: '2022',
     dateEnd: '2024',
-    note: 'AARO\'s public denials were issued through OSD Public Affairs rather than by the office that conducted the investigations.',
+    note: 'Gough\'s February 2026 figures mean roughly half of AARO\'s holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.',
     sources: [
       {
         name: 'Douglas Dean Johnson - What\'s next for AARO?',
         url: 'https://douglasjohnson.ghost.io/what-next-for-aaro/',
         date: '2024-09-01'
+      },
+      {
+        name: 'DefenseScoop - Hegseth doubles down on Trump\'s UAP disclosure promise as AARO\'s caseload exceeds 2,000',
+        url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
+        date: '2026-02-25'
       }
     ]
   },
@@ -39189,23 +40370,6 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
-    a: 'william-moore',
-    b: 'paul-bennewitz',
-    type: 'behavioral',
-    label: 'Moore admitted in 1989 to feeding Bennewitz false information',
-    claimTier: 2,
-    dateStart: '1980',
-    dateEnd: '1989',
-    note: 'On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.',
-    sources: [
-      {
-        name: 'Wikipedia - Paul Bennewitz',
-        url: 'https://en.wikipedia.org/wiki/Paul_Bennewitz',
-        date: '2026-08-12'
-      }
-    ]
-  },
-  {
     a: 'afosi-kirtland-file',
     b: 'l-kirtland',
     type: 'custody',
@@ -44435,6 +45599,123 @@ export const PROGRAM_EDGES = [
     ]
   },
   {
+    a: 'richard-doty',
+    b: 'william-l-moore',
+    type: 'behavioral',
+    label: 'Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz',
+    claimTier: 2,
+    dateStart: '1980',
+    dateEnd: '1989',
+    note: 'Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      },
+      {
+        name: 'Philip J. Klass, \'The MJ-12 Crashed-Saucer Documents\', Skeptical Inquirer',
+        url: 'https://skepticalinquirer.org/1988/01/the-mj-12-crashed-saucer-documents/',
+        date: '1988-01-01'
+      }
+    ]
+  },
+  {
+    a: 'william-l-moore',
+    b: 'mj-12-documents',
+    type: 'custody',
+    label: 'Moore controlled the MJ-12 material\'s release with Shandera and Friedman',
+    claimTier: 1,
+    dateStart: '1984',
+    dateEnd: '1990',
+    note: 'Moore and Shandera published \'The MJ-12 Documents: An Analytical Report\' as Fair-Witness Project Publication 1500 in 1990, cited in CIA\'s own 1997 UFO history.',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      },
+      {
+        name: 'FBI Records: The Vault - \'Majestic 12\'',
+        url: 'https://vault.fbi.gov/Majestic%2012',
+        date: '2011-04-01'
+      }
+    ]
+  },
+  {
+    a: 'haines-cia-history',
+    b: 'cia',
+    type: 'denial',
+    label: 'CIA\'s own published history concedes the Air Force made deceptive public statements',
+    claimTier: 1,
+    dateStart: '1997',
+    dateEnd: null,
+    note: '\'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.\'',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      }
+    ]
+  },
+  {
+    a: 'haines-cia-history',
+    b: 'project-blue-book',
+    type: 'institutional',
+    label: 'Blue Book investigators knowingly issued false explanations for U-2 sightings',
+    claimTier: 1,
+    dateStart: '1955',
+    dateEnd: '1969',
+    note: 'CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and \'were careful, however, not to reveal the true cause of the sighting to the public.\'',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      }
+    ]
+  },
+  {
+    a: 'haines-cia-history',
+    b: 'robertson-panel',
+    type: 'denial',
+    label: 'CIA refused declassification and issued a sanitised version of the Robertson Panel report',
+    claimTier: 1,
+    dateStart: '1956',
+    dateEnd: '1958',
+    note: 'CIA \'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.\'',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      }
+    ]
+  },
+  {
+    a: 'haines-cia-history',
+    b: 'yankee-blue',
+    type: 'behavioral',
+    label: 'A documented precedent for institutional falsification about UFOs by the US Air Force',
+    claimTier: 3,
+    dateStart: '1955',
+    dateEnd: '2023',
+    note: 'CIA\'s own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.',
+    sources: [
+      {
+        name: 'Gerald K. Haines, \'CIA\'s Role in the Study of UFOs, 1947-90\', Studies in Intelligence (CIA), archived copy',
+        url: 'https://www.theblackvault.com/documentarchive/cias-role-in-the-study-of-ufos-1947-90/',
+        date: '1997-01-01'
+      },
+      {
+        name: 'John Greenewald Jr., \'Pentagon Denies Existence of "Yankee Blue" Memo Reported by Wall Street Journal\', The Black Vault',
+        url: 'https://www.theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-memo-reported-by-wall-street-journal/',
+        date: '2025-09-16'
+      }
+    ]
+  },
+  {
     a: 'dodi-3204-01',
     b: 'ndaa-fy2024-1687',
     type: 'legislative',
@@ -44590,6 +45871,28 @@ export const PROGRAM_EDGES = [
         name: 'National Archives - UAP Records Collection (archives.gov/uap)',
         url: 'https://www.archives.gov/uap',
         date: '2026-08-12'
+      }
+    ]
+  },
+  {
+    a: 'susan-gough',
+    b: 'immaculate-constellation-12-page-report',
+    type: 'denial',
+    label: 'Department says it has no record of the programme',
+    claimTier: 2,
+    dateStart: '2024',
+    dateEnd: null,
+    note: 'Gough\'s \'no record\' statement is the Department\'s entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.',
+    sources: [
+      {
+        name: 'U.S. GPO - Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440)',
+        url: 'https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm',
+        date: '2024-11-13'
+      },
+      {
+        name: 'DefenseScoop - Hegseth doubles down on Trump\'s UAP disclosure promise as AARO\'s caseload exceeds 2,000',
+        url: 'https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/',
+        date: '2026-02-25'
       }
     ]
   },
@@ -45155,6 +46458,23 @@ export const PROGRAM_EDGES = [
         name: 'P.L. 118-31; P.L. 118-159; P.L. 119-60',
         url: 'https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm',
         date: '2025-12-18'
+      }
+    ]
+  },
+  {
+    a: 'william-l-moore',
+    b: 'paul-bennewitz',
+    type: 'behavioral',
+    label: 'Moore admitted in 1989 to feeding Bennewitz false information',
+    claimTier: 2,
+    dateStart: '1980',
+    dateEnd: '1989',
+    note: 'On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens.',
+    sources: [
+      {
+        name: 'Wikipedia - Paul Bennewitz',
+        url: 'https://en.wikipedia.org/wiki/Paul_Bennewitz',
+        date: '2026-08-12'
       }
     ]
   },
