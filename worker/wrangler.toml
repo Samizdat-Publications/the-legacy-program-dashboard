@@ -7,5 +7,16 @@ compatibility_flags = ["nodejs_compat"]
 #   npx wrangler secret put ANTHROPIC_API_KEY
 # which prompts for the value and sends it straight to Cloudflare.
 
+# Per-IP rate limit on the analyst, in code rather than as a dashboard rule
+# nothing in the repo could prove existed. 20 calls per minute per IP. The
+# period must be 10 or 60; namespace_id is any integer unique in the account.
+[[ratelimits]]
+name = "ANALYST_LIMITER"
+namespace_id = "1001"
+
+  [ratelimits.simple]
+  limit = 20
+  period = 60
+
 [observability]
 enabled = true

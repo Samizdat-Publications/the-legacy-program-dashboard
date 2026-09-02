@@ -216,6 +216,26 @@ without losing anything.
 
 ---
 
+## 2a. Fixed the same day (branch `fix/p0-2026-09-01`)
+
+| finding | what was done |
+|---|---|
+| 1, 12 | all three bare `replace()` calls routed through `must_replace()`; the timeline threshold now applies at both sites. New verify check `the timeline stacks at the four-column threshold`, poisoned with the historical bug |
+| 2 | the cap now runs on edges in `merge.py`, with `research/_edge_tiers.json` carrying 16 per-edge decisions (10 keep Tier 1 as self-publication or attribution, 2 to Tier 2, 4 domain-to-domain inferences to Tier 3). New verify check re-derives it independently. Also fixed `acknowledg\b`, which could never match "acknowledges" |
+| 3, 10 | worker: per-IP rate limit binding in code (20/min), CORS restricted to the board's origin and a local preview, `max_tokens` 16000; deployed. SDK upgraded to 0.123 so the request shape typechecks; the pinned `workers-types` version did not exist, so `npm install` had never worked in `worker/` |
+| 5 | `build_dashboard.py` reads and writes with explicit newlines; a Windows build is now byte-identical to a Linux one |
+| 6 | `deploy.yml` fires on the gate workflow completing on master, and only on success |
+| 15 | `.gitignore` covers `**/.wrangler/`, the local Claude settings file, and tool logs |
+| 20 | `spot_check.py` uses `os.devnull` |
+| new | **the analyst was never live on the deployed site.** Pages cannot route `/api/*` to a Worker on a `pages.dev` host and answers the health probe with the board itself (200, text/html), so the same-origin probe never returned JSON. The client now falls back to the Worker's own hostname. Separately the Worker has no `ANTHROPIC_API_KEY` secret set (its health endpoint reports `live: false`), which only Stewart can put |
+| new | `fetch_podcast.py`: stdout re-encoded to UTF-8 so a title with a character outside cp1252 no longer kills a run hours in (found on Area52); `--match` and `--select` filters so a 427-episode feed can be taken by subject; `--list` prints ids |
+| new | `l0_patches.py` line 3 had five invalid escape sequences that Python 3.14 warns on and a future version will refuse |
+| new | `CLAUDE.md` pointed at the EVENING handoff a day after NIGHT was written |
+
+Golden manifest updated: edge tiers 1408/586/200 -> 1402/588/204, which is exactly the
+16 adjudications (2 down to Tier 2, 4 down to Tier 3, the rest held). Full gate green
+locally on Windows, Python 3.14: all ten steps including `--idempotent`.
+
 ## 3. Suggested order of work
 
 | # | finding | why first |

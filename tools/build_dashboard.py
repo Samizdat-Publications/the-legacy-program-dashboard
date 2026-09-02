@@ -1042,7 +1042,13 @@ def embed_fonts(s, must_replace):
 def main():
     if not os.path.exists(SRC):
         sys.exit(f"source dashboard not found at {SRC}")
-    s = open(SRC, encoding="utf-8").read()
+    # newline="" on read and newline="\n" on write: without them Python's text
+    # mode re-expands every \n to os.linesep on write, so a build run from
+    # PowerShell emits CRLF and check_rebuild.py -- which compares raw bytes
+    # against the LF blob in git -- fails on line endings rather than content.
+    # DEPLOY.md already records the CRLF difference for the live-hash check; the
+    # same knowledge had not reached the build.
+    s = open(SRC, encoding="utf-8", newline="").read()
     board = json.load(open(BOARD, encoding="utf-8"))
     orig_len = len(s)
     ok_all = True
@@ -1332,9 +1338,15 @@ def main():
 
 """ + s[old_pp_end:]
 
-    # Top bar chrome
-    s = s.replace("Federal probe active", "Program map live")
-    s = s.replace("Last sweep 2026.08.07", "PURSUE release 5 \u00b7 2026.08.07")
+    # Top bar chrome. Through must_replace like everything else: as bare
+    # s.replace() calls these could no-op on a ref/ change and the build would
+    # still print "all patches applied" while shipping the parent board's text.
+    s, ok = must_replace(s, "Federal probe active", "Program map live",
+                         "top bar status copy", 1)
+    ok_all &= ok
+    s, ok = must_replace(s, "Last sweep 2026.08.07",
+                         "PURSUE release 5 \u00b7 2026.08.07", "top bar sweep copy", 1)
+    ok_all &= ok
 
     # ---- scripted analyst -------------------------------------------------
     # The inherited scriptedReply() answers questions about JPL, Ning Li and
@@ -2142,8 +2154,25 @@ def main():
         "timeline row grid", 1)
     ok_all &= ok
     # Four columns need more width before they stack; the parent board's 820px
-    # threshold was set for three.
-    s = s.replace("820", "1040") if ".tl-narrow" in s and s.count("820") == 1 else s
+    # threshold was set for three. Two sites measure it: viewTimeline() and the
+    # ResizeObserver that re-renders when the surface crosses the line.
+    #
+    # Until 1 September 2026 this was a bare
+    #   s.replace("820", "1040") if ".tl-narrow" in s and s.count("820") == 1 else s
+    # and the guard was false -- the parent board contains "820" seven times -- so
+    # the patch had never applied and both `width < 820` shipped unchanged. It was
+    # the only patch in this file that bypassed must_replace(), and it is the one
+    # that silently failed. verify.py now checks the built file for the threshold.
+    s, ok = must_replace(s,
+        "$('#surface').getBoundingClientRect().width < 820;",
+        "$('#surface').getBoundingClientRect().width < 1040;",
+        "timeline four-column stacking threshold", 2)
+    ok_all &= ok
+    s, ok = must_replace(s,
+        "/* the timeline restacks below 820px of surface width, measured on the surface */",
+        "/* the timeline restacks below 1040px of surface width, measured on the surface */",
+        "timeline threshold comment", 1)
+    ok_all &= ok
 
 
     # ---- 4q. timeline copy ------------------------------------------------
@@ -2467,7 +2496,7 @@ def main():
             s = s.replace(old, new)
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    open(OUT, "w", encoding="utf-8").write(s)
+    open(OUT, "w", encoding="utf-8", newline="\n").write(s)
 
     print(f"source  {orig_len:>9,} chars")
     print(f"output  {len(s):>9,} chars  ->  {OUT}")

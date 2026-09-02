@@ -1,0 +1,145 @@
+# Danny Jones Podcast: the episodes worth transcribing for this board.
+# Written 1 September 2026 from `fetch_podcast.py --show dannyjones --list --match <regex>`;
+# 136 of 427 titles. The feed is general-interest and 1,068 hours end to end, so
+# the selection is by title: UFO/UAP, crash retrieval and reverse-engineering,
+# MK-Ultra and remote viewing, consciousness and near-death, the agencies and
+# programmes the board tracks. Add a line to widen it; the id is the first column
+# of --list. Run: python tools/fetch_podcast.py --show dannyjones --select research/leads/dannyjones-selected.txt
+#
+# id            date         length  title
+dannyjones-912f5ee5   # 21 Aug 2026 1:54 #424 - "Only 2 Years Left" AI Whistleblower Warns What Comes Next | Roma
+dannyjones-c4c9888c   # 17 Aug 2026 2:35 #423 - "Sent Them Map to Earth" Alien Contact, NASA Moon Base & Uncontac
+dannyjones-d86945c1   # 14 Aug 2026 3:07 #422 - "We Cracked Antigravity" NASA Physicists Shows Proof of Secret Te
+dannyjones-be812bab   # 31 Jul 2026 2:44 #418 - "It's All True" DEA Operative Breaks Down CIA's Secret Sinaloa De
+dannyjones-c65588f6   # 27 Jul 2026 2:46 #417 - The Pentagon Is Preparing for A Doomsday Plague Event | Annie Jac
+dannyjones-06dff18e   # 20 Jul 2026 2:23 #415 - “There Were 23 of Us” Area 51 Officer Finally Comes Clean | TD Ba
+dannyjones-3d4c7ac4   # 06 Jul 2026 2:43 #411 - “MK-Ultra Victim” Garth Brooks is NOT Who You Think | Matt Cox
+dannyjones-38718027   # 22 Jun 2026 2:55 #407 - Anunnaki Expert Decoded True Origin of 'Ancient Alien' Technology
+dannyjones-cc7bc92f   # 19 Jun 2026 3:45 #406 - “They Want to Replace God” The UFO PsyOp Just Got Real | Matthew
+dannyjones-16d5d8a3   # 08 Jun 2026 3:33 #403 - “Pentagon Is On Red Alert” Mossad Just Declared as #1 Threat | Sc
+dannyjones-e87ae082   # 01 Jun 2026 2:55 #401 - “Epstein’s Classified VHS Tapes Would End Society” (It’s Worse Th
+dannyjones-de022326   # 29 May 2026 2:03 #400 - Astrobiologist: What NASA Isn’t Telling Us About Mars | Alyssa Ca
+dannyjones-d6353265   # 25 May 2026 2:42 #399 - NEW Directed Energy Weapon Leak, DARPA Dolphins & ‘Ghost Murmur’
+dannyjones-21a2cb73   # 22 May 2026 2:41 #398 - “There’s 10 of Them” UFO Super Users Confirmed by DARPA Scientist
+dannyjones-3401d8f6   # 04 May 2026 3:10 #393 - The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Fara
+dannyjones-b665cd0c   # 01 May 2026 2:34 #392 - CIA Scientist Deathbed Confession: NEW Files Expose Alien Contact
+dannyjones-79d34086   # 20 Apr 2026 2:53 #389 - Nuclear Physicist Goes Public with NEW Evidence on Lost Ancient T
+dannyjones-72125037   # 06 Apr 2026 2:48 #385 - “Trump’s Worst Nightmare Just Came True” CIA Spy on Iran War | Jo
+dannyjones-a659ffd7   # 20 Mar 2026 2:37 #380 - Georges St-Pierre Reveals Truth on UFO Encounter, Bob Lazar & the
+dannyjones-3861f729   # 13 Mar 2026 1:46 #378 - Nuclear Warfare Officer: Something Disturbing Is Controlling Our
+dannyjones-2eeabffb   # 09 Mar 2026 2:18 #377 - MIT Physicist: DARPA, Warp Drives, Supergravity & Aliens on Jupit
+dannyjones-5f61110b   # 27 Feb 2026 2:51 #374 - "Doctors Are Legally BANNED From Telling You This" - Pharma Whist
+dannyjones-ee99864a   # 23 Feb 2026 2:53 #373 - NASA Physicist Comes Clean on Advanced Ancient Civilizations | Ad
+dannyjones-56afc58b   # 20 Feb 2026 3:50 #372 - New Epstein Files, Trump, The Pope & Psychedelic Holy War | Travi
+dannyjones-3755f6f2   # 26 Jan 2026 3:34 #367 - Ex-CIA Operative: Most Dangerous Weapon Ever Created is Already i
+dannyjones-967578ec   # 19 Jan 2026 3:11 #365 - Space Weather Expert: Pole Shifts, NASA Cover-ups & Super Flares
+dannyjones-42afebee   # 16 Jan 2026 3:06 #364 - Neurosurgeon Describes Live Alien He Examined In Brazil | James F
+dannyjones-19b81e65   # 05 Jan 2026 2:37 #361 - Evidence of a Soul, NASA’s $1,000,000,000 Study & Awareness at De
+dannyjones-534aca4c   # 19 Dec 2025 2:46 #356 - Brain Scientist: God, Religion, Consciousness & What Happens When
+dannyjones-7c5270f5   # 08 Dec 2025 3:18 #354 - 3i/Atlas: Harvard Physicist Warns NASA is Hiding Something | Avi
+dannyjones-3b042ceb   # 01 Dec 2025 4:01 #352 - NASA Apollo Astronaut Finally Faces Off Against #1 Moon Landing S
+dannyjones-57b367df   # 17 Nov 2025 3:04 #349 - Nuclear Physicist May Have Solved How the Pyramids were Built | M
+dannyjones-abc7f6ca   # 03 Nov 2025 2:50 #346 - The $450 Million Da Vinci Conspiracy & CIA Psyops Behind Modern A
+dannyjones-a960bc40   # 01 Nov 2025 2:31 #345 - Noriega's Secret Deal with Mossad & the DEA: New CIA Files Show P
+dannyjones-051b2a30   # 20 Oct 2025 3:07 #342 - Physicist Quits NASA After Discovering Truth of The Universe | Th
+dannyjones-d4520083   # 17 Oct 2025 2:32 #341 - Mother of Telepathic Child Reveals How to Access Psychic Abilitie
+dannyjones-ff4e7cc9   # 13 Oct 2025 3:13 #340 - Mike Benz: DARPA & USAID are Weaponizing Music to Control Human B
+dannyjones-9543da50   # 22 Sep 2025 2:54 #334 - Dark Matter Expert: New Evidence UFOs Have Been Here For 1 Millio
+dannyjones-7905fdb8   # 15 Sep 2025 3:08 #332 - CIA Psychologist: DARPA's Most Bizarre New Tech Should NOT Exist
+dannyjones-2f6f034f   # 08 Sep 2025 2:50 #330 - Harvard's #1 Mind Control Expert Fears MK-Ultra is STILL Active |
+dannyjones-762efe2f   # 05 Sep 2025 2:57 #329 - CIA Super Spy Finally Breaks Cover: Warns America is about to Fal
+dannyjones-94e71e8c   # 01 Sep 2025 3:05 #328 - NASA Space Psychologist: What Astronauts Really See in Upper Orbi
+dannyjones-fc55f8b2   # 25 Aug 2025 2:34 #326 - Navy Admiral Warns Unknown Objects are HUNTING Our Nuclear Submar
+dannyjones-c8c7e36e   # 18 Aug 2025 2:18 #324 - NASA Physicist Comes Clean on UFOs & Why We Can't Go Back to The
+dannyjones-04ed7a0c   # 11 Aug 2025 3:02 #322 - Priests on Psychedelic Drugs: The Governments Search for a New Go
+dannyjones-8d0a3c25   # 04 Aug 2025 2:39 #320 - Deep Sea Alien Bases: The Underwater CIA Project No One Talks Abo
+dannyjones-78fe33eb   # 28 Jul 2025 3:57 #318 - Epstein's UFO Files: It's Clear Why They Killed Him | Jeremy Rys
+dannyjones-2ead111b   # 22 Jul 2025 3:02 #317 - Ancient Texts Confirm Simulation Hypothesis | Rizwan Virk
+dannyjones-ed4b0776   # 14 Jul 2025 2:30 #315 - CIA Spy Breaks Silence on Epstein Cover-Up, Mossad & Trump's #1 P
+dannyjones-3c69ca12   # 30 Jun 2025 4:12 #312 - CIA 'GRIM REAPER' Mercenary Hunting Terror Sleeper Cells in Ameri
+dannyjones-77e54b38   # 09 Jun 2025 3:10 #308 - Underwater Area 51: Best Evidence Aliens Live Deep Under Our Ocea
+dannyjones-463b6847   # 22 May 2025 2:56 #304 - DARPA Drug Research, Psychedelic Toad Venom & Why VICE Failed | H
+dannyjones-9d10e352   # 28 Apr 2025 2:48 #299 - #1 DMT Scientist: BANNED Research, Biblical Prophecy & the CIA |
+dannyjones-629fcd22   # 07 Apr 2025 3:36 #295 - Nuclear War on Mars, Time Traveling Nazis & The Techno Apocalypse
+dannyjones-b17a3551   # 03 Apr 2025 2:06 #294 - Psychic Spies, Scientology & Best Evidence for Life After Death |
+dannyjones-9a19c596   # 31 Mar 2025 2:58 #293 - Leaked NASA Footage Confirms Spooky Details of Apollo 11 Moon Lan
+dannyjones-a4f28e27   # 24 Mar 2025 3:04 #292 - JFK Witness Breaks Silence: Top Secret CIA Files will NEVER be Re
+dannyjones-4c46da54   # 11 Mar 2025 4:17 #289 - New DMT Study Finds Evidence Aliens Are Simulating Our Reality |
+dannyjones-c813e653   # 24 Feb 2025 3:43 #287 - UFO Whistleblowers, NASA Time Travel & Psychic Soldiers | Jesse M
+dannyjones-5f6ba871   # 17 Feb 2025 3:16 #286 - The Most Disturbing UFO Tech has ESCAPED the US Military | Dr. St
+dannyjones-39aa5855   # 10 Feb 2025 2:36 #285 - Psychedelic Test Subject: Billionaires are Funding a Drug Fueled
+dannyjones-2cac737a   # 27 Jan 2025 2:23 #282 - World's #1 Exorcist: Aliens, Demons, Drugs & the True Origin of S
+dannyjones-ac7a5f59   # 23 Dec 2024 2:36 #276 - Santa's Elf Explains Jersey Drones, Lost Diddy Tapes & Hawk Tuah
+dannyjones-6952be58   # 16 Dec 2024 3:25 #275 - The Bible Codes: God, Technology, Aliens & Human Origins | Greg B
+dannyjones-4684eaa5   # 12 Dec 2024 2:28 #274 - Dark Science: Death, DARPA, Fauci & Nuclear War | Adam Wyman
+dannyjones-86c88286   # 25 Nov 2024 2:46 #271 - New DMT Experiment Finds 'Alien Code' Hidden in the Fabric of Rea
+dannyjones-47595b0d   # 11 Nov 2024 2:12 #269 - Surge in Alien Abduction Activity Puts Military on High Alert | R
+dannyjones-10644067   # 04 Nov 2024 2:53 #268 - China's MK-Ultra: The Reason They Want 5G Towers Everywhere | Max
+dannyjones-70d5d767   # 30 Sep 2024 4:21 #263 - Exiled Brain Surgeon: DARPA Mind Control, Quantum Biology & Sunli
+dannyjones-8b324b13   # 16 Sep 2024 3:14 #261 - Evolution Expert: Aliens are Future Humans & UFOs are Time Machin
+dannyjones-dd5749f8   # 09 Sep 2024 3:44 #259 - Human-Alien Hybrids on Earth: Infamous Abduction Victim Speaks Ou
+dannyjones-3ee5a0be   # 29 Aug 2024 2:24 #257 - 22 SAS Operator: DARPA Biotech & Future Super Soldiers | Jon True
+dannyjones-8451ffff   # 19 Aug 2024 2:51 #255 - 2025 US Civil War, Psychedelics, Christianity & the Machine Raptu
+dannyjones-06d535f6   # 12 Aug 2024 3:05 #254 - Explosive CIA Face-Off: Loyal Officer VS Dissident Spy
+dannyjones-b10bafea   # 05 Aug 2024 3:19 #253 - Ancient Hindu Texts: Alien Reptile Gods, Giants & Super Machines
+dannyjones-80bb8caf   # 29 Jul 2024 3:11 #252 - The Shadow Government, World Bank & CIA-Backed Coup's | John Perk
+dannyjones-786db074   # 16 Jul 2024 2:36 #249 - CIA Spy Breaks Down Trump Assassination Attempt | Matt Cox & John
+dannyjones-63b0cf38   # 08 Jul 2024 4:05 #248 - God, Aliens & the Truth Behind All World Religions | Jason Jorjan
+dannyjones-ea3d9edb   # 13 May 2024 2:23 #238 - The CIA's Global Assassin Network is Getting Out of Control | Sea
+dannyjones-e23a4b1c   # 29 Apr 2024 3:51 #236 - US Intel Analyst Predicts Russia's Nuclear War Strategy | Ryan Mc
+dannyjones-0b998dd6   # 24 Apr 2024 2:33 #234 - NASA & Russian Top-Secret Government Animal Experiments | Ric O'B
+dannyjones-8ccd9c44   # 08 Apr 2024 2:15 #232 - Alien Abductee Brain Scans Reveal Gateway to a Hidden World | Sea
+dannyjones-402d1f2c   # 18 Mar 2024 3:53 #229 - CIA StarGate Spy: Remote Viewing Mars, Nazi Occult & Space Warfar
+dannyjones-198f3851   # 11 Mar 2024 3:09 #228 - Annie Jacobsen: The Pentagon's Horrifying NUCLEAR WAR Strategy re
+dannyjones-dd39efd4   # 04 Mar 2024 2:20 #227 - Ancient Religion Professor: UFOs, The Paranormal & Esotericism |
+dannyjones-605cb127   # 26 Feb 2024 3:53 #225 - CIA's Hidden Weapon: The Man Who Hunted Down Che Guevara | Felix
+dannyjones-f75f0bb5   # 19 Feb 2024 3:33 #224 - Harvard’s UFO Lawyer: Aliens, Disinformation & the Secret Governm
+dannyjones-22c7a173   # 12 Feb 2024 3:00 #223 - Disturbing CIA Document Finally Confirms JFK Coverup | John Newma
+dannyjones-2e8db6d4   # 15 Jan 2024 1:52 #219 - How CIA Created the Cocaine Militias of Central America | Cookie
+dannyjones-72fc7621   # 01 Jan 2024 1:37 #217 - Top Astrophysicist's are HIGHLY Skeptical of UFO & Alien Disclosu
+dannyjones-2c25e363   # 25 Dec 2023 2:34 #215 - CIA & NASA are Trying to Open the Door to a Spirit Realm | Ryan B
+dannyjones-d56bf368   # 18 Dec 2023 2:51 #214 - God, Aliens & The DEMONIC Realm | Bek Lover
+dannyjones-c99ebc53   # 11 Dec 2023 3:20 #213 - CIA Spy Breaks Down What's REALLY Happening in Israel | John Kiri
+dannyjones-fc3f78d0   # 04 Dec 2023 3:19 #212 - NASA's Forbidden Alien Study Finds Proof of Spiritual Beings | Ch
+dannyjones-90b297cf   # 24 Nov 2023 3:22 #211 - MH370 UFO Video Exposed: VFX Artist Reveals the TRUE Story | Corr
+dannyjones-8cf5bac4   # 13 Nov 2023 3:26 #209 - STARGATE Physicist Unmasks The Pentagon's Most Disturbing BLACK P
+dannyjones-d4c263fd   # 30 Oct 2023 2:33 #207 - Did NASA Physicists CONFIRM The Great Pyramids TRUE Purpose? | Ch
+dannyjones-9af4f2ec   # 23 Oct 2023 3:17 #206 - CIA Spy & FBI Agent Expose TRUTH about UFOs & China
+dannyjones-b03d8f3e   # 11 Sep 2023 2:17 #201 - Why Aerospace Scientists Are Wrong about UFO Propulsion | Jack Sa
+dannyjones-bf44ea0d   # 28 Aug 2023 2:41 #200 - CIA Funded Physicist Exposes Conscious UFOs, Warp Drive & Time Tr
+dannyjones-217c4a89   # 13 Aug 2023 3:16 #198 - Explosive New JFK Evidence Reveals Russian Mole Inside CIA | John
+dannyjones-be529deb   # 30 Jul 2023 2:25 #196 - UFO Physics: The Secret Race to Anti-Gravity | David Chester
+dannyjones-be59c265   # 18 Jun 2023 2:03 #190 - RFK Jr is Unmasking CIA’s Psychological Mind Weapon | Tony Lyons
+dannyjones-c12c6c22   # 04 Jun 2023 2:37 #188 - Top Aerospace Scientists Suspect UFOs Are Biblical Time Machines
+dannyjones-96831780   # 21 May 2023 3:18 #186 - CIA's Deadliest Black-Ops Commando Breaks Down America's Shadow W
+dannyjones-aaa4bccd   # 23 Apr 2023 2:49 #182 - Ancient Biblical Proof Satan was an Alien | Esoteric Eddie
+dannyjones-1834c77f   # 16 Apr 2023 3:45 #181 - Explosive New Bob Lazar Evidence & Area 51 Secrets Revealed | Jer
+dannyjones-11668953   # 12 Apr 2023 3:05 #180 - CIA Spy Breaks Silence On Elon Musk's Twitter Files | John Kiriak
+dannyjones-f05690b5   # 06 Mar 2023 2:16 #176 - Aliens are Still Abducting People | Randall Nickerson
+dannyjones-0860bf33   # 07 Feb 2023 2:18 #172 - The CIA has Activated Sleeper Cells to Conduct Sabotage Inside Ru
+dannyjones-92a3ed98   # 24 Jan 2023 2:17 #170 - Navy Fighter Pilot Explains UFOs & Black Budget War Tech | Ryan G
+dannyjones-58627108   # 29 Nov 2022 3:10 #163 - Scientology is on the Verge of Destruction | Aaron Smith-Levin
+dannyjones-f628fa6e   # 21 Nov 2022 3:03 #162 - CIA Spy & FBI Agent Debate: China, Ukraine & How To Disappear Peo
+dannyjones-9d2f76c5   # 08 Nov 2022 2:24 #160 - Harvard Scientist Exposes CIA Mind Control Weapons Still Being Us
+dannyjones-7b1193e9   # 18 Oct 2022 2:51 #158 - Why Discovering Advanced Alien Life Would be Bad for Humanity | R
+dannyjones-c0d8ee8c   # 20 Sep 2022 2:06 #154 - 25 Year CIA Operative Explains the Future of Nukes & UFO's | Jame
+dannyjones-5c57ed2e   # 29 Aug 2022 3:12 #151 - Proof The Military Captured A Live Alien In Brazil | James Fox
+dannyjones-3e6bac8e   # 16 Aug 2022 2:34 #149 - Top Secret JFK Documents the Pentagon Will Never Release | James
+dannyjones-8fbd8fa4   # 23 May 2022 2:47 #138 - Ex-CIA Spy Explains How the United States Turned Him Into a Dissi
+dannyjones-7039d75b   # 28 Mar 2022 1:44 #130 - Former Russian Spy Exposes Nuclear Secrets | Jack Barsky
+dannyjones-6108ceef   # 02 Mar 2022 1:51 #127 - Ex-CIA Super Spy Exposes Russia & China's Secret Plan Behind Ukra
+dannyjones-d0688f29   # 19 Nov 2021 1:32 #117 - Revealing the most Insane Alien Abduction Claim in History | Brad
+dannyjones-fddec172   # 08 Sep 2021 1:39 #109 - The Harvard Psychiatrist Obsessed with Alien Abduction | Ralph Bl
+dannyjones-62d381e8   # 09 Jul 2021 2:33 #101 - The Mysterious Connection between Owls & UFO Contact | Mike Clell
+dannyjones-34150b26   # 01 Jul 2021 2:16 #100 - The CIA's Secret Mind Control Experiments on Charles Manson | Tom
+dannyjones-16de8948   # 25 May 2021 2:20 #93 - The Man Behind Jimi Hendrix’s Psychedelic Style | Michael Braun
+dannyjones-ee646f61   # 17 May 2021 1:46 #92 - Former CIA Spy Explains Surveillance on US Citizens | Jihi Bustama
+dannyjones-91943c4c   # 23 Apr 2021 0:58 #88 - America's Alien Overlords | Mike Hengstebeck
+dannyjones-9a930813   # 16 Apr 2021 1:58 #87 - Miami's Narco Economy | Billy Corben
+dannyjones-09ee9949   # 30 Mar 2021 2:24 #84 - Former CIA Super Spy Explains UFO's | Andrew Bustamante
+dannyjones-bfcdea77   # 07 Mar 2021 1:34 #80 - The Psychedelic Filmmaker Peeling back the Scab on Society | Sean
+dannyjones-3c93a5bb   # 08 Feb 2021 1:22 #76 - Harvard's Top Astronomer Believes Aliens are Trying to Contact Us
+dannyjones-fc028fc2   # 04 Feb 2021 2:16 #75 - Predator Drone Operator | Brandon Bryant
+dannyjones-6316a7be   # 15 Jan 2021 1:31 #70 - Former CIA Super Spy Speaks Out | Andrew Bustamante
+dannyjones-395e123b   # 16 Dec 2020 2:16 #66 - MK Ultra: The CIA's Secret Quest for Mind Control | Stephen Kinzer
+dannyjones-2af72df5   # 08 Jun 2020 1:55 #44 - The Fluid Nature of Truth, Reality and UFO'S | Mike Hengstebeck

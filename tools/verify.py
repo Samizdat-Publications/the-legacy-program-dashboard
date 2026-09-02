@@ -344,6 +344,97 @@ def _edge_tier_sourcing(b, html):
     return bad[:40]
 
 
+_EDGE_TIERS_OVERRIDE = None
+
+
+def _edge_tiers():
+    """research/_edge_tiers.json, or the poisoned stand-in during --self-test."""
+    if _EDGE_TIERS_OVERRIDE is not None:
+        return _EDGE_TIERS_OVERRIDE
+    path = os.path.join(ROOT, "research", "_edge_tiers.json")
+    if not os.path.exists(path):
+        return {"edges": []}
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+@check("no Tier 1 edge rests on an interested party asserting an external fact")
+def _edge_interested_party(b, html):
+    """CLAUDE.md section 2: claims sourced to aaro.mil or defense.gov cap at Tier 2
+    unless the claim is about what they said. The rule names no carve-out for
+    edges, and until 1 September 2026 it had one anyway: remediate_tiers() applied
+    it to node claims and remediate_edge_tiers() explicitly did not, on the
+    argument that an edge note defeats the attribution regex. The argument was
+    right about the regex and wrong about the conclusion -- 82 edges rendered
+    "Tier 1 - documented" with every source on an interested-party domain and no
+    adjudication behind any of them, four of them the board's own inferences.
+
+    This re-derives the rule independently of merge.py, with its own patterns. An
+    edge whose EVERY source is an interested-party domain may hold Tier 1 only if
+    its note attributes what the document says, or if research/_edge_tiers.json
+    carries a reasoned decision for it. The file is the reviewable half; the regex
+    is the mechanical half. An adjudicated edge must ship at its adjudicated tier."""
+    import re as _re
+    INTERESTED = _re.compile(r"aaro\.mil|(?:^|//|\.)defense\.gov|war\.gov|dvidshub|"
+                             r"pentagon\.mil|\bdodcio\b", _re.I)
+    ATTR = _re.compile(
+        r"\b(denie[ds]|denial|declined|state[sd]|said|assert(?:s|ed)?|claim(?:s|ed)|"
+        r"announced|acknowledg\w*|conclude[sd]|reported that|wrote|testified|"
+        r"responded|maintains?|characteri[sz]ed|attribute[sd]?|credit(?:s|ed)?|"
+        r"list(?:s|ed)?|identifie[sd]|name[sd]|reads|contains?|describe[sd]?|"
+        r"print(?:s|ed)?|publishe[sd]|record(?:s|ed)?|shows?|gives?|hosts?|"
+        r"disclosed|confirm(?:s|ed|ing)?|refers|treats|establishe[sd]|"
+        r"disestablished|directed|signed|transmitted|links?|carries|attested|"
+        r"rejects|approved|appropriated|issued|told|conducted|commits|places|"
+        r"according to (?:aaro|the )?(?:dod|department of defense|pentagon))\b|"
+        r"own words|'[^']{12,}'", _re.I)
+    adj = {(r.get("a"), r.get("b"), r.get("type")): r
+           for r in (_edge_tiers() or {}).get("edges") or []}
+    bad = []
+    for e in b["edges"]:
+        key = (e.get("a"), e.get("b"), e.get("type"))
+        if key in adj:
+            want = adj[key].get("tier")
+            if e.get("claimTier") != want:
+                bad.append(f"edge {key[0]}->{key[1]} ({key[2]}) ships Tier "
+                           f"{e.get('claimTier')} but _edge_tiers.json adjudicates {want}")
+            continue
+        if e.get("claimTier") != 1:
+            continue
+        urls = [s.get("url") or "" for s in (e.get("sources") or [])]
+        if not urls or not all(INTERESTED.search(u) for u in urls):
+            continue
+        if ATTR.search(e.get("note") or ""):
+            continue
+        bad.append(f"edge {key[0]}->{key[1]} ({key[2]}) is Tier 1 on interested-party "
+                   f"sources only, with a note that does not attribute and no "
+                   f"adjudication in research/_edge_tiers.json")
+    return bad[:40]
+
+
+@check("the timeline stacks at the four-column threshold")
+def _timeline_threshold(b, html):
+    """The parent board's timeline had three columns and stacked below 820px of
+    surface width. This board's has four, and build_dashboard.py raises the
+    threshold to 1040px in the two places the width is measured. Until 1
+    September 2026 that patch was a bare s.replace() behind a guard that was
+    always false, so it had never applied and the four columns stacked at the
+    three-column line on every reader's screen. The build said "all patches
+    applied". Nothing read the built file. This does."""
+    if not html:
+        return ["dist/the-program.html is missing — run build_dashboard.py"]
+    have = html.count("getBoundingClientRect().width < 1040;")
+    stale = html.count("getBoundingClientRect().width < 820;")
+    bad = []
+    if have < 2:
+        bad.append(f"the 1040px timeline threshold appears {have} time(s); expected 2 "
+                   f"(viewTimeline and the ResizeObserver)")
+    if stale:
+        bad.append(f"the parent board's 820px timeline threshold is still in the built "
+                   f"file ({stale} occurrence(s))")
+    return bad
+
+
 @check("no parent-board editorial content ships")
 def _no_parent_editorial(b, html):
     """This board was built by porting a shell from a sibling project, The Vanishing,
@@ -2056,6 +2147,14 @@ def self_test():
             {"a": "a-b", "b": "a-b", "type": "institutional", "claimTier": 1, "note": "x",
              "sources": [{"name": "Wikipedia - Something",
                           "url": "https://en.wikipedia.org/wiki/Something"}]})),
+        # an external fact about a third party, on an aaro.mil page alone, graded
+        # "documented": the exact shape of the 82 edges found on 1 September 2026
+        "no Tier 1 edge rests on an interested party asserting an external fact": mut(
+            lambda b: b["edges"].append(
+                {"a": "a-b", "b": "e0", "type": "behavioral", "claimTier": 1,
+                 "note": "Ann Bee left the office in 2023 and joined E0 as its chief technologist.",
+                 "sources": [{"name": "AARO UAP Records",
+                              "url": "https://www.aaro.mil/UAP-Records/"}]})),
         "no edge note leaks build bookkeeping": mut(lambda b: b["edges"].append(
             {"a": "a-b", "b": "a-b", "type": "custody",
              "note": "Asserts a thing. [Re-pointed from the collapsed duplicate `x`, 14 Aug 2026.]"})),
@@ -2141,7 +2240,17 @@ def self_test():
         "format('woff2');unicode-range:U+%s}" % (w, r)
         for w in ("400", "500", "600") for r in ("0000-00FF", "0100-02AF")) + "</style>"
 
-    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK + FONTS_OK)
+    # The two timeline width measurements, at the four-column threshold. Same
+    # reason as the three above: the check reads them out of the built file.
+    TIMELINE_OK = ("\nconst narrow = $('#surface').getBoundingClientRect().width < 1040;\n"
+                   "const narrow2 = $('#surface').getBoundingClientRect().width < 1040;\n")
+
+    good_html = wrap(L0(), EXPLAIN_OK + SYSPROMPT_OK + FONTS_OK + TIMELINE_OK)
+
+    # The poison IS the historical bug: the parent board's threshold surviving in
+    # the built file because the patch that should have raised it never applied.
+    poison_html["the timeline stacks at the four-column threshold"] = \
+        good_html.replace("width < 1040;", "width < 820;")
 
     # a board with the hand-written edges the tier and gate poisons rest on
     l0board = mut(lambda b: b["edges"].extend([
