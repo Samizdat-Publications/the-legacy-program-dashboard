@@ -152,6 +152,55 @@ function scriptedReply(q){
   };
   if (hit && lookupShaped) return entityAnswer();
 
+  /* ---- 1b. the AAWSAP lineage ------------------------------------------
+     The board's spine in three programmes. Every figure below is read off the
+     nodes and edges at answer time; nothing is typed in. Before the custody
+     topic because "kona blue" also resolves as a node and must not. */
+  if (/aawsap.*(aatip|kona)|aatip.*kona|lineage|became aatip|turn(ed)? into|evolv|successor|renam/.test(t)){
+    const ids = ['aawsap','aatip','kona-blue'];
+    const ns = ids.map(i=>byId.get(i)).filter(Boolean);
+    const cnt = i => ((byId.get(i)||{}).claims||[]).length;
+    const t1 = i => ((byId.get(i)||{}).claims||[]).filter(c=>c.tier===1).length;
+    const link = (x,y) => (typeof PROGRAM_EDGES==='object'?PROGRAM_EDGES:[]).find(e=>(e.a===x&&e.b===y)||(e.a===y&&e.b===x));
+    const e1 = link('aawsap','aatip'), e2 = link('aawsap','kona-blue');
+    return say('lineage',
+      'Three names, one lineage, and the board carries the documents for each step.'
+      + '\n\nAAWSAP is the contract-of-record name: a DIA solicitation, an award, and a programme that produced the DIRD '
+      + 'technical reports. ' + cnt('aawsap') + ' claims on its node, ' + t1('aawsap') + ' of them Tier 1.'
+      + '\n\nAATIP is what the same effort was called afterwards' + (e1 ? ' -- the edge between them reads: ' + (e1.note||e1.label||'').slice(0,220) : '')
+      + '. ' + cnt('aatip') + ' claims, ' + t1('aatip') + ' Tier 1.'
+      + '\n\nKONA BLUE is where the story goes next: when DIA stopped funding, the same people proposed a prospective '
+      + 'special access programme at DHS' + (e2 ? ' -- ' + (e2.note||e2.label||'').slice(0,220) : '') + '. ' + cnt('kona-blue')
+      + ' claims, ' + t1('kona-blue') + ' Tier 1. AARO published the DHS paper on it in 2024, which is why the '
+      + 'programme that was never approved is the best-documented of the three.'
+      + '\n\nThe map is framed on all three. Select any one of them and the dossier on the right carries every '
+      + 'claim with its tier and source; the edges between them are drawn with the document each rests on.',
+      ['frameNodes(' + JSON.stringify(ids.filter(i=>byId.has(i))) + ')', 'selectNode("aawsap")'],
+      ns.map(n=>[n.id, n.label]));
+  }
+
+  /* ---- 1c. the Nimitz encounter --------------------------------------- */
+  if (/nimitz|tic.?tac|fravor|2004.*(pilot|encounter|navy)|(pilot|encounter|navy).*2004/.test(t) && byId.has('nimitz-2004')){
+    const n = byId.get('nimitz-2004');
+    const es = (typeof PROGRAM_EDGES==='object'?PROGRAM_EDGES:[]).filter(e=>e.a==='nimitz-2004'||e.b==='nimitz-2004');
+    const wit = es.filter(e=>e.type==='witness-chain').map(e=>lab(e.a==='nimitz-2004'?e.b:e.a));
+    const cust = es.filter(e=>e.type==='custody').map(e=>lab(e.a==='nimitz-2004'?e.b:e.a));
+    const t1 = (n.claims||[]).filter(c=>c.tier===1).length;
+    return say('nimitz',
+      lab('nimitz-2004') + ' carries ' + (n.claims||[]).length + ' claims, ' + t1 + ' of them Tier 1, and '
+      + es.length + ' sourced connections.'
+      + (wit.length ? '\n\nThe witnesses on the board: ' + wit.join(', ') + '. Each is a node with its own '
+        + 'testimony graded and dated; the witness-chain edges say who saw what, from where.' : '')
+      + (cust.length ? '\n\nThe custody side: ' + cust.join(', ') + '. This is where the encounter stops being '
+        + 'testimony and becomes an object -- radar data, a targeting-pod recording, the ship that held them.' : '')
+      + '\n\nWhat the government has confirmed is on the board as its own record: the Department released the '
+      + 'video as authentic and unidentified in April 2020 and characterised the earlier public copies as '
+      + 'unauthorised. What it has not done is explain it. The board keeps those two facts apart on purpose.'
+      + '\n\nThe node is selected; the dossier on the right has every claim with its source.',
+      ['selectNode("nimitz-2004")', 'setHops(1)'],
+      [['nimitz-2004', n.label]]);
+  }
+
   /* ---- 2. the custody chain ------------------------------------------- */
   if (/custody|chain of custody|recovered material|retriev|craft|wreck/.test(t)){
     const p = (L0DATA.entryPaths||[]).find(x=>x.id==='custody');
@@ -1377,14 +1426,19 @@ def main():
     # ones with uncomfortable answers, per DESIGN-SYSTEM 4.5.
     a = s.index("const SUGGESTIONS = [")
     b = s.index("];", a) + 2
+    # Reordered 2 September 2026 for a reader who has never seen the board: an
+    # orientation first, then the two stories that show it off (the AAWSAP lineage
+    # and the Nimitz encounter), then the four analytical routes. Every chip has a
+    # scripted branch, so it answers with real figures with or without a model,
+    # and tools/test_scripted_analyst.mjs asserts each one lands on its branch.
     s = s[:a] + """const SUGGESTIONS = [
+  'Where should I start?',
+  'How did AAWSAP become AATIP, and then KONA BLUE?',
+  'What did the Nimitz pilots see in 2004, and what has the government confirmed?',
   'Trace the custody chain from Grusch back to a named contractor',
-  'Which claims would collapse first under a hostile audit?',
   'Show me every entity the government has formally denied',
-  'What is the legal mechanism that lets a program escape oversight?',
-  'Plot the cover-up strand against the oversight strand on one axis',
-  'Chart the board by claim tier and show me where the evidence is thinnest',
-  'Export every Tier A node to a spreadsheet with its axes and sources',
+  'Follow the money: who paid, and where does the trail stop?',
+  'Which claims would collapse first under a hostile audit?',
 ];""" + s[b:]
 
     # NO OPENING TURN. There used to be one: four paragraphs on how the board was
@@ -2469,6 +2523,14 @@ def main():
     # data/l0-highlights.json precedent -- see tools/patents_patches.py.
     import patents_patches
     s, ok = patents_patches.apply(s, must_replace)
+    ok_all &= ok
+
+    # ---- the analyst's case file and request path ---------------------------
+    # Last, because its anchors are written against the text l0_patches leaves
+    # behind (the Worker fetch it added). See tools/analyst_patches.py for why the
+    # live analyst had never answered a single question.
+    import analyst_patches
+    s, ok = analyst_patches.apply(s, must_replace)
     ok_all &= ok
 
     # ---- typeface ---------------------------------------------------------

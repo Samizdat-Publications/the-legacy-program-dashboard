@@ -79,7 +79,8 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | links drawn at rest | 104 of 332, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
 | built artifact | `dist/the-program.html`, 15.85 MB |
-| gate | 52 verify checks + 40 audit re-derivations + 46 runtime + 31 canvas + 15 analyst assertions, all self-tested |
+| gate | 54 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
+| analyst | live for every reader since 2 September 2026 via the Worker; `notes/ANALYST-2026-09-02.md` says why it never was before |
 
 Regenerate these numbers rather than trusting them; they move every research pass:
 `python3 tools/state_snapshot.py`.
