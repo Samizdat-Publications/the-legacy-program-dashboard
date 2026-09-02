@@ -1426,6 +1426,44 @@ const check = (c, label, detail = '') => {
     check(false, 'the head strip could be measured with the dock open', e.message.slice(0, 120));
   }
 
+  /* ---- the live analyst's prompt builds, on the real page ------------------
+     The inherited caseContext() threw on this board's data inside
+     SYSTEM_PROMPT(), so the model path never sent a request and the turn sat on
+     "thinking" for ever -- while all fifteen analyst assertions exercised the
+     scripted path. POISON=analyst makes the index reader dereference a field no
+     node has, on the real page, and requires the build to fail the same way. */
+  try {
+    const POIS_A = process.env.POISON === 'analyst';
+    const ap = await page.evaluate((poison) => {
+      const B = window.__board;
+      if (!B || typeof B.analystPrompt !== 'function') return { err: 'analystPrompt is not exposed' };
+      window.__ANALYST_POISON = !!poison;
+      try {
+        const t0 = performance.now();
+        const p = B.analystPrompt();
+        return { stable: p.stable.length, state: p.state.length, ms: Math.round(performance.now() - t0),
+                 hasIndex: p.stable.includes('CASE INDEX'), hasNode: /\naawsap \| /.test(p.stable),
+                 hasAxes: p.stable.includes('C (custody proximity)'), hasState: p.state.includes('CURRENT STATE'),
+                 parentFields: /leftBehind|tookWith|\bS=\d/.test(p.stable + p.state) };
+      } catch (e) { return { err: e.message }; }
+      finally { window.__ANALYST_POISON = false; }
+    }, POIS_A);
+    if (POIS_A) {
+      check(!!ap.err, 'the analyst-prompt check can see a broken case file',
+            ap.err ? 'threw: ' + ap.err.slice(0, 80) : 'built fine with the poison on, so the check is blind');
+    } else {
+      check(!ap.err, "the analyst prompt builds without throwing on this board's data",
+            ap.err || `stable ${ap.stable} chars, state ${ap.state} chars in ${ap.ms}ms`);
+      check(!ap.err && ap.hasIndex && ap.hasNode && ap.hasAxes,
+            "the analyst prompt carries the case index, a real node and this board's axes",
+            JSON.stringify({ hasIndex: ap.hasIndex, hasNode: ap.hasNode, hasAxes: ap.hasAxes }));
+      check(!ap.err && ap.hasState, 'the volatile half of the prompt carries the current state', '');
+      check(!ap.err && !ap.parentFields, "the prompt carries none of the parent board's fields", '');
+      check(!ap.err && ap.stable < 240000 && ap.state < 70000, "the prompt stays inside the worker's caps",
+            `stable ${ap.stable}, state ${ap.state}`);
+    }
+  } catch (e) { check(false, 'the analyst prompt could be measured', e.message.slice(0, 120)); }
+
   await browser.close();
   ok.forEach(l => console.log('  ' + l));
   fails.forEach(l => console.log('  ' + l));

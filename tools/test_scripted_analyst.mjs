@@ -31,13 +31,20 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const rd = p => fs.readFileSync(path.join(root, p), 'utf8');
 
 const CASES = [
+  // the seven chips, as shipped on 2 September 2026
+  ['Where should I start?',                                          'start'],
+  ['How did AAWSAP become AATIP, and then KONA BLUE?',               'lineage'],
+  ['What did the Nimitz pilots see in 2004, and what has the government confirmed?', 'nimitz'],
   ['Trace the custody chain from Grusch back to a named contractor', 'custody'],
-  ['Which claims would collapse first under a hostile audit?',       'audit'],
   ['Show me every entity the government has formally denied',        'denial'],
+  ['Follow the money: who paid, and where does the trail stop?',     'money'],
+  ['Which claims would collapse first under a hostile audit?',       'audit'],
+  // the earlier chips, still valid questions
   ['What is the legal mechanism that lets a program escape oversight?', 'mechanism'],
   ['Plot the cover-up strand against the oversight strand on one axis', 'strands'],
   ['Chart the board by claim tier and show me where the evidence is thinnest', 'tiers'],
   ['Export every Tier A node to a spreadsheet with its axes and sources', 'export'],
+  ['tic tac',                   'nimitz'],
   ['tell me about AAWSAP',      'entity'],
   ['who is Sean Kirkpatrick',   'entity'],
   ['david grusch',              'entity'],
@@ -63,7 +70,7 @@ let fn = slice('function scriptedReply');
 if (process.env.BREAK === '1'){
   /* Self-test: disable the topic table so every probe falls through to the
      entity matcher or the default. If the test still passes, it is broken. */
-  fn = fn.replace(/return say\('(custody|export|tiers|audit|denial|mechanism|strands|money|foreign|start)',/g,
+  fn = fn.replace(/return say\('(custody|export|tiers|audit|denial|mechanism|strands|money|foreign|start|lineage|nimitz)',/g,
                   "return say('entity',");
 }
 const cmdBlock = html.slice(html.indexOf('const CMD = {'), html.indexOf('\n};', html.indexOf('const CMD = {')));

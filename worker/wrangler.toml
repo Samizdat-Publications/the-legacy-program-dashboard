@@ -18,5 +18,16 @@ namespace_id = "1001"
   limit = 20
   period = 60
 
+# And a ceiling across every caller together, so many addresses cannot add up
+# to an open account. 60 a minute is more than the board's readers will ever
+# use at once and a hard cap on what anyone else can spend.
+[[ratelimits]]
+name = "ANALYST_GLOBAL_LIMITER"
+namespace_id = "1002"
+
+  [ratelimits.simple]
+  limit = 60
+  period = 60
+
 [observability]
 enabled = true

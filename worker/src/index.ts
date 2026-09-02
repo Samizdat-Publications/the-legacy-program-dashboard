@@ -19,41 +19,40 @@
  * and the conversation. A proxy that forwards `model` and `max_tokens` from the
  * body is an open account.
  *
- * TWO MORE THINGS, ADDED 1 SEPTEMBER 2026 AFTER THE AUDIT
- * ------------------------------------------------------
- * 1. A rate limit, in code. Until now the only limit was a dashboard WAF rule
- *    that DEPLOY.md described as "worth adding", which is to say nothing in
- *    version control could prove it existed. The `ANALYST_LIMITER` binding in
- *    wrangler.toml is the same infrastructure as a WAF rate-limiting rule, and it
- *    is here where a reader of this file can see it. 20 calls per minute per IP
- *    is generous for a person and useless to a script.
+ * ADDED 1 SEPTEMBER 2026 AFTER THE AUDIT
+ * --------------------------------------
+ * 1. Rate limits, in code. Per IP (20 a minute) and across everyone (60 a
+ *    minute), as `ratelimits` bindings in wrangler.toml -- the same
+ *    infrastructure as a WAF rule, but here where a reader of this file can see
+ *    it exists. The global one is the ceiling on what a botnet can spend.
  *
  * 2. The origin. `Access-Control-Allow-Origin: *` let any page on the internet
- *    call this from its visitors' browsers and spend the account. The board is
- *    served from one origin and the worker is routed on that same origin, so
- *    the only cross-origin caller a browser should ever be is a local preview.
- *    Anything else gets no CORS header, which a browser treats as a refusal.
- *    (curl still gets through -- that is what the rate limit is for.)
+ *    call this from its visitors' browsers. Only the board's origin and a local
+ *    preview get a CORS answer now; anything else is refused by the browser.
+ *
+ * 3. The system prompt may arrive as an array of text blocks. The board sends
+ *    its case index as a block marked cache_control so every turn after the
+ *    first reads it from the API's cache; the volatile state follows uncached.
  */
 import Anthropic from "@anthropic-ai/sdk";
 
 export interface Env {
   ANTHROPIC_API_KEY: string;
   ANALYST_LIMITER?: RateLimit;
+  ANALYST_GLOBAL_LIMITER?: RateLimit;
 }
 
 /* Pinned server-side. The client may not raise any of them. */
 const MODEL = "claude-opus-5";
-/* Thinking tokens count against max_tokens. At 4000 with effort "high" the model
-   could spend the whole budget thinking and return stop_reason "max_tokens" with
-   no visible answer; 16000 is the documented shape for this configuration. */
+/* Thinking tokens count against max_tokens; 16000 is the documented shape for
+   adaptive thinking at this effort. */
 const MAX_TOKENS = 16_000;
 const EFFORT = "high";
 const MAX_TURNS = 10;
-const MAX_CHARS = 24_000;
+const MAX_CHARS = 24_000;          // per conversation turn
+const MAX_SYSTEM_CHARS = 300_000;  // the whole system prompt, all blocks together
 
-/* Origins allowed to call this from a browser. The live board, plus a local
-   preview of the same file. Add a custom domain here when one exists. */
+/* Origins allowed to call this from a browser. */
 const ALLOWED_ORIGINS = new Set([
   "https://the-program-zxz.pages.dev",
   "http://127.0.0.1:8899",
@@ -95,6 +94,33 @@ function clean(raw: unknown): Turn[] | null {
   return out;
 }
 
+/* A string, or an array of text blocks. Only `type: "text"`, only an ephemeral
+   cache_control, and a ceiling on the total -- the client does not get to
+   choose what else goes in a system block. */
+function cleanSystem(raw: unknown): Anthropic.TextBlockParam[] | undefined {
+  if (typeof raw === "string") {
+    return raw.trim() ? [{ type: "text", text: raw.slice(0, MAX_SYSTEM_CHARS) }] : undefined;
+  }
+  if (!Array.isArray(raw)) return undefined;
+  const out: Anthropic.TextBlockParam[] = [];
+  let budget = MAX_SYSTEM_CHARS;
+  for (const b of raw) {
+    if (!b || typeof b !== "object") return undefined;
+    const { type, text, cache_control } = b as Record<string, unknown>;
+    if (type !== "text" || typeof text !== "string") return undefined;
+    const t = text.slice(0, Math.max(0, budget));
+    budget -= t.length;
+    if (!t) continue;
+    const block: Anthropic.TextBlockParam = { type: "text", text: t };
+    if (cache_control && typeof cache_control === "object"
+        && (cache_control as Record<string, unknown>).type === "ephemeral") {
+      block.cache_control = { type: "ephemeral" };
+    }
+    out.push(block);
+  }
+  return out.length ? out : undefined;
+}
+
 export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     if (req.method === "OPTIONS") return new Response(null, { headers: cors(req) });
@@ -111,16 +137,18 @@ export default {
       return json(req, { error: "the analyst is not configured on this deployment" }, 503);
     }
 
-    /* Per-IP limit. The binding is optional in the type so a deployment that has
-       not configured it still answers; a missing limiter is logged, not fatal. */
+    /* Per-IP, then global. Both bindings are optional in the type so a deployment
+       without them still answers; a missing limiter is logged, not fatal. */
+    const ip = req.headers.get("cf-connecting-ip") ?? "unknown";
     if (env.ANALYST_LIMITER) {
-      const ip = req.headers.get("cf-connecting-ip") ?? "unknown";
       const { success } = await env.ANALYST_LIMITER.limit({ key: "analyst:" + ip });
-      if (!success) {
-        return json(req, { error: "too many requests; try again in a minute" }, 429);
-      }
+      if (!success) return json(req, { error: "too many requests from this address; try again in a minute" }, 429);
     } else {
       console.warn("ANALYST_LIMITER binding is not configured; no per-IP limit");
+    }
+    if (env.ANALYST_GLOBAL_LIMITER) {
+      const { success } = await env.ANALYST_GLOBAL_LIMITER.limit({ key: "analyst:all" });
+      if (!success) return json(req, { error: "the analyst is busy; try again in a minute" }, 429);
     }
 
     let body: Record<string, unknown>;
@@ -132,7 +160,7 @@ export default {
 
     const messages = clean(body.messages);
     if (!messages) return json(req, { error: "messages is not a usable conversation" }, 400);
-    const system = typeof body.system === "string" ? body.system.slice(0, MAX_CHARS) : undefined;
+    const system = cleanSystem(body.system);
 
     const client = new Anthropic({ apiKey: env.ANTHROPIC_API_KEY });
     try {
@@ -145,8 +173,9 @@ export default {
         output_config: { effort: EFFORT },
       });
       /* Return the API's own shape. The board already parses it, and translating
-         here would mean two places to keep in step. */
-      return json(req, { content: msg.content, stop_reason: msg.stop_reason });
+         here would mean two places to keep in step. usage is passed through so a
+         reader of the network tab can see the cache working. */
+      return json(req, { content: msg.content, stop_reason: msg.stop_reason, usage: msg.usage });
     } catch (e: unknown) {
       const status = (e as { status?: number })?.status ?? 502;
       const message = (e as { message?: string })?.message ?? "upstream error";
