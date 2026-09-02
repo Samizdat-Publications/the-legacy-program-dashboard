@@ -1,8 +1,8 @@
 {
  "counts": {
-  "NODE": 285,
-  "PROSE": 222,
-  "ABSENT": 965
+  "NODE": 346,
+  "PROSE": 182,
+  "ABSENT": 944
  },
  "results": [
   {
@@ -12,11 +12,6 @@
   },
   {
    "candidate": "303 Committee",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "40 Committee",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1026,11 +1021,6 @@
    "near": []
   },
   {
-   "candidate": "Charles Hall",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Charles Hambro",
    "verdict": "ABSENT",
    "near": []
@@ -1188,11 +1178,6 @@
   },
   {
    "candidate": "Church of Scientology",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "CIA",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1496,11 +1481,6 @@
    "near": []
   },
   {
-   "candidate": "David Grush",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "David Hatcher Childress",
    "verdict": "ABSENT",
    "near": []
@@ -1625,11 +1605,6 @@
    "near": []
   },
   {
-   "candidate": "DIA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "DIA Directorate of Human Intelligence Collection",
    "verdict": "ABSENT",
    "near": []
@@ -1653,16 +1628,6 @@
   },
   {
    "candidate": "Dmitry Medvedev",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "DoD",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "DOE",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1695,11 +1660,6 @@
   },
   {
    "candidate": "Don Phillips",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Don Schmitt",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1869,11 +1829,6 @@
   },
   {
    "candidate": "Earl Warren",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Ed Dames",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2658,11 +2613,6 @@
    "near": []
   },
   {
-   "candidate": "IDA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Igor Witkowski",
    "verdict": "ABSENT",
    "near": [
@@ -3048,11 +2998,6 @@
   },
   {
    "candidate": "Jim Lacatski",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "Jim Penniston",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3733,11 +3678,6 @@
    ]
   },
   {
-   "candidate": "Mark Millis",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Martin Bormann",
    "verdict": "ABSENT",
    "near": []
@@ -3890,18 +3830,6 @@
    "candidate": "Mike Asherman",
    "verdict": "ABSENT",
    "near": []
-  },
-  {
-   "candidate": "Mike Gallagher",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "gallagher",
-     "id": "mike-gallagher",
-     "field": "narrative",
-     "context": "...Gallagher is included here as a structural node rather than an establ..."
-    }
-   ]
   },
   {
    "candidate": "Mike Griffin",
@@ -4159,11 +4087,6 @@
    "near": []
   },
   {
-   "candidate": "NGA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "Nick Cook",
    "verdict": "ABSENT",
    "near": [
@@ -4238,16 +4161,6 @@
    "near": []
   },
   {
-   "candidate": "NRO",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "NSA",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "NSC",
    "verdict": "ABSENT",
    "near": []
@@ -4308,11 +4221,6 @@
   },
   {
    "candidate": "One Brattle Square",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "ONI",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5224,18 +5132,6 @@
    "near": []
   },
   {
-   "candidate": "Sen. Chuck Schumer",
-   "verdict": "ABSENT",
-   "near": [
-    {
-     "token": "chuck",
-     "id": "jared-moskowitz",
-     "field": "narrative",
-     "context": "...tt and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public ha..."
-    }
-   ]
-  },
-  {
    "candidate": "Seymour Hersh",
    "verdict": "ABSENT",
    "near": []
@@ -5339,11 +5235,6 @@
   },
   {
    "candidate": "Special Operations Executive",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "SRI",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5672,17 +5563,7 @@
    "near": []
   },
   {
-   "candidate": "TRW",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
    "candidate": "U.S. Army Intelligence Support Activity Group",
-   "verdict": "ABSENT",
-   "near": []
-  },
-  {
-   "candidate": "UAP Working Group",
    "verdict": "ABSENT",
    "near": []
   },
@@ -6263,48 +6144,6 @@
    ]
   },
   {
-   "candidate": "AARO",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harry-reid",
-     "field": "narrative",
-     "context": "...million into the defense black budget for what became AAWSAP at DIA \u2014 AARO's own 2024 report states flatly that 'at the direction of Senate Majo..."
-    },
-    {
-     "id": "harry-reid",
-     "field": "claim",
-     "context": "...AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direct..."
-    },
-    {
-     "id": "harry-reid",
-     "field": "source",
-     "context": "...AARO, Report on the Historical Record of U.S. Government Involvement with..."
-    }
-   ]
-  },
-  {
-   "candidate": "AATIP",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harry-reid",
-     "field": "claim",
-     "context": "...Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and enginee..."
-    },
-    {
-     "id": "james-lacatski",
-     "field": "source",
-     "context": "...DIA FOIA Electronic Reading Room \u2014 AAWSAP/AATIP collection..."
-    },
-    {
-     "id": "james-lacatski",
-     "field": "source",
-     "context": "...Archived: DIA FOIA Electronic Reading Room \u2014 AAWSAP/AATIP collection (Wayback 2026-06-11)..."
-    }
-   ]
-  },
-  {
    "candidate": "Advanced Theoretical Physics Working Group",
    "verdict": "PROSE",
    "hits": [
@@ -6312,48 +6151,6 @@
      "id": "john-b-alexander",
      "field": "narrative",
      "context": "...ics work, he convened in the 1980s an interagency group he called the Advanced Theoretical Physics working group, drawing senior people from CIA, DIA, the services and the national l..."
-    }
-   ]
-  },
-  {
-   "candidate": "AFOSI",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "paul-bennewitz",
-     "field": "narrative",
-     "context": "...e, in writing, repeatedly. The Air Force's documented response was an AFOSI file: a formal AFOSI complaint-form record dated 10 November 1980 con..."
-    },
-    {
-     "id": "paul-bennewitz",
-     "field": "sub",
-     "context": "...Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988..."
-    },
-    {
-     "id": "paul-bennewitz",
-     "field": "claim",
-     "context": "...An AFOSI record dated 10 November 1980 documents that Kirtland AFB security po..."
-    }
-   ]
-  },
-  {
-   "candidate": "AFRL",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "william-mccasland",
-     "field": "narrative",
-     "context": "...is the reason his name carries the nickname the press has given him: AFRL at Wright-Patterson is the single installation most persistently name..."
-    },
-    {
-     "id": "william-mccasland",
-     "field": "sub",
-     "context": "...Maj. Gen., USAF (ret.); former AFRL commander; disappeared February 2026..."
-    },
-    {
-     "id": "aaro-fy2023-annual-report",
-     "field": "claim",
-     "context": "...thin this domain...' AARO names NIM-MIL, the USAF including NASIC and AFRL as its air-domain partners...."
     }
    ]
   },
@@ -6559,27 +6356,6 @@
    ]
   },
   {
-   "candidate": "Aztec",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "frank-scully",
-     "field": "narrative",
-     "context": "...umanoid bodies had come down in Hart Canyon twelve miles northeast of Aztec, New Mexico, had been taken by the military for secret research, ran..."
-    },
-    {
-     "id": "frank-scully",
-     "field": "claim",
-     "context": "...Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec,..."
-    },
-    {
-     "id": "frank-scully",
-     "field": "source",
-     "context": "...Aztec crashed saucer hoax - Wikipedia..."
-    }
-   ]
-  },
-  {
    "candidate": "BAE Systems",
    "verdict": "PROSE",
    "hits": [
@@ -6598,27 +6374,6 @@
      "id": "andy-biggs--david-grusch",
      "field": "note",
      "context": "...he official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That..."
-    }
-   ]
-  },
-  {
-   "candidate": "Battelle",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "sean-kirkpatrick",
-     "field": "narrative",
-     "context": "...ograms at Oak Ridge National Laboratory - a laboratory operated by UT-Battelle that had supported AARO during his tenure, and which in 2024 was give..."
-    },
-    {
-     "id": "sean-kirkpatrick",
-     "field": "claim",
-     "context": "...ARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that had supported AARO, as CTO for Defense and Inte..."
-    },
-    {
-     "id": "mark-peters",
-     "field": "narrative",
-     "context": "...Argonne, then Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, then Executive Vice President for Laboratory Man..."
     }
    ]
   },
@@ -6872,22 +6627,6 @@
    ]
   },
   {
-   "candidate": "Chuck Schumer",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "jared-moskowitz",
-     "field": "narrative",
-     "context": "...ked Burchett and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public has a right to learn..."
-    },
-    {
-     "id": "us-senate",
-     "field": "desc",
-     "context": "...tleblower protection at 50 U.S.C. 3373b. In July 2023 Majority Leader Chuck Schumer and Senator Mike Rounds introduced the Unidentified Anomalous Phenome..."
-    }
-   ]
-  },
-  {
    "candidate": "CIA Directorate of Science and Technology",
    "verdict": "PROSE",
    "hits": [
@@ -6957,27 +6696,6 @@
    ]
   },
   {
-   "candidate": "CSETI",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "john-podesta",
-     "field": "narrative",
-     "context": "...d so out loud. The Clinton Library's own UFO FOIA collections - Greer/CSETI correspondence (2006-0474-F), the Roswell file (2006-0476-F), the Fir..."
-    },
-    {
-     "id": "john-podesta",
-     "field": "claim",
-     "context": "...O-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO rep..."
-    },
-    {
-     "id": "john-podesta",
-     "field": "source",
-     "context": "...IA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)..."
-    }
-   ]
-  },
-  {
    "candidate": "Curtis LeMay",
    "verdict": "PROSE",
    "hits": [
@@ -7001,27 +6719,6 @@
      "id": "minot-1968",
      "field": "claim",
      "context": "...Dan Wilson located 108 documents on the case for RADCAT; NARCAP identified 141;..."
-    }
-   ]
-  },
-  {
-   "candidate": "DARPA",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "sswg",
-     "field": "desc",
-     "context": "...USD(AT&L), the Army, Air Force, Navy, Marine Corps, the Joint Staff, DARPA and the Missile Defense Agency, plus representatives of DCAPE, the Do..."
-    },
-    {
-     "id": "odni",
-     "field": "desc",
-     "context": "..., DIA, FBI, NRO, NGA, NSA, the Air Force, the Army, the Navy and ONI, DARPA, FAA, NOAA, ODNI's National Intelligence Manager for Emerging and Dis..."
-    },
-    {
-     "id": "odni",
-     "field": "claim",
-     "context": "...ibutors USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy/ONI, DARPA, FAA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/NCSC an..."
     }
    ]
   },
@@ -7308,17 +7005,6 @@
    ]
   },
   {
-   "candidate": "Edwards AFB",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "l-edwards-afb",
-     "field": "claim",
-     "context": "...Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from M..."
-    }
-   ]
-  },
-  {
    "candidate": "Edwin May",
    "verdict": "PROSE",
    "hits": [
@@ -7554,27 +7240,6 @@
    ]
   },
   {
-   "candidate": "ICIG",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "david-grusch",
-     "field": "narrative",
-     "context": "...ugh counsel Charles McCullough III, the IC's first Inspector General; ICIG found it credible and urgent in July 2022. DoD's own Prepublication a..."
-    },
-    {
-     "id": "david-grusch",
-     "field": "sub",
-     "context": "...Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA..."
-    },
-    {
-     "id": "david-grusch",
-     "field": "chronology",
-     "context": "...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III..."
-    }
-   ]
-  },
-  {
    "candidate": "Imminent",
    "verdict": "PROSE",
    "hits": [
@@ -7640,27 +7305,6 @@
      "id": "thomas-townsend-brown",
      "field": "claim",
      "context": "...A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission..."
-    }
-   ]
-  },
-  {
-   "candidate": "Jack Reed",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "brian-jenkins-dia",
-     "field": "narrative",
-     "context": "...nate Armed Services Committee chairman John McCain and ranking member Jack Reed that transmitted the list of all 38 products produced under the progr..."
-    },
-    {
-     "id": "jack-reed",
-     "field": "claim",
-     "context": "...Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Commi..."
-    },
-    {
-     "id": "roger-wicker",
-     "field": "narrative",
-     "context": "...set during the 118th Congress, when he sat as ranking member opposite Jack Reed - meaning he held a 119(e)(2) seat at the time of the July 2023 Grusc..."
     }
    ]
   },
@@ -7878,27 +7522,6 @@
    ]
   },
   {
-   "candidate": "Kecksburg",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "leslie-kean",
-     "field": "narrative",
-     "context": "...uary 2003 she filed a FOIA request with NASA for records referring to Kecksburg, the incident of 9 December 1965, the 'Fragology Files' for 1962-1967..."
-    },
-    {
-     "id": "leslie-kean",
-     "field": "claim",
-     "context": "...Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967..."
-    },
-    {
-     "id": "leslie-kean",
-     "field": "chronology",
-     "context": "...Files FOIA request with NASA for Kecksburg, Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust a..."
-    }
-   ]
-  },
-  {
    "candidate": "Kelly Johnson",
    "verdict": "PROSE",
    "hits": [
@@ -8112,17 +7735,6 @@
    ]
   },
   {
-   "candidate": "Matt Gaetz",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "l-eglin",
-     "field": "desc",
-     "context": "...AP incident a member of Congress has personally investigated on site. Matt Gaetz's office received a protected disclosure from Eglin; he travelled the..."
-    }
-   ]
-  },
-  {
    "candidate": "Matthew Brown",
    "verdict": "PROSE",
    "hits": [
@@ -8203,17 +7815,6 @@
    ]
   },
   {
-   "candidate": "Mike Turner",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "mike-turner",
-     "field": "narrative",
-     "context": "..., who lobbied the conference directly, has stated on the record that 'Mike Turner first attacked those two elements,' demanding the eminent domain prov..."
-    }
-   ]
-  },
-  {
    "candidate": "MKUltra",
    "verdict": "PROSE",
    "hits": [
@@ -8231,48 +7832,6 @@
      "id": "tf-declassification-federal-secrets",
      "field": "claim",
      "context": "...d 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00am...."
-    }
-   ]
-  },
-  {
-   "candidate": "MUFON",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "richard-doty",
-     "field": "chronology",
-     "context": "...Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding disinformation to..."
-    },
-    {
-     "id": "william-moore",
-     "field": "narrative",
-     "context": "...the release of that material for the next several years. Then, at the MUFON symposium in Las Vegas in July 1989, Moore told the assembled UFO com..."
-    },
-    {
-     "id": "william-moore",
-     "field": "claim",
-     "context": "...Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligenc..."
-    }
-   ]
-  },
-  {
-   "candidate": "NASA",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "pete-hegseth",
-     "field": "chronology",
-     "context": "...PURSUE Release 03: 72 files across DoW, FBI, CIA and NASA holdings..."
-    },
-    {
-     "id": "michael-gold",
-     "field": "narrative",
-     "context": "...Gold sat on the NASA UAP Independent Study Team and then, on 13 November 2024, took the pa..."
-    },
-    {
-     "id": "michael-gold",
-     "field": "sub",
-     "context": "...Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP I..."
     }
    ]
   },
@@ -8489,27 +8048,6 @@
    ]
   },
   {
-   "candidate": "NIDS",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "eric-davis",
-     "field": "chronology",
-     "context": "...Joins NIDS as a scientist under Bigelow..."
-    },
-    {
-     "id": "eric-davis",
-     "field": "chronology",
-     "context": "...Works with NIDS as a staff scientist under Bigelow...."
-    },
-    {
-     "id": "robert-bigelow",
-     "field": "narrative",
-     "context": "...be there just for the weather,' while declining to discuss specifics. NIDS operated a public reporting hotline and a veterinary necropsy respons..."
-    }
-   ]
-  },
-  {
    "candidate": "Ning Li",
    "verdict": "PROSE",
    "hits": [
@@ -8527,27 +8065,6 @@
      "id": "paper-knuth-2025-new-science",
      "field": "desc",
      "context": "...ent, is the closest thing the subject has to a conventional field-defining literature review, and it exists because two faculty members at a mid-si..."
-    }
-   ]
-  },
-  {
-   "candidate": "NNSA",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "doe",
-     "field": "source",
-     "context": "...National Nuclear Security Administration - About NNSA..."
-    },
-    {
-     "id": "nnsa",
-     "field": "desc",
-     "context": "...NNSA is 'a semi-autonomous agency within the U.S. Department of Energy res..."
-    },
-    {
-     "id": "nnsa",
-     "field": "claim",
-     "context": "...NNSA is 'a semi-autonomous agency within the U.S. Department of Energy res..."
     }
    ]
   },
@@ -8611,27 +8128,6 @@
      "id": "jason-matheny",
      "field": "claim",
      "context": "...the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'..."
-    }
-   ]
-  },
-  {
-   "candidate": "ODNI",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "david-grusch",
-     "field": "chronology",
-     "context": "...His principal in Congress, Rep. Burlison, publishes ODNI memorandum ES 2026-00818 waiving UAP NDAs across the Intelligence Com..."
-    },
-    {
-     "id": "jay-stratton",
-     "field": "narrative",
-     "context": "...ratton's task force that produced the classified underpinnings of the ODNI Preliminary Assessment delivered to Congress on 25 June 2021 - the re..."
-    },
-    {
-     "id": "jay-stratton",
-     "field": "claim",
-     "context": "...irect institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment...."
     }
    ]
   },
@@ -8811,48 +8307,6 @@
    ]
   },
   {
-   "candidate": "Pax River",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "christopher-sharp",
-     "field": "narrative",
-     "context": "...xent River and that Elizondo's written congressional testimony placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer. H..."
-    },
-    {
-     "id": "l-pax-river",
-     "field": "desc",
-     "context": "...Pax River is the headquarters of Naval Air Systems Command and the Navy's princ..."
-    },
-    {
-     "id": "lockheed-martin--l-pax-river",
-     "field": "note",
-     "context": "...es reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included..."
-    }
-   ]
-  },
-  {
-   "candidate": "Pentagon",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "james-lacatski",
-     "field": "narrative",
-     "context": "...o-author, with Colm Kelleher and George Knapp, of 'Skinwalkers at the Pentagon' (2021) and of the 'Inside the U.S. Government Covert UFO Program' se..."
-    },
-    {
-     "id": "james-lacatski",
-     "field": "claim",
-     "context": "...June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records...."
-    },
-    {
-     "id": "james-lacatski",
-     "field": "chronology",
-     "context": "...s letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located..."
-    }
-   ]
-  },
-  {
    "candidate": "Philip Klass",
    "verdict": "PROSE",
    "hits": [
@@ -8876,69 +8330,6 @@
      "id": "salvatore-pais",
      "field": "claim",
      "context": "...y is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much..."
-    }
-   ]
-  },
-  {
-   "candidate": "Project Aquarius",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "richard-doty",
-     "field": "narrative",
-     "context": "...a briefing paper purporting to describe a government programme - the 'Project Aquarius' teletype - which she was not permitted to copy. He was also a condui..."
-    },
-    {
-     "id": "linda-moulton-howe",
-     "field": "narrative",
-     "context": "...raft and occupants - the material that entered the literature as the 'Project Aquarius' teletype. She was permitted to read it and take notes but not to cop..."
-    },
-    {
-     "id": "linda-moulton-howe",
-     "field": "sub",
-     "context": "...Documentary producer (HBO, KMGH-TV Denver); shown the 'Project Aquarius' paper at Kirtland AFB, 1983..."
-    }
-   ]
-  },
-  {
-   "candidate": "Project Magnet",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "wilbert-smith",
-     "field": "narrative",
-     "context": "...coincidence.' The memorandum was the successful request that produced Project Magnet...."
-    },
-    {
-     "id": "wilbert-smith",
-     "field": "sub",
-     "context": "...Senior Radio Engineer, Canadian Department of Transport; head of Project Magnet 1950-1962..."
-    },
-    {
-     "id": "wilbert-smith",
-     "field": "claim",
-     "context": "...Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficul..."
-    }
-   ]
-  },
-  {
-   "candidate": "Project Second Story",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "project-second-storey",
-     "field": "claim",
-     "context": "...LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1..."
-    },
-    {
-     "id": "project-second-storey",
-     "field": "source",
-     "context": "...LAC - Project Second Story minutes document page..."
-    },
-    {
-     "id": "lac-ufo-collection",
-     "field": "desc",
-     "context": "...4/167, box 7523, file DRBS 3800-10-1, pt.1 for the Project Magnet and Project Second Story files; RG 24, vol. 17984, file S-940-5, pts.1 and 2, on reel T-3291 f..."
     }
    ]
   },
@@ -9025,38 +8416,6 @@
      "id": "entityInfo.hearing-2025-09-09",
      "field": "desc",
      "context": "...to him by Dr. Steven Greer, naming Michael Herrera, Roderick Castle, Randy Anderson and Steven Digna among others. Burlison also stated on the record tha..."
-    }
-   ]
-  },
-  {
-   "candidate": "Ray Hyman",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "stargate-program",
-     "field": "desc",
-     "context": "...ratory results showed statistically significant effects, psychologist Ray Hyman concluded the opposite - 'the overwhelming amount of data generated b..."
-    }
-   ]
-  },
-  {
-   "candidate": "Raytheon",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "william-lynn",
-     "field": "narrative",
-     "context": "...ad been DoD Comptroller under Clinton and came to the Deputy job from Raytheon, where he was senior vice president for government operations and str..."
-    },
-    {
-     "id": "burlison-mitre-letter-2026",
-     "field": "desc",
-     "context": "...requests, including work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos, and covers UAP detection..."
-    },
-    {
-     "id": "burlison-mitre-letter-2026",
-     "field": "claim",
-     "context": "...agnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos...."
     }
    ]
   },
@@ -9215,27 +8574,6 @@
    ]
   },
   {
-   "candidate": "SAIC",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "donald-kerr",
-     "field": "narrative",
-     "context": "...istant director for the laboratory division and a senior executive at SAIC. Every rung of that ladder is an institution named in the legacy-prog..."
-    },
-    {
-     "id": "uap-gerb",
-     "field": "narrative",
-     "context": "...-corporate series - Battelle, Northrop Grumman, TRW, Lockheed Martin, SAIC, Sandia - and an institution-by-institution series covering the Air F..."
-    },
-    {
-     "id": "aaro",
-     "field": "desc",
-     "context": "...ss three directors: annual reports whose resolved cases are always prosaic, whose unresolved cases are always attributed to insufficient sensor..."
-    }
-   ]
-  },
-  {
    "candidate": "Santa Cruz Air Base",
    "verdict": "PROSE",
    "hits": [
@@ -9269,27 +8607,6 @@
      "id": "steve-feinberg",
      "field": "claim",
      "context": "...DoDD 5205.07 places DoD SAPCO under the authority, direction and control of the Deputy Secretary of..."
-    }
-   ]
-  },
-  {
-   "candidate": "SAPOC",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "dodd-5205-07-2024",
-     "field": "desc",
-     "context": "...rd. First, the governance structure is retained and strengthened: the SAPOC remains 'the senior governing body of the DoD SAP Enterprise for gove..."
-    },
-    {
-     "id": "dodd-5205-07-2024",
-     "field": "claim",
-     "context": "...nt of the SAP Enterprise.' The Deputy Secretary of Defense chairs the SAPOC...."
-    },
-    {
-     "id": "dodd-5205-07-2024",
-     "field": "claim",
-     "context": "...DoDD 5205.07 (2024) describes the SAPOC as 'the senior governing body of the DoD SAP Enterprise for governanc..."
     }
    ]
   },
@@ -9432,17 +8749,6 @@
    ]
   },
   {
-   "candidate": "Stargate program",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harold-puthoff",
-     "field": "claim",
-     "context": "...or Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme...."
-    }
-   ]
-  },
-  {
    "candidate": "Stargate Project",
    "verdict": "PROSE",
    "hits": [
@@ -9506,27 +8812,6 @@
    ]
   },
   {
-   "candidate": "Ted Stevens",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harry-reid",
-     "field": "narrative",
-     "context": "...ority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget f..."
-    },
-    {
-     "id": "daniel-inouye",
-     "field": "narrative",
-     "context": "...retionary defense spending is written, and his agreement let Reid and Ted Stevens route roughly $22 million into the classified annex of the FY2008 def..."
-    },
-    {
-     "id": "aawsap",
-     "field": "desc",
-     "context": "...direction of Senate Majority Leader Harry Reid with Daniel Inouye and Ted Stevens, solicited publicly on 18 August 2008 as HHM402-08-R-0211 by the DIA..."
-    }
-   ]
-  },
-  {
    "candidate": "The Pentagon",
    "verdict": "PROSE",
    "hits": [
@@ -9544,69 +8829,6 @@
      "id": "james-lacatski",
      "field": "chronology",
      "context": "...Sends letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located..."
-    }
-   ]
-  },
-  {
-   "candidate": "Tim Burchett",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "david-grusch",
-     "field": "claim",
-     "context": "...Sworn, to Rep. Tim Burchett: has personal knowledge of people harmed or injured in efforts to cov..."
-    },
-    {
-     "id": "jon-kosloski",
-     "field": "narrative",
-     "context": "...ast, still unresolved. In May 2026 he met Reps. Anna Paulina Luna and Tim Burchett and, per Luna, apologised for the conduct of the prior AARO leadershi..."
-    },
-    {
-     "id": "tim-burchett",
-     "field": "source",
-     "context": "...Newsweek - Pentagon's UFO Office to Be Eliminated Under New Tim Burchett Bill..."
-    }
-   ]
-  },
-  {
-   "candidate": "Tim Gallaudet",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "tim-gallaudet",
-     "field": "claim",
-     "context": "...of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL C..."
-    },
-    {
-     "id": "peter-skafish",
-     "field": "narrative",
-     "context": "...and reporting to an interagency UAP Governance Board; Skafish, Nolan, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it. In under four yea..."
-    },
-    {
-     "id": "aaro-fy2024-annual-report",
-     "field": "desc",
-     "context": "...the day after the House Oversight hearing at which Luis Elizondo and Tim Gallaudet testified and five days before Kosloski appeared before the Senate. I..."
-    }
-   ]
-  },
-  {
-   "candidate": "Tim Phillips",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "tim-phillips",
-     "field": "source",
-     "context": "...Archived: DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1 (Wayback 2026-06-06)..."
-    },
-    {
-     "id": "tim-phillips",
-     "field": "source",
-     "context": "...DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1..."
-    },
-    {
-     "id": "tim-phillips",
-     "field": "source",
-     "context": "...k Vault - Private press briefing transcript with Acting AARO Director Tim Phillips, 6 March 2024..."
     }
    ]
   },
@@ -9629,27 +8851,6 @@
      "id": "harold-puthoff",
      "field": "narrative",
      "context": "...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the anal..."
-    },
-    {
-     "id": "harold-puthoff",
-     "field": "chronology",
-     "context": "...Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice...."
-    },
-    {
-     "id": "harold-puthoff",
-     "field": "source",
-     "context": "...M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice..."
-    }
-   ]
-  },
-  {
-   "candidate": "Tom DeLonge",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "harold-puthoff",
-     "field": "narrative",
-     "context": "...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the analy..."
     },
     {
      "id": "harold-puthoff",
@@ -9712,48 +8913,6 @@
    ]
   },
   {
-   "candidate": "Twining memo",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "nathan-twining",
-     "field": "narrative",
-     "context": "...f. He is also the named recipient in the disputed 14 July 1954 Cutler-Twining memo, which the FBI declared bogus \u2014 a fact recorded here as an artifact o..."
-    },
-    {
-     "id": "nathan-twining",
-     "field": "source",
-     "context": "...Twining memo, 23 September 1947 (scan)..."
-    },
-    {
-     "id": "kenneth-arnold",
-     "field": "narrative",
-     "context": "...First, his sighting is the trigger event: the 1947 wave, Roswell, the Twining memo and the Schulgen collection requirement all follow it within eighteen..."
-    }
-   ]
-  },
-  {
-   "candidate": "UFOs and Nukes",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "robert-hastings",
-     "field": "narrative",
-     "context": "...n file - which is the difference between tier 3 and tier 2. His book 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is in a revised s..."
-    },
-    {
-     "id": "robert-hastings",
-     "field": "sub",
-     "context": "...Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'..."
-    },
-    {
-     "id": "robert-hastings",
-     "field": "chronology",
-     "context": "...First edition of 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites'..."
-    }
-   ]
-  },
-  {
    "candidate": "University Affiliated Research Centers",
    "verdict": "PROSE",
    "hits": [
@@ -9803,27 +8962,6 @@
      "id": "l-varginha",
      "field": "desc",
      "context": "...the Varginha case is testable against an open archive. In July 2026 a US congressman formally requested FBI and CIA holdings relating to the incident,..."
-    }
-   ]
-  },
-  {
-   "candidate": "USAF",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "david-abba",
-     "field": "sub",
-     "context": "...Maj Gen, USAF; Director, DoD Special Access Program Central Office..."
-    },
-    {
-     "id": "pat-ryder",
-     "field": "sub",
-     "context": "...Maj Gen, USAF; Pentagon Press Secretary..."
-    },
-    {
-     "id": "nathan-twining",
-     "field": "source",
-     "context": "...Archived: USAF Fact Sheet: UFOs and Air Force Project Blue Book (Wayback 2026-07-06)..."
     }
    ]
   },
@@ -9912,27 +9050,6 @@
    ]
   },
   {
-   "candidate": "Varginha",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "david-grusch",
-     "field": "claim",
-     "context": "...nity, NDA waivers, and declassification including records on the 1996 Varginha incident...."
-    },
-    {
-     "id": "david-grusch",
-     "field": "claim",
-     "context": "...d the cycle's most aggressive records demands - the MITRE letter, the Varginha letters and the FY2027 NDAA amendment. Reasoning: the advisory role i..."
-    },
-    {
-     "id": "eric-burlison",
-     "field": "chronology",
-     "context": "...Letters to CIA and FBI on the 1996 Varginha/Campinas incident..."
-    }
-   ]
-  },
-  {
    "candidate": "Viktor Schauberger",
    "verdict": "PROSE",
    "hits": [
@@ -9999,27 +9116,6 @@
      "id": "robert-sarbacher",
      "field": "claim",
      "context": "...In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes t..."
-    }
-   ]
-  },
-  {
-   "candidate": "Wilson-Davis memo",
-   "verdict": "PROSE",
-   "hits": [
-    {
-     "id": "eric-davis",
-     "field": "claim",
-     "context": "...ng, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they were unaware of it...."
-    },
-    {
-     "id": "eric-davis",
-     "field": "claim",
-     "context": "...The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special acc..."
-    },
-    {
-     "id": "eric-davis",
-     "field": "chronology",
-     "context": "...with Vice Adm. Thomas Wilson recorded in the notes later known as the Wilson-Davis memo..."
     }
    ]
   },
@@ -10108,6 +9204,24 @@
    ]
   },
   {
+   "candidate": "40 Committee",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "defense-committees",
+   "node_label": "The defense committees (10 U.S.C. 119(g))",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "AARO",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "aaro",
+   "node_label": "All-domain Anomaly Resolution Office (AARO)",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "Aaron Lucas",
    "verdict": "NODE",
    "how": "one character apart",
@@ -10117,9 +9231,18 @@
    "tier": "B"
   },
   {
+   "candidate": "AATIP",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "aatip",
+   "node_label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "cls": "program",
+   "tier": "A"
+  },
+  {
    "candidate": "Adm. Thomas Wilson",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "thomas-wilson",
    "node_label": "Thomas R. Wilson",
    "cls": "person",
@@ -10128,7 +9251,7 @@
   {
    "candidate": "Aerojet Rocketdyne",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "aerojet-rocketdyne",
    "node_label": "Aerojet Rocketdyne",
    "cls": "institution",
@@ -10137,16 +9260,34 @@
   {
    "candidate": "Aerospace Corporation",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "aerospace-corporation",
    "node_label": "The Aerospace Corporation",
    "cls": "institution",
    "tier": "B"
   },
   {
+   "candidate": "AFOSI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "afosi",
+   "node_label": "Air Force Office of Special Investigations",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "AFRL",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "afrl",
+   "node_label": "Air Force Research Laboratory",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
    "candidate": "Age of Disclosure",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "age-of-disclosure",
    "node_label": "The Age of Disclosure (documentary, 2025)",
    "cls": "document",
@@ -10164,7 +9305,7 @@
   {
    "candidate": "Air Force Office of Special Investigations",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "afosi",
    "node_label": "Air Force Office of Special Investigations",
    "cls": "institution",
@@ -10173,7 +9314,7 @@
   {
    "candidate": "Air Force Research Laboratory",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "afrl",
    "node_label": "Air Force Research Laboratory",
    "cls": "institution",
@@ -10200,7 +9341,7 @@
   {
    "candidate": "Alex Dietrich",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "alex-dietrich",
    "node_label": "Alex Dietrich",
    "cls": "person",
@@ -10209,7 +9350,7 @@
   {
    "candidate": "Alexandria Ocasio-Cortez",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "alexandria-ocasio-cortez",
    "node_label": "Alexandria Ocasio-Cortez",
    "cls": "person",
@@ -10227,7 +9368,7 @@
   {
    "candidate": "Americans for Safe Aerospace",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "americans-for-safe-aerospace",
    "node_label": "Americans for Safe Aerospace",
    "cls": "institution",
@@ -10236,7 +9377,7 @@
   {
    "candidate": "Anna Paulina Luna",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "anna-paulina-luna",
    "node_label": "Anna Paulina Luna",
    "cls": "person",
@@ -10254,11 +9395,20 @@
   {
    "candidate": "Avi Loeb",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "avi-loeb",
    "node_label": "Abraham 'Avi' Loeb",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "Aztec",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-aztec",
+   "node_label": "Aztec, New Mexico",
+   "cls": "location",
+   "tier": "C"
   },
   {
    "candidate": "Aztec New Mexico crash site",
@@ -10270,9 +9420,18 @@
    "tier": "C"
   },
   {
+   "candidate": "Battelle",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "battelle",
+   "node_label": "Battelle Memorial Institute",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "Battelle Memorial Institute",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "battelle",
    "node_label": "Battelle Memorial Institute",
    "cls": "institution",
@@ -10281,7 +9440,7 @@
   {
    "candidate": "BDM International",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "bdm-international",
    "node_label": "BDM International, Inc.",
    "cls": "institution",
@@ -10290,7 +9449,7 @@
   {
    "candidate": "Beatriz Villarroel",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "beatriz-villarroel",
    "node_label": "Beatriz Villarroel",
    "cls": "person",
@@ -10299,7 +9458,7 @@
   {
    "candidate": "Ben Rich",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "ben-rich",
    "node_label": "Ben R. Rich",
    "cls": "person",
@@ -10308,7 +9467,7 @@
   {
    "candidate": "Bigelow Aerospace",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "bigelow-aerospace",
    "node_label": "Bigelow Aerospace",
    "cls": "institution",
@@ -10353,7 +9512,7 @@
   {
    "candidate": "Boeing",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "boeing",
    "node_label": "The Boeing Company",
    "cls": "institution",
@@ -10362,7 +9521,7 @@
   {
    "candidate": "Booz Allen Hamilton",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "booz-allen",
    "node_label": "Booz Allen Hamilton",
    "cls": "institution",
@@ -10380,7 +9539,7 @@
   {
    "candidate": "Bryce Zabel",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "bryce-zabel",
    "node_label": "Bryce Zabel",
    "cls": "person",
@@ -10398,7 +9557,7 @@
   {
    "candidate": "Cecilia Levy",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "cecilia-levy",
    "node_label": "Cecilia Levy",
    "cls": "person",
@@ -10407,7 +9566,7 @@
   {
    "candidate": "Central Intelligence Agency",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "cia",
    "node_label": "Central Intelligence Agency",
    "cls": "institution",
@@ -10416,16 +9575,25 @@
   {
    "candidate": "Chad Underwood",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "chad-underwood",
    "node_label": "Chad Underwood",
    "cls": "person",
    "tier": "C"
   },
   {
+   "candidate": "Charles Hall",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "charles-halt",
+   "node_label": "Charles I. Halt",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Charles Halt",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "charles-halt",
    "node_label": "Charles I. Halt",
    "cls": "person",
@@ -10434,16 +9602,34 @@
   {
    "candidate": "Christopher Mellon",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "christopher-mellon",
    "node_label": "Christopher K. Mellon",
    "cls": "person",
    "tier": "A"
   },
   {
+   "candidate": "Chuck Schumer",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "chuck-schumer",
+   "node_label": "Charles E. Schumer",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "CIA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "cia",
+   "node_label": "Central Intelligence Agency",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "Col. John B. Alexander",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "john-b-alexander",
    "node_label": "John B. Alexander",
    "cls": "person",
@@ -10452,7 +9638,7 @@
   {
    "candidate": "Colm Kelleher",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "colm-kelleher",
    "node_label": "Colm A. Kelleher",
    "cls": "person",
@@ -10461,7 +9647,7 @@
   {
    "candidate": "Condon Committee",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "condon-committee",
    "node_label": "University of Colorado UFO Project (Condon Committee)",
    "cls": "program",
@@ -10486,9 +9672,18 @@
    "tier": "A"
   },
   {
+   "candidate": "CSETI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "cseti",
+   "node_label": "CSETI / The Disclosure Project",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "Dan Farah",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "dan-farah",
    "node_label": "Dan Farah",
    "cls": "person",
@@ -10497,7 +9692,7 @@
   {
    "candidate": "Daniel Inouye",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "daniel-inouye",
    "node_label": "Daniel K. Inouye",
    "cls": "person",
@@ -10506,16 +9701,25 @@
   {
    "candidate": "Daniel Sheehan",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "daniel-sheehan",
    "node_label": "Daniel P. Sheehan",
    "cls": "person",
    "tier": "C"
   },
   {
+   "candidate": "DARPA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "darpa",
+   "node_label": "Defense Advanced Research Projects Agency",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "David Fravor",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "david-fravor",
    "node_label": "David Fravor",
    "cls": "person",
@@ -10524,7 +9728,16 @@
   {
    "candidate": "David Grusch",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
+   "node_id": "david-grusch",
+   "node_label": "David Charles Grusch",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "David Grush",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
    "node_id": "david-grusch",
    "node_label": "David Charles Grusch",
    "cls": "person",
@@ -10533,7 +9746,7 @@
   {
    "candidate": "David Spergel",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "david-spergel",
    "node_label": "David N. Spergel",
    "cls": "person",
@@ -10542,7 +9755,7 @@
   {
    "candidate": "Defense Intelligence Agency",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "dia",
    "node_label": "Defense Intelligence Agency",
    "cls": "institution",
@@ -10558,13 +9771,31 @@
    "tier": "A"
   },
   {
+   "candidate": "DIA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "dia",
+   "node_label": "Defense Intelligence Agency",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "Disclosure Project",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "disclosure-project",
    "node_label": "The Disclosure Project",
    "cls": "program",
    "tier": "C"
+  },
+  {
+   "candidate": "DoD",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "dod",
+   "node_label": "United States Department of Defense (secondary designation: Department of War)",
+   "cls": "institution",
+   "tier": "A"
   },
   {
    "candidate": "DoD Inspector General",
@@ -10576,9 +9807,27 @@
    "tier": "B"
   },
   {
+   "candidate": "DOE",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "doe",
+   "node_label": "United States Department of Energy",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "Don Schmitt",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "don-schmitt",
+   "node_label": "Donald R. Schmitt",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Donald Kerr",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "donald-kerr",
    "node_label": "Donald M. Kerr",
    "cls": "person",
@@ -10587,7 +9836,7 @@
   {
    "candidate": "Donald Trump",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "donald-trump",
    "node_label": "Donald J. Trump",
    "cls": "person",
@@ -10596,7 +9845,7 @@
   {
    "candidate": "Dr. Robert Sarbacher",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-sarbacher",
    "node_label": "Robert I. Sarbacher",
    "cls": "person",
@@ -10605,7 +9854,7 @@
   {
    "candidate": "Dylan Borland",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "dylan-borland",
    "node_label": "Dylan Borland",
    "cls": "person",
@@ -10614,16 +9863,25 @@
   {
    "candidate": "EarthTech International",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "earthtech-international",
    "node_label": "EarthTech International / Institute for Advanced Studies at Austin",
    "cls": "institution",
    "tier": "A"
   },
   {
+   "candidate": "Ed Dames",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "james-mcdonald",
+   "node_label": "James E. McDonald",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Edward Condon",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "edward-condon",
    "node_label": "Edward U. Condon",
    "cls": "person",
@@ -10632,7 +9890,7 @@
   {
    "candidate": "Edward J. Ruppelt",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "edward-ruppelt",
    "node_label": "Edward J. Ruppelt",
    "cls": "person",
@@ -10641,7 +9899,7 @@
   {
    "candidate": "Edward Ruppelt",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "edward-ruppelt",
    "node_label": "Edward J. Ruppelt",
    "cls": "person",
@@ -10650,10 +9908,19 @@
   {
    "candidate": "Edward Teller",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "edward-teller",
    "node_label": "Edward Teller",
    "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Edwards AFB",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-edwards-afb",
+   "node_label": "Edwards Air Force Base, California",
+   "cls": "location",
    "tier": "C"
   },
   {
@@ -10686,7 +9953,7 @@
   {
    "candidate": "Eric Burlison",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "eric-burlison",
    "node_label": "Eric Burlison",
    "cls": "person",
@@ -10695,7 +9962,7 @@
   {
    "candidate": "Eric Davis",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "eric-davis",
    "node_label": "Eric W. Davis",
    "cls": "person",
@@ -10704,7 +9971,7 @@
   {
    "candidate": "Eric W. Davis",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "eric-davis",
    "node_label": "Eric W. Davis",
    "cls": "person",
@@ -10713,7 +9980,7 @@
   {
    "candidate": "Eric Wang",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "eric-wang",
    "node_label": "Eric H. Wang",
    "cls": "person",
@@ -10767,7 +10034,7 @@
   {
    "candidate": "Frank Scully",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "frank-scully",
    "node_label": "Frank Scully",
    "cls": "person",
@@ -10776,7 +10043,7 @@
   {
    "candidate": "Galileo Project",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "galileo-project",
    "node_label": "The Galileo Project",
    "cls": "program",
@@ -10794,7 +10061,7 @@
   {
    "candidate": "George Knapp",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "george-knapp",
    "node_label": "George Knapp",
    "cls": "person",
@@ -10803,7 +10070,7 @@
   {
    "candidate": "Gerald Ford",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "gerald-ford",
    "node_label": "Gerald R. Ford",
    "cls": "person",
@@ -10812,7 +10079,7 @@
   {
    "candidate": "Glenn Gaffney",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "glenn-gaffney",
    "node_label": "Glenn Gaffney",
    "cls": "person",
@@ -10821,7 +10088,7 @@
   {
    "candidate": "Grant Cameron",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "grant-cameron",
    "node_label": "Grant Cameron",
    "cls": "person",
@@ -10830,7 +10097,7 @@
   {
    "candidate": "Grill Flame",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "grill-flame",
    "node_label": "GRILL FLAME",
    "cls": "program",
@@ -10839,16 +10106,16 @@
   {
    "candidate": "Groom Lake",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "groom-lake-presidential-determination",
-   "node_label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
-   "cls": "document",
+   "how": "alias",
+   "node_id": "l-groom-lake",
+   "node_label": "Groom Lake, Nevada",
+   "cls": "location",
    "tier": "B"
   },
   {
    "candidate": "Harry Reid",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "harry-reid",
    "node_label": "Harry M. Reid",
    "cls": "person",
@@ -10866,7 +10133,7 @@
   {
    "candidate": "History Channel",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "unidentified-history-series",
    "node_label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
    "cls": "event",
@@ -10902,7 +10169,7 @@
   {
    "candidate": "House Armed Services Committee",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "house-armed-services",
    "node_label": "House Armed Services Committee",
    "cls": "institution",
@@ -10920,7 +10187,7 @@
   {
    "candidate": "House Oversight Committee",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "house-oversight-committee",
    "node_label": "U.S. House Committee on Oversight and Government Reform",
    "cls": "institution",
@@ -10929,7 +10196,7 @@
   {
    "candidate": "Howard C. Cross",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "howard-c-cross",
    "node_label": "Howard C. Cross",
    "cls": "person",
@@ -10938,7 +10205,7 @@
   {
    "candidate": "Howard P. Robertson",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "howard-p-robertson",
    "node_label": "Howard P. Robertson",
    "cls": "person",
@@ -10947,25 +10214,43 @@
   {
    "candidate": "Hoyt Vandenberg",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "hoyt-vandenberg",
    "node_label": "Hoyt S. Vandenberg",
    "cls": "person",
    "tier": "B"
   },
   {
+   "candidate": "ICIG",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "icig",
+   "node_label": "Inspector General of the Intelligence Community",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "IDA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "ida",
+   "node_label": "Institute for Defense Analyses",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
    "candidate": "Immaculate Constellation",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "immaculate-constellation-12-page-report",
-   "node_label": "Immaculate Constellation 12-page report entered into the Congressional Record",
-   "cls": "document",
+   "how": "alias",
+   "node_id": "immaculate-constellation",
+   "node_label": "Immaculate Constellation disclosure, October-November 2024",
+   "cls": "event",
    "tier": "A"
   },
   {
    "candidate": "Inspector General of the Intelligence Community",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "icig",
    "node_label": "Inspector General of the Intelligence Community",
    "cls": "institution",
@@ -10974,7 +10259,7 @@
   {
    "candidate": "Institute for Defense Analyses",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "ida",
    "node_label": "Institute for Defense Analyses",
    "cls": "institution",
@@ -11001,7 +10286,7 @@
   {
    "candidate": "Italo Venturelli",
    "verdict": "NODE",
-   "how": "one character apart",
+   "how": "alias",
    "node_id": "italo-venturelli",
    "node_label": "Dr \u00cdtalo Venturelli",
    "cls": "person",
@@ -11010,16 +10295,25 @@
   {
    "candidate": "J. Allen Hynek",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "j-allen-hynek",
    "node_label": "J. Allen Hynek",
    "cls": "person",
    "tier": "B"
   },
   {
+   "candidate": "Jack Reed",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "jack-reed",
+   "node_label": "John F. Reed",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Jacques Vallee",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "jacques-vallee",
    "node_label": "Jacques F. Vallee",
    "cls": "person",
@@ -11028,7 +10322,7 @@
   {
    "candidate": "Jaime Shandera",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "jaime-shandera",
    "node_label": "Jaime H. Shandera",
    "cls": "person",
@@ -11037,7 +10331,7 @@
   {
    "candidate": "Jake Barber",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "jake-barber",
    "node_label": "Jake Barber",
    "cls": "person",
@@ -11046,7 +10340,7 @@
   {
    "candidate": "James Clapper",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "james-clapper",
    "node_label": "James R. Clapper Jr.",
    "cls": "person",
@@ -11055,7 +10349,7 @@
   {
    "candidate": "James E. McDonald",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "james-mcdonald",
    "node_label": "James E. McDonald",
    "cls": "person",
@@ -11064,7 +10358,7 @@
   {
    "candidate": "James Lacatski",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "james-lacatski",
    "node_label": "James T. Lacatski",
    "cls": "person",
@@ -11073,7 +10367,7 @@
   {
    "candidate": "James McDonald",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "james-mcdonald",
    "node_label": "James E. McDonald",
    "cls": "person",
@@ -11082,7 +10376,7 @@
   {
    "candidate": "Jay Stratton",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "jay-stratton",
    "node_label": "Jay Stratton",
    "cls": "person",
@@ -11091,7 +10385,7 @@
   {
    "candidate": "Jeremy Corbell",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "jeremy-corbell",
    "node_label": "Jeremy Kenyon Lockyer Corbell",
    "cls": "person",
@@ -11100,7 +10394,7 @@
   {
    "candidate": "Jesse Marcel",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "jesse-marcel",
    "node_label": "Jesse A. Marcel Sr.",
    "cls": "person",
@@ -11109,7 +10403,7 @@
   {
    "candidate": "Jesse Marcel Jr.",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "jesse-marcel-jr",
    "node_label": "Dr. Jesse A. Marcel Jr.",
    "cls": "person",
@@ -11127,16 +10421,25 @@
   {
    "candidate": "Jesse Michels",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "jesse-michels",
    "node_label": "Jesse Michels",
    "cls": "person",
    "tier": "B"
   },
   {
+   "candidate": "Jim Penniston",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "jim-penniston",
+   "node_label": "James W. Penniston",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Jim Semivan",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "jim-semivan",
    "node_label": "James 'Jim' Semivan",
    "cls": "person",
@@ -11154,7 +10457,7 @@
   {
    "candidate": "John Burroughs",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "john-burroughs",
    "node_label": "John Burroughs",
    "cls": "person",
@@ -11163,7 +10466,7 @@
   {
    "candidate": "John Greenewald",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "john-greenewald",
    "node_label": "John Greenewald Jr.",
    "cls": "person",
@@ -11172,7 +10475,7 @@
   {
    "candidate": "John Greenewald Jr.",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "john-greenewald",
    "node_label": "John Greenewald Jr.",
    "cls": "person",
@@ -11181,7 +10484,7 @@
   {
    "candidate": "John Podesta",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "john-podesta",
    "node_label": "John D. Podesta",
    "cls": "person",
@@ -11199,7 +10502,7 @@
   {
    "candidate": "Karl Nell",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "karl-nell",
    "node_label": "Karl E. Nell",
    "cls": "person",
@@ -11215,9 +10518,18 @@
    "tier": "C"
   },
   {
+   "candidate": "Kecksburg",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-kecksburg",
+   "node_label": "Kecksburg, Westmoreland County, Pennsylvania",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
    "candidate": "Kenneth Arnold",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "kenneth-arnold",
    "node_label": "Kenneth Arnold",
    "cls": "person",
@@ -11226,7 +10538,7 @@
   {
    "candidate": "Kevin Day",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "kevin-day",
    "node_label": "Kevin Day",
    "cls": "person",
@@ -11235,7 +10547,7 @@
   {
    "candidate": "Kevin Knuth",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "kevin-knuth",
    "node_label": "Kevin H. Knuth",
    "cls": "person",
@@ -11244,7 +10556,7 @@
   {
    "candidate": "Kevin Randle",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "kevin-randle",
    "node_label": "Kevin D. Randle",
    "cls": "person",
@@ -11253,7 +10565,7 @@
   {
    "candidate": "Kirk McConnell",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "kirk-mcconnell",
    "node_label": "Kirk McConnell",
    "cls": "person",
@@ -11262,7 +10574,7 @@
   {
    "candidate": "Kirsten Gillibrand",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "kirsten-gillibrand",
    "node_label": "Kirsten E. Gillibrand",
    "cls": "person",
@@ -11289,7 +10601,7 @@
   {
    "candidate": "Kit Green",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "kit-green",
    "node_label": "Christopher C. 'Kit' Green",
    "cls": "person",
@@ -11298,7 +10610,7 @@
   {
    "candidate": "Kona Blue",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "kona-blue",
    "node_label": "KONA BLUE",
    "cls": "program",
@@ -11316,7 +10628,7 @@
   {
    "candidate": "Laurance Rockefeller",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "laurance-rockefeller",
    "node_label": "Laurance S. Rockefeller",
    "cls": "person",
@@ -11325,7 +10637,7 @@
   {
    "candidate": "Lauren Boebert",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "lauren-boebert",
    "node_label": "Lauren Opal Boebert",
    "cls": "person",
@@ -11334,7 +10646,7 @@
   {
    "candidate": "Lawrence Livermore National Laboratory",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "llnl",
    "node_label": "Lawrence Livermore National Laboratory",
    "cls": "institution",
@@ -11343,7 +10655,7 @@
   {
    "candidate": "Leonard Stringfield",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "leonard-stringfield",
    "node_label": "Leonard H. Stringfield",
    "cls": "person",
@@ -11352,7 +10664,7 @@
   {
    "candidate": "Leslie Kean",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "leslie-kean",
    "node_label": "Leslie Kean",
    "cls": "person",
@@ -11361,7 +10673,7 @@
   {
    "candidate": "Lincoln LaPaz",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "lincoln-lapaz",
    "node_label": "Lincoln LaPaz",
    "cls": "person",
@@ -11370,7 +10682,7 @@
   {
    "candidate": "Linda Moulton Howe",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "linda-moulton-howe",
    "node_label": "Linda Moulton Howe",
    "cls": "person",
@@ -11379,7 +10691,7 @@
   {
    "candidate": "Lockheed Martin",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "lockheed-martin",
    "node_label": "Lockheed Martin Corporation",
    "cls": "institution",
@@ -11397,7 +10709,7 @@
   {
    "candidate": "Lockheed Skunk Works",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "lockheed-skunk-works",
    "node_label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
    "cls": "institution",
@@ -11415,16 +10727,16 @@
   {
    "candidate": "Los Alamos",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "green-fireballs-conference-1949",
-   "node_label": "Los Alamos Green Fireballs Conference",
-   "cls": "event",
+   "how": "alias",
+   "node_id": "l-los-alamos",
+   "node_label": "Los Alamos, New Mexico",
+   "cls": "location",
    "tier": "B"
   },
   {
    "candidate": "Los Alamos National Laboratory",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "lanl",
    "node_label": "Los Alamos National Laboratory",
    "cls": "institution",
@@ -11433,7 +10745,7 @@
   {
    "candidate": "Luis Elizondo",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "luis-elizondo",
    "node_label": "Luis D. Elizondo",
    "cls": "person",
@@ -11478,7 +10790,7 @@
   {
    "candidate": "Marco Rubio",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "marco-rubio",
    "node_label": "Marco Rubio",
    "cls": "person",
@@ -11487,9 +10799,27 @@
   {
    "candidate": "Marik von Rennenkampff",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "marik-von-rennenkampff",
    "node_label": "Marik von Rennenkampff",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "Mark Millis",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "marc-millis",
+   "node_label": "Marc G. Millis",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Matt Gaetz",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "matt-gaetz",
+   "node_label": "Matthew Louis Gaetz II",
    "cls": "person",
    "tier": "C"
   },
@@ -11505,11 +10835,20 @@
   {
    "candidate": "Michael Shellenberger",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "michael-shellenberger",
    "node_label": "Michael Shellenberger",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "Mike Gallagher",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "mike-gallagher",
+   "node_label": "Michael John Gallagher",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Mike Rogers",
@@ -11523,9 +10862,18 @@
   {
    "candidate": "Mike Rounds",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "mike-rounds",
    "node_label": "Mike Rounds",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
+   "candidate": "Mike Turner",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "mike-turner",
+   "node_label": "Michael R. Turner",
    "cls": "person",
    "tier": "B"
   },
@@ -11550,7 +10898,7 @@
   {
    "candidate": "MIT Lincoln Laboratory",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "mit-lincoln-laboratory",
    "node_label": "MIT Lincoln Laboratory",
    "cls": "institution",
@@ -11568,7 +10916,7 @@
   {
    "candidate": "MITRE Corporation",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "mitre-corporation",
    "node_label": "The MITRE Corporation",
    "cls": "institution",
@@ -11586,25 +10934,43 @@
   {
    "candidate": "MJ-12 documents",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "mj-12-documents",
    "node_label": "MJ-12 / Operation Majestic-12 Documents",
    "cls": "document",
    "tier": "B"
   },
   {
+   "candidate": "MUFON",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "mufon",
+   "node_label": "Mutual UFO Network (MUFON)",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "Nancy Mace",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "nancy-mace",
    "node_label": "Nancy Ruth Mace",
    "cls": "person",
    "tier": "A"
   },
   {
+   "candidate": "NASA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nasa",
+   "node_label": "National Aeronautics and Space Administration",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
    "candidate": "NASA UAP Independent Study Team",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "nasa-uap-ist",
    "node_label": "NASA UAP Independent Study Team",
    "cls": "program",
@@ -11613,7 +10979,7 @@
   {
    "candidate": "Nathan Twining",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "nathan-twining",
    "node_label": "Nathan F. Twining",
    "cls": "person",
@@ -11622,16 +10988,16 @@
   {
    "candidate": "National Archives",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "nara-uap-records-collection",
-   "node_label": "National Archives UAP Records Collection (Record Group 615)",
-   "cls": "program",
+   "how": "alias",
+   "node_id": "national-archives",
+   "node_label": "National Archives and Records Administration",
+   "cls": "institution",
    "tier": "B"
   },
   {
    "candidate": "National Geospatial-Intelligence Agency",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "nga",
    "node_label": "National Geospatial-Intelligence Agency",
    "cls": "institution",
@@ -11649,7 +11015,7 @@
   {
    "candidate": "National Nuclear Security Administration",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "nnsa",
    "node_label": "National Nuclear Security Administration",
    "cls": "institution",
@@ -11667,7 +11033,7 @@
   {
    "candidate": "National Reconnaissance Office",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "nro",
    "node_label": "National Reconnaissance Office",
    "cls": "institution",
@@ -11676,7 +11042,7 @@
   {
    "candidate": "National Security Agency",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "nsa",
    "node_label": "National Security Agency",
    "cls": "institution",
@@ -11721,27 +11087,81 @@
   {
    "candidate": "Nevada Test Site",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "l-nevada-test-site",
    "node_label": "Nevada Test Site / Nevada National Security Site",
    "cls": "location",
    "tier": "C"
   },
   {
+   "candidate": "NGA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nga",
+   "node_label": "National Geospatial-Intelligence Agency",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
+   "candidate": "NIDS",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nids",
+   "node_label": "National Institute for Discovery Science (NIDS)",
+   "cls": "program",
+   "tier": "A"
+  },
+  {
+   "candidate": "NNSA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nnsa",
+   "node_label": "National Nuclear Security Administration",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "Northrop Grumman",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "northrop-grumman",
    "node_label": "Northrop Grumman Corporation",
    "cls": "institution",
    "tier": "B"
   },
   {
+   "candidate": "NRO",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nro",
+   "node_label": "National Reconnaissance Office",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "NSA",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "nsa",
+   "node_label": "National Security Agency",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
    "candidate": "Oak Ridge National Laboratory",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "oak-ridge-national-laboratory",
    "node_label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
+   "candidate": "ODNI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "odni",
+   "node_label": "Office of the Director of National Intelligence",
    "cls": "institution",
    "tier": "A"
   },
@@ -11757,7 +11177,7 @@
   {
    "candidate": "Office of Naval Intelligence",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "oni",
    "node_label": "Office of Naval Intelligence",
    "cls": "institution",
@@ -11775,7 +11195,7 @@
   {
    "candidate": "Office of the Director of National Intelligence",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "odni",
    "node_label": "Office of the Director of National Intelligence",
    "cls": "institution",
@@ -11807,6 +11227,15 @@
    "node_label": "United States Air Force",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "ONI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "oni",
+   "node_label": "Office of Naval Intelligence",
+   "cls": "institution",
+   "tier": "B"
   },
   {
    "candidate": "Operation Moon Dust",
@@ -11856,16 +11285,34 @@
   {
    "candidate": "Paul Bennewitz",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "paul-bennewitz",
    "node_label": "Paul Frederick Bennewitz",
    "cls": "person",
    "tier": "B"
   },
   {
+   "candidate": "Pax River",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-pax-river",
+   "node_label": "Naval Air Station Patuxent River, Maryland",
+   "cls": "location",
+   "tier": "B"
+  },
+  {
+   "candidate": "Pentagon",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-pentagon",
+   "node_label": "The Pentagon, Arlington, Virginia",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
    "candidate": "Philip Corso",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "philip-corso",
    "node_label": "Philip J. Corso",
    "cls": "person",
@@ -11874,7 +11321,7 @@
   {
    "candidate": "Philip J. Corso",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "philip-corso",
    "node_label": "Philip J. Corso",
    "cls": "person",
@@ -11890,18 +11337,45 @@
    "tier": "A"
   },
   {
+   "candidate": "Project Aquarius",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "project-aquarius",
+   "node_label": "Project AQUARIUS (alleged)",
+   "cls": "program",
+   "tier": "C"
+  },
+  {
    "candidate": "Project Blue Book",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "project-blue-book",
    "node_label": "Project Blue Book",
    "cls": "program",
    "tier": "A"
   },
   {
+   "candidate": "Project Magnet",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "project-magnet",
+   "node_label": "Project Magnet (Canada)",
+   "cls": "program",
+   "tier": "B"
+  },
+  {
+   "candidate": "Project Second Story",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "project-second-storey",
+   "node_label": "Project Second Storey (Canada)",
+   "cls": "program",
+   "tier": "C"
+  },
+  {
    "candidate": "Project Sign",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "project-sign",
    "node_label": "Project SIGN",
    "cls": "program",
@@ -11919,16 +11393,16 @@
   {
    "candidate": "RAF Woodbridge",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "rendlesham-1980",
-   "node_label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
-   "cls": "event",
-   "tier": "A"
+   "how": "alias",
+   "node_id": "l-raf-woodbridge",
+   "node_label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+   "cls": "location",
+   "tier": "B"
   },
   {
    "candidate": "Ralph Blumenthal",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "ralph-blumenthal",
    "node_label": "Ralph Blumenthal",
    "cls": "person",
@@ -11946,7 +11420,7 @@
   {
    "candidate": "RAND Corporation",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "rand-corporation",
    "node_label": "RAND Corporation",
    "cls": "institution",
@@ -11962,6 +11436,24 @@
    "tier": "A"
   },
   {
+   "candidate": "Ray Hyman",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "debrief-2023-06-05",
+   "node_label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+   "cls": "document",
+   "tier": "B"
+  },
+  {
+   "candidate": "Raytheon",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "raytheon",
+   "node_label": "Raytheon (RTX Corporation)",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "Rendlesham Forest",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -11973,7 +11465,7 @@
   {
    "candidate": "Rep. Clay Higgins",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "clay-higgins",
    "node_label": "Glen Clay Higgins",
    "cls": "person",
@@ -11982,7 +11474,7 @@
   {
    "candidate": "Rep. Eric Burlison",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "eric-burlison",
    "node_label": "Eric Burlison",
    "cls": "person",
@@ -11991,7 +11483,7 @@
   {
    "candidate": "Richard Dolan",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "richard-dolan",
    "node_label": "Richard M. Dolan",
    "cls": "person",
@@ -12000,7 +11492,7 @@
   {
    "candidate": "Richard Doty",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "richard-doty",
    "node_label": "Richard C. Doty",
    "cls": "person",
@@ -12009,7 +11501,7 @@
   {
    "candidate": "Rob Jones",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "rob-jones",
    "node_label": "Rob Jones",
    "cls": "person",
@@ -12018,7 +11510,7 @@
   {
    "candidate": "Robert Bigelow",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-bigelow",
    "node_label": "Robert T. Bigelow",
    "cls": "person",
@@ -12027,7 +11519,7 @@
   {
    "candidate": "Robert Hastings",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-hastings",
    "node_label": "Robert L. Hastings",
    "cls": "person",
@@ -12036,7 +11528,7 @@
   {
    "candidate": "Robert Low",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-low",
    "node_label": "Robert J. Low",
    "cls": "person",
@@ -12054,7 +11546,7 @@
   {
    "candidate": "Robert Salas",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-salas",
    "node_label": "Capt. Robert L. Salas",
    "cls": "person",
@@ -12063,7 +11555,7 @@
   {
    "candidate": "Robert Sarbacher",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-sarbacher",
    "node_label": "Robert I. Sarbacher",
    "cls": "person",
@@ -12072,7 +11564,7 @@
   {
    "candidate": "Robert Wood",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "robert-wood",
    "node_label": "Robert M. Wood",
    "cls": "person",
@@ -12081,7 +11573,7 @@
   {
    "candidate": "Robertson Panel",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "robertson-panel",
    "node_label": "Robertson Panel",
    "cls": "program",
@@ -12099,7 +11591,7 @@
   {
    "candidate": "Ross Coulthart",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "ross-coulthart",
    "node_label": "Ross Coulthart",
    "cls": "person",
@@ -12108,10 +11600,10 @@
   {
    "candidate": "Roswell",
    "verdict": "NODE",
-   "how": "exact",
-   "node_id": "d-roswell",
-   "node_label": "Roswell",
-   "cls": "domain",
+   "how": "alias",
+   "node_id": "l-roswell",
+   "node_label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+   "cls": "location",
    "tier": "B"
   },
   {
@@ -12126,7 +11618,7 @@
   {
    "candidate": "Russell Targ",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "russell-targ",
    "node_label": "Russell Targ",
    "cls": "person",
@@ -12135,7 +11627,7 @@
   {
    "candidate": "Ryan Graves",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "ryan-graves",
    "node_label": "Ryan Graves",
    "cls": "person",
@@ -12144,10 +11636,19 @@
   {
    "candidate": "Ryan Wood",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "ryan-wood",
    "node_label": "Ryan S. Wood",
    "cls": "person",
+   "tier": "C"
+  },
+  {
+   "candidate": "SAIC",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "saic",
+   "node_label": "Science Applications International Corporation",
+   "cls": "institution",
    "tier": "C"
   },
   {
@@ -12162,7 +11663,7 @@
   {
    "candidate": "Salvatore Cezar Pais",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "salvatore-pais",
    "node_label": "Salvatore Cezar Pais",
    "cls": "person",
@@ -12171,11 +11672,20 @@
   {
    "candidate": "Sandia National Laboratories",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "sandia",
    "node_label": "Sandia National Laboratories",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "SAPOC",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "sapoc",
+   "node_label": "Special Access Program Oversight Committee (SAPOC)",
+   "cls": "institution",
+   "tier": "B"
   },
   {
    "candidate": "Schriever Air Force Base",
@@ -12198,7 +11708,7 @@
   {
    "candidate": "Science Applications International Corporation",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "saic",
    "node_label": "Science Applications International Corporation",
    "cls": "institution",
@@ -12216,16 +11726,25 @@
   {
    "candidate": "Sean Kirkpatrick",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "sean-kirkpatrick",
    "node_label": "Sean M. Kirkpatrick",
    "cls": "person",
    "tier": "A"
   },
   {
+   "candidate": "Sen. Chuck Schumer",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "chuck-schumer",
+   "node_label": "Charles E. Schumer",
+   "cls": "person",
+   "tier": "B"
+  },
+  {
    "candidate": "Sen. Kirsten Gillibrand",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "kirsten-gillibrand",
    "node_label": "Kirsten E. Gillibrand",
    "cls": "person",
@@ -12234,7 +11753,7 @@
   {
    "candidate": "Sen. Martin Heinrich",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "martin-heinrich",
    "node_label": "Martin T. Heinrich",
    "cls": "person",
@@ -12243,7 +11762,7 @@
   {
    "candidate": "Senate Armed Services Committee",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "senate-armed-services",
    "node_label": "Senate Armed Services Committee",
    "cls": "institution",
@@ -12261,7 +11780,7 @@
   {
    "candidate": "Senate Select Committee on Intelligence",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "senate-intelligence",
    "node_label": "Senate Select Committee on Intelligence",
    "cls": "institution",
@@ -12279,7 +11798,7 @@
   {
    "candidate": "Skunk Works",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "lockheed-skunk-works",
    "node_label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
    "cls": "institution",
@@ -12288,7 +11807,7 @@
   {
    "candidate": "Skywatcher",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "skywatcher",
    "node_label": "Skywatcher",
    "cls": "institution",
@@ -12313,9 +11832,18 @@
    "tier": "B"
   },
   {
+   "candidate": "SRI",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-sri",
+   "node_label": "SRI International, Menlo Park, California",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
    "candidate": "SRI International",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "sri-international",
    "node_label": "SRI International (Stanford Research Institute)",
    "cls": "institution",
@@ -12324,7 +11852,7 @@
   {
    "candidate": "Stan Gordon",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "stan-gordon",
    "node_label": "Stan Gordon",
    "cls": "person",
@@ -12333,7 +11861,7 @@
   {
    "candidate": "Stanford Research Institute",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "sri-international",
    "node_label": "SRI International (Stanford Research Institute)",
    "cls": "institution",
@@ -12342,16 +11870,25 @@
   {
    "candidate": "Stanton Friedman",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "stanton-friedman",
    "node_label": "Stanton T. Friedman",
    "cls": "person",
    "tier": "B"
   },
   {
+   "candidate": "Stargate program",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "stargate-program",
+   "node_label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+   "cls": "event",
+   "tier": "B"
+  },
+  {
    "candidate": "Steve Justice",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "steve-justice",
    "node_label": "Steve Justice",
    "cls": "person",
@@ -12360,7 +11897,7 @@
   {
    "candidate": "Steven Greer",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "steven-greer",
    "node_label": "Steven M. Greer",
    "cls": "person",
@@ -12369,7 +11906,7 @@
   {
    "candidate": "Steven Schiff",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "steven-schiff",
    "node_label": "Steven H. Schiff",
    "cls": "person",
@@ -12378,16 +11915,25 @@
   {
    "candidate": "Susan Gough",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "susan-gough",
    "node_label": "Susan Gough",
    "cls": "person",
    "tier": "A"
   },
   {
+   "candidate": "Ted Stevens",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "ted-stevens",
+   "node_label": "Theodore F. Stevens",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "The Black Vault",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "the-black-vault",
    "node_label": "The Black Vault",
    "cls": "institution",
@@ -12396,7 +11942,7 @@
   {
    "candidate": "Thomas Monheim",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "thomas-monheim",
    "node_label": "Thomas A. Monheim",
    "cls": "person",
@@ -12405,7 +11951,7 @@
   {
    "candidate": "Thomas Townsend Brown",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "thomas-townsend-brown",
    "node_label": "Thomas Townsend Brown",
    "cls": "person",
@@ -12414,7 +11960,7 @@
   {
    "candidate": "Thomas Wilson",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "thomas-wilson",
    "node_label": "Thomas R. Wilson",
    "cls": "person",
@@ -12423,11 +11969,38 @@
   {
    "candidate": "Thunder Scientific",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "thunder-scientific",
    "node_label": "Thunder Scientific Corporation",
    "cls": "institution",
    "tier": "C"
+  },
+  {
+   "candidate": "Tim Burchett",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "tim-burchett",
+   "node_label": "Timothy Floyd Burchett",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Tim Gallaudet",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "tim-gallaudet",
+   "node_label": "Timothy Gallaudet",
+   "cls": "person",
+   "tier": "A"
+  },
+  {
+   "candidate": "Tim Phillips",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "tim-phillips",
+   "node_label": "Timothy A. Phillips",
+   "cls": "person",
+   "tier": "B"
   },
   {
    "candidate": "To The Stars Academy",
@@ -12446,6 +12019,15 @@
    "node_label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
    "cls": "institution",
    "tier": "A"
+  },
+  {
+   "candidate": "Tom DeLonge",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "tom-delonge",
+   "node_label": "Thomas Matthew DeLonge",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Tonopah Test Range",
@@ -12468,20 +12050,38 @@
   {
    "candidate": "Travis Taylor",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "travis-taylor",
    "node_label": "Travis S. Taylor",
    "cls": "person",
    "tier": "C"
   },
   {
+   "candidate": "TRW",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "thomas-wilson",
+   "node_label": "Thomas R. Wilson",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Tulsi Gabbard",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "tulsi-gabbard",
    "node_label": "Tulsi Gabbard",
    "cls": "person",
    "tier": "C"
+  },
+  {
+   "candidate": "Twining memo",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "twining-memo",
+   "node_label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+   "cls": "document",
+   "tier": "B"
   },
   {
    "candidate": "UAP Disclosure Act",
@@ -12495,7 +12095,7 @@
   {
    "candidate": "UAP Gerb",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "uap-gerb",
    "node_label": "'UAP Gerb' (Sam)",
    "cls": "person",
@@ -12504,7 +12104,7 @@
   {
    "candidate": "UAP Science Advisory Council",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "uap-science-advisory-council",
    "node_label": "UAP Science Advisory Council",
    "cls": "institution",
@@ -12513,11 +12113,29 @@
   {
    "candidate": "UAP Task Force",
    "verdict": "NODE",
-   "how": "candidate within node",
-   "node_id": "hearing-2025-09-09",
-   "node_label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-   "cls": "event",
+   "how": "alias",
+   "node_id": "uap-task-force",
+   "node_label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
+   "cls": "program",
    "tier": "A"
+  },
+  {
+   "candidate": "UAP Working Group",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "sswg",
+   "node_label": "SAP Senior Working Group (SSWG)",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "UFOs and Nukes",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "npc-2010-ufos-nukes",
+   "node_label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+   "cls": "event",
+   "tier": "C"
   },
   {
    "candidate": "Under Secretary of Defense for Intelligence and Security",
@@ -12576,7 +12194,7 @@
   {
    "candidate": "US Navy",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "us-navy",
    "node_label": "United States Navy",
    "cls": "institution",
@@ -12592,6 +12210,15 @@
    "tier": "B"
   },
   {
+   "candidate": "USAF",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "USS Nimitz",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -12603,7 +12230,7 @@
   {
    "candidate": "USS Princeton",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "uss-princeton",
    "node_label": "USS Princeton (CG-59)",
    "cls": "institution",
@@ -12637,9 +12264,18 @@
    "tier": "A"
   },
   {
+   "candidate": "Varginha",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "l-varginha",
+   "node_label": "Varginha, Minas Gerais, Brazil",
+   "cls": "location",
+   "tier": "C"
+  },
+  {
    "candidate": "Walter Haut",
    "verdict": "NODE",
-   "how": "exact",
+   "how": "alias",
    "node_id": "walter-haut",
    "node_label": "Walter Haut",
    "cls": "person",
@@ -12657,11 +12293,20 @@
   {
    "candidate": "William Lynn",
    "verdict": "NODE",
-   "how": "candidate within node",
+   "how": "alias",
    "node_id": "william-lynn",
    "node_label": "William J. Lynn III",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "Wilson-Davis memo",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "wilson-davis-memo",
+   "node_label": "The Wilson-Davis Notes (16 October 2002)",
+   "cls": "document",
+   "tier": "A"
   },
   {
    "candidate": "Wright-Patterson Air Force Base",

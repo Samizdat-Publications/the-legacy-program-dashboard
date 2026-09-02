@@ -1,12 +1,11 @@
 1472 candidates against 980 nodes
-  ABSENT 965   not on the board in any form -- these are the leads
-  PROSE  222   named in board prose, not a node -- promotion questions
-  NODE   285   already a node
+  ABSENT 944   not on the board in any form -- these are the leads
+  PROSE  182   named in board prose, not a node -- promotion questions
+  NODE   346   already a node
 
-== ABSENT (965) ==
+== ABSENT (944) ==
   24th Special Tactics Squadron
   303 Committee
-  40 Committee
   45th Medical Group
   45th Space Wing
   9th Strategic Reconnaissance Wing
@@ -197,7 +196,6 @@
   Charles Chase   <- NEAR MISS, adjudicate
       ~chase  robert-bigelow.narrative ...sellers to sign non-disclosure conditions as part of the purchase. He told the Deseret News in August 1998, in his first inte...
   Charles Douglas Jackson
-  Charles Hall
   Charles Hambro
   Charles Hapgood
   Charles Hickson
@@ -228,7 +226,6 @@
   Church Committee
   Church of Satan
   Church of Scientology
-  CIA
   CIA Directorate of Plans
   CIA Directorate of Science & Technology
   CIC
@@ -284,7 +281,6 @@
   David Chester
   David Ferrie
   David Flynn
-  David Grush
   David Hatcher Childress
   David Jacobs
   David Kaiser
@@ -309,21 +305,17 @@
   Dennis Åsberg
   Desert Game Range National Park
   Detlev Bronk
-  DIA
   DIA Directorate of Human Intelligence Collection
   Dick Russell   <- NEAR MISS, adjudicate
       ~dick  samantha-ravich.narrative ...rincipal deputy national security adviser to Vice President Dick Cheney. A trustee who has sat on PIAB is a trustee who has...
   Diego Garcia
   Dmitry Medvedev
-  DoD
-  DOE
   DOE NNSA Office of Secure Transportation   <- NEAR MISS, adjudicate
       ~transportation  aaro.claim ...4 SASC statement for the record, and Kirkpatrick's Jan 2023 Transportation Research Board brief....
   DOE Nuclear Emergency Support Team
   DOE Special Response Team
   Don Menzel
   Don Phillips
-  Don Schmitt
   Don Trump Jr.
   Don Walsh   <- NEAR MISS, adjudicate
       ~walsh  entityInfo.sol-foundation.desc ...harles McCullough III, Christopher Mellon, Karl Nell, Diana Walsh Pasulka, Hal Puthoff, Paul Thigpen, Iya Whiteley, Beatriz V...
@@ -355,7 +347,6 @@
   E.A. Burkholder
   E.T. Whittaker
   Earl Warren
-  Ed Dames
   Ed Gibson
   Edward Kelly
   Edward Lansdale
@@ -500,7 +491,6 @@
   Ian Fleming
   IBM
   Ibrahim Sued
-  IDA
   Igor Witkowski   <- NEAR MISS, adjudicate
       ~igor  david-spergel.narrative ...data quality is the binding constraint, NASA should apply rigorous evidence-based methods including AI and crowdsourced obs...
   Intelectron Corporation
@@ -573,7 +563,6 @@
   JFK
   Jim Garrison
   Jim Lacatski
-  Jim Penniston
   Jim Ryder
   Jim Simons   <- NEAR MISS, adjudicate
       ~simons  david-spergel.sub ...Astrophysicist; President, Simons Foundation; Chair, NASA UAP Independent Study Team...
@@ -702,7 +691,6 @@
   Mark Carlotto
   Mark McCandlish   <- NEAR MISS, adjudicate
       ~mccandlish  entityInfo.gerb-mitre-investigation.desc ...Gallaudet, Greer, Kecksburg, NASA, Edwards, USAF, Elizondo, McCandlish, Immaculate Constellation, Edgar Fouche, TR-3B, ARV, Dugway...
-  Mark Millis
   Martin Bormann
   Martin Cannon
   Martin Nowak
@@ -733,8 +721,6 @@
   Miguel Alcubierre   <- NEAR MISS, adjudicate
       ~alcubierre  richard-obousy.narrative ...ce, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy's own published work on dark energy a...
   Mike Asherman
-  Mike Gallagher   <- NEAR MISS, adjudicate
-      ~gallagher  mike-gallagher.narrative ...Gallagher is included here as a structural node rather than an establ...
   Mike Griffin
   Mike McConnell
   Mike Pompeo
@@ -783,7 +769,6 @@
   Nelson Rockefeller
   Neuralink
   Next Generation Non-Surgical Neurotechnology
-  NGA
   Nick Cook   <- NEAR MISS, adjudicate
       ~cook  robert-low.claim ...same passage names Condon as scientific director and Stuart Cook and Franklin E. Roach as principal investigators, placing L...
   Nikola Tesla   <- NEAR MISS, adjudicate
@@ -797,8 +782,6 @@
   Norfolk Naval Base
   Norman Cousins
   Norton AFB
-  NRO
-  NSA
   NSC
   NSWC Crane
   Odyssey Systems
@@ -811,7 +794,6 @@
       ~oliver  paul-czysz.narrative ...fort. He left industry for Saint Louis University, held the Oliver L. Parks Endowed Chair in the Department of Aerospace and M...
   OLV Human Services
   One Brattle Square
-  ONI
   Operation Castle   <- NEAR MISS, adjudicate
       ~castle  icd-906.desc ...nior Review Group. All CAPs are to be recorded in Scattered Castles, the IC personnel security database - 'Any exemption from...
   Operation Corona
@@ -982,8 +964,6 @@
   Secret Canyon
   Secret Mountain
   Sedona
-  Sen. Chuck Schumer   <- NEAR MISS, adjudicate
-      ~chuck  jared-moskowitz.narrative ...tt and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public ha...
   Seymour Hersh
   Sgt. Hawkins
   Sheffield Edwards
@@ -1005,7 +985,6 @@
   Space Dynamics Laboratory
   SpaceX
   Special Operations Executive
-  SRI
   Stacey Dixon
   Standard Oil
   Stanley Deser
@@ -1067,9 +1046,7 @@
   Travis Walton
   Trent Reznor
   Trump Media and Technology Group
-  TRW
   U.S. Army Intelligence Support Activity Group
-  UAP Working Group
   UFO Working Group
   Ufo-Sverige
   Union Banking Corporation   <- NEAR MISS, adjudicate
@@ -1171,7 +1148,7 @@
   Zodiac
   Zorro Ranch
 
-== PROSE (222) ==
+== PROSE (182) ==
   5412
       uap-gerb.narrative ...placed the control group under the National Security Council and its 5412 Committee, shielded it statutorily under the Atomic Energy Act of 195...
       uap-gerb.claim ...blished the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority unde...
@@ -1180,24 +1157,8 @@
       uap-gerb.narrative ...placed the control group under the National Security Council and its 5412 Committee, shielded it statutorily under the Atomic Energy Act of 1954, and tha...
       uap-gerb.claim ...blished the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority under the Atom...
       manhattan-project-2.desc ...control group established under the National Security Council and its 5412 Committee and statutory protection drawn from the Atomic Energy Act of 1954. Na...
-  AARO
-      harry-reid.narrative ...million into the defense black budget for what became AAWSAP at DIA — AARO's own 2024 report states flatly that 'at the direction of Senate Majo...
-      harry-reid.claim ...AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direct...
-      harry-reid.source ...AARO, Report on the Historical Record of U.S. Government Involvement with...
-  AATIP
-      harry-reid.claim ...Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and enginee...
-      james-lacatski.source ...DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection...
-      james-lacatski.source ...Archived: DIA FOIA Electronic Reading Room — AAWSAP/AATIP collection (Wayback 2026-06-11)...
   Advanced Theoretical Physics Working Group
       john-b-alexander.narrative ...ics work, he convened in the 1980s an interagency group he called the Advanced Theoretical Physics working group, drawing senior people from CIA, DIA, the se
-  AFOSI
-      paul-bennewitz.narrative ...e, in writing, repeatedly. The Air Force's documented response was an AFOSI file: a formal AFOSI complaint-form record dated 10 November 1980 con...
-      paul-bennewitz.sub ...Physicist; president, Thunder Scientific Corp.; target of AFOSI disinformation 1980-1988...
-      paul-bennewitz.claim ...An AFOSI record dated 10 November 1980 documents that Kirtland AFB security po...
-  AFRL
-      william-mccasland.narrative ...is the reason his name carries the nickname the press has given him: AFRL at Wright-Patterson is the single installation most persistently name...
-      william-mccasland.sub ...Maj. Gen., USAF (ret.); former AFRL commander; disappeared February 2026...
-      aaro-fy2023-annual-report.claim ...thin this domain...' AARO names NIM-MIL, the USAF including NASIC and AFRL as its air-domain partners....
   Air Mobility Command
       ev-varginha-capitol-2026.desc ...out the documentary trail such a mission would necessarily generate - Air Mobility Command paperwork at Scott AFB, the Air Mobility Wing at Charleston AFB, a
       ev-varginha-capitol-2026.claim ...aussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston A
@@ -1236,18 +1197,10 @@
       martin-heinrich.narrative ...Department of Energy 'and its progenitors, the Manhattan Project, the Atomic Energy Commission, and the Energy Research and Development Administration.' The 
   Avrocar
       entityInfo.aaro-historical-record-vol1.desc ...- Project Mogul, High Dive, Aquatone/Dragon Lady, WS-117L/CORONA, the Avrocar, OXCART/A-12/SR-71, TATTLETALE/GRAB, Poppy, Gambit, Hexagon, HAVE Blu...
-  Aztec
-      frank-scully.narrative ...umanoid bodies had come down in Hart Canyon twelve miles northeast of Aztec, New Mexico, had been taken by the military for secret research, ran...
-      frank-scully.claim ...Scully's account placed the Aztec crash in March 1948 at Hart Canyon, twelve miles northeast of Aztec,...
-      frank-scully.source ...Aztec crashed saucer hoax - Wikipedia...
   BAE Systems
       burlison-mitre-letter-2026.claim ...Leidos, Battelle, The Aerospace Corporation, Booz Allen Hamilton and BAE Systems....
   Barry Goldwater
       andy-biggs--david-grusch.note ...he official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That...
-  Battelle
-      sean-kirkpatrick.narrative ...ograms at Oak Ridge National Laboratory - a laboratory operated by UT-Battelle that had supported AARO during his tenure, and which in 2024 was give...
-      sean-kirkpatrick.claim ...ARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that had supported AARO, as CTO for Defense and Inte...
-      mark-peters.narrative ...Argonne, then Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, then Executive Vice President for Laboratory Man...
   Bill Moore
       richard-doty.narrative ...He was also a conduit in the emergence of the MJ-12 material through Bill Moore. He left AFOSI in 1988 and later served as a New Mexico State Police...
       richard-doty.chronology ...Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding di...
@@ -1295,9 +1248,6 @@
       david-grusch.chronology ...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III...
   Chris Mellon
       the-intercept--ttsa.note ...el's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen....
-  Chuck Schumer
-      jared-moskowitz.narrative ...ked Burchett and Luna for pushing the hearing into existence and read Chuck Schumer's language into the record: 'The American public has a right to learn...
-      us-senate.desc ...tleblower protection at 50 U.S.C. 3373b. In July 2023 Majority Leader Chuck Schumer and Senator Mike Rounds introduced the Unidentified Anomalous Phenome...
   CIA Directorate of Science and Technology
       sean-kirkpatrick.narrative ...ct channels that would matter: the National Reconnaissance Office and CIA Directorate of Science and Technology 2003-2007, then the Defense Intelligence Agen
       gerb-nro-investigation.desc ...rious relationships exist between alleged legacy personnel and MITRE, CIA Directorate of Science and Technology, CIA Office of Global Access, the NRO and the
@@ -1311,19 +1261,11 @@
       uyrange-hollanda.narrative ...e Brazilian Air Force operation mounted in late 1977 on the island of Colares in Pará after residents reported being injured by descending lights t...
       uyrange-hollanda.chronology ...Operação Prato first phase begins on Colares, Pará...
       baass-ten-month-report.desc ...orthern Tier missile base incidents and Brazilian case files from the Colares and Ceará events. It is the deliverable that makes AARO's 2024 senten...
-  CSETI
-      john-podesta.narrative ...d so out loud. The Clinton Library's own UFO FOIA collections - Greer/CSETI correspondence (2006-0474-F), the Roswell file (2006-0476-F), the Fir...
-      john-podesta.claim ...O-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO rep...
-      john-podesta.source ...IA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)...
   Curtis LeMay
       rand-corporation.claim ...6) contains two RAND items sixteen years apart: item 342UAP00003, the Curtis LeMay Collection 1945-1947, which carries a 5 August 1947 report naming Pro...
   Dan Wilson
       minot-1968.desc ...d witnesses include Maj. Bradford Runyon, S/Sgt Bond and S/Sgt Smith. Dan Wilson located 108 documents on the case and NARCAP found 141. Project Blue...
       minot-1968.claim ...Dan Wilson located 108 documents on the case for RADCAT; NARCAP identified 141;...
-  DARPA
-      sswg.desc ...USD(AT&L), the Army, Air Force, Navy, Marine Corps, the Joint Staff, DARPA and the Missile Defense Agency, plus representatives of DCAPE, the Do...
-      odni.desc ..., DIA, FBI, NRO, NGA, NSA, the Air Force, the Army, the Navy and ONI, DARPA, FAA, NOAA, ODNI's National Intelligence Manager for Emerging and Dis...
-      odni.claim ...ibutors USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy/ONI, DARPA, FAA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/NCSC an...
   DD Form 254
       dodm-5205-07-series.claim ...e, Reference (f), and the government contracting activity's completed DD Form 254 ... (2) Authorizes classified contractor SAP information systems (ISs...
   DEEP
@@ -1377,8 +1319,6 @@
       eric-davis.claim ...he notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell....
   Edward Snowden
       nip-fy2013-summary-disclosure.desc ...bearing the classification marking TS/SI/TK/NOFORN, obtained from the Edward Snowden disclosures. The Federation of American Scientists Intelligence Resou...
-  Edwards AFB
-      l-edwards-afb.claim ...Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from M...
   Edwin May
       stargate-program.desc ...blished the records online in January 2017 through the CREST archive; Edwin May's donated 1972-1995 materials are held at the Archives of the Impossi...
   Eric Walker
@@ -1423,10 +1363,6 @@
       jason-matheny.narrative ...a target of his contractor investigation. Matheny's own trajectory - IARPA to OSTP to RAND - is another instance of the same revolving door: the...
       jason-matheny.sub ...President and CEO, RAND Corporation; former Director, IARPA; former Deputy Assistant to the President for Technology and National...
       jason-matheny.claim ...eny is president and CEO of RAND; his prior posts include Director of IARPA and Deputy Assistant to the President for Technology and National Sec...
-  ICIG
-      david-grusch.narrative ...ugh counsel Charles McCullough III, the IC's first Inspector General; ICIG found it credible and urgent in July 2022. DoD's own Prepublication a...
-      david-grusch.sub ...Former NGA/NRO officer; ICIG complainant; the proximate cause of the UAPDA...
-      david-grusch.chronology ...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III...
   Imminent
       luis-elizondo.claim ...Testified that Imminent went through DOPSR, 'which took a year for it to be reviewed, and wha...
       luis-elizondo.chronology ...Publishes Imminent: Inside the Pentagon's Hunt for UFOs after a year-long DOPSR review;...
@@ -1440,10 +1376,6 @@
       gerb-northrop-trw-investigation.desc ...rusch's remarks on Megyn Kelly, it asks whether Northrop Grumman used IRAD - Independent Research and Development funds, which are contractor-di...
   J. Edgar Hoover
       thomas-townsend-brown.claim ...A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission...
-  Jack Reed
-      brian-jenkins-dia.narrative ...nate Armed Services Committee chairman John McCain and ranking member Jack Reed that transmitted the list of all 38 products produced under the progr...
-      jack-reed.claim ...Jack Reed (D-RI) is listed as Ranking Member of the Senate Armed Services Commi...
-      roger-wicker.narrative ...set during the 118th Congress, when he sat as ranking member opposite Jack Reed - meaning he held a 119(e)(2) seat at the time of the July 2023 Grusc...
   Jacques Vallée
       d-materials.desc ...them, would be very difficult to explain conventionally. Garry Nolan, Jacques Vallée and colleagues published the methodology for exactly this test in Pro...
       operacao-prato.claim ...Jacques Vallée reported that individuals were said to have been killed by the lights...
@@ -1484,10 +1416,6 @@
   Joseph McMoneagle
       l-sri.desc ...ned the term 'remote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded successively by CIA, the Army and D
       stargate-program.desc ...ing the term 'remote viewing' and working with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. The military side began as GONDOLA WISH in 1977 under
-  Kecksburg
-      leslie-kean.narrative ...uary 2003 she filed a FOIA request with NASA for records referring to Kecksburg, the incident of 9 December 1965, the 'Fragology Files' for 1962-1967...
-      leslie-kean.claim ...Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967...
-      leslie-kean.chronology ...Files FOIA request with NASA for Kecksburg, Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust a...
   Kelly Johnson
       ben-rich.narrative ...ciplined entry. His documented record is not in dispute: he succeeded Kelly Johnson as head of Lockheed's Advanced Development Projects in 1975, ran the...
       ben-rich.source ...e record for Benjamin 'Ben' Robert Rich -- states he was 'Selected by Kelly Johnson (enshrined 1974) to be the new "Chief Skunk" in 1975'...
@@ -1528,8 +1456,6 @@
   Martin Marietta
       robert-salas.narrative ...ssile propulsion engineer, resigned his commission in 1971, worked at Martin Marietta and Rockwell International, then spent two decades at the Federal Avi..
       rias-inc--lockheed-martin.note ...d to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and th..
-  Matt Gaetz
-      l-eglin.desc ...AP incident a member of Congress has personally investigated on site. Matt Gaetz's office received a protected disclosure from Eglin; he travelled the...
   Matthew Brown
       kona-blue.claim ...ted alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data....
   Metabunk.org
@@ -1545,20 +1471,10 @@
       luis-elizondo.claim ...s a disc-shaped object 600-1,000 feet in diameter; analysts including Mick West identified it as an irrigation circle....
       luis-elizondo.chronology ...-foot disc image at a UAP Disclosure Fund hearing; analysts including Mick West identify it as an irrigation circle...
       tl-elizondo-irrigation.text ...do presents an image described as a gigantic disc; analysts including Mick West identify it as an irrigation circle. The correction comes from the sc...
-  Mike Turner
-      mike-turner.narrative ..., who lobbied the conference directly, has stated on the record that 'Mike Turner first attacked those two elements,' demanding the eminent domain prov...
   MKUltra
       anna-paulina-luna.chronology ...Chairs the task force's MKULTRA hearing...
       tf-declassification-federal-secrets.desc ...emit spans the JFK, RFK and MLK assassination files, Epstein records, MKULTRA and UAP - and that breadth is exactly what allows it to treat UAP as...
       tf-declassification-federal-secrets.claim ...d 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project' on 30 June 2026 at 10:00am....
-  MUFON
-      richard-doty.chronology ...Bill Moore tells the MUFON symposium that he cooperated with AFOSI in feeding disinformation to...
-      william-moore.narrative ...the release of that material for the next several years. Then, at the MUFON symposium in Las Vegas in July 1989, Moore told the assembled UFO com...
-      william-moore.claim ...Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligenc...
-  NASA
-      pete-hegseth.chronology ...PURSUE Release 03: 72 files across DoW, FBI, CIA and NASA holdings...
-      michael-gold.narrative ...Gold sat on the NASA UAP Independent Study Team and then, on 13 November 2024, took the pa...
-      michael-gold.sub ...Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP I...
   National Academy of Sciences
       edward-condon.narrative ...o staff members who exposed the Low memo. His report was blessed by a National Academy of Sciences panel and used by the Air Force as the stated basis for te
       edward-condon.claim ...The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Bl...
@@ -1599,18 +1515,10 @@
       christopher-sherwood.chronology ...Tells the New York Post that AATIP 'did pursue research and investigation into unidentified a...
   Nick Redfern
       entityInfo.gerb-mitre-investigation.desc ...elle, Lockheed, Skunkworks, Lockheed Martin, Ross Coulthart, Kingman, Nick Redfern, Grusch, Michael Herrera, USO, Timothy Gallaudet, Greer, Kecksburg, N...
-  NIDS
-      eric-davis.chronology ...Joins NIDS as a scientist under Bigelow...
-      eric-davis.chronology ...Works with NIDS as a staff scientist under Bigelow....
-      robert-bigelow.narrative ...be there just for the weather,' while declining to discuss specifics. NIDS operated a public reporting hotline and a veterinary necropsy respons...
   Ning Li
       george-hathaway.narrative ...he Soviet-lineage gravity claims of Evgeny Podkletnov and the work of Ning Li. DIA commissioned a review of gravity modification from the one perso...
       dird-the-role-of-superconductors-in-gravity.claim ...modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 an...
       paper-knuth-2025-new-science.desc ...ent, is the closest thing the subject has to a conventional field-defining literature review, and it exists because two faculty members at a mid-si...
-  NNSA
-      doe.source ...National Nuclear Security Administration - About NNSA...
-      nnsa.desc ...NNSA is 'a semi-autonomous agency within the U.S. Department of Energy res...
-      nnsa.claim ...NNSA is 'a semi-autonomous agency within the U.S. Department of Energy res...
   NOAA
       tim-gallaudet.narrative ...ographer of the Navy, then Assistant Secretary of Commerce and acting NOAA Administrator....
       tim-gallaudet.sub ...Admiral, USN (Ret.); former Oceanographer of the Navy; former acting NOAA Administrator...
@@ -1623,10 +1531,6 @@
       eric-burlison.narrative ...the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' In April 2026 he and Chairman Comer opened th...
       eric-burlison.claim ...the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'...
       jason-matheny.claim ...the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'...
-  ODNI
-      david-grusch.chronology ...His principal in Congress, Rep. Burlison, publishes ODNI memorandum ES 2026-00818 waiving UAP NDAs across the Intelligence Com...
-      jay-stratton.narrative ...ratton's task force that produced the classified underpinnings of the ODNI Preliminary Assessment delivered to Congress on 25 June 2021 - the re...
-      jay-stratton.claim ...irect institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment....
   Office of Global Access
       jesse-michels.narrative ...ractors', 'Modern Majestic 12', 'The Administrators of Secrecy', 'The Office of Global Access', 'The Role of MITRE', 'The DOE NEST', 'The 1954 Atomic Energy 
       jesse-michels.claim ...Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement...
@@ -1660,31 +1564,11 @@
       entityInfo.mitre-corporation.desc ...elligence, joining in 2021 and elected vice chair on 31 October 2023; Paul Kaminski, former Under Secretary of Defense for Acquisition and Technology, re...
   Paul Thigpen
       entityInfo.sol-foundation.desc ...III, Christopher Mellon, Karl Nell, Diana Walsh Pasulka, Hal Puthoff, Paul Thigpen, Iya Whiteley, Beatriz Villarroel, Jacques Vallee.  2025 SYMPOSIUM SP...
-  Pax River
-      christopher-sharp.narrative ...xent River and that Elizondo's written congressional testimony placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer. H...
-      l-pax-river.desc ...Pax River is the headquarters of Naval Air Systems Command and the Navy's princ...
-      lockheed-martin--l-pax-river.note ...es reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included...
-  Pentagon
-      james-lacatski.narrative ...o-author, with Colm Kelleher and George Knapp, of 'Skinwalkers at the Pentagon' (2021) and of the 'Inside the U.S. Government Covert UFO Program' se...
-      james-lacatski.claim ...June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records....
-      james-lacatski.chronology ...s letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located...
   Philip Klass
       william-moore.claim ...ct Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - b...
       william-moore.chronology ...Philip Klass publishes the first detailed forensic challenge to the MJ-12 document...
   Picatinny Arsenal
       salvatore-pais.claim ...y is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much
-  Project Aquarius
-      richard-doty.narrative ...a briefing paper purporting to describe a government programme - the 'Project Aquarius' teletype - which she was not permitted to copy. He was also a condui.
-      linda-moulton-howe.narrative ...raft and occupants - the material that entered the literature as the 'Project Aquarius' teletype. She was permitted to read it and take notes but not to cop.
-      linda-moulton-howe.sub ...Documentary producer (HBO, KMGH-TV Denver); shown the 'Project Aquarius' paper at Kirtland AFB, 1983...
-  Project Magnet
-      wilbert-smith.narrative ...coincidence.' The memorandum was the successful request that produced Project Magnet....
-      wilbert-smith.sub ...Senior Radio Engineer, Canadian Department of Transport; head of Project Magnet 1950-1962...
-      wilbert-smith.claim ...Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficul...
-  Project Second Story
-      project-second-storey.claim ...LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1...
-      project-second-storey.source ...LAC - Project Second Story minutes document page...
-      lac-ufo-collection.desc ...4/167, box 7523, file DRBS 3800-10-1, pt.1 for the Project Magnet and Project Second Story files; RG 24, vol. 17984, file S-940-5, pts.1 and 2, on reel T-329
   Project Stargate
       harold-puthoff--nids.note ...Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'...
   Project Starlight
@@ -1701,12 +1585,6 @@
       tim-gallaudet.chronology ...'As with other promises made by Trump, I'll believe it when I see it.'...
   Randy Anderson
       entityInfo.hearing-2025-09-09.desc ...to him by Dr. Steven Greer, naming Michael Herrera, Roderick Castle, Randy Anderson and Steven Digna among others. Burlison also stated on the record tha...
-  Ray Hyman
-      stargate-program.desc ...ratory results showed statistically significant effects, psychologist Ray Hyman concluded the opposite - 'the overwhelming amount of data generated b...
-  Raytheon
-      william-lynn.narrative ...ad been DoD Comptroller under Clinton and came to the Deputy job from Raytheon, where he was senior vice president for government operations and str...
-      burlison-mitre-letter-2026.desc ...requests, including work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos, and covers UAP detection...
-      burlison-mitre-letter-2026.claim ...agnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos....
   Redstone Arsenal
       l-huntsville.desc ...Huntsville is the American rocketry town: Redstone Arsenal received Wernher von Braun and the Operation Paperclip rocket team in...
       l-huntsville.sub ...Madison County; Redstone Arsenal, Missile Defense Agency, Army Aviation and Missile Command, Radiance...
@@ -1736,10 +1614,6 @@
       howard-mccoy.narrative ...and the GAO's 1995 search never reached them because it was scoped to Roswell Army Air Field and headquarters-level holdings. McCoy is the name to pull on fo
       walter-haut.narrative ...946, he became public information officer for the 509th Bomb Group at Roswell Army Air Field, and on 8 July 1947 base commander Col. William H. Blanchard - a
       walter-haut.claim ...Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into poss...
-  SAIC
-      donald-kerr.narrative ...istant director for the laboratory division and a senior executive at SAIC. Every rung of that ladder is an institution named in the legacy-prog...
-      uap-gerb.narrative ...-corporate series - Battelle, Northrop Grumman, TRW, Lockheed Martin, SAIC, Sandia - and an institution-by-institution series covering the Air F...
-      aaro.desc ...ss three directors: annual reports whose resolved cases are always prosaic, whose unresolved cases are always attributed to insufficient sensor...
   Santa Cruz Air Base
       otavio-moreira-lima.narrative ...work and five scrambled Brazilian Air Force fighters - two F-5Es from Santa Cruz Air Base and three Mirage IIIEs from Anápolis - engaged twenty-one unidentif
       ev-noite-ovnis-1986.desc ...y - reported large red lights and attempted an unsuccessful approach. Santa Cruz Air Base went to alert at 21:39 and Anápolis shortly afterwards. Five fighte
@@ -1747,10 +1621,6 @@
       david-abba.narrative ...esence in that file is the closest the public record comes to putting SAPCO on paper in the Grusch matter. SAPCO is the natural custodian of the...
       steve-feinberg.narrative ...direction, and control of the Deputy Secretary of Defense', with the SAPCO Director reporting directly to him. The Deputy Secretary is therefore...
       steve-feinberg.claim ...DoDD 5205.07 places DoD SAPCO under the authority, direction and control of the Deputy Secretary of...
-  SAPOC
-      dodd-5205-07-2024.desc ...rd. First, the governance structure is retained and strengthened: the SAPOC remains 'the senior governing body of the DoD SAP Enterprise for gove...
-      dodd-5205-07-2024.claim ...nt of the SAP Enterprise.' The Deputy Secretary of Defense chairs the SAPOC....
-      dodd-5205-07-2024.claim ...DoDD 5205.07 (2024) describes the SAPOC as 'the senior governing body of the DoD SAP Enterprise for governanc...
   Savannah River Site
       doe.desc ...a National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago of guarded, instrumented, contractor-op
       nnsa.desc ...al Security Complex, the Kansas City National Security Campus and the Savannah River Site. Every one of those facilities is contractor-operated on government
@@ -1777,8 +1647,6 @@
       harold-puthoff.narrative ...hoenergetics work with Russell Targ - the SRI half of what became the Stargate Project - which is the formative fact about him: he has been the gove...
       harold-puthoff.claim ...ote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus....
       harold-puthoff.claim ...or Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme....
-  Stargate program
-      harold-puthoff.claim ...or Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme....
   Stargate Project
       harold-puthoff.narrative ...hoenergetics work with Russell Targ - the SRI half of what became the Stargate Project - which is the formative fact about him: he has been the government's.
       l-sri.source ...Wikipedia - Stargate Project (U.S. Army unit)...
@@ -1791,34 +1659,14 @@
       sac-overflights-1975.desc ...ober and early November 1975, unidentified objects were reported over Strategic Air Command weapons storage and alert areas and over Minuteman missile fields
       l-malmstrom.desc ...Strategic Air Command installation at Great Falls, Montana, controlling Minuteman ICBM laun...
       nara-rg615.claim ...dment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A
-  Ted Stevens
-      harry-reid.narrative ...ority Leader he worked with Appropriations chairman Daniel Inouye and Ted Stevens in 2007 to direct roughly $22 million into the defense black budget f...
-      daniel-inouye.narrative ...retionary defense spending is written, and his agreement let Reid and Ted Stevens route roughly $22 million into the classified annex of the FY2008 def...
-      aawsap.desc ...direction of Senate Majority Leader Harry Reid with Daniel Inouye and Ted Stevens, solicited publicly on 18 August 2008 as HHM402-08-R-0211 by the DIA...
   The Pentagon
       james-lacatski.narrative ...he co-author, with Colm Kelleher and George Knapp, of 'Skinwalkers at the Pentagon' (2021) and of the 'Inside the U.S. Government Covert UFO Program' se...
       james-lacatski.claim ...19 June 2007 Lacatski-to-Bigelow letter described in 'Skinwalkers at the Pentagon'; the appeal (APP-00031-2022) also returned no records....
       james-lacatski.chronology ...Sends letter on DIA letterhead to Robert Bigelow (per 'Skinwalkers at the Pentagon'); DIA later reports no records located...
-  Tim Burchett
-      david-grusch.claim ...Sworn, to Rep. Tim Burchett: has personal knowledge of people harmed or injured in efforts to cov...
-      jon-kosloski.narrative ...ast, still unresolved. In May 2026 he met Reps. Anna Paulina Luna and Tim Burchett and, per Luna, apologised for the conduct of the prior AARO leadershi...
-      tim-burchett.source ...Newsweek - Pentagon's UFO Office to Be Eliminated Under New Tim Burchett Bill...
-  Tim Gallaudet
-      tim-gallaudet.claim ...of record at the 13 November 2024 House Oversight joint hearing: 'Dr. Tim Gallaudet, Rear Admiral, U.S. Navy (RET.), Chief Executive Officer, Ocean STL C...
-      peter-skafish.narrative ...and reporting to an interagency UAP Governance Board; Skafish, Nolan, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it. In under four yea...
-      aaro-fy2024-annual-report.desc ...the day after the House Oversight hearing at which Luis Elizondo and Tim Gallaudet testified and five days before Kosloski appeared before the Senate. I...
-  Tim Phillips
-      tim-phillips.source ...Archived: DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1 (Wayback 2026-06-06)...
-      tim-phillips.source ...DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1...
-      tim-phillips.source ...k Vault - Private press briefing transcript with Acting AARO Director Tim Phillips, 6 March 2024...
   Timothy Good
       institute-22.desc ...effort of 1978-1991 appears in Western secondary literature, chiefly Timothy Good's Need to Know: UFOs, the Military, and Intelligence (2007). On that...
   Tom DeLong
       harold-puthoff.narrative ...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the anal...
-      harold-puthoff.chronology ...Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice....
-      harold-puthoff.source ...M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice...
-  Tom DeLonge
-      harold-puthoff.narrative ...contract was awarded. In 2017 he co-founded To The Stars Academy with Tom DeLonge, Jim Semivan and Steve Justice, and his laboratories became the analy...
       harold-puthoff.chronology ...Co-founds To The Stars Academy of Arts & Science with Tom DeLonge, Jim Semivan and Steve Justice....
       harold-puthoff.source ...M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice...
   TR-3B
@@ -1830,14 +1678,6 @@
       l-white-sands.sub ...~3,200 sq mi Army range across five New Mexico counties; Trinity Site; V-2 launch complex...
   Três Corações
       ev-varginha-1996.claim ...in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Ame...
-  Twining memo
-      nathan-twining.narrative ...f. He is also the named recipient in the disputed 14 July 1954 Cutler-Twining memo, which the FBI declared bogus — a fact recorded here as an artifact o...
-      nathan-twining.source ...Twining memo, 23 September 1947 (scan)...
-      kenneth-arnold.narrative ...First, his sighting is the trigger event: the 1947 wave, Roswell, the Twining memo and the Schulgen collection requirement all follow it within eighteen...
-  UFOs and Nukes
-      robert-hastings.narrative ...n file - which is the difference between tier 3 and tier 2. His book 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites' is in a revised s...
-      robert-hastings.sub ...Researcher, UFO incursions at US nuclear weapons sites; author, 'UFOs and Nukes'...
-      robert-hastings.chronology ...First edition of 'UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites'...
   University Affiliated Research Centers
       ffrdc-mechanism.desc ...in: the claim that Federally Funded Research and Development Centers, University Affiliated Research Centers and Government-Owned Contractor-Operated facilit
       jhuapl--d-ffrdc.note ...University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement r...
@@ -1848,10 +1688,6 @@
       charles-mccullough-iii.claim ...proper withholding and/or concealment of classified material from the US Congress.'...
       hearing-2026-06-30.desc ...e developments was executive-branch action taken without contemporaneous congressional testimony. The absence of a 2026 UAP hearing is itself the most...
       l-varginha.desc ...the Varginha case is testable against an open archive. In July 2026 a US congressman formally requested FBI and CIA holdings relating to the incident,...
-  USAF
-      david-abba.sub ...Maj Gen, USAF; Director, DoD Special Access Program Central Office...
-      pat-ryder.sub ...Maj Gen, USAF; Pentagon Press Secretary...
-      nathan-twining.source ...Archived: USAF Fact Sheet: UFOs and Air Force Project Blue Book (Wayback 2026-07-06)...
   USD(I&S)
       jay-stratton.claim ...L. Norquist on 4 August 2020 under the Department of the Navy, with OUSD(I&S) cognizance....
       kathleen-hicks.narrative ...ugust 2023, with Grusch's testimony fresh, she pulled AARO out of the USD(I&S) chain and made its director report directly to her, saying the Depart...
@@ -1868,10 +1704,6 @@
       uap-gerb.claim ...rograms with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Also...
       robert-sarbacher.narrative ...pt note 'Received 12-5-83'. In it Sarbacher says John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also';...
       robert-sarbacher.claim ...of Technology letterhead, Sarbacher writes that John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'....
-  Varginha
-      david-grusch.claim ...nity, NDA waivers, and declassification including records on the 1996 Varginha incident....
-      david-grusch.claim ...d the cycle's most aggressive records demands - the MITRE letter, the Varginha letters and the FY2027 NDAA amendment. Reasoning: the advisory role i...
-      eric-burlison.chronology ...Letters to CIA and FBI on the 1996 Varginha/Campinas incident...
   Viktor Schauberger
       eric-wang.claim ...henomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. N
   Webster Hubbell
@@ -1885,10 +1717,6 @@
   William Steinman
       robert-sarbacher.narrative ...titute of Technology letterhead, dated 29 November 1983, addressed to William Steinman, signed, with Steinman's handwritten receipt note 'Received 12-5-83'..
       robert-sarbacher.claim ...In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes t...
-  Wilson-Davis memo
-      eric-davis.claim ...ng, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they were unaware of it....
-      eric-davis.claim ...The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special acc...
-      eric-davis.chronology ...with Vice Adm. Thomas Wilson recorded in the notes later known as the Wilson-Davis memo...
   Wright Air Development Center
       eric-wang.narrative ...Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'. A 1960 report names him 'Eric H. W
       eric-wang.claim ...Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'....
@@ -1906,291 +1734,352 @@
       jesse-michels.claim ...structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing componen...
       doe.desc ...al laboratories, the Nevada National Security Site, the Pantex Plant, Y-12 at Oak Ridge and the Savannah River Site - a distributed archipelago...
 
-== NODE (285) ==
+== NODE (346) ==
+  40 Committee                                   -> The defense committees (10 U.S.C. 119(g))  [institution B, one character apart, within node]
+  AARO                                           -> All-domain Anomaly Resolution Office (AARO)  [institution A, alias]
   Aaron Lucas                                    -> Aaron Lukas  [person B, one character apart]
-  Adm. Thomas Wilson                             -> Thomas R. Wilson  [person C, candidate within node]
-  Aerojet Rocketdyne                             -> Aerojet Rocketdyne  [institution C, exact]
-  Aerospace Corporation                          -> The Aerospace Corporation  [institution B, exact]
-  Age of Disclosure                              -> The Age of Disclosure (documentary, 2025)  [document C, candidate within node]
+  AATIP                                          -> Advanced Aerospace Threat Identification Program (AATIP / AAITP)  [program A, alias]
+  Adm. Thomas Wilson                             -> Thomas R. Wilson  [person C, alias]
+  Aerojet Rocketdyne                             -> Aerojet Rocketdyne  [institution C, alias]
+  Aerospace Corporation                          -> The Aerospace Corporation  [institution B, alias]
+  AFOSI                                          -> Air Force Office of Special Investigations  [institution B, alias]
+  AFRL                                           -> Air Force Research Laboratory  [institution B, alias]
+  Age of Disclosure                              -> The Age of Disclosure (documentary, 2025)  [document C, alias]
   Air Force Institute of Pathology               -> United States Air Force  [institution A, node within candidate]
-  Air Force Office of Special Investigations     -> Air Force Office of Special Investigations  [institution B, exact]
-  Air Force Research Laboratory                  -> Air Force Research Laboratory  [institution B, exact]
+  Air Force Office of Special Investigations     -> Air Force Office of Special Investigations  [institution B, alias]
+  Air Force Research Laboratory                  -> Air Force Research Laboratory  [institution B, alias]
   Air Force Special Warfare Combat Control       -> United States Air Force  [institution A, node within candidate]
   Air Force Technical Application Center         -> United States Air Force  [institution A, node within candidate]
-  Alex Dietrich                                  -> Alex Dietrich  [person B, exact]
-  Alexandria Ocasio-Cortez                       -> Alexandria Ocasio-Cortez  [person B, exact]
+  Alex Dietrich                                  -> Alex Dietrich  [person B, alias]
+  Alexandria Ocasio-Cortez                       -> Alexandria Ocasio-Cortez  [person B, alias]
   All-domain Anomaly Resolution Office           -> All-domain Anomaly Resolution Office (AARO)  [institution A, candidate within node]
-  Americans for Safe Aerospace                   -> Americans for Safe Aerospace  [institution B, exact]
-  Anna Paulina Luna                              -> Anna Paulina Luna  [person A, exact]
+  Americans for Safe Aerospace                   -> Americans for Safe Aerospace  [institution B, alias]
+  Anna Paulina Luna                              -> Anna Paulina Luna  [person A, alias]
   Area 51                                        -> Area 51 (Homey Airport / Groom Lake operating location)  [location B, candidate within node]
-  Avi Loeb                                       -> Abraham 'Avi' Loeb  [person B, candidate within node]
+  Avi Loeb                                       -> Abraham 'Avi' Loeb  [person B, alias]
+  Aztec                                          -> Aztec, New Mexico  [location C, alias]
   Aztec New Mexico crash site                    -> Aztec, New Mexico  [location C, node within candidate]
-  Battelle Memorial Institute                    -> Battelle Memorial Institute  [institution A, exact]
-  BDM International                              -> BDM International, Inc.  [institution C, exact]
-  Beatriz Villarroel                             -> Beatriz Villarroel  [person C, exact]
-  Ben Rich                                       -> Ben R. Rich  [person B, candidate within node]
-  Bigelow Aerospace                              -> Bigelow Aerospace  [institution A, exact]
+  Battelle                                       -> Battelle Memorial Institute  [institution A, alias]
+  Battelle Memorial Institute                    -> Battelle Memorial Institute  [institution A, alias]
+  BDM International                              -> BDM International, Inc.  [institution C, alias]
+  Beatriz Villarroel                             -> Beatriz Villarroel  [person C, alias]
+  Ben Rich                                       -> Ben R. Rich  [person B, alias]
+  Bigelow Aerospace                              -> Bigelow Aerospace  [institution A, alias]
   Bigelow Aerospace Advanced Space Studies       -> Bigelow Aerospace Advanced Space Studies (BAASS), LLC  [institution A, candidate within node]
   Black Vault                                    -> The Black Vault  [institution C, exact]
   Blue Book                                      -> Project Blue Book  [program A, exact]
   Blue Origin                                    -> AARO/DHS release: History and Origin of KONA BLUE  [document B, candidate within node]
-  Boeing                                         -> The Boeing Company  [institution B, exact]
-  Booz Allen Hamilton                            -> Booz Allen Hamilton  [institution C, exact]
+  Boeing                                         -> The Boeing Company  [institution B, alias]
+  Booz Allen Hamilton                            -> Booz Allen Hamilton  [institution C, alias]
   Brazilian Air Force                            -> United States Air Force  [institution A, node within candidate]
-  Bryce Zabel                                    -> Bryce Zabel  [person C, exact]
+  Bryce Zabel                                    -> Bryce Zabel  [person C, alias]
   Cape Canaveral Air Force Station               -> United States Air Force  [institution A, node within candidate]
-  Cecilia Levy                                   -> Cecilia Levy  [person C, exact]
-  Central Intelligence Agency                    -> Central Intelligence Agency  [institution A, exact]
-  Chad Underwood                                 -> Chad Underwood  [person C, exact]
-  Charles Halt                                   -> Charles I. Halt  [person B, candidate within node]
-  Christopher Mellon                             -> Christopher K. Mellon  [person A, candidate within node]
-  Col. John B. Alexander                         -> John B. Alexander  [person C, exact]
-  Colm Kelleher                                  -> Colm A. Kelleher  [person A, exact]
-  Condon Committee                               -> University of Colorado UFO Project (Condon Committee)  [program B, candidate within node]
+  Cecilia Levy                                   -> Cecilia Levy  [person C, alias]
+  Central Intelligence Agency                    -> Central Intelligence Agency  [institution A, alias]
+  Chad Underwood                                 -> Chad Underwood  [person C, alias]
+  Charles Hall                                   -> Charles I. Halt  [person B, one character apart, within node]
+  Charles Halt                                   -> Charles I. Halt  [person B, alias]
+  Christopher Mellon                             -> Christopher K. Mellon  [person A, alias]
+  Chuck Schumer                                  -> Charles E. Schumer  [person B, alias]
+  CIA                                            -> Central Intelligence Agency  [institution A, alias]
+  Col. John B. Alexander                         -> John B. Alexander  [person C, alias]
+  Colm Kelleher                                  -> Colm A. Kelleher  [person A, alias]
+  Condon Committee                               -> University of Colorado UFO Project (Condon Committee)  [program B, alias]
   Craft Using an Inertial Mass Reduction Device  -> US Patent 10,144,532 - Craft using an inertial mass reduction device  [document A, candidate within node]
   Creech Air Force Base                          -> United States Air Force  [institution A, node within candidate]
-  Dan Farah                                      -> Dan Farah  [person C, exact]
-  Daniel Inouye                                  -> Daniel K. Inouye  [person C, candidate within node]
-  Daniel Sheehan                                 -> Daniel P. Sheehan  [person C, candidate within node]
-  David Fravor                                   -> David Fravor  [person B, exact]
-  David Grusch                                   -> David Charles Grusch  [person A, candidate within node]
-  David Spergel                                  -> David N. Spergel  [person B, candidate within node]
-  Defense Intelligence Agency                    -> Defense Intelligence Agency  [institution A, exact]
+  CSETI                                          -> CSETI / The Disclosure Project  [institution C, alias]
+  Dan Farah                                      -> Dan Farah  [person C, alias]
+  Daniel Inouye                                  -> Daniel K. Inouye  [person C, alias]
+  Daniel Sheehan                                 -> Daniel P. Sheehan  [person C, alias]
+  DARPA                                          -> Defense Advanced Research Projects Agency  [institution C, alias]
+  David Fravor                                   -> David Fravor  [person B, alias]
+  David Grusch                                   -> David Charles Grusch  [person A, alias]
+  David Grush                                    -> David Charles Grusch  [person A, one character apart, within node]
+  David Spergel                                  -> David N. Spergel  [person B, alias]
+  Defense Intelligence Agency                    -> Defense Intelligence Agency  [institution A, alias]
   Department of Energy                           -> United States Department of Energy  [institution A, exact]
-  Disclosure Project                             -> The Disclosure Project  [program C, exact]
+  DIA                                            -> Defense Intelligence Agency  [institution A, alias]
+  Disclosure Project                             -> The Disclosure Project  [program C, alias]
+  DoD                                            -> United States Department of Defense (secondary designation: Department of War)  [institution A, alias]
   DoD Inspector General                          -> Elizondo complaint to the DoD Inspector General, May 2021  [document B, candidate within node]
-  Donald Kerr                                    -> Donald M. Kerr  [person B, candidate within node]
-  Donald Trump                                   -> Donald J. Trump  [person B, candidate within node]
-  Dr. Robert Sarbacher                           -> Robert I. Sarbacher  [person B, candidate within node]
-  Dylan Borland                                  -> Dylan Borland  [person A, exact]
-  EarthTech International                        -> EarthTech International / Institute for Advanced Studies at Austin  [institution A, candidate within node]
-  Edward Condon                                  -> Edward U. Condon  [person C, exact]
-  Edward J. Ruppelt                              -> Edward J. Ruppelt  [person B, exact]
-  Edward Ruppelt                                 -> Edward J. Ruppelt  [person B, candidate within node]
-  Edward Teller                                  -> Edward Teller  [person C, exact]
+  DOE                                            -> United States Department of Energy  [institution A, alias]
+  Don Schmitt                                    -> Donald R. Schmitt  [person C, alias]
+  Donald Kerr                                    -> Donald M. Kerr  [person B, alias]
+  Donald Trump                                   -> Donald J. Trump  [person B, alias]
+  Dr. Robert Sarbacher                           -> Robert I. Sarbacher  [person B, alias]
+  Dylan Borland                                  -> Dylan Borland  [person A, alias]
+  EarthTech International                        -> EarthTech International / Institute for Advanced Studies at Austin  [institution A, alias]
+  Ed Dames                                       -> James E. McDonald  [person B, one character apart, within node]
+  Edward Condon                                  -> Edward U. Condon  [person C, alias]
+  Edward J. Ruppelt                              -> Edward J. Ruppelt  [person B, alias]
+  Edward Ruppelt                                 -> Edward J. Ruppelt  [person B, alias]
+  Edward Teller                                  -> Edward Teller  [person C, alias]
+  Edwards AFB                                    -> Edwards Air Force Base, California  [location C, alias]
   Edwards Air Force Base                         -> United States Air Force  [institution A, node within candidate]
   EG&G                                           -> EG&G (Edgerton, Germeshausen and Grier)  [institution B, candidate within node]
   Ellsworth Air Force Base                       -> United States Air Force  [institution A, node within candidate]
-  Eric Burlison                                  -> Eric Burlison  [person A, exact]
-  Eric Davis                                     -> Eric W. Davis  [person A, candidate within node]
-  Eric W. Davis                                  -> Eric W. Davis  [person A, exact]
-  Eric Wang                                      -> Eric H. Wang  [person C, candidate within node]
+  Eric Burlison                                  -> Eric Burlison  [person A, alias]
+  Eric Davis                                     -> Eric W. Davis  [person A, alias]
+  Eric W. Davis                                  -> Eric W. Davis  [person A, alias]
+  Eric Wang                                      -> Eric H. Wang  [person C, alias]
   F-117                                          -> FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO  [legislation B, candidate within node]
   F.E. Warren Air Force Base                     -> United States Air Force  [institution A, node within candidate]
   Fort Meade                                     -> Fort George G. Meade, Maryland  [location C, candidate within node]
   Força Aérea Brasileira                         -> Força Aérea Brasileira / Ministério da Aeronáutica  [institution A, candidate within node]
   Foster Ranch                                   -> Roswell, New Mexico and the Foster Ranch, Lincoln County  [location B, candidate within node]
-  Frank Scully                                   -> Frank Scully  [person C, exact]
-  Galileo Project                                -> The Galileo Project  [program B, exact]
+  Frank Scully                                   -> Frank Scully  [person C, alias]
+  Galileo Project                                -> The Galileo Project  [program B, alias]
   Gary Nolan                                     -> Garry Nolan  [person A, one character apart]
-  George Knapp                                   -> George Knapp  [person A, exact]
-  Gerald Ford                                    -> Gerald R. Ford  [person C, candidate within node]
-  Glenn Gaffney                                  -> Glenn Gaffney  [person C, exact]
-  Grant Cameron                                  -> Grant Cameron  [person C, exact]
-  Grill Flame                                    -> GRILL FLAME  [program C, exact]
-  Groom Lake                                     -> Presidential Determinations on the Air Force's Operating Location Near Groom Lake  [document B, candidate within node]
-  Harry Reid                                     -> Harry M. Reid  [person A, candidate within node]
+  George Knapp                                   -> George Knapp  [person A, alias]
+  Gerald Ford                                    -> Gerald R. Ford  [person C, alias]
+  Glenn Gaffney                                  -> Glenn Gaffney  [person C, alias]
+  Grant Cameron                                  -> Grant Cameron  [person C, alias]
+  Grill Flame                                    -> GRILL FLAME  [program C, alias]
+  Groom Lake                                     -> Groom Lake, Nevada  [location B, alias]
+  Harry Reid                                     -> Harry M. Reid  [person A, alias]
   Hill Air Force Base                            -> United States Air Force  [institution A, node within candidate]
-  History Channel                                -> 'Unidentified: Inside America's UFO Investigation' (History Channel)  [event C, candidate within node]
+  History Channel                                -> 'Unidentified: Inside America's UFO Investigation' (History Channel)  [event C, alias]
   Holloman Air Force Base                        -> United States Air Force  [institution A, node within candidate]
   Homestead Air Force Base                       -> United States Air Force  [institution A, node within candidate]
   Hospital Regional                              -> Hospital Regional de Varginha  [institution C, candidate within node]
-  House Armed Services Committee                 -> House Armed Services Committee  [institution C, exact]
+  House Armed Services Committee                 -> House Armed Services Committee  [institution C, alias]
   House Committee on Oversight                   -> U.S. House Committee on Oversight and Government Reform  [institution B, candidate within node]
-  House Oversight Committee                      -> U.S. House Committee on Oversight and Government Reform  [institution B, candidate within node]
-  Howard C. Cross                                -> Howard C. Cross  [person C, exact]
-  Howard P. Robertson                            -> Howard P. Robertson  [person C, exact]
-  Hoyt Vandenberg                                -> Hoyt S. Vandenberg  [person B, exact]
-  Immaculate Constellation                       -> Immaculate Constellation 12-page report entered into the Congressional Record  [document A, candidate within node]
-  Inspector General of the Intelligence Community -> Inspector General of the Intelligence Community  [institution B, exact]
-  Institute for Defense Analyses                 -> Institute for Defense Analyses  [institution B, exact]
+  House Oversight Committee                      -> U.S. House Committee on Oversight and Government Reform  [institution B, alias]
+  Howard C. Cross                                -> Howard C. Cross  [person C, alias]
+  Howard P. Robertson                            -> Howard P. Robertson  [person C, alias]
+  Hoyt Vandenberg                                -> Hoyt S. Vandenberg  [person B, alias]
+  ICIG                                           -> Inspector General of the Intelligence Community  [institution B, alias]
+  IDA                                            -> Institute for Defense Analyses  [institution B, alias]
+  Immaculate Constellation                       -> Immaculate Constellation disclosure, October-November 2024  [event A, alias]
+  Inspector General of the Intelligence Community -> Inspector General of the Intelligence Community  [institution B, alias]
+  Institute for Defense Analyses                 -> Institute for Defense Analyses  [institution B, alias]
   Institute for Defense Analysis                 -> Institute for Defense Analyses  [institution B, one character apart]
   Intelligence Community Inspector General       -> Inspector General of the Intelligence Community  [institution B, candidate within node]
-  Italo Venturelli                               -> Dr Ítalo Venturelli  [person B, one character apart]
-  J. Allen Hynek                                 -> J. Allen Hynek  [person B, exact]
-  Jacques Vallee                                 -> Jacques F. Vallee  [person B, candidate within node]
-  Jaime Shandera                                 -> Jaime H. Shandera  [person C, candidate within node]
-  Jake Barber                                    -> Jake Barber  [person B, exact]
-  James Clapper                                  -> James R. Clapper Jr.  [person B, candidate within node]
-  James E. McDonald                              -> James E. McDonald  [person B, exact]
-  James Lacatski                                 -> James T. Lacatski  [person A, candidate within node]
-  James McDonald                                 -> James E. McDonald  [person B, candidate within node]
-  Jay Stratton                                   -> Jay Stratton  [person A, exact]
-  Jeremy Corbell                                 -> Jeremy Kenyon Lockyer Corbell  [person C, candidate within node]
-  Jesse Marcel                                   -> Jesse A. Marcel Sr.  [person A, candidate within node]
-  Jesse Marcel Jr.                               -> Dr. Jesse A. Marcel Jr.  [person C, exact]
+  Italo Venturelli                               -> Dr Ítalo Venturelli  [person B, alias]
+  J. Allen Hynek                                 -> J. Allen Hynek  [person B, alias]
+  Jack Reed                                      -> John F. Reed  [person B, alias]
+  Jacques Vallee                                 -> Jacques F. Vallee  [person B, alias]
+  Jaime Shandera                                 -> Jaime H. Shandera  [person C, alias]
+  Jake Barber                                    -> Jake Barber  [person B, alias]
+  James Clapper                                  -> James R. Clapper Jr.  [person B, alias]
+  James E. McDonald                              -> James E. McDonald  [person B, alias]
+  James Lacatski                                 -> James T. Lacatski  [person A, alias]
+  James McDonald                                 -> James E. McDonald  [person B, alias]
+  Jay Stratton                                   -> Jay Stratton  [person A, alias]
+  Jeremy Corbell                                 -> Jeremy Kenyon Lockyer Corbell  [person C, alias]
+  Jesse Marcel                                   -> Jesse A. Marcel Sr.  [person A, alias]
+  Jesse Marcel Jr.                               -> Dr. Jesse A. Marcel Jr.  [person C, alias]
   Jesse Marcel Sr.                               -> Jesse A. Marcel Sr.  [person A, exact]
-  Jesse Michels                                  -> Jesse Michels  [person B, exact]
-  Jim Semivan                                    -> James 'Jim' Semivan  [person C, candidate within node]
+  Jesse Michels                                  -> Jesse Michels  [person B, alias]
+  Jim Penniston                                  -> James W. Penniston  [person C, alias]
+  Jim Semivan                                    -> James 'Jim' Semivan  [person C, alias]
   John Alexander                                 -> John B. Alexander  [person C, candidate within node]
-  John Burroughs                                 -> John Burroughs  [person B, exact]
-  John Greenewald                                -> John Greenewald Jr.  [person B, candidate within node]
-  John Greenewald Jr.                            -> John Greenewald Jr.  [person B, exact]
-  John Podesta                                   -> John D. Podesta  [person C, candidate within node]
+  John Burroughs                                 -> John Burroughs  [person B, alias]
+  John Greenewald                                -> John Greenewald Jr.  [person B, alias]
+  John Greenewald Jr.                            -> John Greenewald Jr.  [person B, alias]
+  John Podesta                                   -> John D. Podesta  [person C, alias]
   Johns Hopkins University                       -> Johns Hopkins University Applied Physics Laboratory  [institution C, candidate within node]
-  Karl Nell                                      -> Karl E. Nell  [person B, candidate within node]
+  Karl Nell                                      -> Karl E. Nell  [person B, alias]
   Katherine Austin Fitts                         -> Catherine Austin Fitts  [person C, one character apart]
-  Kenneth Arnold                                 -> Kenneth Arnold  [person C, exact]
-  Kevin Day                                      -> Kevin Day  [person B, exact]
-  Kevin Knuth                                    -> Kevin H. Knuth  [person C, candidate within node]
-  Kevin Randle                                   -> Kevin D. Randle  [person B, candidate within node]
-  Kirk McConnell                                 -> Kirk McConnell  [person B, exact]
-  Kirsten Gillibrand                             -> Kirsten E. Gillibrand  [person B, candidate within node]
+  Kecksburg                                      -> Kecksburg, Westmoreland County, Pennsylvania  [location C, alias]
+  Kenneth Arnold                                 -> Kenneth Arnold  [person C, alias]
+  Kevin Day                                      -> Kevin Day  [person B, alias]
+  Kevin Knuth                                    -> Kevin H. Knuth  [person C, alias]
+  Kevin Randle                                   -> Kevin D. Randle  [person B, alias]
+  Kirk McConnell                                 -> Kirk McConnell  [person B, alias]
+  Kirsten Gillibrand                             -> Kirsten E. Gillibrand  [person B, alias]
   Kirtland AFB                                   -> AFOSI Kirtland AFB UFO File (1980-1983)  [document B, candidate within node]
   Kirtland Air Force Base                        -> United States Air Force  [institution A, node within candidate]
-  Kit Green                                      -> Christopher C. 'Kit' Green  [person A, candidate within node]
-  Kona Blue                                      -> KONA BLUE  [program A, exact]
+  Kit Green                                      -> Christopher C. 'Kit' Green  [person A, alias]
+  Kona Blue                                      -> KONA BLUE  [program A, alias]
   Langley Air Force Base                         -> Langley Air Force Base / Joint Base Langley-Eustis, Virginia  [location C, candidate within node]
-  Laurance Rockefeller                           -> Laurance S. Rockefeller  [person C, exact]
-  Lauren Boebert                                 -> Lauren Opal Boebert  [person C, candidate within node]
-  Lawrence Livermore National Laboratory         -> Lawrence Livermore National Laboratory  [institution B, exact]
-  Leonard Stringfield                            -> Leonard H. Stringfield  [person C, candidate within node]
-  Leslie Kean                                    -> Leslie Kean  [person B, exact]
-  Lincoln LaPaz                                  -> Lincoln LaPaz  [person C, exact]
-  Linda Moulton Howe                             -> Linda Moulton Howe  [person C, exact]
-  Lockheed Martin                                -> Lockheed Martin Corporation  [institution A, exact]
+  Laurance Rockefeller                           -> Laurance S. Rockefeller  [person C, alias]
+  Lauren Boebert                                 -> Lauren Opal Boebert  [person C, alias]
+  Lawrence Livermore National Laboratory         -> Lawrence Livermore National Laboratory  [institution B, alias]
+  Leonard Stringfield                            -> Leonard H. Stringfield  [person C, alias]
+  Leslie Kean                                    -> Leslie Kean  [person B, alias]
+  Lincoln LaPaz                                  -> Lincoln LaPaz  [person C, alias]
+  Linda Moulton Howe                             -> Linda Moulton Howe  [person C, alias]
+  Lockheed Martin                                -> Lockheed Martin Corporation  [institution A, alias]
   Lockheed Martin Skunk Works                    -> Lockheed Martin Corporation  [institution A, node within candidate]
-  Lockheed Skunk Works                           -> Lockheed Martin Advanced Development Programs (Skunk Works)  [institution B, candidate within node]
+  Lockheed Skunk Works                           -> Lockheed Martin Advanced Development Programs (Skunk Works)  [institution B, alias]
   Loring Air Force Base                          -> United States Air Force  [institution A, node within candidate]
-  Los Alamos                                     -> Los Alamos Green Fireballs Conference  [event B, candidate within node]
-  Los Alamos National Laboratory                 -> Los Alamos National Laboratory  [institution B, exact]
-  Luis Elizondo                                  -> Luis D. Elizondo  [person A, candidate within node]
+  Los Alamos                                     -> Los Alamos, New Mexico  [location B, alias]
+  Los Alamos National Laboratory                 -> Los Alamos National Laboratory  [institution B, alias]
+  Luis Elizondo                                  -> Luis D. Elizondo  [person A, alias]
   MacDill Air Force Base                         -> United States Air Force  [institution A, node within candidate]
   Majestic documents                             -> MJ-12 / Operation Majestic-12 Documents  [document B, candidate within node]
   Malmstrom AFB                                  -> Malmstrom AFB and Minuteman Missile Fields, Montana  [location C, candidate within node]
   Malmstrom Air Force Base                       -> United States Air Force  [institution A, node within candidate]
-  Marco Rubio                                    -> Marco Rubio  [person B, exact]
-  Marik von Rennenkampff                         -> Marik von Rennenkampff  [person C, exact]
+  Marco Rubio                                    -> Marco Rubio  [person B, alias]
+  Marik von Rennenkampff                         -> Marik von Rennenkampff  [person C, alias]
+  Mark Millis                                    -> Marc G. Millis  [person B, one character apart, within node]
+  Matt Gaetz                                     -> Matthew Louis Gaetz II  [person C, alias]
   Michael Schellenberger                         -> Michael Shellenberger  [person B, one character apart]
-  Michael Shellenberger                          -> Michael Shellenberger  [person B, exact]
+  Michael Shellenberger                          -> Michael Shellenberger  [person B, alias]
+  Mike Gallagher                                 -> Michael John Gallagher  [person C, alias]
   Mike Rogers                                    -> Mike D. Rogers  [person C, candidate within node]
-  Mike Rounds                                    -> Mike Rounds  [person B, exact]
+  Mike Rounds                                    -> Mike Rounds  [person B, alias]
+  Mike Turner                                    -> Michael R. Turner  [person B, alias]
   Minot AFB                                      -> Minot AFB incursions, 1966  [event C, candidate within node]
   Minot Air Force Base                           -> United States Air Force  [institution A, node within candidate]
-  MIT Lincoln Laboratory                         -> MIT Lincoln Laboratory  [institution A, exact]
+  MIT Lincoln Laboratory                         -> MIT Lincoln Laboratory  [institution A, alias]
   MITRE                                          -> The MITRE Corporation  [institution A, exact]
-  MITRE Corporation                              -> The MITRE Corporation  [institution A, exact]
+  MITRE Corporation                              -> The MITRE Corporation  [institution A, alias]
   MJ-12                                          -> MJ-12 / Operation Majestic-12 Documents  [document B, candidate within node]
-  MJ-12 documents                                -> MJ-12 / Operation Majestic-12 Documents  [document B, candidate within node]
-  Nancy Mace                                     -> Nancy Ruth Mace  [person A, candidate within node]
-  NASA UAP Independent Study Team                -> NASA UAP Independent Study Team  [program B, exact]
-  Nathan Twining                                 -> Nathan F. Twining  [person B, candidate within node]
-  National Archives                              -> National Archives UAP Records Collection (Record Group 615)  [program B, candidate within node]
-  National Geospatial-Intelligence Agency        -> National Geospatial-Intelligence Agency  [institution C, exact]
+  MJ-12 documents                                -> MJ-12 / Operation Majestic-12 Documents  [document B, alias]
+  MUFON                                          -> Mutual UFO Network (MUFON)  [institution C, alias]
+  Nancy Mace                                     -> Nancy Ruth Mace  [person A, alias]
+  NASA                                           -> National Aeronautics and Space Administration  [institution B, alias]
+  NASA UAP Independent Study Team                -> NASA UAP Independent Study Team  [program B, alias]
+  Nathan Twining                                 -> Nathan F. Twining  [person B, alias]
+  National Archives                              -> National Archives and Records Administration  [institution B, alias]
+  National Geospatial-Intelligence Agency        -> National Geospatial-Intelligence Agency  [institution C, alias]
   National Institute for Discovery Science       -> National Institute for Discovery Science (NIDS)  [program A, candidate within node]
-  National Nuclear Security Administration       -> National Nuclear Security Administration  [institution C, exact]
+  National Nuclear Security Administration       -> National Nuclear Security Administration  [institution C, alias]
   National Press Club                            -> Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026  [event B, candidate within node]
-  National Reconnaissance Office                 -> National Reconnaissance Office  [institution A, exact]
-  National Security Agency                       -> National Security Agency  [institution B, exact]
+  National Reconnaissance Office                 -> National Reconnaissance Office  [institution A, alias]
+  National Security Agency                       -> National Security Agency  [institution B, alias]
   Naval Air Station Patuxent River               -> Naval Air Station Patuxent River, Maryland  [location B, candidate within node]
   Naval Intelligence                             -> Office of Naval Intelligence  [institution B, exact]
   Nellis Air Force Base                          -> United States Air Force  [institution A, node within candidate]
   Nellis Test Range                              -> Nellis Air Force Base and the Nevada Test and Training Range  [location C, candidate within node]
-  Nevada Test Site                               -> Nevada Test Site / Nevada National Security Site  [location C, candidate within node]
-  Northrop Grumman                               -> Northrop Grumman Corporation  [institution B, exact]
-  Oak Ridge National Laboratory                  -> Oak Ridge National Laboratory (UT-Battelle, LLC)  [institution A, candidate within node]
+  Nevada Test Site                               -> Nevada Test Site / Nevada National Security Site  [location C, alias]
+  NGA                                            -> National Geospatial-Intelligence Agency  [institution C, alias]
+  NIDS                                           -> National Institute for Discovery Science (NIDS)  [program A, alias]
+  NNSA                                           -> National Nuclear Security Administration  [institution C, alias]
+  Northrop Grumman                               -> Northrop Grumman Corporation  [institution B, alias]
+  NRO                                            -> National Reconnaissance Office  [institution A, alias]
+  NSA                                            -> National Security Agency  [institution B, alias]
+  Oak Ridge National Laboratory                  -> Oak Ridge National Laboratory (UT-Battelle, LLC)  [institution A, alias]
+  ODNI                                           -> Office of the Director of National Intelligence  [institution A, alias]
   Off World Technologies                         -> Off-World Technologies Division  [program B, candidate within node]
-  Office of Naval Intelligence                   -> Office of Naval Intelligence  [institution B, exact]
+  Office of Naval Intelligence                   -> Office of Naval Intelligence  [institution B, alias]
   Office of Scientific Intelligence              -> DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence  [institution B, candidate within node]
-  Office of the Director of National Intelligence -> Office of the Director of National Intelligence  [institution A, exact]
+  Office of the Director of National Intelligence -> Office of the Director of National Intelligence  [institution A, alias]
   Office of the Inspector General of the Intelligence Community -> Inspector General of the Intelligence Community  [institution B, exact]
   Office of the Secretary of Defense             -> Final Packet Presented to the Deputy Secretary of Defense on the SAP Request  [document B, candidate within node]
   Offutt Air Force Base                          -> United States Air Force  [institution A, node within candidate]
+  ONI                                            -> Office of Naval Intelligence  [institution B, alias]
   Operation Moon Dust                            -> Project MOON DUST  [program A, node within candidate]
   Operation Prato                                -> Operação Prato (Operation Saucer)  [program A, candidate within node]
   Operação Prato                                 -> Operação Prato (Operation Saucer)  [program A, candidate within node]
   Patrick Air Force Base                         -> United States Air Force  [institution A, node within candidate]
   Patuxent River Naval Air Station               -> Naval Air Station Patuxent River, Maryland  [location B, candidate within node]
-  Paul Bennewitz                                 -> Paul Frederick Bennewitz  [person B, candidate within node]
-  Philip Corso                                   -> Philip J. Corso  [person B, candidate within node]
-  Philip J. Corso                                -> Philip J. Corso  [person B, exact]
+  Paul Bennewitz                                 -> Paul Frederick Bennewitz  [person B, alias]
+  Pax River                                      -> Naval Air Station Patuxent River, Maryland  [location B, alias]
+  Pentagon                                       -> The Pentagon, Arlington, Virginia  [location C, alias]
+  Philip Corso                                   -> Philip J. Corso  [person B, alias]
+  Philip J. Corso                                -> Philip J. Corso  [person B, alias]
   Pope Air Force Base                            -> United States Air Force  [institution A, node within candidate]
-  Project Blue Book                              -> Project Blue Book  [program A, exact]
-  Project Sign                                   -> Project SIGN  [program B, exact]
+  Project Aquarius                               -> Project AQUARIUS (alleged)  [program C, alias]
+  Project Blue Book                              -> Project Blue Book  [program A, alias]
+  Project Magnet                                 -> Project Magnet (Canada)  [program B, alias]
+  Project Second Story                           -> Project Second Storey (Canada)  [program C, one character apart, within node]
+  Project Sign                                   -> Project SIGN  [program B, alias]
   RAF Bentwaters                                 -> Rendlesham Forest Incident, RAF Woodbridge/Bentwaters  [event A, candidate within node]
-  RAF Woodbridge                                 -> Rendlesham Forest Incident, RAF Woodbridge/Bentwaters  [event A, candidate within node]
-  Ralph Blumenthal                               -> Ralph Blumenthal  [person C, exact]
+  RAF Woodbridge                                 -> RAF Woodbridge / RAF Bentwaters, Suffolk, England  [location B, alias]
+  Ralph Blumenthal                               -> Ralph Blumenthal  [person C, alias]
   RAND                                           -> RAND Corporation  [institution A, exact]
-  RAND Corporation                               -> RAND Corporation  [institution A, exact]
+  RAND Corporation                               -> RAND Corporation  [institution A, alias]
   Randolph Air Force Base                        -> United States Air Force  [institution A, node within candidate]
+  Ray Hyman                                      -> The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin  [document B, one character apart, within node]
+  Raytheon                                       -> Raytheon (RTX Corporation)  [institution C, alias]
   Rendlesham Forest                              -> Rendlesham Forest Incident, RAF Woodbridge/Bentwaters  [event A, candidate within node]
-  Rep. Clay Higgins                              -> Glen Clay Higgins  [person C, candidate within node]
-  Rep. Eric Burlison                             -> Eric Burlison  [person A, exact]
-  Richard Dolan                                  -> Richard M. Dolan  [person C, candidate within node]
-  Richard Doty                                   -> Richard C. Doty  [person B, candidate within node]
-  Rob Jones                                      -> Rob Jones  [person C, exact]
-  Robert Bigelow                                 -> Robert T. Bigelow  [person A, candidate within node]
-  Robert Hastings                                -> Robert L. Hastings  [person B, candidate within node]
-  Robert Low                                     -> Robert J. Low  [person C, candidate within node]
+  Rep. Clay Higgins                              -> Glen Clay Higgins  [person C, alias]
+  Rep. Eric Burlison                             -> Eric Burlison  [person A, alias]
+  Richard Dolan                                  -> Richard M. Dolan  [person C, alias]
+  Richard Doty                                   -> Richard C. Doty  [person B, alias]
+  Rob Jones                                      -> Rob Jones  [person C, alias]
+  Robert Bigelow                                 -> Robert T. Bigelow  [person A, alias]
+  Robert Hastings                                -> Robert L. Hastings  [person B, alias]
+  Robert Low                                     -> Robert J. Low  [person C, alias]
   Robert M. L. Baker                             -> Robert M. L. Baker, Jr.  [person B, candidate within node]
-  Robert Salas                                   -> Capt. Robert L. Salas  [person B, candidate within node]
-  Robert Sarbacher                               -> Robert I. Sarbacher  [person B, candidate within node]
-  Robert Wood                                    -> Robert M. Wood  [person C, candidate within node]
-  Robertson Panel                                -> Robertson Panel  [program A, exact]
+  Robert Salas                                   -> Capt. Robert L. Salas  [person B, alias]
+  Robert Sarbacher                               -> Robert I. Sarbacher  [person B, alias]
+  Robert Wood                                    -> Robert M. Wood  [person C, alias]
+  Robertson Panel                                -> Robertson Panel  [program A, alias]
   Ronald Reagan                                  -> USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)  [event C, candidate within node]
-  Ross Coulthart                                 -> Ross Coulthart  [person B, exact]
-  Roswell                                        -> Roswell  [domain B, exact]
+  Ross Coulthart                                 -> Ross Coulthart  [person B, alias]
+  Roswell                                        -> Roswell, New Mexico and the Foster Ranch, Lincoln County  [location B, alias]
   Roswell New Mexico                             -> GAO/NSIAD-95-187, Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico  [document C, candidate within node]
-  Russell Targ                                   -> Russell Targ  [person C, exact]
-  Ryan Graves                                    -> Ryan Graves  [person A, exact]
-  Ryan Wood                                      -> Ryan S. Wood  [person C, exact]
+  Russell Targ                                   -> Russell Targ  [person C, alias]
+  Ryan Graves                                    -> Ryan Graves  [person A, alias]
+  Ryan Wood                                      -> Ryan S. Wood  [person C, alias]
+  SAIC                                           -> Science Applications International Corporation  [institution C, alias]
   Salvatore Cesar Pais                           -> Salvatore Cezar Pais  [person A, one character apart]
-  Salvatore Cezar Pais                           -> Salvatore Cezar Pais  [person A, exact]
-  Sandia National Laboratories                   -> Sandia National Laboratories  [institution A, exact]
+  Salvatore Cezar Pais                           -> Salvatore Cezar Pais  [person A, alias]
+  Sandia National Laboratories                   -> Sandia National Laboratories  [institution A, alias]
+  SAPOC                                          -> Special Access Program Oversight Committee (SAPOC)  [institution B, alias]
   Schriever Air Force Base                       -> United States Air Force  [institution A, node within candidate]
   Schumer Amendment                              -> S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)  [document B, candidate within node]
-  Science Applications International Corporation -> Science Applications International Corporation  [institution C, exact]
+  Science Applications International Corporation -> Science Applications International Corporation  [institution C, alias]
   Scientific Reports                             -> Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports  [document C, candidate within node]
-  Sean Kirkpatrick                               -> Sean M. Kirkpatrick  [person A, candidate within node]
-  Sen. Kirsten Gillibrand                        -> Kirsten E. Gillibrand  [person B, candidate within node]
-  Sen. Martin Heinrich                           -> Martin T. Heinrich  [person B, candidate within node]
-  Senate Armed Services Committee                -> Senate Armed Services Committee  [institution B, exact]
+  Sean Kirkpatrick                               -> Sean M. Kirkpatrick  [person A, alias]
+  Sen. Chuck Schumer                             -> Charles E. Schumer  [person B, alias]
+  Sen. Kirsten Gillibrand                        -> Kirsten E. Gillibrand  [person B, alias]
+  Sen. Martin Heinrich                           -> Martin T. Heinrich  [person B, alias]
+  Senate Armed Services Committee                -> Senate Armed Services Committee  [institution B, alias]
   Senate Intelligence Committee                  -> Senate Select Committee on Intelligence  [institution B, candidate within node]
-  Senate Select Committee on Intelligence        -> Senate Select Committee on Intelligence  [institution B, exact]
+  Senate Select Committee on Intelligence        -> Senate Select Committee on Intelligence  [institution B, alias]
   Skinwalker Ranch                               -> Skinwalker Ranch, Uintah Basin, Utah  [location A, candidate within node]
-  Skunk Works                                    -> Lockheed Martin Advanced Development Programs (Skunk Works)  [institution B, candidate within node]
-  Skywatcher                                     -> Skywatcher  [institution C, exact]
+  Skunk Works                                    -> Lockheed Martin Advanced Development Programs (Skunk Works)  [institution B, alias]
+  Skywatcher                                     -> Skywatcher  [institution C, alias]
   Space Force                                    -> Vandenberg Space Force Base, California  [location B, candidate within node]
   Special Access Program Oversight Committee     -> Special Access Program Oversight Committee (SAPOC)  [institution B, candidate within node]
-  SRI International                              -> SRI International (Stanford Research Institute)  [institution B, candidate within node]
-  Stan Gordon                                    -> Stan Gordon  [person C, exact]
-  Stanford Research Institute                    -> SRI International (Stanford Research Institute)  [institution B, candidate within node]
-  Stanton Friedman                               -> Stanton T. Friedman  [person B, candidate within node]
-  Steve Justice                                  -> Steve Justice  [person B, exact]
-  Steven Greer                                   -> Steven M. Greer  [person C, candidate within node]
-  Steven Schiff                                  -> Steven H. Schiff  [person B, candidate within node]
-  Susan Gough                                    -> Susan Gough  [person A, exact]
-  The Black Vault                                -> The Black Vault  [institution C, exact]
-  Thomas Monheim                                 -> Thomas A. Monheim  [person C, exact]
-  Thomas Townsend Brown                          -> Thomas Townsend Brown  [person A, exact]
-  Thomas Wilson                                  -> Thomas R. Wilson  [person C, candidate within node]
-  Thunder Scientific                             -> Thunder Scientific Corporation  [institution C, exact]
+  SRI                                            -> SRI International, Menlo Park, California  [location C, alias]
+  SRI International                              -> SRI International (Stanford Research Institute)  [institution B, alias]
+  Stan Gordon                                    -> Stan Gordon  [person C, alias]
+  Stanford Research Institute                    -> SRI International (Stanford Research Institute)  [institution B, alias]
+  Stanton Friedman                               -> Stanton T. Friedman  [person B, alias]
+  Stargate program                               -> STAR GATE and predecessor remote viewing programs, 1970-1995  [event B, alias]
+  Steve Justice                                  -> Steve Justice  [person B, alias]
+  Steven Greer                                   -> Steven M. Greer  [person C, alias]
+  Steven Schiff                                  -> Steven H. Schiff  [person B, alias]
+  Susan Gough                                    -> Susan Gough  [person A, alias]
+  Ted Stevens                                    -> Theodore F. Stevens  [person C, alias]
+  The Black Vault                                -> The Black Vault  [institution C, alias]
+  Thomas Monheim                                 -> Thomas A. Monheim  [person C, alias]
+  Thomas Townsend Brown                          -> Thomas Townsend Brown  [person A, alias]
+  Thomas Wilson                                  -> Thomas R. Wilson  [person C, alias]
+  Thunder Scientific                             -> Thunder Scientific Corporation  [institution C, alias]
+  Tim Burchett                                   -> Timothy Floyd Burchett  [person A, alias]
+  Tim Gallaudet                                  -> Timothy Gallaudet  [person A, alias]
+  Tim Phillips                                   -> Timothy A. Phillips  [person B, alias]
   To The Stars Academy                           -> CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy  [document A, candidate within node]
   To The Stars Academy of Arts & Science         -> To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)  [institution A, candidate within node]
+  Tom DeLonge                                    -> Thomas Matthew DeLonge  [person C, alias]
   Tonopah Test Range                             -> Tonopah Test Range, Nevada  [location C, candidate within node]
   Townsend Brown                                 -> Thomas Townsend Brown  [person A, candidate within node]
-  Travis Taylor                                  -> Travis S. Taylor  [person C, exact]
-  Tulsi Gabbard                                  -> Tulsi Gabbard  [person C, exact]
+  Travis Taylor                                  -> Travis S. Taylor  [person C, alias]
+  TRW                                            -> Thomas R. Wilson  [person C, alias]
+  Tulsi Gabbard                                  -> Tulsi Gabbard  [person C, alias]
+  Twining memo                                   -> Twining Memorandum: AMC Opinion Concerning "Flying Discs"  [document B, alias]
   UAP Disclosure Act                             -> UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)  [legislation A, candidate within node]
-  UAP Gerb                                       -> 'UAP Gerb' (Sam)  [person A, candidate within node]
-  UAP Science Advisory Council                   -> UAP Science Advisory Council  [institution A, exact]
-  UAP Task Force                                 -> House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'  [event A, candidate within node]
+  UAP Gerb                                       -> 'UAP Gerb' (Sam)  [person A, alias]
+  UAP Science Advisory Council                   -> UAP Science Advisory Council  [institution A, alias]
+  UAP Task Force                                 -> Unidentified Aerial Phenomena Task Force (UAPTF)  [program A, alias]
+  UAP Working Group                              -> SAP Senior Working Group (SSWG)  [institution B, one character apart, within node]
+  UFOs and Nukes                                 -> UFO-Nukes Connection press conference, National Press Club, 27 September 2010  [event C, one character apart, within node]
   Under Secretary of Defense for Intelligence and Security -> Office of the Under Secretary of Defense for Intelligence  [institution B, node within candidate]
   University of Alabama Huntsville               -> Huntsville, Alabama  [location C, node within candidate]
   University of Colorado                         -> University of Colorado UFO Project (Condon Committee)  [program B, candidate within node]
   US Air Force                                   -> United States Air Force  [institution A, exact]
   US Air Force Academy                           -> United States Air Force  [institution A, node within candidate]
   US Air Force Blue Book                         -> Project Blue Book  [program A, node within candidate]
-  US Navy                                        -> United States Navy  [institution C, exact]
+  US Navy                                        -> United States Navy  [institution C, alias]
   US Space Force                                 -> Vandenberg Space Force Base, California  [location B, candidate within node]
+  USAF                                           -> United States Air Force  [institution A, alias]
   USS Nimitz                                     -> USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004  [event A, candidate within node]
-  USS Princeton                                  -> USS Princeton (CG-59)  [institution B, candidate within node]
+  USS Princeton                                  -> USS Princeton (CG-59)  [institution B, alias]
   USS Theodore Roosevelt                         -> USS Theodore Roosevelt Encounters (2014-2015)  [event B, candidate within node]
   Vandenberg AFB                                 -> Vandenberg AFB Incidents (2003-2005)  [event C, candidate within node]
   Vandenberg Air Force Base                      -> United States Air Force  [institution A, node within candidate]
-  Walter Haut                                    -> Walter Haut  [person B, exact]
+  Varginha                                       -> Varginha, Minas Gerais, Brazil  [location C, alias]
+  Walter Haut                                    -> Walter Haut  [person B, alias]
   White Sands Missile Range                      -> White Sands Missile Range, New Mexico  [location C, candidate within node]
-  William Lynn                                   -> William J. Lynn III  [person B, candidate within node]
+  William Lynn                                   -> William J. Lynn III  [person B, alias]
+  Wilson-Davis memo                              -> The Wilson-Davis Notes (16 October 2002)  [document A, alias]
   Wright-Patterson Air Force Base                -> United States Air Force  [institution A, node within candidate]
 
 wrote research/leads/michels-crosscheck.json

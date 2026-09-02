@@ -61,6 +61,38 @@ def load_board():
         return json.load(fh)
 
 
+def aliases(n):
+    """The forms a transcript uses for a node that its label does not.
+
+    On the first Michels pass (2 September 2026) two triage agents independently
+    found 29 false ABSENTs in 474 rows, and every one was the same shape: the
+    board's label is `Central Intelligence Agency` and the speaker said `CIA`;
+    the label is `Charles E. Schumer` and the speaker said `Chuck Schumer`, which
+    is the node's own id with the dash opened out. A false ABSENT is the
+    expensive direction, so each node now answers to its id, to any acronym in
+    parentheses in its label, and to the initials of its label's own words.
+    """
+    out = set()
+    label = n.get("label", "") or ""
+    out.add(norm(label))
+    nid = n.get("id", "") or ""
+    # ids carry a class prefix on this board for locations and domains (l-, d-).
+    nid_words = re.sub(r"^(l|d|p)-", "", nid).replace("-", " ")
+    out.add(norm(nid_words))
+    for par in re.findall(r"\(([^)]{2,40})\)", label):
+        out.add(norm(par))
+    words = [w for w in norm(label).split() if w not in _STOP]
+    if len(words) >= 2:
+        acr = "".join(w[0] for w in words)
+        if len(acr) >= 3:
+            out.add(acr)
+    return {a for a in out if a}
+
+
+def _singular(k):
+    return tuple(w[:-1] if len(w) > 4 and w.endswith("s") else w for w in k)
+
+
 def build_index(board):
     nodes = []
     for n in board["people"] + board["entities"]:
@@ -69,6 +101,7 @@ def build_index(board):
             "label": n.get("label", ""),
             "cls": n.get("cls", ""),
             "tier": n.get("tier", ""),
+            "aliases": aliases(n),
         })
     # Prose corpus: every free-text field a research pass could have written a
     # name into, keyed by node id so a hit can be attributed.
@@ -168,11 +201,16 @@ def match_node(cand, nodes):
         return None
     cs = set(ck)
     best = None
+    cn = norm(cand)
+    cks = _singular(ck)
     for n in nodes:
+        # id, parenthetical acronym, initials: the forms a speaker actually uses
+        if cn in n.get("aliases", ()):
+            return (n, "alias")
         nk = key(n["label"])
         if not nk:
             continue
-        if nk == ck:
+        if nk == ck or _singular(nk) == cks:
             return (n, "exact")
         ns = set(nk)
         # Containment, but only when the shorter side is at least two
@@ -183,6 +221,13 @@ def match_node(cand, nodes):
             best = best or (n, "node within candidate")
         elif near_spelling(ck, nk):
             best = best or (n, "one character apart")
+        elif (len(ck) >= 2 and len(nk) > len(ck) and max(len(w) for w in ck) >= 5
+              and all(any(_ed1(x, y) for y in nk) for x in ck)):
+            # "David Grush" against "David Charles Grusch": every candidate word
+            # is within one edit of some label word, and the label is longer.
+            # Caption spelling plus a middle name, which the plain containment
+            # rule above cannot see and near_spelling refuses on word count.
+            best = best or (n, "one character apart, within node")
     return best
 
 
@@ -310,6 +355,29 @@ def self_test():
     # A node the board certainly has.
     want("Harry M. Reid", "NODE", "a real node label, exact")
     want("Harry Reid", "NODE", "same node without the middle initial")
+    # The acronym and the id-as-words forms, which were the false ABSENTs of the
+    # first Michels pass. Donors chosen at runtime so this cannot rot.
+    acr_donor = next((n for n in nodes if re.search(r"\([A-Z]{3,}\)", n["label"])), None)
+    if acr_donor:
+        want(re.search(r"\(([A-Z]{3,})\)", acr_donor["label"]).group(1), "NODE",
+             "the acronym in parentheses in a real label")
+    else:
+        fails.append("no node label carries a parenthetical acronym -- cannot test the alias channel")
+    id_donor = next((n for n in nodes if n["cls"] == "person" and "-" in n["id"]
+                     and norm(n["id"].replace("-", " ")) != norm(n["label"])), None)
+    if id_donor:
+        want(id_donor["id"].replace("-", " ").title(), "NODE", "a person id with the dash opened out")
+    ini_donor = next((n for n in nodes if n["id"] in ("cia", "dia", "nsa", "nro", "doe")), None)
+    if ini_donor:
+        want(ini_donor["id"].upper(), "NODE", "the initials of a real label")
+    # And the alias rule must not make a bare common word a node.
+    office = classify(["Office"], nodes, prose)[0]
+    if office["verdict"] == "NODE":
+        fails.append("%-42s aliased to a node on a stopword alone (%s)" %
+                     ("Office", office.get("node_label")))
+    # Caption spelling plus a missing middle name must still find the node.
+    if any(n["id"] == "david-grusch" for n in nodes):
+        want("David Grush", "NODE", "caption spelling of a real label with a middle name")
     # Something no source has ever named. Deliberately absurd so a future
     # research pass cannot make this test pass by accident.
     want("Zzyzx Perpetual Motion Consortium", "ABSENT", "invented, must not match")
