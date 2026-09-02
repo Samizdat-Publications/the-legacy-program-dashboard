@@ -1,0 +1,95 @@
+{
+ "domain": "michels-2026-09-02-c",
+ "people": [],
+ "entities": [],
+ "edges": [],
+ "timeline": [],
+ "entityInfo": {},
+ "gaps": [
+  {
+   "id": "gap-hippler-file-context-1967",
+   "text": "The Hippler letter itself IS opened: agent 5 read the five-page NICAP scan at https://www.nicap.org/docs/HipplerLetters.pdf and three Tier 1 claims rest on it. What is NOT OPENED is the file it came out of and the third document in the scan. The 16 January 1967 letter's first page is numbered 114 in the top right and stamped 'JAN 2 3 REC'D', so it is a page out of a larger Air Force or University of Colorado file that nobody has seen. Page 5 of the same scan is a clipping from the Elmira, N.Y. Star-Gazette of Thursday 26 January 1967 quoting Condon on the study; it is legible only in part at that scan resolution and was not transcribed.",
+   "wouldClose": "The University of Colorado UFO Project records, which hold the project's incoming correspondence, and a legible copy of the Star-Gazette of 26 January 1967. A higher-resolution scan of the same NICAP item would close the clipping half on its own."
+  },
+  {
+   "id": "gap-gunston-air-international-2000",
+   "text": "The Bill Gunston article in Air International magazine, 2000, in which Michels says Gunston stated he was very sure Thomas Townsend Brown's work made it into the B-2 stealth bomber, is NOT OPENED. Agent 5 tried three routes: archive.org metadata and full-text search on the magazine title with the author name returned numFound 0, web.archive.org does not reach from this environment at all, and general web search returned only secondary quotation at second hand. The board therefore carries the B-2 attribution only as what Michels said Gunston wrote, at Tier 2. Agent 5 warns that the secondary quotations render Gunston differently from the way Michels renders him on air, which is a reason not to promote the claim until somebody holds the magazine.",
+   "wouldClose": "A copy of the 2000 issue of Air International, a Key Publishing title. This is a library request, not a web fetch."
+  },
+  {
+   "id": "gap-rand-1961-nuclear-test-ban-report",
+   "text": "The 1961 RAND Corporation report Michels names on air as 'Some New Considerations Concerning the Nuclear Test Ban', said to have highlighted the susceptibility of US ICBM re-entry vehicles to high-energy X-rays, is NOT OPENED. rand.org answers 403 to this environment and a search on the exact title returned nothing. If the report exists it would place RAND in this material seven years before the 1968 Kocher draft with which the rand-corporation node's UFO record currently opens.",
+   "wouldClose": "The RAND published-research archive, or a DTIC or NTIS copy of a report of that title. Note the caution recorded with the claim: X-ray vulnerability of re-entry vehicles is ordinary missile-defence analysis, and only the transcript connects it to anything else."
+  },
+  {
+   "id": "gap-compton-fbi-foia-reply-2014",
+   "text": "The April 2014 Freedom of Information Act response letter that Michels says John Greenewald received on Karl T. Compton's records, stating that 'records which may have been responsive to your request were destroyed August 30th, 2006', is NOT OPENED. It is said by the speaker to be published by its requester; it was not located on theblackvault.com in the time available. The robert-sarbacher claim carrying it is therefore Tier 2 on what was said, not Tier 1 on what the letter says.",
+   "wouldClose": "The Black Vault's published copy of the FOIA response, or a fresh request to the FBI for the same records and the destruction certificate."
+  },
+  {
+   "id": "gap-nnsa-foia-reply-2022",
+   "text": "The June 2022 National Nuclear Security Administration FOIA response quoted on air by Michels, reading 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required', is NOT OPENED. No case number, requester or repository is given on air. A second NNSA FOIA response described in a different episode, said to acknowledge responsive records on Starfish Prime era acronyms and to withhold them, carries no identifier of any kind and was not drafted as a claim for that reason.",
+   "wouldClose": "The response letter itself, or a fresh request to NNSA in the same terms. This is a live case and belongs in the FOIA layer as well as in a claim. nnsa.gov answers 403 from this environment."
+  },
+  {
+   "id": "gap-battelle-darpa-n3-release-2020",
+   "text": "Battelle's own 2020 release on its DARPA N3 Phase II team is NOT OPENED. battelle.org answers HTTP 403 with a Cloudflare 'Attention Required' interstitial to curl with a full browser user agent and returns the same 403 to WebFetch. A bot wall is a NOT OPENED, not a guess, and no claim was drafted from the search-result snippet describing the release. The address that was tried, and that a later pass must open rather than cite, is https://www.battelle.org/insights/newsroom/press-release-details/battelle-neuro-team-advances-to-phase-ii-of-darpa-n3-program",
+   "wouldClose": "The release itself, fetched from a route that is not blocked, or the DARPA N3 programme announcement naming the Phase II teams."
+  },
+  {
+   "id": "gap-stargate-air-evaluation-two-phrases",
+   "text": "Two phrases the stargate-program node's narrative carries were NOT FOUND in the 1995 American Institutes for Research evaluation, CIA-RDP96-00791R000200180006-4, which agent 4 opened in full via the archive.org mirror of the CIA reading room. The Ray Hyman phrase 'the overwhelming amount of data generated by the viewers is vague, general, and way off target' does not appear anywhere in the OCR full text, and no dollar figure was found in the file, so the 'roughly $20 million programme' figure is not supported by this document. Neither is sourced to the evaluation in the node's claims, only in its narrative, and neither has been moved onto the document. OCR is not a source: these are reported as not found rather than as absent from the paper record.",
+   "wouldClose": "A page image of Chapter Three, Review 2, for the Hyman phrase, and a budget document or a congressional record for the programme total. cia.gov/readingroom did not reach on 2 September 2026: both the document page and the PDF answer HTTP 302 to https://www.cia.gov/readingroom in an unbounded loop."
+  },
+  {
+   "id": "gap-la-1-los-alamos-primer",
+   "text": "LA-1, the Los Alamos Primer itself, is NOT OPENED. The edward-condon Tier 1 claim about Condon's role rests on Los Alamos National Laboratory's own published account of the document, which says Condon transcribed Robert Serber's April 1943 lectures and compiled them into LA-1, and not on LA-1's own title page. fas.org and sgp.fas.org returned HTTP 202 with a zero-byte body to curl for the PDF and WebFetch received empty content from the same URL, which is a challenge page rather than a document.",
+   "wouldClose": "A copy of LA-1 from a route that serves the file, or the declassified 1965 release from a Department of Energy repository."
+  },
+  {
+   "id": "gap-brown-1943-fbi-radar-document",
+   "text": "The 1942 or 1943 FBI document three Michels episodes say describes Thomas Townsend Brown as knowing more about radar detection than any individual in the US Navy is NOT OPENED, and no identifier for it is given on air. Agent 3 full-text searched the released FBI file the board already cites, FOI/PA# 1496195-000, and the statement is not in it; that finding is carried as a Tier 1 claim. What the released file cannot establish is that no such document exists somewhere else, and the transcript's file and the released file may not be the same file.",
+   "wouldClose": "A named FBI file number for a 1942 or 1943 document on Brown, or a further FOIA request against the same subject. archive.org/download/tt-brown/...djvu.txt full-text searches the released file in one request and is the cheapest first test on any Brown row."
+  },
+  {
+   "id": "gap-low-handwritten-emp-note",
+   "text": "The handwritten note by Robert J. Low that Robert Salas says he holds, recording that Low had spoken to Lt Col Robert Hippler and that the Air Force thought EMP from nuclear testing caused the Malmstrom shutdowns, is NOT OPENED. Salas says twice on air 'I've got it in writing'. It is not published. It must not be merged with the 9 August 1966 Low trick memo the board already carries, nor with the typed Low to Hippler letter of 27 January 1967 that agent 5 opened: that one is typed and about the terms of the study, this one is handwritten and about Malmstrom.",
+   "wouldClose": "Salas's own copy, or the University of Colorado UFO Project records."
+  },
+  {
+   "id": "gap-craig-chase-interview-1967",
+   "text": "The transcript of Roy Craig's interview of Lt. Col. Lewis D. Chase at Malmstrom Air Force Base on 19 October 1967, which Robert Salas read from on air and says he holds on audio tape, is NOT OPENED. The condon-committee node carries the Colorado project's report and its contract and not this interview, and on Salas's account the interview is where Chase denies a connection he had earlier confirmed in writing.",
+   "wouldClose": "The University of Colorado UFO Project records, which hold Craig's field interviews, or Salas's tape."
+  },
+  {
+   "id": "gap-sarbacher-steinman-1987-letters",
+   "text": "NOT REACHED across three passes: the 1987 letters from Robert Sarbacher to William Steinman said to name Vannevar Bush and John von Neumann (corpus batch 14), and the 'Harvard Undersea Observatory' detail attributed to Sarbacher in a Ryan Graves episode (batch 03). Both need episodes no agent opened. Agent 5 records these as the oldest open sub-items in section C, passed over by two agents.",
+   "wouldClose": "The two episodes at the timestamps the triage rows name, and then whatever they name. The letters themselves, if they exist, are in Steinman's papers."
+  },
+  {
+   "id": "gap-doe-nv-209-harry-shot",
+   "text": "The date and yield of the nuclear shot named HARRY, stated on air in connection with Eric Wang and the Kingman account, are NOT OPENED and are not corroborated by the DTIC report the eric-wang node already cites: agent 2 opened DTIC AD0460283 in full and it contains no mention of a shot named HARRY. DOE/NV-209, 'United States Nuclear Tests July 1945 through September 1992', would settle both in one line. nnsa.gov answers 403 from this environment and osti.gov/opennet/search returned 404 for the query tried.",
+   "wouldClose": "DOE/NV-209 from a Department of Energy repository that serves it."
+  },
+  {
+   "id": "gap-fugal-kirkpatrick-2018-photograph",
+   "text": "The photograph Brandon Fugal says he published to Twitter, LinkedIn, Instagram and Facebook showing Sean Kirkpatrick in attendance at an April 2018 Skinwalker Ranch briefing is NOT OPENED. Fugal names four platforms and no post. The sean-kirkpatrick claim therefore states what he said, not that the briefing happened, and the Kirkpatrick denial it answers is likewise carried only as Fugal's characterisation of it.",
+   "wouldClose": "The post itself, with its date, on any of the four platforms. That is the only thing that would move this claim to Tier 1."
+  },
+  {
+   "id": "gap-aviation-week-1954-lapaz",
+   "text": "The Aviation Week and Space Technology issue of 23 August 1954, said on air to carry a statement from Lincoln LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids, is NOT OPENED. The date and the wording are the speaker's and not the record's. The issue is named in the claim so a later pass can pull it.",
+   "wouldClose": "The bound volume or a microfilm copy of Aviation Week for 23 August 1954."
+  },
+  {
+   "id": "gap-bahnson-diaries",
+   "text": "The Agnew Bahnson diaries, said on air to record that Bahnson had been told to get in touch with Thomas Townsend Brown because he wanted to build a spaceship, are NOT OPENED. No diary, archive or repository is named on air and the caption spells Bahnson 'Bonson'. The UNC Physics and Astronomy department history that agent 3 opened names Bahnson as the Institute of Field Physics's primary funder, which is the only part of this that any record supports.",
+   "wouldClose": "A finding aid for Bahnson's papers. The UNC connection is the obvious first place to ask."
+  },
+  {
+   "id": "gap-burlison-ffrdc-letters-rand-ida",
+   "text": "Letters from Rep. Eric Burlison's office to RAND or to the Institute for Defense Analyses are NOT DOCUMENTED and must not be asserted. Agent 6 opened burlison.house.gov/media/press-releases and it lists no release naming RAND, Aerospace Corporation or IDA; the four UAP releases on that page are the NDA directive memorandum of 1 August 2026, the NDA directive statement of 29 July 2026, the disclosure-framework amendment of 22 July 2026, and an 8 July 2026 press release on CIA and FBI records for the 1996 Brazil incident. IDA is named in the episode by Michels as historical context for Harald Malmgren, not by Burlison as a body he has written to.",
+   "wouldClose": "The letters themselves, or a committee correspondence log. burlison.house.gov answers WebFetch but its press-release index returns only the most recent page, so older correspondence has to be reached another way."
+  }
+ ]
+}
