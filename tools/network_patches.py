@@ -241,7 +241,19 @@ def apply(s, must_replace, model=None):
         "      ctx.restore();\n"
         "    }\n"
         "    ctx.restore();\n"
+        "    /* THE LABEL PASS DRAWS IN CSS PIXELS AND MUST SAY SO. The restore above\n"
+        "       undoes ctx.scale(dpr,dpr) along with the camera, so until 2 September\n"
+        "       2026 the pass drew at device-pixel coordinates: right at dpr 1, and on\n"
+        "       every Windows screen at 125 or 150 percent the names landed up and to\n"
+        "       the left of their marks by a factor of 1/dpr, drifting further the\n"
+        "       further a node sat from the top-left corner. Stewart reported it three\n"
+        "       times as the labels never landing on anything. The runtime check ran\n"
+        "       at dpr 1 and could not see it; it now also runs at dpr 2, and\n"
+        "       __LABEL_NO_DPR puts the bug back for that check's poison. */\n"
+        "    ctx.save();\n"
+        "    if (!(typeof window !== 'undefined' && window.__LABEL_NO_DPR)) ctx.scale(dpr, dpr);\n"
         "    drawLabelPass(ctx, cand, W, H);\n"
+        "    ctx.restore();\n"
         "    lastMarks = marks;",
         "network: the node pass collects labels and hands them to the space pass",
         1); ok &= o
