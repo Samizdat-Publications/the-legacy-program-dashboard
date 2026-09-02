@@ -346,7 +346,10 @@ def link_sweep(board, host=None):
         # 2KB costs about what a HEAD costs and answers the question the reader cares
         # about: does following this link reach the page.
         r = subprocess.run(
-            ["curl", "-sSL", "-o", "/dev/null", "-w", "%{http_code}", "-r", "0-2047",
+            # os.devnull, not "/dev/null": native Windows curl cannot open the
+            # latter, and this sweep is deliberately kept out of CI so a person
+            # runs it -- from PowerShell, on the one machine where that path fails.
+            ["curl", "-sSL", "-o", os.devnull, "-w", "%{http_code}", "-r", "0-2047",
              "--max-time", "25", "-A", UA, u],
             capture_output=True, text=True)
         if r.returncode != 0:

@@ -14,7 +14,16 @@ tools/.spot-cache/
 # Cloudflare Pages output, rebuilt by tools/build_site.py from dist/
 site/
 worker/node_modules/
-worker/.wrangler/
+# wrangler's cache, at any depth: it holds the account id and the account
+# email, and a `git add -A` was one keystroke from committing the copies at
+# the root and under dist/ (found 1 September 2026).
+**/.wrangler/
+
+# Claude Code per-machine permission settings. Personal, never shared.
+.claude/settings.local.json
+
+# Local logs from long-running tools (transcription runs, gate runs).
+dist/*.log
 
 # YouTube transcript cache. A working file, like tools/.spot-cache/.
 # Somebody else's words: fetched, read, and never published.

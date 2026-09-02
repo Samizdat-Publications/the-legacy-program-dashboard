@@ -1,0 +1,9 @@
+{
+  "name": "the-legacy-program-dashboard-tools",
+  "private": true,
+  "description": "Local tooling for the gate. The board itself has no dependencies; these are for the browser checks (tools/*.js) and for serving dist/ over HTTP. CI installs its own pinned copy in .github/workflows/gate.yml.",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "playwright": "^1.62.1"
+  }
+}

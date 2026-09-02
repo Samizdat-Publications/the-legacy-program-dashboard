@@ -642,7 +642,7 @@ INTERESTED_PARTY_PAT = re.compile(
 # is exactly what Tier 1 is for.
 ATTRIBUTION_PAT = re.compile(
     r"\b(denie[ds]|denial|declined|stated|states|said|asserts?|asserted|claims|"
-    r"claimed|announced|acknowledg|concluded|reported that|wrote|testified|"
+    r"claimed|announced|acknowledg\w*|concluded|reported that|wrote|testified|"
     r"responded|maintains?|characteri[sz]ed|"
     r"attributes?|attributed|credits?|credited|lists?|listed|identifies|identified|"
     r"names|named|reads|contains?|describes?|described|prints?|printed|publishes|"
@@ -779,6 +779,83 @@ def remediate_edge_tiers(edges):
                                "note": (e.get("note") or "")[:110],
                                "sources": [s.get("url") or s.get("name") or ""
                                            for s in e.get("sources") or []]})
+    return edge_demotions
+
+
+# Attribution verbs that read naturally in an EDGE note and not in a claim. The
+# claims list is speech verbs; an edge note about a memorandum says the memorandum
+# "establishes", "disestablished", "directed", "transmitted". Kept separate so the
+# claims rule does not widen by accident.
+EDGE_ATTRIBUTION_PAT = re.compile(
+    r"\b(disclosed|confirm(?:s|ed|ing)?|refers|treats|conclude[sd]|establishe[sd]|disestablished|"
+    r"directed|signed|transmitted|links?|carries|attested|rejects|approved|"
+    r"appropriated|issued|told|conducted|commits|places)\b|"
+    r"own words|'[^']{12,}'", re.I)
+
+
+def _edge_key(e):
+    return (e.get("a"), e.get("b"), e.get("type"))
+
+
+def load_edge_adjudications():
+    """research/_edge_tiers.json: per-edge decisions on the interested-party rule.
+
+    A dict keyed by (a, b, type) -> record. Missing file means no adjudications,
+    which is a valid state; a malformed file is not, and fails the build."""
+    path = os.path.join(RESEARCH, "_edge_tiers.json")
+    if not os.path.exists(path):
+        return {}
+    doc = json.load(open(path, encoding="utf-8"))
+    out = {}
+    for rec in doc.get("edges") or []:
+        k = (rec.get("a"), rec.get("b"), rec.get("type"))
+        if not all(k) or rec.get("tier") not in (1, 2, 3) or not rec.get("why"):
+            sys.exit(f"research/_edge_tiers.json: malformed record {rec!r}")
+        out[k] = rec
+    return out
+
+
+def remediate_interested_party_edges(edges, adjudications):
+    """The AARO/DoD cap, on edges, the way CLAUDE.md section 2 states it.
+
+    Until 1 September 2026 this rule ran on node claims only, and the docstring
+    above says why: a regex misreads an edge note, because an office publishing
+    its own report is a primary record and no verb list says so. That reasoning
+    was right about the regex and wrong about the conclusion. 82 edges sat at
+    Tier 1 with every source on aaro.mil, defense.gov or war.gov and nothing had
+    adjudicated any of them; four of them were the board's own domain-to-domain
+    inferences wearing "documented".
+
+    So: an edge whose EVERY source is an interested-party domain keeps Tier 1 only
+    if its note attributes (the claims verb list plus EDGE_ATTRIBUTION_PAT plus a
+    quoted phrase), or if a person has adjudicated it in research/_edge_tiers.json.
+    Anything else is capped at Tier 2 and lands in EDGE-DEMOTIONS.json. An
+    adjudication can also LOWER a tier, which is how the four inferences became
+    Tier 3. verify.py re-derives this independently."""
+    for e in edges.values():
+        adj = adjudications.get(_edge_key(e))
+        if adj:
+            if e.get("claimTier") != adj["tier"]:
+                edge_demotions.append({"a": e["a"], "b": e["b"], "type": e["type"],
+                                       "why": "adjudicated in research/_edge_tiers.json: "
+                                              + adj["why"][:120],
+                                       "from": e.get("claimTier"), "to": adj["tier"]})
+                e["claimTier"] = adj["tier"]
+            continue
+        if e.get("claimTier") != 1:
+            continue
+        urls = [s.get("url") or "" for s in (e.get("sources") or [])]
+        if not urls or not all(INTERESTED_PARTY_PAT.search(u) for u in urls):
+            continue
+        note = e.get("note") or ""
+        if ATTRIBUTION_PAT.search(note) or EDGE_ATTRIBUTION_PAT.search(note):
+            continue
+        e["claimTier"] = 2
+        edge_demotions.append({"a": e["a"], "b": e["b"], "type": e["type"],
+                               "why": "sourced only to an interested party (AARO/DoD) and "
+                                      "the note does not attribute; adjudicate in "
+                                      "research/_edge_tiers.json to restore",
+                               "note": note[:110], "sources": urls})
     return edge_demotions
 
 
@@ -1102,6 +1179,7 @@ def main():
     hoisted = hoist_claim_urls(people, entities)
     remediate_tiers(people, entities)
     remediate_edge_tiers(edges)
+    remediate_interested_party_edges(edges, load_edge_adjudications())
     problems, deg = integrity(people, entities, edges, timeline)
     today = emit(people, entities, edges, timeline, entity_info, gaps, problems)
 

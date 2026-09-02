@@ -14,11 +14,15 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-08-30-EVENING.md` after this. **It is
-the current one.** It carries the sixteen-node research pass, the YouTube block on the Michels
-transcripts, the Design hand-over including where the screenshots are and what is stale about
-them, and Stewart's live-board backlog. `notes/HANDOFF-2026-08-30.md` is the morning brief it
-supersedes and is still accurate on the map inversion, the patents tab and the FOIA layer.
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-01.md` after this. **It is the
+current one.** It points at `notes/AUDIT-FABLE-2026-09-01.md`, a 27-finding audit of the
+whole repo with the fixes recorded in its section 2a, and at the transcript phase now
+running on Stewart's machine. `notes/HANDOFF-2026-08-30-NIGHT.md` is the one before it and
+is still accurate on the label fix, the OOM fix and the podcast tooling (this paragraph
+pointed at the EVENING handoff for a day after NIGHT was written; the pointer is part of
+the handoff). `notes/HANDOFF-2026-08-30-EVENING.md` carries the sixteen-node research pass
+and the Design hand-over. `notes/HANDOFF-2026-08-30.md` is the morning brief before those
+and is still accurate on the map inversion, the patents tab and the FOIA layer.
 `notes/HANDOFF-2026-08-29-MAPS.md` is the brief those answer and all three of its builds
 are now done. `notes/HANDOFF-2026-08-29.md` is superseded and accurate only on what it lists
 as done.
@@ -93,7 +97,13 @@ say so and leave it out. This rule has no exceptions and no "just for now" case.
 Corollaries that have already cost real time:
 
 - **AARO is not a neutral source.** Claims sourced to `aaro.mil` or `defense.gov` cap at
-  **Tier 2** unless the claim is about *what they said*.
+  **Tier 2** unless the claim is about *what they said*. **This applies to edges too, since
+  1 September 2026.** `merge.py` caps an edge whose every source is an interested-party
+  domain unless its note attributes, and `research/_edge_tiers.json` carries the per-edge
+  decisions a regex cannot make (an office publishing its own report is a primary record;
+  a domain-to-domain inference is Tier 3 however official its citation). A `verify.py`
+  check re-derives the rule. Before that date 82 such edges rendered "Tier 1 - documented"
+  with nothing adjudicating them.
 - **An image URL is a sourcing claim.** `data/l0-images.json` is empty on purpose. A record
   there asserts an image exists at a URL under a licence. That needs verification, not a
   plausible-looking guess.

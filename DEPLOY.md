@@ -23,8 +23,10 @@ six spot-checked new node ids present in the served HTML. A green tick on a depl
 job is not evidence the site changed; fetching the site is.
 
 **Since 30 August 2026 a push to `master` deploys the site by itself**, via
-`.github/workflows/deploy.yml`. The manual route below still works and is still the
-fallback, but you should not need it.
+`.github/workflows/deploy.yml`. **Since 1 September it waits for the gate**: the deploy
+runs when `gate.yml` finishes on `master` and only if it passed, so a red gate no longer
+ships. The manual route below still works and is still the fallback, but you should not
+need it.
 
 It needs two repository secrets, set **once**, in
 **Settings → Secrets and variables → Actions → New repository secret**:
@@ -171,9 +173,15 @@ side**. The client sends only the system prompt and the conversation. This matte
 because the URL is public and the tokens are yours: a proxy that forwarded `model`
 and `max_tokens` from the request body would be an open account.
 
-It is still worth adding a Cloudflare rate-limiting rule on `/api/analyst` in the
-dashboard under Security -> WAF -> Rate limiting rules. Something like 20 requests
-per minute per IP is generous for a human reader and useless to anyone else.
+**The rate limit is in code, since 1 September 2026.** `worker/wrangler.toml` declares
+an `ANALYST_LIMITER` binding at 20 requests per minute per IP, and `src/index.ts`
+answers 429 above it. It is the same infrastructure as a dashboard WAF rule, but it is
+in version control where a reader of the repo can see it exists. The worker also
+answers CORS only to the live board's origin (and a local preview on port 8899), so a
+third-party page can no longer spend the account from its visitors' browsers.
+
+Both need a `npx wrangler deploy` from `worker\` to take effect; the secret survives
+a redeploy.
 
 ## 4. A reader's own key still wins
 

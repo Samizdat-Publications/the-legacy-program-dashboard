@@ -67,6 +67,18 @@ import argparse, functools, html, json, os, re, sys, time, urllib.request, urlli
 # hours; its progress has to be legible while it runs, not after it exits.
 say = functools.partial(print, flush=True)
 
+# On Windows a redirected stdout is cp1252, and an episode title carrying a
+# character outside it (an Area52 title has U+202A, a bidi mark) kills the run
+# with UnicodeEncodeError -- mid-sweep, hours in, on a print statement. Found
+# 1 September 2026 on `--show area52 --list`. Output is for a person to read;
+# a replacement character is fine, a dead run is not.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, "research", ".transcripts")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; the-program/1.0)"}
@@ -247,7 +259,31 @@ def main():
                     help="work backwards through the archive instead of from the top")
     ap.add_argument("--list", action="store_true", help="print the catalogue and stop")
     ap.add_argument("--max-hours", type=float, help="stop starting new episodes after this long")
+    # A 426-episode general-interest feed (Danny Jones) is not worth 1,068 hours of
+    # CPU end to end; the UAP, MK-Ultra and consciousness episodes are. Both
+    # filters apply to --list too, so the selection can be read before it is run.
+    ap.add_argument("--match", help="only episodes whose title matches this regex "
+                                    "(case-insensitive)")
+    ap.add_argument("--select", help="only episodes whose id or exact title is a line "
+                                     "of this file; # starts a comment")
     args = ap.parse_args()
+
+    wanted_ids, wanted_titles = set(), set()
+    if args.select:
+        with open(args.select, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.split("#", 1)[0].strip()
+                if line:
+                    (wanted_ids if re.match(r"^[a-z0-9]+-[0-9a-f]{8}$", line)
+                     else wanted_titles).add(line)
+    match_rx = re.compile(args.match, re.I) if args.match else None
+
+    def selected(e):
+        if match_rx and not match_rx.search(e["title"] or ""):
+            return False
+        if args.select and e["id"] not in wanted_ids and (e["title"] or "").strip() not in wanted_titles:
+            return False
+        return True
 
     if not args.show and not args.feed:
         ap.error("give --show or --feed")
@@ -268,6 +304,16 @@ def main():
     if not eps:
         say("  !! no <item> with an <enclosure> in that feed", file=sys.stderr)
         return 2
+    if args.match or args.select:
+        before = len(eps)
+        eps = [e for e in eps if selected(e)]
+        say("  %d of %d episodes selected by %s" % (
+            len(eps), before, " and ".join(f for f, on in (("--match", args.match),
+                                                          ("--select", args.select)) if on)))
+        if not eps:
+            say("  !! the selection matched nothing; check the regex or the file",
+                file=sys.stderr)
+            return 2
 
     total = sum(secs(e["duration"]) for e in eps)
     say("  %d episodes, %s of audio, %s to %s"
@@ -284,8 +330,10 @@ def main():
     # --list is READ-ONLY and returns before the sweep below, which deletes files.
     if args.list:
         for e in eps:
-            say("  %s  %5s  %-9s %s"
-                  % (e["date"][5:16], hhmm(secs(e["duration"])),
+            # The id is printed so a `--select` file can be written from this
+            # listing; titles are truncated here and would not round-trip.
+            say("  %s  %s  %5s  %-7s %s"
+                  % (e["id"], e["date"][5:16], hhmm(secs(e["duration"])),
                      "cached" if e["id"] in done else "", e["title"][:72]))
         say("\n%d cached, %d to fetch" % (len(done), len(todo)))
         return 0

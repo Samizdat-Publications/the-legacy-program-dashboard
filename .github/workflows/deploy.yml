@@ -25,8 +25,15 @@
 
 name: deploy
 
+# WAITS FOR THE GATE. Until 1 September 2026 this fired on `push` to master in
+# parallel with gate.yml, so a push whose gate went red still deployed -- the
+# header above said "after the gate is green" and nothing enforced it. Now it
+# fires when the gate workflow finishes on master and only proceeds on success.
+# workflow_dispatch is kept for a deliberate re-deploy by hand.
 on:
-  push:
+  workflow_run:
+    workflows: [gate]
+    types: [completed]
     branches: [master]
   workflow_dispatch:
 
@@ -38,11 +45,16 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
 
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
+          # The commit the gate just passed, not whatever master is by now.
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - name: Are the credentials configured?
         id: creds

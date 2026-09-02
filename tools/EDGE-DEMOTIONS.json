@@ -939,5 +939,53 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Walter_Haut"
   ]
+ },
+ {
+  "a": "sean-kirkpatrick",
+  "b": "oak-ridge-national-laboratory",
+  "type": "behavioral",
+  "why": "adjudicated in research/_edge_tiers.json: Kirkpatrick's move to ORNL is an external fact about a third party's employment. AARO's UAP Records page is not the reco",
+  "from": 1,
+  "to": 2
+ },
+ {
+  "a": "d-legal",
+  "b": "d-witness",
+  "type": "behavioral",
+  "why": "adjudicated in research/_edge_tiers.json: A domain-to-domain analytic statement. The DODIG summary is a real document but the edge asserts an inference about how ",
+  "from": 1,
+  "to": 3
+ },
+ {
+  "a": "d-prop",
+  "b": "d-aviators",
+  "type": "research",
+  "why": "adjudicated in research/_edge_tiers.json: Analytic inference about what aviator accounts imply for propulsion hypotheses. Not what the DoD release says.",
+  "from": 1,
+  "to": 3
+ },
+ {
+  "a": "d-signals",
+  "b": "d-aviators",
+  "type": "research",
+  "why": "adjudicated in research/_edge_tiers.json: Analytic inference. The DoD release authenticates the imagery; the edge asserts what multi-sensor corroboration means, w",
+  "from": 1,
+  "to": 3
+ },
+ {
+  "a": "d-ic",
+  "b": "d-intel",
+  "type": "institutional",
+  "why": "adjudicated in research/_edge_tiers.json: A statement about the federated IC structure and its seams. Inference, not a fact the Historical Record Report states.",
+  "from": 1,
+  "to": 3
+ },
+ {
+  "a": "d-aviators",
+  "b": "l-san-diego",
+  "type": "geographic",
+  "why": "adjudicated in research/_edge_tiers.json: The DoD release statement does not name San Diego or the operating area. The geography rests on other sourcing carried o",
+  "from": 1,
+  "to": 2
  }
 ]
