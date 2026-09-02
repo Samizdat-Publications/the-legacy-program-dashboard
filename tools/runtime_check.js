@@ -285,6 +285,73 @@ const check = (c, label, detail = '') => {
           'a published label box has label ink in it',
           `${lab.inked} of ${lab.sampled} sampled boxes carry ink`);
 
+    /* ---- the same binding at a REAL device-pixel ratio ---------------------
+       The check above runs at dpr 1, where a label pass that forgot the dpr
+       scale is indistinguishable from one that remembered it. Stewart's screen
+       is not at dpr 1, and on 2 September 2026 the names sat up and to the
+       left of their marks by 1/dpr. So: a fresh page at deviceScaleFactor 2 and
+       a test that can tell the two apart. Label text is the only near-white
+       ink on the map, so each published box is scored by its near-white pixel
+       count at the box's TRUE device position (box * dpr) and at the position
+       the forgotten scale would have drawn it (box * 1). A correct renderer
+       puts more white in the true box; the bug puts more in the other one.
+       The first cut of this check counted "any light pixel" and passed under
+       the poison 24 of 24, because a hairball has light pixels everywhere.
+       POISON=dpr sets window.__LABEL_NO_DPR, which makes the real renderer skip
+       the scale, and requires the score to invert. */
+    const POIS_D = process.env.POISON === 'dpr';
+    {
+      const ctx2 = await browser.newContext({ viewport: { width: 1600, height: 1000 }, deviceScaleFactor: 2 });
+      const p2 = await ctx2.newPage();
+      await p2.goto(URL, { waitUntil: 'load', timeout: 180000 });
+      await p2.waitForSelector('[data-view="CASES"]', { timeout: 120000 });
+      await p2.waitForTimeout(6000);
+      await p2.evaluate((poison) => { if (poison) window.__LABEL_NO_DPR = true; window.__board.CMD.setView('NETWORK'); }, POIS_D);
+      await p2.waitForTimeout(3500);
+      await p2.evaluate(() => window.__board.MAP.setLabelPointer(null));
+      await p2.waitForTimeout(1200);
+      const hi = await p2.evaluate(() => {
+        const M = window.__board.MAP;
+        const layers = [];
+        for (const c of document.querySelectorAll('canvas')) {
+          if (c.width <= 200) continue;
+          let cx; try { cx = c.getContext('2d'); } catch (e) { cx = null; }
+          if (cx) layers.push({ c, cx, dpr: c.width / c.getBoundingClientRect().width });
+        }
+        const white = (L, x, y, w, h) => {
+          x = Math.max(0, Math.round(x)); y = Math.max(0, Math.round(y));
+          w = Math.min(L.c.width - x, Math.round(w)); h = Math.min(L.c.height - y, Math.round(h));
+          if (w <= 0 || h <= 0) return 0;
+          const d = L.cx.getImageData(x, y, w, h).data;
+          let n = 0;
+          for (let i = 0; i < d.length; i += 4)
+            if (d[i] > 170 && d[i + 1] > 170 && d[i + 2] > 170 && d[i + 3] > 120) n++;
+          return n;
+        };
+        let trueWins = 0, bugWins = 0, sampled = 0;
+        for (const b of M.labelBoxes().slice(0, 24)) {
+          let t = 0, g = 0;
+          for (const L of layers) {
+            t += white(L, b.x * L.dpr, b.y * L.dpr, b.w * L.dpr, b.h * L.dpr);
+            g += white(L, b.x, b.y, b.w, b.h);
+          }
+          sampled++;
+          if (t > g) trueWins++; else if (g > t) bugWins++;
+        }
+        return { dpr: Math.max(...layers.map(L => L.dpr)), drawn: M.labelBoxes().length, sampled, trueWins, bugWins };
+      });
+      await ctx2.close();
+      check(hi.dpr >= 1.9, 'the dpr-2 page really is at dpr 2', 'canvas dpr ' + hi.dpr);
+      const detail = `${hi.trueWins} of ${hi.sampled} boxes hold more label ink at their true position than at the unscaled one, ${hi.bugWins} the reverse, dpr ${hi.dpr}`;
+      if (!POIS_D)
+        check(hi.sampled >= 12 && hi.trueWins >= Math.ceil(hi.sampled * 0.6) && hi.trueWins > hi.bugWins,
+              'label ink lands inside its box at dpr 2', detail);
+      else
+        check(hi.sampled >= 12 && hi.bugWins > hi.trueWins,
+              'the dpr-2 ink check can see a label pass that forgot the scale',
+              detail + ' [POISON=dpr] -- the unscaled position must win');
+    }
+
     /* ---- selecting a node must NAME what it connects to -------------------
        Reported from the live board, 30 August 2026: clicking Tom DeLonge lit his
        edges and labelled nothing at the far end of them. Two causes, both in the

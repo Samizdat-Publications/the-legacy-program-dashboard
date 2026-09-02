@@ -133687,7 +133687,19 @@ function mountNetwork(host){
       ctx.restore();
     }
     ctx.restore();
+    /* THE LABEL PASS DRAWS IN CSS PIXELS AND MUST SAY SO. The restore above
+       undoes ctx.scale(dpr,dpr) along with the camera, so until 2 September
+       2026 the pass drew at device-pixel coordinates: right at dpr 1, and on
+       every Windows screen at 125 or 150 percent the names landed up and to
+       the left of their marks by a factor of 1/dpr, drifting further the
+       further a node sat from the top-left corner. Stewart reported it three
+       times as the labels never landing on anything. The runtime check ran
+       at dpr 1 and could not see it; it now also runs at dpr 2, and
+       __LABEL_NO_DPR puts the bug back for that check's poison. */
+    ctx.save();
+    if (!(typeof window !== 'undefined' && window.__LABEL_NO_DPR)) ctx.scale(dpr, dpr);
     drawLabelPass(ctx, cand, W, H);
+    ctx.restore();
     lastMarks = marks;
 
     frames++;
