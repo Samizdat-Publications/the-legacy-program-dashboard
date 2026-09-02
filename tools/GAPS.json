@@ -856,6 +856,70 @@
   "gap": "SKYWATCHER'S CORPORATE FORM AND FUNDING. The venture associated with Jake Barber has a public website and X presence but no located incorporation record, funding disclosure or personnel roster. Next step: Delaware or state corporate registries, and any SEC Form D filings."
  },
  {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-gise-albuquerque-directorship",
+   "text": "The office the Michels corpus assigns Lawrence P. Gise, Manager of the AEC's Albuquerque Operations Office, is NOT OPENED. Nothing opened places him at ALOO in any role, and DNA 6005F names Hertford as the Manager in 1957. The Official Register series ends with the 1959 volume and cannot reach the 1960s at all, so no record opened for the gise node is dated later than 1959.",
+   "wouldClose": "The AEC Albuquerque Operations Office manager series 1960 to 1968, in NARA RG 326 Albuquerque. cia.gov/readingroom and the OSTI OpenNet search interface are both unreachable from this environment and catalog.archives.gov returned empty content to every form tried."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-puharich-aec-grant",
+   "text": "The $300,000 Atomic Energy Commission grant to Puharich's company Intelectron, described in three Michels lead maps, is NOT OPENED and no route to it was found. Neither patent read for the andrija-puharich node names Intelectron as assignee, and at least one secondary account attributes the same $300,000 to three private New York businessmen rather than to the AEC. Neither version is carried.",
+   "wouldClose": "An AEC contract or grant record for Intelectron. cia.gov/readingroom is 403 from this environment and the OSTI OpenNet search interface returns 404 at every URL tried."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-nicap-dc-incorporation-filing",
+   "text": "The District of Columbia corporate instrument for NICAP is NOT OPENED. The nicap node's incorporation claim rests on NICAP's own statement in The UFO Evidence that it is a non-profit organization incorporated in the District of Columbia in 1956, not on the register.",
+   "wouldClose": "The District of Columbia corporate register. corponline.dcra.dc.gov returns HTTP 522 on every path tried, including /Account.aspx/LogOn, and redirects to boss.dc.gov, which does not carry corporate filings."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-ocrd-foreign-technology-division",
+   "text": "No independent record of a Foreign Technology Division inside the Army's Office of the Chief of Research and Development was opened. It rests on Philip Corso's DA Form 66 alone, which the board already carries. The Army foreign-materiel exploitation body that does appear in the DTIC record is the US Army Foreign Science and Technology Center, whose translated Soviet technical reports run from 1964 onward; whether that centre is the same office renamed, a successor, or unrelated is not asserted. No army-ocrd institution node was built for this reason.",
+   "wouldClose": "NARA RG 319, the OCRD annual historical summaries, or the Army Center of Military History. The Trudeau papers at the US Army Heritage and Education Center are an offline finding aid, and the Army's Military Intelligence Hall of Fame biography at ikn.army.mil returned HTTP 504 twice."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-current-prp-manual",
+   "text": "The current governing Personnel Reliability Program issuances, DoDM 5210.42 and DoDI 5210.42, and the Air Force implementing instruction AFI 91-115, are NOT OPENED. The prp-nuclear-weapon node is dated and worded to the 25 May 1993 directive and must not be read as describing the current manual, including whether the programme is now called Personnel Reliability Assurance.",
+   "wouldClose": "esd.whs.mil, which returned 403 to WebFetch and to curl on the dodm and dodi paths, and static.e-publishing.af.mil, which returned 403 for AFI 91-115."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-dulles-oss-personnel-file-edge",
+   "text": "One drafted edge was dropped in this pass: allen-w-dulles to office-of-strategic-services, type institutional, Tier 1, on the National Archives media alert naming Dulles among the notable OSS personnel files opened on 14 August 2008. The target node does not exist. Candidates row 25 declined to build an Office of Strategic Services node, because NARA's 23,978-name OSS personnel index contains no Thomas T. or Townsend Brown but also lacks Allen Dulles, whom NARA's own release says has a file, so the negative is evidence and not proof. The claim itself is kept on the dulles node at Tier 1; only the edge is dropped.",
+   "wouldClose": "A decision to build an office-of-strategic-services node, at which point the edge follows from the source already recorded."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-eric-wang-stansel",
+   "text": "The corpus material attaching Arthur Stansel to eric-wang, supplying the Kingman claim and the HARRY shot date of 19 May 1953, was not verified by any opened record in this pass. The eric-wang node is left as it stands and no claim, source or edge was added to it.",
+   "wouldClose": "A primary record for the Stansel account. Triage 2, section C1 is where the corpus rows sit."
+  }
+ },
+ {
+  "domain": "michels-2026-09-02",
+  "gap": {
+   "id": "gap-george-trimble-field-physics-funding",
+   "text": "The claim that the Wright Air Development Center funded the Institute of Field Physics, raised in a Michels lead map against george-trimble, was not verified by any opened record in this pass. The Institute of Field Physics is cited as a source on that node and is not itself a node. george-trimble is left as it stands.",
+   "wouldClose": "A Wright Air Development Center contract record or an Institute of Field Physics funding statement. Triage 4, section C is where the corpus row sits."
+  }
+ },
+ {
   "domain": "pais-patents",
   "gap": "The allowance papers for application 15/141,270 have not been obtained. No Notice of Allowability, Examiner's Answer, Reasons for Allowance or issue-fee record for that application is in the file-wrapper set, which stops at the Appeal Brief of 20 August 2018; research/patents/wrapper/MISSING.md lists exactly what to pull. Those papers are the examiner's own account of what reversed a rejection he had twice sustained, and they are the single most informative document still outstanding on this node."
  },

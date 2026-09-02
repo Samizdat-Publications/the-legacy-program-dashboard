@@ -1,0 +1,2823 @@
+{
+ "domain": "michels-2026-09-02",
+ "people": [
+  {
+   "id": "harald-b-malmgren",
+   "label": "Harald B. Malmgren",
+   "cls": "person",
+   "status": "dead",
+   "date": "2025-02-13",
+   "age": null,
+   "loc": "Warrenton, Virginia",
+   "locId": null,
+   "instId": null,
+   "sub": "Deputy Special Representative for Trade Negotiations with the rank of Ambassador, confirmed 8 May 1972",
+   "cluster": "other",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "domains": [
+    "d-nuclear"
+   ],
+   "narrative": "Harald Bernard Malmgren's public service record is entirely open and settles the part of his story that can be settled. The Senate confirmed him on 8 May 1972 as a Deputy Special Representative for Trade Negotiations with the rank of Ambassador, and he died on 13 February 2025. He reaches this board only through a biography written by his daughter Pippa Malmgren and published after his death, which places him at the Institute for Defense Analyses during the Cuban Missile Crisis and says he oversaw missile tests including Bluegill Triple Prime. The Michels corpus corrupts his name five ways and routes a deathbed account through it. The node carries the documented post and the documented death, and grades the rest where it belongs.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-1.md section 3. Status 'dead' rather than 'deceased': the board's renderer switches on 'dead' and prints DECEASED.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Senate confirmed him on 8 May 1972: the clerk 'read the nomination of Harald Bernard Malmgren, of the District of Columbia, to be a Deputy Special Representative for Trade Negotiations, with the rank of Ambassador', and the presiding officer stated 'Without objection, the nomination is considered and confirmed.'",
+     "source": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127, bound edition, https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt13/pdf/GPO-CRECB-1972-pt13-3.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "He died on 13 February 2025. The funeral home's published record reads: 'Harald B. Malmgren death notice and obituary, Thursday February 13, 2025. Joynes Funeral Home, Inc. Warrenton, VA 20188.'",
+     "source": "Joynes Funeral Home, Inc., obituary record published 27 February 2025, https://www.joynesfuneralhome.com/obituary/Harald-Malmgren"
+    },
+    {
+     "tier": 2,
+     "text": "His daughter's published biography states that Robert McNamara brought him from Cornell, that 'He was assigned to The Institute for Defense Analysis and appointed as the joint liaison between The White House National Security Council and the Joint Chiefs just as the Cuban Missile Crisis began', and that he later headed the Economics Group of the Weapons Systems Evaluation Group. No IDA or Defense Department personnel record was opened for any of it.",
+     "source": "Pippa Malmgren, biography of Harald Malmgren, reproduced in 'Dr. Harald Malmgren Passed', Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/"
+    },
+    {
+     "tier": 3,
+     "text": "The Bluegill claim is single-source and posthumous. The same biography says he 'oversaw many missile tests in these roles, including the controversial Blue Gill Triple Prime test which prompted both President Kennedy and Vice President Lyndon Johnson to urgently visit Los Alamos and the Sandia Labs in December 1962'. His name appears zero times in DNA 6040F, the Defense Nuclear Agency's own report on that test series.",
+     "source": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense, 24 February 2025, https://sldinfo.com/2025/02/dr-harald-malmgren-passed/ ; checked against DNA 6040F, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
+     "source": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Congressional Record, Senate, 8 May 1972, pp. 16126-16127 (bound edition, 1972 part 13)",
+     "url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1972-pt13/pdf/GPO-CRECB-1972-pt13-3.pdf",
+     "date": "1972-05-08"
+    },
+    {
+     "name": "Joynes Funeral Home, Inc., obituary record for Harald B. Malmgren",
+     "url": "https://www.joynesfuneralhome.com/obituary/Harald-Malmgren",
+     "date": "2025-02-27"
+    },
+    {
+     "name": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren",
+     "url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
+     "date": "2025-02-24"
+    },
+    {
+     "name": "Remarks at the High School Football Stadium, Los Alamos, New Mexico, 7 December 1962, Public Papers of the Presidents",
+     "url": "https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+     "date": "1962-12-07"
+    }
+   ],
+   "unverified": [
+    "That Malmgren oversaw the Bluegill Triple Prime test. The only source is his daughter's biography, published after his death; his name appears zero times in DNA 6040F.",
+    "That Bluegill Triple Prime caused the Kennedy and Johnson visit to Los Alamos in December 1962. The visit is documented; the causation is asserted by one interested party and no record of a Sandia visit was opened at all.",
+    "His assignment to the Institute for Defense Analyses and the NSC to Joint Chiefs liaison role. No IDA or Defense Department personnel record was opened."
+   ]
+  },
+  {
+   "id": "richard-m-bissell-jr",
+   "label": "Richard M. Bissell Jr.",
+   "cls": "person",
+   "status": "dead",
+   "date": "1955-04-12",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": "cia",
+   "sub": "CIA Special Assistant for Planning and Coordination from 1954; ran the U-2 project and selected Groom Lake",
+   "cluster": "ic",
+   "tier": "B",
+   "C": 1,
+   "A": 3,
+   "D": 1,
+   "domains": [
+    "d-intel",
+    "d-secrecy"
+   ],
+   "narrative": "Richard Bissell is where the documented record of Area 51 begins, and the board's Nevada material has until now had no origin point. The CIA's own History Staff monograph, in its fuller 2013 release, records that Allen Dulles put him in charge of the U-2 project on 26 November 1954; that on 12 April 1955 he flew over Nevada with Osmund Ritland, Kelly Johnson and Tony LeVier and spotted the airstrip at Groom Lake; that on finding it lay outside the AEC's proving ground he asked the Commission to absorb it, which Chairman Lewis Strauss agreed to and Eisenhower approved; and that the strip's map designation was Area 51. The same monograph records that Blue Book investigators checked their UFO reports against the project's flight logs and were not permitted to tell correspondents the cause. Nothing in it touches the deathbed briefing claim the Michels corpus routes through him, and that claim must not travel with this node.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-1.md section 5. The draft left date null; the node's date is set to 12 April 1955, the dated site flight the monograph records, which is this man's key act on the board's subject.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Dulles gave him the U-2 project by hand: 'On 26 November 1954, the day after Thanksgiving, Allen Dulles called his special assistant, Richard Bissell, into his office to tell him that President Eisenhower had just approved a very secret program and that Dulles wanted Bissell to take charge of it.'",
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "He found the site personally and on a dated flight: 'On 12 April 1955 Richard Bissell and Col. Osmund Ritland (the senior Air Force officer on the project staff) flew over Nevada with Kelly Johnson in a small Beechcraft plane piloted by Lockheed's chief test pilot, Tony LeVier. They spotted what appeared to be an airstrip by a salt flat known as Groom Lake, near the northeast corner of the Atomic Energy Commission's (AEC) Nevada Proving Ground.'",
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2"
+    },
+    {
+     "tier": 1,
+     "text": "Area 51 exists because he asked for it: 'Bissell and Miller asked the Atomic Energy Commission to add the Groom Lake area to its real estate holdings in Nevada. AEC Chairman Adm. Lewis Strauss readily agreed, and President Eisenhower also approved the addition of this strip of wasteland, known by its map designation as Area 51, to the Nevada Test Site.'",
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2"
+    },
+    {
+     "tier": 1,
+     "text": "His project staff serviced Blue Book and withheld the answer: 'BLUE BOOK investigators regularly called on the Agency's Project Staff in Washington to check reported UFO sightings against U-2 flight logs. This enabled the investigators to eliminate the majority of the UFO reports, although they could not reveal to the letter writers the true cause of the UFO sightings.'",
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 2, section 'U-2s, UFOs, and Operation BLUE BOOK'"
+    },
+    {
+     "tier": 1,
+     "text": "He came to the Agency as an economist and a Marshall Plan administrator, not an operator: a Yale doctorate in 1939, a full professorship at MIT in 1948, executive officer of the Combined Shipping Adjustment Board in the war and deputy director of the Marshall Plan from 1948 to the end of 1951. 'Bissell joined the Agency in late January 1954.'",
+     "source": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, 2013 release, https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt , chapter 1"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Gregory W. Pedlow and Donald E. Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974, CIA History Staff, approved for release 25 June 2013 (CIA reading room document 0000190094)",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    },
+    {
+     "name": "Same monograph, CIA Center for the Study of Intelligence copy (no text layer)",
+     "url": "https://www.cia.gov/resources/csi/static/CIA-and-U2-Program.pdf",
+     "date": "2026-09-02"
+    }
+   ],
+   "unverified": [
+    "The 1933 Magenta briefing claim two Michels lead maps route through Bissell on a single deathbed account. His name appears 193 times in the CIA monograph and not once in any such context; the claim must not travel with this node."
+   ]
+  },
+  {
+   "id": "bobby-ray-inman",
+   "label": "Adm. Bobby Ray Inman",
+   "cls": "person",
+   "status": "former",
+   "date": "1981-02-03",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": "nsa",
+   "sub": "Director, National Security Agency 1977-1981; Deputy Director of Central Intelligence 1981-1982; Director of SAIC from 1982",
+   "cluster": "other",
+   "tier": "B",
+   "C": 1,
+   "A": 3,
+   "D": 1,
+   "domains": [
+    "d-intel"
+   ],
+   "narrative": "The documented officeholder who joins three institutions the board already carries and nothing currently connects through a person: NSA, CIA and SAIC. He told the Senate Select Committee on Intelligence on 3 February 1981 that he had been Director of Naval Intelligence, Vice Director for Plans, Operations and Support of the Defense Intelligence Agency, and Director of the National Security Agency since 5 July 1977, and he was there to be confirmed as Deputy Director of Central Intelligence. He joined SAIC's board in 1982, the year he retired from the Navy, and from 1990 was also a paid part-time employee of the company advising it on strategic planning while chairing its Executive Committee. He did not head SAIC: the transcript at corpus 12 file 3, 0:19:28 says he did, and SAIC's own 2003 proxy statement names J. R. Beyster as Chairman of the Board, Chief Executive Officer and President. That correction is the finding this node carries. He is on the board for the career, which is a single traceable line from signals intelligence to the deputy directorship of the CIA to the boardroom of the government's most sensitive technical services house. He is not on it for the anecdotes attached to him in the podcast corpus, none of which produced an artefact.",
+   "tierRationale": "The verifier's draft in research/leads/verified-michels-2.md section 10 gave no C, A or D. Reasoned from the opened record: C 1 because no opened record places him near recovered material of any kind; A 3 because Director of NSA, Deputy Director of Central Intelligence and a director of SAIC is the highest access tier this board records; D 1 because his only disclosure act on the record is open testimony at his own confirmation. Status 'former' rather than 'active': every office the opened records give him is one he formerly held, and no death record was opened.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "He gave his own career to the Senate: 'Subsequent assignments included service as the fleet intelligence officer on the staff of the commander, 7th Fleet; attendance at the National War College; executive assistant and senior aide to the Vice Chief of Naval Operations; assistant chief of staff for intelligence to the commander in chief, U.S. Pacific Fleet; Director of Naval Intelligence; and Vice Director for Plans, Operations, and Support of the Defense Intelligence Agency.'",
+     "source": "Nomination of Admiral B.R. Inman, hearing before the Senate Select Committee on Intelligence, 97th Congress 1st session, 3 February 1981, GPO print 74-227 O, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "He dates the NSA directorship himself and states the nomination: 'since July 5, 1977, I have had the pleasure of serving as Director, National Security Agency', and 'I have been nominated by the President to serve as the Deputy Director of Central Intelligence.'",
+     "source": "Nomination of Admiral B.R. Inman, Senate Select Committee on Intelligence, 3 February 1981, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "SAIC's own proxy records the relationship: 'B.R. Inman, age 72, Director, Director since 1982. Admiral Inman, USN (Ret.) joined the Company in 1990 as a part-time employee and, in that capacity, advises the Company on a wide variety of strategic planning issues.' He is listed as Chairperson of the Executive Committee and a member of the Nominating Committee, and received $132,129 of compensation under the part-time employee arrangement in fiscal 2003.",
+     "source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "He did not head SAIC. The same proxy names 'J.R. Beyster, age 78, Chairman of the Board, Chief Executive Officer and President, Director since 1969' and records that Beyster 'founded the Company in 1969 and has served as Chairman of the Board and Chief Executive Officer since that time'. The Michels corpus at corpus 12 file 3, 0:19:28 says Inman headed SAIC; the company's own proxy statement contradicts it.",
+     "source": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The directorship is independently on file as a Section 16 insider report: SEC Form 4 for INMAN, BOBBY R, statement for 10 April 2003, issuer Science Applications International Corporation, with the 'Director' box checked and 'Form filed by One Reporting Person'.",
+     "source": "SEC Form 4, EDGAR accession 0001082875-03-000004, filed 14 April 2003, https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+     "date": "1981-02-03"
+    },
+    {
+     "name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+     "url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+     "date": "2003-05-28"
+    },
+    {
+     "name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+     "url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm",
+     "date": "2003-04-14"
+    }
+   ],
+   "unverified": [
+    "A recorded call in which Inman discussed UFOs with the researcher Bob Oechsler. No recording, transcript or date was opened.",
+    "A cold call in which Inman denied knowledge of Andrija Puharich or Bob Beck. This is a documentary maker's account of his own telephone call and there is no artefact to grade.",
+    "A video in which Inman refers to a National Underwater Reconnaissance Office. The recording was not located in this pass.",
+    "That SAIC moved into psychotronic research and psychotronic weaponry under SDI funding. Not established by anything opened."
+   ]
+  },
+  {
+   "id": "lawrence-p-gise",
+   "label": "Lawrence P. Gise",
+   "cls": "person",
+   "status": "former",
+   "date": "1957-05-01",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": null,
+   "sub": "AEC Division of Military Application Assistant Director 1957; ARPA Assistant Director, Administration 1959",
+   "cluster": "oversight",
+   "tier": "B",
+   "C": 3,
+   "A": 2,
+   "D": 2,
+   "domains": [
+    "d-nuclear",
+    "d-structure",
+    "d-custody"
+   ],
+   "narrative": "A career federal administrator who sat, two years apart, in the Atomic Energy Commission office that owned military nuclear applications and in the Defense Department's own advanced research agency. The Official Register of the United States, a statutory annual list of federal administrative officers, places him in both. He is named across the Michels podcast corpus as the custodian of material said to have been recovered from a 1962 nuclear test; nothing in any record opened for this node reaches 1962, and the Albuquerque post the corpus assigns him was held by another man in the year his own paper is dated.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-3.md section 11. The draft's cluster was 'nuclear', which is not in the board's vocabulary; set to 'oversight', the cluster the Atomic Energy Commission node itself carries. The draft left date null; set to 1 May 1957, the date the Official Register 1957 states its own listing is current to. Status 'former': the offices are documented as held, and no death record was opened.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Official Register of the United States 1957 lists 'Lawrence P. Gise' as 'Assistant Director' of the UNITED STATES ATOMIC ENERGY COMMISSION, DIVISION OF MILITARY APPLICATION, legal residence Va 10th, salary 14,190, at printed page 629. The volume states it lists persons in administrative and supervisory positions 'as of May 1, 1957'.",
+     "source": "Official Register of the United States 1957, US Civil Service Commission, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The Official Register of the United States 1959 lists 'Lawrence P. Gise' as 'Assistant Director, Administration' of the ADVANCED RESEARCH PROJECTS AGENCY under DEPARTMENT OF DEFENSE, legal residence Va 10th, salary 17,500, at printed page 134, under a footnote reading 'Station is Washington, D.C. unless otherwise indicated.' The volume lists positions 'as of May 1, 1959'. The same page lists Roy W. Johnson as Director and William H. Godel as Director, Policy and Planning Division.",
+     "source": "Official Register of the United States 1959, US Civil Service Commission, p.134, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "DNA 6005F, the Defense Nuclear Agency's Nuclear Test Personnel Review volume on Operation PLUMBBOB, cites at reference 153 'Gise, L.P., Ass't Director, DMA. [Memo to: R.F. Hertford, Manager, ALOO, Subject: USAF-AEC Agreement on Use of Lookout Mountain Lab at (29-2)-383, w/encl.] Washington, DC: Atomic Energy Commission, DMA. 04/30/57. 29 pages. AT292383.' Reference 152 cites a further Gise memorandum for the Test Manager, subject 'AEC Unofficial Observers', dated 08/27/57.",
+     "source": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency, references 152 and 153, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The same reference list names the Manager of the Albuquerque Operations Office in 1957 as Hertford, at reference 202, 'Hertford, K., Manager, Albuquerque Operations'. Gise's own 1957 memorandum is addressed to that office from AEC headquarters, not written from it.",
+     "source": "DNA 6005F, PLUMBBOB SERIES 1957, references 153 and 202, https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf"
+    },
+    {
+     "tier": 2,
+     "text": "Four guests across five Michels lead maps describe Gise as head of the AEC's Albuquerque Operations Office and as the man who handed anomalous material from the 1962 Bluegill Triple Prime test to Harald Malmgren. No document number is cited by any speaker for any part of the chain, and no record opened for this node is dated later than 1959.",
+     "source": "michels-corpus-06.md file 04 at 1:16:46; michels-corpus-09.md file 03 at 1:12:28 to 1:15:54; michels-corpus-10.md file 4 at 0:52:53; michels-corpus-15.md file 02 at 0:31:03"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Official Register of the United States 1957, US Civil Service Commission",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+     "date": "1957-05-01"
+    },
+    {
+     "name": "Official Register of the United States 1959, US Civil Service Commission",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf",
+     "date": "1959-05-01"
+    },
+    {
+     "name": "DNA 6005F, PLUMBBOB SERIES 1957, Defense Nuclear Agency",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D15-PURL-gpo222713/pdf/GOVPUB-D15-PURL-gpo222713.pdf",
+     "date": "1981-01-01"
+    }
+   ],
+   "unverified": [
+    "That Gise headed the AEC Albuquerque Operations Office. Nothing opened places him at ALOO in any role, and in 1957 the post was Hertford's.",
+    "That he took custody of Bluegill Triple Prime material in 1962, or briefed Harald Malmgren at Sandia or Los Alamos. Nothing opened for this node is dated later than 1959.",
+    "That he is Jeff Bezos's maternal grandfather. This is in no record read for this node, and it is the element every guest states with most confidence.",
+    "His start and end dates at ARPA. Only the 1 May 1959 snapshot is documented."
+   ]
+  },
+  {
+   "id": "andrija-puharich",
+   "label": "Andrija (Henry K.) Puharich",
+   "cls": "person",
+   "status": "former",
+   "date": "1957-09-06",
+   "age": null,
+   "loc": "Ossining, New York",
+   "locId": null,
+   "instId": null,
+   "sub": "Physician and inventor; patented dental and facial-nerve hearing transmission; Round Table Foundation, Glen Cove, Maine",
+   "cluster": "research",
+   "tier": "C",
+   "C": 1,
+   "A": 2,
+   "D": 2,
+   "domains": [
+    "d-research",
+    "d-consciousness",
+    "d-medical"
+   ],
+   "narrative": "A physician who patented, with Joseph L. Lawrence, a means of producing the sensation of hearing by delivering modulated electrical signals to the nerve endings of a tooth, bypassing the ear entirely. The second patent adds a radio frequency receiver capacitively coupled to that nerve circuit through dental caps. Separately, an FBI memorandum of September 1957 records the Army's Assistant Chief of Staff, Intelligence, taking an interest in his techniques at his private foundation in Maine. He is named across three Michels lead maps as the agency-funded predecessor of the later remote-viewing work; none of that funding is documented by anything opened for this node.",
+   "tierRationale": "A and D carried from the verifier's draft in research/leads/verified-michels-3.md section 13. The draft gave C 4, which is outside the board's 0 to 3 range, so C is reasoned here rather than copied: set to 1, because the three records opened for this node are two personal patents with no assignee and an FBI note of Army interest, none of which places him near possession of recovered material. Status 'former': no death record was opened. The draft's deliberate exclusion of any edge to l-sri, sri-international or stargate-program is preserved.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
+     "source": "US Patent 2,995,633, specification head, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633"
+    },
+    {
+     "tier": 1,
+     "text": "The 1961 patent describes the invention as effecting 'the transmission of sound signals through the dental structure and facial nervous system of the user', and states that 'in its most advantageous and practical form, the device of the invention comprises means, in the form of a dental prosthetic device, for imparting or transmitting to viable nerves of a tooth electrical signals which, when transmitted to the brain, will give rise to sound sensations.'",
+     "source": "US Patent 2,995,633, columns 1 and 2, https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633"
+    },
+    {
+     "tier": 1,
+     "text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, 87 Hawkes Ave., Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
+     "source": "US Patent 3,170,993, specification head and columns 1 and 2, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3170993"
+    },
+    {
+     "tier": 1,
+     "text": "An FBI Office Memorandum from R. R. Roach to A. H. Belmont, dated 6 September 1957, file 62-4036, subject 'EXTRA SENSORY PERCEPTION DEMONSTRATION BY MR. WILLIAM FOOS, AUGUST 8, 1957', records: 'Attached hereto also is a copy of a memorandum furnished by Colonel Downie relative to Dr. Henry K. Puharich, Round Table Foundation, Glen Cove, Maine. While Dr. Puharich's work is not exactly in the field of extra sensory perception, Colonel Downie stated that the Army is interested in determining the possibilities of his techniques.' Colonel Downie is identified in the same memorandum as 'Lieutenant Colonel John Downie, Special Operations Branch, ACSI'. The memorandum was classified CONFIDENTIAL and carries a handwritten declassification annotation dated 16 February 1988.",
+     "source": "FBI Vault release 'Extra-Sensory Perception Part 01 (Final)', PDF pages 13 and 14, https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view"
+    },
+    {
+     "tier": 2,
+     "text": "Three Michels lead maps, from three different guests, describe Puharich as funded across decades by Army, Navy, CIA and Atomic Energy Commission money, including a $300,000 AEC grant to his company Intelectron in the early 1960s. Neither patent read here names Intelectron as assignee, and no AEC grant record was reachable from this environment. The claim is carried here as a claim about what was said, not about what happened.",
+     "source": "michels-corpus-21.md file 21-2 at 0:44:10 and 0:47:45 (Greg Milazzi); further mentions at michels-corpus-23.md file 01 1:57:10 and michels-corpus-25.md file 04 1:22:37"
+    }
+   ],
+   "sources": [
+    {
+     "name": "US Patent 2,995,633, Means for aiding hearing",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+     "date": "1961-08-08"
+    },
+    {
+     "name": "US Patent 3,170,993, Means for aiding hearing by electrical stimulation of the facial nerve system",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3170993",
+     "date": "1965-02-23"
+    },
+    {
+     "name": "FBI Vault, Extra-Sensory Perception Part 01 (Final)",
+     "url": "https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view",
+     "date": "1957-09-06"
+    }
+   ],
+   "unverified": [
+    "An Atomic Energy Commission grant of $300,000 to Intelectron. Not opened; at least one secondary account attributes the same figure to three private New York businessmen instead.",
+    "That Intelectron built the patented device. Neither patent carries an assignee.",
+    "That the CIA and the Navy funded the Round Table Foundation. The FBI memorandum documents Army interest and nothing more.",
+    "The TD-100 designation and its demonstration at the Pentagon. Neither patent read here uses that designation.",
+    "An FBI file on his movements in Israel. The Vault search returns no such release.",
+    "That Puharich is the agency-funded predecessor of SRI and STAR GATE. Not established by anything opened, and no edge is drawn for it."
+   ]
+  },
+  {
+   "id": "arthur-g-trudeau",
+   "label": "Lt. Gen. Arthur G. Trudeau",
+   "cls": "person",
+   "status": "former",
+   "date": "1958-01-18",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": null,
+   "sub": "Chief of Research and Development, Department of the Army, 1958 to 1962",
+   "cluster": "legacy",
+   "tier": "B",
+   "C": 2,
+   "A": 1,
+   "D": 2,
+   "domains": [
+    "d-intel"
+   ],
+   "narrative": "Arthur G. Trudeau held the Army post that sat directly above the office Philip Corso's service record places him in. Two CIA records fix it. Allen Dulles congratulated him on the appointment in January 1958, and in February 1962 Trudeau wrote to Director of Central Intelligence John McCone over his own signature as Lieutenant General, GS, Chief of Research and Development. Corso's DA Form 66 records him as Chief of the Foreign Technology Division, OCRD, from 18 April to 18 July 1962, which falls inside Trudeau's tenure. That is the whole of the documented relationship. No independent record of a Foreign Technology Division inside OCRD was opened, so this node is Trudeau and the office, not the division. The distribution-conduit account attached to Corso is not evidence about Trudeau, and nothing opened for this pass connects him to it.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-4.md section 19. The draft used the entity fields dateStart and dateEnd; on the person shape the single date is set to 18 January 1958, the dated Dulles letter that fixes the appointment. Status 'former': no death record was opened.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
+     "source": "CIA-RDP80M01009A000500610124-1, letter of 18 January 1958, CIA reading room, declassified 14 August 2013, https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1"
+    },
+    {
+     "tier": 1,
+     "text": "He signed his letter of 24 February 1962 to DCI John A. McCone as 'ARTHUR G. TRUDEAU / Lieutenant General, GS / Chief of Research and Development', inviting the Director to a symposium on 'The U. S. Army's Limited-War Mission and Social Science Research' hosted by the Special Operations Research Office of The American University on 26 to 28 March 1962.",
+     "source": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone, 24 February 1962, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9"
+    },
+    {
+     "tier": 1,
+     "text": "McCone's reply of 12 March 1962, reference ER 62-1185/a, is addressed 'Lieut. General Arthur G. Trudeau, Chief of Research and Development, Department of the Army' and declines, designating a representative whose name is withheld from the release.",
+     "source": "CIA-RDP80B01676R003000130017-9, McCone to Trudeau, 12 March 1962, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9"
+    },
+    {
+     "tier": 1,
+     "text": "Corso's own DA Form 66 records 'Chief Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, a period falling entirely inside Trudeau's documented tenure as Chief of Research and Development.",
+     "source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, already carried on this board at philip-corso"
+    },
+    {
+     "tier": 3,
+     "text": "The 'Gen. Arthur S. Trudeau' named in the 1955 FBI material quoted in philip-corso.narrative is most probably this officer. Reasoning: the two primary letters opened here give the middle initial G over his own signature, and no second Army general officer of that surname was found. The discrepancy is unresolved and no record opened here reconciles it.",
+     "source": "Inference from CIA-RDP80B01676R003000130017-9 read against the FBI quotation already on the board, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
+     "date": "1958-01-18"
+    },
+    {
+     "name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
+     "date": "1962-03-12"
+    }
+   ],
+   "unverified": [
+    "The existence and structure of a Foreign Technology Division inside the Office of the Chief of Research and Development. No independent record of it was opened; it rests on Corso's DA Form 66 alone.",
+    "Whether OCRD's Foreign Technology Division and the US Army Foreign Science and Technology Center are the same office renamed. Not asserted here.",
+    "The identity of the 'Gen. Arthur S. Trudeau' of the 1955 FBI material with this officer."
+   ]
+  },
+  {
+   "id": "walter-bedell-smith",
+   "label": "Walter Bedell Smith",
+   "cls": "person",
+   "status": "dead",
+   "date": "1952-12-02",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": "cia",
+   "sub": "Director of Central Intelligence; the DCI who ordered the UFO problem into the intelligence community",
+   "cluster": "ic",
+   "tier": "B",
+   "C": 1,
+   "A": 3,
+   "D": 0,
+   "domains": [
+    "d-intel",
+    "d-denial"
+   ],
+   "affiliations": [
+    "Central Intelligence Agency, Director of Central Intelligence"
+   ],
+   "narrative": "Walter Bedell Smith is the Director of Central Intelligence whose own instruction, on 20 August 1952, turned unidentified flying objects from an Air Force nuisance into an intelligence-community problem with a draft National Security Council directive behind it. Chadwell's memoranda run to him, name him as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and attach a memorandum to the NSC Executive Secretary over his signature block proposing a coordinated research programme. The Agency's own later correspondence states plainly that the Robertson Panel 'was convened at the direction of General Smith'. The board carries the Robertson Panel at 112 occurrences and has one occurrence of his name; he is the office from which it issued. The Michels corpus describes a 1953 Bedell Smith letter proposing psychological warfare; the psychological-warfare document is Chadwell's, dated 2 October 1952, the approval line over Smith's name on the released copy is blank, and Smith's own 2 December 1952 draft proposes research rather than exploitation.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-5.md section 3, draft node A.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Smith personally started the intelligence-community effort. Chadwell's 2 December 1952 memorandum to the DCI opens: 'On 20 August, the DCI, after a briefing by OSI on the above subject, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations.'",
+     "source": "H. Marshall Chadwell, Memorandum for Director of Central Intelligence, subject: Unidentified Flying Objects, 2 December 1952, CIA document C00015340, para. 1, https://archive.org/details/cia-readingroom-document-0005515935"
+    },
+    {
+     "tier": 1,
+     "text": "A memorandum to the National Security Council was drafted over his name proposing research, not exploitation: 'It is my view that this situation has possible implications for our national security which transcend the interests of a single service. A broader, coordinated effort should be initiated to develop a firm scientific understanding of the several phenomena which apparently are involved in these reports, and to assure ourselves that the incidents will not hamper our present efforts in the Cold War or confuse our early warning system in case of an attack.' The typed signature block reads 'Walter B. Smith / Director'.",
+     "source": "Draft Memorandum to the Executive Secretary, National Security Council, subject: Unidentified Flying Objects (Flying Saucers), attached to CIA document C00015340, 2 December 1952, para. 2, https://archive.org/details/cia-readingroom-document-0005515935"
+    },
+    {
+     "tier": 1,
+     "text": "He is named as the approving authority on the recommendation that the DCI take the subject to the Psychological Strategy Board, and on the released copy the approval was never recorded. The 2 October 1952 routing page reads 'ACTION BY APPROVING AUTHORITY: Date: ____ Approved (disapproved): ____ WALTER B. SMITH, Director'; both lines are blank. The recommendation itself is action (b): 'That the DCI discuss this subject with the Psychological Strategy Board. A memorandum to the Director, Psychological Strategy Board, is attached for signature as TAB C.'",
+     "source": "H. Marshall Chadwell, Memorandum to Director of Central Intelligence, subject: Flying Saucers, 2 October 1952, CIA document C00015339, para. 4 and routing page, https://archive.org/details/cia-readingroom-document-0005515933"
+    },
+    {
+     "tier": 1,
+     "text": "The CIA attributed the Robertson Panel to him in writing. Allen W. Dulles, transmitting the panel report on 13 March 1953: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+     "source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chadwell memorandum to the DCI, subject: Flying Saucers, 2 October 1952 (CIA C00015339)",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515933",
+     "date": "1952-10-02"
+    },
+    {
+     "name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935",
+     "date": "1952-12-02"
+    },
+    {
+     "name": "IAC-D-67, Intelligence Advisory Committee: Unidentified Flying Objects, 18 February 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-0000015454",
+     "date": "1953-02-18"
+    },
+    {
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+     "date": "1953-03-13"
+    }
+   ],
+   "unverified": [
+    "A 1953 letter by Bedell Smith proposing the use of the UFO phenomenon for psychological warfare against the USSR. No such document was found: the psychological-warfare text is Chadwell's of 2 October 1952 and Smith's own attached draft of 2 December 1952 proposes a research programme.",
+    "That Paul Mellon saw a German disc in a Czechoslovak hangar with Dulles present. Nothing bearing on this was found in the CIA reading room mirror."
+   ]
+  },
+  {
+   "id": "allen-w-dulles",
+   "label": "Allen W. Dulles",
+   "cls": "person",
+   "status": "dead",
+   "date": "1953-03-13",
+   "age": null,
+   "loc": "Washington, DC",
+   "locId": "l-dc",
+   "instId": "cia",
+   "sub": "Director of Central Intelligence; signed the CIA's distancing letters on the Robertson Panel report",
+   "cluster": "ic",
+   "tier": "B",
+   "C": 1,
+   "A": 3,
+   "D": 1,
+   "domains": [
+    "d-intel",
+    "d-denial"
+   ],
+   "affiliations": [
+    "Central Intelligence Agency, Director of Central Intelligence",
+    "Office of Strategic Services (personnel file, Record Group 226)"
+   ],
+   "narrative": "Allen W. Dulles signed the three letters that closed the Agency's 1952 flying-saucer file. On 13 March 1953, over his name and on Office of the Director paper classified SECRET, the CIA sent the Robertson Panel report to the Secretary of Defense, to the Federal Civil Defense Administration and to the National Security Resources Board, told each that the conclusions pointed to 'certain potential dangers to national security', and then said in the same letter that the Agency did not consider the subject primarily its concern. Those three letters do two things the board needs: they attribute the panel to Bedell Smith in the Agency's own words, and they are a dated, signed instance of the Agency stepping back from a subject it had itself convened a panel on ten weeks earlier. Dulles also has an OSS personnel file, named by the National Archives among the notable files opened in 2008; the board carries no Office of Strategic Services node, so no edge is drawn for it.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-5.md section 3, draft node B.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "On 13 March 1953 Dulles forwarded the Robertson Panel report to three agencies over his own signature, describing it as pointing out 'certain potential dangers to national security which are related to the subject and suggest ways of their elimination.' The three addressees are the Secretary of Defense, the Acting Administrator of the Federal Civil Defense Administration and the Vice Chairman of the National Security Resources Board, which are exactly the three IAC-D-67 had proposed on 18 February 1953.",
+     "source": "Allen W. Dulles, three letters of 13 March 1953, CIA-RDP80B01676R001000160043-9, -044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    },
+    {
+     "tier": 1,
+     "text": "The same letters distance the Agency from the subject in the same breath: 'Although this Agency does not consider problems arising from sightings of \"flying saucers\" primarily its concern, we shall be pleased to assist in any appropriate action that you deem advisable.'",
+     "source": "Allen W. Dulles to the Secretary of Defense, 13 March 1953, SECRET / Security Information, CIA-RDP80B01676R001000160043-9, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9"
+    },
+    {
+     "tier": 1,
+     "text": "The letters attribute the Robertson Panel to his predecessor by name: 'This panel was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee.'",
+     "source": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953, CIA-RDP80B01676R001000160044-8, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8"
+    },
+    {
+     "tier": 1,
+     "text": "Each of the three letters is a rewrite of an earlier version that was withdrawn. A note to the Executive Registry filed with two of them reads: 'Please note that the attached letter ... was not sent out, but was rewritten as of 13 March 1953 (copy attached).' The letters themselves carry the stamp 'REWRITTEN 13 March 1953'.",
+     "source": "Executive Registry notes filed with CIA-RDP80B01676R001000160044-8 and -045-7, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7"
+    },
+    {
+     "tier": 1,
+     "text": "The National Archives names Dulles among the OSS personnel files opened on 14 August 2008: the press office distributed CDs including 'selected files of some of the notable people who served in the OSS, including former CIA directors Allen Dulles and William Casey'.",
+     "source": "National Archives media alert 08-130, 'NARA to Open Official Personnel Files of the OSS', 7 August 2008, https://www.archives.gov/press/press-releases/2008/nr08-130"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+     "date": "1953-03-13"
+    },
+    {
+     "name": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953 (CIA-RDP80B01676R001000160044-8)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+     "date": "1953-03-13"
+    },
+    {
+     "name": "Allen W. Dulles to J. J. Wadsworth, Federal Civil Defense Administration, 13 March 1953 (CIA-RDP80B01676R001000160045-7)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160045-7",
+     "date": "1953-03-13"
+    },
+    {
+     "name": "IAC-D-67, Intelligence Advisory Committee: Unidentified Flying Objects, 18 February 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-0000015454",
+     "date": "1953-02-18"
+    },
+    {
+     "name": "National Archives media alert 08-130, NARA to Open Official Personnel Files of the OSS",
+     "url": "https://www.archives.gov/press/press-releases/2008/nr08-130",
+     "date": "2008-08-07"
+    }
+   ],
+   "unverified": [
+    "That Dulles's published diary shows a meeting with the president on the date of an Eisenhower MJ-12 briefing. Not opened; the Dulles papers at Princeton were not reachable and no date or page is given by the speaker."
+   ]
+  }
+ ],
+ "entities": [
+  {
+   "id": "atomic-energy-commission",
+   "cls": "institution",
+   "label": "Atomic Energy Commission",
+   "cluster": "oversight",
+   "sub": "Civilian atomic authority, 1946-1974; statutory custodian of fissionable material and atomic weapons",
+   "tier": "B",
+   "C": 2,
+   "A": 3,
+   "D": 1,
+   "dateStart": "1946-08-01",
+   "dateEnd": "1974-10-11",
+   "desc": "The Atomic Energy Commission was created by the Atomic Energy Act of 1946 and took statutory title to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and all processes and technical information behind them. It ran the born-secret information regime, under which data in defined categories is classified by operation of statute and declassified only by an affirmative act of the Commission, and it gated every contractor employee's access behind an FBI investigation and a Commission determination. Its Division of Military Application was established in the founding statute and directed by a serving officer of the armed forces. The Energy Reorganization Act of 1974 abolished it and vested its functions in ERDA, from which they passed to the Department of Energy. Four guests across four Michels lead maps place the Commission at a custody point for recovered material; nothing in either statute or in the National Archives record group description says anything about recovered material, and the node carries the statute rather than the testimony.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-1.md section 1.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 9(a), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
+     "source": "Atomic Energy Act of 1946, sec. 2(a)(4)(B), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf ; Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919, sec. 25, https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The Commission was abolished by statute: 'The Atomic Energy Commission is hereby abolished.' Its functions vested in the Administrator of the Energy Research and Development Administration, and the Act took effect 120 days after enactment or on an earlier date the President might prescribe.",
+     "source": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233, secs. 104(a) and 312(a), approved 11 October 1974, https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755 (Ch. 724, S. 1717)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+     "date": "1946-08-01"
+    },
+    {
+     "name": "Atomic Energy Act of 1954, Public Law 83-703, 68 Stat. 919",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+     "date": "1954-08-30"
+    },
+    {
+     "name": "Energy Reorganization Act of 1974, Public Law 93-438, 88 Stat. 1233",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+     "date": "1974-10-11"
+    },
+    {
+     "name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+     "url": "https://www.archives.gov/research/guide-fed-records/groups/326.html",
+     "date": "2026-09-02"
+    }
+   ]
+  },
+  {
+   "id": "bluegill-triple-prime",
+   "cls": "event",
+   "label": "Bluegill Triple Prime",
+   "cluster": "legacy",
+   "sub": "FISHBOWL high-altitude shot, Operation DOMINIC I, Johnston Island, 25 October 1962",
+   "tier": "C",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "dateStart": "1962-10-25",
+   "dateEnd": "1962-10-25",
+   "desc": "Bluegill Triple Prime was the fourth attempt to detonate the BLUEGILL device above Johnston Island, and the first that worked. Three earlier attempts failed: the 2 June 1962 launch was destroyed in flight after tracking was lost, BLUEGILL Prime burned on the pad, and BLUEGILL Double Prime failed on 15 October. The successful shot is recorded by the Defense Nuclear Agency at 25 October 1962, 2359 local, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned to gather data. Four guests across four Michels lead maps attach a recovery story to it, and the record contradicts them in three places at once. The date is 25 October in the report's narrative and in its own Table 1, not 26 October, which is the GMT rendering of the same instant. DNA 6039F, cited for the shot in the candidates row, is Operation ARGUS 1958 and not the FISHBOWL report at all. And the report contains no unidentified object, no recovery, no debris, no RC-135 and no Cobra Ball: what it does carry is the call sign KETTLE, assigned to three KC-135 photographic aircraft, which is the documented origin of the Kettle film names the corpus uses. The node exists to hold the documented event so that the testimony has something dated to hang from.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-1.md section 2.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The shot and its date: 'BLUEGILL Triple Prime (25 October 1962, 2359). The fourth attempt to launch the BLUEGILL device using a Thor missile was successful.'",
+     "source": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, 1 February 1983, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "Its place in the test series, from the report's own summary table: '25 Oct / BLUE GILL / FISHBOWL shot, submegaton, tens of kilometers over Johnston Island', sourced there to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Department of Energy, Nevada Operations Office, January 1980.",
+     "source": "DNA 6040F, Table 1, DOMINIC detonations, 1962, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The force present: 'The Air Force arrayed 22 aircraft for the detonation', with WB-50 and U-2 weather aircraft, Navy P2Vs for surveillance and pod recovery and Marine helicopters, and nine Navy ships positioned to gather scientific data.",
+     "source": "DNA 6040F, narrative for BLUEGILL Triple Prime, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "KETTLE is a DOMINIC aircraft call sign, not a film. The aircraft participation table lists '3 / KC-135 / Kettle / Photographic aircraft' alongside Cognac, Kibosh, Cordova, Caboodle, Abusive, Lambkin, Baxter/Byron, Hewstone and White Spot. The strings 'RC-135' and 'Cobra' do not appear anywhere in the report.",
+     "source": "DNA 6040F, Air Force aircraft participation in DOMINIC, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The report contains nothing of what is attached to this shot. It carries no reference to any unidentified object, unknown craft, anomalous observation, recovery or debris associated with the detonation; its only uses of 'unidentified' are an unidentified number of dosimetry analyses and one unidentified event in a fallout discussion. 'Gise' appears zero times in it, and so does Malmgren's name.",
+     "source": "DNA 6040F, Operation DOMINIC I--1962, full-text search of the report, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "DNA 6039F is not the FISHBOWL report. Its cover and Report Documentation Page both read 'OPERATION ARGUS 1958'. FISHBOWL appears instead in DNA 6040F's own keyword list.",
+     "source": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA122341/DTIC_ADA122341_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency / Kaman Tempo, report date 1 February 1983, DTIC ADA136820",
+     "url": "https://archive.org/details/DTIC_ADA136820",
+     "date": "1983-02-01"
+    },
+    {
+     "name": "OCR full text of DNA 6040F, Operation DOMINIC I--1962",
+     "url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+     "date": "1983-02-01"
+    },
+    {
+     "name": "DNA 6039F, Operation ARGUS 1958, Defense Nuclear Agency, DTIC ADA122341",
+     "url": "https://archive.org/details/DTIC_ADA122341",
+     "date": "1982-04-30"
+    }
+   ]
+  },
+  {
+   "id": "trw-inc",
+   "cls": "institution",
+   "label": "TRW Inc.",
+   "cluster": "contractor",
+   "sub": "Cleveland-based aerospace, defence and automotive prime; acquired BDM 1997, acquired by Northrop Grumman 11 December 2002",
+   "tier": "B",
+   "C": 1,
+   "A": 2,
+   "D": 1,
+   "dateStart": "1994",
+   "dateEnd": "2002-12-11",
+   "desc": "TRW Inc. is the middle link of a chain the board already carries at both ends. In November 1997 it agreed to acquire BDM International through a cash tender offer at $29.50 a share, and BDM deregistered a month later. On 11 December 2002 TRW was itself merged into a Northrop Grumman subsidiary, with TRW surviving as a wholly owned subsidiary; TRW Systems became Northrop Grumman Mission Systems at Reston and TRW Space and Electronics became Northrop Grumman Space Technology at Redondo Beach. EDGAR carries the same transition on the company's own CIK. Until now the board reached from BDM to Northrop Grumman with no node in between, and the edge was an assertion where the filings make it a record. The corpus's further claim, that TRW was the parent of an unnamed FFRDC that ran the programme for about 29 years, is supported by nothing in any filing opened here.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-1.md section 4.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "TRW agreed to acquire BDM in November 1997: 'on November 20, 1997, BDM International, Inc. entered into a Merger Agreement with TRW Inc. and Systems Acquisition Inc., a wholly owned subsidiary of TRW, pursuant to which that subsidiary has commenced a tender offer (the \"Offer\") to purchase all of the outstanding shares of BDM's common stock for a cash price of $29.50 per share.'",
+     "source": "BDM International, Inc., Schedule 14D-9, filed 26 November 1997, CIK 0000870763, https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The Northrop Grumman merger closed on a stated date: 'Pursuant to the merger agreement, on December 11, 2002, Richmond Acquisition Corp. was merged with and into TRW, with TRW surviving the merger as a wholly-owned subsidiary of Northrop Grumman.' The exchange ratio was 0.5357 Northrop shares per TRW share.",
+     "source": "Northrop Grumman Corporation, Form 8-K, earliest event 11 December 2002, Item 2, https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The defence businesses were renamed at once: 'TRW Systems will be renamed Northrop Grumman Mission Systems, with about 15,000 employees and headquartered in Reston, Va. TRW Space & Electronics will be renamed Northrop Grumman Space Technology, which has more than 8,600 employees, based in Redondo Beach, Calif.'",
+     "source": "Northrop Grumman press release, 11 December 2002, filed as Form 425 on 12 December 2002, https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm"
+    },
+    {
+     "tier": 1,
+     "text": "The merger required an antitrust consent: on 11 December 2002 the United States filed a complaint, a proposed final judgment and a stipulation and order against Northrop Grumman and TRW, which the court entered the same day and which became effective on the closing of the merger.",
+     "source": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002, Item 5(b), https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm"
+    },
+    {
+     "tier": 1,
+     "text": "EDGAR carries the transition on the company's own registration: CIK 0000100030 is listed as NORTHROP GRUMMAN SPACE & MISSION SYSTEMS CORP, 'formerly: TRW INC (filings through 2002-12-23)'.",
+     "source": "SEC EDGAR company record, CIK 0000100030, https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC"
+    }
+   ],
+   "sources": [
+    {
+     "name": "BDM International, Inc., Schedule 14D-9, filed 26 November 1997",
+     "url": "https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt",
+     "date": "1997-11-26"
+    },
+    {
+     "name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002 (Item 2, acquisition of TRW)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm",
+     "date": "2002-12-20"
+    },
+    {
+     "name": "Northrop Grumman Corporation, Form 8-K filed 13 December 2002 (consent decree)",
+     "url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004481/d8k.htm",
+     "date": "2002-12-13"
+    },
+    {
+     "name": "Northrop Grumman press release of 11 December 2002, filed as Form 425",
+     "url": "https://www.sec.gov/Archives/edgar/data/100030/000089843002004462/d425.htm",
+     "date": "2002-12-12"
+    },
+    {
+     "name": "SEC EDGAR company record, CIK 0000100030, formerly TRW INC",
+     "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=TRW+INC",
+     "date": "2026-09-02"
+    }
+   ]
+  },
+  {
+   "id": "invention-secrecy-act",
+   "cls": "legislation",
+   "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+   "cluster": "oversight",
+   "sub": "Act of 1 February 1952, ch. 4; renumbered by the Patent Act of 19 July 1952, ch. 950, 66 Stat. 805",
+   "tier": "B",
+   "C": 0,
+   "A": 2,
+   "D": 1,
+   "dateStart": "1952-02-01",
+   "dateEnd": null,
+   "desc": "The statute that lets the United States order an invention kept secret and withhold the patent, including an invention the government does not own and did not fund. It is the instrument the board's PATENTS tab is arguing around, and until now the board named it once in prose and carried no node for it. Its short title, printed in the margin of the Statutes at Large, is the Invention Secrecy Act of 1951, although the Act was approved on 1 February 1952; the familiar 35 U.S.C. 181-188 numbering comes from a different statute five months later, the Patent Act of 19 July 1952. Section 181's second paragraph routes a privately owned application to the Atomic Energy Commission and the Secretary of Defense for inspection before any order issues, which is the point at which the patent record and the weapons establishment touch. Orders run one year and renew annually without limit; the Patent and Trademark Office reported 6,543 in force at the end of fiscal 2025.",
+   "tierRationale": "The verifier's draft in research/leads/verified-michels-2.md section 6 gave no C, A or D. Reasoned from the opened statute: C 0 because the Act holds no material; A 2 because section 181 gives the Atomic Energy Commission and the Secretary of Defense a statutory right to inspect a privately owned application; D 1 because the Act is an instrument of withholding rather than of forcing the record open, and the only public series about its use is the count FAS obtains from the Patent and Trademark Office.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+     "source": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The current codification descends from that Act by way of a second one. The Historical and Revision Notes to 35 U.S.C. 181 read: 'Based on Title 35, U.S.C., 1946 ed., 151 (Feb. 1, 1952, ch. 4, 1, 66 Stat. 3, 4).' The section's source credit is 'July 19, 1952, ch. 950, 66 Stat. 805'.",
+     "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+    },
+    {
+     "tier": 1,
+     "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
+     "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+    },
+    {
+     "tier": 1,
+     "text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
+     "source": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+    },
+    {
+     "tier": 1,
+     "text": "The order count is published annually and is rising. The Federation of American Scientists' table, sourced to the Patent and Trademark Office, records secrecy orders in effect at fiscal year end of 5,976 (FY21), 6,057 (FY22), 6,155 (FY23), 6,471 (FY24) and 6,543 (FY25), with 356 new orders imposed in FY24 against 102 in FY25.",
+     "source": "Invention Secrecy Statistics, FAS Project on Government Secrecy, https://sgp.fas.org/othergov/invention/stats.html"
+    }
+   ],
+   "sources": [
+    {
+     "name": "66 Stat. 3, Act of February 1, 1952, ch. 4 (Public Law 82-256)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+     "date": "1952-02-01"
+    },
+    {
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+     "date": null
+    },
+    {
+     "name": "35 U.S.C. chapter 17, sections 181 to 188",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title35-chapter17&edition=prelim",
+     "date": null
+    },
+    {
+     "name": "Invention Secrecy, FAS Project on Government Secrecy",
+     "url": "https://sgp.fas.org/othergov/invention/index.html",
+     "date": null
+    },
+    {
+     "name": "Invention Secrecy Statistics, FAS Project on Government Secrecy",
+     "url": "https://sgp.fas.org/othergov/invention/stats.html",
+     "date": null
+    }
+   ]
+  },
+  {
+   "id": "prp-nuclear-weapon",
+   "cls": "program",
+   "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+   "cluster": "oversight",
+   "sub": "DoDD 5210.42, 25 May 1993, ASD(C3I); reissues the directive of 6 December 1985",
+   "tier": "C",
+   "C": 1,
+   "A": 2,
+   "D": 0,
+   "dateStart": "1985-12-06",
+   "dateEnd": null,
+   "desc": "The published rule that decides whether a person on a nuclear weapons site keeps his access, and the reason the board can treat 'they were afraid to report' as something other than an anecdote. The directive opened here is the 25 May 1993 edition, distribution unlimited, which reissues an edition of 6 December 1985; the current manual could not be reached from this environment and nothing here should be read as describing it. Its force for this board is not what it says about UFOs, which is nothing, but what it says about who may find a person unreliable and on what evidence: a non-medical certifying official, with access to the individual's medical record without his consent, may act on 'aberrant behavior' or on mood described as unusual happiness, sadness or agitation. Every witness at a nuclear site whose testimony this board carries was subject to a rule of that shape. Two things the corpus attaches to the programme are not in the directive: the duty to report an over-the-counter analgesic, and the figure 167, which is Robert Hastings's count of nuclear-base witnesses rather than a count of PRP personnel.",
+   "tierRationale": "The verifier's draft in research/leads/verified-michels-2.md section 7 gave no C, A or D. Reasoned from the opened directive: C 1 because it governs personnel at nuclear weapons sites, which is adjacent to the board's custody locations but not to any recovered material; A 2 because the directive is itself an access-control regime for nuclear weapons duty; D 0 because it plays no part in forcing the record open and the board's use of it is as a mechanism of silence.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Scope and purpose: the directive applies to 'DoD military and civilian personnel and contractor employees assigned to PRP positions or in training leading to assignment to PRP positions', and exists to 'ensure the highest possible standards of individual reliability in personnel performing duties associated with nuclear weapons and critical components.'",
+     "source": "DoD Directive 5210.42, 25 May 1993, sections A and B, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "Disqualification reaches demeanour, not only conduct. Under 'Poor Attitude or Lack of Motivation' the directive lists 'aberrant attitude (arrogance, inflexibility, or suspiciousness), behavior (impulsiveness, destructiveness, or suicide threats), or mood (unusual happiness, sadness, or agitation).'",
+     "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The medical file is open to the chain without consent: 'medical records may be disclosed to reviewing and certifying officials for this purpose without either a request from, or the consent of, the individuals to whom those records pertain', and the health record is 'marked to reflect assignment of an individual to a PRP position'.",
+     "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The programme runs on self-reporting and peer review. The certifying official's personal interview must inform the individual of 'the individual's responsibility for self-reporting and peer review of factors and situations that could adversely affect job performance or reliability.'",
+     "source": "DoD Directive 5210.42, 25 May 1993, enclosure 4, DTIC AD-A271698, https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt"
+    },
+    {
+     "tier": 2,
+     "text": "Speakers on the American Alchemy corpus describe PRP as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The 167 is Robert Hastings's count of nuclear-base witnesses, not a count of PRP personnel; no opened record supports either the figure or the reporting claim, and the directive contains no provision about reporting aerial phenomena.",
+     "source": "American Alchemy, episode with Mario Woods, 02;41 to 03;36 and 59;33 to 1:00;25; and the Michael Shermer episode of 9 July 2026, 0:13:03"
+    }
+   ],
+   "sources": [
+    {
+     "name": "DoD Directive 5210.42, Nuclear Weapon Personnel Reliability Program (PRP), 25 May 1993, DTIC accession AD-A271698",
+     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+     "date": "1993-05-25"
+    },
+    {
+     "name": "DoD Directive 5210.42 through Change 2, FAS transcription",
+     "url": "https://nuke.fas.org/guide/usa/doctrine/dod/dodd-5210_42.htm",
+     "date": null
+    }
+   ]
+  },
+  {
+   "id": "manned-orbiting-laboratory",
+   "cls": "program",
+   "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
+   "cluster": "ic",
+   "sub": "USAF programme with an NRO black mission; announced December 1963, cancelled 10 June 1969, declassified October 2015",
+   "tier": "B",
+   "C": 1,
+   "A": 3,
+   "D": 2,
+   "dateStart": "1963-12",
+   "dateEnd": "1969-06-10",
+   "desc": "A fully documented case of a real programme carrying a second, classified programme inside it, closed by the government and then released by the agency that ran it. Publicly MOL was an Air Force laboratory to determine the military usefulness of men in space; inside it sat DORIAN, an NRO reconnaissance system handled in the BYEMAN control system and designated KH-10 in 1969. Seventeen officers were astronaut-trained between 1965 and 1969, on a modified Gemini-B with a hatch through the heat shield, for polar launches from Vandenberg on the Titan-IIIM. None of them flew. The programme was cancelled on 10 June 1969 with 13,187 cleared contractor personnel on it, and the NRO declassified almost the entire DORIAN collection in October 2015. It is the strongest available answer to a question this board is repeatedly asked, which is what a secret space programme actually looks like on the record. Two opened sources disagree on one number and the disagreement is recorded rather than resolved: the NRO volume gives a 70-inch aperture and NASA gives a 72-inch diameter primary mirror.",
+   "tierRationale": "The verifier's draft in research/leads/verified-michels-2.md section 8 gave no C, A or D, and used the cluster 'programs', which is not in the board's vocabulary. Cluster set to 'ic' because the classified half of the programme was the NRO's. Reasoned from the opened record: C 1 because no opened record connects the programme to recovered material; A 3 because DORIAN was handled inside the BYEMAN control system, which is the compartmented special access this axis measures; D 2 because the October 2015 release of over 850 documents is one of the board's clearest instances of a closed programme entering the public record.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The cover and the mission are described by the agency itself. The NRO's volume says MOL was 'open \"white\" world, but maintained a highly-classified \"black\" mission', with the reconnaissance mission 'codenamed Dorian in the BYEMAN security system', and its foreword calls Dorian 'a deeply classified program managed by the then darkly hidden agency of the Intelligence Community, the National Reconnaissance Office'.",
+     "source": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO Center for the Study of National Reconnaissance, May 2019, foreword and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The declassification is dated and quantified in the NRO's own words: on 22 October 2015 the CSNR held a panel at the National Museum of the United States Air Force 'on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program. There were over 850 documents with some 22,000 pages and 280 photographs.'",
+     "source": "Spies in Space, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Seventeen officers were trained and none flew: 'Between 1965 and 1969, quietly and without fanfare, 17 non-NASA individuals were astronaut-trained in order to meet the reconnaissance needs of the United States.' The camera is dated and designated: 'In 1969, the Dorian camera system was designated KH-10 within the Talent-Keyhole community.'",
+     "source": "Spies in Space, NRO CSNR, May 2019, introduction and chapter 3, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The scale of the clearance at termination: 'On 10 June 1969, 13,187 contractor personnel were cleared on MOL and faced reassignment.'",
+     "source": "Spies in Space, NRO CSNR, May 2019, chapter 4, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "NASA's history office dates the programme's public and classified halves: announced by Defense Secretary Robert S. McNamara in December 1963, formally approved by President Johnson in August 1965, 17 pilots selected in three groups on 12 November 1965, 17 June 1966 and 30 June 1967, flown on the Titan-IIIM from Vandenberg into polar orbit, cancelled 10 June 1969, and 'not declassified by the NRO until October 2015'.",
+     "source": "John Uri, '55 Years Ago: Manned Orbiting Laboratory Cancellation', NASA, 11 June 2024, https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, Courtney V. K. Homer, NRO Center for the Study of National Reconnaissance, May 2019 (GPO, GOVPUB-D-PURL-gpo123652)",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+     "date": "2019-05-01"
+    },
+    {
+     "name": "govinfo catalogue record for Spies in Space",
+     "url": "https://www.govinfo.gov/app/details/GOVPUB-D-PURL-gpo123652",
+     "date": null
+    },
+    {
+     "name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+     "url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+     "date": "2024-06-11"
+    }
+   ]
+  },
+  {
+   "id": "defense-support-program",
+   "cls": "program",
+   "label": "Defense Support Program (DSP) missile early warning satellites",
+   "cluster": "ic",
+   "sub": "USAF and later US Space Force strategic surveillance constellation; programme commenced 1967, first operational satellite 1971",
+   "tier": "C",
+   "C": 1,
+   "A": 2,
+   "D": 1,
+   "dateStart": "1967",
+   "dateEnd": null,
+   "desc": "The infrared early-warning constellation that the board's fastwalker material comes off, and which the board did not carry. GAO describes DSP as a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches, feeding the integrated tactical warning and attack assessment mission, begun in 1967 with the first operational satellite in 1971 and now being replaced by SBIRS-High. Its place here is documentary rather than anomalous: the board already carries the AFIT thesis that defines 'fastwalker' as ordinary space-surveillance vocabulary and cites a 1972-onward observation database drawn from ballistic missile early warning satellites in geosynchronous orbit, which is this constellation. What the popular literature adds, that DSP is the system that sees UFOs, is not stated by any government document opened for this node; that equation is The Black Vault's own gloss. What the record does carry is a refusal: USNORTHCOM found two responsive documents on the fastwalker and slowwalker designations in 2013, withheld both, and declined to search NORAD's holdings at all on the ground that NORAD is a bi-national organisation outside FOIA.",
+   "tierRationale": "The verifier's draft in research/leads/verified-michels-2.md section 9 gave no C, A or D, and used the cluster 'programs', which is not in the board's vocabulary. Cluster set to 'ic' because the constellation is a strategic surveillance system and its holdings on this designation are classified. Reasoned from the opened record: C 1 because nothing opened connects it to recovered material; A 2 because both FOIA answers withhold its holdings as properly classified under EO 13526; D 1 because the disclosure pressure on it comes from The Black Vault rather than from the programme.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
+     "source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+    },
+    {
+     "tier": 1,
+     "text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+     "source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+    },
+    {
+     "tier": 1,
+     "text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
+     "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The same letter refuses to search a second command's holdings on structural grounds: 'Additionally, NORAD is exempt from FOIA requests as a bi-national organization; therefore no search was conducted for responsive NORAD documents.'",
+     "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+    },
+    {
+     "tier": 2,
+     "text": "The Black Vault reports that the US Space Force, responding on 19 December 2023 to a July 2023 request for all procedures and manuals referencing 'Fastwalkers' and 'Slowwalkers', withheld the material in full under FOIA Exemption 1 and section 1.1(a) of Executive Order 13526. The response letter itself was not opened for this record.",
+     "source": "John Greenewald, 'Space Force Says Documents on \"Fastwalkers\" and \"Slowwalkers\" All \"Exempt from Disclosure\"', The Black Vault, 22 December 2023, https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/"
+    }
+   ],
+   "sources": [
+    {
+     "name": "GAO-03-825R, Military Space Operations: Common Problems and Their Effects on Satellite and Related Acquisitions",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+     "date": "2003-06-02"
+    },
+    {
+     "name": "GAO/NSIAD-94-253, National Space Issues: Observations on Defense Space Programs and Activities",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-NSIAD-94-253/html/GAOREPORTS-NSIAD-94-253.htm",
+     "date": "1994-08-16"
+    },
+    {
+     "name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+     "date": "2013-12-06"
+    },
+    {
+     "name": "Fastwalkers and Slowwalkers, The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/fastwalkers-slowwalkers/",
+     "date": "2015-03-03"
+    },
+    {
+     "name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+     "date": "2023-12-22"
+    }
+   ]
+  },
+  {
+   "id": "tr-ac-47-silver-bug",
+   "cls": "document",
+   "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+   "cluster": "ic",
+   "sub": "Air Technical Intelligence Center, Wright-Patterson AFB; Project No. 9961; declassified 29 March 1995",
+   "tier": "B",
+   "C": 2,
+   "A": 1,
+   "D": 2,
+   "dateStart": "1955-02-15",
+   "dateEnd": "1955-02-15",
+   "desc": "A joint report of the Air Technical Intelligence Center and the Wright Air Development Center on a Canadian contractor's proposal for a supersonic circular-planform aircraft with vertical take-off. It is the cleanest documented instance on this board of the Air Force funding a disc-shaped aircraft at Wright-Patterson, and its own stated purpose is to stop the intelligence community from believing the exaggerated accounts already circulating about it. It is the control case any Wright-Patterson recovery claim has to clear, and it is cited in the Michels corpus for the opposite of what it says: the transcript frames the project as a funnel and cover for deeper theoretical physics, while the report exists 'to correct the distorted picture presented in previous releases, both classified and unclassified' and says the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance'. John Frost is named nowhere in it, the report names no individual designer at all, and the contractor is A. V. Roe, Canada, Limited, of the Hawker-Siddley Group, not the British Aircraft Corporation, which did not exist in 1955.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-3.md section 12. The draft's cluster was 'aerospace', which is not in the board's vocabulary; set to 'ic' because the issuing body on the title page imprint is the Air Technical Intelligence Center and the report's stated purpose is to brief the intelligence community.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The title page reads 'TR-AC-47 / (Unclassified) / JOINT ATIC-WADC REPORT ON / PROJECT SILVER BUG / PROJECT NO. 9961 / 15 FEBRUARY 1955', issued by the 'AIR TECHNICAL INTELLIGENCE CENTER, WRIGHT-PATTERSON AIR FORCE BASE, OHIO', and carries a handwritten declassification stamp reading 'Declassified 29 MAR 95', 'Auth: DoD 5200.1.R', 'SAF/AAZD'.",
+     "source": "TR-AC-47 title page, rendered from the scan at https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The report's Summary states its purpose: 'This report presents factual technical data on A. V. Roe, Canada, Limited, proposed development, Project Y2 (Secret)... The ultimate purpose of presenting this is two-fold; to correct the distorted picture presented in previous releases, both classified and unclassified, and to acquaint the intelligence community with the current state-of-the-art facts thereby alerting them to any air intelligence information which may become available indicating Soviet interest in this specialized field.'",
+     "source": "TR-AC-47, page iii, Summary, Purpose, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The Summary's Discussion section states: 'This project should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance. The configuration was a result of an engineering investigation into the solution of a particular problem.' It names the contractor as 'AVRO Aircraft, Limited, a member of the Hawker-Siddley Group'.",
+     "source": "TR-AC-47, page iii, Summary, Discussion, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Section I distinguishes the two company designations: 'Two versions of small research VTO aircraft have been designed by the contractor, which, by company designation, are Project Y (Secret), a \"tail-sitter\", and Project Y2 (Secret), a \"flat-riser\". Early in the investigation, Project Y (Secret) was rejected by the contractor in favor of the flat-riser.'",
+     "source": "TR-AC-47, page 1, Section I B 1, General Description, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Table III, 'CONTRACTOR ESTIMATED PERFORMANCE, Radial-Flow Engine Aircraft', gives Mach 2.6 and a 71,600 ft ceiling without reheat and Mach 3.48 and an 80,600 ft ceiling with 1500 degrees K reheat. The report qualifies these on page 17: 'The performance estimated by the contractor was based on rather broad assumptions and has not as yet been investigated by a wind tunnel test program.'",
+     "source": "TR-AC-47, pages 17 and 22, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Section II dates the USAF development track: Technical Requirement No. 3 dated 13 August 1954, a development plan dated 15 September 1954 written by 'WADC, Directorate of Weapons Systems Operations, Bombardment Aircraft Division, New Development Office', an order to proceed issued 29 December 1954, and a proposed statement of work dated 8 November 1954 to be incorporated in a study contract.",
+     "source": "TR-AC-47, page 23, Section II B, Present Development Status, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The report names the Coanda effect but not Henri Coanda: Figure 15 is 'Coanda Effect: High Aspect Ratio Jet Bending' and page 17 describes 'the so-called \"Coanda effect\" whereby a jet stream is deflected through large angles by having a curved surface in contact with its edge at one side'. No individual designer is named anywhere in the pages read, and the string 'Frost' does not appear in them.",
+     "source": "TR-AC-47, page 17 and Figure 15, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, Project No. 9961, 15 February 1955 (Air Force file AFD-070114-006)",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+     "date": "1955-02-15"
+    },
+    {
+     "name": "The Black Vault document archive index, Project Silver Bug",
+     "url": "https://www.theblackvault.com/documentarchive/project-silver-bug/",
+     "date": "2026-09-02"
+    },
+    {
+     "name": "National Declassification Center, Project 1794 Documents in ARC",
+     "url": "https://declassification.blogs.archives.gov/2013/01/30/project-1794-documents-in-arc/",
+     "date": "2013-01-30"
+    }
+   ]
+  },
+  {
+   "id": "afswc-tr-59-39",
+   "cls": "document",
+   "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
+   "cluster": "research",
+   "sub": "Air Force Special Weapons Center, Kirtland AFB; L. Reiffel, Armour Research Foundation; contributor C. E. Sagan; DDC AD 425380",
+   "tier": "B",
+   "C": 3,
+   "A": 1,
+   "D": 2,
+   "dateStart": "1959-06-19",
+   "dateEnd": "1959-06-19",
+   "desc": "A contractor study for the Air Force Special Weapons Center on what could be learned from detonating a nuclear weapon on or near the Moon, and on what it would cost politically. Its own introduction names three motivations, scientific, military and political, and says plainly that a nation performing the feat first would accrue positive effects as a demonstration of advanced technological capability. It is carried on this board as an instrument rather than an anecdote: a dated federal record of a plan whose public existence was, for decades, a matter of assertion. Its distribution list also documents who in the nuclear weapons complex received it. Two corrections the record forces on the corpus: the report is dated 19 June 1959, not 1958 and not May 1959, and the string A119 appears nowhere in it. C. E. Sagan is on its contributor list; the document says nothing about his security clearance.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-3.md section 14. The draft's cluster was 'nuclear', which is not in the board's vocabulary; set to 'research' because the document is a contractor research study.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The report is 'AFSWC-TR-59-39, TR 59-39 Vol I, A STUDY OF LUNAR RESEARCH FLIGHTS', issued by 'HEADQUARTERS AIR FORCE SPECIAL WEAPONS CENTER, AIR RESEARCH AND DEVELOPMENT COMMAND, KIRTLAND AIR FORCE BASE, NEW MEXICO', authored by L. Reiffel of the Armour Research Foundation, Illinois Institute of Technology, dated 19 June 1959, under Project Number 5776-57853 and Contract AF 29(601)-1164. Its title page marks the title '(Unclassified Title)'. The string 'A119' appears nowhere in the report.",
+     "source": "AFSWC TR-59-39 Vol I, title page and report page, DDC AD 425380, https://archive.org/details/DTIC_AD0425380"
+    },
+    {
+     "tier": 1,
+     "text": "The abstract opens: 'Nuclear detonations in the vicinity of the moon are considered in this report along with scientific information which might be obtained from such explosions. The military aspect is aided by investigation of space environment, detection of nuclear device testing, and capability of weapons in space.'",
+     "source": "AFSWC TR-59-39 Vol I, Abstract, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The introduction states the political motive in the report's own words: 'The motivation for such a detonation is clearly threefold: scientific, military and political... Obviously, however, specific positive effects would accrue to the nation first performing such a feat as a demonstration of advanced technological capability. It is also certain that, unless the climate of world opinion were well-prepared in advance, a considerable negative reaction could be stimulated.'",
+     "source": "AFSWC TR-59-39 Vol I, Chapter I, Introduction, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The contributor list on the report page includes 'C. E. Sagan' alongside ten others. The report's appendix separately lists 'C. Sagan, U. of Chicago, Astronomy' as a member of the National Academy of Sciences WESTEX group and 'C. Sagan, ARF - Yerkes, Astronomy' on the Armed Forces National Research Council Panel on Extraterrestrial Life. The document says nothing about his security clearance.",
+     "source": "AFSWC TR-59-39 Vol I, report page and appendix on extraterrestrial-life panels, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The distribution list sends copies to 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon'; to 'US Atomic Energy Commission, ATTN: Technical Reports Library (Mrs. J. O'Leary, for DMA)'; to 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; to 'Director, Los Alamos Scientific Laboratory'; to 'Director, Lawrence Radiation Laboratory'; and to 'WADD, Wright-Patterson AFB, Ohio'.",
+     "source": "AFSWC TR-59-39 Vol I, DISTRIBUTION list, https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The command page names 'Colonel Carey L. O'Bryan, Jr., Deputy Commander' of the Air Force Special Weapons Center, and the publication review page carries his name over 'USAF' and 'Deputy Commander'. The same officer is listed in the Official Register of the United States 1957, page 629, as Deputy Director of the Atomic Energy Commission's Division of Military Application, on the line directly above Gise's.",
+     "source": "AFSWC TR-59-39 Vol I, command page and publication review page, and Official Register of the United States 1957, p.629, https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380 (DTIC mirror)",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    },
+    {
+     "name": "OCR full text of AFSWC TR-59-39 Vol I",
+     "url": "https://archive.org/download/DTIC_AD0425380/DTIC_AD0425380_djvu.txt",
+     "date": "1959-06-19"
+    },
+    {
+     "name": "Official Register of the United States 1957, US Civil Service Commission",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+     "date": "1957-05-01"
+    }
+   ]
+  },
+  {
+   "id": "church-committee",
+   "cls": "institution",
+   "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+   "cluster": "oversight",
+   "sub": "Established by S. Res. 21, 27 January 1975; final report S. Rept. 94-755, six books, 1976",
+   "tier": "A",
+   "C": 2,
+   "A": 1,
+   "D": 3,
+   "dateStart": "1975-01-27",
+   "dateEnd": "1976-04-26",
+   "desc": "The only thorough congressional investigation ever made of the United States intelligence system, and the benchmark this board's oversight view has lacked. Eleven senators, a hundred staff, more than eight hundred interviews and over a hundred and ten thousand pages of documents. It is carried here for what its own final report concedes rather than for what it achieved: that it never once examined an agency's files on its own, that the CIA and other executive agencies limited its access to the record, and that three chapters of its published findings, including the chapter on budgetary oversight, were deleted at the request of the agencies it was investigating. Two Michels-corpus speakers who agree on almost nothing else, Michael Shellenberger and Mick West, each name the committee as the template for a successful congressional penetration of a compartmented programme. The committee's own report says the penetration was mediated throughout, and that is the finding.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-3.md section 15, which notes the letters are a first cut and that regrade.py re-derives node tiers on a global pass. The candidates file classes this as an event; the verifier drafted it as an institution because it existed from a dated resolution to a dated final report and acted, and that class is kept. D set to 3 by the orchestrator: the archetype of forcing the record open, even mediated.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "'On January 27, 1975, Senate Resolution 21 established a select committee \"to conduct an investigation and study of governmental operations with respect to intelligence activities and of the extent, if any, to which illegal, improper, or unethical activities were engaged in by any agency of the Federal Government.\"' Book I of the final report, Senate Report 94-755, was filed on 'APRIL 26 (legislative day, APRIL 14), 1976'.",
+     "source": "S. Rept. 94-755, Book I, title page and Part I section A, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The committee's own account of the obstacles it met: 'Despite its legal Senate mandate, and the issuance of subpoenas, in no instance has the Committee been able to examine the agencies' files on its own. In all the agencies, whether CIA, FBI, NSA, INR, DIA, or the NSC, documents and evidence have been presented through the filter of the agency itself.' It adds that 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record.'",
+     "source": "S. Rept. 94-755, Book I, Part I section C, 'The Focus and Scope of the Committee's Inquiry and Obstacles Encountered', https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The report's own publication note records that it 'has been reviewed and declassified by the appropriate executive agencies' and that 'At the request of the agencies, the Committee deleted three chapters from this report: \"Cover,\" \"Espionage,\" and \"Budgetary Oversight.\"' Two sections of the covert-action chapter and one section of the State Department chapter were also deleted at agency request.",
+     "source": "S. Rept. 94-755, Book I, NOTE following the Letter of Transmittal, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The committee was chaired by Frank Church of Idaho with John G. Tower of Texas as Vice Chairman, and had eleven members, six from the majority and five from the minority. 'The Committee staff of 100, including 60 professionals, has assisted the 11 members of the Committee in this indepth inquiry which involved more than 800 interviews, over 250 executive hearings, and documentation in excess of 110,000 pages.'",
+     "source": "S. Rept. 94-755, Book I, committee page and Part I section C, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Among its findings: 'The Committee finds that Congress has failed to provide the necessary statutory guidelines to ensure that intelligence agencies carry out their missions in accord with constitutional processes. Mechanisms for, and the practice of, congressional oversight have not been adequate.' And on money: 'Congress' failure as a whole to monitor the intelligence agencies' expenditures has been a major element in the ineffective legislative oversight of the intelligence community.'",
+     "source": "S. Rept. 94-755, Book I, Findings and Recommendations, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+    },
+    {
+     "tier": 2,
+     "text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
+     "source": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)"
+    }
+   ],
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence, Final Report of the Select Committee to Study Governmental Operations with Respect to Intelligence Activities",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ]
+  },
+  {
+   "id": "atomic-energy-act-1946",
+   "cls": "legislation",
+   "label": "Atomic Energy Act of 1946 (McMahon Act)",
+   "cluster": "oversight",
+   "sub": "Public Law 79-585, 60 Stat. 755, 1 August 1946; the origin of born-secret classification",
+   "tier": "B",
+   "C": 2,
+   "A": 3,
+   "D": 1,
+   "dateStart": "1946-08-01",
+   "dateEnd": null,
+   "desc": "The Atomic Energy Act of 1946 is where classification by category enters United States law. It defines restricted data as an entire class of fact rather than as a set of documents somebody decided to mark, makes publication conditional on an affirmative determination by the Atomic Energy Commission, and backs the rule with a capital penalty that reaches concealment and destruction as well as disclosure. It gates every contractor employee's access behind an FBI investigation and a Commission finding, gives the FBI exclusive jurisdiction over violations, and gives the War and Navy Departments a standing consultative claim over the control of weapons information through the Military Liaison Committee, with an appeal that ends at the President. The board argues the 1954 Act's Restricted Data regime is the statutory shield; this is the instrument that built it, a year before the programme's own 1947 start. The popular name McMahon Act appears in no federal record opened for this node; what is documented is Brien McMahon's chairmanship of the Senate Special Committee on Atomic Energy and of the Joint Committee on Atomic Energy in the 79th Congress.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-5.md section 1. The draft used the person field 'date'; on the entity shape this is dateStart, and dateEnd is left null because the Act was superseded rather than repealed on a date the opened record states.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Act's own short title is narrow: 'This Act may be cited as the \"Atomic Energy Act of 1946\".' The chapter head gives it as Chapter 724, S. 1717, Public Law 585, 79th Congress, 'AN ACT For the development and control of atomic energy', approved August 1, 1946. The popular name 'McMahon Act' appears nowhere in the statute.",
+     "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 21 and chapter head, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Classification runs by category, and publication is the exception. Section 10(b)(1): restricted data 'means all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.' Section 10(a) makes it 'the policy of the Commission to control the dissemination of restricted data in such a manner as to assure the common defense and security.'",
+     "source": "Atomic Energy Act of 1946, sec. 10(a) and 10(b)(1), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The penalty reaches concealment and destruction, not only disclosure, and it is capital. Section 10(b)(4) provides that whoever 'removes, conceals, tampers with, alters, mutilates, or destroys' a document incorporating restricted data with intent to injure the United States 'shall be punished by death or imprisonment for life (but the penalty of death or imprisonment for life may be imposed only upon recommendation of the jury and only in cases where the offense was committed with intent to injure the United States); or by a fine of not more than $20,000 or imprisonment for not more than twenty years, or both.'",
+     "source": "Atomic Energy Act of 1946, sec. 10(b)(4), and identically at 10(b)(2)(A) and 10(b)(3), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI is both the gate and the investigator. Section 10(b)(5)(B)(i) bars any arrangement, contract or licence unless the contractor 'agrees in writing not to permit any individual to have access to restricted data until the Federal Bureau of Investigation shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual.' Section 10(b)(5)(C): 'All violations of this Act shall be investigated by the Federal Bureau of Investigation of the Department of Justice.'",
+     "source": "Atomic Energy Act of 1946, sec. 10(b)(5)(B)(i) and 10(b)(5)(C), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The military keeps a standing claim over the control of weapons information, with an appeal that ends at the President. Section 2(c) directs that the Commission 'shall advise and consult with the Committee on all atomic energy matters which the Committee deems to relate to military applications, including the development, manufacture, use, and storage of bombs, the allocation of fissionable material for military research, and the control of information relating to the manufacture or utilization of atomic weapons', and provides that where either Secretary concurs in a Military Liaison Committee objection he 'may refer the matter to the President, whose decision shall be final.'",
+     "source": "Atomic Energy Act of 1946, sec. 2(c), https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Where McMahon actually is in the record: the 1962 Joint Committee print lists under 'MEMBERSHIP OF THE JOINT COMMITTEE, 1945-61' the 'SENATE SPECIAL COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1945-46), BRIEN McMAHON, Connecticut, Chairman', and then the 'JOINT COMMITTEE ON ATOMIC ENERGY, Seventy-ninth Congress (1946), BRIEN McMAHON, Connecticut, Chairman'. None of the federal documents opened for this node calls the Act the McMahon Act.",
+     "source": "Membership, Publications, and Other Pertinent Information of the Joint Committee on Atomic Energy, Joint Committee Print, February 1962, GPO 80013, section II, https://www.govinfo.gov/content/pkg/CPRT-87JPRT80013/pdf/CPRT-87JPRT80013.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755 (Ch. 724, S. 1717)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+     "date": "1946-08-01"
+    },
+    {
+     "name": "Membership, Publications, and Other Pertinent Information of the Joint Committee on Atomic Energy, Joint Committee Print, February 1962 (GPO 80013)",
+     "url": "https://www.govinfo.gov/content/pkg/CPRT-87JPRT80013/pdf/CPRT-87JPRT80013.pdf",
+     "date": "1962-02-01"
+    },
+    {
+     "name": "Congressional Record, House, 23 May 1994, H.R. 3724 (Brien McMahon Federal Building)",
+     "url": "https://www.govinfo.gov/content/pkg/CREC-1994-05-23/html/CREC-1994-05-23-pt1-PgH37.htm",
+     "date": "1994-05-23"
+    },
+    {
+     "name": "Executive Order 13526, Classified National Security Information, 75 FR 707",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
+     "date": "2009-12-29"
+    }
+   ]
+  },
+  {
+   "id": "nicap",
+   "cls": "institution",
+   "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
+   "cluster": "media",
+   "sub": "Civilian UFO body incorporated in the District of Columbia, 1956; 1536 Connecticut Avenue NW",
+   "tier": "B",
+   "C": 1,
+   "A": 1,
+   "D": 1,
+   "dateStart": "1956",
+   "dateEnd": null,
+   "desc": "NICAP is the civilian organisation the board narrates constantly and has never named as an entity. It was forming at 1536 Connecticut Avenue NW in October 1956 under Thomas Townsend Brown, who told a Scripps-Howard reporter he was executive vice chairman pro tempore and that the group would elect its nine-man board of governors on 1 November; the clipping is in the FBI's own file on the organisation. By 1964 it was directed by Maj. Donald E. Keyhoe with Richard H. Hall as acting director and editor, carried a former Director of Central Intelligence and a former Blue Book headquarters monitor on its board, and published The UFO Evidence, which it sent to every Member of Congress and which the CIA filed. It is the exact official-and-civilian boundary the board argues about: a private body, staffed at the top by people who had held the government's own positions, campaigning for the hearings the government did not hold. The District of Columbia corporate register itself was not opened, so the incorporation rests on NICAP's own statement of it.",
+   "tierRationale": "C, A and D carried from the verifier's draft in research/leads/verified-michels-5.md section 4. A set to 1 by the orchestrator: a civilian body holding no special access.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "NICAP states its own legal form and year: 'NICAP is a non-profit organization incorporated in the District of Columbia (1956).' The same paragraph gives its purpose as 'scientific investigation and research of reported unidentified flying objects, and encouragement of full reporting to the public by responsible authorities of all information which the government has accumulated on this subject.'",
+     "source": "The UFO Evidence, National Investigations Committee on Aerial Phenomena, Washington DC, May 1964, Richard H. Hall ed., section 'NICAP and its Policies', in the CIA's filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "tier": 1,
+     "text": "Thomas Townsend Brown ran the organisation at its formation. A Washington Daily News report of Tuesday 23 October 1956, filed in the FBI's NICAP file: 'The brass plate at 1536 Connecticut-av nw reads \"National Investigations Committee on Aerial Phenomena.\" Inside they refer to it as Project Skylight. T. Townsend Brown of Leesburg, Va., who runs it, identified himself as executive vice chairman pro tempore. He formerly was a consulting physicist for the Clevite-Brush Electronics Co. of Cleveland, O.' The same report says the committee 'is just now forming. On Nov. 1 it meets to elect a nine-man board of governors.'",
+     "source": "Jim G. Lucas, 'Project Skylight: New Group Setting Sights on Saucers', The Washington Daily News, 23 October 1956, in FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 1, https://archive.org/details/NICAP"
+    },
+    {
+     "tier": 1,
+     "text": "A former Director of Central Intelligence sat on its board and joined its campaign for hearings. The 1964 volume: 'Vice Admiral R. H. Hillenkoetter, USN (Ret.), a long-time acquaintance of Major Keyhoe, also served on the NICAP Board of Governors for five years,' and 'In 1961, Adm. Hillenkoetter joined with a majority of the NICAP Board in urging a Congressional investigation of the UFO problem.'",
+     "source": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "tier": 1,
+     "text": "The volume was addressed to Congress and says so: 'Copies of this report have been sent to all Members of Congress.' Its board in 1964 also included 'Mr. Dewey Fournet, Jr., former Major USAFR ... Former Air Force Headquarters Monitor of AF Project Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Dayton project and Pentagon.'",
+     "source": "The UFO Evidence, 1964, in CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0"
+    },
+    {
+     "tier": 1,
+     "text": "The FBI kept a file on it, numbered 100-35992, and recorded the organisation's self-description as given by its secretary: 'This information was furnished to a Special Agent of our Washington Field Office in May, 1961, by Mr. Richard H. Hall, Secretary of the organization.'",
+     "source": "FBI file 100-35992 on the National Investigations Committee on Aerial Phenomena, part 3, https://archive.org/details/NICAP"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The UFO Evidence (NICAP, Washington DC, May 1964), Richard H. Hall ed., CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+     "date": "1964-05-01"
+    },
+    {
+     "name": "FBI file 100-35992, National Investigations Committee on Aerial Phenomena (3 parts)",
+     "url": "https://archive.org/details/NICAP",
+     "date": "1956-10-23"
+    }
+   ]
+  }
+ ],
+ "edges": [
+  {
+   "a": "atomic-energy-commission",
+   "b": "manhattan-project-2",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "Statutory transfer of the Manhattan Engineer District's holdings",
+   "dateStart": "1946",
+   "dateEnd": "1946",
+   "sources": [
+    {
+     "name": "Atomic Energy Act of 1946, sec. 9(a)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+     "date": "1946-08-01"
+    }
+   ],
+   "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine."
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "doe",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Abolished 1974; functions passed through ERDA to the Department of Energy",
+   "dateStart": "1974",
+   "dateEnd": "1974",
+   "sources": [
+    {
+     "name": "Energy Reorganization Act of 1974, sec. 104(a)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-88/pdf/STATUTE-88-Pg1233.pdf",
+     "date": "1974-10-11"
+    },
+    {
+     "name": "Records of the Atomic Energy Commission, Record Group 326, Guide to Federal Records in the National Archives",
+     "url": "https://www.archives.gov/research/guide-fed-records/groups/326.html",
+     "date": "2026-09-02"
+    }
+   ],
+   "note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions."
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "l-groom-lake",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do."
+  },
+  {
+   "a": "atomic-energy-commission",
+   "b": "l-nevada-test-site",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Area 51 was added to the Nevada Test Site by the Commission",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground."
+  },
+  {
+   "a": "bluegill-triple-prime",
+   "b": "usaf",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Air Force flew the shot and its 22-aircraft array",
+   "dateStart": "1962",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "DNA 6040F, Operation DOMINIC I--1962",
+     "url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+     "date": "1983-02-01"
+    }
+   ],
+   "note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC."
+  },
+  {
+   "a": "bluegill-triple-prime",
+   "b": "doe",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "The detonation list is a Department of Energy publication",
+   "dateStart": "1962",
+   "dateEnd": "1980",
+   "sources": [
+    {
+     "name": "DNA 6040F, Table 1 source note",
+     "url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+     "date": "1983-02-01"
+    }
+   ],
+   "note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD."
+  },
+  {
+   "a": "bluegill-triple-prime",
+   "b": "d-nuclear",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "A dated, documented high-altitude nuclear test",
+   "dateStart": "1962",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "DNA 6040F, Operation DOMINIC I--1962",
+     "url": "https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt",
+     "date": "1983-02-01"
+    }
+   ],
+   "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness."
+  },
+  {
+   "a": "harald-b-malmgren",
+   "b": "ida",
+   "type": "institutional",
+   "claimTier": 2,
+   "label": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
+   "dateStart": "1962",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "Pippa Malmgren, biography of Harald Malmgren, Second Line of Defense",
+     "url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
+     "date": "2025-02-24"
+    }
+   ],
+   "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented."
+  },
+  {
+   "a": "harald-b-malmgren",
+   "b": "l-los-alamos",
+   "type": "temporal",
+   "claimTier": 3,
+   "label": "Named as the cause of the December 1962 presidential visit",
+   "dateStart": "1962-12-07",
+   "dateEnd": "1962-12-07",
+   "sources": [
+    {
+     "name": "Pippa Malmgren biography; Public Papers of the Presidents, 7 December 1962",
+     "url": "https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+     "date": "1962-12-07"
+    },
+    {
+     "name": "Dr. Harald Malmgren Passed, Second Line of Defense, biography by Pippa Malmgren",
+     "url": "https://sldinfo.com/2025/02/dr-harald-malmgren-passed/",
+     "date": "2025-02-24"
+    }
+   ],
+   "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link."
+  },
+  {
+   "a": "trw-inc",
+   "b": "bdm-international",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "TRW acquired BDM by cash tender offer, 1997",
+   "dateStart": "1997",
+   "dateEnd": "1997",
+   "sources": [
+    {
+     "name": "BDM International, Inc., Schedule 14D-9, 26 November 1997",
+     "url": "https://www.sec.gov/Archives/edgar/data/870763/0000950152-97-008353.txt",
+     "date": "1997-11-26"
+    }
+   ],
+   "note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997."
+  },
+  {
+   "a": "trw-inc",
+   "b": "northrop-grumman",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+   "dateStart": "2002",
+   "dateEnd": "2002",
+   "sources": [
+    {
+     "name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+     "url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm",
+     "date": "2002-12-20"
+    }
+   ],
+   "note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology."
+  },
+  {
+   "a": "trw-inc",
+   "b": "gerb-northrop-trw-investigation",
+   "type": "investigative",
+   "claimTier": 2,
+   "label": "The subject of the 20 March 2026 corporate-breakaway argument",
+   "dateStart": "2002",
+   "dateEnd": "2026",
+   "sources": [
+    {
+     "name": "Northrop Grumman Corporation, Form 8-K, event 11 December 2002",
+     "url": "https://www.sec.gov/Archives/edgar/data/1133421/000089843002004580/d8k.htm",
+     "date": "2002-12-20"
+    }
+   ],
+   "note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here."
+  },
+  {
+   "a": "richard-m-bissell-jr",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Special Assistant to the DCI for Planning and Coordination from January 1954",
+   "dateStart": "1954",
+   "dateEnd": "1954",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "The Agency's own history names him in that post and records Dulles handing him the U-2 project in November 1954."
+  },
+  {
+   "a": "richard-m-bissell-jr",
+   "b": "l-groom-lake",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Selected the site on 12 April 1955",
+   "dateStart": "1955-04-12",
+   "dateEnd": "1955-04-12",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project."
+  },
+  {
+   "a": "richard-m-bissell-jr",
+   "b": "l-area51",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Asked the AEC to absorb the land that became Area 51",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51."
+  },
+  {
+   "a": "richard-m-bissell-jr",
+   "b": "project-blue-book",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "His project staff resolved Blue Book's reports and withheld the reason",
+   "dateStart": "1955",
+   "dateEnd": "1969",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "The CIA history states that Blue Book investigators checked reported sightings against U-2 flight logs held by the Agency's project staff and could not reveal the true cause to the people who had written in."
+  },
+  {
+   "a": "richard-m-bissell-jr",
+   "b": "lockheed-skunk-works",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "Ran the project Kelly Johnson built the aircraft for",
+   "dateStart": "1954",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, 2013 release, chapter 2",
+     "url": "https://archive.org/download/cia-readingroom-document-0000190094/0000190094_djvu.txt",
+     "date": "2013-06-25"
+    }
+   ],
+   "note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers."
+  },
+  {
+   "a": "invention-secrecy-act",
+   "b": "d-secrecy",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "One of the three statutory layers of the secrecy architecture",
+   "dateStart": "1952",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "66 Stat. 3, Act of February 1, 1952, ch. 4",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+     "date": "1952-02-01"
+    },
+    {
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+     "date": null
+    }
+   ],
+   "note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it."
+  },
+  {
+   "a": "invention-secrecy-act",
+   "b": "fas",
+   "type": "investigative",
+   "claimTier": 1,
+   "label": "FAS publishes the only public series on how often the Act is used",
+   "dateStart": "1952",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "Invention Secrecy Statistics, FAS Project on Government Secrecy",
+     "url": "https://sgp.fas.org/othergov/invention/stats.html",
+     "date": null
+    }
+   ],
+   "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used."
+  },
+  {
+   "a": "invention-secrecy-act",
+   "b": "usc-50-3510",
+   "type": "legislative",
+   "claimTier": 2,
+   "label": "Paired instruments, one hiding an invention and the other an expenditure",
+   "dateStart": null,
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+     "date": null
+    }
+   ],
+   "note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text."
+  },
+  {
+   "a": "invention-secrecy-act",
+   "b": "pais-patent-imrd",
+   "type": "programmatic",
+   "claimTier": 2,
+   "label": "The control case for the patents tab: a propulsion patent that did issue",
+   "dateStart": null,
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "35 U.S.C. 181, Secrecy of certain inventions and withholding of patent",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+     "date": null
+    }
+   ],
+   "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing."
+  },
+  {
+   "a": "prp-nuclear-weapon",
+   "b": "dod",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Issued under ASD(C3I) authority and binding on every DoD component",
+   "dateStart": "1993-05-25",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+     "date": "1993-05-25"
+    }
+   ],
+   "note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component."
+  },
+  {
+   "a": "prp-nuclear-weapon",
+   "b": "robert-salas",
+   "type": "witness-chain",
+   "claimTier": 3,
+   "label": "The administrative regime his testimony was given against",
+   "dateStart": null,
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+     "date": "1993-05-25"
+    }
+   ],
+   "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him."
+  },
+  {
+   "a": "prp-nuclear-weapon",
+   "b": "l-malmstrom",
+   "type": "geographic",
+   "claimTier": 2,
+   "label": "A nuclear weapons installation inside the directive's stated scope",
+   "dateStart": null,
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+     "date": "1993-05-25"
+    }
+   ],
+   "note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions."
+  },
+  {
+   "a": "prp-nuclear-weapon",
+   "b": "d-secrecy",
+   "type": "programmatic",
+   "claimTier": 3,
+   "label": "The administrative alternative to classification",
+   "dateStart": null,
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "DoD Directive 5210.42, 25 May 1993, DTIC AD-A271698",
+     "url": "https://archive.org/download/DTIC_ADA271698/DTIC_ADA271698_djvu.txt",
+     "date": "1993-05-25"
+    }
+   ],
+   "note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all."
+  },
+  {
+   "a": "manned-orbiting-laboratory",
+   "b": "nro",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "The NRO ran the DORIAN payload inside the Air Force programme",
+   "dateStart": "1963",
+   "dateEnd": "2015",
+   "sources": [
+    {
+     "name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+     "date": "2019-05-01"
+    }
+   ],
+   "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015."
+  },
+  {
+   "a": "manned-orbiting-laboratory",
+   "b": "usaf",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "MOL was the Air Force's public programme",
+   "dateStart": "1963",
+   "dateEnd": "1969",
+   "sources": [
+    {
+     "name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+     "date": "2019-05-01"
+    }
+   ],
+   "note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers."
+  },
+  {
+   "a": "manned-orbiting-laboratory",
+   "b": "l-vandenberg",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+   "dateStart": "1965",
+   "dateEnd": "1969",
+   "sources": [
+    {
+     "name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+     "url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+     "date": "2024-06-11"
+    }
+   ],
+   "note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article."
+  },
+  {
+   "a": "manned-orbiting-laboratory",
+   "b": "nasa",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "After cancellation the younger MOL astronauts transferred to NASA",
+   "dateStart": "1969",
+   "dateEnd": "1969",
+   "sources": [
+    {
+     "name": "55 Years Ago: Manned Orbiting Laboratory Cancellation, NASA",
+     "url": "https://www.nasa.gov/history/55-years-ago-manned-orbiting-laboratory-cancellation/",
+     "date": "2024-06-11"
+    }
+   ],
+   "note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record."
+  },
+  {
+   "a": "manned-orbiting-laboratory",
+   "b": "d-secrecy-architecture",
+   "type": "programmatic",
+   "claimTier": 2,
+   "label": "A worked example of compartmentation: one workforce, two programmes",
+   "dateStart": "1963",
+   "dateEnd": "1969",
+   "sources": [
+    {
+     "name": "Spies in Space, NRO Center for the Study of National Reconnaissance, May 2019",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf",
+     "date": "2019-05-01"
+    }
+   ],
+   "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it."
+  },
+  {
+   "a": "defense-support-program",
+   "b": "afit-townsend-2008",
+   "type": "research",
+   "claimTier": 2,
+   "label": "The thesis points at DSP without naming it",
+   "dateStart": "2008",
+   "dateEnd": "2008",
+   "sources": [
+    {
+     "name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+     "date": "2003-06-02"
+    }
+   ],
+   "note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted."
+  },
+  {
+   "a": "defense-support-program",
+   "b": "norad-northcom",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+   "dateStart": "2013-12-06",
+   "dateEnd": "2013-12-06",
+   "sources": [
+    {
+     "name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+     "date": "2013-12-06"
+    }
+   ],
+   "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA."
+  },
+  {
+   "a": "defense-support-program",
+   "b": "the-black-vault",
+   "type": "investigative",
+   "claimTier": 1,
+   "label": "Both refusals on this designation are public only because of The Black Vault",
+   "dateStart": "2013",
+   "dateEnd": "2023",
+   "sources": [
+    {
+     "name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+     "date": "2013-12-06"
+    },
+    {
+     "name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+     "date": "2023-12-22"
+    }
+   ],
+   "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it."
+  },
+  {
+   "a": "defense-support-program",
+   "b": "eo-13526",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "Both refusals rest on the same executive order",
+   "dateStart": "2013",
+   "dateEnd": "2023",
+   "sources": [
+    {
+     "name": "USNORTHCOM FOIA response letter, case FY14-19NOV2013-07",
+     "url": "https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+     "date": "2013-12-06"
+    },
+    {
+     "name": "Space Force Says Documents on Fastwalkers and Slowwalkers All Exempt from Disclosure, The Black Vault",
+     "url": "https://www.theblackvault.com/documentarchive/space-force-says-documents-on-fastwalkers-and-slowwalkers-all-exempt-from-disclosure/",
+     "date": "2023-12-22"
+    }
+   ],
+   "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023."
+  },
+  {
+   "a": "defense-support-program",
+   "b": "usaf",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Flown by the Air Force before the constellation passed to the Space Force",
+   "dateStart": "1967",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "GAO-03-825R, Military Space Operations, 2 June 2003",
+     "url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+     "date": "2003-06-02"
+    }
+   ],
+   "note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force."
+  },
+  {
+   "a": "bobby-ray-inman",
+   "b": "nsa",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Director of the National Security Agency from 5 July 1977",
+   "dateStart": "1977-07-05",
+   "dateEnd": "1981",
+   "sources": [
+    {
+     "name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+     "date": "1981-02-03"
+    }
+   ],
+   "note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing."
+  },
+  {
+   "a": "bobby-ray-inman",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Nominated and heard as Deputy Director of Central Intelligence, 3 February 1981",
+   "dateStart": "1981",
+   "dateEnd": "1982",
+   "sources": [
+    {
+     "name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+     "date": "1981-02-03"
+    },
+    {
+     "name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+     "url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+     "date": "2003-05-28"
+    }
+   ],
+   "note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service."
+  },
+  {
+   "a": "bobby-ray-inman",
+   "b": "saic",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Director of SAIC since 1982 and a paid part-time employee since 1990",
+   "dateStart": "1982",
+   "dateEnd": null,
+   "sources": [
+    {
+     "name": "Science Applications International Corporation definitive proxy statement (DEF 14A), 28 May 2003",
+     "url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
+     "date": "2003-05-28"
+    },
+    {
+     "name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
+     "url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm",
+     "date": "2003-04-14"
+    }
+   ],
+   "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President."
+  },
+  {
+   "a": "bobby-ray-inman",
+   "b": "dia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Vice Director for Plans, Operations and Support of DIA",
+   "dateStart": null,
+   "dateEnd": "1977",
+   "sources": [
+    {
+     "name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
+     "date": "1981-02-03"
+    }
+   ],
+   "note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony."
+  },
+  {
+   "a": "lawrence-p-gise",
+   "b": "darpa",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Held the ARPA post of Assistant Director, Administration",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "Official Register of the United States 1959, US Civil Service Commission",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf",
+     "date": "1959-05-01"
+    }
+   ],
+   "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson."
+  },
+  {
+   "a": "lawrence-p-gise",
+   "b": "doe",
+   "type": "institutional",
+   "claimTier": 2,
+   "label": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
+   "dateStart": "1957",
+   "dateEnd": "1957",
+   "sources": [
+    {
+     "name": "Official Register of the United States 1957, US Civil Service Commission",
+     "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952/pdf/GOVPUB-CS1-a5ad60ca6d6113c71c09c45dce6b9952.pdf",
+     "date": "1957-05-01"
+    }
+   ],
+   "note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly."
+  },
+  {
+   "a": "tr-ac-47-silver-bug",
+   "b": "atic",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "One of the two issuing organisations, and the one on the title page imprint",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+     "date": "1955-02-15"
+    }
+   ],
+   "note": "The title page carries the Air Technical Intelligence Center imprint and the report's own conclusion asks for 'direct liaison between WADC and ATIC personnel'."
+  },
+  {
+   "a": "tr-ac-47-silver-bug",
+   "b": "l-wright-patterson",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Written and issued at Wright-Patterson Air Force Base, Ohio",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+     "date": "1955-02-15"
+    }
+   ],
+   "note": "Both issuing bodies, ATIC and the Wright Air Development Center, are named on the report with that station."
+  },
+  {
+   "a": "tr-ac-47-silver-bug",
+   "b": "usaf",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "Records the Air Force research and development status of the disc-aircraft proposal",
+   "dateStart": "1954",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+     "date": "1955-02-15"
+    }
+   ],
+   "note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred."
+  },
+  {
+   "a": "tr-ac-47-silver-bug",
+   "b": "d-denial",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
+   "dateStart": "1955",
+   "dateEnd": "1955",
+   "sources": [
+    {
+     "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
+     "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf",
+     "date": "1955-02-15"
+    }
+   ],
+   "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold."
+  },
+  {
+   "a": "andrija-puharich",
+   "b": "dod",
+   "type": "research",
+   "claimTier": 1,
+   "label": "The Army's intelligence staff recorded an interest in his techniques in 1957",
+   "dateStart": "1957",
+   "dateEnd": "1957",
+   "sources": [
+    {
+     "name": "FBI Vault, Extra-Sensory Perception Part 01 (Final)",
+     "url": "https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view",
+     "date": "1957-09-06"
+    }
+   ],
+   "note": "The FBI memorandum of 6 September 1957 attributes the interest to Lieutenant Colonel John Downie of the Special Operations Branch, Assistant Chief of Staff, Intelligence, Department of the Army; the enclosure Downie furnished is not in the release."
+  },
+  {
+   "a": "andrija-puharich",
+   "b": "d-consciousness",
+   "type": "research",
+   "claimTier": 1,
+   "label": "The subject on which a federal agency file names him",
+   "dateStart": "1957",
+   "dateEnd": "1965",
+   "sources": [
+    {
+     "name": "FBI Vault, Extra-Sensory Perception Part 01 (Final)",
+     "url": "https://vault.fbi.gov/Extra-Sensory%20Perception/Extra-Sensory%20Perception%20Part%2001%20%28Final%29/view",
+     "date": "1957-09-06"
+    },
+    {
+     "name": "US Patent 2,995,633, Means for aiding hearing",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633",
+     "date": "1961-08-08"
+    }
+   ],
+   "note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "usaf",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "Commissioned and published by the Air Force Special Weapons Center under Air Research and Development Command",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "l-kirtland",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Issued from Kirtland Air Force Base, New Mexico",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "sandia",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "A numbered copy went to Sandia's document control division",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "l-los-alamos",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "A copy went to the Los Alamos Scientific Laboratory report library",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "darpa",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "A copy went to the Director of ARPA at the Pentagon",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'."
+  },
+  {
+   "a": "afswc-tr-59-39",
+   "b": "l-wright-patterson",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "A copy went to WADD at Wright-Patterson",
+   "dateStart": "1959",
+   "dateEnd": "1959",
+   "sources": [
+    {
+     "name": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, DDC AD 425380",
+     "url": "https://archive.org/details/DTIC_AD0425380",
+     "date": "1959-06-19"
+    }
+   ],
+   "note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'."
+  },
+  {
+   "a": "church-committee",
+   "b": "us-senate",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
+   "dateStart": "1975",
+   "dateEnd": "1976",
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ],
+   "note": "The report states the resolution, the date and the mandate in its own opening section."
+  },
+  {
+   "a": "church-committee",
+   "b": "oversight-congress",
+   "type": "investigative",
+   "claimTier": 1,
+   "label": "The historical benchmark, and the source of the board's sharpest statement of the limit",
+   "dateStart": "1975",
+   "dateEnd": "1976",
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ],
+   "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own."
+  },
+  {
+   "a": "church-committee",
+   "b": "cia",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "Named by the committee as having limited its access to the full record",
+   "dateStart": "1975",
+   "dateEnd": "1976",
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ],
+   "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege."
+  },
+  {
+   "a": "church-committee",
+   "b": "intel-budget-disclosure-record",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
+   "dateStart": "1976",
+   "dateEnd": "1976",
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ],
+   "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request."
+  },
+  {
+   "a": "church-committee",
+   "b": "senate-intelligence",
+   "type": "legislative",
+   "claimTier": 2,
+   "label": "Recommended the permanent oversight committee that followed it",
+   "dateStart": "1976",
+   "dateEnd": "1976",
+   "sources": [
+    {
+     "name": "S. Rept. 94-755, Book I, Foreign and Military Intelligence",
+     "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf",
+     "date": "1976-04-26"
+    }
+   ],
+   "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2."
+  },
+  {
+   "a": "arthur-g-trudeau",
+   "b": "philip-corso",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Corso's Foreign Technology Division chieftaincy falls inside Trudeau's tenure",
+   "dateStart": "1962-04-18",
+   "dateEnd": "1962-07-18",
+   "sources": [
+    {
+     "name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
+     "date": "1962-03-12"
+    }
+   ],
+   "note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development."
+  },
+  {
+   "a": "arthur-g-trudeau",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Two Directors of Central Intelligence corresponded with him in office",
+   "dateStart": "1958",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
+     "date": "1958-01-18"
+    },
+    {
+     "name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
+     "date": "1962-03-12"
+    }
+   ],
+   "note": "Two Directors of Central Intelligence corresponded with him in office, Dulles in January 1958 on avoiding duplication between CIA and Army research programmes and McCone in March 1962 on the Limited-War Mission symposium."
+  },
+  {
+   "a": "arthur-g-trudeau",
+   "b": "l-dc",
+   "type": "geographic",
+   "claimTier": 1,
+   "label": "Addressed at the Department of the Army, Washington 25, D. C.",
+   "dateStart": "1958",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80m01009a000500610124-1",
+     "date": "1958-01-18"
+    },
+    {
+     "name": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
+     "date": "1962-03-12"
+    }
+   ],
+   "note": "Both letters address him at the Department of the Army, Washington 25, D. C."
+  },
+  {
+   "a": "atomic-energy-act-1946",
+   "b": "atomic-energy-commission",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "The instrument that created the Commission",
+   "dateStart": "1946",
+   "dateEnd": "1946",
+   "sources": [
+    {
+     "name": "Atomic Energy Act of 1946, secs. 2(a) and 10",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+     "date": "1946-08-01"
+    }
+   ],
+   "note": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years."
+  },
+  {
+   "a": "atomic-energy-act-1946",
+   "b": "manhattan-project-2",
+   "type": "custody",
+   "claimTier": 1,
+   "label": "Statutory transfer of the Manhattan Engineer District's holdings and its cleared people",
+   "dateStart": "1946",
+   "dateEnd": "1946",
+   "sources": [
+    {
+     "name": "Atomic Energy Act of 1946, secs. 9(a) and 10(b)(5)(B)(iii)",
+     "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
+     "date": "1946-08-01"
+    }
+   ],
+   "note": "Section 9(a) directs the transfer of all fissionable material, all atomic weapons and parts and all processes and technical information, and section 10(b)(5)(B)(iii) lets anyone the Manhattan Engineer District had already cleared keep access pending the new investigation."
+  },
+  {
+   "a": "atomic-energy-act-1946",
+   "b": "eo-13526",
+   "type": "legislative",
+   "claimTier": 1,
+   "label": "The category this Act invented is the one the executive order cannot reach",
+   "dateStart": "2009",
+   "dateEnd": "2009",
+   "sources": [
+    {
+     "name": "Executive Order 13526, sec. 6.2(a)",
+     "url": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
+     "date": "2009-12-29"
+    }
+   ],
+   "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one."
+  },
+  {
+   "a": "walter-bedell-smith",
+   "b": "robertson-panel",
+   "type": "programmatic",
+   "claimTier": 1,
+   "label": "Convened at his direction",
+   "dateStart": "1953",
+   "dateEnd": "1953",
+   "sources": [
+    {
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+     "date": "1953-03-13"
+    }
+   ],
+   "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'."
+  },
+  {
+   "a": "h-marshall-chadwell",
+   "b": "walter-bedell-smith",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+   "dateStart": "1952",
+   "dateEnd": "1952",
+   "sources": [
+    {
+     "name": "CIA document C00015339, Chadwell to the DCI, 2 October 1952",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515933",
+     "date": "1952-10-02"
+    },
+    {
+     "name": "Chadwell memorandum for the DCI, subject: Unidentified Flying Objects, 2 December 1952, with draft NSC memorandum and draft NSC directive (CIA C00015340)",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935",
+     "date": "1952-12-02"
+    }
+   ],
+   "note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation."
+  },
+  {
+   "a": "walter-bedell-smith",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Director of Central Intelligence",
+   "dateStart": "1952",
+   "dateEnd": "1953",
+   "sources": [
+    {
+     "name": "CIA document C00015340, draft memorandum to the NSC Executive Secretary",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935",
+     "date": "1952-12-02"
+    }
+   ],
+   "note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952."
+  },
+  {
+   "a": "walter-bedell-smith",
+   "b": "washington-flap-1952",
+   "type": "temporal",
+   "claimTier": 1,
+   "label": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+   "dateStart": "1952-08-20",
+   "dateEnd": "1952-08-20",
+   "sources": [
+    {
+     "name": "CIA document C00015340, para. 1",
+     "url": "https://archive.org/details/cia-readingroom-document-0005515935",
+     "date": "1952-12-02"
+    }
+   ],
+   "note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer."
+  },
+  {
+   "a": "allen-w-dulles",
+   "b": "robertson-panel",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+   "dateStart": "1953-03-13",
+   "dateEnd": "1953-03-13",
+   "sources": [
+    {
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+     "date": "1953-03-13"
+    }
+   ],
+   "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel."
+  },
+  {
+   "a": "allen-w-dulles",
+   "b": "cia",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Director of Central Intelligence, signing as Director on Office of the Director paper",
+   "dateStart": "1953",
+   "dateEnd": "1961",
+   "sources": [
+    {
+     "name": "Allen W. Dulles to the Secretary of Defense, 13 March 1953 (CIA-RDP80B01676R001000160043-9)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160043-9",
+     "date": "1953-03-13"
+    }
+   ],
+   "note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'."
+  },
+  {
+   "a": "allen-w-dulles",
+   "b": "walter-bedell-smith",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Succeeded him as DCI and attributed the panel to him in writing",
+   "dateStart": "1953",
+   "dateEnd": "1953",
+   "sources": [
+    {
+     "name": "Allen W. Dulles to Jack Gorrie, National Security Resources Board, 13 March 1953 (CIA-RDP80B01676R001000160044-8)",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r001000160044-8",
+     "date": "1953-03-13"
+    }
+   ],
+   "note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file."
+  },
+  {
+   "a": "thomas-townsend-brown",
+   "b": "nicap",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Ran NICAP at its formation, October 1956, as executive vice chairman pro tempore",
+   "dateStart": "1956-10-23",
+   "dateEnd": "1956-10-23",
+   "sources": [
+    {
+     "name": "FBI file 100-35992, part 1, Washington Daily News clipping, 23 October 1956",
+     "url": "https://archive.org/details/NICAP",
+     "date": "1956-10-23"
+    }
+   ],
+   "note": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November."
+  },
+  {
+   "a": "roscoe-hillenkoetter",
+   "b": "nicap",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Served five years on the Board of Governors",
+   "dateStart": "1957",
+   "dateEnd": "1962",
+   "sources": [
+    {
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+     "date": "1964-05-01"
+    }
+   ],
+   "note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation."
+  },
+  {
+   "a": "nicap",
+   "b": "usaf",
+   "type": "denial",
+   "claimTier": 1,
+   "label": "Charged the Air Force with an intolerable degree of secrecy, in print, to Congress",
+   "dateStart": "1964",
+   "dateEnd": "1964",
+   "sources": [
+    {
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+     "date": "1964-05-01"
+    }
+   ],
+   "note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress."
+  },
+  {
+   "a": "nicap",
+   "b": "project-blue-book",
+   "type": "institutional",
+   "claimTier": 1,
+   "label": "Blue Book's former headquarters monitor sat on the NICAP board",
+   "dateStart": "1964",
+   "dateEnd": "1964",
+   "sources": [
+    {
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+     "date": "1964-05-01"
+    }
+   ],
+   "note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon."
+  },
+  {
+   "a": "cia",
+   "b": "nicap",
+   "type": "investigative",
+   "claimTier": 1,
+   "label": "CIA held and filed NICAP's 1964 volume in its own records",
+   "dateStart": "1964",
+   "dateEnd": "2001",
+   "sources": [
+    {
+     "name": "The UFO Evidence, NICAP, 1964, CIA filed copy CIA-RDP81R00560R000100010001-0",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0",
+     "date": "1964-05-01"
+    }
+   ],
+   "note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'."
+  }
+ ],
+ "timeline": [
+  {
+   "id": "tl-1946-08-01-atomic-energy-act",
+   "strand": "oversight",
+   "date": "1946-08-01",
+   "precision": "day",
+   "tier": "B",
+   "node": "atomic-energy-act-1946",
+   "label": "Atomic Energy Act of 1946 makes classification a property of a category",
+   "text": "Public Law 79-585, 60 Stat. 755, chapter 724, S. 1717, is approved. Section 10(b)(1) defines restricted data as all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material or its use in the production of power, excluding only what the Commission affirmatively determines may be published. Section 2(a) establishes the Atomic Energy Commission, section 9(a) transfers the Manhattan Engineer District's holdings to it, section 10(b)(4) reaches concealment and destruction with a capital penalty, and section 10(b)(5)(C) gives the FBI exclusive jurisdiction over violations.",
+   "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
+  },
+  {
+   "id": "tl-1955-02-15-silver-bug",
+   "strand": "program",
+   "date": "1955-02-15",
+   "precision": "day",
+   "tier": "B",
+   "node": "tr-ac-47-silver-bug",
+   "label": "ATIC and WADC report jointly on a disc-shaped supersonic aircraft",
+   "text": "TR-AC-47, Project No. 9961, is issued at Wright-Patterson Air Force Base on the Avro Canada Project Y2 flat-riser. Its stated purpose is to correct the distorted picture presented in previous releases and to alert the intelligence community to any Soviet interest, and its Summary says the project should in no way be associated with any science fiction or flying saucer stories because of its external appearance. It was declassified on 29 March 1995.",
+   "source": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955, https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+  },
+  {
+   "id": "tl-1956-nicap-incorporated",
+   "strand": "oversight",
+   "date": "1956",
+   "precision": "year",
+   "tier": "B",
+   "node": "nicap",
+   "label": "NICAP incorporated in the District of Columbia",
+   "text": "The National Investigations Committee on Aerial Phenomena states in its own 1964 volume that it is a non-profit organization incorporated in the District of Columbia in 1956. A Washington Daily News report of 23 October 1956, filed in the FBI's NICAP file, records the organisation forming at 1536 Connecticut Avenue NW under T. Townsend Brown of Leesburg, Virginia, executive vice chairman pro tempore, with a nine-man board of governors still to be elected on 1 November. The District's own corporate register was not opened.",
+   "source": "The UFO Evidence, NICAP, May 1964, CIA filed copy CIA-RDP81R00560R000100010001-0, https://archive.org/details/cia-readingroom-document-cia-rdp81r00560r000100010001-0 ; FBI file 100-35992, part 1, https://archive.org/details/NICAP"
+  },
+  {
+   "id": "tl-1959-06-19-lunar-research-flights",
+   "strand": "program",
+   "date": "1959-06-19",
+   "precision": "day",
+   "tier": "B",
+   "node": "afswc-tr-59-39",
+   "label": "A Study of Lunar Research Flights delivered to the Air Force Special Weapons Center",
+   "text": "AFSWC TR-59-39 Vol I, by L. Reiffel of the Armour Research Foundation with contributions including C. E. Sagan, is dated 19 June 1959 under Contract AF 29(601)-1164. Its introduction states that the motivation for detonating a nuclear weapon on or near the Moon is threefold, scientific, military and political, and that positive effects would accrue to the nation first performing the feat. Copies went to ARPA at the Pentagon, to the AEC for the Division of Military Application, to Sandia, to Los Alamos, to the Lawrence Radiation Laboratory and to WADD at Wright-Patterson. The string A119 appears nowhere in it.",
+   "source": "AFSWC TR-59-39 Vol I, DDC AD 425380, https://archive.org/details/DTIC_AD0425380"
+  },
+  {
+   "id": "tl-1962-10-25-bluegill-triple-prime",
+   "strand": "program",
+   "date": "1962-10-25",
+   "precision": "day",
+   "tier": "C",
+   "node": "bluegill-triple-prime",
+   "label": "Bluegill Triple Prime detonates over Johnston Island",
+   "text": "The Defense Nuclear Agency's Operation DOMINIC I report records the shot at 25 October 1962, 2359 local, the fourth and first successful attempt to launch the BLUEGILL device on a Thor missile, submegaton, tens of kilometres over Johnston Island, with 22 Air Force aircraft arrayed and nine Navy ships positioned. The report carries no unidentified object, no recovery and no debris, and the photographic aircraft were three KC-135s under the call sign KETTLE.",
+   "source": "DNA 6040F, Operation DOMINIC I--1962, Defense Nuclear Agency, https://archive.org/download/DTIC_ADA136820/DTIC_ADA136820_djvu.txt"
+  },
+  {
+   "id": "tl-1976-04-26-church-report-book-i",
+   "strand": "oversight",
+   "date": "1976-04-26",
+   "precision": "day",
+   "tier": "A",
+   "node": "church-committee",
+   "label": "Church Committee files Book I and records that it never examined an agency file itself",
+   "text": "Senate Report 94-755, Book I, Foreign and Military Intelligence, is filed. Its section on the obstacles the committee met states that despite its legal Senate mandate and the issuance of subpoenas, in no instance had the committee been able to examine the agencies' files on its own. Its publication note records that three chapters, Cover, Espionage and Budgetary Oversight, were deleted at the request of the agencies.",
+   "source": "S. Rept. 94-755, Book I, 26 April 1976, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-i.pdf"
+  },
+  {
+   "id": "tl-2015-10-22-mol-declassified",
+   "strand": "program",
+   "date": "2015-10-22",
+   "precision": "day",
+   "tier": "B",
+   "node": "manned-orbiting-laboratory",
+   "label": "NRO declassifies almost the entire DORIAN collection",
+   "text": "The NRO's Center for the Study of National Reconnaissance held a panel at the National Museum of the United States Air Force on the occasion of the NRO declassifying almost its entire collection of records on the Dorian program: over 850 documents with some 22,000 pages and 280 photographs. Line-by-line review had taken over a year, and the collection was posted on the NRO public web page the day after the panel.",
+   "source": "Spies in Space: Reflections on National Reconnaissance and the Manned Orbiting Laboratory, NRO CSNR, May 2019, foreword, https://www.govinfo.gov/content/pkg/GOVPUB-D-PURL-gpo123652/pdf/GOVPUB-D-PURL-gpo123652.pdf"
+  }
+ ],
+ "entityInfo": {},
+ "gaps": [
+  {
+   "id": "gap-gise-albuquerque-directorship",
+   "text": "The office the Michels corpus assigns Lawrence P. Gise, Manager of the AEC's Albuquerque Operations Office, is NOT OPENED. Nothing opened places him at ALOO in any role, and DNA 6005F names Hertford as the Manager in 1957. The Official Register series ends with the 1959 volume and cannot reach the 1960s at all, so no record opened for the gise node is dated later than 1959.",
+   "wouldClose": "The AEC Albuquerque Operations Office manager series 1960 to 1968, in NARA RG 326 Albuquerque. cia.gov/readingroom and the OSTI OpenNet search interface are both unreachable from this environment and catalog.archives.gov returned empty content to every form tried."
+  },
+  {
+   "id": "gap-puharich-aec-grant",
+   "text": "The $300,000 Atomic Energy Commission grant to Puharich's company Intelectron, described in three Michels lead maps, is NOT OPENED and no route to it was found. Neither patent read for the andrija-puharich node names Intelectron as assignee, and at least one secondary account attributes the same $300,000 to three private New York businessmen rather than to the AEC. Neither version is carried.",
+   "wouldClose": "An AEC contract or grant record for Intelectron. cia.gov/readingroom is 403 from this environment and the OSTI OpenNet search interface returns 404 at every URL tried."
+  },
+  {
+   "id": "gap-nicap-dc-incorporation-filing",
+   "text": "The District of Columbia corporate instrument for NICAP is NOT OPENED. The nicap node's incorporation claim rests on NICAP's own statement in The UFO Evidence that it is a non-profit organization incorporated in the District of Columbia in 1956, not on the register.",
+   "wouldClose": "The District of Columbia corporate register. corponline.dcra.dc.gov returns HTTP 522 on every path tried, including /Account.aspx/LogOn, and redirects to boss.dc.gov, which does not carry corporate filings."
+  },
+  {
+   "id": "gap-ocrd-foreign-technology-division",
+   "text": "No independent record of a Foreign Technology Division inside the Army's Office of the Chief of Research and Development was opened. It rests on Philip Corso's DA Form 66 alone, which the board already carries. The Army foreign-materiel exploitation body that does appear in the DTIC record is the US Army Foreign Science and Technology Center, whose translated Soviet technical reports run from 1964 onward; whether that centre is the same office renamed, a successor, or unrelated is not asserted. No army-ocrd institution node was built for this reason.",
+   "wouldClose": "NARA RG 319, the OCRD annual historical summaries, or the Army Center of Military History. The Trudeau papers at the US Army Heritage and Education Center are an offline finding aid, and the Army's Military Intelligence Hall of Fame biography at ikn.army.mil returned HTTP 504 twice."
+  },
+  {
+   "id": "gap-current-prp-manual",
+   "text": "The current governing Personnel Reliability Program issuances, DoDM 5210.42 and DoDI 5210.42, and the Air Force implementing instruction AFI 91-115, are NOT OPENED. The prp-nuclear-weapon node is dated and worded to the 25 May 1993 directive and must not be read as describing the current manual, including whether the programme is now called Personnel Reliability Assurance.",
+   "wouldClose": "esd.whs.mil, which returned 403 to WebFetch and to curl on the dodm and dodi paths, and static.e-publishing.af.mil, which returned 403 for AFI 91-115."
+  },
+  {
+   "id": "gap-dulles-oss-personnel-file-edge",
+   "text": "One drafted edge was dropped in this pass: allen-w-dulles to office-of-strategic-services, type institutional, Tier 1, on the National Archives media alert naming Dulles among the notable OSS personnel files opened on 14 August 2008. The target node does not exist. Candidates row 25 declined to build an Office of Strategic Services node, because NARA's 23,978-name OSS personnel index contains no Thomas T. or Townsend Brown but also lacks Allen Dulles, whom NARA's own release says has a file, so the negative is evidence and not proof. The claim itself is kept on the dulles node at Tier 1; only the edge is dropped.",
+   "wouldClose": "A decision to build an office-of-strategic-services node, at which point the edge follows from the source already recorded."
+  },
+  {
+   "id": "gap-eric-wang-stansel",
+   "text": "The corpus material attaching Arthur Stansel to eric-wang, supplying the Kingman claim and the HARRY shot date of 19 May 1953, was not verified by any opened record in this pass. The eric-wang node is left as it stands and no claim, source or edge was added to it.",
+   "wouldClose": "A primary record for the Stansel account. Triage 2, section C1 is where the corpus rows sit."
+  },
+  {
+   "id": "gap-george-trimble-field-physics-funding",
+   "text": "The claim that the Wright Air Development Center funded the Institute of Field Physics, raised in a Michels lead map against george-trimble, was not verified by any opened record in this pass. The Institute of Field Physics is cited as a source on that node and is not itself a node. george-trimble is left as it stands.",
+   "wouldClose": "A Wright Air Development Center contract record or an Institute of Field Physics funding statement. Triage 4, section C is where the corpus row sits."
+  }
+ ]
+}

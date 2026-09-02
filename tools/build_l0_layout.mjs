@@ -955,6 +955,13 @@ async function main() {
   }
 }
 
-if (typeof process !== 'undefined' && process.argv && import.meta.url.endsWith(process.argv[1]?.split('/').pop() || '\0')) {
-  main();
+/* Main guard. The previous form compared import.meta.url against the last
+   '/'-separated segment of argv[1]; on Windows argv[1] is backslash-separated,
+   the split found no '/', the comparison ran against the whole path and the
+   script exited 0 having written nothing (found 2 Sept 2026). Resolve both
+   sides to a real path instead. */
+if (typeof process !== 'undefined' && process.argv && process.argv[1]) {
+  const { fileURLToPath } = await import('node:url');
+  const path = await import('node:path');
+  if (path.resolve(process.argv[1]) === path.resolve(fileURLToPath(import.meta.url))) main();
 }

@@ -7,7 +7,7 @@
     "An acronym is only used where it is the form the record itself uses (AAWSAP, AATIP, ODNI, AFOSI, NIDS, NASA). Never coin one.",
     "Two nodes must never share a short. Volume I and Volume II, and the two Immaculate Constellation records, are the cases that force this."
   ],
-  "_verified": "47 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the derived shorts already in use.",
+  "_verified": "48 authored, every one 37 characters or fewer, no duplicates among themselves and no collision with the derived shorts already in use.",
   "shorts": {
     "aaro-fy2024-annual-report": "AARO FY2024 Annual Report",
     "aaro-fy2025-annual-report": "AARO FY2025 Annual Report",
@@ -55,6 +55,7 @@
     "university-at-albany": "University at Albany, Physics",
     "us-house": "U.S. House of Representatives",
     "waived-usap": "Waived unacknowledged SAP",
-    "waived-usap-mechanism": "Waived USAP — the mechanism"
+    "waived-usap-mechanism": "Waived USAP — the mechanism",
+    "afswc-tr-59-39": "AFSWC TR-59-39 Lunar Research Flights"
   }
 }

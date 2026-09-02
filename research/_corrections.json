@@ -673,6 +673,16 @@
      "name": "Archived capture of HRR Volume I",
      "url": "https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
      "date": "2026-08-11"
+    },
+    {
+     "name": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address https://www.wsj.com/politics/national-security/ufo-us-disinformation-45376f7e is unreachable from this environment; the text was read in the To Vima republication at this URL.",
+     "url": "https://www.tovima.com/wsj/the-pentagon-disinformation-that-fueled-americas-ufo-mythology/",
+     "date": "2025-06-06"
+    },
+    {
+     "name": "Robert Salas, 'OPINION | A Rebuttal from Robert Salas of Ojai to Wall Street Journal's June 6 article: America's UFO Mythology', Ojai Valley News, published 10 June 2025",
+     "url": "https://www.ojaivalleynews.com/news/opinion-a-rebuttal-from-robert-salas-of-ojai-to-wall-street-journal-s-june-6/article_81c5493f-3c22-407f-ac1a-46b3009d1dea.html",
+     "date": "2025-06-10"
     }
    ],
    "claims": [
@@ -842,6 +852,57 @@
    "id": "dird-aneutronic-fusion-propulsion-2",
    "cls": "document",
    "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)"
+  },
+  {
+   "id": "missing-scientists-probe-2026",
+   "cls": "event",
+   "desc": "On 20 April 2026 Oversight Chairman James Comer and Rep. Eric Burlison, chair of the Subcommittee on Economic Growth, Energy Policy and Regulatory Affairs, wrote effectively identical letters to NASA, the FBI, the Department of War and the Department of Energy asking about deaths and disappearances among people with access to sensitive US scientific information. The letters say 'at least ten individuals' and say the pattern 'began in 2023 with the death of Michael David Hicks'; the board previously carried eleven people since 2022, which is the Fox News figure of 21 April 2026 and not the Committee's. The letters also frame their own subject as recent unconfirmed public reporting and footnote every factual assertion in them to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. What they establish is that the Committee asked, and the deadline it set, 27 April 2026. The trigger was the disappearance in February 2026 of retired Air Force Maj. Gen. William Neil McCasland, former commander of the Air Force Research Laboratory at Wright-Patterson, from his Albuquerque home, leaving behind his phone, glasses, hiking boots, wallet and a .38-calibre revolver. Burlison revealed that his own staff had been trying to reach McCasland about a separate congressional investigation before he disappeared; reporting on 28 April indicated the deadline passed without FBI answers. This is the point at which The Program and The Vanishing become the same investigation: the House committee running the UAP inquiry is now also running the missing-scientists inquiry, and the two were connected by the same member and the same disappearance.",
+   "removeClaims": [
+    {
+     "contains": "into eleven individuals in nuclear or rocket technology",
+     "tier": 2,
+     "why": "The figure and the start year are Fox News's, not the Committee's. The signed letters of 20 April 2026 say 'at least ten individuals' and say the pattern 'began in 2023 with the death of Michael David Hicks'. Replaced by a claim that attributes the Fox figure to Fox and a Tier 1 claim quoting the letters. See research/leads/verified-michels-4.md section 17."
+    }
+   ],
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Committee's own letters of 20 April 2026 say 'at least ten individuals', not eleven, and date the pattern to a year later than the board did: the letters carry the string 'began in 2023 with the death of Michael David Hicks'. Effectively identical letters went to NASA, the FBI, the Department of War and the Department of Energy over the signatures of Chairman James Comer and Subcommittee Chairman Eric Burlison, copied to Ranking Members Garcia and Frost, and set a response deadline of 27 April 2026.",
+     "source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf ; the identical letter to Director Kash Patel, FBI, https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The Committee does not adopt the reporting it relays. Its letters frame their own subject as 'recent unconfirmed public reporting' and footnote every factual assertion to the Daily Mail of 11 April 2026 and to New York Post pieces of 9 April, 18 March and 21 March 2026. They ask four agencies whether those reports are true. What the letters establish is that the Committee asked, and the deadline it set.",
+     "source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+    },
+    {
+     "tier": 2,
+     "text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
+     "source": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The letters name one of the individuals and describe the reported McCasland link in the Committee's own words: 'Another JPL alum, Monica Reza, who served as the director of the NASA Lab's Materials Processing Group, disappeared while hiking in California in June 2025 and remains missing.' They add that accounts 'have even alleged a direct link between Ms. Reza and General McCasland, characterizing them as having a \"close professional connection\" through an Air Force-funded research program in the early 2000s.' The Committee attributes both to unconfirmed public reporting.",
+     "source": "Comer and Burlison to Administrator Jared Isaacman, NASA, 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chairman James Comer and Subcommittee Chairman Eric Burlison to NASA Administrator Jared Isaacman, 20 April 2026, House Committee on Oversight and Government Reform",
+     "url": "https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+     "date": "2026-04-20"
+    },
+    {
+     "name": "The same letter to FBI Director Kash Patel, 20 April 2026",
+     "url": "https://oversight.house.gov/wp-content/uploads/2026/04/FBI-Missing-Scientists-Letter_4.20.26.pdf",
+     "date": "2026-04-20"
+    },
+    {
+     "name": "Comer and Burlison Seek Information on Missing Nuclear and Rocket Scientists, press release carrying links to all four letters",
+     "url": "https://burlison.house.gov/media/press-releases/comer-burlison-seek-information-missing-nuclear-and-rocket-scientists",
+     "date": "2026-04-20"
+    }
+   ]
   }
  ],
  "edges": [],
