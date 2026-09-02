@@ -1,0 +1,22 @@
+# Batch 35 -- michels-candidates-35.txt
+# Names tagged [CONF] in michels-corpus-35.md, for tools/corpus_crosscheck.py
+# Source episodes:
+#   01. Why American Sperm Count Dropped 41% in 50 years (guest: Shanna H. Swan, PhD)
+#   02. Why Jonah Hill Made A Documentary About My Family (guests: Phil Stutz, Barry Michels)
+#   03. Why The CIA Hired a Team of Psychics (guests: Paul Smith, Herb Metz)
+#   04. Wim Hof: My Immune System Can Handle ANYTHING (guest: Wim Hof)
+#
+# One name per line. Only [CONF]-tagged entries from the corpus file. Lines starting
+# with # are comments. Files 01, 02 and 04 are off-topic per the brief and contributed
+# no structural entities; every line below comes from file 03.
+
+CIA
+Defense Department
+Stargate Project
+NASA
+Paul Smith
+Dale Graff
+Jimmy Carter
+Hal Puthoff
+Ingo Swann
+Gertrude Schmeidler
