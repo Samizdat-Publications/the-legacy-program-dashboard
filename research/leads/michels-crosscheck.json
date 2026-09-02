@@ -1,10 +1,15 @@
 {
  "counts": {
-  "NODE": 363,
-  "PROSE": 176,
-  "ABSENT": 933
+  "NODE": 384,
+  "PROSE": 206,
+  "ABSENT": 1019
  },
  "results": [
+  {
+   "candidate": "1954 Atomic Energy Act",
+   "verdict": "ABSENT",
+   "near": []
+  },
   {
    "candidate": "24th Special Tactics Squadron",
    "verdict": "ABSENT",
@@ -138,12 +143,29 @@
    ]
   },
   {
+   "candidate": "Albert Speer",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "albert",
+     "id": "john-albertine",
+     "field": "narrative",
+     "context": "...The DIA list names \"J Albertine, M.S., Directed Technologies\" as the author of the high-..."
+    }
+   ]
+  },
+  {
    "candidate": "Aldo Rabelo",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "Aldous Huxley",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Aleister Crowley",
    "verdict": "ABSENT",
    "near": []
   },
@@ -287,6 +309,11 @@
    "near": []
   },
   {
+   "candidate": "Army Counterintelligence Command",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Army Interplanetary Phenomenon Unit",
    "verdict": "ABSENT",
    "near": []
@@ -356,9 +383,31 @@
    "near": []
   },
   {
+   "candidate": "Astra",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Atomic Energy Commission Division of Military Applications",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Augusta Teller",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Australian Department of Defence",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "australian",
+     "id": "ross-coulthart",
+     "field": "narrative",
+     "context": "...from YouTube into broadcast. A Walkley- and Logie-decorated Australian investigative journalist who spent decades at Four Corners..."
+    }
+   ]
   },
   {
    "candidate": "AUTEC",
@@ -419,6 +468,18 @@
    "candidate": "Barack Obama",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Barbara Lamb",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "barbara",
+     "id": "waived-usap-mechanism",
+     "field": "claim",
+     "context": "...Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program..."
+    }
+   ]
   },
   {
    "candidate": "Barney Hill",
@@ -554,6 +615,11 @@
    "near": []
   },
   {
+   "candidate": "Bill Cooper",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Bill Donovan",
    "verdict": "ABSENT",
    "near": []
@@ -619,6 +685,18 @@
    "candidate": "Bill Uhouse",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Billy Meier",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "billy",
+     "id": "terry-patton",
+     "field": "narrative",
+     "context": "...y of the Government Accountability Office, Diane L. Dudley, Billy Morehead and David A. Vaudt. Any serious effort to force th..."
+    }
+   ]
   },
   {
    "candidate": "Blue Gill Triple Prime",
@@ -719,6 +797,11 @@
    ]
   },
   {
+   "candidate": "Boyd Bushman",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Brad Sorenson",
    "verdict": "ABSENT",
    "near": []
@@ -811,6 +894,11 @@
    "near": []
   },
   {
+   "candidate": "Budd Hopkins",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Bureau of Indian Affairs",
    "verdict": "ABSENT",
    "near": [
@@ -894,6 +982,18 @@
      "field": "narrative",
      "context": "...iation with the Research and Development Board under Doctor Compton during the Eisenhower administration' -- the RDB was a Trum..."
     },
+    {
+     "token": "carl",
+     "id": "garry-nolan",
+     "field": "chronology",
+     "context": "...Appointed Rachford and Carlota A. Harris Professor in Pathology, Stanford...."
+    }
+   ]
+  },
+  {
+   "candidate": "Carl Spaatz",
+   "verdict": "ABSENT",
+   "near": [
     {
      "token": "carl",
      "id": "garry-nolan",
@@ -1077,6 +1177,11 @@
      "context": "...Eisenhower administration through the Robertson Panel, the Carter administration through a 1977 White House inquiry, and the..."
     }
    ]
+  },
+  {
+   "candidate": "Chris Gibson",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Chris Gilbert",
@@ -1343,6 +1448,18 @@
    "near": []
   },
   {
+   "candidate": "Dale Graff",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "dale",
+     "id": "gerald-ford",
+     "field": "narrative",
+     "context": "...of Michigan residents reported objects near Dexter and Hillsdale in March 1966 and the Air Force's consultant offered swamp..."
+    }
+   ]
+  },
+  {
    "candidate": "Dale Jorgenson",
    "verdict": "ABSENT",
    "near": [
@@ -1489,6 +1606,11 @@
   },
   {
    "candidate": "David Paulides",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "David Rockefeller",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1681,6 +1803,24 @@
    "near": []
   },
   {
+   "candidate": "Doug Engelbart",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "engelbart",
+     "id": "jacques-vallee",
+     "field": "narrative",
+     "context": "...e (1961), with a Northwestern PhD (1967), he joined Douglas Engelbart's Augmentation Research Center at SRI International in 1971..."
+    },
+    {
+     "token": "doug",
+     "id": "susan-gough",
+     "field": "source",
+     "context": "...Douglas Dean Johnson - What's next for AARO? (on AARO having no..."
+    }
+   ]
+  },
+  {
    "candidate": "Doug Pasternack",
    "verdict": "ABSENT",
    "near": [
@@ -1811,6 +1951,11 @@
    "near": []
   },
   {
+   "candidate": "Edward Witten",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Ehud Barak",
    "verdict": "ABSENT",
    "near": []
@@ -1870,6 +2015,11 @@
    "near": []
   },
   {
+   "candidate": "Emu Field",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "ESA",
    "verdict": "ABSENT",
    "near": []
@@ -1905,12 +2055,22 @@
    "near": []
   },
   {
+   "candidate": "F.E. Warren AFB",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "FAA",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "Falun Gong",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Fay Ann Potter",
    "verdict": "ABSENT",
    "near": []
   },
@@ -1978,6 +2138,11 @@
   },
   {
    "candidate": "Fort Detrick",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Fort Hood",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2061,6 +2226,11 @@
      "context": "...into a body of work. A chemist by training with a career in semiconductor engineering, he co-founded the Scientific Coalition for UAP..."
     }
    ]
+  },
+  {
+   "candidate": "Fukushima",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "G. Gordon Liddy",
@@ -2180,6 +2350,18 @@
    "near": []
   },
   {
+   "candidate": "George Hoover",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "hoover",
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service C..."
+    }
+   ]
+  },
+  {
    "candidate": "George Tenet",
    "verdict": "ABSENT",
    "near": []
@@ -2196,6 +2378,11 @@
   },
   {
    "candidate": "Gerald Soffen",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Gertrude Schmeidler",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2261,6 +2448,11 @@
   },
   {
    "candidate": "Gordon Gray",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Gordon Novel",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2331,7 +2523,17 @@
    ]
   },
   {
+   "candidate": "Guidance Technologies",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Guy Bannister",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "H.P. Robertson",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2394,6 +2596,11 @@
   },
   {
    "candidate": "Hawksbill Creek Agreement",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Hendrik Lorentz",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2588,6 +2795,11 @@
    ]
   },
   {
+   "candidate": "Iino",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Intelectron Corporation",
    "verdict": "ABSENT",
    "near": []
@@ -2712,6 +2924,11 @@
    "near": []
   },
   {
+   "candidate": "Jack Gordon",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Jack Martin",
    "verdict": "ABSENT",
    "near": []
@@ -2749,6 +2966,11 @@
    "near": []
   },
   {
+   "candidate": "Jacob Sporrenberg",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Jacobo Grinberg",
    "verdict": "ABSENT",
    "near": []
@@ -2772,6 +2994,18 @@
    "candidate": "James Cameron",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "James Clerk Maxwell",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "maxwell",
+     "id": "maxwell-frost",
+     "field": "label",
+     "context": "...Maxwell Alejandro Frost..."
+    }
+   ]
   },
   {
    "candidate": "James Conant",
@@ -2828,6 +3062,23 @@
    "near": []
   },
   {
+   "candidate": "James Woodward",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Jane's Defense Weekly",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "weekly",
+     "id": "mike-rounds",
+     "field": "source",
+     "context": "...Sen. Rounds \u2014 Weekly Round[s] Up, June 22-28, 2026..."
+    }
+   ]
+  },
+  {
    "candidate": "Jared Birchall",
    "verdict": "ABSENT",
    "near": []
@@ -2859,6 +3110,11 @@
   },
   {
    "candidate": "Jean Cernan",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Jean Seberg",
    "verdict": "ABSENT",
    "near": []
   },
@@ -2943,6 +3199,11 @@
      "context": "...itutes for Research to evaluate the programme; statistician Jessica Utts concluded the laboratory results showed statistically..."
     }
    ]
+  },
+  {
+   "candidate": "Jesuit National Headquarters",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Jet Propulsion Laboratory",
@@ -3059,6 +3320,11 @@
   },
   {
    "candidate": "John Burrows",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "John Campbell",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3237,6 +3503,11 @@
    "near": []
   },
   {
+   "candidate": "Jose Padilla",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Josef Mengele",
    "verdict": "ABSENT",
    "near": []
@@ -3298,6 +3569,11 @@
    "near": []
   },
   {
+   "candidate": "Joyce Haber",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "JSOC",
    "verdict": "ABSENT",
    "near": []
@@ -3313,6 +3589,11 @@
      "context": "...he LAN airline meteorologist Guillermo Duarte, the engineer Juan E. Gatica, the physician Hugo Sievers, the doctor of physic..."
     }
    ]
+  },
+  {
+   "candidate": "Julian Barnes",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Kai Dickens",
@@ -3455,6 +3736,11 @@
    "near": []
   },
   {
+   "candidate": "Lear Incorporated",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Lee Hively",
    "verdict": "ABSENT",
    "near": []
@@ -3480,7 +3766,17 @@
    "near": []
   },
   {
+   "candidate": "Lewis Witten",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Lincoln La Paz",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Linda Brown",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3495,7 +3791,22 @@
    "near": []
   },
   {
+   "candidate": "Lonnie Zamora",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Lookout Mountain Laboratory",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Lord Hill-Norton",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Los Alamos Primer",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3548,6 +3859,11 @@
   },
   {
    "candidate": "Lyndon Johnson",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Mac Brazil",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3676,7 +3992,27 @@
    "near": []
   },
   {
+   "candidate": "Max Born",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "McGeorge Bundy",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "McMahon Atomic Energy Act of 1946",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "McMahon Atomic Secrecy Act of 1946",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "McMahon Secrecy Act",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3692,6 +4028,11 @@
   },
   {
    "candidate": "Melissa Cassius",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "MI6",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3785,6 +4126,11 @@
    "near": []
   },
   {
+   "candidate": "Mike Masters",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Mike McConnell",
    "verdict": "ABSENT",
    "near": []
@@ -3801,6 +4147,11 @@
   },
   {
    "candidate": "Mission Research Corporation",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "MIT",
    "verdict": "ABSENT",
    "near": []
   },
@@ -3830,6 +4181,18 @@
    "candidate": "Monsanto",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Montebello Islands",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "islands",
+     "id": "sheffield-hallam",
+     "field": "desc",
+     "context": "...thored report on aerial phenomena observed near the Channel Islands in April 2007. The same repository also holds Andrew Robins..."
+    }
+   ]
   },
   {
    "candidate": "Moriches Bay",
@@ -3945,6 +4308,16 @@
    "near": []
   },
   {
+   "candidate": "NASA Marshall Space Flight Center",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "NASP",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Nassau Bahamas",
    "verdict": "ABSENT",
    "near": []
@@ -3976,6 +4349,11 @@
      "context": "...ting methodologies for identifying and engineering advanced technologies, personnel and oversight details, and the involveme..."
     }
    ]
+  },
+  {
+   "candidate": "National Investigations Committee on Aerial Phenomena",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Naval Information Warfare Center",
@@ -4259,12 +4637,34 @@
    "near": []
   },
   {
+   "candidate": "OSS",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Otto Skorzeny",
    "verdict": "ABSENT",
    "near": []
   },
   {
+   "candidate": "Pan-STARRS Telescope",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "telescope",
+     "id": "travis-taylor",
+     "field": "claim",
+     "context": "...ased beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years..."
+    }
+   ]
+  },
+  {
    "candidate": "Paris Observatory",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Parviz Jafari",
    "verdict": "ABSENT",
    "near": []
   },
@@ -4304,7 +4704,17 @@
    "near": []
   },
   {
+   "candidate": "Paul Schatzkin",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Paul Shatzkin",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Paul Smith",
    "verdict": "ABSENT",
    "near": []
   },
@@ -4312,6 +4722,18 @@
    "candidate": "PEAD",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Penn State University",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "penn",
+     "id": "jim-penniston",
+     "field": "narrative",
+     "context": "...Penniston was the senior security police NCO who went outside th..."
+    }
+   ]
   },
   {
    "candidate": "People's Liberation Army",
@@ -4376,6 +4798,11 @@
      "context": "...ain exists as a structural rather than anecdotal problem. A Thiel Capital investor who built the YouTube series American Alch..."
     }
    ]
+  },
+  {
+   "candidate": "Philadelphia Experiment",
+   "verdict": "ABSENT",
+   "near": []
   },
   {
    "candidate": "Philip Zimbardo",
@@ -4543,6 +4970,11 @@
    "near": []
   },
   {
+   "candidate": "Remy Baca",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Renaissance Technologies",
    "verdict": "ABSENT",
    "near": []
@@ -4564,6 +4996,11 @@
   },
   {
    "candidate": "Restricted Area 5107",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Revelations, Alien Contact and Human Deception",
    "verdict": "ABSENT",
    "near": []
   },
@@ -4691,6 +5128,11 @@
    ]
   },
   {
+   "candidate": "Robert Emenegger",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Robert F. Kennedy Jr.",
    "verdict": "ABSENT",
    "near": [
@@ -4775,6 +5217,11 @@
   },
   {
    "candidate": "Robert Mercer",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Robert Millikan",
    "verdict": "ABSENT",
    "near": []
   },
@@ -4902,12 +5349,22 @@
    "near": []
   },
   {
+   "candidate": "Royal Observer Corps",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Ruben Uriarte",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "Rudolf Hess",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Rudolf Schriever",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5150,6 +5607,11 @@
    "near": []
   },
   {
+   "candidate": "Solar Warden",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Solomon Lefschetz",
    "verdict": "ABSENT",
    "near": []
@@ -5187,6 +5649,18 @@
    "near": []
   },
   {
+   "candidate": "SR-71 Blackbird",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "blackbird",
+     "id": "haines-cia-history",
+     "field": "claim",
+     "context": "...als who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s..."
+    }
+   ]
+  },
+  {
    "candidate": "Stacey Dixon",
    "verdict": "ABSENT",
    "near": []
@@ -5222,6 +5696,18 @@
    "candidate": "Starfish Prime",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Stephen Dick",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "dick",
+     "id": "samantha-ravich",
+     "field": "narrative",
+     "context": "...rincipal deputy national security adviser to Vice President Dick Cheney. A trustee who has sat on PIAB is a trustee who has..."
+    }
+   ]
   },
   {
    "candidate": "Stephen Digna",
@@ -5377,6 +5863,11 @@
    "near": []
   },
   {
+   "candidate": "Tehran",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Teledyne Ryan",
    "verdict": "ABSENT",
    "near": []
@@ -5397,12 +5888,22 @@
    "near": []
   },
   {
+   "candidate": "The Hunt for the Skinwalker",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Theresa May",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "Thomas Bearden",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Thomas Kuhn",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5486,12 +5987,22 @@
    "near": []
   },
   {
+   "candidate": "Travis Barker",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Travis Walton",
    "verdict": "ABSENT",
    "near": []
   },
   {
    "candidate": "Trent Reznor",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Trinity: The Best Kept Secret",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5524,6 +6035,18 @@
      "id": "d-bio",
      "field": "desc",
      "context": "...pability, veterinary or forensic pathology staffing, tissue banking, and biosafety documentation - and that footprint is audita..."
+    }
+   ]
+  },
+  {
+   "candidate": "University of North Carolina at Chapel Hill",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "carolina",
+     "id": "george-trimble",
+     "field": "claim",
+     "context": "...sics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working i..."
     }
    ]
   },
@@ -5590,6 +6113,11 @@
    "near": []
   },
   {
+   "candidate": "USS Eldridge",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "USS Hornet",
    "verdict": "ABSENT",
    "near": []
@@ -5623,6 +6151,11 @@
   },
   {
    "candidate": "Vasily Smyslov",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Vatican Archives",
    "verdict": "ABSENT",
    "near": []
   },
@@ -5714,6 +6247,11 @@
    "near": []
   },
   {
+   "candidate": "Wackenhut",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
    "candidate": "Wally Schirra",
    "verdict": "ABSENT",
    "near": []
@@ -5734,6 +6272,18 @@
    "candidate": "Walter B. Smith",
    "verdict": "ABSENT",
    "near": []
+  },
+  {
+   "candidate": "Walter Bedell Smith",
+   "verdict": "ABSENT",
+   "near": [
+    {
+     "token": "bedell",
+     "id": "entityInfo.aaro-historical-record-vol1",
+     "field": "desc",
+     "context": "...obal Hawk. It names Twining, Ruppelt, Vandenberg, Chadwell, Bedell Smith, Robertson, Durant, Cabell, Hynek, Seamans, Condon, C..."
+    }
+   ]
   },
   {
    "candidate": "Walter Bosley",
@@ -5950,6 +6500,11 @@
   },
   {
    "candidate": "William Stevenson",
+   "verdict": "ABSENT",
+   "near": []
+  },
+  {
+   "candidate": "Wilson memo",
    "verdict": "ABSENT",
    "near": []
   },
@@ -6241,6 +6796,27 @@
    ]
   },
   {
+   "candidate": "Atomic Energy Act",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "martin-heinrich",
+     "field": "narrative",
+     "context": "...nistration.' The Senate findings his amendment carried single out the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign..."
+    },
+    {
+     "id": "martin-heinrich",
+     "field": "claim",
+     "context": "...e UAPDA findings blame non-disclosure in part on exemptions under the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign..."
+    },
+    {
+     "id": "uap-gerb",
+     "field": "narrative",
+     "context": "...ity Council and its 5412 Committee, shielded it statutorily under the Atomic Energy Act of 1954, and that after a 1994 restructuring of the SAP enterprise th..."
+    }
+   ]
+  },
+  {
    "candidate": "Atomic Energy Act of 1954",
    "verdict": "PROSE",
    "hits": [
@@ -6283,6 +6859,43 @@
    ]
   },
   {
+   "candidate": "Aurora",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "aurora-budget-line",
+     "field": "desc",
+     "context": "...Aurora belongs on this board as budget mechanics and nothing else. It is a d..."
+    },
+    {
+     "id": "aurora-budget-line",
+     "field": "label",
+     "context": "...Aurora (FY1986-FY1987 procurement line)..."
+    },
+    {
+     "id": "aurora-budget-line",
+     "field": "claim",
+     "context": "...lic document that it wants $2.3 billion for an Air Force plane called Aurora but responded yesterday that the plane -- if it really is a plane --..."
+    }
+   ]
+  },
+  {
+   "candidate": "Aviation Week",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "aurora-budget-line",
+     "field": "desc",
+     "context": "...o say only: It's a classified program.' This is five years before the Aviation Week story that usually gets the credit. No craft claim and no recovery cl..."
+    },
+    {
+     "id": "tl-1985-aurora-p1",
+     "field": "text",
+     "context": "...s were to say only 'It's a classified program.' Five years before the Aviation Week story...."
+    }
+   ]
+  },
+  {
    "candidate": "Avrocar",
    "verdict": "PROSE",
    "hits": [
@@ -6312,6 +6925,27 @@
      "id": "andy-biggs--david-grusch",
      "field": "note",
      "context": "...he official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That..."
+    }
+   ]
+  },
+  {
+   "candidate": "Bell",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "james-lacatski",
+     "field": "narrative",
+     "context": "...t of unknown origin, and in an April 2026 conversation with Jeremy Corbell he said AAWSAP 'created the world's largest UFO data warehouse' of mo..."
+    },
+    {
+     "id": "james-lacatski",
+     "field": "chronology",
+     "context": "...Corbell conversation published: AAWSAP built 'the world's largest UFO data wa..."
+    },
+    {
+     "id": "michael-shellenberger",
+     "field": "narrative",
+     "context": "...d whistleblower claimed to have found the programme inside a folder labelled '2018 Schriever Wargame'; analyst Jason Colavito argued that person..."
     }
    ]
   },
@@ -6496,6 +7130,27 @@
    ]
   },
   {
+   "candidate": "Catalina Island",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "matthew-szydagis",
+     "field": "narrative",
+     "context": "...UAPx with Kevin Knuth and running an instrumented field campaign off Catalina Island, publishing 'Initial results from the first field expedition of UAPx..."
+    },
+    {
+     "id": "matthew-szydagis",
+     "field": "chronology",
+     "context": "...UAPx conducts its first instrumented field expedition off Catalina Island, California...."
+    },
+    {
+     "id": "uapx",
+     "field": "desc",
+     "context": "...scientist and Entropy editor, conducted the first UAPx expedition off Catalina Island, California, and published 'Initial results from the first field expe..."
+    }
+   ]
+  },
+  {
    "candidate": "CERN",
    "verdict": "PROSE",
    "hits": [
@@ -6513,6 +7168,48 @@
      "id": "david-grusch",
      "field": "chronology",
      "context": "...PPD-19 urgent-concern complaint filed with the ICIG by counsel Charles McCullough III..."
+    }
+   ]
+  },
+  {
+   "candidate": "Chapel Hill Conference",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "louis-witten",
+     "field": "narrative",
+     "context": "...one documented fact and its context: in January 1957 he attended the Chapel Hill conference on the role of gravitation in physics as a representative of RIAS, In..."
+    },
+    {
+     "id": "louis-witten",
+     "field": "claim",
+     "context": "...The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc...."
+    },
+    {
+     "id": "louis-witten",
+     "field": "claim",
+     "context": "...s that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company...."
+    }
+   ]
+  },
+  {
+   "candidate": "Christic Institute",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "daniel-sheehan",
+     "field": "narrative",
+     "context": "...e, Silkwood, Greensboro and the La Penca bombing suit, he founded the Christic Institute and the Romero Institute and now runs the New Paradigm Institute, whi..."
+    },
+    {
+     "id": "daniel-sheehan",
+     "field": "claim",
+     "context": "...ames Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11..."
+    },
+    {
+     "id": "daniel-sheehan",
+     "field": "chronology",
+     "context": "...Avirgan v. Hull dismissed; Christic Institute ordered to pay $955,000 in fees and $79,500 in costs under Rule 11...."
     }
    ]
   },
@@ -6582,6 +7279,38 @@
      "id": "baass-ten-month-report",
      "field": "desc",
      "context": "...orthern Tier missile base incidents and Brazilian case files from the Colares and Cear\u00e1 events. It is the deliverable that makes AARO's 2024 senten..."
+    }
+   ]
+  },
+  {
+   "candidate": "Congress",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "harry-reid",
+     "field": "narrative",
+     "context": "...practice, and called the program one of the good things he did in his congressional service. He died 28 December 2021...."
+    },
+    {
+     "id": "james-lacatski",
+     "field": "claim",
+     "context": "...O case data \u2014 a body of work far larger than the 38 DIRDs released to Congress...."
+    },
+    {
+     "id": "eric-davis",
+     "field": "narrative",
+     "context": "..., and they are the reason the phrase 'off-world vehicles' entered the congressional record's ambient vocabulary. Davis is also the author of record..."
+    }
+   ]
+  },
+  {
+   "candidate": "Congressional Research Service",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "waived-usap-mechanism",
+     "field": "claim",
+     "context": "...access program series, DoD Inspector General audits and evaluations, Congressional Research Service products, and the Senate and House Armed Services Committee document..."
     }
    ]
   },
@@ -6895,6 +7624,38 @@
    ]
   },
   {
+   "candidate": "Eglin AFB",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "anna-paulina-luna",
+     "field": "chronology",
+     "context": "...Accompanies Gaetz and Burchett to Eglin AFB on a protected disclosure from Air Force pilots...."
+    },
+    {
+     "id": "matt-gaetz",
+     "field": "sub",
+     "context": "...Former U.S. Rep. (R-FL-1); the Eglin AFB protected disclosure and radar sequence..."
+    },
+    {
+     "id": "ch-2023-07-26d",
+     "field": "text",
+     "context": "...scribes being initially refused images, radar and full crew access at Eglin AFB, obtaining a photograph and one crew member after a discussion about..."
+    }
+   ]
+  },
+  {
+   "candidate": "Enrico Fermi",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "gerald-smith",
+     "field": "narrative",
+     "context": "...(1961) in physics from Yale, a second-generation graduate student of Enrico Fermi, and post-doctoral years from 1961 to 1966 as an assistant professor..."
+    }
+   ]
+  },
+  {
    "candidate": "Eric Walker",
    "verdict": "PROSE",
    "hits": [
@@ -6997,6 +7758,27 @@
    ]
   },
   {
+   "candidate": "Glenn L. Martin Company",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "louis-witten",
+     "field": "sub",
+     "context": "...General relativist; first researcher hired by RIAS, Inc., the Glenn L. Martin Company's research institute..."
+    },
+    {
+     "id": "george-trimble",
+     "field": "narrative",
+     "context": "...where. Martin money also reached the university side: Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $..."
+    },
+    {
+     "id": "george-trimble",
+     "field": "sub",
+     "context": "...Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced stud..."
+    }
+   ]
+  },
+  {
    "candidate": "Gravity Research Foundation",
    "verdict": "PROSE",
    "hits": [
@@ -7009,6 +7791,38 @@
      "id": "george-trimble",
      "field": "claim",
      "context": "...rding a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledg..."
+    }
+   ]
+  },
+  {
+   "candidate": "Guy Hottel memo",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "aztec-1948",
+     "field": "claim",
+     "context": "...The FBI's own position on the 22 March 1950 Guy Hottel memo, the most-viewed document in its Vault: it 'does not prove the existe..."
+    },
+    {
+     "id": "aztec-1948",
+     "field": "source",
+     "context": "...FBI Records: The Vault (FOIA reading room) - Guy Hottel memorandum, 22 March 1950..."
+    },
+    {
+     "id": "hottel-memo",
+     "field": "label",
+     "context": "...Guy Hottel memorandum, 22 March 1950..."
+    }
+   ]
+  },
+  {
+   "candidate": "Hanford",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "d-secrecy-architecture",
+     "field": "desc",
+     "context": "...he documented ancestor: tens of thousands of workers at Oak Ridge and Hanford who could describe their own task precisely and had no authorised kno..."
     }
    ]
   },
@@ -7131,6 +7945,43 @@
      "id": "stargate-program",
      "field": "desc",
      "context": "...ter in Menlo Park, coining the term 'remote viewing' and working with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. The military side bega..."
+    }
+   ]
+  },
+  {
+   "candidate": "Ingo Swann",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-sri",
+     "field": "desc",
+     "context": "...ntelligence Center, coined the term 'remote viewing', and worked with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. That work, funded succe..."
+    },
+    {
+     "id": "stargate-program",
+     "field": "desc",
+     "context": "...ter in Menlo Park, coining the term 'remote viewing' and working with Ingo Swann, Pat Price, Joseph McMoneagle and Uri Geller. The military side began..."
+    }
+   ]
+  },
+  {
+   "candidate": "Institute for Advanced Study",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "george-trimble",
+     "field": "narrative",
+     "context": "...ity.' He described the proposed body as an 'industrial version of the Institute for Advanced Study'.  That is an aerospace prime's executive, in 1955, in writing, sayin..."
+    },
+    {
+     "id": "george-trimble",
+     "field": "sub",
+     "context": "...Glenn L. Martin Company executive; proposed RIAS as an industrial institute for advanced study..."
+    },
+    {
+     "id": "george-trimble",
+     "field": "claim",
+     "context": "...imble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, an..."
     }
    ]
   },
@@ -7269,6 +8120,17 @@
    ]
   },
   {
+   "candidate": "John Andrews",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "ben-rich",
+     "field": "narrative",
+     "context": "...p in black projects,' and the reported private letters to model-maker John Andrews - survive only through secondhand recollection by attendees and corre..."
+    }
+   ]
+  },
+  {
    "candidate": "John F. Kennedy",
    "verdict": "PROSE",
    "hits": [
@@ -7302,6 +8164,27 @@
      "id": "ralph-blumenthal",
      "field": "narrative",
      "context": "...Debrief instead. His 2021 book The Believer, on Harvard psychiatrist John Mack, situates him in the longer lineage of establishment-credentialed wri..."
+    }
+   ]
+  },
+  {
+   "candidate": "John McCain",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "brian-jenkins-dia",
+     "field": "narrative",
+     "context": "...9 January 2018 DIA letter to Senate Armed Services Committee chairman John McCain and ranking member Jack Reed that transmitted the list of all 38 prod..."
+    },
+    {
+     "id": "john-burroughs",
+     "field": "narrative",
+     "context": "...administrative fight that ran through congressional offices - Senator John McCain's staff among them - before the VA granted him service-connected bene..."
+    },
+    {
+     "id": "dia-aatip-letter-2018",
+     "field": "desc",
+     "context": "...am's existence, DIA wrote to Senate Armed Services Committee chairman John McCain and ranking member Jack Reed, over the signature of Brian L. Jenkins,..."
     }
    ]
   },
@@ -7449,6 +8332,27 @@
    ]
   },
   {
+   "candidate": "Lear",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "james-lacatski",
+     "field": "narrative",
+     "context": "...t Covert UFO Program' series (2023, 2025, and 'Future Visions'), all cleared through DOPSR \u2014 meaning DoD read and passed the manuscripts. Lacats..."
+    },
+    {
+     "id": "kit-green",
+     "field": "claim",
+     "context": "...olio and the DIA-funded 2008-2012 human-effects casework, giving one clearance history continuity across the programme's institutional relocatio..."
+    },
+    {
+     "id": "david-grusch",
+     "field": "narrative",
+     "context": "...modern disclosure record: the first person holding a current TS//SCI clearance with CI and lifestyle polygraph and a UAP Task Force billet to st..."
+    }
+   ]
+  },
+  {
    "candidate": "Lee Graham",
    "verdict": "PROSE",
    "hits": [
@@ -7562,6 +8466,17 @@
      "id": "tim-burchett",
      "field": "narrative",
      "context": "...is built on: 'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew..."
+    }
+   ]
+  },
+  {
+   "candidate": "Marshall Space Flight Center",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-huntsville",
+     "field": "desc",
+     "context": "...eam in 1950, became the Army Ballistic Missile Agency and then NASA's Marshall Space Flight Center, and today hosts the Missile Defense Agency, Army Aviation and Missil..."
     }
    ]
   },
@@ -7831,6 +8746,22 @@
    ]
   },
   {
+   "candidate": "Naval Research Laboratory",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...cember 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND BROWN. . . w..."
+    },
+    {
+     "id": "thomas-townsend-brown",
+     "field": "claim",
+     "context": "...erhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932..."
+    }
+   ]
+  },
+  {
    "candidate": "Naval Surface Warfare Center Crane",
    "verdict": "PROSE",
    "hits": [
@@ -7891,6 +8822,27 @@
      "id": "christopher-sherwood",
      "field": "chronology",
      "context": "...Tells the New York Post that AATIP 'did pursue research and investigation into unidentified a..."
+    }
+   ]
+  },
+  {
+   "candidate": "NICAP",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "kenneth-arnold",
+     "field": "narrative",
+     "context": "...ue Book microfilm at the National Archives and in scanned form in the NICAP document archive...."
+    },
+    {
+     "id": "kenneth-arnold",
+     "field": "source",
+     "context": "...NICAP document archive index (470624cascades_docs.pdf)..."
+    },
+    {
+     "id": "thomas-crosson",
+     "field": "source",
+     "context": "...ng Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program (NICAP archival copy)..."
     }
    ]
   },
@@ -8127,6 +9079,22 @@
    ]
   },
   {
+   "candidate": "Paola Harris",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "jacques-vallee",
+     "field": "narrative",
+     "context": "...1945 San Antonio, New Mexico 'Trinity' case material he wrote up with Paola Harris in 2021. He was a consultant to Robert Bigelow's National Institute f..."
+    },
+    {
+     "id": "jacques-vallee",
+     "field": "chronology",
+     "context": "...Publishes 'Trinity: The Best-Kept Secret' with Paola Harris on the alleged August 1945 San Antonio, New Mexico crash and its mate..."
+    }
+   ]
+  },
+  {
    "candidate": "Pat Price",
    "verdict": "PROSE",
    "hits": [
@@ -8165,6 +9133,27 @@
    ]
   },
   {
+   "candidate": "PEER",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "kit-green",
+     "field": "narrative",
+     "context": "...n-Morris Cases' appendix, and an ICD-diagnostics appendix built on 42 peer-reviewed cases plus roughly 300 unpublished ones, and it names the Ca..."
+    },
+    {
+     "id": "kit-green",
+     "field": "claim",
+     "context": "...not established by the DIA release (author redacted). Two of the DIRD peer reviews quoted in U-429-09 are written in a distinctly medical/intell..."
+    },
+    {
+     "id": "kit-green",
+     "field": "claim",
+     "context": "...The document draws on 42 relevant cases from the peer-reviewed medical literature plus roughly 300 unpublished cases, and i..."
+    }
+   ]
+  },
+  {
    "candidate": "Philip Klass",
    "verdict": "PROSE",
    "hits": [
@@ -8188,6 +9177,27 @@
      "id": "salvatore-pais",
      "field": "claim",
      "context": "...y is the ruby laser: the theory preceded the device, and 'the Army at Picatinny Arsenal had built the first ruby laser in 1958 but never sought a patent much..."
+    }
+   ]
+  },
+  {
+   "candidate": "Princeton",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "chad-underwood",
+     "field": "narrative",
+     "context": "...vor testified under his own name that 'tapes were never taken,' while Princeton crewmen describe collection of recorded media. Underwood's byline-lev..."
+    },
+    {
+     "id": "david-fravor",
+     "field": "narrative",
+     "context": "...red off a training intercept to investigate a contact the cruiser USS Princeton had been tracking, and finding 'a small white Tic Tac shaped object w..."
+    },
+    {
+     "id": "david-fravor",
+     "field": "claim",
+     "context": "...USS Princeton had been tracking the objects on Aegis for two weeks, descending from..."
     }
    ]
   },
@@ -8374,6 +9384,17 @@
    ]
   },
   {
+   "candidate": "Rod Serling",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "bryce-zabel",
+     "field": "claim",
+     "context": "...& Sciences from 2002 to 2003, the first writer in that position since Rod Serling.' Its separate list of Presidents and Chairs carries the entry '2002-..."
+    }
+   ]
+  },
+  {
    "candidate": "Roger Babson",
    "verdict": "PROSE",
    "hits": [
@@ -8533,6 +9554,27 @@
    ]
   },
   {
+   "candidate": "SETI",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "garry-nolan",
+     "field": "source",
+     "context": "...Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED..."
+    },
+    {
+     "id": "john-podesta",
+     "field": "narrative",
+     "context": "...so out loud. The Clinton Library's own UFO FOIA collections - Greer/CSETI correspondence (2006-0474-F), the Roswell file (2006-0476-F), the Fir..."
+    },
+    {
+     "id": "john-podesta",
+     "field": "claim",
+     "context": "...-related FOIA collections consist of external correspondence - Greer/CSETI material (2006-0474-F), Roswell public correspondence and the GAO rep..."
+    }
+   ]
+  },
+  {
    "candidate": "Silas Newton",
    "verdict": "PROSE",
    "hits": [
@@ -8571,6 +9613,27 @@
      "id": "david-spergel--nasa",
      "field": "note",
      "context": "...Spergel of the Simons Foundation chaired the 16-member panel...."
+    }
+   ]
+  },
+  {
+   "candidate": "Socorro",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "l-white-sands",
+     "field": "desc",
+     "context": "...issile Range covers almost 3,200 square miles across Dona Ana, Otero, Socorro, Sierra and Lincoln Counties in New Mexico, making it the largest mil..."
+    },
+    {
+     "id": "plains-san-agustin-1947",
+     "field": "desc",
+     "context": "...July 1947 on the Plains of San Agustin, a graben basin in Catron and Socorro Counties, New Mexico, about 175 miles northwest of Roswell, best know..."
+    },
+    {
+     "id": "l-san-agustin",
+     "field": "desc",
+     "context": "...The Plains of San Agustin is a large high-desert basin west of Socorro, New Mexico, best known today as the site of the Very Large Array. On..."
     }
    ]
   },
@@ -8666,6 +9729,17 @@
      "id": "nara-rg615",
      "field": "claim",
      "context": "...dment Wing (Heavy), 1-31 March 1960, assigned to Fifteenth Air Force, Strategic Air Command, permanently stationed at Biggs Air Force Base, El Paso, Texas. A nuc..."
+    }
+   ]
+  },
+  {
+   "candidate": "The Day After Roswell",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "philip-corso",
+     "field": "source",
+     "context": "...The Day After Roswell, Corso with Birnes, Pocket Books 1997 (library record)..."
     }
    ]
   },
@@ -9020,6 +10094,27 @@
    ]
   },
   {
+   "candidate": "X-30",
+   "verdict": "PROSE",
+   "hits": [
+    {
+     "id": "jasmine-crockett",
+     "field": "sub",
+     "context": "...U.S. Rep. (D-TX-30); Ranking Member, Task Force on the Declassification of Federal Secre..."
+    },
+    {
+     "id": "tf-declassification-federal-secrets",
+     "field": "desc",
+     "context": "...haired by Rep. Anna Paulina Luna (FL-13) with Rep. Jasmine Crockett (TX-30) as ranking member, its Republican membership is Nancy Mace (SC-01),..."
+    },
+    {
+     "id": "tf-declassification-federal-secrets",
+     "field": "claim",
+     "context": "...p: Chair Anna Paulina Luna (FL-13), Ranking Member Jasmine Crockett (TX-30); members Mace, Burchett, Boebert, Burlison, Crane, Gill, Krishnamoor..."
+    }
+   ]
+  },
+  {
    "candidate": "Y-12",
    "verdict": "PROSE",
    "hits": [
@@ -9084,6 +10179,15 @@
    "node_label": "Thomas R. Wilson",
    "cls": "person",
    "tier": "C"
+  },
+  {
+   "candidate": "Advanced Aerospace Threat Identification Program",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "aatip",
+   "node_label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+   "cls": "program",
+   "tier": "A"
   },
   {
    "candidate": "Aerojet Rocketdyne",
@@ -9599,6 +10703,15 @@
    "tier": "C"
   },
   {
+   "candidate": "Dan Inouye",
+   "verdict": "NODE",
+   "how": "given-name variant",
+   "node_id": "daniel-inouye",
+   "node_label": "Daniel K. Inouye",
+   "cls": "person",
+   "tier": "C"
+  },
+  {
    "candidate": "Daniel Inouye",
    "verdict": "NODE",
    "how": "alias",
@@ -9669,6 +10782,15 @@
    "node_label": "David N. Spergel",
    "cls": "person",
    "tier": "B"
+  },
+  {
+   "candidate": "Defense Department",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "dod",
+   "node_label": "United States Department of Defense (secondary designation: Department of War)",
+   "cls": "institution",
+   "tier": "A"
   },
   {
    "candidate": "Defense Intelligence Agency",
@@ -9968,6 +11090,15 @@
    "tier": "C"
   },
   {
+   "candidate": "FY2024 NDAA",
+   "verdict": "NODE",
+   "how": "one character apart, within node",
+   "node_id": "ndaa-fy2023-sec-6802",
+   "node_label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
+   "cls": "legislation",
+   "tier": "A"
+  },
+  {
    "candidate": "Galileo Project",
    "verdict": "NODE",
    "how": "alias",
@@ -9993,6 +11124,15 @@
    "node_label": "George Knapp",
    "cls": "person",
    "tier": "A"
+  },
+  {
+   "candidate": "George Trimble",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "george-trimble",
+   "node_label": "George S. Trimble",
+   "cls": "person",
+   "tier": "C"
   },
   {
    "candidate": "Gerald Ford",
@@ -10038,6 +11178,15 @@
    "node_label": "Groom Lake, Nevada",
    "cls": "location",
    "tier": "B"
+  },
+  {
+   "candidate": "Guy Hottel",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "hottel-memo",
+   "node_label": "Guy Hottel memorandum, 22 March 1950",
+   "cls": "document",
+   "tier": "C"
   },
   {
    "candidate": "Hal Puthoff",
@@ -10103,6 +11252,15 @@
    "tier": "C"
   },
   {
+   "candidate": "Hottel memo",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "hottel-memo",
+   "node_label": "Guy Hottel memorandum, 22 March 1950",
+   "cls": "document",
+   "tier": "C"
+  },
+  {
    "candidate": "House Armed Services Committee",
    "verdict": "NODE",
    "how": "alias",
@@ -10121,11 +11279,29 @@
    "tier": "B"
   },
   {
+   "candidate": "House Intelligence Committee",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "house-intelligence",
+   "node_label": "House Permanent Select Committee on Intelligence",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
    "candidate": "House Oversight Committee",
    "verdict": "NODE",
    "how": "alias",
    "node_id": "house-oversight-committee",
    "node_label": "U.S. House Committee on Oversight and Government Reform",
+   "cls": "institution",
+   "tier": "B"
+  },
+  {
+   "candidate": "House Permanent Select Committee on Intelligence",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "house-intelligence",
+   "node_label": "House Permanent Select Committee on Intelligence",
    "cls": "institution",
    "tier": "B"
   },
@@ -10209,6 +11385,15 @@
    "node_label": "Institute for Defense Analyses",
    "cls": "institution",
    "tier": "B"
+  },
+  {
+   "candidate": "Institute of Field Physics",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "d-prop",
+   "node_label": "Propulsion & Field Physics",
+   "cls": "domain",
+   "tier": "C"
   },
   {
    "candidate": "Intelligence Community Inspector General",
@@ -10724,6 +11909,15 @@
    "tier": "A"
   },
   {
+   "candidate": "Majestic 12",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "mj-12-documents",
+   "node_label": "MJ-12 / Operation Majestic-12 Documents",
+   "cls": "document",
+   "tier": "B"
+  },
+  {
    "candidate": "Majestic documents",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -11093,6 +12287,15 @@
    "tier": "B"
   },
   {
+   "candidate": "Norton Air Force Base",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "usaf",
+   "node_label": "United States Air Force",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "NRO",
    "verdict": "NODE",
    "how": "alias",
@@ -11201,6 +12404,15 @@
    "tier": "B"
   },
   {
+   "candidate": "Operation Blue Book",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "project-blue-book",
+   "node_label": "Project Blue Book",
+   "cls": "program",
+   "tier": "A"
+  },
+  {
    "candidate": "Operation Moon Dust",
    "verdict": "NODE",
    "how": "node within candidate",
@@ -11300,6 +12512,15 @@
    "tier": "A"
   },
   {
+   "candidate": "PPD-19",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "grusch-icig-complaint",
+   "node_label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
+   "cls": "document",
+   "tier": "B"
+  },
+  {
    "candidate": "Project Aquarius",
    "verdict": "NODE",
    "how": "alias",
@@ -11316,6 +12537,15 @@
    "node_label": "Project Blue Book",
    "cls": "program",
    "tier": "A"
+  },
+  {
+   "candidate": "Project Grudge",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "project-grudge",
+   "node_label": "Project GRUDGE",
+   "cls": "program",
+   "tier": "C"
   },
   {
    "candidate": "Project Magnet",
@@ -11442,6 +12672,15 @@
    "node_label": "Eric Burlison",
    "cls": "person",
    "tier": "A"
+  },
+  {
+   "candidate": "Research Institute for Advanced Studies",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "rias-inc",
+   "node_label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+   "cls": "institution",
+   "tier": "C"
   },
   {
    "candidate": "Richard Dolan",
@@ -11633,6 +12872,15 @@
    "tier": "A"
   },
   {
+   "candidate": "Sandia",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "sandia",
+   "node_label": "Sandia National Laboratories",
+   "cls": "institution",
+   "tier": "A"
+  },
+  {
    "candidate": "Sandia National Laboratories",
    "verdict": "NODE",
    "how": "alias",
@@ -11759,6 +13007,15 @@
    "tier": "A"
   },
   {
+   "candidate": "Skinwalkers at the Pentagon",
+   "verdict": "NODE",
+   "how": "alias",
+   "node_id": "skinwalkers-at-the-pentagon",
+   "node_label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+   "cls": "document",
+   "tier": "A"
+  },
+  {
    "candidate": "Skunk Works",
    "verdict": "NODE",
    "how": "alias",
@@ -11829,6 +13086,15 @@
    "node_label": "SRI International (Stanford Research Institute)",
    "cls": "institution",
    "tier": "B"
+  },
+  {
+   "candidate": "Stanford University",
+   "verdict": "NODE",
+   "how": "candidate within node",
+   "node_id": "stanford-nolan-lab",
+   "node_label": "Nolan Laboratory, Stanford University School of Medicine",
+   "cls": "institution",
+   "tier": "C"
   },
   {
    "candidate": "Stanton Friedman",
@@ -12074,6 +13340,15 @@
    "tier": "B"
   },
   {
+   "candidate": "U.S. Senate",
+   "verdict": "NODE",
+   "how": "exact",
+   "node_id": "us-senate",
+   "node_label": "United States Senate",
+   "cls": "institution",
+   "tier": "C"
+  },
+  {
    "candidate": "UAP Disclosure Act",
    "verdict": "NODE",
    "how": "candidate within node",
@@ -12153,6 +13428,15 @@
    "node_label": "University of Colorado UFO Project (Condon Committee)",
    "cls": "program",
    "tier": "B"
+  },
+  {
+   "candidate": "University of Colorado Boulder",
+   "verdict": "NODE",
+   "how": "node within candidate",
+   "node_id": "l-boulder-co",
+   "node_label": "Boulder, Colorado",
+   "cls": "location",
+   "tier": "C"
   },
   {
    "candidate": "US Air Force",
