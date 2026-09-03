@@ -13,8 +13,8 @@ import { primeSearch } from './search';
 import { loadIndex, registerClasses } from './data';
 import { renderHome } from './pages/home';
 import { renderNode } from './pages/node';
+import { mapPage } from './pages/map';
 import { renderNodeReport, renderThreadReport } from './pages/report';
-import { renderPending } from './pages/pending';
 import { notFound } from './pages/notfound';
 import { h, clear } from './dom';
 
@@ -52,18 +52,15 @@ async function dispatch(r: Route): Promise<void> {
   switch (r.kind) {
     case 'home': return void renderHome(view);
     case 'node': return void renderNode(view, r.id);
-    case 'node-map': return renderPending(view, 'map', 'Opening at #/n/' + r.id + '/map: the map scrolls to that chip and draws all of its edges.');
-    case 'node-hood': return renderPending(view, 'hood', 'Opening at #/hood/' + r.id + ': that node at the centre.');
-    case 'hood': return renderPending(view, 'hood', 'With nothing selected the ring carries the fourteen start-here nodes.');
-    case 'map': return renderPending(view, 'map', r.cell ? 'Requested cell: ' + r.cell : undefined);
-    case 'thread': return renderPending(view, 'thread', 'Requested thread: ' + r.id);
-    case 'thread-map': return renderPending(view, 'map', 'The map with the steps of thread ' + r.id + ' highlighted.');
-    case 'timeline': return renderPending(view, 'timeline',
-      [r.era ? 'era ' + r.era : '', r.scope ? 'scope ' + r.scope : ''].filter(Boolean).join(' · ') || undefined);
-    case 'patents': return renderPending(view, 'patents',
-      'Requested patent: ' + r.number + (r.sheet ? ', sheet ' + r.sheet : ''));
-    case 'evidence': return renderPending(view, 'evidence',
-      r.q.toString() ? 'Requested filters: ' + r.q.toString() : undefined);
+    case 'node-map': return void mapPage(view, { node: r.id });
+    case 'node-hood': return void import('./pages/hood').then((m) => m.renderHood(view, r.id));
+    case 'hood': return void import('./pages/hood').then((m) => m.renderHood(view, null));
+    case 'map': return void mapPage(view, { cell: r.cell });
+    case 'thread': return (await import('./pages/thread')).renderThread(view, r.id);
+    case 'thread-map': return void mapPage(view, { thread: r.id });
+    case 'timeline': return (await import('./pages/timeline')).renderTimeline(view, r.era, r.scope);
+    case 'patents': return (await import('./pages/patents')).renderPatents(view, r.number, r.sheet);
+    case 'evidence': return (await import('./pages/evidence')).renderEvidence(view, r.q);
     case 'report-node': return void renderNodeReport(view, r.id);
     case 'report-thread': return renderThreadReport(view, r.id);
     case 'notfound': return notFound(view, r.raw);

@@ -1,0 +1,112 @@
+/* evidence.css — the evidence explorer only. Colours and sizes from tokens.css.
+ * One label size. Nothing is truncated: every cell wraps, so this file carries
+ * no ellipsis and no text-overflow. */
+
+.ev {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 22px;
+  align-items: start;
+}
+.ev-rail { min-width: 0; position: sticky; top: calc(var(--bar-h) + 12px); }
+.ev-main { min-width: 0; }
+.ev-wait { padding: 20px 0; }
+
+.ev-railcount { margin: 4px 0 6px; }
+.ev-note { margin: 0 0 10px; max-width: 60ch; }
+.ev-clear {
+  display: inline-block;
+  border: 1px solid var(--line2);
+  padding: 3px 8px;
+  margin-bottom: 6px;
+  color: var(--amber);
+}
+.ev-clear:hover { border-color: var(--amber); text-decoration: none; }
+
+.ev-ghead { margin: 12px 0 5px; }
+.ev-chips { display: flex; flex-wrap: wrap; gap: 4px; }
+.ev-chips.scroll {
+  max-height: 190px;
+  overflow-y: auto;
+  align-content: start;
+  border: 1px solid var(--line);
+  padding: 5px;
+}
+.ev-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--dim);
+  padding: 2px 7px;
+}
+.ev-chip:hover { border-color: var(--line2); color: var(--text); text-decoration: none; }
+.ev-chip.on { border-color: var(--cyan); background: var(--panel2); color: var(--text); }
+.ev-chip .ev-chip-n { color: var(--faint); }
+.ev-chip.on .ev-chip-n { color: var(--cyan); }
+
+.ev-head {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 8px;
+  margin-bottom: 6px;
+}
+.ev-head .ev-count { font-size: var(--fs-body); font-weight: 600; color: var(--text); }
+.ev-active { margin-left: auto; }
+
+.ev-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.ev-table th {
+  text-align: left;
+  font-weight: 400;
+  color: var(--faint);
+  letter-spacing: 0.09em;
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: var(--bar-h);
+  background: var(--bg);
+  z-index: 5;
+}
+.ev-table td {
+  padding: 5px 8px;
+  vertical-align: top;
+  border-bottom: 1px solid var(--bg2);
+  overflow-wrap: anywhere;
+}
+.ev-table tr:hover td { background: var(--bg2); }
+.ev-table .c-tier { width: 44px; font-weight: 600; }
+.ev-table .c-cls { width: 96px; }
+.ev-table .c-node { width: 190px; }
+.ev-table .c-claim { width: auto; color: var(--text); }
+.ev-table .c-src { width: 260px; }
+.ev-table .c-den { width: 62px; }
+.ev-table .c-foia { width: 300px; }
+
+.ev-foia { margin-bottom: 5px; }
+.ev-foia-q { margin-top: 2px; }
+.ev-q { color: var(--dim); margin-top: 2px; }
+
+.ev-foot {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 8px 0;
+}
+.ev-more {
+  border: 1px solid var(--line2);
+  color: var(--dim);
+  padding: 4px 12px;
+  letter-spacing: 0.08em;
+}
+.ev-more:hover { color: var(--text); border-color: var(--cyan); }
+
+@media (max-width: 1599px) {
+  .ev { grid-template-columns: 200px minmax(0, 1fr); gap: 16px; }
+  .ev-table .c-node { width: 150px; }
+  .ev-table .c-src { width: 190px; }
+  .ev-table .c-foia { width: 230px; }
+}

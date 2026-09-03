@@ -1,0 +1,199 @@
+/* patents.css — the patents page only. Colours and sizes come from tokens.css.
+ * One label size everywhere; nothing is truncated, so no ellipsis and no
+ * text-overflow appears in this file. */
+
+.pt {
+  display: grid;
+  grid-template-columns: 520px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+.pt-left, .pt-right { min-width: 0; }
+
+h1.pt-h1 {
+  font-size: var(--fs-h1);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 6px 0 10px;
+}
+.pt-stand, .pt-sub, .pt-attr, .pt-note {
+  font-size: var(--fs-label);
+  color: var(--dim);
+  margin: 0 0 10px;
+  max-width: 88ch;
+}
+.pt-sub { color: var(--text); }
+.pt-sec { margin: 22px 0 8px; }
+
+/* ---- the five sections ------------------------------------------------ */
+.pt-list { display: grid; gap: 6px; }
+.pt-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 2px solid var(--line);
+  padding: 8px 12px;
+}
+.pt-card.on { border-color: var(--cyan); background: var(--panel2); }
+.pt-card-head { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.pt-card .pt-num { font-weight: 600; white-space: nowrap; }
+.pt-card .pt-title { color: var(--text); }
+.pt-card.on .pt-title { font-weight: 600; }
+.pt-card-meta { display: flex; gap: 6px; align-items: baseline; flex-wrap: wrap; margin-top: 4px; }
+.pt-status { color: var(--amber); letter-spacing: 0.06em; }
+.sep { color: var(--faint); }
+
+/* ---- the five observables --------------------------------------------- */
+.pt-obhead { display: flex; gap: 8px; align-items: baseline; margin-bottom: 8px; }
+.pt-obs { display: grid; gap: 5px; }
+.pt-ob { background: var(--panel); border: 1px solid var(--line); padding: 7px 10px; }
+.pt-ob-head { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.pt-ob-n { color: var(--dim); }
+.pt-ob-label { color: var(--text); font-weight: 600; }
+.pt-ob-w { color: var(--dim); }
+.pt-ob-note { margin-top: 3px; }
+.pt-obsrc { margin-top: 6px; }
+
+/* ---- the header facts -------------------------------------------------- */
+.pt-facts {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  gap: 2px 14px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 8px 12px;
+  margin-bottom: 8px;
+}
+.pt-k { color: var(--faint); letter-spacing: 0.06em; text-transform: uppercase; }
+.pt-v { color: var(--text); }
+
+/* ---- the sheet grid ---------------------------------------------------- */
+.pt-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 8px;
+}
+.pt-grid.one { grid-template-columns: minmax(190px, 260px); }
+.pt-tile {
+  display: block;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 6px;
+  color: var(--text);
+}
+.pt-tile:hover { border-color: var(--cyan); text-decoration: none; }
+.pt-tile.own { border-color: var(--line2); background: var(--panel2); }
+.pt-thumb {
+  display: block;
+  width: 100%;
+  height: 190px;
+  object-fit: contain;
+  background: #ffffff;
+}
+.pt-tile-cap { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 6px; }
+
+/* ---- the prosecution timeline: one step to a line ---------------------- */
+.pt-steps { display: grid; gap: 2px; max-width: 130ch; }
+.pt-step {
+  display: grid;
+  grid-template-columns: 96px 190px minmax(0, 1fr);
+  gap: 2px 12px;
+  align-items: baseline;
+  padding: 4px 0 4px 10px;
+  border-left: 2px solid var(--line2);
+  background: var(--panel);
+}
+.pt-step-label { letter-spacing: 0.06em; color: var(--text); }
+.pt-step-note { grid-column: 3; }
+.pt-step-file { grid-column: 3; color: var(--cyan); overflow-wrap: anywhere; }
+.pt-step.k-reject { border-left-color: var(--amber); }
+.pt-step.k-reject .pt-step-label { color: var(--amber); }
+.pt-step.k-final { border-left-color: var(--red); }
+.pt-step.k-final .pt-step-label { color: var(--red); }
+.pt-step.k-mark { border-left-color: var(--cyan); }
+.pt-step.k-mark .pt-step-label { color: var(--cyan); }
+.pt-step.k-paper .pt-step-label { color: var(--cyan); }
+.pt-step.k-grant { border-left-color: var(--t1); }
+.pt-step.k-grant .pt-step-label { color: var(--t1); }
+.pt-step.k-expire .pt-step-label { color: var(--faint); }
+
+.pt-absent {
+  border: 1px dashed var(--line2);
+  max-width: 130ch;
+  padding: 6px 10px;
+  margin-bottom: 4px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 8px 14px;
+}
+.pt-absent .pt-absent-label { text-decoration: line-through; color: var(--dim); }
+.pt-absent .dim { grid-column: 1 / -1; }
+
+/* ---- quotes and findings ----------------------------------------------- */
+.pt-quote, .pt-finding {
+  border-left: 2px solid var(--line2);
+  max-width: 130ch;
+  background: var(--panel);
+  padding: 8px 12px;
+  margin-bottom: 6px;
+}
+.pt-quote { border-left-color: var(--cyan); }
+.pt-finding { border-left-color: var(--amber); }
+.pt-q-head { display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.pt-q-text, .pt-f-text { font-size: var(--fs-body); margin: 5px 0; max-width: 88ch; }
+.pt-q-gloss, .pt-q-src, .pt-f-rows { margin-top: 4px; }
+.pt-f-rows { display: flex; gap: 18px; flex-wrap: wrap; }
+
+/* ---- the lightbox ------------------------------------------------------ */
+.pt-lb {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  align-items: center;
+  gap: 24px;
+  padding: 80px 40px;
+}
+.pt-lb-back {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 12, 16, 0.86);
+}
+.pt-lb-fig {
+  position: relative;
+  margin: 0;
+  justify-self: end;
+  border: 1px solid var(--cyan);
+  background: #ffffff;
+  padding: 0;
+  line-height: 0;
+}
+.pt-lb-img {
+  display: block;
+  height: calc(100vh - 160px);
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+.pt-lb-side {
+  position: relative;
+  display: grid;
+  gap: 8px;
+  align-content: start;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 12px 14px;
+}
+.pt-lb-h { font-size: var(--fs-body); font-weight: 600; }
+.pt-lb-cap { color: var(--dim); }
+.pt-lb-file { word-break: break-all; }
+.pt-lb-nav { display: grid; gap: 4px; margin-top: 6px; }
+
+/* ---- widths ------------------------------------------------------------ */
+@media (max-width: 1599px) {
+  .pt { grid-template-columns: 380px minmax(0, 1fr); gap: 18px; }
+  .pt-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+  .pt-thumb { height: 150px; }
+  .pt-lb { grid-template-columns: minmax(0, 1fr) 280px; padding: 70px 24px; }
+}

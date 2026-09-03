@@ -1,0 +1,182 @@
+/* thread.css — the Thread page (Design response 1.6).
+ * Tokens only, one label size, no truncation anywhere. */
+
+.th-head {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+  flex-wrap: wrap;
+}
+.th-head-l { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; min-width: 0; }
+.th-head-l .eyebrow { font-size: var(--fs-label); }
+.th-h1 {
+  font-size: var(--fs-h1);
+  font-weight: 600;
+  margin: 0;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+.th-head-n { font-size: var(--fs-label); white-space: nowrap; }
+
+.th-rail { margin-left: auto; display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end; }
+.th-rail-item {
+  font-size: var(--fs-label);
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  color: var(--dim);
+  white-space: nowrap;
+}
+.th-rail-item:hover { color: var(--text); border-color: var(--line2); text-decoration: none; }
+.th-rail-item.on { color: var(--cyan); border-color: var(--cyan); background: var(--panel2); }
+.th-rail-n { color: var(--faint); }
+.th-rail-item.on .th-rail-n { color: var(--cyan); }
+
+.thread {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 480px;
+  gap: 24px;
+  align-items: start;
+  margin-top: 14px;
+}
+@media (min-width: 1600px) { .thread { grid-template-columns: minmax(0, 1fr) 700px; } }
+@media (max-width: 1100px) { .thread { grid-template-columns: minmax(0, 1fr); } }
+
+.th-blurb {
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  color: var(--dim);
+  margin: 0 0 14px;
+}
+
+.th-steps { list-style: none; margin: 0; padding: 0; }
+.th-step {
+  display: grid;
+  grid-template-columns: 22px minmax(0, 1fr);
+  gap: 10px;
+  padding: 6px 0 10px;
+  border-left: 1px solid var(--line);
+  margin-left: 10px;
+  padding-left: 12px;
+}
+.th-step:last-child { border-left-color: transparent; }
+.th-n {
+  font-size: var(--fs-label);
+  color: var(--dim);
+  border: 1px solid var(--line);
+  background: var(--panel);
+  text-align: center;
+  height: 16px;
+  line-height: 15px;
+  margin-left: -23px;
+}
+.th-body { min-width: 0; }
+.th-title { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.th-title .mark { align-self: center; }
+.th-label {
+  font-size: var(--fs-body);
+  font-weight: 600;
+  color: var(--text);
+  overflow: visible;
+  white-space: normal;
+}
+.th-label:hover { color: var(--cyan); }
+.th-year, .th-hl, .th-floor { font-size: var(--fs-label); white-space: nowrap; }
+.th-ev {
+  font-size: var(--fs-label);
+  line-height: 1.5;
+  color: var(--text);
+  padding: 4px 0 3px;
+  max-width: 110ch;
+}
+.th-edge { font-size: var(--fs-label); letter-spacing: 0.04em; }
+
+/* ---- the small map ---------------------------------------------------- */
+
+.th-side { display: grid; gap: 20px; min-width: 0; }
+.th-map, .th-slice { min-width: 0; }
+.tm-cap, .ts-cap {
+  font-size: var(--fs-label);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding-bottom: 6px;
+}
+.tm-board {
+  position: relative;
+  border: 1px solid var(--line);
+  background: var(--bg2);
+  font-size: var(--fs-label);
+  overflow: hidden;
+}
+/* Era and band names wrap rather than shrink or truncate: one size, whole
+   label, inside its own column. */
+.tm-erahead {
+  position: absolute;
+  color: var(--faint);
+  font-size: var(--fs-label);
+  line-height: 12px;
+  padding: 1px 3px 0 4px;
+  box-sizing: border-box;
+  white-space: normal;
+  overflow: visible;
+}
+.tm-bandhead {
+  position: absolute;
+  left: 0;
+  color: var(--faint);
+  font-size: var(--fs-label);
+  line-height: 12px;
+  display: flex;
+  align-items: center;
+  padding-left: 4px;
+  box-sizing: border-box;
+  white-space: normal;
+  overflow: visible;
+}
+.tm-bandhead.floor { color: var(--dim); }
+.tm-vline { position: absolute; width: 1px; background: var(--line); }
+.tm-hline { position: absolute; left: 0; height: 1px; background: var(--line); opacity: 0.8; }
+.tm-hline.floor { background: var(--line2); }
+.tm-links { position: absolute; left: 0; top: 0; pointer-events: none; }
+.tm-link { fill: none; stroke: var(--cyan); stroke-width: 1; opacity: 0.75; }
+.tm-chip {
+  position: absolute;
+  box-sizing: border-box;
+  display: block;
+  border: 1px solid var(--line2);
+  border-left-width: 3px;
+  background: var(--panel);
+  color: var(--text);
+  font-size: var(--fs-label);
+  line-height: 12px;
+  text-align: center;
+  padding: 0;
+}
+.tm-chip:hover { border-color: var(--cyan); text-decoration: none; }
+.tm-chip.hl { border-color: var(--amber); color: var(--amber); }
+
+/* ---- the timeline slice ------------------------------------------------ */
+
+.ts-axis {
+  position: relative;
+  min-height: 66px;
+  border-top: 1px solid var(--line2);
+  padding-top: 8px;
+}
+.ts-tick { position: absolute; top: -1px; width: 1px; height: 6px; background: var(--line2); }
+.ts-lab { position: absolute; font-size: var(--fs-label); }
+.ts-year { font-size: var(--fs-label); color: var(--text); white-space: nowrap; }
+.ts-name {
+  display: block;
+  font-size: var(--fs-label);
+  color: var(--dim);
+  border-left: 3px solid var(--line2);
+  padding-left: 5px;
+  margin-top: 3px;
+  white-space: nowrap;
+  overflow: visible;
+}
+.ts-name:hover { color: var(--text); text-decoration: none; }
+.ts-note { font-size: var(--fs-label); padding-top: 8px; }

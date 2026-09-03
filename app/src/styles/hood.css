@@ -1,0 +1,152 @@
+/* hood.css — the neighbourhood only. Colours and sizes come from tokens.css.
+ *
+ * Every name on this screen is at var(--fs-label), the one label size, with
+ * white-space:nowrap and no overflow rule of any kind: a label that does not
+ * fit is not drawn at all, which is a layout decision, never a CSS one.
+ */
+
+.hood {
+  position: relative;
+  margin: calc(-1 * (var(--bar-h) + 12px)) -16px -40px;
+  padding-top: var(--bar-h);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ---- the strip: what is drawn, and the controls ------------------------- */
+.hood-strip {
+  flex: 0 0 auto;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 0 12px;
+  background: var(--bg2);
+  border-bottom: 1px solid var(--line);
+}
+.hood-say { display: flex; align-items: baseline; gap: 8px; flex-wrap: nowrap; overflow: hidden; }
+.hood-say .hood-who { color: var(--text); white-space: nowrap; }
+.hood-say .sep { color: var(--faint); }
+.hood-say .dim { white-space: nowrap; }
+
+.hood-ctl { margin-left: auto; display: flex; align-items: center; gap: 4px; flex: 0 0 auto; }
+.hood-b {
+  display: block;
+  padding: 3px 9px;
+  letter-spacing: 0.08em;
+  color: var(--faint);
+  border: 1px solid var(--line);
+  background: var(--panel);
+  white-space: nowrap;
+}
+a.hood-b { color: var(--dim); }
+.hood-b:hover { color: var(--text); border-color: var(--line2); text-decoration: none; }
+.hood-b.on { color: var(--cyan); border-color: var(--cyan); background: rgba(94, 212, 230, 0.09); }
+
+/* ---- the stage --------------------------------------------------------- */
+.hood-stage { position: relative; flex: 1 1 auto; overflow: hidden; }
+.hood-canvas { position: absolute; left: 0; top: 0; }
+.hood-el { position: absolute; }
+
+.hood-centre { transform: translate(-50%, -50%); }
+.hood-centre .mark { width: 9px; height: 9px; }
+.hood-centre-name {
+  transform: translate(-50%, 0);
+  font-size: var(--fs-label);
+  white-space: nowrap;
+  color: var(--text);
+  background: var(--panel);
+  border: 1px solid var(--amber);
+  padding: 2px 8px;
+}
+.hood-centre-name.empty { border-color: var(--line2); color: var(--dim); }
+.hood-centre.empty .mark { opacity: 0.5; }
+
+/* ---- a name on the ring or in an outer column --------------------------- */
+.hood-n {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--fs-label);
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--text);
+}
+.hood-n.r { transform: translate(-3.5px, -50%); }
+.hood-n.l { transform: translate(calc(-100% + 3.5px), -50%); }
+.hood-n:hover { text-decoration: none; }
+.hood-n:hover .hood-label { color: var(--cyan); }
+.hood-n.hop2 .hood-label, .hood-n.hop3 .hood-label { color: var(--dim); }
+.hood-n.denial .hood-label { color: var(--text); }
+.hood-label { white-space: nowrap; }
+.hood-suffix { white-space: nowrap; }
+.hood-suffix.faint { color: var(--faint); }
+.hood-suffix.amber { color: var(--amber); }
+.hood-suffix.red { color: var(--red); }
+
+/* ---- the count of what could not be named ------------------------------ */
+.hood-chip {
+  transform: translate(-50%, 0);
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+  white-space: nowrap;
+  background: var(--panel);
+  border: 1px dashed var(--line2);
+  padding: 4px 12px;
+  font-size: var(--fs-label);
+}
+.hood-chip .sep { color: var(--faint); }
+.hood-expand-b { color: var(--cyan); letter-spacing: 0.06em; }
+
+.hood-expanded {
+  transform: translate(-50%, -50%);
+  width: min(980px, 88%);
+  max-height: 72%;
+  overflow-y: auto;
+  background: var(--panel);
+  border: 1px solid var(--line2);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.6);
+  padding: 8px 10px 10px;
+  z-index: 5;
+}
+.hood-exp-head { display: block; margin-bottom: 6px; }
+.hood-exp-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1px 18px; }
+.hood-exp-row {
+  display: grid;
+  grid-template-columns: 7px minmax(0, 1fr) auto;
+  gap: 7px;
+  align-items: baseline;
+  padding: 2px 4px;
+  color: var(--text);
+  font-size: var(--fs-label);
+}
+.hood-exp-row:hover { background: var(--panel2); text-decoration: none; }
+.hood-exp-meta { color: var(--faint); white-space: nowrap; }
+
+/* ---- the legend -------------------------------------------------------- */
+.hood-legend {
+  flex: 0 0 auto;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  border-top: 1px solid var(--line);
+  background: var(--bg2);
+  font-size: var(--fs-label);
+}
+.hood-leg { display: inline-flex; align-items: center; gap: 7px; }
+.hood-leg .sw {
+  display: inline-block;
+  width: 20px;
+  height: 0;
+  border-top-width: 1px;
+  border-top-color: currentColor;
+}
+.hood-leg .sw.solid { border-top-style: solid; }
+.hood-leg .sw.dash { border-top-style: dashed; }
+.hood-leg .sw.dot { border-top-style: dotted; }
+.hood-leg .sw.grey { color: var(--faint); }

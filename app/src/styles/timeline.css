@@ -1,0 +1,154 @@
+/* timeline.css — the Timeline page (Design response 1.7).
+ *
+ * Tokens only. One label size: every string on this page is --fs-label. No
+ * gradient, no size encoding: a chip is as wide as its own text and no wider,
+ * and a mark is 5px whatever the event is. */
+
+.tl-head {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 0 0 8px;
+  border-bottom: 1px solid var(--line);
+  font-size: var(--fs-label);
+  flex-wrap: wrap;
+}
+.tl-head-bits { min-width: 0; }
+.tl-bad {
+  font-size: var(--fs-label);
+  padding: 6px 0 0;
+}
+
+.tl-scope { margin-left: auto; display: flex; gap: 6px; flex: 0 0 auto; }
+.tl-sc {
+  font-size: var(--fs-label);
+  letter-spacing: 0.08em;
+  padding: 3px 8px;
+  border: 1px solid var(--line);
+  color: var(--dim);
+  background: var(--panel);
+  white-space: nowrap;
+}
+a.tl-sc:hover { color: var(--text); border-color: var(--line2); text-decoration: none; }
+.tl-sc.on { color: var(--cyan); border-color: var(--cyan); }
+.tl-sc.off { color: var(--faint); border-style: dashed; }
+
+.tl-grid {
+  display: grid;
+  align-items: stretch;
+  margin-top: 10px;
+  font-size: var(--fs-label);
+}
+
+.tl-corner { border-bottom: 1px solid var(--line); }
+
+.tl-era {
+  display: block;
+  padding: 6px 10px 0;
+  border-left: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  color: var(--dim);
+  min-width: 0;
+}
+a.tl-era:hover { background: var(--panel); text-decoration: none; }
+a.tl-era:hover .tl-era-label { color: var(--text); }
+.tl-era.open { background: var(--bg2); border-left-color: var(--line2); }
+.tl-era-label {
+  font-size: var(--fs-label);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  white-space: nowrap;
+}
+.tl-era.open .tl-era-label { color: var(--cyan); }
+.tl-era-sub { font-size: var(--fs-label); padding: 2px 0 6px; }
+
+.tl-years { position: relative; height: 18px; }
+.tl-year {
+  position: absolute;
+  top: 0;
+  height: 18px;
+  font: inherit;
+  font-size: var(--fs-label);
+  color: var(--faint);
+  background: transparent;
+  border: 0;
+  border-left: 1px solid var(--line);
+  padding: 0 0 0 3px;
+  text-align: left;
+  cursor: pointer;
+  overflow: visible;
+  white-space: nowrap;
+}
+.tl-year:hover { color: var(--text); background: var(--panel); }
+.tl-year.on { color: var(--amber); border-left-color: var(--amber); }
+
+.tl-lane-name {
+  padding: 10px 12px 10px 0;
+  border-top: 1px solid var(--line);
+  align-self: stretch;
+}
+.tl-lane-name .eyebrow { font-size: var(--fs-label); }
+.tl-lane-n { font-size: var(--fs-label); padding-top: 2px; }
+
+.tl-cell {
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+  padding: 10px 8px;
+  min-width: 0;
+}
+.tl-cell.open { background: var(--bg2); border-left-color: var(--line2); padding: 10px 6px; }
+
+.tl-count {
+  display: block;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 4px 8px;
+  color: var(--text);
+  font-size: var(--fs-label);
+  white-space: nowrap;
+}
+.tl-count:hover { border-color: var(--cyan); text-decoration: none; }
+
+.tl-pack { position: relative; width: 100%; }
+
+.tl-gl {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--line);
+  opacity: 0.7;
+}
+.tl-gl.on { background: var(--amber); opacity: 0.35; }
+
+.tl-chip {
+  position: absolute;
+  box-sizing: border-box;
+  display: block;
+  border: 1px solid var(--line2);
+  border-left-width: 3px;
+  border-left-style: solid;
+  background: var(--panel);
+  color: var(--text);
+  font-size: var(--fs-label);
+  line-height: 13px;
+  padding: 0 6px 0 5px;
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: clip;
+}
+a.tl-chip:hover { border-color: var(--cyan); border-left-color: var(--cyan); text-decoration: none; }
+span.tl-chip { color: var(--dim); }
+
+.tl-mark {
+  position: absolute;
+  display: block;
+  box-sizing: border-box;
+  border: 0;
+}
+a.tl-mark:hover { outline: 1px solid var(--cyan); }
+
+@media (max-width: 1500px) {
+  .tl-head-bits { max-width: 640px; }
+}
