@@ -651,7 +651,10 @@ def build(path=BOARD):
 
     out = {
         "generated": __import__("datetime").date.today().isoformat(),
-        "source": os.path.relpath(path, ROOT),
+        # Forward slashes whatever the host: a Windows build wrote
+        # `data\\the-program.json` here on 3 September 2026 and the Linux CI
+        # rebuild differed from the committed artifact by that one byte.
+        "source": os.path.relpath(path, ROOT).replace(os.sep, "/"),
         "config": {
             "floor": FLOOR, "degreeIs": "distinct neighbours",
             "documentsPromoted": PROMOTE_DOCUMENTS, "routeCap": ROUTE_CAP,

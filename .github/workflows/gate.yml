@@ -102,6 +102,22 @@ jobs:
         # compares full bytes instead. It is self-tested.
         run: python3 tools/check_rebuild.py
 
+      - name: Keep the rebuilt artifacts when they differ
+        # A local session cannot see what Linux built. On 3 September 2026 a
+        # Windows-built commit failed the step above by a few bytes in three files
+        # and the only way to find them was to guess. Upload the rebuild so the
+        # next session can download it and diff.
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rebuilt-artifacts
+          retention-days: 7
+          path: |
+            data/l0-model.json
+            data/design-extract.json
+            data/l0-layout-model.json
+            dist/the-program.html
+
       - name: ...and that check must be able to fail
         run: python3 tools/check_rebuild.py --self-test
 
