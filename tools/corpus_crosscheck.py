@@ -46,11 +46,27 @@ _STOP = {
 _ARTICLES = {"the", "of", "and", "for", "a", "an"}
 
 
+# Abbreviations a speaker uses for a word the board's label spells out. Applied
+# inside norm() so every comparison sees one form. The Danny Jones triage of
+# 3 September 2026 reported `Lawrence Livermore National Labs`, `Sandia National
+# Labs` and `USAF Plant 42` as ABSENT against nodes the board plainly carries.
+ABBREV = {
+    "labs": "laboratory", "lab": "laboratory", "laboratories": "laboratory",
+}
+
+# Expansions that add words rather than swap one, consulted only by the strict
+# rules in match_node(): folding `USAF` to `air force` inside norm() would let
+# the loose "node within candidate" rule marry `USAF Plant 99` to `usaf`, which
+# is the false-NODE direction that deleted two leads on 2 September 2026.
+EXPAND = {"usaf": "air force", "afb": "air force base"}
+
+
 def norm(s):
     """Case-fold, strip punctuation and honorifics, collapse whitespace."""
     s = s.lower()
     s = re.sub(r"\b(dr|mr|mrs|ms|prof|col|lt|gen|adm|cdr|capt|sen|rep)\.?\b", " ", s)
     s = re.sub(r"[^a-z0-9]+", " ", s)
+    s = " ".join(ABBREV.get(w, w) for w in s.split())
     return re.sub(r"\s+", " ", s).strip()
 
 
@@ -178,6 +194,15 @@ def build_index(board):
         for src in (n.get("sources") or []):
             if isinstance(src, dict) and isinstance(src.get("name"), str):
                 prose.append((n["id"], "source", src["name"]))
+        # Every list of strings on the node: affiliations, unverified,
+        # conflicts. `Bigelow Institute for Consciousness Studies` sat in
+        # `affiliations` and `CE-5` in `conflicts` while both were reported
+        # ABSENT (3 September 2026).
+        for fld, v in n.items():
+            if isinstance(v, list) and v and all(isinstance(x, str) for x in v):
+                for x in v:
+                    if len(x) > 3:
+                        prose.append((n["id"], fld, x))
     for eid, info in (board.get("entityInfo") or {}).items():
         if isinstance(info, dict):
             for fld, v in info.items():
@@ -261,6 +286,21 @@ def match_node(cand, nodes):
             continue
         if nk == ck or _singular(nk) == cks:
             return (n, "exact")
+        # The node's own id with its stopwords dropped: `Stargate (Project)`
+        # against id `stargate-program`, whose label is the long-form `STAR GATE
+        # and predecessor remote viewing programs`. Reported ABSENT on
+        # 3 September 2026 in the same run that called `Stargate program` NODE.
+        # Floor of six letters so a one-word id like `x` cannot marry anything.
+        # Domains (d-) are not entities, and the candidate may only have lost
+        # articles or programme-type words on the way to its key: `United
+        # Nuclear`, a company, keys to ("nuclear",) once `united` is dropped
+        # and married `d-nuclear` on the first cut of this rule.
+        idk = key(re.sub(r"^(l|p)-", "", n["id"]).replace("-", " "))
+        strict_ck = tuple(w for w in cn.split() if w not in _ARTICLES
+                          and w not in ("project", "program", "programme", "operation"))
+        if (idk and idk == ck and strict_ck == ck and len("".join(ck)) >= 6
+                and not n["id"].startswith("d-")):
+            return (n, "id variant")
         # `Roswell Army Airfield` against `Roswell Army Air Field`: the same
         # letters with a space moved. Compare with spaces removed.
         if "".join(ck) == "".join(nk) or cn.replace(" ", "") in {a.replace(" ", "") for a in n.get("aliases", ())}:
@@ -300,6 +340,12 @@ def match_node(cand, nodes):
             # Caption spelling plus a middle name, which the plain containment
             # rule above cannot see and near_spelling refuses on word count.
             best = best or (n, "one character apart, within node")
+    if best is None and any(w in EXPAND for w in cn.split()):
+        expanded = " ".join(EXPAND.get(w, w) for w in cn.split())
+        m = match_node(expanded, nodes)
+        if m and m[1] in ("alias", "exact", "id variant", "spacing variant",
+                          "candidate within node"):
+            return (m[0], "abbreviation, " + m[1])
     return best
 
 
@@ -313,10 +359,23 @@ def _prose_needles(cand):
     if re.fullmatch(r"[A-Z][A-Z0-9&]{2,5}", cand.strip()):
         out.append(("word", needle))
     if len(needle) >= 4:
-        out.append(("sub", needle))
+        # A single token is matched on word boundaries, not as a raw substring:
+        # `CARET` was reported PROSE against "caretakers" on 3 September 2026,
+        # and a false PROSE hides a lead the way a false NODE deletes one.
+        out.append(("word" if " " not in needle else "sub", needle))
         words = needle.split()
-        if len(words) == 2 and words[0] in NICKNAMES:
-            out.append(("sub", NICKNAMES[words[0]] + " " + words[1]))
+        if len(words) == 2:
+            given = [words[0]]
+            if words[0] in NICKNAMES:
+                given.append(NICKNAMES[words[0]])
+                out.append(("sub", NICKNAMES[words[0]] + " " + words[1]))
+            # Given name, an optional middle name or initial, surname: `Jeff
+            # Kripal` against "Jeffrey J. Kripal" in claim text (3 September
+            # 2026). Surnames of four letters or more only.
+            if len(words[1]) >= 4 and re.fullmatch(r"[a-z]+", words[1]):
+                for g in given:
+                    out.append(("regex", r"(?<![a-z])%s(?:\s+[a-z]+\.?)?\s+%s(?![a-z])"
+                                % (re.escape(g), re.escape(words[1]))))
         # The stopword-stripped form: `US Department of State` was ABSENT while
         # `Department of State` sat in prose thirteen times (2 September 2026).
         stripped = " ".join(key(cand))
@@ -330,16 +389,28 @@ def match_prose(cand, prose, limit=3):
     if not needles:
         return []
     hits = []
+    compiled = []
+    for kind, needle in needles:
+        if kind == "regex":
+            compiled.append(re.compile(needle))
+            continue
+        # Hyphens and spaces are interchangeable, and a letter-digit boundary
+        # may carry either: `CE5` must find "CE-5" and `A-12` must find "A12"
+        # (3 September 2026).
+        flex = re.sub(r"[-\s]+", " ", needle)
+        flex = re.sub(r"(?<=[a-z])(?=[0-9])|(?<=[0-9])(?=[a-z])", " ", flex)
+        body = r"[-\s]?".join(re.escape(p) for p in flex.split(" ") if p)
+        if kind == "word":
+            body = r"(?<![a-z0-9])" + body + r"(?![a-z0-9])"
+        compiled.append(re.compile(body))
     for nid, fld, text in prose:
         low = text.lower()
         i = -1
-        for kind, needle in needles:
-            if kind == "word":
-                m = re.search(r"(?<![a-z0-9])" + re.escape(needle) + r"(?![a-z0-9])", low)
-                i = m.start() if m else -1
-            else:
-                i = low.find(needle)
-            if i >= 0:
+        for pat in compiled:
+            m = pat.search(low)
+            if m:
+                i = m.start()
+                needle = m.group(0)
                 break
         if i >= 0:
             ctx = text[max(0, i - 70):i + len(needle) + 70].replace("\n", " ")
@@ -615,6 +686,32 @@ def self_test():
         got = classify([name], nodes, prose)[0]["verdict"]
         if got == "ABSENT":
             fails.append("%-42s reported ABSENT; the board names it in prose" % name)
+
+    # 3 September 2026, the Danny Jones triage. Each rule shown accepting the
+    # form the triage agents reported and rejecting an invented neighbour.
+    for cand, want_id in (("Lawrence Livermore National Labs", "llnl"),
+                          ("Sandia National Labs", "sandia"),
+                          ("USAF Plant 42", "l-plant-42"),
+                          ("Stargate (Project)", "stargate-program")):
+        m = match_node(cand, nodes)
+        if not m or m[0]["id"] != want_id:
+            fails.append("%-42s expected NODE %s got %s" % (cand, want_id, m[0]["id"] if m else None))
+    for cand in ("Lawrence Livermore National Zzyzx", "USAF Plant 99", "Zzyzx (Project)",
+                 "United Nuclear"):
+        m = match_node(cand, nodes)
+        if m:
+            fails.append("%-42s matched %s, a node it must not" % (cand, m[0]["id"]))
+    r = classify(["CARET"], nodes, prose)[0]
+    if r["verdict"] == "PROSE":
+        fails.append("CARET reported PROSE; a single token must match on word boundaries (caretakers)")
+    if classify(["Battelle"], nodes, prose)[0]["verdict"] == "ABSENT":
+        fails.append("Battelle reported ABSENT after the word-boundary rule")
+    for cand, want in (("CE5", "PROSE"), ("CE9", "ABSENT"),
+                       ("Jeff Kripal", "PROSE"), ("Jeff Zzyzx", "ABSENT"),
+                       ("Bigelow Institute for Consciousness Studies", "PROSE")):
+        got = classify([cand], nodes, prose)[0]["verdict"]
+        if got != want:
+            fails.append("%-42s expected %s got %s" % (cand, want, got))
 
     if fails:
         print("SELF-TEST FAILED")
