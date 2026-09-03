@@ -18,7 +18,7 @@ deploy recipe; its section 3 ordering is superseded by section 3 below.
 | the two checks | `test_packed_layout.js` `thin-bands-print-amber` required a band under five nodes to exist; disclosure went 3 -> 6 so none does. It now passes on data with no thin band, says so in its detail, and its poison conjures one. `runtime_check.js` dpr-2 ink check scored 14 of 24 with zero boxes showing the bug and 10 with no ink at either position; it now samples 48 boxes, scores only inked ones, and its poison still inverts (25 the reverse) |
 | CI | RED SINCE 01:45 ON 3 SEPTEMBER, on every commit. Cause found and fixed: see section 4. GREEN at `cdc99da` (gate and deploy both success, 21:45 UTC). The old shell had not deployed since the last Linux-built push until then |
 | deploys | Review site redeployed twice from `git archive master app`, last at `cdc99da`. Old shell: deployed by CI at `cdc99da`, serving the 1,057-node board |
-| housekeeping | `spot_check.py --links` run for the first time since 30 August: 1,651 URLs, ten dead (section 5) |
+| housekeeping | `spot_check.py --links` run for the first time since 30 August: 1,651 URLs, ten dead, all ten repaired the same evening by an Opus agent against opened documents (section 5); the sweep now reports no dead section |
 
 ## 2. The two boards, side by side
 
@@ -39,11 +39,10 @@ task, then `npm run check` and `npm run check:poison` work on their default APP_
    Design's captures (Map without zoom at 1:1; Neighbourhood hop 2 at 136 nodes) and the
    post-cutover polish list.
 2. **Cutover** once approved: the morning handoff's section 3 item 3, unchanged.
-3. **The ten dead citations** (section 5): nine cufon.org pages and one Federal Register
-   URL. An Opus agent with the spot-check brief: find each document at a live host (the
-   Federal Register one is the same URL without its trailing slash; cufon.org is gone as a
-   site and Wayback answers from this machine), open it, repoint the source, re-run
-   `spot_check.py` on the affected claims.
+3. ~~The ten dead citations~~ DONE the same evening; section 5 records each replacement
+   and how it was confirmed. Three lead-map files (`verified-institutional.md`,
+   `verified-area52-6.md`, `verified-michels-3.md`) still name the old cufon URLs in
+   prose; the sweep does not read prose and they were left alone.
 4. **A Danny Jones section C pass**, the shape of the Michels one: the triage files'
    section C rows that no verifier opened are podcast claims about existing nodes, listed
    in the decision list's section D with the strongest named. Six Opus verifiers, Tier 2
@@ -81,7 +80,20 @@ task, then `npm run check` and `npm run check:poison` work on their default APP_
   deployed. No em dashes for Stewart; every command block starts with its own quoted `cd`;
   tables over lists; he cannot read JSON.
 
-## 5. The dead citations, 3 September sweep
+## 5. The dead citations, 3 September sweep, and their repairs
+
+All ten were repointed the same evening. Robertson Panel: the Black Vault scan of
+CIA-RDP81R00560R000100030027-0 (29 pages; the two dossier claims about CUFON's own
+apparatus point at a Wayback capture of the CUFON page instead, which is the only host
+carrying its editorial note and the 28 November 1994 CIA letter). Pentacle memorandum and
+JANAP 146(C): live NICAP copies of the same pages. AFR 200-2, the 1952 CIA sampler, JANAP
+146(E) change 2, both Stork status-report pages and the Cash v. United States PDF: Wayback
+captures of the CUFON pages, each opened and its quoted phrases found, cited in the board's
+"Archived: ... (Wayback YYYY-MM-DD)" convention. Federal Register 94-13279: the same host's
+full-text path. Two caveats recorded: the Cash PDF's text layer covers only its cover, and
+NICAP's AFR 200-2 scan has no text layer, so those quotations are confirmed on the capture,
+not on a primary scan.
+
 
 | URL | Cited by |
 |---|---|

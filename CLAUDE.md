@@ -81,7 +81,7 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 | tiered claims | 5,303 — T1 3,367 · T2 1,422 · T3 514 |
 | edge tiers | regenerate; they moved with the 3 September build |
 | unique source URLs | 3,541 |
-| dead citations | 10 as of the 3 September sweep (nine on cufon.org, which is gone as a site; one Federal Register trailing slash). `notes/HANDOFF-2026-09-03-EVENING.md` section 5 |
+| dead citations | 0 as of the 3 September evening sweep. Ten were found that day (nine on cufon.org, which is gone as a site) and repaired against opened documents the same evening; `notes/HANDOFF-2026-09-03-EVENING.md` section 5 |
 | timeline events | 913 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
 | primary map | the force-directed full graph, all 1,057 nodes. **Inverted 29 August 2026** |

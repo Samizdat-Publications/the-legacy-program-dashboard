@@ -1496,8 +1496,8 @@ export const INSTITUTIONS = [
         date: '1955-05-05'
       },
       {
-        name: 'AFR 200-2, 12 August 1954 (declassified text)',
-        url: 'http://www.cufon.org/cufon/afr200-2.htm',
+        name: 'Archived: AFR 200-2, 12 August 1954 (declassified text) (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
         date: '1954-08-12'
       },
       {
@@ -5483,7 +5483,7 @@ export const INSTITUTIONS = [
       {
         tier: 1,
         text: 'A Department of the Navy document published on 1 June 1994, FR Doc 94-13279, still lists \'Commander, Naval Investigative Service Command\' among the officers it designates, so the former title was in current Federal Register use eight days before the substitution.',
-        source: 'Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/1994/06/01/94-13279/'
+        source: 'Federal Register Doc 94-13279, 1 June 1994, https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt'
       },
       {
         tier: 2,
@@ -5509,7 +5509,7 @@ export const INSTITUTIONS = [
       },
       {
         name: 'Federal Register Doc 94-13279, Department of the Navy, 1 June 1994',
-        url: 'https://www.federalregister.gov/documents/1994/06/01/94-13279/',
+        url: 'https://www.federalregister.gov/documents/full_text/text/1994/06/01/94-13279.txt',
         date: '1994-06-01'
       },
       {
@@ -10961,8 +10961,8 @@ export const INSTITUTIONS = [
         date: '2026-08-12'
       },
       {
-        name: 'Robertson Panel report, declassified text (CUFON)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       }
     ]
@@ -15243,8 +15243,8 @@ export const PROGRAMS = [
     ],
     sources: [
       {
-        name: 'CUFON - The \'Pentacle\' Memorandum',
-        url: 'https://www.cufon.org/cufon/pentacle.htm',
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
         date: '2026-08-12'
       },
       {
@@ -15253,13 +15253,13 @@ export const PROGRAMS = [
         date: '2020-09-17'
       },
       {
-        name: 'Seven Status Reports for Project STORK, part 1 of 4 (scope note, ATIC record of 8 Jan 1952, First and Second reports)',
-        url: 'https://www.cufon.org/cufon/stork1-7.htm',
+        name: 'Archived: Seven Status Reports for Project STORK, part 1 of 4 (scope note, ATIC record of 8 Jan 1952, First and Second reports) (Wayback 2025-12-13)',
+        url: 'https://web.archive.org/web/20251213201243/https://www.cufon.org/cufon/stork1-7.htm',
         date: '1952-11-10'
       },
       {
-        name: 'Seven Status Reports for Project STORK, part 4 of 4 (Fifth, Sixth and Seventh reports, with contract AF-19741)',
-        url: 'https://www.cufon.org/cufon/stork1-7c.htm',
+        name: 'Archived: Seven Status Reports for Project STORK, part 4 of 4 (Fifth, Sixth and Seventh reports, with contract AF-19741) (Wayback 2024-05-24)',
+        url: 'https://web.archive.org/web/20240524190130/http://www.cufon.org/cufon/stork1-7c.htm',
         date: '1952-11-10'
       },
       {
@@ -15421,8 +15421,8 @@ export const PROGRAMS = [
     ],
     sources: [
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -20798,8 +20798,8 @@ export const DOMAINS = [
         date: '2026-05-08'
       },
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -21658,8 +21658,8 @@ export const DOMAINS = [
         date: '1968-11-01'
       },
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -22065,8 +22065,8 @@ export const DOMAINS = [
         date: '2009-11-01'
       },
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -22684,8 +22684,8 @@ export const DOMAINS = [
     ],
     sources: [
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -38154,8 +38154,8 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
-        name: 'CUFON - The \'Pentacle\' Memorandum',
-        url: 'https://www.cufon.org/cufon/pentacle.htm',
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
         date: '2026-08-12'
       },
       {
@@ -38747,7 +38747,7 @@ export const DOCUMENTS = [
     sources: [
       {
         name: 'JANAP 146(C), 10 March 1954 (declassified text)',
-        url: 'http://www.cufon.org/cufon/janp146c.htm',
+        url: 'https://www.nicap.org/janp146c.htm',
         date: '1954-03-10'
       },
       {
@@ -38756,8 +38756,8 @@ export const DOCUMENTS = [
         date: '1969-10-20'
       },
       {
-        name: 'JANAP 146(E) with Change No. 2 (17 May 1977) and the 28 February 1994 OSD FOIA release letter',
-        url: 'https://www.cufon.org/cufon/janp1462.htm',
+        name: 'Archived: JANAP 146(E) with Change No. 2 (17 May 1977) and the 28 February 1994 OSD FOIA release letter (Wayback 2026-07-07)',
+        url: 'https://web.archive.org/web/20260707104059/https://www.cufon.org/cufon/janp1462.htm',
         date: '1977-05-17'
       },
       {
@@ -38832,13 +38832,13 @@ export const DOCUMENTS = [
     ],
     sources: [
       {
-        name: 'AFR 200-2, 12 August 1954 (declassified text)',
-        url: 'http://www.cufon.org/cufon/afr200-2.htm',
+        name: 'Archived: AFR 200-2, 12 August 1954 (declassified text) (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
         date: '1954-08-12'
       },
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -39853,8 +39853,8 @@ export const DOCUMENTS = [
         date: '2024-02-18'
       },
       {
-        name: 'CUFON - Progress Reports on Project Stork',
-        url: 'https://www.cufon.org/cufon/stork1-7.htm',
+        name: 'Archived: CUFON - Progress Reports on Project Stork (Wayback 2025-12-13)',
+        url: 'https://web.archive.org/web/20251213201243/https://www.cufon.org/cufon/stork1-7.htm',
         date: '2024-02-18'
       }
     ]
@@ -45602,8 +45602,8 @@ export const EVENTS = [
     ],
     sources: [
       {
-        name: 'CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)',
-        url: 'http://www.cufon.org/cufon/cia-52-1.htm',
+        name: 'Archived: CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda) (Wayback 2025-01-17)',
+        url: 'https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm',
         date: '1952-09-11'
       },
       {
@@ -47435,8 +47435,8 @@ export const EVENTS = [
         date: '2019-10-03'
       },
       {
-        name: 'CUFON Cash-Landrum legal documents',
-        url: 'http://www.cufon.org/cufon/cashlanC.pdf',
+        name: 'Archived: CUFON Cash-Landrum legal documents (Wayback 2026-01-28)',
+        url: 'https://web.archive.org/web/20260128023835/http://www.cufon.org/cufon/cashlanC.pdf',
         date: '1986-01-01'
       }
     ]

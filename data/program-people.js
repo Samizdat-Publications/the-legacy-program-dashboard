@@ -5996,7 +5996,7 @@ export const PEOPLE = [
       },
       {
         name: 'JANAP 146(C), 10 March 1954 (declassified text)',
-        url: 'http://www.cufon.org/cufon/janp146c.htm',
+        url: 'https://www.nicap.org/janp146c.htm',
         date: '1954-03-10'
       },
       {
@@ -16623,8 +16623,8 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'CUFON - The \'Pentacle\' Memorandum',
-        url: 'https://www.cufon.org/cufon/pentacle.htm',
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
         date: '2026-08-12'
       },
       {
@@ -17203,8 +17203,8 @@ export const PEOPLE = [
         date: '2024-07-17'
       },
       {
-        name: 'CUFON - Progress Reports on Project Stork (cited by Gerb)',
-        url: 'https://www.cufon.org/cufon/stork1-7.htm',
+        name: 'Archived: CUFON - Progress Reports on Project Stork (cited by Gerb) (Wayback 2025-12-13)',
+        url: 'https://web.archive.org/web/20251213201243/https://www.cufon.org/cufon/stork1-7.htm',
         date: '2024-02-18'
       }
     ],
@@ -18988,8 +18988,8 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)',
-        url: 'http://www.cufon.org/cufon/cia-52-1.htm',
+        name: 'Archived: CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda) (Wayback 2025-01-17)',
+        url: 'https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm',
         date: '1952-09-11'
       },
       {
@@ -19071,8 +19071,8 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -19143,8 +19143,8 @@ export const PEOPLE = [
     ],
     sources: [
       {
-        name: 'Robertson Panel report and Durant record (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-02-16'
       },
       {

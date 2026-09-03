@@ -689,8 +689,8 @@ export const ENTITY_SOURCES = {
   ],
   'robertson-panel': [
     {
-      name: 'Robertson Panel report (declassified text)',
-      url: 'http://www.cufon.org/cufon/robert.htm',
+      name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+      url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
       date: '1953-01-17'
     },
     {
@@ -698,8 +698,12 @@ export const ENTITY_SOURCES = {
       url: 'https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/',
       date: '1997-01-01'
     },
-    { name: 'AFR 200-2, 12 August 1954', url: 'http://www.cufon.org/cufon/afr200-2.htm', date: '1954-08-12' },
-    { name: 'JANAP 146(C), 10 March 1954', url: 'http://www.cufon.org/cufon/janp146c.htm', date: '1954-03-10' }
+    {
+      name: 'Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)',
+      url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
+      date: '1954-08-12'
+    },
+    { name: 'JANAP 146(C), 10 March 1954', url: 'https://www.nicap.org/janp146c.htm', date: '1954-03-10' }
   ],
   'bolender-memo': [
     {
@@ -707,7 +711,7 @@ export const ENTITY_SOURCES = {
       url: 'https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf',
       date: '1969-10-20'
     },
-    { name: 'JANAP 146(C), 10 March 1954', url: 'http://www.cufon.org/cufon/janp146c.htm', date: '1954-03-10' },
+    { name: 'JANAP 146(C), 10 March 1954', url: 'https://www.nicap.org/janp146c.htm', date: '1954-03-10' },
     {
       name: 'NARA — Project Blue Book / Air Force UFO records',
       url: 'https://www.archives.gov/research/military/air-force/ufos',

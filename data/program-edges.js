@@ -14320,8 +14320,8 @@ export const PROGRAM_EDGES = [
         date: '1955-05-05'
       },
       {
-        name: 'Project Stork status reports, transcribed from NARA holdings',
-        url: 'https://www.cufon.org/cufon/stork1-7.htm',
+        name: 'Archived: Project Stork status reports, transcribed from NARA holdings (Wayback 2025-12-13)',
+        url: 'https://web.archive.org/web/20251213201243/https://www.cufon.org/cufon/stork1-7.htm',
         date: '1952-11-10'
       },
       {
@@ -14358,7 +14358,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1955',
     note: 'Cross was the named point of contact between Battelle\'s Stork analysts and Wright-Patterson.',
     sources: [
-      { name: 'CUFON', url: 'https://www.cufon.org/cufon/pentacle.htm', date: '2026-08-12' }
+      {
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
+        date: '2026-08-12'
+      }
     ]
   },
   {
@@ -14371,7 +14375,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.',
     sources: [
-      { name: 'CUFON', url: 'https://www.cufon.org/cufon/pentacle.htm', date: '2026-08-12' }
+      {
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
+        date: '2026-08-12'
+      }
     ]
   },
   {
@@ -14384,7 +14392,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1953',
     note: 'Vallee\'s conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.',
     sources: [
-      { name: 'CUFON', url: 'https://www.cufon.org/cufon/pentacle.htm', date: '2026-08-12' },
+      {
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
+        date: '2026-08-12'
+      },
       {
         name: 'Bad UFOs analysis',
         url: 'https://badufos.blogspot.com/2012/02/jacques-vallee-j-allen-hynek-and.html',
@@ -14403,7 +14415,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.',
     sources: [
-      { name: 'CUFON', url: 'https://www.cufon.org/cufon/pentacle.htm', date: '2026-08-12' }
+      {
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
+        date: '2026-08-12'
+      }
     ]
   },
   {
@@ -14416,7 +14432,11 @@ export const PROGRAM_EDGES = [
     dateEnd: null,
     note: 'No signed original has ever been produced by the Air Force or by Battelle.',
     sources: [
-      { name: 'CUFON', url: 'https://www.cufon.org/cufon/pentacle.htm', date: '2026-08-12' }
+      {
+        name: 'NICAP - The \'Pentacle\' Memorandum (CUFON page)',
+        url: 'https://www.nicap.org/papers/Pentacle/pentacle.htm',
+        date: '2026-08-12'
+      }
     ]
   },
   {
@@ -16804,8 +16824,8 @@ export const PROGRAM_EDGES = [
     note: 'Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.',
     sources: [
       {
-        name: 'CUFON 1952 CIA document sampler',
-        url: 'http://www.cufon.org/cufon/cia-52-1.htm',
+        name: 'Archived: CUFON 1952 CIA document sampler (Wayback 2025-01-17)',
+        url: 'https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm',
         date: '1952-09-11'
       }
     ]
@@ -16837,7 +16857,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1953',
     note: 'Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.',
     sources: [
-      { name: 'Robertson Panel report', url: 'http://www.cufon.org/cufon/robert.htm', date: '1953-01-17' }
+      {
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
+        date: '1953-01-17'
+      }
     ]
   },
   {
@@ -16851,8 +16875,8 @@ export const PROGRAM_EDGES = [
     note: 'Durant\'s memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.',
     sources: [
       {
-        name: 'Robertson Panel report and Durant record',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-02-16'
       }
     ]
@@ -16872,7 +16896,11 @@ export const PROGRAM_EDGES = [
         url: 'https://www.cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/cias-role-in-the-study-of-ufos-1947-1990/',
         date: '1997-01-01'
       },
-      { name: 'Robertson Panel report', url: 'http://www.cufon.org/cufon/robert.htm', date: '1953-01-17' }
+      {
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
+        date: '1953-01-17'
+      }
     ]
   },
   {
@@ -16902,8 +16930,16 @@ export const PROGRAM_EDGES = [
     dateEnd: '1954',
     note: 'AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.',
     sources: [
-      { name: 'AFR 200-2, 12 August 1954', url: 'http://www.cufon.org/cufon/afr200-2.htm', date: '1954-08-12' },
-      { name: 'Robertson Panel report', url: 'http://www.cufon.org/cufon/robert.htm', date: '1953-01-17' }
+      {
+        name: 'Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
+        date: '1954-08-12'
+      },
+      {
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
+        date: '1953-01-17'
+      }
     ]
   },
   {
@@ -16916,7 +16952,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1969',
     note: 'For unexplainable objects, \'only the fact that ATIC will analyze the data is worthy of release\'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.',
     sources: [
-      { name: 'AFR 200-2, 12 August 1954', url: 'http://www.cufon.org/cufon/afr200-2.htm', date: '1954-08-12' }
+      {
+        name: 'Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
+        date: '1954-08-12'
+      }
     ]
   },
   {
@@ -16929,7 +16969,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1969',
     note: 'The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.',
     sources: [
-      { name: 'AFR 200-2, 12 August 1954', url: 'http://www.cufon.org/cufon/afr200-2.htm', date: '1954-08-12' }
+      {
+        name: 'Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
+        date: '1954-08-12'
+      }
     ]
   },
   {
@@ -16942,7 +16986,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1954',
     note: 'The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.',
     sources: [
-      { name: 'AFR 200-2, 12 August 1954', url: 'http://www.cufon.org/cufon/afr200-2.htm', date: '1954-08-12' },
+      {
+        name: 'Archived: AFR 200-2, 12 August 1954 (Wayback 2026-05-21)',
+        url: 'https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm',
+        date: '1954-08-12'
+      },
       {
         name: 'Twining memorandum, 23 September 1947',
         url: 'https://www.nicap.org/docs/1947_Twining_memo.pdf',
@@ -16960,7 +17008,7 @@ export const PROGRAM_EDGES = [
     dateEnd: '1969',
     note: 'JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.',
     sources: [
-      { name: 'JANAP 146(C), 10 March 1954', url: 'http://www.cufon.org/cufon/janp146c.htm', date: '1954-03-10' },
+      { name: 'JANAP 146(C), 10 March 1954', url: 'https://www.nicap.org/janp146c.htm', date: '1954-03-10' },
       {
         name: 'Bolender memorandum, 20 October 1969',
         url: 'https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf',
@@ -16983,7 +17031,7 @@ export const PROGRAM_EDGES = [
         url: 'https://www.nicap.org/docs/1969_10_20_Bolender_Memo.pdf',
         date: '1969-10-20'
       },
-      { name: 'JANAP 146(C), 10 March 1954', url: 'http://www.cufon.org/cufon/janp146c.htm', date: '1954-03-10' }
+      { name: 'JANAP 146(C), 10 March 1954', url: 'https://www.nicap.org/janp146c.htm', date: '1954-03-10' }
     ]
   },
   {
@@ -17576,7 +17624,11 @@ export const PROGRAM_EDGES = [
         url: 'https://www.gutenberg.org/ebooks/17346',
         date: '1956-01-01'
       },
-      { name: 'Robertson Panel report', url: 'http://www.cufon.org/cufon/robert.htm', date: '1953-01-17' }
+      {
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
+        date: '1953-01-17'
+      }
     ]
   },
   {
@@ -17589,7 +17641,11 @@ export const PROGRAM_EDGES = [
     dateEnd: '1953',
     note: 'The Air Force\'s scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.',
     sources: [
-      { name: 'Robertson Panel report', url: 'http://www.cufon.org/cufon/robert.htm', date: '1953-01-17' }
+      {
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
+        date: '1953-01-17'
+      }
     ]
   },
   {
@@ -39284,8 +39340,8 @@ export const PROGRAM_EDGES = [
     note: 'Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.',
     sources: [
       {
-        name: 'Robertson Panel report, declassified text (CUFON)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       },
       {
@@ -39306,8 +39362,8 @@ export const PROGRAM_EDGES = [
     note: 'Robertson chaired the panel at CIA\'s request; the report is the founding document of American UFO information management.',
     sources: [
       {
-        name: 'Robertson Panel report, declassified text (CUFON)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report and Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       }
     ]
@@ -45953,8 +46009,8 @@ export const PROGRAM_EDGES = [
     note: 'The Robertson Panel\'s January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.',
     sources: [
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       }
     ]
@@ -46627,8 +46683,8 @@ export const PROGRAM_EDGES = [
     note: 'The Robertson Panel was convened by CIA\'s Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.',
     sources: [
       {
-        name: 'Robertson Panel report (declassified text)',
-        url: 'http://www.cufon.org/cufon/robert.htm',
+        name: 'Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)',
+        url: 'https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf',
         date: '1953-01-17'
       }
     ]
