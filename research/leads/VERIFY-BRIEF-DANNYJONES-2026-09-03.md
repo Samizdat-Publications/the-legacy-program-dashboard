@@ -1,7 +1,7 @@
 # Brief for a verification agent (Danny Jones corpus candidates, 3 September 2026)
 
 You hold five or six candidates chosen by the orchestrating session from section A
-of the seven triage files `research/leads/dannyjones-triage-1.md` to `-7.md`. For
+of the six triage files `research/leads/dannyjones-triage-1.md` to `-6.md`. For
 each, open the record that would justify a node and say what it actually says. You
 write one verification file. You do not add anything to the board, and you do not
 run git or the build.

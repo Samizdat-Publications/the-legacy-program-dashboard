@@ -1,6 +1,6 @@
 # Brief for a triage agent (Danny Jones corpus, 3 September 2026)
 
-You are one of seven agents. Each holds five lead maps and the list of names from
+You are one of six agents. Each holds five or ten lead maps and the list of names from
 them that the board has never heard of. Your job is to say which of those names
 could become a node on this board, and what document would have to be opened to
 justify it. You do not open documents and you do not add anything to the board.
@@ -15,8 +15,8 @@ justify it. You do not open documents and you do not add anything to the board.
    A and E: that is the standard a candidate has to meet, and section E shows
    what a deliberate exclusion looks like.
 4. Your lead maps, `research/leads/dannyjones-corpus-NN.md` (group 1 holds batches
-   01 to 05, group 2 06 to 10, group 3 11 to 15, group 4 16 to 20, group 5 21 to 25,
-   group 6 26 to 30, group 7 31 to 35), and your ABSENT list,
+   01 to 05, group 2 06 to 10, group 3 11 to 15, group 4 16 to 20, group 5 21 to 30 (ten maps,
+   most of them thin), group 6 31 to 35), and your ABSENT list,
    `research/leads/dannyjones-absent/group-G.tsv` (name, batch, and where the
    cross-check found a near miss in the board's prose).
 
