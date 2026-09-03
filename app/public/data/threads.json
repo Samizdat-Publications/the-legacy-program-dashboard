@@ -1,5 +1,635 @@
 {
  "generated": "2026-09-02",
  "source": "687756664d3a",
- "threads": []
+ "threads": [
+  {
+   "blurb": "DIA records Senator Reid as co-sponsor with Senator Inouye of the July 2008 Supplemental Appropriation language directing DIA to investigate far-term foreign advanced aerospace threats, and that is the appropriation AAWSAP was run on. Sixteen years later AARO's own historical report is where the Department's account of that money, its contractor and its proposed successor sits.",
+   "id": "lineage",
+   "label": "Lineage",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "DIA records him as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation bill directing DIA to investigate foreign advanced aerospace weapon threats out to forty years in the future, a $10 million add.",
+     "node": "harry-reid",
+     "year": 2009
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "He is the reason the money existed: Reid co-sponsored the FY2008 supplemental $10M add with Senator Inouye, and that is the appropriation AAWSAP was run on.",
+     "node": "aawsap",
+     "year": 2007
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "AAWSAP is the official name and AATIP/AAITP is Reid's name for it; the Department has treated them as one contract and two labels, alternately.",
+     "node": "aatip",
+     "year": 2009
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "funding",
+      "via": []
+     },
+     "evidence": "Most of the roughly $22m went to Bigelow Aerospace between 2008 and 2011, reported by the New York Times with Bigelow on record describing modified Las Vegas buildings.",
+     "node": "robert-bigelow",
+     "year": 2008
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "funding",
+      "via": []
+     },
+     "evidence": "Bigelow's organisation was the anticipated contract performer for the proposed program, and AARO notes the material was only assumed to exist by KONA BLUE advocates and its anticipated contract performers.",
+     "node": "kona-blue",
+     "year": 2011
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "Volume I surfaced Kona Blue and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
+     "node": "aaro-historical-record-vol1",
+     "year": 2024
+    }
+   ],
+   "title": "The funded lineage: AAWSAP to the historical record"
+  },
+  {
+   "blurb": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119, and AARO states that KONA BLUE was never reported to Congress because it was never established as a SAP. The chain ends at the one place the record is documentary rather than alleged: a 1986 GAO review of special-access document control at the Lockheed/Burbank plant.",
+   "id": "custody",
+   "label": "Custody",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "The printed hearing record is CHRG-118hhrg53022, Serial No. 118-53, before the Subcommittee on National Security, the Border, and Foreign Affairs.",
+     "node": "hearing-2023-07-26",
+     "year": 2023
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "witness-chain",
+      "via": []
+     },
+     "evidence": "Sworn witness, who testified to non-human biologics, named SAPs he could not disclose, and harm to persons.",
+     "node": "david-grusch",
+     "year": 2023
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 3,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "His allegations concern a programme withheld from the statutory notification channel, and the testimony was given to a subcommittee that holds no entitlement under section 119.",
+     "node": "waived-sap-notification-group",
+     "year": null
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "legislative",
+      "via": []
+     },
+     "evidence": "The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), which direct waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee.",
+     "node": "usc-10-119",
+     "year": 1989
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "behavioral",
+      "via": []
+     },
+     "evidence": "AARO states that KONA BLUE was not reported to Congress at that time because it was never established as a SAP and therefore did not meet the threshold for congressional reporting.",
+     "node": "kona-blue",
+     "year": 2011
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "custody",
+      "via": []
+     },
+     "evidence": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side.",
+     "node": "lockheed-skunk-works",
+     "year": 1943
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "geographic",
+      "via": []
+     },
+     "evidence": "The companion report GAO/NSIAD-86-191 names the Lockheed/Burbank plant that the testimony itself would not.",
+     "node": "gao-130581",
+     "year": 1986
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "This is the contractor whose special-access document control the testimony examined: 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items, with 11 documents unresolved as of 19 July 1986.",
+     "node": "lockheed-martin",
+     "year": 1995
+    }
+   ],
+   "title": "Custody: from sworn testimony to a contractor's document control"
+  },
+  {
+   "blurb": "The Department has received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years, and SFFAS 56 permits amounts to be presented in a different line item without narrative explanation. Where the money is a waived special access program, DoDI 5205.11 limits access to the chair, the ranking member, the staff directors and one designated security manager of each committee.",
+   "id": "money",
+   "label": "Money",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
+     "node": "dod-agencywide-audit",
+     "year": 2018
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "SFFAS 56 authorises modification of the same public financial reports the audit examines, and permits amounts to be presented in a different line item without narrative explanation.",
+     "node": "sffas-56",
+     "year": 2018
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 3,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "The board records these as the accounting-side and appropriations-side concealment of the same activity, and says plainly that this is an inference and that no document links them.",
+     "node": "classified-annex",
+     "year": 1970
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "funding",
+      "via": []
+     },
+     "evidence": "Under DoDI 5205.11 para. 7.2.h, waived-programme congressional budget justification materials go only to committee staff directors.",
+     "node": "dod-sapco",
+     "year": 1994
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "DoDI 5205.11 para. 7.2.a(3): only the chair, the ranking member, the staff directors and one designated security manager of the defense and intelligence committees are authorised access.",
+     "node": "waived-sap-notification-group",
+     "year": null
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "legislative",
+      "via": []
+     },
+     "evidence": "The group is created by 10 U.S.C. 119(e)(2) and defined by 119(g), added by Pub. L. 100-180 on 4 December 1987.",
+     "node": "usc-10-119",
+     "year": 1989
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "legislative",
+      "via": []
+     },
+     "evidence": "Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter, conditioning the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.",
+     "node": "ndaa-fy2024-1687",
+     "year": 2023
+    }
+   ],
+   "title": "Money: an unauditable ledger and a reporting channel of four people"
+  },
+  {
+   "blurb": "Each pair on this thread is joined by an edge the board types as a denial, so the chain is one of refusals rather than of connections. It runs from the most specific custody allegation in the modern record, which the government's historical review does not mention, to a federally funded research centre that routes a congressional records demand back through its sponsoring agencies.",
+   "id": "denials",
+   "label": "Denials",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds.",
+     "node": "wilson-davis-memo",
+     "year": 2002
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson.",
+     "node": "aaro-historical-record-vol1",
+     "year": 2024
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "Volume I page 30 found 'no NDAs that contain information related to UAP', and the Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme.",
+     "node": "yankee-blue",
+     "year": 1980
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "Susan Gough, 1 October 2025: 'I cannot confirm the existence of any department-level memo as described in the article.'",
+     "node": "aaro",
+     "year": 2022
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "AARO has never publicly addressed the alleged programme entered into the congressional record, in either annual report or in any of the five PURSUE tranches.",
+     "node": "immaculate-constellation",
+     "year": 2024
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "DoD spokesperson Sue Gough: 'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.'",
+     "node": "dod",
+     "year": 1947
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "The Department told committee staff that only HASC and HAC-D members could be read in on UAP special access programs.",
+     "node": "house-oversight-committee",
+     "year": 1927
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "MITRE conditions any production on coordination with the sponsoring federal agencies: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+     "node": "mitre-corporation",
+     "year": 1958
+    }
+   ],
+   "title": "Denials: eight steps, every join a denial edge"
+  },
+  {
+   "blurb": "The notes record a former DIA director being refused access to a programme holding a recovered craft on the ground that it sat with a private aerospace contractor. Every step after them is one the record itself grades down: an alleged venue, an inquiry that stopped, an attributed conclusion, and a set of contractor denials AARO took without naming a company or inspecting a facility.",
+   "id": "wilson-davis",
+   "label": "Wilson-Davis",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
+     "node": "eric-davis",
+     "year": 2010
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "custody",
+      "via": []
+     },
+     "evidence": "He is the author of record of the notes of the alleged 16 October 2002 Wilson meeting, which surfaced in 2019 among the estate papers of Edgar Mitchell.",
+     "node": "wilson-davis-memo",
+     "year": 2002
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 3,
+      "type": "custody",
+      "via": []
+     },
+     "evidence": "The meeting is reported to have taken place at an EG&G facility in Las Vegas, which places the conversation inside the contractor perimeter it describes.",
+     "node": "eg-and-g",
+     "year": 1947
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "D'Amato's Senate inquiry reached EG&G and stopped there; he reported that the allegations did not merit further investigation.",
+     "node": "richard-damato",
+     "year": 1993
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 3,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible', though his own public statement records no opinion and treats the inquiry as closed.",
+     "node": "lockheed-martin",
+     "year": 1995
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "denial",
+      "via": []
+     },
+     "evidence": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record, and AARO names no company and describes no inspection.",
+     "node": "aaro-historical-record-vol1",
+     "year": 2024
+    }
+   ],
+   "title": "Wilson-Davis: the notes, the contractor perimeter and the closed inquiry"
+  },
+  {
+   "blurb": "The PAX 205 briefing names Salvatore Cezar Pais of NAWCAD as the author of the inertial mass reduction device disclosure, and the granted patent is the filing that resulted from it. The assignee is the Secretary of the Navy, and the Navy is the service the Deputy Secretary of Defense designated to lead the UAP Task Force whose holdings became the June 2021 assessment.",
+   "id": "patents",
+   "label": "Patents",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "The PAX 205 briefing identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670'.",
+     "node": "salvatore-pais",
+     "year": 2015
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "He is the author of the Navy invention disclosure, named with his NAWCAD competency code 4.4.5.1 on its first page.",
+     "node": "pax-205-disclosure",
+     "year": 2015
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "The internal disclosure underlies the granted patent: both are the inertial mass reduction device, and the briefing carries the Navy case number PAX 205.",
+     "node": "pais-patent-imrd",
+     "year": 2016
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "Assignee of record: 'The United States of America as represented by the Secretary of the Navy'.",
+     "node": "us-navy",
+     "year": null
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "Deputy Secretary of Defense David L. Norquist approved the establishment of the UAP Task Force on 4 August 2020, with the Department of the Navy leading it.",
+     "node": "uap-task-force",
+     "year": 2020
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "programmatic",
+      "via": []
+     },
+     "evidence": "The UAPTF dataset is the substrate of the 2021 Preliminary Assessment: its 144 incidents came from the Task Force's holdings, and ODNI transmitted the product.",
+     "node": "odni-preliminary-assessment-2021",
+     "year": 2021
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "AARO inherited the reporting line this assessment opened, the ODNI 2022 annual report carrying a section headed 'Establishment of the All-Domain Anomaly Resolution Office (AARO)'.",
+     "node": "aaro",
+     "year": 2022
+    }
+   ],
+   "title": "Patents: a Navy invention disclosure and the reporting line it ran into"
+  },
+  {
+   "blurb": "In January 2016 Tom DeLonge wrote to John Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base', and that the general on the meeting thread had run that laboratory until a couple of years earlier. That general's disappearance in February 2026 is the trigger the committee gives for its probe into eleven people in nuclear or rocket technology who have died or vanished since 2022.",
+   "id": "scientists",
+   "label": "Missing scientists",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002.",
+     "node": "john-podesta",
+     "year": 2002
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "witness-chain",
+      "via": []
+     },
+     "evidence": "He is the addressee of the McCasland email and the organiser of the 25 January 2016 meeting; the email is addressed to john.podesta@gmail.com.",
+     "node": "podesta-delonge-mccasland-email-2016",
+     "year": 2016
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "custody",
+      "via": []
+     },
+     "evidence": "The email asserts to Podesta that 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base', which is a record of what DeLonge asserted in writing rather than of what happened.",
+     "node": "l-wright-patterson",
+     "year": 1917
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "He commanded the Air Force Research Laboratory at Wright-Patterson, the single installation most persistently named in the legacy recovery literature.",
+     "node": "william-mccasland",
+     "year": 2026
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "temporal",
+      "via": []
+     },
+     "evidence": "His February 2026 disappearance is the trigger for the probe; per the committee he is one of eleven people in nuclear or rocket technology who have died or vanished since 2022.",
+     "node": "missing-scientists-probe-2026",
+     "year": 2026
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "institutional",
+      "via": []
+     },
+     "evidence": "The probe is run by the same committee and the same member as the UAP inquiry.",
+     "node": "house-oversight-committee",
+     "year": 1927
+    }
+   ],
+   "title": "Missing scientists: a 2016 email, a laboratory, and an April 2026 probe"
+  },
+  {
+   "blurb": "Luna and Burchett drove the July 2023 hearing into existence, and Luna then chaired the September 2025 Task Force hearing built around serving and former operators. Burlison's 22 May 2026 letter is the first congressional records demand ever addressed to an FFRDC operator on UAP, and the House-adopted amendment is the only instrument that would reach the holdings he asked MITRE for.",
+   "id": "oversight",
+   "label": "Oversight 2023-2026",
+   "steps": [
+    {
+     "edge": null,
+     "evidence": "Witness list of record: Ryan Graves of Americans for Safe Aerospace, David Grusch of the UAP Task Force, and Commander David Fravor (Ret.).",
+     "node": "hearing-2023-07-26",
+     "year": 2023
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "She co-drove the hearing and established Grusch's DoD prepublication clearance and his fear for his life on the record.",
+     "node": "anna-paulina-luna",
+     "year": 2025
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "legislative",
+      "via": []
+     },
+     "evidence": "She chaired the Task Force hearing that seated operator witnesses: 'Hon. Anna Luna, [Chairwoman of the Task Force] presiding.'",
+     "node": "hearing-2025-09-09",
+     "year": 2025
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 2,
+      "type": "witness-chain",
+      "via": []
+     },
+     "evidence": "He presented at that hearing previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+     "node": "eric-burlison",
+     "year": 2026
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "He is the author of the 22 May 2026 records demand: ten pages, more than forty requests, records back to 1930, a 45-day deadline.",
+     "node": "burlison-mitre-letter-2026",
+     "year": 2026
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 1,
+      "type": "investigative",
+      "via": []
+     },
+     "evidence": "The letter demands production of all MITRE UAP and reverse-engineering records back to 1930, and MITRE confirmed it was reviewing its archives.",
+     "node": "mitre-corporation",
+     "year": 1958
+    },
+    {
+     "edge": {
+      "kind": "direct",
+      "tier": 3,
+      "type": "legislative",
+      "via": []
+     },
+     "evidence": "The amendment extends disclosure requirements to covered government contractors, the only instrument that would reach the holdings Burlison sought from MITRE by letter.",
+     "node": "uapda-fy2027-house-adopted",
+     "year": 2026
+    }
+   ],
+   "title": "Oversight 2023-2026: three hearings, one letter, one amendment"
+  }
+ ]
 }

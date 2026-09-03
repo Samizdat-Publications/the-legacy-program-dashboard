@@ -1068,6 +1068,18 @@ def _images():
 _PATENTS_OVERRIDE = None
 _OBS_OVERRIDE = None
 _FOIA_OVERRIDE = None
+_THREADS_OVERRIDE = None
+
+
+def _threads():
+    """research/threads.json, or the poisoned stand-in during --self-test."""
+    if _THREADS_OVERRIDE is not None:
+        return _THREADS_OVERRIDE
+    path = os.path.join(ROOT, "research", "threads.json")
+    if not os.path.exists(path):
+        return None
+    with open(path, encoding="utf-8") as fh:
+        return json.load(fh)
 
 
 def _foia():
@@ -2012,6 +2024,128 @@ def _pat_absent(b, html):
     return bad
 
 
+@check("every thread step is joined to the last by a board edge")
+def _threads_joined(b, html):
+    """research/threads.json is the THREADS page's whole content, the way
+    research/patents-view.json is the PATENTS tab's. A thread is a chain a stranger
+    is invited to follow, so the one thing it must never do is imply a connection
+    the board does not hold: two nodes printed one above the other read as joined
+    whether or not anything joins them, and the reader has no way to tell.
+
+    APP-SPEC-2026-09-02 section 5 states the rule and Design's mockup printed a red
+    placeholder wherever the extract had no edge for a pair. A placeholder in a
+    mockup is honest; the same gap shipped is an invented relationship, which is
+    CLAUDE.md section 2 in a costume it has not worn here before.
+
+    So: every step names a node that exists, and every consecutive pair is joined,
+    in either direction, by an edge in data/the-program.json of exactly the type and
+    claimTier the step declares. A pair may instead be `derived` -- but only where
+    the board holds NO direct edge at all, and then it must be one of
+    data/l0-model.json's `summarised` pairs and must name that pair's own `via`
+    members. Declaring `derived` over a pair that has a direct edge would let a
+    thread quietly downgrade a documented link into an inferred one, and declaring a
+    type or a tier the edge does not carry would let the page print a grade the
+    board never awarded.
+
+    This reads the board from disk rather than from `b`: the self-test fixture is
+    two synthetic nodes with no edges, so every real thread would false-positive
+    against it. The thing under test is the FILE, and its poison channel is
+    _THREADS_OVERRIDE, the same pattern as _PATENTS_OVERRIDE."""
+    T = _threads()
+    if T is None:
+        return ["research/threads.json is missing and the THREADS page is a "
+                "renderer with no content of its own"]
+    if not os.path.exists(BOARD):
+        return ["data/the-program.json is missing, so no thread step can be checked"]
+    with open(BOARD, encoding="utf-8") as fh:
+        board = json.load(fh)
+    ids = {n["id"] for n in board["people"] + board["entities"]}
+    pairs = {}
+    for e in board["edges"]:
+        pairs.setdefault(frozenset((e["a"], e["b"])), []).append(e)
+    summarised = {}
+    lpath = os.path.join(ROOT, "data", "l0-model.json")
+    if os.path.exists(lpath):
+        with open(lpath, encoding="utf-8") as fh:
+            for s in json.load(fh).get("summarised") or []:
+                summarised[frozenset((s["a"], s["b"]))] = s
+
+    bad = []
+    seen_ids = set()
+    threads = T.get("threads")
+    if not threads:
+        return ["research/threads.json carries no threads"]
+    for t in threads:
+        tid = t.get("id") or "<no id>"
+        if tid in seen_ids:
+            bad.append(f"{tid}: two threads share one id, so one of them is "
+                       f"unreachable at #/t/{tid}")
+        seen_ids.add(tid)
+        for k in ("id", "label", "title", "blurb"):
+            if not (t.get(k) or "").strip():
+                bad.append(f"{tid}: no {k}")
+        steps = t.get("steps") or []
+        if not 5 <= len(steps) <= 9:
+            bad.append(f"{tid}: {len(steps)} steps; a thread carries five to nine")
+        for i, s in enumerate(steps):
+            node = s.get("node")
+            where = f"{tid} step {i + 1} ({node!r})"
+            if node not in ids:
+                bad.append(f"{where}: not a node on the board")
+                continue
+            if not (s.get("evidence") or "").strip():
+                bad.append(f"{where}: no evidence line, so the step asserts a join "
+                           f"and says nothing about it")
+            ed = s.get("edge")
+            if i == 0:
+                if ed is not None:
+                    bad.append(f"{where}: the first step has nothing before it and "
+                               f"must carry edge: null")
+                continue
+            prev = steps[i - 1].get("node")
+            key = frozenset((prev, node))
+            direct = pairs.get(key) or []
+            if ed is None:
+                bad.append(f"{where}: no edge object, so nothing states how it is "
+                           f"joined to {prev!r}")
+                continue
+            kind = ed.get("kind")
+            if kind == "direct":
+                if not direct:
+                    bad.append(f"{where}: NOTHING on the board joins it to {prev!r}. "
+                               f"The page would print the two as a chain anyway")
+                    continue
+                hit = [e for e in direct
+                       if e.get("type") == ed.get("type")
+                       and e.get("claimTier") == ed.get("tier")]
+                if not hit:
+                    have = sorted({f"{e.get('type')}/T{e.get('claimTier')}"
+                                   for e in direct})
+                    bad.append(f"{where}: declares {ed.get('type')}/T{ed.get('tier')} "
+                               f"to {prev!r}; the board holds {', '.join(have)}")
+            elif kind == "derived":
+                if direct:
+                    have = sorted({f"{e.get('type')}/T{e.get('claimTier')}"
+                                   for e in direct})
+                    bad.append(f"{where}: declared derived, but the board holds a "
+                               f"direct edge to {prev!r} ({', '.join(have)}). A "
+                               f"documented link must not print as an inferred one")
+                    continue
+                s2 = summarised.get(key)
+                if s2 is None:
+                    bad.append(f"{where}: declared derived, and {prev!r} shares no "
+                               f"L0 member with it in data/l0-model.json")
+                    continue
+                if sorted(ed.get("via") or []) != sorted(s2.get("via") or []):
+                    bad.append(f"{where}: names via {sorted(ed.get('via') or [])}; "
+                               f"the model's shared members are "
+                               f"{sorted(s2.get('via') or [])}")
+            else:
+                bad.append(f"{where}: edge kind {kind!r} is neither 'direct' nor "
+                           f"'derived'")
+    return bad
+
+
 @check("no research record is silently dropped")
 def _no_rejects(b, html):
     """merge.py writes every record it could not place to tools/REJECTS.json with a
@@ -2539,6 +2673,49 @@ def self_test():
         ],
     }
 
+    _real_threads = _threads()
+
+    def _thr(fn):
+        d = copy.deepcopy(_real_threads) if _real_threads else {}
+        fn(d)
+        return d
+
+    def _unjoined(d):
+        """The poison APP-SPEC section 5 names: a step spliced into a real thread
+        with nothing on the board joining it to the step above. `aaro` and
+        `harry-reid` are both real nodes and there is no edge between them, so this
+        is exactly the failure the check exists to catch -- a chain that reads as a
+        chain and is not one. Note it is inserted in the MIDDLE, not appended: a
+        poison at the end would also be caught by the step-count bound, and then the
+        join test would never have been exercised at all."""
+        st = d["threads"][0]["steps"]
+        st.insert(1, {"node": "aaro", "year": 2022,
+                      "evidence": "spliced step with no joining edge",
+                      "edge": {"type": "programmatic", "tier": 1,
+                               "kind": "direct", "via": []}})
+        st.pop()
+
+    poison_threads = {} if _real_threads is None else {
+        "every thread step is joined to the last by a board edge": [
+            # the step that is not joined to the one above it
+            _thr(_unjoined),
+            # a real pair, a type the edge does not carry: the page would print a
+            # relationship the board never recorded between two nodes that ARE joined
+            _thr(lambda d: d["threads"][0]["steps"][1]["edge"].update(type="custody")),
+            # a real pair and a real type, graded up one tier
+            _thr(lambda d: d["threads"][1]["steps"][2]["edge"].update(tier=1)),
+            # a documented link relabelled as an inference
+            _thr(lambda d: d["threads"][0]["steps"][1]["edge"].update(
+                kind="derived", via=["harry-reid"])),
+            # an id that does not exist -- a rename upstream, or a typo
+            _thr(lambda d: d["threads"][2]["steps"][3].update(node="dod-sapco-office")),
+            # a step with no evidence line: it asserts the join and says nothing
+            _thr(lambda d: d["threads"][3]["steps"][4].update(evidence="  ")),
+            # a thread cut below the floor of five steps
+            _thr(lambda d: d["threads"][4].update(steps=d["threads"][4]["steps"][:3])),
+        ],
+    }
+
     poison_obs = {} if _real_obs is None else {
         "the five observables stay Tier 2, and the mapping stays separate": [
             # the taxonomy promoted to the grade its mapping earned
@@ -2652,6 +2829,23 @@ def self_test():
                     got = fn(base, good_html)
                 finally:
                     _FOIA_OVERRIDE = None
+                if not got:
+                    caught = []
+                    print(f"  FAIL  {name} accepted one of its poisons")
+                    break
+                caught = got
+            clean = fn(base, good_html)
+        elif name in poison_threads:
+            # Seven poisons, one per clause: every clause a check asserts needs its
+            # own, or the untested ones are indistinguishable from broken.
+            global _THREADS_OVERRIDE
+            caught = []
+            for one in poison_threads[name]:
+                _THREADS_OVERRIDE = one
+                try:
+                    got = fn(base, good_html)
+                finally:
+                    _THREADS_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted one of its poisons")
