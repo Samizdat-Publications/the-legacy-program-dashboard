@@ -14,10 +14,13 @@ longer true.
 `python3 tools/state_snapshot.py --gate` — it derives every number from source and runs
 the gate. The counts below are a sanity anchor, not a source of truth.
 
-**Starting a fresh session?** Read `notes/HANDOFF-2026-09-03.md` after this. **It is the
-current one.** It carries the two boards side by side (the old shell in `dist/`, the new
-shell in `app/` on its review site), the gate for each, the deploy recipe, and the ordered
-next steps. `notes/HANDOFF-2026-09-01.md` is the one before it and is still accurate on
+**Starting a fresh session?** Read `notes/HANDOFF-2026-09-03-EVENING.md` after this. **It
+is the current one.** It records the Danny Jones corpus build (board 1,027 -> 1,057), the
+reason CI was red all of 3 September (the L0 layout was not bit-identical across platforms;
+fixed in `build_l0.py`), the ten dead citations, and the ordered next steps.
+`notes/HANDOFF-2026-09-03.md` is the morning one and is still accurate on the two boards
+side by side (the old shell in `dist/`, the new shell in `app/` on its review site), the
+gate for each and the deploy recipe. `notes/HANDOFF-2026-09-01.md` is the one before it and is still accurate on
 everything it records. Then `notes/RETHINK-2026-09-02.md`: on 2 September Stewart asked for the
 whole dashboard to be rethought for sharing with research friends, and that note is the
 assessment, the proposal (entity first, the orthogonal map by default, the full graph only
@@ -73,20 +76,20 @@ the parent board, and first paint waited on it. `notes/FIRST-PAINT-2026-08-26.md
 
 | | |
 |---|---|
-| nodes | 1,027 (300 people · 727 entities) |
-| hand-written sourced edges | 2,348 |
-| tiered claims | 5,120 — T1 3,214 · T2 1,394 · T3 512 |
-| edge tiers | T1 1,526 · T2 610 · T3 212 |
-| unique source URLs | 3,389 |
-| dead citations | 0 as of the 25 August sweep; not re-run since |
-| timeline events | 912 |
+| nodes | 1,057 (311 people · 746 entities) |
+| hand-written sourced edges | 2,460 |
+| tiered claims | 5,303 — T1 3,367 · T2 1,422 · T3 514 |
+| edge tiers | regenerate; they moved with the 3 September build |
+| unique source URLs | 3,541 |
+| dead citations | 10 as of the 3 September sweep (nine on cufon.org, which is gone as a site; one Federal Register trailing slash). `notes/HANDOFF-2026-09-03-EVENING.md` section 5 |
+| timeline events | 913 |
 | views | 10 — Network map · Program map · Patents · Timeline · Geography · Case files · Analysis · The cover-up · Search · Report |
-| primary map | the force-directed full graph, all 1,027 nodes. **Inverted 29 August 2026** |
-| program map (L0) | 125 nodes, all with dossiers, on the PROGRAM tab |
-| map layout | Design's packed cells: 7 bands x 5 columns, 125 chips at one size |
-| links drawn at rest | 108 of 343, by the model's own budget |
+| primary map | the force-directed full graph, all 1,057 nodes. **Inverted 29 August 2026** |
+| program map (L0) | 137 nodes, all with dossiers, on the PROGRAM tab |
+| map layout | Design's packed cells: 7 bands x 5 columns, 137 chips at one size |
+| links drawn at rest | 128 of 394, by the model's own budget |
 | FOIA layer | 17 requests linked to 121 open questions across 42 nodes, none filed |
-| built artifact | `dist/the-program.html`, 16.04 MB |
+| built artifact | `dist/the-program.html`, 17.29 MB |
 | gate | 56 verify checks + 40 audit re-derivations + 51 runtime + 31 canvas + 20 analyst assertions, all self-tested |
 | analyst | live for every reader since 2 September 2026 via the Worker; `notes/ANALYST-2026-09-02.md` says why it never was before |
 
@@ -421,6 +424,20 @@ surface" includes markup, not just copy.
 ---
 
 ## 9. What is next, in priority order
+
+> **DONE, 3 September 2026: THE DANNY JONES CORPUS BUILD.** 136 episodes, mapped by
+> 35 Sonnet agents across two sessions, 981 names cross-checked, six Opus triage groups,
+> 36 candidates opened by six Opus verifiers, decided in
+> `research/leads/CANDIDATES-2026-09-03-DANNYJONES.md`, built in
+> `research/dannyjones-2026-09-03.json`: 11 people, 19 entities, 112 edges, 18
+> corrections. Board 1,027 -> 1,057, claims 5,120 -> 5,303, L0 125 -> 137. Record:
+> `notes/HANDOFF-2026-09-03-EVENING.md`. **Three things a next session must not undo:**
+> the nitinol lineage now carries the NOL record beside the Battelle allegation (NASA
+> SP-5110, NOLTR 61-75, patent filed 1 December 1961); `build_l0.py`'s layout uses its own
+> `_sin`/`_cos` and `sqrt` of a sum rather than libm, because libm's last-ulp differences
+> between Windows and Linux produced two different maps from one source and kept CI red
+> for a whole day; and `gate.yml` uploads the rebuilt artifacts when the reproducibility
+> step fails, which is the only way a Windows session can see what Linux built.
 
 > **DONE, 2 September 2026 (afternoon): THE AREA 52 CORPUS BUILD.** 107 episodes of
 > AREA52 - DEBRIEFED, transcribed, mapped by 27 Sonnet agents, cross-checked, triaged by
