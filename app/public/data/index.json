@@ -31,7 +31,7 @@
  ],
  "classes": [
   {
-   "colour": "#5ed4e6",
+   "colour": "#f0d264",
    "id": "document",
    "label": "document"
   },
@@ -41,7 +41,7 @@
    "label": "domain"
   },
   {
-   "colour": "#f0d264",
+   "colour": "#7fb4e8",
    "id": "event",
    "label": "event"
   },
@@ -51,7 +51,7 @@
    "label": "institution"
   },
   {
-   "colour": "#a795e8",
+   "colour": "#e08ad0",
    "id": "legislation",
    "label": "legislation"
   },
@@ -237,7 +237,7 @@
    "id": "aaro",
    "l0": true,
    "label": "All-domain Anomaly Resolution Office (AARO)",
-   "short": "All-domain Anomaly Resolution Office (AARO)",
+   "short": "All-domain Anomaly Resolution Office",
    "status": null,
    "tier": "A"
   },
@@ -885,7 +885,7 @@
    "id": "adam-research-project",
    "l0": true,
    "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
-   "short": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+   "short": "ADAM Research Project",
    "status": null,
    "tier": "A"
   },
@@ -1629,7 +1629,7 @@
    "id": "arquivo-nacional-ufo",
    "l0": true,
    "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
-   "short": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+   "short": "Arquivo Nacional (Brazil)",
    "status": null,
    "tier": "A"
   },
@@ -2781,7 +2781,7 @@
    "id": "carve-out",
    "l0": true,
    "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
-   "short": "Carve-Out Provision (DCSA relief from NISP oversight)",
+   "short": "Carve-Out Provision",
    "status": null,
    "tier": "A"
   },
@@ -2949,7 +2949,7 @@
    "id": "cefaa",
    "l0": true,
    "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
-   "short": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+   "short": "CEFAA / SEFAA",
    "status": null,
    "tier": "A"
   },
@@ -3333,7 +3333,7 @@
    "id": "classified-annex",
    "l0": true,
    "label": "The Classified Annex (NDAA and Defense Appropriations)",
-   "short": "The Classified Annex (NDAA and Defense Appropriations)",
+   "short": "The Classified Annex",
    "status": null,
    "tier": "A"
   },
@@ -3573,7 +3573,7 @@
    "id": "cometa",
    "l0": true,
    "label": "COMETA - Comité d'Études Approfondies",
-   "short": "COMETA - Comité d'Études Approfondies",
+   "short": "COMETA",
    "status": null,
    "tier": "A"
   },
@@ -3621,7 +3621,7 @@
    "id": "condon-committee",
    "l0": true,
    "label": "University of Colorado UFO Project (Condon Committee)",
-   "short": "University of Colorado UFO Project (Condon Committee)",
+   "short": "University of Colorado UFO Project",
    "status": null,
    "tier": "A"
   },
@@ -6861,7 +6861,7 @@
    "id": "doc-condign-vol3",
    "l0": true,
    "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
-   "short": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
+   "short": "Project Condign Volume 3",
    "status": null,
    "tier": "B"
   },
@@ -6909,7 +6909,7 @@
    "id": "dod",
    "l0": true,
    "label": "United States Department of Defense (secondary designation: Department of War)",
-   "short": "United States Department of Defense (secondary designation: Department of War)",
+   "short": "United States Department of Defense",
    "status": null,
    "tier": "A"
   },
@@ -7125,7 +7125,7 @@
    "id": "dodi-5205-11",
    "l0": true,
    "label": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
-   "short": "DoDI 5205.11 — Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
+   "short": "DoDI 5205.11",
    "status": null,
    "tier": "A"
   },
@@ -7749,7 +7749,7 @@
    "id": "eg-and-g",
    "l0": true,
    "label": "EG&G (Edgerton, Germeshausen and Grier)",
-   "short": "EG&G (Edgerton, Germeshausen and Grier)",
+   "short": "EG&G",
    "status": null,
    "tier": "A"
   },
@@ -7917,7 +7917,7 @@
    "id": "eo-13526",
    "l0": true,
    "label": "Executive Order 13526 — Classified National Security Information",
-   "short": "Executive Order 13526 — Classified National Security Information",
+   "short": "Executive Order 13526",
    "status": null,
    "tier": "A"
   },
@@ -8133,7 +8133,7 @@
    "id": "ev-noite-ovnis-1986",
    "l0": true,
    "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
-   "short": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
+   "short": "Noite Oficial dos OVNIs",
    "status": null,
    "tier": "A"
   },
@@ -8853,7 +8853,7 @@
    "id": "gao-nsiad-95-187",
    "l0": true,
    "label": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
-   "short": "GAO/NSIAD-95-187 — Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+   "short": "GAO/NSIAD-95-187",
    "status": null,
    "tier": "B"
   },
@@ -9021,7 +9021,7 @@
    "id": "geipan",
    "l0": true,
    "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
-   "short": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+   "short": "GEIPAN",
    "status": null,
    "tier": "A"
   },
@@ -9381,7 +9381,7 @@
    "id": "gerb-mitre-investigation",
    "l0": true,
    "label": "UAP Gerb - The MITRE Corporation investigation",
-   "short": "UAP Gerb - The MITRE Corporation investigation",
+   "short": "UAP Gerb",
    "status": null,
    "tier": "B"
   },
@@ -9813,7 +9813,7 @@
    "id": "grusch-misappropriation-allegation",
    "l0": true,
    "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
-   "short": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+   "short": "The misappropriation allegation",
    "status": null,
    "tier": "A"
   },
@@ -10101,7 +10101,7 @@
    "id": "hearing-2023-07-26",
    "l0": true,
    "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
-   "short": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+   "short": "House Oversight hearing, 26 July 2023",
    "status": null,
    "tier": "A"
   },
@@ -10773,7 +10773,7 @@
    "id": "iaa-fy2024-sec-1102",
    "l0": true,
    "label": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
-   "short": "IAA FY2024 Sec. 1102 — contractor turn-in of 'non-earth origin or exotic' UAP material",
+   "short": "IAA FY2024 Sec. 1102",
    "status": null,
    "tier": "A"
   },
@@ -14901,7 +14901,7 @@
    "id": "langley-2023-incursions",
    "l0": true,
    "label": "Langley AFB Drone Incursions (December 2023)",
-   "short": "Langley AFB Drone Incursions (December 2023)",
+   "short": "Langley AFB Drone Incursions",
    "status": null,
    "tier": "B"
   },
@@ -15453,7 +15453,7 @@
    "id": "manhattan-project-2",
    "l0": true,
    "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
-   "short": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+   "short": "'Manhattan Project 2.0'",
    "status": null,
    "tier": "A"
   },
@@ -16533,7 +16533,7 @@
    "id": "nara-rg615",
    "l0": true,
    "label": "National Archives Record Group 615 - UAP Records Collection",
-   "short": "National Archives Record Group 615 - UAP Records Collection",
+   "short": "National Archives Record Group 615",
    "status": null,
    "tier": "A"
   },
@@ -16893,7 +16893,7 @@
    "id": "ndaa-fy2022-sec-1683",
    "l0": true,
    "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
-   "short": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
+   "short": "FY2022 NDAA Sec. 1683",
    "status": null,
    "tier": "B"
   },
@@ -16989,7 +16989,7 @@
    "id": "ndaa-fy2024",
    "l0": true,
    "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
-   "short": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
+   "short": "FY2024 NDAA, Public Law 118-31",
    "status": null,
    "tier": "A"
   },
@@ -17013,7 +17013,7 @@
    "id": "ndaa-fy2024-1687",
    "l0": true,
    "label": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
-   "short": "FY2024 NDAA sec. 1687 — Limitation on Use of Funds for Certain Unreported Programs",
+   "short": "FY2024 NDAA sec. 1687",
    "status": null,
    "tier": "A"
   },
@@ -17109,7 +17109,7 @@
    "id": "ndaa-fy2026",
    "l0": true,
    "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
-   "short": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
+   "short": "FY2026 NDAA, Public Law 119-60",
    "status": null,
    "tier": "A"
   },
@@ -17445,7 +17445,7 @@
    "id": "nip",
    "l0": true,
    "label": "National Intelligence Program (NIP)",
-   "short": "National Intelligence Program (NIP)",
+   "short": "National Intelligence Program",
    "status": null,
    "tier": "B"
   },
@@ -17829,7 +17829,7 @@
    "id": "odni-memo-es-2026-00818",
    "l0": true,
    "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
-   "short": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+   "short": "ODNI Memorandum ES 2026-00818",
    "status": null,
    "tier": "A"
   },
@@ -17853,7 +17853,7 @@
    "id": "odni-preliminary-assessment-2021",
    "l0": true,
    "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
-   "short": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
+   "short": "ODNI Preliminary Assessment",
    "status": null,
    "tier": "A"
   },
@@ -17973,7 +17973,7 @@
    "id": "operacao-prato",
    "l0": true,
    "label": "Operação Prato (Operation Saucer)",
-   "short": "Operação Prato (Operation Saucer)",
+   "short": "Operação Prato",
    "status": null,
    "tier": "A"
   },
@@ -18237,7 +18237,7 @@
    "id": "pais-patent-imrd",
    "l0": true,
    "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
-   "short": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+   "short": "US Patent 10,144,532",
    "status": null,
    "tier": "A"
   },
@@ -19341,7 +19341,7 @@
    "id": "pursue-releases",
    "l0": true,
    "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
-   "short": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+   "short": "PURSUE",
    "status": null,
    "tier": "A"
   },
@@ -20349,7 +20349,7 @@
    "id": "roosevelt-2014-2015",
    "l0": true,
    "label": "USS Theodore Roosevelt Encounters (2014-2015)",
-   "short": "USS Theodore Roosevelt Encounters (2014-2015)",
+   "short": "USS Theodore Roosevelt Encounters",
    "status": null,
    "tier": "B"
   },
@@ -20493,7 +20493,7 @@
    "id": "roswell-report-case-closed",
    "l0": true,
    "label": "The Roswell Report: Case Closed (1997)",
-   "short": "The Roswell Report: Case Closed (1997)",
+   "short": "The Roswell Report",
    "status": null,
    "tier": "B"
   },
@@ -20613,7 +20613,7 @@
    "id": "sac-overflights-1975",
    "l0": true,
    "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
-   "short": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+   "short": "1975 SAC Nuclear-Base Overflights",
    "status": null,
    "tier": "A"
   },
@@ -20733,7 +20733,7 @@
    "id": "samdt-797",
    "l0": true,
    "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
-   "short": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+   "short": "S.Amdt. 797 to S. 2226",
    "status": null,
    "tier": "B"
   },
@@ -21477,7 +21477,7 @@
    "id": "sky-canada-project",
    "l0": true,
    "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
-   "short": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
+   "short": "Sky Canada Project",
    "status": null,
    "tier": "B"
   },
@@ -21693,7 +21693,7 @@
    "id": "sri-international",
    "l0": true,
    "label": "SRI International (Stanford Research Institute)",
-   "short": "SRI International (Stanford Research Institute)",
+   "short": "SRI International",
    "status": null,
    "tier": "B"
   },
@@ -23277,7 +23277,7 @@
    "id": "uapda-2023",
    "l0": true,
    "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
-   "short": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
+   "short": "UAP Disclosure Act of 2023",
    "status": null,
    "tier": "A"
   },
@@ -23781,7 +23781,7 @@
    "id": "usc-10-119",
    "l0": true,
    "label": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
-   "short": "10 U.S.C. 119 — Special Access Programs: Congressional Oversight",
+   "short": "10 U.S.C. 119",
    "status": null,
    "tier": "A"
   },
@@ -24741,7 +24741,7 @@
    "id": "wilson-davis-memo",
    "l0": true,
    "label": "The Wilson-Davis Notes (16 October 2002)",
-   "short": "The Wilson-Davis Notes (16 October 2002)",
+   "short": "The Wilson-Davis Notes",
    "status": null,
    "tier": "A"
   },
@@ -24765,7 +24765,7 @@
    "id": "yankee-blue",
    "l0": true,
    "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
-   "short": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+   "short": "YANKEE BLUE",
    "status": null,
    "tier": "B"
   },
@@ -24819,5 +24819,5 @@
   }
  ],
  "source": "687756664d3a",
- "sourceCommit": "d605be5"
+ "sourceCommit": "da50909"
 }

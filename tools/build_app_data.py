@@ -84,12 +84,16 @@ ERAS = [
 
 # Class colours, read off the current renderer (tools/build_dashboard.py line
 # 543), which is what the Design response section 1.1 points at.
+# Class colours: the program map's chip markers, L0_CLS in tools/l0_patches.py,
+# which is what the Design response section 1.1 points at ("the current map's
+# chip markers"). build_dashboard.py's PALETTE differs on document and event and
+# belongs to the old network map.
 CLASS_COLOUR = {
-    "document": "#5ed4e6",
+    "document": "#f0d264",
     "domain": "#e08ad0",
-    "event": "#f0d264",
+    "event": "#7fb4e8",
     "institution": "#a795e8",
-    "legislation": "#a795e8",
+    "legislation": "#e08ad0",
     "location": "#7fb4e8",
     "person": "#c9d2dd",
     "program": "#66d69f",
@@ -203,6 +207,9 @@ class Src(object):
         self.layout = rd(L0_LAYOUT)["current"]
         self.highlights = rd(L0_HIGHLIGHTS)
         self.shorts = rd(L0_SHORTS).get("shorts", {})
+        # the model's `l0` list carries the full record of every node above the
+        # floor, including the derived `short`; `nodes` is a compact id -> tuple map
+        self.l0_short = {x["id"]: x.get("short") for x in (self.l0.get("l0") or []) if isinstance(x, dict) and x.get("id")}
         self.foia = rd(FOIA_LINKS)
         self.patents = rd(PATENTS_VIEW)
         self.observables = rd(OBSERVABLES_VIEW)
@@ -288,10 +295,15 @@ def build_indexes(s):
 
 
 def short_of(s, n):
-    """data/l0-shorts.json where authored, else the label."""
+    """data/l0-shorts.json where authored, else the L0 model's derived short for a
+    map node (build_l0.py derives one for every node above the floor and the map
+    has always drawn it), else the label."""
     a = s.shorts.get(n["id"])
     if isinstance(a, str) and a.strip():
         return a.strip()
+    m = getattr(s, "l0_short", {}).get(n["id"])
+    if isinstance(m, str) and m.strip():
+        return m.strip()
     return n["label"]
 
 
