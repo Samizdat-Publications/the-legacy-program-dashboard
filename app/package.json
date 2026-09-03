@@ -1,0 +1,20 @@
+{
+  "name": "the-legacy-program-research-terminal",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "The new shell for The Program. Vite 5 + TypeScript, no UI framework.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173",
+    "fixture": "node scripts/dev-fixture.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  },
+  "allowScripts": {
+    "esbuild@0.21.5": true
+  }
+}

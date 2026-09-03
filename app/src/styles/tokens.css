@@ -1,0 +1,110 @@
+/* tokens.css — the palette and the type scale. Components use these and nothing else.
+ *
+ * The hex values are the board's own, taken from `const PALETTE` in
+ * ref/the-vanishing-v2.html and from L0_CLS in tools/l0_patches.py (the program map's
+ * chip markers). The Design response's frame colours are that palette approximated by
+ * the mockup; these are the originals.
+ *
+ * Type: IBM Plex Mono, self-hosted from /fonts. One size per role. 11px for every
+ * label, 12-13px for body. No other sizes, because C2 rejects them.
+ */
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/plex-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/plex-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/plex-500-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/fonts/plex-500-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/plex-600-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/plex-600-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  /* ---- ground ---------------------------------------------------------- */
+  --bg: #14171c;
+  --bg2: #191d23;
+  --panel: #1e232a;
+  --panel2: #232932;
+  --line: #2e353f;
+  --line2: #3b444f;
+
+  /* ---- ink ------------------------------------------------------------- */
+  --text: #e6e9ee;
+  --dim: #8d97a4;
+  --faint: #5c6672;
+
+  /* ---- signals --------------------------------------------------------- */
+  --cyan: #5ed4e6;
+  --amber: #efb555;
+  --red: #e8705f;
+
+  /* ---- claim tiers: evidence strength, 1 strongest --------------------- */
+  --t1: #5ed4e6;
+  --t2: #efb555;
+  --t3: #8d97a4;
+
+  /* ---- class colours: the program map's chip markers -------------------- */
+  --cls-institution: #a795e8;
+  --cls-document: #f0d264;
+  --cls-program: #66d69f;
+  --cls-event: #7fb4e8;
+  --cls-legislation: #e08ad0;
+  --cls-person: #c9d2dd;
+  --cls-location: #7fb4e8;
+  --cls-domain: #e08ad0;
+
+  /* ---- the report is paper -------------------------------------------- */
+  --paper: #f4f1e8;
+  --paper-ink: #1b1d1f;
+  --paper-dim: #6a6b66;
+  --paper-line: #d6d1c2;
+
+  /* ---- type: one size per role ---------------------------------------- */
+  --font: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --fs-label: 11px;   /* every label, every chip, every table cell         */
+  --fs-body: 13px;    /* running prose                                     */
+  --fs-h1: 26px;      /* one per page                                      */
+  --fs-search: 17px;  /* the large field on Home                           */
+
+  /* ---- frame ----------------------------------------------------------- */
+  --bar-h: 40px;
+}

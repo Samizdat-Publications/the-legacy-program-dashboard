@@ -55,13 +55,22 @@ const MAX_SYSTEM_CHARS = 300_000;  // the whole system prompt, all blocks togeth
 /* Origins allowed to call this from a browser. */
 const ALLOWED_ORIGINS = new Set([
   "https://the-program-zxz.pages.dev",
+  // the new shell (app/), 2 September 2026: its review project and the Vite
+  // dev and preview servers. Pages preview deployments get their own subdomain
+  // per branch, so those are matched by suffix below.
+  "https://the-program-next.pages.dev",
   "http://127.0.0.1:8899",
   "http://localhost:8899",
+  "http://127.0.0.1:4173",
+  "http://localhost:4173",
+  "http://127.0.0.1:5173",
+  "http://localhost:5173",
 ]);
+const ALLOWED_SUFFIXES = [".the-program-next.pages.dev", ".the-program-zxz.pages.dev"];
 
 function cors(req: Request): Record<string, string> {
   const origin = req.headers.get("origin") ?? "";
-  if (!ALLOWED_ORIGINS.has(origin)) return {};
+  if (!ALLOWED_ORIGINS.has(origin) && !ALLOWED_SUFFIXES.some(sfx => origin.endsWith(sfx))) return {};
   return {
     "Access-Control-Allow-Origin": origin,
     "Access-Control-Allow-Methods": "POST, OPTIONS",

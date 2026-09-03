@@ -1,0 +1,132 @@
+/* router.ts — the hash scheme of the Design response section 2.1, exactly.
+ *
+ *   #/                          home
+ *   #/n/<id>                    node page
+ *   #/n/<id>/map                map centred on <id>
+ *   #/n/<id>/hood               neighbourhood of <id>     (alias #/hood/<id>)
+ *   #/hood                      neighbourhood, nothing selected
+ *   #/map                       map at fit
+ *   #/map?cell=<band>.<era>     map with that cell expanded
+ *   #/t/<id>                    thread
+ *   #/t/<id>/map                map with the thread's steps highlighted
+ *   #/timeline                  ?era=<era>  ?scope=n:<id>|t:<id>
+ *   #/patents/<number>          ?sheet=<k>
+ *   #/evidence                  ?tier=&cls=&cluster=&domain=&denied=1&open=1
+ *   #/report/n/<id>             #/report/t/<id>
+ *
+ * Anything else is not-found, and the not-found page names the route it was given.
+ * Every route is shareable; back always works because every state is a hash.
+ */
+
+export type Route =
+  | { kind: 'home' }
+  | { kind: 'node'; id: string }
+  | { kind: 'node-map'; id: string }
+  | { kind: 'node-hood'; id: string }
+  | { kind: 'hood' }
+  | { kind: 'map'; cell: string | null }
+  | { kind: 'thread'; id: string }
+  | { kind: 'thread-map'; id: string }
+  | { kind: 'timeline'; era: string | null; scope: string | null }
+  | { kind: 'patents'; number: string; sheet: string | null }
+  | { kind: 'evidence'; q: URLSearchParams }
+  | { kind: 'report-node'; id: string }
+  | { kind: 'report-thread'; id: string }
+  | { kind: 'notfound'; raw: string };
+
+/* Board ids are lower-case words joined by hyphens, sometimes with digits or a
+   dot. Anything outside that shape is not an id and must not resolve. */
+const ID = /^[a-z0-9][a-z0-9._-]*$/;
+const NUM = /^[0-9][0-9,]*$/;
+
+export function parseRoute(hash: string): Route {
+  const raw = hash.replace(/^#/, '') || '/';
+  const qi = raw.indexOf('?');
+  const path = (qi < 0 ? raw : raw.slice(0, qi)).replace(/\/+$/, '') || '/';
+  const q = new URLSearchParams(qi < 0 ? '' : raw.slice(qi + 1));
+  const p = path.split('/').filter(Boolean);
+
+  const bad = (): Route => ({ kind: 'notfound', raw: '#' + raw });
+
+  if (p.length === 0) return { kind: 'home' };
+
+  if (p[0] === 'n') {
+    if (!p[1] || !ID.test(p[1])) return bad();
+    if (p.length === 2) return { kind: 'node', id: p[1] };
+    if (p.length === 3 && p[2] === 'map') return { kind: 'node-map', id: p[1] };
+    if (p.length === 3 && p[2] === 'hood') return { kind: 'node-hood', id: p[1] };
+    return bad();
+  }
+
+  if (p[0] === 'hood') {
+    if (p.length === 1) return { kind: 'hood' };
+    if (p.length === 2 && ID.test(p[1])) return { kind: 'node-hood', id: p[1] };
+    return bad();
+  }
+
+  if (p[0] === 'map') {
+    if (p.length !== 1) return bad();
+    return { kind: 'map', cell: q.get('cell') };
+  }
+
+  if (p[0] === 't') {
+    if (!p[1] || !ID.test(p[1])) return bad();
+    if (p.length === 2) return { kind: 'thread', id: p[1] };
+    if (p.length === 3 && p[2] === 'map') return { kind: 'thread-map', id: p[1] };
+    return bad();
+  }
+
+  if (p[0] === 'timeline') {
+    if (p.length !== 1) return bad();
+    return { kind: 'timeline', era: q.get('era'), scope: q.get('scope') };
+  }
+
+  if (p[0] === 'patents') {
+    if (p.length !== 2 || !NUM.test(p[1])) return bad();
+    return { kind: 'patents', number: p[1], sheet: q.get('sheet') };
+  }
+
+  if (p[0] === 'evidence') {
+    if (p.length !== 1) return bad();
+    return { kind: 'evidence', q };
+  }
+
+  if (p[0] === 'report') {
+    if (p.length === 3 && p[1] === 'n' && ID.test(p[2])) return { kind: 'report-node', id: p[2] };
+    if (p.length === 3 && p[1] === 't' && ID.test(p[2])) return { kind: 'report-thread', id: p[2] };
+    return bad();
+  }
+
+  return bad();
+}
+
+/* The id a route is about, if it is about one. The frame uses it to keep the
+   Report and Neighbourhood links pointed somewhere real. */
+export function routeNodeId(r: Route): string | null {
+  switch (r.kind) {
+    case 'node': case 'node-map': case 'node-hood': case 'report-node': return r.id;
+    default: return null;
+  }
+}
+
+export function currentRoute(): Route {
+  return parseRoute(location.hash);
+}
+
+export function fragment(): string {
+  return location.hash || '#/';
+}
+
+type Handler = (r: Route) => void | Promise<void>;
+
+export function startRouter(handler: Handler): void {
+  const go = () => { void handler(currentRoute()); };
+  window.addEventListener('hashchange', go);
+  go();
+}
+
+export function setTitle(...parts: string[]): void {
+  const suffix = 'The Legacy Program Research Terminal';
+  const head = parts.filter(Boolean).join(' · ');
+  document.title = head ? head + ' · ' + suffix : suffix;
+}
