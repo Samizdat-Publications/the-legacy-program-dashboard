@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+html,body{margin:0;background:#0c1119;color:#cfd8e3;font-family:'IBM Plex Mono',ui-monospace,Menlo,monospace;}
+a{color:#52d3dd;text-decoration:none}a:hover{color:#8fe6ec;text-decoration:underline}
+@keyframes flow{to{stroke-dashoffset:-24}}
+@keyframes blink{50%{opacity:.35}}
+*{box-sizing:border-box}
+</style>
+</helmet>
+<div id="frame" style="position:relative;width:{{W}}px;height:{{H}}px;overflow:hidden;background:#0c1119;font-size:12px;line-height:1.45;color:#cfd8e3">
+
+<!-- chrome -->
+<div style="position:absolute;left:0;top:0;right:0;height:40px;display:flex;align-items:center;gap:10px;padding:0 14px;border-bottom:1px solid #1d2636;background:#0e141e;font-size:11px;letter-spacing:.04em">
+  <div style="font-weight:600;color:#e6edf5;letter-spacing:.12em;padding-right:10px;border-right:1px solid #263141;white-space:nowrap">THE PROGRAM</div>
+  <div style="display:flex;gap:2px">
+    <sc-for list="{{ nav }}" as="n" hint-placeholder-count="8">
+      <a href="{{ n.href }}" style="padding:5px 9px;color:{{ n.color }};background:{{ n.bg }};border-radius:2px;text-transform:uppercase;letter-spacing:.08em">{{ n.label }}</a>
+    </sc-for>
+  </div>
+  <div style="flex:1;display:flex;align-items:center;gap:8px;max-width:520px;margin-left:12px;height:26px;padding:0 10px;border:1px solid #263141;background:#0c1119;color:#6b7a90">
+    <span style="color:#52d3dd">⌕</span><span>{{ searchHint }}</span>
+  </div>
+  <div style="margin-left:auto;display:flex;align-items:center;gap:14px;color:#6b7a90">
+    <span style="color:#52d3dd">{{ url }}</span>
+    <span style="border:1px solid #263141;padding:3px 7px">{{ W }}×{{ H }}</span>
+  </div>
+</div>
+
+<!-- ============ HOME ============ -->
+<sc-if value="{{ isHome }}" hint-placeholder-val="{{ true }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:grid;grid-template-columns:{{ homeCols }};gap:{{ homeGap }}px;padding:{{ homePad }}px;overflow:hidden">
+  <div style="display:flex;flex-direction:column;gap:{{ homeGap }}px;min-width:0">
+    <div style="display:flex;align-items:center;gap:12px;height:52px;padding:0 16px;border:1px solid #52d3dd;background:#0e141e;font-size:15px;color:#6b7a90">
+      <span style="color:#52d3dd;font-size:18px">⌕</span>
+      <span style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">Search 1,027 nodes, 5,120 claims, 912 events · a name, a programme, a statute</span>
+      <span style="margin-left:auto;font-size:10px;border:1px solid #263141;padding:2px 6px;color:#6b7a90">/</span>
+    </div>
+    <p style="margin:0;max-width:78ch;font-size:{{ homeP }}px;line-height:1.6;color:#b9c4d2;text-wrap:pretty">A research board on the alleged US programme for recovering and reverse-engineering non-human craft, 1944 to now. It is a sourced graph: every node carries claims graded by evidence strength — <span style="color:#52d3dd">Tier 1</span> documented, <span style="color:#e2a93b">Tier 2</span> a named person on the record, <span style="color:#9aa5b8">Tier 3</span> stated inference. Every edge is hand-written and sourced. Where what a witness said and what the record shows disagree, the contradiction is recorded as a finding.</p>
+    <div style="display:grid;grid-template-columns:{{ entryCols }};gap:10px">
+      <sc-for list="{{ entry }}" as="e" hint-placeholder-count="6">
+        <a href="{{ e.href }}" style="display:flex;flex-direction:column;gap:8px;padding:14px;border:1px solid #263141;background:#121a26;color:#cfd8e3;min-height:{{ entryH }}px;text-decoration:none">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:8px"><span style="font-weight:600;color:#e6edf5">{{ e.label }}</span><span style="font-size:10px;color:#52d3dd">THREAD ›</span></div>
+          <div style="font-size:11px;color:#8b98ab;line-height:1.5;text-wrap:pretty;flex:1">{{ e.blurb }}</div>
+          <div style="font-size:10px;color:#6b7a90;letter-spacing:.04em">{{ e.meta }}</div>
+        </a>
+      </sc-for>
+    </div>
+    <div>
+      <div style="display:flex;align-items:baseline;gap:10px;margin-bottom:8px"><span style="color:#e2a93b;font-weight:600;letter-spacing:.1em;font-size:11px">START HERE</span><span style="font-size:11px;color:#6b7a90">14 nodes, flagged by the owner · numbered in reading order</span></div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px">
+        <sc-for list="{{ startHere }}" as="s" hint-placeholder-count="14">
+          <a href="{{ s.href }}" style="display:flex;align-items:center;gap:8px;height:24px;padding:0 8px 0 0;border:1px solid #e2a93b;background:#171a1c;color:#e6edf5;font-size:11px;white-space:nowrap;text-decoration:none"><span style="display:inline-block;width:22px;height:22px;line-height:22px;text-align:center;background:#e2a93b;color:#0c1119;font-weight:600">{{ s.n }}</span><span style="color:{{ s.cc }};font-size:9px">{{ s.k }}</span>{{ s.short }}</a>
+        </sc-for>
+      </div>
+    </div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:{{ homeGap }}px;min-width:0">
+    <div style="border:1px solid #263141;background:#121a26;padding:14px">
+      <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:10px">WHAT IS ON THE BOARD</div>
+      <div style="display:grid;grid-template-columns:auto 1fr;column-gap:14px;row-gap:6px;font-size:11px">
+        <sc-for list="{{ counts }}" as="c" hint-placeholder-count="8">
+          <div style="color:#e6edf5;text-align:right;font-variant-numeric:tabular-nums">{{ c.v }}</div><div style="color:#8b98ab">{{ c.k }}</div>
+        </sc-for>
+      </div>
+    </div>
+    <div style="border:1px solid #263141;background:#121a26;padding:14px;flex:1;min-height:0;display:flex;flex-direction:column">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px"><span style="font-size:10px;letter-spacing:.1em;color:#6b7a90">ASK THE ANALYST</span><span style="font-size:10px;color:#6b7a90">answers cite nodes · the only runtime fetch</span></div>
+      <div style="display:flex;align-items:center;height:32px;padding:0 10px;border:1px solid #263141;background:#0c1119;color:#6b7a90;font-size:11px;margin-bottom:10px">Ask a question about the record…</div>
+      <div style="display:flex;flex-direction:column;gap:4px;font-size:11px">
+        <sc-for list="{{ questions }}" as="q" hint-placeholder-count="7">
+          <div style="display:flex;gap:8px;padding:6px 8px;border:1px dashed #2d3a4e;color:#8b98ab"><span style="color:#52d3dd">›</span><span>{{ q }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+  </div>
+</div>
+</sc-if>
+
+<!-- ============ NODE PAGE ============ -->
+<sc-if value="{{ isNode }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:grid;grid-template-columns:{{ nodeCols }};gap:16px;padding:16px 20px;overflow:hidden">
+  <div style="min-width:0;display:flex;flex-direction:column;gap:14px;overflow:hidden">
+    <div>
+      <div style="display:flex;gap:10px;align-items:center;font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:6px"><span style="color:{{ node.cc }}">{{ node.clsU }}</span><span>·</span><span>TIER {{ node.tier }}</span><span>·</span><span>{{ node.cluster }}</span><span>·</span><span>{{ node.dates }}</span><span style="margin-left:auto;color:#e2a93b">{{ node.startTag }}</span></div>
+      <h1 style="margin:0;font-size:{{ h1 }}px;font-weight:600;line-height:1.2;color:#e6edf5;text-wrap:pretty">{{ node.label }}</h1>
+      <div style="display:flex;gap:18px;margin-top:10px;font-size:11px;color:#8b98ab;flex-wrap:wrap">
+        <sc-for list="{{ node.axes }}" as="a" hint-placeholder-count="3">
+          <div style="display:flex;align-items:center;gap:8px"><span>{{ a.k }}</span><span style="display:flex;gap:2px"><sc-for list="{{ a.cells }}" as="c" hint-placeholder-count="3"><span style="width:14px;height:8px;background:{{ c }}"></span></sc-for></span><span style="color:#e6edf5">{{ a.v }}/3</span></div>
+        </sc-for>
+        <div style="display:flex;gap:6px;flex-wrap:wrap"><sc-for list="{{ node.roles }}" as="r" hint-placeholder-count="3"><span style="border:1px solid #263141;padding:1px 6px;font-size:10px;color:#8b98ab;white-space:nowrap">{{ r }}</span></sc-for></div>
+      </div>
+      <div style="display:flex;gap:8px;margin-top:12px">
+        <a href="{{ node.mapHref }}" style="border:1px solid #52d3dd;color:#52d3dd;padding:5px 10px;font-size:10px;letter-spacing:.08em;white-space:nowrap">SHOW ON THE MAP</a>
+        <a href="{{ node.hoodHref }}" style="border:1px solid #52d3dd;color:#52d3dd;padding:5px 10px;font-size:10px;letter-spacing:.08em;white-space:nowrap">OPEN THE NEIGHBOURHOOD</a>
+        <a href="{{ node.reportHref }}" style="border:1px solid #263141;color:#8b98ab;padding:5px 10px;font-size:10px;letter-spacing:.08em;white-space:nowrap">REPORT</a>
+        <span style="margin-left:auto;font-size:10px;color:#6b7a90;align-self:center">{{ node.idLine }}</span>
+      </div>
+    </div>
+    <div style="border-top:1px solid #1d2636;padding-top:12px">
+      <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:6px">WHY IT IS ON THE MAP</div>
+      <p style="margin:0;font-size:{{ bodyP }}px;line-height:1.6;color:#b9c4d2;max-width:80ch;text-wrap:pretty">{{ node.why }}<span style="color:#6b7a90"> {{ node.whyNote }}</span></p>
+    </div>
+    <div style="border-top:1px solid #1d2636;padding-top:12px;display:flex;flex-direction:column">
+      <div style="display:flex;gap:16px;align-items:baseline;margin-bottom:8px"><span style="font-size:10px;letter-spacing:.1em;color:#6b7a90">CLAIMS · {{ node.claims }}</span><span style="font-size:10px;color:#52d3dd">Tier 1 · {{ node.t1 }}</span><span style="font-size:10px;color:#e2a93b">Tier 2 · {{ node.t2 }}</span><span style="font-size:10px;color:#9aa5b8">Tier 3 · {{ node.t3 }}</span><span style="margin-left:auto;font-size:10px;color:#6b7a90">each claim → its source, as a link</span></div>
+      <div style="display:flex;flex-direction:column;gap:4px;overflow:hidden">
+        <sc-for list="{{ node.claimRows }}" as="c" hint-placeholder-count="5">
+          <div style="display:grid;grid-template-columns:44px 1fr auto;gap:10px;padding:7px 10px;border:1px solid #1d2636;background:#101720;font-size:11px;align-items:baseline"><span style="color:{{ c.color }};font-size:10px">{{ c.tier }}</span><span style="color:#6b7a90;font-style:italic">{{ c.text }}</span><span style="color:#52d3dd;font-size:10px">{{ c.src }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+    <div style="border-top:1px solid #1d2636;padding-top:12px">
+      <div style="font-size:10px;letter-spacing:.1em;color:#e2605b;margin-bottom:6px">DENIALS ON THE RECORD · {{ node.denialCount }}</div>
+      <div style="display:flex;flex-direction:column;gap:4px">
+        <sc-for list="{{ node.denials }}" as="dn" hint-placeholder-count="1">
+          <div style="display:grid;grid-template-columns:auto 1fr auto;gap:10px;padding:6px 10px;border-left:2px solid #e2605b;background:#141215;font-size:11px"><a href="{{ dn.href }}">{{ dn.who }}</a><span style="color:#b9c4d2">{{ dn.label }}</span><span style="color:#6b7a90;font-size:10px">{{ dn.meta }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+    <sc-if value="{{ nodeTwoCol }}" hint-placeholder-val="{{ false }}">
+    <div style="border-top:1px solid #1d2636;padding-top:12px;display:grid;grid-template-columns:1fr 1fr;gap:20px;flex:1;min-height:0;overflow:hidden">
+      <div>
+        <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:8px">TIMELINE SLICE · {{ node.dates }} · map neighbours by start date</div>
+        <div style="position:relative;height:{{ sliceH }}px;border-left:1px solid #263141;margin-left:6px">
+          <sc-for list="{{ node.slice }}" as="ev" hint-placeholder-count="6">
+            <div style="position:absolute;left:0;top:{{ ev.top }}px;display:flex;gap:10px;align-items:center;font-size:11px;white-space:nowrap"><span style="width:7px;height:7px;background:{{ ev.cc }};margin-left:-4px"></span><span style="color:#6b7a90;width:36px">{{ ev.year }}</span><span style="color:#cfd8e3">{{ ev.label }}</span></div>
+          </sc-for>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:10px;letter-spacing:.1em;color:#e2605b;margin-bottom:8px">OPEN QUESTIONS · FOIA</div>
+        <div style="display:flex;flex-direction:column;gap:4px;font-size:11px">
+          <sc-for list="{{ node.foia }}" as="f" hint-placeholder-count="2">
+            <div style="display:grid;grid-template-columns:1fr auto;gap:10px;padding:7px 10px;border:1px dashed #3a2a2c;color:#6b7a90;font-style:italic"><span>{{ f.q }}</span><span style="color:#e2605b;font-style:normal;font-size:10px">{{ f.req }}</span></div>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+    </sc-if>
+  </div>
+  <div style="min-width:0;display:flex;flex-direction:column;gap:12px;overflow:hidden">
+    <div style="display:flex;align-items:baseline;gap:10px"><span style="font-size:10px;letter-spacing:.1em;color:#6b7a90">SOURCED CONNECTIONS · {{ node.connCount }}</span><span style="font-size:10px;color:#6b7a90">on the map {{ node.connMap }} · below the floor {{ node.connLedger }}</span></div>
+    <div style="display:flex;flex-direction:column;gap:3px;overflow:hidden;flex:1;min-height:0">
+      <sc-for list="{{ node.conns }}" as="k" hint-placeholder-count="12">
+        <a href="{{ k.href }}" style="display:grid;grid-template-columns:8px 1fr auto;gap:8px;align-items:center;padding:4px 8px;border:1px solid #1d2636;background:#101720;color:#cfd8e3;font-size:11px;text-decoration:none"><span style="width:8px;height:8px;background:{{ k.cc }}"></span><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ k.label }}</span><span style="font-size:10px;color:{{ k.tcol }}">{{ k.type }} · T{{ k.tier }}</span></a>
+      </sc-for>
+    </div>
+    <div style="font-size:10px;color:#6b7a90">{{ node.connMore }}</div>
+  </div>
+  <sc-if value="{{ nodeThirdCol }}" hint-placeholder-val="{{ false }}">
+  <div style="min-width:0;display:flex;flex-direction:column;gap:14px;overflow:hidden">
+    <div>
+      <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:8px">TIMELINE SLICE · {{ node.dates }}</div>
+      <div style="position:relative;height:{{ sliceH }}px;border-left:1px solid #263141;margin-left:6px">
+        <sc-for list="{{ node.slice }}" as="ev" hint-placeholder-count="6">
+          <div style="position:absolute;left:0;top:{{ ev.top }}px;display:flex;gap:10px;align-items:center;font-size:11px;white-space:nowrap"><span style="width:7px;height:7px;background:{{ ev.cc }};margin-left:-4px"></span><span style="color:#6b7a90;width:36px">{{ ev.year }}</span><span style="color:#cfd8e3">{{ ev.label }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+    <div style="border-top:1px solid #1d2636;padding-top:12px">
+      <div style="font-size:10px;letter-spacing:.1em;color:#e2605b;margin-bottom:8px">OPEN QUESTIONS · FOIA</div>
+      <div style="display:flex;flex-direction:column;gap:4px;font-size:11px">
+        <sc-for list="{{ node.foia }}" as="f" hint-placeholder-count="2">
+          <div style="display:grid;grid-template-columns:1fr auto;gap:10px;padding:7px 10px;border:1px dashed #3a2a2c;color:#6b7a90;font-style:italic"><span>{{ f.q }}</span><span style="color:#e2605b;font-style:normal;font-size:10px">{{ f.req }}</span></div>
+        </sc-for>
+      </div>
+    </div>
+  </div>
+  </sc-if>
+</div>
+</sc-if>
+
+<!-- ============ MAP ============ -->
+<sc-if value="{{ isMap }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;height:32px;display:flex;align-items:center;gap:10px;padding:0 14px;font-size:10px;letter-spacing:.06em;color:#6b7a90;border-bottom:1px solid #1d2636">
+  <span style="color:#e6edf5">PROGRAM MAP</span><span>{{ map.status }}</span>
+  <span style="margin-left:auto;display:flex;gap:6px;white-space:nowrap">
+    <sc-for list="{{ map.toggles }}" as="t" hint-placeholder-count="5"><span style="border:1px solid {{ t.b }};color:{{ t.c }};padding:3px 8px;white-space:nowrap">{{ t.l }}</span></sc-for>
+  </span>
+</div>
+<div style="position:absolute;left:0;right:0;top:72px;bottom:0;overflow:hidden">
+  <sc-for list="{{ map.eras }}" as="e" hint-placeholder-count="5">
+    <div style="position:absolute;left:{{ e.x }}px;top:6px;width:{{ e.w }}px;border-left:1px solid #1d2636;padding-left:8px;height:{{ map.fullH }}px"><div style="font-size:11px;font-weight:600;color:#e6edf5;letter-spacing:.06em">{{ e.label }}</div><div style="font-size:10px;color:#6b7a90">{{ e.sub }}</div></div>
+  </sc-for>
+  <sc-for list="{{ map.bands }}" as="b" hint-placeholder-count="7">
+    <div style="position:absolute;left:14px;top:{{ b.y }}px;width:{{ map.gutter }}px;font-size:10px;letter-spacing:.08em;color:{{ b.col }}"><div style="font-weight:600">{{ b.name }}</div><div style="color:#6b7a90">{{ b.sub }}</div></div>
+  </sc-for>
+  <svg width="{{ W }}" height="{{ map.fullH }}" style="position:absolute;left:0;top:0;pointer-events:none;overflow:visible">
+    <sc-for list="{{ map.edges }}" as="ed" hint-placeholder-count="0">
+      <path d="{{ ed.d }}" fill="none" stroke="{{ ed.col }}" stroke-width="1" stroke-opacity="{{ ed.op }}" stroke-dasharray="{{ ed.dash }}"></path>
+    </sc-for>
+    <sc-for list="{{ map.edges }}" as="ed" hint-placeholder-count="0">
+      <circle cx="{{ ed.ex }}" cy="{{ ed.ey }}" r="2" fill="{{ ed.col }}" fill-opacity="{{ ed.op }}"></circle>
+    </sc-for>
+  </svg>
+  <sc-for list="{{ map.cells }}" as="c" hint-placeholder-count="0">
+    <div style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:{{ c.w }}px;height:{{ c.h }}px;border:1px solid {{ c.border }};background:{{ c.bg }};padding:4px 6px;overflow:hidden">
+      <div style="display:flex;justify-content:space-between;font-size:10px;color:#6b7a90"><span>{{ c.count }}</span><span style="color:#52d3dd">{{ c.hint }}</span></div>
+    </div>
+  </sc-for>
+  <sc-for list="{{ map.chips }}" as="c" hint-placeholder-count="0">
+    <a href="{{ c.href }}" style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:{{ c.w }}px;height:{{ map.chipH }}px;display:flex;align-items:center;gap:6px;padding:0 6px 0 0;border:1px solid {{ c.border }};background:{{ c.bg }};color:{{ c.fg }};font-size:{{ map.font }}px;line-height:1;white-space:nowrap;text-decoration:none;box-shadow:0 0 0 2px #0c1119">
+      <span style="width:3px;height:100%;background:{{ c.cc }}"></span><span style="color:{{ c.cc }};font-size:8px;width:6px">{{ c.k }}</span><span>{{ c.short }}</span><span style="margin-left:auto;color:#e2a93b;font-size:9px">{{ c.sh }}</span>
+    </a>
+  </sc-for>
+  <sc-for list="{{ map.more }}" as="m" hint-placeholder-count="0">
+    <div style="position:absolute;left:{{ m.x }}px;top:{{ m.y }}px;width:{{ m.w }}px;height:{{ map.chipH }}px;display:flex;align-items:center;justify-content:center;border:1px dashed #3a4a62;color:#8b98ab;font-size:{{ map.font }}px;background:#0c1119">{{ m.label }}</div>
+  </sc-for>
+  <sc-if value="{{ map.open }}" hint-placeholder-val="{{ false }}">
+    <div style="position:absolute;left:{{ map.openX }}px;top:{{ map.openY }}px;width:{{ map.openW }}px;border:1px solid #52d3dd;background:#0e141e;box-shadow:0 12px 40px rgba(0,0,0,.6);padding:8px 10px 10px;z-index:5">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;font-size:10px;letter-spacing:.06em;color:#6b7a90;margin-bottom:6px"><span><span style="color:#e6edf5">{{ map.openTitle }}</span> · {{ map.openCount }} nodes · sorted by start date</span><span style="color:#52d3dd">ESC ×</span></div>
+      <div style="display:grid;grid-template-columns:{{ map.openCols }};gap:3px">
+        <sc-for list="{{ map.openList }}" as="o" hint-placeholder-count="0">
+          <a href="{{ o.href }}" style="display:flex;align-items:center;gap:6px;height:20px;padding:0 6px 0 0;border:1px solid {{ o.border }};background:{{ o.bg }};color:#e6edf5;font-size:11px;white-space:nowrap;text-decoration:none"><span style="width:3px;height:100%;background:{{ o.cc }}"></span><span style="color:#6b7a90;width:30px">{{ o.year }}</span><span>{{ o.short }}</span><span style="margin-left:auto;color:#e2a93b;font-size:9px">{{ o.sh }}</span></a>
+        </sc-for>
+      </div>
+    </div>
+  </sc-if>
+  <div style="position:absolute;right:14px;bottom:8px;display:flex;gap:10px;font-size:10px;letter-spacing:.06em">
+    <sc-for list="{{ legend }}" as="l" hint-placeholder-count="8"><span style="display:flex;align-items:center;gap:5px;color:#8b98ab"><span style="width:8px;height:8px;background:{{ l.c }}"></span>{{ l.k }}</span></sc-for>
+  </div>
+</div>
+</sc-if>
+
+<!-- ============ NEIGHBOURHOOD ============ -->
+<sc-if value="{{ isHood }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;height:32px;display:flex;align-items:center;gap:10px;padding:0 14px;font-size:10px;letter-spacing:.06em;color:#6b7a90;border-bottom:1px solid #1d2636">
+  <span style="color:#e6edf5">NEIGHBOURHOOD</span><span>{{ hood.status }}</span>
+  <span style="margin-left:auto;display:flex;gap:6px">
+    <sc-for list="{{ hood.toggles }}" as="t" hint-placeholder-count="5"><span style="border:1px solid {{ t.b }};color:{{ t.c }};padding:3px 8px;white-space:nowrap">{{ t.l }}</span></sc-for>
+  </span>
+</div>
+<div style="position:absolute;left:0;right:0;top:72px;bottom:0;overflow:hidden">
+  <svg width="{{ W }}" height="{{ hood.h }}" style="position:absolute;left:0;top:0">
+    <circle cx="{{ hood.cx }}" cy="{{ hood.cy }}" r="{{ hood.r1 }}" fill="none" stroke="#1d2636"></circle>
+    <sc-for list="{{ hood.lines2 }}" as="l" hint-placeholder-count="0">
+      <path d="{{ l.d }}" fill="none" stroke="#3a4a62" stroke-width="1" stroke-dasharray="2 4"></path>
+    </sc-for>
+    <sc-for list="{{ hood.lines }}" as="l" hint-placeholder-count="0">
+      <path d="{{ l.d }}" fill="none" stroke="{{ l.col }}" stroke-width="1.5" stroke-opacity=".85" stroke-dasharray="{{ l.dash }}" style="animation:{{ l.anim }}"></path>
+    </sc-for>
+    <sc-for list="{{ hood.dots }}" as="p" hint-placeholder-count="0">
+      <rect x="{{ p.rx }}" y="{{ p.ry }}" width="7" height="7" fill="{{ p.cc }}"></rect>
+    </sc-for>
+    <rect x="{{ hood.cxr }}" y="{{ hood.cyr }}" width="14" height="14" fill="#0c1119" stroke="#e2a93b" stroke-width="2"></rect>
+  </svg>
+  <sc-for list="{{ hood.labels }}" as="p" hint-placeholder-count="0">
+    <a href="{{ p.href }}" style="position:absolute;left:{{ p.lx }}px;top:{{ p.ly }}px;transform:{{ p.tr }};font-size:11px;line-height:14px;white-space:nowrap;color:{{ p.fg }};text-decoration:none;background:#0c1119;padding:0 3px">{{ p.label }}<span style="color:#6b7a90;font-size:9px;margin-left:6px">{{ p.tag }}</span></a>
+  </sc-for>
+  <div style="position:absolute;left:{{ hood.cLabelX }}px;top:{{ hood.cLabelY }}px;transform:translate(-50%,0);text-align:center"><div style="font-size:13px;font-weight:600;color:#e6edf5;white-space:nowrap;background:#0c1119;padding:2px 6px;border:1px solid #e2a93b">{{ hood.center }}</div></div>
+  <sc-if value="{{ hood.spill }}" hint-placeholder-val="{{ false }}">
+    <div style="position:absolute;left:{{ hood.spillX }}px;top:{{ hood.spillY }}px;padding:6px 10px;border:1px dashed #3a4a62;background:#0c1119;color:#8b98ab;font-size:11px;white-space:nowrap">{{ hood.spillLabel }} <span style="color:#52d3dd">expand ›</span></div>
+  </sc-if>
+  <div style="position:absolute;left:0;right:0;bottom:8px;display:flex;justify-content:center;gap:18px;font-size:10px;color:#8b98ab;letter-spacing:.04em">
+    <sc-for list="{{ hood.legend }}" as="l" hint-placeholder-count="5"><div style="display:flex;align-items:center;gap:8px;white-space:nowrap"><span style="width:16px;height:0;border-top:{{ l.b }}"></span>{{ l.k }}</div></sc-for>
+  </div>
+</div>
+</sc-if>
+
+<!-- ============ THREAD ============ -->
+<sc-if value="{{ isThread }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:grid;grid-template-columns:{{ threadCols }};grid-template-rows:auto 1fr;gap:14px 20px;padding:16px 20px;overflow:hidden">
+  <div style="grid-column:1 / -1;display:flex;align-items:baseline;gap:14px;border-bottom:1px solid #1d2636;padding-bottom:10px">
+    <span style="font-size:10px;letter-spacing:.1em;color:#6b7a90">THREAD</span>
+    <h1 style="margin:0;font-size:{{ h1 }}px;font-weight:600;color:#e6edf5">{{ thread.title }}</h1>
+    <span style="font-size:11px;color:#6b7a90">{{ thread.meta }}</span>
+    <div style="margin-left:auto;display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end">
+      <sc-for list="{{ threads }}" as="t" hint-placeholder-count="8"><a href="{{ t.href }}" style="font-size:10px;padding:3px 7px;border:1px solid {{ t.b }};color:{{ t.c }};white-space:nowrap">{{ t.n }} {{ t.short }}</a></sc-for>
+    </div>
+  </div>
+  <div style="min-width:0;overflow:hidden;display:flex;flex-direction:column;gap:0">
+    <sc-for list="{{ thread.steps }}" as="s" hint-placeholder-count="5">
+      <div style="display:grid;grid-template-columns:28px 1fr;gap:12px">
+        <div style="display:flex;flex-direction:column;align-items:center"><span style="width:22px;height:22px;line-height:22px;text-align:center;border:1px solid {{ s.bc }};color:{{ s.bc }};font-size:10px;background:#0c1119">{{ s.n }}</span><span style="flex:1;width:1px;background:{{ s.lineCol }};min-height:14px"></span></div>
+        <div style="padding-bottom:12px;min-width:0">
+          <a href="{{ s.href }}" style="display:inline-flex;align-items:center;gap:8px;font-size:13px;color:#e6edf5;font-weight:500"><span style="width:8px;height:8px;background:{{ s.cc }}"></span>{{ s.label }}<span style="font-size:10px;color:#6b7a90;font-weight:400">{{ s.year }}</span></a>
+          <div style="margin-top:4px;font-size:11px;color:{{ s.evCol }};font-style:{{ s.evStyle }};text-wrap:pretty">{{ s.evidence }}</div>
+          <div style="margin-top:3px;font-size:10px;color:#6b7a90;letter-spacing:.04em">{{ s.meta }}</div>
+        </div>
+      </div>
+    </sc-for>
+  </div>
+  <div style="min-width:0;display:flex;flex-direction:column;gap:14px;overflow:hidden">
+    <div style="border:1px solid #263141;background:#0e141e;position:relative;height:{{ thread.mapH }}px;overflow:hidden">
+      <div style="position:absolute;left:8px;top:6px;font-size:10px;letter-spacing:.08em;color:#6b7a90;white-space:nowrap">SMALL MAP · {{ thread.onMap }} of {{ thread.n }} steps · numbered as at left</div>
+      <sc-for list="{{ thread.miniEras }}" as="e" hint-placeholder-count="5"><div style="position:absolute;left:{{ e.x }}px;top:24px;bottom:0;border-left:1px solid #1d2636;padding-left:4px;font-size:9px;color:#6b7a90;white-space:nowrap">{{ e.label }}</div></sc-for>
+      <sc-for list="{{ thread.miniBands }}" as="b" hint-placeholder-count="7"><div style="position:absolute;left:8px;top:{{ b.y }}px;font-size:9px;color:#6b7a90;letter-spacing:.06em">{{ b.name }}</div></sc-for>
+      <svg width="{{ thread.mapW }}" height="{{ thread.mapH }}" style="position:absolute;left:0;top:0"><sc-for list="{{ thread.miniEdges }}" as="ed" hint-placeholder-count="0"><path d="{{ ed.d }}" fill="none" stroke="#52d3dd" stroke-width="1.2"></path></sc-for></svg>
+      <sc-for list="{{ thread.miniChips }}" as="c" hint-placeholder-count="0"><div title="{{ c.short }}" style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;height:18px;width:26px;display:flex;align-items:center;gap:4px;padding:0 4px 0 0;border:1px solid {{ c.border }};background:#121a26;color:#e6edf5;font-size:10px;white-space:nowrap"><span style="width:3px;height:100%;background:{{ c.cc }}"></span><span style="color:#52d3dd">{{ c.n }}</span></div></sc-for>
+    </div>
+    <div style="flex:1;min-height:0">
+      <div style="font-size:10px;letter-spacing:.08em;color:#6b7a90;margin-bottom:8px">TIMELINE SLICE · {{ thread.span }}</div>
+      <div style="position:relative;height:{{ thread.tlH }}px;border-top:1px solid #263141">
+        <sc-for list="{{ thread.tl }}" as="ev" hint-placeholder-count="5"><div style="position:absolute;left:{{ ev.x }}px;top:0;display:flex;flex-direction:column;align-items:flex-start;gap:3px;font-size:10px;white-space:nowrap"><span style="width:1px;height:{{ ev.h }}px;background:#3a4a62;margin-left:3px"></span><span style="color:#6b7a90">{{ ev.year }} <span style="color:#52d3dd">{{ ev.n }}</span></span><span style="color:#cfd8e3">{{ ev.short }}</span></div></sc-for>
+      </div>
+    </div>
+  </div>
+</div>
+</sc-if>
+
+<!-- ============ TIMELINE ============ -->
+<sc-if value="{{ isTimeline }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;height:32px;display:flex;align-items:center;gap:10px;padding:0 14px;font-size:10px;letter-spacing:.06em;color:#6b7a90;border-bottom:1px solid #1d2636">
+  <span style="color:#e6edf5">TIMELINE</span><span>{{ tl.status }}</span>
+  <span style="margin-left:auto;display:flex;gap:6px;white-space:nowrap"><span style="border:1px solid #52d3dd;color:#52d3dd;padding:3px 8px">SCOPE · ALL</span><span style="border:1px solid #263141;padding:3px 8px">SCOPE · NODE</span><span style="border:1px solid #263141;padding:3px 8px">SCOPE · THREAD</span></span>
+</div>
+<div style="position:absolute;left:0;right:0;top:72px;bottom:0;overflow:hidden">
+  <sc-for list="{{ tl.eras }}" as="e" hint-placeholder-count="5">
+    <div style="position:absolute;left:{{ e.x }}px;top:8px;width:{{ e.w }}px;bottom:0;border-left:1px solid {{ e.border }};background:{{ e.bg }};padding:6px 8px"><div style="font-size:11px;font-weight:600;color:#e6edf5">{{ e.label }}</div><div style="font-size:10px;color:#6b7a90">{{ e.sub }}</div></div>
+  </sc-for>
+  <sc-for list="{{ tl.years }}" as="y" hint-placeholder-count="0">
+    <div style="position:absolute;left:{{ y.x }}px;top:52px;bottom:0;border-left:1px dashed #1d2636;padding-left:4px;font-size:9px;color:#6b7a90">{{ y.label }}</div>
+  </sc-for>
+  <sc-for list="{{ tl.lanes }}" as="l" hint-placeholder-count="4">
+    <div style="position:absolute;left:14px;top:{{ l.y }}px;width:{{ tl.gutter }}px;font-size:10px;letter-spacing:.08em;color:#e6edf5;font-weight:600">{{ l.name }}<div style="color:#6b7a90;font-weight:400">{{ l.sub }}</div></div>
+    <div style="position:absolute;left:{{ tl.x0 }}px;right:14px;top:{{ l.y }}px;height:{{ l.h }}px;border-top:1px solid #1d2636"></div>
+  </sc-for>
+  <sc-for list="{{ tl.counts }}" as="c" hint-placeholder-count="0">
+    <div style="position:absolute;left:{{ c.x }}px;top:{{ c.y }}px;width:{{ c.w }}px;height:{{ c.h }}px;display:flex;align-items:center;justify-content:center;border:1px solid #263141;background:#121a26;color:#e6edf5;font-size:13px">{{ c.n }}<span style="color:#6b7a90;font-size:10px;margin-left:6px">events</span></div>
+  </sc-for>
+  <sc-for list="{{ tl.events }}" as="ev" hint-placeholder-count="0">
+    <a href="{{ ev.href }}" style="position:absolute;left:{{ ev.x }}px;top:{{ ev.y }}px;height:18px;display:flex;align-items:center;gap:5px;padding:0 6px 0 0;border:1px solid {{ ev.border }};background:#121a26;color:#e6edf5;font-size:10px;white-space:nowrap;text-decoration:none"><span style="width:3px;height:100%;background:{{ ev.cc }}"></span>{{ ev.short }}</a>
+  </sc-for>
+  <sc-for list="{{ tl.marks }}" as="m" hint-placeholder-count="0">
+    <div style="position:absolute;left:{{ m.x }}px;top:{{ m.y }}px;width:5px;height:5px;background:{{ m.cc }}"></div>
+  </sc-for>
+</div>
+</sc-if>
+
+<!-- ============ PATENTS ============ -->
+<sc-if value="{{ isPatents }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:grid;grid-template-columns:{{ patCols }};gap:20px;padding:16px 20px;overflow:hidden">
+  <div style="display:flex;flex-direction:column;gap:6px;min-width:0">
+    <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:4px">FIVE NAVY PATENTS · ONE SECTION EACH</div>
+    <sc-for list="{{ patents }}" as="p" hint-placeholder-count="5">
+      <a href="{{ p.href }}" style="display:grid;grid-template-columns:auto 1fr;gap:4px 12px;align-items:baseline;padding:9px 12px;border:1px solid {{ p.border }};background:{{ p.bg }};color:#cfd8e3;text-decoration:none"><span style="color:#52d3dd;font-size:11px;white-space:nowrap">{{ p.num }}</span><span style="font-size:11px;color:{{ p.tc }};font-style:{{ p.ts }}">{{ p.title }}</span><span></span><span style="font-size:10px;color:#6b7a90">{{ p.meta }}</span></a>
+    </sc-for>
+    <div style="margin-top:14px;border-top:1px solid #1d2636;padding-top:12px">
+      <div style="font-size:10px;letter-spacing:.1em;color:#6b7a90;margin-bottom:8px">THE FIVE OBSERVABLES</div>
+      <div style="display:grid;grid-template-columns:{{ obsCols }};gap:6px">
+        <sc-for list="{{ observables }}" as="o" hint-placeholder-count="5"><div style="padding:8px 10px;border:1px solid #263141;background:#121a26;font-size:11px"><div style="color:#e6edf5">{{ o.n }} · {{ o.k }}</div><div style="color:#6b7a90;font-style:italic;font-size:10px;margin-top:3px">{{ o.note }}</div></div></sc-for>
+      </div>
+    </div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:14px;min-width:0;overflow:hidden">
+    <div>
+      <div style="display:flex;gap:10px;align-items:baseline"><span style="font-size:10px;letter-spacing:.1em;color:#6b7a90">US 10,144,532 · node pais-patent-imrd · Tier 2</span></div>
+      <h1 style="margin:4px 0 0;font-size:{{ h1 }}px;font-weight:600;color:#e6edf5">Craft using an inertial mass reduction device</h1>
+      <div style="font-size:11px;color:#6b7a90;margin-top:4px">Inventor Salvatore Cezar Pais · assignee United States of America as represented by the Secretary of the Navy · granted 4 Dec 2018 · <span style="font-style:italic">maintenance-fee status: [placeholder — from the file wrapper]</span></div>
+    </div>
+    <div>
+      <div style="display:flex;justify-content:space-between;font-size:10px;letter-spacing:.08em;color:#6b7a90;margin-bottom:6px"><span>DRAWING SHEETS · 11 across the five patents · in order</span><span style="font-style:italic">[placeholder — sheet-to-patent allocation from the board]</span></div>
+      <div style="display:grid;grid-template-columns:repeat({{ sheetCols }},1fr);gap:8px">
+        <sc-for list="{{ sheets }}" as="s" hint-placeholder-count="11">
+          <div style="aspect-ratio:8.5/11;border:1px solid {{ s.border }};background:repeating-linear-gradient(135deg,#121a26 0 6px,#161f2d 6px 12px);position:relative;display:flex;align-items:flex-end;padding:6px;font-size:9px;color:#8b98ab"><span>sheet {{ s.n }} · <span style="font-style:italic">drawing placeholder</span></span><span style="position:absolute;right:6px;top:6px;color:#52d3dd">⤢</span></div>
+        </sc-for>
+      </div>
+    </div>
+    <div style="flex:1;min-height:0">
+      <div style="font-size:10px;letter-spacing:.08em;color:#6b7a90;margin-bottom:8px">PROSECUTION · FILE WRAPPER OF 10,144,532</div>
+      <div style="position:relative;border-top:1px solid #263141;height:{{ prosH }}px">
+        <sc-for list="{{ prosecution }}" as="p" hint-placeholder-count="6">
+          <div style="position:absolute;left:{{ p.x }}px;top:0;width:{{ p.w }}px;font-size:10px"><div style="width:1px;height:14px;background:{{ p.col }};margin-left:3px"></div><div style="color:{{ p.col }};letter-spacing:.04em">{{ p.k }}</div><div style="color:#8b98ab;margin-top:2px;text-wrap:pretty">{{ p.t }}</div><div style="color:#6b7a90;font-style:italic;margin-top:2px">{{ p.date }}</div></div>
+        </sc-for>
+      </div>
+    </div>
+  </div>
+</div>
+<sc-if value="{{ lightbox }}" hint-placeholder-val="{{ false }}">
+  <div style="position:absolute;inset:0;background:rgba(6,9,14,.86);display:flex;align-items:center;justify-content:center;gap:20px;z-index:10">
+    <div style="height:{{ lbH }}px;aspect-ratio:8.5/11;border:1px solid #52d3dd;background:repeating-linear-gradient(135deg,#121a26 0 8px,#161f2d 8px 16px);display:flex;align-items:center;justify-content:center;color:#8b98ab;font-size:12px;font-style:italic">sheet 3 · reading-size drawing placeholder · US 10,144,532</div>
+    <div style="width:280px;font-size:11px;color:#8b98ab;line-height:1.6"><div style="color:#e6edf5;font-size:13px">Sheet 3 of 11</div><div style="color:#52d3dd">US 10,144,532 · FIG. [n]</div><div style="margin-top:8px;font-style:italic">[caption placeholder — from the board]</div><div style="margin-top:14px;color:#6b7a90">← → next sheet · ESC close · click opens the patent's node page</div></div>
+  </div>
+</sc-if>
+</sc-if>
+
+<!-- ============ EVIDENCE ============ -->
+<sc-if value="{{ isEvidence }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:grid;grid-template-columns:{{ evCols }};gap:16px;padding:16px 20px;overflow:hidden">
+  <div style="display:flex;flex-direction:column;gap:12px;font-size:10px;letter-spacing:.06em;color:#6b7a90">
+    <div style="color:#e6edf5">EVIDENCE EXPLORER · 5,120 CLAIMS</div>
+    <sc-for list="{{ evFilters }}" as="f" hint-placeholder-count="6">
+      <div><div style="margin-bottom:4px">{{ f.k }}</div><div style="display:flex;flex-wrap:wrap;gap:3px"><sc-for list="{{ f.opts }}" as="o" hint-placeholder-count="3"><span style="border:1px solid {{ o.b }};color:{{ o.c }};padding:2px 6px;white-space:nowrap">{{ o.l }}</span></sc-for></div></div>
+    </sc-for>
+  </div>
+  <div style="min-width:0;overflow:hidden;display:flex;flex-direction:column">
+    <div style="display:grid;grid-template-columns:{{ evGrid }};gap:10px;padding:6px 10px;font-size:10px;letter-spacing:.06em;color:#6b7a90;border-bottom:1px solid #263141">
+      <sc-for list="{{ evHead }}" as="h" hint-placeholder-count="7"><span>{{ h }}</span></sc-for>
+    </div>
+    <sc-for list="{{ evRows }}" as="r" hint-placeholder-count="12">
+      <div style="display:grid;grid-template-columns:{{ evGrid }};gap:10px;padding:6px 10px;font-size:11px;border-bottom:1px solid #1d2636;align-items:baseline"><span style="color:{{ r.tc }};font-size:10px">{{ r.tier }}</span><span style="color:{{ r.cc }};font-size:10px">{{ r.cls }}</span><a href="{{ r.href }}" style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ r.node }}</a><span style="color:#6b7a90;font-style:italic;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ r.claim }}</span><span style="color:#8b98ab;font-size:10px">{{ r.src }}</span><span style="color:#e2605b;font-size:10px">{{ r.denied }}</span><span style="color:#e2605b;font-size:10px;font-style:italic">{{ r.foia }}</span></div>
+    </sc-for>
+    <div style="margin-top:8px;font-size:10px;color:#6b7a90;font-style:italic">{{ evNote }}</div>
+  </div>
+</div>
+</sc-if>
+
+<!-- ============ REPORT ============ -->
+<sc-if value="{{ isReport }}" hint-placeholder-val="{{ false }}">
+<div style="position:absolute;left:0;right:0;top:40px;bottom:0;display:flex;justify-content:center;padding:16px;overflow:hidden">
+  <div style="width:{{ reportW }}px;height:100%;background:#f3f1ea;color:#1a1d24;padding:44px 52px;font-size:11.5px;line-height:1.55;overflow:hidden;position:relative">
+    <div style="display:flex;justify-content:space-between;font-size:9px;letter-spacing:.1em;color:#6b6f7a;border-bottom:1px solid #c9c6bb;padding-bottom:8px">
+      <span>THE PROGRAM · BRIEF · {{ rpt.type }}</span><span>{{ rpt.url }} · generated {{ rpt.date }}</span>
+    </div>
+    <h1 style="font-size:20px;font-weight:600;margin:20px 0 4px;line-height:1.25">{{ rpt.title }}</h1>
+    <div style="font-size:10px;color:#6b6f7a;letter-spacing:.06em">{{ rpt.sub }}</div>
+    <p style="margin:16px 0 0;max-width:72ch;text-wrap:pretty">{{ rpt.why }} <sup style="color:#0a7c86">1</sup></p>
+    <h2 style="font-size:10px;letter-spacing:.1em;margin:22px 0 8px;color:#6b6f7a">CLAIMS BY TIER</h2>
+    <ol style="margin:0;padding-left:20px;display:flex;flex-direction:column;gap:5px">
+      <sc-for list="{{ rpt.claims }}" as="c" hint-placeholder-count="5"><li><span style="color:{{ c.col }};font-size:10px;letter-spacing:.06em">{{ c.tier }}</span> <span style="font-style:italic;color:#6b6f7a">{{ c.text }}</span> <sup style="color:#0a7c86">{{ c.n }}</sup></li></sc-for>
+    </ol>
+    <h2 style="font-size:10px;letter-spacing:.1em;margin:22px 0 8px;color:#6b6f7a">DENIALS ON THE RECORD</h2>
+    <sc-for list="{{ rpt.denials }}" as="d" hint-placeholder-count="1"><div style="border-left:2px solid #b0342f;padding-left:10px;margin-bottom:6px"><span style="font-weight:600">{{ d.who }}</span> — {{ d.label }} <sup style="color:#0a7c86">{{ d.n }}</sup></div></sc-for>
+    <h2 style="font-size:10px;letter-spacing:.1em;margin:22px 0 8px;color:#6b6f7a">SOURCED CONNECTIONS ({{ rpt.connCount }})</h2>
+    <div style="columns:{{ rpt.connCols }};column-gap:24px;font-size:10.5px">
+      <sc-for list="{{ rpt.conns }}" as="k" hint-placeholder-count="10"><div style="break-inside:avoid">{{ k.label }} <span style="color:#6b6f7a">· {{ k.type }} · T{{ k.tier }}</span></div></sc-for>
+    </div>
+    <div style="position:absolute;left:52px;right:52px;bottom:32px;border-top:1px solid #c9c6bb;padding-top:8px;font-size:9.5px;color:#4a4e58">
+      <div style="letter-spacing:.1em;color:#6b6f7a;margin-bottom:4px">CITATIONS</div>
+      <sc-for list="{{ rpt.cites }}" as="c" hint-placeholder-count="3"><div><span style="color:#0a7c86">{{ c.n }}</span> {{ c.text }}</div></sc-for>
+    </div>
+  </div>
+</div>
+</sc-if>
+
+<sc-if value="{{ loading }}" hint-placeholder-val="{{ true }}">
+  <div style="position:absolute;inset:40px 0 0 0;display:flex;align-items:center;justify-content:center;color:#6b7a90;font-size:11px;letter-spacing:.1em">LOADING data/design-extract.json …</div>
+</sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+class Component extends DCLogic {
+  state = { d: null, W: 1920, H: 1080, screen: 'home', nodeId: 'aawsap', threadId: 'lineage', lightbox: false, cellOpen: true };
+  componentDidMount() {
+    window.__shell = this;
+    fetch('./data/design-extract.json').then(r => r.json()).then(d => this.setState({ d }));
+    this._onHash = () => this.readHash();
+    window.addEventListener('hashchange', this._onHash);
+    try { const v = JSON.parse(localStorage.getItem('program-shell-view') || 'null'); if (v) this.setState(v); } catch (e) {}
+    this.readHash();
+  }
+  componentWillUnmount() { window.removeEventListener('hashchange', this._onHash); }
+  readHash() {
+    const h = location.hash.replace(/^#\/?/, '');
+    if (!h) return;
+    const [path, q] = h.split('?'); const p = path.split('/'); const s = {};
+    const qs = Object.fromEntries((q || '').split('&').filter(Boolean).map(kv => kv.split('=')));
+    if (p[0] === 'n') { s.screen = 'node'; if (p[1]) s.nodeId = p[1]; if (p[2] === 'map') s.screen = 'map'; if (p[2] === 'hood') s.screen = 'hood'; }
+    else if (p[0] === 't') { s.screen = 'thread'; if (p[1]) s.threadId = p[1]; }
+    else if (p[0] === 'hood') { s.screen = 'hood'; if (p[1]) s.nodeId = p[1]; }
+    else if (p[0] === 'report') { s.screen = 'report'; if (p[2]) s.nodeId = p[2]; }
+    else if (p[0] === 'patents') { s.screen = 'patents'; s.lightbox = !!qs.sheet; }
+    else s.screen = p[0];
+    if (qs.w) { s.W = +qs.w; s.H = { 1366: 768, 1920: 1080, 2560: 1440 }[+qs.w] || 1080; }
+    this.setState(s);
+  }
+  static P = ['reverse-engineering', 'retrieval', 'custody', 'funding', 'research', 'oversight', 'disclosure'];
+  static E = [['1940-1969', 'THROUGH 1969', 'Estimate through Blue Book'], ['1970-1999', '1970-1999', 'Post-Blue Book'], ['2000-2016', '2000-2016', 'AAWSAP / AATIP'], ['2017-2026', '2017-2026', 'Post-disclosure'], [null, 'NO DATE', 'no start date recorded']];
+  static CC = { institution: '#7fa6e6', program: '#b58ce8', document: '#e3c464', event: '#6dd2a2', legislation: '#e28ac4', person: '#f0a882', location: '#7fd3cc', domain: '#9aa5b8' };
+  static TC = { denial: '#e2605b', custody: '#e2a93b', funding: '#e3c464', 'witness-chain': '#f0a882', derived: '#3a4a62' };
+  static SH = ['aawsap', 'waived-sap-notification-group', 'usc-10-119', 'aaro-historical-record-vol1', 'aaro', 'mitre-corporation', 'carve-out', 'dod-agencywide-audit', 'immaculate-constellation', 'kona-blue', 'wilson-davis-memo', 'uapda-2023', 'geipan', 'operacao-prato'];
+  static THREADS = [
+    { id: 'lineage', short: 'Lineage', title: 'AAWSAP → AATIP → KONA BLUE', steps: ['aawsap', 'aatip', 'kona-blue', 'aaro-historical-record-vol1'] },
+    { id: 'custody', short: 'Custody', title: 'The custody chain, Grusch to a named contractor', steps: ['hearing-2023-07-26', 'waived-sap-notification-group', 'usc-10-119', 'kona-blue', 'lockheed-skunk-works', 'lockheed-martin'] },
+    { id: 'money', short: 'Money', title: 'Follow the money', steps: ['dod-agencywide-audit', 'classified-annex', 'dod-sapco', 'waived-sap-notification-group', 'usc-10-119', 'ndaa-fy2024-1687'] },
+    { id: 'denial', short: 'Denials', title: 'The denial ledger', steps: [] },
+    { id: 'wilson-davis', short: 'Wilson-Davis', title: 'The Wilson-Davis notes', steps: ['wilson-davis-memo', 'eg-and-g', 'lockheed-martin', 'aaro-historical-record-vol1'] },
+    { id: 'patents', short: 'Patents', title: 'Patents and prosecution', steps: ['pais-patent-imrd', 'us-navy', 'uap-task-force', 'odni-preliminary-assessment-2021'] },
+    { id: 'scientists', short: 'Scientists', title: 'The missing scientists', steps: [] },
+    { id: 'oversight', short: 'Oversight', title: 'Oversight, 2023 to 2026', steps: ['hearing-2023-07-26', 'aaro', 'hearing-2025-09-09', 'burlison-mitre-letter-2026', 'mitre-corporation', 'uapda-fy2027-house-adopted'] }
+  ];
+  band(n) { return Component.P.find(p => n.roles.includes(p)) || 'research'; }
+  edgeBetween(a, b) {
+    const d = this.state.d;
+    const e = d.directEdges.find(e => (e.a === a && e.b === b) || (e.a === b && e.b === a));
+    if (e) return { kind: 'direct', tier: e.tier, types: e.types };
+    const s = d.summarised.find(e => (e.a === a && e.b === b) || (e.a === b && e.b === a));
+    if (s) return { kind: 'summarised', tier: s.tier, via: s.viaLabels };
+    return null;
+  }
+  strand(n) { if (n.roles.includes('concealment')) return 'cover-up'; if (n.roles.includes('oversight')) return 'oversight'; if (n.roles.includes('disclosure') && !n.roles.includes('custody')) return 'witness'; return 'program'; }
+  yearOf(n) { return (n.dateStart || '').slice(0, 4); }
+
+  layoutMap(W, H) {
+    const d = this.state.d, P = Component.P, E = Component.E, CC = Component.CC;
+    const small = W < 1600;
+    const gutter = small ? 150 : 190, top = 40, font = 11, chipH = 18, pitch0 = small ? 22 : (W > 2200 ? 26 : 20); let bandGap = small ? 8 : 12;
+    const areaW = W - gutter - 24; const colW = Math.floor(areaW / 5);
+    const eras = E.map((e, i) => ({ key: e[0], label: e[1], sub: e[2], x: gutter + i * colW, w: colW }));
+    const availH = H - 72 - top - (small ? 34 : 24);
+    const cw = n => Math.round(n.short.length * 6.7 + 30 + (Component.SH.includes(n.id) ? 16 : 0));
+    const cellNodes = {}; d.l0.forEach(n => { const k = this.band(n) + '|' + n.era; (cellNodes[k] = cellNodes[k] || []).push(n); });
+    Object.values(cellNodes).forEach(a => a.sort((x, y) => (x.dateStart || '9999').localeCompare(y.dateStart || '9999')));
+    const pack = (ns, w) => { const rows = [[]]; let x = 0; ns.forEach(n => { const cwid = cw(n); if (x > 0 && x + cwid > w) { rows.push([]); x = 0; } rows[rows.length - 1].push({ n, x, w: cwid }); x += cwid + 6; }); return rows; };
+    const inner = colW - 14;
+    const bandRows = P.map(b => Math.max(1, ...E.map(e => pack(cellNodes[b + '|' + e[0]] || [], inner).length)));
+    let pitch = pitch0; let need = bandRows.reduce((a, r) => a + r * pitch, 0) + P.length * bandGap;
+    while (need > availH && !small && (pitch > 18 || bandGap > 6)) { if (pitch > 18) pitch--; else bandGap--; need = bandRows.reduce((a, r) => a + r * pitch, 0) + P.length * bandGap; }
+    while (need < availH * 0.9 && pitch < 32) { pitch++; need = bandRows.reduce((a, r) => a + r * pitch, 0) + P.length * bandGap; }
+    const mode = need <= availH ? 'labels' : 'cells';
+    if (mode === 'labels') bandGap += Math.min(60, Math.floor((availH - need) / P.length));
+    const chips = [], more = [], cells = [], bands = [], edges = []; const pos = {};
+    let y = top;
+    if (mode === 'labels') {
+      P.forEach((b, bi) => {
+        const cnt = d.l0.filter(n => this.band(n) === b).length;
+        bands.push({ name: b.toUpperCase(), sub: cnt + ' nodes', y, col: b === 'disclosure' ? '#e2a93b' : '#8b98ab' });
+        E.forEach((e, ei) => {
+          const rows = pack(cellNodes[b + '|' + e[0]] || [], inner);
+          rows.forEach((row, ri) => row.forEach(it => { const cx = gutter + ei * colW + 8 + it.x, cy = y + ri * pitch; pos[it.n.id] = { x: cx, y: cy, w: it.w }; chips.push(this.chip(it.n, cx, cy, it.w)); }));
+        });
+        y += bandRows[bi] * pitch + bandGap;
+      });
+      const budget = 118;
+      const sel = d.directEdges.filter(e => e.tier === 1 && pos[e.a] && pos[e.b]).sort((a, b) => b.n - a.n).slice(0, budget);
+      sel.forEach(e => { const A = pos[e.a], B = pos[e.b]; const ay = A.y + chipH / 2, by = B.y + chipH / 2; const dir = B.x > A.x ? 1 : -1; const sx = dir > 0 ? A.x + A.w : A.x; const ex = dir > 0 ? B.x : B.x + B.w; const mx = sx + dir * 10; const col = e.types.includes('denial') ? '#e2605b' : '#52d3dd'; edges.push({ d: `M${sx} ${ay} H${mx} V${by} H${ex}`, col, op: .5, dash: 'none', ex, ey: by }); });
+      const dsel = d.summarised.filter(e => pos[e.a] && pos[e.b] && e.n >= 3).slice(0, 12);
+      dsel.forEach(e => { const A = pos[e.a], B = pos[e.b]; const ay = A.y + chipH / 2, by = B.y + chipH / 2; const dir = B.x > A.x ? 1 : -1; const sx = dir > 0 ? A.x + A.w : A.x; const ex = dir > 0 ? B.x : B.x + B.w; edges.push({ d: `M${sx} ${ay} H${sx + dir * 10} V${by} H${ex}`, col: '#c9a25a', op: .5, dash: '4 4', ex, ey: by }); });
+    } else {
+      const maxes = P.map(b => Math.max(1, ...E.map(e => (cellNodes[b + '|' + e[0]] || []).length)));
+      const sumMax = maxes.reduce((a, b) => a + b, 0);
+      const free = availH - P.length * bandGap;
+      P.forEach((b, bi) => {
+        const bh = Math.max(44, Math.floor(free * maxes[bi] / sumMax));
+        const cnt = d.l0.filter(n => this.band(n) === b).length;
+        bands.push({ name: b.toUpperCase(), sub: cnt + ' nodes', y, col: b === 'disclosure' ? '#e2a93b' : '#8b98ab' });
+        E.forEach((e, ei) => {
+          const ns = cellNodes[b + '|' + e[0]] || []; if (!ns.length) return;
+          const cx = gutter + ei * colW + 4, cwid = colW - 10;
+          const isOpen = this.state.cellOpen && b === 'oversight' && e[0] === '2017-2026';
+          cells.push({ x: cx, y, w: cwid, h: bh - 4, count: ns.length + (ns.length === 1 ? ' node' : ' nodes'), hint: isOpen ? 'open' : 'click to expand', border: isOpen ? '#52d3dd' : '#1d2636', bg: isOpen ? '#101a24' : '#0e141e' });
+          const rowsAvail = Math.floor((bh - 4 - 16 - 2) / pitch);
+          const fitting = ns.filter(n => cw(n) <= cwid - 12);
+          const rows = pack(fitting, cwid - 12); let shown = 0;
+          rows.slice(0, rowsAvail).forEach((row, ri) => row.forEach(it => { const isLast = ri === rowsAvail - 1 && (rows.length > rowsAvail || fitting.length < ns.length); if (isLast && it.x + it.w > cwid - 12 - 40) return; pos[it.n.id] = { x: cx + 6 + it.x, y: y + 18 + ri * pitch, w: it.w }; chips.push(this.chip(it.n, cx + 6 + it.x, y + 18 + ri * pitch, it.w)); shown++; }));
+          if (shown < ns.length) { const last = Math.max(0, Math.min(rows.length, rowsAvail) - 1); const rowItems = (rows[last] || []).filter(it => pos[it.n.id]); const lx = rowItems.length ? Math.max(...rowItems.map(it => it.x + it.w)) + 6 : 0; more.push({ x: cx + 6 + lx, y: y + 18 + last * pitch, w: 34, label: '+' + (ns.length - shown) }); }
+          if (isOpen) { const pw = Math.min(W - cx - 14, 560); const cols = pw > 500 ? 2 : 1; const ph = 34 + Math.ceil(ns.length / cols) * 23; const py = y + bh + ph > H - 72 - 30 ? y - ph - 2 : y + bh; this._open = { x: cx - 2, y: py, w: pw, title: 'OVERSIGHT × 2017-2026', list: ns }; }
+        });
+        y += bh + bandGap;
+      });
+    }
+    const o = this._open; this._open = null;
+    const openList = o ? o.list.map(n => ({ href: '#/n/' + n.id, short: n.short, year: this.yearOf(n), cc: CC[n.cls], border: Component.SH.includes(n.id) ? '#e2a93b' : '#263141', bg: '#121a26', sh: Component.SH.includes(n.id) ? String(Component.SH.indexOf(n.id) + 1) : '' })) : [];
+    return {
+      mode, gutter, chipH, font, eras, bands, chips, more, cells, edges, fullH: H - 72,
+      status: mode === 'labels' ? `125 nodes · ${edges.length} of 368 links at rest · all labels at 11px · scale 1:1` : '125 nodes · 0 links at rest · below label floor: cells show counts · select a cell or search',
+      toggles: [{ l: 'FIT', b: '#52d3dd', c: '#52d3dd' }, { l: 'LINES AT REST', b: mode === 'labels' ? '#52d3dd' : '#263141', c: mode === 'labels' ? '#52d3dd' : '#6b7a90' }, { l: 'START HERE', b: '#e2a93b', c: '#e2a93b' }, { l: 'DERIVED', b: '#263141', c: '#6b7a90' }, { l: 'CELLS', b: mode === 'cells' ? '#52d3dd' : '#263141', c: mode === 'cells' ? '#52d3dd' : '#6b7a90' }],
+      open: !!o, openX: o ? o.x : 0, openY: o ? o.y - 2 : 0, openW: o ? o.w : 0, openTitle: o ? o.title : '', openCount: o ? o.list.length : 0, openList, openCols: o && o.w > 500 ? '1fr 1fr' : '1fr'
+    };
+  }
+  chip(n, x, y, w) {
+    const sh = Component.SH.indexOf(n.id); const isSel = n.id === this.state.nodeId;
+    return { href: '#/n/' + n.id, x, y, w, short: n.short, k: n.cls[0].toUpperCase(), cc: Component.CC[n.cls], sh: sh >= 0 ? String(sh + 1) : '', border: isSel ? '#e6edf5' : sh >= 0 ? '#e2a93b' : '#2d3a4e', bg: sh >= 0 ? '#171a1c' : '#121a26', fg: '#dfe6ee' };
+  }
+  layoutHood(W, H) {
+    const d = this.state.d, CC = Component.CC, TC = Component.TC; const n = d.l0.find(x => x.id === this.state.nodeId) || d.l0[0];
+    const h = H - 72; const cx = Math.round(W / 2), cy = Math.round(h / 2) + 6;
+    const pitch = 15; const r1 = Math.min(Math.round((h - 80) / 2) - 40, W > 2200 ? 420 : W > 1600 ? 300 : 230);
+    const l0Nbrs = d.directEdges.filter(e => e.a === n.id || e.b === n.id).map(e => { const id = e.a === n.id ? e.b : e.a; const m = d.l0.find(x => x.id === id); return { id, label: m ? m.short : id, cls: m ? m.cls : 'program', type: e.types[0], tier: e.tier, map: true }; });
+    const members = n.direct.map(m => ({ id: m.id, label: m.label, full: m.label, cls: m.cls, type: 'member', tier: m.tier === 'A' ? 1 : m.tier === 'B' ? 2 : 3, map: false }));
+    const hops = this.state.hops || (W < 1600 ? 1 : 2); const ring2 = hops < 2 ? [] : (n.routed || []).filter(r => r.depth === 2); const colX = r1 + (W > 2200 ? 560 : W > 1600 ? 450 : 250);
+    const lw = p => p.label.length * 6.6 + 14 + (p.tag || 'member T1').length * 5.5;
+    const avail1 = ring2.length ? colX - r1 - 26 : Math.min(cx - r1 - 24, W - cx - r1 - 24);
+    const ring1 = [...l0Nbrs, ...members].map(p => ({ ...p, tag: p.type === 'member' ? 'T' + p.tier : p.type + ' T' + p.tier }));
+    const fit1 = ring1.filter(p => lw(p) <= avail1);
+    const slots = 2 * Math.floor((2 * r1 - 20) / pitch); const shown1 = fit1.slice(0, slots); const spill = ring1.length - shown1.length; const noFit = ring1.length - fit1.length;
+    const half = Math.ceil(shown1.length / 2);
+    const lines = [], dots = [], labels = [], lines2 = [];
+    shown1.forEach((p, i) => {
+      const side = i < half ? 1 : -1; const k = side > 0 ? i : i - half; const cnt = side > 0 ? half : shown1.length - half;
+      const yy = -r1 + 12 + (k + 0.5) * ((2 * r1 - 24) / cnt); const xx = side * Math.sqrt(Math.max(0, r1 * r1 - yy * yy));
+      const px = cx + xx, py = cy + yy; const col = p.type === 'member' ? '#52d3dd' : (TC[p.type] || '#52d3dd');
+      lines.push({ d: `M${cx} ${cy} L${px} ${py}`, col, dash: p.type === 'member' ? 'none' : '8 6', anim: p.type === 'member' ? 'none' : 'flow 1.2s linear infinite' });
+      dots.push({ rx: px - 3.5, ry: py - 3.5, cc: CC[p.cls] || '#9aa5b8' });
+      labels.push({ href: '#/n/' + p.id, lx: px + side * 9, ly: py - 7, tr: side > 0 ? 'none' : 'translateX(-100%)', label: p.label, fg: p.map ? '#e6edf5' : '#b9c4d2', tag: p.tag });
+    });
+    const avail2 = Math.min(cx - colX - 24, W - cx - colX - 24);
+    const fit2 = ring2.filter(p => p.label.length * 6.6 + 50 <= avail2); const noFit2 = ring2.length - fit2.length;
+    const slots2 = Math.floor((h - 60) / pitch); const shown2 = fit2.slice(0, 2 * slots2); const per = Math.ceil(shown2.length / 2);
+    shown2.forEach((p, i) => {
+      const side = i < per ? 1 : -1; const k = side > 0 ? i : i - per; const cnt = side > 0 ? per : shown2.length - per;
+      const py = 40 + (k + 0.5) * ((h - 80) / cnt); const px = cx + side * colX; if (px < 20 || px > W - 20) return;
+      const yy = py - cy; const ex = cx + side * Math.sqrt(Math.max(0, r1 * r1 - Math.min(r1 * r1, yy * yy)));
+      lines2.push({ d: `M${px} ${py} L${ex} ${Math.abs(yy) < r1 ? py : cy + Math.sign(yy) * r1}` });
+      dots.push({ rx: px - 3.5, ry: py - 3.5, cc: CC[p.cls] || '#9aa5b8' });
+      labels.push({ href: '#/n/' + p.id, lx: px + side * 9, ly: py - 7, tr: side > 0 ? 'none' : 'translateX(-100%)', label: p.label, fg: '#8b98ab', tag: 'hop 2' });
+    });
+    return {
+      h, cx, cy, r1, cxr: cx - 7, cyr: cy - 7, lines, lines2, dots, labels, center: n.short, centerSub: `${n.cls} · Tier ${n.tier} · ${n.membersDirect} direct · ${n.membersRouted} routed`, cLabelX: cx, cLabelY: cy + 14,
+      n1: ring1.length, n2: ring2.length, spill: spill > 0 || shown2.length < ring2.length, spillX: cx - 120, spillY: cy + r1 + 22, spillLabel: `+${spill} at one hop, +${ring2.length - shown2.length} at two: no room for a full label`,
+      status: `${n.short} · ${ring1.length} at one hop, ${shown1.length} named · ${hops > 1 ? ring2.length + ' at two, ' + shown2.length + ' named' : 'hop 2 off at this width'} · derived pairs on · never the whole graph`,
+      toggles: [{ l: '1 HOP', b: '#52d3dd', c: '#52d3dd' }, { l: '2 HOPS', b: hops > 1 ? '#52d3dd' : '#263141', c: hops > 1 ? '#52d3dd' : '#6b7a90' }, { l: '3 HOPS', b: '#263141', c: '#6b7a90' }, { l: 'DERIVED', b: '#52d3dd', c: '#52d3dd' }, { l: 'SHOW ON MAP', b: '#263141', c: '#8b98ab' }],
+      legend: [{ k: 'member edge · direct', b: '1.5px solid #52d3dd' }, { k: 'map edge · type-coloured, animated flow', b: '1.5px dashed #52d3dd' }, { k: 'denial', b: '1.5px solid #e2605b' }, { k: 'custody', b: '1.5px solid #e2a93b' }, { k: 'derived · shared member, hop 2', b: '1px dotted #3a4a62' }],
+      panelW: W > 1600 ? 260 : 200,
+      note: 'Labels are one size. Ring slots are set by label height; a node without a slot is not drawn, it is counted. Hop-2 lines are drawn to the ring because the extract does not carry the via-member; the build draws them to the actual hop-1 node.'
+    };
+  }
+  renderVals() {
+    const d = this.state.d, CC = Component.CC, E = Component.E;
+    const W = this.state.W; const H = { 1366: 768, 1920: 1080, 2560: 1440 }[W] || this.state.H;
+    const screen = this.state.screen;
+    const url = { home: '#/', node: '#/n/' + this.state.nodeId, map: '#/map', hood: '#/hood/' + this.state.nodeId, thread: '#/t/' + this.state.threadId, timeline: '#/timeline', patents: '#/patents/10144532' + (this.state.lightbox ? '?sheet=3' : ''), evidence: '#/evidence?tier=1', report: '#/report/n/' + this.state.nodeId }[screen] || '#/';
+    const navItems = [['home', 'Home', '#/'], ['map', 'Map', '#/map'], ['hood', 'Neighbourhood', '#/hood/' + this.state.nodeId], ['thread', 'Threads', '#/t/lineage'], ['timeline', 'Timeline', '#/timeline'], ['patents', 'Patents', '#/patents/10144532'], ['evidence', 'Evidence', '#/evidence'], ['report', 'Report', '#/report/n/' + this.state.nodeId]];
+    const base = { W, H, url, loading: !d, nav: navItems.map(([k, label, href]) => ({ label, href, color: k === screen ? '#e6edf5' : '#6b7a90', bg: k === screen ? '#1d2636' : 'transparent' })), searchHint: 'search nodes, claims, events', legend: Object.entries(CC).map(([k, c]) => ({ k, c })) };
+    if (!d) return base;
+    const small = W < 1600, wide = W > 2200;
+    const byId = Object.fromEntries(d.l0.map(n => [n.id, n]));
+    const node = byId[this.state.nodeId] || d.l0[0];
+    const flags = { isHome: screen === 'home', isNode: screen === 'node', isMap: screen === 'map', isHood: screen === 'hood', isThread: screen === 'thread', isTimeline: screen === 'timeline', isPatents: screen === 'patents', isEvidence: screen === 'evidence', isReport: screen === 'report' };
+    const out = { ...base, ...flags, h1: small ? 18 : wide ? 26 : 22, bodyP: small ? 11.5 : 12.5 };
+    // HOME
+    out.homeCols = small ? '1fr 300px' : wide ? '1fr 520px' : '1fr 420px'; out.homeGap = small ? 14 : 20; out.homePad = small ? 14 : wide ? 32 : 24; out.homeP = small ? 12 : wide ? 14 : 13;
+    out.entryCols = small ? 'repeat(3,1fr)' : wide ? 'repeat(6,1fr)' : 'repeat(3,1fr)'; out.entryH = small ? 96 : 120;
+    out.entry = d.entryPaths.map(e => ({ href: '#/t/' + e.id, label: e.label, blurb: e.blurb, meta: `${e.total} nodes · ${e.onMap} on the map` }));
+    out.startHere = Component.SH.map((id, i) => { const n = byId[id]; return { href: '#/n/' + id, n: i + 1, short: n ? n.short : id, k: n ? n.cls[0].toUpperCase() : '', cc: n ? CC[n.cls] : '#9aa5b8' }; });
+    out.counts = [['1,027', 'nodes · 300 people · 727 entities'], ['2,348', 'sourced edges · 12 types'], ['5,120', 'claims · T1 3,214 · T2 1,394 · T3 512'], ['912', 'timeline events · 4 strands'], ['125', 'nodes on the program map · 7 bands · 5 eras'], ['8', 'threads'], ['5 · 11', 'Navy patents · drawing sheets'], ['17 · 121', 'FOIA requests · open questions on 42 nodes']].map(([v, k]) => ({ v, k }));
+    out.questions = Array.from({ length: 7 }, (_, i) => `[suggested question ${i + 1} — placeholder, the seven live in the board's analyst config, not in the extract]`);
+    // NODE
+    const tier2 = Math.max(0, node.claims - node.t1 - Math.round((node.claims - node.t1) * 0.27)); const tier3 = node.claims - node.t1 - tier2;
+    const denials = d.denialPairs.filter(p => p.a === node.id || p.b === node.id).map(p => { const other = p.a === node.id ? p.b : p.a; const who = p.denier ? (byId[p.denier] ? byId[p.denier].short : p.denier) : (byId[other] ? byId[other].short : other); return { who, href: '#/n/' + (p.denier || other), label: p.label, meta: `T${p.tier} · ${p.denialKind}` }; });
+    const dEdges = d.directEdges.filter(e => e.a === node.id || e.b === node.id).map(e => { const id = e.a === node.id ? e.b : e.a; const m = byId[id]; return { href: '#/n/' + id, label: m ? m.short : id, cc: CC[m ? m.cls : 'program'], type: e.types.join('/'), tier: e.tier, tcol: e.types.includes('denial') ? '#e2605b' : '#52d3dd', onMap: true }; });
+    const mEdges = node.direct.map(m => ({ href: '#/n/' + m.id, label: m.label, cc: CC[m.cls], type: 'member', tier: m.tier === 'A' ? 1 : m.tier === 'B' ? 2 : 3, tcol: '#8b98ab', onMap: false }));
+    const connAll = [...dEdges, ...mEdges]; const connFit = small ? 22 : wide ? 46 : 34;
+    const slice = d.l0.filter(n => n.dateStart && (dEdges.some(e => e.label === n.short) || n.id === node.id)).sort((a, b) => a.dateStart.localeCompare(b.dateStart)).slice(0, wide ? 14 : 10);
+    out.node = {
+      label: node.label, clsU: node.cls.toUpperCase(), cc: CC[node.cls], tier: node.tier, cluster: 'cluster ' + node.cluster, dates: (node.dateStart || '—') + (node.dateEnd && node.dateEnd !== node.dateStart ? ' – ' + node.dateEnd : ''),
+      startTag: Component.SH.includes(node.id) ? 'START HERE · ' + (Component.SH.indexOf(node.id) + 1) : '',
+      axes: [['custody proximity', node.C], ['access', node.A], ['disclosure role', node.D]].map(([k, v]) => ({ k, v, cells: [0, 1, 2].map(i => i < v ? '#52d3dd' : '#263141') })),
+      roles: node.roles, mapHref: '#/n/' + node.id + '/map', hoodHref: '#/hood/' + node.id, reportHref: '#/report/n/' + node.id, idLine: 'id ' + node.id + ' · degree ' + node.deg + ' distinct neighbours · ' + node.members + ' members',
+      why: node.whyImplicated, whyNote: '[…] (400-character extract of the dossier; the build shows the full narrative)',
+      claims: node.claims, t1: node.t1, t2: tier2, t3: tier3,
+      claimRows: [['T1', '#52d3dd'], ['T1', '#52d3dd'], ['T2', '#e2a93b'], ['T3', '#9aa5b8']].slice(0, small ? 3 : 4).map(([t, c], i) => ({ tier: t, color: c, text: `[claim ${i + 1} of ${node.claims} — text not in the extract; the build lists every claim grouped by tier]`, src: '[source →]' })),
+      denialCount: denials.length, denials: denials.length ? denials : [{ who: '—', href: '#', label: 'no denial recorded against this node', meta: '' }],
+      connCount: node.deg, connMap: dEdges.length, connLedger: node.membersDirect, conns: connAll.slice(0, connFit), connMore: connAll.length > connFit ? `+${connAll.length - connFit} more · scroll` : '',
+      slice: slice.map((n, i) => ({ top: i * 22, year: this.yearOf(n), label: n.short, cc: CC[n.cls] })),
+      foia: [{ q: '[open question 1 — text not in the extract]', req: '[FOIA request id]' }, { q: '[open question 2 — text not in the extract]', req: '[FOIA request id]' }]
+    };
+    out.nodeCols = small ? '1fr 340px' : wide ? '1fr 620px 560px' : '1fr 520px'; out.nodeThirdCol = wide; out.nodeTwoCol = !wide; out.sliceH = slice.length * 22 + 8;
+    // MAP
+    if (screen === 'map') out.map = this.layoutMap(W, H);
+    if (screen === 'hood') out.hood = this.layoutHood(W, H);
+    // THREAD
+    const T = Component.THREADS; const th = T.find(t => t.id === this.state.threadId) || T[0];
+    out.threads = T.map((t, i) => ({ href: '#/t/' + t.id, n: i + 1, short: t.short, b: t.id === th.id ? '#52d3dd' : '#263141', c: t.id === th.id ? '#52d3dd' : '#6b7a90' }));
+    let steps;
+    if (th.id === 'denial') steps = d.denialPairs.filter(p => p.denier).slice(0, small ? 9 : wide ? 16 : 12).map((p, i) => { const who = byId[p.denier], of = byId[p.a === p.denier ? p.b : p.a]; return { n: i + 1, href: '#/n/' + p.denier, label: (who ? who.short : p.denier) + ' → ' + (of ? of.short : ''), cc: CC[who ? who.cls : 'document'], year: who ? this.yearOf(who) : '', evidence: p.label, evCol: '#b9c4d2', evStyle: 'normal', meta: `denial · T${p.tier} · ${p.denialKind}`, bc: '#e2605b', lineCol: '#3a2a2c' }; });
+    else if (th.id === 'scientists') steps = [1, 2, 3, 4].map(i => ({ n: i, href: '#', label: `[node ${i} — below the map floor; not in the extract]`, cc: '#f0a882', year: '', evidence: '[one line of evidence — from the board]', evCol: '#6b7a90', evStyle: 'italic', meta: 'placeholder step', bc: '#3a4a62', lineCol: '#263141' }));
+    else steps = th.steps.map((id, i) => { const n = byId[id]; const e = i > 0 ? this.edgeBetween(th.steps[i - 1], id) : null; let evidence, evCol = '#b9c4d2', evStyle = 'normal', meta = i === 0 ? 'thread start' : 'no recorded edge in the extract'; if (e && e.kind === 'direct') { evidence = `[edge evidence — the hand-written line on this ${e.types.join('/')} edge; not in the extract]`; evCol = '#6b7a90'; evStyle = 'italic'; meta = `${e.types.join(' / ')} · Tier ${e.tier} · direct`; } else if (e) { evidence = 'shared members: ' + e.via.join(' · '); meta = `derived · Tier ${e.tier} · via ${e.via.length} members`; } else if (i > 0) { evidence = '[no edge in the extract between these two — the build must reject this step unless one exists]'; evCol = '#e2605b'; evStyle = 'italic'; } else evidence = n ? n.whyImplicated.slice(0, 160) + '…' : ''; return { n: i + 1, href: '#/n/' + id, label: n ? n.short : id, cc: CC[n ? n.cls : 'program'], year: n ? this.yearOf(n) : '', evidence, evCol, evStyle, meta, bc: e && e.kind === 'direct' ? '#52d3dd' : '#3a4a62', lineCol: '#263141' }; });
+    const tNodes = (th.id === 'denial' ? d.denialPairs.filter(p => p.denier).slice(0, 12).map(p => p.denier) : th.steps).map(id => byId[id]).filter(Boolean);
+    const mapW = small ? 480 : wide ? 900 : 680, mapH = small ? 230 : wide ? 360 : 300; const mcol = (mapW - 70) / 5; const mrow = (mapH - 56) / 7;
+    const mpos = {}; const miniChips = []; const rowUse = {};
+    tNodes.forEach((n, i) => { const ei = E.findIndex(e => e[0] === n.era), bi = Component.P.indexOf(this.band(n)); const key = ei + '|' + bi; const k = rowUse[key] = (rowUse[key] || 0) + 1; const x = 70 + ei * mcol + 4 + ((k - 1) % 3) * 30, y = 44 + bi * mrow + Math.floor((k - 1) / 3) * 20; mpos[n.id] = { x, y, w: 26 }; miniChips.push({ x, y, short: n.short, n: String(i + 1), cc: CC[n.cls], border: Component.SH.includes(n.id) ? '#e2a93b' : '#2d3a4e' }); });
+    const miniEdges = []; for (let i = 1; i < tNodes.length; i++) { const A = mpos[tNodes[i - 1].id], B = mpos[tNodes[i].id]; if (A && B) { const dir = B.x > A.x ? 1 : -1; const sx = dir > 0 ? A.x + A.w : A.x; miniEdges.push({ d: `M${sx} ${A.y + 9} H${sx + dir * 8} V${B.y + 9} H${dir > 0 ? B.x : B.x + B.w}` }); } }
+    const dated = tNodes.filter(n => n.dateStart).sort((a, b) => a.dateStart.localeCompare(b.dateStart)); const y0 = dated.length ? +dated[0].dateStart.slice(0, 4) : 1947, y1 = dated.length ? +dated[dated.length - 1].dateStart.slice(0, 4) : 2026; const tlW = small ? 480 : wide ? 900 : 680;
+    out.thread = { title: th.title, meta: `${steps.length} steps · ${tNodes.length} on the map`, steps, n: steps.length, onMap: tNodes.length, mapW, mapH, miniEras: ['–1969', '1970–99', '2000–16', '2017–26', 'no date'].map((l, i) => ({ x: 70 + i * mcol, label: l })), miniBands: Component.P.map((b, i) => ({ y: 44 + i * mrow, name: b.slice(0, 9).toUpperCase() })), miniChips, miniEdges, span: `${y0} – ${y1}`, tlH: 70, tl: (() => { let lastX = -1e9; return dated.map(n => { const x = 8 + Math.round((+n.dateStart.slice(0, 4) - y0) / Math.max(1, y1 - y0) * (tlW - 200)); const w = n.short.length * 6 + 10; const ok = x - lastX >= 150; if (ok) lastX = x; return { x, h: 10, year: ok ? n.dateStart : '', n: ok ? String(tNodes.indexOf(n) + 1) : '', short: ok ? n.short : '' }; }); })() };
+    out.threadCols = small ? '1fr 480px' : wide ? '1fr 900px' : '1fr 680px';
+    // TIMELINE
+    const gutter = small ? 130 : 170, x0 = gutter; const areaW = W - x0 - 14; const openEra = '2017-2026'; const closedW = Math.floor(areaW * (small ? 0.12 : 0.1)); const openW = areaW - 4 * closedW;
+    let ex = x0; const eras = E.map(e => { const w = e[0] === openEra ? openW : closedW; const o = { key: e[0], label: e[1], sub: e[0] === openEra ? e[2] + ' · opened · events by year' : 'counts · click to open', x: ex, w, border: e[0] === openEra ? '#52d3dd' : '#1d2636', bg: e[0] === openEra ? '#0e141e' : 'transparent' }; ex += w; return o; });
+    const strands = ['program', 'witness', 'oversight', 'cover-up']; const laneTop = 60; const laneH = Math.floor((H - 72 - laneTop - 40) / 4);
+    const lanes = strands.map((s, i) => ({ name: s.toUpperCase(), sub: d.l0.filter(n => this.strand(n) === s).length + ' of the 125 · derived from roles', y: laneTop + i * laneH, h: laneH }));
+    const counts = [], events = [], marks = [], years = []; const openE = eras.find(e => e.key === openEra);
+    for (let yv = 2017; yv <= 2026; yv++) years.push({ x: openE.x + Math.round((yv - 2017) / 10 * openE.w), label: String(yv) });
+    strands.forEach((s, si) => eras.forEach(e => { const ns = d.l0.filter(n => this.strand(n) === s && n.era === e.key); if (e.key !== openEra) { counts.push({ x: e.x + 6, y: laneTop + si * laneH + 8, w: e.w - 12, h: 32, n: ns.length }); } else { const rowsAvail = Math.floor((laneH - 30) / 20); const rowEnd = Array(rowsAvail).fill(-1e9); const markCount = {}; ns.sort((a, b) => (a.dateStart || '').localeCompare(b.dateStart || '')).forEach(n => { const yv = +this.yearOf(n) || 2017; const x = e.x + Math.round((yv - 2017) / 10 * e.w) + 4; const w = n.short.length * 6.3 + 20; let r = rowEnd.findIndex(end => x >= end + 6); if (r >= 0 && x + w < e.x + e.w) { rowEnd[r] = x + w; events.push({ href: '#/n/' + n.id, x, y: laneTop + si * laneH + 6 + r * 20, short: n.short, cc: CC[n.cls], border: Component.SH.includes(n.id) ? '#e2a93b' : '#2d3a4e' }); } else { const k = markCount[yv] = (markCount[yv] || 0) + 1; marks.push({ x: x + (k - 1) * 8, y: laneTop + si * laneH + laneH - 14, cc: CC[n.cls] }); } }); } }));
+    out.tl = { status: `912 events in 4 strands · stand-in: the 125 map nodes' start dates (events not in the extract) · strands derived from roles · era 2017-2026 opened · unlabelled events are marks until the year is opened`, eras, years, lanes, counts, events, marks, gutter: gutter - 20, x0, noteW: gutter - 24, note: 'Stand-in data: the 912 events are not in the extract. Strand from roles: concealment→cover-up, oversight→oversight, disclosure→witness, else program. Unlabelled events in an opened year are drawn as marks only when the year is opened one level further.' };
+    // PATENTS
+    const pats = [['US 10,144,532', 'Craft using an inertial mass reduction device', 'granted 2018 · node pais-patent-imrd · T2 to US Navy', true], ['US 10,135,366', '[title — placeholder, from the board]', 'granted 2018', false], ['US 10,322,827', '[title — placeholder, from the board]', 'granted 2019', false], ['US 2019/0058105', '[title — placeholder, from the board]', 'application', false], ['US 2019/0295733', '[title — placeholder, from the board]', 'application', false]];
+    out.patents = pats.map(([num, title, meta, on]) => ({ href: '#/patents/' + num.replace(/\D/g, ''), num, title, meta, border: on ? '#52d3dd' : '#263141', bg: on ? '#101a24' : '#121a26', tc: on ? '#e6edf5' : '#6b7a90', ts: on ? 'normal' : 'italic' }));
+    out.observables = ['Anti-gravity lift', 'Sudden, instantaneous acceleration', 'Hypersonic velocity without signatures', 'Low observability', 'Trans-medium travel'].map((k, i) => ({ n: i + 1, k, note: '[claims and sources for this observable — from the board]' }));
+    out.sheets = Array.from({ length: 11 }, (_, i) => ({ n: i + 1, border: i === 2 && this.state.lightbox ? '#52d3dd' : '#263141' }));
+    out.prosecution = [['FILED', '[application no. — file wrapper]', '[date — file wrapper]', '#52d3dd'], ['REJECTION', 'Examiner rejection', '[date — file wrapper]', '#e2605b'], ['DECLARATION', 'First declaration', '[date — file wrapper]', '#e2a93b'], ['DECLARATION', 'Second declaration', '[date — file wrapper]', '#e2a93b'], ['APPEAL', 'Appeal brief', '[date — file wrapper]', '#52d3dd'], ['GRANTED', 'US 10,144,532', '4 Dec 2018', '#52d3dd']].map(([k, t, date, col], i, a) => ({ k, t, date, col, x: 8 + i * Math.floor(((small ? 700 : wide ? 1500 : 1050) - 16) / a.length), w: Math.floor(((small ? 700 : wide ? 1500 : 1050) - 16) / a.length) - 12 }));
+    out.patCols = small ? '420px 1fr' : wide ? '640px 1fr' : '520px 1fr'; out.obsCols = small ? '1fr' : '1fr'; out.sheetCols = small ? 11 : 6; out.prosH = 90; out.lightbox = this.state.lightbox && screen === 'patents'; out.lbH = H - 160;
+    // EVIDENCE
+    const opt = (ls, on) => ls.map((l, i) => ({ l, b: i === on ? '#52d3dd' : '#263141', c: i === on ? '#52d3dd' : '#8b98ab' }));
+    out.evFilters = [{ k: 'TIER', opts: opt(['T1 · 3,214', 'T2 · 1,394', 'T3 · 512'], 0) }, { k: 'CLASS', opts: opt(['institution', 'program', 'document', 'event', 'legislation', 'person', 'location', 'domain'], -1) }, { k: 'CLUSTER', opts: opt(Object.keys(d.distributions.cluster), -1) }, { k: 'SOURCE DOMAIN', opts: opt(['[from the board]'], -1) }, { k: 'DENIED', opts: opt(['yes · 51 pairs', 'no'], -1) }, { k: 'OPEN QUESTION', opts: opt(['yes · 121', 'no'], -1) }];
+    out.evHead = ['TIER', 'CLASS', 'NODE', 'CLAIM', 'SOURCE', 'DENIED', 'FOIA'];
+    out.evGrid = small ? '34px 70px 200px 1fr 90px 60px 90px' : '40px 90px 280px 1fr 140px 80px 140px';
+    out.evRows = d.l0.filter(n => n.t1 > 0).slice(0, small ? 22 : wide ? 46 : 34).map(n => ({ tier: 'T1', tc: '#52d3dd', cls: n.cls, cc: CC[n.cls], node: n.short, href: '#/n/' + n.id, claim: `[one of ${n.t1} Tier-1 claims on this node — text not in the extract]`, src: '[source]', denied: d.denialPairs.some(p => p.a === n.id || p.b === n.id) ? 'denied' : '', foia: '[request →]' }));
+    out.evNote = 'Rows are one placeholder per map node (real node, real tier count); the build lists every claim. Filter chips are the real distributions in the extract.';
+    out.evCols = small ? '190px 1fr' : '240px 1fr';
+    // REPORT
+    out.reportW = small ? 720 : wide ? 1000 : 860;
+    out.rpt = { type: 'NODE', url: '#/report/n/' + node.id, date: d.generated, title: node.label, sub: `${node.cls} · Tier ${node.tier} · custody ${node.C}/3 · access ${node.A}/3 · disclosure ${node.D}/3 · ${node.dateStart || ''}${node.dateEnd ? ' – ' + node.dateEnd : ''}`, why: node.whyImplicated + ' […]', claims: out.node.claimRows.map((c, i) => ({ tier: c.tier, col: c.tier === 'T1' ? '#0a7c86' : c.tier === 'T2' ? '#9a6b12' : '#6b6f7a', text: c.text, n: i + 2 })), denials: denials.map((x, i) => ({ who: x.who, label: x.label, n: i + 6 })), connCount: connAll.length, connCols: small ? 2 : 3, conns: connAll.slice(0, small ? 18 : wide ? 36 : 27), cites: [{ n: 1, text: 'Dossier narrative · data/the-program.json · node ' + node.id }, { n: 2, text: '[claim source — placeholder]' }, { n: 6, text: '[denial source — placeholder]' }] };
+    return out;
+  }
+}
+</script>
+</body>
+</html>
