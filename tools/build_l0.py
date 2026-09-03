@@ -231,6 +231,35 @@ def build_edges(nodes, adj, pair, L0, depth):
 
 
 # ---------------------------------------------------------------- P8: the bake
+def _sin(a):
+    """sin by range reduction and a fixed Taylor series, using only IEEE basic
+    operations, so the result is bit-identical on every platform.
+
+    The layout below is a chaotic n-body relaxation: a one-ulp difference in a
+    seed position becomes a different map after a few hundred steps. On
+    3 September 2026 a commit built on Windows failed the Linux CI rebuild by
+    exactly that route (wall-clamp 1.5% against 3.6%, extent 1791x1065 against
+    1711x1014): math.cos and math.sin come from the C library, and MSVC's and
+    glibc's differ in the last bit. Addition, multiplication, division and
+    fmod are correctly rounded everywhere; libm's transcendentals are not."""
+    a = math.fmod(a, math.tau)
+    if a > math.pi:
+        a -= math.tau
+    elif a < -math.pi:
+        a += math.tau
+    term = a
+    total = a
+    a2 = a * a
+    for k in range(1, 16):
+        term = -term * a2 / ((2 * k) * (2 * k + 1))
+        total += term
+    return total
+
+
+def _cos(a):
+    return _sin(a + math.pi / 2)
+
+
 def bake(l0ids, node_by_id, direct, summarised):
     """A settled layout over the L0 set alone.
 
@@ -248,7 +277,7 @@ def bake(l0ids, node_by_id, direct, summarised):
     anchors = {}
     for i, c in enumerate(NAMED_CLUSTERS):
         a = (i / len(NAMED_CLUSTERS)) * math.tau - math.pi / 2
-        anchors[c] = (cx + math.cos(a) * 760, cy + math.sin(a) * 470)
+        anchors[c] = (cx + _cos(a) * 760, cy + _sin(a) * 470)
 
     P = [{"id": i, "cluster": node_by_id[i]["cluster"], "x": 0.0, "y": 0.0,
           "vx": 0.0, "vy": 0.0} for i in l0ids]
@@ -265,8 +294,8 @@ def bake(l0ids, node_by_id, direct, summarised):
     for i, p in enumerate([p for p in P if p["cluster"] in anchors]):
         ax, ay = anchors[p["cluster"]]
         ang = i * 2.399                      # golden angle, so seeds never coincide
-        p["x"] = ax + math.cos(ang) * 150
-        p["y"] = ay + math.sin(ang) * 110
+        p["x"] = ax + _cos(ang) * 150
+        p["y"] = ay + _sin(ang) * 110
 
     idx = {p["id"]: i for i, p in enumerate(P)}
     springs = []
@@ -288,7 +317,7 @@ def bake(l0ids, node_by_id, direct, summarised):
                     b = P[j]
                     ex = (b["x"] - a["x"]) / SEP_X
                     ey = (b["y"] - a["y"]) / SEP_Y
-                    el = math.hypot(ex, ey)
+                    el = math.sqrt(ex * ex + ey * ey)
                     if el >= 2:
                         continue
                     if el < 1e-4:
@@ -349,8 +378,9 @@ def bake(l0ids, node_by_id, direct, summarised):
     overlaps = 0
     for i in range(n):
         for j in range(i + 1, n):
-            if math.hypot((P[i]["x"] - P[j]["x"]) / LABEL_W,
-                          (P[i]["y"] - P[j]["y"]) / LABEL_H) < 2:
+            ox = (P[i]["x"] - P[j]["x"]) / LABEL_W
+            oy = (P[i]["y"] - P[j]["y"]) / LABEL_H
+            if math.sqrt(ox * ox + oy * oy) < 2:
                 overlaps += 1
     return P, clamped, overlaps
 
