@@ -41,7 +41,7 @@
 "url": "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "investigative"
 },
 {
@@ -64,12 +64,33 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": "2013-07-17",
+"dateStart": "2012",
+"direction": "in",
+"edgeLabel": "2012 suit dismissed 2013 on the 1976 waiver, timeliness and sovereign immunity",
+"id": "frank-olson-death-1953",
+"l0": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"note": "The District of Columbia granted the Government's motion to dismiss without reaching the merits, while recording that the public record supports many of the allegations pleaded.",
+"sources": [
+{
+"date": "2013-07-17",
+"name": "Olson v. United States, No. 12-1924 (JEB), D.D.C., 17 July 2013",
+"url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1978-01-01",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "Litigation is the only mechanism on this board that can compel a sworn answer from an unwilling government witness, which is why so much effort has gone into it and why the results are so thin. The canonical run is Citizens Against UFO Secrecy v. NSA, in which a FOIA suit reached the D.C. Circuit and the Supreme Court denied certiorari in March 1982, leaving intact NSA's refusal to release the substance of its holdings on the strength of a classified affidavit the plaintiffs never saw. CAUS returned to court against the Department of Defense and reached the Ninth Circuit in 2001. The other documented route is the tort claim: Betty Cash, Vickie Landrum and Colby Landrum sued the United States in the Southern District of Texas over injuries they attributed to a December 1980 encounter, and the case was dismissed in August 1986 on the government's showing that no such craft was operated by any agency. Both patterns illustrate the ceiling - a court will not order the production of a thing the government swears does not exist, and the swearing is itself unreviewable in practice. Scoring high on this domain means an entity brought, defended or decided such a case.",
 "domains": [
@@ -108,6 +129,6 @@
 ],
 "sub": "Adversarial domain - the courtroom as a discovery instrument, and its documented ceiling",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 894 of 1027, score 15). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 817 of 1057, score 19). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D2.",
 "timeline": []
 }

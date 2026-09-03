@@ -172,7 +172,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -339,7 +339,7 @@
 "direction": "in",
 "edgeLabel": "SSCI produced the contractor turn-in language",
 "id": "senate-intelligence",
-"l0": false,
+"l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
 "sources": [
@@ -532,7 +532,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -562,12 +562,6 @@
 "cls": "legislation",
 "id": "pl118-31-sec-7343",
 "label": "P.L. 118-31 Sec. 7343 — the truncated funding limitation",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "senate-intelligence",
-"label": "Senate Select Committee on Intelligence",
 "tier": "B"
 },
 {
@@ -692,6 +686,6 @@
 ],
 "sub": "Division M (Intelligence Authorization Act for FY2024) of S. 2226 as passed by the Senate, 27 Jul 2023; the same text is Sec. 1104 of S. 2103 as reported by SSCI, 22 Jun 2023. Turn-in mandate STRIPPED in conference; enacted as Sec. 7343, Div. G, P.L. 118-31 — a funding limitation only.",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 32 of 1027, score 94). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 32 of 1057, score 94). 10 connections, 4 of them custody/witness/funding/programmatic. Axes C3/A3/D3.",
 "timeline": []
 }

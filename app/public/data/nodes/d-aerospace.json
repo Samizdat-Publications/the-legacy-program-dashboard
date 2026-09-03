@@ -24,6 +24,27 @@
 "cluster": "contractor",
 "connections": [
 {
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Hypersonic boost-glide development across three services on appropriated funding",
+"id": "conventional-prompt-global-strike",
+"l0": false,
+"label": "Conventional Prompt Global Strike",
+"note": "Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding.",
+"sources": [
+{
+"date": "2021-07-16",
+"name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
 "claimTier": 2,
 "cls": "domain",
 "dateEnd": null,
@@ -100,7 +121,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1943-06-01",
-"deg": 3,
+"deg": 4,
 "denials": [
 {
 "by": {
@@ -161,6 +182,6 @@
 ],
 "sub": "Industrial domain - the advanced projects shops where black aircraft and their cover stories are built",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 371 of 1027, score 34). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 298 of 1057, score 38). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D1.",
 "timeline": []
 }

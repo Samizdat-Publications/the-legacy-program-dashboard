@@ -1,0 +1,175 @@
+{
+"A": 2,
+"C": 0,
+"D": 0,
+"band": null,
+"claims": [
+{
+"source": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
+"tier": 1
+},
+{
+"source": "Project Bluebird, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "Its purpose, in the document: 'The purpose of this project is to provide for the immediate establishment of interrogation teams for the operational support of OSO and OPC activities. The teams will utilize the polygraph, drugs, and hypnotism to attain the greatest results in interrogation techniques.' A team is a doctor-psychiatrist, a polygraph-hypnotist and a technician, and the doctors' Washington office is to 'serve as a cover for training, experimentation, and indoctrination purposes in the use of drugs and hypnotism'.",
+"tier": 1
+},
+{
+"source": "Project Bluebird, Attachment A, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"text": "The one-year budget in the attachment totals $65,515.00: $40,800 personnel, $1,025 supplies, $3,190 equipment, $18,000 transportation and $2,500 rent, itemised down to a Keeler polygraph machine and its spare part kit.",
+"tier": 1
+},
+{
+"source": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, section 2, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"text": "The programme's lineage is in the 1977 Senate print: 'The earliest of the CIA's major programs involving the use of chemical and biological agents, Project BLUEBIRD, was approved by the Director in 1950 ... In August 1951, the project was renamed ARTICHOKE.' Responsibility passed in 1952 from the Office of Scientific Intelligence to the Inspection and Security Office, which the same text reads as a shift from studying hostile powers to using the techniques.",
+"tier": 1
+},
+{
+"source": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', CIA Security Office, July 1952, National Security Archive John Marks Collection Box 6, https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf",
+"text": "By July 1952 the Security Office was reporting operational use to the Director: '(a) Subjects were Russian agents suspected of being doubled. (b) Cover was psychiatric-medical. (c) Control methods were by narcosis, by hypnosis, and by combination of both.' The attachment records one interrogation held for about an hour and forty minutes 'with a subsequent total amnesia produced by post-hypnotic suggestion'.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
+"text": "On the Danny Jones Podcast, episode 295, 7 April 2025, at 2:39:56, Jason Jorjani said Project Bluebird was developed by Nazi psychologists brought to the United States under Paperclip, involved experiments on children, and became MK-Ultra in the 1960s. The founding document is dated 5 April 1950, is signed by the Chief of the CIA's own Inspection and Security Staff, names defectors and agents rather than children, and the programme was renamed ARTICHOKE in August 1951, before MKULTRA was authorized in April 1953.",
+"tier": 2
+}
+],
+"cls": "program",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1951-08",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project Bluebird, 5 April 1950; Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": "1950-04-05",
+"direction": "out",
+"edgeLabel": "Compartment created by bypassing the review committee, in writing",
+"id": "d-secrecy",
+"l0": false,
+"label": "Secrecy Law & Classification",
+"note": "The proposal states on its face that it goes directly to the Director rather than through the Projects Review Committee because of the project's sensitivity, and asks that knowledge be held to the absolute minimum number of persons.",
+"sources": [
+{
+"date": "1950-04-05",
+"name": "Project Bluebird, 5 April 1950",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+}
+],
+"tier": "B",
+"type": "behavioral"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1953",
+"dateStart": "1950",
+"direction": "out",
+"edgeLabel": "The 1950 predecessor of the 1953 programme",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "A",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1950-04-05",
+"direction": "out",
+"edgeLabel": "Submitted directly to the DCI, 5 April 1950",
+"id": "roscoe-hillenkoetter",
+"l0": false,
+"label": "Roscoe H. Hillenkoetter",
+"note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+"sources": [
+{
+"date": "1950-04-05",
+"name": "Project Bluebird, 5 April 1950, and its National Security Archive catalogue record",
+"url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": "1951-08",
+"dateStart": "1950-04-05",
+"deg": 4,
+"denials": [],
+"desc": "BLUEBIRD is the documented origin of the CIA's behavioural-control work and the earliest instance on this board of a compartment created by deliberately going round the body that reviews compartments. On 5 April 1950 the Chief of the Inspection and Security Staff submitted it directly to the Director of Central Intelligence rather than through the Projects Review Committee, in writing, on the stated ground of the project's sensitivity and covert nature, and asked that knowledge of it be held to the absolute minimum number of persons. What it bought was two interrogation teams of a psychiatrist, a hypnotist and a technician, working under polygraph cover, with a Washington doctor's office as cover for training and experimentation in drugs and hypnotism, for $65,515 a year. It was renamed ARTICHOKE in August 1951 and passed in 1952 from an intelligence unit to an operating one. By July 1952 the Security Office was reporting to the Director that two suspected Russian double agents had been interrogated under a psychiatric-medical cover using narcosis and hypnosis, one of them left with a total amnesia produced by post-hypnotic suggestion.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "project-bluebird",
+"l0": false,
+"label": "Project BLUEBIRD",
+"locLabel": null,
+"members": null,
+"short": "Project BLUEBIRD",
+"sources": [
+{
+"date": "1950-04-05",
+"name": "Chief, Inspection and Security Staff to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950 (CIA-RDP83-01042R000800010003-1)",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+{
+"date": "2026-09-03",
+"name": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum",
+"url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+},
+{
+"date": "1952-07-14",
+"name": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', July 1952",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf"
+},
+{
+"date": "1977-08-03",
+"name": "Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"sub": "CIA interrogation-team programme using polygraph, drugs and hypnotism; proposed to the DCI 5 April 1950 outside the Projects Review Committee; renamed ARTICHOKE August 1951",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 503 of 1057, score 30). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D0.",
+"timeline": []
+}

@@ -25,6 +25,27 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "in",
+"edgeLabel": "Propaganda is the first named category in the charter",
+"id": "cia-office-of-policy-coordination",
+"l0": false,
+"label": "CIA Office of Policy Coordination",
+"note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
 "cls": "domain",
 "dateEnd": null,
 "dateStart": "1948-08-01",
@@ -106,12 +127,33 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1953-01-17",
-"deg": 4,
+"deg": 6,
 "denials": [],
 "desc": "The use of the UFO subject as a vehicle for deception against a domestic audience is documented at the level of an official recommendation and at the level of a named case. The recommendation is the Robertson Panel's January 1953 proposal for a debunking campaign using mass media, psychiatrists and advertising specialists, explicitly aimed at reducing public susceptibility rather than at establishing what the objects were. The named case is Paul Bennewitz, an Albuquerque physicist living beside Kirtland AFB, who in the early 1980s was fed fabricated documents and staged material by Air Force Office of Special Investigations personnel - most prominently Richard C. Doty, whose later New Mexico State Police personnel file was released under public records law and runs to 321 pages - with the documented effect of destroying his mental health. The dual-use route is exact: a genuine sensitive programme adjacent to a witness generates a security problem, and the cheapest solution is not to silence the witness but to discredit him by feeding him something absurd and letting him repeat it. That mechanism cuts in both directions and must be applied honestly - it explains real disinformation injected into the field, and it is also the most common frame used to dismiss testimony that is not disinformation. Scoring high here means an entity ran, authored or knowingly transmitted deception material.",
 "domains": [
@@ -155,7 +197,7 @@
 ],
 "sub": "Operational domain - deliberate manipulation of belief as a security measure",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 483 of 1027, score 30). 4 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 297 of 1057, score 38). 6 connections, 4 of them custody/witness/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "date": "1953-01-17",

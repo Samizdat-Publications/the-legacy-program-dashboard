@@ -4763,6 +4763,21 @@
 "open": false,
 "source": {
 "domain": "archive.org",
+"text": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "Groves held the command for one year to the day. The Defense Threat Reduction Agency's chronology of its own lineage reads: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.' The same history records that the command stood empty when it was created: 'between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "legacy",
+"denied": false,
+"label": "Armed Forces Special Weapons Project",
+"node": "afswp",
+"open": false,
+"source": {
+"domain": "archive.org",
 "text": "War Department Memorandum No. 850-25-8, para. 6, in Defense's Nuclear Agency 1947-1997, Appendix D, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
 },
@@ -6393,6 +6408,51 @@
 "cls": "person",
 "cluster": "legacy",
 "denied": false,
+"label": "Arthur E. Exon",
+"node": "arthur-e-exon",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Wright-Patterson Air Force Base: The First Century, History Office, Air Force Life Cycle Management Center, Air Force Materiel Command, 2015, Appendix B, p. 44. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+},
+"text": "The Air Force's own base history lists the installation commanders in sequence: 'Colonel Glen McClernon August 1962 / Colonel Arthur E. Exon August 1964 / Colonel Jowell C. Wise December 1965'. Exon held the post as a colonel, from August 1964, and was succeeded in December 1965.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Arthur E. Exon",
+"node": "arthur-e-exon",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Wright-Patterson Air Force Base: The First Century, 2015, searched in full. https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf",
+"url": "https://www.govinfo.gov/content/pkg/GOVPUB-D301-PURL-gpo111353/pdf/GOVPUB-D301-PURL-gpo111353.pdf"
+},
+"text": "The same 76-page installation history names Exon in no other place and records nothing about him beyond the appendix entry.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Arthur E. Exon",
+"node": "arthur-e-exon",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 259, 9 September 2024, 0:37:23 to 0:47:13 and 1:12:05, mapped at research/leads/dannyjones-corpus-13.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 259, 9 September 2024, at 0:37:23 to 0:47:13 and 1:12:05, Whitley Strieber referred to Exon as a general and as the commander of Wright-Patterson, and attributed to him and to Strieber's uncle an account of 1947 material at the installation. The opened Air Force record gives his rank in the post as colonel and carries none of the account.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
 "label": "Lt. Gen. Arthur G. Trudeau",
 "node": "arthur-g-trudeau",
 "open": false,
@@ -6687,6 +6747,21 @@
 "url": "https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf"
 },
 "text": "Classification runs by category rather than by decision. The 1946 Act defines restricted data as 'all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "oversight",
+"denied": false,
+"label": "Atomic Energy Commission",
+"node": "atomic-energy-commission",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+"text": "The Commission gains its first named chairman on this board. The CIA's own declassified chronology records under January 1961: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' McCone went from the Commission to the Directorship of Central Intelligence, and two years later Seaborg was writing to him there on Commission letterhead. No end to the chairmanship is established by any record opened for this pass.",
 "tier": 1
 },
 {
@@ -7762,6 +7837,21 @@
 "node": "battelle",
 "open": true,
 "source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "other",
+"denied": true,
+"label": "Battelle Memorial Institute",
+"node": "battelle",
+"open": true,
+"source": {
 "domain": null,
 "text": "USAspending.gov recipient search, retrieved 12 August 2026",
 "url": null
@@ -8187,6 +8277,66 @@
 "url": "https://cdn.nationalarchives.gov.uk/documents/aug-2009-highlights-guide.pdf"
 },
 "text": "On AREA52 - DEBRIEFED, file 03 of batch 14 (0:50:36 to 1:00:04), the host's own narration says General Wilfred De Brouwer deployed F-16s on the night of 30-31 March 1990 and publicly rejected the mass-hysteria explanation. No record opened for this pass supports the rank, the office as given, or any such public statement; the record that names him gives 'Wilfried de Brouwer, Chief of Operations, Belgian Air Staff'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"cluster": "contractor",
+"denied": false,
+"label": "Bell Aircraft Corporation",
+"node": "bell-aircraft-corporation",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+},
+"text": "Lawrence D. Bell told Talbert: 'Aviation as we know it is on the threshold of amazing new concepts', and 'The Wright Brothers proved that man does not have to be earth-bound. Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "contractor",
+"denied": false,
+"label": "Bell Aircraft Corporation",
+"node": "bell-aircraft-corporation",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "The Herald Tribune series of November 1955 lists 'Bell Aircraft of Buffalo, builders of the first piloted airplane to fly faster than sound and a current jet vertical take-off and landing airplane' among the aircraft industry firms 'now participating or actively interested in gravity'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "contractor",
+"denied": false,
+"label": "Bell Aircraft Corporation",
+"node": "bell-aircraft-corporation",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Talbert, New York Herald Tribune, 22 November 1955, p. 1 and caption. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+},
+"text": "The same article reports that Bell's company had in the preceding days made the first powered flights with its new Bell X-2 rocket plane, and that it was testing a jet vertical-rising-and-landing aircraft. Its photograph caption names three Air Force test pilots with Bell: Lt. Col. Frank J. Everest, Maj. Charles Yeager and Maj. Arthur Murray.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "contractor",
+"denied": false,
+"label": "Bell Aircraft Corporation",
+"node": "bell-aircraft-corporation",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:35:18, Jason Reza Jorjani named Bell alongside Martin as a second company making the same public electrogravitics claims, and dated the claims to 1953. The opened articles are dated November 1955, and the words attributed to Bell in them do not use the term electrogravitics.",
 "tier": 2
 },
 {
@@ -8911,6 +9061,96 @@
 },
 {
 "cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": "wikileaks.org",
+"text": "WikiLeaks, The Podesta Emails, email id 31721, 'Leslie Kean book - Blue Book', https://wikileaks.org/podesta-emails/emailid/31721",
+"url": "https://wikileaks.org/podesta-emails/emailid/31721"
+},
+"text": "In a separate email of 6 March 2015 Fish relays a claim that Project Blue Book continued after 1970, concluding 'if true, Blue Book was not disbanded - only the outer layer of the onion (the \"public information layer) was stripped away in 1970.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": "wikileaks.org",
+"text": "WikiLeaks, The Podesta Emails, email id 30433, 'Fwd: Leslie Kean book - DSP program', https://wikileaks.org/podesta-emails/emailid/30433",
+"url": "https://wikileaks.org/podesta-emails/emailid/30433"
+},
+"text": "In an email forwarded by Podesta to Leslie Kean on 6 March 2015 under the subject 'Leslie Kean book - DSP program', Bob Fish wrote: 'One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": "wikileaks.org",
+"text": "WikiLeaks, The Podesta Emails, email id 30433, https://wikileaks.org/podesta-emails/emailid/30433",
+"url": "https://wikileaks.org/podesta-emails/emailid/30433"
+},
+"text": "In the same email Fish qualifies the claim: 'While I was never fully briefed into the DSP operation directly, I was introduced to them as the US prepared for Operation Desert Shield and Desert Storm', and the Fastwalker detection he relays is a remark made to him at lunch by a member of that group.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": "wikileaks.org",
+"text": "WikiLeaks, The Podesta Emails, email id 18724, 'Re: Leslie Kean book comment', https://wikileaks.org/podesta-emails/emailid/18724",
+"url": "https://wikileaks.org/podesta-emails/emailid/18724"
+},
+"text": "Podesta's own reply to Fish the previous day was declining and non-committal in full: 'Thx for the note. Hard for me follow up at this moment but I will keep your contact information.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": "wikileaks.org",
+"text": "WikiLeaks, The Podesta Emails, corpus search for 'Bob Fish', https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22",
+"url": "https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22"
+},
+"text": "The exchange runs to six emails between 5 and 7 March 2015, ids 54211, 47433, 36957, 31721, 30433 and 18724, and no speed figure and no date in the 1980s appears in any of the three opened in full.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Bob Fish",
+"node": "bob-fish",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:52:23, the guest who identifies himself only as UAP Gerb cited the Fish and Podesta emails for the claim that the Defense Support Program tracked UFOs in the 1980s at 22,000 mph. The three emails opened in full carry no speed figure and no date in the 1980s: Fish dates the episode to the run-up to Desert Shield and Desert Storm and writes in March 2015 that it is now 24 years later, which puts it in 1990 or 1991, and he says of himself that he was never fully briefed into the DSP operation directly.",
+"tier": 2
+},
+{
+"cls": "person",
 "cluster": "other",
 "denied": false,
 "label": "Adm. Bobby Ray Inman",
@@ -8962,6 +9202,21 @@
 "node": "bobby-ray-inman",
 "open": false,
 "source": {
+"domain": "data.sec.gov",
+"text": "SEC EDGAR company filing index, CIK 0000104030, https://data.sec.gov/submissions/CIK0000104030.json ; The Wackenhut Corporation DEF 14A filed 31 March 1999, https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt ; DEF 14A for the 1998 annual meeting and DEFM14A filed 10 April 2002, https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt",
+"url": "https://data.sec.gov/submissions/CIK0000104030.json"
+},
+"text": "He is not among the directors of The Wackenhut Corporation in any proxy statement EDGAR holds. The proxy for the annual meeting of 7 May 1999 lists twelve directors by name, age and year of first election, among them Julius W. Becton Jr., Benjamin R. Civiletti, Paul X. Kelley, Thomas P. Stafford and George R. Wackenhut, and the name Inman appears nowhere in it. It appears nowhere in the proxy for the 1998 annual meeting or in the 2002 merger proxy either. The corporation reported under CIK 0000104030, SIC 7381; its earliest filing of any kind is dated 24 March 1994 and its earliest proxy statement is a preliminary 14A of 24 March 1997, so no proxy exists on EDGAR for any earlier year and the board's composition before 1997 is unestablished in either direction.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "Adm. Bobby Ray Inman",
+"node": "bobby-ray-inman",
+"open": false,
+"source": {
 "domain": "www.sec.gov",
 "text": "Science Applications International Corporation, DEF 14A filed 28 May 2003, SEC EDGAR accession 0001047469-03-019902, https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm",
 "url": "https://www.sec.gov/Archives/edgar/data/353394/000104746903019902/a2110788zdef14a.htm"
@@ -8983,6 +9238,36 @@
 },
 "text": "The directorship is independently on file as a Section 16 insider report: SEC Form 4 for INMAN, BOBBY R, statement for 10 April 2003, issuer Science Applications International Corporation, with the 'Director' box checked and 'Form filed by One Reporting Person'.",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "Adm. Bobby Ray Inman",
+"node": "bobby-ray-inman",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "other",
+"denied": false,
+"label": "Adm. Bobby Ray Inman",
+"node": "bobby-ray-inman",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "This node's unresolved line on a National Underwater Reconnaissance Office stays as written. A third corpus running has failed to open any record of the office: nro.gov and nsa.gov returned HTTP 403, irp.fas.org has no NURO page, the govinfo search API returned a count of zero for the phrase, and the strings NURO and National Underwater Reconnaissance occur nowhere in the fifty released pages of the CIA's own AZORIAN history.",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -11236,6 +11521,81 @@
 },
 {
 "cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Gen. Charles P. Cabell",
+"node": "charles-p-cabell",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "FRUS, 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+"text": "He held the Air Force post in the earlier period too. The 1945-1950 volume's list of persons carries him without dates as 'Director of Intelligence, Office of the Deputy Chief of Staff, U.S. Air Force; member, Intelligence Advisory Committee'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Gen. Charles P. Cabell",
+"node": "charles-p-cabell",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+"text": "The CIA's own declassified chronology closes the CIA post: '27 DEC. Lt. Gen. C.P. Cabell resigns as DDCI (effective 31 Jan 62)', and '9 MAR. Maj. Gen. Marshall S. Carter appointed DDCI, succeeding Cabell'. The same volume records that in December 1961 'DDCI Cabell named CIA member' when USIB membership was expanded that month.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Gen. Charles P. Cabell",
+"node": "charles-p-cabell",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+},
+"text": "The Department of State's list of persons for the intelligence volume gives both offices: 'Cabell, General Charles P., USAF, Director of Intelligence, Office of the Deputy Chief of Staff from 1951 to 1953; Intelligence Advisory Committee, Deputy Director of Central Intelligence from 1953 to 1962.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Gen. Charles P. Cabell",
+"node": "charles-p-cabell",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading room document 0000015305, https://archive.org/details/cia-readingroom-document-0000015305",
+"url": "https://archive.org/details/cia-readingroom-document-0000015305"
+},
+"text": "The board already cites a letter he sent to Donald Keyhoe. The reading room's own catalogue entry for it reads 'UNTITLED (TO DONALD KEYHOE FROM C P CABELL ACKNOWLEDGING HIS LETTER OF MARCH 1', reading-room date 5 February 1958. The scan's OCR is close to unusable: the signature block resolves only far enough to read C. P. Cabell over the title Deputy Director, and no sentence of the body is legible. Nothing is quoted from it here.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Gen. Charles P. Cabell",
+"node": "charles-p-cabell",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:24:32 to 1:25:21; contradicted against FRUS, 1950-1955, The Intelligence Community, List of Persons, https://history.state.gov/historicaldocuments/frus1950-55Intel/persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+},
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:24:32, Matthew Ehret said Project Blue Book was launched under 'CIA Deputy Director Charles Cabell' at the urging of Sir Henry Tizard's UK flying saucer working party, and that Cabell was fired by John F. Kennedy in 1961. The opened records contradict the office: at Blue Book's launch in March 1952 he was the Air Force's Director of Intelligence, and he joined CIA as Deputy Director only in 1953. The CIA's own chronology records a resignation, not a dismissal, on 27 December 1961 effective 31 January 1962.",
+"tier": 2
+},
+{
+"cls": "person",
 "cluster": "oversight",
 "denied": false,
 "label": "Christopher A. Coons",
@@ -11728,6 +12088,261 @@
 },
 "text": "CIA's stated U-2/OXCART explanation is an admission of deliberate false attribution: the Agency states that it knew a substantial fraction of reports were its own aircraft and permitted the Air Force to issue natural-phenomena explanations instead. Reasoning: the explanation only works if the Agency withheld the true cause from the public explanation channel it was coordinating with.",
 "tier": 3
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 10/2, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+"text": "It is written under the residual clause of the 1947 Act: the Council directs the creation 'under the authority of Section 102(d)(5) of the National Security Act of 1947'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 10/2, National Security Council Directive on Office of Special Projects, 18 June 1948, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+"text": "The charter creates the office by that name: 'A new Office of Special Projects shall be created within the Central Intelligence Agency to plan and conduct covert operations; and in coordination with the Joint Chiefs of Staff to plan and prepare for the conduct of such operations in wartime.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 10/2, 18 June 1948, paragraph 5, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+"text": "The definition is a definition of deniability. Covert operations are those 'so planned and executed that any US Government responsibility for them is not evident to unauthorized persons and that if uncovered the US Government can plausibly disclaim any responsibility for them', and the named categories are 'propaganda, economic warfare; preventive direct action, including sabotage, anti-sabotage, demolition and evacuation measures; subversion against hostile states'. Espionage, counter-espionage and 'cover and deception for military operations' are expressly excluded.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "NSC 10/2, 18 June 1948, paragraph 3.c, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 292, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+"text": "The office was built to sit apart inside its own agency: 'The Chief of the Office of Special Projects shall report directly to the Director of Central Intelligence. For purposes of security and of flexibility of operations, and to the maximum degree consistent with efficiency, the Office of Special Projects shall operate independently of other components of Central Intelligence Agency.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+"text": "The operating name and the first officer come from the same volume's list of persons: 'Wisner, Frank G., Deputy Assistant Secretary of State for the Occupied Areas, 1947-1948; Assistant Director for Policy Coordination, Central Intelligence Agency, from September 1, 1948.' George F. Kennan and John Magruder are recorded as senior consultants to the Office of Policy Coordination representing the Secretary of State and the Secretary of Defense respectively, both from September 1948.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Office of Policy Coordination",
+"node": "cia-office-of-policy-coordination",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "Danny Jones Podcast #406, 'They Want to Replace God', 19 June 2026, at 1:25:21 to 1:31:56; tested against NSC 10/2, https://history.state.gov/historicaldocuments/frus1945-50Intel/d292",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+},
+"text": "On the Danny Jones Podcast #406, 19 June 2026, at 1:29:15 to 1:31:56, Matthew Ehret said the office staffed NICAP's leadership and that the founder of the National Enquirer worked in it for fourteen months before founding the paper, and at 1:25:21 that Richard Bissell headed it. No record opened here bears on any of the three. The only officer named in the opened records is Frank G. Wisner, from 1 September 1948.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"node": "cia-overhead-reconnaissance-history-1992",
+"open": false,
+"source": {
+"domain": "nsarchive2.gwu.edu",
+"text": "Foreword by J. Kenneth McDonald, CIA History Staff, 1992. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+},
+"text": "Its Foreword records a records-recovery claim of the Agency's own: the study 'is the only history of this program based upon both full access to CIA records and extensive classified interviews of its participants', and 'The authors have found records that were nearly irretrievably lost'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"node": "cia-overhead-reconnaissance-history-1992",
+"open": false,
+"source": {
+"domain": "nsarchive2.gwu.edu",
+"text": "Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+},
+"text": "The Preface names the record sets the authors used: 'the records of the Director of Central Intelligence, the Office of Special Activities in the Directorate of Science and Technology, and the Intelligence Community Staff, along with documents from the Eisenhower Presidential Library in Abilene, Kansas, and additional interviews.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"node": "cia-overhead-reconnaissance-history-1992",
+"open": false,
+"source": {
+"domain": "nsarchive2.gwu.edu",
+"text": "Pedlow and Welzenbach, The Central Intelligence Agency and Overhead Reconnaissance, CIA History Staff, 1992, Preface. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Cover-Contents-Foreword-Preface.pdf"
+},
+"text": "The study states its own span: 'The Agency's manned overhead reconnaissance program lasted 20 years. It began with President Eisenhower's authorization of the U-2 project in late 1954 and ended with the transfer of the remaining Agency U-2s to the Air Force in 1974.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"node": "cia-overhead-reconnaissance-history-1992",
+"open": false,
+"source": {
+"domain": "nsarchive2.gwu.edu",
+"text": "Index p. 20, Appendices and Bibliography pp. 7 and 29, Chapter 6 p. 2, Chapter 2 p. 32. https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/docs/U2%20-%20Index.pdf"
+},
+"text": "The study's index carries the entry 'Norton, Garrison | 14-15, 31, 70, 260, 331' and no entry for Norton Air Force Base. Every occurrence of the string Norton across the front matter, chapters 2, 6 and 7, the index and the appendices is Garrison Norton, the Navy Assistant Secretary for Research and Development, whom the bibliography records being interviewed by Welzenbach on 23 May 1983.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"node": "cia-overhead-reconnaissance-history-1992",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 415, 20 July 2026, 0:07:39 to 0:08:29, mapped at research/leads/dannyjones-corpus-09.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 415, 20 July 2026, at 0:07:39 to 0:08:29, TD Barnes said the CIA's Area 51 records went to Norton Air Force Base after the 1979 handover, were lost there, and that the Agency had to rebuild its own history from a crowdsourced website he helped create. The Agency's published history of those programmes contains no Norton Air Force Base, was completed in 1992, and states that it was built from CIA record sets and classified interviews.",
+"tier": 2
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": "sgp.fas.org",
+"text": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. No. 01-01342 (EGS), 16 August 2001, https://sgp.fas.org/news/2001/08/zaid.html",
+"url": "https://sgp.fas.org/news/2001/08/zaid.html"
+},
+"text": "Mark S. Zaid was attorney of record for the plaintiff in Danny B. Stillman v. Department of Energy, United States District Court for the District of Columbia, Civil Action No. 01-01342 (EGS), and stated in his declaration of 16 August 2001 that he specialises in litigating national security cases including those involving the First Amendment.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 2018/11/28, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+},
+"text": "The Board's released guidance states: Please allow at least 30 working days for completion of the review process.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+},
+"text": "The released item includes an internal document dated 17 April 2013 headed Prepublication Review Procedures and marked SECRET//CIA INTERNAL USE ONLY//NOFORN, describing manuscript flow through a case assigner, a Team Lead, equity-holding Information Review Officers and a second reviewer.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+},
+"text": "The same guidance provides that if the Board upholds its decision on reconsideration the author may formally appeal in writing to the Board's Chairman within 30 days, and that such appeals go to the Agency's Associate Deputy Director for a final Agency decision.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+},
+"text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "ic",
+"denied": false,
+"label": "CIA Prepublication Classification Review Board",
+"node": "cia-prepublication-classification-review-board",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 329, 5 September 2025, at 0:05:01 to 0:08:16, Andrew Bustamante said his manuscript was submitted in 2021, declared classified by CIA in 2022, and approved roughly three weeks after suit was threatened. No CIA record of that review was opened for this node, and a book's own clearance page is not a record.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -12868,6 +13483,96 @@
 },
 "text": "The Plan expressly covered postponed 'recovered technologies of unknown origin, and biological evidence for non-human intelligence,' not merely records.",
 "tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": "www.everycrsreport.com",
+"text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+},
+"text": "It is funded on the visible budget: 'The Navy received $512 million for this program in FY2020 and requested $1.1 billion for FY2021; Congress appropriated $766.6 million for FY2021. The Navy has requested $1.4 billion for FY2022.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": "www.everycrsreport.com",
+"text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+},
+"text": "The Air Force glide vehicle flew on decommissioned ICBM stages: the third HTV-2 vehicle was launched on a 'Minotaur IV rocket, in its \"lite\" configuration, with only the three Peacekeeper stages.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": "www.everycrsreport.com",
+"text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+},
+"text": "The Army glide vehicle flew on a recycled submarine-missile stack: the Advanced Hypersonic Weapon 'used the strategic targets system (STARS) booster stack, which is derived from the Navy's Polaris ballistic missile.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": "www.everycrsreport.com",
+"text": "Congressional Research Service, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues, R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+},
+"text": "The mission and the timescale: 'The United States sought to develop systems with intermediate or long range, so that they could attack targets around the world in under an hour.' The report adds that 'The Air Force and Navy have both pursued programs that would lead to the deployment of conventional warheads on their long-range ballistic missiles.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": "www.everycrsreport.com",
+"text": "CRS R41464, 16 July 2021, https://www.everycrsreport.com/reports/R41464.html",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+},
+"text": "The programme has a documented start and a documented sponsor: 'In 2003, the Air Force and DARPA (the Defense Advanced Research Projects Agency) initiated a program, known as FALCON (force application and launch from continental United States).'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "other",
+"denied": false,
+"label": "Conventional Prompt Global Strike",
+"node": "conventional-prompt-global-strike",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 224, 19 February 2024, between 3:03:15 and 3:04:55, Daniel Sheehan named Prompt Global Strike as an effort to use reverse-engineered craft propulsion for a two-minute missile strike into Russia or China, tied to the congressional districts containing Wright-Patterson Air Force Base and Redstone Arsenal. The CRS report contradicts both halves: it traces every booster to an existing American ballistic missile and states the goal as striking targets in under an hour.",
+"tier": 2
 },
 {
 "cls": "event",
@@ -15927,6 +16632,36 @@
 "url": null
 },
 "text": "DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "other",
+"denied": false,
+"label": "Defense Advanced Research Projects Agency",
+"node": "darpa",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+"text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "other",
+"denied": false,
+"label": "Defense Advanced Research Projects Agency",
+"node": "darpa",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+"text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
 "tier": 1
 },
 {
@@ -21781,6 +22516,66 @@
 },
 {
 "cls": "document",
+"cluster": "legacy",
+"denied": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"node": "doc-341-smw-history-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Space Wing FOIA release of 14 June 2001, full text, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "No launch control officer is named anywhere in the eighty-seven page release: the only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"node": "doc-341-smw-history-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, pp 38 and 40, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "The history records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"node": "doc-341-smw-history-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, p 38, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "The same history states at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "legacy",
+"denied": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"node": "doc-341-smw-history-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, p 32, in the 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "The wing history records that on 16 March 1967 at 0845 all sites in Echo Flight shut down with No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assemble, that all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and that no other Wing I configuration lost alert at that time.",
+"tier": 1
+},
+{
+"cls": "document",
 "cluster": "oversight",
 "denied": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
@@ -22423,6 +23218,21 @@
 },
 "text": "A classified evaluation whose scope cannot be verified publicly cannot discharge the oversight function it appears to discharge; DODIG-2023-109 functions in the public record as an assurance rather than as evidence. Reasoning: the findings, the components reviewed and the SAP access obtained are all withheld.",
 "tier": 3
+},
+{
+"cls": "event",
+"cluster": "oversight",
+"denied": false,
+"label": "DoD special access programme governance change, 5 January 1994",
+"node": "dod-sap-reform-1994",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
 },
 {
 "cls": "event",
@@ -24482,7 +25292,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": false,
+"denied": true,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -24497,7 +25307,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": false,
+"denied": true,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -24512,7 +25322,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": false,
+"denied": true,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -24527,7 +25337,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": false,
+"denied": true,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -24542,7 +25352,7 @@
 {
 "cls": "person",
 "cluster": "media",
-"denied": false,
+"denied": true,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "node": "donald-keyhoe",
 "open": false,
@@ -28665,6 +29475,111 @@
 "tier": 3
 },
 {
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Private Law 94-126, 90 Stat. 3006 (1976), quoted in full in Olson v. United States, No. 12-1924 (JEB), D.D.C., memorandum opinion of 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+"url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+},
+"text": "Congress compensated the family by private statute. Private Law 94-126, 90 Stat. 3006 (1976), directs payment of 'the sum of $187,500 each to Alice W. Olson, Lisa Olson Hayward, Eric Olson, and Nils Olson, in full settlement of all of their claims against the United States arising out of the death of Doctor Frank R. Olson in November 1953, if all of them waive any and all rights arising out of such death.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "www.presidency.ucsb.edu",
+"text": "Gerald R. Ford, Statement on Signing the Bill Providing for the Relief of the Survivors of Dr. Frank R. Olson, 12 October 1976, https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson",
+"url": "https://www.presidency.ucsb.edu/documents/statement-signing-the-bill-providing-for-the-relief-the-survivors-dr-frank-r-olson"
+},
+"text": "President Ford signed the bill on 12 October 1976 and stated the administration's own position on the amount: 'Legislation to appropriate $1,250,000 to compensate the wife and three children of Dr. Olson for his death was supported by this administration. However, the Congress approved a measure calling for the payment of a total of $750,000 to these survivors.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Eric Olson and Nils Olson v. United States of America, Civil Action No. 12-1924 (JEB), United States District Court for the District of Columbia, memorandum opinion filed 17 July 2013, https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf",
+"url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_12-cv-01924/pdf/USCOURTS-dcd-1_12-cv-01924-0.pdf"
+},
+"text": "The 2012 suit was brought in the District of Columbia, not Maryland, and was dismissed in 2013 without reaching the merits: 'Concluding that most of the allegations are both untimely and waived by a prior settlement agreement, and that any timely or preserved claims fall outside of the United States' waiver of sovereign immunity, the Court will grant the Government's Motion.' The same opinion records that 'the skeptical reader may wish to know that the public record supports many of the allegations that follow, farfetched as they may sound.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "Report to the President by the Commission on CIA Activities within the United States, June 1975, chapter 16, pp. 227-228, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+"url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+},
+"text": "The Rockefeller Commission's June 1975 report disclosed the death without naming him: 'on one occasion during the early phases of this program (in 1953), LSD was administered to an employee of the Department of the Army without his knowledge ... Several days later, he jumped from a tenth floor window of his room and died as a result.' Its footnote to that passage reads: 'There are indications in the few remaining Agency records that this individual may have had a history of emotional instability.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977 (Turner statement and Appendix B); Rockefeller Commission report, June 1975; Ford signing statement, 12 October 1976; Olson v. United States, D.D.C., 17 July 2013, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The four opened records do not agree. The Rockefeller Commission and President Ford give a tenth floor window; the Church Committee text in the 1977 Senate print gives a tenth story window of the Statler Hotel and the death as 27 November 1953; Ford and the 2012 complaint give 28 November; the complaint gives thirteen stories at 2:30 a.m. The CIA told the Senate in 1977 that he 'leaped to his death from a hotel room window in New York City about a week after having unwittingly consumed LSD'.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "Report to the President by the Commission on CIA Activities within the United States, June 1975, p. 227, https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf",
+"url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+},
+"text": "The same report records the ruling that produced death benefits and the discipline that followed: 'The General Counsel ruled that the death resulted from \"circumstances arising out of an experiment undertaken in the course of his official duties for the United States Government,\" thus ensuring his survivors of receiving certain death benefits. Reprimands were issued by the Director of Central Intelligence to two CIA employees responsible for the incident.' The 2012 complaint states the opposite on the second point, that the internal investigation issued no formal reprimands.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"node": "frank-olson-death-1953",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 100, 1 July 2021, 2:10:37 to 2:11:31",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 2:10:37, Tom O'Neill said Eric Olson has spent his life arguing his father was thrown from a window at the 'Statler Hilton' in New York in 1953 rather than having jumped, and that the government's own position is that Olson was used in an experiment but died by suicide. The opened records name the Statler Hotel, and the murder allegation is the 2012 complaint's, dismissed in 2013 on timeliness, waiver and sovereign immunity rather than on its truth.",
+"tier": 2
+},
+{
 "cls": "person",
 "cluster": "media",
 "denied": false,
@@ -29367,6 +30282,81 @@
 "url": "https://www.gao.gov/high-risk-list"
 },
 "text": "GAO reports that overall High-Risk List efforts have generated nearly $759 billion in savings.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"node": "gao-nsiad-88-152",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "Creation authority is held by four people: 'Only the three service secretaries and Deputy Under Secretary of Defense for Policy are authorized to establish special access programs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"node": "gao-nsiad-88-152",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"node": "gao-nsiad-88-152",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"node": "gao-nsiad-88-152",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"node": "gao-nsiad-88-152",
+"open": false,
+"source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
 "tier": 1
 },
 {
@@ -30637,6 +31627,21 @@
 "node": "george-trimble",
 "open": false,
 "source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "George S. Trimble",
+"node": "george-trimble",
+"open": false,
+"source": {
 "domain": "physics.unc.edu",
 "text": "History of the Institute of Field Physics (1955-1959), UNC Physics and Astronomy department history https://physics.unc.edu/home/department-history/section-ii/",
 "url": "https://physics.unc.edu/home/department-history/section-ii/"
@@ -30937,6 +31942,36 @@
 "node": "gerb-battelle-investigation",
 "open": false,
 "source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"node": "gerb-battelle-investigation",
+"open": false,
+"source": {
+"domain": null,
+"text": "Citation list published in the video description, 18 February 2024",
+"url": null
+},
+"text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "research",
+"denied": false,
+"label": "UAP Gerb - Battelle Memorial Institute investigation",
+"node": "gerb-battelle-investigation",
+"open": false,
+"source": {
 "domain": null,
 "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
 "url": null
@@ -30957,21 +31992,6 @@
 "url": null
 },
 "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
-"tier": 2
-},
-{
-"cls": "document",
-"cluster": "research",
-"denied": false,
-"label": "UAP Gerb - Battelle Memorial Institute investigation",
-"node": "gerb-battelle-investigation",
-"open": false,
-"source": {
-"domain": null,
-"text": "Citation list published in the video description, 18 February 2024 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
 "tier": 2
 },
 {
@@ -31500,6 +32520,81 @@
 "tier": 3
 },
 {
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Glenn T. Seaborg",
+"node": "glenn-t-seaborg",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading room document CIA-RDP80B01676R000700150004-7, 25 October 1961, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r000700150004-7"
+},
+"text": "A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Glenn T. Seaborg",
+"node": "glenn-t-seaborg",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7"
+},
+"text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Glenn T. Seaborg",
+"node": "glenn-t-seaborg",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+"text": "The CIA's own declassified chronology dates the appointment and its confirmation: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' The entry sits under the volume's period heading for January 1961.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Glenn T. Seaborg",
+"node": "glenn-t-seaborg",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading room document CIA-RDP80B01676R002800020014-7, 20 March 1963, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r002800020014-7"
+},
+"text": "The same letter points the Director of Central Intelligence at the report's fallout material: 'In connection with the Military Applications section, you may find Appendix 15--Environmental Contamination from Nuclear Explosives--of interest, since it concerns fallout data obtained from recent nuclear detonations.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Glenn T. Seaborg",
+"node": "glenn-t-seaborg",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast #181, 'Explosive New Bob Lazar Evidence & Area 51 Secrets Revealed', 16 April 2023, at 3:24 to 4:16",
+"url": null
+},
+"text": "On the Danny Jones Podcast #181, 16 April 2023, at 3:24, Jeremy Rys cited Seaborg's island-of-stability prediction for superheavy elements against the claim that Bob Lazar predicted element 115. The publication he names was not opened for this node, and the lead map for that episode gives its date inconsistently as May 1969 in one row and May 1989 in another. Nothing here resolves it.",
+"tier": 2
+},
+{
 "cls": "document",
 "cluster": "other",
 "denied": true,
@@ -31827,6 +32922,21 @@
 "url": null
 },
 "text": "GRILL FLAME and its successors were classified US government programmes handled primarily by DIA and CIA from the 1970s to 1995, whose documentation CIA compiled and released as the STARGATE collection.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "GRILL FLAME",
+"node": "grill-flame",
+"open": false,
+"source": {
+"domain": "www.governmentattic.org",
+"text": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+"url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+},
+"text": "The programme's origin and its transfer are both dated in INSCOM's own history. The FY 1981 Annual Historical Review records that 'Project GRILL FLAME originated as a specially controlled and compartmented activity under the direct supervision of the ACSI, DA, and in coordination with other DOD agencies concerned with related activity. ACSI orally tasked HQ INSCOM to evaluate Project GRILL FLAME in October 1978', and that 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The section is partly withheld under 5 U.S.C. 552(b)(1) and (b)(3) and its source note names 'IA(HQ) Form 32, Formalization of Project GRILL FLAME (10 Sep 81) (S/NOFORN)'.",
 "tier": 1
 },
 {
@@ -32938,6 +34048,81 @@
 },
 "text": "Reid's insistence on a bigoted access list for 'engineering advanced technologies' and 'involvement of private contractors' indicates he had been told something about reverse-engineering activity that does not appear anywhere in the unclassified DIRD deliverables — the reasoning being that no SAP is needed to protect 38 unclassified academic literature reviews, and DIA said exactly that in refusing him.",
 "tier": 3
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Harry S. Truman",
+"node": "harry-s-truman",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947, Public Law 80-253, 61 Stat. 495, sec. 102(d)(5), https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "Section 102(d)(5) of the same Act is the residual authority every later covert-action directive is written under: the Agency is 'to perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Harry S. Truman",
+"node": "harry-s-truman",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+},
+"text": "The 22 January 1946 directive is signed by him and creates the office by fiat: 'It is my desire, and I hereby direct, that all Federal foreign intelligence activities be planned, developed and coordinated so as to assure the most effective accomplishment of the intelligence mission related to the national security.' The Director of Central Intelligence 'shall be designated by me'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Harry S. Truman",
+"node": "harry-s-truman",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons, https://history.state.gov/historicaldocuments/frus1945-50Intel/persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+},
+"text": "The Department of State's own list of persons gives the office and its start: 'Truman, Harry S., President of the United States from April 12, 1945'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Harry S. Truman",
+"node": "harry-s-truman",
+"open": false,
+"source": {
+"domain": "history.state.gov",
+"text": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946, FRUS 1945-1950, Emergence of the Intelligence Establishment, Document 71, https://history.state.gov/historicaldocuments/frus1945-50Intel/d71",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+},
+"text": "The same directive draws the domestic line the board's later argument keeps testing: 'No police, law enforcement or internal security functions shall be exercised under this directive', and it makes the Authority and the Director 'responsible for fully protecting intelligence sources and methods'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Harry S. Truman",
+"node": "harry-s-truman",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "National Security Act of 1947, Public Law 80-253, ch. 343, 61 Stat. 495, secs. 101(a), 102(a), 201(a), approved 26 July 1947, https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf",
+"url": "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf"
+},
+"text": "The statute approved on 26 July 1947 creates, in one instrument, the Council, the Agency and the military establishment: 'There is hereby established a council to be known as the National Security Council'; 'There is hereby established under the National Security Council a Central Intelligence Agency with a Director of Central Intelligence, who shall be the head thereof'; 'There is hereby established the National Military Establishment, and the Secretary of Defense shall be the head thereof.'",
+"tier": 1
 },
 {
 "cls": "institution",
@@ -37117,6 +38302,51 @@
 "node": "institute-of-field-physics",
 "open": false,
 "source": {
+"domain": "edition-open-sources.org",
+"text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "Institute of Field Physics (UNC Chapel Hill)",
+"node": "institute-of-field-physics",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "Institute of Field Physics (UNC Chapel Hill)",
+"node": "institute-of-field-physics",
+"open": false,
+"source": {
+"domain": "edition-open-sources.org",
+"text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
+"text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "Institute of Field Physics (UNC Chapel Hill)",
+"node": "institute-of-field-physics",
+"open": false,
+"source": {
 "domain": "physics.unc.edu",
 "text": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025; checked against History of the Institute of Field Physics (1955-1959), https://physics.unc.edu/department-history/section-ii/",
 "url": "https://physics.unc.edu/department-history/section-ii/"
@@ -40470,6 +41700,81 @@
 "tier": 2
 },
 {
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"node": "john-marks-foia-f-76-374",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The Agency's own memorandum names the request and the mechanism: 'As a result of John Marks FOIA request (F-76-374), all of the MKULTRA material in OTS possession was reviewed for possible release to him. Following that review, the OTS material in the Retired Records Center was searched. It was during that latter search that the subproject files were located among the retired records of the OTS Budget and Fiscal Section.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"node": "john-marks-foia-f-76-374",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"node": "john-marks-foia-f-76-374",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The recovered boxes included the programme's founding paper. The 22 June 1977 memorandum notes that 'the original memorandum setting up MKULTRA, signed [by] Mr. Dulles, is also among these documents.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"node": "john-marks-foia-f-76-374",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Memorandum for the DDCI, 22 June 1977, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The same memorandum records that the case was in litigation and sets the order of notification: 'The MARKS case is in litigation and we are committed to advise Mr. Marks of the existence of these files shortly, and to deliver the releasable material to his attorneys by 31 July.' Its recommended actions are to release sanitized material to his attorneys as required by FOIA litigation and to 'Inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks' attorneys.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "oversight",
+"denied": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"node": "john-marks-foia-f-76-374",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:11:04 to 1:12:46",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:11:04 to 1:12:46, Tom O'Neill described John Marks as a State Department official who found MKULTRA's surviving financial records, blew the whistle and went to Congress. The CIA memorandum reprinted in the 1977 hearing print says the search and the finding were done inside the Agency in response to his FOIA request, and that the Agency was advised to inform the Senate Select Committee before informing his attorneys.",
+"tier": 2
+},
+{
 "cls": "person",
 "cluster": "oversight",
 "denied": false,
@@ -40993,6 +42298,36 @@
 },
 "text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Joseph Weber",
+"node": "joseph-weber",
+"open": false,
+"source": {
+"domain": "edition-open-sources.org",
+"text": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+},
+"text": "The conference report's participants list prints 'Weber, J. | University of Maryland'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Joseph Weber",
+"node": "joseph-weber",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 318, 28 July 2025, 1:02:34, mapped at research/leads/dannyjones-corpus-19.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 318, 28 July 2025, at 1:02:34, Jeremy Rys named Weber among the attendees of the 1957 Chapel Hill conference and credited his Weber bars as foundational to LIGO. The conference report confirms his presence at Chapel Hill in January 1957 and his affiliation as University of Maryland, and carries nothing else the transcript attributes to him.",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -42987,6 +44322,21 @@
 "url": null
 },
 "text": "Battelle Memorial Institute is headquartered in Columbus, Ohio and was founded in 1929.",
+"tier": 1
+},
+{
+"cls": "location",
+"cluster": "ffrdc",
+"denied": false,
+"label": "Columbus, Ohio",
+"node": "l-columbus-oh",
+"open": false,
+"source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
 "tier": 1
 },
 {
@@ -45675,6 +47025,66 @@
 "tier": 2
 },
 {
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"node": "leslie-r-groves",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Defense's Nuclear Agency 1947-1997, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "He had joined the Military Liaison Committee to the Atomic Energy Commission four weeks earlier: 'Jan. 31, 1947. Maj Gen Leslie R. Groves becomes member of MLC.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"node": "leslie-r-groves",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "The Defense Threat Reduction Agency's chronology of its own lineage: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"node": "leslie-r-groves",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "The command was vacant when it was created, and his own aide held it. 'Therefore, between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"node": "leslie-r-groves",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Danny Jones Podcast #263, 'Exiled Brain Surgeon', 30 September 2024, transcript at 1:48:12 to 1:49:51; contradicted against Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+"text": "On the Danny Jones Podcast #263, 30 September 2024, at 1:48:12, Jack Kruse said the covert apparatus he describes 'has been planned all the way from when General Groves left in 1947' and that Groves's 'parting gift was turning the OSS into the CIA', adding at 1:49:00 that Groves 'formed a militia outside the military'. The agency history opened for this node contradicts the premise: Groves did not leave government in 1947, he took a new joint command on 28 February 1947 and retired on 29 February 1948. The same history contains no reference to the Office of Strategic Services, to Operation Paperclip or to any militia.",
+"tier": 2
+},
+{
 "cls": "institution",
 "cluster": "research",
 "denied": false,
@@ -45958,6 +47368,21 @@
 },
 "text": "An organisation with demonstrated capability to fly unacknowledged hardware for years is the natural custodian for material whose existence the government intends to deny. Reasoning: capability and precedent, not a document tying Skunk Works to recovered material.",
 "tier": 3
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Louis Witten",
+"node": "louis-witten",
+"open": false,
+"source": {
+"domain": "edition-open-sources.org",
+"text": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
 },
 {
 "cls": "person",
@@ -46598,11 +48023,56 @@
 "open": false,
 "source": {
 "domain": null,
-"text": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert",
 "url": null
 },
 "text": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in facsimile under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
-"tier": 2
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "witness",
+"denied": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"node": "malmstrom-echo-flight-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "witness",
+"denied": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"node": "malmstrom-echo-flight-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, p. 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "The same history records the shutdown itself: on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assembly, all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and no other Wing I configuration lost alert at that time. The section is footnoted throughout to a single classified engineering report of 23 March 1967, which is not in the release.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "witness",
+"denied": false,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"node": "malmstrom-echo-flight-1967",
+"open": false,
+"source": {
+"domain": "documents.theblackvault.com",
+"text": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
+"text": "The unit history this node names as decisive is now open, and it states that the UFO reports were disproven. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 records at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'. It also records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+"tier": 1
 },
 {
 "cls": "event",
@@ -47487,6 +48957,81 @@
 "url": null
 },
 "text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"node": "mdang-flare-statement-1997",
+"open": false,
+"source": {
+"domain": "api.usaspending.gov",
+"text": "USAspending.gov API v2, /autocomplete/recipient/ and /search/spending_by_award/, queried 3 September 2026, https://api.usaspending.gov/api/v2/search/spending_by_award/",
+"url": "https://api.usaspending.gov/api/v2/search/spending_by_award/"
+},
+"text": "The alternative explanation offered on the Danny Jones podcast has no federal award record behind it. The USAspending recipient index returns zero matches for 'JP AEROSPACE' while returning eight for 'LOCKHEED MARTIN', and award searches for that recipient and for the keyword, across contracts, indefinite-delivery vehicles and grants from 1 October 1990 to 1 September 2026, return no results.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"node": "mdang-flare-statement-1997",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"node": "mdang-flare-statement-1997",
+"open": false,
+"source": {
+"domain": "www.deseret.com",
+"text": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+},
+"text": "The explanation arrived four months late. The flares were dropped on 13 March 1997 and the Air National Guard statement is dated 26 July 1997.",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"node": "mdang-flare-statement-1997",
+"open": false,
+"source": {
+"domain": "www.deseret.com",
+"text": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+},
+"text": "The statement has a named author: Capt. Drew Sullins, spokesman for the Maryland Air National Guard, who described the flares in the same report: 'The flares fall slowly by parachute and illuminate a wide area.'",
+"tier": 2
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"node": "mdang-flare-statement-1997",
+"open": false,
+"source": {
+"domain": "www.deseret.com",
+"text": "Associated Press, 'Flares, not UFOs, caused light show, military says', Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+},
+"text": "The unit, the aircraft and the range are named on the record: eight Maryland Air National Guard A-10 ground-attack jets flew training missions on the night of 13 March 1997 over the Barry M. Goldwater Air Force Range, about 60 miles southwest of Phoenix, dropping high-intensity flares.",
 "tier": 2
 },
 {
@@ -48853,6 +50398,96 @@
 },
 "text": "The MJ-12 documents are an artefact of the same 1980-1985 Albuquerque/Kirtland disinformation activity that produced the Bennewitz material and the AQUARIUS paper, rather than an independent leak.",
 "tier": 3
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Report of Inspection of MKULTRA, memorandum for the Director of Central Intelligence, 26 July 1963, National Security Archive John Marks Collection Box 8, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+},
+"text": "The Inspector General's 1963 survey states the programme's purpose: 'The MKULTRA activity is concerned with the research and development of chemical, biological and radiological materials capable of employment in clandestine operations to control human behavior.' It records that 'MKULTRA was authorized by the then Director of Central Intelligence, Mr. Allen W. Dulles, in 1953' and that 'Normal procedures for project approval, funding, and accounting were waived.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project MKULTRA",
+"node": "mkultra",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953.",
+"tier": 2
 },
 {
 "cls": "person",
@@ -50323,6 +51958,81 @@
 },
 "text": "The date of the redesignation from Naval Investigative Service Command to Naval Criminal Investigative Service is an open question on this board. The Secretary of the Navy instruction that would fix it was not reachable: the FAS Navy directives index lists SECNAVINST 5430.107, 'Mission and Functions of the Naval Criminal Investigative Service', dated 28 December 2005 and running 20 pages, but the PDF returns a zero-byte HTTP 202 and ncis.navy.mil returns 403.",
 "tier": 3
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"node": "naval-ordnance-laboratory",
+"open": false,
+"source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969, Foreword p. iii and p. 2. https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf"
+},
+"text": "Battelle's documented role in the alloy is late and contractual. NASA CR-1433 of September 1969 records that the nitinol was 'supplied by Mr. William J. Buehler of the Magnetism and Metallurgy Division of the U.S. Naval Ordnance Laboratory (NOL), Silver Spring, Maryland', and that 'As subcontractor to GAC, Battelle Memorial Institute (BMI), Columbus, Ohio, processed the basic Nitinol rod'. The same report calls the NOL work 'the recent discovery'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"node": "naval-ordnance-laboratory",
+"open": false,
+"source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972, Chapter 1, p. 1. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"node": "naval-ordnance-laboratory",
+"open": false,
+"source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, references 12 and 74, and Acknowledgments, p. iv. https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "The earliest Naval Ordnance Laboratory nitinol report cited anywhere in SP-5110's reference list is NOLTR 61-75 (AD 266607), Buehler and Wiley, 'The Properties of TiNi and Associated Phases', U.S. Naval Ordnance Laboratory, 3 August 1961. The report's own acknowledgments state that 'All the information in the report covers the period from 1955 to March 31, 1970.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"node": "naval-ordnance-laboratory",
+"open": false,
+"source": {
+"domain": "patents.google.com",
+"text": "US Patent 3,174,851. https://patents.google.com/patent/US3174851A/en",
+"url": "https://patents.google.com/patent/US3174851A/en"
+},
+"text": "US Patent 3,174,851, 'Nickel-base alloys', by William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, was filed on 1 December 1961 and granted on 23 March 1965.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "research",
+"denied": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"node": "naval-ordnance-laboratory",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 181, 16 April 2023, at 1:15:27, Jeremy Rys credited the first nitinol discovery to the Naval Ordnance Laboratory and dated it 1954. The laboratory is corroborated by the federal record; the date is not. No opened document places any NOL nitinol work before 1961.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -52771,6 +54481,81 @@
 },
 {
 "cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Neil H. McElroy",
+"node": "neil-h-mcelroy",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+"text": "A second agency's record dates the founding and names the first Director independently. The CIA Historical Staff Chronology, under Jan-Apr 58: '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Neil H. McElroy",
+"node": "neil-h-mcelroy",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "House Appropriations Subcommittee on Defense Appropriations, 'The Ballistic Missile Program', Hearings, November 20-21, 1957, p. 25, quoted in The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+"text": "He proposed the agency in public before it had its name. Testifying on 20 November 1957 to the House Appropriations Subcommittee on Defense Appropriations he said: 'We plan to establish in the Department of Defense a special agency to handle our satellite and space research and development projects. Tentatively we are thinking of calling this ... the Special Projects Agency of the Department of Defense.' The history records that a member objected to that name as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Neil H. McElroy",
+"node": "neil-h-mcelroy",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+"text": "The founding instrument, reproduced in the agency's own commissioned history: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' The figure is captioned 'TEXT OF DOD DIRECTIVE NUMBER 5105.15, FEBRUARY 7, 1958 (Establishing ARPA)'. The scan is a poor one and renders ARPA as 'AREA' throughout; the readings given here are normalised from obvious OCR corruption.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Neil H. McElroy",
+"node": "neil-h-mcelroy",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "The Advanced Research Projects Agency, 1958-1974, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+"text": "The mandate is open-ended by design. The Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' The directive is 'effective immediately'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "legacy",
+"denied": false,
+"label": "Neil H. McElroy",
+"node": "neil-h-mcelroy",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Danny Jones Podcast #228, 11 March 2024, at 2:00:47 to 2:06:12; contradicted against The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+"text": "On the Danny Jones Podcast #228, 11 March 2024, at 2:00:47, Annie Jacobsen said ARPA was created around 1956 to 1957 and that its first director was Herb York. The opened records contradict both: the directive is dated 7 February 1958 and Roy W. Johnson was appointed Director the same day, while Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+"tier": 2
+},
+{
+"cls": "person",
 "cluster": "ic",
 "denied": false,
 "label": "Neill Tipton",
@@ -55065,6 +56850,156 @@
 "tier": 3
 },
 {
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Operation Laser Strike",
+"node": "operation-laser-strike",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Coast Guard Interdiction Efforts in the Transit Zone, hearing before the Subcommittee on National Security, International Affairs, and Criminal Justice, House Committee on Government Reform and Oversight, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm"
+},
+"text": "Admiral Robert E. Kramek, Commandant of the Coast Guard, told the subcommittee on 10 March 1997 that the 1998 budget sought enough money 'to sustain that operation and to sustain Laser Strike, which you are familiar with in South America on the air bridge.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Operation Laser Strike",
+"node": "operation-laser-strike",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm"
+},
+"text": "Kramek told the same hearing: 'The IDA analysis is what led us to operation Laser Strike as you know it now. That is, they were able to show us where all the air tracks were occurring in the air bridge between Peru and Colombia.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Operation Laser Strike",
+"node": "operation-laser-strike",
+"open": false,
+"source": {
+"domain": "www.govinfo.gov",
+"text": "CHRG-105hhrg41842, Serial No. 105-18, https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-105hhrg41842/html/CHRG-105hhrg41842.htm"
+},
+"text": "LCDR Randy Forrester, US Coast Guard, testified at the same hearing that his Air Station Miami unit had two HU-25C aircraft deployed to Operation Laser Strike and two to Operation Frontier Shield, out of seven aircraft in the unit.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Operation Laser Strike",
+"node": "operation-laser-strike",
+"open": false,
+"source": {
+"domain": "www.usmcu.edu",
+"text": "United States Marine Corps, Lineage of Marine Air Control Group 28, https://www.usmcu.edu/Portals/218/MARINE%20AIR%20CONTROL%20GROUP%2028.pdf",
+"url": "https://www.usmcu.edu/Portals/218/MARINE%20AIR%20CONTROL%20GROUP%2028.pdf"
+},
+"text": "The official lineage of Marine Air Control Group 28, certified by the Commandant of the Marine Corps on 28 September 2018, records no deployment to Peru or South America and no counter-narcotics operation of any kind between its 1967 redesignation and Desert Shield in 1990.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Operation Laser Strike",
+"node": "operation-laser-strike",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:01:40, mapped at research/leads/dannyjones-corpus-20.md and research/leads/dannyjones-triage-4.md rows 5 and 6",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:01:40, the investigator who identifies himself only as UAP Gerb described Laser Strike as the operation under which a Marine Air Control Group 28 detachment was in Peru in 1997, and as the cover for the Jonathan Weygandt crash-retrieval account. No record opened for this node places any Marine unit in Peru, and the unit's own lineage certificate carries no Peru entry. Tier 3 rather than Tier 2 because the speaker does not give his legal name on air and because the claim is a chain of inferences no opened document supports at any link.",
+"tier": 3
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"node": "operation-northwoods",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+},
+"text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"node": "operation-northwoods",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "National Security Archive, Chairman, Joint Chiefs of Staff, Memorandum to the Secretary of Defense, 'Justification for US Military Intervention in Cuba', https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962",
+"url": "https://nsarchive.gwu.edu/CMC-60/joint-chiefs-pretexts-to-invade-Cuba-1962"
+},
+"text": "It reached the public through a records statute, not through disclosure. The National Security Archive's posting gives the classification as TOP SECRET SPECIAL HANDLING NOFORN and the source as the John F. Kennedy Assassination Records Review Board.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"node": "operation-northwoods",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+},
+"text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"node": "operation-northwoods",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+},
+"text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": false,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"node": "operation-northwoods",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+},
+"text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+"tier": 1
+},
+{
 "cls": "document",
 "cluster": "other",
 "denied": false,
@@ -56386,6 +58321,51 @@
 },
 {
 "cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Peter G. Bergmann",
+"node": "peter-bergmann",
+"open": false,
+"source": {
+"domain": "edition-open-sources.org",
+"text": "Foreword by Cecile M. DeWitt, Chapel Hill, 15 March 1957, printed with the report's title page. https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
+"text": "Bergmann sat on the conference steering committee with F. J. Belinfante, Bryce S. DeWitt, Cecile M. DeWitt, Freeman J. Dyson and John A. Wheeler, and the Foreword's abstract records that 'A conference summary statement is presented by Professor P. G. Bergmann.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Peter G. Bergmann",
+"node": "peter-bergmann",
+"open": false,
+"source": {
+"domain": "edition-open-sources.org",
+"text": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011. https://edition-open-sources.org/sources/5/6/index.html",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+},
+"text": "The conference report's participants list prints 'Bergmann, P. G. | Syracuse University'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "research",
+"denied": false,
+"label": "Peter G. Bergmann",
+"node": "peter-bergmann",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 287, 24 February 2025, 2:38:20, mapped at research/leads/dannyjones-corpus-16.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 287, 24 February 2025, at 2:38:20, Jesse Michels named Bergmann among the attendees of the 1957 Chapel Hill conference, alongside John Wheeler and Freeman Dyson, and described the conference as convened by Agnew Bahnson through the Institute of Field Physics. The conference report confirms his attendance and his steering-committee role and carries nothing else the transcript attributes to him.",
+"tier": 2
+},
+{
+"cls": "person",
 "cluster": "oversight",
 "denied": false,
 "label": "Peter A. Gersten",
@@ -57256,6 +59236,111 @@
 },
 {
 "cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The article's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana, and Royal Dutch Shell, are readying the Hughes Glomar Explorer for use in deep-ocean mining operations to begin late in the fall of 1978.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The article's publication note records that facts about the project had been acknowledged in court in continuing litigation concerning California State tax liability, Freedom of Information Act matters, and a patent infringement claim, and that the acknowledged facts include CIA sponsorship for intelligence collection purposes and the participation of Hughes Tool Company, the Summa Corporation and Global Marine, Inc.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 01-04-2010, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The released history opens: In March 1968 a Soviet submarine of the G-II class was lost with all hands, 16,500 feet below the surface of the Pacific Ocean.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The same note states that the continuing prohibition applies particularly to the specific purpose of the AZORIAN mission, the degree of success, operational details, participation of other contractors, government organizations, and individuals, classified technology, and project funding matters.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading-room document 0005301269, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The same page states: On 8 August 1974, that submarine was brought to the surface in a recovery system designed and developed specifically for that mission.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA reading-room document 0005301269, full text searched by this session, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+},
+"text": "The strings NURO and National Underwater Reconnaissance do not occur anywhere in the 50-page released history.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"node": "project-azorian",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
+"tier": 2
+},
+{
+"cls": "program",
 "cluster": "legacy",
 "denied": false,
 "label": "Project BEAR (Battelle contract to Project GRUDGE)",
@@ -57343,6 +59428,96 @@
 },
 "text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
 "tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Memorandum for the Director of Central Intelligence, 'Successful Application of Narco-Hypnotic Interrogation (ARTICHOKE)', CIA Security Office, July 1952, National Security Archive John Marks Collection Box 6, https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1952-07-14%20JM%20Box%206%20F13%20Artichoke-ocr.pdf"
+},
+"text": "By July 1952 the Security Office was reporting operational use to the Director: '(a) Subjects were Russian agents suspected of being doubled. (b) Cover was psychiatric-medical. (c) Control methods were by narcosis, by hypnosis, and by combination of both.' The attachment records one interrogation held for about an hour and forty minutes 'with a subsequent total amnesia produced by post-hypnotic suggestion'.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Project Bluebird, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+"text": "Its purpose, in the document: 'The purpose of this project is to provide for the immediate establishment of interrogation teams for the operational support of OSO and OPC activities. The teams will utilize the polygraph, drugs, and hypnotism to attain the greatest results in interrogation techniques.' A team is a doctor-psychiatrist, a polygraph-hypnotist and a technician, and the doctors' Washington office is to 'serve as a cover for training, experimentation, and indoctrination purposes in the use of drugs and hypnotism'.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+"text": "The founding proposal names its own irregularity: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.'",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Project Bluebird, Attachment A, 5 April 1950, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+"text": "The one-year budget in the attachment totals $65,515.00: $40,800 personnel, $1,025 supplies, $3,190 equipment, $18,000 transportation and $2,500 rent, itemised down to a Keeler polygraph machine and its spare part kit.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, section 2, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The programme's lineage is in the 1977 Senate print: 'The earliest of the CIA's major programs involving the use of chemical and biological agents, Project BLUEBIRD, was approved by the Director in 1950 ... In August 1951, the project was renamed ARTICHOKE.' Responsibility passed in 1952 from the Office of Scientific Intelligence to the Inspection and Security Office, which the same text reads as a shift from studying hostile powers to using the techniques.",
+"tier": 1
+},
+{
+"cls": "program",
+"cluster": "ic",
+"denied": false,
+"label": "Project BLUEBIRD",
+"node": "project-bluebird",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 295, 7 April 2025, at 2:39:56, Jason Jorjani said Project Bluebird was developed by Nazi psychologists brought to the United States under Paperclip, involved experiments on children, and became MK-Ultra in the 1960s. The founding document is dated 5 April 1950, is signed by the Chief of the CIA's own Inspection and Security Staff, names defectors and agents rather than children, and the programme was renamed ARTICHOKE in August 1951, before MKULTRA was authorized in April 1953.",
+"tier": 2
 },
 {
 "cls": "program",
@@ -61597,6 +63772,21 @@
 "node": "roscoe-hillenkoetter",
 "open": false,
 "source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+},
+"text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Roscoe H. Hillenkoetter",
+"node": "roscoe-hillenkoetter",
+"open": false,
+"source": {
 "domain": null,
 "text": "CIA-RDP68-00046R000200090025-2, Worcester Gazette, 1 June 1960",
 "url": null
@@ -61618,6 +63808,21 @@
 },
 "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
 "tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Roscoe H. Hillenkoetter",
+"node": "roscoe-hillenkoetter",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum, https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency",
+"url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+},
+"text": "The Director on that date was Hillenkoetter. The memorandum itself names only the office; the National Security Archive's catalogue record for it names him as the recipient, and this node already dates his tenure as DCI from May 1947 to October 1950 on a CIA-held clipping. The identification is Tier 2 because the document does not make it.",
+"tier": 2
 },
 {
 "cls": "person",
@@ -63772,6 +65977,21 @@
 "node": "sapoc",
 "open": false,
 "source": {
+"domain": "www.gao.gov",
+"text": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
+"cls": "institution",
+"cluster": "other",
+"denied": false,
+"label": "Special Access Program Oversight Committee (SAPOC)",
+"node": "sapoc",
+"open": false,
+"source": {
 "domain": "sgp.fas.org",
 "text": "Joint Security Commission, Redefining Security: A Report to the Secretary of Defense and the Director of Central Intelligence, 28 February 1994, chapter 2, https://sgp.fas.org/library/jsc/chap2.html",
 "url": "https://sgp.fas.org/library/jsc/chap2.html"
@@ -65433,6 +67653,96 @@
 "cls": "person",
 "cluster": "ic",
 "denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Memorandum for the Deputy Director of Central Intelligence, 'Request for Guidance on Handling Recently Located MKULTRA Material', 22 June 1977, from David S. Brandwein, Director, Office of Technical Service, Appendix B of the Project MKULTRA joint hearing, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "A CIA memorandum of 22 June 1977 reprinted in the hearing print explains why the 1973 searches missed the finance folders: 'Because Dr. Gottlieb retrieved and destroyed all the MKULTRA documents he was able to locate, it is not surprising that the earlier search for MKULTRA documents, directed at areas where they were most likely to be found, was unsuccessful.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA Reading Room document 00017441, MKULTRA SUBPROJECT 43 (18 documents, pubdates 550321 to 560308), Internet Archive mirror, https://archive.org/details/cia-readingroom-document-00017441",
+"url": "https://archive.org/details/cia-readingroom-document-00017441"
+},
+"text": "Gottlieb signed the money. The released MKULTRA Subproject 43 file carries invoice certifications over the signature 'SIDNEY GOTTLIEB, Chief, TSS/CD' attesting 'that performance is satisfactory, that the services are being accomplished in accordance with mutual agreements, that a detailed agenda of the payments and receipts is on file in TSS/CD'. Invoice No. 1 is dated 31 March 1955 and Invoice No. 2 is dated 28 June 1955.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "He gave the destruction order. 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "He is one of the two officers named as running the experiment that killed Frank Olson: 'The drug had been placed in the bottle by a CIA officer, Dr. Robert Lashbrook, as part of an experiment he and Dr. Sidney Gottlieb performed at a meeting of Army and CIA scientists.' The same text records that neither the Chief of TSS nor the Deputy Director for Plans specifically authorized that experiment.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": "nsarchive.gwu.edu",
+"text": "Report of Inspection of MKULTRA, CIA Inspector General, 26 July 1963, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+},
+"text": "The Agency's own Inspector General placed him one rung below the top of TSD in 1963: 'The present Deputy Chief of TSD, Dr. Sidney Gottlieb, in his then capacity of scientific advisor to the Deputy Director/Plans (DD/P), released a study ... on 21 April 1960, covering his six-month investigation of \"Scientific and Technical Problems in Covert Action Operations\".'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
+"label": "Sidney Gottlieb",
+"node": "sidney-gottlieb",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 100, 1 July 2021, 1:08:19 to 1:10:07",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 100, 1 July 2021, at 1:08:19 to 1:10:07, Tom O'Neill described Gottlieb as Louis Jolyon West's handler, said their correspondence began at Lackland Air Force Base and said Gottlieb offered West an operational alias which West declined as more conspicuous. No record opened for this node bears on any of it, and the released Subproject 43 file names no researcher.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "ic",
+"denied": false,
 "label": "Rear Adm. Sidney W. Souers",
 "node": "sidney-souers",
 "open": false,
@@ -66622,6 +68932,36 @@
 "node": "stargate-program",
 "open": false,
 "source": {
+"domain": "archive.org",
+"text": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4"
+},
+"text": "A seventh cryptonym belongs in the sequence. The DIA SUN STREAK Project's FY 86 congressional budget justification book line is given as 'identified as DRAGOON ABSORB' in the memorandum of 8 April 1985 recommending a twelve-person prototype operational group.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"node": "stargate-program",
+"open": false,
+"source": {
+"domain": "www.governmentattic.org",
+"text": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+"url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+},
+"text": "GRILL FLAME's transfer to INSCOM has a date and an office. The INSCOM Annual Historical Review for FY 1981 records: 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The same review's unit appendix for 30 September 1981 lists the US Army Operational Group and does not list any Intelligence Support Activity.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"node": "stargate-program",
+"open": false,
+"source": {
 "domain": null,
 "text": "CIA FOIA Reading Room / CREST",
 "url": null
@@ -66642,6 +68982,21 @@
 "url": null
 },
 "text": "The 1995 AIR evaluation concluded that 'the information provided by remote viewing is vague and ambiguous, making it difficult, if not impossible, for the technique to yield information of sufficient quality and accuracy for actionable intelligence'; CIA terminated the roughly $20 million programme in 1995.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"node": "stargate-program",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7 ; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7"
+},
+"text": "The 1995 declassification review was the CIA's own, not the veterans'. An Office of Research and Development memorandum to CIA Public Affairs of 12 June 1995 answers 'Who is conducting the review?' with: 'The CIA's Office of Research and Development with the aid of a blue ribbon panel of experts in the behavioral sciences at the American Institutes for Research.' A second ORD paper of 20 June 1995 records the choice as deliberate: 'Our strategy was to ask the US Army and the National Research Council to form a blue ribbon panel similar to the group that completed a study for the Army in the late 1980's. We also proposed to declassify past CIA sponsorship and to further declassify other program material.'",
 "tier": 1
 },
 {
@@ -66687,6 +69042,36 @@
 "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
 },
 "text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"node": "stargate-program",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "ORD-0289-95, 20 June 1995, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8"
+},
+"text": "The programme was six people at the end: 'The DIA program consists of three operational remote viewers and three management and support personnel. DIA also funded a related R&D effort with SAIC for several years, ending in 1994.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "ic",
+"denied": false,
+"label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"node": "stargate-program",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1"
+},
+"text": "The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names.",
 "tier": 1
 },
 {
@@ -67725,6 +70110,96 @@
 "tier": 3
 },
 {
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Talbert, New York Herald Tribune, 20 November 1955 (caption and continuation p. 36) and 22 November 1955 (continuation p. 10). https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "George S. Trimble jr. is identified as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and is quoted: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. Page image at https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+},
+"text": "Lawrence D. Bell, founder and president of Bell Aircraft Corp. of Buffalo, is quoted directly: 'Aviation as we know it is on the threshold of amazing new concepts', and 'Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, p. 1 and continuation p. 36. Page image at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "The series lists the firms: 'Aircraft industry firms now participating or actively interested in gravity include the Glenn L. Martin Co. of Baltimore ... Convair of San Diego ... Bell Aircraft of Buffalo ... and Sikorsky Division of United Aircraft', and adds 'Lear, Inc., of Santa Monica ... Clarke Electronics, of Palm Springs, Calif., and the Sperry Gyroscope Division of Sperry-Rand Corp., of Great Neck, L. I.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
+"text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": "archive.org",
+"text": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt,"
+},
+"text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "media",
+"denied": false,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"node": "talbert-gravity-series-1955",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:34:20 to 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:34:20 to 2:35:18, Jason Reza Jorjani dated the Herald Tribune reporting to 1953, attributed it to Martin's chief executive, and said the executive claimed Manhattan-Project-scale funding could put such engines into production in a few years. The articles are dated November 1955, the speaker in them is a vice-president in charge of advanced design planning, and the comparison he draws is to the time the first atom bomb took rather than to its funding.",
+"tier": 2
+},
+{
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
@@ -67843,6 +70318,81 @@
 },
 "text": "Stevens's participation converted the earmark from a partisan favour into a leadership consensus, which is why it survived the 2008 change in Senate control without challenge.",
 "tier": 3
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"node": "tehran-f4-intercept-1976",
+"open": false,
+"source": {
+"domain": "www.theblackvault.com",
+"text": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+},
+"text": "DIA's covering letter of 22 August 1996 to John Greenewald states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released 'with only administrative markings withheld'.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"node": "tehran-f4-intercept-1976",
+"open": false,
+"source": {
+"domain": "www.theblackvault.com",
+"text": "DIA IR 6 846 0139 76, released under FOIA case U-80,597/PO/FOIA, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+},
+"text": "The report is IR 6 846 0139 76 from USDAO Tehran to DIA Washington, DTG 230530Z SEP 76, subject 'REPORTED UFO SIGHTING (U)', country Iran, dates '19 & 20 SEP 76', prepared by Frank B. McKenzie, Col, USAF, Defense Attache, and distributed to CJCS, the Joint Staff, NMCC, SECDEF, NMIC, State, CIA, NSA, the White House, CMC, CSAF, CNO and CSA.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"node": "tehran-f4-intercept-1976",
+"open": false,
+"source": {
+"domain": "www.theblackvault.com",
+"text": "DIA IR 6 846 0139 76, page 4, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+},
+"text": "The report names no Iranian aircrew. Its own comments field reads: 'ACTUAL INFORMATION CONTAINED IN THIS REPORT WAS OBTAINED FROM SOURCE IN CONVERSATION WITH A SUB-SOURCE, AND IIAF PILOT OF ONE OF THE F-4S. MORE INFORMATION WILL BE FORWARDED WHEN IT BECOMES AVAILABLE.'",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"node": "tehran-f4-intercept-1976",
+"open": false,
+"source": {
+"domain": "www.theblackvault.com",
+"text": "DIA IR 6 846 0139 76, pages 2 and 3, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+},
+"text": "The report records that the command post called BG Yousefi, Assistant Deputy Commander of Operations, who decided to scramble an F-4 from Shahrokhi AFB; that at a range of 25 nm the first aircraft 'LOST ALL INSTRUMENTATION AND COMMUNICATIONS (UHF AND INTERCOM)' and broke off; and that a second F-4 launched at 0140 hrs acquired a radar lock at 27 nm before its pilot 'ATTEMPTED TO FIRE AN AIM-9 MISSILE AT THE OBJECT BUT AT THAT INSTANT HIS WEAPONS CONTROL PANEL WENT OFF'.",
+"tier": 1
+},
+{
+"cls": "event",
+"cluster": "other",
+"denied": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"node": "tehran-f4-intercept-1976",
+"open": false,
+"source": {
+"domain": "www.theblackvault.com",
+"text": "DIA IR 6 846 0139 76, page 4, with the DIA FOIA response of 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+},
+"text": "The report states that 'THE AIRCRAFT AND AREA WHERE THE OBJECT IS BELIEVED TO HAVE LANDED ARE BEING CHECKED FOR POSSIBLE RADIATION'; no result of that check is in DIA's release, and DIA's 1996 search located no further document.",
+"tier": 1
 },
 {
 "cls": "person",
@@ -70193,6 +72743,36 @@
 "open": false,
 "source": {
 "domain": null,
+"text": "Citation list published in the video description, 18 February 2024",
+"url": null
+},
+"text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "media",
+"denied": false,
+"label": "'UAP Gerb' (Sam)",
+"node": "uap-gerb",
+"open": false,
+"source": {
+"domain": "ntrs.nasa.gov",
+"text": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+},
+"text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "media",
+"denied": false,
+"label": "'UAP Gerb' (Sam)",
+"node": "uap-gerb",
+"open": false,
+"source": {
+"domain": null,
 "text": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, published 1 May 2026",
 "url": null
 },
@@ -70302,21 +72882,6 @@
 "url": null
 },
 "text": "FFRDCs are 'the missing link' in USG-led, defense-contractor-supported legacy programs: they allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
-"tier": 2
-},
-{
-"cls": "person",
-"cluster": "media",
-"denied": false,
-"label": "'UAP Gerb' (Sam)",
-"node": "uap-gerb",
-"open": false,
-"source": {
-"domain": null,
-"text": "Citation list published in the video description, 18 February 2024 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
 "tier": 2
 },
 {
@@ -72493,6 +75058,66 @@
 },
 "text": "Senator Gillibrand issued a statement on the Department of War's release of UAP files on 8 May 2026.",
 "tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"node": "us-v-pelton-1986",
+"open": false,
+"source": {
+"domain": "www.justice.gov",
+"text": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+},
+"text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"node": "us-v-pelton-1986",
+"open": false,
+"source": {
+"domain": "www.justice.gov",
+"text": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+},
+"text": "Pelton was convicted of conspiracy to commit espionage, espionage and attempted espionage, and unauthorized disclosure of classified information, in the United States District Court for the District of Maryland.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"node": "us-v-pelton-1986",
+"open": false,
+"source": {
+"domain": "www.justice.gov",
+"text": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+},
+"text": "The government's brief describes the sentence as concurrent life terms on the espionage and conspiracy counts and a concurrent ten-year term on the unauthorized-disclosure count.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "ic",
+"denied": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"node": "us-v-pelton-1986",
+"open": false,
+"source": {
+"domain": null,
+"text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
+"url": null
+},
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -75976,6 +78601,81 @@
 },
 {
 "cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Will Miller",
+"node": "will-miller",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, p 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "In the same letter Miller writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Will Miller",
+"node": "will-miller",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, pp 3-4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The published Wilson-Davis notes reproduce, as their pages 3 and 4, a letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller', offering assistance 'with your ongoing research into UFO crash retrievals and the entities within the government (or outside of it) that are involved in that business'.",
+"tier": 1
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Will Miller",
+"node": "will-miller",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, pp 5-6, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes record Wilson as 'Very furious - very angry about Miller' for having 'Violated personal and professional trust - especially among intelligence colleagues/Navy officers', and carry Davis's own parenthesis that 'Miller told Ed Mitchell who only told me in 1999'.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Will Miller",
+"node": "will-miller",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, p 1, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes record Wilson confirming that 'Greer/Miller/Mitchell gave talk in Pentagon Conference room' in April 1997 with Adm. Mike Crawford and Gen. Pat Hughes present, and that afterwards 'Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien bodies'.",
+"tier": 2
+},
+{
+"cls": "person",
+"cluster": "witness",
+"denied": false,
+"label": "Will Miller",
+"node": "will-miller",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes attach no rank, service or first name beyond 'Will' to Miller, and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from.",
+"tier": 3
+},
+{
+"cls": "person",
 "cluster": "other",
 "denied": false,
 "label": "William B. Adkins",
@@ -76437,6 +79137,51 @@
 "url": null
 },
 "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses were questioned about the Wilson-Davis memo and stated they were unaware of it.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"node": "wilson-davis-memo",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"node": "wilson-davis-memo",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+"tier": 1
+},
+{
+"cls": "document",
+"cluster": "other",
+"denied": true,
+"label": "The Wilson-Davis Notes (16 October 2002)",
+"node": "wilson-davis-memo",
+"open": false,
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
 "tier": 1
 },
 {

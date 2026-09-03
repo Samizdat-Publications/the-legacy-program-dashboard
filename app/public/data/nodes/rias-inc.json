@@ -57,7 +57,7 @@
 "direction": "in",
 "edgeLabel": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
 "id": "institute-of-field-physics",
-"l0": false,
+"l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
 "sources": [
@@ -67,7 +67,7 @@
 "url": "https://physics.unc.edu/department-history/section-ii/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -111,12 +111,33 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": null,
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "RIAS is the cleanest documented instance on this board of an aerospace prime setting up a research institute to study gravitation, and the documentation is a participants list and a dated letter rather than an allegation. The 1957 Chapel Hill conference on the role of gravitation in physics prints two of its staff among the attendees -- 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore' -- and the institutional style there is corporate: RIAS, Inc., a company in Baltimore, in a room otherwise full of universities.\n\nIts purpose is stated by the executive who proposed it. George S. Trimble wrote to Bryce DeWitt on 10 June 1955 that 'our industry was vitally concerned with gravity' and that 'At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity', describing the proposed body as an 'industrial version of the Institute for Advanced Study'. The conference report that names RIAS is itself WADC Technical Report 57-216, produced under a funding agreement with the Wright Air Development Center.\n\nGrade it honestly. This is a corporate research institute that studied gravitation, and nothing read shows it producing gravity-control results -- the Chapel Hill participants recorded their own concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Louis Witten's documented output is classical general relativity. Its value here is the chain and the date, not a result.",
 "domains": [
@@ -155,7 +176,7 @@
 ],
 "sub": "The Glenn L. Martin Company's industrial research institute, Baltimore; gravitation was explicitly its subject",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 758 of 1027, score 20). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 759 of 1057, score 21). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [
 {
 "date": "1955-06-10",

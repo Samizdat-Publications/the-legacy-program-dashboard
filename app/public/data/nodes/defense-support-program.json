@@ -2,7 +2,7 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
+"band": "custody",
 "claims": [
 {
 "source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
@@ -52,6 +52,27 @@
 }
 ],
 "tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Named DSP as a programme collecting hard data on unidentified flying objects",
+"id": "bob-fish",
+"l0": false,
+"label": "Bob Fish",
+"note": "Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme.",
+"sources": [
+{
+"date": "2015-03-06",
+"name": "WikiLeaks, The Podesta Emails, email id 30433",
+"url": "https://wikileaks.org/podesta-emails/emailid/30433"
+}
+],
+"tier": "B",
 "type": "research"
 },
 {
@@ -109,7 +130,7 @@
 "direction": "out",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
 "id": "the-black-vault",
-"l0": false,
+"l0": true,
 "label": "The Black Vault",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
 "sources": [
@@ -152,7 +173,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1967",
-"deg": 5,
+"deg": 6,
 "denials": [
 {
 "by": {
@@ -180,7 +201,36 @@
 "domains": [
 "michels-2026-09-02"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
+"tier": 1
+},
+{
+"source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm",
+"text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+"tier": 1
+},
+{
+"source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf",
+"text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
+"tier": 1
+}
+],
+"narrative": "The node exists to keep a claim and its evidence in the same place. On the documented side, GAO gives the system, its dates and its replacement history, and a named command has confirmed holding responsive records on the fastwalker designation and withheld all of them, which is a fact about custody rather than about content. On the alleged side, the board already carries the AFIT thesis that defines fastwalker as ordinary space-surveillance vocabulary and cites a 1972-onward observation database drawn from ballistic missile early warning satellites in geosynchronous orbit. The Danny Jones corpus adds the human link and then undercuts it: Bob Fish, writing to John Podesta on 6 March 2015, says that one of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program, and in the same email says he was never fully briefed into the DSP operation directly, dates his exposure to the run-up to Desert Shield and Desert Storm rather than to the 1980s, and relays the detection he describes as a remark made to him at lunch. No speed figure appears in any of the three emails opened. The equation of DSP with UFO tracking is a claim with a named author and a documented qualification, and both belong on the board.",
+"openQuestions": [
+"The two responsive USNORTHCOM documents on the fastwalker designation, withheld in full.",
+"Whether any DSP programme record uses the term at all."
+],
+"roles": [
+"custody",
+"concealment"
+],
+"whatItIs": "The United States Air Force infrared early-warning satellite constellation, described by GAO as a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches, begun in 1967 with the first operational satellite in 1971 and replaced by SBIRS-High.",
+"whyImplicated": "It is the constellation the popular fastwalker literature equates with UFO detection. The board carries it in order to hold that equation to the documents: no government record opened for this node states it, and the private correspondent most often cited for it says in the same breath that he was never fully briefed into the programme."
+},
 "entityInfo": null,
 "era": "0",
 "foia": {
@@ -189,11 +239,30 @@
 },
 "hl": null,
 "id": "defense-support-program",
-"l0": false,
+"l0": true,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "locLabel": null,
-"members": null,
-"short": "Defense Support Program (DSP) missile early warning satellites",
+"members": [
+{
+"cls": "document",
+"id": "afit-townsend-2008",
+"label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "bob-fish",
+"label": "Bob Fish",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "norad-northcom",
+"label": "NORAD and US Northern Command",
+"tier": "B"
+}
+],
+"short": "Defense Support Program (DSP)",
 "sources": [
 {
 "date": "2003-06-02",
@@ -223,6 +292,6 @@
 ],
 "sub": "USAF and later US Space Force strategic surveillance constellation; programme commenced 1967, first operational satellite 1971",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 342 of 1027, score 35). 5 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 338 of 1057, score 36). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D1.",
 "timeline": []
 }

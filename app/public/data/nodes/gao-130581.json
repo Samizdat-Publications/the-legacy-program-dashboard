@@ -87,6 +87,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The same GAO division two years after the Lockheed document-control testimony",
+"id": "gao-nsiad-88-152",
+"l0": true,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
+"sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "1986",
 "dateStart": "1986",
@@ -131,7 +152,7 @@
 "coords": null,
 "dateEnd": "1986-07-24",
 "dateStart": "1986-07-24",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "On 24 July 1986 the General Accounting Office told a congressional subcommittee that a prime contractor's special-access document control had failed, and in the same statement explained that the body which would ordinarily have inspected it had been excluded from doing so since 1965. That conjunction is this board's structural argument, documented and dated. The cover page reads: 'STATEMENT OF MARTIN M FERBER, ASSOCIATE DIRECTOR, NATIONAL SECURITY AND INTERNATIONAL AFFAIRS DIVISION, BEFORE THE SUBCOMMITTEE ON OVERSIGHT AND INVESTIGATIONS, HOUSE COMMITTEE ON ENERGY AND COMMERCE, ON CONTROLS OVER CLASSIFIED DOCUMENTS FOR A SPECIAL ACCESS PROGRAM AT LOCKHEED CORPORATION'. The venue is worth noting: not a defence committee.\n\nThe numbers are exact and the popular version of them is wrong. Lockheed reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items. As of 19 July 1986 it had completed investigation on 235 of them; 224 were 'later accounted for' and 11 were unresolved -- 7 inadvertently destroyed and 4 not located. The 46 destroyed and the 17 transferred out of the company sit inside the 224 that were accounted for, not outside them. The genuinely unaccounted-for total is 11.\n\nGAO explains the carve-out in its own words: special access contracts are 'carved out of the Defense Investigative Service's periodic inspection program', a 1965 decision, and by 1983 GAO estimated 'there probably were several thousand such contracts'. Its closing sentence is the finding: 'it appears inconsistent to us to establish a special access program because of security considerations and then afford it less document protection than normal classified programs.' The companion letter report to the Secretary of Defense, GAO/NSIAD-86-191 of 7 August 1986, goes further and names the plant the testimony would not.",
 "domains": [
@@ -175,7 +196,7 @@
 ],
 "sub": "GAO testimony, 24 July 1986, House Energy and Commerce, Subcommittee on Oversight and Investigations",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 277 of 1027, score 38). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 282 of 1057, score 39). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "date": "1986-07-24",

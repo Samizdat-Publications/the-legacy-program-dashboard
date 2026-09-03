@@ -25,6 +25,27 @@
 "connections": [
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"id": "cia-prepublication-classification-review-board",
+"l0": false,
+"label": "CIA Prepublication Classification Review Board",
+"note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 1,
 "cls": "domain",
 "dateEnd": null,
 "dateStart": "1947-01-01",
@@ -88,6 +109,48 @@
 },
 {
 "claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": "1975-06",
+"direction": "in",
+"edgeLabel": "The Rockefeller Commission anonymised him and footnoted his stability",
+"id": "frank-olson-death-1953",
+"l0": false,
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+"note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
+"sources": [
+{
+"date": "1975-06",
+"name": "Rockefeller Commission report, June 1975, p. 227",
+"url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+}
+],
+"tier": "B",
+"type": "denial"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "An official explanation offered four months after the event",
+"id": "mdang-flare-statement-1997",
+"l0": false,
+"label": "Maryland Air National Guard flare statement, 26 July 1997",
+"note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+}
+],
+"tier": "C",
+"type": "denial"
+},
+{
+"claimTier": 1,
 "cls": "document",
 "dateEnd": "1955",
 "dateStart": "1955",
@@ -106,13 +169,55 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "States the fact of a compromise while naming no operation",
+"id": "us-v-pelton-1986",
+"l0": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+],
+"tier": "C",
+"type": "denial"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-01-01",
-"deg": 4,
+"deg": 8,
 "denials": [
+{
+"by": {
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+]
+},
 {
 "by": {
 "id": "d-coverup",
@@ -178,6 +283,48 @@
 },
 {
 "by": {
+"id": "frank-olson-death-1953",
+"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "The Rockefeller Commission anonymised him and footnoted his stability",
+"note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1975-06",
+"name": "Rockefeller Commission report, June 1975, p. 227",
+"url": "https://documents2.theblackvault.com/documents/rockefellercommissionreport-full.pdf"
+}
+]
+},
+{
+"by": {
+"id": "mdang-flare-statement-1997",
+"label": "Maryland Air National Guard flare statement, 26 July 1997"
+},
+"claimTier": 2,
+"denialKind": null,
+"label": "An official explanation offered four months after the event",
+"note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "1997-07-26",
+"name": "Associated Press, Flares, not UFOs, caused light show, military says",
+"url": "https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/"
+}
+]
+},
+{
+"by": {
 "id": "tr-ac-47-silver-bug",
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955"
 },
@@ -194,6 +341,27 @@
 "date": "1955-02-15",
 "name": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "url": "https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf"
+}
+]
+},
+{
+"by": {
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "States the fact of a compromise while naming no operation",
+"note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
 }
 ]
 }
@@ -240,8 +408,8 @@
 }
 ],
 "sub": "Evidentiary domain - the denial as a dated, attributable artifact",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 272 of 1027, score 38). 4 connections, 0 of them custody/witness/funding/programmatic, 4 official denials recorded against it. Axes C0/A2/D2.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 117 of 1057, score 58). 8 connections, 0 of them custody/witness/funding/programmatic, 8 official denials recorded against it. Axes C0/A2/D2.",
 "timeline": [
 {
 "date": "1961-09-06",

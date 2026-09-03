@@ -192,6 +192,27 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
+"id": "conventional-prompt-global-strike",
+"l0": false,
+"label": "Conventional Prompt Global Strike",
+"note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
+"sources": [
+{
+"date": "2021-07-16",
+"name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "document",
 "dateEnd": null,
 "dateStart": "2025",
@@ -475,6 +496,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "in",
+"edgeLabel": "Signed the statute that created the National Military Establishment",
+"id": "harry-s-truman",
+"l0": false,
+"label": "Harry S. Truman",
+"note": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
+"sources": [
+{
+"date": "1946-01-22",
+"name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2025",
@@ -688,6 +730,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1957-10-09",
+"direction": "in",
+"edgeLabel": "Secretary of Defense",
+"id": "neil-h-mcelroy",
+"l0": false,
+"label": "Neil H. McElroy",
+"note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "event",
 "dateEnd": "2024",
 "dateStart": "2024",
@@ -706,6 +769,27 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -1091,7 +1175,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 41,
+"deg": 45,
 "denials": [
 {
 "by": {
@@ -1622,6 +1706,12 @@
 "tier": "A"
 },
 {
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "crane-dod-reprisal-letter",
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
@@ -1683,6 +1773,12 @@
 },
 {
 "cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman",
+"tier": "B"
+},
+{
+"cls": "person",
 "id": "james-v-forrestal",
 "label": "James V. Forrestal",
 "tier": "B"
@@ -1709,6 +1805,12 @@
 "cls": "program",
 "id": "nara-uap-records-collection",
 "label": "National Archives UAP Records Collection (Record Group 615)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy",
 "tier": "B"
 },
 {
@@ -1806,6 +1908,6 @@
 ],
 "sub": "Executive department; owner of the SAP enterprise and of every alleged recovery compartment",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 15 of 1027, score 118). 44 connections, 2 of them custody/witness/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 15 of 1057, score 118). 48 connections, 2 of them custody/witness/funding/programmatic, 17 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": []
 }

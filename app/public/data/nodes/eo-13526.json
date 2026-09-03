@@ -132,7 +132,7 @@
 "direction": "in",
 "edgeLabel": "Both refusals rest on the same executive order",
 "id": "defense-support-program",
-"l0": false,
+"l0": true,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
 "sources": [
@@ -393,12 +393,6 @@
 "tier": "B"
 },
 {
-"cls": "program",
-"id": "defense-support-program",
-"label": "Defense Support Program (DSP) missile early warning satellites",
-"tier": "B"
-},
-{
 "cls": "document",
 "id": "icd-906",
 "label": "ICD 906 — Controlled Access Programs (ODNI)",
@@ -432,7 +426,7 @@
 ],
 "sub": "executive-order",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 61 of 1027, score 74). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 62 of 1057, score 74). 8 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
 "date": "2009-12-29",

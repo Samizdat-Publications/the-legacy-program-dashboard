@@ -58,6 +58,27 @@
 "conflicts": [],
 "connections": [
 {
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Wrote to Podesta over three days in March 2015 offering programme names",
+"id": "bob-fish",
+"l0": false,
+"label": "Bob Fish",
+"note": "Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward.",
+"sources": [
+{
+"date": "2015-03-06",
+"name": "WikiLeaks, The Podesta Emails, email id 30433",
+"url": "https://wikileaks.org/podesta-emails/emailid/30433"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 2,
 "cls": "program",
 "dateEnd": "2002",
@@ -112,7 +133,7 @@
 "direction": "in",
 "edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
 "id": "podesta-delonge-mccasland-email-2016",
-"l0": false,
+"l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
 "sources": [
@@ -150,7 +171,7 @@
 "date": "2002-10-22",
 "dateEnd": null,
 "dateStart": "2002-10-22",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "domains": [
 "history-1970s-2000s"
@@ -198,8 +219,8 @@
 ],
 "status": "active",
 "sub": "White House Staff Secretary 1993-95, Deputy Chief of Staff 1997-98, Chief of Staff 1998-2001; Counselor to the President 2014-15",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 581 of 1027, score 26). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 483 of 1057, score 30). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "2002-10-22",

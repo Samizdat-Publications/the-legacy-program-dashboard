@@ -188,7 +188,7 @@
 "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "legislative"
 },
 {
@@ -933,7 +933,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "person",
@@ -1079,7 +1079,7 @@
 ],
 "sub": "disclosure-legislation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 9 of 1027, score 137). 26 connections, 9 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 9 of 1057, score 137). 26 connections, 9 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2023-07-27",

@@ -150,6 +150,27 @@
 "type": "institutional"
 },
 {
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "An information addressee on the report's own distribution list",
+"id": "tehran-f4-intercept-1976",
+"l0": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"note": "NSA Washington is an information addressee on the report's own distribution list.",
+"sources": [
+{
+"date": "1976-09-23",
+"name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
 "claimTier": 2,
 "cls": "document",
 "dateEnd": null,
@@ -169,12 +190,33 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
+"id": "us-v-pelton-1986",
+"l0": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1952-11-04",
-"deg": 7,
+"deg": 9,
 "denials": [
 {
 "by": {
@@ -316,10 +358,22 @@
 "tier": "C"
 },
 {
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "ukusa-agreement-1946",
 "label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
 "tier": "B"
+},
+{
+"cls": "document",
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"tier": "C"
 }
 ],
 "short": "National Security Agency",
@@ -352,7 +406,7 @@
 ],
 "sub": "Signals intelligence and cybersecurity agency; established 4 November 1952 by classified presidential memorandum",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 288 of 1027, score 37). 7 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 279 of 1057, score 39). 9 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C1/A3/D1.",
 "timeline": [
 {
 "date": "1952-11-04",

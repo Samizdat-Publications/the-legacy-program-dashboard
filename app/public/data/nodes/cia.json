@@ -103,6 +103,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": "1962-01-31",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "Deputy Director of Central Intelligence",
+"id": "charles-p-cabell",
+"l0": false,
+"label": "Gen. Charles P. Cabell",
+"note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
+"sources": [
+{
+"date": "2026-09-03",
+"name": "FRUS 1950-1955, The Intelligence Community, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1950-55Intel/persons"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "1976",
 "dateStart": "1975",
@@ -121,6 +142,69 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1948-06-18",
+"direction": "in",
+"edgeLabel": "Created inside the Agency by NSC 10/2",
+"id": "cia-office-of-policy-coordination",
+"l0": false,
+"label": "CIA Office of Policy Coordination",
+"note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+"sources": [
+{
+"date": "1948-06-18",
+"name": "NSC 10/2, National Security Council Directive on Office of Special Projects (FRUS 1945-50 Intel, Doc. 292)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d292"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+"id": "cia-overhead-reconnaissance-history-1992",
+"l0": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"note": "Written by the CIA History Staff in 1992 and released by the Agency on 25 June 2013.",
+"sources": [
+{
+"date": null,
+"name": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A board of the Agency, described in the Agency's own released guidance",
+"id": "cia-prepublication-classification-review-board",
+"l0": false,
+"label": "CIA Prepublication Classification Review Board",
+"note": "A board of the Agency, described in the Agency's own released guidance.",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
 },
 {
 "claimTier": 2,
@@ -193,6 +277,27 @@
 {
 "claimTier": 1,
 "cls": "person",
+"dateEnd": null,
+"dateStart": "1963-03-20",
+"direction": "in",
+"edgeLabel": "Transmitted the Commission's annual report to the Director of Central Intelligence",
+"id": "glenn-t-seaborg",
+"l0": false,
+"label": "Glenn T. Seaborg",
+"note": "The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives.",
+"sources": [
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
 "dateEnd": "1952",
 "dateStart": "1951",
 "direction": "in",
@@ -240,7 +345,7 @@
 "direction": "in",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
 "sources": [
@@ -261,7 +366,7 @@
 "direction": "out",
 "edgeLabel": "CIA published its own institutional history of its UFO role in 1997",
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Gerald K. Haines, the Agency's historian, published an eighteen-page account in Studies in Intelligence acknowledging the OSI effort, the Robertson Panel and the later U-2/OXCART attribution.",
 "sources": [
@@ -273,6 +378,27 @@
 ],
 "tier": "A",
 "type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1947-07-26",
+"direction": "in",
+"edgeLabel": "Signed the statute that created the Agency",
+"id": "harry-s-truman",
+"l0": false,
+"label": "Harry S. Truman",
+"note": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
+"sources": [
+{
+"date": "1946-01-22",
+"name": "Presidential Directive on Coordination of Foreign Intelligence Activities, 22 January 1946 (FRUS 1945-50 Intel, Doc. 71)",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/d71"
+}
+],
+"tier": "B",
+"type": "institutional"
 },
 {
 "claimTier": 1,
@@ -464,6 +590,27 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": "1964",
+"dateStart": "1953",
+"direction": "in",
+"edgeLabel": "CIA umbrella project, authorized 1953",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
+"sources": [
+{
+"date": "1963-07-26",
+"name": "Report of Inspection of MKULTRA, 26 July 1963",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2025-04-24",
@@ -529,6 +676,69 @@
 ],
 "tier": "A",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "CIA programme, on the Agency's own account of it",
+"id": "project-azorian",
+"l0": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": "1951-08",
+"dateStart": "1950",
+"direction": "in",
+"edgeLabel": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"id": "project-bluebird",
+"l0": false,
+"label": "Project BLUEBIRD",
+"note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Project Bluebird, 5 April 1950; Project MKULTRA joint hearing, 3 August 1977, Appendix B",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
 },
 {
 "claimTier": 1,
@@ -648,6 +858,27 @@
 {
 "claimTier": 1,
 "cls": "person",
+"dateEnd": "1973",
+"dateStart": "1955",
+"direction": "in",
+"edgeLabel": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
+"id": "sidney-gottlieb",
+"l0": false,
+"label": "Sidney Gottlieb",
+"note": "Three offices, each taken from a separate opened document rather than from a biography.",
+"sources": [
+{
+"date": "1963-07-26",
+"name": "CIA Reading Room 00017441; Report of Inspection of MKULTRA, 26 July 1963; Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
 "dateEnd": null,
 "dateStart": null,
 "direction": "in",
@@ -733,7 +964,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1947-09-18",
-"deg": 29,
+"deg": 40,
 "denials": [
 {
 "by": {
@@ -1027,6 +1258,30 @@
 "tier": "B"
 },
 {
+"cls": "person",
+"id": "charles-p-cabell",
+"label": "Gen. Charles P. Cabell",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "cia-office-of-policy-coordination",
+"label": "CIA Office of Policy Coordination",
+"tier": "B"
+},
+{
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"tier": "B"
+},
+{
+"cls": "institution",
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board",
+"tier": "B"
+},
+{
 "cls": "document",
 "id": "comer-luna-agency-letters-2025",
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
@@ -1046,6 +1301,12 @@
 },
 {
 "cls": "person",
+"id": "glenn-t-seaborg",
+"label": "Glenn T. Seaborg",
+"tier": "B"
+},
+{
+"cls": "person",
 "id": "gordon-gray",
 "label": "Gordon Gray",
 "tier": "B"
@@ -1057,10 +1318,10 @@
 "tier": "B"
 },
 {
-"cls": "document",
-"id": "haines-cia-history",
-"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-"tier": "A"
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman",
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1093,6 +1354,18 @@
 "tier": "C"
 },
 {
+"cls": "program",
+"id": "project-azorian",
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"tier": "A"
+},
+{
+"cls": "program",
+"id": "project-bluebird",
+"label": "Project BLUEBIRD",
+"tier": "B"
+},
+{
 "cls": "person",
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr.",
@@ -1109,6 +1382,12 @@
 "id": "saic",
 "label": "Science Applications International Corporation",
 "tier": "C"
+},
+{
+"cls": "person",
+"id": "sidney-gottlieb",
+"label": "Sidney Gottlieb",
+"tier": "B"
 },
 {
 "cls": "person",
@@ -1160,7 +1439,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 30 of 1027, score 97). 31 connections, 3 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 16 of 1057, score 118). 42 connections, 7 of them custody/witness/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "date": "1947-07-26",

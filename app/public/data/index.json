@@ -111,24 +111,24 @@
  ],
  "counts": {
   "claims": {
-   "1": 3214,
-   "2": 1394,
-   "3": 512
+   "1": 3367,
+   "2": 1422,
+   "3": 514
   },
-  "edges": 2348,
-  "entities": 727,
+  "edges": 2460,
+  "entities": 746,
   "foia": {
    "nodes": 42,
    "questions": 121,
    "requests": 17
   },
-  "l0": 125,
-  "nodes": 1027,
+  "l0": 137,
+  "nodes": 1057,
   "patents": 5,
-  "people": 300,
+  "people": 311,
   "sheets": 11,
   "threads": 8,
-  "timeline": 912
+  "timeline": 913
  },
  "eras": [
   {
@@ -167,7 +167,7 @@
    "sub": "no start date recorded"
   }
  ],
- "generated": "2026-09-02",
+ "generated": "2026-09-03",
  "nodes": [
   {
    "A": 0,
@@ -1135,7 +1135,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    5,
+    6,
     1,
     0
    ],
@@ -1143,7 +1143,7 @@
    "cluster": "legacy",
    "dateEnd": "1959-05-06",
    "dateStart": "1946-12-31",
-   "deg": 3,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "afswp",
@@ -1359,7 +1359,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1953-03-13",
-   "deg": 3,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "allen-w-dulles",
@@ -1635,6 +1635,30 @@
   },
   {
    "A": 1,
+   "C": 1,
+   "D": 0,
+   "band": null,
+   "claims": [
+    2,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "1964-08",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "arthur-e-exon",
+   "l0": false,
+   "label": "Arthur E. Exon",
+   "short": "Arthur E. Exon",
+   "status": "former",
+   "tier": "C"
+  },
+  {
+   "A": 1,
    "C": 2,
    "D": 2,
    "band": null,
@@ -1711,7 +1735,7 @@
    "D": 1,
    "band": "custody",
    "claims": [
-    5,
+    6,
     0,
     0
    ],
@@ -1719,7 +1743,7 @@
    "cluster": "oversight",
    "dateEnd": "1974-10-11",
    "dateStart": "1946-08-01",
-   "deg": 7,
+   "deg": 9,
    "era": "0",
    "hl": null,
    "id": "atomic-energy-commission",
@@ -1927,7 +1951,7 @@
    "D": 1,
    "band": "research",
    "claims": [
-    8,
+    9,
     3,
     1
    ],
@@ -1935,7 +1959,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1929",
-   "deg": 13,
+   "deg": 14,
    "era": "0",
    "hl": null,
    "id": "battelle",
@@ -2079,7 +2103,7 @@
    "cluster": "other",
    "dateEnd": "1990-03-31",
    "dateStart": "1990-03-31",
-   "deg": 3,
+   "deg": 4,
    "era": "1",
    "hl": null,
    "id": "belgian-af-f16-intercept-1990",
@@ -2088,6 +2112,30 @@
    "short": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
    "status": null,
    "tier": "B"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "contractor",
+   "dateEnd": null,
+   "dateStart": "1955-11-22",
+   "deg": 1,
+   "era": "0",
+   "hl": null,
+   "id": "bell-aircraft-corporation",
+   "l0": false,
+   "label": "Bell Aircraft Corporation",
+   "short": "Bell Aircraft Corporation",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 3,
@@ -2354,13 +2402,37 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2015-03-06",
+   "deg": 5,
+   "era": "2",
+   "hl": null,
+   "id": "bob-fish",
+   "l0": false,
+   "label": "Bob Fish",
+   "short": "Bob Fish",
+   "status": "former",
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 1,
    "D": 1,
    "band": null,
    "claims": [
-    5,
-    0,
+    6,
+    2,
     0
    ],
    "cls": "person",
@@ -3122,6 +3194,30 @@
    "tier": "C"
   },
   {
+   "A": 2,
+   "C": 2,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1953-01-01",
+   "deg": 5,
+   "era": "0",
+   "hl": null,
+   "id": "charles-p-cabell",
+   "l0": false,
+   "label": "Gen. Charles P. Cabell",
+   "short": "Gen. Charles P. Cabell",
+   "status": "dead",
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 2,
    "D": 3,
@@ -3255,7 +3351,7 @@
    "cluster": "oversight",
    "dateEnd": "1976-04-26",
    "dateStart": "1975-01-27",
-   "deg": 6,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "church-committee",
@@ -3279,7 +3375,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 29,
+   "deg": 40,
    "era": "0",
    "hl": null,
    "id": "cia",
@@ -3288,6 +3384,78 @@
    "short": "Central Intelligence Agency",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1948-06-18",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "cia-office-of-policy-coordination",
+   "l0": false,
+   "label": "CIA Office of Policy Coordination",
+   "short": "CIA Office of Policy Coordination",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1992",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "cia-overhead-reconnaissance-history-1992",
+   "l0": false,
+   "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "short": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 2,
+   "C": 2,
+   "D": 3,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": null,
+   "deg": 3,
+   "era": "nd",
+   "hl": null,
+   "id": "cia-prepublication-classification-review-board",
+   "l0": false,
+   "label": "CIA Prepublication Classification Review Board",
+   "short": "CIA Prepublication Classification Review Board",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 2,
@@ -3674,6 +3842,30 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "program",
+   "cluster": "other",
+   "dateEnd": null,
+   "dateStart": "2003",
+   "deg": 5,
+   "era": "2",
+   "hl": null,
+   "id": "conventional-prompt-global-strike",
+   "l0": false,
+   "label": "Conventional Prompt Global Strike",
+   "short": "Conventional Prompt Global Strike",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 2,
    "C": 1,
    "D": 2,
@@ -3855,7 +4047,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1943-06-01",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "d-aerospace",
@@ -4071,7 +4263,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-01-01",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "d-coverup",
@@ -4095,7 +4287,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1947",
-   "deg": 9,
+   "deg": 11,
    "era": "0",
    "hl": null,
    "id": "d-custody",
@@ -4119,7 +4311,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-01-01",
-   "deg": 4,
+   "deg": 8,
    "era": "0",
    "hl": null,
    "id": "d-denial",
@@ -4127,7 +4319,7 @@
    "label": "Official Denial",
    "short": "Official Denial",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 0,
@@ -4167,7 +4359,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1984-12-11",
-   "deg": 2,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "d-disinformation",
@@ -4263,7 +4455,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1967-07-04",
-   "deg": 4,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "d-foia",
@@ -4271,7 +4463,7 @@
    "label": "Freedom of Information Practice",
    "short": "Freedom of Information Practice",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -4487,7 +4679,7 @@
    "label": "Legislative Process (proposed and pending)",
    "short": "Legislative Process (proposed and pending)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -4503,7 +4695,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1978-01-01",
-   "deg": 2,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "d-litigation",
@@ -4671,7 +4863,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1966-04-05",
-   "deg": 6,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "d-oversight",
@@ -4791,7 +4983,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1956-02-01",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "d-prop",
@@ -4815,7 +5007,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1953-01-17",
-   "deg": 4,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "d-psyop",
@@ -4839,7 +5031,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1992-10-26",
-   "deg": 4,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "d-records",
@@ -4983,7 +5175,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1960-01-01",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "d-sap",
@@ -5007,7 +5199,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1946-08-01",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "d-secrecy",
@@ -5199,7 +5391,7 @@
    "cluster": "witness",
    "dateEnd": null,
    "dateStart": "2023-11-27",
-   "deg": 4,
+   "deg": 5,
    "era": "3",
    "hl": null,
    "id": "daniel-sheehan",
@@ -5213,9 +5405,9 @@
    "A": 2,
    "C": 0,
    "D": 1,
-   "band": null,
+   "band": "funding",
    "claims": [
-    3,
+    5,
     0,
     0
    ],
@@ -5223,15 +5415,15 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1958-02-07",
-   "deg": 4,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "darpa",
-   "l0": false,
+   "l0": true,
    "label": "Defense Advanced Research Projects Agency",
-   "short": "Defense Advanced Research Projects Agency",
+   "short": "DARPA",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -5573,7 +5765,7 @@
    "A": 2,
    "C": 1,
    "D": 1,
-   "band": null,
+   "band": "custody",
    "claims": [
     4,
     1,
@@ -5583,13 +5775,13 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1967",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "defense-support-program",
-   "l0": false,
+   "l0": true,
    "label": "Defense Support Program (DSP) missile early warning satellites",
-   "short": "Defense Support Program (DSP) missile early warning satellites",
+   "short": "Defense Support Program (DSP)",
    "status": null,
    "tier": "B"
   },
@@ -5775,7 +5967,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1961",
-   "deg": 34,
+   "deg": 35,
    "era": "0",
    "hl": null,
    "id": "dia",
@@ -6794,6 +6986,30 @@
    "tier": "C"
   },
   {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "2001-06-14",
+   "deg": 5,
+   "era": "2",
+   "hl": null,
+   "id": "doc-341-smw-history-1967",
+   "l0": false,
+   "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+   "short": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 0,
    "D": 3,
@@ -6903,7 +7119,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 41,
+   "deg": 45,
    "era": "0",
    "hl": null,
    "id": "dod",
@@ -6967,7 +7183,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    2,
+    3,
     3,
     0
    ],
@@ -6975,7 +7191,7 @@
    "cluster": "oversight",
    "dateEnd": "1994-01-05",
    "dateStart": "1994-01-05",
-   "deg": 4,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "dod-sap-reform-1994",
@@ -7383,7 +7599,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1957-09-20",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "donald-keyhoe",
@@ -7983,7 +8199,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2010-01-01",
-   "deg": 19,
+   "deg": 20,
    "era": "2",
    "hl": null,
    "id": "eric-davis",
@@ -8570,6 +8786,30 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    6,
+    1,
+    0
+   ],
+   "cls": "event",
+   "cluster": "ic",
+   "dateEnd": "2013-07-17",
+   "dateStart": "1953-11-19",
+   "deg": 5,
+   "era": "0",
+   "hl": null,
+   "id": "frank-olson-death-1953",
+   "l0": false,
+   "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "short": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
+   "status": null,
+   "tier": "B"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 2,
@@ -8751,7 +8991,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1921-07-01",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "gao",
@@ -8799,7 +9039,7 @@
    "cluster": "oversight",
    "dateEnd": "1986-07-24",
    "dateStart": "1986-07-24",
-   "deg": 4,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "gao-130581",
@@ -8832,6 +9072,30 @@
    "short": "GAO High-Risk List: DOD Financial Management",
    "status": null,
    "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": "oversight",
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "oversight",
+   "dateEnd": "1988-05-24",
+   "dateStart": "1988-05-24",
+   "deg": 6,
+   "era": "1",
+   "hl": null,
+   "id": "gao-nsiad-88-152",
+   "l0": true,
+   "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+   "short": "GAO/NSIAD-88-152",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 1,
@@ -9063,7 +9327,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1952",
-   "deg": 1,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "general-dynamics",
@@ -9199,7 +9463,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    1,
+    2,
     4,
     0
    ],
@@ -9207,7 +9471,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1955-06-10",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "george-trimble",
@@ -9279,7 +9543,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1966-03-28",
-   "deg": 1,
+   "deg": 2,
    "era": "0",
    "hl": null,
    "id": "gerald-ford",
@@ -9319,8 +9583,8 @@
    "D": 2,
    "band": null,
    "claims": [
-    0,
-    3,
+    2,
+    2,
     0
    ],
    "cls": "document",
@@ -9335,7 +9599,7 @@
    "label": "UAP Gerb - Battelle Memorial Institute investigation",
    "short": "UAP Gerb - Battelle Memorial Institute investigation",
    "status": null,
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 3,
@@ -9554,6 +9818,30 @@
    "tier": "C"
   },
   {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "1961-01-16",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "glenn-t-seaborg",
+   "l0": false,
+   "label": "Glenn T. Seaborg",
+   "short": "Glenn T. Seaborg",
+   "status": "dead",
+   "tier": "B"
+  },
+  {
    "A": 1,
    "C": 1,
    "D": 3,
@@ -9591,7 +9879,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1951-04-04",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "gordon-gray",
@@ -9703,7 +9991,7 @@
    "D": 2,
    "band": null,
    "claims": [
-    1,
+    2,
     0,
     1
    ],
@@ -9893,7 +10181,7 @@
    "A": 3,
    "C": 0,
    "D": 2,
-   "band": null,
+   "band": "oversight",
    "claims": [
     10,
     0,
@@ -9903,13 +10191,13 @@
    "cluster": "ic",
    "dateEnd": "1997",
    "dateStart": "1997",
-   "deg": 5,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "haines-cia-history",
-   "l0": false,
+   "l0": true,
    "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-   "short": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+   "short": "A Die-hard Issue",
    "status": null,
    "tier": "A"
   },
@@ -9935,7 +10223,7 @@
    "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
    "short": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 1,
@@ -10008,6 +10296,30 @@
    "short": "Harry M. Reid",
    "status": "active",
    "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "person",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1946-01-22",
+   "deg": 7,
+   "era": "0",
+   "hl": null,
+   "id": "harry-s-truman",
+   "l0": false,
+   "label": "Harry S. Truman",
+   "short": "Harry S. Truman",
+   "status": "dead",
+   "tier": "B"
   },
   {
    "A": 0,
@@ -10191,7 +10503,7 @@
    "cluster": "oversight",
    "dateEnd": "2026-06-30",
    "dateStart": "2026-06-30",
-   "deg": 2,
+   "deg": 3,
    "era": "3",
    "hl": null,
    "id": "hearing-2026-06-30",
@@ -11165,9 +11477,9 @@
    "A": 1,
    "C": 2,
    "D": 1,
-   "band": null,
+   "band": "funding",
    "claims": [
-    5,
+    8,
     0,
     1
    ],
@@ -11175,15 +11487,15 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1955-09-07",
-   "deg": 4,
+   "deg": 7,
    "era": "0",
    "hl": null,
    "id": "institute-of-field-physics",
-   "l0": false,
+   "l0": true,
    "label": "Institute of Field Physics (UNC Chapel Hill)",
-   "short": "Institute of Field Physics (UNC Chapel Hill)",
+   "short": "Institute of Field Physics",
    "status": null,
-   "tier": "B"
+   "tier": "A"
   },
   {
    "A": 1,
@@ -12471,7 +12783,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2022-08-17",
-   "deg": 12,
+   "deg": 14,
    "era": "3",
    "hl": null,
    "id": "john-greenewald",
@@ -12479,7 +12791,31 @@
    "label": "John Greenewald Jr.",
    "short": "John Greenewald Jr.",
    "status": "active",
-   "tier": "B"
+   "tier": "A"
+  },
+  {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "oversight",
+   "dateEnd": "1977-08-03",
+   "dateStart": "1976",
+   "deg": 3,
+   "era": "1",
+   "hl": null,
+   "id": "john-marks-foia-f-76-374",
+   "l0": false,
+   "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "short": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+   "status": null,
+   "tier": "C"
   },
   {
    "A": 1,
@@ -12519,7 +12855,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "2002-10-22",
-   "deg": 4,
+   "deg": 5,
    "era": "2",
    "hl": null,
    "id": "john-podesta",
@@ -12527,7 +12863,7 @@
    "label": "John D. Podesta",
    "short": "John D. Podesta",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -12646,6 +12982,30 @@
    "l0": false,
    "label": "Joseph Gradisher",
    "short": "Joseph Gradisher",
+   "status": "former",
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    1,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": "1957-01-18",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "joseph-weber",
+   "l0": false,
+   "label": "Joseph Weber",
+   "short": "Joseph Weber",
    "status": "former",
    "tier": "C"
   },
@@ -12791,7 +13151,7 @@
    "label": "Kecksburg incident, 9 December 1965",
    "short": "Kecksburg incident, 9 December 1965",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -13239,7 +13599,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1955",
-   "deg": 2,
+   "deg": 3,
    "era": "0",
    "hl": null,
    "id": "l-area51",
@@ -13495,7 +13855,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    1,
+    2,
     0,
     0
    ],
@@ -13623,7 +13983,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1935",
-   "deg": 4,
+   "deg": 5,
    "era": "0",
    "hl": null,
    "id": "l-eglin",
@@ -13871,7 +14231,7 @@
    "label": "Los Angeles and Burbank, California",
    "short": "Los Angeles and Burbank, California",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -14031,7 +14391,7 @@
    "cluster": "legacy",
    "dateEnd": "1975",
    "dateStart": "1975",
-   "deg": 2,
+   "deg": 3,
    "era": "1",
    "hl": null,
    "id": "l-malmstrom",
@@ -14823,7 +15183,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1917",
-   "deg": 18,
+   "deg": 19,
    "era": "0",
    "hl": null,
    "id": "l-wright-patterson",
@@ -15111,7 +15471,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2023-06-05",
-   "deg": 9,
+   "deg": 10,
    "era": "3",
    "hl": null,
    "id": "leslie-kean",
@@ -15119,6 +15479,30 @@
    "label": "Leslie Kean",
    "short": "Leslie Kean",
    "status": "active",
+   "tier": "B"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "1947-02-28",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "leslie-r-groves",
+   "l0": false,
+   "label": "Lt. Gen. Leslie R. Groves",
+   "short": "Lt. Gen. Leslie R. Groves",
+   "status": "dead",
    "tier": "B"
   },
   {
@@ -15231,7 +15615,7 @@
    "cluster": "contractor",
    "dateEnd": null,
    "dateStart": "1995",
-   "deg": 29,
+   "deg": 30,
    "era": "1",
    "hl": null,
    "id": "lockheed-martin",
@@ -15271,7 +15655,7 @@
    "D": 0,
    "band": null,
    "claims": [
-    2,
+    3,
     3,
     0
    ],
@@ -15279,7 +15663,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1957-01-18",
-   "deg": 2,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "louis-witten",
@@ -15413,23 +15797,23 @@
    "A": 2,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "disclosure",
    "claims": [
-    0,
-    7,
+    4,
+    6,
     1
    ],
    "cls": "event",
    "cluster": "witness",
    "dateEnd": "1967-03-24",
    "dateStart": "1967-03-16",
-   "deg": 5,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "malmstrom-echo-flight-1967",
-   "l0": false,
+   "l0": true,
    "label": "Malmstrom AFB missile shutdowns, March 1967",
-   "short": "Malmstrom AFB missile shutdowns, March 1967",
+   "short": "Malmstrom Echo Flight, Mar 1967",
    "status": null,
    "tier": "B"
   },
@@ -15842,6 +16226,30 @@
    "tier": "C"
   },
   {
+   "A": 1,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    1,
+    4,
+    0
+   ],
+   "cls": "document",
+   "cluster": "other",
+   "dateEnd": "1997-07-26",
+   "dateStart": "1997-07-26",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "mdang-flare-statement-1997",
+   "l0": false,
+   "label": "Maryland Air National Guard flare statement, 26 July 1997",
+   "short": "Maryland Air National Guard flare statement, 26 July 1997",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 2,
@@ -15911,7 +16319,7 @@
    "label": "Michael Powers",
    "short": "Michael Powers",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -16370,6 +16778,30 @@
    "tier": "B"
   },
   {
+   "A": 3,
+   "C": 0,
+   "D": 2,
+   "band": "research",
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "program",
+   "cluster": "ic",
+   "dateEnd": "1964",
+   "dateStart": "1953-04-13",
+   "deg": 9,
+   "era": "0",
+   "hl": null,
+   "id": "mkultra",
+   "l0": true,
+   "label": "Project MKULTRA",
+   "short": "Project MKULTRA",
+   "status": null,
+   "tier": "A"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -16599,7 +17031,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": "1958-07-29",
-   "deg": 14,
+   "deg": 15,
    "era": "0",
    "hl": null,
    "id": "nasa",
@@ -16743,7 +17175,7 @@
    "cluster": "oversight",
    "dateEnd": null,
    "dateStart": "1934",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "national-archives",
@@ -16774,6 +17206,30 @@
    "l0": false,
    "label": "Naval Criminal Investigative Service",
    "short": "Naval Criminal Investigative Service",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "institution",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": "1961-08-03",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "naval-ordnance-laboratory",
+   "l0": false,
+   "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+   "short": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
    "status": null,
    "tier": "C"
   },
@@ -17184,6 +17640,30 @@
    "short": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 3,
+   "C": 2,
+   "D": 1,
+   "band": null,
+   "claims": [
+    4,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "legacy",
+   "dateEnd": null,
+   "dateStart": "1958-02-07",
+   "deg": 3,
+   "era": "0",
+   "hl": null,
+   "id": "neil-h-mcelroy",
+   "l0": false,
+   "label": "Neil H. McElroy",
+   "short": "Neil H. McElroy",
+   "status": "dead",
+   "tier": "B"
   },
   {
    "A": 3,
@@ -17631,7 +18111,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1952-11-04",
-   "deg": 7,
+   "deg": 9,
    "era": "0",
    "hl": null,
    "id": "nsa",
@@ -18003,6 +18483,54 @@
   },
   {
    "A": 1,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    4,
+    0,
+    1
+   ],
+   "cls": "event",
+   "cluster": "other",
+   "dateEnd": "1997-12-31",
+   "dateStart": "1996-01-01",
+   "deg": 1,
+   "era": "1",
+   "hl": null,
+   "id": "operation-laser-strike",
+   "l0": false,
+   "label": "Operation Laser Strike",
+   "short": "Operation Laser Strike",
+   "status": null,
+   "tier": "C"
+  },
+  {
+   "A": 1,
+   "C": 1,
+   "D": 1,
+   "band": "disclosure",
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "document",
+   "cluster": "other",
+   "dateEnd": "1962-03-13",
+   "dateStart": "1962-03-13",
+   "deg": 7,
+   "era": "0",
+   "hl": null,
+   "id": "operation-northwoods",
+   "l0": true,
+   "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+   "short": "Operation Northwoods, 13 Mar 1962",
+   "status": null,
+   "tier": "B"
+  },
+  {
+   "A": 1,
    "C": 2,
    "D": 2,
    "band": null,
@@ -18311,7 +18839,7 @@
    "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
    "short": "Nolan & Vallee 2022, Prog Aero Sci",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -18479,7 +19007,7 @@
    "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
    "short": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -18578,6 +19106,30 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    2,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "research",
+   "dateEnd": null,
+   "dateStart": "1957-01-18",
+   "deg": 2,
+   "era": "0",
+   "hl": null,
+   "id": "peter-bergmann",
+   "l0": false,
+   "label": "Peter G. Bergmann",
+   "short": "Peter G. Bergmann",
+   "status": "former",
+   "tier": "C"
+  },
+  {
    "A": 0,
    "C": 0,
    "D": 3,
@@ -18647,7 +19199,7 @@
    "label": "Philip J. Corso",
    "short": "Philip J. Corso",
    "status": "dead",
-   "tier": "A"
+   "tier": "B"
   },
   {
    "A": 1,
@@ -18773,7 +19325,7 @@
    "A": 2,
    "C": 2,
    "D": 1,
-   "band": null,
+   "band": "custody",
    "claims": [
     5,
     1,
@@ -18783,13 +19335,13 @@
    "cluster": "media",
    "dateEnd": "2016-01-25",
    "dateStart": "2016-01-25",
-   "deg": 5,
+   "deg": 6,
    "era": "2",
    "hl": null,
    "id": "podesta-delonge-mccasland-email-2016",
-   "l0": false,
+   "l0": true,
    "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
-   "short": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "short": "DeLonge to Podesta, 25 Jan 2016",
    "status": null,
    "tier": "A"
   },
@@ -18866,6 +19418,30 @@
    "tier": "C"
   },
   {
+   "A": 3,
+   "C": 3,
+   "D": 2,
+   "band": null,
+   "claims": [
+    6,
+    1,
+    0
+   ],
+   "cls": "program",
+   "cluster": "ic",
+   "dateEnd": "1978",
+   "dateStart": "1968",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "project-azorian",
+   "l0": false,
+   "label": "Project AZORIAN and the Hughes Glomar Explorer",
+   "short": "Project AZORIAN and the Hughes Glomar Explorer",
+   "status": null,
+   "tier": "A"
+  },
+  {
    "A": 2,
    "C": 2,
    "D": 1,
@@ -18903,7 +19479,7 @@
    "cluster": "other",
    "dateEnd": "1969",
    "dateStart": "1952",
-   "deg": 25,
+   "deg": 27,
    "era": "0",
    "hl": null,
    "id": "project-blue-book",
@@ -18912,6 +19488,30 @@
    "short": "Project Blue Book",
    "status": null,
    "tier": "A"
+  },
+  {
+   "A": 2,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "program",
+   "cluster": "ic",
+   "dateEnd": "1951-08",
+   "dateStart": "1950-04-05",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "project-bluebird",
+   "l0": false,
+   "label": "Project BLUEBIRD",
+   "short": "Project BLUEBIRD",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 2,
@@ -19719,7 +20319,7 @@
    "cluster": "research",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 4,
+   "deg": 5,
    "era": "nd",
    "hl": null,
    "id": "rias-inc",
@@ -20383,15 +20983,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    4,
-    1,
+    5,
+    2,
     0
    ],
    "cls": "person",
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1960-06-01",
-   "deg": 4,
+   "deg": 6,
    "era": "0",
    "hl": null,
    "id": "roscoe-hillenkoetter",
@@ -20863,7 +21463,7 @@
    "D": 1,
    "band": null,
    "claims": [
-    8,
+    9,
     3,
     1
    ],
@@ -20871,7 +21471,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "1994-01-05",
-   "deg": 4,
+   "deg": 5,
    "era": "1",
    "hl": null,
    "id": "sapoc",
@@ -21047,7 +21647,7 @@
    "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
    "short": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 3,
@@ -21149,7 +21749,7 @@
    "A": 3,
    "C": 2,
    "D": 2,
-   "band": null,
+   "band": "oversight",
    "claims": [
     3,
     0,
@@ -21159,13 +21759,13 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1976",
-   "deg": 5,
+   "deg": 6,
    "era": "1",
    "hl": null,
    "id": "senate-intelligence",
-   "l0": false,
+   "l0": true,
    "label": "Senate Select Committee on Intelligence",
-   "short": "Senate Select Committee on Intelligence",
+   "short": "Senate Select Cttee on Intelligence",
    "status": null,
    "tier": "B"
   },
@@ -21363,6 +21963,30 @@
   },
   {
    "A": 3,
+   "C": 0,
+   "D": 0,
+   "band": null,
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "person",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1955-03-31",
+   "deg": 4,
+   "era": "0",
+   "hl": null,
+   "id": "sidney-gottlieb",
+   "l0": false,
+   "label": "Sidney Gottlieb",
+   "short": "Sidney Gottlieb",
+   "status": "former",
+   "tier": "B"
+  },
+  {
+   "A": 3,
    "C": 2,
    "D": 1,
    "band": null,
@@ -21375,7 +21999,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": "1946-01-22",
-   "deg": 3,
+   "deg": 4,
    "era": "0",
    "hl": null,
    "id": "sidney-souers",
@@ -21479,7 +22103,7 @@
    "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
    "short": "Sky Canada Project",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -21639,7 +22263,7 @@
    "cluster": "contractor",
    "dateEnd": "1986",
    "dateStart": null,
-   "deg": 0,
+   "deg": 1,
    "era": "nd",
    "hl": null,
    "id": "sperry-rand",
@@ -21799,7 +22423,7 @@
    "D": 2,
    "band": "funding",
    "claims": [
-    6,
+    11,
     3,
     1
    ],
@@ -21927,7 +22551,7 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2001-05-09",
-   "deg": 4,
+   "deg": 5,
    "era": "2",
    "hl": null,
    "id": "steven-greer",
@@ -22130,6 +22754,30 @@
    "tier": "A"
   },
   {
+   "A": 0,
+   "C": 0,
+   "D": 3,
+   "band": "research",
+   "claims": [
+    5,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "media",
+   "dateEnd": "1955-11-22",
+   "dateStart": "1955-11-20",
+   "deg": 6,
+   "era": "0",
+   "hl": null,
+   "id": "talbert-gravity-series-1955",
+   "l0": true,
+   "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+   "short": "Talbert gravity series, Nov 1955",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 2,
    "C": 0,
    "D": 3,
@@ -22200,6 +22848,30 @@
    "short": "Theodore F. Stevens",
    "status": "dead",
    "tier": "C"
+  },
+  {
+   "A": 2,
+   "C": 1,
+   "D": 2,
+   "band": null,
+   "claims": [
+    5,
+    0,
+    0
+   ],
+   "cls": "event",
+   "cluster": "other",
+   "dateEnd": "1976-09-20",
+   "dateStart": "1976-09-19",
+   "deg": 5,
+   "era": "1",
+   "hl": null,
+   "id": "tehran-f4-intercept-1976",
+   "l0": false,
+   "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "short": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+   "status": null,
+   "tier": "B"
   },
   {
    "A": 0,
@@ -22277,7 +22949,7 @@
    "A": 0,
    "C": 0,
    "D": 3,
-   "band": null,
+   "band": "custody",
    "claims": [
     1,
     0,
@@ -22287,11 +22959,11 @@
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "1996",
-   "deg": 5,
+   "deg": 7,
    "era": "1",
    "hl": null,
    "id": "the-black-vault",
-   "l0": false,
+   "l0": true,
    "label": "The Black Vault",
    "short": "The Black Vault",
    "status": null,
@@ -22479,7 +23151,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2002-10-16",
-   "deg": 2,
+   "deg": 3,
    "era": "2",
    "hl": null,
    "id": "thomas-wilson",
@@ -22487,7 +23159,7 @@
    "label": "Thomas R. Wilson",
    "short": "Thomas R. Wilson",
    "status": "active",
-   "tier": "C"
+   "tier": "B"
   },
   {
    "A": 0,
@@ -22631,7 +23303,7 @@
    "label": "Timothy A. Phillips",
    "short": "Timothy A. Phillips",
    "status": "active",
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 0,
@@ -22799,7 +23471,7 @@
    "label": "Trump Truth Social post directing release of UAP files (20 February 2026)",
    "short": "Trump Truth Social post directing release of UAP files (20 February 2026)",
    "status": null,
-   "tier": "B"
+   "tier": "C"
   },
   {
    "A": 2,
@@ -23047,15 +23719,15 @@
    "D": 3,
    "band": null,
    "claims": [
-    0,
-    16,
+    2,
+    15,
     1
    ],
    "cls": "person",
    "cluster": "media",
    "dateEnd": null,
    "dateStart": "2026-08-07",
-   "deg": 15,
+   "deg": 16,
    "era": "3",
    "hl": null,
    "id": "uap-gerb",
@@ -23655,7 +24327,7 @@
    "cluster": "ic",
    "dateEnd": null,
    "dateStart": null,
-   "deg": 9,
+   "deg": 12,
    "era": "nd",
    "hl": null,
    "id": "us-navy",
@@ -23690,6 +24362,30 @@
    "tier": "C"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 1,
+   "band": null,
+   "claims": [
+    3,
+    1,
+    0
+   ],
+   "cls": "document",
+   "cluster": "ic",
+   "dateEnd": null,
+   "dateStart": "1986",
+   "deg": 2,
+   "era": "1",
+   "hl": null,
+   "id": "us-v-pelton-1986",
+   "l0": false,
+   "label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+   "short": "United States v. Ronald W. Pelton (D. Md. 1986)",
+   "status": null,
+   "tier": "C"
+  },
+  {
    "A": 3,
    "C": 3,
    "D": 1,
@@ -23703,7 +24399,7 @@
    "cluster": "legacy",
    "dateEnd": null,
    "dateStart": "1947-09-18",
-   "deg": 15,
+   "deg": 21,
    "era": "0",
    "hl": null,
    "id": "usaf",
@@ -24602,6 +25298,30 @@
    "tier": "B"
   },
   {
+   "A": 1,
+   "C": 0,
+   "D": 2,
+   "band": null,
+   "claims": [
+    2,
+    2,
+    1
+   ],
+   "cls": "person",
+   "cluster": "witness",
+   "dateEnd": null,
+   "dateStart": "2002-04-25",
+   "deg": 5,
+   "era": "2",
+   "hl": null,
+   "id": "will-miller",
+   "l0": false,
+   "label": "Will Miller",
+   "short": "Will Miller",
+   "status": "former",
+   "tier": "B"
+  },
+  {
    "A": 3,
    "C": 2,
    "D": 0,
@@ -24727,7 +25447,7 @@
    "D": 3,
    "band": "reverse-engineering",
    "claims": [
-    1,
+    4,
     3,
     0
    ],
@@ -24735,7 +25455,7 @@
    "cluster": "other",
    "dateEnd": null,
    "dateStart": "2002",
-   "deg": 7,
+   "deg": 8,
    "era": "2",
    "hl": 11,
    "id": "wilson-davis-memo",
@@ -24818,6 +25538,6 @@
    "tier": "C"
   }
  ],
- "source": "687756664d3a",
- "sourceCommit": "da50909"
+ "source": "17d9a3fc575a",
+ "sourceCommit": "42d667e"
 }

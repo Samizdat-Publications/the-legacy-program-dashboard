@@ -8,6 +8,21 @@
 "chronology": [],
 "claims": [
 {
+"source": "SEC EDGAR company filing index, CIK 0000104030, https://data.sec.gov/submissions/CIK0000104030.json ; The Wackenhut Corporation DEF 14A filed 31 March 1999, https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt ; DEF 14A for the 1998 annual meeting and DEFM14A filed 10 April 2002, https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt",
+"text": "He is not among the directors of The Wackenhut Corporation in any proxy statement EDGAR holds. The proxy for the annual meeting of 7 May 1999 lists twelve directors by name, age and year of first election, among them Julius W. Becton Jr., Benjamin R. Civiletti, Paul X. Kelley, Thomas P. Stafford and George R. Wackenhut, and the name Inman appears nowhere in it. It appears nowhere in the proxy for the 1998 annual meeting or in the 2002 merger proxy either. The corporation reported under CIK 0000104030, SIC 7381; its earliest filing of any kind is dated 24 March 1994 and its earliest proxy statement is a preliminary 14A of 24 March 1997, so no proxy exists on EDGAR for any earlier year and the board's composition before 1997 is unestablished in either direction.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
+"tier": 2
+},
+{
+"source": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt",
+"text": "This node's unresolved line on a National Underwater Reconnaissance Office stays as written. A third corpus running has failed to open any record of the office: nro.gov and nsa.gov returned HTTP 403, irp.fas.org has no NURO page, the govinfo search API returned a count of zero for the phrase, and the strings NURO and National Underwater Reconnaissance occur nowhere in the fifty released pages of the CIA's own AZORIAN history.",
+"tier": 2
+},
+{
 "source": "Nomination of Admiral B.R. Inman, hearing before the Senate Select Committee on Intelligence, 97th Congress 1st session, 3 February 1981, GPO print 74-227 O, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf",
 "text": "He gave his own career to the Senate: 'Subsequent assignments included service as the fleet intelligence officer on the staff of the commander, 7th Fleet; attendance at the National War College; executive assistant and senior aide to the Vice Chief of Naval Operations; assistant chief of staff for intelligence to the commander in chief, U.S. Pacific Fleet; Director of Naval Intelligence; and Vice Director for Plans, Operations, and Support of the Defense Intelligence Agency.'",
 "tier": 1
@@ -161,6 +176,21 @@
 "short": "Adm. Bobby Ray Inman",
 "sources": [
 {
+"date": "2026-09-03",
+"name": "SEC EDGAR company filing index, CIK 0000104030 (The Wackenhut Corporation)",
+"url": "https://data.sec.gov/submissions/CIK0000104030.json"
+},
+{
+"date": "1999-03-31",
+"name": "The Wackenhut Corporation, DEF 14A filed 31 March 1999",
+"url": "https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt"
+},
+{
+"date": "1998-03-31",
+"name": "The Wackenhut Corporation, DEF 14A for the 1998 annual meeting",
+"url": "https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt"
+},
+{
 "date": "1981-02-03",
 "name": "Nomination of Admiral B.R. Inman to be Deputy Director of Central Intelligence, Senate Select Committee on Intelligence, 3 February 1981",
 "url": "https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-hearings-97inman.pdf"
@@ -174,12 +204,17 @@
 "date": "2003-04-14",
 "name": "SEC Form 4, Bobby R. Inman, Science Applications International Corporation, 10 April 2003",
 "url": "https://www.sec.gov/Archives/edgar/data/353394/000108287503000004/inm259.htm"
+},
+{
+"date": null,
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
 }
 ],
 "status": "former",
 "sub": "Director, National Security Agency 1977-1981; Deputy Director of Central Intelligence 1981-1982; Director of SAIC from 1982",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 350 of 1027, score 34). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 240 of 1057, score 41). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -52,7 +52,7 @@
 "direction": "in",
 "edgeLabel": "The Black Vault runs the private FOIA archive from Los Angeles",
 "id": "the-black-vault",
-"l0": false,
+"l0": true,
 "label": "The Black Vault",
 "note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
 "sources": [
@@ -110,7 +110,7 @@
 }
 ],
 "sub": "Los Angeles County; Lockheed Skunk Works (Burbank), The Black Vault, documentary and podcast production base",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 509 of 1027, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 535 of 1057, score 29). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A1/D3.",
 "timeline": []
 }

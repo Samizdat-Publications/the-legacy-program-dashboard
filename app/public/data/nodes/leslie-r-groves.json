@@ -1,0 +1,145 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The Defense Threat Reduction Agency's chronology of its own lineage: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.'",
+"tier": 1
+},
+{
+"source": "Defense's Nuclear Agency 1947-1997, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "He had joined the Military Liaison Committee to the Atomic Energy Commission four weeks earlier: 'Jan. 31, 1947. Maj Gen Leslie R. Groves becomes member of MLC.'",
+"tier": 1
+},
+{
+"source": "Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "The command was vacant when it was created, and his own aide held it. 'Therefore, between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast #263, 'Exiled Brain Surgeon', 30 September 2024, transcript at 1:48:12 to 1:49:51; contradicted against Defense's Nuclear Agency 1947-1997, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+"text": "On the Danny Jones Podcast #263, 30 September 2024, at 1:48:12, Jack Kruse said the covert apparatus he describes 'has been planned all the way from when General Groves left in 1947' and that Groves's 'parting gift was turning the OSS into the CIA', adding at 1:49:00 that Groves 'formed a militia outside the military'. The agency history opened for this node contradicts the premise: Groves did not leave government in 1947, he took a new joint command on 28 February 1947 and retired on 29 February 1948. The same history contains no reference to the Office of Strategic Services, to Operation Paperclip or to any militia.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": "1948-02-29",
+"dateStart": "1947-02-28",
+"direction": "out",
+"edgeLabel": "First Chief, AFSWP",
+"id": "afswp",
+"l0": false,
+"label": "Armed Forces Special Weapons Project",
+"note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947-01-31",
+"direction": "out",
+"edgeLabel": "Member, Military Liaison Committee to the AEC",
+"id": "atomic-energy-commission",
+"l0": true,
+"label": "Atomic Energy Commission",
+"note": "He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1947-03-31",
+"direction": "out",
+"edgeLabel": "Joint command with a Navy deputy",
+"id": "us-navy",
+"l0": true,
+"label": "United States Navy",
+"note": "Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
+}
+],
+"date": "1947-02-28",
+"dateEnd": null,
+"dateStart": "1947-02-28",
+"deg": 3,
+"denials": [],
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "leslie-r-groves",
+"instId": null,
+"l0": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "Groves is the hinge the board has been carrying in prose. The Armed Forces Special Weapons Project node already reproduces the sentence that makes him its first Chief, and the man himself has had no node on a 1,027-node board. The Defense Threat Reduction Agency's own history dates the appointment to 28 February 1947, one year exactly before his retirement on 29 February 1948, with promotion to Lieutenant General on 24 January 1948 while in post. The same history explains why the post stood empty for two months: neither Eisenhower nor Nimitz had made a selection, and Groves's own aide held the Washington headquarters in the interval. He is here for the office and its dates, and because the transcript that surfaced him is contradicted by the record on the point that carries the claim.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Lt. Gen. Leslie R. Groves",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+},
+{
+"date": "2026-09-03",
+"name": "FRUS 1945-1950, Emergence of the Intelligence Establishment, List of Persons",
+"url": "https://history.state.gov/historicaldocuments/frus1945-50Intel/persons"
+}
+],
+"status": "dead",
+"sub": "First Chief, Armed Forces Special Weapons Project, 28 February 1947 to 29 February 1948",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 397 of 1057, score 33). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

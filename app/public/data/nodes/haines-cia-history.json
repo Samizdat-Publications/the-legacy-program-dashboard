@@ -2,7 +2,7 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": null,
+"band": "oversight",
 "claims": [
 {
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
@@ -104,6 +104,27 @@
 ],
 "tier": "A",
 "type": "research"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
+"id": "cia-overhead-reconnaissance-history-1992",
+"l0": false,
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
+"sources": [
+{
+"date": null,
+"name": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/",
+"url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+}
+],
+"tier": "B",
+"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -240,7 +261,7 @@
 "coords": null,
 "dateEnd": "1997",
 "dateStart": "1997",
-"deg": 5,
+"deg": 6,
 "denials": [
 {
 "by": {
@@ -310,7 +331,37 @@
 "domains": [
 "history-1940s-1960s"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
+"tier": 1
+},
+{
+"source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm",
+"text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+"tier": 1
+},
+{
+"source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)",
+"text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
+"tier": 1
+}
+],
+"narrative": "This is the Agency describing its own posture, which makes it a primary record of the posture and nothing more, and that is exactly what it is used for here. Its trigger is stated in the text: in late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files. Its most-cited passage attributes over half of all UFO reports of the late 1950s and 1960s to manned reconnaissance flights, on the estimate of CIA officials who worked on the U-2 and OXCART projects, and concludes that the resulting deception was, while perhaps justified, deception. The corpus opened here puts the Agency's own history of those two projects beside it: Pedlow and Welzenbach's study of the U-2 and OXCART programmes, written by the same History Staff in 1992 on full access to CIA records and released in 2013 in the version that left the Area 51 references intact. That study also settles a claim the corpus attaches to it: it contains no Norton Air Force Base, its only Norton is Garrison Norton, a man, and its stated span ends with the transfer of the remaining Agency U-2s to the Air Force in 1974.",
+"openQuestions": [
+"Whether the 1993 Woolsey review produced a records inventory that has itself been released.",
+"The basis for the over-half estimate, which the article attributes to officials rather than to a document."
+],
+"roles": [
+"concealment",
+"disclosure",
+"oversight"
+],
+"whatItIs": "The CIA's own official history of its involvement with unidentified flying objects, written by NRO historian Gerald K. Haines and published in the Agency's in-house journal Studies in Intelligence in 1997.",
+"whyImplicated": "It contains admissions no outside researcher could have obtained: that CIA sponsorship of the Robertson panel was forbidden to be mentioned, that the panel canvassed mass media and the Disney corporation to carry its message, and that the Air Force made misleading and deceptive statements to the public to protect a sensitive national security project."
+},
 "entityInfo": null,
 "era": "1",
 "foia": {
@@ -319,11 +370,24 @@
 },
 "hl": null,
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "locLabel": null,
-"members": null,
-"short": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"members": [
+{
+"cls": "document",
+"id": "cia-overhead-reconnaissance-history-1992",
+"label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "washington-flap-1952",
+"label": "1952 Washington DC Sightings",
+"tier": "C"
+}
+],
+"short": "A Die-hard Issue",
 "sources": [
 {
 "date": "1997-01-01",
@@ -348,7 +412,7 @@
 ],
 "sub": "Gerald K. Haines, CIA Studies in Intelligence, 1997",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 96 of 1027, score 64). 8 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 96 of 1057, score 65). 9 connections, 0 of them custody/witness/funding/programmatic, 3 official denials recorded against it. Axes C0/A3/D2.",
 "timeline": [
 {
 "date": "1997-01-01",

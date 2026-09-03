@@ -57,7 +57,7 @@
 "direction": "in",
 "edgeLabel": "CIA history confirms the 1952 flap drove Agency intervention",
 "id": "haines-cia-history",
-"l0": false,
+"l0": true,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
 "sources": [
@@ -160,7 +160,7 @@
 ],
 "sub": "Radar-visual events over the capital, 19-20 and 26-27 July 1952",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 590 of 1027, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 617 of 1057, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "date": "1952-07-19",

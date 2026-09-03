@@ -240,6 +240,27 @@
 "claimTier": 1,
 "cls": "document",
 "dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Requester of the 9 May 2001 FOIA that produced the release",
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
 "dateStart": "2026-06-16",
 "direction": "out",
 "edgeLabel": "FOIA requester of record",
@@ -322,7 +343,7 @@
 "url": "https://www.theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incident/"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "investigative"
 },
 {
@@ -374,13 +395,34 @@
 },
 {
 "claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Requester of the 1996 FOIA that produced the release",
+"id": "tehran-f4-intercept-1976",
+"l0": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"note": "Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds.",
+"sources": [
+{
+"date": "1976-09-23",
+"name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "1996",
 "direction": "out",
 "edgeLabel": "Founder and operator of the archive that produced the primary record",
 "id": "the-black-vault",
-"l0": false,
+"l0": true,
 "label": "The Black Vault",
 "note": "Nearly every document in this domain arrived through his requests.",
 "sources": [
@@ -444,7 +486,7 @@
 "date": "2022-08-17",
 "dateEnd": null,
 "dateStart": "2022-08-17",
-"deg": 12,
+"deg": 14,
 "denials": [],
 "domains": [
 "elizondo-ttsa",
@@ -535,8 +577,8 @@
 ],
 "status": "active",
 "sub": "Founder, The Black Vault; FOIA requester of record on AATIP and Elizondo",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 166 of 1027, score 47). 12 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 144 of 1057, score 52). 14 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1997-09-01",

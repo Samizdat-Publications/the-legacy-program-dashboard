@@ -902,6 +902,17 @@
 "tier": 1
 },
 {
+"date": "1962-03-13",
+"era": "0",
+"id": "tl-1962-03-13-northwoods",
+"label": "The Joint Chiefs forward fabricated pretexts for invading Cuba to the Secretary of Defense",
+"node": "operation-northwoods",
+"precision": "day",
+"strand": "coverup",
+"text": "A memorandum for the Secretary of Defense, subject 'Justification for US Military Intervention in Cuba (TS)', serial JCS 1969/321, forwards an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and recommends that responsibility for both overt and covert military operations under the resulting plan be assigned to the Joint Chiefs of Staff. It is signed 'For the Joint Chiefs of Staff, L. L. LEMNITZER, Chairman'.",
+"tier": "B"
+},
+{
 "date": "1962-04-18",
 "era": "0",
 "id": "tl-1962-corso-ftd",

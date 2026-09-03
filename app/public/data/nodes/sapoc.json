@@ -5,6 +5,11 @@
 "band": null,
 "claims": [
 {
+"source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf",
+"text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+"tier": 1
+},
+{
 "source": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
 "text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
 "tier": 2
@@ -133,6 +138,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Records that no OSD office held a list of all special access programmes in 1988",
+"id": "gao-nsiad-88-152",
+"l0": true,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
+"sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": null,
 "dateStart": "2013-02-06",
@@ -156,7 +182,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1994-01-05",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "The SAPOC was established on 5 January 1994, not in 2010. A Deputy Secretary of Defense information bulletin of November 1994 records that 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures' and that the plan 'standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals'; the Joint Security Commission called it a 'recent formation' on 28 February 1994. DoD Directive 5205.07 of 1 July 2010 is therefore a later instrument that re-established a committee which had been running for sixteen years, and it survives in the 12 September 2024 reissue as 'the senior governing body of the DoD SAP Enterprise'. Under the 2013 instruction its chair is the Deputy Secretary of Defense, its vice-chair the Under Secretary of Defense for Acquisition, Technology and Logistics, and its executive secretary the Director of DoD SAPCO; its general membership is the Under Secretaries for Policy, Comptroller/CFO, Intelligence, and Personnel and Readiness, the Vice Chairman of the Joint Chiefs of Staff, the DoD Chief Information Officer, the General Counsel of the Department, the Director of Cost Assessment and Program Evaluation, the Under Secretaries of the Army, Navy and Air Force, the Vice Chiefs of Staff of the Army and Air Force, the Vice Chief of Naval Operations and the Assistant Commandant of the Marine Corps. Its three primary functions are to review issues on which the Senior Review Group could not reach unanimity, to ensure combatant command warfighting needs are reflected in SAP programmatics and budgets, and - the function that matters here - to 'Conduct an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'. In other words, the document Congress receives about special access programs is written and validated by a committee of roughly eighteen senior officials of the Department the report is about, chaired by the same official who signs the carve-outs. This is the body whose membership a witness alleging concealment would have to say was either complicit or itself deceived; DoD's own directive makes that a binary with no third option.",
 "domains": [
@@ -179,6 +205,11 @@
 "members": null,
 "short": "Special Access Program Oversight Committee (SAPOC)",
 "sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, B-230522, 24 May 1988",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+},
 {
 "date": "1994-11-01",
 "name": "Deputy Secretary of Defense, Special Access Program Oversight Committee Information Bulletin, November 1994 (FAS transcription)",
@@ -227,6 +258,6 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 132 of 1027, score 54). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 116 of 1057, score 58). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
 "timeline": []
 }

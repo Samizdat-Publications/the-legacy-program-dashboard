@@ -2,8 +2,18 @@
 "A": 2,
 "C": 0,
 "D": 1,
-"band": null,
+"band": "funding",
 "claims": [
+{
+"source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+"tier": 1
+},
+{
+"source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+"tier": 1
+},
 {
 "source": "DARPA, About, retrieved 12 August 2026",
 "text": "DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices.",
@@ -46,6 +56,48 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "DARPA and the Air Force initiated FALCON in 2003",
+"id": "conventional-prompt-global-strike",
+"l0": false,
+"label": "Conventional Prompt Global Strike",
+"note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
+"sources": [
+{
+"date": "2021-07-16",
+"name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+}
+],
+"tier": "B",
+"type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1958-02-07",
+"direction": "out",
+"edgeLabel": "Founded under the authority of the 1947 Act",
+"id": "harry-s-truman",
+"l0": false,
+"label": "Harry S. Truman",
+"note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "B",
+"type": "legislative"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": "1959",
 "dateStart": "1959",
@@ -60,6 +112,27 @@
 "date": "1959-05-01",
 "name": "Official Register of the United States 1959, US Civil Service Commission",
 "url": "https://www.govinfo.gov/content/pkg/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff/pdf/GOVPUB-CS1-301ae7b075ad3435b3a7dca00e78e8ff.pdf"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1958-02-07",
+"direction": "in",
+"edgeLabel": "Issued the directive that established ARPA",
+"id": "neil-h-mcelroy",
+"l0": false,
+"label": "Neil H. McElroy",
+"note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
 }
 ],
 "tier": "B",
@@ -111,14 +184,38 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958-02-07",
-"deg": 4,
+"deg": 7,
 "denials": [],
 "desc": "DARPA describes itself as 'an independent research and development agency within the U.S. Department of War' and states it was 'Created in response to the launch of Sputnik in 1957' as 'our nation's commitment to never again face a strategic technical surprise'. It runs six technical offices, and its published budget figures as of 2026 are a President's FY2027 request of $5.039 billion against an FY2026 enacted level of $4.322 billion. DARPA's relevance to this board is twofold and mostly negative-space. First, it is named among the contributing elements to ODNI's June 2021 Preliminary Assessment on UAP - the only pure R&D organisation on that list, which implies it was consulted on the 'USG or U.S. industry developmental programs' explanatory category, the category that exists to reconcile UAP reports against black aerospace projects. Second, DARPA is the institutional counterfactual against which the legacy program allegation is measured: DARPA is what an American breakthrough-technology effort looks like when it is run in the open, with named program managers on fixed terms, published solicitations and a public budget. Any organisation performing eighty years of exotic materials exploitation without producing a single DARPA-style transition to a fielded system is either failing or is structured to avoid exactly that visibility.",
 "domains": [
 "_rs-archive-mirror",
 "w2-agencies"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+"tier": 1
+},
+{
+"source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+"tier": 1
+}
+],
+"narrative": "The comparison only works if the agency's own paper is on the board, and now it is. The founding instrument is reproduced in full inside the agency's own commissioned history, and two things in it matter. The establishment clause puts ARPA inside the Office of the Secretary of Defense rather than inside a service, and the mandate is written open-ended by design: the Agency is responsible for such advanced projects in the field of research and development as the Secretary of Defense shall from time to time designate, by individual project or by category. That is a charter that can absorb anything the Secretary points at, which is exactly the shape the legacy allegation describes, and it was published. The second correction is to the officer. The CIA's own chronology, an independent record, states that on 7 February 1958 ARPA was established in DoD with Roy W. Johnson of General Electric named director; Herbert York was the first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. The podcast corpus reverses those two, and no York node is built: the correction belongs here, on the agency.",
+"openQuestions": [
+"The issuing office's own copy of DoD Directive 5105.15 was not opened; esd.whs.mil returned HTTP 403 on every path tried, and the directive's text here comes from the ARPA-commissioned history's reproduction of it.",
+"Whether DARPA's role among the contributing elements to ODNI's June 2021 Preliminary Assessment extended beyond the developmental-programs explanatory category."
+],
+"roles": [
+"research",
+"funding"
+],
+"whatItIs": "The Advanced Research Projects Agency, established in the Office of the Secretary of Defense by DoD Directive 5105.15 of 7 February 1958 under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953, with its Director reporting to the Secretary of Defense. Its first Director was Roy W. Johnson.",
+"whyImplicated": "DARPA is the institutional counterfactual against which the legacy programme allegation is measured: it is what an American breakthrough-technology effort looks like when it is run in the open, with named programme managers on fixed terms, published solicitations and a public budget. Until this pass the node argued that counterfactual while carrying no founding record at all."
+},
 "entityInfo": null,
 "era": "0",
 "foia": {
@@ -127,12 +224,47 @@
 },
 "hl": null,
 "id": "darpa",
-"l0": false,
+"l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "locLabel": null,
-"members": null,
-"short": "Defense Advanced Research Projects Agency",
+"members": [
+{
+"cls": "program",
+"id": "conventional-prompt-global-strike",
+"label": "Conventional Prompt Global Strike",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "harry-s-truman",
+"label": "Harry S. Truman",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "lawrence-p-gise",
+"label": "Lawrence P. Gise",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "neil-h-mcelroy",
+"label": "Neil H. McElroy",
+"tier": "B"
+}
+],
+"short": "DARPA",
 "sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
 {
 "date": "2026-08-03",
 "name": "Archived: DARPA - About (Wayback 2026-08-03)",
@@ -155,7 +287,7 @@
 }
 ],
 "sub": "Independent R&D agency created in response to Sputnik; contributor to the 2021 UAP assessment",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 643 of 1027, score 24). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 329 of 1057, score 36). 7 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D1.",
 "timeline": []
 }

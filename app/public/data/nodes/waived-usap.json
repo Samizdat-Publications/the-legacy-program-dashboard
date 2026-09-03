@@ -62,7 +62,7 @@
 "direction": "in",
 "edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
 "id": "darpa",
-"l0": false,
+"l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
 "sources": [
@@ -72,7 +72,7 @@
 "url": "https://www.darpa.mil/about"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "research"
 },
 {
@@ -467,12 +467,6 @@
 "tier": "A"
 },
 {
-"cls": "institution",
-"id": "darpa",
-"label": "Defense Advanced Research Projects Agency",
-"tier": "C"
-},
-{
 "cls": "event",
 "id": "dod-sap-reform-1994",
 "label": "DoD special access programme governance change, 5 January 1994",
@@ -537,7 +531,7 @@
 ],
 "sub": "The specific legal category at the centre of every allegation on this board",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 92 of 1027, score 65). 12 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 95 of 1057, score 65). 12 connections, 5 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2009-11-17",

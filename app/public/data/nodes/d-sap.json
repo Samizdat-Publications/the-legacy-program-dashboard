@@ -111,12 +111,33 @@
 ],
 "tier": "B",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A primary statement of how special access programmes are established and by whom",
+"id": "gao-nsiad-88-152",
+"l0": true,
+"label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"note": "The report is a primary statement of how special access programmes are established and by whom.",
+"sources": [
+{
+"date": "1988-05-24",
+"name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
+"url": "https://www.gao.gov/assets/nsiad-88-152.pdf"
+}
+],
+"tier": "B",
+"type": "programmatic"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1960-01-01",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "desc": "A special access programme is the mechanism by which the executive branch creates an information space with tighter controls than Top Secret and a smaller list of people who may enter it. The tier structure is documented policy, not speculation: acknowledged SAPs whose existence is public though their content is not; unacknowledged SAPs whose very existence is classified; and waived unacknowledged SAPs for which the Secretary of Defense has exercised the 10 U.S.C. 119 waiver so that notification runs only to the chairs and ranking members of the armed services and defence appropriations committees - eight members, typically without staff, typically orally. That last category is the load-bearing one for this board, because it is a lawful configuration in which a programme can run for decades while the overwhelming majority of Congress has no lawful means of learning it exists. In 2009 the Office of the Under Secretary of Defense for Intelligence prepared an information memorandum reviewing a request to convert DIA's advanced aerospace work into a special access programme - a documented instance of the transition being considered for exactly this subject matter. Scoring high on this domain means an entity held, granted, or was formally denied SAP-level access, and the denial is scored as heavily as the grant.",
 "domains": [
@@ -161,7 +182,7 @@
 ],
 "sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 289 of 1027, score 37). 4 connections, 1 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 242 of 1057, score 41). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "date": "2009-11-01",

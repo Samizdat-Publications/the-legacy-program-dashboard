@@ -1,0 +1,130 @@
+{
+"A": 1,
+"C": 0,
+"D": 1,
+"band": null,
+"claims": [
+{
+"source": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl",
+"text": "Pelton was convicted of conspiracy to commit espionage, espionage and attempted espionage, and unauthorized disclosure of classified information, in the United States District Court for the District of Maryland.",
+"tier": 1
+},
+{
+"source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"text": "The government's brief describes the sentence as concurrent life terms on the espionage and conspiracy counts and a concurrent ten-year term on the unauthorized-disclosure count.",
+"tier": 1
+},
+{
+"source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
+"text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
+"text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
+"tier": 2
+}
+],
+"cls": "document",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "States the fact of a compromise while naming no operation",
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+],
+"tier": "A",
+"type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
+"id": "nsa",
+"l0": true,
+"label": "National Security Agency",
+"note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+],
+"tier": "B",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "1986",
+"deg": 2,
+"denials": [
+{
+"by": {
+"id": "us-v-pelton-1986",
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "States the fact of a compromise while naming no operation",
+"note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+]
+}
+],
+"desc": "The federal espionage prosecution of a former National Security Agency employee in the United States District Court for the District of Maryland. The Solicitor General's brief in opposition to certiorari states the counts of conviction and the sentence and describes the compromise only as information about several classified NSA operations. It names no programme, no codename, no platform and no collection site. It is recorded here because two Danny Jones guests cite this prosecution as the public record of an undersea cable tapping operation, and the federal filing that was opened does not carry that content.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "1",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "us-v-pelton-1986",
+"l0": false,
+"label": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"locLabel": null,
+"members": null,
+"short": "United States v. Ronald W. Pelton (D. Md. 1986)",
+"sources": [
+{
+"date": null,
+"name": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General",
+"url": "https://www.justice.gov/osg/media/218076/dl"
+}
+],
+"sub": "Solicitor General's brief in opposition, Pelton v. United States, No. 87-6433: the counts, the concurrent life terms, and 'several classified NSA operations'",
+"tier": "C",
+"tierRationale": "Re-graded C on a global pass (rank 739 of 1057, score 22). 2 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"timeline": []
+}

@@ -5,6 +5,21 @@
 "band": "reverse-engineering",
 "claims": [
 {
+"source": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
+"tier": 1
+},
+{
+"source": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
+"tier": 1
+},
+{
+"source": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+"tier": 1
+},
+{
 "source": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
 "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
 "tier": 2
@@ -244,14 +259,35 @@
 "url": "https://thedebrief.org/summer-of-the-saucers/"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Named on six of the fifteen pages; his own signed letter is two of them",
+"id": "will-miller",
+"l0": false,
+"label": "Will Miller",
+"note": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
+"sources": [
+{
+"date": "2002-10-16",
+"name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "2002",
-"deg": 7,
+"deg": 8,
 "denials": [
 {
 "by": {
@@ -301,7 +337,7 @@
 ]
 }
 ],
-"desc": "Fifteen pages of handwritten notes made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme's gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO's 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.",
+"desc": "Fifteen typed pages headed 'EWD NOTES', made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas; two of the fifteen pages, numbered 3 and 4, are not Davis's notes at all but a paper-clipped letter from Will Miller on United States Navy letterhead dated 25 April 2002, flagged in the notes themselves at the foot of page 2 as '[paper-clipped letter here]'. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme's gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO's 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.",
 "domains": [
 "_rs-archive-mirror",
 "history-1970s-2000s"
@@ -470,11 +506,22 @@
 "cls": "person",
 "id": "thomas-wilson",
 "label": "Thomas R. Wilson",
-"tier": "C"
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "will-miller",
+"label": "Will Miller",
+"tier": "B"
 }
 ],
 "short": "The Wilson-Davis Notes",
 "sources": [
+{
+"date": "2002-10-16",
+"name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
 {
 "date": "2026-07-05",
 "name": "Archived: AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I' (DOPSR-2024-0263) (Wayback 2026-07-05)",
@@ -498,7 +545,7 @@
 ],
 "sub": "Fifteen handwritten pages by Eric W. Davis of a conversation with VADM Thomas R. Wilson (ret.)",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 82 of 1027, score 68). 9 connections, 5 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 49 of 1057, score 81). 10 connections, 6 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "date": "2002-10-16",

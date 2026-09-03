@@ -64,12 +64,33 @@
 ],
 "tier": "B",
 "type": "programmatic"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
+"id": "operation-northwoods",
+"l0": true,
+"label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
+"note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
+"sources": [
+{
+"date": "1962-03-13",
+"name": "Justification for US Military Intervention in Cuba, JCS 1969/321, 13 March 1962, full released text",
+"url": "https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+}
+],
+"tier": "B",
+"type": "behavioral"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1984-12-11",
-"deg": 2,
+"deg": 3,
 "denials": [],
 "desc": "A body of fabricated documents is the most efficient way to poison an evidentiary well, and this field has one of the largest such bodies on record. The Majestic-12 papers - first surfacing on unsolicited film delivered to Jaime Shandera in December 1984, purporting to be an Eisenhower-era briefing on recovered craft - were investigated by the FBI, whose file on the matter is public in the Bureau's Vault reading room and records the Air Force Office of Special Investigations' assessment that the documents were bogus. Whether any given MJ-12 document is a forgery, a forgery built on real classified content, or a genuine record does not change the structural point: once fabricated material enters circulation, every genuine document acquires the burden of proving it is not one of them, and that burden is the concealment dividend. This board therefore treats forged documents as evidence of an act - someone made them, at a cost, for a purpose - and asks who benefited from their circulation. Scoring high on this domain means an entity authored, distributed, authenticated or debunked fabricated material, all four of which are consequential roles.",
 "domains": [
@@ -113,6 +134,6 @@
 ],
 "sub": "Evidentiary domain - forged and salted records as a concealment instrument",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 762 of 1027, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 771 of 1057, score 21). 3 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A1/D1.",
 "timeline": []
 }

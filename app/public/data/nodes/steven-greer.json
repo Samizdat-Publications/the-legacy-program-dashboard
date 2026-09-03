@@ -145,7 +145,7 @@
 "url": "https://clinton.presidentiallibraries.us/items/show/36386"
 }
 ],
-"tier": "C",
+"tier": "B",
 "type": "institutional"
 },
 {
@@ -168,12 +168,33 @@
 ],
 "tier": "A",
 "type": "behavioral"
+},
+{
+"claimTier": 2,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Placed with Greer and Mitchell at the April 1997 Pentagon talk",
+"id": "will-miller",
+"l0": false,
+"label": "Will Miller",
+"note": "The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said.",
+"sources": [
+{
+"date": "2002-10-16",
+"name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+}
+],
+"tier": "B",
+"type": "witness-chain"
 }
 ],
 "date": "2001-05-09",
 "dateEnd": null,
 "dateStart": "2001-05-09",
-"deg": 4,
+"deg": 5,
 "denials": [],
 "domains": [
 "history-1970s-2000s",
@@ -223,7 +244,7 @@
 "status": "active",
 "sub": "Emergency physician; founder of CSETI (1990) and the Disclosure Project (1993); National Press Club event 9 May 2001",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 721 of 1027, score 21). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 629 of 1057, score 25). 5 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "2001-05-09",

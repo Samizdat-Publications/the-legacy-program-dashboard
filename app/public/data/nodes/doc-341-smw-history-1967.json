@@ -1,0 +1,171 @@
+{
+"A": 2,
+"C": 1,
+"D": 2,
+"band": null,
+"claims": [
+{
+"source": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, p 32, in the 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The wing history records that on 16 March 1967 at 0845 all sites in Echo Flight shut down with No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assemble, that all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and that no other Wing I configuration lost alert at that time.",
+"tier": 1
+},
+{
+"source": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, p 38, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The same history states at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'.",
+"tier": 1
+},
+{
+"source": "341st Strategic Missile Wing History, 1 Jan - 31 Mar 1967, pp 38 and 40, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The history records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+"tier": 1
+},
+{
+"source": "341st Space Wing FOIA release of 14 June 2001, full text, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "No launch control officer is named anywhere in the eighty-seven page release: the only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+}
+],
+"cls": "document",
+"cluster": "legacy",
+"connections": [
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Requester of the 9 May 2001 FOIA that produced the release",
+"id": "john-greenewald",
+"l0": false,
+"label": "John Greenewald Jr.",
+"note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "location",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The whole release concerns Malmstrom AFB, Montana",
+"id": "l-malmstrom",
+"l0": false,
+"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
+"note": "The whole release concerns Malmstrom AFB, Montana.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "C",
+"type": "geographic"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "The unit history the event node names as decisive, now opened",
+"id": "malmstrom-echo-flight-1967",
+"l0": true,
+"label": "Malmstrom AFB missile shutdowns, March 1967",
+"note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Host of the released scan",
+"id": "the-black-vault",
+"l0": true,
+"label": "The Black Vault",
+"note": "The Black Vault is the host of the released scan.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "C",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "An Air Force wing history, released by an Air Force FOIA office",
+"id": "usaf",
+"l0": true,
+"label": "United States Air Force",
+"note": "The history is an Air Force wing history and the release is an Air Force FOIA response.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": "2001-06-14",
+"deg": 5,
+"denials": [],
+"desc": "Excerpts from five quarterly histories of the 341st Strategic Missile Wing, Malmstrom AFB, released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 and posted by The Black Vault. The January to March 1967 volume carries a section headed 'the investigation of Echo Flight incident and the results' at pages 32 to 40, footnoted throughout to a single classified engineering report of 23 March 1967. The release is the document the board's Malmstrom node names as decisive. It states the shutdown happened and states that the UFO reports around it were disproven, and it names no launch officer on duty.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "2",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"locLabel": null,
+"members": null,
+"short": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"sub": "Excerpts from five quarterly 341st Strategic Missile Wing histories, released to John Greenewald Jr by HQ 341st Space Wing on 14 June 2001",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 309 of 1057, score 37). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C1/A2/D2.",
+"timeline": []
+}

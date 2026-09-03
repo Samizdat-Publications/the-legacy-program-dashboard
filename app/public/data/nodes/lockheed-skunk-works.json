@@ -157,7 +157,7 @@
 "direction": "in",
 "edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
 "id": "podesta-delonge-mccasland-email-2016",
-"l0": false,
+"l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
 "sources": [
@@ -287,12 +287,6 @@
 "tier": "C"
 },
 {
-"cls": "document",
-"id": "podesta-delonge-mccasland-email-2016",
-"label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
-"tier": "A"
-},
-{
 "cls": "person",
 "id": "richard-m-bissell-jr",
 "label": "Richard M. Bissell Jr.",
@@ -314,6 +308,6 @@
 ],
 "sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 184 of 1027, score 45). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 194 of 1057, score 45). 8 connections, 3 of them custody/witness/funding/programmatic. Axes C3/A3/D0.",
 "timeline": []
 }

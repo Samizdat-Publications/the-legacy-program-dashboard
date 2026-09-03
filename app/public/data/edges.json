@@ -1361,6 +1361,14 @@
 },
 {
 "a": "allen-w-dulles",
+"b": "mkultra",
+"dateStart": "1953-04-13",
+"label": "Authorized MKULTRA as DCI, 13 April 1953",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "allen-w-dulles",
 "b": "robertson-panel",
 "dateStart": "1953-03-13",
 "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
@@ -1700,6 +1708,22 @@
 "b": "sky-canada-project",
 "dateStart": "2022",
 "label": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "arthur-e-exon",
+"b": "l-wright-patterson",
+"dateStart": null,
+"label": "Installation commander, August 1964 to December 1965",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "arthur-e-exon",
+"b": "usaf",
+"dateStart": null,
+"label": "Held the command as a Colonel, per the Air Force's own commander table",
 "t": "institutional",
 "tier": 1
 },
@@ -2096,6 +2120,14 @@
 "tier": 1
 },
 {
+"a": "bell-aircraft-corporation",
+"b": "usaf",
+"dateStart": null,
+"label": "Photographed with three named Air Force test pilots during the Bell X-2 programme",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "ben-rich",
 "b": "lockheed-martin",
 "dateStart": "1993",
@@ -2221,6 +2253,46 @@
 "dateStart": "1962",
 "label": "Air Force flew the shot and its 22-aircraft array",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "bob-fish",
+"b": "defense-support-program",
+"dateStart": null,
+"label": "Named DSP as a programme collecting hard data on unidentified flying objects",
+"t": "research",
+"tier": 1
+},
+{
+"a": "bob-fish",
+"b": "john-podesta",
+"dateStart": null,
+"label": "Wrote to Podesta over three days in March 2015 offering programme names",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "bob-fish",
+"b": "leslie-kean",
+"dateStart": null,
+"label": "Podesta forwarded his DSP email to Kean on 6 March 2015",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "bob-fish",
+"b": "podesta-delonge-mccasland-email-2016",
+"dateStart": null,
+"label": "A second named correspondent inside the same release, read with raw headers",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "bob-fish",
+"b": "project-blue-book",
+"dateStart": null,
+"label": "Relayed a claim that Blue Book continued after 1970 with only its public layer removed",
+"t": "investigative",
 "tier": 1
 },
 {
@@ -2648,6 +2720,46 @@
 "tier": 2
 },
 {
+"a": "charles-p-cabell",
+"b": "allen-w-dulles",
+"dateStart": "1953",
+"label": "Served as deputy to the Director of Central Intelligence",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "charles-p-cabell",
+"b": "cia",
+"dateStart": "1953",
+"label": "Deputy Director of Central Intelligence",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "charles-p-cabell",
+"b": "donald-keyhoe",
+"dateStart": "1958-02-05",
+"label": "Signed the CIA reply to Keyhoe",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "charles-p-cabell",
+"b": "project-blue-book",
+"dateStart": "1952-03",
+"label": "Air Force intelligence chief at Blue Book's creation",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "charles-p-cabell",
+"b": "usaf",
+"dateStart": null,
+"label": "Director of Intelligence, Office of the Deputy Chief of Staff, USAF",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "chris-coons",
 "b": "waived-sap-notification-group",
 "dateStart": null,
@@ -2833,6 +2945,14 @@
 },
 {
 "a": "church-committee",
+"b": "mkultra",
+"dateStart": "1975",
+"label": "Investigated MKULTRA in 1975 without the finance file",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "church-committee",
 "b": "oversight-congress",
 "dateStart": "1975",
 "label": "The historical benchmark, and the source of the board's sharpest statement of the limit",
@@ -2901,6 +3021,78 @@
 "dateStart": "1953-01",
 "label": "CIA convened and staffed the January 1953 scientific advisory panel",
 "t": "programmatic",
+"tier": 1
+},
+{
+"a": "cia-office-of-policy-coordination",
+"b": "cia",
+"dateStart": "1948-06-18",
+"label": "Created inside the Agency by NSC 10/2",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "cia-office-of-policy-coordination",
+"b": "d-psyop",
+"dateStart": "1948-06-18",
+"label": "Propaganda is the first named category in the charter",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "cia-office-of-policy-coordination",
+"b": "harry-s-truman",
+"dateStart": "1948-06-18",
+"label": "Chartered under section 102(d)(5) of the Act he signed",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "cia-overhead-reconnaissance-history-1992",
+"b": "cia",
+"dateStart": null,
+"label": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "cia-overhead-reconnaissance-history-1992",
+"b": "haines-cia-history",
+"dateStart": null,
+"label": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "cia-overhead-reconnaissance-history-1992",
+"b": "l-area51",
+"dateStart": null,
+"label": "The Agency's own account of the establishment and use of the Groom Lake site",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "cia-prepublication-classification-review-board",
+"b": "cia",
+"dateStart": null,
+"label": "A board of the Agency, described in the Agency's own released guidance",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "cia-prepublication-classification-review-board",
+"b": "d-custody",
+"dateStart": null,
+"label": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "cia-prepublication-classification-review-board",
+"b": "d-denial",
+"dateStart": null,
+"label": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"t": "denial",
 "tier": 1
 },
 {
@@ -3229,6 +3421,46 @@
 "dateStart": "2023",
 "label": "AARO was to inherit the Plan's declassification logic",
 "t": "programmatic",
+"tier": 1
+},
+{
+"a": "conventional-prompt-global-strike",
+"b": "d-aerospace",
+"dateStart": null,
+"label": "Hypersonic boost-glide development across three services on appropriated funding",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "conventional-prompt-global-strike",
+"b": "d-prop",
+"dateStart": null,
+"label": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
+"t": "research",
+"tier": 1
+},
+{
+"a": "conventional-prompt-global-strike",
+"b": "daniel-sheehan",
+"dateStart": null,
+"label": "Named the programme as the destination of reverse-engineered propulsion; the CRS report contradicts it",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "conventional-prompt-global-strike",
+"b": "darpa",
+"dateStart": null,
+"label": "DARPA and the Air Force initiated FALCON in 2003",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "conventional-prompt-global-strike",
+"b": "dod",
+"dateStart": null,
+"label": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
+"t": "institutional",
 "tier": 1
 },
 {
@@ -3854,6 +4086,14 @@
 "label": "Sheehan served as counsel to Greer's Disclosure Project",
 "t": "institutional",
 "tier": 2
+},
+{
+"a": "darpa",
+"b": "harry-s-truman",
+"dateStart": "1958-02-07",
+"label": "Founded under the authority of the 1947 Act",
+"t": "legislative",
+"tier": 1
 },
 {
 "a": "darpa",
@@ -5349,6 +5589,46 @@
 "dateStart": "2026",
 "label": "Target vehicle contains no UAP provisions to amend",
 "t": "temporal",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
+"b": "john-greenewald",
+"dateStart": null,
+"label": "Requester of the 9 May 2001 FOIA that produced the release",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
+"b": "l-malmstrom",
+"dateStart": null,
+"label": "The whole release concerns Malmstrom AFB, Montana",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
+"b": "malmstrom-echo-flight-1967",
+"dateStart": null,
+"label": "The unit history the event node names as decisive, now opened",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
+"b": "the-black-vault",
+"dateStart": null,
+"label": "Host of the released scan",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "doc-341-smw-history-1967",
+"b": "usaf",
+"dateStart": null,
+"label": "An Air Force wing history, released by an Air Force FOIA office",
+"t": "institutional",
 "tier": 1
 },
 {
@@ -6952,6 +7232,38 @@
 "tier": 1
 },
 {
+"a": "frank-olson-death-1953",
+"b": "d-denial",
+"dateStart": "1975-06",
+"label": "The Rockefeller Commission anonymised him and footnoted his stability",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "frank-olson-death-1953",
+"b": "d-litigation",
+"dateStart": "2012",
+"label": "2012 suit dismissed 2013 on the 1976 waiver, timeliness and sovereign immunity",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "frank-olson-death-1953",
+"b": "mkultra",
+"dateStart": "1953-11",
+"label": "The death that made the cryptonym public",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "frank-olson-death-1953",
+"b": "sidney-gottlieb",
+"dateStart": "1953-11-19",
+"label": "Named with Lashbrook as running the experiment",
+"t": "witness-chain",
+"tier": 1
+},
+{
 "a": "frank-scully",
 "b": "behind-the-flying-saucers",
 "dateStart": "1950",
@@ -7133,6 +7445,54 @@
 "dateStart": "1995",
 "label": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
 "t": "investigative",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "d-oversight",
+"dateStart": null,
+"label": "Commissioned by statute, section 1133 of Public Law 100-180, and reported to the four defence committees",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "d-sap",
+"dateStart": null,
+"label": "A primary statement of how special access programmes are established and by whom",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "dod-sap-reform-1994",
+"dateStart": null,
+"label": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "gao",
+"dateStart": null,
+"label": "GAO's own report, signed out of the National Security and International Affairs Division under B-230522",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "gao-130581",
+"dateStart": null,
+"label": "The same GAO division two years after the Lockheed document-control testimony",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "gao-nsiad-88-152",
+"b": "sapoc",
+"dateStart": null,
+"label": "Records that no OSD office held a list of all special access programmes in 1988",
+"t": "temporal",
 "tier": 1
 },
 {
@@ -7481,6 +7841,14 @@
 },
 {
 "a": "gerald-ford",
+"b": "frank-olson-death-1953",
+"dateStart": "1976-10-12",
+"label": "Signed Private Law 94-126, 12 October 1976",
+"t": "legislative",
+"tier": 1
+},
+{
+"a": "gerald-ford",
 "b": "hearing-1966-04-05",
 "dateStart": "1966",
 "label": "Ford forced the first congressional hearing on the subject",
@@ -7694,6 +8062,30 @@
 "label": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
 "t": "behavioral",
 "tier": 3
+},
+{
+"a": "glenn-t-seaborg",
+"b": "allen-w-dulles",
+"dateStart": "1961-10-25",
+"label": "Corresponded with the Director of Central Intelligence",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "glenn-t-seaborg",
+"b": "atomic-energy-commission",
+"dateStart": "1961-01-16",
+"label": "Chairman of the Commission",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "glenn-t-seaborg",
+"b": "cia",
+"dateStart": "1963-03-20",
+"label": "Transmitted the Commission's annual report to the Director of Central Intelligence",
+"t": "institutional",
+"tier": 1
 },
 {
 "a": "gofast-video",
@@ -8120,6 +8512,46 @@
 "tier": 1
 },
 {
+"a": "harry-s-truman",
+"b": "cia",
+"dateStart": "1947-07-26",
+"label": "Signed the statute that created the Agency",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "harry-s-truman",
+"b": "dod",
+"dateStart": "1947-07-26",
+"label": "Signed the statute that created the National Military Establishment",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "harry-s-truman",
+"b": "roscoe-hillenkoetter",
+"dateStart": "1947",
+"label": "Appointed the first Director of Central Intelligence of the CIA",
+"t": "institutional",
+"tier": 2
+},
+{
+"a": "harry-s-truman",
+"b": "sidney-souers",
+"dateStart": "1946-01-22",
+"label": "Designated the first Director of Central Intelligence",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "harry-s-truman",
+"b": "usaf",
+"dateStart": "1947-07-26",
+"label": "Signed the statute that created the Department of the Air Force",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "harvard-cfa",
 "b": "avi-loeb",
 "dateStart": null,
@@ -8222,6 +8654,14 @@
 "label": "The FOIA-reach finding is the antecedent of the 2026 contractor-disclosure amendment",
 "t": "legislative",
 "tier": 3
+},
+{
+"a": "hearing-2026-06-30",
+"b": "mkultra",
+"dateStart": "2026-06-30",
+"label": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
+"t": "investigative",
+"tier": 1
 },
 {
 "a": "hearing-2026-06-30",
@@ -9792,6 +10232,30 @@
 "tier": 1
 },
 {
+"a": "john-marks-foia-f-76-374",
+"b": "d-foia",
+"dateStart": "1977",
+"label": "A FOIA request that defeated a records-destruction order",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "john-marks-foia-f-76-374",
+"b": "mkultra",
+"dateStart": "1976",
+"label": "The FOIA request that caused the recovery of the surviving MKULTRA file",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "john-marks-foia-f-76-374",
+"b": "senate-intelligence",
+"dateStart": "1977-06-22",
+"label": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
+"t": "investigative",
+"tier": 1
+},
+{
 "a": "john-mchugh",
 "b": "us-house",
 "dateStart": null,
@@ -9957,6 +10421,22 @@
 "dateStart": "2019",
 "label": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
 "t": "institutional",
+"tier": 1
+},
+{
+"a": "joseph-weber",
+"b": "institute-of-field-physics",
+"dateStart": null,
+"label": "Participant at the Institute's inaugural conference, January 1957",
+"t": "research",
+"tier": 1
+},
+{
+"a": "joseph-weber",
+"b": "louis-witten",
+"dateStart": null,
+"label": "Both printed on the same forty-six-name participants list",
+"t": "research",
 "tier": 1
 },
 {
@@ -11072,6 +11552,30 @@
 "tier": 1
 },
 {
+"a": "leslie-r-groves",
+"b": "afswp",
+"dateStart": "1947-02-28",
+"label": "First Chief, AFSWP",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "leslie-r-groves",
+"b": "atomic-energy-commission",
+"dateStart": "1947-01-31",
+"label": "Member, Military Liaison Committee to the AEC",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "leslie-r-groves",
+"b": "us-navy",
+"dateStart": "1947-03-31",
+"label": "Joint command with a Navy deputy",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "limina-journal",
 "b": "scu-uap-studies",
 "dateStart": "2025",
@@ -11744,6 +12248,22 @@
 "tier": 3
 },
 {
+"a": "mdang-flare-statement-1997",
+"b": "d-denial",
+"dateStart": null,
+"label": "An official explanation offered four months after the event",
+"t": "denial",
+"tier": 2
+},
+{
+"a": "mdang-flare-statement-1997",
+"b": "usaf",
+"dateStart": null,
+"label": "An Air National Guard statement about its own unit's sorties",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "micah-hanks",
 "b": "immaculate-constellation",
 "dateStart": "2024",
@@ -12152,6 +12672,22 @@
 "tier": 1
 },
 {
+"a": "mkultra",
+"b": "cia",
+"dateStart": "1953",
+"label": "CIA umbrella project, authorized 1953",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "mkultra",
+"b": "d-records",
+"dateStart": "1973-01",
+"label": "Records destroyed January 1973; a misfiled finance set survived",
+"t": "custody",
+"tier": 1
+},
+{
 "a": "mona-nemer",
 "b": "nick-pope",
 "dateStart": "2009-12",
@@ -12476,6 +13012,30 @@
 "b": "us-navy",
 "dateStart": "1994-06-09",
 "label": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "naval-ordnance-laboratory",
+"b": "battelle",
+"dateStart": null,
+"label": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"t": "research",
+"tier": 1
+},
+{
+"a": "naval-ordnance-laboratory",
+"b": "nasa",
+"dateStart": null,
+"label": "NASA commissioned both federal reports that date and attribute the alloy",
+"t": "research",
+"tier": 1
+},
+{
+"a": "naval-ordnance-laboratory",
+"b": "us-navy",
+"dateStart": null,
+"label": "A Navy laboratory; the 55-Nitinol patent is assigned to the Secretary of the Navy",
 "t": "institutional",
 "tier": 1
 },
@@ -12886,6 +13446,30 @@
 "label": "demands an intercept history since 2004",
 "t": "legislative",
 "tier": 2
+},
+{
+"a": "neil-h-mcelroy",
+"b": "afswp",
+"dateStart": "1957-11-20",
+"label": "Named AFSWP as the reason the new agency was renamed",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "neil-h-mcelroy",
+"b": "darpa",
+"dateStart": "1958-02-07",
+"label": "Issued the directive that established ARPA",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "neil-h-mcelroy",
+"b": "dod",
+"dateStart": "1957-10-09",
+"label": "Secretary of Defense",
+"t": "institutional",
+"tier": 1
 },
 {
 "a": "neill-tipton",
@@ -13624,6 +14208,70 @@
 "tier": 3
 },
 {
+"a": "operation-laser-strike",
+"b": "uap-gerb",
+"dateStart": null,
+"label": "Named the operation as the deployment framing for the Weygandt Peru account",
+"t": "investigative",
+"tier": 2
+},
+{
+"a": "operation-northwoods",
+"b": "cia",
+"dateStart": null,
+"label": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "d-coverup",
+"dateStart": null,
+"label": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
+"t": "behavioral",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "d-disinformation",
+"dateStart": null,
+"label": "A staffed and signed plan to manufacture events and attribute them to another state",
+"t": "behavioral",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "d-psyop",
+"dateStart": null,
+"label": "Calls for a cover and deception plan executed to provoke a citable reaction",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "dod",
+"dateStart": null,
+"label": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "l-eglin",
+"dateStart": null,
+"label": "The annex places the duplicate aircraft at Eglin AFB",
+"t": "geographic",
+"tier": 1
+},
+{
+"a": "operation-northwoods",
+"b": "national-archives",
+"dateStart": null,
+"label": "Reached the public through the JFK Assassination Records Review Board",
+"t": "custody",
+"tier": 1
+},
+{
 "a": "ornl-metallic-specimen-report",
 "b": "aaro",
 "dateStart": "2024",
@@ -13904,6 +14552,22 @@
 "tier": 2
 },
 {
+"a": "peter-bergmann",
+"b": "institute-of-field-physics",
+"dateStart": null,
+"label": "Steering committee of the Institute's inaugural conference, January 1957",
+"t": "research",
+"tier": 1
+},
+{
+"a": "peter-bergmann",
+"b": "louis-witten",
+"dateStart": null,
+"label": "Both printed on the same forty-six-name participants list",
+"t": "research",
+"tier": 1
+},
+{
 "a": "peter-gersten",
 "b": "caus",
 "dateStart": "1977",
@@ -14048,6 +14712,38 @@
 "tier": 3
 },
 {
+"a": "project-azorian",
+"b": "cia",
+"dateStart": null,
+"label": "CIA programme, on the Agency's own account of it",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "project-azorian",
+"b": "d-custody",
+"dateStart": null,
+"label": "Covert recovery of foreign hardware under a named commercial cover",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "project-azorian",
+"b": "d-foia",
+"dateStart": null,
+"label": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "project-azorian",
+"b": "lockheed-martin",
+"dateStart": null,
+"label": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"t": "institutional",
+"tier": 2
+},
+{
 "a": "project-bear",
 "b": "battelle",
 "dateStart": "1954",
@@ -14070,6 +14766,38 @@
 "label": "Blue Book was hosted at Wright-Patterson from 1952 to 1969",
 "t": "programmatic",
 "tier": 2
+},
+{
+"a": "project-bluebird",
+"b": "cia",
+"dateStart": "1950",
+"label": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"t": "programmatic",
+"tier": 1
+},
+{
+"a": "project-bluebird",
+"b": "d-secrecy",
+"dateStart": "1950-04-05",
+"label": "Compartment created by bypassing the review committee, in writing",
+"t": "behavioral",
+"tier": 1
+},
+{
+"a": "project-bluebird",
+"b": "mkultra",
+"dateStart": "1950",
+"label": "The 1950 predecessor of the 1953 programme",
+"t": "temporal",
+"tier": 1
+},
+{
+"a": "project-bluebird",
+"b": "roscoe-hillenkoetter",
+"dateStart": "1950-04-05",
+"label": "Submitted directly to the DCI, 5 April 1950",
+"t": "institutional",
+"tier": 1
 },
 {
 "a": "project-condign",
@@ -15976,6 +16704,30 @@
 "tier": 2
 },
 {
+"a": "sidney-gottlieb",
+"b": "cia",
+"dateStart": "1955",
+"label": "Chief, TSS Chemical Division 1955; Deputy Chief, TSD 1963; Chief, TSD 1973",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "sidney-gottlieb",
+"b": "d-records",
+"dateStart": "1973-01",
+"label": "Ordered the destruction of the MKULTRA files, January 1973",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "sidney-gottlieb",
+"b": "mkultra",
+"dateStart": "1955",
+"label": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
+"t": "programmatic",
+"tier": 1
+},
+{
 "a": "sidney-souers",
 "b": "cia",
 "dateStart": null,
@@ -16520,6 +17272,54 @@
 "tier": 2
 },
 {
+"a": "talbert-gravity-series-1955",
+"b": "general-dynamics",
+"dateStart": null,
+"label": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
+"t": "research",
+"tier": 2
+},
+{
+"a": "talbert-gravity-series-1955",
+"b": "george-trimble",
+"dateStart": null,
+"label": "Quoted by name as Martin's vice-president in charge of advanced design planning",
+"t": "research",
+"tier": 1
+},
+{
+"a": "talbert-gravity-series-1955",
+"b": "gordon-gray",
+"dateStart": null,
+"label": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "talbert-gravity-series-1955",
+"b": "institute-of-field-physics",
+"dateStart": null,
+"label": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "talbert-gravity-series-1955",
+"b": "rias-inc",
+"dateStart": null,
+"label": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "talbert-gravity-series-1955",
+"b": "sperry-rand",
+"dateStart": null,
+"label": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
+"t": "research",
+"tier": 1
+},
+{
 "a": "task-force-declassification",
 "b": "hearing-2025-09-09",
 "dateStart": "2025",
@@ -16550,6 +17350,46 @@
 "label": "provided bipartisan cover for the earmark",
 "t": "funding",
 "tier": 2
+},
+{
+"a": "tehran-f4-intercept-1976",
+"b": "belgian-af-f16-intercept-1990",
+"dateStart": null,
+"label": "The same shape fourteen years later: a foreign air force intercept inside an allied intelligence file",
+"t": "research",
+"tier": 2
+},
+{
+"a": "tehran-f4-intercept-1976",
+"b": "dia",
+"dateStart": null,
+"label": "Addressee of the report and the agency whose 1996 search located it as the single responsive document",
+"t": "custody",
+"tier": 1
+},
+{
+"a": "tehran-f4-intercept-1976",
+"b": "john-greenewald",
+"dateStart": null,
+"label": "Requester of the 1996 FOIA that produced the release",
+"t": "investigative",
+"tier": 1
+},
+{
+"a": "tehran-f4-intercept-1976",
+"b": "nsa",
+"dateStart": null,
+"label": "An information addressee on the report's own distribution list",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "tehran-f4-intercept-1976",
+"b": "the-black-vault",
+"dateStart": null,
+"label": "Host of the released report and its covering letter",
+"t": "custody",
+"tier": 1
 },
 {
 "a": "terry-patton",
@@ -17840,6 +18680,22 @@
 "tier": 1
 },
 {
+"a": "us-v-pelton-1986",
+"b": "d-denial",
+"dateStart": null,
+"label": "States the fact of a compromise while naming no operation",
+"t": "denial",
+"tier": 1
+},
+{
+"a": "us-v-pelton-1986",
+"b": "nsa",
+"dateStart": null,
+"label": "Prosecution of a former NSA employee for compromising NSA operations",
+"t": "institutional",
+"tier": 1
+},
+{
 "a": "usaf",
 "b": "condon-committee",
 "dateStart": "1966",
@@ -18542,6 +19398,46 @@
 "label": "appointed to the Defence Research Board committee in 1952",
 "t": "institutional",
 "tier": 2
+},
+{
+"a": "will-miller",
+"b": "eric-davis",
+"dateStart": null,
+"label": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
+"t": "witness-chain",
+"tier": 1
+},
+{
+"a": "will-miller",
+"b": "steven-greer",
+"dateStart": null,
+"label": "Placed with Greer and Mitchell at the April 1997 Pentagon talk",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "will-miller",
+"b": "thomas-wilson",
+"dateStart": null,
+"label": "The private two hour conversation of April 1997, as the notes record it",
+"t": "witness-chain",
+"tier": 2
+},
+{
+"a": "will-miller",
+"b": "us-navy",
+"dateStart": null,
+"label": "His letter of 25 April 2002 is on United States Navy letterhead",
+"t": "institutional",
+"tier": 1
+},
+{
+"a": "will-miller",
+"b": "wilson-davis-memo",
+"dateStart": null,
+"label": "Named on six of the fifteen pages; his own signed letter is two of them",
+"t": "witness-chain",
+"tier": 1
 },
 {
 "a": "william-b-adkins",

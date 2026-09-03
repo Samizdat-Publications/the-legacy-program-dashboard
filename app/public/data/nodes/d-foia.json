@@ -116,12 +116,54 @@
 ],
 "tier": "B",
 "type": "denial"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "1977",
+"direction": "in",
+"edgeLabel": "A FOIA request that defeated a records-destruction order",
+"id": "john-marks-foia-f-76-374",
+"l0": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"note": "The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Opening statement, Project MKULTRA joint hearing, 3 August 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
+},
+{
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"id": "project-azorian",
+"l0": false,
+"label": "Project AZORIAN and the Hughes Glomar Explorer",
+"note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
+"sources": [
+{
+"date": "2010-01-04",
+"name": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, approved for release 4 January 2010, 50 pages",
+"url": "https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+}
+],
+"tier": "A",
+"type": "investigative"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1967-07-04",
-"deg": 4,
+"deg": 6,
 "denials": [
 {
 "by": {
@@ -217,8 +259,8 @@
 }
 ],
 "sub": "Procedural domain - the request, the appeal, the Glomar, and what survives the exemptions",
-"tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 548 of 1027, score 28). 4 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 510 of 1057, score 30). 6 connections, 0 of them custody/witness/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "date": "1981-11-03",

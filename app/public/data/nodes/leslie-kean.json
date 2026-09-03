@@ -152,6 +152,27 @@
 ],
 "connections": [
 {
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Podesta forwarded his DSP email to Kean on 6 March 2015",
+"id": "bob-fish",
+"l0": false,
+"label": "Bob Fish",
+"note": "Podesta forwarded Fish's DSP email to Kean on 6 March 2015 with the single word 'FYI', and Fish says he had emailed Kean ten days earlier without reply.",
+"sources": [
+{
+"date": "2015-03-06",
+"name": "WikiLeaks, The Podesta Emails, email id 30433",
+"url": "https://wikileaks.org/podesta-emails/emailid/30433"
+}
+],
+"tier": "B",
+"type": "witness-chain"
+},
+{
 "claimTier": 2,
 "cls": "person",
 "dateEnd": "2023",
@@ -349,7 +370,7 @@
 "date": "2023-06-05",
 "dateEnd": null,
 "dateStart": "2023-06-05",
-"deg": 9,
+"deg": 10,
 "denials": [],
 "domains": [
 "grusch",
@@ -410,7 +431,7 @@
 "status": "active",
 "sub": "Investigative journalist; co-author of the 5 June 2023 Debrief story",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 176 of 1027, score 45). 9 connections, 1 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 159 of 1057, score 49). 10 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "2017-12-16",

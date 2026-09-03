@@ -2,8 +2,23 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
+"band": "disclosure",
 "claims": [
+{
+"source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The unit history this node names as decisive is now open, and it states that the UFO reports were disproven. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 records at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'. It also records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+"tier": 1
+},
+{
+"source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, p. 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The same history records the shutdown itself: on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assembly, all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and no other Wing I configuration lost alert at that time. The section is footnoted throughout to a single classified engineering report of 23 March 1967, which is not in the release.",
+"tier": 1
+},
+{
+"source": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+},
 {
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:28:33, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:28:33, Robert Salas said one of the documents received from the Air Force is a telex about the Echo Flight shutdown which names by name two individuals working for Boeing, in which SAC headquarters demanded a complete investigation and used the words 'this is of grave concern'. Salas says 'I've got that telex.' This is a different document from the 17 March 1967 Air Force teletype the board already cites.",
@@ -25,9 +40,9 @@
 "tier": 2
 },
 {
-"source": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"source": "ufohastings.com document archive, af_teletype_1967-03-17_loss_of_strategic_alert",
 "text": "An Air Force teletype dated 17 March 1967 concerning loss of strategic alert at Malmstrom AFB is published in facsimile under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
-"tier": 2
+"tier": 1
 },
 {
 "source": "Fawcett and Greenwood, 'Clear Intent' (1984)",
@@ -48,6 +63,27 @@
 "cls": "event",
 "cluster": "witness",
 "connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "The unit history the event node names as decisive, now opened",
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "investigative"
+},
 {
 "claimTier": 1,
 "cls": "event",
@@ -157,13 +193,42 @@
 "coords": null,
 "dateEnd": "1967-03-24",
 "dateStart": "1967-03-16",
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "On 16 March 1967 all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, went off alert status in rapid succession. That the shutdown happened is a matter of Air Force paper: Robert Hastings publishes in facsimile an Air Force teletype dated 17 March 1967 concerning loss of strategic alert. What is contested is why. Robert L. Salas, then a launch control officer, states that a topside security police officer reported a glowing red object hovering over the front gate immediately before his flight's missiles dropped off alert; he places his own experience at Oscar Flight and gives 24 March 1967 in some accounts. Fawcett and Greenwood, writing in 1984 with no knowledge of Salas, independently recorded that during the week of 20 March 1967 a flight of ten Malmstrom missiles developed problems while a UFO was in the area and was confirmed on radar, that jet fighters were scrambled, and that later inquiries met with silence. Salas's commander, Col. Frederick Meiwald, wrote to him about the incident on 1 October 1996; the letter is published in facsimile. Col. Robert Mansmann, who was involved in the technical investigation, wrote to Peter Bons on 8 March 1983, to Lee Graham on 30 January 1983 and to T. Scott Crain on 6 May 1987 about it, and those letters too are published in facsimile. Against all this stands a competing engineering account attributing the shutdown to a nearby electromagnetic pulse simulator test, and a sustained public challenge from James Carlson, son of the Echo Flight commander. This board grades the occurrence at tier 1 and the causal attribution at tier 2, and treats the unreleased 341st Strategic Missile Wing unit history for March 1967 as the document that would settle it.",
 "domains": [
 "w2-retrieval-literature"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The unit history this node names as decisive is now open, and it states that the UFO reports were disproven. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 records at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'. It also records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+"tier": 1
+},
+{
+"source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, p. 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The same history records the shutdown itself: on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assembly, all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and no other Wing I configuration lost alert at that time. The section is footnoted throughout to a single classified engineering report of 23 March 1967, which is not in the release.",
+"tier": 1
+},
+{
+"source": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+"tier": 1
+}
+],
+"narrative": "The shutdown is not in dispute and never was: the 341st Strategic Missile Wing's own history for the first quarter of 1967 records that at 0845 on 16 March all sites in Echo Flight went No-Go on Channels 9 and 12 of the Voice Reporting Signal Assembly, that all launch facilities in the flight lost strategic alert nearly simultaneously, and that no other Wing I configuration lost alert at that time. What the history adds is the Air Force's own contemporaneous verdict on the anomaly: at page 38 it states that rumours of unidentified flying objects around the area of Echo Flight during the time of fault were disproven, records a Mobile Strike Team saying no unusual activity or sightings were observed, records the 801st Radar Squadron giving a negative report on radar or atmospheric interference, and sets beside it a comparable multi-facility shutdown at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure. Two things keep the case open rather than closing it. The whole section is footnoted to a single classified engineering report of 23 March 1967 which is not in the release, so the history states a conclusion whose basis is withheld. And no launch control officer is named anywhere in the eighty-seven released pages: the only officer named in the Echo Flight section is Capt. Bradshaw in the command post, and the names Figel, Salas and Carlson do not appear, so the document neither corroborates nor contradicts the witnesses by name.",
+"openQuestions": [
+"The classified engineering report of 23 March 1967 that the wing history footnotes throughout its Echo Flight section.",
+"The wing's duty rosters for 16 March 1967, which are not in the released excerpts."
+],
+"roles": [
+"disclosure",
+"concealment"
+],
+"whatItIs": "The simultaneous loss of strategic alert by all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, on 16 March 1967, and the competing accounts of why.",
+"whyImplicated": "It is the board's central nuclear-interference case and the one where witness testimony and the unit's own paper can now be read against each other. The wing history the node has always named as decisive is open, and it states that the UFO rumours around the event were disproven."
+},
 "entityInfo": {
 "desc": "The domain's cleanest illustration of the difference between an event and its explanation. That ten Minuteman missiles of Echo Flight went off alert on 16 March 1967 is Air Force paper. That an object caused it is testimony from a named officer with a signed affidavit and a corroborating letter from his own commander. That an electromagnetic pulse simulator test caused it is a competing engineering account. One unreleased document - the 341st Strategic Missile Wing unit history and crew rosters for March 1967 - would probably settle both the flight designation and the sequence, and it has not appeared in fifty-nine years.",
 "sources": []
@@ -175,12 +240,48 @@
 },
 "hl": null,
 "id": "malmstrom-echo-flight-1967",
-"l0": false,
+"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "locLabel": null,
-"members": null,
-"short": "Malmstrom AFB missile shutdowns, March 1967",
+"members": [
+{
+"cls": "document",
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"tier": "B"
+},
+{
+"cls": "event",
+"id": "minot-1966",
+"label": "Minot AFB incursions, 1966",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "minot-1968",
+"label": "Minot AFB B-52 incident, 24 October 1968",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "robert-hastings",
+"label": "Robert L. Hastings",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "robert-salas",
+"label": "Capt. Robert L. Salas",
+"tier": "B"
+}
+],
+"short": "Malmstrom Echo Flight, Mar 1967",
 "sources": [
+{
+"date": "2001-06-14",
+"name": "341st Strategic Missile Wing histories, 1 Jan to 31 Mar 1967, in the HQ 341st Space Wing FOIA release of 14 June 2001 to John Greenewald Jr",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+},
 {
 "date": "2025-07-12",
 "name": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)' (episode audio)",
@@ -204,7 +305,7 @@
 ],
 "sub": "Echo Flight and Oscar Flight Minuteman off-alert events, 341st Strategic Missile Wing",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 280 of 1027, score 38). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 167 of 1057, score 49). 6 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "date": "1967-03-16",

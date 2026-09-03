@@ -2,7 +2,7 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
+"band": "custody",
 "claims": [
 {
 "source": "The Black Vault document archive and case files",
@@ -21,7 +21,7 @@
 "direction": "in",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
 "id": "defense-support-program",
-"l0": false,
+"l0": true,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
 "sources": [
@@ -41,6 +41,27 @@
 },
 {
 "claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Host of the released scan",
+"id": "doc-341-smw-history-1967",
+"l0": false,
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"note": "The Black Vault is the host of the released scan.",
+"sources": [
+{
+"date": "2001-06-14",
+"name": "Department of the Air Force, HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), response to John Greenewald Jr, releasing excerpts of the 341st SMW histories for five quarters",
+"url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": null,
 "dateStart": "1996",
@@ -57,7 +78,7 @@
 "url": "https://www.theblackvault.com/casefiles/to-the-stars-academy-of-arts-science-tom-delonge-and-the-secret-dod-ufo-research-program/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "institutional"
 },
 {
@@ -83,7 +104,7 @@
 "url": "https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "investigative"
 },
 {
@@ -110,6 +131,27 @@
 }
 ],
 "tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Host of the released report and its covering letter",
+"id": "tehran-f4-intercept-1976",
+"l0": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"note": "The Black Vault hosts the released document and its covering letter.",
+"sources": [
+{
+"date": "1976-09-23",
+"name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+}
+],
+"tier": "B",
 "type": "custody"
 },
 {
@@ -147,13 +189,42 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1996",
-"deg": 5,
+"deg": 7,
 "denials": [],
 "desc": "The Black Vault is the private FOIA archive through which the overwhelming majority of primary documents in this domain reached the public: the Elizondo resignation letters, the Garry Reid memoranda, the DD Form 1910, the Neill Tipton messaging emails, the Elizondo-Gough correspondence, the Army's denial of the TTSA CRADA correspondence, and the DoD Inspector General files. It is not aligned with the disclosure movement's conclusions and has publicly contested several of them, which is what gives its releases their evidentiary force — these are documents extracted by an adversarial requester, not supplied by an interested party.",
 "domains": [
 "elizondo-ttsa"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "The Black Vault document archive and case files",
+"text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
+"tier": 1
+},
+{
+"source": "Department of the Air Force, HQ 341st Space Wing, FOIA response to John Greenewald Jr, 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+"text": "The 14 June 2001 release to John Greenewald Jr by HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), covers excerpts of the 341st Strategic Missile Wing histories for five quarters and runs to eighty-seven pages.",
+"tier": 1
+},
+{
+"source": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf",
+"text": "DIA's covering letter of 22 August 1996 to John Greenewald, FOIA case U-80,597/PO/FOIA, states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released with only administrative markings withheld.",
+"tier": 1
+}
+],
+"narrative": "The archive's place on this board is structural: it is the mechanism, not the argument. Two of the records opened in this corpus show why it earns a node rather than a footnote. The first is the 341st Strategic Missile Wing release of 14 June 2001, eighty-seven pages of excerpts from five quarterly wing histories, sent to Greenewald by HQ 341st Space Wing in answer to a request of 9 May 2001. That release is the document the board's Malmstrom node has always named as decisive, and it is the one that states the Air Force's own conclusion and withholds the engineering report behind it. The second is the Defense Intelligence Agency release of 22 August 1996, IR 6 846 0139 76 on the Tehran F-4 intercepts, with DIA's covering letter stating that a search of its systems of records located one document responsive to the subject of the request. Both are cases where what the government holds, and how little of it, is knowable only because somebody outside asked in writing and published the answer with its covering letter attached.",
+"openQuestions": [
+"Whether the 181-page NARA Operation Northwoods file the archive indexes carries material beyond the fifteen-page JCS memorandum.",
+"Which of the archive's outstanding requests in this domain are still pending."
+],
+"roles": [
+"disclosure",
+"custody"
+],
+"whatItIs": "The private Freedom of Information Act archive run by John Greenewald Jr, through which the large majority of the primary documents in this domain reached the public.",
+"whyImplicated": "It is an adversarial requester rather than an interested party, which is what gives its releases their evidentiary force, and several of this board's decisive negative findings exist only because it filed and published."
+},
 "entityInfo": null,
 "era": "1",
 "foia": {
@@ -162,10 +233,41 @@
 },
 "hl": null,
 "id": "the-black-vault",
-"l0": false,
+"l0": true,
 "label": "The Black Vault",
 "locLabel": null,
-"members": null,
+"members": [
+{
+"cls": "document",
+"id": "doc-341-smw-history-1967",
+"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr.",
+"tier": "A"
+},
+{
+"cls": "location",
+"id": "l-la",
+"label": "Los Angeles and Burbank, California",
+"tier": "C"
+},
+{
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "uyrange-hollanda",
+"label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"tier": "B"
+}
+],
 "short": "The Black Vault",
 "sources": [
 {
@@ -176,6 +278,6 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 757 of 1027, score 20). 5 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 563 of 1057, score 28). 7 connections, 4 of them custody/witness/funding/programmatic. Axes C0/A0/D3.",
 "timeline": []
 }

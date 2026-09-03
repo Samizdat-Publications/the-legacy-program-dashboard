@@ -881,12 +881,33 @@
 ],
 "tier": "C",
 "type": "funding"
+},
+{
+"claimTier": 1,
+"cls": "event",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Addressee of the report and the agency whose 1996 search located it as the single responsive document",
+"id": "tehran-f4-intercept-1976",
+"l0": false,
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"note": "DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document.",
+"sources": [
+{
+"date": "1976-09-23",
+"name": "DIA Intelligence Information Report IR 6 846 0139 76, USDAO Tehran, with the DIA FOIA response U-80,597/PO/FOIA of 22 August 1996, hosted by The Black Vault",
+"url": "https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+}
+],
+"tier": "B",
+"type": "custody"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1961",
-"deg": 34,
+"deg": 35,
 "denials": [
 {
 "by": {
@@ -1320,6 +1341,12 @@
 "id": "sun-streak",
 "label": "SUN STREAK",
 "tier": "C"
+},
+{
+"cls": "event",
+"id": "tehran-f4-intercept-1976",
+"label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
+"tier": "B"
 }
 ],
 "short": "Defense Intelligence Agency",
@@ -1352,7 +1379,7 @@
 ],
 "sub": "Combat support agency; AAWSAP/AATIP executive agent",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 7 of 1027, score 147). 34 connections, 18 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 7 of 1057, score 151). 35 connections, 19 of them custody/witness/funding/programmatic, 5 official denials recorded against it. Axes C3/A3/D1.",
 "timeline": [
 {
 "date": "2008-12-16",

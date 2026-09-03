@@ -5,6 +5,31 @@
 "band": "funding",
 "claims": [
 {
+"source": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+"text": "GRILL FLAME's transfer to INSCOM has a date and an office. The INSCOM Annual Historical Review for FY 1981 records: 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The same review's unit appendix for 30 September 1981 lists the US Army Operational Group and does not list any Intelligence Support Activity.",
+"tier": 1
+},
+{
+"source": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4",
+"text": "A seventh cryptonym belongs in the sequence. The DIA SUN STREAK Project's FY 86 congressional budget justification book line is given as 'identified as DRAGOON ABSORB' in the memorandum of 8 April 1985 recommending a twelve-person prototype operational group.",
+"tier": 1
+},
+{
+"source": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7 ; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+"text": "The 1995 declassification review was the CIA's own, not the veterans'. An Office of Research and Development memorandum to CIA Public Affairs of 12 June 1995 answers 'Who is conducting the review?' with: 'The CIA's Office of Research and Development with the aid of a blue ribbon panel of experts in the behavioral sciences at the American Institutes for Research.' A second ORD paper of 20 June 1995 records the choice as deliberate: 'Our strategy was to ask the US Army and the National Research Council to form a blue ribbon panel similar to the group that completed a study for the Army in the late 1980's. We also proposed to declassify past CIA sponsorship and to further declassify other program material.'",
+"tier": 1
+},
+{
+"source": "ORD-0289-95, 20 June 1995, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+"text": "The programme was six people at the end: 'The DIA program consists of three operational remote viewers and three management and support personnel. DIA also funded a related R&D effort with SAIC for several years, ending in 1994.'",
+"tier": 1
+},
+{
+"source": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1",
+"text": "The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names.",
+"tier": 1
+},
+{
 "source": "Memorandum, CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5, https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt",
 "text": "The CENTER LANE project office was the Security Support Detachment, not the Systems Exploitation Detachment. The memorandum submitting the CENTER LANE FY86 to FY90 General Defense Intelligence Program initiative is headed 'DEPARTMENT OF THE ARMY / SECURITY SUPPORT DETACHMENT / USAINSCOM, 902D MILITARY INTELLIGENCE GROUP / FORT GEORGE G. MEADE, MARYLAND 20755', office symbol IAGPA-F-SD, and is signed by a lieutenant colonel of Military Intelligence as CENTER LANE Project Manager. The same office symbol heads the July 1984 information paper on the project's cancellation.",
 "tier": 1
@@ -496,6 +521,31 @@
 "short": "STAR GATE and predecessors",
 "sources": [
 {
+"date": "2018-09-11",
+"name": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, INSCOM History Office, released 11 September 2018 after mandatory declassification review",
+"url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+},
+{
+"date": "1995-06-12",
+"name": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7"
+},
+{
+"date": "1995-06-20",
+"name": "ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8"
+},
+{
+"date": "1985-04-08",
+"name": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4"
+},
+{
+"date": "1987-12-15",
+"name": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1"
+},
+{
 "date": "1984-04-04",
 "name": "CENTER LANE FY 86 - 90 GDIP Submission (U), 4 April 1984, CIA-RDP96-00788R001600450002-5",
 "url": "https://archive.org/download/cia-readingroom-document-cia-rdp96-00788r001600450002-5/cia-rdp96-00788r001600450002-5_djvu.txt"
@@ -533,7 +583,7 @@
 ],
 "sub": "CIA/Army/DIA psychoenergetics effort; SCANATE, GONDOLA WISH, GRILL FLAME, CENTER LANE, SUN STREAK, STAR GATE",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 130 of 1027, score 55). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 76 of 1057, score 70). 11 connections, 2 of them custody/witness/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [
 {
 "date": "1970-01-01",

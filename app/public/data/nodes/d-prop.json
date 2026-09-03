@@ -24,6 +24,27 @@
 "cluster": "research",
 "connections": [
 {
+"claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Every booster traced to Trident II, Peacekeeper or Polaris derived stages",
+"id": "conventional-prompt-global-strike",
+"l0": false,
+"label": "Conventional Prompt Global Strike",
+"note": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
+"sources": [
+{
+"date": "2021-07-16",
+"name": "CRS R41464, Conventional Prompt Global Strike and Long-Range Ballistic Missiles: Background and Issues",
+"url": "https://www.everycrsreport.com/reports/R41464.html"
+}
+],
+"tier": "B",
+"type": "research"
+},
+{
 "claimTier": 3,
 "cls": "domain",
 "dateEnd": null,
@@ -73,7 +94,7 @@
 "direction": "in",
 "edgeLabel": "Standing written disclaimer of any connection to anti-gravity research",
 "id": "institute-of-field-physics",
-"l0": false,
+"l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
 "sources": [
@@ -83,14 +104,14 @@
 "url": "https://physics.unc.edu/department-history/section-ii/"
 }
 ],
-"tier": "B",
+"tier": "A",
 "type": "denial"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1956-02-01",
-"deg": 3,
+"deg": 4,
 "denials": [
 {
 "by": {
@@ -156,6 +177,6 @@
 ],
 "sub": "Technical domain - gravitic, inertial-mass and metric-engineering approaches to flight",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 484 of 1027, score 30). 3 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 479 of 1057, score 31). 4 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D2.",
 "timeline": []
 }

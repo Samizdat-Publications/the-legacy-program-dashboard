@@ -239,6 +239,27 @@
 },
 {
 "claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
+"id": "naval-ordnance-laboratory",
+"l0": false,
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
 "cls": "person",
 "dateEnd": null,
 "dateStart": "2023-09-14",
@@ -361,7 +382,7 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1958-07-29",
-"deg": 14,
+"deg": 15,
 "denials": [],
 "desc": "NASA was created by the National Aeronautics and Space Act of 1958 as an explicitly civilian agency, and for six decades its institutional answer on UFOs was that the subject belonged to the Air Force. That changed on 9 June 2022, when NASA announced an independent study of unidentified anomalous phenomena, and on 14 September 2023, when it published the 'Unidentified Anomalous Phenomena Independent Study Team Report'. The 16-member panel was chaired by Dr David Spergel of the Simons Foundation and included Dr Anamaria Berea, Dr Federica Bianco, Dr David Grinspoon and the retired NASA astronaut Captain Scott Kelly. The report's findings are notable less for what they concluded about UAP than for what they conceded about the data problem: that 'much of the data collected by military sensors or intelligence satellites are classified', that structured data curation 'plays a pivotal role' and is largely absent, and that NASA's Earth-observing fleet and the U.S. commercial remote-sensing industry have 'the collective potential to directly resolve UAP events'. In the foreword, Associate Administrator for the Science Mission Directorate Dr Nicola Fox announced that 'NASA is appointing a Director of UAP Research to centralize communications'. NASA's leverage on this board is that it is the one agency with world-class sensing capability, a statutory public mission and no SAP equity in the alleged recovery enterprise - which makes it the most plausible venue for an unclassified evidentiary standard, and the agency most conspicuously kept at arm's length from the classified holdings.",
 "domains": [
@@ -534,6 +555,12 @@
 "tier": "C"
 },
 {
+"cls": "institution",
+"id": "naval-ordnance-laboratory",
+"label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
+"tier": "C"
+},
+{
 "cls": "person",
 "id": "nicola-fox",
 "label": "Nicola J. Fox",
@@ -574,7 +601,7 @@
 ],
 "sub": "Civil space agency; host of the 2023 UAP Independent Study Team",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 196 of 1027, score 44). 14 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 196 of 1057, score 45). 15 connections, 3 of them custody/witness/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "date": "2023-09-14",

@@ -5,6 +5,11 @@
 "band": "custody",
 "claims": [
 {
+"source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"text": "The Commission gains its first named chairman on this board. The CIA's own declassified chronology records under January 1961: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' McCone went from the Commission to the Directorship of Central Intelligence, and two years later Seaborg was writing to him there on Commission letterhead. No end to the chairmanship is established by any record opened for this pass.",
+"tier": 1
+},
+{
 "source": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755, sec. 2(a), approved 1 August 1946, https://www.govinfo.gov/content/pkg/STATUTE-60/pdf/STATUTE-60-Pg755.pdf",
 "text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
 "tier": 1
@@ -124,6 +129,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1961-01-16",
+"direction": "in",
+"edgeLabel": "Chairman of the Commission",
+"id": "glenn-t-seaborg",
+"l0": false,
+"label": "Glenn T. Seaborg",
+"note": "Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here.",
+"sources": [
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "location",
 "dateEnd": "1955",
 "dateStart": "1955",
@@ -166,6 +192,27 @@
 },
 {
 "claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": "1947-01-31",
+"direction": "in",
+"edgeLabel": "Member, Military Liaison Committee to the AEC",
+"id": "leslie-r-groves",
+"l0": false,
+"label": "Lt. Gen. Leslie R. Groves",
+"note": "He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme.",
+"sources": [
+{
+"date": "2002-01-01",
+"name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+"url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
 "cls": "program",
 "dateEnd": "1946",
 "dateStart": "1946",
@@ -189,7 +236,7 @@
 "coords": null,
 "dateEnd": "1974-10-11",
 "dateStart": "1946-08-01",
-"deg": 7,
+"deg": 9,
 "denials": [],
 "desc": "The Atomic Energy Commission was created by the Atomic Energy Act of 1946 and took statutory title to everything the Manhattan Engineer District had held: all fissionable material, all atomic weapons and parts, and all processes and technical information behind them. It ran the born-secret information regime, under which data in defined categories is classified by operation of statute and declassified only by an affirmative act of the Commission, and it gated every contractor employee's access behind an FBI investigation and a Commission determination. Its Division of Military Application was established in the founding statute and directed by a serving officer of the armed forces. The Energy Reorganization Act of 1974 abolished it and vested its functions in ERDA, from which they passed to the Department of Energy. Four guests across four Michels lead maps place the Commission at a custody point for recovered material; nothing in either statute or in the National Archives record group description says anything about recovered material, and the node carries the statute rather than the testimony.",
 "domains": [
@@ -282,6 +329,12 @@
 "tier": "B"
 },
 {
+"cls": "person",
+"id": "glenn-t-seaborg",
+"label": "Glenn T. Seaborg",
+"tier": "B"
+},
+{
 "cls": "location",
 "id": "l-groom-lake",
 "label": "Groom Lake, Nevada",
@@ -292,10 +345,21 @@
 "id": "l-nevada-test-site",
 "label": "Nevada Test Site / Nevada National Security Site",
 "tier": "C"
+},
+{
+"cls": "person",
+"id": "leslie-r-groves",
+"label": "Lt. Gen. Leslie R. Groves",
+"tier": "B"
 }
 ],
 "short": "Atomic Energy Commission",
 "sources": [
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
 {
 "date": "1946-08-01",
 "name": "Atomic Energy Act of 1946, Public Law 79-585, 60 Stat. 755 (Ch. 724, S. 1717)",
@@ -319,6 +383,6 @@
 ],
 "sub": "Civilian atomic authority, 1946-1974; statutory custodian of fissionable material and atomic weapons",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 153 of 1027, score 50). 7 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 133 of 1057, score 55). 9 connections, 3 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
 "timeline": []
 }

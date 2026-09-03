@@ -33,12 +33,33 @@
 ],
 "tier": "A",
 "type": "programmatic"
+},
+{
+"claimTier": 2,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "research"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1952",
-"deg": 1,
+"deg": 2,
 "denials": [],
 "desc": "General Dynamics appears in the record because Rep. Nancy Mace used it as her worked example. On 13 November 2024 she asked Luis Elizondo whether material given to private contractors is allocated by expertise - 'if it is related to submerged and undersea propulsion, would it go to a general contractor like General Dynamics?' - and Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.' The company's documented role is the undersea one: Electric Boat builds and sustains the US ballistic missile and attack submarine fleet, and General Dynamics holds the deepest undersea engineering base in American industry. The exchange is the only public description of a distributed, domain-partitioned custody model, and Mace's choice of General Dynamics as the undersea example was not contradicted by the witness. No document places recovered material at General Dynamics; the company is here because a member of Congress and a former program director together described the architecture in which it would sit.",
 "domains": [
@@ -67,6 +88,6 @@
 ],
 "sub": "Prime contractor; submarines, undersea systems, Electric Boat",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 784 of 1027, score 19). 1 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 786 of 1057, score 20). 2 connections, 1 of them custody/witness/funding/programmatic. Axes C1/A3/D0.",
 "timeline": []
 }

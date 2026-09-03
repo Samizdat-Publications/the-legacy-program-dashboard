@@ -259,14 +259,22 @@ const CHECKS = [
   {
     id: 'thin-bands-print-amber',
     label: 'a band under five nodes says so in amber, and a full one does not',
-    test: p => p.thinTotal > 0 && p.thinAmber === p.thinTotal && p.fullAmber === 0,
-    detail: p => `${p.thinAmber}/${p.thinTotal} thin bands amber · `
+    /* Until 3 September 2026 the disclosure band held three nodes and this
+       required a thin band to exist. The Danny Jones build took it to six, so
+       no band on the current data is thin and the amber half cannot be
+       exercised on the real page; the detail says so rather than pretending.
+       The full-band half still asserts on every band drawn. */
+    test: p => (p.thinTotal === 0 || p.thinAmber === p.thinTotal) && p.fullAmber === 0,
+    detail: p => (p.thinTotal === 0 ? 'no band under five nodes on this data, amber half unexercised · '
+                                    : `${p.thinAmber}/${p.thinTotal} thin bands amber · `)
                + `${p.fullAmber}/${p.fullTotal} full bands amber (must be 0)`
                + ` · ${(p.bandsInfo||[]).map(b => b.id + ':' + b.n).join(' ')}`,
-    /* Poison both halves: a thin band that stayed grey, and amber bleeding onto
-       a band that is not thin. One alone would pass on a gutter painted amber
-       from top to bottom. */
-    poison: p => ({ ...p, thinAmber: p.thinTotal - 1, fullAmber: 1 }),
+    /* Poison both halves: a thin band that stayed grey (conjured when the data
+       has none, so the predicate is still shown rejecting it), and amber
+       bleeding onto a band that is not thin. One alone would pass on a gutter
+       painted amber from top to bottom. */
+    poison: p => ({ ...p, thinTotal: Math.max(1, p.thinTotal),
+                    thinAmber: Math.max(1, p.thinTotal) - 1, fullAmber: 1 }),
   },
   {
     id: 'axis-type-readable-at-every-scale',

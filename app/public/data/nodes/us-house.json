@@ -87,7 +87,7 @@
 "url": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework"
 }
 ],
-"tier": "B",
+"tier": "C",
 "type": "institutional"
 },
 {
@@ -525,7 +525,7 @@
 "cls": "domain",
 "id": "d-legislative",
 "label": "Legislative Process (proposed and pending)",
-"tier": "B"
+"tier": "C"
 },
 {
 "cls": "institution",
@@ -590,6 +590,6 @@
 ],
 "sub": "Lower chamber; venue of every public UAP hearing since 2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 251 of 1027, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 267 of 1057, score 40). 12 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": []
 }

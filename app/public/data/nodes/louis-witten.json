@@ -8,6 +8,11 @@
 "chronology": [],
 "claims": [
 {
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
 "source": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 2:07:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2173204669.mp3?updated=1757589247",
 "text": "On American Alchemy with Jesse Michels, 31 August 2025, at 2:07:12 and 2:08:06, Michels said that at the time of the Avro car project Wright Field also had 'a dedicated theoretical physics group' headed by a man the caption renders as 'Josh Goldberg', and that Agnew Bahnson, who ran the University of North Carolina's Institute of Field Physics with Bryce DeWitt, recorded in diaries found years later that he had been told to get in touch with Townsend Brown because he wanted to build a spaceship. Neither Goldberg nor Bahnson appears anywhere in the board's research files, the caption spells Bahnson 'Bonson', and no diary, archive or document is named on air.",
 "tier": 2
@@ -45,7 +50,7 @@
 "direction": "in",
 "edgeLabel": "Witten took part in the Institute's inaugural Chapel Hill conference",
 "id": "institute-of-field-physics",
-"l0": false,
+"l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
 "sources": [
@@ -55,7 +60,49 @@
 "url": "https://physics.unc.edu/department-history/section-ii/"
 }
 ],
-"tier": "B",
+"tier": "A",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Both printed on the same forty-six-name participants list",
+"id": "joseph-weber",
+"l0": false,
+"label": "Joseph Weber",
+"note": "Both are printed on the same forty-six-name participants list.",
+"sources": [
+{
+"date": null,
+"name": "https://edition-open-sources.org/sources/5/6/index.html",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Both printed on the same forty-six-name participants list",
+"id": "peter-bergmann",
+"l0": false,
+"label": "Peter G. Bergmann",
+"note": "Both are printed on the same forty-six-name participants list of the January 1957 Chapel Hill conference.",
+"sources": [
+{
+"date": null,
+"name": "https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+}
+],
+"tier": "C",
 "type": "research"
 },
 {
@@ -83,7 +130,7 @@
 "date": "1957-01-18",
 "dateEnd": null,
 "dateStart": "1957-01-18",
-"deg": 2,
+"deg": 4,
 "denials": [],
 "domains": [
 "legacy-1947-86"
@@ -108,6 +155,11 @@
 "sequenceChain": [],
 "short": "Louis Witten",
 "sources": [
+{
+"date": "1957-03-01",
+"name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
 {
 "date": "2025-08-31",
 "name": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)' (episode audio)",
@@ -137,7 +189,7 @@
 "status": "dead",
 "sub": "General relativist; first researcher hired by RIAS, Inc., the Glenn L. Martin Company's research institute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 722 of 1027, score 21). 2 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 607 of 1057, score 26). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": "The claim that George Trimble recruited Witten is NOT carried. The only openable source says Witten approached Bryce DeWitt in a bid to have DeWitt join RIAS, and nothing read states who hired Witten. The AIP oral history that lists both Trimble and RIAS among its topics returned 403 to both curl and WebFetch and was not read."

@@ -103,6 +103,27 @@
 },
 {
 "claimTier": 1,
+"cls": "program",
+"dateEnd": null,
+"dateStart": "1975",
+"direction": "out",
+"edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
+"id": "mkultra",
+"l0": true,
+"label": "Project MKULTRA",
+"note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
+"sources": [
+{
+"date": "1977-08-03",
+"name": "Prepared statement of Admiral Stansfield Turner, 3 August 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "A",
+"type": "investigative"
+},
+{
+"claimTier": 1,
 "cls": "institution",
 "dateEnd": "1976",
 "dateStart": "1975",
@@ -130,7 +151,7 @@
 "direction": "out",
 "edgeLabel": "Recommended the permanent oversight committee that followed it",
 "id": "senate-intelligence",
-"l0": false,
+"l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
 "sources": [
@@ -168,7 +189,7 @@
 "coords": null,
 "dateEnd": "1976-04-26",
 "dateStart": "1975-01-27",
-"deg": 6,
+"deg": 7,
 "denials": [
 {
 "by": {
@@ -278,12 +299,6 @@
 },
 {
 "cls": "institution",
-"id": "senate-intelligence",
-"label": "Senate Select Committee on Intelligence",
-"tier": "B"
-},
-{
-"cls": "institution",
 "id": "us-senate",
 "label": "United States Senate",
 "tier": "C"
@@ -299,7 +314,7 @@
 ],
 "sub": "Established by S. Res. 21, 27 January 1975; final report S. Rept. 94-755, six books, 1976",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 194 of 1027, score 44). 6 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 193 of 1057, score 45). 7 connections, 0 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D3.",
 "timeline": [
 {
 "date": "1976-04-26",

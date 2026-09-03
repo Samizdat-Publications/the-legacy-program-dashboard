@@ -2,7 +2,7 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": null,
+"band": "oversight",
 "claims": [
 {
 "source": "P.L. 117-263; S. 2226 as engrossed Division M; P.L. 118-31; P.L. 118-159, GPO",
@@ -64,6 +64,27 @@
 ],
 "tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": "1977-08-03",
+"dateStart": "1977-06-22",
+"direction": "in",
+"edgeLabel": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
+"id": "john-marks-foia-f-76-374",
+"l0": false,
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
+"sources": [
+{
+"date": "1977-06-22",
+"name": "Memorandum for the DDCI, 22 June 1977",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+}
+],
+"tier": "C",
+"type": "investigative"
 },
 {
 "claimTier": 1,
@@ -132,13 +153,42 @@
 "coords": null,
 "dateEnd": null,
 "dateStart": "1976",
-"deg": 5,
+"deg": 6,
 "denials": [],
 "desc": "SSCI is where the sharpest UAP language originates and where it dies. Its annual Intelligence Authorization Act has carried, in successive years: Sec. 6802 of the FY2023 IAA restating AARO into existence and demanding the Historical Record Report; Sec. 6803 putting GAO auditors on that report; Sec. 1102 of the FY2024 IAA ordering contractors to surrender a list of non-earth origin material with immunity; Sec. 7343, the enacted remnant of that; and Secs. 6801-6802 of the FY2025 IAA. Its leadership through the critical period — Chairman Warner and Vice Chairman Rubio — wrote or cosponsored every major UAP instrument of 2023, with Warner authoring the contractor turn-in and Rubio cosponsoring the eminent domain text. That combination of committee access and legislative aggression is the strongest single piece of circumstantial evidence on this board: the two members entitled to the most complete intelligence briefings in the Senate both moved, in the same month, to compel production of physical material from private hands. Rubio left the Senate in January 2025 and Warner moved to Vice Chairman; the FY2026 Intelligence Authorization Act, riding in Division F of P.L. 119-60, contains no UAP provisions at all.",
 "domains": [
 "congress-senate-legislation"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "P.L. 117-263; S. 2226 as engrossed Division M; P.L. 118-31; P.L. 118-159, GPO",
+"text": "The Intelligence Authorization Act for FY2023 (Secs. 6802, 6803), FY2024 (Sec. 1102 Senate / Sec. 7343 enacted) and FY2025 (Secs. 6801, 6802) all carried UAP provisions.",
+"tier": 1
+},
+{
+"source": "Full-text search of P.L. 119-60 Division F, GPO",
+"text": "The Intelligence Authorization Act for FY2026, Division F of P.L. 119-60, contains no UAP provisions.",
+"tier": 1
+},
+{
+"source": "Congressional Record, 13 July 2023 (SA 666 and SA 797), GPO",
+"text": "SSCI Chairman Warner authored the contractor turn-in and Vice Chairman Rubio cosponsored the eminent domain amendment, both filed 13 July 2023.",
+"tier": 1
+}
+],
+"narrative": "The committee reaches this map twice over. Its modern record is legislative: successive Intelligence Authorization Acts carrying UAP provisions, a chairman who authored the contractor turn-in and a vice chairman who cosponsored the eminent domain text, and then the FY2026 Act, Division F of P.L. 119-60, carrying none. The corpus opened here adds a much older instance of the same committee at the same hinge. When CIA's Office of Technical Service found seven boxes of MKULTRA finance folders in 1977 in response to John Marks's Freedom of Information Act request, the memorandum recommending what to do about it set the order of notification: inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks's attorneys. Six weeks later the material reached the public through this committee's own joint hearing of 3 August 1977. That is the committee functioning as the route by which a compartment's surviving paper became public, which is the function the board is testing it against now.",
+"openQuestions": [
+"Why the FY2026 Intelligence Authorization Act carries no UAP provision.",
+"Whether the committee holds any record of the 1977 notification beyond the hearing print."
+],
+"roles": [
+"oversight",
+"disclosure"
+],
+"whatItIs": "The Senate Select Committee on Intelligence, whose annual Intelligence Authorization Act has carried the sharpest UAP language of the modern period: Secs. 6802 and 6803 of the FY2023 IAA, Sec. 1102 of the FY2024 IAA and its enacted remnant Sec. 7343, and Secs. 6801 and 6802 of the FY2025 IAA.",
+"whyImplicated": "It is where the strongest legislative language on this subject originates and where it dies, and the members entitled to the most compartmented briefings are the ones who wrote the hardest provisions. It is also, on the record opened in this corpus, the body a CIA component was advised to inform about recovered MKULTRA records before informing the requester's own attorneys."
+},
 "entityInfo": null,
 "era": "1",
 "foia": {
@@ -147,11 +197,36 @@
 },
 "hl": null,
 "id": "senate-intelligence",
-"l0": false,
+"l0": true,
 "label": "Senate Select Committee on Intelligence",
 "locLabel": null,
-"members": null,
-"short": "Senate Select Committee on Intelligence",
+"members": [
+{
+"cls": "document",
+"id": "john-marks-foia-f-76-374",
+"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "mark-warner",
+"label": "Mark R. Warner",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "us-senate",
+"label": "United States Senate",
+"tier": "C"
+}
+],
+"short": "Senate Select Cttee on Intelligence",
 "sources": [
 {
 "date": "2022-12-23",
@@ -171,6 +246,6 @@
 ],
 "sub": "SSCI; author of the IAA UAP provisions",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 336 of 1027, score 35). 5 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 334 of 1057, score 36). 6 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D2.",
 "timeline": []
 }

@@ -32,11 +32,33 @@
 ],
 "cls": "institution",
 "cluster": "contractor",
-"connections": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Names the Sperry Gyroscope Division of Sperry-Rand among the firms on the gravity problem",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series names the Sperry Gyroscope Division of Sperry-Rand Corp. among the firms with scientists investigating the gravity problem, which is a documented attachment for a node the 30 August pass left deliberately unattached.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "research"
+}
+],
 "coords": null,
 "dateEnd": "1986",
 "dateStart": null,
-"deg": 0,
+"deg": 1,
 "denials": [],
 "desc": "Sperry Rand is a narrow item and a clean one: a five-star officer chairing a defence prime while the alleged programme period runs. The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation', and a New York Journal-American column of 17 January 1957, preserved in CIA records, reports that 'Gen. Douglas MacArthur, who will be 77 next week, is active as chairman of the board of Sperry Rand.'\n\nThat column is the more useful artefact, because it inventories the same pipeline in a single paragraph: Halsey at International Tel and Tel, Lucius Clay at Continental Can, Ira Eaker at Hughes Tool, Doolittle at Shell Oil and on the Air Force Scientific Advisory Board and the President's Foreign Intelligence Board, Ennis Whitehead at Northrop, J. B. Montgomery at General Electric. Thirteen further instances of the general-officer-to-prime-contractor movement, in one citable contemporaneous document held by CIA.\n\nTwo corrections travel with it. The company was not called Sperry Rand in 1986: it had been Sperry Corporation since 1979, and it was Sperry Corporation that Burroughs absorbed. SEC's own record shows CIK 0000746838 changing its conformed name from BURROUGHS CORP /DE/ on 4 December 1986, and Unisys carrying Sperry's obligations thereafter, including its sale of the Sperry Aerospace Group that same month. No UAP claim attaches to this node from any document opened for it; the only claim of that kind located is testimonial, and it is recorded below.",
 "domains": [
@@ -80,6 +102,6 @@
 ],
 "sub": "Defence prime chaired by General of the Army Douglas MacArthur; absorbed into Unisys, 1986",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 782 of 1027, score 19). 0 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 785 of 1057, score 20). 1 connections, 0 of them custody/witness/funding/programmatic. Axes C1/A1/D0.",
 "timeline": []
 }

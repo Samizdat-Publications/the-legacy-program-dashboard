@@ -1,0 +1,155 @@
+{
+"A": 3,
+"C": 2,
+"D": 1,
+"affiliations": [],
+"age": null,
+"band": null,
+"chronology": [],
+"claims": [
+{
+"source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The founding instrument, reproduced in the agency's own commissioned history: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' The figure is captioned 'TEXT OF DOD DIRECTIVE NUMBER 5105.15, FEBRUARY 7, 1958 (Establishing ARPA)'. The scan is a poor one and renders ARPA as 'AREA' throughout; the readings given here are normalised from obvious OCR corruption.",
+"tier": 1
+},
+{
+"source": "The Advanced Research Projects Agency, 1958-1974, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "The mandate is open-ended by design. The Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.' The directive is 'effective immediately'.",
+"tier": 1
+},
+{
+"source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+"text": "A second agency's record dates the founding and names the first Director independently. The CIA Historical Staff Chronology, under Jan-Apr 58: '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.'",
+"tier": 1
+},
+{
+"source": "House Appropriations Subcommittee on Defense Appropriations, 'The Ballistic Missile Program', Hearings, November 20-21, 1957, p. 25, quoted in The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "He proposed the agency in public before it had its name. Testifying on 20 November 1957 to the House Appropriations Subcommittee on Defense Appropriations he said: 'We plan to establish in the Department of Defense a special agency to handle our satellite and space research and development projects. Tentatively we are thinking of calling this ... the Special Projects Agency of the Department of Defense.' The history records that a member objected to that name as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast #228, 11 March 2024, at 2:00:47 to 2:06:12; contradicted against The Advanced Research Projects Agency, 1958-1974, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+"text": "On the Danny Jones Podcast #228, 11 March 2024, at 2:00:47, Annie Jacobsen said ARPA was created around 1956 to 1957 and that its first director was Herb York. The opened records contradict both: the directive is dated 7 February 1958 and Roy W. Johnson was appointed Director the same day, while Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+"tier": 2
+}
+],
+"cls": "person",
+"cluster": "legacy",
+"conflicts": [],
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1957-11-20",
+"direction": "out",
+"edgeLabel": "Named AFSWP as the reason the new agency was renamed",
+"id": "afswp",
+"l0": false,
+"label": "Armed Forces Special Weapons Project",
+"note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "B",
+"type": "temporal"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1958-02-07",
+"direction": "out",
+"edgeLabel": "Issued the directive that established ARPA",
+"id": "darpa",
+"l0": true,
+"label": "Defense Advanced Research Projects Agency",
+"note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "B",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": "1957-10-09",
+"direction": "out",
+"edgeLabel": "Secretary of Defense",
+"id": "dod",
+"l0": true,
+"label": "United States Department of Defense (secondary designation: Department of War)",
+"note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+}
+],
+"date": "1958-02-07",
+"dateEnd": null,
+"dateStart": "1958-02-07",
+"deg": 3,
+"denials": [],
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "0",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "neil-h-mcelroy",
+"instId": null,
+"l0": false,
+"label": "Neil H. McElroy",
+"loc": null,
+"locId": null,
+"members": null,
+"narrative": "The board's DARPA node argues a counterfactual about the agency and carries no founding record at all. This is that record and the officer behind it. McElroy was sworn in as Secretary of Defense on 9 October 1957, five days after Sputnik, and on 7 February 1958 issued DoD Directive 5105.15, which established the Advanced Research Projects Agency in the Office of the Secretary of Defense under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953. The agency's own commissioned history reproduces the directive in full and records that he took a personal hand in the founding and selected Roy W. Johnson as first Director. His public description of the plan predates the name: testifying on 20 November 1957 he called it the Special Projects Agency and was told the name was confusable with the Armed Forces Special Weapons Project.",
+"photoCredit": null,
+"sequenceChain": [],
+"short": "Neil H. McElroy",
+"sources": [
+{
+"date": "1975-12-01",
+"name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+"url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+},
+{
+"date": "1970-06-01",
+"name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+},
+{
+"date": "1958-01-15",
+"name": "CIA reading room document CIA-RDP85B00803R000100040092-9, Establishment of Advanced Research Projects Agency",
+"url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000100040092-9"
+}
+],
+"status": "dead",
+"sub": "Secretary of Defense from 9 October 1957; issued DoD Directive 5105.15 establishing ARPA, 7 February 1958",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 321 of 1057, score 36). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A3/D1.",
+"timeline": [],
+"unexplainedResidual": null,
+"unverified": []
+}

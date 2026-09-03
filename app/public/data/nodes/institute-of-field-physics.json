@@ -2,8 +2,23 @@
 "A": 1,
 "C": 2,
 "D": 1,
-"band": null,
+"band": "funding",
 "claims": [
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+"tier": 1
+},
+{
+"source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+},
 {
 "source": "History of the Institute of Field Physics (1955-1959), Dean Rickles, UNC Chapel Hill Department of Physics and Astronomy department history, Section II, https://physics.unc.edu/department-history/section-ii/",
 "text": "The Institute was incorporated and sited deliberately inside a university: 'The IOFP received its certificate of incorporation on September 7, 1955.' 'The plan of the IOFP was to house an institute within an academic institution, so as to avoid the conflict that physicists felt working in an industrial setting. The chosen location was the physics department at the University of North Carolina, Chapel Hill.'",
@@ -84,6 +99,27 @@
 "claimTier": 1,
 "cls": "person",
 "dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
+"id": "joseph-weber",
+"l0": false,
+"label": "Joseph Weber",
+"note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
+"sources": [
+{
+"date": null,
+"name": "https://edition-open-sources.org/sources/5/6/index.html",
+"url": "https://edition-open-sources.org/sources/5/6/index.html"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
 "dateStart": "1957-01",
 "direction": "out",
 "edgeLabel": "Witten took part in the Institute's inaugural Chapel Hill conference",
@@ -96,6 +132,27 @@
 "date": "2026-09-02",
 "name": "History of the Institute of Field Physics (1955-1959), Section II",
 "url": "https://physics.unc.edu/department-history/section-ii/"
+}
+],
+"tier": "C",
+"type": "research"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Steering committee of the Institute's inaugural conference, January 1957",
+"id": "peter-bergmann",
+"l0": false,
+"label": "Peter G. Bergmann",
+"note": "The conference was, in the report's own words, an activity of the North Carolina Project of the Institute of Field Physics, and Bergmann sat on its steering committee.",
+"sources": [
+{
+"date": null,
+"name": "https://edition-open-sources.org/sources/5/5/index.html",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
 }
 ],
 "tier": "C",
@@ -121,12 +178,33 @@
 ],
 "tier": "C",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "coords": null,
 "dateEnd": null,
 "dateStart": "1955-09-07",
-"deg": 4,
+"deg": 7,
 "denials": [
 {
 "by": {
@@ -154,7 +232,37 @@
 "domains": [
 "area52-2026-09-02"
 ],
-"dossier": null,
+"dossier": {
+"claims": [
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+"tier": 1
+},
+{
+"source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html",
+"text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+"tier": 1
+},
+{
+"source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+"tier": 1
+}
+],
+"narrative": "Two records opened in this corpus refine the node rather than extend it, and both refinements cut against an easy reading. The first is sponsorship. The conference report's title page reads that the meeting was held under the sponsorship of the International Union of Pure and Applied Physics, with financial support from UNESCO, the National Science Foundation, the Wright Air Development Center of the US Air Force, and the Office of Ordnance Research of the US Army. IUPAP sponsored it; four bodies paid for it; and the Foreword says the report exists because it was a necessary requirement to obtain conference funds. The Air Force's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting. The second is naming and dating. The conference title page says the Institute was established in 1956 in the Department of Physics, while the certificate of incorporation is dated 7 September 1955: two different acts, which a node should not collapse. And Talbert's Herald Tribune series of 20 November 1955 shows the press knew it at its founding as the Institute of Pure Physics, approved by the trustees that month with Gordon Gray's approval. Four of the forty-six conference participants were serving in US military research offices, which is the fact worth carrying: not that the Air Force ran it, but that it was in the room.",
+"openQuestions": [
+"What the change of name from Institute of Pure Physics to Institute of Field Physics turned on, which no opened record states.",
+"Whether the Wright Air Development Center's financial support carried any condition beyond the report."
+],
+"roles": [
+"research",
+"funding",
+"concealment"
+],
+"whatItIs": "A privately endowed gravitation-research institute placed inside the physics department at the University of North Carolina at Chapel Hill, incorporated 7 September 1955, directed by Bryce and Cecile DeWitt and funded principally by the Winston-Salem industrialist Agnew Bahnson. Its inaugural event was the January 1957 Conference on the Role of Gravitation in Physics, now known as GR1.",
+"whyImplicated": "It is where the aerospace money and the academic gravity work meet on the same page: George Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000 while the company was separately standing up RIAS, whose first researcher was Louis Witten. And it is the body that wrote its own anti-gravity disclaimer into every publicity statement, which is a documented instance of an institution managing the reputational risk this board maps."
+},
 "entityInfo": null,
 "era": "0",
 "foia": {
@@ -163,12 +271,59 @@
 },
 "hl": null,
 "id": "institute-of-field-physics",
-"l0": false,
+"l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "locLabel": null,
-"members": null,
-"short": "Institute of Field Physics (UNC Chapel Hill)",
+"members": [
+{
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics",
+"tier": "B"
+},
+{
+"cls": "person",
+"id": "george-trimble",
+"label": "George S. Trimble",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "joseph-weber",
+"label": "Joseph Weber",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "louis-witten",
+"label": "Louis Witten",
+"tier": "C"
+},
+{
+"cls": "person",
+"id": "peter-bergmann",
+"label": "Peter G. Bergmann",
+"tier": "C"
+},
+{
+"cls": "institution",
+"id": "rias-inc",
+"label": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"tier": "C"
+}
+],
+"short": "Institute of Field Physics",
 "sources": [
+{
+"date": "1957-03-01",
+"name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword",
+"url": "https://edition-open-sources.org/sources/5/5/index.html"
+},
+{
+"date": "1955-11-20",
+"name": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+},
 {
 "date": "2026-09-02",
 "name": "History of the Institute of Field Physics (1955-1959), Dean Rickles, UNC Chapel Hill Department of Physics and Astronomy department history, Section II",
@@ -186,8 +341,8 @@
 }
 ],
 "sub": "Privately endowed gravitation-research institute inside the UNC physics department, incorporated 7 September 1955",
-"tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 244 of 1027, score 40). 4 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.",
+"tier": "A",
+"tierRationale": "Re-graded A on a global pass (rank 147 of 1057, score 52). 7 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A1/D1.",
 "timeline": [
 {
 "date": "1955-09-07",

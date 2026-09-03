@@ -1,0 +1,166 @@
+{
+"A": 2,
+"C": 2,
+"D": 3,
+"band": null,
+"claims": [
+{
+"source": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 2018/11/28, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The Board's released guidance states: Please allow at least 30 working days for completion of the review process.",
+"tier": 1
+},
+{
+"source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The same guidance provides that if the Board upholds its decision on reconsideration the author may formally appeal in writing to the Board's Chairman within 30 days, and that such appeals go to the Agency's Associate Deputy Director for a final Agency decision.",
+"tier": 1
+},
+{
+"source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "Where the Board determines that a manuscript contains classified information, the guidance requires the author to return any and all versions of this work, in whatever form, for destruction and to remove those items from their hard drive, with CIA security personnel available to assist.",
+"tier": 1
+},
+{
+"source": "Prepublication Review Information, CIA reading-room document C06712956, https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt",
+"text": "The released item includes an internal document dated 17 April 2013 headed Prepublication Review Procedures and marked SECRET//CIA INTERNAL USE ONLY//NOFORN, describing manuscript flow through a case assigner, a Team Lead, equity-holding Information Review Officers and a second reviewer.",
+"tier": 1
+},
+{
+"source": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. No. 01-01342 (EGS), 16 August 2001, https://sgp.fas.org/news/2001/08/zaid.html",
+"text": "Mark S. Zaid was attorney of record for the plaintiff in Danny B. Stillman v. Department of Energy, United States District Court for the District of Columbia, Civil Action No. 01-01342 (EGS), and stated in his declaration of 16 August 2001 that he specialises in litigating national security cases including those involving the First Amendment.",
+"tier": 1
+},
+{
+"source": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
+"text": "On the Danny Jones Podcast, episode 329, 5 September 2025, at 0:05:01 to 0:08:16, Andrew Bustamante said his manuscript was submitted in 2021, declared classified by CIA in 2022, and approved roughly three weeks after suit was threatened. No CIA record of that review was opened for this node, and a book's own clearance page is not a record.",
+"tier": 2
+}
+],
+"cls": "institution",
+"cluster": "ic",
+"connections": [
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A board of the Agency, described in the Agency's own released guidance",
+"id": "cia",
+"l0": true,
+"label": "Central Intelligence Agency",
+"note": "A board of the Agency, described in the Agency's own released guidance.",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+],
+"tier": "A",
+"type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "Requires every version of a manuscript surrendered for destruction and removed from the author's hard drive",
+"id": "d-custody",
+"l0": false,
+"label": "Chain of custody",
+"note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+],
+"tier": "A",
+"type": "custody"
+},
+{
+"claimTier": 1,
+"cls": "domain",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeLabel": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"id": "d-denial",
+"l0": false,
+"label": "Official Denial",
+"note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+],
+"tier": "A",
+"type": "denial"
+}
+],
+"coords": null,
+"dateEnd": null,
+"dateStart": null,
+"deg": 3,
+"denials": [
+{
+"by": {
+"id": "cia-prepublication-classification-review-board",
+"label": "CIA Prepublication Classification Review Board"
+},
+"claimTier": 1,
+"denialKind": null,
+"label": "A disclaimer disowning authentication is attached in advance to every cleared account",
+"note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
+"of": {
+"id": "d-denial",
+"label": "Official Denial"
+},
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+}
+]
+}
+],
+"desc": "The CIA board that reviews, before publication, anything an employee or contractor bound by a secrecy agreement intends to say or write about intelligence. Its own released guidance sets a 30 working day clock, requires written approval before publication, routes appeals to the Agency's Associate Deputy Director, and, where a manuscript is found to contain classified information, requires the author to surrender every version of the work for destruction and to delete it from their hard drive. It is on this board as a documented custody mechanism operating on text rather than on hardware, and as the mechanism through which several of the corpus's own witnesses say their accounts were shaped.No founding instrument for the Board was opened by this pass, so the draft node carries no date; one must be added from a record before it is built.",
+"domains": [
+"dannyjones-2026-09-03"
+],
+"dossier": null,
+"entityInfo": null,
+"era": "nd",
+"foia": {
+"questions": [],
+"requests": []
+},
+"hl": null,
+"id": "cia-prepublication-classification-review-board",
+"l0": false,
+"label": "CIA Prepublication Classification Review Board",
+"locLabel": null,
+"members": null,
+"short": "CIA Prepublication Classification Review Board",
+"sources": [
+{
+"date": "2018-11-28",
+"name": "Prepublication Review Information, CIA reading-room document C06712956, approved for release 28 November 2018",
+"url": "https://archive.org/download/cia-readingroom-document-06712956/06712956_djvu.txt"
+},
+{
+"date": "2001-08-16",
+"name": "Declaration of Mark S. Zaid, Esq., Stillman v. Department of Energy, D.D.C. Civil Action No. 01-01342 (EGS), 16 August 2001",
+"url": "https://sgp.fas.org/news/2001/08/zaid.html"
+}
+],
+"sub": "The CIA board that clears employee and contractor writing before publication: 30 working days, appeal to the Associate Deputy Director, and a destruction and hard-drive-removal provision",
+"tier": "B",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1057, score 47). 3 connections, 1 of them custody/witness/funding/programmatic, 1 official denial recorded against it. Axes C2/A2/D3.",
+"timeline": []
+}

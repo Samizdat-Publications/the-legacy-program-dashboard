@@ -104,12 +104,33 @@
 ],
 "tier": "A",
 "type": "institutional"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": null,
+"direction": "in",
+"edgeLabel": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+"id": "talbert-gravity-series-1955",
+"l0": true,
+"label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
+"note": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
+"sources": [
+{
+"date": null,
+"name": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+"url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+}
+],
+"tier": "C",
+"type": "institutional"
 }
 ],
 "date": "1951-04-04",
 "dateEnd": null,
 "dateStart": "1951-04-04",
-"deg": 3,
+"deg": 4,
 "denials": [],
 "domains": [
 "area52-2026-09-02"
@@ -158,7 +179,7 @@
 "status": "former",
 "sub": "First Director of the Psychological Strategy Board, appointed 1951; Secretary of the Army 1949-50; Special Assistant to the President for National Security Affairs 1958-61",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 302 of 1027, score 36). 3 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 300 of 1057, score 37). 4 connections, 0 of them custody/witness/funding/programmatic. Axes C2/A2/D1.",
 "timeline": [
 {
 "date": "1951-04-04",
