@@ -1548,6 +1548,141 @@
      "date": "2011-04-01"
     }
    ]
+  },
+  {
+   "id": "roscoe-hillenkoetter",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The founding proposal for Project BLUEBIRD went to him as Director of Central Intelligence. The memorandum of 5 April 1950 from the Chief of the CIA's Inspection and Security Staff is addressed to the Director of Central Intelligence and says on its face: 'In view of the extreme sensitivity of this project and its covert nature, it is deemed advisable to submit this project directly to you, rather than through the channel of the Projects Review Committee. Knowledge of this project should be restricted to the absolute minimum number of persons.' It asks him for approval and for an allocation of $65,515.",
+     "source": "Chief, Inspection and Security Staff, CIA, to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950, CIA-RDP83-01042R000800010003-1, National Security Archive John Marks Collection Box 9, https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf"
+    },
+    {
+     "tier": 2,
+     "text": "The Director on that date was Hillenkoetter. The memorandum itself names only the office; the National Security Archive's catalogue record for it names him as the recipient, and this node already dates his tenure as DCI from May 1947 to October 1950 on a CIA-held clipping. The identification is Tier 2 because the document does not make it.",
+     "source": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum, https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Chief, Inspection and Security Staff to the Director of Central Intelligence, 'Project Bluebird', Top Secret, 5 April 1950 (CIA-RDP83-01042R000800010003-1)",
+     "url": "https://nsarchive.gwu.edu/sites/default/files/documents/1950-04-05%20JM%20Box%209%20F5%20Replacement%20CIA%20FOIA-ocr.pdf",
+     "date": "1950-04-05"
+    },
+    {
+     "name": "National Security Archive catalogue record for the 5 April 1950 Project Bluebird memorandum",
+     "url": "https://nsarchive.gwu.edu/document/32717-document-02-chief-inspection-and-security-staff-us-central-intelligence-agency",
+     "date": "2026-09-03"
+    }
+   ]
+  },
+  {
+   "id": "bobby-ray-inman",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "He is not among the directors of The Wackenhut Corporation in any proxy statement EDGAR holds. The proxy for the annual meeting of 7 May 1999 lists twelve directors by name, age and year of first election, among them Julius W. Becton Jr., Benjamin R. Civiletti, Paul X. Kelley, Thomas P. Stafford and George R. Wackenhut, and the name Inman appears nowhere in it. It appears nowhere in the proxy for the 1998 annual meeting or in the 2002 merger proxy either. The corporation reported under CIK 0000104030, SIC 7381; its earliest filing of any kind is dated 24 March 1994 and its earliest proxy statement is a preliminary 14A of 24 March 1997, so no proxy exists on EDGAR for any earlier year and the board's composition before 1997 is unestablished in either direction.",
+     "source": "SEC EDGAR company filing index, CIK 0000104030, https://data.sec.gov/submissions/CIK0000104030.json ; The Wackenhut Corporation DEF 14A filed 31 March 1999, https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt ; DEF 14A for the 1998 annual meeting and DEFM14A filed 10 April 2002, https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt"
+    },
+    {
+     "tier": 2,
+     "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
+     "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md"
+    },
+    {
+     "tier": 2,
+     "text": "This node's unresolved line on a National Underwater Reconnaissance Office stays as written. A third corpus running has failed to open any record of the office: nro.gov and nsa.gov returned HTTP 403, irp.fas.org has no NURO page, the govinfo search API returned a count of zero for the phrase, and the strings NURO and National Underwater Reconnaissance occur nowhere in the fifty released pages of the CIA's own AZORIAN history.",
+     "source": "PROJECT AZORIAN: THE STORY OF THE HUGHES GLOMAR EXPLORER, CIA reading-room document 0005301269, searched in full, https://archive.org/download/cia-readingroom-document-0005301269/0005301269_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "SEC EDGAR company filing index, CIK 0000104030 (The Wackenhut Corporation)",
+     "url": "https://data.sec.gov/submissions/CIK0000104030.json",
+     "date": "2026-09-03"
+    },
+    {
+     "name": "The Wackenhut Corporation, DEF 14A filed 31 March 1999",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000104030/000095014499003822/0000950144-99-003822.txt",
+     "date": "1999-03-31"
+    },
+    {
+     "name": "The Wackenhut Corporation, DEF 14A for the 1998 annual meeting",
+     "url": "https://www.sec.gov/Archives/edgar/data/0000104030/000095014498003074/0000950144-98-003074.txt",
+     "date": "1998-03-31"
+    }
+   ]
+  },
+  {
+   "id": "george-trimble",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "In November 1955 he was a vice-president of Martin, not its chief executive, and the atom-bomb comparison he made was about time and not about money. Ansel Talbert's Herald Tribune series identifies him as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and quotes him: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+     "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955 caption and continuation p. 36 and 22 November 1955 continuation p. 10, page images at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "date": "1955-11-20"
+    },
+    {
+     "name": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image",
+     "url": "https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
+     "date": "1955-11-22"
+    }
+   ]
+  },
+  {
+   "id": "louis-witten",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword",
+     "url": "https://edition-open-sources.org/sources/5/5/index.html",
+     "date": "1957-03-01"
+    }
+   ]
+  },
+  {
+   "id": "uap-gerb",
+   "cls": "person",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+     "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+     "date": "1972-01-01"
+    },
+    {
+     "name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+     "url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+     "date": "1969-09-01"
+    },
+    {
+     "name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+     "url": "https://patents.google.com/patent/US3174851A/en",
+     "date": "1965-03-23"
+    }
+   ]
   }
  ],
  "entities": [
@@ -2383,6 +2518,357 @@
      "date": "2024-11-13"
     }
    ]
+  },
+  {
+   "id": "institute-of-field-physics",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html"
+    },
+    {
+     "tier": 1,
+     "text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html"
+    },
+    {
+     "tier": 1,
+     "text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+     "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011, title page and Foreword",
+     "url": "https://edition-open-sources.org/sources/5/5/index.html",
+     "date": "1957-03-01"
+    },
+    {
+     "name": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image",
+     "url": "https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
+     "date": "1955-11-20"
+    }
+   ]
+  },
+  {
+   "id": "battelle",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+     "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+     "date": "1972-01-01"
+    },
+    {
+     "name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+     "url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+     "date": "1969-09-01"
+    },
+    {
+     "name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+     "url": "https://patents.google.com/patent/US3174851A/en",
+     "date": "1965-03-23"
+    }
+   ]
+  },
+  {
+   "id": "l-columbus-oh",
+   "cls": "location",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+     "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+     "date": "1972-01-01"
+    },
+    {
+     "name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+     "url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+     "date": "1969-09-01"
+    },
+    {
+     "name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+     "url": "https://patents.google.com/patent/US3174851A/en",
+     "date": "1965-03-23"
+    }
+   ]
+  },
+  {
+   "id": "gerb-battelle-investigation",
+   "cls": "document",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The federal literature on nitinol, one report of it written by Battelle itself, does not support a Battelle 1948-49 lineage for the alloy. NASA SP-5110, prepared for NASA by Battelle Memorial Institute in 1972, opens: 'Some 10 years ago, Buehler and Wiley of the U.S. Naval Ordnance Laboratory developed a series of engineering alloys that possess a unique mechanical (shape) memory. The generic name of the series of alloys is 55-Nitinol, where Nitinol stands for Nickel Titanium Naval Ordnance Laboratory.' The earliest Naval Ordnance Laboratory nitinol report cited anywhere in its reference list is NOLTR 61-75 of 3 August 1961; US Patent 3,174,851 was filed on 1 December 1961; and NASA CR-1433 of September 1969 records Battelle's own role as a subcontractor to Goodyear Aerospace which 'processed the basic Nitinol rod'. The allegation that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 are missing from Air Force and Battelle archives is kept on this board as the allegation it is, and is unsupported by the federal literature opened here.",
+     "source": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, Battelle Memorial Institute for NASA, 1972, chapter 1 p. 1 and references 12 and 74, https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf ; NASA CR-1433, Nitinol Characterization Study, September 1969, foreword p. iii and p. 2, https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf ; US Patent 3,174,851, https://patents.google.com/patent/US3174851A/en"
+    }
+   ],
+   "sources": [
+    {
+     "name": "NASA SP-5110, 55-Nitinol: The Alloy With a Memory, C. M. Jackson, H. J. Wagner and R. J. Wasilewski, Battelle Memorial Institute for the NASA Technology Utilization Office, 1972",
+     "url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+     "date": "1972-01-01"
+    },
+    {
+     "name": "NASA CR-1433, Nitinol Characterization Study, Goodyear Aerospace Corporation report GER 14188 under contract NAS 1-7522 for NASA Langley Research Center, September 1969",
+     "url": "https://ntrs.nasa.gov/api/citations/19690026989/downloads/19690026989.pdf",
+     "date": "1969-09-01"
+    },
+    {
+     "name": "US Patent 3,174,851, Nickel-base alloys, William J. Buehler and Raymond C. Wiley, assigned to the United States as represented by the Secretary of the Navy, filed 1 December 1961, granted 23 March 1965",
+     "url": "https://patents.google.com/patent/US3174851A/en",
+     "date": "1965-03-23"
+    }
+   ]
+  },
+  {
+   "id": "malmstrom-echo-flight-1967",
+   "cls": "event",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The unit history this node names as decisive is now open, and it states that the UFO reports were disproven. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 records at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'. It also records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+     "source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The same history records the shutdown itself: on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assembly, all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and no other Wing I configuration lost alert at that time. The section is footnoted throughout to a single classified engineering report of 23 March 1967, which is not in the release.",
+     "source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, p. 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+     "source": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "341st Strategic Missile Wing histories, 1 Jan to 31 Mar 1967, in the HQ 341st Space Wing FOIA release of 14 June 2001 to John Greenewald Jr",
+     "url": "https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf",
+     "date": "2001-06-14"
+    }
+   ]
+  },
+  {
+   "id": "wilson-davis-memo",
+   "cls": "document",
+   "desc": "Fifteen typed pages headed 'EWD NOTES', made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas; two of the fifteen pages, numbered 3 and 4, are not Davis's notes at all but a paper-clipped letter from Will Miller on United States Navy letterhead dated 25 April 2002, flagged in the notes themselves at the foot of page 2 as '[paper-clipped letter here]'. The notes describe Wilson learning in 1997 of a special access programme holding recovered material of non-human origin in the custody of an aerospace contractor; obtaining a meeting with the programme's gatekeepers, described as a programme security officer, a contractor programme manager and a lawyer; and being refused the read-on because he lacked need-to-know. The notes surfaced publicly in 2019 from material connected to the estate of Apollo 14 astronaut Edgar Mitchell. Davis has confirmed the notes are his. Wilson denies the meeting and its substance. Members of the House Intelligence subcommittee raised the memo directly with Pentagon witnesses at the 17 May 2022 UAP hearing and were told the witnesses were unaware of it. No official US government publication - including AARO's 2024 Historical Record Report Volume I - has ever addressed the document. The board records it in full because its central mechanism (a cleared senior official refused access by contractor gatekeepers) is the same mechanism sworn to by David Grusch in July 2023, and because a document whose author is alive and identified and whose subject is alive and identified is a resolvable question that no institution has chosen to resolve.",
+   "_replacement": "Only one sentence of the desc changes. The exact sentence replaced is: Fifteen pages of handwritten notes made by the astrophysicist Eric W. Davis on 16 October 2002, recording what retired Vice Admiral Thomas R. Wilson - former Joint Staff J-2 and, until months earlier, Director of the Defense Intelligence Agency - told him at a meeting reported to have taken place at an EG&G facility in Las Vegas.",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
+     "source": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
+     "source": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
+     "source": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files",
+     "url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+     "date": "2002-10-16"
+    }
+   ]
+  },
+  {
+   "id": "dod-sap-reform-1994",
+   "cls": "event",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+     "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, B-230522, 24 May 1988",
+     "url": "https://www.gao.gov/assets/nsiad-88-152.pdf",
+     "date": "1988-05-24"
+    }
+   ]
+  },
+  {
+   "id": "sapoc",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "A central Army special-access oversight office predates the 1994 reform by ten years. GAO/NSIAD-88-152 records: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.' The same report states that in 1988 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns', and that 'the Secretary's Office has no centralized office with cognizance of all special access programs'. The January 1994 dates this board carries stand; the Army aftermath began in 1983-84.",
+     "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, Results in Brief and Recommendations, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "GAO/NSIAD-88-152, Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement, B-230522, 24 May 1988",
+     "url": "https://www.gao.gov/assets/nsiad-88-152.pdf",
+     "date": "1988-05-24"
+    }
+   ]
+  },
+  {
+   "id": "stargate-program",
+   "cls": "event",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "GRILL FLAME's transfer to INSCOM has a date and an office. The INSCOM Annual Historical Review for FY 1981 records: 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The same review's unit appendix for 30 September 1981 lists the US Army Operational Group and does not list any Intelligence Support Activity.",
+     "source": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+    },
+    {
+     "tier": 1,
+     "text": "A seventh cryptonym belongs in the sequence. The DIA SUN STREAK Project's FY 86 congressional budget justification book line is given as 'identified as DRAGOON ABSORB' in the memorandum of 8 April 1985 recommending a twelve-person prototype operational group.",
+     "source": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4"
+    },
+    {
+     "tier": 1,
+     "text": "The 1995 declassification review was the CIA's own, not the veterans'. An Office of Research and Development memorandum to CIA Public Affairs of 12 June 1995 answers 'Who is conducting the review?' with: 'The CIA's Office of Research and Development with the aid of a blue ribbon panel of experts in the behavioral sciences at the American Institutes for Research.' A second ORD paper of 20 June 1995 records the choice as deliberate: 'Our strategy was to ask the US Army and the National Research Council to form a blue ribbon panel similar to the group that completed a study for the Army in the late 1980's. We also proposed to declassify past CIA sponsorship and to further declassify other program material.'",
+     "source": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7 ; ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8"
+    },
+    {
+     "tier": 1,
+     "text": "The programme was six people at the end: 'The DIA program consists of three operational remote viewers and three management and support personnel. DIA also funded a related R&D effort with SAIC for several years, ending in 1994.'",
+     "source": "ORD-0289-95, 20 June 1995, CIA-RDP96-00791R000100160003-8, https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8"
+    },
+    {
+     "tier": 1,
+     "text": "The release withholds the unit's people, so no claim that a named member appears in it can be checked from the collection itself. Session forms print labelled fields for Remote Viewer, Interviewer and Observer and leave all three blank, and narrative memoranda substitute CIA release codes (SG1A, SG1B, SG1I, SG1J, SGFOIA3) for personal names.",
+     "source": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1, https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, INSCOM History Office, released 11 September 2018 after mandatory declassification review",
+     "url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+     "date": "2018-09-11"
+    },
+    {
+     "name": "CIA memorandum, 12 June 1995, CIA Remote Viewing Declassification, CIA-RDP96-00791R000100030062-7",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100030062-7",
+     "date": "1995-06-12"
+    },
+    {
+     "name": "ORD-0289-95, 20 June 1995, Star Gate - Program Status, Proposed Options, CIA-RDP96-00791R000100160003-8",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00791r000100160003-8",
+     "date": "1995-06-20"
+    },
+    {
+     "name": "Operational Readiness of the SUN STREAK Prototype Operational Group, 8 April 1985, CIA-RDP96-00789R002100130001-4",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r002100130001-4",
+     "date": "1985-04-08"
+    },
+    {
+     "name": "Remote Viewing Session Data, session of 15 December 1987, CIA-RDP96-00789R001600120001-1",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00789r001600120001-1",
+     "date": "1987-12-15"
+    }
+   ]
+  },
+  {
+   "id": "grill-flame",
+   "cls": "program",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The programme's origin and its transfer are both dated in INSCOM's own history. The FY 1981 Annual Historical Review records that 'Project GRILL FLAME originated as a specially controlled and compartmented activity under the direct supervision of the ACSI, DA, and in coordination with other DOD agencies concerned with related activity. ACSI orally tasked HQ INSCOM to evaluate Project GRILL FLAME in October 1978', and that 'On 11 February 1981, ACSI formally transferred the GRILL FLAME program management responsibili[ty] to INSCOM where it was assigned to Detachment G, US Army Operational Group.' The section is partly withheld under 5 U.S.C. 552(b)(1) and (b)(3) and its source note names 'IA(HQ) Form 32, Formalization of Project GRILL FLAME (10 Sep 81) (S/NOFORN)'.",
+     "source": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, pp. 89 to 90, released 11 September 2018, https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Annual Historical Review, US Army Intelligence and Security Command, FY 1981, INSCOM History Office, released 11 September 2018 after mandatory declassification review",
+     "url": "https://www.governmentattic.org/30docs/USAINSCOMhistoryFY_1981.pdf",
+     "date": "2018-09-11"
+    }
+   ]
+  },
+  {
+   "id": "darpa",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+     "source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+    },
+    {
+     "tier": 1,
+     "text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+     "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+    }
+   ],
+   "sources": [
+    {
+     "name": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., DTIC AD-A154 363",
+     "url": "https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt",
+     "date": "1975-12-01"
+    },
+    {
+     "name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+     "date": "1970-06-01"
+    }
+   ]
+  },
+  {
+   "id": "afswp",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "Groves held the command for one year to the day. The Defense Threat Reduction Agency's chronology of its own lineage reads: 'Feb. 28, 1947. Maj Gen Groves becomes first Chief AFSWP, serving for one year, until his retirement on February 29, 1948; he is promoted to Lt. General on January 24, 1948.' The same history records that the command stood empty when it was created: 'between the beginning of January and the end of February 1947, there was no officially appointed chief of AFSWP. During this period, Groves' aide, Colonel Hasbrouck, assumed Headquarters command in Washington as the senior officer of the organization.'",
+     "source": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, Appendix C: Chronology, DTIC ADA412977, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt"
+    }
+   ],
+   "sources": [
+    {
+     "name": "Defense's Nuclear Agency 1947-1997, Defense Threat Reduction Agency, 2002, DTIC ADA412977",
+     "url": "https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
+     "date": "2002-01-01"
+    }
+   ]
+  },
+  {
+   "id": "atomic-energy-commission",
+   "cls": "institution",
+   "claims": [
+    {
+     "tier": 1,
+     "text": "The Commission gains its first named chairman on this board. The CIA's own declassified chronology records under January 1961: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' McCone went from the Commission to the Directorship of Central Intelligence, and two years later Seaborg was writing to him there on Commission letterhead. No end to the chairmanship is established by any record opened for this pass.",
+     "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, declassified in part 8 July 2013, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+    }
+   ],
+   "sources": [
+    {
+     "name": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5",
+     "url": "https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5",
+     "date": "1970-06-01"
+    }
+   ]
   }
  ],
  "edges": [],
@@ -2398,5 +2884,6 @@
  "_dates_congress_why": "Ten members of the 10 U.S.C. 119(e)(2) notification group carried no date, so the board could not place them in time at all. Each takes the convening date of the Congress in which that member first held the seat their own sub and Tier 1 claims name - not a date invented for them, and not the date a committee web page was read. Convening dates verified against the Senate's own table: 111th 6 January 2009, 118th 3 January 2023, 119th 3 January 2025. That table is added as a source on each of the ten, because it is what the date rests on.",
  "_dates_researched_why": "Two dates could not be derived from the board and were researched. Levy takes 2025-06-01, the publication month of the UAPx field-expedition paper in Progress in Aerospace Sciences 156:101099 - the same date her first author Szydagis already carries on this board for the same paper. Powers takes 2026-05-20, the date the OSD Historical Office's Key Officials list of 7 July 2026 gives for his assumption of the acting Comptroller role. Checking it turned up a live contradiction between two Department pages: the comptroller site's leadership page still names Hurst, while war.gov's biography of Powers says Powers. The Historical Office list dates the handover and settles it, and the contradiction is recorded as a claim rather than quietly resolved.",
  "_dird_label_why": "Two distinct DIRDs carried the identical label 'Aneutronic Fusion Propulsion', so the board showed a reader two nodes it could not tell apart. They are genuinely different documents and both were downloaded and their covers read on 22 August 2026: DIA-08-1011-003 at 50 pages, authored by Culbreth, and DIA-08-1011-004 at 37 pages, authored by Teofilo, both dated 1 November 2010. Both cover pages carry the same title, so the ambiguity is in the source documents, not in this board's transcription of them. The document number is appended to each label because that is what actually distinguishes them and it was read directly off the covers. NOT asserted: which of the two the DIA's 9 January 2018 list calls 'Aneutronic Fusion Propulsion II'. Culbreth's own claim on this board says list item 30 carries that title and is credited to him, which would make DIA-08-1011-003 the 'II' despite the lower document number. The list itself could not be retrieved to check - irp.fas.org returns HTTP 202 with an empty body - so the roman numeral is left off both labels rather than guessed onto one.",
- "_thin_sourcing_why": "The thin-sourcing backlog is worked source by source, and a source is not added here unless it was opened. Parnell is done: the Department's own release of 18 March 2026 carries the attribution 'Chief Pentagon Spokesman Sean Parnell', which is the Department attributing the role to him rather than a report of it. The rest stalled on retrieval, not on effort. The natural second source for the congressional figures is the Congressional Directory or a member biography, and congress.gov and bioguide.congress.gov both refuse this session; for the historical committee roles - Raskin as Oversight ranking member in the 118th, Gallagher's select-committee chair - the tool is an archived committee page, and web.archive.org is blocked outright here. What IS reachable is recorded in notes/LINK-HEALTH-2026-08-22.md: govinfo.gov, oversight.house.gov, the committee sites, war.gov and theblackvault.com all answer, so this work is resumable rather than blocked, and the route is written down. One note on phrasing. The first draft of the Parnell claim was demoted by the interested-party rule, because it said the Department 'issues releases under his name' and the attribution vocabulary does not contain 'issues' or 'titled'. The fix was to phrase the claim as the attribution it actually is - the release NAMES him - rather than to widen the rule again to fit one sentence. Widening a check until it accepts your own prose is fitting the test to the answer."
+ "_thin_sourcing_why": "The thin-sourcing backlog is worked source by source, and a source is not added here unless it was opened. Parnell is done: the Department's own release of 18 March 2026 carries the attribution 'Chief Pentagon Spokesman Sean Parnell', which is the Department attributing the role to him rather than a report of it. The rest stalled on retrieval, not on effort. The natural second source for the congressional figures is the Congressional Directory or a member biography, and congress.gov and bioguide.congress.gov both refuse this session; for the historical committee roles - Raskin as Oversight ranking member in the 118th, Gallagher's select-committee chair - the tool is an archived committee page, and web.archive.org is blocked outright here. What IS reachable is recorded in notes/LINK-HEALTH-2026-08-22.md: govinfo.gov, oversight.house.gov, the committee sites, war.gov and theblackvault.com all answer, so this work is resumable rather than blocked, and the route is written down. One note on phrasing. The first draft of the Parnell claim was demoted by the interested-party rule, because it said the Department 'issues releases under his name' and the attribution vocabulary does not contain 'issues' or 'titled'. The fix was to phrase the claim as the attribution it actually is - the release NAMES him - rather than to widen the rule again to fit one sentence. Widening a check until it accepts your own prose is fitting the test to the answer.",
+ "_dannyjones_2026_09_03_why": "Section C of research/leads/CANDIDATES-2026-09-03-DANNYJONES.md, applied 3 September 2026. Eighteen additive records: five people and thirteen entities. All are additions of claims and sources except wilson-davis-memo, where the decision list calls for a field replacement and the record carries the whole desc with exactly one sentence swapped, the replaced sentence quoted verbatim in _replacement. The four nitinol nodes (uap-gerb, battelle, l-columbus-oh, gerb-battelle-investigation, found by grepping the board for 'nitinol') each gain the same Tier 1 record claim about what the federal literature says; the Bragalia allegation is deliberately NOT removed and is labelled unsupported inside the new claim."
 }

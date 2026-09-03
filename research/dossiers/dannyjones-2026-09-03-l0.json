@@ -1,0 +1,416 @@
+[
+ {
+  "id": "mkultra",
+  "entityDossier": {
+   "whatItIs": "The CIA's umbrella project for research and development of materials to control human behavior, authorized by Director of Central Intelligence Allen W. Dulles in April 1953 and run out of the Technical Services Division through 149 numbered subprojects at universities, foundations, hospitals and prisons. Its normal procedures for project approval, funding and accounting were waived. Its records were destroyed in January 1973 on a verbal order, and seven boxes of finance folders survived only because they had been misfiled to the Retired Records Center in 1970.",
+   "whyImplicated": "It is the documented American precedent for the whole of this board's argument about compartmented programmes and their records: a waived-procedure compartment, an Inspector General finding that the practice was to keep no records of the planning and approval of test programmes, a destruction order that two Senate committees could not defeat, and a single Freedom of Information Act request that did. The board's own MKULTRA hearing node argued from this programme for two months without carrying it.",
+   "roles": [
+    "concealment",
+    "research",
+    "disclosure"
+   ],
+   "narrative": "The argument for putting MKULTRA on a board about a legacy recovery programme is not that the two are the same subject. It is that MKULTRA is the case where every mechanism this board alleges was later proven on the government's own paper, and can therefore be used as a calibration rather than as an analogy. The Inspector General's survey of 26 July 1963 states the purpose in the Agency's own words and states, in the same document, that normal procedures for project approval, funding and accounting were waived and that present practice was to maintain no records of the planning and approval of test programs. That is a compartment designed to leave no trail, described by its own auditor. Ten years later the trail that did exist was destroyed: Technical Services Division personnel burned the files in January 1973 on Sidney Gottlieb's verbal order, itself carrying out a verbal order from DCI Helms, and both men later testified to it. The Rockefeller Commission and the Church Committee investigated the programme in 1975 without the finance file, because the 1975 searches covered the records of every branch thought likely to hold MKULTRA papers and not the Budget and Fiscal Section's retired holdings. What broke it open was administrative accident plus a statute. One branch had sent its finance folders to the Retired Records Center in 1970 in a departure from normal procedure the Agency could not later explain, and in 1977 an employee working John Marks's Freedom of Information Act request found them. The Senate's own opening statement puts the lesson plainly: one individual, through a Freedom of Information request, accomplished what two US Senate committees could not. Everything on this board about custody, about destruction orders and about what survives them has a documented instance here.",
+   "claims": [
+    {
+     "text": "The Inspector General's 1963 survey states the programme's purpose: 'The MKULTRA activity is concerned with the research and development of chemical, biological and radiological materials capable of employment in clandestine operations to control human behavior.' It records that 'MKULTRA was authorized by the then Director of Central Intelligence, Mr. Allen W. Dulles, in 1953' and that 'Normal procedures for project approval, funding, and accounting were waived.'",
+     "tier": 1,
+     "source": "Report of Inspection of MKULTRA, memorandum for the Director of Central Intelligence, 26 July 1963, National Security Archive John Marks Collection Box 8, https://nsarchive.gwu.edu/sites/default/files/documents/1963-07-26%20JM%20Box%208%20F2%20MKUltra-IG_Report-ocr.pdf"
+    },
+    {
+     "text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
+     "tier": 1,
+     "source": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "text": "The Church Committee text reprinted in the hearing print records the destruction and the chain behind it: 'In January 1973, MKULTRA records were destroyed by Technical Services Division personnel acting on the verbal orders of Dr. Sidney Gottlieb, Chief of TSD. Dr. Gottlieb has testified, and former Director Helms has confirmed, that in ordering the records destroyed, Dr. Gottlieb was carrying out the verbal order of then DCI Helms.'",
+     "tier": 1,
+     "source": "Project MKULTRA, The CIA's Program of Research in Behavioral Modification, joint hearing, 3 August 1977, Appendix B, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    },
+    {
+     "text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
+     "tier": 1,
+     "source": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+    }
+   ],
+   "openQuestions": [
+    "Whether any of the 149 subproject files identifies its researchers: the released Subproject 43 file excises every occurrence of the researcher's name and university.",
+    "What the 33 subprojects unrelated to behavioural work in the recovered boxes actually cover."
+   ]
+  }
+ },
+ {
+  "id": "talbert-gravity-series-1955",
+  "entityDossier": {
+   "whatItIs": "Three consecutive front-page articles by Ansel E. Talbert, Military and Aviation Editor of the New York Herald Tribune, published on 20, 21 and 22 November 1955, all three page images opened and read in full.",
+   "whyImplicated": "It is the contemporaneous press record behind every later claim that American aerospace executives said on the record in the 1950s that gravity could be controlled, and it is the document that dates and corrects those claims. It names the firms, quotes Lawrence D. Bell and George S. Trimble jr. directly, reports the Chapel Hill gravity institute under an earlier name, and mentions Thomas Townsend Brown nowhere in its three parts.",
+   "roles": [
+    "disclosure",
+    "research"
+   ],
+   "narrative": "This series is the load-bearing document under a whole branch of the electrogravitics literature, and reading it moves four things at once. It dates the reporting to November 1955 rather than 1953. It gives George Trimble his actual office, vice-president in charge of advanced design planning of Martin Aircraft, rather than chief executive, and shows that his atom-bomb comparison is about the time the bomb took and not about the money it cost. It names the Sperry Gyroscope Division of Sperry-Rand among the firms with scientists on the gravity problem, which is the documented attachment for a node the 30 August pass left deliberately unattached. And it reports the University of North Carolina trustees approving a gravity institute earlier that month under the name Institute of Pure Physics, with Gordon Gray's approval, Agnew H. Bahnson jr. as fundraiser and the directorship offered to Bryce S. DeWitt, which is the Institute of Field Physics before it had its final name. What it does not contain is the figure the electrogravitics claim usually rests on: Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them. That absence is carried here as a claim and deliberately not as an edge.",
+   "claims": [
+    {
+     "text": "The series lists the firms: 'Aircraft industry firms now participating or actively interested in gravity include the Glenn L. Martin Co. of Baltimore ... Convair of San Diego ... Bell Aircraft of Buffalo ... and Sikorsky Division of United Aircraft', and adds 'Lear, Inc., of Santa Monica ... Clarke Electronics, of Palm Springs, Calif., and the Sperry Gyroscope Division of Sperry-Rand Corp., of Great Neck, L. I.'",
+     "tier": 1,
+     "source": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, p. 1 and continuation p. 36. Page image at https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    },
+    {
+     "text": "George S. Trimble jr. is identified as 'vice-president in charge of advanced design planning of Martin Aircraft Corp.' and as 'organizing a new Research Institute for Advanced Study', and is quoted: 'I think we could do the job in about the time that it actually required to build the first atom bomb if enough trained scientific brain-power simultaneously began thinking about and working towards a solution.'",
+     "tier": 1,
+     "source": "Talbert, New York Herald Tribune, 20 November 1955 (caption and continuation p. 36) and 22 November 1955 (continuation p. 10). https://archive.org/download/talbert1ny/talbert1ny_djvu.txt and https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+    },
+    {
+     "text": "The series reports the Chapel Hill institute at its founding, under an earlier name: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+     "tier": 1,
+     "source": "Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    },
+    {
+     "text": "Thomas Townsend Brown is named in none of the three articles, and neither Winterhaven nor any Navy or Air Force electrogravitics contract appears in them.",
+     "tier": 1,
+     "source": "All three articles read in full: https://archive.org/download/talbert1ny/talbert1ny_djvu.txt, https://archive.org/download/talbert2ny/talbert2ny_djvu.txt, https://archive.org/download/talbert3ny/talbert3ny_djvu.txt"
+    }
+   ],
+   "openQuestions": [
+    "Whether the Herald Tribune ran any follow-up or correction to the series.",
+    "What the 'Institute of Pure Physics' name change to Institute of Field Physics turned on, which the series does not say."
+   ]
+  }
+ },
+ {
+  "id": "operation-northwoods",
+  "entityDossier": {
+   "whatItIs": "A memorandum of 13 March 1962 from the Joint Chiefs of Staff to the Secretary of Defense, serial JCS 1969/321, classified TOP SECRET SPECIAL HANDLING NOFORN, forwarding an annex headed 'PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA' and signed by the Chairman, Gen. L. L. Lemnitzer. It reached the public through the John F. Kennedy Assassination Records Review Board.",
+   "whyImplicated": "This board argues that cover stories are constructed deliberately at institutional level. Northwoods is the declassified instance of exactly that: a set of fabricated pretexts, drafted, staffed and signed at the top of the military chain, naming a specific base and a specific CIA proprietary company, held for thirty-five years and released only because a records statute reached it.",
+   "roles": [
+    "concealment",
+    "disclosure"
+   ],
+   "narrative": "The value of this document to this board is that it removes a step from the argument. The board does not have to establish that the United States government is willing to plan a deception and attribute it to somebody else, because the Joint Chiefs wrote one down and the Chairman signed it. The annex says in its own words that 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.' Its courses of action include blowing up a US ship in Guantanamo Bay and blaming Cuba, and painting and numbering an aircraft at Eglin AFB as an exact duplicate of a civil registered aircraft belonging to a CIA proprietary organisation in the Miami area. The memorandum also asks for the mission: paragraph 3 recommends that responsibility for both overt and covert military operations be assigned to the Joint Chiefs of Staff. What is on this board is the document and nothing beyond it. Northwoods says nothing about unidentified aerial phenomena and is not offered as evidence about any other case; it is offered as the proven floor of what the institution will put on paper. There is no Lemnitzer person node, deliberately: the signature block is on the document and the document carries him.",
+   "claims": [
+    {
+     "text": "The Chairman signed it and the Joint Chiefs asked for the mission. The signature block reads 'For the Joint Chiefs of Staff / L. L. LEMNITZER / Chairman / Joint Chiefs of Staff', and paragraph 3 states: 'It is recommended that this responsibility for both overt and covert military operations be assigned the Joint Chiefs of Staff.'",
+     "tier": 1,
+     "source": "Memorandum for the Secretary of Defense, Justification for US Military Intervention in Cuba (TS), 13 March 1962, JCS 1969/321, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    },
+    {
+     "text": "The annex names itself: 'ANNEX TO APPENDIX TO ENCLOSURE A / PRETEXTS TO JUSTIFY US MILITARY INTERVENTION IN CUBA', and its first course of action states the method in the document's own words: 'Since it would seem desirable to use legitimate provocation as the basis for US military intervention in Cuba a cover and deception plan ... could be executed as an initial effort to provoke Cuban reactions.'",
+     "tier": 1,
+     "source": "Annex to Appendix to Enclosure A, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    },
+    {
+     "text": "One proposed pretext was a staged attack on American forces: 'A \"Remember the Maine\" incident could be arranged in several forms: a. We could blow up a US ship in Guantanamo Bay and blame Cuba.'",
+     "tier": 1,
+     "source": "Annex to Appendix to Enclosure A, paragraph 3, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    },
+    {
+     "text": "Another named a specific base and a specific cover organisation: 'An aircraft at Eglin AFB would be painted and numbered as an exact duplicate for a civil registered aircraft belonging to a CIA proprietary organization in the Miami area.'",
+     "tier": 1,
+     "source": "Annex to Appendix to Enclosure A, paragraph 8a, 13 March 1962, https://archive.org/download/OperationNorthwoods/operation_northwoods_djvu.txt"
+    }
+   ],
+   "openQuestions": [
+    "The projected-image-over-Havana element attributed to Northwoods on the podcast is not in the released text opened here; it may sit in the 181-page NARA file The Black Vault indexes alongside the fifteen-page memorandum.",
+    "What the Secretary of Defense did with the memorandum after 13 March 1962."
+   ]
+  }
+ },
+ {
+  "id": "gao-nsiad-88-152",
+  "entityDossier": {
+   "whatItIs": "GAO's unclassified summary to the four defence committees, B-230522, 24 May 1988, of a classified report of 1 April 1988 on how the Department of Defense decides to make a programme special access. It answers section 1133 of Public Law 100-180.",
+   "whyImplicated": "It is the record behind this board's argument that special access status is asserted rather than justified. GAO found that DoD does not adequately follow its own criteria, that the definition of a special access programme is not clear inside the department, and that the official required to hold a list of all such programmes does not hold one. It also dates the Army's own central oversight office to September 1984, ten years before the reform this board carries at dod-sap-reform-1994.",
+   "roles": [
+    "oversight",
+    "concealment"
+   ],
+   "narrative": "The board's oversight case has always turned on a simple claim: that the special access system is not policed by the department that runs it. This report is Congress's own auditor saying so in 1988, in an unclassified summary of a classified report, to Les Aspin, Bill Chappell Jr., Sam Nunn and John C. Stennis. Three findings carry. First, creation authority is narrow and named: only the three service secretaries and the Deputy Under Secretary of Defense for Policy may establish a special access programme. Second, nobody held the list: the Deputy Under Secretary for Policy was required to maintain a listing of all special access programmes and did not, on security grounds, and the Secretary's office had no centralized office with cognizance of all of them. Third, and this is the finding that moves two existing nodes, the reform chain starts earlier than the board had it: a DoD review of Army special access programs in 1983 revealed systemic weaknesses which resulted in the establishment of a central oversight office in September 1984. The January 1994 dates on dod-sap-reform-1994 and sapoc stand; what changes is that they are no longer the beginning.",
+   "claims": [
+    {
+     "text": "The report is a summary of a classified one and answers a statute: 'This report is an unclassified summary of a classified report that we sent to you on April 1, 1988.' The review 'is in response to section 1133 of Public Law 100-180, which requires that the Comptroller General report to the defense committees on this subject.'",
+     "tier": 1,
+     "source": "GAO/NSIAD-88-152, B-230522, 24 May 1988, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    },
+    {
+     "text": "GAO's central finding: 'We found that the Department of Defense does not adequately follow criteria to be used in determining the need to establish programs as special accessrequired. The definition of special accessprograms is not clear within the Department of Defense and, until recently, the oversight role of the Office of the Secretary of Defense in the programs' creation has been limited.'",
+     "tier": 1,
+     "source": "GAO/NSIAD-88-152, transmittal letter, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    },
+    {
+     "text": "Nobody held a list: 'The Deputy Under Secretary of Defense for Policy is required to maintain a listing of all special access programs, but does not do so because of security concerns.' GAO adds that 'the Secretary's Office has no centralized office with cognizance of all special access programs'.",
+     "tier": 1,
+     "source": "GAO/NSIAD-88-152, Results in Brief, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    },
+    {
+     "text": "The Army reform is dated to 1983-84, not 1994: 'A DOD review of Army special access programs in 1983 revealed systemic weaknesses in various management areas, which resulted in establishment of a central oversight office in September 1984.'",
+     "tier": 1,
+     "source": "GAO/NSIAD-88-152, Recommendations section, https://www.gao.gov/assets/nsiad-88-152.pdf"
+    }
+   ],
+   "openQuestions": [
+    "The classified report of 1 April 1988 that this document summarises.",
+    "GAO/NSIAD-89-133 of 4 May 1989 is opened and not yet built as a node; it carries the carve-out contract growth from 63 in 1971 to 1,061 in 1987."
+   ]
+  }
+ },
+ {
+  "id": "darpa",
+  "entityDossier": {
+   "whatItIs": "The Advanced Research Projects Agency, established in the Office of the Secretary of Defense by DoD Directive 5105.15 of 7 February 1958 under the authority of the National Security Act of 1947 as amended and Reorganization Plan No. 6 of 1953, with its Director reporting to the Secretary of Defense. Its first Director was Roy W. Johnson.",
+   "whyImplicated": "DARPA is the institutional counterfactual against which the legacy programme allegation is measured: it is what an American breakthrough-technology effort looks like when it is run in the open, with named programme managers on fixed terms, published solicitations and a public budget. Until this pass the node argued that counterfactual while carrying no founding record at all.",
+   "roles": [
+    "research",
+    "funding"
+   ],
+   "narrative": "The comparison only works if the agency's own paper is on the board, and now it is. The founding instrument is reproduced in full inside the agency's own commissioned history, and two things in it matter. The establishment clause puts ARPA inside the Office of the Secretary of Defense rather than inside a service, and the mandate is written open-ended by design: the Agency is responsible for such advanced projects in the field of research and development as the Secretary of Defense shall from time to time designate, by individual project or by category. That is a charter that can absorb anything the Secretary points at, which is exactly the shape the legacy allegation describes, and it was published. The second correction is to the officer. The CIA's own chronology, an independent record, states that on 7 February 1958 ARPA was established in DoD with Roy W. Johnson of General Electric named director; Herbert York was the first Chief Scientist and was later elevated to first Director of Defense Research and Engineering. The podcast corpus reverses those two, and no York node is built: the correction belongs here, on the agency.",
+   "claims": [
+    {
+     "text": "The agency has a founding instrument and a first Director, and this node has carried neither. DoD Directive 5105.15 of 7 February 1958, reproduced in full in the agency's own commissioned history, reads: 'In accordance with the provisions of the National Security Act of 1947, as amended, and Reorganization Plan No. 6 of 1953, there is established in the Office of the Secretary of Defense the Department of Defense Advanced Research Projects Agency.' Its mandate is open-ended by design: the Agency is responsible for 'the direction or performance of such advanced projects in the field of research and development as the Secretary of Defense shall, from time to time, designate by individual project or by category', and 'The Director of Advanced Research Projects shall report to the Secretary of Defense.'",
+     "tier": 1,
+     "source": "The Advanced Research Projects Agency, 1958-1974, Richard J. Barber Associates, Inc., prepared for ARPA, Figure II-2, DTIC AD-A154 363, https://archive.org/download/DTIC_ADA154363/DTIC_ADA154363_djvu.txt"
+    },
+    {
+     "text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
+     "tier": 1,
+     "source": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, June 1970, CIA-RDP85B00803R000200050003-5, https://archive.org/details/cia-readingroom-document-cia-rdp85b00803r000200050003-5"
+    }
+   ],
+   "openQuestions": [
+    "The issuing office's own copy of DoD Directive 5105.15 was not opened; esd.whs.mil returned HTTP 403 on every path tried, and the directive's text here comes from the ARPA-commissioned history's reproduction of it.",
+    "Whether DARPA's role among the contributing elements to ODNI's June 2021 Preliminary Assessment extended beyond the developmental-programs explanatory category."
+   ]
+  }
+ },
+ {
+  "id": "institute-of-field-physics",
+  "entityDossier": {
+   "whatItIs": "A privately endowed gravitation-research institute placed inside the physics department at the University of North Carolina at Chapel Hill, incorporated 7 September 1955, directed by Bryce and Cecile DeWitt and funded principally by the Winston-Salem industrialist Agnew Bahnson. Its inaugural event was the January 1957 Conference on the Role of Gravitation in Physics, now known as GR1.",
+   "whyImplicated": "It is where the aerospace money and the academic gravity work meet on the same page: George Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000 while the company was separately standing up RIAS, whose first researcher was Louis Witten. And it is the body that wrote its own anti-gravity disclaimer into every publicity statement, which is a documented instance of an institution managing the reputational risk this board maps.",
+   "roles": [
+    "research",
+    "funding",
+    "concealment"
+   ],
+   "narrative": "Two records opened in this corpus refine the node rather than extend it, and both refinements cut against an easy reading. The first is sponsorship. The conference report's title page reads that the meeting was held under the sponsorship of the International Union of Pure and Applied Physics, with financial support from UNESCO, the National Science Foundation, the Wright Air Development Center of the US Air Force, and the Office of Ordnance Research of the US Army. IUPAP sponsored it; four bodies paid for it; and the Foreword says the report exists because it was a necessary requirement to obtain conference funds. The Air Force's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting. The second is naming and dating. The conference title page says the Institute was established in 1956 in the Department of Physics, while the certificate of incorporation is dated 7 September 1955: two different acts, which a node should not collapse. And Talbert's Herald Tribune series of 20 November 1955 shows the press knew it at its founding as the Institute of Pure Physics, approved by the trustees that month with Gordon Gray's approval. Four of the forty-six conference participants were serving in US military research offices, which is the fact worth carrying: not that the Air Force ran it, but that it was in the room.",
+   "claims": [
+    {
+     "text": "The January 1957 Chapel Hill conference had one sponsor and four funders, and the Air Force was not the sponsor. The report's title page reads: 'UNDER THE SPONSORSHIP OF THE International Union of Pure and Applied Physics, with financial support from UNESCO / National Science Foundation / Wright Air Development Center, U.S. Air Force / Office of Ordnance Research, U.S. Army'. The Foreword gives the reason the report exists at all: 'The present report was undertaken as a necessary requirement to obtain conference funds.' WADC's imprint is on the cover because the report was the condition of the money, not because the Air Force convened the meeting.",
+     "tier": 1,
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page and Foreword by Cecile M. DeWitt, 15 March 1957, https://edition-open-sources.org/sources/5/5/index.html"
+    },
+    {
+     "text": "Two different acts are recorded for the Institute and a node should not collapse them. The conference report's title page states: 'This conference was an activity of the North Carolina Project of the Institute of Field Physics, established in 1956 in the Department of Physics of the University of North Carolina, Chapel Hill.' The certificate of incorporation this node carries is dated 7 September 1955; the establishment inside the department is dated 1956 by the conference's own paper.",
+     "tier": 1,
+     "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, WADC Technical Report 57-216, title page, https://edition-open-sources.org/sources/5/5/index.html"
+    },
+    {
+     "text": "The press knew the Institute under a different name at its founding. Talbert's Herald Tribune series of 20 November 1955 reports: 'A proposal to establish at the University of North Carolina at Chapel Hill, N. C., an Institute of Pure Physics primarily to carry on theoretical research on gravity was approved earlier this month by the university's board of trustees. This had the approval of Dr. Gordon Gray, who has since retired as president of the university.' It names Agnew H. Bahnson jr. as the fundraiser and says the directorship had been offered to Bryce S. DeWitt.",
+     "tier": 1,
+     "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36, https://archive.org/download/talbert1ny/talbert1ny_djvu.txt"
+    }
+   ],
+   "openQuestions": [
+    "What the change of name from Institute of Pure Physics to Institute of Field Physics turned on, which no opened record states.",
+    "Whether the Wright Air Development Center's financial support carried any condition beyond the report."
+   ]
+  }
+ },
+ {
+  "id": "senate-intelligence",
+  "entityDossier": {
+   "whatItIs": "The Senate Select Committee on Intelligence, whose annual Intelligence Authorization Act has carried the sharpest UAP language of the modern period: Secs. 6802 and 6803 of the FY2023 IAA, Sec. 1102 of the FY2024 IAA and its enacted remnant Sec. 7343, and Secs. 6801 and 6802 of the FY2025 IAA.",
+   "whyImplicated": "It is where the strongest legislative language on this subject originates and where it dies, and the members entitled to the most compartmented briefings are the ones who wrote the hardest provisions. It is also, on the record opened in this corpus, the body a CIA component was advised to inform about recovered MKULTRA records before informing the requester's own attorneys.",
+   "roles": [
+    "oversight",
+    "disclosure"
+   ],
+   "narrative": "The committee reaches this map twice over. Its modern record is legislative: successive Intelligence Authorization Acts carrying UAP provisions, a chairman who authored the contractor turn-in and a vice chairman who cosponsored the eminent domain text, and then the FY2026 Act, Division F of P.L. 119-60, carrying none. The corpus opened here adds a much older instance of the same committee at the same hinge. When CIA's Office of Technical Service found seven boxes of MKULTRA finance folders in 1977 in response to John Marks's Freedom of Information Act request, the memorandum recommending what to do about it set the order of notification: inform the Senate Select Committee of the existence of the recently located records prior to informing Mr. Marks's attorneys. Six weeks later the material reached the public through this committee's own joint hearing of 3 August 1977. That is the committee functioning as the route by which a compartment's surviving paper became public, which is the function the board is testing it against now.",
+   "claims": [
+    {
+     "text": "The Intelligence Authorization Act for FY2023 (Secs. 6802, 6803), FY2024 (Sec. 1102 Senate / Sec. 7343 enacted) and FY2025 (Secs. 6801, 6802) all carried UAP provisions.",
+     "tier": 1,
+     "source": "P.L. 117-263; S. 2226 as engrossed Division M; P.L. 118-31; P.L. 118-159, GPO"
+    },
+    {
+     "text": "The Intelligence Authorization Act for FY2026, Division F of P.L. 119-60, contains no UAP provisions.",
+     "tier": 1,
+     "source": "Full-text search of P.L. 119-60 Division F, GPO"
+    },
+    {
+     "text": "SSCI Chairman Warner authored the contractor turn-in and Vice Chairman Rubio cosponsored the eminent domain amendment, both filed 13 July 2023.",
+     "tier": 1,
+     "source": "Congressional Record, 13 July 2023 (SA 666 and SA 797), GPO"
+    }
+   ],
+   "openQuestions": [
+    "Why the FY2026 Intelligence Authorization Act carries no UAP provision.",
+    "Whether the committee holds any record of the 1977 notification beyond the hearing print."
+   ]
+  }
+ },
+ {
+  "id": "podesta-delonge-mccasland-email-2016",
+  "entityDossier": {
+   "whatItIs": "An email of 25 January 2016 from Tom DeLonge to John Podesta under the subject line 'General McCasland', published by WikiLeaks in the Podesta Emails on 10 October 2016 as email id 3099, together with the calendar thread of the same days in which the general is himself a correspondent.",
+   "whyImplicated": "It is one of the few documents on this board in which a named general officer is placed, in contemporaneous private correspondence rather than in testimony, inside a conversation about Roswell material and the laboratory at Wright-Patterson. It is a primary record of what was said, not of what is true, and the board carries it on that footing.",
+   "roles": [
+    "disclosure",
+    "custody"
+   ],
+   "narrative": "The Podesta release is an instrument as much as a document set: raw headers, message ids and reply chains, which is why claims taken off it can be checked rather than believed. This email is the strongest single item in it for this board, because DeLonge disputes the characterisation of the general as a sceptic, says he had been working with him for four months and had given him a four hour presentation, and asserts that the Roswell material was shipped to the laboratory at Wright-Patterson Air Force Base and that the general had been in charge of that laboratory until a couple of years earlier. The calendar thread shows the general was a party to the correspondence and not merely its subject. The corpus opened here adds a second named correspondent inside the same release, read the same way: Bob Fish, writing to Podesta over three days in March 2015, naming the Defense Support Program as a collector of hard data on unidentified flying objects and saying in the same email that he was never fully briefed into that operation directly. The two together are what the release is for on this board: private assertions by identifiable people, dated, with the qualifications the popular retelling drops.",
+   "claims": [
+    {
+     "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
+     "tier": 1,
+     "source": "WikiLeaks, The Podesta Emails, email id 3099, released 10 October 2016, https://wikileaks.org/podesta-emails/emailid/3099"
+    },
+    {
+     "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
+     "tier": 1,
+     "source": "WikiLeaks, The Podesta Emails, email id 3099, https://wikileaks.org/podesta-emails/emailid/3099"
+    },
+    {
+     "text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
+     "tier": 1,
+     "source": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501"
+    }
+   ],
+   "openQuestions": [
+    "Whether any government record corroborates the assertion about Wright-Patterson custody; none opened for this node does.",
+    "The general's own account of the four hour presentation."
+   ]
+  }
+ },
+ {
+  "id": "defense-support-program",
+  "entityDossier": {
+   "whatItIs": "The United States Air Force infrared early-warning satellite constellation, described by GAO as a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches, begun in 1967 with the first operational satellite in 1971 and replaced by SBIRS-High.",
+   "whyImplicated": "It is the constellation the popular fastwalker literature equates with UFO detection. The board carries it in order to hold that equation to the documents: no government record opened for this node states it, and the private correspondent most often cited for it says in the same breath that he was never fully briefed into the programme.",
+   "roles": [
+    "custody",
+    "concealment"
+   ],
+   "narrative": "The node exists to keep a claim and its evidence in the same place. On the documented side, GAO gives the system, its dates and its replacement history, and a named command has confirmed holding responsive records on the fastwalker designation and withheld all of them, which is a fact about custody rather than about content. On the alleged side, the board already carries the AFIT thesis that defines fastwalker as ordinary space-surveillance vocabulary and cites a 1972-onward observation database drawn from ballistic missile early warning satellites in geosynchronous orbit. The Danny Jones corpus adds the human link and then undercuts it: Bob Fish, writing to John Podesta on 6 March 2015, says that one of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program, and in the same email says he was never fully briefed into the DSP operation directly, dates his exposure to the run-up to Desert Shield and Desert Storm rather than to the 1980s, and relays the detection he describes as a remark made to him at lunch. No speed figure appears in any of the three emails opened. The equation of DSP with UFO tracking is a claim with a named author and a documented qualification, and both belong on the board.",
+   "claims": [
+    {
+     "text": "GAO's description of the system and its dates: DSP is 'a strategic surveillance and warning satellite system with an infrared capability to detect ballistic missile launches', the programme commenced in 1967, the first operational satellite was deployed in 1971, the most recent launch was August 2001, and it 'provides near real-time detection information in support of DOD's integrated tactical warning and attack assessment (ITW/AA) mission'.",
+     "tier": 1,
+     "source": "GAO-03-825R, Military Space Operations, 2 June 2003, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+    },
+    {
+     "text": "Replacement history: 'The SBIRS-High program is focused on replacing DSP', after the earlier Advanced Warning System, Follow-On Early Warning System and Alert, Locate, and Report Missiles programmes were abandoned as too expensive or technologically immature.",
+     "tier": 1,
+     "source": "GAO-03-825R, Military Space Operations, 2 June 2003, and GAO/NSIAD-94-253, 16 August 1994, govinfo, https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-03-825R/html/GAOREPORTS-GAO-03-825R.htm"
+    },
+    {
+     "text": "A named command confirmed responsive records on the designation and withheld all of them: 'After performing a search of our systems of records we found two responsive USNORTHCOM documents. Upon review of the responsive documents we have determined that they are currently and properly classified in accordance with Executive Order 13526, section 1.4c and should remain exempt from public disclosure under the FOIA exemption (b)(1).'",
+     "tier": 1,
+     "source": "USNORTHCOM FOIA response, case FY14-19NOV2013-07, on a request of 19 November 2013, The Black Vault, https://documents.theblackvault.com/documents/ufos/fastwalkers/FY14-19NOV2013-07.pdf"
+    }
+   ],
+   "openQuestions": [
+    "The two responsive USNORTHCOM documents on the fastwalker designation, withheld in full.",
+    "Whether any DSP programme record uses the term at all."
+   ]
+  }
+ },
+ {
+  "id": "malmstrom-echo-flight-1967",
+  "entityDossier": {
+   "whatItIs": "The simultaneous loss of strategic alert by all ten Minuteman I missiles of Echo Flight, 341st Strategic Missile Wing, Malmstrom Air Force Base, Montana, on 16 March 1967, and the competing accounts of why.",
+   "whyImplicated": "It is the board's central nuclear-interference case and the one where witness testimony and the unit's own paper can now be read against each other. The wing history the node has always named as decisive is open, and it states that the UFO rumours around the event were disproven.",
+   "roles": [
+    "disclosure",
+    "concealment"
+   ],
+   "narrative": "The shutdown is not in dispute and never was: the 341st Strategic Missile Wing's own history for the first quarter of 1967 records that at 0845 on 16 March all sites in Echo Flight went No-Go on Channels 9 and 12 of the Voice Reporting Signal Assembly, that all launch facilities in the flight lost strategic alert nearly simultaneously, and that no other Wing I configuration lost alert at that time. What the history adds is the Air Force's own contemporaneous verdict on the anomaly: at page 38 it states that rumours of unidentified flying objects around the area of Echo Flight during the time of fault were disproven, records a Mobile Strike Team saying no unusual activity or sightings were observed, records the 801st Radar Squadron giving a negative report on radar or atmospheric interference, and sets beside it a comparable multi-facility shutdown at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure. Two things keep the case open rather than closing it. The whole section is footnoted to a single classified engineering report of 23 March 1967 which is not in the release, so the history states a conclusion whose basis is withheld. And no launch control officer is named anywhere in the eighty-seven released pages: the only officer named in the Echo Flight section is Capt. Bradshaw in the command post, and the names Figel, Salas and Carlson do not appear, so the document neither corroborates nor contradicts the witnesses by name.",
+   "claims": [
+    {
+     "text": "The unit history this node names as decisive is now open, and it states that the UFO reports were disproven. The 341st Strategic Missile Wing history for 1 January to 31 March 1967 records at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'. It also records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
+     "tier": 1,
+     "source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, pp. 38 and 40, in the HQ 341st Space Wing FOIA release of 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    },
+    {
+     "text": "The same history records the shutdown itself: on 16 March 1967 at 0845 all sites in Echo Flight shut down with a No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assembly, all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and no other Wing I configuration lost alert at that time. The section is footnoted throughout to a single classified engineering report of 23 March 1967, which is not in the release.",
+     "tier": 1,
+     "source": "341st Strategic Missile Wing History, 1 Jan to 31 Mar 1967, p. 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    },
+    {
+     "text": "No launch control officer is named anywhere in the eighty-seven page release. The only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
+     "tier": 1,
+     "source": "HQ 341st Space Wing FOIA release of 14 June 2001, full text searched, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    }
+   ],
+   "openQuestions": [
+    "The classified engineering report of 23 March 1967 that the wing history footnotes throughout its Echo Flight section.",
+    "The wing's duty rosters for 16 March 1967, which are not in the released excerpts."
+   ]
+  }
+ },
+ {
+  "id": "haines-cia-history",
+  "entityDossier": {
+   "whatItIs": "The CIA's own official history of its involvement with unidentified flying objects, written by NRO historian Gerald K. Haines and published in the Agency's in-house journal Studies in Intelligence in 1997.",
+   "whyImplicated": "It contains admissions no outside researcher could have obtained: that CIA sponsorship of the Robertson panel was forbidden to be mentioned, that the panel canvassed mass media and the Disney corporation to carry its message, and that the Air Force made misleading and deceptive statements to the public to protect a sensitive national security project.",
+   "roles": [
+    "concealment",
+    "disclosure",
+    "oversight"
+   ],
+   "narrative": "This is the Agency describing its own posture, which makes it a primary record of the posture and nothing more, and that is exactly what it is used for here. Its trigger is stated in the text: in late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files. Its most-cited passage attributes over half of all UFO reports of the late 1950s and 1960s to manned reconnaissance flights, on the estimate of CIA officials who worked on the U-2 and OXCART projects, and concludes that the resulting deception was, while perhaps justified, deception. The corpus opened here puts the Agency's own history of those two projects beside it: Pedlow and Welzenbach's study of the U-2 and OXCART programmes, written by the same History Staff in 1992 on full access to CIA records and released in 2013 in the version that left the Area 51 references intact. That study also settles a claim the corpus attaches to it: it contains no Norton Air Force Base, its only Norton is Garrison Norton, a man, and its stated span ends with the transfer of the remaining Agency U-2s to the Air Force in 1974.",
+   "claims": [
+    {
+     "text": "The article states its own trigger: 'In late 1993, after being pressured by UFOlogists for the release of additional CIA information on UFOs, DCI R. James Woolsey ordered another review of all Agency files on UFOs.'",
+     "tier": 1,
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm"
+    },
+    {
+     "text": "The article gives the Air Force's own unexplained residue as a falling figure: 'The percentage of what the Air Force considered unexplained UFO sightings fell to 5.9 percent in 1955 and to 4 percent in 1956.' On Area 52 (batch 07, file 04, 0:49:22) John Ramirez attributed to this article a figure of one in ten. The article does not carry that figure.",
+     "tier": 1,
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence, mirrored full text, https://www.nicap.org/ciarole.htm"
+    },
+    {
+     "text": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project. While perhaps justified, this deception added fuel to the later conspiracy theories and the coverup controversy of the 1970s.'",
+     "tier": 1,
+     "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', Studies in Intelligence (CIA)"
+    }
+   ],
+   "openQuestions": [
+    "Whether the 1993 Woolsey review produced a records inventory that has itself been released.",
+    "The basis for the over-half estimate, which the article attributes to officials rather than to a document."
+   ]
+  }
+ },
+ {
+  "id": "the-black-vault",
+  "entityDossier": {
+   "whatItIs": "The private Freedom of Information Act archive run by John Greenewald Jr, through which the large majority of the primary documents in this domain reached the public.",
+   "whyImplicated": "It is an adversarial requester rather than an interested party, which is what gives its releases their evidentiary force, and several of this board's decisive negative findings exist only because it filed and published.",
+   "roles": [
+    "disclosure",
+    "custody"
+   ],
+   "narrative": "The archive's place on this board is structural: it is the mechanism, not the argument. Two of the records opened in this corpus show why it earns a node rather than a footnote. The first is the 341st Strategic Missile Wing release of 14 June 2001, eighty-seven pages of excerpts from five quarterly wing histories, sent to Greenewald by HQ 341st Space Wing in answer to a request of 9 May 2001. That release is the document the board's Malmstrom node has always named as decisive, and it is the one that states the Air Force's own conclusion and withholds the engineering report behind it. The second is the Defense Intelligence Agency release of 22 August 1996, IR 6 846 0139 76 on the Tehran F-4 intercepts, with DIA's covering letter stating that a search of its systems of records located one document responsive to the subject of the request. Both are cases where what the government holds, and how little of it, is knowable only because somebody outside asked in writing and published the answer with its covering letter attached.",
+   "claims": [
+    {
+     "text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
+     "tier": 1,
+     "source": "The Black Vault document archive and case files"
+    },
+    {
+     "text": "The 14 June 2001 release to John Greenewald Jr by HQ 341st Space Wing (AFSPC), 341 CS/SCBR (FOIA), covers excerpts of the 341st Strategic Missile Wing histories for five quarters and runs to eighty-seven pages.",
+     "tier": 1,
+     "source": "Department of the Air Force, HQ 341st Space Wing, FOIA response to John Greenewald Jr, 14 June 2001, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf"
+    },
+    {
+     "text": "DIA's covering letter of 22 August 1996 to John Greenewald, FOIA case U-80,597/PO/FOIA, states that 'A search of DIA's systems of records located one document responsive to the subject of your request', released with only administrative markings withheld.",
+     "tier": 1,
+     "source": "DIA FOIA response U-80,597/PO/FOIA, signed Robert P. Richardson, Chief, FOIA Staff, 22 August 1996, https://www.theblackvault.com/documents/ufos/1976iranincident.pdf"
+    }
+   ],
+   "openQuestions": [
+    "Whether the 181-page NARA Operation Northwoods file the archive indexes carries material beyond the fifteen-page JCS memorandum.",
+    "Which of the archive's outstanding requests in this domain are still pending."
+   ]
+  }
+ }
+]
