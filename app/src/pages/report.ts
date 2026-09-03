@@ -81,7 +81,9 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
     const ordered = [...rec.connections.filter((c) => c.l0), ...rec.connections.filter((c) => !c.l0)];
     for (const c of ordered) {
       cols.append(h('div', null,
-        c.label, ' ',
+        /* the id is a route, so the brief is navigable and C1 has something to
+           check on this page; it still prints as its own label on paper */
+        h('a', { href: '#/n/' + c.id }, c.label), ' ',
         h('span', { class: 'cm' }, '· ' + (c.l0 ? c.type : 'member') + ' · T' + (c.claimTier ?? '?')),
       ));
     }

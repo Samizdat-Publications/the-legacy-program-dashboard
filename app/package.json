@@ -8,7 +8,9 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --port 4173",
-    "fixture": "node scripts/dev-fixture.mjs"
+    "fixture": "node scripts/dev-fixture.mjs",
+    "check": "node checks/run.mjs",
+    "check:poison": "node checks/run.mjs --all-poisons"
   },
   "devDependencies": {
     "typescript": "^5.6.3",

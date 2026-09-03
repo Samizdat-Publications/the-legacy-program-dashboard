@@ -1,0 +1,995 @@
+/* app/checks/run.mjs — C1 to C16 of notes/DESIGN-RESPONSE-SHELL-2026-09-02.md
+ * section 3, against the built app served by `npm run preview`.
+ *
+ * WHY IT IS SHAPED LIKE THIS.
+ *
+ * CLAUDE.md section 5: a check that has never been shown to fail is
+ * indistinguishable from a broken one, and a poison must corrupt THE PAGE, not
+ * the predicate. So every check here reads the rendered DOM or the boxes the
+ * browser actually laid out -- never a renderer's private state -- and every
+ * check has a poison that damages the real page and must make that check fail.
+ *
+ *   POISON=c4 node checks/run.mjs      one poison; exits 0 only if c4 FAILED
+ *   node checks/run.mjs                the plain run; exits non-zero on any FAIL
+ *   node checks/run.mjs --all-poisons  every poison in turn, each must be seen
+ *
+ * APP_URL points at the preview server (default http://127.0.0.1:4173).
+ *
+ * Note on `window.__app.*`: the map, hood and timeline publish probes, and this
+ * file deliberately does NOT use the ones that report layout intentions
+ * (map.cells() returns the layout's own counts). Where a figure matters it is
+ * re-read from the DOM: cell heads are read as text, boxes as
+ * getBoundingClientRect. The one thing taken from the renderer is
+ * `.map-grid[data-mode]`, which is an attribute on the rendered element and is
+ * cross-checked against an independent re-derivation of the label rule (C5).
+ */
+import { chromium } from 'playwright';
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
+
+const APP = (process.env.APP_URL || 'http://127.0.0.1:4173').replace(/\/+$/, '') + '/';
+const POISON = (process.env.POISON || '').trim().toLowerCase();
+const SELF = fileURLToPath(import.meta.url);
+
+const NODE_FOCUS = 'aawsap';       /* start-here 1, the richest record on the board */
+const PATENT = '10144532';
+
+/* ---- reporting ---------------------------------------------------------- */
+const failsByCheck = new Map();
+let nFail = 0, nOk = 0;
+function check(id, cond, label, detail = '') {
+  const line = (cond ? 'ok    ' : 'FAIL  ') + label + (detail ? ' :: ' + detail : '');
+  console.log('  ' + line);
+  if (cond) nOk++;
+  else { nFail++; failsByCheck.set(id, (failsByCheck.get(id) || 0) + 1); }
+}
+function skip(label, why) { console.log('  skip  ' + label + ' :: ' + why); }
+const clip = (a, n = 5) => a.slice(0, n).join(', ') + (a.length > n ? ` … +${a.length - n}` : '');
+
+/* ---- geometry ----------------------------------------------------------- */
+function overlap(a, b) {
+  const ox = Math.min(a.x + a.w, b.x + b.w) - Math.max(a.x, b.x);
+  const oy = Math.min(a.y + a.h, b.y + b.h) - Math.max(a.y, b.y);
+  return ox > 0.5 && oy > 0.5;
+}
+function pairsOverlapping(boxes, cap = 6) {
+  const bad = [];
+  const s = boxes.slice().sort((p, q) => p.y - q.y);
+  for (let i = 0; i < s.length; i++) {
+    for (let k = i + 1; k < s.length; k++) {
+      if (s[k].y >= s[i].y + s[i].h) break;
+      if (overlap(s[i], s[k])) {
+        bad.push(`${s[i].id}×${s[k].id}`);
+        if (bad.length >= cap) return bad;
+      }
+    }
+  }
+  return bad;
+}
+
+/* ---- in-page collectors (stringified into the browser) ------------------ */
+/* Everything below runs in the page. They read the DOM and nothing else. */
+
+const IN_PAGE = {
+  /* the not-found page names the route it was given; that is how it is spotted */
+  page() {
+    const h2 = document.querySelector('.notice h2');
+    return {
+      text: document.body.innerText,
+      hrefs: Array.prototype.map.call(document.querySelectorAll('a[href]'), (a) => a.getAttribute('href')),
+      notfound: !!(h2 && /No such route/.test(h2.textContent || '')),
+      title: document.title,
+    };
+  },
+
+  /* Labels, measured against the natural width of their own text at their own
+     computed font. A label narrower than its text is a truncated label. */
+  labels(sel, boxSel) {
+    const meas = document.createElement('span');
+    meas.style.cssText = 'position:absolute;visibility:hidden;top:-9999px;left:0;white-space:pre';
+    document.body.appendChild(meas);
+    const out = [];
+    for (const el of document.querySelectorAll(sel)) {
+      const cs = getComputedStyle(el);
+      for (const k of ['fontFamily', 'fontSize', 'fontWeight', 'fontStyle', 'letterSpacing', 'textTransform', 'fontVariant']) {
+        meas.style[k] = cs[k];
+      }
+      meas.textContent = el.textContent || '';
+      const nat = meas.getBoundingClientRect().width;
+      const r = el.getBoundingClientRect();
+      const box = boxSel ? el.closest(boxSel) : null;
+      const br = box ? box.getBoundingClientRect() : null;
+      out.push({
+        text: el.textContent || '',
+        fs: cs.fontSize, to: cs.textOverflow, nat,
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+        bid: box ? (box.getAttribute('data-id') || box.getAttribute('href') || '') : '',
+        bx: br ? br.left + scrollX : null, by: br ? br.top + scrollY : null,
+        bw: br ? br.width : null, bh: br ? br.height : null,
+      });
+    }
+    meas.remove();
+    return out;
+  },
+
+  /* The map, entirely off the rendered DOM. */
+  map() {
+    const grid = document.querySelector('.map-grid');
+    const stat = document.querySelector('.map-stat');
+    const legend = document.querySelector('.map-legend');
+    const chips = Array.prototype.map.call(document.querySelectorAll('a.chip'), (c) => {
+      const r = c.getBoundingClientRect();
+      const lab = c.querySelector('.clabel');
+      const lr = lab ? lab.getBoundingClientRect() : null;
+      const hl = c.querySelector('.chl');
+      return {
+        id: c.getAttribute('data-id'), href: c.getAttribute('href'),
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+        label: lab ? lab.textContent : null, labW: lr ? lr.width : 0,
+        labIn: lr ? (lr.left >= r.left - 0.5 && lr.right <= r.right + 0.5) : false,
+        hl: hl ? hl.textContent : null, isHl: c.classList.contains('hl'),
+      };
+    });
+    const cells = Array.prototype.map.call(document.querySelectorAll('.cell[data-cell]'), (c) => {
+      const r = c.getBoundingClientRect();
+      const head = c.querySelector('.cell-head span');
+      return {
+        key: c.getAttribute('data-cell'), head: head ? head.textContent : null,
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+      };
+    });
+    const plus = Array.prototype.map.call(document.querySelectorAll('.plus'), (p) => {
+      const r = p.getBoundingClientRect();
+      return { text: p.textContent, x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height };
+    });
+    return {
+      mode: grid ? grid.getAttribute('data-mode') : null,
+      stat: stat ? stat.textContent : '', reason: stat ? stat.getAttribute('title') : '',
+      legendTop: legend ? legend.getBoundingClientRect().top + scrollY : null,
+      vh: window.innerHeight, vw: window.innerWidth,
+      chips, cells, plus,
+    };
+  },
+
+  /* The label rule of Design 2.2, re-derived here from the rendered font and
+     the viewport -- deliberately NOT from the renderer's layout object. */
+  rederive(nodes, cellsMap, bands, eras) {
+    const BAR = 40, STRIP = 30, HEAD = 42, LEGEND = 26, GUTTER = 152, PAD_R = 12;
+    const CHIP_GAP = 6, CELL_PAD = 6, EXTRA = 30, HL = 16;
+    const meas = document.createElement('span');
+    meas.style.cssText = 'position:absolute;visibility:hidden;top:-9999px;left:0;white-space:pre';
+    meas.style.font = '';
+    const probe = document.querySelector('.clabel') || document.querySelector('.hood-label');
+    const cs = probe ? getComputedStyle(probe) : null;
+    meas.style.fontFamily = cs ? cs.fontFamily : "'IBM Plex Mono', monospace";
+    meas.style.fontSize = cs ? cs.fontSize : '11px';
+    meas.style.fontWeight = cs ? cs.fontWeight : '400';
+    meas.style.letterSpacing = cs ? cs.letterSpacing : 'normal';
+    document.body.appendChild(meas);
+    const W = (s) => { meas.textContent = s; return meas.getBoundingClientRect().width; };
+
+    const byId = new Map(nodes.map((n) => [n.id, n]));
+    const colW = Math.floor((window.innerWidth - GUTTER - PAD_R) / 5);
+    const inner = colW - CELL_PAD * 2;
+    const availH = window.innerHeight - BAR - (STRIP + HEAD) - LEGEND - 4;
+
+    let tooWide = 0; const wideIds = [];
+    let totalRows = 0;
+    for (const b of bands) {
+      let mx = 1;
+      for (const e of eras) {
+        const ids = cellsMap[b + '.' + e] || [];
+        let rows = 0, used = 0;
+        for (const id of ids) {
+          const n = byId.get(id); if (!n) continue;
+          const w = Math.ceil(W(n.short)) + EXTRA + (n.hl ? HL : 0);
+          if (w > inner) { tooWide++; if (wideIds.length < 4) wideIds.push(n.short); continue; }
+          if (rows === 0) { rows = 1; used = w; continue; }
+          if (used + CHIP_GAP + w > inner) { rows++; used = w; } else { used += CHIP_GAP + w; }
+        }
+        if (rows > mx) mx = rows;
+      }
+      totalRows += mx;
+    }
+    meas.remove();
+    const minNeed = totalRows * 18 + 6 * (bands.length - 1);
+    return {
+      tooWide, wideIds, totalRows, minNeed, availH, colW,
+      fits: tooWide === 0 && minNeed <= availH,
+    };
+  },
+
+  /* The node page's claims and denials. */
+  node() {
+    const claims = Array.prototype.map.call(document.querySelectorAll('.claim'), (c) => {
+      const t = c.querySelector('.ct');
+      const s = c.querySelector('.csrc');
+      return {
+        tier: t ? t.textContent.trim() : '',
+        text: (c.querySelector('.ctext') || {}).textContent || '',
+        srcTag: s ? s.tagName : null,
+        srcHref: s ? s.getAttribute('href') : null,
+        srcTitle: s ? (s.getAttribute('title') || '') : '',
+        srcText: s ? (s.textContent || '') : '',
+      };
+    });
+    const head = document.querySelector('.sechead');
+    const denials = Array.prototype.map.call(document.querySelectorAll('.denials > .denial'), (d) => {
+      const a = d.querySelector('a[href^="#/n/"]');
+      return { other: a ? a.getAttribute('href').slice(4) : null, text: d.textContent };
+    });
+    return { claims, head: head ? head.textContent : '', denials };
+  },
+
+  /* Neighbourhood ring entries, from the DOM. */
+  hood() {
+    return Array.prototype.map.call(document.querySelectorAll('a.hood-n'), (a) => {
+      const r = a.getBoundingClientRect();
+      const m = a.querySelector('.mark');
+      const mr = m ? m.getBoundingClientRect() : null;
+      const lab = a.querySelector('.hood-label');
+      return {
+        id: (a.getAttribute('href') || '').slice(4),
+        hop: (a.className.match(/hop(\d)/) || [0, '?'])[1],
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+        mw: mr ? Math.round(mr.width) : 0, mh: mr ? Math.round(mr.height) : 0,
+        label: lab ? lab.textContent : null,
+      };
+    });
+  },
+
+  /* Timeline, from the rendered items and the rendered lane boxes. */
+  timeline() {
+    const packs = Array.prototype.map.call(document.querySelectorAll('.tl-pack'), (p) => {
+      const r = p.getBoundingClientRect();
+      return {
+        strand: p.getAttribute('data-strand'), era: p.getAttribute('data-era'),
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+      };
+    });
+    const items = Array.prototype.map.call(document.querySelectorAll('[data-tl-item]'), (el) => {
+      const r = el.getBoundingClientRect();
+      return {
+        id: el.getAttribute('data-id'), kind: el.getAttribute('data-kind'),
+        era: el.getAttribute('data-era'), strand: el.getAttribute('data-strand'),
+        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+      };
+    });
+    const open = document.querySelector('.tl-era.open');
+    return {
+      packs, items,
+      openEraSub: open ? (open.querySelector('.tl-era-sub') || {}).textContent || '' : '',
+    };
+  },
+
+  /* Home's start-here register, in the order it is drawn. */
+  starthere() {
+    return Array.prototype.map.call(document.querySelectorAll('.starthere .chips a.chip'), (a) => ({
+      id: (a.getAttribute('href') || '').slice(4),
+      n: (a.querySelector('.chip-n') || {}).textContent || '',
+      label: (a.querySelector('.label') || {}).textContent || '',
+    }));
+  },
+
+  /* Thread chain, in the order it is drawn. */
+  thread() {
+    return {
+      steps: Array.prototype.map.call(document.querySelectorAll('.th-step'), (s) => s.getAttribute('data-node')),
+      chips: Array.prototype.map.call(document.querySelectorAll('.tm-chip'), (c) => {
+        const r = c.getBoundingClientRect();
+        return {
+          id: c.getAttribute('data-node'), step: c.getAttribute('data-step'),
+          x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
+        };
+      }),
+    };
+  },
+};
+
+/* ---- the poisons -------------------------------------------------------- */
+/* Each damages the REAL page at one stop of the itinerary. None of them touches
+   a predicate, a fixture or a probe: they change what the browser has drawn. */
+const POISONS = {
+  c1: {
+    stops: ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'],
+    what: 'rewrites the first #/n/ href on every page to an id the board does not carry',
+    fn: async (page) => page.evaluate(() => {
+      const a = document.querySelector('a[href^="#/n/"]');
+      if (a) a.setAttribute('href', '#/n/ghost-node-not-on-the-board');
+    }),
+  },
+  c2: {
+    stops: ['map'],
+    what: 'truncates one real chip label: 9px, clipped to 24px, with an ellipsis',
+    fn: async (page) => page.evaluate(() => {
+      const l = document.querySelectorAll('a.chip .clabel')[3];
+      if (!l) return;
+      l.style.fontSize = '9px';
+      l.style.display = 'inline-block';
+      l.style.maxWidth = '24px';
+      l.style.overflow = 'hidden';
+      l.style.textOverflow = 'ellipsis';
+      l.textContent = l.textContent.slice(0, 6) + '…';
+    }),
+  },
+  c3: {
+    stops: ['map'],
+    what: 'empties one chip label, leaving its class mark drawn: an anonymous dot',
+    fn: async (page) => page.evaluate(() => {
+      const l = document.querySelectorAll('a.chip .clabel')[7];
+      if (l) l.textContent = '';
+    }),
+  },
+  c4: {
+    stops: ['map'],
+    what: 'moves one real chip onto another chip, so two labels share a box',
+    fn: async (page) => page.evaluate(() => {
+      const cs = document.querySelectorAll('a.chip');
+      if (cs.length < 12) return;
+      /* the chips are absolutely positioned in the grid, so copying one's
+         left/top onto another puts two real labels in one box */
+      cs[11].style.left = cs[10].style.left;
+      cs[11].style.top = cs[10].style.top;
+    }),
+  },
+  c5: {
+    stops: ['map'],
+    what: 'turns the CELLS control on at 1920, where every label fits',
+    fn: async (page) => {
+      const b = page.locator('button.ctl', { hasText: 'CELLS' }).first();
+      await b.click();
+      await page.waitForTimeout(700);
+    },
+  },
+  c6: {
+    stops: ['map1366'],
+    what: 'rewrites one cell head so its printed count is not its membership',
+    fn: async (page) => page.evaluate(() => {
+      const s = document.querySelector('.cell .cell-head span');
+      if (s) s.textContent = '99 nodes';
+    }),
+  },
+  c7: {
+    stops: ['thread:custody'],
+    what: 'repoints the last thread step at a node with no join to the one before it',
+    fn: async (page, ctx) => page.evaluate((id) => {
+      const steps = document.querySelectorAll('.th-step');
+      if (steps.length) steps[steps.length - 1].setAttribute('data-node', id);
+    }, ctx.unjoined),
+  },
+  c8: {
+    stops: ['node'],
+    what: 'strips the source from one claim row, leaving the claim standing',
+    fn: async (page) => page.evaluate(() => {
+      const s = document.querySelector('.claim .csrc');
+      if (!s) return;
+      s.removeAttribute('href'); s.removeAttribute('title'); s.textContent = '';
+    }),
+  },
+  c9: {
+    stops: ['home'],
+    what: 'adds a link to a path the URL scheme of section 2.1 does not carry',
+    fn: async (page) => page.evaluate(() => {
+      const a = document.createElement('a');
+      a.setAttribute('href', '#/dossier/aawsap');
+      a.textContent = 'dossier';
+      document.querySelector('#view').appendChild(a);
+    }),
+  },
+  c10: {
+    stops: ['hood0'],
+    what: 'draws a node on the start-here ring that the owner did not flag',
+    fn: async (page) => page.evaluate(() => {
+      const one = document.querySelector('a.hood-n');
+      if (!one) return;
+      const c = one.cloneNode(true);
+      c.setAttribute('href', '#/n/lockheed-martin');
+      one.parentElement.appendChild(c);
+    }),
+  },
+  c11: {
+    stops: ['home'],
+    what: 'swaps two numbers in the start-here register',
+    fn: async (page) => page.evaluate(() => {
+      const ns = document.querySelectorAll('.starthere .chips a.chip .chip-n');
+      if (ns.length < 3) return;
+      const t = ns[1].textContent; ns[1].textContent = ns[2].textContent; ns[2].textContent = t;
+    }),
+  },
+  c12: {
+    stops: ['map'],
+    what: 'grows every chip by its own degree, so size encodes connectedness',
+    fn: async (page, ctx) => page.evaluate((deg) => {
+      for (const c of document.querySelectorAll('a.chip')) {
+        const d = deg[c.getAttribute('data-id')] || 0;
+        c.style.height = (16 + Math.min(10, Math.round(d / 6))) + 'px';
+      }
+    }, ctx.deg),
+  },
+  c13: {
+    stops: ['node'],
+    what: 'drops one denial row from the node page, leaving it on the record',
+    fn: async (page) => page.evaluate(() => {
+      const d = document.querySelector('.denial');
+      if (d) d.remove();
+    }),
+  },
+  c14: {
+    stops: ['home'],
+    what: 'adds the Google Fonts stylesheet the spec forbids, and the page fetches it',
+    fn: async (page) => {
+      await page.evaluate(() => {
+        const l = document.createElement('link');
+        l.rel = 'stylesheet';
+        l.href = 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap';
+        document.head.appendChild(l);
+      });
+      await page.waitForTimeout(900);
+    },
+  },
+  c15: {
+    stops: ['timeline'],
+    what: 'moves one event chip into another strand lane',
+    fn: async (page) => page.evaluate(() => {
+      const packs = document.querySelectorAll('.tl-pack');
+      if (packs.length < 2) return;
+      const chip = packs[0].querySelector('.tl-chip');
+      if (chip) packs[1].appendChild(chip);
+    }),
+  },
+  c16: {
+    stops: ['map'],
+    what: 'prints one of the mockup placeholder strings into the page',
+    fn: async (page) => page.evaluate(() => {
+      const d = document.createElement('div');
+      d.textContent = '[placeholder: the band rule is not in the extract]';
+      document.querySelector('#view').appendChild(d);
+    }),
+  },
+};
+
+/* ---- the run ------------------------------------------------------------ */
+
+async function main() {
+  if (POISON && !POISONS[POISON]) {
+    console.error('unknown poison: ' + POISON + '. One of ' + Object.keys(POISONS).join(', '));
+    process.exit(2);
+  }
+
+  /* the board's own data, read straight off the server the browser is reading */
+  const jget = async (p) => {
+    const r = await fetch(APP + p);
+    if (!r.ok) throw new Error(p + ' -> HTTP ' + r.status);
+    return r.json();
+  };
+  let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile;
+  try {
+    [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile] =
+      await Promise.all([
+        jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
+        jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
+        jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
+      ]);
+  } catch (e) {
+    console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message + ').');
+    console.error('Run `npm run build` then `npm run preview` in app/, or set APP_URL.');
+    process.exit(2);
+  }
+
+  const ids = new Set(index.nodes.map((n) => n.id));
+  const deg = Object.fromEntries(index.nodes.map((n) => [n.id, n.deg || 0]));
+  const flags = highlights.flags.slice().sort((a, b) => a.rank - b.rank);
+  const threads = threadsFile.threads || threadsFile;
+  const threadIds = new Set(threads.map((t) => t.id));
+  const patentNums = new Set((patentsFile.patents || []).map((p) => String(p.number).replace(/[^0-9]/g, '')));
+
+  /* adjacency, once, from the sourced edge list */
+  const adj = new Map();
+  const put = (a, b) => { let s = adj.get(a); if (!s) { s = new Set(); adj.set(a, s); } s.add(b); };
+  for (const e of edges) { put(e.a, e.b); put(e.b, e.a); }
+  const joined = (a, b) => {
+    if ((adj.get(a) || new Set()).has(b)) return 'direct';
+    if ((mapData.summarised || []).some((s) => (s.a === a && s.b === b) || (s.a === b && s.b === a))) return 'derived';
+    for (const x of adj.get(a) || []) if ((adj.get(b) || new Set()).has(x)) return 'derived';
+    return null;
+  };
+  /* a node with no join at all to the last custody step, for the c7 poison */
+  const custody = threads.find((t) => t.id === 'custody');
+  const lastStep = custody ? custody.steps[custody.steps.length - 1].node : null;
+  const unjoined = index.nodes.map((n) => n.id)
+    .find((id) => id !== lastStep && !joined(lastStep, id)) || 'no-such-node';
+
+  const ctx = { deg, unjoined };
+
+  /* ---- browser ---------------------------------------------------------- */
+  const browser = await chromium.launch({ args: ['--no-sandbox', '--disable-dev-shm-usage'] });
+  const page = await browser.newPage({ viewport: { width: 1920, height: 1080 } });
+  const requests = [];
+  const pageErrors = [];
+  page.on('request', (r) => requests.push(r.url()));
+  page.on('pageerror', (e) => pageErrors.push(e.message.slice(0, 160)));
+
+  const S = {};                       /* stop id -> snapshot                  */
+  let current = null;
+  async function stop(id, hash, settle = 900, extra = null) {
+    if (current === null) await page.goto(APP + hash, { waitUntil: 'load' });
+    else if (current !== hash) await page.evaluate((h) => { location.hash = h; }, hash);
+    current = hash;
+    await page.waitForTimeout(settle);
+    if (extra) await extra(page);
+    if (POISONS[POISON] && POISONS[POISON].stops.includes(id)) await POISONS[POISON].fn(page, ctx);
+    const s = await page.evaluate(`(function ${IN_PAGE.page})()`);
+    S[id] = s;
+    return s;
+  }
+  const ev = (fn, ...args) => page.evaluate(`(function ${fn})(${args.map((a) => JSON.stringify(a)).join(',')})`);
+
+  /* ---- itinerary -------------------------------------------------------- */
+  await stop('home', '#/', 1600);
+  S.home.starthere = await ev(IN_PAGE.starthere);
+
+  await stop('node', '#/n/' + NODE_FOCUS, 1200);
+  S.node.node = await ev(IN_PAGE.node);
+
+  await stop('map', '#/map', 2400);
+  S.map.map = await ev(IN_PAGE.map);
+  S.map.labels = await ev(IN_PAGE.labels, 'a.chip .clabel', 'a.chip');
+  S.map.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
+    mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+
+  await stop('hood0', '#/hood', 2000);
+  S.hood0.hood = await ev(IN_PAGE.hood);
+
+  await stop('hood3', '#/hood/' + NODE_FOCUS, 2200, async (p) => {
+    const b = p.locator('button.hood-b', { hasText: '3 HOPS' }).first();
+    if (await b.count()) { await b.click(); await p.waitForTimeout(2200); }
+  });
+  S.hood3.hood = await ev(IN_PAGE.hood);
+  S.hood3.labels = await ev(IN_PAGE.labels, '.hood-label', 'a.hood-n');
+
+  /* A poison run only has to prove its own check fails, so it walks the shortest
+     itinerary that still reaches that check. Only C7 needs all eight threads. */
+  const walkAll = !POISON || POISON === 'c7';
+  for (const t of (walkAll ? threads : threads.filter((x) => x.id === 'custody'))) {
+    const id = 'thread:' + t.id;
+    await stop(id, '#/t/' + t.id, 1400);
+    S[id].thread = await ev(IN_PAGE.thread);
+  }
+
+  await stop('timeline', '#/timeline', 2400);
+  S.timeline.timeline = await ev(IN_PAGE.timeline);
+
+  await stop('patents', '#/patents/' + PATENT, 2000);
+  await stop('evidence', '#/evidence', 3200);
+  await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
+
+  /* the map again, at the width Design says is below the label floor */
+  await page.setViewportSize({ width: 1366, height: 768 });
+  current = null;
+  await stop('map1366', '#/map', 2600);
+  S.map1366.map = await ev(IN_PAGE.map);
+  S.map1366.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
+    mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+  await page.setViewportSize({ width: 1920, height: 1080 });
+
+  /* ---- C9's route sweep ------------------------------------------------- */
+  const ROUTES = [
+    '#/', '#/n/' + NODE_FOCUS, '#/n/' + NODE_FOCUS + '/map', '#/n/' + NODE_FOCUS + '/hood',
+    '#/hood/' + NODE_FOCUS, '#/hood', '#/map', '#/map?cell=oversight.2017-2026',
+    '#/t/custody', '#/t/custody/map', '#/timeline', '#/timeline?era=3',
+    '#/timeline?scope=n:' + NODE_FOCUS, '#/timeline?scope=t:custody',
+    '#/patents/' + PATENT, '#/patents/' + PATENT + '?sheet=2',
+    '#/evidence?tier=1&cls=person&cluster=other&denied=1&open=1',
+    '#/report/n/' + NODE_FOCUS, '#/report/t/custody',
+  ];
+  const deadRoutes = [];
+  const sweepRoutes = !POISON || POISON === 'c9';
+  current = null;
+  for (const r of (sweepRoutes ? ROUTES : [])) {
+    await page.goto(APP + r, { waitUntil: 'load' });
+    await page.waitForTimeout(r.startsWith('#/evidence') ? 2600 : 1100);
+    const nf = await page.evaluate(`(function ${IN_PAGE.page})()`);
+    if (nf.notfound) deadRoutes.push(r);
+    /* the swept routes are screens too: C9's href scan and C16's placeholder
+       scan both walk everything in S, so the query-string states count. */
+    if (!S[r]) S['route ' + r] = nf;
+  }
+
+  await browser.close();
+
+  /* ====================================================================== */
+  /* the assertions                                                          */
+  /* ====================================================================== */
+
+  console.log('\n  ' + (POISON ? 'POISON=' + POISON + ' — ' + POISONS[POISON].what : 'clean run')
+    + '  ·  ' + APP + '\n');
+
+  const C1_PAGES = ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'];
+  const nodeIdsOn = (id) => (S[id] ? S[id].hrefs : [])
+    .filter((h) => h && h.startsWith('#/n/'))
+    .map((h) => h.slice(4).replace(/\/(map|hood)$/, ''));
+
+  /* ---- C1 --------------------------------------------------------------- */
+  {
+    let total = 0; const bad = [];
+    for (const p of C1_PAGES) {
+      const list = p === 'evidence' ? nodeIdsOn(p).slice(0, 60) : nodeIdsOn(p);
+      total += list.length;
+      for (const id of list) if (!ids.has(id)) bad.push(p + ':' + id);
+    }
+    check('c1', bad.length === 0 && total > 0,
+      'C1  every #/n/<id> on the eight screens is an id in index.json',
+      `${total} hrefs over ${C1_PAGES.length} screens, ${bad.length} unknown` + (bad.length ? ' — ' + clip(bad) : ''));
+    const empty = C1_PAGES.filter((p) => nodeIdsOn(p).length === 0);
+    check('c1', empty.length === 0, 'C1  every one of the eight screens actually renders node links',
+      empty.length ? 'no #/n/ href on: ' + empty.join(', ') : 'all eight carry at least one');
+  }
+
+  /* ---- C2 --------------------------------------------------------------- */
+  {
+    const all = [...S.map.labels.map((l) => ({ ...l, where: 'map' })),
+                 ...S.hood3.labels.map((l) => ({ ...l, where: 'hood' }))];
+    const sizes = [...new Set(all.map((l) => l.fs))];
+    check('c2', sizes.length === 1, 'C2  one label size on the map and the neighbourhood',
+      `${all.length} labels at ${sizes.join(', ')}`);
+    const ell = all.filter((l) => l.to === 'ellipsis' || /[…]|\.\.\.$/.test(l.text));
+    check('c2', ell.length === 0, 'C2  no text-overflow and no ellipsis character in any label',
+      ell.length ? clip(ell.map((l) => l.where + ':' + l.text)) : `${all.length} labels clean`);
+    const narrow = all.filter((l) => l.w + 0.5 < l.nat);
+    check('c2', narrow.length === 0, 'C2  no label box narrower than its own text at its own font',
+      narrow.length ? clip(narrow.map((l) => `${l.text} ${l.w.toFixed(0)}<${l.nat.toFixed(0)}`))
+        : `${all.length} labels measured against their natural width`);
+    const clipped = S.map.map.chips.filter((c) => c.label && !c.labIn);
+    check('c2', clipped.length === 0, 'C2  every chip label sits inside its own chip',
+      clipped.length ? clip(clipped.map((c) => c.id)) : `${S.map.map.chips.length} chips`);
+  }
+
+  /* ---- C3 --------------------------------------------------------------- */
+  {
+    const short = new Map(mapData.nodes.map((n) => [n.id, n.short]));
+    const anon = S.map.map.chips.filter((c) => !c.label || !c.label.trim() || c.labW <= 0);
+    check('c3', anon.length === 0, 'C3  no chip is drawn on the map without a rendered label',
+      anon.length ? clip(anon.map((c) => c.id || '(no id)')) : `${S.map.map.chips.length} chips, all named`);
+    const wrong = S.map.map.chips.filter((c) => c.label && short.has(c.id) && c.label !== short.get(c.id));
+    check('c3', wrong.length === 0, 'C3  every chip label is the board\'s own short label for that node',
+      wrong.length ? clip(wrong.map((c) => c.id)) : 'matched against map.json');
+    const ringAnon = S.hood3.hood.filter((e) => !e.label || !e.label.trim());
+    check('c3', ringAnon.length === 0, 'C3  no ring entry is drawn without a rendered label',
+      ringAnon.length ? clip(ringAnon.map((e) => e.id)) : `${S.hood3.hood.length} ring entries, all named`);
+  }
+
+  /* ---- C4 --------------------------------------------------------------- */
+  {
+    const cases = [
+      ['map, label mode 1920', S.map.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
+      ['map, cell mode 1366', S.map1366.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
+      ['neighbourhood ring', S.hood3.hood],
+      ['timeline chips', S.timeline.timeline.items.filter((i) => i.kind === 'chip')],
+      ['thread small map', S['thread:custody'].thread.chips],
+    ];
+    for (const [name, boxes] of cases) {
+      const bad = pairsOverlapping(boxes);
+      check('c4', bad.length === 0, 'C4  no two label boxes intersect · ' + name,
+        bad.length ? `${bad.length}+ overlapping pairs — ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
+    }
+  }
+
+  /* ---- C5 --------------------------------------------------------------- */
+  {
+    for (const [w, id] of [[1920, 'map'], [1366, 'map1366']]) {
+      const m = S[id].map, d = S[id].rederive;
+      const want = d.fits ? 'label' : 'cell';
+      check('c5', m.mode === want, `C5  map mode at ${w} is the one the label rule allows`,
+        `mode ${m.mode}, re-derived ${want} (${d.tooWide} labels wider than a ${d.colW}px column, ` +
+        `${d.totalRows} rows need ${d.minNeed}px of ${d.availH}px)`);
+      if (m.mode === 'label') {
+        const bottom = Math.max(...m.chips.map((c) => c.y + c.h));
+        check('c5', bottom <= m.legendTop + 0.5, `C5  label mode at ${w} fits the viewport height`,
+          `lowest chip ends at ${bottom.toFixed(0)}, legend starts at ${(m.legendTop || 0).toFixed(0)}, viewport ${m.vh}`);
+      }
+    }
+  }
+
+  /* ---- C6 --------------------------------------------------------------- */
+  {
+    const m = S.map1366.map;
+    const inside = (b, cell) => {
+      const cx = b.x + b.w / 2, cy = b.y + b.h / 2;
+      return cx >= cell.x && cx <= cell.x + cell.w && cy >= cell.y && cy <= cell.y + cell.h;
+    };
+    const badCount = [], badPlus = [];
+    let checked = 0;
+    for (const cell of m.cells) {
+      const members = (mapData.cells[cell.key] || []).length;
+      if (cell.head !== null) {
+        checked++;
+        const printed = Number((cell.head.match(/(\d+)/) || [])[1]);
+        if (printed !== members) badCount.push(`${cell.key} shows ${printed}, holds ${members}`);
+      }
+      const shown = m.chips.filter((c) => inside(c, cell)).length;
+      const pl = m.plus.filter((p) => inside(p, cell));
+      const printedPlus = pl.length ? Number((pl[0].text.match(/(\d+)/) || [])[1]) : 0;
+      if (printedPlus !== members - shown) {
+        badPlus.push(`${cell.key} +${printedPlus} but ${members}-${shown}=${members - shown}`);
+      }
+    }
+    check('c6', badCount.length === 0 && checked > 0,
+      'C6  every cell head prints its own membership from map.json',
+      badCount.length ? clip(badCount, 3) : `${checked} cell heads at 1366`);
+    check('c6', badPlus.length === 0, 'C6  every +N equals members minus names drawn',
+      badPlus.length ? clip(badPlus, 3) : `${m.cells.length} cells, ${m.plus.length} +N chips, ${m.chips.length} names`);
+  }
+
+  /* ---- C7 --------------------------------------------------------------- */
+  {
+    const bad = []; let pairs = 0; let walked = 0;
+    for (const t of threads) {
+      if (!S['thread:' + t.id]) continue;
+      walked++;
+      const steps = (S['thread:' + t.id].thread || {}).steps || [];
+      for (let i = 1; i < steps.length; i++) {
+        pairs++;
+        if (!joined(steps[i - 1], steps[i])) bad.push(`${t.id}: ${steps[i - 1]} → ${steps[i]}`);
+      }
+    }
+    check('c7', bad.length === 0 && pairs > 0,
+      'C7  every rendered thread step joins the last by an edge or a shared member',
+      bad.length ? clip(bad, 3) : `${pairs} consecutive pairs over ${walked} of ${threads.length} threads, all joined`);
+  }
+
+  /* ---- C8 --------------------------------------------------------------- */
+  {
+    const n = S.node.node;
+    const noSrc = n.claims.filter((c) => {
+      if (c.srcTag === 'A' && c.srcHref) return false;
+      const cite = (c.srcTitle || '').trim() || (c.srcText || '').trim();
+      return !cite || /^no source recorded$/i.test(cite);
+    });
+    check('c8', noSrc.length === 0 && n.claims.length > 0,
+      'C8  every claim row on #/n/' + NODE_FOCUS + ' carries a source link or citation text',
+      noSrc.length ? `${noSrc.length} of ${n.claims.length} with neither — ` + clip(noSrc.map((c) => c.text.slice(0, 40)), 2)
+        : `${n.claims.length} claims, ${n.claims.filter((c) => c.srcTag === 'A').length} as links`);
+    const m = n.head.match(/Claims\s*·?\s*(\d+)[\s\S]*Tier 1 · (\d+)[\s\S]*Tier 2 · (\d+)[\s\S]*Tier 3 · (\d+)/);
+    const tot = m ? Number(m[1]) : NaN, sum = m ? Number(m[2]) + Number(m[3]) + Number(m[4]) : NaN;
+    check('c8', !!m && tot === sum && tot === n.claims.length,
+      'C8  the claims header T1+T2+T3 equals the claim count and the rows drawn',
+      m ? `${m[2]}+${m[3]}+${m[4]}=${sum}, header says ${tot}, ${n.claims.length} rows`
+        : 'the claims header could not be parsed: ' + n.head.slice(0, 60));
+  }
+
+  /* ---- C9 --------------------------------------------------------------- */
+  {
+    if (!sweepRoutes) skip('C9  every route in the spec section 3 scheme resolves',
+      'not walked under POISON=' + POISON + '; the c9 run walks all ' + ROUTES.length);
+    else check('c9', deadRoutes.length === 0, 'C9  every route in the spec section 3 scheme resolves',
+      deadRoutes.length ? deadRoutes.join(', ') : `${ROUTES.length} routes, none reached the not-found page`);
+
+    /* the URL scheme of Design 2.1, re-implemented here so the check does not
+       borrow the router's own opinion of what a route is */
+    const ID = /^[a-z0-9][a-z0-9._-]*$/;
+    const shape = (h) => {
+      const raw = h.replace(/^#/, '');
+      const qi = raw.indexOf('?');
+      const p = (qi < 0 ? raw : raw.slice(0, qi)).replace(/\/+$/, '').split('/').filter(Boolean);
+      if (!p.length) return true;
+      if (p[0] === 'n') return ID.test(p[1] || '') && (p.length === 2 || (p.length === 3 && /^(map|hood)$/.test(p[2])));
+      if (p[0] === 'hood') return p.length === 1 || (p.length === 2 && ID.test(p[1]));
+      if (p[0] === 'map') return p.length === 1;
+      if (p[0] === 't') return ID.test(p[1] || '') && (p.length === 2 || (p.length === 3 && p[2] === 'map'));
+      if (p[0] === 'timeline') return p.length === 1;
+      if (p[0] === 'patents') return p.length === 2 && /^[0-9][0-9,]*$/.test(p[1]);
+      if (p[0] === 'evidence') return p.length === 1;
+      if (p[0] === 'report') return p.length === 3 && /^[nt]$/.test(p[1]) && ID.test(p[2]);
+      return false;
+    };
+    const seen = new Set(), offScheme = [], deadIds = [];
+    for (const k of Object.keys(S)) {
+      for (const h of S[k].hrefs || []) {
+        if (!h || !h.startsWith('#')) continue;
+        if (seen.has(h)) continue;
+        seen.add(h);
+        if (!shape(h)) { offScheme.push(k + ':' + h); continue; }
+        const p = h.replace(/^#\//, '').split(/[/?]/);
+        if (p[0] === 't' && !threadIds.has(p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 'patents' && !patentNums.has(p[1].replace(/[^0-9]/g, ''))) deadIds.push(k + ':' + h);
+      }
+    }
+    check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
+      offScheme.length ? clip(offScheme, 4) : `${seen.size} distinct hrefs over ${Object.keys(S).length} screens`);
+    check('c9', deadIds.length === 0, 'C9  every rendered #/t/ and #/patents/ link names something the board carries',
+      deadIds.length ? `${deadIds.length} dead — ` + clip(deadIds, 5) : 'all resolve to a thread or a patent');
+  }
+
+  /* ---- C10 -------------------------------------------------------------- */
+  {
+    const drawn = S.hood0.hood.map((e) => e.id);
+    const want = flags.map((f) => f.id);
+    const extra = drawn.filter((d) => !want.includes(d));
+    const missing = want.filter((w) => !drawn.includes(w));
+    check('c10', extra.length === 0 && missing.length === 0 && drawn.length === want.length,
+      'C10 #/hood draws exactly the ' + want.length + ' start-here nodes and nothing else',
+      extra.length || missing.length ? `extra ${clip(extra, 3)} · missing ${clip(missing, 3)}`
+        : `${drawn.length} entries, set-equal to highlights.json`);
+
+    let f = new Set([NODE_FOCUS]);
+    const allowed = new Set([NODE_FOCUS]);
+    for (let hop = 1; hop <= 3; hop++) {
+      const next = new Set();
+      for (const a of f) for (const b of adj.get(a) || []) if (!allowed.has(b)) { allowed.add(b); next.add(b); }
+      f = next;
+    }
+    for (const s of mapData.summarised || []) {
+      if (s.a === NODE_FOCUS) allowed.add(s.b);
+      if (s.b === NODE_FOCUS) allowed.add(s.a);
+    }
+    const over = S.hood3.hood.map((e) => e.id).filter((id) => !allowed.has(id));
+    check('c10', over.length === 0,
+      'C10 the 3-hop neighbourhood never leaves the hop 1∪2∪3 sets of edges.json',
+      over.length ? `${over.length} outside — ` + clip(over, 4)
+        : `${S.hood3.hood.length} drawn, all inside a set of ${allowed.size}`);
+  }
+
+  /* ---- C11 -------------------------------------------------------------- */
+  {
+    const home = S.home.starthere || [];
+    const wantIds = flags.map((f) => f.id).join('|');
+    check('c11', home.map((c) => c.id).join('|') === wantIds,
+      'C11 Home\'s start-here register is highlights.json, in rank order',
+      `${home.length} chips: ` + (home.map((c) => c.id).join('|') === wantIds ? 'order matches'
+        : 'drawn ' + clip(home.map((c) => c.id), 4)));
+    const numBad = home.filter((c, i) => flags[i] && Number(c.n) !== flags[i].rank)
+      .map((c) => c.id + ' numbered ' + c.n);
+    check('c11', numBad.length === 0, 'C11 every Home start-here number is the owner\'s rank',
+      numBad.length ? clip(numBad, 4) : `${home.length} numbers match highlights.json`);
+    const mapHl = S.map.map.chips.filter((c) => c.isHl);
+    const mapBad = mapHl.filter((c) => {
+      const f = flags.find((x) => x.id === c.id);
+      return !f || String(f.rank) !== String(c.hl);
+    });
+    check('c11', mapHl.length === flags.length && mapBad.length === 0,
+      'C11 the map\'s numbered chips are the same register with the same numbers',
+      mapBad.length || mapHl.length !== flags.length
+        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree — ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
+        : `${mapHl.length} amber chips, numbers match`);
+  }
+
+  /* ---- C12 -------------------------------------------------------------- */
+  {
+    const chips = S.map.map.chips;
+    const heights = [...new Set(chips.map((c) => Math.round(c.h)))];
+    check('c12', heights.length === 1, 'C12 every map chip is the same height, whatever its degree',
+      `${chips.length} chips at ${heights.join(', ')}px` +
+      (heights.length > 1 ? ' — degree of the tallest: ' +
+        clip(chips.filter((c) => Math.round(c.h) === Math.max(...heights)).map((c) => c.id + '/' + deg[c.id]), 3) : ''));
+    /* width is a pure function of the label: chip = ceil(text) + 30 (+16 numbered).
+       If anything else got into it -- degree, tier, claims -- the residual moves. */
+    const resid = chips.map((c) => ({
+      id: c.id, r: c.w - c.labW - (c.isHl ? 46 : 30),
+    })).filter((x) => x.r < -0.5 || x.r > 1.5);
+    check('c12', resid.length === 0, 'C12 chip width is its text plus one constant, nothing else',
+      resid.length ? `${resid.length} chips off the constant — ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
+        : `${chips.length} chips within [0,1.5]px of text+${'30/46'}`);
+    const marks = [...new Set(S.hood3.hood.map((e) => e.mw + '×' + e.mh))];
+    check('c12', marks.length === 1, 'C12 every ring mark is the same size',
+      `${S.hood3.hood.length} marks at ${marks.join(', ')}`);
+    const tmw = [...new Set(S['thread:custody'].thread.chips.map((c) => Math.round(c.w) + '×' + Math.round(c.h)))];
+    check('c12', tmw.length === 1, 'C12 every thread small-map chip is the same size',
+      `${S['thread:custody'].thread.chips.length} chips at ${tmw.join(', ')}`);
+  }
+
+  /* ---- C13 -------------------------------------------------------------- */
+  {
+    const want = (focusRec.denials || []).map((d) => (d.by.id === NODE_FOCUS ? d.of.id : d.by.id)).sort();
+    const got = S.node.node.denials.map((d) => d.other).sort();
+    check('c13', want.length === got.length && want.every((x, i) => x === got[i]),
+      'C13 the denial rows on #/n/' + NODE_FOCUS + ' are exactly its denialPairs',
+      `page ${got.length} [${got.join(', ')}] · record ${want.length} [${want.join(', ')}]`);
+  }
+
+  /* ---- C14 -------------------------------------------------------------- */
+  {
+    const origin = new URL(APP).origin;
+    const worker = (analystFile.worker || '').replace(/\/+$/, '');
+    const bad = [];
+    for (const u of requests) {
+      if (/^(data|blob):/.test(u)) continue;
+      if (worker && u.startsWith(worker + '/api/analyst')) continue;
+      if (!u.startsWith(origin)) { bad.push(u); continue; }
+      const p = new URL(u).pathname;
+      if (p === '/' || p === '/index.html') continue;
+      if (/^\/(data|fonts|patents|assets)\//.test(p)) continue;
+      if (/^\/api\/analyst(\/|$)/.test(p)) continue;      /* the analyst, same-origin first */
+      bad.push(u);
+    }
+    const uniq = [...new Set(bad)];
+    check('c14', uniq.length === 0,
+      'C14 every runtime request is /data /fonts /patents /assets or the analyst',
+      uniq.length ? `${uniq.length} off-list — ` + clip(uniq.map((u) => u.slice(0, 70)), 3)
+        : `${requests.length} requests over ${Object.keys(S).length} screens, all on the list`);
+    check('c14', pageErrors.length === 0, 'C14 no uncaught page error while the screens were walked',
+      pageErrors.length ? clip(pageErrors, 2) : 'clean');
+  }
+
+  /* ---- C15 -------------------------------------------------------------- */
+  {
+    const t = S.timeline.timeline;
+    const byEv = new Map(tlEvents.map((e) => [e.id, e]));
+    const packOf = new Map(t.packs.map((p) => [p.strand + '|' + p.era, p]));
+    const wrongLane = [], wrongEra = [], outside = [];
+    for (const it of t.items) {
+      const e = byEv.get(it.id);
+      if (!e) { wrongEra.push(it.id + ' (not in timeline.json)'); continue; }
+      if (e.strand !== it.strand) wrongLane.push(`${it.id} drawn in ${it.strand}, is ${e.strand}`);
+      if (String(e.era) !== String(it.era)) wrongEra.push(`${it.id} drawn in era ${it.era}, is ${e.era}`);
+      const p = packOf.get(e.strand + '|' + e.era);
+      if (!p) { outside.push(it.id + ' (no lane for ' + e.strand + '/' + e.era + ')'); continue; }
+      const cx = it.x + it.w / 2, cy = it.y + it.h / 2;
+      if (cx < p.x - 1 || cx > p.x + p.w + 1 || cy < p.y - 1 || cy > p.y + p.h + 1) {
+        outside.push(`${it.id} at ${cx.toFixed(0)},${cy.toFixed(0)} outside ${e.strand} lane`);
+      }
+    }
+    check('c15', wrongLane.length === 0 && wrongEra.length === 0,
+      'C15 every timeline item carries the era and strand its event has in timeline.json',
+      wrongLane.length + wrongEra.length ? clip([...wrongLane, ...wrongEra], 3) : `${t.items.length} items`);
+    check('c15', outside.length === 0, 'C15 every item is drawn inside its own era column and strand lane',
+      outside.length ? clip(outside, 3) : `${t.items.length} items inside ${t.packs.length} lane boxes`);
+    const openEra = t.packs.length ? t.packs[0].era : null;
+    const want = tlEvents.filter((e) => String(e.era) === String(openEra)).length;
+    const printed = Number((t.openEraSub.match(/(\d+)\s+events/) || [])[1]);
+    check('c15', t.items.length === want && printed === want,
+      'C15 the open era draws a chip or a mark for every one of its events',
+      `era ${openEra}: ${t.items.length} drawn (${t.items.filter((i) => i.kind === 'chip').length} chips, ` +
+      `${t.items.filter((i) => i.kind === 'mark').length} marks), header says ${printed}, timeline.json has ${want}`);
+  }
+
+  /* ---- C16 -------------------------------------------------------------- */
+  {
+    const hits = [];
+    for (const k of Object.keys(S)) {
+      const m = (S[k].text || '').match(new RegExp('.{0,30}(\\[placeholder|not in the extract).{0,40}', 'i'));
+      if (m) hits.push(k + ': …' + m[0].replace(/\s+/g, ' ').trim() + '…');
+    }
+    check('c16', hits.length === 0, 'C16 no mockup placeholder string survives into any rendered page',
+      hits.length ? `${hits.length} screen(s) — ` + clip(hits, 2) : `${Object.keys(S).length} screens clean`);
+  }
+
+  /* ---- verdict ---------------------------------------------------------- */
+  console.log('');
+  if (POISON) {
+    const seen = (failsByCheck.get(POISON) || 0) > 0;
+    const line = (seen ? 'ok    ' : 'FAIL  ') + `POISON=${POISON} the ${POISON.toUpperCase()} check sees the poisoned page`
+      + ' :: ' + POISONS[POISON].what + ' → '
+      + (seen ? `${failsByCheck.get(POISON)} of its assertions failed` : 'every assertion still passed, so the check is blind');
+    console.log('  ' + line);
+    const others = [...failsByCheck.keys()].filter((k) => k !== POISON);
+    if (others.length) console.log('  note  other checks also failing on this build: ' + others.join(', '));
+    console.log('\n' + (seen ? `POISON ${POISON} SEEN` : `POISON ${POISON} NOT SEEN`));
+    process.exit(seen ? 0 : 1);
+  }
+  console.log(`  ${nOk} passed, ${nFail} failed`);
+  console.log('\n' + (nFail ? `APP CHECKS FAILED (${nFail}) — ` + [...failsByCheck.keys()].join(', ')
+    : 'APP CHECKS PASSED'));
+  process.exit(nFail ? 1 : 0);
+}
+
+/* ---- --all-poisons: every poison in turn, each must fail its own check --- */
+function allPoisons() {
+  const names = Object.keys(POISONS);
+  const bad = [];
+  for (const n of names) {
+    const r = spawnSync(process.execPath, [SELF], {
+      env: { ...process.env, POISON: n }, encoding: 'utf8',
+    });
+    const out = (r.stdout || '') + (r.stderr || '');
+    const line = out.split('\n').filter((l) => /POISON=/.test(l)).pop() || '(no verdict line)';
+    console.log(line.trim());
+    if (r.status !== 0) bad.push(n);
+  }
+  console.log('\n' + (bad.length
+    ? `POISON SWEEP FAILED (${bad.length} of ${names.length} blind): ` + bad.join(', ')
+    : `POISON SWEEP PASSED — all ${names.length} poisons were seen by their own check`));
+  process.exit(bad.length ? 1 : 0);
+}
+
+if (process.argv.includes('--all-poisons')) allPoisons();
+else main().catch((e) => { console.error('HARNESS ERROR', e.stack || e.message); process.exit(2); });

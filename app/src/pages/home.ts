@@ -61,11 +61,19 @@ export async function renderHome(view: HTMLElement): Promise<void> {
   /* ---- the six entry paths --------------------------------------------- */
   if (map.entryPaths.length) {
     const paths = h('div', { class: 'paths' });
+    /* An entry path is the L0 model's grouping (custody, denial, foreign,
+       mechanism, money, witness); a thread is an authored chain in
+       research/threads.json. Three of the six have a thread of the same subject
+       and link to it; the other three open the map, because a link to a thread
+       that does not exist landed four of six cards on the not-found page
+       (check C9, 3 September 2026). */
+    const THREAD_FOR: Record<string, string> = { custody: 'custody', money: 'money', denial: 'denials' };
     for (const p of map.entryPaths) {
-      paths.append(h('a', { class: 'path', href: '#/t/' + p.id },
+      const t = THREAD_FOR[p.id];
+      paths.append(h('a', { class: 'path', href: t ? '#/t/' + t : '#/map' },
         h('div', { class: 'path-head' },
           h('span', { class: 'path-title' }, p.label),
-          h('span', { class: 'path-go' }, 'THREAD ›'),
+          h('span', { class: 'path-go' }, t ? 'THREAD ›' : 'MAP ›'),
         ),
         h('div', { class: 'path-blurb' }, p.blurb),
         h('div', { class: 'path-counts' }, n(p.total) + ' nodes · ' + n(p.onMap) + ' on the map'),
